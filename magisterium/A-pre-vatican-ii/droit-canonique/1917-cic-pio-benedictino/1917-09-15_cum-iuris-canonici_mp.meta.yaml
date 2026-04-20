@@ -1,0 +1,23 @@
+incipit: Cum Iuris Canonici
+titre_fr: Motu proprio instituant la commission d'interprétation authentique du CIC
+auteur: Benoît XV
+periode: pre-vatican-ii
+type: motu-proprio
+date: '1917-09-15'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19170915_cum-iuris-canonici.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 721ab8133c595f37908176cba9f806a010aa5e99bba8371797588ac62798751e

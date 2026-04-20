@@ -1,0 +1,21 @@
+incipit: Declaracion
+auteur: Congrégation pour le culte divin et la discipline des sacrements
+periode: post-vatican-ii
+type: document
+date: '2001-06-26'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- sp
+langue_originale: sp
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20010626_declaracion_sp.html
+  site: www.vatican.va
+  langue: sp
+  fetch_method: httpx
+sha256:
+  sp: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

@@ -1,0 +1,24 @@
+incipit: Salutis Nostrae
+titre_fr: Proclamation du Jubilé universel
+auteur: Clément XIV
+periode: pre-vatican-ii
+type: encyclique
+date: '1774-04-30'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- en
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- jubile
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/clem14/c14salut.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: d52a8b4ff5022fcad2098c58373e918315648d7952238a0feae47e0823912d2c

@@ -1,0 +1,25 @@
+incipit: Opus angelorum
+auteur: Congrégation pour la doctrine de la foi
+periode: post-vatican-ii
+type: document
+date: '2011-03-16'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- pt
+- sp
+langue_originale: fr
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20110316_nota-opus-angelorum_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+sha256:
+  fr: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

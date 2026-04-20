@@ -1,0 +1,23 @@
+incipit: Priests
+auteur: Congrégation pour l'évangélisation des peuples
+periode: post-vatican-ii
+type: document
+date: '1997-10-01'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- sp
+langue_originale: fr
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_19971001_priests_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+sha256:
+  fr: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

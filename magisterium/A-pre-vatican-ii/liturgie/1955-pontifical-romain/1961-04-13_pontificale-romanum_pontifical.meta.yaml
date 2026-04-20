@@ -1,0 +1,23 @@
+incipit: Pontificale Romanum
+titre_fr: Pontifical romain (édition typique 1961-1962)
+auteur: Jean XXIII
+periode: pre-vatican-ii
+type: pontifical
+date: '1961-04-13'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://archive.org/download/PontificaleRomanum/PontificaleRomanum.pdf
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 75683d7dbbdebc08ab5a39d571f3b42f0a91d16572c21ab23046e560fb84bbbe

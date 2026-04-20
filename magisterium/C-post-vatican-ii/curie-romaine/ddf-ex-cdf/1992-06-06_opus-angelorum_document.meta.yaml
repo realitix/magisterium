@@ -1,0 +1,28 @@
+incipit: Opus angelorum
+auteur: Congrégation pour la doctrine de la foi
+periode: post-vatican-ii
+type: document
+date: '1992-06-06'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- it
+- la
+- pl
+- pt
+- sp
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19920606_opus-angelorum_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

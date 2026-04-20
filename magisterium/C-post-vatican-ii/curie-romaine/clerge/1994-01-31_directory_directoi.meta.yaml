@@ -1,0 +1,26 @@
+incipit: Directory
+auteur: Congrégation pour le clergé
+periode: post-vatican-ii
+type: directoire
+date: '1994-01-31'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- it
+- pt
+- sp
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_31011994_directory_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

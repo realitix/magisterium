@@ -1,0 +1,23 @@
+incipit: Ivonis Carnotensis Decretum
+titre_fr: Décret d'Yves de Chartres (précurseur du Corpus Iuris Canonici)
+auteur: Yves de Chartres
+periode: pre-vatican-ii
+type: code-canonique
+date: '1095-01-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.documentacatholicaomnia.eu/03d/1040-1116,_Ivo_Carnotensis,_Decretum,_LT.pdf
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 9fec8584c814a3f66abaa38502743093c1098127c2742bd55b148e9c20a34ff4

@@ -1,0 +1,24 @@
+incipit: Apostolica Constitutio
+titre_fr: Proclamation du Jubilé de 1750
+auteur: Benoît XIV
+periode: pre-vatican-ii
+type: constitution-apostolique
+date: '1749-06-26'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- en
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- jubile
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/ben14/b14apost.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: f7739def5a3d229ff431d66cadaa236193c059277bca188f038786efdca3d5d5

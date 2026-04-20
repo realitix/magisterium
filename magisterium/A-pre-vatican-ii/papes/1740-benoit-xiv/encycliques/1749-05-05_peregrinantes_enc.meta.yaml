@@ -1,0 +1,24 @@
+incipit: Peregrinantes
+titre_fr: Proclamation du Jubilé de 1750
+auteur: Benoît XIV
+periode: pre-vatican-ii
+type: encyclique
+date: '1749-05-05'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- en
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- jubile
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/ben14/b14pereg.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 459bb2c87a3eca5d42c159ce282cb2e1eb5f88d48839a9cdfd4136bee1022548

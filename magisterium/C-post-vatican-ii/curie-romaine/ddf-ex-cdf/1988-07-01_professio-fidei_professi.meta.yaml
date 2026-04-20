@@ -1,0 +1,26 @@
+incipit: Professio fidei
+auteur: Congrégation pour la doctrine de la foi
+periode: post-vatican-ii
+type: profession-de-foi
+date: '1988-07-01'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- it
+- pl
+- sp
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880701_professio-fidei_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

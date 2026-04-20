@@ -1,0 +1,23 @@
+incipit: Codex Iuris Canonici — Liber I (De normis generalibus)
+titre_fr: 'CIC 1983 — Livre I : Normes générales'
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: code-canonique
+date: '1983-01-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/cod-iuris-canonici/latin/documents/cic_liberI_la.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: b7c2a1804c1bb7f9b9cdeb7f2699b3e86783be27812d7d086cbad7f1e080e782

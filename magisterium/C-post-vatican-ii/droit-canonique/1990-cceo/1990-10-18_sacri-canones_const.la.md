@@ -1,0 +1,108 @@
+[LA](/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_sacri-canones.html)
+
+IOANNES PAULUS EPISCOPUS  
+SERVUS SERVORUM DEI  
+AD PERPETUAM REI MEMORIAM
+
+CONSTITUTIO APOSTOLICA
+
+***SACRI CANONES**[\*](#*)***
+
+VENERABILIBUS FRATRIBUS  
+PATRIARCHIS, ARCHIEPISCOPIS, EPISCOPIS,  
+AC DILECTIS FILIIS  
+PRESBYTERIS,  
+DIACONIS CETERISQUE CHRISTIFIDELIBUS  
+ORIENTALIUM ECCLESIARUM
+
+ 
+
+Sacri Canones, quorum « integram praeceptionem ac immobilem » Patres in Concilio Oecumenico septimo, apud Nicaenam Sedem anno Domini DCCLXXXVII congregati, praesidibus legatis a Decessore Nostro Hadriano I missis, in prima eiusdem Concilii canonica regula prorsus confirmaverunt, « exultantes in eis sicut qui invenit spolia multa », breviter ab eodem Concilio declarati sunt ii esse, qui ab almis, ut traditio fert, Apostolis et a « sex sanctis et universalibus Synodis atque his Conciliis, quae localiter collecta sunt », necnon « a sanctis Patribus nostris » prolati sunt.
+
+Enimvero idem Concilium, cum affirmaret sacrorum canonum auctores « ab uno eodemque Spiritu » illustratos statuisse « quae expediunt », canones illos unum Corpus legum ecclesiasticarum duxit idque veluti « Codicem » pro omnibus Ecclesiis orientalibus confirmavit, ut iam pridem Quinisexta Synodus, in Trullano conclavi Constantinopolitanae urbis anno Domini DCXCI coadunata, fecerat, provinciam earundem legum in secundo suo canone distinctius circumscribendo.
+
+In tam mirabili varietate rituum seu patrimonii liturgici ac theologici, spiritualis ac disciplinaris singularum Ecclesiarum, quae ex venerandis traditionibus Alexandrina, Antiochena, Armena, Chaldaea et Constantinopolitana originem ducunt, sacri canones non immerito ea conspicua sane pars eiusdem patrimonii esse censentur, quae universarum harum Ecclesiarum ordinationis unum atque commune canonum fundamentum constituit. Etenim vix aut ne vix quidem datur normarum disciplinarium orientalis collectio, in qua sacri canones, iam ante Concilium Chalcedonense numero plures quam quingenti, utpote primariae Ecclesiae leges a superiore eisdem Ecclesiis auctoritate statutae vel agnitae, non urgeantur et tamquam praecipui fontes iuris non invocentur. Singulis Ecclesiis semper perspicuum fuit quamcumque ordinationem ecclesiasticae disciplinae firmitatem habere iis in normis, quae ex traditionibus a suprema auctoritate Ecclesiae agnitis profluunt vel in canonibus ab eadem auctoritate promulgatis continentur, atque iuris particularis regulas valere, cum iure superiore si congruant, si vero ab eo discrepent, nullas esse.
+
+« Fidelitas erga sacrum hoc ecclesiasticae disciplinae patrimonium effecit, ut, inter tot tantasque vexationes atque res adversas quas orientales Ecclesiae sive antiquis sive recentioribus temporibus perpessae sunt, nihilominus proprius Orientis vultus integer servaretur; quod profecto non sine magno animarum emolumento fieri contigit »(*AAS* 66 \[1974\] 245). Haec praeclara Pauli VI beatae memoriae verba in Sixtino sacello coram primo Plenario Coetu Membrorum Commissionis Codici Iuris Canonici Orientalis Recognoscendo prolata recinunt ea, quae Concilium Vaticanum II de « maxima fidelitate » in eodem patrimonio disciplinari ab omnibus Ecclesiis observando edixit, requirens etiam ut « ad avitas traditiones redire satagant », si in quibusdam « ob temporum vel personarum adiuncta indebite defecerint »(Decr. *[Orientalium Ecclesiarum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lt.html)*, n. 6).
+
+Significanter a Concilio Vaticano II clara in luce ponitur etiam « religiosam erga antiquas traditiones fidelitatem » simul cum « precibus, vitae exemplis, mutua et meliore cognitione, collaboratione ac fraterna rerum animorumque aestimatione », maxime conferre, ut Ecclesiae orientales plenam communionem cum Sede Apostolica Romana habentes, « peculiare munus omnium christianorum unitatem, orientalium praesertim, fovendi »(Decr. *[Orientalium Ecclesiarum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lt.html)*, n. 24), secundum principia Decreti « De oecumenismo » adimpleant.
+
+Neque hoc loco praetereundum est Ecclesias orientales, quae nondum in plena cum Ecclesia catholica communione sunt, eodem et fundamentaliter uno disciplinae canonicae patrimonio regi, « sacris canonibus » id est primorum Ecclesiae saeculorum.
+
+Quod vero attinet ad universam rem oecumenici motus, a Spiritu Sancto perfectae unitatis totius Christi Ecclesiae perficiendae gratia suscitati, novus Codex non modo ei minime obstat, sed potius admodum prodest. Etenim Codex hic tuetur ipsum fundamentale personae humanae ius, fidem scilicet in suo cuiusque ritu, plerumque ab ipso matris sinu hausto, profitendi, quod est regula omnis « oecumenismi », nec quidquam praetermittit quin Ecclesiae orientales catholicae in tranquillitate ordinis optata Concilii Vaticani II implentes, « floreant atque novo robore apostolico concreditum sibi munus absolvant »(Decr. *[Orientalium Ecclesiarum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lt.html)*, n. 1). Ex quo fit, ut canones Codicis Ecclesiarum orientalium catholicarum eandem firmitatem ac leges Codicis Iuris Canonici latinae Ecclesiae habere oporteat, vigere scilicet donec abrogentur vel a suprema Ecclesiae auctoritate immutentur iustis de causis, quarum plenae communionis omnium Orientis Ecclesiarum cum catholica Ecclesia ratio sane gravissima est optatis praeterea ipsius Salvatoris Nostri Iesu Christi maxime congruens.
+
+Verumtamen sacrorum canonum omnibus Ecclesiis orientalibus communis hereditas mirabiliter cum indole uniuscuiusque coetus christifidelium, ex quibus singulae Ecclesiae constant, decursu saeculorum coaluit atque earundem, non semel unius eiusdemque nationis, totam culturam nomine Christi eiusque evangelico nuntio ita imbuit, ut ad ipsum cor populorum pertineat inviolabile et omni ratione dignissimum.
+
+Cum Leo XIII, Decessor Noster, « rei liturgicae disciplinaeque orientalis iure probatam varietatem », saeculo XIX exeunte, « praeclaro » esse « ornamento Ecclesiae omni et fidei catholicae divinam unitatem » affirmare declararet, eandem varietatem etiam illud esse existimavit, quo nihil « aliud fortasse admirabilius est ad *catholicitatis* notam in Ecclesia Dei illustrandam »(Leo XIII, Litt. ap. *Orientalium dignitas*, 30 Nov. 1894, prooem.). Id idemque Patrum Concilii Vaticani II unanima vox testatur, ex qua Ecclesiarum « in unum conspirans varietas indivisae Ecclesiae catholicitatem luculentius demonstrat » (Const. *[Lumen Gentium](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html)*, 23), et « nedum eiusdem noceat unitati, eam potius declaret » (Decr. *[Orientalium Ecclesiarum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lt.html)*, n. 2).
+
+Quibus omnibus prae oculis habitis, hunc Codicem, quem nunc promulgamus, potissimum ex iure antiquo Ecclesiarum orientalium existimandum esse censemus, simulque plane conscii sumus tum unitatis tum in eandem conspirantis varietatis, quibus coalescentibus, et Ecclesiae universae « vitae numquam senescentis proditur vis et ipsa magnificentius Christi sponsa excellit, quam sanctorum Patrum sapientia veluti adumbratam in effato agnovit davidico :  *Astitit regina a dextris tuis in vestitu deaurato circumdata varietate* . . . » (*Ps* 44; Leo XIII, Litt. ap. *Orientalium dignitas*, 30 Nov. 1894, prooem.).
+
+Ipsa inde ab exordiis codificationis canonicae orientalium Ecclesiarum constans Romanorum Pontificum voluntas duos Codices, alterum pro latina Ecclesia alterum pro Ecclesiis orientalibus catholicis, promulgandi, admodum manifesto ostendit velle eosdem servare id quod in Ecclesia, Deo providente, evenit, ut ipsa unico Spiritu congregata quasi duobus pulmonibus Orientis et Occidentis respiret atque uno corde quasi duos ventriculos habente in caritate Christi ardeat.
+
+Item perspicua est constans ac firma mens supremi in Ecclesia Legislatoris de fideli custodia atque accurata observantia omnium rituum orientalium ex iam memoratis quinque traditionibus promanantium iterum atque iterum in Codice normis propriis expressa.
+
+Idem etiam constat ex variis hierarchicae constitutionis Ecclesiarum orientalium formis, inter quas Ecclesiae patriarchales, in quibus Patriarchae et Synodi iure canonico supremae Ecclesiae auctoritatis participes sunt, insigniter eminent. His formis suo titulo circumscriptis Codicem aperienti confestim patent et proprius uniuscuiusque Ecclesiae orientalis vultus lege canonica sancitus et sui iuris status ac plena communio cum Romano Pontifice Sancti Petri Successore, qui, utpote universo caritatis coetui praesidens, legitimas varietates tuetur et simul invigilat ut particularia, nedum unitati noceant, ei potius inserviant (cf. Const. *[Lumen gentium](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html)*, h. 13).
+
+Praeterea hac in provincia bene animadvertatur hunc quidem Codicem iuri particulari singularum Ecclesiarum sui iuris ea omnia committere, quae ad commune omnium Ecclesiarum orientalium bonum non necessaria considerantur. Quibus de rebus mens Nostra est, ut qui legislativa potestate in singulis Ecclesiis sui gaudent, peculiaribus normis, proprii ritus traditionibus prae oculis habitis necnon Concilii Vaticani II praeceptis, quam celerrime consulant.
+
+Fidelis rituum custodia supremo universarum Ecclesiae legum fini, qui totus in animarum salutis oeconomia positus est, congruere plane debet. Ideo caduca ac superflua omnia in antea latarum legum regione vel temporum necessitatibus minus congrua in Codicem recepta non sunt. In novis vero legibus statuendis ea imprimis in mente fuerunt, quae reapse melius animarum salutis oeconomiae postulatis in ubertate vitae orientalium Ecclesiarum responderent ac simul cohaerentiam et concordiam cum sana traditione prae se ferrent, ad Pauli VI Decessoris Nostri auspicia initio laborum Codicis recognoscendi prolata : « novae normae appareant non quasi corpus extraneum violenter defixum in ecclesiastica compagine, sed e normis iam exstantibus quasi sua sponte efflorescant »(*AAS* 66 \[1974\] 246).
+
+Fulgide haec ex Concilio Vaticano II clarescunt quoniam idem Concilium ex « Traditionis thesauro vetera et nova protulit »(Const. ap. *[Sacrae disciplinae leges](/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)*, AAS 75 \[1983\] Pars II, XII), illam ab Apostolis per Patres traditionem, Evangelii nuntio undequaque integram, in novitatem vitae traducendo.
+
+Codex Canonum Ecclesiarum Orientalium, qui nunc in lucem proditur, veluti novum complementum magisterii a Concilio Vaticano II propositi habendus est, quo universae Ecclesiae ordinatio canonica tandem expletur, praeeuntibus [Codice Iuris Canonici latinae Ecclesiae](http://www.vatican.va/latin/latin_codex.html), anno MCMLXXXIII promulgato, atque « Constitutione apostolica de Romana Curia » anni MCMLXXXVIII, quae utrique Codici adiungitur utpote « communionis, universam Ecclesiam veluti conglutinantis »(Const. ap. *[Pastor bonus](http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index_lt.html)*, n. 2) princeps Romani Pontificis instrumentum.
+
+Quod si nunc ad primos gressus codificationis canonicae orientalium Ecclesiarum mentem convertimus, Codex ut petitus portus plus quam per sexaginta annos protractae navigationis apparet. Etenim corpus legum est, quo cuncti orientalibus Ecclesiis catholicis communes ecclesiasticae disciplinae canones primum simul colliguntur et a supremo in Ecclesia Legislatore promulgantur, post tot ac tantos labores trium ab eodem Legislatore institutarum Commissionum, quarum prima « Commissio Cardinalitia pro studiis praeparatoriis codificationis orientalis » fuit, anno MCMXXIX a Pio XI Decessore Nostro erecta (*AAS* 21 \[1929\] 669), Praeside Cardinali Petro Gasparri. Huius Commissionis Membra Cardinales Aloisius Sincero, Bonaventura Cerretti atque Franciscus Ehrle fuerunt, a secretis vero adstitit DD. Hamletus Ioannes Cicognani « S. Congregationis pro Ecclesia Orientali », ut vocabatur, Adsessor, postmodum Cardinalis.
+
+Praeparatoriis studiis, magnae profecto molis, opera duorum Coetuum peritorum, potiore ex parte a Praesulibus orientalium Ecclesiarum delectorum (cf. *L'Osservatore Romano*, 2 Apr. 1930, p. 1), sexennio ad finem perductis necnon Cardinali Petro Gasparri morte intercepto, visum est in constitutionem « Pontificiae Commissionis ad Redigendum "Codicem Iuris Canonici Orientalis" » progredi. Huius Commissionis die 17 Iulii 1935 erectae fuit, ut ex ipsa eius inscriptione elucet, textum canonum determinare et compositionem « Codicis Iuris Canonici Orientalis » moderari. Hac de re animadvertendum est ipsum Summum Pontificem statuisse, ut in *Notificatione* de institutione Commissionis quae in *Actorum Apostolicae Sedis* commentario officiali apparuit (*AAS* 27 \[1935\] 306-308), titulus futuri Codicis virgulis intercluderetur ad significandum, illum, etsi optimum, seligi « donec melior inveniretur ».
+
+Praesides « Commissionis "Codici Iuris Canonici Orientalis" Redigendo » fuerunt Cardinalis Aloisius Sincero usque ad obitum, Cardinalis Maximus Massimi atque, eo vita functo, Cardinalis Gregorius Petrus XV Agagianian Armenorum Ecclesiae Patriarcha.
+
+Inter Cardinales simul cum Praeside primigenium Commissionis Collegium Membrorum efficientes, nempe Eugenium Pacelli, Iulium Serafini et Petrum Fumasoni-Biondi, antecellit nomen Cardinalis Eugenii Pacelli, qui deinde summa Dei providentia ut Vicarius Christi atque universae Ecclesiae Pastor, de orientalium Ecclesiarum bono maxime sollicitus, codificationis canonicae orientalis opus fere ex toto perfecit. Etenim ipse ex viginti quattuor titulis, quibus eiusdem voluntate Codex Iuris Canonici Orientalis in praedicta Commissione pertextus constabat, non minus quam decem, urgentioris sane momenti, quattuor Litteris apostolicis motu proprio datis (*Crebrae allatae sunt, Sollicitudinem Nostram, Postquam Apostolicis Litteris et Cleri sanctitati*) promulgavit. Ceteri quidem in textu a Cardinalibus Commissionis Membris semel approbato et magna ex parte pontificio mandato iam « ad promulgationem » typis impressi, adveniente suprema eiusdem Pontificis die necnon a Ioanne XXIII, in Cathedra Sancti Petri Successore, Concilio Vaticano II indicto, in archivo Commissionis remanserunt.
+
+Decursu autem annorum usque ad Commissionis, medio vertente anno MCMLXXII, cessationem in Collegio Membrorurn aucto quidem de mandato pontificio plures Cardinales operam navaverunt, alii aliis morte sublatis succedentes. Concilio Vaticano II denique absoluto in Collegium etiam omnes orientalium Ecclesiarum catholicarum Patriarchae anno MCMLXV cooptati sunt. Exordiente vero postremo Commissionis Codici Iuris Canonici Orientalis Redigendo anno Collegium Membrorum constabat ex sex orientalium Ecclesiarum Praesidibus et Praefecto Congregationis pro Ecclesiis Orientalibus.
+
+Ab ipso autem ortu Commissionis Codici Iuris Canonici Orientalis Redigendo ac diutissime inde a secretis in ea P. Acacius Coussa B. A., postmodum Cardinalis, summo studio ac sapientia elaboravit. Hoc loco eum cum laude recolimus simul cum egregiis Commissionis consultoribus.
+
+Constitutio et forma Pontificiae Commissionis Codici Iuris Canonici Orientalis Recognoscendo medio anno MCMLXXII vertente constitutae in tuto posuit eius orientalem indolem, cum ex Ecclesiarum multiplicitate, Patriarchis orientalibus primo loco excellentibus, constaret. Opera vero Commissionis notam eximie collegialem prae se ferebat. Canonum enim formulae in coetibus peritorum virorum ex omnibus Ecclesiis delectorum paulatim elaboratae ad universos Episcopos Ecclesiarum orientalium catholicarum prae ceteris missae sunt, sententias ut ferrent collegiali quidem quantum fieri posset modo. Deinceps formulae hae, in coetibus a studiis specialibus saepenumero secundum placita Episcoporum denuo recognitae, post diligens Membrorum Commissionis examen, identidem, si casus tulerat, retractatae, in Plenario Coetu Membrorum, mense Novembri MCMLXXXVIII congregato, optimo suffragiorum consensu acceptae sunt.
+
+Vere fatendum est Nobis Codicem hunc « ipsos Orientales confecisse » secundum Pauli VI Decessoris Nostri auspicia in sollemni initio laborum Commissionis prolata (*AAS* 66 \[1974\] 246). Omnibus et singulis, qui horum participes operum fuerunt, amplissimis verbis hodie gratias agimus.
+
+Praeprimis grato animo prosequimur nomen vita functi Cardinalis Iosephi Parecattil, Ecclesiae Malabarensium, qui fere totum per tempus postremis tribus annis exceptis ut Praeses Commissionis de novo Codice optime meruit. Simul cum eo vita functum Archiepiscopum Clementem Ignatium Mansourati, Ecclesiae Syrorum, singulariter recolimus, qui primis scilicet maximeque arduis annis Commissionis Vice-Praesidis munus explevit.
+
+Placet autem etiam viventes memorare, imprimis Venerabiles Fratres Miroslaum Stephanum Marusyn, nunc Archiepiscopum a secretis Congregationis pro Ecclesiis Orientalibus constitutum, qui diu Commissionis Vice-Praesidis munus egregie exercuit, atque Episcopum Aemilium Eid, hodiernum Vice-Praesidem, qui ad operis felicem exitum plurimum contulit; post hos vero dilectum Ivanum Žužek, sacerdotem Societatis Iesu sodalem, qui inde ab exordio utpote Commissionis a secretis assiduam operam navavit et ceteros, qui in eadem Commissione sive ut Membra, Patriarchae Cardinales Archiepiscopi et Episcopi, sive ut Consultores Cooperatoresque in coetibus a studiis aliisque muneribus suas maximi pretii partes attulerunt; denique Observatores, qui optatae omnium Ecclesiarum unitatis gratia ex Ecclesiis orthodoxis invitati, sua perutili praesentia et collaboratione magno adiumento fuerunt.
+
+Spe confidimus magna fore ut hic Codex in « cotidianae vitae actionem feliciter traducatur » et « germanum praebeat testimonium reverentiae atque amoris erga ecclesiasticam legem », pro auspiciis Pauli VI beatae memoriae (*AAS* 66 \[1974\] 247), atque in orientalibus Ecclesiis antiquitate tam praeclaris eundem illum tranquillitatis ordinem instauret, quem promulgantes Nos Codicem Iuris Canonici latinae Ecclesiae ardenti animo pro tota ecclesiali societate expetivimus. De ordine scilicet agitur, « qui, praecipuas tribuens partes amori, gratiae atque charismati, eodem tempore faciliorem reddat ordinatam eorum progressionem in vita sive ecclesialis societatis, sive etiam singulorum hominum, qui ad illam pertinent »(*AAS* 75 \[1983\] Pars II, XI).
+
+« Gaudium et pax cum iustitia et oboedientia » hunc etiam Codicem « commendent, et quod iubetur a capite, servetur in corpore »(*ib*., XIII), ita ut, omnium collatis viribus, missionis Ecclesiae universalis augeatur incrementum Regnumque Christi « Pantocratoris » abundantius instauretur (cf. Ioannes Paulus PP. II, *Allocutio in Petriana Basilica ad eos qui in Romana Curia ministerium suum implent coram admissos*, 28 Iunii 1986, *AAS* 79 \[1987\] 196).
+
+Sanctam Mariam semper Virginem, cuius benignissimo praesidio Codicem parandum identidem commendavimus, oramus materna prece a Filio suo impetret, ut Codex illius caritatis vehiculum evadat, quae ex Christi corde in cruce lancea perforato, sancto Ioanne Apostolo teste eximio, luculenter demonstrata, esse in animo omnis humanae creaturae defixa penitus debet.
+
+Itaque, invocato divinae gratiae auxilio, Beatorum Petri et Pauli Apostolorum auctoritate suffulti, certa scientia atque votis Patriarcharum Archiepiscoporum et Episcoporum orientalium Ecclesiarum adnuentes, qui nobiscum collegiali affectu collaboraverunt, Apostolicae qua aucti sumus potestatis plenitudine usi Constitutione hac Nostra in posterum valitura praesentem Codicem, sic ut digestus et recognitus est, promulgamus, quem vim legis posthac obtinere pro omnibus Ecclesiis orientalibus catholicis decernimus iubemus atque earundem Ecclesiarum Hierarchis tradimus custodia ac vigilantia servandum.
+
+Ut autem omnes, ad quos pertinet, prope perspecta habere possint huius Codicis praescripta, antequam ad effectum adducantur, edicimus ac mandamus, ut ea vim obligandi habere incipiant a die prima mensis Octobris anni MCMXCI, festo Patrocinii Beatae Virginis Mariae in plerisque Orientis Ecclesiis.
+
+Non obstantibus quibuslibet rebus contrariis etiam peculiarissima mentione dignis.
+
+Omnes ergo filios dilectos hortamur ut significata praecepta animo sincero ac propensa voluntate exsolvant, fore nihil dubitantes ut Ecclesiae orientales studiosa disciplina bono animarum christifidelium optime consulant, magis magisque floreant atque creditum sibi munus absolvant, sub praesidio gloriosae et benedictae semper Virginis Mariae, quae « Theothokos » verissime vocatur et universalis Ecclesiae eminet Mater praecelsa.
+
+Datum Romae apud Sanctum Petrum, die XVIII Octobris anno MCMXC, Pontificatus Nostri tertio decimo.
+
+**IOANNES PAULUS PP. II**
+
+------------------------------------------------------------------------
+
+\*A.A.S., vol. LXXXII (1990), n. 11, pp. 1033-1044
+
+ 
+
+© Copyright 1990 - Libreria Editrice Vaticana
+
+ 
+
+Copyright © Dicasterium pro Communicatione
+
+[![the holy see](/etc/designs/vatican/library/clientlibs/themes/vatican-v2/images/logo-vatican.png)](/content/vatican/en.html)
+
+## *Sancta* **Sedes**
+
+## [*Sancta* **Sedes**](/content/vatican/en.html)

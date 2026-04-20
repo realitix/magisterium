@@ -1,0 +1,23 @@
+incipit: Codex Canonum Ecclesiarum Orientalium — Pars 1
+titre_fr: Code des Églises orientales (CCEO) — Partie 1/3
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: code-canonique
+date: '1990-10-18'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: c5da082af8e9a938516bc11f626cc2354b5530c89b251f8db0e1664912ca6eeb

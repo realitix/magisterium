@@ -1,0 +1,24 @@
+incipit: Compendium Catechismi Catholicae Ecclesiae
+titre_fr: Compendium du Catéchisme de l'Église catholique (2005)
+auteur: Benoît XVI
+periode: post-vatican-ii
+type: catechisme
+date: '2005-06-28'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: la
+denzinger: []
+sujets:
+- catechisme
+- compendium
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: f1487ad5fb235e3cc8d363148b59c907fabb3ab841b96a0dce0a3e2831630605

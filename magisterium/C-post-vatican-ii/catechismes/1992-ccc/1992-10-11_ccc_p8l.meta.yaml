@@ -1,0 +1,23 @@
+incipit: Catéchisme de l'Église catholique
+titre_fr: Catéchisme de l'Église catholique (1992)
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: catechisme
+date: '1992-10-11'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- fr
+langue_originale: fr
+denzinger: []
+sujets:
+- catechisme
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/FRA0013/__P8L.HTM
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+sha256:
+  fr: b6395199db8106d5aeaed4511bc5c9de5fed99cd353a818048463ad2a458ab97

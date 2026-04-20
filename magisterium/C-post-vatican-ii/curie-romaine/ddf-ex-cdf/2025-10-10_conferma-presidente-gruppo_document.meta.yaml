@@ -1,0 +1,26 @@
+incipit: Conferma presidente gruppo
+auteur: Dicastère pour la doctrine de la foi
+periode: post-vatican-ii
+type: document
+date: '2025-10-10'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- it
+- pt
+- sp
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: bbc00d3d91f165cd2fec52f9e29163dca79d502fc21bae145d27675cdea3f435

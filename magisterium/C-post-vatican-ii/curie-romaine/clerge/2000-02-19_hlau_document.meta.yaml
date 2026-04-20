@@ -1,0 +1,21 @@
+incipit: Hlau
+auteur: Congrégation pour le clergé
+periode: post-vatican-ii
+type: document
+date: '2000-02-19'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- ge
+langue_originale: ge
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19022000_hlau_ge.html
+  site: www.vatican.va
+  langue: ge
+  fetch_method: httpx
+sha256:
+  ge: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

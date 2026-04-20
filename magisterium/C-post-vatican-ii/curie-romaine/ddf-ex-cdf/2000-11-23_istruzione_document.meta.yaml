@@ -1,0 +1,30 @@
+incipit: Istruzione
+auteur: Congrégation pour la doctrine de la foi
+periode: post-vatican-ii
+type: document
+date: '2000-11-23'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- hu
+- it
+- la
+- pl
+- pt
+- sk
+- sp
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20001123_istruzione_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 62b6a63e9325a50d3c750d29bdb87e7eca9afeb91c076311c54d61148bb1d77e

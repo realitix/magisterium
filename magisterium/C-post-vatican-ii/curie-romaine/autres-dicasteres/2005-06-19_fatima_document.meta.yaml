@@ -1,0 +1,21 @@
+incipit: Fatima
+auteur: Congrégation pour l'évangélisation des peuples
+periode: post-vatican-ii
+type: document
+date: '2005-06-19'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- pt
+langue_originale: pt
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20050619_fatima_po.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+sha256:
+  pt: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

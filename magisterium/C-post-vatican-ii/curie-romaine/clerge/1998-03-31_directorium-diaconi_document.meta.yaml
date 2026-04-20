@@ -1,0 +1,28 @@
+incipit: Directorium diaconi
+auteur: Congrégation pour le clergé
+periode: post-vatican-ii
+type: document
+date: '1998-03-31'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- hu
+- it
+- la
+- pt
+- sp
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_ccatheduc_doc_19980331_directorium-diaconi_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 0d8b5d7b0ec5866c65a2c123dc950db6b42040251960b87538ccb18ecd5d2037

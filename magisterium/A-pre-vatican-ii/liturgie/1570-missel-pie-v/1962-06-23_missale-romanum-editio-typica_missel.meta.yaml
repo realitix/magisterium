@@ -1,0 +1,23 @@
+incipit: Missale Romanum (editio typica 1962)
+titre_fr: Missel romain — édition typique 1962 (dernière édition tridentine)
+auteur: Pie V
+periode: pre-vatican-ii
+type: missel
+date: '1962-06-23'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://archive.org/download/missale-romanum-1962/Missale%20Romanum%201962.pdf
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: c2a2ee5a7043674404634c75b358dc9185db5059e7e7c95a2f0e62b697a999ae

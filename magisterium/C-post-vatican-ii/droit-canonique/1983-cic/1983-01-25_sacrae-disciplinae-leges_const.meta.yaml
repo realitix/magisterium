@@ -1,0 +1,23 @@
+incipit: Sacrae Disciplinae Leges
+titre_fr: Constitution apostolique de promulgation du Code de droit canonique de 1983
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: constitution-apostolique
+date: '1983-01-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: e58a2c66b1350d2ef38b460183fee9c6833d4e96518be6131fc62ef8865305b2

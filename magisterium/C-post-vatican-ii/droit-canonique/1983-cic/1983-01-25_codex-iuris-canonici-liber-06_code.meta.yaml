@@ -1,0 +1,23 @@
+incipit: Codex Iuris Canonici — Liber VI (De sanctionibus in Ecclesia)
+titre_fr: 'CIC 1983 — Livre VI : Sanctions pénales'
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: code-canonique
+date: '1983-01-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/cod-iuris-canonici/latin/documents/cic_liberVI_la.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 9c06e9543604c4ba2c0457ca166815f2f3e30ad5bf0aeed0b805053b2c4f2b2b

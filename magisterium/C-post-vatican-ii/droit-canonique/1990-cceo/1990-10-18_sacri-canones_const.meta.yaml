@@ -1,0 +1,23 @@
+incipit: Sacri Canones
+titre_fr: Constitution apostolique de promulgation du Code des Églises orientales
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: constitution-apostolique
+date: '1990-10-18'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_sacri-canones.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 59644790ff84a779c942ecd436925adfa3bbe3518a3c30f8d85c8c2d0322a55b

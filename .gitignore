@@ -14,3 +14,7 @@ build/
 _raw_html/
 magisterium/_metadata/errors.log
 magisterium/_metadata/phase-state.json
+# Binary PDFs: not versioned (source URL is in the sibling .meta.yaml so they
+# can be re-fetched via `just resume`). Prevents >100 MB files breaking git
+# remotes and keeps the repo text-focused.
+magisterium/**/*.pdf

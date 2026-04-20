@@ -20,6 +20,18 @@ phase-3:
 phase-4:
     uv run python -m scrapers.phases.phase_4_papes_post_v2
 
+phase-5:
+    uv run python -m scrapers.phases.phase_5_papes_pre_1846
+
+phase-6:
+    uv run python -m scrapers.phases.phase_6_curie
+
+phase-7:
+    uv run python -m scrapers.phases.phase_7_catechismes
+
+phase-8:
+    uv run python -m scrapers.phases.phase_8_droit_liturgie
+
 phase-9:
     uv run python -m scrapers.phases.phase_9_fsspx
 

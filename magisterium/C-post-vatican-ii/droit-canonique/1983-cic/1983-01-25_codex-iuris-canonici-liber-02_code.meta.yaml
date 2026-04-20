@@ -1,0 +1,23 @@
+incipit: Codex Iuris Canonici — Liber II (De populo Dei)
+titre_fr: 'CIC 1983 — Livre II : Peuple de Dieu'
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: code-canonique
+date: '1983-01-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/cod-iuris-canonici/latin/documents/cic_liberII_la.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 5702c7213dbe8a60e6e8ab4c565b9049eeb679ed6c52559a0e7ca17ebe669051

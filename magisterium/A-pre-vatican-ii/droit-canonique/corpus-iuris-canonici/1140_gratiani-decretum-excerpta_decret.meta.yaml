@@ -1,0 +1,23 @@
+incipit: Decretum Magistri Gratiani (excerpta, Ms. Köln 127)
+titre_fr: Décret de Gratien (fragments, Corpus Iuris Canonici partie I)
+auteur: Gratien
+periode: pre-vatican-ii
+type: code-canonique
+date: '1140-01-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- droit-canonique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.documentacatholicaomnia.eu/04z/z_1140-1140__Gratianus_Ioannes__Decretum_Gratiani_%5BExcerpta._Dom_Handschrift_127_Koeln%5D__LT.doc.html
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 50a4149e7bd61126a3e122a693e4539c0facf739d0343d32fc1c688342ef6302

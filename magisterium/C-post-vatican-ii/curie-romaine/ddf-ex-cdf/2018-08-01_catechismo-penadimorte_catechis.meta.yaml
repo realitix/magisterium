@@ -1,0 +1,29 @@
+incipit: Catechismo penadimorte
+auteur: Congrégation pour la doctrine de la foi
+periode: post-vatican-ii
+type: catechisme
+date: '2018-08-01'
+autorite_magisterielle: magistere-ordinaire
+langues_disponibles:
+- en
+- fr
+- ge
+- it
+- la
+- mg
+- pl
+- sp
+- vi
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_la.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: bbc00d3d91f165cd2fec52f9e29163dca79d502fc21bae145d27675cdea3f435

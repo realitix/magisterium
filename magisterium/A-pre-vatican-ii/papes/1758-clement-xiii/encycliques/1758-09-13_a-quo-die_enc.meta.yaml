@@ -1,0 +1,24 @@
+incipit: A Quo Die
+titre_fr: Sur l'unité de l'Église
+auteur: Clément XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1758-09-13'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- en
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- unite-eglise
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/clem13/c13aquod.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 6935e17380656a55f714f120031df4688dd155980be9a4c0d468cf099d08a3de

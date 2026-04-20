@@ -1,0 +1,26 @@
+incipit: Decet Romanum Pontificem
+titre_fr: Bulle d'excommunication de Martin Luther
+auteur: Léon X
+periode: pre-vatican-ii
+type: bulle
+date: '1521-01-03'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- en
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- luther
+- excommunication
+- reforme-protestante
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/leo10/l10decet.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 446e0b1b6823f4ccfb2fa58a406bd0a022504b1446864fc49fbc3364eef9a2ff

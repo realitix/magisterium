@@ -1,0 +1,24 @@
+incipit: Cum Religiosi
+titre_fr: Sur la catéchèse
+auteur: Benoît XIV
+periode: pre-vatican-ii
+type: encyclique
+date: '1754-06-26'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- en
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- catechese
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/ben14/b14cumre.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: f86ed553397485d935721c1ee050174bd473aa622c6f56a2ec596c2efee0db3a

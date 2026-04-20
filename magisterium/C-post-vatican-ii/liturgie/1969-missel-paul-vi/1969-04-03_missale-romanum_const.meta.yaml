@@ -1,0 +1,23 @@
+incipit: Missale Romanum
+titre_fr: Constitution apostolique de promulgation du Missel romain rénové
+auteur: Paul VI
+periode: post-vatican-ii
+type: constitution-apostolique
+date: '1969-04-03'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: b735fdd29f9b0faf73e449aad94308e1a4f705ca2f26148c401fe8f09b90f723

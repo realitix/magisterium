@@ -1,0 +1,23 @@
+incipit: Sacram Liturgiam
+titre_fr: Motu proprio mettant en vigueur certaines dispositions de Sacrosanctum Concilium
+auteur: Paul VI
+periode: post-vatican-ii
+type: motu-proprio
+date: '1964-01-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 6bff245a9859e893ee260574e78a1b10db1671542cf71312a880b688f5b4ff21

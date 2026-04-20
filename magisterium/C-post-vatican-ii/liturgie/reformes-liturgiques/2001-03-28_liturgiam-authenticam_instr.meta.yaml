@@ -1,0 +1,23 @@
+incipit: Liturgiam Authenticam
+titre_fr: Instruction sur l'usage des langues vernaculaires dans la liturgie romaine
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: instruction-liturgique
+date: '2001-03-28'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20010507_liturgiam-authenticam_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: b45a074454abe921c80ebbc9c82805c7e17b4bc988159750b390958842754c1b

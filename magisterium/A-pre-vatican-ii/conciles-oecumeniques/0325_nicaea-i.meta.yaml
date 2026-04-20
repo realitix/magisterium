@@ -1,0 +1,24 @@
+incipit: Nicée I
+titre_fr: Concile de Nicée I
+auteur: Sylvestre Ier
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '0325-06-19'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum01.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: d2407450c4ebcd48a16a8b3ce1ba5561546359cdf2dba618616409caef529ef4

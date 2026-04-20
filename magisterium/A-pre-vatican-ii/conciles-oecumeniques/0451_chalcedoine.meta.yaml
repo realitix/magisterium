@@ -1,0 +1,24 @@
+incipit: Chalcédoine
+titre_fr: Concile de Chalcédoine
+auteur: Léon Ier
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '0451-10-08'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum04.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 4e60fb59f6c1531fbc8e05437926c3f7d79aa8a70b3fee1fccda06971b264107

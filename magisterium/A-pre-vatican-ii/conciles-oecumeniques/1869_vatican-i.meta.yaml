@@ -1,0 +1,24 @@
+incipit: Vatican I
+titre_fr: Concile de Vatican I
+auteur: Pie IX
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1869-12-08'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum20.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: c234042e6a8ae2159b193a3ce7682747f135142e4004e9ca3d3e3606083add8b

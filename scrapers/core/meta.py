@@ -1,9 +1,7 @@
 """Pydantic model for per-document .meta.yaml sidecar."""
-from __future__ import annotations
-
-from datetime import date
+from datetime import date as _date
 from pathlib import Path
-from typing import Literal
+from typing import Literal, Optional
 
 import yaml
 from pydantic import BaseModel, Field
@@ -20,14 +18,14 @@ class Source(BaseModel):
 
 class DocMeta(BaseModel):
     incipit: str
-    titre_fr: str | None = None
+    titre_fr: Optional[str] = None
     auteur: str
     periode: Period
     type: str
-    date: date | None = None
-    autorite_magisterielle: str | None = None
+    date: Optional[_date] = None
+    autorite_magisterielle: Optional[str] = None
     langues_disponibles: list[str] = Field(default_factory=list)
-    langue_originale: str | None = None
+    langue_originale: Optional[str] = None
     denzinger: list[str] = Field(default_factory=list)
     sujets: list[str] = Field(default_factory=list)
     themes_doctrinaux: list[str] = Field(default_factory=list)
@@ -45,6 +43,6 @@ class DocMeta(BaseModel):
         )
 
     @classmethod
-    def read(cls, path: Path) -> DocMeta:
+    def read(cls, path: Path) -> "DocMeta":
         data = yaml.safe_load(path.read_text(encoding="utf-8"))
         return cls.model_validate(data)

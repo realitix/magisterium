@@ -1,0 +1,24 @@
+incipit: Latran III
+titre_fr: Concile de Latran III
+auteur: Alexandre III
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1179-03-05'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum11.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: c5989f7a529d1b32634065fc177bd9ad86163b5c17b0343dc483c059677ca8d0

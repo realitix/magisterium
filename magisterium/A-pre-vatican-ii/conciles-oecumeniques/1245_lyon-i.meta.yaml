@@ -1,0 +1,24 @@
+incipit: Lyon I
+titre_fr: Concile de Lyon I
+auteur: Innocent IV
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1245-06-28'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum13.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 31cf4d3f3ca7d698e9ca47f44239532773242a7e52ea37c9fc37b98903cbd6d7

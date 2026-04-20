@@ -1,0 +1,24 @@
+incipit: Florence
+titre_fr: Concile de Florence
+auteur: Eugène IV
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1431-07-23'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum17.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 40679c1f59a8641b2348b7d01641a15de836c00586c7649a729d5e29ff861d59

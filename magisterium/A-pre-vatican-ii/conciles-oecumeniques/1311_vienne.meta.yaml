@@ -1,0 +1,24 @@
+incipit: Vienne
+titre_fr: Concile de Vienne
+auteur: Clément V
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1311-10-16'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum15.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 9b90814d37c25b5c8cf2f20c73fc1f9b04650328b47e311d2570e732430825f2

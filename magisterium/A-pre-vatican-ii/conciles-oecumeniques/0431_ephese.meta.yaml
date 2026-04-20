@@ -1,0 +1,24 @@
+incipit: Éphèse
+titre_fr: Concile de Éphèse
+auteur: Célestin Ier
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '0431-06-22'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum03.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: dfd5677b4ca98df4ad22275e4f2007efd55b8e90651dc02b59b22567f1d3fdea

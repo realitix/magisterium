@@ -1,0 +1,24 @@
+incipit: Trente
+titre_fr: Concile de Trente
+auteur: Paul III / Jules III / Pie IV
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1545-12-13'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/trent.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: c4e83fabedca861f13e81cea8798fa6b8a779335815c68179b57c0c31f84434b

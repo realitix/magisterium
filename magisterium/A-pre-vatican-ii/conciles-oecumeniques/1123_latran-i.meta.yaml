@@ -1,0 +1,24 @@
+incipit: Latran I
+titre_fr: Concile de Latran I
+auteur: Calixte II
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1123-03-18'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum09.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 432d2ea945091063d2b1ace4ba6eafca3ca02b5a82ec477476f79716a941e949

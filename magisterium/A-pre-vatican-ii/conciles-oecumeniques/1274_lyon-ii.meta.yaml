@@ -1,0 +1,24 @@
+incipit: Lyon II
+titre_fr: Concile de Lyon II
+auteur: Grégoire X
+periode: pre-vatican-ii
+type: concile-oecumenique
+date: '1274-05-07'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+- en
+langue_originale: la
+denzinger: []
+sujets:
+- concile-oecumenique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.papalencyclicals.net/councils/ecum14.htm
+  site: www.papalencyclicals.net
+  langue: en
+  fetch_method: httpx
+sha256:
+  en: 80498e6e29f2ede565c330f3a2ce000bd22ef71b8f5082f521ba07e73ed6ca81

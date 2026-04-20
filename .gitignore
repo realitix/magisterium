@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.uv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+.env
+.DS_Store
+# chrome-mcp fallback HTML dumps (raw) — kept out of tree, parsed versions go in corpus
+_raw_html/
+magisterium/_metadata/errors.log
+magisterium/_metadata/phase-state.json

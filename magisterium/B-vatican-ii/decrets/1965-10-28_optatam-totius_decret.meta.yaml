@@ -1,0 +1,23 @@
+incipit: Optatam Totius
+titre_fr: Décret sur la formation des prêtres
+auteur: Paul VI
+periode: vatican-ii
+type: decret-conciliaire
+date: '1965-10-28'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- formation-sacerdotale
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 6740ef54cbd24b633c58bcce7481435feeaf02f00c24dd6ac90664c7c608337f

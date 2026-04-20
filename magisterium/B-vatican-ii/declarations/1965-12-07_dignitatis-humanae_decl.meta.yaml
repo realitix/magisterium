@@ -1,0 +1,23 @@
+incipit: Dignitatis Humanae
+titre_fr: Déclaration sur la liberté religieuse
+auteur: Paul VI
+periode: vatican-ii
+type: declaration-conciliaire
+date: '1965-12-07'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- liberte-religieuse
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: ac082b12529139674cab18d9bacddf1a1dc9c19b59b7df2ad332f8d90c553bba

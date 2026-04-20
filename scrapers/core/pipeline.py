@@ -42,6 +42,11 @@ class DocRef:
     lang: str                     # e.g. "la", "fr", "en", "it"
     meta_hints: dict[str, Any] = field(default_factory=dict)
     body_selector: str | None = None  # CSS selector for main content, if needed
+    # Tags to "unwrap" (drop tag, keep children) after body extraction, before
+    # pandoc. Useful for layout tables (e.g. vatican.va hist_councils pages,
+    # where the real body is wrapped in <table>/<td> that pandoc collapses to
+    # "[TABLE]").
+    unwrap_tags: list[str] = field(default_factory=list)
 
 
 @dataclass
@@ -59,20 +64,50 @@ def _target_meta(ref: DocRef) -> Path:
     return ref.target_dir / f"{ref.slug}.meta.yaml"
 
 
-def _extract_body(html: bytes, selector: str | None) -> str:
+def _extract_body(
+    html: bytes,
+    selector: str | None,
+    unwrap_tags: list[str] | None = None,
+) -> str:
     text = html.decode("utf-8", errors="replace")
     tree = HTMLParser(text)
     # Strip script/style/nav chrome in all cases
     for bad in tree.css("script, style, noscript, nav, header, footer, aside"):
         bad.decompose()
+
+    # Pick root: matched selector > <body> > whole doc
+    root = None
     if selector:
-        # Comma-separated = try each in order, take first match
         for sel in (s.strip() for s in selector.split(",") if s.strip()):
             node = tree.css_first(sel)
             if node is not None:
-                return node.html or ""
-    body = tree.css_first("body")
-    return (body.html if body else text) or text
+                root = node
+                break
+    if root is None:
+        root = tree.css_first("body") or tree.root
+
+    # Unwrap requested tags (drop the tag itself, keep its children inline).
+    # Useful for layout tables and <font>/<span> cruft on legacy vatican.va
+    # pages. Selectolax has no native unwrap; we do it via string replacement
+    # on the serialized HTML, which is safe because we only touch tags by name.
+    html_out = root.html or ""
+    if unwrap_tags:
+        import re
+        for tag in unwrap_tags:
+            # Remove opening <tag ...> and closing </tag>
+            html_out = re.sub(
+                rf"<{tag}(\s[^>]*)?>",
+                "",
+                html_out,
+                flags=re.IGNORECASE,
+            )
+            html_out = re.sub(
+                rf"</{tag}\s*>",
+                "",
+                html_out,
+                flags=re.IGNORECASE,
+            )
+    return html_out
 
 
 async def process_one(
@@ -120,7 +155,7 @@ async def process_one(
             content_hash = dedup.sha256_text(result.content.decode("latin-1", errors="replace"))
         else:
             selector = ref.body_selector or SITE_SELECTORS.get(fetcher._domain(ref.url))
-            body_html = _extract_body(result.content, selector)
+            body_html = _extract_body(result.content, selector, ref.unwrap_tags)
             body_md = markdown.html_to_markdown(body_html)
             ref.target_dir.mkdir(parents=True, exist_ok=True)
             md_path.write_text(body_md, encoding="utf-8")

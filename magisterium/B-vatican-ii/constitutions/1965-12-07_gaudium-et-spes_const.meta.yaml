@@ -1,0 +1,23 @@
+incipit: Gaudium et Spes
+titre_fr: Constitution pastorale sur l'Église dans le monde de ce temps
+auteur: Paul VI
+periode: vatican-ii
+type: constitution-conciliaire
+date: '1965-12-07'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- eglise-et-monde
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 2aba72df7fdb7f56181374a26690792f3d028362bf8c332ae59088c7f4e593d6

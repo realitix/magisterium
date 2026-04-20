@@ -1,0 +1,23 @@
+incipit: Lumen Gentium
+titre_fr: Constitution dogmatique sur l'Église
+auteur: Paul VI
+periode: vatican-ii
+type: constitution-conciliaire
+date: '1964-11-21'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- ecclesiologie
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 94384b17a0e67e41193ed8c336ddad2ef4fd2c7493cc2df195d2b5a4e67d150a

@@ -1,0 +1,23 @@
+incipit: Orientalium Ecclesiarum
+titre_fr: Décret sur les Églises orientales catholiques
+auteur: Paul VI
+periode: vatican-ii
+type: decret-conciliaire
+date: '1964-11-21'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- eglises-orientales
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 3fc2fbdd35aecb6f16beee7cd7beb33386fd7a3d638a4082bed125fef1a69c11

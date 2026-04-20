@@ -1,0 +1,23 @@
+incipit: Nostra Aetate
+titre_fr: Déclaration sur les relations de l'Église avec les religions non chrétiennes
+auteur: Paul VI
+periode: vatican-ii
+type: declaration-conciliaire
+date: '1965-10-28'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- religions-non-chretiennes
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: cd393ad6750354f32c5ed812e498cad96e7d9688ea6b48e56cbbebe3d359f098

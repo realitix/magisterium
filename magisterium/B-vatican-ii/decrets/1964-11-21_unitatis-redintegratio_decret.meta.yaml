@@ -1,0 +1,23 @@
+incipit: Unitatis Redintegratio
+titre_fr: Décret sur l'œcuménisme
+auteur: Paul VI
+periode: vatican-ii
+type: decret-conciliaire
+date: '1964-11-21'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- oecumenisme
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 891494a29614cbc8ebc623b17f8771c6cc6579f1f015bb086b1d2bad675c54c3

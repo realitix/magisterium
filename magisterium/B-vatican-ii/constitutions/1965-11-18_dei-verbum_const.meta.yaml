@@ -1,0 +1,24 @@
+incipit: Dei Verbum
+titre_fr: Constitution dogmatique sur la Révélation divine
+auteur: Paul VI
+periode: vatican-ii
+type: constitution-conciliaire
+date: '1965-11-18'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- revelation
+- ecriture-sainte
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 34fe279fc1ac69c8e77bdff95d3f5d97f75abb2ff4d770953cc3363d02407d77

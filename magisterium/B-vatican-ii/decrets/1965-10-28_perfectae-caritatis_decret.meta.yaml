@@ -1,0 +1,23 @@
+incipit: Perfectae Caritatis
+titre_fr: Décret sur la rénovation de la vie religieuse
+auteur: Paul VI
+periode: vatican-ii
+type: decret-conciliaire
+date: '1965-10-28'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- vie-religieuse
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 4b7907d137546afbf261e81ef93f5b265852863bcb6fe90674055375a5c8d1ba

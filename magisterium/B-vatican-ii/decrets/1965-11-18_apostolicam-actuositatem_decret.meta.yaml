@@ -1,0 +1,24 @@
+incipit: Apostolicam Actuositatem
+titre_fr: Décret sur l'apostolat des laïcs
+auteur: Paul VI
+periode: vatican-ii
+type: decret-conciliaire
+date: '1965-11-18'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- laics
+- apostolat
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 50a0132f7a1402ddc92f0087dd9036e4cf80b7dbdd7b70d02533cbb226447a30

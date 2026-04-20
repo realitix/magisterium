@@ -1,0 +1,24 @@
+incipit: Presbyterorum Ordinis
+titre_fr: Décret sur le ministère et la vie des prêtres
+auteur: Paul VI
+periode: vatican-ii
+type: decret-conciliaire
+date: '1965-12-07'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- pretres
+- ministere
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: cc18e874afc7f23c5b93656a2131d02e36b949b67ecaff6faa66fa87f090f895

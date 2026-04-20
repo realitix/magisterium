@@ -1,0 +1,23 @@
+incipit: Sacrosanctum Concilium
+titre_fr: Constitution sur la sainte liturgie
+auteur: Paul VI
+periode: vatican-ii
+type: constitution-conciliaire
+date: '1963-12-04'
+autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 705cc80a074d0bbdd9796e65ea62c8dfa0b15e84b57ad3e993b0125eb647aa6a

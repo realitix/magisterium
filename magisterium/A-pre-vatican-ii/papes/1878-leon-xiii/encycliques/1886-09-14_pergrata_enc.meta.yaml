@@ -1,0 +1,21 @@
+incipit: Pergrata
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1886-09-14'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: c28c1583231f57247f8eacbe29592fdbf6e67c781dd2d034b9b7f800cd8a8c39

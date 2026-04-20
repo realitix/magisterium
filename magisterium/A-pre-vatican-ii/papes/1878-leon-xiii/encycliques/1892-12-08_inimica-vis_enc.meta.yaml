@@ -1,0 +1,21 @@
+incipit: Inimica vis
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1892-12-08'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 0721901e8deeb0a60e433c362c3dcfd77bcc4f3aab0c119f1c8972d69fd3b6d0

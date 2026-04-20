@@ -1,0 +1,21 @@
+incipit: Firmissimam constantiam
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1937-03-28'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370328_firmissimam-constantiam.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 7199d21edc34734d31f14078dc89c9e7a398a2459b3e014f363b13363e0f332c

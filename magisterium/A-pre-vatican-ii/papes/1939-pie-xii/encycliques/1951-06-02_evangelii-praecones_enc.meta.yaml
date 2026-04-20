@@ -1,0 +1,21 @@
+incipit: Evangelii praecones
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1951-06-02'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19510602_evangelii-praecones.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 8940055ac3b0db50dc13dc81267a468fc25b605aa4b0f9685c59f0091e9e396c

@@ -1,0 +1,21 @@
+incipit: Communium interpretes dolorum
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1945-04-15'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 928e0bbf6ef1fc32a1f1fd92d9c5d0b876a51a1827b9d9a1c63d6032d6fe2738

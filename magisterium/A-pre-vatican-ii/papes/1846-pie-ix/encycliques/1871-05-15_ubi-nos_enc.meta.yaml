@@ -1,0 +1,21 @@
+incipit: Ubi nos
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1871-05-15'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-nos-15-maii-1871.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: d356b4bb8078205339b73ca43b24657a618465a3126f7706b58f76e0542195c7

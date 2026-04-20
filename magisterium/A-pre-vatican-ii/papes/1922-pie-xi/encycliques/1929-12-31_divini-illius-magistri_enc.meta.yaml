@@ -1,0 +1,21 @@
+incipit: Divini illius magistri
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1929-12-31'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 28d7734a29e2a25759128ab33bf9a81ce75a997f5f415c395221ae2a7c832a56

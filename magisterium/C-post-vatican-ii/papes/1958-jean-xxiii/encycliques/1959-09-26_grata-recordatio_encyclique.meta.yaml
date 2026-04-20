@@ -1,0 +1,23 @@
+incipit: Grata Recordatio
+titre_fr: Sur le rosaire
+auteur: Jean XXIII
+periode: post-vatican-ii
+type: encyclique
+date: '1959-09-26'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- rosaire
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 66d28069106dabc845f8510be0bdb3e0a4191c47991f094a981e59d60ce22b8e

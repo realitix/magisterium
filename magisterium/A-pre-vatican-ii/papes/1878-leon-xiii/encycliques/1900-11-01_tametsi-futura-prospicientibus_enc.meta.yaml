@@ -1,0 +1,21 @@
+incipit: Tametsi futura prospicientibus
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1900-11-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 8fd854ae641de1fba12cea601c7f6eb6c7df267e0607f42b577a5c0d6419ab0b

@@ -1,0 +1,21 @@
+incipit: Gravibus ecclesiae
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1874-12-24'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-gravibus-ecclesiae-24-decembris-1874.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 0bbb6f13aca53b311191513bb67ce9dd53b6d197d2a76e3410a7f3c48eaaad5b

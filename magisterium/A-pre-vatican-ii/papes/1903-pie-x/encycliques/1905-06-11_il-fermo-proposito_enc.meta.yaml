@@ -1,0 +1,21 @@
+incipit: Il fermo proposito
+auteur: Pie X
+periode: pre-vatican-ii
+type: encyclique
+date: '1905-06-11'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_11061905_il-fermo-proposito.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: bf7ff42b25ae5835cb7ad497251054f1106cbb616e5955f5855e7979f1a90119

@@ -1,0 +1,21 @@
+incipit: Nullis certe
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1860-01-19'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-nullis-certe-19-gennaio-1860.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: bc6420f4c7ac712f3ae54654f5ca455dd1bd9a9a2509399cce1c473872485842

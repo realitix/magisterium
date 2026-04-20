@@ -1,0 +1,21 @@
+incipit: Paternae
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1899-09-18'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18091899_paternae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: dbcf40d37ec03e9489733cc963ffd676d1155cd24657e7ca92e0c7fc6a27832f

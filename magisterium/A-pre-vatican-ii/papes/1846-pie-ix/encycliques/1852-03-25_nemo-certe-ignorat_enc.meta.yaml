@@ -1,0 +1,21 @@
+incipit: Nemo certe ignorat
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1852-03-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-nemo-certe-ignorat-25-marzo-1852.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: 373be661662b48f6d86b993297e5bc8087696a2f07524d73970c72e31f2f86cd

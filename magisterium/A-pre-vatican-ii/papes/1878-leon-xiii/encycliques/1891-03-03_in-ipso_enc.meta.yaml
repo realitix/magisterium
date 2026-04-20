@@ -1,0 +1,21 @@
+incipit: In ipso
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1891-03-03'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_03031891_in-ipso.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 8b546187211729d2cb2febe88e8405554b59cbe341a85f24ab3354be8cad1d5f

@@ -1,0 +1,21 @@
+incipit: Qui nuper
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1859-06-18'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-qui-nuper-18-giugno-1859.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: a3ed8c2545bf7fffce218a0bd609dfe0fa85b808cadb20fa8bd2128fbbd4e57a

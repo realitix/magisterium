@@ -1,0 +1,21 @@
+incipit: Neminem vestrum
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1854-02-02'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-neminem-vestrum-2-febbraio-1854.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: 2e2014dd1bdc3c75ca98602b5009d67dd03daaa9baf3226c738c5aa8e58dca64

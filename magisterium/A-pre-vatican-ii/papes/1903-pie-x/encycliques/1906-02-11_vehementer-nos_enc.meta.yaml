@@ -1,0 +1,21 @@
+incipit: Vehementer nos
+auteur: Pie X
+periode: pre-vatican-ii
+type: encyclique
+date: '1906-02-11'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 634f560c7013a49e291a586347863c26acd393f69dce0a5efbdeb4bb795ffe2c

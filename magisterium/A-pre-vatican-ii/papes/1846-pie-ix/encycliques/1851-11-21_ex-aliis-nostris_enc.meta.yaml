@@ -1,0 +1,21 @@
+incipit: Ex aliis nostris
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1851-11-21'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-ex-aliis-nostris-21-novembre-1851.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: 248e0858c670af1ec27d172d5d3bb1dcd23d1dcb25fef81525315723b02ecf51

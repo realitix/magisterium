@@ -1,0 +1,21 @@
+incipit: Exeunte iam anno
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1888-12-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 2109c7d8a2e5d92f8447cf61e236430eee727b713a0605b62b50d8e7cb14e38a

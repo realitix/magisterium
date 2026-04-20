@@ -1,0 +1,21 @@
+incipit: Ecclesiae fastos
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1954-06-05'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19540605_ecclesiae-fastos.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 96a68e88dd7d0ff748bcc954e9f1be9aa546e98cd8f33c24c354f751d4921b50

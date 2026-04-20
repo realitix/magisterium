@@ -1,0 +1,21 @@
+incipit: Maximam gravissimamque
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1924-01-18'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 29325b6e387f5aa05a9fa35c28b1eba093ea21768c547e72f15ded76fd31f78d

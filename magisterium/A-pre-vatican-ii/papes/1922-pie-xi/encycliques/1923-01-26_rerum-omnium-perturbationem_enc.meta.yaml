@@ -1,0 +1,21 @@
+incipit: Rerum omnium perturbationem
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1923-01-26'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 35478525c5ba0737d9c36089fccb4b2e26b724e952a3beac0ec1e10a18c7bc28

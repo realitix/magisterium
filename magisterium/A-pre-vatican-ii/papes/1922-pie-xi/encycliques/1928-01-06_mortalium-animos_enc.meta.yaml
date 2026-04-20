@@ -1,0 +1,21 @@
+incipit: Mortalium animos
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1928-01-06'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 7b28dd6141d65b49c045cc44a2ddb14ff9ca4b2d660670765c87cb76b5ca8cf6

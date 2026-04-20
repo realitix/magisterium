@@ -1,0 +1,21 @@
+incipit: Quod auctoritate
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1885-12-22'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: d6c1cba820319283254eb5172a35f5ba7502e2b0b14070f78e3724425d3df491

@@ -1,0 +1,23 @@
+incipit: Mater et Magistra
+titre_fr: Sur les récents développements de la question sociale
+auteur: Jean XXIII
+periode: post-vatican-ii
+type: encyclique
+date: '1961-05-15'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- doctrine-sociale
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 936413fa23bf5839f594a09a5b62e5fdb36112e7f11e89f93144c5e069473c44

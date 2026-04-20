@@ -1,0 +1,21 @@
+incipit: Redemptoris nostri cruciatus
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1949-04-15'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19490415_redemptoris-nostri-cruciatus.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: bc4ce1635e2d58ff41825c1199c5f4f06e56c6ce7c0078be057909ce3fa039ac

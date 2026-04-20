@@ -1,0 +1,21 @@
+incipit: Ad extremas
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1893-06-24'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: dbd1f04cb0ea1cba58efe3c3067fd6c7baab90bac7904352ba94afae6fb5790a

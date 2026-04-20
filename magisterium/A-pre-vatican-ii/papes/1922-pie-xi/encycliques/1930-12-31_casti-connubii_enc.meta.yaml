@@ -1,0 +1,21 @@
+incipit: Casti connubii
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1930-12-31'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: e97651ba78135341d625a0f015434314c9acf88749fedab485c2b4533156eac8

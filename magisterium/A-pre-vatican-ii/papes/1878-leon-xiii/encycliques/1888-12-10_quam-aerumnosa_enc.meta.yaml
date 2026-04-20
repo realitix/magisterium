@@ -1,0 +1,21 @@
+incipit: Quam aerumnosa
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1888-12-10'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 644296fa87e5842d8cb3da4582f6328ea93d8c3a39f91c4e52013e8a5ea4169b

@@ -1,0 +1,21 @@
+incipit: Caritatis
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1894-03-19'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_19031894_caritatis.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 657f1697589a7f646b989b1cffb5667e6ec1f60c67a8b7caad46b59b3a5ec53e

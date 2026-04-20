@@ -1,0 +1,21 @@
+incipit: Auspicia quaedam
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1948-05-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19480501_auspicia-quaedam.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: ce42955d30f2027f33f58b22d64a2de117d0cdf82b1babbd1e44fc6b3666c861

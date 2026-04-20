@@ -1,0 +1,23 @@
+incipit: Lumen Fidei
+titre_fr: Sur la foi (rédigée principalement par Benoît XVI)
+auteur: François
+periode: post-vatican-ii
+type: encyclique
+date: '2013-06-29'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- foi
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 0e94d1b0cf5df269b2a2c0ce3af80527878bfb81ceb6de32a82801f8d78db18a

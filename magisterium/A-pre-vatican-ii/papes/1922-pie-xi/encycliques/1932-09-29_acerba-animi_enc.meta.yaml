@@ -1,0 +1,21 @@
+incipit: Acerba animi
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1932-09-29'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 0eef2bf3112acc3359fc6c9b7011dd0e641dda1522caab52d4794f5f5230b254

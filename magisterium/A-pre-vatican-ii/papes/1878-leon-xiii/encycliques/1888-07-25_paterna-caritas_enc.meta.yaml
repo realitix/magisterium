@@ -1,0 +1,21 @@
+incipit: Paterna caritas
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1888-07-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: ba2a022b20f52ed13589e381c5c630608e8151071e1506bf4b47b19ff23ffd8f

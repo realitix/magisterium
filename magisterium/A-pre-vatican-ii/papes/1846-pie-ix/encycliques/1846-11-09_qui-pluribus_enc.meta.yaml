@@ -1,0 +1,21 @@
+incipit: Qui pluribus
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1846-11-09'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-qui-pluribus-9-novembre-1846.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: eca9665baa82ceda523c3429c6c35c30afc36801eaaa4d53966babe7ea7db4d7

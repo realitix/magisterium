@@ -1,0 +1,21 @@
+incipit: Ubi prima
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1871-03-11'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-prima-11-martii-1871.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 49452ed9a9f6ad642e6f378a1376ab2d35c7f47f67ccfb97f6a6f4678714bf5a

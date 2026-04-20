@@ -1,0 +1,21 @@
+incipit: Iamdudum
+auteur: Pie X
+periode: pre-vatican-ii
+type: encyclique
+date: '1911-05-24'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_24051911_iamdudum.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: f47c23b1920105d2242c8ea97eb2d558662cfe8c19b9b30ef7ae46e66d853add

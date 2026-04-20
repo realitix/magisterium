@@ -1,0 +1,21 @@
+incipit: Editae saepe
+auteur: Pie X
+periode: pre-vatican-ii
+type: encyclique
+date: '1910-05-26'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 66f81638ddbd3262a8069c5ca9b6ed1a02d361fa2466b864d8771482b541ab04

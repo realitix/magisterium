@@ -1,0 +1,21 @@
+incipit: Praedecessores nostros
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1847-03-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-praedecessores-nostros-25-marzo-1847.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: 4e49c261dd21481608dce0c266f0ca794b1322d2251d99a43ff26ba40347c644

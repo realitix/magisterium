@@ -1,0 +1,24 @@
+incipit: Fratelli Tutti
+titre_fr: Sur la fraternité et l'amitié sociale
+auteur: François
+periode: post-vatican-ii
+type: encyclique
+date: '2020-10-03'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- fraternite
+- doctrine-sociale
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 491cb77daaf1e7e82c3b53b26e21ad406fdb940fcd4ac7834f8deef4bdcf3341

@@ -1,0 +1,21 @@
+incipit: Levate
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1867-10-17'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-levate-17-octobris-1867.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 2fb81147c2cd9929a66408a8c391fa41e77303a3d17e37c465756e854d26b9af

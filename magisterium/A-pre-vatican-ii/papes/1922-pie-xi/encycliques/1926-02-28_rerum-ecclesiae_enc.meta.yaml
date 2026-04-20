@@ -1,0 +1,21 @@
+incipit: Rerum ecclesiae
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1926-02-28'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 1951b2aa2694b86ca84fd09150b9bfceac870fddad58c7d88e2720f23266b3cb

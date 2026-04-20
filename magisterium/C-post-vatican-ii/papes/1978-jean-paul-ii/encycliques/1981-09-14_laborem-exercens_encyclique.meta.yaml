@@ -1,0 +1,24 @@
+incipit: Laborem Exercens
+titre_fr: Sur le travail humain
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: encyclique
+date: '1981-09-14'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- doctrine-sociale
+- travail
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: c99507106394817a8e3b9ab9b264b98b6545d4e14c0899d5fceb127d0bb24222

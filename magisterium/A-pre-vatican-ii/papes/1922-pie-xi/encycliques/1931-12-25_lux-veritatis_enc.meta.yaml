@@ -1,0 +1,21 @@
+incipit: Lux veritatis
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1931-12-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311225_lux-veritatis.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: e21c0dedcb9029f9a71d728d4584bcd6dd74f8625b95ce0c9c1ed5cf0f007daa

@@ -1,0 +1,21 @@
+incipit: Principi apostolorum petro
+auteur: Benoît XV
+periode: pre-vatican-ii
+type: encyclique
+date: '1920-10-05'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: eb90bccddd019c0a885ee7e49b0f4c4b365cd665bcc253a0b1c9f5e1bd8cfd56

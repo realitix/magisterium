@@ -1,0 +1,21 @@
+incipit: Paterno iam diu
+auteur: Benoît XV
+periode: pre-vatican-ii
+type: encyclique
+date: '1919-11-24'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_24111919_paterno-iam-diu.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 92222098fe286201a58bd3c45c8c20a50ea10de42fabd132cd4d67b8bbd01664

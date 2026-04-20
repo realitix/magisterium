@@ -1,0 +1,21 @@
+incipit: Divini redemptoris
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1937-03-19'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: b26244161b2ea6e2c6f38d12e5dfa9c58c109ea1590345e0bdc2de1782b47802

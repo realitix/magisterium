@@ -1,0 +1,21 @@
+incipit: Summi maeroris
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1950-07-19'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 8c2f9160d07c951b6beb7aa962fb8bc8ef98d702fe59661406ff6fd86a293ba5

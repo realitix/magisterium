@@ -1,0 +1,21 @@
+incipit: Vi e ben noto
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1887-09-20'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 9f7a1d1d5608fe8ba8327932d7885f5f1e0add3a810db359dacf3232e99de7a8

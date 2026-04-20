@@ -1,0 +1,21 @@
+incipit: Deiparae virginis mariae
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1946-05-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: ae1f63d41d1dac69fcbf04f446eb9606401d874f297b02390d1b4c6080d5c2a5

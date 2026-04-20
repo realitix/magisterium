@@ -1,0 +1,25 @@
+incipit: Pacem in Terris
+titre_fr: Sur la paix entre toutes les nations, dans la vérité, la justice, la charité
+  et la liberté
+auteur: Jean XXIII
+periode: post-vatican-ii
+type: encyclique
+date: '1963-04-11'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- paix
+- doctrine-sociale
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: fcb243887bd8e47cf612348f2b12cec89ff8aa7e77840bb7f036c0bcf23cb5e3

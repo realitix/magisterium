@@ -1,0 +1,25 @@
+incipit: Humanae Vitae
+titre_fr: Sur le mariage et la régulation des naissances
+auteur: Paul VI
+periode: post-vatican-ii
+type: encyclique
+date: '1968-07-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- mariage
+- sexualite
+- bioethique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: fed9c659d34792b26ca547316e5e77fc0d82a297a86affa26e7d2160cd4e0ed2

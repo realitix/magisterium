@@ -1,0 +1,21 @@
+incipit: Ubi primum
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1849-02-02'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-ubi-primum-2-febbraio-1849.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: 04026e5991a5cef171261d07ed27627d7e0d07f4f1826889427215ad13f9210e

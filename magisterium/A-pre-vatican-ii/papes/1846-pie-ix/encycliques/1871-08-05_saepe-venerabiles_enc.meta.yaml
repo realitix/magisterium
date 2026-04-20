@@ -1,0 +1,21 @@
+incipit: Saepe venerabiles
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1871-08-05'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-saepe-venerabiles-5-augusti-1871.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 86a0a93e7bc985de85cedd1efac08a9468cefb6a860202697c43c3784ce37b23

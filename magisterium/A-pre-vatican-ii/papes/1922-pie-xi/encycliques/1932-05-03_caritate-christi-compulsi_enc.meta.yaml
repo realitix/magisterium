@@ -1,0 +1,21 @@
+incipit: Caritate christi compulsi
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1932-05-03'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: e26739a92a0139e07393e842531a0236b4a015b8ec2ec7c43245a7ce1529f877

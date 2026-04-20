@@ -1,0 +1,21 @@
+incipit: Quartus supra
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1873-01-06'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/la/documents/enciclica-quartus-supra-6-gennaio-1873.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: cd43a7f7112859598dec0e81c5eef6cb5efade6c0983742a0dbc264f2a89c6bd

@@ -1,0 +1,21 @@
+incipit: Officio sanctissimo
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1887-12-22'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: d7256e2af06fa77641fbd58bcb0d53d994b337fca2737de4cde9ba7f6745108e

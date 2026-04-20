@@ -1,0 +1,21 @@
+incipit: Quanta cura
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1864-12-08'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 4aa22d1d764f6788f0cf877887dc9eae8de0a6383abbd4d7036c319530078fd3

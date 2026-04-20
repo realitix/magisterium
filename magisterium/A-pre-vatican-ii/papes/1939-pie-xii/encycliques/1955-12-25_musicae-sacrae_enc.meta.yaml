@@ -1,0 +1,21 @@
+incipit: Musicae sacrae
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1955-12-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 3f75e015debd57c407c30bac5b07fb12c1a792383cf1c1ac6d5249cb2841295c

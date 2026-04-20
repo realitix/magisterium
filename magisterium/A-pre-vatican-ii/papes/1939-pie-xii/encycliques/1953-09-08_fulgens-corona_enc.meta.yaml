@@ -1,0 +1,21 @@
+incipit: Fulgens corona
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1953-09-08'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: cd66af40ee310a109739e18c7f1a87120c80bcaead06d5d558ba95adf880d557

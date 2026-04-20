@@ -1,0 +1,24 @@
+incipit: Ad Petri cathedram
+titre_fr: Sur la vérité, l'unité et la paix, dans un esprit de charité
+auteur: Jean XXIII
+periode: post-vatican-ii
+type: encyclique
+date: '1959-06-29'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- unite
+- paix
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 7266bec928785b62d3e63b211d1fc1098ebef26e731d24da73a24f3d2476909c

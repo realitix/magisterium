@@ -1,0 +1,21 @@
+incipit: Summi pontificatus
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1939-10-20'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: a1fa9ee1a4d13a9affc30f04067327fb0fcf2afee293b82df9e01a1826addab6

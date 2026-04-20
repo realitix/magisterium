@@ -1,0 +1,21 @@
+incipit: In praeclara summorum
+auteur: Benoît XV
+periode: pre-vatican-ii
+type: encyclique
+date: '1921-04-30'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 1a65b75c6cbdd486625dee367b64eb7e34abafa74a5a6bff18211df29005947e

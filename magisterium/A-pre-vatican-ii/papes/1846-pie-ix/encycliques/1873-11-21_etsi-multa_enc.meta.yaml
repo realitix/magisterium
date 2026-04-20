@@ -1,0 +1,21 @@
+incipit: Etsi multa
+auteur: Pie IX
+periode: pre-vatican-ii
+type: encyclique
+date: '1873-11-21'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- it
+langue_originale: it
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-etsi-multa-21-novembre-1873.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+sha256:
+  it: 9ea294fb5a738d3b20f391e1ba18e08c75180dbf4b1c5f618ef3939361c0e671

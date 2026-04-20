@@ -1,0 +1,21 @@
+incipit: Nova impendet
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1931-10-02'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: c878873d81080652d3530a5fe4892af02ac7d5c03796de57f3967fbfcdbd9269

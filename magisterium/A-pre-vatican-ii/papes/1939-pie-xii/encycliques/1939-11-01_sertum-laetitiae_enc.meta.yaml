@@ -1,0 +1,21 @@
+incipit: Sertum laetitiae
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1939-11-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: ced5a7e207097ecf988719158859061b32a4cb822a6194471256cea96128a7c6

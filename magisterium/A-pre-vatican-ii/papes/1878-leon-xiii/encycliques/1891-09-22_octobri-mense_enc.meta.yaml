@@ -1,0 +1,21 @@
+incipit: Octobri mense
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: encyclique
+date: '1891-09-22'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 4b45d44d26fd3905b1447f264f90642272fa753f1a964d86c018279a3a4578c7

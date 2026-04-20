@@ -1,0 +1,21 @@
+incipit: Ad salutem humani
+auteur: Pie XI
+periode: pre-vatican-ii
+type: encyclique
+date: '1930-04-20'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19300420_ad-salutem-humani.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: b6ba4f5d4db0c1e0127693a63010d623f7bc5d9ced3dcd663e0dbe172e146681

@@ -1,0 +1,24 @@
+incipit: Ecclesiam Suam
+titre_fr: Sur les chemins de l'Église
+auteur: Paul VI
+periode: post-vatican-ii
+type: encyclique
+date: '1964-08-06'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- ecclesiologie
+- dialogue
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 7eb8a613bafcd16f7ddd41c8a182506f064e86aeb798f21b24811ebbae148d69

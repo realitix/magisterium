@@ -1,0 +1,21 @@
+incipit: Invicti athletae
+auteur: Pie XII
+periode: pre-vatican-ii
+type: encyclique
+date: '1957-05-16'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 1be7b757a80d7ae388325126b69b9d0169251d65fc65da090fcada174da7edb5

@@ -1,0 +1,57 @@
+[IT](/content/pius-ix/it/documents/enciclica-omnem-sollicitudinem-13-maggio-1874.html)
+
+ENCICLICA  
+***OMNEM SOLLICITUDINEM***  
+DEL SOMMO PONTEFICE  
+**PIO IX**
+
+ 
+
+*Agli Arcivescovi dei Ruteni di Leopoli, di Halicz e di Kamiensk, e agli altri Vescovi dello stesso rito aventi grazia e comunione con la Sede Apostolica.  
+Il Papa Pio IX. Venerabili Fratelli, salute e Apostolica Benedizione. *
+
+Fin dai primi anni del Nostro lungo Pontificato abbiamo impegnato tutta la Nostra attenzione e abbiamo operato per procurare e favorire il bene spirituale delle Chiese Orientali, dichiarando solennemente, fra le altre cose, che le peculiari liturgie di rito cattolico  dovevano essere mantenute e conservate con ogni cura e diligenza, in sintonia con i Nostri Predecessori che le circondarono della massima attenzione e considerazione.
+
+Esiste al riguardo una ricca documentazione a noi trasmessa da Clemente VIII nella sua Costituzione *Magnus Dominus* del 1595, da Paolo V nel suo Breve del 10 dicembre 1615, e soprattutto, per tralasciare altri documenti, da Benedetto XIV nelle sue Encicliche *Demandata* del 1743 e **Allatae sunt** del 1755.
+
+Esistendo uno stretto rapporto che lega le norme liturgiche alle dottrine dogmatiche, questa Sede Apostolica, maestra infallibile della Fede e accorta custode della Verità, non appena rilevava che “*si era insinuato nella Chiesa Orientale qualche rito pericoloso e disdicevole, lo condannava, lo riprovava e ne interdiceva l’uso*” \[Benedictus XIV in suis Litteris **Allatae sunt, § 27**, die 26 Iulii 1755\].
+
+La summenzionata sollecitudine a mantenere integri gli antichi riti liturgici non impedì di accogliere tra i riti orientali alcuni altri praticati presso altre Chiese e che, come scriveva Gregorio XVI di felice memoria ai Cattolici Armeni, “*i vostri antenati preferirono, o perché sembravano più semplici, o perché li avevano accolti già da qualche tempo come segno di distinzione dagli eretici e dagli scismatici*” \[Gregorius XVI in suis Litteris *Studium paternae benevolentiae*, die 2 Maii 1836\]. “*Resta dunque ferma*”, come tramanda lo stesso Sommo Pontefice, “*la norma che ribadisce l’obbligo di non procedere a modifiche dei sacri riti liturgici senza aver preventivamente consultato la Sede Apostolica, sia pure con il pretesto di introdurre cerimonie ritenute più conformi alle liturgie approvate dalla stessa Sede, se non in presenza di serie motivazioni e dopo l’assenso della stessa Sede Apostolica*” \[Gregorius XVI in suis Litteris **Inter gravissimas**, diei 3 Februarii 1832\].
+
+A queste norme, saggiamente disposte per tutte le Chiese di rito orientale, deve pure soggiacere, come fu più volte dichiarato, ma soprattutto nel menzionato Breve di Paolo V, la disciplina liturgica dei Ruteni, che i Romani Pontefici non cessarono mai di circondare con particolare benevolo affetto e con peculiari favori. Non appena si prospettò qualche pericolo a minacciare la loro fede, la Sede Apostolica non tralasciò di far udire immediatamente la propria voce per ovviare a un così grave male. È tuttora viva l’eco delle solenni parole pronunciate dal Nostro Predecessore Gregorio XVI di felice memoria \[Allocutio habita in Consistorio diei 22 Nov. 1838\], quando la Nazione dei Ruteni, come è noto a tutti, fu coinvolta in una situazione di così estrema gravità che tre milioni di loro furono strappati dal seno della Chiesa Cattolica, e ancora oggi ne piangiamo.
+
+Neppure mancò l’aiuto della Sede Apostolica alla Nazione dei Ruteni, quando sorsero gravi e interminabili controversie nella Provincia di Leopoli per la difformità dei riti e per i rapporti che intercorrevano fra gli ecclesiastici di rito latino e quelli di rito greco, con negativi riflessi sulla carità cristiana. Intervenne allora un accordo, o convenzione, proposto dai Vescovi di entrambi i riti che, sancito da un decreto della S. Congregazione di Propaganda Fide per gli affari delle Chiese di rito orientale in data 6 ottobre 1863, risolse e pose felicemente fine alla controversia.
+
+Per la verità, la deplorevole situazione in cui si viene a trovare la stessa Provincia ecclesiastica \[di Leopoli\], e in modo particolare la confinante Diocesi di Chelm, chiama nuovamente in causa, e a buon diritto, il Nostro dovere di sollecita vigilanza. È assai recente la notizia a Noi riportata di un’accesa controversia fra codesti Cattolici di rito Greco-Ruteno temerariamente imbastita su questioni di liturgia. Alcuni individui, e tra questi anche membri del clero, attratti dalle novità e sulla scorta di un loro capriccio, vanno proponendo innovazioni dei riti liturgici, alcuni già in uso da tempo immemorabile e altri solennemente recepiti dal Sinodo di Zamos´c´, approvato dalla Sede Apostolica \[Benedictus XIII in suo Brevi *Apostolatus Officium diei* 19 Iulii 1724\].
+
+Ma ciò che maggiormente Ci affligge e riempie di profonda amarezza il Nostro cuore è la gravissima situazione, a Noi recentemente riferita, in cui versa la Diocesi di Chelm. Non appena si allontanò il Vescovo, scelto da Noi stessi pochi anni orsono e ancora spiritualmente legato a quella Diocesi, uno pseudo-amministratore già da Noi ritenuto indegno della dignità episcopale, non esitò ad usurpare la giurisdizione ecclesiastica, a sovvertire ogni cosa nella suddetta Chiesa, a sconvolgere e ad alterare a proprio arbitrio le disposizioni liturgiche sancite dai canoni.
+
+Con animo affranto scorriamo le righe della lettera circolare emanata il 20 ottobre 1873, con cui quel funesto pseudo-amministratore osa innovare l’esercizio del culto divino e la sacra liturgia, con l’evidente proposito di introdurre nella cattolica Diocesi di Chelm la liturgia degli scismatici: al fine di ingannare gli incolti e gl’ingenui per indurli più facilmente allo scisma, non si vergogna di produrre varie Costituzioni della Sede Apostolica storcendone fraudolentemente le disposizioni al proprio scopo. D’altra parte, non può esserci alcuno che non ritenga nullo e irrito quanto disposto sulla liturgia nella succitata lettera, e Noi, forti del Nostro Potere Apostolico, dichiariamo ciò nullo è irrito. Questo pseudo-amministratore risulta assolutamente privo di qualsiasi giurisdizione ecclesiastica: né il Vescovo legittimo al momento della partenza, né in seguito la Sede Apostolica giammai gliela conferirono. È dunque chiaro ed evidente che “*non è entrato nell’ovile delle pecore per la porta, ma che vi è penetrato per altra via*” (Gv 10,1), e deve essere considerato un intruso.
+
+I Sacri Canoni della Chiesa dispongono che gli antichi riti orientali legittimamente introdotti debbano essere scrupolosamente osservati: “*I Romani Pontefici Nostri Predecessori, dopo averli esaminati con ogni cura e non avendoli trovati in contrasto con la Fede cattolica, né occasione di pericolo per le anime, né capaci di sminuire il decoro ecclesiastico, ritennero opportuno approvarli e permetterli*” \[Benedictus XIV in sua Consitutione *Etsi pastoralis*, edita die 26 Mai 1742\]; sono sempre gli stessi Romani Pontefici a proclamare solennemente che a nessuno è lecito, senza aver consultato questa Sede Apostolica, introdurre nella liturgia innovazioni sia pure di poco peso. È quanto dispongono chiaramente le Costituzioni Apostoliche ricordate all’inizio della presente.
+
+Non ha alcuna importanza il fatto che, per gettare fumo negli occhi, si presentino le innovazioni come strumento per purificare i riti orientali e restituirli all’antica forma. Non può infatti esistere alcuna altra liturgia dei Ruteni diversa da quella istituita dai Santi Padri della Chiesa, definita dai canoni dei Sinodi, invalsa per legittima consuetudine, ma sempre espressamente o tacitamente approvata dalla Sede Apostolica. Se con il trascorrere del tempo subentrarono variazioni nella Liturgia, queste non avvennero senza il consenso dei Romani Pontefici e furono introdotte con il preciso intento di preservare i riti da ogni contaminazione eretica e scismatica, perché potessero ergersi a difesa dei dogmi cattolici e della fede, e diventassero più idonei alla promozione del bene delle anime.
+
+Con lo specioso pretesto dunque di purificare i riti e di ricondurli all’antica purezza, queste persone senza scrupoli si propongono di tendere insidie alla fede dei Ruteni di Chelm e di allontanarli dal grembo della Chiesa Cattolica con il chiaro proposito di indirizzarli all’eresia e allo scisma.
+
+Ma in mezzo a queste amarissime avversità, che Ci assediano da ogni parte, Ci ristora e Ci solleva la visione straordinaria di un comportamento eroico e indefettibile offerto recentemente a Dio, agli Angeli e agli uomini dai Ruteni della Diocesi di Chelm. Essi, respingendo le inique disposizioni dello pseudo-amministratore, preferirono affrontare ogni male e mettere addirittura a repentaglio la propria vita piuttosto che sacrificare la fede degli avi e abbandonare i riti cattolici ricevuti dagli antenati, affermando di volerli conservare integri e senza macchia per sempre.
+
+Per parte nostra non tralasciamo di innalzare a Dio, ricco di misericordia, suppliche incessanti perché effonda benigno la luce della sua grazia nel cuore di coloro che, contro ogni norma divina, violentano la Diocesi di Chelm e, nello stesso tempo, sovvenga con la sua onnipotenza quei miseri fedeli privi di ogni aiuto e di assistenza spirituale, e acceleri la consolazione dell’auspicata tranquillità.
+
+A questo punto rivolgiamo a Voi, Venerabili Fratelli, che vi siete fatti carico con tanta dedizione e con zelo ammirevole della cura spirituale dei Ruteni, una pressante esortazione nel Signore perché difendiate le disposizioni liturgiche approvate dalla Sede Apostolica o introdotte con la sua consapevolezza e senza il suo divieto. E poiché non è assolutamente permesso introdurre innovazioni, vogliate affidare una meticolosa salvaguardia dei Sacri Canoni, in particolare delle decisioni del Sinodo di Zamos´c´, ai Parroci e ai Sacerdoti, persino ricorrendo a pene severissime se fosse necessario.
+
+Si tratta infatti di un problema di primaria importanza, cioè della salvezza delle anime, dal momento che le illegittime innovazioni mettono in estremo pericolo la Fede cattolica e la santa unità dei Ruteni. Proprio per questo occorre applicarsi con tutto l’impegno, affrontare ogni fatica e non lasciare nulla di intentato per reprimere sul nascere tutto lo stravolgimento messo in opera da uomini malvagi in codesta regione in campo liturgico. Siamo certi, Venerabili Fratelli, che non verrete meno in alcun modo al preciso dovere di accollarvi, con l’aiuto della grazia di Dio, gli impegni menzionati con decisione e accortezza.
+
+Perché ciò possa felicemente avverarsi, impartiamo con affetto a Voi, Venerabili Fratelli, e al popolo affidato a ciascuno di Voi, l’Apostolica Benedizione.
+
+*Dato a Roma, presso San Pietro, il 13 maggio 1874, anno ventottesimo del Nostro Pontificato.*
+
+    
+
+Copyright © Dicastero per la Comunicazione
+
+[![the holy see](/etc/designs/vatican/library/clientlibs/themes/vatican-v2/images/logo-vatican.png)](/content/vatican/it.html)
+
+## *La* **Santa Sede**
+
+## [*La* **Santa Sede**](/content/vatican/it.html)

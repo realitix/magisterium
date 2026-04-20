@@ -1,0 +1,21 @@
+incipit: Quod iam diu
+auteur: Benoît XV
+periode: pre-vatican-ii
+type: encyclique
+date: '1918-12-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets: []
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: fa0fcad9faa7d3a09adb74a4080062ee01a72d146fdaab7e02a28bae6a6f4377

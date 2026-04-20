@@ -1,0 +1,24 @@
+incipit: Laudato Si'
+titre_fr: Sur la sauvegarde de la maison commune
+auteur: François
+periode: post-vatican-ii
+type: encyclique
+date: '2015-05-24'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- ecologie
+- doctrine-sociale
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 03a98498ec265588126859c59e6574f6bd6bf9e6abf5c08beffecba6d3bc22a3

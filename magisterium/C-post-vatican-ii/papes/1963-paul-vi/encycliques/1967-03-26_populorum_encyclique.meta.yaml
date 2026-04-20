@@ -1,0 +1,24 @@
+incipit: Populorum Progressio
+titre_fr: Sur le développement des peuples
+auteur: Paul VI
+periode: post-vatican-ii
+type: encyclique
+date: '1967-03-26'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- doctrine-sociale
+- developpement
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: eb14c843c21e5d31b5631ee12ec5993bfdaf7c100656d89993938389dc42fd92

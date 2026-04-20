@@ -1,0 +1,25 @@
+incipit: Evangelium Vitae
+titre_fr: Sur la valeur et l'inviolabilité de la vie humaine
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: encyclique
+date: '1995-03-25'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- bioethique
+- vie
+- morale
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 1effd946d53dd55e110f3bb692e853f75856c79349d55953038d2a5cf047b163

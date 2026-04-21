@@ -302,34 +302,37 @@ const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
     font-weight: 500;
   }
 
-  /* FAB mobile — caché par défaut sur desktop */
+  /* FAB mobile — caché par défaut sur desktop, coin bas-gauche sur mobile
+     pour ne pas entrer en conflit avec le bouton "retour en haut" qui est
+     en bas-droite. */
   .toc-fab {
     display: none;
     position: fixed;
     bottom: var(--space-m);
-    right: var(--space-m);
+    left: var(--space-m);
     z-index: 40;
-    padding: 0.7rem 1rem;
+    padding: 0.75rem 1.1rem;
     border: 1px solid var(--rubric);
-    background-color: var(--paper);
-    color: var(--rubric);
+    background-color: var(--rubric);
+    color: var(--paper);
     font-family: var(--font-display);
-    font-size: 0.95rem;
+    font-size: 1rem;
     letter-spacing: 0.04em;
     cursor: pointer;
-    box-shadow: 0 4px 16px -8px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 6px 18px -8px rgba(0, 0, 0, 0.35);
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.55rem;
   }
 
   .toc-fab:hover,
   .toc-fab:focus-visible {
-    background-color: var(--rubric);
+    background-color: var(--rubric-hover);
+    border-color: var(--rubric-hover);
     color: var(--paper);
   }
 
   .toc-fab__icon {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     line-height: 1;
   }
 

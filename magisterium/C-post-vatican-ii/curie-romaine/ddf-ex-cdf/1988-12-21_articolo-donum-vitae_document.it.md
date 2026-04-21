@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 **«Sull’autorità dottrinale della istruzione *Donum vitae*»**\*
 
@@ -49,4 +49,3 @@ A questo punto, non si vede pertanto come si possa oggettivamente negare all’*
 
   
 
-[![top](/img/top.jpg)](#top)

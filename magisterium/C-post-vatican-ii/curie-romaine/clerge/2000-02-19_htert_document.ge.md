@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 AD HORAM TERTIAM
 
@@ -25,4 +25,3 @@ Zur Ausübung der Dienste der Caritas braucht man Festigkeit, Opfergeist, Liebe 
 
 Während eurer Pilgerfahrt nach Rom werden viele oder alle von euch die Laurentius – Basilika vor den Mauern besuchen. Auf dem Grab des römischen Diakons und Martyrers werdet ihr den Satz lesen, den Papst Damasus anbringen ließ: "Die Geißeln der Folterer, die Flammen, die Qualen, die Ketten: nur der Glaube des Laurentius konnte sie besiegen". Nur der Glaube! Und bittet Gott, er möge euch auf die Fürsprache des heilihen Martyrers lieben lehren, was er liebte und zu vollbringen, was er lehrte".
 
-[![top](/img/top.jpg)](#top)

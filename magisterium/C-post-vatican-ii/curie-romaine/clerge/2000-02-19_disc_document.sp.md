@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 DISCURSO : Durante el encuentro con los diáconos permanentes con ocasión de su jubileo, sábado 19 de febrero
 
@@ -75,4 +75,3 @@ La fe ha de transmitirse y comunicarse. También tenéis la tarea de anunciar a 
 
 Os sostenga en esta misión la santísima Virgen. Yo os acompaño con mi oración, confirmada por una especial bendición apostólica, que os imparto de corazón a vosotros, a vuestras esposas, a vuestros hijos y a todos los diáconos que trabajan al servicio del Evangelio en todo el mundo.
 
-[![top](/img/top.jpg)](#top)

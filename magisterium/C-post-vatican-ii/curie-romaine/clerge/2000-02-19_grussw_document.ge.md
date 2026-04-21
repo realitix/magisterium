@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Grusswort
 
@@ -43,4 +43,3 @@ So wollen auch unsere Diakone im Lichte des hl. Stephanus, des hl. Laurentius un
 
 Bestärken Sie, Heiligkeit, diese Diakone, unter denen sich auch 17 Akolythen befinden, die ich morgen in der Peterskirche zu Diakonen weihen darf, in ihrem Entschluß. Stärken Sie auch jene, die die Diakone in verschiedener Weise begleiten, damit sie beständig das wahre Gut erstreben: ein Gut, das weiterfließt zum Bereicherung des ganzen Mystischen Leibes, der Kirche.
 
-[![top](/img/top.jpg)](#top)

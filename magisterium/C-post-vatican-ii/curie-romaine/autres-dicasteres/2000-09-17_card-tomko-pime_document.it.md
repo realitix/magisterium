@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 ***OMELIA DEL CARDINALE JOZEF TOMKO  
 IN OCCASIONE DEL 150° ANNIVERSARIO DI FONDAZIONE   
@@ -46,4 +46,3 @@ Bisogna osare di più. Solo la conoscenza di Cristo ci fa più audaci, ci spinge
 
                  
 
-[![top](/img/top.jpg)](#top)

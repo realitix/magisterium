@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Willkommensgruss
 
@@ -63,4 +63,3 @@ In Kürze werden wir gemeinsam den Rosenkranz beten und der Mutter Gottes unser 
 
 Gott segne euch, die heilige Jungfrau beschützte euch!
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -349,4 +349,3 @@ El documento del Concilio Vaticano II, *Ad gentes divinitus*, en su número 16, 
 
 "El que ha recibido el don de la palabra, que la enseñe como palabra de Dios. El que ejerce un ministerio, que lo haga como quien recibe de Dios ese poder, para que Dios sea glorificado en todas las cosas, por Jesucristo. ¡A él sea la gloria y el poder, por los siglos de los siglos!" Amén. (1Pedro 4-11).
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 All'Angelus Giovanni Paolo II conclude le celebrazioni del Giubileo dei Diaconi permanenti e annuncia l'incontro con quello che Paolo VI definiva «cenacolo permanente» totalmente consacrato al bene della Chiesa
 
@@ -27,4 +27,3 @@ Un vincolo molto stretto lega la Famiglia della Curia al Successore di Pietro, i
 
 (Giovanni Paolo II, Angelus del 20 febbraio 2000)
 
-[![top](/img/top.jpg)](#top)

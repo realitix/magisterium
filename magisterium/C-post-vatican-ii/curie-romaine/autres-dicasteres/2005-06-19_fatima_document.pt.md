@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 **CONGREGAÇÃO PARA A EVANGELIZAÇÃO DOS POVOS**
 
@@ -47,4 +47,3 @@ Que Deus vos abençoe! Ad multos annos! Muito obrigado!
 
  
 
-[![top](/img/top.jpg)](#top)

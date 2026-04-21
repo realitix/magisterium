@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Indirizzo di saluto
 
@@ -39,4 +39,3 @@ Così i nostri Diaconi, guidati dalla luce di Santo Stefano, di San Lorenzo e di
 
 Confermi, Santità, questi Diaconi – fra i quali sono 17 accoliti che domani avrò la gioia di ordinare, nella Basilica di San Pietro, – nei loro santi propositi e quanti, a diverso titolo, li accompagnano nel perseguire costantemente il loro vero bene, bene che ridonda ad arricchimento dell'intero Corpo ecclesiale!
 
-[![top](/img/top.jpg)](#top)

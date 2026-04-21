@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg) ![](http://www.vatican.va/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -52,4 +52,3 @@ Vi confido, che io, quando ricevo da tutto il mondo le richieste di missionari, 
 
 Conosco tanti sacerdoti, religiosi e religiose, che stanno donando la loro vita per i fratelli che vivono nei Paesi di missione. Continuate con questa vostra generosità e, se potete, aumentatela. Se per la sua beatificazione, alla quale speriamo che si possa giungere presto, la Chiesa in Polonia potesse raddoppiare il numero di missionari, ciò sarebbe il suo più bell'omaggio a questo Pontefice e alla Chiesa universale. Dio vi benedica. Dio benedica la Polonia. Amen!
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

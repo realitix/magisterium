@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) ![up](/img/up.jpg) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+  
+)    
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
@@ -53,4 +53,3 @@ Deus, dives in misericórdia, qui beatum Ioánnem Paulum, papam, univérsae Eccl
 
  
 
-[![top](/img/top.jpg)](#top)

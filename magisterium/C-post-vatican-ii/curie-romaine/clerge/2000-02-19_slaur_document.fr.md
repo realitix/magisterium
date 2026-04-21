@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 SAINT LAURENT
 
@@ -125,4 +125,3 @@ A présent, au terme de ces réflexions sur le ministère du diaconat essentiell
 
 Enfin, l’institution du "diaconat permanent", représente et marque un important enrichissement pour l’Eglise et sa mission, notamment en vue de la nouvelle évangélisation que le Saint-Père rappelle continuellement de ce début du troisième millénaire de l’ère chrétienne; et c’est la beauté, la force et le caractère héroïque de figures de diacres comme saint Laurent qui aident à découvrir et à mieux comprendre la particularité du ministère diaconal.
 
-[![top](/img/top.jpg)](#top)

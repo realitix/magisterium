@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Saludo
 
@@ -43,4 +43,3 @@ Con nuestros Diáconos, guiados por la luz de Santo Esteban, San Lorenzo y un co
 
 Confirme, Su Santidad, a estos Diáconos - entre los cuales hay 17 acólitos que mañana tendré la alegría de ordenar en la Basílica de San Pedro - en sus santos propósitos, así como a tantos que, con título de familiaridad o amistad, les acompañan en el perseguir constantemente su verdadero bien, que es un bien que redunda para el enriquecimiento del entero Cuerpo eclesial.
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+)    
 
 **CONGREGATIO PRO DOCTRINA FIDEI**
 
@@ -185,4 +185,4 @@ S. Bonaventura inducit Franciscum in omni creatura audientem Dei vocem et effund
 
 \[[36](#_ftnref36)\]. S. AUGUSTINUS, *Enarrationes in Psalmos* CXLII, 6: *PL* 37, 1849: cfr. etiam *Tract. in Ioh*. IV, 9: *PL* 35, 1410: « Quando autem nec ad hoc dignum se dicit, vere plenus Spiritu Sancto erat, qui sic servus Dominum agnovit, et ex servo amicus fieri meruit ».
 
-  [![top](/img/top.jpg)](#top)
+  

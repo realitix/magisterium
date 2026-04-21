@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 DER PRIESTER, LEHRER DES WORTES,
 
@@ -715,4 +715,3 @@ Nachsynodales Apostol. Schreiben Pastores dabo vobis, Nr. 23, 26, 48; KONGREGATI
 
  
 
-[![top](/img/top.jpg)](#top)

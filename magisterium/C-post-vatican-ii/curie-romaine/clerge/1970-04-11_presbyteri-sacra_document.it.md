@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 SACRA CONGREGAZIONE PER IL CLERO
 
@@ -205,4 +205,3 @@ Adn. J. BEYER in PrM 60 (1971) 29-101; 61 (1972) 31-46; A. BOCQUET. L. DE NAUROI
 
  
 
-[![top](/img/top.jpg)](#top)

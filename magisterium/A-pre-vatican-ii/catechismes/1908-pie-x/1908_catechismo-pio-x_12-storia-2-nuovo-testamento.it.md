@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -205,7 +205,7 @@ I *successori* di S. Pietro nella Sede romana ereditarono la suprema podestà, c
 
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

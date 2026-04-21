@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 I SANTUARI
 
@@ -99,4 +99,3 @@ Un grazie particolare va al Pontificio Consiglio, che ha organizzato, con la con
 
 2\. La dolce corona del Santo Rosario, quasi distintivo di questo Santuario ospitante, così come è composta di tanti grani rannodati alla Croce, ci tenga uniti insieme, da provenienze così diverse, in quell’unica grande geografia della fede e della pietà, che è costituita dai luoghi di particolare pellegrinaggio del popolo di Dio (cf Giovanni Paolo II, Enc. *Redemptoris Mater*, n.28)!
 
-[![top](/img/top.jpg)](#top)

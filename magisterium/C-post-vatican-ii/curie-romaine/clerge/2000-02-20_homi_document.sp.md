@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 HOMILÍA
 
@@ -89,4 +89,3 @@ Esta oración es también para vosotros, Diáconos que celebráis vuestro Jubile
 
 La Virgen María, esclava del Señor, con su omnipotencia suplicante obtenga para todos una nueva efusión del Espíritu Santo a fin de que la obra de la nueva evangelización nazca impetuosa dentro de vosotros, en sintonía con aquel "ignem veni mittere", che señala el ardiente deseo del Redentor.
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Introductory address and Closing words
 
@@ -61,4 +61,3 @@ Your Eminence, again, our heartfelt thanks.
 
 Now we proceed, without delay, to the next item in our program, the Penitential Procession and entrance of the Holy Door. Thank you all for your presence here and may God bless you.
 
-[![top](/img/top.jpg)](#top)

@@ -4,23 +4,23 @@
 
 ## Quelques photos des ordinations de 1982
 
-[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-001-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-001.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-001.jpg)
 
 La pro­ces­sion d’en­trée. A droite, Mgr Ducaud-Bourget
 
-[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-002-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-002.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-002.jpg)
 
 Le jeune abbé Fellay au milieu des autres ordinands
 
-[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-003-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-003.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-003.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-005-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-005.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-005.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-008-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-008.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-008.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-006-1024x667.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-006.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-006.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-007-1024x667.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-007.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-007.jpg)
 
 > Mes bien chers frères,  
 > Mes bien chers amis,

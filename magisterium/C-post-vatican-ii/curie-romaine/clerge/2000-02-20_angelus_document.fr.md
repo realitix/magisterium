@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 ANGELUS  
   
@@ -37,4 +37,3 @@ Au terme de l'Angelus, le Saint-Père s'est adressé aux pèlerins de langue fra
 
 Je salue les personnes de langue française présentes pour l'Angelus, en particulier le pèlerinage de la Famille missionnaire de Notre-Dame des Neiges. Qu'en cette année jubilaire, le Seigneur vous fasse grandir dans son amour pour en être les témoins généreux! De grand cœur, je donne à tous la Bénédiction apostolique.
 
-[![top](/img/top.jpg)](#top)

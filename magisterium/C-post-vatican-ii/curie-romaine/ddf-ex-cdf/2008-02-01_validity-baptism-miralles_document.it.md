@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 La Chiesa non ha il diritto di cambiare   
 ciò che Cristo stessa ha istituito [\*](#_ftn1)
@@ -34,7 +34,7 @@ La rilevanza ecumenica di garantire un vero Battesimo è quanto mai chiara. In f
 
 ------------------------------------------------------------------------
 
-[](#_ftnref1) \* *L’Osservatore Romano*, n. 52, 1° marzo 2008, p. 6.
+ \* *L’Osservatore Romano*, n. 52, 1° marzo 2008, p. 6.
 
 [\[1\]](#_ftnref2) *Catechismo della Chiesa Cattolica*, 1213.
 
@@ -90,4 +90,3 @@ La rilevanza ecumenica di garantire un vero Battesimo è quanto mai chiara. In f
 
  
 
-[![top](/img/top.jpg)](#top)

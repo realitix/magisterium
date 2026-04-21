@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 LE DIACONAT PERMANENT:
 
@@ -304,4 +304,3 @@ Le document "*Ad gentes*" du Concile Vatican II, au numéro 16, indique qu’il 
 
 "Que chacun vive selon la grâce reçue, en la mettant au service des autres, en bon administrateur d’une multiple grâce de Dieu. Que celui qui parle, le fasse en utilisant la parole de Dieu ; que celui qui exerce un office l’accomplisse par l’énergie reçue de Dieu, le Dieu de toute grâce, dans le Christ. A Lui la gloire et la puissance pour les siècles des siècles. Amen". (1 P 4, 10-11)
 
-[![top](/img/top.jpg)](#top)

@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -428,7 +428,7 @@ Quando diciamo che un Santo ha fatto una grazia, intendiamo dire che quel Santo 
   
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

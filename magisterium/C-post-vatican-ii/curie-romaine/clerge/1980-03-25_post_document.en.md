@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Postquam apostoli
 
@@ -666,4 +666,3 @@ Notes :
 
 74 Ibid., I, 3 & 5 \[*TPS* XI, 379\].
 
-[![top](/img/top.jpg)](#top)

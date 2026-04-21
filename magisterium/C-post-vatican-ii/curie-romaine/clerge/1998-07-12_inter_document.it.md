@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 3° Incontro Internazionale dei Sacerdoti
 
@@ -255,4 +255,3 @@ Pertanto viviamo il sacerdozio con la convinzione che il primo strumento di esso
 
 **Grazie!**
 
-[![top](/img/top.jpg)](#top)

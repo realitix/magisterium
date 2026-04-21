@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -42,4 +42,3 @@ Care sorelle, siate fedeli al carisma di santa Brigida, ai doni e alla missione 
 
 Per intercessione della *Virgen de la Caridad*, Madre di tutti i cubani, mantenete viva la speranza di tutti coloro che incontrerete. Che Ella vi spinga a dare frutti abbondanti di buone opere, perseverando fedelmente nell'edificazione del Regno di Cristo!
 
-[![top](/img/top.jpg)](#top)

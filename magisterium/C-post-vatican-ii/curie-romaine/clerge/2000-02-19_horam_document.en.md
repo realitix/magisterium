@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 AD HORAM TERTIAM
 
@@ -25,4 +25,3 @@ To accomplish the service of charity in all its aspects, firmness, a spirit of s
 
 During your pilgrimage to Rome, many of you – if not all – will go to the Basilica of St Laurence at Verano. Kneeling before the tomb of the Deacon and Martyr of Rome, you will read the inscription that Pope St Damasus had carved upon it: "The whips of his executioners, the flames, the tortures, the chains: only Laurence’s faith could overcome them". Faith alone! And you will ask God, through the Holy Martyr’s intercession, to make you love what he loved, and to put into practice what he taught.
 
-[![top](/img/top.jpg)](#top)

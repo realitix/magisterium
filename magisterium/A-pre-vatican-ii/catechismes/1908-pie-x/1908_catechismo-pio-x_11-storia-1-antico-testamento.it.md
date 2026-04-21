@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -322,7 +322,7 @@ Questo gran capitano, chiamato nelle Sante Scritture *uomo fortissimo*, diede es
 
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

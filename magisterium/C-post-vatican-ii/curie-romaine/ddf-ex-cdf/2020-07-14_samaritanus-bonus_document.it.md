@@ -1,10 +1,10 @@
-[![Index](/roman_curia/img/logo-vatican.png "Index")](/index.htm)
+
 
  
 
-[![Facebook](/holy_father/share/facebook.png)](https://www.facebook.com/sharer.php?u=) [![Twitter](/holy_father/share/twitter.png)](https://twitter.com/home?status=vatican.va:%0A) [![Google+](/holy_father/share/gplus.png)](https://plus.google.com/share?url=) [![Mail](/holy_father/share/mail.png)](mailto:)
+   
 
-[![Back](/roman_curia/img/back.png "Back")](javascript:history.go(-1)) [![Top](/roman_curia/img/top.png "Top")](javascript:up()) [![Print](/roman_curia/img/print.png "Print")](#)
+) ) 
 
 ------------------------------------------------------------------------
 
@@ -250,7 +250,7 @@ Il concetto etico/giuridico del “miglior interesse del minore” – oggi util
 
 Alcune cure specializzate richiedono da parte degli operatori sanitari un’attenzione e competenze particolari, per eseguire la migliore pratica medica dal punto di vista etico, sempre consapevoli di accostarsi alle persone nella loro concreta situazione di dolore.
 
-Per attenuare i dolori del malato, la terapia analgesica usa farmaci che possono causare la soppressione della coscienza (sedazione). Un profondo senso religioso può permettere al paziente di vivere il dolore come un’offerta speciale a Dio, nell’ottica della Redenzione;[\[73\]](#_ftn73) [](#_ftn73) tuttavia, la Chiesa afferma la liceità della sedazione come parte della cura che si offre al paziente, affinché la fine della vita sopraggiunga nella massima pace possibile e nelle migliori condizioni interiori. Questo è vero anche nel caso di trattamenti che avvicinano il momento della morte (sedazione palliativa profonda in fase terminale),[\[74\]](#_ftn74) [](#_ftn74) sempre, nella misura del possibile, con il consenso informato del paziente. Dal punto di vista pastorale, è bene curare la preparazione spirituale del malato perché arrivi coscientemente alla morte come all’incontro con Dio.[\[75\]](#_ftn75) L’uso degli analgesici è, dunque, parte della cura del paziente, ma qualsiasi somministrazione che causi direttamente e intenzionalmente la morte è una pratica eutanasica ed è inaccettabile.[\[76\]](#_ftn76) La sedazione deve dunque escludere, come suo scopo diretto, l’intenzione di uccidere, anche se risulta con essa possibile un condizionamento sulla morte comunque inevitabile.[\[77\]](#_ftn77)
+Per attenuare i dolori del malato, la terapia analgesica usa farmaci che possono causare la soppressione della coscienza (sedazione). Un profondo senso religioso può permettere al paziente di vivere il dolore come un’offerta speciale a Dio, nell’ottica della Redenzione;[\[73\]](#_ftn73)  tuttavia, la Chiesa afferma la liceità della sedazione come parte della cura che si offre al paziente, affinché la fine della vita sopraggiunga nella massima pace possibile e nelle migliori condizioni interiori. Questo è vero anche nel caso di trattamenti che avvicinano il momento della morte (sedazione palliativa profonda in fase terminale),[\[74\]](#_ftn74)  sempre, nella misura del possibile, con il consenso informato del paziente. Dal punto di vista pastorale, è bene curare la preparazione spirituale del malato perché arrivi coscientemente alla morte come all’incontro con Dio.[\[75\]](#_ftn75) L’uso degli analgesici è, dunque, parte della cura del paziente, ma qualsiasi somministrazione che causi direttamente e intenzionalmente la morte è una pratica eutanasica ed è inaccettabile.[\[76\]](#_ftn76) La sedazione deve dunque escludere, come suo scopo diretto, l’intenzione di uccidere, anche se risulta con essa possibile un condizionamento sulla morte comunque inevitabile.[\[77\]](#_ftn77)
 
 Occorre qui una precisazione in relazione ai contesti pediatrici: nel caso del bambino non in grado di intendere, come per esempio un neonato, non si deve commettere l’errore di supporre che il bambino possa sopportare il dolore e accettarlo, quando esistono sistemi per alleviarlo. Per questo è un dovere medico adoperarsi per ridurre il più possibile la sofferenza del bambino, affinché possa giungere alla morte naturale nella pace e potendo percepire il più possibile la presenza amorevole dei medici e, soprattutto, della famiglia.
 
@@ -537,7 +537,7 @@ Segretario*
 
 [\[86\]](#_ftnref86) Cfr. Rituale Romanum *ex decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum auctoritate Pauli PP. VI promulgatum, Ordo unctionis infirmorum eorumque pastoralis curae*, *Editio typica*, *Praenotanda*, Typis Polyglottis Vaticanis, Civitate Vaticana 1972, n. 26; *Catechismo della Chiesa Cattolica*, n. 1524.
 
-[\[87\]](#_ftnref87) Cfr. Francesco, Lett. Enc. *L[audato si’](/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)* [](/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24 maggio 2015), [n. 235](/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#235.): *AAS* 107 (2015), 939.
+[\[87\]](#_ftnref87) Cfr. Francesco, Lett. Enc. *L[audato si’](/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)*  (24 maggio 2015), [n. 235](/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html#235.): *AAS* 107 (2015), 939.
 
 [\[88\]](#_ftnref88) Cfr. Giovanni Paolo II, Lett. Enc. *[Evangelium vitae](/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html)* (25 marzo 1995), n. 67: *AAS* 87 (1995), 478-479.
 

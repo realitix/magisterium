@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Active apostles of the new evangelization
 
@@ -69,4 +69,3 @@ Faith must be passed on and communicated. It is also your task to share with the
 
 May the Blessed Virgin sustain you in this mission. I accompany you with my prayer, strengthened by a special Apostolic Blessing, which I cordially impart to you, to your wives, to your children and to all the deacons who serve the Gospel in every part of the world.
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](http://www.vatican.va/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg) ![](http://www.vatican.va/img/vuoto.gif)
+  
+)    
 
 **CONGREGATIO DE CULTU DIVINO  
 ET DISCIPLINA SACRAMENTORUM**
@@ -128,4 +128,3 @@ IV Modlitwa eucharystyczna:*
 
  
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

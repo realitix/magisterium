@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE** **
 
@@ -230,4 +230,4 @@ San Bonaventura fa notare come in ciascuna creatura Francesco percepiva il richi
 
  
 
-  [![top](/img/top.jpg)](#top)
+  

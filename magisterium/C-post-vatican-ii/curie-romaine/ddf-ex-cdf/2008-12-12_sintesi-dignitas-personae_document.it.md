@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
@@ -197,4 +197,4 @@ Per la ricerca scientifica e per la produzione di vari prodotti talora vengono u
 >
 > «Naturalmente all’interno di questo quadro generale esistono responsabilità differenziate, e ragioni gravi potrebbero essere moralmente proporzionate per giustificare l’utilizzo del suddetto "materiale biologico". Così, per esempio, il pericolo per la salute dei bambini può autorizzare i loro genitori a utilizzare un vaccino nella cui preparazione sono state utilizzate linee cellulari di origine illecita, fermo restando il dovere da parte di tutti di manifestare il proprio disaccordo al riguardo e di chiedere che i sistemi sanitari mettano a disposizione altri tipi di vaccini. D’altra parte, occorre tener presente che nelle imprese che utilizzano linee cellulari di origine illecita non è identica la responsabilità di coloro che decidono dell’orientamento della produzione rispetto a coloro che non hanno alcun potere di decisione» (n. 35).
 
-  [![top](/img/top.jpg)](#top)
+  

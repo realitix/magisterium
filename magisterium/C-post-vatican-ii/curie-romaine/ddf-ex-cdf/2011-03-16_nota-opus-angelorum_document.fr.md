@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 ***ARTICLE ILLUSTRATIF***
 
@@ -55,4 +55,3 @@ En approuvant l’*Opus Sanctorum Angelorum*, l’Église a donné sa bénédict
 
 [\[6\]](#_ftnref6) Cf. CEC 236.
 
-[![top](/img/top.jpg)](#top)

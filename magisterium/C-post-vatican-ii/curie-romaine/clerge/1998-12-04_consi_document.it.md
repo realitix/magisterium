@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 IL CONSIGLIO PRESBITERALE  
 
@@ -538,4 +538,3 @@ MARCHESI M., *De consiglio presbyterali et de collegio consultorum,* in *Comenta
 
 MARTINEZ SISTACH L., *El Colegio de Consultores en el nuevo Codigo*, in REDC 39 (1983) 291-305.
 
-[![top](/img/top.jpg)](#top)

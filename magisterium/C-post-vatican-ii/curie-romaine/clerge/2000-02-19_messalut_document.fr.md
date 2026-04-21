@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Message de salutation
 
@@ -43,4 +43,3 @@ Ainsi nos diacres, guidés par la lumière de saint Etienne, de saint Laurent et
 
 Veuillez confirmer, Très Saint-Père, ces diacres – parmi lesquels il y a 17 acolytes que demain j’aurai la joie d’ordonner, dans la Basilique de Saint-Pierre, – dans leurs saints propos, ainsi que ceux qui, à des titres divers, les accompagnent, afin qu’ils poursuivent avec constance leur véritable bien, un bien dont la croissance enrichit le Corps ecclésial tout entier!
 
-[![top](/img/top.jpg)](#top)

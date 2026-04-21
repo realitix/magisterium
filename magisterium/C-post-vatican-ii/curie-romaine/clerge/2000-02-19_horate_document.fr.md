@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 AD HORAM TERTIAM
 
@@ -25,4 +25,3 @@ Pour exercer l'activité de charité, dans tous ses aspects, il faut de la ferme
 
 Durant votre pèlerinage à Rome, beaucoup de vous - si ce n'est tous - iront à la basilique de San Lorenzo al Verano. En vous agenouillant devant la tombe du Diacre et Martyre de Rome, vous lirez la phrase que le Pape Damaso y a fait inscrire : "Les fouets du bourreau, les flammes, les tourments, les chaînes : seule la foi de Saint Laurent a pu les vaincre". Seulement la foi ! Et vous demanderez à Dieu que, par l'intercession du Saint Martyre, il vous fasse aimer ce qu'il a aimé et mettre en pratique ce qu'il a enseigné.
 
-[![top](/img/top.jpg)](#top)

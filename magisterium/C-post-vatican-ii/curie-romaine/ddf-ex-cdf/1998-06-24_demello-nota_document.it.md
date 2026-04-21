@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
  
 
@@ -41,4 +41,3 @@ Non poteva pertanto mancare una presa di posizione chiarificatrice da parte di c
 
  
 
-[![top](/img/top.jpg)](#top)

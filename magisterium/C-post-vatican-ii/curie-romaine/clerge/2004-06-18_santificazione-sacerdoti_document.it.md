@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 ***LETTERA DEL CARDINALE DARÍO CASTRILLÓN HOYOS  
 IN OCCASIONE DELLA GIORNATA MONDIALE  
@@ -75,4 +75,3 @@ A Lei, *Stella dell'evangelizzazione,* ci rivolgiamo fiduciosi perché, per sua 
 
        
 
-[![top](/img/top.jpg)](#top)

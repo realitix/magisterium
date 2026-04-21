@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Parole di introduzione e conclusione
 
@@ -51,4 +51,3 @@ Au nom de nous tous, je désire remercier son Éminence le Cardinal Stafford, po
 
 Nous allons maintenant nous mettre en route sans délai vers la prochaine étape de notre programme, la procession pénitentielle et le passage de la porte sainte. Merci à tous de votre présence ici, et que Dieu vous bénisse.
 
-[![top](/img/top.jpg)](#top)

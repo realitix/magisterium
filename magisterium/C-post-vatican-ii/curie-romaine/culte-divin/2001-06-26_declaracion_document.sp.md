@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 **LITTERAE CONGREGATIONIS** 
 
@@ -133,4 +133,3 @@ La Congregación para el Culto Divino y la Disciplina de los Sacramentos, con re
 
  
 
-[![top](/img/top.jpg)](#top)

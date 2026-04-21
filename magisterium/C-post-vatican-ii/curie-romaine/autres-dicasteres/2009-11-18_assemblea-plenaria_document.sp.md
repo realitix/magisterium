@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 ***La Congregación para la Evangelización de los Pueblos***
 
@@ -87,8 +87,7 @@ Domicilio: Congregación para la Evangelización de los Pueblos
 
 Piazza di Spagna, 48 - 00187 Roma (Italia)
 
-E-mail: **[segreteria@propagandafide.va](mailto:segreteria@propagandafide.va)**
+E-mail: **segreteria@propagandafide.va**
 
  
 
-[![top](/img/top.jpg)](#top)

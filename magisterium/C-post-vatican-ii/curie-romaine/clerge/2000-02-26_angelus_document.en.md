@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 SUNDAY ANGELUS: 20 FEBRUARY
 
@@ -25,4 +25,3 @@ A very close bond joins the Curia family to the Successor of Peter, who avails h
 
 3\. To the Virgin Mary I entrust all my collaborators in the Curia, as well as the permanent deacons and other members of the Ecclesial Community: through the intercession of Mary most holy may the harmonious fusion of all the energies of God's People make the Church's work in the world for humanity's salvation ever more effective.
 
-[![top](/img/top.jpg)](#top)

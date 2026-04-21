@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -51,7 +51,7 @@ Nell'obbedienza a questa suprema autorità della Chiesa e del Sommo Pontefice, p
 
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

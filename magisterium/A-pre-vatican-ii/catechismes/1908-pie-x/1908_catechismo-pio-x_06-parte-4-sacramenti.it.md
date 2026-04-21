@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -1623,7 +1623,7 @@ Se gli sposi convivessero tra loro col solo matrimonio civile sarebbero in istat
 Si deve fare anche il matrimonio civile, perché sebbene questo non sia sacramento, pur tuttavia serve per garantire ai contraenti e ai loro figliuoli gli effetti civili della società coniugale; e però di regola generale dall'autorità ecclesiastica non si permette il matrimonio religioso se non quando siano iniziati gli atti prescritti dalla legge civile.  
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

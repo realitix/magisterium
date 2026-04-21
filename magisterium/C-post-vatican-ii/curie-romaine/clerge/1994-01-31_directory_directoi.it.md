@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
   
 **CONGREGAZIONE PER IL CLERO**
@@ -1668,4 +1668,3 @@ Amen!(267)
 
 \(267\) GIOVANNI PAOLO II, Esort. ap. post-sinodale *Pastores dabo vobis*, 82: *l.c*., 803-804.
 
-[![top](/img/top.jpg)](#top)

@@ -88,7 +88,7 @@ Notre-​Seigneur n’est pas facul­ta­tif. Le Pape Pie XI ensei­gnait que le
 >
 > Pie XI, ency­clique *Quas Primas*, dans *PIN* n° 521.
 
-![](https://laportelatine.org/wp-content/uploads/2020/11/ihs2-1024x326.jpg)
+!
 
 #### B. Le pape Benoît XVI
 
@@ -154,7 +154,7 @@ Quant à voir entre les droits humains énon­cés par le magis­tère tra­di­
 2.  « *Ad ratio­nem libe­ri arbi­trii non per­ti­net ut inde­ter­mi­nate se habeat ad bonum vel ad malum : quia libe­rum arbi­trium per se in bonum ordi­na­tum est, cum bonum sit objec­tum volun­ta­tis, nec in malum ten­dit nisi prop­ter ali­quem defec­tum, quia appre­hen­di­tur ut bonum ; cum non sit volun­tas aut elec­tio nisi boni, aut appa­ren­tis boni : et ideo ubi per­fec­tis­si­mum est libe­rum arbi­trium, ibi in malum ten­dere non potest, quia imper­fec­tum esse non potest. Sed hoc ad liber­ta­tem arbi­trii per­ti­net ut actio­nem ali­quam facere vel non facere pos­sit, et hoc Deo conve­nit ; bona enim quæ facit potest non facere ; nec tamen malum facere potest »* (Saint Thomas, *Super Sent.*, lib. 2 d. 25 q. 1 a. 1 ad 2).\[[↩](#identifier_2_67345)\]
 3.  Mgr Lefebvre, *Ils l’ont décou­ron­né,* éd. Fideliter, Escurolles, 1987*,*  p. 34.\[[↩](#identifier_3_67345)\]
 
-[![](https://laportelatine.org/wp-content/uploads/2020/07/Abbé-Gaudray-300x300.jpg)](https://laportelatine.org/personne/abbe-thierry-gaudray)
+[!](https://laportelatine.org/personne/abbe-thierry-gaudray)
 
 ### [Abbé Thierry Gaudray](https://laportelatine.org/personne/abbe-thierry-gaudray)
 

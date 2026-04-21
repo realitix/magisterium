@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGATION FOR DIVINE WORSHIP  
 AND THE DISCIPLINE OF THE SACRAMENT 
@@ -85,4 +85,3 @@ In my opinion, when read in this manner, the Instruction that the Congregation f
 
         
 
-[![top](/img/top.jpg)](#top)

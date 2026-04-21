@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Congrégation pour le clergé
 
@@ -433,4 +433,3 @@ Que Marie, la Mère du Christ et de l’Eglise que nous voulons accueillir dans 
 
 ***Ce texte a été approuvé à l’unanimité par les participants au Symposium, en conclusion de leurs travaux, le 28 octobre 1995.***
 
-[![top](/img/top.jpg)](#top)

@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -74,7 +74,7 @@ La dottrina dei Sacramenti ci fa conoscere la natura e il buon uso di quei mezzi
 
 ##  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

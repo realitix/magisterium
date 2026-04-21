@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg) ![](http://www.vatican.va/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -56,4 +56,3 @@ La fede che avete ricevuto grazie a due giganti, san Tommaso e san Francesco Sav
 
 Invocando lo Spirito Santo su tutti i presenti e la protezione della Vergine Maria, madre di Dio e Regina dell'India, il Santo Padre imparte di cuore la sua Benedizione Apostolica quale pegno di comunione nel Signore Risorto.
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -95,7 +95,7 @@ Né si meraviglierà che i legittimi successori di S. Pietro, sopra il quale Ges
 Ma la verità, che si vedrà risultare dalla storia, è questa: che i primi Papi per vari secoli furono giustamente innalzati agli onori degli altari, avendo molti versato il sangue per la fede; che quasi tutti gli altri splendettero per egregie doti di sapienza e di virtù, sempre intenti ad istruire, a difendere e santificare il popolo cristiano, sempre pronti, come i loro predecessori, a dare la vita per rendere testimonianza alla parola di Dio. - Che importa (dacché sgraziatamente vi fu tra i dodici un apostolo malvagio), che importa se pochissimi fra tanti fossero stati meno degni di salire su quella suprema Sede, dove ogni macchia appare gravissima? - Dio lo permise per far conoscere la sua potenza nel sostenere la Chiesa, mantenendo un uomo infallibile nel suo insegnamento, benché fallibile col suo personale operare.  
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

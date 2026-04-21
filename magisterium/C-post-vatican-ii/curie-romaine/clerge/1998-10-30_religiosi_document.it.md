@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 SACERDOTI E RELIGIOSI NELL'ETÀ AVANZATA  
   
@@ -73,4 +73,3 @@ Auspico pertanto che gli Ordinari ed i confratelli, benchè non trascureranno ma
 
 **Possiamo concludere con il Siracide: AQuanto è bello il buon giudizio con i capelli bianchi e per gli anziani, il conoscre il consiglio! Quanta è bella la saggezza presso i vecchi, presso i grandi del mondo, un pensiero riflettuto! La corona dei vecchi è una ricca esperienza, la loro dignità, il timore del Signore** (Sir 25,3-6)**.**
 
-[![top](/img/top.jpg)](#top)

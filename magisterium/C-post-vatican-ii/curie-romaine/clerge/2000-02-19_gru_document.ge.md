@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Introductory address and Closing words
 
@@ -53,4 +53,3 @@ Eurer Eminenz nochmals herzlichen Dank.
 
 Wir kommen jetzt ohne Pause zum nächsten Programmpunkt: die Bußprozession und der Gang durch die Heilige Pforte. Ihnen allen danke ich für ihre Anwesenheit. Gott segne sie.
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 SAN LORENZO
 
@@ -117,4 +117,3 @@ Ahora, al término de estas reflexiones sobre el ministerio del "diaconado" ente
 
 En fin, la institución del "diaconado permanente" representa un importante enriquecimiento para la Iglesia y su misión también con vistas a la nueva evangelización que el Santo Padre pide para el inicio del tercer milenio de la era cristiana. Precisamente la belleza, la fuerza y el heroísmo de figuras de diáconos como san Lorenzo ayudan a descubrir y comprender mejor la peculiaridad del ministerio diaconal.
 
-[![top](/img/top.jpg)](#top)

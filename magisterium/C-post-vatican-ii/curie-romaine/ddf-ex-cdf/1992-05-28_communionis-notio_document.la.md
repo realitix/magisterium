@@ -2,8 +2,8 @@
 
 DE ALIQUIBUS ASPECTIBUS ECCLESIAE PROUT EST COMMUNIO
 
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+)   
 
 CONGREGATIO DE DOCTRINA FIDEI
 
@@ -285,4 +285,3 @@ Secretarius*
 
  
 
-[![top](/img/top.jpg)](#top)

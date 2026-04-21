@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg) ![](http://www.vatican.va/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -45,4 +45,3 @@ Attraverso la voce del Papa, il Signore ti domanderà di mettere la tua vita a d
 Caro p. Camillo, d'ora in poi la tua vita non appartiene più a te, ma totalmente ai tuoi fedeli. Guidali alle sorgenti della Grazia, dissetali con la freschezza della Parola di salvezza, nutrili con il pane dell'Eucaristia, mantieni viva in essi la nostalgia del Padre dei Cieli. Ti accompagni la materna protezione di Maria Santissima, la Madre del Redentore, e la Stella della nuova evangelizzazione.  
 Dio vi benedica tutti.
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

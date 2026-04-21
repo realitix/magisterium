@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 HOMÉLIE
 
@@ -87,4 +87,3 @@ Cette prière vaut aussi pour vous tous, les Diacres ici présents qui accomplis
 
 Que la Vierge Marie, servante du Seigneur, avec sa toute puissance suppliante, obtienne à tous une nouvelle effusion d’Esprit Saint ; pour que l’oeuvre de nouvelle évangélisation nous presse impétueusement, en syntonie avec ce "ignem veni mittere" qui caractérise le désir ardent du Rédempteur.
 
-[![top](/img/top.jpg)](#top)

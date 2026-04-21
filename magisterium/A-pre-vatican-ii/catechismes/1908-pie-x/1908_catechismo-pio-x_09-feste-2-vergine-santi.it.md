@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -542,7 +542,7 @@ Nelle feste dei Santi protettori dobbiamo accostarci con grande divozione e puri
 
 ##  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

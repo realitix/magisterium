@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg)
+   
+) )  
 
 ***DISCORSO DEL CARDINALE JOZEF TOMKO   
 ALL'ASSEMBLEA GENERALE DEI DIRETTORI NAZIONALI   
@@ -98,4 +98,3 @@ Il Grande Giubileo costituisce per tutta la Chiesa un tema forte per ascoltare i
 
  
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

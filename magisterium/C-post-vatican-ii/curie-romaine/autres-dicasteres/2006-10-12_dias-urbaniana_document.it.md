@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -31,4 +31,3 @@ Infatti è Gesù il povero che ci fa ricchi. Di lui ci dobbiamo prendere cura, l
 
 Come vivere questo amore? Siamo deboli, impauriti, basta poco perché ci chiudiamo in noi stessi, evitiamo il dolore degli altri, diventiamo talvolta duri e litigiosi, senza compassione, pronti a intraprendere non una lotta contro le potenze del male, ma contro gli altri, preferiamo essere serviti invece di servire. Gesù rispose a Pietro: "Quello che io faccio, tu ora non lo capisci, ma lo capirai dopo". Chi non ascolta, non comprende. Forse talvolta anche chi come noi è chiamato a seguire Gesù in modo particolare, rischia di non ascoltare Dio che parla, perché si innalza, si crede maestro, e smette di essere discepolo. Solo nell'obbedienza e nell'ascolto della voce di Dio, da cui nasce la fede, si inizia a capire. Non abbiamo altra beatitudine, altra felicità che questa. Il Signore lo spiega bene dopo la lavanda: "Vi ho dato infatti l'esempio, perché come ho fatto io, facciate anche voi. In verità, in verità vi dico: un servo non è più grande del suo padrone, né un apostolo è più grande di chi lo ha mandato. Sapendo queste cose, sarete beati, se le metterete in pratica". La nostra grandezza è essere come lui e con lui. Questa è anche la nostra felicità: una vita vissuta nell'amore, come l'apostolo ci ha spiegato in quel bellissimo inno alla carità. Non seguiamo le facili illusioni di un mondo che continua a dirci "salva te stesso". Mettiamo in pratica questo Vangelo di amore, di benevolenza, di compassione, per continuare la nostra lotta contro le potenze del male facendo il bene, perché dalla nostra vita, qui all'Università e ovunque siamo e saremo, possano sgorgare energie di amore e di bene per noi e per il mondo intero. Che nessuno di noi insegua la gloria effimera di questo mondo, ma nell'abbassamento, che non è quell'umilismo o quel servilismo facili da praticare, possiamo indicare a tutti il segreto della vita cristiana, che non basta studiare sui libri o nelle aule di scuola, ma che bisogna vivere alla scuola dell'unico maestro, il Signore Gesù Cristo. E la Vergine Maria, madre di Dio e prima discepola, ci aiuti a vivere nell'ascolto e nel servizio! Amen.
 
-[![top](/img/top.jpg)](#top)

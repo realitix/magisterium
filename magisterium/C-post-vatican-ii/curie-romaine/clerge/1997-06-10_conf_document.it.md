@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 CONFERENZA di S.E.R. Mons. DARIO CASTRILLON HOYOS
 
@@ -241,4 +241,3 @@ Cari amici, ecco il motore di tutto, ecco l'acqua nella quale, come pesci, dovre
 
 Siamo noi stessi e ogni giorno diventiamo quello che siamo e sperimenteremo i quotidiani miracoli dell'Amore misericordioso del nostro Dio!
 
-[![top](/img/top.jpg)](#top)

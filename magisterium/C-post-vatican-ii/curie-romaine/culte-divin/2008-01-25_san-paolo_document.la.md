@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](../index_it.htm) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+  
+)    
 
 DECRETUM CONGREGATIONIS DE CULTU DIVINO  
 ET DISCIPLINA SACRAMENTORUM
@@ -31,4 +31,3 @@ Albertus Malcolmus Ranjith
 
    
 
-[![top](/img/top.jpg)](#top)

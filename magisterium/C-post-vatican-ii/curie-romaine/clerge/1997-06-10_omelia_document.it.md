@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Omelia di S.E.R. Mons. DARIO CASTRILLON HOYOS
 
@@ -83,4 +83,3 @@ Con umiltà, con il dovuto pentimento per le nostre personali inadeguatezze a ta
 
 **Che Dio ci benedica e la Vergine ci protegga!**
 
-[![top](/img/top.jpg)](#top)

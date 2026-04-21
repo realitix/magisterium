@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg)
+   
+) )  
 
 OMELIA DEL CARDINALE JOZEF TOMKO   
 PREFETTO DELLA CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
@@ -47,4 +47,3 @@ Ricordatevi che ciascuno di voi è qui ambasciatore! Non siate sorpresi:  davve
 
 Il grande Giubileo è per tutti noi occasione di verifica della nostra vita e della conversione a uno stile di vita più coerente con la nostra fede. Poco prima di salire al cielo Gesù ha radunato il suo piccolo gregge ed ha lasciato a questa sua Chiesa un mandato:  "Mi sarete *testimoni*... fino agli estremi confini della terra" (*At* 1, 8). Questo mandato è più che mai valido per la vostra piccola comunità ecclesiale nella terra di Libia, a distanza di 2000 anni, soprattutto in quest'Anno giubilare. Siate testimoni di Gesù Cristo!
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

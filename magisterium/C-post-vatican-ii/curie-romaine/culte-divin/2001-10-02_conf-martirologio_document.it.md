@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
  ***CONFERENZA STAMPA DI PRESENTAZIONE  
 DEL NUOVO MARTIROLOGIO ROMANO***
@@ -139,4 +139,3 @@ Concludendo, è importante rilevare la caratteristica più peculiare del Martiro
 
         
 
-[![top](/img/top.jpg)](#top)

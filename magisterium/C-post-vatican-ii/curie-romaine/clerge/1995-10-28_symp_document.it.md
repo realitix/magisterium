@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 CONGREGAZIONE PER IL CLERO
 
@@ -468,4 +468,3 @@ Maria, Madre di Cristo e della Chiesa, che vogliamo prendere nella nostra casa e
 
 *Questo testo è stato approvato all’unanimità da tutti i partecipanti al Symposium, a conclusione dei lavori, il 28 ottobre 1995.*
 
-[![top](/img/top.jpg)](#top)

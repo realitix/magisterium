@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 JUBILAEUMSTAGE DER PERMANENTEN DIAKONEN
 
@@ -71,4 +71,3 @@ Ich habe den Eindruck, dass wir Christen uns haeufig wie Unglaeubige ferhalten, 
 
 Dass genau war das Glaubenserlebnis des Diakons und Maertyrers St. Lorenz, in dessen Ehren wir die Heilige Messe gefeiert haben, des Diakons St. Stefan - dem Ersten Maertyrer - und vieler anderer Diakonen. Meine Teuersten! Bemueht Euch, Euren Glauben durch das eifrige Hoeren Gottes Wortes, durch das Studium, das Gebet und die Teilnahme an den Sakramenten zu festigen und zu vertiefen, um einen reifen Glauben zu erlangen, naemlich, um den Mut aufzubriengen, nach den Prinziopien des Glaubens zu denken, zu urteilen und zu handeln. Erst dann wird dieser Glaube fuer Euch eine Quelle des Lichts, der Kraft und der wahren Freude sein. Erst dann wird diese Glaube Euch zu einer unaufhoerlichen Neubelebung fuehren und eine starke Stuetze Eures Apostolats sein, indem er es fruchtbar macht. In der Tat ist, wie der Apostel St. Johannes schreibt: „Und das ist der Sieg, der die Welt besiegt hat: unser Glaube" (1 Jh 5, 4).
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Le Christ hier, aujourd’hui et à jamais
 
@@ -175,4 +175,3 @@ Avec l’aide généreuse du travailleur de l’Évangile, avec l’aide même d
 
 Merci !
 
-[![top](/img/top.jpg)](#top)

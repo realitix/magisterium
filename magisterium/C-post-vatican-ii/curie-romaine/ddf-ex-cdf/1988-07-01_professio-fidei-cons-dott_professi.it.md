@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 ** PROFESSIONE DI FEDE E GIURAMENTO DI FEDELTÀ**
 
@@ -67,4 +67,3 @@ Il Giuramento di fedeltà insomma, qualunque sia la categoria di persone tenute 
 
  
 
-[![top](/img/top.jpg)](#top)

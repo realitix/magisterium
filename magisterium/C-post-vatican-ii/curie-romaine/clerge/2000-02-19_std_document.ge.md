@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 DER STÄNDIGE DIAKON:
 
@@ -339,4 +339,3 @@ Das Dokument *Ad gentes divinitus* des Zweiten Vatikanischen Konzils spricht in 
 
 "Wer redet, der rede mit den Worten, die Gott ihm gibt; wer dient, der diene aus der Kraft, die Gott verleiht. So wird in allem Gott verherrlicht durch Jesus Christus. Sein ist die Herrlichkeit und die Macht in alle Ewigkeit. Amen" (*1 Petr* 4,11).
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-  ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+   
 
 **ARCHIVIO**
 

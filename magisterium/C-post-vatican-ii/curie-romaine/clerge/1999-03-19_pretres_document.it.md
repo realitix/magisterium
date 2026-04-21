@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
   
 
@@ -612,4 +612,3 @@ Conclusioni
 
 \(115\) Giovanni Paolo II, Catechesi nell'Udienza generale (7 luglio 1993), n. 7: *Insegnamenti* XVI, 2 (1993), p. 38.
 
-[![top](/img/top.jpg)](#top)

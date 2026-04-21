@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -52,4 +52,3 @@ Come non ricordarvi, stasera, cari fedeli, che la varietà dei vostri volti test
 
 La Tua vita appartiene, ormai, a questa gente. Guidala alle sorgenti della Grazia, dissetala con la freschezza della Parola di salvezza, nutrila con il pane dell'Eucaristia, mantieni viva in essa la nostalgia del Padre dei Cieli. E san Francesco di Assisi, modello della Tua vita religiosa, Ti aiuti a portare ad ogni persona il dono prezioso della Pace. Ti accompagni la materna protezione di Maria Santissima, la Madre del Redentore, e la Stella della nuova evangelizzazione.
 
-[![top](/img/top.jpg)](#top)

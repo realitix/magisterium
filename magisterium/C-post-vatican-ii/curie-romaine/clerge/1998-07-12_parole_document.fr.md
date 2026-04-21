@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Troisième rencontre internationale des prêtres
 
@@ -63,4 +63,3 @@ Frères et sœurs, nous sommes réunis ici dans l’émotion et pleins d’une j
 
 Afin que le Peuple de Dieu soit nourri de saine doctrine, et qu’avec un témoignage de vie cohérent, il reçoive soutien et réconfort ; pour que le temple de Dieu qui est la sainte Église grandisse avec la célébration pieuse des divins mystères !
 
-[![top](/img/top.jpg)](#top)

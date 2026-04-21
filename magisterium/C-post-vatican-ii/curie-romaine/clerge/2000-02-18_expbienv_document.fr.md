@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Expression de bienvenue
 
@@ -57,4 +57,3 @@ Alors que nous nous apprêtons à réciter ensemble le saint Rosaire, confions �
 
 Que Dieu vous bénisse et que la bienheureuse Vierge Marie vous protège!
 
-[![top](/img/top.jpg)](#top)

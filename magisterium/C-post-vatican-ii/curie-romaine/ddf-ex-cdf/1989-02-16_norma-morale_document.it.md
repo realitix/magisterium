@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 **La norma morale di «Humanae vitae»  
 e il compito pastorale**\*
@@ -68,4 +68,3 @@ Il testo fu allora preceduto dalla seguente nota editoriale: «In merito a un re
 
  
 
-[![top](/img/top.jpg)](#top)

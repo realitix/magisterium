@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
@@ -102,4 +102,3 @@ L’ecumenismo cattolico può presentarsi a prima vista paradossale. Con l’esp
 
 [\[18\]](#_ftnref18) BENEDETTO XVI, Lettera Enc. *[Deus caritas est](/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_it.html)*, n.14: AAS 98 (2006) 228-229.
 
-[![top](/img/top.jpg)](#top)

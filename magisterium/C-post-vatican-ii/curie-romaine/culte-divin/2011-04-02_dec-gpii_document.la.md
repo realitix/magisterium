@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+  
+)    
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
@@ -48,4 +48,3 @@ Archiepiscopus a Secretis*
 
     
 
-[![top](/img/top.jpg)](#top)

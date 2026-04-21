@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 OMELIA
 
@@ -53,4 +53,3 @@ Ricordiamoci dunque che la nuova evangelizzazione dipende in modo essenziale dal
 
 **Ci aiuti Maria, serva fedele ed obbediente del Signore ed esempio eccellente di fedeltà all'impegno apostolico; unita in preghiera ai Discepoli nel Cenacolo di Gerusalemme nell'attesa del dono dello Spirito Santo, Ella ci offre l'esempio di preghiera incessante, di disponibilità e di impegno attivo nella missione della Chiesa. Grazie alla Sua materna intercessione, Dio rinnovi in voi e nel vostro Istituto e Collegio i prodigi della Pentecoste!**
 
-[![top](/img/top.jpg)](#top)

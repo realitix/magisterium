@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 3° Incontro Internazionale dei Sacerdoti
 
@@ -79,4 +79,3 @@ Nessun altro impiego ed uso della vita, nessuna situazione di stato e di rapport
 
 La speranza del mondo consiste nel poter contar,e anche per il futuro, sull'amore di cuori sacerdotali forti e misericordiosi, liberi e miti, generosi e fedeli. Per questo tutti devono sentirsi mobilitati per la santificazione del clero e per la promozione delle vocazioni: famiglie, diocesi, parrocchie, comunità, aggregazioni varie, scuole e singoli sacerdoti, che non dovrebbero dipartirsi da questo mondo senza lasciare l'eredità di un altro sacerdote. Voi che sarete ordinati fra pochi istanti, abbiatelo già fra i vostri propositi e, per essere concreti, mi permetto suggerirvi, nel vostro ministero pastorale, di riservare tempo ed attenzioni particolarissime alle Sante Confessioni e alla direzione spirituale e di vivere sempre con coraggio e nitore la vostra identità.
 
-[![top](/img/top.jpg)](#top)

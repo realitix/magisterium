@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Heiliges Jahr 2000 – »Jubiläum der Ständigen Diakone« in der Aula Paul VI.
 
@@ -55,4 +55,3 @@ In dieser Sendung unterstütze euch die selige Jungfrau. Ich begleite euch mit m
 
 (Orig. ital. in O.R. 20.2.2000)
 
-[![top](/img/top.jpg)](#top)

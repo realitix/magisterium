@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
@@ -34,4 +34,3 @@ sinceramente Suo in Cristo
 
     
 
-[![top](/img/top.jpg)](#top)

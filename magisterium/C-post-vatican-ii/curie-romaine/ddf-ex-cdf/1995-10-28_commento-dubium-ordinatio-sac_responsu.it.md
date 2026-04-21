@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 **Sulla Risposta della Congregazione per la Dottrina della Fede  
 circa la dottrina proposta nella Lettera apostolica Ordinatio sacerdotalis**
@@ -36,4 +36,3 @@ La singolare originalità della Chiesa e del sacerdozio ministeriale al suo inte
 
  
 
-[![top](/img/top.jpg)](#top)

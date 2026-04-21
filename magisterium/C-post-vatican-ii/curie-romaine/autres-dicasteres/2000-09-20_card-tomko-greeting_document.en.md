@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 **NATIONAL ASSEMBLY OF THE CATHOLIC CHURCH IN INDIA   
 (BANGALORE, 20-24 SEPTEMBER 2000)**
@@ -91,4 +91,3 @@ To you, the representatives at this National Assembly of the Catholic Church in 
 
                                          
 
-[![top](/img/top.jpg)](#top)

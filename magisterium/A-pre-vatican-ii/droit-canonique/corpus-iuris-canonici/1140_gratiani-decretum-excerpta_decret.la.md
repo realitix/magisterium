@@ -1,4 +1,4 @@
-![](img/Logo_Documenta_Catholica_Omnia.jpg)
+!
 
 |                   |                                                                                                   |
 |-------------------|---------------------------------------------------------------------------------------------------|
@@ -52,5 +52,5 @@ The absolute address of this document will be changed over time.
 
 **Cooperatorum Veritatis Societas**  
 © 2006 Cooperatorum Veritatis Societas quoad hanc editionem iura omnia asservantur.  
-Litterula per inscriptionem electronicam:     [Cooperatorum Veritatis Societas](mailto:veritatis-societas@documentacatholicaomnia.eu)  
+Litterula per inscriptionem electronicam:     Cooperatorum Veritatis Societas  
 �Ubi Petrus, ibi Ecclesia, ibi Deus� Ambrosius ... �Amici Veri Ecclesiae Traditionalistae Sunt.� Divus Pius X Papa: �*Notre Charge Apostolique*�

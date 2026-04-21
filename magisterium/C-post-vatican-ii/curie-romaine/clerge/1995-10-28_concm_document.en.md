@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) This text was unanimously approved
+   
+) )   This text was unanimously approved
 
 by all the participants in the Symposium,
 
@@ -321,4 +321,3 @@ At the threshold of the Third Millennium, we are conscious of the magnificent ta
 
 O Mary, Mother of Christ and Mother of the Church, we wish to take you into our homes and we entrust everything to you, please sustain us in our journey.
 
-[![top](/img/top.jpg)](#top)

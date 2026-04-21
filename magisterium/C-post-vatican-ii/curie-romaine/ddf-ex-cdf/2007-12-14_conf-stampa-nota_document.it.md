@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 ***CONFERENZA STAMPA DI PRESENTAZIONE  
 DELLA "NOTA DOTTRINALE  
@@ -168,4 +168,3 @@ Ed è questo un compito che è spesso «contrassegnato dal martirio« (n. 8): ma
 
 L’unità nella verità, e l’esercizio della libertà nella carità, sono le vie esigenti ma preziose che la *[Nota](rc_con_cfaith_doc_20071203_nota-evangelizzazione_it.html)* intende richiamare all’oneroso e affascinante compito di testimoniare la fede cristiana all’inizio del terzo millennio.
 
-[![top](/img/top.jpg)](#top)

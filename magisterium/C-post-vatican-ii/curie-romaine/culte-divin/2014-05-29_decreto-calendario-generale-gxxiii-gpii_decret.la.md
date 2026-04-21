@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
@@ -29,4 +29,3 @@ Contrariis quibuslibet minime obstantibus.
 **( + Arturus Roche )  
 ***Archiepiscopus a Secretis*
 
-[![top](/img/top.jpg)](#top)

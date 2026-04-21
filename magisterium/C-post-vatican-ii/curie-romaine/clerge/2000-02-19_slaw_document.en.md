@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 ST LAWRENCE
 
@@ -107,4 +107,3 @@ At the end of our reflection on the ministry of deacons, understood in a "perman
 
 Finally, the institution of the permanent diaconate represents, and is a sign of an important enrichment for the Church and her mission, especially in the light of the Holy Father's continued appeals for new evangelization at the dawn of the third Christian Millennium. The beauty, power and the heroism of Deacons such as Lawrence help us to discover and come to a deeper meaning of the special nature of the diaconal ministry.
 
-[![top](/img/top.jpg)](#top)

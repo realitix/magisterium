@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg)
+   
+) )  
 
 ***RIFLESSIONE DI MONS. MARCELLO ZAGO***
 
@@ -48,4 +48,3 @@ Le piccole comunità cristiane, spesso angariate, sospettate e, talvolta persegu
 
 Siamo solidali a questa missione che è stata affidata alla Chiesa. E la prima forma di solidarietà è la preghiera, affinché lo Spirito Santo scenda su noi tutti, ci faccia ardere dell'amore divino e ci istilli il bisogno di vivere e annunciare Cristo e il suo Regno.
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

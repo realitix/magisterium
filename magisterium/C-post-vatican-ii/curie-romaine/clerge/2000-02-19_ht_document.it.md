@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 AD HORAM TERTIAM
 
@@ -29,4 +29,3 @@ Durante il vostro pellegrinaggio a Roma, molti di voi - se non tutti — si rech
 
 solamente la fede di Lorenzo ha potuto vincerli". Solo la fede! E chiederete a Dio che, per intercessione del Santo Martire, vi faccia amare quello che egli amò, e mettere in pratica quello che egli insegnò".
 
-[![top](/img/top.jpg)](#top)

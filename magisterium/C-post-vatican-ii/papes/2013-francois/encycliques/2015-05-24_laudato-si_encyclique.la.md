@@ -10,7 +10,7 @@ DE COMMUNI DOMO COLENDA
 
  
 
-[![](/content/dam/francesco/images/latest/sub_index/img/pdf.png)](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_lt.pdf)
+[!](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_lt.pdf)
 
  
 

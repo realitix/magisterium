@@ -4,35 +4,35 @@
 
 ## Photos
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-006-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-006.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-006.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-007-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-007.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-007.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-002-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-002.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-002.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001-1-680x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001-1.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001-1.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-008-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-008.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-008.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-010-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-010.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-010.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-003-1024x576.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-003.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-003.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-004-680x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-004.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-004.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-009-677x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-009.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-009.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-011-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-011.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-011.jpg)
 
 Mgr de Galarreta célé­brait les vêpres pon­ti­fi­cales l’après-midi
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-012-680x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-012.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-012.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-013-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-013.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-013.jpg)
 
-[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-014-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-014.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-014.jpg)
 
 ## Transcription écrite
 

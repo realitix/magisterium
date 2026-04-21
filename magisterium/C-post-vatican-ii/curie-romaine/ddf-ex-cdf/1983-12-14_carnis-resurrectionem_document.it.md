@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
@@ -69,4 +69,3 @@ che militano per il mantenimento della traduzione esatta tradizionale dell'art. 
 
  
 
-[![top](/img/top.jpg)](#top)

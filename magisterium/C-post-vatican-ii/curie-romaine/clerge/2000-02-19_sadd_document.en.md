@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Salutation Address
 
@@ -39,4 +39,3 @@ Thus our Deacons, guided by the light of St. Stephan, St. Lawrence and a host of
 
 Confirm, Your Holiness, these deacons – among whom there are 17 acolytes whom I will have the joy of ordaining tomorrow in St. Peter’s Basilica – in their holy intentions, and those who n various qualities accompany them in constantly pursuing their true good, a good that rebounds to enrich the entire Body of the Church!
 
-[![top](/img/top.jpg)](#top)

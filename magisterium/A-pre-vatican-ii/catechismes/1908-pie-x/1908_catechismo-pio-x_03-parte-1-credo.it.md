@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -1069,7 +1069,7 @@ I beni del paradiso per i beati, e i mali dell'inferno per i dannati, saranno ug
 La parola Amen in fine delle preghiere significa: Così sia; in fine del Credo significa: Cosi è; vale a dire: credo essere verissimo tutto quello che in questi dodici articoli si contiene, ed io ne sono più certo che se lo vedessi cogli occhi miei.  
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
   CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -62,4 +62,3 @@ Affidiamo all'intercessione dei santi e delle sante dell'America, e alla protezi
 Aiutaci tu, o Maria, a servire con totale dedizione il mandato dell'evangelizzazione che tuo Figlio ci ha affidato. Regina degli Apostoli, Stella dell'Evangelizzazione e Madre della Missione, a te affidiamo tutti i figli e le figlie dell'America. Intercedi per noi affinché viviamo nella santità di vita e nell'impegno cristiano e missionario del nostro battesimo!  
 Sia lodato Gesù Cristo!
 
-[![top](/img/top.jpg)](#top)

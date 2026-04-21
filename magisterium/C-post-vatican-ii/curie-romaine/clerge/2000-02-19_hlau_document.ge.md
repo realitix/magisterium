@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 DER HEILIGE LAURENTIUS, ERSTER DIAKON
 
@@ -121,4 +121,3 @@ Nun können wir zum Abschluss dieser Überlegungen zum Diakonat, das vor allem i
 
 So stellt die Einrichtung des „Ständigen Diakonats" eine wichtige Bereicherung für die Kirche und ihre Mission dar, auch hinsichtlich der neuen Verbreitung des Evangeliums, woran der Heilige Vater anlässlich des beginnenden dritten Jahrtausends des christlichen Zeitalters ständig erinnert; und es ist vor allem die Schönheit, die Kraft und das Heldentum von Persönlichkeiten wie dem Diakon Hl. Laurentius, die dazu beitragen, die Besonderheit des Diakonats zu entdecken und besser zu begreifen.
 
-[![top](/img/top.jpg)](#top)

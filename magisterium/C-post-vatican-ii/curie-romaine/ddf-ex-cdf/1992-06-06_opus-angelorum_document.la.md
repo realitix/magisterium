@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+)   
 
 CONGREGATIO PRO DOCTRINA FIDEI 
 
@@ -57,4 +57,3 @@ V. Delegatus specialibus munitus facultatibus, a Sancta Sede nominatus, comproba
 
  
 
-[![top](/img/top.jpg)](#top)

@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nd.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -163,7 +163,7 @@ Io sono il Signore Dio tuo:
 3.  Oppressione dei poveri;
 4.  Frode nella mercede agli operai.
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

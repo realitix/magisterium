@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 PREDIGT
 
@@ -81,4 +81,3 @@ Das ist auch das Gebet für Euch anwesenden Diakone, die Ihr Euer Jubiläum bege
 
 Die Selige Jungfrau Maria, Magd des Herrn, möge durch ihre allmächtige Fürsprache für alle eine neue Ausgießung des Heiligen Geistes erbeten, damit wir in Übereinstimmung mit jenem „ignem veni mittere" zum Werk der Neuevangelisation gedrängt werden, die die brennende Sehnsucht des Herrn selber ist.
 
-[![top](/img/top.jpg)](#top)

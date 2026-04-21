@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 **THE SIGNIFICANCE OF THE APOSTOLIC CONSTITUTION*  
 ANGLICANORUM COETIBUS***
@@ -91,4 +91,3 @@ The integration of the Ordinariate into the life of the Catholic Church is assur
 
 It is clear that the Apostolic Constitution *Anglicanorum coetibus* provides norms which establish the nature and, in general, regulate the life of Personal Ordinariates erected specifically for Anglicans who wish to enter into full communion with the Catholic Church. In this way a flexible canonical structure has been instituted. Moreover, it is foreseeable that what is contained in the present Apostolic Constitution and Complementary Norms may be adapted in the Decrees of Erection of each individual Ordinariate in the light of particular local situations. As the Holy Spirit has guided the preparation of this Apostolic Constitution, so may he also assist in its application.
 
-[![top](/img/top.jpg)](#top)

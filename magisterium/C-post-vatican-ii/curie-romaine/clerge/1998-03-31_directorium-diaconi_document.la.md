@@ -1,7 +1,7 @@
 The Holy See - Vatican web site
 
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 CONGREGATIO DE INSTITUTIONE CATHOLICA
 
@@ -1893,4 +1893,3 @@ Organizatio et instrumenta
 
 Prex ad Mariam Sanctissimam
 
-[![top](/img/top.jpg)](#top)

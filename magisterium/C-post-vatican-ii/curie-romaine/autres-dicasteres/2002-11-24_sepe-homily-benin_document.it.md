@@ -1,5 +1,5 @@
-[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
-[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg) ![](http://www.vatican.va/img/vuoto.gif)
+   
+) )   
 
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
@@ -58,4 +58,3 @@ Un'ultima parola vi voglio affidare. Il Congresso Eucaristico, che stiamo per ch
 
 Maria, che ha dato il Corpo e il Sangue al suo Figlio divino, vi preceda sempre come Madre e Regina, nel cammino che porta all'incontro con il Signore, Gesù Cristo, Re della vita e dell'universo.
 
-[![top](http://www.vatican.va/img/top.jpg)](#top)

@@ -39,7 +39,7 @@ Christian Bouchacourt, 2^(nd) Assistant géné­ral
 
 Source : [fsspx​.news](https://fsspx.news/fr/news/1974-2024-semper-idem-48888) du 21 novembre 2024
 
-[![](https://laportelatine.org/wp-content/uploads/2020/08/Don-Davide-Pagliarani-001-300x300.jpg)](https://laportelatine.org/personne/don-davide-pagliarani)
+[!](https://laportelatine.org/personne/don-davide-pagliarani)
 
 ### [Don Davide Pagliarani](https://laportelatine.org/personne/don-davide-pagliarani)
 

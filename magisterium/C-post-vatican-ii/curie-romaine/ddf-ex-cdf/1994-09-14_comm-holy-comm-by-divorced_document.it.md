@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 **COMMENTARIUM**
 
@@ -79,4 +79,3 @@ I «destinatari» della *[Lettera](/roman_curia/congregations/cfaith/documents/r
 
  
 
-[![top](/img/top.jpg)](#top)

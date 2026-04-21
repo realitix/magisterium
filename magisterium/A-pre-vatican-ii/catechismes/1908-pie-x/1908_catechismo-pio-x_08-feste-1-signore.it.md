@@ -1,10 +1,10 @@
-![](../Header-Hm2.jpg)
+!
 
        
 
-** ** [![](cat1c.jpg)](01page.htm)
+** ** [!](01page.htm)
 
-![](nc.jpg)  
+!  
  
 
 **Il Catechismo Maggiore di San Pio X  
@@ -735,7 +735,7 @@ Negli anniversari dei giorni, nei quali fummo battezzati e cresimati conviene:
   
  
 
-[![](top.jpg)](#top)
+[!](#top)
 
  
 

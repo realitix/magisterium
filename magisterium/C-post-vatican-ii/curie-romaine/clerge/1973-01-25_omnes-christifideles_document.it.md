@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 ***OMNES CHRISTIFIDELES***
 
@@ -196,4 +196,3 @@ Adn. H. SCHMITZ in AKKR 142 (1973) 417-435; Il Regno - doc. 18 (1973) 508.
 
  
 
-[![top](/img/top.jpg)](#top)

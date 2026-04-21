@@ -1,8 +1,8 @@
-[![Index](/roman_curia/img/logo-vatican.png "Index")](/index.htm)
 
-[![Facebook](/holy_father/share/facebook.png)](https://www.facebook.com/sharer.php?u=) [![Twitter](/holy_father/share/twitter.png)](https://twitter.com/home?status=vatican.va:%0A) [![Google+](/holy_father/share/gplus.png)](https://plus.google.com/share?url=) [![Mail](/holy_father/share/mail.png)](mailto:)
 
-[![Back](/roman_curia/img/back.png "Back")](javascript:history.go(-1)) [![Top](/roman_curia/img/top.png "Top")](http://www.vatican.va/latin/latin_index.html) [![Print](/roman_curia/img/print.png "Print")](#)
+   
+
+)  
 
 ------------------------------------------------------------------------
 
@@ -25,11 +25,11 @@ LATINA *CATECHISMI CATHOLICAE ECCLESIAE* TYPICA EDITIO ](lettera-apost_lt.htm)*
 
 **[PROOEMIUM](prologue_lt.htm)**
 
-> 1.  [Vita hominis – Deum cognoscere Illumque amare](prologue_lt.htm#I.%20Vita%20hominis%20Â–%20Deum%20cognoscere%20Illumque%20amare) [ ](prologue_lt.htm#II.%20Trasmettere%20la%20fede%20-%20la%20catechesi)
-> 2.  [De fide transmittenda  – De catechesi](prologue_lt.htm#II.%20De%20fide%20transmittenda%20Â–%20De%20catechesi) [ ](prologue_lt.htm#III.%20Lo%20scopo%20e%20i%20destinatari%20di%20questo%20catechismo)
-> 3.  [De huius Catechismi fine atque de illis ad quos ipse dirigatur](prologue_lt.htm#III.%20De%20huius%20Catechismi%20fine%20atque%20de%20illis%20ad%20quos%20ipse%20dirigatur) [ ](prologue_lt.htm#III.%20Lo%20scopo%20e%20i%20destinatari%20di%20questo%20Catechismo)
-> 4.  [De huius structura Catechismi](prologue_lt.htm#IV.%20De%20huius%20structura%20Catechismi) [ ](prologue_lt.htm#IV.%20La%20struttura%20di%20questo%20Catechismo)
-> 5.  [Pro huius Catechismi usu practicae animadversiones](prologue_lt.htm#V.%20Pro%20huius%20Catechismi%20usu%20practicae%20animadversiones) [ ](prologue_lt.htm#V.%20Indicazioni%20pratiche%20per%20l'uso%20di%20questo%20Catechismo)
+> 1.  [Vita hominis – Deum cognoscere Illumque amare](prologue_lt.htm#I.%20Vita%20hominis%20Â–%20Deum%20cognoscere%20Illumque%20amare) 
+> 2.  [De fide transmittenda  – De catechesi](prologue_lt.htm#II.%20De%20fide%20transmittenda%20Â–%20De%20catechesi) 
+> 3.  [De huius Catechismi fine atque de illis ad quos ipse dirigatur](prologue_lt.htm#III.%20De%20huius%20Catechismi%20fine%20atque%20de%20illis%20ad%20quos%20ipse%20dirigatur) 
+> 4.  [De huius structura Catechismi](prologue_lt.htm#IV.%20De%20huius%20structura%20Catechismi) 
+> 5.  [Pro huius Catechismi usu practicae animadversiones](prologue_lt.htm#V.%20Pro%20huius%20Catechismi%20usu%20practicae%20animadversiones) 
 > 6.  [Necessariae accommodationes](prologue_lt.htm#VI.%20Necessariae%20accommodationes) [  
 >     ](prologue_lt.htm#Al%20di%20sopra%20di%20tutto%20-%20la%20carità) [Super omnia – caritas](prologue_lt.htm#Super%20omnia%20Â–%20caritas)
 

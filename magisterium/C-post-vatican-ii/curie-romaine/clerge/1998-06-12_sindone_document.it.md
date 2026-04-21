@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 RIFLESSIONE di S. Em. Rev.ma il Signor Cardinale
 
@@ -67,4 +67,3 @@ Con questi sentimenti accingiamoci ora ad offrire il divino Sacrificio; ricordan
 
 **Che Dio abbia sempre misericordia di noi e la Vergine Santa ci tenga in sé, nel cuore della Chiesa, conformandoci ogni giorno di più al Buon Pastore, che dà la vita per le pecore! Così sia!**
 
-[![top](/img/top.jpg)](#top)

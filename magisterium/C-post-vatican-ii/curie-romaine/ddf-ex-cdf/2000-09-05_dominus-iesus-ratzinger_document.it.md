@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 INTERVENTO DEL CARDINALE PREFETTO    
 JOSEPH RATZINGER  
@@ -36,4 +36,3 @@ Riaffermando le verità che la fede della Chiesa ha sempre creduto e tenuto rigu
 
                        
 
-[![top](/img/top.jpg)](#top)

@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 PRESENTAZIONE ALLA SALA STAMPA DELLA  
 SANTA SEDE DELLA DICHIARAZIONE ***  
@@ -42,4 +42,3 @@ La *Dichiarazione* si presenta quindi, per sua propria natura, come un servizio 
 
                           
 
-[![top](/img/top.jpg)](#top)

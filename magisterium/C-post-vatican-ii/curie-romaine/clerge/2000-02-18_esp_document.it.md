@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
+   
+) )  
 
 Espressione di accoglienza
 
@@ -59,4 +59,3 @@ Fra poco pregheremo insieme il Santo Rosario, ebbene affidiamo a Maria il comune
 
 Dio vi benedica e la Vergine vi protegga!
 
-[![top](/img/top.jpg)](#top)

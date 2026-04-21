@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 ***A proposito di alcune obiezioni contro la dottrina della Chiesa  
 circa la recezione della Comunione eucaristica  
@@ -85,4 +85,3 @@ Per quanto riguarda la posizione del Magistero sul problema dei fedeli divorziat
 
  
 
-[![top](/img/top.jpg)](#top)

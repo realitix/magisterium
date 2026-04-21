@@ -136,6 +136,13 @@ def _extract_body(
                 if tag not in (t.lower() for t in effective_unwrap):
                     effective_unwrap.append(tag)
 
+    # Strip site chrome (vatican.va logos, share icons, spacer gifs, dead
+    # javascript/mailto/social anchors, empty wrappers left behind). Runs
+    # before the tag unwrap pass so the unwrap doesn't leave orphan empty
+    # containers that used to wrap chrome elements.
+    from . import clean_html as _clean_html
+    _clean_html.clean_scraped_html(root)
+
     # Unwrap requested tags (drop the tag itself, keep its children inline).
     # Useful for layout tables and <font>/<span> cruft on legacy vatican.va
     # pages. Selectolax has no native unwrap; we do it via string replacement

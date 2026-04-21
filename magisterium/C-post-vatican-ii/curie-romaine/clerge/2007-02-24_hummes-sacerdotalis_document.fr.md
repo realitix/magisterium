@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 CONGRÉGATION POUR LE CLERGÉ
 
@@ -221,4 +221,3 @@ A ce propos, les paroles du Saint-Père Benoît XVI sont éclairantes:  "Le vé
 
  
 
-[![top](/img/top.jpg)](#top)

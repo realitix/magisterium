@@ -1,5 +1,5 @@
-[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
-[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
+   
+) )   
 
 Le conseguenze canoniche e pastorali[\*](#_ftn1)
 
@@ -85,4 +85,3 @@ Spetterà ai vescovi vigilare affinché queste formule non siano mai adoperate i
 
  
 
-[![top](/img/top.jpg)](#top)

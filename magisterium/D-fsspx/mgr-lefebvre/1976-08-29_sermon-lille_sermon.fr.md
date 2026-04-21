@@ -6,13 +6,13 @@
 
 ## Photos
 
-- [![](https://laportelatine.org/wp-content/uploads/2021/07/Messe-Lille-1976-1024x920.jpg)](https://laportelatine.org/wp-content/uploads/2021/07/Messe-Lille-1976.jpg)
+- [!](https://laportelatine.org/wp-content/uploads/2021/07/Messe-Lille-1976.jpg)
   « Très Saint Père, rendez-​nous la vraie messe ! »
 
-- [![](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-002-1024x725.jpg)](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-002.jpg)
+- [!](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-002.jpg)
   La foule pré­sente dans le hangar
 
-- [![](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-001-1024x817.jpg)](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-001.jpg)
+- [!](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-001.jpg)
   Présence de la presse
 
 ## Extrait vidéo

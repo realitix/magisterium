@@ -36,17 +36,17 @@ Et la fête de l’Assomption ne date pas de la pro­cla­ma­tion du dogme de l
 
 Les pein­tures, la fameuse pein­ture de Murillo qui se trouve dans le musée de Madrid (en sont la preuve). Depuis de longues années, on fête la très Sainte Vierge Marie dans sa fête de l’Assomption et en par­ti­cu­lier lorsqu’en 1638, [le roi Louis XIII a consa­cré la France à la très Sainte Vierge Marie](https://laportelatine.org/spiritualite/testament-le-voeu-de-louis-xiii), le jour de l’Assomption.
 
-[![](https://laportelatine.org/wp-content/uploads/2022/08/Murillo-Bartolome-Esteban-1617-1682-Seville-001-698x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/08/Murillo-Bartolome-Esteban-1617-1682-Seville-001.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/08/Murillo-Bartolome-Esteban-1617-1682-Seville-001.jpg)
 
 *L’Immaculée Conception*, par Bartomolé Esteban Murillo, Musée de Madrid. Domaine public, via Wikimedia Commons
 
 Ce sont autant de mani­fes­ta­tions qui montrent l’attachement des fidèles, l’attachement de l’Église à la Vierge Marie dans son Assomption et par­ti­cu­liè­re­ment évi­dem­ment à cette conclu­sion de toute cette Histoire de l’Assomption de Notre Dame, qui est la pro­cla­ma­tion du dogme par le pape Pie XII où j’ai eu le bon­heur de me trou­ver (ce jour à Rome).
 
-[![](https://laportelatine.org/wp-content/uploads/2022/08/1-Saint-Pierre-de-Rome-001-1024x683.jpg)](https://laportelatine.org/wp-content/uploads/2022/08/1-Saint-Pierre-de-Rome-001.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/08/1-Saint-Pierre-de-Rome-001.jpg)
 
 Le noms des évêques pré­sents lors de la pro­cla­ma­tion du dogme de l’Assomption a été ins­crit dans le marbre d’une des colon­nades de la Basilique Saint Pierre de Rome. Le nom de Mgr Lefebvre y figure.
 
-[![](https://laportelatine.org/wp-content/uploads/2022/08/Album-03-1947-Dakar-a-1950-001-1024x692.jpg)](https://laportelatine.org/wp-content/uploads/2022/08/Album-03-1947-Dakar-a-1950-001.jpg)
+[!](https://laportelatine.org/wp-content/uploads/2022/08/Album-03-1947-Dakar-a-1950-001.jpg)
 
 Mgr Lefebvre en famille devant saint Pierre de Rome en novembre 1950, à l’oc­ca­sion de la pro­cla­ma­tion du dogme.
 

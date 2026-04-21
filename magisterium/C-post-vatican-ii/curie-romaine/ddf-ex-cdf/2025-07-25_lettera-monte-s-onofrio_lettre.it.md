@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 \[[EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_it.html)\]
 
 DICASTERO PER LA DOTTRINA DELLA FEDE

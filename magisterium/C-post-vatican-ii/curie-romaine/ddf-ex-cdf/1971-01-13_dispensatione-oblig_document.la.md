@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **NORMAE AD APPARANDAS IN CURIIS DIŒCESANIS  

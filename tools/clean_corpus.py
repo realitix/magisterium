@@ -124,6 +124,14 @@ _ORPHAN_PUNCT_LINE = re.compile(
     re.MULTILINE | re.VERBOSE,
 )
 
+# Header separator : a line of dashes (markdown horizontal rule) that sits
+# near the top of the file. Originally vatican.va puts a `<hr>` between its
+# chrome and the document body — once the chrome is stripped, the rule is
+# just a redundant border duplicating the layout's own header border.
+# Strip only the first horizontal rule if it appears before any substantial
+# content.
+_LEADING_HR = re.compile(r"^(?:\s*\n)*(?:-{3,}|\*{3,}|_{3,})\s*\n")
+
 
 def clean_markdown(text: str) -> tuple[str, dict[str, int]]:
     """Apply all strips to a markdown string.
@@ -137,6 +145,7 @@ def clean_markdown(text: str) -> tuple[str, dict[str, int]]:
         "dead_link": 0,
         "empty_link": 0,
         "orphan_punct": 0,
+        "leading_hr": 0,
     }
 
     # 0. Nav chrome lines (back/top/print button bars, javascript:history.go).
@@ -185,8 +194,17 @@ def clean_markdown(text: str) -> tuple[str, dict[str, int]]:
 
     text = _ORPHAN_PUNCT_LINE.sub(_drop_orphan, text)
 
-    # 6. Collapse runs of blank lines introduced by the deletions.
+    # 6. Leading horizontal rule (redundant with the layout's header border).
+    def _drop_leading_hr(_m: re.Match[str]) -> str:
+        stats["leading_hr"] += 1
+        return ""
+
+    text = _LEADING_HR.sub(_drop_leading_hr, text, count=1)
+
+    # 7. Collapse runs of blank lines introduced by the deletions.
     text = re.sub(r"\n{3,}", "\n\n", text)
+    # Also strip leading blank lines left by image/link removals.
+    text = text.lstrip("\n")
 
     return text, stats
 
@@ -208,6 +226,7 @@ def main() -> int:
         "dead_link": 0,
         "empty_link": 0,
         "orphan_punct": 0,
+        "leading_hr": 0,
     }
     changed_files = 0
 

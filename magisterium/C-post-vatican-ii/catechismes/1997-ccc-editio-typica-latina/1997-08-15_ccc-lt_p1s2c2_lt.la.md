@@ -1,9 +1,3 @@
-
-
-   
-
-------------------------------------------------------------------------
-
 **[CATECHISMUS CATHOLICAE ECCLESIAE](http://www.vatican.va/archive/catechism_lt/index_lt.htm)**
 
  

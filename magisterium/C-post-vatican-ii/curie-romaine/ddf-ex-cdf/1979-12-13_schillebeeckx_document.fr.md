@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***Déclaration sur le colloque de clarification avec le R. P. Edward Schillebeeckx, O.P., sur des points de doctrine christologique***

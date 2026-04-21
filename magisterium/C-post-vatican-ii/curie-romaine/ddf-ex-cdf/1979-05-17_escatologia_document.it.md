@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***LETTERA  

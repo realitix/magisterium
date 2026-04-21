@@ -1,13 +1,3 @@
-
-
-   
-
-------------------------------------------------------------------------
-
- 
-
- 
-
 **SIGLA** 
 
 AAS   *Acta Apostolicae Sedis* Act Actio Adh. ap. Adhortatio apostolica AHMA *Analecta hymnica Medii Aevi* BP Biblioteca patristica c caput vel corpus CA *Corpus apologetarum Christianorum saeculi secundi* cap caput CCEO Codex Canonum Ecclesiarum Orientalium CCG *Corpus Christianorum (Series Graeca)* CCL *Corpus Christianorum (Series Latina)* Cf Conferatur CIC Codex Iuris Canonici COD *Conciliorum Oecumenicorum Decreta* concl conclusio Const Constitutio Const. ap Constitutio apostolica Const. dogm Constitutio dogmatica Const. past Constitutio pastoralis CSEL *Corpus Scriptorum Ecclesiasticorum Latinorum* Decl Declaratio Decr Decretum DS H. Denzinger-A. Schönmetzer, *Enchiridion Symbolorum definitionum et declarationum de rebus fidei et morum* ed editio Ed. Leon. Sancti Thomae Aquinatis Doctoris Angelici *Opera omnia* iussu impensaque Leonis XIII P.M. edita Ep. ap. Epistula apostolica Funk F.X. Funk, *Patres apostolici*, 2a ed. GCS *Die griechischen christlichen Schrifsteller* Ibid Ibidem Id Idem Inscr Inscriptio Litt. enc. Litterae encyclicae MGH *Monumenta Germaniae historica* MHSI *Monumenta historica Societatis Iesu* p pagina (ae) PG *Patrologia graeca* (J.P. Migne) PL *Patrologia latina* (J.P. Migne) PLS *Patrologia latina. Supplementum* PTS *Patristische Texte und Studien* q quaestio SC *Sources chrétiennes* Sess Sessio SPM *Stromata patristica et medievalia* TD *Textes et documents* TPL *Textus patristici et liturgici* v volumen

@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **Risposta al quesito circa l’assoluzione sacramentale  

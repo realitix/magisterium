@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 SUPREMAE SACRAE CONGREGATIONIS SANCTI OFFICII
 
 AD OMNES PATRIARCHAS, ARCHIEPISCOPOS, EPISCOPOS  

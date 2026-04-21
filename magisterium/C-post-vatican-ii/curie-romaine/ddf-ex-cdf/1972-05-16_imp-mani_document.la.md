@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 **AD ORDINES SACROS*  

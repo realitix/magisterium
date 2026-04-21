@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **Notification au sujet de M. l’Abbé de Nantes**

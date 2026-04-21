@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **DECLARATIO DE SENSU TRIBUENDO  

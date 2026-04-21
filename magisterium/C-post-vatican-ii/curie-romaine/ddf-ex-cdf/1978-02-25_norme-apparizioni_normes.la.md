@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **NORMAE DE MODO PROCEDENDI IN DIUDICANDIS  

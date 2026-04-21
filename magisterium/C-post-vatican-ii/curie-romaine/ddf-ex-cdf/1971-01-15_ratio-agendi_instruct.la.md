@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **NOVA AGENDI RATIO IN DOCTRINARUM EXAMINE** \*

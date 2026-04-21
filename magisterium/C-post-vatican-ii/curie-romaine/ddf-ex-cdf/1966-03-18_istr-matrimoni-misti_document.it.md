@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 **SACRA CONGREGATIONE PER LA DOTTRINA DELLA FEDE**
 
 **ISTRUZIONE SUI MATRIMONI MISTI**\*

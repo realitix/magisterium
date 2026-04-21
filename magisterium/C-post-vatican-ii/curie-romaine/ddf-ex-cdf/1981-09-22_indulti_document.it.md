@@ -1,11 +1,3 @@
-
-
- 
-
-   
-
-------------------------------------------------------------------------
-
 SACRA CONGEGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **Lettera al Segretario  

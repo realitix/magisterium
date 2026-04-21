@@ -347,13 +347,19 @@ if (date) {
     letter-spacing: 0.04em;
   }
 
-  /* Mobile : plus de colonne ToC */
+  /* Mobile : la colonne ToC disparaît de la grille mais l'aside reste dans
+     le DOM avec ses enfants en position: fixed (FAB + overlay). Ne PAS
+     mettre display: none, sinon tous les descendants sont cachés même ceux
+     en position: fixed. */
   @media (max-width: 900px) {
     .q__layout {
       grid-template-columns: minmax(0, 1fr);
     }
     .q__toc-side {
-      display: none;
+      /* Hauteur et visibilité neutres ; le nav sticky est caché par sa
+         propre règle @media, le FAB et l'overlay sont fixed. */
+      height: 0;
+      overflow: visible;
     }
   }
 </style>

@@ -1,0 +1,230 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const entries = await getCollection('questions');
+
+// Tri par date décroissante ; les entrées sans date passent à la fin
+const sorted = entries.slice().sort((a, b) => {
+  const da = a.data.date ?? '';
+  const db = b.data.date ?? '';
+  if (!da && !db) return 0;
+  if (!da) return 1;
+  if (!db) return -1;
+  return db.localeCompare(da);
+});
+
+function formatDate(iso?: string): string | null {
+  if (!iso) return null;
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString('fr-FR', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+---
+
+<Base
+  title="Questions doctrinales"
+  description="Fiches de questions-réponses sur les tensions doctrinales du magistère contemporain."
+>
+  <main id="main" class="ql">
+    <header class="ql__header">
+      <p class="ql__eyebrow">Magisterium</p>
+      <h1 class="ql__title">Questions doctrinales</h1>
+      <p class="ql__subtitle">
+        Fiches de synthèse sur les tensions doctrinales, rédigées selon la
+        posture apologétique traditionnelle.
+      </p>
+    </header>
+
+    {sorted.length === 0 ? (
+      <p class="ql__empty">Aucune fiche disponible pour l'instant.</p>
+    ) : (
+      <ul class="ql__list" role="list">
+        {sorted.map((entry) => {
+          const d = entry.data;
+          const slug = entry.slug;
+          const dateDisplay = formatDate(d.date);
+          return (
+            <li class="ql__item">
+              <article class="qcard">
+                <h2 class="qcard__title">
+                  <a href={`/questions/${slug}/`}>{d.title}</a>
+                </h2>
+                <p class="qcard__question">{d.question}</p>
+                {d.summary && <p class="qcard__summary">{d.summary}</p>}
+                <div class="qcard__meta">
+                  {dateDisplay && (
+                    <time class="qcard__date" datetime={d.date}>{dateDisplay}</time>
+                  )}
+                  {d.tags.length > 0 && (
+                    <ul class="qcard__tags" role="list">
+                      {d.tags.map((tag) => <li class="qcard__tag">{tag}</li>)}
+                    </ul>
+                  )}
+                </div>
+                <p class="qcard__link">
+                  <a href={`/questions/${slug}/`} aria-label={`Lire la fiche : ${d.title}`}>
+                    Lire la fiche
+                  </a>
+                </p>
+              </article>
+            </li>
+          );
+        })}
+      </ul>
+    )}
+  </main>
+</Base>
+
+<style>
+  .ql {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-m);
+  }
+
+  .ql__header {
+    text-align: center;
+    padding-bottom: var(--space-l);
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: var(--space-xl);
+  }
+
+  .ql__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-bottom: var(--space-s);
+  }
+
+  .ql__title {
+    font-family: var(--font-display);
+    font-size: clamp(2.25rem, 5vw + 1rem, 3.5rem);
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    margin-bottom: var(--space-s);
+  }
+
+  .ql__subtitle {
+    font-family: var(--font-serif);
+    font-size: 1.125rem;
+    color: var(--ink-soft);
+    max-width: 52ch;
+    margin: 0 auto;
+    line-height: var(--line-height-prose);
+  }
+
+  .ql__empty {
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
+    padding: var(--space-xl) 0;
+  }
+
+  .ql__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-l);
+  }
+
+  .ql__item {
+    margin: 0;
+  }
+
+  .qcard {
+    padding: var(--space-l);
+    border: 1px solid var(--rule);
+    background-color: var(--paper);
+    transition: border-color 150ms ease, background-color 150ms ease;
+  }
+
+  .qcard:hover {
+    border-color: color-mix(in srgb, var(--rubric) 35%, var(--rule));
+    background-color: var(--paper-dim);
+  }
+
+  .qcard__title {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: var(--space-2xs);
+    line-height: 1.25;
+  }
+
+  .qcard__title a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .qcard__title a:hover,
+  .qcard__title a:focus-visible {
+    color: var(--rubric);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+  }
+
+  .qcard__question {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+    margin-bottom: var(--space-s);
+    line-height: 1.4;
+  }
+
+  .qcard__summary {
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    color: var(--ink-soft);
+    margin-bottom: var(--space-s);
+    line-height: var(--line-height-prose);
+  }
+
+  .qcard__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-xs) var(--space-s);
+    margin-top: var(--space-s);
+    font-size: 0.85rem;
+  }
+
+  .qcard__date {
+    color: var(--muted);
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  .qcard__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3xs) var(--space-2xs);
+    padding: 0;
+    margin: 0;
+  }
+
+  .qcard__tag {
+    display: inline-block;
+    padding: 0.1em 0.55em;
+    font-size: 0.8rem;
+    color: var(--muted);
+    background-color: var(--paper-dim);
+    border-radius: 2px;
+  }
+
+  .qcard__link {
+    margin-top: var(--space-m);
+    font-family: var(--font-display);
+    letter-spacing: 0.04em;
+    font-size: 0.95rem;
+  }
+</style>

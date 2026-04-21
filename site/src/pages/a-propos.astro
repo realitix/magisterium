@@ -1,0 +1,252 @@
+---
+/**
+ * Page « À propos » — démarche, sources, posture, méthodologie, contact.
+ */
+import Base from '../layouts/Base.astro';
+import { loadAllDocuments } from '../data/loadDocuments.ts';
+import { loadAllThemes } from '../data/loadThemes.ts';
+
+const docs = loadAllDocuments();
+const themes = loadAllThemes();
+
+// Comptage par période pour la section « Sources ».
+const byPeriode: Record<string, number> = {};
+for (const d of docs) {
+  const key = d.periode || 'autre';
+  byPeriode[key] = (byPeriode[key] ?? 0) + 1;
+}
+
+// Comptage par type.
+const byType: Record<string, number> = {};
+for (const d of docs) {
+  const key = d.type || 'autre';
+  byType[key] = (byType[key] ?? 0) + 1;
+}
+
+const periodeRows = Object.entries(byPeriode).sort((a, b) => b[1] - a[1]);
+const typeRows = Object.entries(byType).sort((a, b) => b[1] - a[1]);
+---
+
+<Base
+  title="À propos"
+  description="Démarche, sources, posture éditoriale et méthodologie du projet Magisterium."
+>
+  <main id="main" class="about">
+    <header class="about__header">
+      <p class="about__eyebrow">Projet éditorial</p>
+      <h1 class="about__title">À propos</h1>
+      <p class="about__subtitle">
+        Raison d'être, corpus rassemblés, posture assumée, méthodologie de
+        travail.
+      </p>
+    </header>
+
+    <article class="prose about__prose">
+      <h2 id="demarche">Démarche</h2>
+      <p>
+        Magisterium est un chantier d'édition numérique du magistère catholique.
+        Le projet naît d'un constat simple : les textes pontificaux, conciliaires
+        et curiaux sont objectivement accessibles — la plupart sur le site du
+        Saint-Siège — mais ils demeurent, en pratique, difficilement exploitables
+        par un lecteur non professionnel. Les sources sont éparses, les
+        traductions parfois approximatives, les renvois entre textes rarement
+        faits, et la masse documentaire (plus de mille documents sur la seule
+        période moderne) décourage la comparaison précise que demande pourtant
+        l'étude doctrinale.
+      </p>
+      <p>
+        Ce site se propose de rassembler, en un seul endroit, les sources
+        primaires dans leur langue originale, et de les accompagner de fiches
+        doctrinales qui les mettent en regard sur les questions controversées
+        du magistère contemporain. Il ne prétend pas à l'exhaustivité
+        universitaire — d'autres outils existent pour cela, à commencer par
+        Denzinger — mais vise la clarté, la lisibilité et la possibilité, pour
+        un lecteur engagé, de vérifier par lui-même chaque affirmation à la
+        source.
+      </p>
+
+      <h2 id="sources">Sources</h2>
+      <p>
+        Le corpus rassemble aujourd'hui {docs.length.toLocaleString('fr-FR')}
+        documents et {themes.length} thèmes doctrinaux transversaux. Les textes
+        proviennent des publications officielles du Saint-Siège (site
+        vatican.va), des actes conciliaires, des recueils pontificaux d'Ancien
+        Régime (Bullarium romanum, etc.), des catéchismes officiels, et de
+        sources complémentaires pour la période FSSPX. Ils sont ingérés en
+        langue source uniquement (latin, français, italien selon le cas) pour
+        garantir l'intégrité documentaire ; les traductions éventuelles sont
+        générées séparément et clairement identifiées comme telles.
+      </p>
+
+      <h3>Répartition par période</h3>
+      <ul>
+        {periodeRows.map(([p, n]) => (
+          <li>
+            <strong>{p}</strong> — {n.toLocaleString('fr-FR')} document{n > 1 ? 's' : ''}
+          </li>
+        ))}
+      </ul>
+
+      <h3>Répartition par type</h3>
+      <ul>
+        {typeRows.map(([t, n]) => (
+          <li>
+            <strong>{t}</strong> — {n.toLocaleString('fr-FR')} document{n > 1 ? 's' : ''}
+          </li>
+        ))}
+      </ul>
+
+      <p>
+        Les grands ensembles se laissent décrire ainsi : vingt-et-un conciles
+        œcuméniques, de Nicée I (325) à Vatican II (1962-1965) ; les seize
+        documents conciliaires de Vatican II ; l'enseignement pontifical depuis
+        Léon XIII jusqu'à aujourd'hui, ainsi que le corpus pré-1846 ; les
+        dicastères de la curie romaine (Saint-Office, Congrégation pour la
+        doctrine de la foi, Propagande, etc.) ; les catéchismes officiels
+        (Catéchisme romain de 1566, Catéchisme de saint Pie X, Catéchisme de
+        l'Église catholique, catéchisme de Trente) ; le Codex de 1917 et celui
+        de 1983 ; les textes liturgiques majeurs ; et un ensemble de documents
+        FSSPX lorsque la controverse l'exige.
+      </p>
+
+      <h2 id="posture">Posture éditoriale</h2>
+      <p>
+        Magisterium assume une posture apologétique traditionnelle. Cela ne
+        signifie pas que le site trie les textes pour ne conserver que ceux
+        qui conviendraient à une lecture préconçue — c'est exactement le
+        contraire : tous les textes pertinents sont présents, y compris ceux
+        qui, dans la lecture courante post-conciliaire, paraissent les plus
+        éloignés de la tradition. La posture se manifeste uniquement dans les
+        fiches Q/R, qui proposent une lecture articulant la continuité
+        doctrinale du magistère contre les ruptures hétérodoxes, et dans le
+        choix des questions jugées dignes d'une synthèse.
+      </p>
+      <p>
+        Trois règles de méthode prévalent sur toute thèse :
+      </p>
+      <ol>
+        <li>
+          <strong>Respect rigoureux de la lettre.</strong> Aucun texte n'est
+          tronqué, paraphrasé de manière tendancieuse, ni cité hors de son
+          contexte immédiat. Les citations sont systématiquement référencées
+          par document et section.
+        </li>
+        <li>
+          <strong>Langue source.</strong> Les textes sont archivés dans leur
+          langue originale. Les traductions françaises utilisées dans les
+          fiches sont toujours accompagnées du texte latin ou vernaculaire
+          original lorsqu'il s'agit d'un passage précis.
+        </li>
+        <li>
+          <strong>Distinction des niveaux d'autorité.</strong> Une encyclique
+          n'est pas un discours, un canon conciliaire n'est pas une note de la
+          curie. Les fiches s'efforcent d'indiquer le poids doctrinal propre
+          à chaque texte.
+        </li>
+      </ol>
+      <p>
+        <strong>Disclaimer.</strong> Ce site n'émane d'aucune institution
+        ecclésiastique. Il ne prétend à aucune autorité magistérielle propre.
+        Les synthèses doctrinales publiées ici engagent uniquement leurs
+        auteurs. Elles se veulent rigoureuses et vérifiables, mais ne sauraient
+        dispenser le lecteur du recours aux sources elles-mêmes, dont cette
+        plateforme facilite précisément la consultation. Le lecteur est invité
+        à signaler toute citation inexacte ou tout contresens manifeste.
+      </p>
+
+      <h2 id="methodologie">Méthodologie</h2>
+      <p>
+        Le processus éditorial enchaîne quatre étapes automatisées et une
+        étape humaine de contrôle.
+      </p>
+      <ol>
+        <li>
+          <strong>Collecte.</strong> Les documents sont téléchargés depuis
+          vatican.va et les sources secondaires déclarées, uniquement dans leur
+          langue originale. Les identifiants (dates, slugs, incipit, auteur,
+          type) sont extraits et normalisés.
+        </li>
+        <li>
+          <strong>Ingestion.</strong> Chaque document est converti en Markdown,
+          vérifié par empreinte cryptographique (SHA-256) et indexé dans un
+          fichier JSONL unique. La concordance thématique est produite par un
+          processus séparé qui attribue à chaque texte un ou plusieurs des
+          onze thèmes doctrinaux retenus.
+        </li>
+        <li>
+          <strong>Rédaction des fiches.</strong> Les fiches Q/R sont rédigées
+          avec l'appui d'agents IA spécialisés, sur la base exclusive du
+          corpus ingéré. Chaque affirmation doit être rattachée à un document
+          présent dans l'archive. Les citations sont vérifiées manuellement.
+        </li>
+        <li>
+          <strong>Traduction.</strong> Les fiches sont rédigées en français ;
+          les citations de textes en langue étrangère sont systématiquement
+          traduites, avec indication explicite de la source et de la langue
+          originale.
+        </li>
+        <li>
+          <strong>Publication.</strong> Le site est généré statiquement
+          (Astro 5). Aucun suivi de lecteur n'est effectué. Le contenu est
+          versionné publiquement et les corrections signalées sont traitées
+          par créations de commits traçables.
+        </li>
+      </ol>
+
+      <h2 id="contact">Contact</h2>
+      <p>
+        Pour toute correction documentaire, erreur de citation, question
+        théologique précise ou proposition de fiche, une adresse de
+        correspondance éditoriale sera publiée prochainement. D'ici là, les
+        remarques peuvent être ouvertes comme <em>issues</em> sur le dépôt
+        GitHub du projet, dont le lien figure en pied de page.
+      </p>
+    </article>
+  </main>
+</Base>
+
+<style>
+  .about {
+    max-width: 70ch;
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-m);
+  }
+
+  .about__header {
+    text-align: center;
+    padding-bottom: var(--space-l);
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: var(--space-xl);
+  }
+
+  .about__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-bottom: var(--space-s);
+  }
+
+  .about__title {
+    font-family: var(--font-display);
+    font-size: clamp(2.25rem, 5vw + 1rem, 3.25rem);
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    margin-bottom: var(--space-s);
+  }
+
+  .about__subtitle {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    color: var(--ink-soft);
+    max-width: 52ch;
+    margin: 0 auto;
+    line-height: var(--line-height-prose);
+  }
+
+  .about__prose {
+    margin: 0 auto;
+  }
+</style>

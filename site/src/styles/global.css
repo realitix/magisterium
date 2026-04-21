@@ -1,0 +1,287 @@
+/* =========================================================================
+   Magisterium — design system « sobre classique »
+   Feuille globale : reset, tokens, typographies, styles de base.
+   ========================================================================= */
+
+/* -------------------------------------------------------------------------
+   Fonts
+   TODO: self-host EB Garamond + Cormorant Garamond
+   Les fichiers .woff2 ne sont pas encore hébergés. Les @font-face ci-dessous
+   sont préparés ; tant qu'ils pointent vers des ressources absentes, les
+   fallbacks (Georgia/serif, monospace système) seront utilisés.
+   ------------------------------------------------------------------------- */
+@font-face {
+  font-family: 'EB Garamond';
+  src: local('EB Garamond'), local('EBGaramond-Regular');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  src: local('EB Garamond Italic'), local('EBGaramond-Italic');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  src: local('EB Garamond Bold'), local('EBGaramond-Bold');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: local('Cormorant Garamond'), local('CormorantGaramond-Regular');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: local('Cormorant Garamond SemiBold'), local('CormorantGaramond-SemiBold');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* -------------------------------------------------------------------------
+   Reset moderne
+   ------------------------------------------------------------------------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+h1, h2, h3, h4, h5, h6,
+p, figure, blockquote, dl, dd,
+ul, ol {
+  margin: 0;
+}
+
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+  padding: 0;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+img,
+picture,
+svg,
+video,
+canvas {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+/* Accessible focus */
+:focus-visible {
+  outline: 2px solid var(--rubric);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Respect des préférences de mouvement */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* -------------------------------------------------------------------------
+   Design tokens — palette & typographie
+   ------------------------------------------------------------------------- */
+:root {
+  /* Palette claire (par défaut) */
+  --paper: #faf7f2;
+  --paper-dim: #f0eae0;
+  --ink: #1a1614;
+  --ink-soft: #3a332e;
+  --muted: #6b6158;
+  --rubric: #7a1f2b;
+  --rubric-hover: #9b2b3a;
+  --gold: #b08a3e;
+  --rule: #d9d0c2;
+  --quote-bg: #f5efe3;
+
+  /* Typographie */
+  --font-serif: 'EB Garamond', 'Georgia', serif;
+  --font-display: 'Cormorant Garamond', 'EB Garamond', 'Georgia', serif;
+  --font-mono: 'Iosevka', 'JetBrains Mono', 'Courier New', ui-monospace, monospace;
+
+  --size-base: 18px;
+  --line-height-prose: 1.65;
+  --measure: 70ch;
+
+  /* Rythme */
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs:  0.75rem;
+  --space-s:   1rem;
+  --space-m:   1.5rem;
+  --space-l:   2rem;
+  --space-xl:  3rem;
+  --space-2xl: 4.5rem;
+}
+
+/* Mobile : taille de base plus modeste */
+@media (max-width: 640px) {
+  :root {
+    --size-base: 16px;
+  }
+}
+
+/* Mode sombre — préférence système */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #13100d;
+    --paper-dim: #1e1813;
+    --ink: #ede5d4;
+    --ink-soft: #c9bfa8;
+    --muted: #8a7f6f;
+    --rubric: #c97983;
+    --rubric-hover: #d99098;
+    --gold: #c9a65a;
+    --rule: #2d251d;
+    --quote-bg: #1c1611;
+  }
+}
+
+/* Mode sombre — toggle explicite (priorité sur la préférence système) */
+:root[data-theme="dark"] {
+  --paper: #13100d;
+  --paper-dim: #1e1813;
+  --ink: #ede5d4;
+  --ink-soft: #c9bfa8;
+  --muted: #8a7f6f;
+  --rubric: #c97983;
+  --rubric-hover: #d99098;
+  --gold: #c9a65a;
+  --rule: #2d251d;
+  --quote-bg: #1c1611;
+}
+
+/* Mode clair — toggle explicite (force clair même si OS est en sombre) */
+:root[data-theme="light"] {
+  --paper: #faf7f2;
+  --paper-dim: #f0eae0;
+  --ink: #1a1614;
+  --ink-soft: #3a332e;
+  --muted: #6b6158;
+  --rubric: #7a1f2b;
+  --rubric-hover: #9b2b3a;
+  --gold: #b08a3e;
+  --rule: #d9d0c2;
+  --quote-bg: #f5efe3;
+}
+
+/* -------------------------------------------------------------------------
+   Styles globaux
+   ------------------------------------------------------------------------- */
+html {
+  font-size: var(--size-base);
+  background-color: var(--paper);
+  color: var(--ink);
+}
+
+body {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: var(--line-height-prose);
+  background-color: var(--paper);
+  color: var(--ink);
+  font-feature-settings: 'kern' 1, 'liga' 1;
+}
+
+/* Titres — en display serif */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  line-height: 1.2;
+}
+
+h1 { font-size: clamp(2rem, 4vw + 1rem, 3.25rem); }
+h2 { font-size: clamp(1.5rem, 2vw + 1rem, 2.25rem); }
+h3 { font-size: clamp(1.25rem, 1vw + 1rem, 1.6rem); }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.125rem; }
+h6 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+
+/* Liens */
+a {
+  color: var(--rubric);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: color-mix(in srgb, var(--rubric) 45%, transparent);
+  transition: color 120ms ease, text-decoration-color 120ms ease;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--rubric-hover);
+  text-decoration-color: var(--rubric-hover);
+}
+
+/* Sélection */
+::selection {
+  background: color-mix(in srgb, var(--gold) 35%, transparent);
+  color: var(--ink);
+}
+
+/* Filet horizontal sobre */
+hr {
+  border: 0;
+  height: 1px;
+  background-color: var(--rule);
+  margin: var(--space-l) 0;
+}
+
+/* Petit élément typographique */
+small {
+  font-size: 0.875em;
+  color: var(--muted);
+}

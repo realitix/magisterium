@@ -1,0 +1,169 @@
+---
+/**
+ * Layout de page thème : header, description optionnelle, vue comparative
+ * des quatre colonnes (pré-V2 / V2 / post-V2 / [FSSPX]) et pied avec
+ * navigation vers les autres thèmes.
+ */
+import Base from './Base.astro';
+import ThemeCompare from '../components/ThemeCompare.astro';
+import { loadAllThemes } from '../data/loadThemes';
+import type { Theme } from '../data/types';
+
+interface Props {
+  theme: Theme;
+}
+
+const { theme } = Astro.props;
+
+const total =
+  (theme.pre_v2?.length ?? 0) +
+  (theme.v2?.length ?? 0) +
+  (theme.post_v2?.length ?? 0) +
+  (theme.fsspx?.length ?? 0);
+
+// "Voir aussi" : tous les autres thèmes, triés par label.
+const others: Theme[] = loadAllThemes()
+  .filter((t) => t.slug !== theme.slug)
+  .sort((a, b) => a.label.localeCompare(b.label, 'fr'));
+
+const description = `Vue comparative du thème doctrinal « ${theme.label} » à travers le magistère : pré-Vatican II, Vatican II, post-Vatican II${theme.fsspx?.length ? ' et FSSPX' : ''}.`;
+---
+
+<Base title={theme.label} description={description}>
+  <main class="theme-page" id="main" data-pagefind-body>
+    <header class="theme-page__header">
+      <p class="theme-page__eyebrow">
+        <a href="/themes/">Les 11 thèmes doctrinaux</a>
+      </p>
+      <h1 class="theme-page__title">{theme.label}</h1>
+      <p class="theme-page__meta">
+        <small>
+          {total} document{total > 1 ? 's' : ''} cumulé{total > 1 ? 's' : ''}
+          {' — '}
+          {theme.pre_v2?.length ?? 0} pré-V2,{' '}
+          {theme.v2?.length ?? 0} V2,{' '}
+          {theme.post_v2?.length ?? 0} post-V2
+          {theme.fsspx?.length ? `, ${theme.fsspx.length} FSSPX` : ''}
+        </small>
+      </p>
+
+      <div class="theme-page__description">
+        <slot name="description" />
+      </div>
+    </header>
+
+    <section aria-label={`Vue comparative du thème ${theme.label}`}>
+      <ThemeCompare theme={theme} />
+    </section>
+
+    <footer class="theme-page__footer">
+      <h2 class="theme-page__footer-title">Voir aussi</h2>
+      <ul class="theme-page__others" role="list">
+        {others.map((t) => (
+          <li class="theme-page__other-item">
+            <a href={`/themes/${t.slug}/`} aria-label={`Voir le thème ${t.label}`}>
+              {t.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </footer>
+  </main>
+</Base>
+
+<style>
+  .theme-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-m);
+  }
+
+  .theme-page__header {
+    padding-bottom: var(--space-l);
+    margin-bottom: var(--space-l);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .theme-page__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-bottom: var(--space-s);
+  }
+
+  .theme-page__eyebrow a {
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--rule);
+  }
+
+  .theme-page__eyebrow a:hover,
+  .theme-page__eyebrow a:focus-visible {
+    color: var(--rubric-hover);
+    border-bottom-color: var(--rubric-hover);
+  }
+
+  .theme-page__title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    margin-bottom: var(--space-xs);
+  }
+
+  .theme-page__meta {
+    color: var(--muted);
+    margin: 0;
+  }
+
+  .theme-page__description {
+    margin-top: var(--space-m);
+    max-width: var(--measure);
+    color: var(--ink-soft);
+  }
+
+  .theme-page__description:empty {
+    display: none;
+  }
+
+  .theme-page__footer {
+    margin-top: var(--space-2xl);
+    padding-top: var(--space-l);
+    border-top: 1px solid var(--rule);
+  }
+
+  .theme-page__footer-title {
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    margin-bottom: var(--space-m);
+  }
+
+  .theme-page__others {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs) var(--space-m);
+  }
+
+  .theme-page__other-item a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 2px;
+    transition: color 120ms ease, border-color 120ms ease;
+  }
+
+  .theme-page__other-item a:hover,
+  .theme-page__other-item a:focus-visible {
+    color: var(--rubric-hover);
+    border-bottom-color: var(--rubric-hover);
+  }
+</style>

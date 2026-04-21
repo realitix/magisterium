@@ -1,0 +1,358 @@
+---
+/**
+ * SearchBar — composant de recherche Pagefind
+ *
+ * Rend un conteneur ciblé par PagefindUI et charge le runtime Pagefind
+ * depuis /pagefind/ (généré par `pagefind --site dist` en postbuild).
+ *
+ * Usage :
+ *   <SearchBar />
+ *   <SearchBar variant="compact" placeholder="Rechercher…" />
+ */
+interface Props {
+  placeholder?: string;
+  /** 'default' : affichage pleine largeur | 'compact' : version réduite pour le header */
+  variant?: 'default' | 'compact';
+  /** Identifiant du conteneur (unique par page si plusieurs SearchBar) */
+  id?: string;
+}
+
+const {
+  placeholder = 'Rechercher dans le corpus…',
+  variant = 'default',
+  id = 'search',
+} = Astro.props;
+---
+
+<div
+  class:list={['search', variant === 'compact' && 'search--compact']}
+  role="search"
+  aria-label="Recherche plein-texte"
+>
+  <div
+    id={id}
+    class="search__pagefind"
+    data-pagefind-ui
+    data-placeholder={placeholder}
+    data-variant={variant}
+  ></div>
+</div>
+
+<script>
+  /*
+   * Initialisation de PagefindUI.
+   *
+   * Le script `/pagefind/pagefind-ui.js` est généré par `pagefind --site dist`
+   * (postbuild). Il expose `window.PagefindUI` et charge lui-même le WASM
+   * et l'index depuis `/pagefind/`.
+   *
+   * En mode dev (`astro dev`), l'index n'existe pas : on affiche un message
+   * explicite plutôt qu'une erreur silencieuse.
+   */
+  const initSearch = () => {
+    const containers = document.querySelectorAll<HTMLElement>('[data-pagefind-ui]');
+    if (containers.length === 0) return;
+
+    const scriptUrl = '/pagefind/pagefind-ui.js';
+
+    const loadScript = (src: string): Promise<void> =>
+      new Promise((resolve, reject) => {
+        if (document.querySelector(`script[src="${src}"]`)) {
+          resolve();
+          return;
+        }
+        const s = document.createElement('script');
+        s.src = src;
+        s.async = true;
+        s.onload = () => resolve();
+        s.onerror = () =>
+          reject(new Error(`Impossible de charger ${src} (index Pagefind manquant ?)`));
+        document.head.appendChild(s);
+      });
+
+    loadScript(scriptUrl)
+      .then(() => {
+        // @ts-ignore — PagefindUI est injecté globalement par le script chargé
+        const PagefindUI = window.PagefindUI;
+        if (!PagefindUI) {
+          console.error('PagefindUI non disponible sur window après chargement.');
+          return;
+        }
+
+        containers.forEach((el) => {
+          const placeholder =
+            el.getAttribute('data-placeholder') || 'Rechercher dans le corpus…';
+          const variant = el.getAttribute('data-variant') || 'default';
+
+          new PagefindUI({
+            element: `#${el.id}`,
+            showSubResults: variant !== 'compact',
+            showImages: false,
+            resetStyles: false,
+            excerptLength: variant === 'compact' ? 15 : 30,
+            translations: {
+              placeholder,
+              clear_search: 'Effacer',
+              load_more: 'Plus de résultats',
+              search_label: 'Rechercher dans le corpus',
+              filters_label: 'Filtres',
+              zero_results: 'Aucun résultat pour [SEARCH_TERM]',
+              many_results: '[COUNT] résultats pour [SEARCH_TERM]',
+              one_result: '1 résultat pour [SEARCH_TERM]',
+              alt_search:
+                'Aucun résultat pour [SEARCH_TERM]. Résultats pour [DIFFERENT_TERM] affichés',
+              search_suggestion:
+                'Aucun résultat pour [SEARCH_TERM]. Suggestions :',
+              searching: 'Recherche de [SEARCH_TERM]…',
+            },
+          });
+        });
+      })
+      .catch((err) => {
+        console.warn('[SearchBar]', err.message);
+        containers.forEach((el) => {
+          el.innerHTML =
+            '<p class="search__unavailable">Index de recherche indisponible. Relancez <code>npm run build</code> pour générer l’index Pagefind.</p>';
+        });
+      });
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initSearch);
+  } else {
+    initSearch();
+  }
+</script>
+
+<style>
+  .search {
+    width: 100%;
+  }
+  .search--compact {
+    max-width: 22rem;
+  }
+  .search__unavailable {
+    color: var(--muted);
+    font-style: italic;
+    font-size: 0.9rem;
+  }
+</style>
+
+<style is:global>
+  /* =========================================================================
+     Overrides Pagefind UI — palette Magisterium « sobre classique »
+     Variables reconnues par @pagefind/default-ui (cf. pagefind-ui.css).
+     ========================================================================= */
+  .pagefind-ui {
+    --pagefind-ui-primary: var(--rubric);
+    --pagefind-ui-text: var(--ink);
+    --pagefind-ui-background: var(--paper);
+    --pagefind-ui-border: var(--rule);
+    --pagefind-ui-tag: var(--paper-dim);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 4px;
+    --pagefind-ui-image-border-radius: 4px;
+    --pagefind-ui-image-box-ratio: 3 / 2;
+    --pagefind-ui-font: var(--font-serif);
+    --pagefind-ui-scale: 1;
+  }
+
+  /* Champ de recherche */
+  .pagefind-ui .pagefind-ui__form::before {
+    /* l'icône loupe fournie par Pagefind — on la teinte en rubrique */
+    background-color: var(--muted);
+    opacity: 0.7;
+  }
+
+  .pagefind-ui .pagefind-ui__search-input {
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    padding: 0.7rem 2.6rem 0.7rem 2.6rem;
+    background-color: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    transition: border-color 120ms ease;
+  }
+  .pagefind-ui .pagefind-ui__search-input::placeholder {
+    color: var(--muted);
+    font-style: italic;
+  }
+  .pagefind-ui .pagefind-ui__search-input:focus {
+    border-color: var(--rubric);
+    outline: none;
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--rubric) 15%, transparent);
+  }
+
+  .pagefind-ui .pagefind-ui__search-clear {
+    color: var(--muted);
+    font-family: var(--font-serif);
+    font-size: 0.9rem;
+  }
+  .pagefind-ui .pagefind-ui__search-clear:hover {
+    color: var(--rubric);
+  }
+
+  /* Bandeau « N résultats » */
+  .pagefind-ui .pagefind-ui__message {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    color: var(--muted);
+    padding: var(--space-m) 0 var(--space-s);
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: var(--space-s);
+    letter-spacing: 0.02em;
+  }
+
+  /* Liste de résultats — cartes sobres */
+  .pagefind-ui .pagefind-ui__results {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .pagefind-ui .pagefind-ui__result {
+    padding: var(--space-m) 0;
+    border-bottom: 1px solid var(--rule);
+    display: block;
+  }
+  .pagefind-ui .pagefind-ui__result:last-child {
+    border-bottom: none;
+  }
+
+  .pagefind-ui .pagefind-ui__result-thumb,
+  .pagefind-ui .pagefind-ui__result-image {
+    display: none;
+  }
+
+  .pagefind-ui .pagefind-ui__result-inner {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2xs);
+  }
+
+  /* Titre de résultat — serif display */
+  .pagefind-ui .pagefind-ui__result-title {
+    font-family: var(--font-display);
+    font-size: 1.35rem;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0;
+    letter-spacing: -0.005em;
+  }
+  .pagefind-ui .pagefind-ui__result-link {
+    color: var(--rubric);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 120ms ease, color 120ms ease;
+  }
+  .pagefind-ui .pagefind-ui__result-link:hover,
+  .pagefind-ui .pagefind-ui__result-link:focus-visible {
+    color: var(--rubric-hover);
+    border-bottom-color: var(--rubric-hover);
+  }
+
+  /* Extrait — serif avec mise en valeur du terme */
+  .pagefind-ui .pagefind-ui__result-excerpt {
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    color: var(--ink-soft);
+    line-height: 1.6;
+    margin: 0;
+  }
+  .pagefind-ui .pagefind-ui__result-excerpt mark {
+    background-color: color-mix(in srgb, var(--gold) 35%, transparent);
+    color: var(--ink);
+    padding: 0 0.1em;
+    border-radius: 2px;
+  }
+
+  /* Tags / filtres */
+  .pagefind-ui .pagefind-ui__result-tags {
+    display: flex;
+    gap: var(--space-2xs);
+    flex-wrap: wrap;
+    margin-top: var(--space-2xs);
+  }
+  .pagefind-ui .pagefind-ui__result-tag {
+    font-family: var(--font-serif);
+    font-size: 0.8rem;
+    color: var(--muted);
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 0.1rem 0.5rem;
+    letter-spacing: 0.02em;
+  }
+
+  /* Sous-résultats (sections à l'intérieur d'une page) */
+  .pagefind-ui .pagefind-ui__result-nested {
+    margin-top: var(--space-xs);
+    padding-left: var(--space-m);
+    border-left: 2px solid var(--rule);
+  }
+  .pagefind-ui .pagefind-ui__result-nested .pagefind-ui__result-title {
+    font-size: 1rem;
+    font-family: var(--font-serif);
+    font-style: italic;
+  }
+
+  /* Bouton « charger plus » */
+  .pagefind-ui .pagefind-ui__button {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    color: var(--rubric);
+    background-color: transparent;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 0.6rem 1.4rem;
+    cursor: pointer;
+    letter-spacing: 0.02em;
+    transition:
+      border-color 120ms ease,
+      color 120ms ease,
+      background-color 120ms ease;
+  }
+  .pagefind-ui .pagefind-ui__button:hover,
+  .pagefind-ui .pagefind-ui__button:focus-visible {
+    border-color: var(--rubric);
+    color: var(--rubric-hover);
+    background-color: color-mix(in srgb, var(--rubric) 6%, transparent);
+  }
+
+  /* Filtres */
+  .pagefind-ui .pagefind-ui__filter-panel {
+    font-family: var(--font-serif);
+  }
+  .pagefind-ui .pagefind-ui__filter-name {
+    font-family: var(--font-display);
+    color: var(--ink);
+  }
+  .pagefind-ui .pagefind-ui__filter-value {
+    color: var(--ink-soft);
+  }
+
+  /* Variante compacte — header */
+  [data-variant='compact'].pagefind-ui .pagefind-ui__search-input {
+    font-size: 0.9rem;
+    padding: 0.45rem 2.2rem;
+  }
+  [data-variant='compact'].pagefind-ui .pagefind-ui__drawer {
+    position: absolute;
+    z-index: 50;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    padding: var(--space-s);
+    max-width: 36rem;
+    width: max(22rem, 100%);
+    margin-top: 0.4rem;
+  }
+  [data-variant='compact'].pagefind-ui .pagefind-ui__result {
+    padding: var(--space-s) 0;
+  }
+  [data-variant='compact'].pagefind-ui .pagefind-ui__result-title {
+    font-size: 1.05rem;
+  }
+</style>

@@ -1,0 +1,194 @@
+---
+/**
+ * Page index des 11 thèmes doctrinaux. Affiche une carte par thème avec
+ * ses compteurs par période et un lien vers la page thème dédiée.
+ */
+import Base from '../../layouts/Base.astro';
+import { loadAllThemes } from '../../data/loadThemes';
+
+const themes = loadAllThemes().sort((a, b) => a.label.localeCompare(b.label, 'fr'));
+
+interface Card {
+  slug: string;
+  label: string;
+  preV2: number;
+  v2: number;
+  postV2: number;
+  fsspx: number;
+  total: number;
+}
+
+const cards: Card[] = themes.map((t) => {
+  const preV2 = t.pre_v2?.length ?? 0;
+  const v2 = t.v2?.length ?? 0;
+  const postV2 = t.post_v2?.length ?? 0;
+  const fsspx = t.fsspx?.length ?? 0;
+  return {
+    slug: t.slug,
+    label: t.label,
+    preV2,
+    v2,
+    postV2,
+    fsspx,
+    total: preV2 + v2 + postV2 + fsspx,
+  };
+});
+---
+
+<Base
+  title="Les 11 thèmes doctrinaux"
+  description="Index des onze thèmes doctrinaux du corpus magistériel : liberté religieuse, œcuménisme, liturgie, ecclésiologie, et autres controverses V2 / post-V2."
+>
+  <main id="main" class="themes-index">
+    <header class="themes-index__header">
+      <p class="themes-index__eyebrow">Concordance</p>
+      <h1 class="themes-index__title">Les 11 thèmes doctrinaux</h1>
+      <p class="themes-index__subtitle">
+        Vue comparative des principales controverses doctrinales à travers le
+        magistère : enseignement pré-Vatican II, textes conciliaires, corpus
+        post-conciliaire et position de la FSSPX lorsqu'elle existe.
+      </p>
+    </header>
+
+    <ul class="themes-index__grid" role="list">
+      {cards.map((card) => (
+        <li class="themes-index__card">
+          <a
+            class="themes-index__card-link"
+            href={`/themes/${card.slug}/`}
+            aria-label={`Consulter le thème ${card.label}`}
+          >
+            <h2 class="themes-index__card-title">{card.label}</h2>
+            <p class="themes-index__card-total">
+              <small>{card.total} document{card.total > 1 ? 's' : ''} cumulé{card.total > 1 ? 's' : ''}</small>
+            </p>
+            <ul class="themes-index__counts" role="list">
+              <li><span class="themes-index__n">{card.preV2}</span> pré-V2</li>
+              <li><span class="themes-index__n">{card.v2}</span> V2</li>
+              <li><span class="themes-index__n">{card.postV2}</span> post-V2</li>
+              {card.fsspx > 0 && (
+                <li><span class="themes-index__n">{card.fsspx}</span> FSSPX</li>
+              )}
+            </ul>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </main>
+</Base>
+
+<style>
+  .themes-index {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-m);
+  }
+
+  .themes-index__header {
+    text-align: center;
+    padding-bottom: var(--space-l);
+    margin-bottom: var(--space-xl);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .themes-index__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-bottom: var(--space-s);
+  }
+
+  .themes-index__title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    margin-bottom: var(--space-s);
+  }
+
+  .themes-index__subtitle {
+    font-family: var(--font-serif);
+    color: var(--ink-soft);
+    max-width: 60ch;
+    margin: 0 auto;
+  }
+
+  .themes-index__grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-m);
+  }
+
+  @media (min-width: 640px) {
+    .themes-index__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 960px) {
+    .themes-index__grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .themes-index__card {
+    border: 1px solid var(--rule);
+    background-color: var(--paper);
+    transition: border-color 120ms ease, background-color 120ms ease;
+  }
+
+  .themes-index__card:hover,
+  .themes-index__card:focus-within {
+    border-color: var(--rubric);
+    background-color: var(--paper-dim);
+  }
+
+  .themes-index__card-link {
+    display: block;
+    padding: var(--space-m);
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .themes-index__card-title {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: -0.005em;
+    color: var(--ink);
+    margin: 0 0 var(--space-2xs);
+  }
+
+  .themes-index__card-link:hover .themes-index__card-title,
+  .themes-index__card-link:focus-visible .themes-index__card-title {
+    color: var(--rubric-hover);
+  }
+
+  .themes-index__card-total {
+    margin: 0 0 var(--space-s);
+    color: var(--muted);
+  }
+
+  .themes-index__counts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs) var(--space-m);
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+  }
+
+  .themes-index__n {
+    font-variant-numeric: oldstyle-nums;
+    font-weight: 600;
+    color: var(--ink);
+    margin-right: 2px;
+  }
+</style>

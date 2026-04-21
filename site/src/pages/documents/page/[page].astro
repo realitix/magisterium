@@ -1,0 +1,56 @@
+---
+/**
+ * Pages 2..N de l'index des documents. La page 1 est servie par
+ * `/documents/index.astro` — on la saute ici pour éviter un doublon.
+ */
+import DocList from '../_list.astro';
+import { loadAllDocuments } from '../../../data/loadDocuments.ts';
+import type { Document } from '../../../data/types.ts';
+
+const PER_PAGE = 50;
+
+function sortedDocs(): Document[] {
+  return loadAllDocuments().slice().sort((a, b) => {
+    const da = a.date ?? '';
+    const db = b.date ?? '';
+    if (da === db) return a.slug.localeCompare(b.slug);
+    if (da === '') return 1;
+    if (db === '') return -1;
+    return db.localeCompare(da);
+  });
+}
+
+export async function getStaticPaths() {
+  const PER_PAGE_LOCAL = 50;
+  const docs = loadAllDocuments();
+  const totalPages = Math.max(1, Math.ceil(docs.length / PER_PAGE_LOCAL));
+  // Ne générer que les pages 2..N ; la page 1 vit sur `/documents/`.
+  const paths = [];
+  for (let p = 2; p <= totalPages; p++) {
+    paths.push({ params: { page: String(p) } });
+  }
+  return paths;
+}
+
+const { page } = Astro.params;
+if (typeof page !== 'string') {
+  throw new Error('Paramètre de page manquant');
+}
+const currentPage = Number.parseInt(page, 10);
+if (!Number.isFinite(currentPage) || currentPage < 2) {
+  throw new Error(`Numéro de page invalide : ${page}`);
+}
+
+const docs = sortedDocs();
+const totalCount = docs.length;
+const totalPages = Math.max(1, Math.ceil(totalCount / PER_PAGE));
+const start = (currentPage - 1) * PER_PAGE;
+const pageDocs = docs.slice(start, start + PER_PAGE);
+---
+
+<DocList
+  pageDocs={pageDocs}
+  currentPage={currentPage}
+  totalPages={totalPages}
+  totalCount={totalCount}
+/>

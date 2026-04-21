@@ -1,0 +1,429 @@
+---
+/**
+ * Document.astro — layout d'une fiche document individuelle.
+ * Consomme les métadonnées enrichies (Document) et le contenu markdown
+ * déjà rendu en HTML par la page appelante.
+ */
+import Base from './Base.astro';
+import type { Document, DocumentMeta, Langue } from '../data/types.ts';
+
+interface Props {
+  doc: Document;
+  meta: DocumentMeta;
+  /** Langue effectivement rendue (celle du .md chargé). */
+  lang: Langue;
+  /** HTML déjà rendu depuis le markdown. */
+  renderedHtml: string;
+}
+
+const { doc, meta, lang, renderedHtml } = Astro.props;
+
+/** Titre principal : titre_fr > incipit > slug. */
+const title: string =
+  (doc.titre_fr ?? meta.titre_fr ?? doc.incipit ?? meta.incipit ?? doc.slug) as string;
+
+/** Libellés humains des périodes. */
+const PERIODE_LABELS: Readonly<Record<string, string>> = {
+  'pre-vatican-ii': 'Pré-Vatican II',
+  'vatican-ii': 'Vatican II',
+  'post-vatican-ii': 'Post-Vatican II',
+  fsspx: 'FSSPX',
+};
+
+/** Couleur du badge période : rubrique pour V2+, or pour pré-V2, muted ailleurs. */
+function periodeBadgeClass(p: string): string {
+  if (p === 'vatican-ii' || p === 'post-vatican-ii') return 'badge--rubric';
+  if (p === 'pre-vatican-ii') return 'badge--gold';
+  return 'badge--muted';
+}
+
+/** Libellés humains des langues. */
+const LANG_LABELS: Readonly<Record<string, string>> = {
+  la: 'latin',
+  fr: 'français',
+  it: 'italien',
+  en: 'anglais',
+  de: 'allemand',
+  es: 'espagnol',
+  pt: 'portugais',
+  el: 'grec',
+};
+
+/** Mois français pour le formatage des dates. */
+const FRENCH_MONTHS: readonly string[] = [
+  'janvier', 'février', 'mars', 'avril', 'mai', 'juin',
+  'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre',
+];
+
+/**
+ * Formatte une date ISO ("YYYY-MM-DD" ou "YYYY-MM" ou "YYYY") en français.
+ * Exemples : "1598-07-15" -> "15 juillet 1598".
+ */
+function formatFrenchDate(iso: string | null | undefined): string | null {
+  if (iso === null || iso === undefined || iso.trim().length === 0) return null;
+  const m = /^(\d{1,4})(?:-(\d{2}))?(?:-(\d{2}))?/.exec(iso);
+  if (m === null) return iso;
+  const year = Number.parseInt(m[1], 10);
+  const monthIdx = m[2] !== undefined ? Number.parseInt(m[2], 10) - 1 : null;
+  const day = m[3] !== undefined ? Number.parseInt(m[3], 10) : null;
+  if (day !== null && monthIdx !== null && monthIdx >= 0 && monthIdx < 12) {
+    return `${day} ${FRENCH_MONTHS[monthIdx]} ${year}`;
+  }
+  if (monthIdx !== null && monthIdx >= 0 && monthIdx < 12) {
+    return `${FRENCH_MONTHS[monthIdx]} ${year}`;
+  }
+  return String(year);
+}
+
+const dateFormatted = formatFrenchDate(doc.date);
+const periodeLabel = PERIODE_LABELS[doc.periode] ?? doc.periode;
+const periodeClass = periodeBadgeClass(doc.periode);
+
+/** Meta préfèrera la source dans la langue rendue ; sinon la première. */
+const sources = Array.isArray(meta.sources) ? meta.sources : [];
+const primarySource = sources.find((s) => s?.langue === lang) ?? sources[0];
+
+/** SHA-256 : chaîne brute ou mapping par langue. */
+let shaDisplay: string | null = null;
+if (typeof meta.sha256 === 'string' && meta.sha256.length > 0) {
+  shaDisplay = meta.sha256;
+} else if (typeof meta.sha256 === 'object' && meta.sha256 !== null) {
+  const map = meta.sha256 as Record<string, string>;
+  shaDisplay = map[lang] ?? Object.values(map)[0] ?? null;
+} else if (typeof doc.sha256 === 'string' && doc.sha256.length > 0) {
+  shaDisplay = doc.sha256;
+}
+
+/** Langues disponibles (ordonnées, dédupliquées). */
+const langues: Langue[] = [];
+for (const l of meta.langues_disponibles ?? []) {
+  if (!langues.includes(l)) langues.push(l);
+}
+if (meta.langue_originale !== undefined && meta.langue_originale !== null) {
+  if (!langues.includes(meta.langue_originale)) langues.unshift(meta.langue_originale);
+}
+if (!langues.includes(doc.langue_originale)) langues.push(doc.langue_originale);
+
+const proseClass = lang === 'fr' ? 'prose' : 'prose prose-latin';
+
+const pageDescription: string =
+  meta.titre_original !== undefined && meta.titre_original !== null
+    ? `${title} — ${meta.titre_original}`
+    : title;
+---
+
+<Base title={title} description={pageDescription}>
+  <main class="doc" id="main" data-pagefind-body>
+    <nav class="doc__back" aria-label="Navigation">
+      <a href="/documents/">← Retour à l'index</a>
+    </nav>
+
+    <header class="doc__header">
+      <p class="doc__eyebrow">
+        {doc.auteur !== null && <span>{doc.auteur}</span>}
+        {doc.auteur !== null && <span class="doc__sep">·</span>}
+        <span>{doc.type}</span>
+        {dateFormatted !== null && <span class="doc__sep">·</span>}
+        {dateFormatted !== null && <span>{dateFormatted}</span>}
+      </p>
+
+      <h1 class="doc__title">{title}</h1>
+
+      {meta.titre_original !== undefined && meta.titre_original !== null && meta.titre_original !== title && (
+        <p class="doc__subtitle" lang={lang}>{meta.titre_original}</p>
+      )}
+
+      <div class="doc__badges">
+        <span class={`badge ${periodeClass}`}>{periodeLabel}</span>
+        {meta.autorite_magisterielle !== undefined && meta.autorite_magisterielle !== null && (
+          <span class="badge badge--muted">{meta.autorite_magisterielle}</span>
+        )}
+      </div>
+
+      {doc.themes_doctrinaux.length > 0 && (
+        <ul class="doc__themes" role="list" aria-label="Thèmes doctrinaux">
+          {doc.themes_doctrinaux.map((themeSlug) => (
+            <li>
+              <a href={`/themes/${themeSlug}/`} class="doc__theme-link">{themeSlug.replace(/-/g, ' ')}</a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </header>
+
+    <article class={proseClass} lang={lang}>
+      <Fragment set:html={renderedHtml} />
+    </article>
+
+    <aside class="doc__meta" aria-label="Métadonnées du document">
+      <h2 class="doc__meta-title">Métadonnées</h2>
+      <dl class="doc__meta-list">
+        <dt>Langue affichée</dt>
+        <dd>{LANG_LABELS[lang] ?? lang}</dd>
+
+        {langues.length > 0 && (
+          <Fragment>
+            <dt>Langues disponibles</dt>
+            <dd>
+              {langues.map((l, idx) => (
+                <Fragment>
+                  {idx > 0 && <span>, </span>}
+                  {l === lang ? (
+                    <span class="doc__lang-current">{LANG_LABELS[l] ?? l}</span>
+                  ) : (
+                    <a href={`/documents/${doc.slug}/?lang=${l}`}>{LANG_LABELS[l] ?? l}</a>
+                  )}
+                </Fragment>
+              ))}
+            </dd>
+          </Fragment>
+        )}
+
+        {doc.date !== null && (
+          <Fragment>
+            <dt>Date</dt>
+            <dd>{dateFormatted ?? doc.date}</dd>
+          </Fragment>
+        )}
+
+        {doc.auteur !== null && (
+          <Fragment>
+            <dt>Auteur</dt>
+            <dd>{doc.auteur}</dd>
+          </Fragment>
+        )}
+
+        <dt>Période</dt>
+        <dd>{periodeLabel}</dd>
+
+        <dt>Type</dt>
+        <dd>{doc.type}</dd>
+
+        {primarySource?.url !== undefined && (
+          <Fragment>
+            <dt>Source</dt>
+            <dd>
+              <a href={primarySource.url} rel="noreferrer noopener nofollow" target="_blank">
+                {primarySource.site ?? primarySource.url}
+              </a>
+            </dd>
+          </Fragment>
+        )}
+
+        {shaDisplay !== null && (
+          <Fragment>
+            <dt>SHA-256</dt>
+            <dd><code class="doc__sha">{shaDisplay}</code></dd>
+          </Fragment>
+        )}
+
+        <dt>Identifiant</dt>
+        <dd><code>{doc.slug}</code></dd>
+      </dl>
+    </aside>
+
+    <nav class="doc__back doc__back--bottom" aria-label="Navigation">
+      <a href="/documents/">← Retour à l'index</a>
+    </nav>
+  </main>
+</Base>
+
+<style>
+  .doc {
+    max-width: var(--measure);
+    margin: 0 auto;
+    padding: var(--space-l) var(--space-m) var(--space-2xl);
+  }
+
+  .doc__back {
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    margin-bottom: var(--space-l);
+  }
+
+  .doc__back--bottom {
+    margin-top: var(--space-2xl);
+    margin-bottom: 0;
+    padding-top: var(--space-l);
+    border-top: 1px solid var(--rule);
+  }
+
+  .doc__header {
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-l);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .doc__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-bottom: var(--space-s);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3em;
+    align-items: baseline;
+  }
+
+  .doc__sep {
+    color: var(--rule);
+  }
+
+  .doc__title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    margin-bottom: var(--space-xs);
+  }
+
+  .doc__subtitle {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 1.15rem;
+    color: var(--ink-soft);
+    margin-bottom: var(--space-m);
+  }
+
+  .doc__badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs);
+    margin-bottom: var(--space-m);
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.2em 0.65em;
+    border-radius: 999px;
+    font-family: var(--font-display);
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    line-height: 1.4;
+  }
+
+  .badge--rubric {
+    color: var(--paper);
+    background-color: var(--rubric);
+  }
+
+  .badge--gold {
+    color: var(--ink);
+    background-color: color-mix(in srgb, var(--gold) 28%, transparent);
+    border-color: color-mix(in srgb, var(--gold) 55%, transparent);
+  }
+
+  .badge--muted {
+    color: var(--ink-soft);
+    background-color: var(--paper-dim);
+    border-color: var(--rule);
+  }
+
+  .doc__themes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs);
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .doc__themes li {
+    margin: 0;
+  }
+
+  .doc__theme-link {
+    display: inline-block;
+    padding: 0.15em 0.6em;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    font-family: var(--font-display);
+    font-size: 0.82rem;
+    text-transform: lowercase;
+    letter-spacing: 0.02em;
+    color: var(--ink-soft);
+    text-decoration: none;
+    background-color: var(--paper-dim);
+  }
+
+  .doc__theme-link:hover,
+  .doc__theme-link:focus-visible {
+    color: var(--rubric);
+    border-color: var(--rubric);
+  }
+
+  .doc__meta {
+    margin-top: var(--space-2xl);
+    padding: var(--space-m);
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+  }
+
+  .doc__meta-title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    margin-bottom: var(--space-s);
+  }
+
+  .doc__meta-list {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: var(--space-2xs) var(--space-m);
+    margin: 0;
+    font-size: 0.92rem;
+  }
+
+  .doc__meta-list dt {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    align-self: baseline;
+    padding-top: 0.25em;
+  }
+
+  .doc__meta-list dd {
+    margin: 0;
+    color: var(--ink-soft);
+    word-break: break-word;
+  }
+
+  .doc__lang-current {
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .doc__sha {
+    font-family: var(--font-mono);
+    font-size: 0.8em;
+    word-break: break-all;
+    background-color: var(--paper);
+    padding: 0.1em 0.4em;
+    border-radius: 3px;
+    border: 1px solid var(--rule);
+  }
+
+  @media (max-width: 640px) {
+    .doc {
+      padding: var(--space-m) var(--space-s) var(--space-xl);
+    }
+
+    .doc__meta-list {
+      grid-template-columns: 1fr;
+      gap: var(--space-3xs);
+    }
+
+    .doc__meta-list dt {
+      padding-top: var(--space-2xs);
+    }
+  }
+</style>

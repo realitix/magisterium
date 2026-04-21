@@ -1,0 +1,164 @@
+---
+/**
+ * Footer global — note éditoriale, colonnes de liens, copyright.
+ */
+import { loadAllDocuments } from '../data/loadDocuments.ts';
+
+const docCount = loadAllDocuments().length;
+const year = new Date().getFullYear();
+// URL GitHub du projet (à ajuster si le repo public change).
+const GITHUB_URL: string | null = null; // ex. 'https://github.com/<org>/catholique'
+---
+
+<footer class="site-footer" role="contentinfo">
+  <div class="site-footer__inner">
+    <div class="site-footer__intro">
+      <p class="site-footer__brand">Magisterium</p>
+      <p class="site-footer__note">
+        Magisterium rassemble les sources primaires du magistère catholique et
+        propose des fiches doctrinales selon la lecture traditionnelle de
+        l'Église, tout en respectant rigoureusement la lettre des textes
+        conciliaires et pontificaux.
+      </p>
+      <p class="site-footer__meta">
+        <small>Corpus magistériel — {docCount.toLocaleString('fr-FR')} documents</small>
+      </p>
+    </div>
+
+    <nav class="site-footer__cols" aria-label="Pied de page">
+      <div class="site-footer__col">
+        <h2 class="site-footer__col-title">Navigation</h2>
+        <ul class="site-footer__list" role="list">
+          <li><a href="/questions/">Questions doctrinales</a></li>
+          <li><a href="/themes/">Thèmes</a></li>
+          <li><a href="/documents/">Documents</a></li>
+        </ul>
+      </div>
+
+      <div class="site-footer__col">
+        <h2 class="site-footer__col-title">Ressources</h2>
+        <ul class="site-footer__list" role="list">
+          <li><a href="/a-propos/">À propos</a></li>
+          {GITHUB_URL && (
+            <li>
+              <a href={GITHUB_URL} rel="noopener">Code source (GitHub)</a>
+            </li>
+          )}
+        </ul>
+      </div>
+
+      <div class="site-footer__col">
+        <h2 class="site-footer__col-title">Contact</h2>
+        <ul class="site-footer__list" role="list">
+          <li>Correspondance éditoriale — à préciser</li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="site-footer__bottom">
+    <small>
+      © {year} Magisterium. Textes magistériels dans le domaine public ou
+      reproduits selon leurs conditions originales.
+    </small>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    margin-top: var(--space-2xl);
+    border-top: 1px solid var(--rule);
+    background-color: var(--paper-dim);
+    color: var(--ink-soft);
+  }
+
+  .site-footer__inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-m) var(--space-l);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-xl);
+  }
+
+  @media (min-width: 760px) {
+    .site-footer__inner {
+      grid-template-columns: 1.3fr 2fr;
+      gap: var(--space-2xl);
+    }
+  }
+
+  .site-footer__brand {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: var(--space-s);
+  }
+
+  .site-footer__note {
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    color: var(--ink-soft);
+    line-height: var(--line-height-prose);
+    max-width: 42ch;
+    margin-bottom: var(--space-s);
+  }
+
+  .site-footer__meta {
+    color: var(--muted);
+  }
+
+  .site-footer__cols {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-l);
+  }
+
+  @media (min-width: 480px) {
+    .site-footer__cols {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .site-footer__col-title {
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink);
+    margin-bottom: var(--space-s);
+  }
+
+  .site-footer__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2xs);
+    font-size: 0.95rem;
+  }
+
+  .site-footer__list a {
+    color: var(--ink-soft);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+
+  .site-footer__list a:hover,
+  .site-footer__list a:focus-visible {
+    color: var(--rubric);
+    border-bottom-color: color-mix(in srgb, var(--rubric) 45%, transparent);
+  }
+
+  .site-footer__bottom {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--space-s) var(--space-m) var(--space-l);
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    text-align: center;
+  }
+</style>

@@ -1,0 +1,245 @@
+/* =========================================================================
+   Magisterium — classe .prose
+   Rythme vertical et mise en page du texte long.
+   ========================================================================= */
+
+.prose {
+  max-width: var(--measure);
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: var(--line-height-prose);
+  color: var(--ink);
+}
+
+/* Rythme vertical cohérent */
+.prose > * + * {
+  margin-top: var(--space-m);
+}
+
+.prose p,
+.prose ul,
+.prose ol,
+.prose dl,
+.prose figure,
+.prose pre,
+.prose table {
+  margin-top: var(--space-m);
+  margin-bottom: 0;
+}
+
+.prose h2 {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-xs);
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: var(--space-2xs);
+}
+
+.prose h3 {
+  margin-top: var(--space-l);
+  margin-bottom: var(--space-2xs);
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.prose h4 {
+  margin-top: var(--space-m);
+  margin-bottom: var(--space-3xs);
+  font-family: var(--font-display);
+}
+
+.prose h2 + p,
+.prose h3 + p,
+.prose h4 + p {
+  margin-top: var(--space-2xs);
+}
+
+/* Paragraphes */
+.prose p {
+  text-wrap: pretty;
+}
+
+/* Citations */
+.prose blockquote {
+  margin: var(--space-l) 0;
+  padding: var(--space-s) var(--space-m);
+  border-left: 3px solid var(--gold);
+  background-color: var(--quote-bg);
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+.prose blockquote p {
+  margin-top: var(--space-2xs);
+}
+
+.prose blockquote p:first-child {
+  margin-top: 0;
+}
+
+.prose blockquote cite {
+  display: block;
+  margin-top: var(--space-2xs);
+  font-size: 0.875em;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Code inline */
+.prose code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background-color: var(--paper-dim);
+  color: var(--ink);
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+  border: 1px solid var(--rule);
+}
+
+/* Blocs de code */
+.prose pre {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background-color: var(--paper-dim);
+  color: var(--ink);
+  padding: var(--space-s) var(--space-m);
+  border-radius: 4px;
+  border: 1px solid var(--rule);
+  overflow-x: auto;
+  line-height: 1.5;
+}
+
+.prose pre code {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  font-size: inherit;
+}
+
+/* Listes */
+.prose ul,
+.prose ol {
+  padding-left: 1.5em;
+}
+
+.prose ul {
+  list-style: disc;
+}
+
+.prose ul li::marker {
+  color: var(--muted);
+}
+
+.prose ol {
+  list-style: decimal;
+}
+
+.prose ol li::marker {
+  color: var(--muted);
+  font-variant-numeric: oldstyle-nums;
+}
+
+.prose li + li {
+  margin-top: var(--space-2xs);
+}
+
+.prose li > ul,
+.prose li > ol {
+  margin-top: var(--space-2xs);
+}
+
+/* Legendes, notes */
+.prose small,
+.prose figcaption {
+  display: block;
+  color: var(--muted);
+  font-size: 0.875em;
+  line-height: 1.5;
+}
+
+.prose figure {
+  margin: var(--space-l) 0;
+}
+
+.prose figcaption {
+  margin-top: var(--space-2xs);
+  text-align: center;
+  font-style: italic;
+}
+
+/* Tables */
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95em;
+  margin-top: var(--space-m);
+}
+
+.prose thead th {
+  text-align: left;
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  border-bottom: 2px solid var(--rule);
+  padding: var(--space-2xs) var(--space-s);
+  color: var(--ink);
+}
+
+.prose tbody td,
+.prose tbody th {
+  border-bottom: 1px solid var(--rule);
+  padding: var(--space-2xs) var(--space-s);
+  vertical-align: top;
+}
+
+.prose tbody tr:last-child td,
+.prose tbody tr:last-child th {
+  border-bottom: 0;
+}
+
+/* Mise en valeur */
+.prose strong {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.prose em {
+  font-style: italic;
+}
+
+.prose abbr[title] {
+  text-decoration: underline dotted;
+  text-underline-offset: 0.2em;
+  cursor: help;
+}
+
+/* Liens dans la prose — petite distinction */
+.prose a {
+  color: var(--rubric);
+}
+.prose a:hover,
+.prose a:focus-visible {
+  color: var(--rubric-hover);
+}
+
+/* =========================================================================
+   .prose-latin — pour texte latin, italien ancien, etc.
+   Italique doux, chiffres oldstyle.
+   ========================================================================= */
+.prose-latin {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-variant-numeric: oldstyle-nums;
+  font-feature-settings: 'onum' 1, 'kern' 1, 'liga' 1;
+  color: var(--ink-soft);
+  /* Italique doux — légèrement moins appuyé */
+  font-synthesis: none;
+  letter-spacing: 0.005em;
+}
+
+.prose-latin p + p {
+  margin-top: var(--space-s);
+}

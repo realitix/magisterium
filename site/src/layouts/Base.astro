@@ -1,0 +1,73 @@
+---
+import '../styles/global.css';
+import '../styles/prose.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Si vrai, n'affiche pas le Header ni le Footer (pages spéciales). */
+  hideChrome?: boolean;
+}
+
+const {
+  title,
+  description = "Corpus magistériel catholique",
+  hideChrome = false,
+} = Astro.props;
+
+const siteName = "Magisterium";
+const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
+---
+
+<!doctype html>
+<html lang="fr" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+
+    {/* Open Graph */}
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+
+    {/* Couleur de barre navigateur alignée sur le papier */}
+    <meta name="theme-color" content="#faf7f2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#13100d" media="(prefers-color-scheme: dark)" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Aller au contenu</a>
+    {!hideChrome && <Header />}
+    <slot />
+    {!hideChrome && <Footer />}
+
+    <style is:global>
+      .skip-link {
+        position: absolute;
+        left: var(--space-s);
+        top: var(--space-s);
+        padding: var(--space-2xs) var(--space-s);
+        background-color: var(--rubric);
+        color: var(--paper);
+        font-family: var(--font-display);
+        font-size: 0.95rem;
+        text-decoration: none;
+        border-radius: 2px;
+        transform: translateY(-200%);
+        transition: transform 150ms ease;
+        z-index: 100;
+      }
+      .skip-link:focus,
+      .skip-link:focus-visible {
+        transform: translateY(0);
+        outline: 2px solid var(--paper);
+        outline-offset: 2px;
+      }
+    </style>
+  </body>
+</html>

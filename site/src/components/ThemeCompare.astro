@@ -1,0 +1,203 @@
+---
+/**
+ * ThemeCompare — vue comparative pré-V2 / V2 / post-V2 / [FSSPX] en colonnes.
+ *
+ * Pour chaque période, affiche la liste des documents appartenant au thème
+ * avec leur titre (ou slug en fallback), leur date et un lien vers la page
+ * document correspondante.
+ *
+ * Responsive : grille 4 colonnes sur desktop, empilée en 1 colonne sur mobile.
+ * La colonne FSSPX n'est rendue que si `theme.fsspx` contient au moins un slug.
+ */
+import type { Theme, Document } from '../data/types';
+import { getDocumentBySlug } from '../data/loadDocuments';
+
+interface Props {
+  theme: Theme;
+}
+
+const { theme } = Astro.props;
+
+interface Column {
+  id: string;
+  label: string;
+  slugs: string[];
+}
+
+const baseColumns: Column[] = [
+  { id: 'pre-v2', label: 'Pré-Vatican II', slugs: theme.pre_v2 ?? [] },
+  { id: 'v2', label: 'Vatican II', slugs: theme.v2 ?? [] },
+  { id: 'post-v2', label: 'Post-Vatican II', slugs: theme.post_v2 ?? [] },
+];
+
+const hasFsspx = (theme.fsspx?.length ?? 0) > 0;
+if (hasFsspx) {
+  baseColumns.push({ id: 'fsspx', label: 'FSSPX', slugs: theme.fsspx });
+}
+
+/**
+ * Résout chaque slug en document enrichi ; si le document est introuvable on
+ * conserve tout de même un objet minimal pour ne pas perdre la référence.
+ */
+function resolveDocs(slugs: string[]): Array<Document | { slug: string; titre_fr: null; incipit: null; date: null }> {
+  return slugs.map((slug) => getDocumentBySlug(slug) ?? { slug, titre_fr: null, incipit: null, date: null });
+}
+
+const columns = baseColumns.map((col) => ({
+  ...col,
+  docs: resolveDocs(col.slugs),
+}));
+
+/** Affiche "YYYY" si la date est au format ISO, sinon renvoie brut. */
+function formatDate(date: string | null): string {
+  if (!date) return '';
+  // On garde la date complète si elle est ISO, sinon brute.
+  return date;
+}
+
+/** Titre à afficher : `titre_fr` > `incipit` > slug. */
+function displayTitle(doc: { slug: string; titre_fr: string | null; incipit: string | null }): string {
+  return doc.titre_fr ?? doc.incipit ?? doc.slug;
+}
+---
+
+<div class={`theme-compare${hasFsspx ? ' theme-compare--with-fsspx' : ''}`}>
+  {columns.map((col) => (
+    <section class="theme-compare__col" aria-labelledby={`col-${col.id}-${theme.slug}`}>
+      <header class="theme-compare__col-header">
+        <h3 id={`col-${col.id}-${theme.slug}`} class="theme-compare__col-title">
+          {col.label}
+        </h3>
+        <p class="theme-compare__col-count">
+          <small>({col.docs.length} document{col.docs.length > 1 ? 's' : ''})</small>
+        </p>
+      </header>
+
+      {col.docs.length === 0 ? (
+        <p class="theme-compare__empty"><small>Aucun document.</small></p>
+      ) : (
+        <ul class="theme-compare__list" role="list">
+          {col.docs.map((doc) => (
+            <li class="theme-compare__item">
+              <a
+                class="theme-compare__link"
+                href={`/documents/${doc.slug}/`}
+                aria-label={`Consulter le document ${displayTitle(doc)}`}
+              >
+                <span class="theme-compare__title">{displayTitle(doc)}</span>
+                {doc.date && (
+                  <small class="theme-compare__date">{formatDate(doc.date)}</small>
+                )}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </section>
+  ))}
+</div>
+
+<style>
+  .theme-compare {
+    display: grid;
+    gap: var(--space-l);
+    grid-template-columns: 1fr;
+    margin: var(--space-l) 0;
+  }
+
+  /* Desktop : 3 ou 4 colonnes selon présence de FSSPX */
+  @media (min-width: 900px) {
+    .theme-compare {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+    }
+    .theme-compare--with-fsspx {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  .theme-compare__col {
+    padding: 0 var(--space-m);
+  }
+
+  /* Filets verticaux entre colonnes sur desktop */
+  @media (min-width: 900px) {
+    .theme-compare__col + .theme-compare__col {
+      border-left: 1px solid var(--rule);
+    }
+    .theme-compare__col:first-child {
+      padding-left: 0;
+    }
+    .theme-compare__col:last-child {
+      padding-right: 0;
+    }
+  }
+
+  .theme-compare__col-header {
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: var(--space-xs);
+    margin-bottom: var(--space-s);
+  }
+
+  .theme-compare__col-title {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    color: var(--ink);
+    margin: 0;
+  }
+
+  .theme-compare__col-count {
+    margin-top: var(--space-3xs);
+    color: var(--muted);
+  }
+
+  .theme-compare__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .theme-compare__item {
+    line-height: 1.4;
+  }
+
+  .theme-compare__link {
+    display: block;
+    text-decoration: none;
+    color: var(--ink);
+    border-bottom: 1px dotted transparent;
+    padding-bottom: var(--space-2xs);
+    transition: color 120ms ease, border-color 120ms ease;
+  }
+
+  .theme-compare__link:hover,
+  .theme-compare__link:focus-visible {
+    color: var(--rubric-hover);
+    border-bottom-color: var(--rule);
+  }
+
+  .theme-compare__title {
+    display: block;
+    font-family: var(--font-serif);
+    font-size: 0.975rem;
+    color: inherit;
+  }
+
+  .theme-compare__date {
+    display: block;
+    margin-top: 2px;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--muted);
+  }
+
+  .theme-compare__empty {
+    color: var(--muted);
+    font-style: italic;
+    margin: 0;
+  }
+</style>

@@ -1,0 +1,308 @@
+---
+/**
+ * Header global — logo, navigation principale, recherche.
+ * Menu hamburger en CSS pur (checkbox hack) sur mobile, sans JS.
+ */
+const pathname = Astro.url.pathname;
+
+function isActive(prefix: string): boolean {
+  if (prefix === '/') return pathname === '/';
+  return pathname.startsWith(prefix);
+}
+---
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-header__brand" href="/" aria-label="Magisterium — accueil">
+      <span class="site-header__brand-mark">Magisterium</span>
+    </a>
+
+    <input
+      type="checkbox"
+      id="nav-toggle"
+      class="nav-toggle"
+      aria-hidden="true"
+      tabindex="-1"
+    />
+    <label for="nav-toggle" class="nav-toggle__label" aria-label="Ouvrir le menu">
+      <span class="nav-toggle__bar" aria-hidden="true"></span>
+      <span class="nav-toggle__bar" aria-hidden="true"></span>
+      <span class="nav-toggle__bar" aria-hidden="true"></span>
+    </label>
+
+    <nav class="site-nav" aria-label="Principal">
+      <ul class="site-nav__list" role="list">
+        <li>
+          <a
+            href="/questions/"
+            class:list={["site-nav__link", isActive('/questions') && "is-active"]}
+            aria-current={isActive('/questions') ? 'page' : undefined}
+          >
+            Questions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/themes/"
+            class:list={["site-nav__link", isActive('/themes') && "is-active"]}
+            aria-current={isActive('/themes') ? 'page' : undefined}
+          >
+            Thèmes
+          </a>
+        </li>
+        <li>
+          <a
+            href="/documents/"
+            class:list={["site-nav__link", isActive('/documents') && "is-active"]}
+            aria-current={isActive('/documents') ? 'page' : undefined}
+          >
+            Documents
+          </a>
+        </li>
+        <li>
+          <a
+            href="/a-propos/"
+            class:list={["site-nav__link", isActive('/a-propos') && "is-active"]}
+            aria-current={isActive('/a-propos') ? 'page' : undefined}
+          >
+            À propos
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <form
+      class="site-search"
+      role="search"
+      action="/recherche/"
+      method="get"
+      aria-label="Rechercher dans le corpus"
+    >
+      <label for="header-search" class="site-search__label">Recherche</label>
+      <input
+        id="header-search"
+        name="q"
+        type="search"
+        class="site-search__input"
+        placeholder="Rechercher…"
+        autocomplete="off"
+      />
+      <button type="submit" class="site-search__button" aria-label="Lancer la recherche">
+        <span aria-hidden="true">→</span>
+      </button>
+    </form>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    background-color: var(--paper);
+    border-bottom: 1px solid var(--rule);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+
+  .site-header__inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--space-s) var(--space-m);
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: var(--space-m);
+  }
+
+  .site-header__brand {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    text-decoration: none;
+    line-height: 1;
+  }
+
+  .site-header__brand:hover,
+  .site-header__brand:focus-visible {
+    color: var(--rubric);
+  }
+
+  .site-header__brand-mark {
+    display: inline-block;
+  }
+
+  /* Navigation principale */
+  .site-nav {
+    justify-self: center;
+  }
+
+  .site-nav__list {
+    display: flex;
+    gap: var(--space-m);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .site-nav__link {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    letter-spacing: 0.02em;
+    color: var(--ink-soft);
+    text-decoration: none;
+    padding: var(--space-2xs) 0;
+    border-bottom: 1px solid transparent;
+    transition: color 120ms ease, border-color 120ms ease;
+  }
+
+  .site-nav__link:hover,
+  .site-nav__link:focus-visible {
+    color: var(--rubric);
+    border-bottom-color: color-mix(in srgb, var(--rubric) 45%, transparent);
+  }
+
+  .site-nav__link.is-active {
+    color: var(--ink);
+    border-bottom-color: var(--rubric);
+  }
+
+  /* Barre de recherche */
+  .site-search {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+  }
+
+  .site-search__label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  .site-search__input {
+    border: 1px solid var(--rule);
+    background-color: var(--paper);
+    color: var(--ink);
+    padding: var(--space-2xs) var(--space-xs);
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    width: 14rem;
+    max-width: 100%;
+    border-radius: 0;
+  }
+
+  .site-search__input:focus-visible {
+    border-color: var(--rubric);
+    outline: none;
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--rubric) 30%, transparent);
+  }
+
+  .site-search__button {
+    padding: 0 var(--space-s);
+    border: 1px solid var(--rule);
+    border-left: 0;
+    background-color: var(--paper-dim);
+    color: var(--ink-soft);
+    font-family: var(--font-display);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 120ms ease, color 120ms ease;
+  }
+
+  .site-search__button:hover,
+  .site-search__button:focus-visible {
+    background-color: var(--rubric);
+    color: var(--paper);
+    border-color: var(--rubric);
+  }
+
+  /* Hamburger — caché par défaut sur desktop */
+  .nav-toggle {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .nav-toggle__label {
+    display: none;
+    width: 2.25rem;
+    height: 2.25rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    border: 1px solid var(--rule);
+    padding: 0;
+    justify-self: end;
+    background-color: var(--paper);
+  }
+
+  .nav-toggle__bar {
+    display: block;
+    width: 1.2rem;
+    height: 2px;
+    background-color: var(--ink);
+    transition: transform 150ms ease, opacity 150ms ease;
+  }
+
+  /* Responsive — passage en menu burger sous 900px */
+  @media (max-width: 900px) {
+    .site-header__inner {
+      grid-template-columns: auto auto;
+      gap: var(--space-s);
+    }
+
+    .nav-toggle__label {
+      display: flex;
+    }
+
+    .site-nav,
+    .site-search {
+      display: none;
+      grid-column: 1 / -1;
+      justify-self: stretch;
+    }
+
+    .nav-toggle:checked ~ .site-nav,
+    .nav-toggle:checked ~ .site-search {
+      display: flex;
+    }
+
+    .nav-toggle:checked ~ .site-nav {
+      display: block;
+      padding-top: var(--space-s);
+      border-top: 1px solid var(--rule);
+      margin-top: var(--space-s);
+    }
+
+    .site-nav__list {
+      flex-direction: column;
+      gap: var(--space-s);
+    }
+
+    .site-nav__link {
+      display: block;
+      padding: var(--space-2xs) 0;
+    }
+
+    .site-search {
+      padding-top: var(--space-s);
+    }
+
+    .site-search__input {
+      flex: 1;
+      width: auto;
+    }
+  }
+
+  /* Focus visible pour l'étiquette du toggle */
+  .nav-toggle:focus-visible + .nav-toggle__label {
+    outline: 2px solid var(--rubric);
+    outline-offset: 2px;
+  }
+</style>

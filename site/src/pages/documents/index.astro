@@ -1,0 +1,32 @@
+---
+/**
+ * Index des documents — page 1.
+ * Les pages suivantes sont servies par `/documents/page/[page]/`.
+ * Les deux délèguent à `_list.astro` pour mutualiser le rendu.
+ */
+import DocList from './_list.astro';
+import { loadAllDocuments } from '../../data/loadDocuments.ts';
+import type { Document } from '../../data/types.ts';
+
+const PER_PAGE = 50;
+
+const docs: Document[] = loadAllDocuments().slice().sort((a, b) => {
+  const da = a.date ?? '';
+  const db = b.date ?? '';
+  if (da === db) return a.slug.localeCompare(b.slug);
+  if (da === '') return 1;
+  if (db === '') return -1;
+  return db.localeCompare(da);
+});
+
+const totalCount = docs.length;
+const totalPages = Math.max(1, Math.ceil(totalCount / PER_PAGE));
+const pageDocs = docs.slice(0, PER_PAGE);
+---
+
+<DocList
+  pageDocs={pageDocs}
+  currentPage={1}
+  totalPages={totalPages}
+  totalCount={totalCount}
+/>

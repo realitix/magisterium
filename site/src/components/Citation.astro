@@ -1,0 +1,67 @@
+---
+interface Props {
+  lang: 'la' | 'it' | 'en' | 'de' | 'es' | 'pt';
+  source?: string;
+  translation: string;
+}
+
+const { lang, source, translation } = Astro.props;
+---
+
+<figure class="citation" lang={lang}>
+  <blockquote class="citation__original prose-latin" lang={lang}>
+    <slot />
+  </blockquote>
+
+  <div class="citation__translation" lang="fr">
+    {translation}
+  </div>
+
+  {source && (
+    <figcaption class="citation__source">
+      <cite>{source}</cite>
+    </figcaption>
+  )}
+</figure>
+
+<style>
+  .citation {
+    margin: var(--space-l) 0;
+    max-width: var(--measure);
+  }
+
+  .citation__original {
+    margin: 0;
+    padding: var(--space-s) var(--space-m);
+    background-color: var(--quote-bg);
+    border-left: 3px solid var(--gold);
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-variant-numeric: oldstyle-nums;
+    color: var(--ink-soft);
+    line-height: var(--line-height-prose);
+  }
+
+  .citation__translation {
+    margin-top: 0;
+    padding: var(--space-s) var(--space-m);
+    border-left: 3px solid var(--gold);
+    background-color: transparent;
+    color: var(--ink);
+    font-style: normal;
+    font-family: var(--font-serif);
+    line-height: var(--line-height-prose);
+  }
+
+  .citation__source {
+    margin-top: var(--space-2xs);
+    padding-left: calc(var(--space-m) + 3px);
+    color: var(--muted);
+    font-size: 0.875em;
+    font-style: italic;
+  }
+
+  .citation__source cite {
+    font-style: italic;
+  }
+</style>

@@ -52,3 +52,17 @@ validate:
 
 stats:
     uv run python -m tools.stats
+
+# ---------- Site web ----------
+
+dev-site:
+    cd site && npm run dev
+
+build-site:
+    cd site && npm install && npm run build
+
+install-site:
+    cd site && npm install
+
+preview-site:
+    cd site && npm run preview

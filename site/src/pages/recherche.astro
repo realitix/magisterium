@@ -1,0 +1,148 @@
+---
+import Base from '../layouts/Base.astro';
+import SearchBar from '../components/SearchBar.astro';
+---
+
+<Base
+  title="Rechercher"
+  description="Recherche plein-texte dans le corpus magistériel : conciles, papes, catéchismes, droit, liturgie."
+>
+  <main class="recherche" id="main">
+    <header class="recherche__header">
+      <p class="recherche__eyebrow">Outils du corpus</p>
+      <h1 class="recherche__title">Rechercher</h1>
+      <p class="recherche__lede">
+        Recherche plein-texte dans les 1&nbsp;304 documents du corpus, les
+        11&nbsp;thèmes transversaux et les fiches questions/réponses.
+      </p>
+    </header>
+
+    <section class="recherche__search" aria-labelledby="recherche-formulaire">
+      <h2 id="recherche-formulaire" class="visually-hidden">Formulaire de recherche</h2>
+      <SearchBar
+        id="search-main"
+        placeholder="Un mot, un incipit, une expression latine…"
+      />
+    </section>
+
+    <section class="recherche__help prose">
+      <h2>Conseils</h2>
+      <ul>
+        <li>
+          La recherche porte sur le texte complet de chaque document, dans sa
+          langue originale (latin, français, etc.) selon le corpus.
+        </li>
+        <li>
+          Pour une expression exacte, saisissez les mots entre guillemets&nbsp;:
+          <code>"extra Ecclesiam"</code>.
+        </li>
+        <li>
+          Les résultats sont ordonnés par pertinence. Un extrait contextuel met
+          en évidence le terme recherché.
+        </li>
+        <li>
+          Pour parcourir par thème, consultez la section <a href="/themes/">Thèmes</a>.
+          Pour des réponses synthétiques, voir les <a href="/questions/">fiches Q/R</a>.
+        </li>
+      </ul>
+    </section>
+  </main>
+</Base>
+
+<style>
+  .recherche {
+    max-width: 48rem;
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-m) var(--space-2xl);
+  }
+
+  .recherche__header {
+    margin-bottom: var(--space-xl);
+    text-align: center;
+  }
+
+  .recherche__eyebrow {
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: var(--space-xs);
+  }
+
+  .recherche__title {
+    font-family: var(--font-display);
+    font-size: clamp(2.2rem, 4vw + 1rem, 3.4rem);
+    font-weight: 600;
+    margin-bottom: var(--space-s);
+    letter-spacing: -0.01em;
+  }
+
+  .recherche__lede {
+    font-family: var(--font-serif);
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+    line-height: 1.55;
+    max-width: 36rem;
+    margin: 0 auto;
+  }
+
+  .recherche__search {
+    margin-bottom: var(--space-2xl);
+    padding: var(--space-l);
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+  }
+
+  .recherche__help {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--space-l);
+  }
+  .recherche__help h2 {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    margin-bottom: var(--space-s);
+  }
+  .recherche__help ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: var(--space-s);
+  }
+  .recherche__help li {
+    font-family: var(--font-serif);
+    color: var(--ink-soft);
+    padding-left: var(--space-m);
+    position: relative;
+    line-height: 1.6;
+  }
+  .recherche__help li::before {
+    content: '§';
+    position: absolute;
+    left: 0;
+    color: var(--gold);
+    font-family: var(--font-display);
+    font-weight: 600;
+  }
+  .recherche__help code {
+    font-family: var(--font-mono);
+    background-color: var(--paper-dim);
+    padding: 0.05em 0.35em;
+    border-radius: 2px;
+    border: 1px solid var(--rule);
+    font-size: 0.9em;
+  }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>

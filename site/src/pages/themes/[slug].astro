@@ -1,0 +1,24 @@
+---
+/**
+ * Page thème individuelle : rend le layout Theme avec la vue comparative
+ * pour le thème identifié par `slug`.
+ */
+import Theme from '../../layouts/Theme.astro';
+import { loadAllThemes, getThemeBySlug } from '../../data/loadThemes';
+
+export function getStaticPaths() {
+  const themes = loadAllThemes();
+  return themes.map((t) => ({
+    params: { slug: t.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const theme = slug ? getThemeBySlug(slug) : null;
+
+if (!theme) {
+  throw new Error(`Thème introuvable pour le slug « ${slug} ».`);
+}
+---
+
+<Theme theme={theme} />

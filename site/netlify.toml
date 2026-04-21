@@ -2,6 +2,10 @@
   base = "site"
   command = "npm install && npm run build"
   publish = "dist"
+  # Toujours rebuilder : le site dépend du corpus dans ../magisterium/ qui
+  # est hors du base directory. Sans cette directive, Netlify skip le build
+  # dès qu'aucun fichier ne change dans site/.
+  ignore = "/bin/false"
 
 [build.environment]
   NODE_VERSION = "22"

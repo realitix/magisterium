@@ -112,7 +112,7 @@ voices:
     punchline: "Fermeté sur la formule classique."
   sedevacantiste:
     tagline: "..."
-    body: "60-90 mots. Résolution des contradictions par la vacance du Siège. Position explicitement assumée par ce site."
+    body: "60-90 mots. Résolution des contradictions par la vacance du Siège. Position minoritaire mais interne à la tradition catholique. NE PAS écrire que le site la défend."
     punchline: "Auto-ironique sur l'isolement de la position."
 ---
 ```

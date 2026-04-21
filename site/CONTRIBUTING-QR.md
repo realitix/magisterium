@@ -75,7 +75,7 @@ Un tableau de synthèse (colonnes : source, date, position, citation-clé) est a
 - **Rome post-conciliaire** : décrit la prédication pastorale dominante, souvent laxiste, par contraste avec la lettre des textes officiels qu'elle euphémise. Punchline = constat ironique sur les effets pastoraux (évangélisation effondrée, « accompagnement » au lieu de conversion, etc.).
 - **Ex-Ecclesia Dei** (tradis ralliés : FSSP, ICRSP, IBP, Bon Pasteur) : équilibristes entre la lettre de Florence et LG 16, courtois avec l'évêque. Punchline = allusion à la retenue diplomatique de leur position publique.
 - **Fraternité Saint-Pie X** (« Saint-Piedis » d'Écône) : tient la tradition antérieure intégralement, refus du modernisme, canoniquement irrégulière. Punchline = fermeté assumée sur la formule classique.
-- **Sédévacantistes** : résolvent les contradictions V2 par l'hypothèse que le Siège est vacant ; position explicitement assumée par ce site. Punchline = auto-ironique sur l'isolement de la position.
+- **Sédévacantistes** : résolvent les contradictions V2 par l'hypothèse que le Siège est vacant. Punchline = ironique sur l'isolement ou la cohérence de la position. **Ne jamais laisser entendre que le site défend cette position** — le ton reste factuel et le lecteur tire ses conclusions.
 
 **Règles de rédaction :**
 

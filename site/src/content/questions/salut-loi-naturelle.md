@@ -38,7 +38,7 @@ voices:
   sedevacantiste:
     tagline: "Non — et quiconque dit oui n'est pas catholique."
     body: "Pour les sédévacantistes, la contradiction entre la tradition antérieure (Florence, Trente, Pie IX, Pie XI) et la pastorale post-conciliaire n'est pas un problème d'interprétation : c'est un symptôme. Une Église qui enseignerait officiellement le salut par la loi naturelle seule ne serait plus l'Église catholique. La question se règle donc à l'ancienne, sans filtre V2, par la constance bimillénaire du magistère — avec un certain soulagement intellectuel."
-    punchline: "Position sur laquelle ce site a été conçu. Raison pour laquelle son auteur n'est invité nulle part."
+    punchline: "Position qui garantit à ses tenants de n'être invités nulle part — mais qui a le mérite de la cohérence."
 ---
 
 ## Contexte

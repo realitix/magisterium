@@ -4,11 +4,11 @@ Inventory
 ---------
 
 Pre-V2  (magisterium/A-pre-vatican-ii/catechismes/)
-  1. 1566 Catéchisme du concile de Trente (Catechismus Romanus) .. MISSING
-  2. 1555 Catéchisme de Canisius                                 .. MISSING
-  3. 1598 Catéchisme de Bellarmin                                .. MISSING
+  1. 1566 Catéchisme du concile de Trente (Catechismus Romanus) .. scraped (OCR, 6 Partes)
+  2. 1555 Catéchisme de Canisius                                 .. MISSING (OCR inadéquat)
+  3. 1598 Catéchisme de Bellarmin (Dottrina cristiana breve)     .. scraped (archive.org OCR 1842)
   4. 1885 Catéchisme de Baltimore (4 vols, Project Gutenberg)    .. scraped
-  5. 1908 Catéchisme de Pie X                                    .. MISSING
+  5. 1908 Catéchisme de Pie X                                    .. scraped (maranatha.it)
 
 Post-V2 (magisterium/C-post-vatican-ii/catechismes/)
   6. 1992 Catéchisme de l'Église catholique, version FR initiale .. scraped (~430 pp.)
@@ -83,126 +83,70 @@ async def _http_get_text(url: str, *, verify: bool = True) -> Optional[str]:
 # -- MISSING stubs ---------------------------------------------------------
 
 MISSING_NOTES: list[tuple[Path, str, str]] = [
-    (
-        PRE_V2_DIR / "1566-romain-trente",
-        "1566_catechismus-romanus.MISSING.md",
-        """# Catéchisme du concile de Trente (1566) — MANQUANT
-
-**Autres noms :** Catechismus Romanus, Catechismus ad Parochos,
-Catéchisme de Pie V.
-
-## Pourquoi absent de la V1 du corpus
-
-Aucune source en ligne stable ne sert le texte latin intégral avec une
-arborescence d'URLs prévisible. Tentatives effectuées :
-
-- `documentacatholicaomnia.eu` : pas d'entrée `Catechismus_Romanus` sous
-  les patterns 30_10_, 04z_, 20vs, ni sous l'index alphabétique (tous
-  404 lors de la Phase 7).
-- `la.wikisource.org/wiki/Catechismus_Romanus` : page inexistante au
-  20-04-2026.
-- `archive.org` : plusieurs éditions historiques (1796, 1804, 1830, 1866)
-  mais en tant que PDFs océrisés ou DJVU non segmentés — pas adapté au
-  pipeline HTML→markdown.
-- `intratext.com` : la recherche ne retourne pas de texte segmenté.
-
-## Pistes pour une V2
-
-1. Scraper une édition `archive.org` en PDF (p. ex.
-   <https://archive.org/details/bub_gb_Oow_AAAAcAAJ>) puis OCR + split en
-   partie I/II/III/IV.
-2. Récupérer la version FR de `salve-regina.com` (SSL foiré, déjà dans
-   `INSECURE_DOMAINS`) — mais c'est une traduction française, donc
-   sort de la règle « langue source ».
-3. Prendre la version anglophone de `catholicprimer.org` ou l'édition
-   McHugh/Callan 1923 sur `archive.org` (traduction EN).
-""",
-    ),
+    # 1566 Catechismus Romanus — ingéré en Phase 10 V2 à partir de l'OCR
+    # DjVu du scan archive.org `gri_33125007759364` (Ratisbonae 1905,
+    # editio stereotypa sexta). Le texte latin est post-traité (suppression
+    # des en-têtes/pieds de page courants, dédoublage des espaces,
+    # déhyphénation, correctifs OCR ciblés) puis segmenté en six fichiers
+    # `.la.md` dans `1566-romain-trente/` : praefatio (lettre Clemens XIII),
+    # Pars Prima → Pars Quarta, et Praxis Catechismi. Qualité OCR mesurée :
+    # ~0,07 % de mots suspects sur ~148 000 mots — bien en-deçà du seuil
+    # projet (20 %). Aucun stub MISSING.md n'est plus émis.
     (
         PRE_V2_DIR / "1555-canisius",
         "1555_summa-doctrinae.MISSING.md",
-        """# Catéchisme de Canisius (1555) — MANQUANT
+        """# Catéchisme de Canisius (1555) — MANQUANT (OCR inadéquat)
 
-**Œuvre de référence :** *Summa doctrinae christianae*, saint Pierre
-Canisius SJ (1521-1597), édition princeps Vienne 1555. Deux versions
-plus courtes suivront : *Catechismus Minor* (1556) et *Catechismus
-Parvus Catholicorum* (1558).
+*Summa doctrinae christianae*, saint Pierre Canisius SJ (1521-1597),
+édition princeps Vienne 1555.
 
-## Absent de la V1 car
+Réexamen Phase 10 (2026-04-21) : aucune source HTML propre ; toutes les
+numérisations archive.org (1587 Plantin, 1764 Viennae, 1823 Landshut,
+1834 4 vols) ont un OCR dégradé (majuscules ornées lues en cyrillique,
+coupures mid-mot, pieds de page Digitized-by-Google). Le PDF DCO
+(19,5 Mo, édition critique Latina) n'a pas d'équivalent HTML. Voir
+stub `1555_summa-doctrinae.MISSING.md` pour tableau comparatif et
+pistes V2.
 
-- Pas d'édition HTML en ligne en latin repérée sur DCO, Wikisource latin
-  ou intratext.com (recherches effectuées en Phase 7).
-- Les éditions historiques existent sur `archive.org` (PDFs facsimilés)
-  mais ne sont pas structurées pour un pipeline HTML.
-
-## V2
-
-- Chercher sur `books.google.com` une édition numérisée avec OCR lisible.
-- Alternative : récupérer la traduction anglaise moderne publiée par TAN
-  Books (sous droits) — donc à écarter.
+Conformément à « Ne pas forcer une ingestion bancale », conservé en
+MISSING — candidat V2 prioritaire.
 """,
     ),
-    (
-        PRE_V2_DIR / "1598-bellarmin",
-        "1598_dottrina-cristiana.MISSING.md",
-        """# Catéchisme de Bellarmin (1598) — MANQUANT
-
-**Œuvres :**
-- *Dottrina cristiana breve* (1597, pour les enfants)
-- *Dichiarazione più copiosa della dottrina cristiana* (1598, pour les
-  catéchistes)
-
-## Absent de la V1 car
-
-Aucun site public ne sert le texte italien intégral dans une arborescence
-stable adaptée au scraping HTML. Plusieurs numérisations `archive.org`
-existent (PDF) mais ne sont pas segmentées.
-
-## V2
-
-- `google books` : éditions italiennes XVIIe siècle.
-- `archive.org/details/…` PDFs à OCR + segmenter.
-""",
-    ),
-    (
-        PRE_V2_DIR / "1908-pie-x",
-        "1908_catechismo-pio-x.MISSING.md",
-        """# Catéchisme de Pie X (1908) — MANQUANT
-
-**Nom officiel :** *Catechismo della Dottrina Cristiana*, Pie X, 1908
-(remanié 1912, "Catechismo Maggiore di San Pio X"). Langue originale :
-italien.
-
-## Absent de la V1 car
-
-- `vatican.va` ne sert PAS le Catechismo di Pio X en HTML (la Santa Sede
-  publie le CCC de 1992 et son Compendium de 2005, pas le texte de 1908).
-- `maranatha.it/Catechismo/PioX/*` : 404 sur tous les patterns testés.
-- `cristianicattolici.net`, `credereoggi.it`, `catechesistradizionale.com` :
-  respectivement 404, cert SSL invalide, ECONNREFUSED.
-- `salve-regina.com` contient une version FR mais (a) traduction, (b) SSL
-  obsolète, (c) sans arborescence MediaWiki fiable côté `title=…`.
-
-## V2
-
-- Trouver un mirror italien stable (forums tradi, Una Voce Italia).
-- Scraper la traduction FR sur `salve-regina.com` si on accepte une
-  exception à la règle « langue source ».
-- Ingérer un PDF `archive.org` + OCR.
-""",
-    ),
+    # 1598 Bellarmin — ingéré en Phase 10 depuis archive.org/details/
+    # bub_gb_KHZRwxilf7MC (édition 1842 de la Dottrina cristiana breve
+    # de 1598, + Istruzioni per i Sacramenti). OCR nettoyé + segmenté
+    # en 6 parties (~7 800 mots). La Dichiarazione più copiosa reste à
+    # faire (archive.org bub_gb_Xlc-tGjQ7YAC, ~300 Ko OCR, non ingérée).
+    # 1908 Pie X — ingéré depuis maranatha.it/catpiox/NNtext.htm (IT).
     (
         POST_V2_DIR / "2011-youcat",
         "2011_youcat.MISSING.md",
-        """# YOUCAT (2011) — MANQUANT (DROITS)
+        """# YOUCAT (2011) — MANQUANT (droits d'auteur actifs)
 
-Le *Jugendkatechismus der Katholischen Kirche* (YOUCAT, 2011) n'est pas
-publié librement en ligne. Éditeur : Pattloch Verlag / Ignatius Press.
-Sous copyright actif ; aucune édition texte intégral libre.
+**Titre complet :** *YOUCAT Deutsch — Jugendkatechismus der Katholischen Kirche*
+**Langue originale :** allemand (Deutsch).
+**Préface :** Benoît XVI.
+**Éditeur original (DE) :** Pattloch Verlag GmbH & Co. KG, München, 2010/2011
+(ISBN 978-3-629-02194-8). Éditeur anglophone : Ignatius Press.
 
-La V1 du corpus ne l'inclut donc pas. Toute V2 nécessiterait :
-- une licence des ayants droit, ou
-- un extrait limité (fair use), ce qui est hors scope du projet.
+## Décision : non ingérable dans la V1 du corpus
+
+YOUCAT est un livre commercial sous copyright actif (Pattloch Verlag /
+Ignatius Press, «All rights reserved»). Aucune édition libre officielle
+(Creative Commons ou domaine public anticipé) n'a été publiée. Vatican.va
+n'héberge pas YOUCAT ; `youcat.org` ne distribue que des aperçus
+commerciaux. Les copies PDF qui circulent sur archive.org / scribd /
+agrégateurs sont des violations de copyright, non des diffusions
+autorisées — donc exclues par la règle projet d'absence de violation
+des droits.
+
+## Alternative disponible dans le corpus
+
+Le **Compendium du Catéchisme de l'Église catholique (2005)** est le
+catéchisme court officiel du Saint-Siège. Il est présent dans le corpus :
+- `2005-06-28_compendium-ccc.it.md` (IT, 598 questions, complet)
+- `2005-06-28_compendium-ccc-editio-typica-latina.la.pdf` (LA, editio
+  typica, PDF officiel).
 """,
     ),
 ]
@@ -282,11 +226,12 @@ def _ccc_1992_hints() -> dict:
 
 CCC_LT_INDEX = "https://www.vatican.va/archive/catechism_lt/index_lt.htm"
 CCC_LT_BASE = "https://www.vatican.va/archive/catechism_lt/"
-# hrefs are bare *_lt.htm filenames (p1s1c1_lt.htm, p122a3p1_lt.htm, etc.).
-# The source uses unquoted attributes; accept quoted or bare, reject absolute
-# URLs (we only want local files).
+# hrefs are bare *_lt.htm filenames (p1s1c1_lt.htm, p122a3p1_lt.htm, etc.),
+# possibly followed by a fragment (#ARTICULUS...). Accept quoted or bare values
+# and ignore the fragment portion. Reject absolute URLs (we only want local
+# leaves under catechism_lt/).
 CCC_LT_HREF_RE = re.compile(
-    r'(?i)href=(?:"|\')?([a-z0-9_\-]+_lt\.htm)(?:"|\')?[\s>]',
+    r'(?i)href=(?:"|\')?([a-z0-9_\-]+_lt\.htm)(?:#[^"\'\s>]*)?(?:"|\')?[\s>]',
 )
 
 
@@ -340,13 +285,14 @@ def _ccc_1997_hints() -> dict:
 
 # Verified in Phase 7 probing:
 #   FR: archive_2005_compendium-ccc_fr.html  → 200 OK (single page)
-#   IT: archive_2005_compendium-ccc_it.html  → 200 OK
-#   LA: archive_2005_compendium-ccc_la.html  → 404 (not published as HTML)
+#   IT: archive_2005_compendium-ccc_it.html  → 200 OK (complete, 598 Q)
+#   LA: archive_2005_compendium-ccc_la.html  → 404 (no Latin HTML)
+#   LA: compendium_catech_lit.pdf            → 200 OK (editio typica PDF)
 #   EN: archive_2005_compendium-ccc_en.html  → 200 OK
-# The Compendium's editio typica is Latin, but the Holy See only published
-# it as a PDF. We therefore archive the Italian page (first diffused
-# electronically) as langue_originale="it" and note in meta that la is the
-# true editio typica. (If the la HTML surfaces later, add it here.)
+# The Compendium's editio typica is Latin and was only published as PDF
+# (never HTML). We archive both:
+#   - the Italian HTML (fine-grained, 598 question-level anchors),
+#   - the Latin PDF (editio typica, stored as-is via the pipeline's PDF path).
 COMPENDIUM_BASE = (
     "https://www.vatican.va/archive/compendium_ccc/documents/"
 )
@@ -354,7 +300,7 @@ COMPENDIUM_BASE = (
 
 def build_compendium_refs() -> list[DocRef]:
     target_dir = POST_V2_DIR / "2005-compendium"
-    hints = {
+    hints_it = {
         "incipit": "Compendium Catechismi Catholicae Ecclesiae",
         "titre_fr": "Compendium du Catéchisme de l'Église catholique (2005)",
         "auteur": "Benoît XVI",
@@ -363,11 +309,10 @@ def build_compendium_refs() -> list[DocRef]:
         "date": date(2005, 6, 28),
         "autorite_magisterielle": "magistere-ordinaire-universel",
         "langue_originale": "la",
-        "langues_disponibles": ["it"],  # HTML disponible uniquement en IT/FR/EN
+        "langues_disponibles": ["it", "la"],
         "sujets": ["catechisme", "compendium"],
     }
-    # Italian is closest to the editio typica latina among the available
-    # HTML variants; langue_originale stays "la" per the printed edition.
+    hints_la = dict(hints_it)
     return [
         DocRef(
             url=COMPENDIUM_BASE + "archive_2005_compendium-ccc_it.html",
@@ -375,7 +320,17 @@ def build_compendium_refs() -> list[DocRef]:
             slug="2005-06-28_compendium-ccc",
             lang="it",
             unwrap_tags=["table", "tbody", "tr", "td", "th", "font", "center"],
-            meta_hints=dict(hints),
+            meta_hints=dict(hints_it),
+        ),
+        # Editio typica latina — published only as PDF. Pipeline stores
+        # PDF bytes + stub .md marker. Enables future text extraction
+        # without re-fetching.
+        DocRef(
+            url=COMPENDIUM_BASE + "compendium_catech_lit.pdf",
+            target_dir=target_dir,
+            slug="2005-06-28_compendium-ccc-editio-typica-latina",
+            lang="la",
+            meta_hints=dict(hints_la),
         ),
     ]
 
@@ -418,6 +373,80 @@ def build_baltimore_refs() -> list[DocRef]:
     return refs
 
 
+# -- 5. Catéchisme de Pie X (1908) — maranatha.it/catpiox/ -----------------
+#
+# Mirror italien stable (vérifié 21-04-2026) hébergeant le *Catechismo
+# Maggiore di San Pio X*, édition « Compendio della dottrina cristiana
+# prescritto da Sua Santità Papa Pio X alle diocesi della provincia di
+# Roma, Roma, Tipogr. Vaticana, 1905 ». Le site utilise un frameset :
+#   {NN}page.htm  — wrapper frameset (non exploitable par pandoc)
+#   {NN}left.htm  — sidebar décoratif
+#   {NN}text.htm  — contenu réel, seul à ingérer
+# Encodage déclaré : windows-1252 (pipeline _extract_body détecte charset).
+# 16 pages de contenu : 02text.htm … 17text.htm (18text.htm → 404).
+
+PIO_X_BASE = "https://www.maranatha.it/catpiox/"
+
+# (page_num, slug_suffix, section_label). Ordre canonique du catéchisme.
+PIO_X_PAGES: list[tuple[int, str, str]] = [
+    (2,  "00-introduzione",         "Introduzione al Compendio"),
+    (3,  "01-lettera-respighi",     "Lettera di San Pio X al Cardinale Respighi"),
+    (4,  "02-lezione-preliminare",  "Lezione preliminare — Della Dottrina Cristiana"),
+    (5,  "03-parte-1-credo",        "Parte prima — Del Simbolo degli Apostoli (Credo)"),
+    (6,  "04-parte-2-orazione",     "Parte seconda — Dell'Orazione"),
+    (7,  "05-parte-3-comandamenti", "Parte terza — Dei Comandamenti di Dio e della Chiesa"),
+    (8,  "06-parte-4-sacramenti",   "Parte quarta — Dei Sacramenti"),
+    (9,  "07-parte-5-virtu",        "Parte quinta — Delle virtù principali"),
+    (10, "08-feste-1-signore",      "Istruzione sulle feste — parte I (del Signore)"),
+    (11, "09-feste-2-vergine-santi","Istruzione sulle feste — parte II (Vergine e santi)"),
+    (12, "10-storia-principi",      "Breve storia della religione — Principi e nozioni fondamentali"),
+    (13, "11-storia-1-antico-testamento", "Breve storia — parte I (Antico Testamento)"),
+    (14, "12-storia-2-nuovo-testamento",  "Breve storia — parte II (Nuovo Testamento)"),
+    (15, "13-storia-3-ecclesiastica",     "Breve storia — parte III (Storia ecclesiastica)"),
+    (16, "14-preghiere-1",          "Appendice — Preghiere e formule (1)"),
+    (17, "15-preghiere-2",          "Appendice — Preghiere e formule (2)"),
+]
+
+
+def _pio_x_hints(section_label: str) -> dict:
+    return {
+        "incipit": f"Catechismo Maggiore di San Pio X — {section_label}",
+        "titre_fr": f"Catéchisme de saint Pie X — {section_label}",
+        "auteur": "Pie X",
+        "periode": "pre-vatican-ii",
+        "type": "catechisme",
+        "date": date(1908, 6, 15),  # approbation diocésaine de l'édition 1908
+        "autorite_magisterielle": "magistere-ordinaire-universel",
+        "langue_originale": "it",
+        "langues_disponibles": ["it"],
+        "sujets": ["catechisme"],
+        "themes_doctrinaux": [
+            "credo", "decalogue", "sacrements", "oraison-dominicale",
+            "vertus",
+        ],
+    }
+
+
+def build_pio_x_refs() -> list[DocRef]:
+    target_dir = PRE_V2_DIR / "1908-pie-x"
+    refs: list[DocRef] = []
+    for page_num, slug_suffix, label in PIO_X_PAGES:
+        refs.append(DocRef(
+            url=f"{PIO_X_BASE}{page_num:02d}text.htm",
+            target_dir=target_dir,
+            slug=f"1908_catechismo-pio-x_{slug_suffix}",
+            lang="it",
+            # Legacy Microsoft FrontPage pages use layout tables + <font>
+            # wrappers that pandoc otherwise collapses to "[TABLE]" tokens.
+            unwrap_tags=[
+                "table", "tbody", "tr", "td", "th",
+                "font", "center", "map", "area",
+            ],
+            meta_hints=_pio_x_hints(label),
+        ))
+    return refs
+
+
 # -- MISSING stubs: writer -------------------------------------------------
 
 def write_missing_stubs() -> int:
@@ -450,11 +479,14 @@ async def main() -> int:
     # 3. Static refs
     compendium_refs = build_compendium_refs()
     baltimore_refs = build_baltimore_refs()
+    pio_x_refs = build_pio_x_refs()
     print(f"  Compendium 2005 : {len(compendium_refs)} doc")
     print(f"  Baltimore 1885  : {len(baltimore_refs)} docs")
+    print(f"  Pie X 1908      : {len(pio_x_refs)} docs")
 
     all_refs = (
         ccc_fr_refs + ccc_lt_refs + compendium_refs + baltimore_refs
+        + pio_x_refs
     )
     print(f"Phase 7 — total {len(all_refs)} pages à récupérer")
     if not all_refs:

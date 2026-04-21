@@ -1,0 +1,23 @@
+incipit: Catechismus Catholicae Ecclesiae
+titre_fr: Catéchisme de l'Église catholique — editio typica latina (1997)
+auteur: Jean-Paul II
+periode: post-vatican-ii
+type: catechisme
+date: '1997-08-15'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- catechisme
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/archive/catechism_lt/p3s1c1a6_lt.htm
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+sha256:
+  la: 229254d381ca4a95c8042a1c4d3f182418f0c088fd3f115425b484feeecc2fbe

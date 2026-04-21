@@ -1,3 +1,64 @@
-[TABLE]
+[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
+[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
 
-[TABLE]
+CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
+
+***OMELIA DEL CARD. CRESCENZIO SEPE  
+IN OCCASIONE DELLA CONSACRAZIONE EPISCOPALE  
+DI MONS. WENCESLAO PADILLA  
+NELLA CATTEDRALE DI ULAANBAATAR IN MONGOLIA***
+
+*Venerdì, 29 agosto 2003*
+
+ 
+
+*Sua Eminenza,  
+Sua Eccellenza il Nunzio Apostolico,  
+Eccellenze,  
+Cari Laici, Autorità civili e Amici*
+
+Il cuore di ognuno di noi, che partecipiamo a questa celebrazione, e quello di tutta la Chiesa, è pieno di gioia e gratitudine verso il Signore per ciò che si compie oggi qui in mezzo a noi, ossia la consacrazione episcopale di Monsignor Wens Padilla, Prefetto Apostolico e primo Vescovo della Chiesa in Mongolia!
+
+Il Santo Padre Giovanni Paolo II è unito a noi nello spirito. Non potendo presiedere questa celebrazione, mi ha affidato la responsabilità di portare i suoi saluti, le sue preghiere e la sua particolare Benedizione Apostolica a tutti voi, e specialmente a Monsignor Wens. Il Santo Padre ama la Mongolia e auspica di potervi compiere una visita non appena sarà possibile. Pertanto, per questa occasione egli ha inviato una lettera firmata, che ora verrà letta.
+
+Il Vangelo che abbiamo ascoltato ci aiuta a comprendere anche il significato della cerimonia che stiamo celebrando: san Giovanni Battista ha testimoniato la Verità che è Gesù Cristo, per il quale ha dato la propria vita. Questo è anche il significato profondo della vita e del ministero del Vescovo: dare la propria vita per Cristo, per la Chiesa e per il gregge del quale è costituito Pastore. Questo significa forse che il ministero del Vescovo è quello di "farsi tagliare la testa"? Monsignor Wens:  spero e prego che non sia così! Tuttavia non si può escludere che, per rimanere fedeli a Cristo, talvolta dobbiamo essere disposti a dare la nostra vita, perfino a versare il nostro sangue. È questa la storia vissuta dalla Chiesa nei duemila anni della sua esistenza, e che continua ancora oggi quando, in molte parti del mondo, i discepoli di Cristo testimoniano la loro fede e il loro amore per il Signore fino a versare il proprio sangue.
+
+Questo ci aiuta a comprendere il significato e l'importanza dell'Ordine episcopale, che tra breve verrà conferito a Monsignor Wens. Infatti, in virtù del conferimento dell'Ordine episcopale, e in comunione gerarchica con il capo del collegio e i suoi membri, si viene costituiti membri del corpo dei Vescovi.
+
+Inoltre, l'Ordine dei Vescovi succede al Collegio degli Apostoli nell'autorità dell'insegnamento e del governo pastorale; in effetti, il corpo apostolico continua a esistere nell'Ordine dei Vescovi. Come successori degli apostoli, pertanto, i Vescovi ricevono dal Signore, al quale è stato dato ogni potere in cielo e in terra, la missione di insegnare a tutte le nazioni e a predicare il Vangelo a ogni creatura, affinché, attraverso la fede, il battesimo e l'obbedienza ai comandamenti (cfr *Mt* 28, 18), tutti i popoli possano ottenere la salvezza. Il Collegio episcopale, riunito sotto l'unico capo, il Romano Pontefice, Successore di Pietro, esprime l'unità, la diversità e l'universalità del gregge di Cristo.
+
+Tuttavia, i singoli Vescovi ai quali è affidata la responsabilità per le Chiese particolari, esercitano il loro governo pastorale sulla porzione del Popolo di Dio affidata alle loro cure; in queste Chiese particolari, essi sono il principio visibile e il fondamento di unità. Queste Chiese sono costituite secondo l'immagine della Chiesa universale, ed è in esse e da esse che la Chiesa cattolica trae la sua esistenza.
+
+Tra i diversi uffici del Vescovo, quello della predicazione del Vangelo è preminente. I Vescovi sono annunciatori della fede, conducono nuovi discepoli a Cristo e sono autentici insegnanti, che proclamano al popolo a loro affidato la fede in cui credere e che deve guidare la sua condotta. Come, attraverso il ministero della parola, essi comunicano la potenza di Dio per la salvezza a coloro che credono (cfr *Rm* 1, 16), così, attraverso i sacramenti santificano i fedeli:  regolano il conferimento del Battesimo, sono i ministri che danno la confermazione, sono dispensatori degli Ordini Sacri e moderatori della disciplina penitenziale. Segnati dalla pienezza del Sacramento dell'Ordine Sacro, i Vescovi sono "servitori della grazia del sommo sacerdozio", specialmente nell'Eucaristia, che essi offrono o fanno offrire. Inoltre, ogni legittima celebrazione dell'Eucaristia è regolata dal Vescovo, poiché ogni comunità dell'Altare, sotto il sacro ministero del Vescovo, si propone come simbolo della carità e dell'unità del Corpo Mistico.
+
+*Il Ministero del Vescovo nella Chiesa*
+
+Cari Fratelli e Sorelle, quanto sono benedetti questo Paese e la vostra comunità di credenti, piccola e tuttavia vibrante, nel ricevere oggi un grande dono da Dio! E questo dono altri non è che il nostro fratello Monsignor Wens Padilla, che è stato scelto come primo Vescovo della vostra Chiesa: si tratta di un evento storico nella vita della Chiesa cattolica in Mongolia. Lo riceverete non come una "testa su un vassoio" come quella di Giovanni, e nemmeno come una promessa vana, come quella di Re Erode nel Vangelo. No! Piuttosto lo riceverete come la persona scelta da Dio tra voi per essere il vostro anziano nella comunità. Lo riceverete come segno visibile della promessa di Dio di essere sempre con voi, come padre per i suoi figli diletti, come buon pastore per il suo gregge. Accoglietelo e offritegli rispetto e dignità come servitore-guida tra voi, che a vostra volta siete chiamati a essere servitori di tutte le persone, secondo l'esempio dato da Gesù nella sua vita di servizio, specialmente ai poveri.
+
+Come comunità di fede, ricordate che siete diventati un popolo eletto, perfino una voce che grida nel deserto, come Giovanni Battista. E questo deserto è il mondo in cui vivete ora. Può essere la società, il vostro vicinato, perfino la vostra famiglia. Il mondo attuale spesso vive secondo i parametri di chi è senza Dio:  di quanti pensano e credono di possedere il mondo, di essere le divinità della terra. Sono loro i Re Erode di adesso. Vi troverete a sfidare i valori promossi da queste persone. Ed è giusto che sia così, poiché i loro valori promuovono una felicità vacua e la vanagloria.
+
+Caro Monsignor Wens, sono lieto che Lei abbia generosamente accettato la chiamata di Dio a diventare la Sua incarnazione dell'amore e del servizio tra il popolo della Mongolia, al quale Lei è stato mandato. Certo, il compito non è facile e forse il fardello non sarà mai leggero. A volte Lei potrà sentire che la Sua testa viene tagliata come quella di Giovanni Battista! Tuttavia, come suggerisce la prima Lettura, Lei deve avere l'umiltà, il coraggio e la fede del profeta Geremia. So che nel profondo del Suo cuore vi è una salda fiducia nel Dio che L'ha conosciuta ancor prima che Lei fosse formato nel grembo, e che L'ha consacrata ancor prima che Lei nascesse.
+
+Potrebbe sembrare divertente o incutere timore il fatto che Dio possa trasformare le vite e chiamare le persone a essere suoi portavoce o suoi rappresentanti tra il popolo. So che Lei è stato un missionario impegnato in Taiwan per quindici anni, di cui sei come guida della sua Congregazione nella provincia, e che negli ultimi undici anni, come Giovanni Battista, Lei è stato il "precursore" qui in Mongolia. Davvero il Signore si dimostra misericordioso in Lei. Con la Sua esperienza e la Sua dedizione, Lei è un autentico dono di Dio per il popolo della Mongolia.
+
+La Sua dedizione e il Suo amore per il popolo di questo amato Paese è evidente, e lo dimostra anche la scelta del Suo stemma. In primo luogo, vi è il *ger*, che simboleggia la Sua casa nel cuore del popolo mongolo. A giudicare dalla facilità con cui stabilisce rapporti con i funzionari governativi, con la comunità locale dei credenti e con le persone comuni con cui lavora, e perfino con coloro che possono essere stati ritenuti inaccettabili dagli altri, ossia le persone misere, povere e bisognose, Lei ha trovato la sua casa tra loro. Lei ha dedicato la missione in Mongolia alla Sacra Famiglia:  Gesù, Maria e Giuseppe. Mi è stato spiegato che per i mongoli perfino il modo di tenere il Bambino Gesù rappresenta un simbolo importante.
+
+Forse per descriverlo non usano la parola cuore o *zurkh* come facciamo noi, tuttavia parlano di *bundang* o *buimang*, che significa recipiente o contenitore santo o sacro. Il fuoco a tre lingue è un altro simbolo importante per i mongoli, che per noi può significare lo Spirito, ma con un'implicazione mongola che indica la forza eterna di Dio:  le tre lingue rappresentano lo ieri, l'oggi e il domani. Questo ci ricorda il Giubileo! La nappa presenta due margini con un simbolo mongolo: l'*ulzii*, che rappresenta l'eternità, ossia il ciclo infinito della nascita, della morte e della nuova vita. La Sua dedizione al popolo e alla nazione della Mongolia è certamente indiscutibile. La Chiesa è orgogliosa di averLa qui, a guidare questa Chiesa giovane e vibrante.
+
+E naturalmente Lei è e resterà un membro della Cicm. Ammiro l'amore per la Sua Congregazione, che Lei dimostra riprendendo il simbolo della Cimc nello stemma. Ringrazio anche la Congregazione del Cuore Immacolato di Maria (Cicm) per essere tanto generosa da condividerLa con la missione della Chiesa universale. Quanta dedizione per la Cicm! Ciò che Lei è adesso è il risultato di 36 anni di lavoro che il Suo compianto padre ha svolto per la Cicm come fedele catechista, e naturalmente della Sua formazione nella Cicm a partire dal settimo anno di scuola.
+
+Il Suo stemma è completato dal sole che sorge ad est, che si irradia dalle montagne coperte di neve ai verdi pascoli delle colline e alle steppe:  un simbolo di speranza. Come Lei ha spiegato, questo indica il carattere cinese del Suo nome (Huang Hsyu Tong, ossia nove soli gialli che sorgono ad est, quindi l'alba). Pertanto, il Suo motto, "Una luce da rivelare alle nazioni", sintetizza in modo significativo la Sua identità di membro della Cicm e il Suo impegno a essere lo strumento principale dell'amore di Dio per il popolo qui in Mongolia, ora che sta per essere elevato alla dignità di Vescovo.
+
+Con la grazia dello Spirito e la protezione materna di Maria, nostra Beatissima Madre, chiedo a Lei, Monsignor Wens, come a tutti i missionari attorno a lei, di essere una fonte continua di forza di carattere per il popolo che Dio Le ha affidato, come ha dimostrato di esserlo nei molti anni della Sua esperienza missionaria. Faccia sentire loro la presenza del nostro Eterno Sommo Sacerdote, Gesù Nostro Signore, che, come nella seconda Lettura, comprende le nostre debolezze umane pur essendo senza peccato, ma comunque messo alla prova. Sia un autentico Pastore per il Suo gregge, un vero padre per i figli di Dio, un vero fratello per chi è povero, malato, straniero o senza casa. Come Giovanni Battista, secondo il motto del Suo stemma, guidi coloro che forse non conoscono e non vivono il Vangelo con la stessa dedizione mostrata al suo gregge. E, poiché Lei viene incorporato nel collegio dei Vescovi, non dimentichi la Sua responsabilità di essere strumento del vincolo di unità che condividiamo nella fede. Possano le sollecitudini della Chiesa universale essere sempre parte della Sua sollecitudine personale!
+
+Monsignor Wens, insieme ai Suoi missionari, vivendo lo spirito di Giovanni Battista, sia sempre come una levatrice vigile, che assiste alla nascita della comunità di Dio qui in Mongolia! Sia sempre dalla parte della giustizia, della pace e dell'amore, poiché per questo il nostro Sommo Sacerdote, Gesù Cristo, ha offerto la propria vita per la redenzione di tutti noi. In breve, come il Padrone, sia il servitore della comunità di servitori!
+
+Possano le benedizioni del Padre, di cui Lei è l'immagine nella Chiesa, del Figlio, il cui ruolo di insegnante, sacerdote e Pastore Lei vive, e dello Spirito che dà vita alla Chiesa e sostiene la nostra debolezza con la forza, essere con Lei mentre riceve la grazia della Sua elezione come Vescovo del popolo di Dio qui in Mongolia!
+
+Che la Vergine Maria, Regina della Mongolia, protegga tutti voi!
+
+Amen.
+
+*   *
+
+[![top](/img/top.jpg)](#top)

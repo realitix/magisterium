@@ -1,3 +1,49 @@
-[TABLE]
+[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
+[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
 
-[TABLE]
+***OMELIA DEL CARDINALE JOZEF TOMKO  
+IN OCCASIONE DEL 150° ANNIVERSARIO DI FONDAZIONE   
+DEL PONTIFICIO ISTITUTO MISSIONI ESTERE (PIME)***
+
+*Domenica 17 settembre 2000*
+
+ 
+
+Due eventi fanno da sfondo a questa celebrazione eucaristica:  i 150 anni del P.I.M.E. e la consegna del Crocifisso ai missionari partenti.
+
+Da 150 anni, i missionari del PIME (Pontificio Istituto Missioni Estere) sono stati e sono presenti in molti Paesi del mondo, mandati dal Signore Gesù "*fino agli estremi confini della terra*" (*Atti* 1, 8).
+
+Ed anche oggi, abbiamo la gioia di inviare altri missionari per la stessa missione. A questi consegniamo il Crocifisso, "compagno indivisibile" delle loro fatiche apostoliche, sostegno e conforto nei pericoli e nelle difficoltà.
+
+1\. Dal 1850, l'anno della fondazione del PIME, quasi 2000 uomini appartenenti all'Istituto sono partiti in obbedienza al comando di Cristo. Uomini umili, spesso in possesso di personalità di spicco e dal grande cuore, si sono avvicendati un po' ovunque nei territori nei quali il PIME ha lavorato e fondato Chiese ancora fiorenti. Alcuni di questi sono "martiri". Voglio ricordare in modo particolare il giovane padre Giovanni Mazzucconi (1826-1855), ucciso a 29 anni nell'isola di Woodlark, in Papua Nuova Guinea, quando ancora l'Istituto era ai suoi primi passi. Sono sue le già note e tanto care parole che anche quest'oggi risuoneranno per bocca dei missionari partenti:  *"... beato quel giorno in cui mi sarà chiesto di soffrire molto per il Tuo vangelo, ma più ancora quello in cui fossi trovato degno di offrire per esso il mio sangue*".
+
+E il padre Alberico Crescitelli (1863-1900), che il Papa proclamerà "santo" - assieme ad atri martiri cinesi, 130 in tutto -, il prossimo 1° ottobre, ucciso all'età di 37 anni nello Shaanxi, in Cina, cent'anni fa. Di fronte all'enorme compito missionario scrisse con molta umiltà queste parole al mio predecessore il Card. Simeoni, Prefetto di Propaganda Fide:  *"... non osavo sperare di fare molto; ma chi sa, pensavo tra me, se il Signore vorrà servirsi di me e fin dove?*". Molte altre figure popolano il quadro dei predecessori e non sarebbe possibile ricordarli tutti. Personalmente ho conosciuto i Vescovi Gobbato (Burma), Cerquia (Amazzonia), ho ammirato i frutti del P. Vismara ed ho incontrato tanti bravi missionari PIME che è già entrato a 150 anni dalla fondazione nella gloriosa storia delle missioni cattoliche.
+
+2\. Così come ti sei servito di questi uomini, Signore, fino a che punto vuoi servirti di noi? Se lo chiedeva il beato Alberico, e molto tempo prima l'apostolo Pietro:  fino a che punto, Signore? Fino a che punto vuoi servirti di p. Luigi, di p. Alberto, di sr. Laura, di fr. Luis?  
+Tu rispondi a modo tuo:  consegnando la tua Croce.
+
+Fino a quel punto ti dovranno seguire, e dovrai ripetere loro, molte volte ancora, quello che hai detto all'apostolo Pietro:  "*Mettiti dietro di me, Satana! Perché tu non pensi secondo Dio, ma secondo gli uomini*" (cfr *Mc* 8, 33). Mentre riveli la tua identità di "*figlio dell'uomo che doveva molto soffrire, ed essere riprovato dagli anziani, dai sommi sacerdoti e dagli scribi, poi venire ucciso...* " (*Mc* 8, 31); mentre riveli la carità di Dio e la sua Passione per l'uomo, Pietro cercava vie di fuga. E per questo lo hai rimproverato. Hai voluto salvare la sua vocazione e la sua missione! Voglio pensare che anche tu, Signore Gesù abbia chiesto - come l'hai fatto nel Getsemani - al Padre tuo:  "fino a che punto, fin dove, mi chiedi di amare e appassionarmi per la vita dei tuoi figli?".
+
+Per andare dietro a Gesù bisogna prendere la Croce e seguirlo sulla stessa via:  la missione è manifestare la passione di Dio per ogni uomo, così come ha fatto Gesù, e tutti i suoi discepoli dopo di Lui, fin dalle origini. Lo stesso vale per chi oggi prenderà simbolicamente la Croce, ma vale anche per tutti noi. "Fino a che punto, Signore?". Il punto è la tua Croce, che è l'amore del Padre per tutti i suoi figli, o meglio, non è la cruda Croce che il missionario abbraccia, ma è l'amore crocifisso che si accoglie e che lo fa dolce.
+
+Si parte per la missione perché questo amore non può essere taciuto. Con Pietro, finalmente libero da sé e pieno della carità di Cristo diciamo:  "*Noi non possiamo tacere quello che abbiamo visto e ascoltato*" (*Atti* 4, 20). Possiamo perdere la vita, ma non possiamo tacere l'amore del Padre!
+
+Il Santo Padre nella *Redemptoris missio* ci invita a ripensare "*allo slancio missionario delle prime comunità cristiane. Nonostante la scarsezza di mezzi di trasporto e di comunicazione di allora, l'annuncio evangelico raggiunse in breve tempo i confini del mondo. E si trattava della religione di un Uomo morto in croce, "scandalo per gli ebrei e stoltezza per i gentili*" (1 *Cor* 1, 23) (*Rm* 90).
+
+Ma Cristo doveva morire di una morte di croce perché fosse rivelata la passione del Padre. Abbiamo ascoltato il profeta Isaia a proposito del Servo di Jahvè:  "*Ho presentato il dorso ai flagellatori, la guancia a coloro che mi strappavano la barba; non ho sottratto la faccia agli insulti e agli sputi*" (*Is* 50, 6). Nella sorte di questo Servo c'è tutto Cristo e tutto l'amore del Padre. "*Dio dimostra il suo amore verso di noi perché, mentre eravamo ancora peccatori, Cristo è morto per noi*" (*Rom* 5, 8). Dio ha così amato il mondo di aver dato il suo Figlio per il mondo.
+
+A voi che ricevete il Crocifisso dico:  "Non abbiate paura, siate testimoni del Padre, come Cristo!". Scrive ancora il Santo Padre:  "*Ciò che mi spinge a proclamare l'urgenza dell'evangelizzazione missionaria è che essa costituisce il primo servizio che la Chiesa può rendere a ciascun uomo e all'umanità intera*" con l'unico fine di "*servire l'uomo rivelandogli l'amore di Dio che si è manifestato in Gesù Cristo*" (*Rm* 2).
+
+3\. Raccolgo dall'evangelo che abbiamo ascoltato alcune altre indicazioni che voglio offrire in modo particolare ai partenti, ma anche a tutti voi che, pur senza partire, volete bene ai missionari, li aiutate con la preghiera e il sacrificio e siete, in fondo, missionari voi stessi per mezzo della vostra cooperazione.
+
+Il Signore Gesù chiede ai suoi "*E voi chi dite che io sia?*" (*Mc* 8, 29). Pietro risponde correttamente, ma il successivo dialogo con il Maestro mostra la sua fragilità. Pensa di conoscere il Cristo:  in realtà non nel giusto modo. C'è una diffusa ignoranza sulla persona di Gesù che va combattuta. Conoscere Cristo è condizione indispensabile per la missione. Ma per conoscere Cristo bisogna frequentare Cristo! Nell'ascolto della Sua Parola e nella frazione del pane Cristo si rende accessibile, evidente. Questi sono i luoghi sorgivi della missione, ci consentono di coltivare una relazione vitale con il Mistero che ci ha sedotti. Senza Parola ed Eucarestia soffriremmo di solitudine, saremmo missionari orfani dell'amore del Padre che Cristo, nello Spirito Santo, rivela e offre. O saremmo missionari di un Cristo che nel frattempo abbiamo camuffato e ridotto ai nostri schemi. Cristo deve essere difeso da noi stessi, perché rimanga in noi nella Sua verità, quella che Pietro ha cercato di cambiare, ma da cui dopo il pianto amaro, si è lasciato cambiare!
+
+Pur impegnato nella sequela, il povero Pietro ha a lungo pensato secondo gli uomini e non secondo Dio. Bisogna invece pensare secondo Dio. Guardare alla storia, all'umanità partendo dai pensieri di Dio che Cristo ha espresso meravigliosamente. Sognare il regno di Dio, sognare luoghi dove i poveri sono beati, i miti sono benedetti, dove è ancora possibile avere fame e sete di giustizia, dove è ancora possibile morire per causa del vangelo. Pensare i pensieri di Dio, desiderarli, invocarli e offrire luoghi dove insieme si prega per questo sogno, lo si chiede come grazia, lo si lascia penetrare nella propria carne, così come è penetrato nella carne di Cristo. "*Ciò che era fin da principio, ciò che noi abbiamo udito, ciò che noi abbiamo veduto con i nostri occhi, ciò che noi abbiamo contemplato e ciò che le nostre mani hanno toccato, ossia il Verbo della vita, ... noi lo annunziamo a voi*" (1*Gv* 1, 1-3). Da quando si è consumato il Mistero dell'incarnazione, motivo del grande Giubileo dell'anno 2000, non è più possibile cancellare il sogno di Dio per l'umanità o escluderlo come vana utopia, perché è ciò che ormai abbiamo veduto con i nostri occhi.
+
+E, da ultimo, l'invito di Gesù a perdere la vita per il vangelo:  "*ma chi perderà la propria vita per causa mia e del vangelo, la salverà*" (*Mc* 8, 35). Perdere, quest'oggi, è sinonimo di partire. Se voi partite per la missione è perché siete disposti a perdere, offrire, consegnare la vostra vita a Cristo. Confessate, partendo, che Cristo è Signore della vostra vita e che a Lui spetta l'ultima parola. San Giacomo ci ha detto che se la fede "*non ha le opere, è morta in se stessa*" (*Gc* 2, 17). Per voi l'opera da compiere è partire:  una fede senza missione, senza partenze, è morta! Il partire diventa condizione dell'anima:  il credente si lascia spingere, buttare fuori dall'amore di Cristo. Gli amici del Signore partono tutti i giorni per realizzare il sogno di Dio. È il dinamismo delle fede. Non c'è fede senza partenze quotidiane, senza distacchi interiori. Per questo si dice che la Chiesa è per sua natura missionaria. Perché i credenti in Cristo, i cristiani, partono, si aprono al mondo, si muovono, sono dinamici, sono missionari, amanti dell'uomo, come Cristo.
+
+Bisogna osare di più. Solo la conoscenza di Cristo ci fa più audaci, ci spinge, senza calcoli. Come diceva il beato Alberico Crescitelli:  "Fin dove, Signore, vorrai servirti di noi? Non importa, Signore, come e quanto vorrai!"
+
+                 
+
+[![top](/img/top.jpg)](#top)

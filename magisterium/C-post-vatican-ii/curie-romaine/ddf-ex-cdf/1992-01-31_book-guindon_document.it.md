@@ -1,3 +1,139 @@
-[TABLE]
+[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
+[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
 
-[TABLE]
+**CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
+
+ 
+
+**Nota riguardante il libro  
+«*The Sexual Creators, An Ethical proposal for Concerned Christians*»  
+(University Press of America, Lanham-New York-London 1986)  
+del P. André Guindon, O.M.I.**
+
+ 
+
+**PREMESSA**
+
+Dopo uno studiodel libro del P. Guindon condotto secondo la procedura ordinaria prevista dalla propria *Ratio agendi* e dopo un dialogo con l'Autore, realizzato con la mediazione del P. Superiore Generale O.M.I. dal novembre 1988 al settembre 1991, la Congregazione per la Dottrina della Fede, che ha il compito «di promuovere e di tutelare la dottrina sulla fede, e i costumi in tutto l'orbe cattolico»,(1) pubblica la seguente *Nota*, nella quale, per il bene dei fedeli, sono stati segnalati i punti in cui il suddetto libro risulta in contrasto con la dottrina della Chiesa in materia di morale sessuale. Nel contempo viene offerta all'Autore l'ulteriore possibilità di fornire, entro un ragionevole periodo di tempo, alcune chiarificazioni, che confermino la sua asserita fedeltà all'insegnamento del Magistero. Il dialogo con l'Autore è condotto d'intesa con la Congregazione per gli Istituti di Vita Consacrata e per le Società di Vita Apostolica e con la Congregazione per l'Educazione Cattolica, per gli aspetti di loro rispettiva competenza.
+
+ 
+
+**I.**
+
+**OSSERVAZIONI SUL LIBRO**
+
+**1. Introduzione**
+
+II libro vuole essere qualcosa di più di uno studio di sessuologia: l'Autore desidera offrire alla Chiesa un apporto personale per l'elaborazione di una dottrina nuova su ciò che egli chiama «*sexual fecundity*», proposta come «un contributo alla formazione di un'alternativa all'insoddisfacente prospettiva basata su fecondità-fertilità» (p. IX). Non si tratta quindi solo di un ripensamento delle norme morali circa la sessualità umana, quanto piuttosto della proposta di una nuova antropologia e di un «programma per la prossima rivoluzione dei *sexual creators*» (p. 236).
+
+Nell'opera non mancano intenzioni lodevoli e aspetti positi­vi come, ad esempio: il desiderio di superare una precettistica solamente esteriore e negativa (p. 9ss), l'affermata opposizione a una mentalità contraccettiva o edonistica, che considera il pia­cere sessuale come fine a se stesso (pp. 36, 74, 94), lo sforzo di raggiungere una concezione unitaria dell'essere umano (p. 22ss), il proposito di essere attento alle persone al di là delle loro colpe morali (p. 164), la ricerca del senso cristiano dell'affettività umana (pp. 100, 105).
+
+Tuttavia un accurato esame ha evidenziato la presenza di gravi e fondamentali dissonanze non solo con l'insegnamento del Magistero più recente, ma anche con la dottrina tradizionale della Chiesa. Queste dissonanze riguardano la concezione generale della sessualità, la visione della persona umana nei suoi rapporti con gli altri e con Dio Creatore, nonché il giudizio morale su alcuni comportamenti sessuali concreti. Esse si radicano in ultima analisi su un'impostazione insufficiente e talvolta erronea a livello di metodo teologico.
+
+**2. Questioni particolari**
+
+***2.1. Concezione generale della sessualità***
+
+L'Autore usa i termini «*sexual*» o «*sexuality*» in un'accezione così ampia da inglobare tutto ciò che qualifica le manifestazioni affettive dell'essere umano in quanto sessuato (cf. ad esempio, pp. 23, 71, 120-121). «La sessualità è ciò che conferisce agli esseri umani una storia interpersonale e sociale, tale da renderli responsabili del suo sviluppo» (p. 34). Difficilmente si può immaginare una descrizione più ampia di questa. La sessualità è caratterizzata quindi dalle due componenti della «sensualità» e della «tenerezza», relative rispettivamente alle dimensioni corporali e spirituali dell'essere umano. Tuttavia qualificare come «sessuale» ogni espressione di affetto, con il pretesto che essa è inevitabilmente segnata dal carattere sessuato della persona, è non solo provocare un uso inflazionato e confuso del termine, ma anche violare le leggi elementari della logica. Per quanto ogni relazione affettiva è contrassegnata dal carattere sessuato dei partner, non segue che essa sia una relazione sessuale. Diventa così ambiguo e confuso affermare il carattere sessuale di tutte le relazioni affettive, anche di quelle dei genitori con i loro figli, dei celibi, ecc. (pp. 66-67, 120-121).
+
+In corrispondenza con questa accezione allargata della sessualità, l'Autore propone una nozione nuova e più fondamentale di «fecondità sessuale» («*sexual fecundity*»), che dovrebbe essere la base per valutare «tutte le forme di interazione sessuale» (pp. 66-67). Questo nuovo criterio di riferimento è presentato come indipendente dalla «fertilità biologica», che la morale cattolica tradizionale avrebbe il torto di assumere come unica norma. Così il principio regolatore della sessualità umana non sarebbe più l'inseparabilità dei significati unitivo e procreativo dell'atto sessuale, ma piuttosto l'inseparabilità di «sensualità» e «tenerezza» (pp. 66-68). Il significato primario della «trasmissione della vita» sarebbe una «nuova qualità di vita umana che viene comunicata all'interno e attraverso un'esperienza sessuale integrata... da un amante all'altro» (p. 67). La procreazione viene considerata come elemento secondario e prescindibile. L'integrazione di sensualità e tenerezza viene proposta come criterio di qualsiasi attuazione sessuale: non solo coniugale e neppure solo eterosessuale, ma addirittura anche omosessuale (p. 67). Di conseguenza non ci sarebbe «differenza sostanziale quanto a ÂÂÂÂ“stili di vitaÂÂÂÂ” tra il cammino morale che si realizza nella condotta sessuale di sposi, genitori, figli e figlie, lesbiche, gay o celibi» (p. 79).
+
+È giusto riconoscere all'Autore l'intendimento di porre alla base della sua concezione di sessualità e di fecondità un'antropologia integrale («*a wholistic view of selfhood*», p. 23), la quale non rinunci alla natura di composto dell'essere umano, ma la sappia riproporre in termini veramente integrati, senza ri­cadere in pericolosi dualismi, cui conseguono riduzioni biologistiche o spiritualistiche, che finiscono per deformare gravemente l'etica sessuale. Invano tuttavia si cercherà nel volume anche solo una presentazione sintetica di una simile antropologia, che pertanto si riduce a una sorta di dichiarazione di intenti. Inoltre l'equivocità della definizione di sessualità e l'erronea visione della fecondità producono di fatto, come conseguenza indesiderata, un dualismo antropologico. Infatti, mentre nei primi due capitoli la concezione della sessualità sostenuta da P. Guindon ha bisogno di una forte enfasi sulla natura corporea dell'uomo, nel terzo e nel quarto per definire la fecondità in sé e per sé, indipendentemente dalla fertilità, tale natura corporea diviene ingombrante e viene allora trascurata e sacrificata per evitare quella che l'Autore reputa essere l'epocale riduzione biologistica di sessualità e di fecondità.
+
+Una concezione adeguata e unitaria della persona umana, che tenga conto di tutti i livelli del suo essere (biologici, psicologici e spirituali), non dovrebbe poi condurre lÂÂÂÂ’Autore a parlare della fertilità come nel seguente passo: «Finché continuiamo a sostenere che il risultato inteso dev'essere un figlio, non stiamo più parlando di un aspetto di un principio sessuale (fecondità) o di un prodotto sessuale. Stiamo occupandoci di sostanze: cromosomi (il principio) che producono un bambino (effetto)» (p. 65).
+
+Il significato procreativo della fecondità è ridotto al livello della riproduzione degli esemplari di una specie, mentre il significato antropologico della sessualità è posto prevalentemente nelle sue componenti esperienziali di sensualità e tenerezza, che possono quindi essere creative e far uso del corpo come di uno strumento privo di intrinseci valori morali, e completamente manipolabile a seconda delle intenzioni soggettive. La separazione tra gli elementi esperienziali o psicologici della sensualità e tenerezza, da un lato, e gli elementi corporei della riproduzione, dall'altro, è incontestabilmente dualistica. In realtà sono en­trambe parti integranti di una stessa persona. Una tale accusa di dualismo non può essere invece mossa contro il principio, proprio dell'insegnamento della Chiesa, che i significati unitivo e procreativo dell'atto sessuale sono inseparabili.
+
+***2.2. Le relazioni interpersonali***
+
+Nella fenomenologia delle relazioni sessuali presentata da P. Guindon, l'enfasi è ripetutamente posta su «*the self ex­pressing the self*» (per formule di questo tipo si veda alle pagine 11, 14, 22, 23, 26, 27, 31, 33, 34, 66-67, 71, 90 e 102). Si ha qui un personalismo centrato sul sé e sull'espressione del sé. Come può conciliarsi quest'impostazione con le esigenze di amare un'altra, persona e di tener conto della realtà e dell'autonomia dell'altra persona? Perché nel libro non si fa praticamente mai menzione del dato, sicuramente appartenente alla tradizione cristiana, che la legge dell'amore include la legge della croce? Secondo il Concilio la vocazione al matrimonio esige «notevole virtù» e «spirito di sacrificio».(2) P. Guindon non fa quasi riferimento alla necessità di tale virtù, e non tiene presente che gli impulsi sessuali non si integrano facilmente con l'amore autentico, così che la castità e il dominio di sé sono parte necessaria e difficile dell'amore umano ÂÂÂÂ– a meno che uno non creda che il desiderio di esprimersi sessualmente debba sempre incontrarsi con la corrispondente disponibilità consenziente di un partner con cui uno vorrebbe esprimere se stesso.
+
+Benché l'Autore proponga i valori della «*loving fecundity*» (pp. 72-74) e della «*responsible fecundity*» (pp. 74-78), come terzo e quarto criterio per valutare la «*sexual fecundity*» e benché asserisca che «la sessualità umana è feconda quando promuove umanamente una vita tenera e sensuale, l'identità individuale, il valore della persona e la comunità» (p. 78), con ciò non offre ancora una spiegazione adeguata di come le esperienze della tenerezza e della sensualità potrebbero condurre alla costruzione di una comunità.
+
+***2.3. Il rapporto tra la persona umana e il Creatore***
+
+Una più fondamentale carenza è sottesa alle posizioni erronee rilevate nell'opera: la sostituzione del concetto di creaturalità con quello di creatività (pp. VII ss). Dio, creando la libertà della creatura, avrebbe dato all'uomo e alla donna la capacità di liberare la loro propria umanità e, in tal senso, l'uomo e la donna dovrebbero essere visti come «*sexual creators*». L'Autore non riconosce che Dio ha impresso un significato e un ordine intrinseco nella realtà creata, la cui verità è così norma oggettiva del comportamento, da riconoscere e attuare.(3) Egli avrebbe piuttosto affidato all'uomo e alla donna il potere di produrre creativamente un linguaggio sessuale, che esprima e strutturi significativamente le relazioni umane (p. VIII). Per l'Autore non esiste quindi una verità che preceda e normi l'agire (*agere*), ma solo la produzione, da parte della spontaneità soggettiva, di modelli creativi di significato (rinvia all'epistemologia di T.S. Kuhn: pp. 4, 15-16). La bontà morale non è più una qualità della volontà che sceglie in armonia con la verità dell'essere, ma viene ridotta a un prodotto delle intenzioni soggettive. Si legge per esempio che «...il compito morale consiste nel costruire ciascuno la propria verità ovvero nel fatto che ciascuno dia un senso alla propria vita personale» (p. 163). Ancora, P. Guindon afferma che le persone con un orientamento omosessuale dovrebbero agire in modo omosessuale, dal momento che *agere sequitur esse* (p. 161). Qui l'*esse* sembra ridotto a un'inclinazione soggettiva. In ciò consiste la vera rivoluzione del libro: vi sono ignorate le basi antropologiche necessarie a ogni morale oggettiva e, in particolare, alla morale cristiana.
+
+***2.4. Problemi di metodo della teologia morale***
+
+Le posizioni erronee quanto al contenuto sono conseguenza dell'adozione di un metodo insufficiente.
+
+In primo luogo, va rilevato che l'Autore incomincia con un generico riferimento all'esperienza, senza produrre però alcuna analisi fenomenologica della natura e della dinamica dell'umana sessualità, vale a dire di ciò che peraltro dovrebbe costituire la novità sostanziale della sua opera, e limitandosi a rinvii bibliografici. Ciò nonostante egli afferma che dall'esperienza si ricava la natura della sessualità come integrazione di sensualità e di tenerezza (p. 23). Passa in seguito a una breve presentazione di un modello linguistico di fattura apparentemente strutturalista, che consentirebbe di approfondire il significato della sessualità (pp. 26-30), ma che, per espressa dichiarazione dell'Autore stesso, potrebbe essere sostituito con altri (p. 15).
+
+La riflessione morale è compresa dall'Autore non solo come riflessione sull'esperienza vissuta (p. IX), ma come articolazione del significato immanente a questa stessa esperienza (p. 13), dal momento che «il bene non può essere conosciuto e apprezzato se non viene ÂÂÂÂ“sperimentatoÂÂÂÂ”» (p. 13). Viene così affermato un primato del «vissuto», che diventa il vero criterio di discernimento del giudizio morale. Il «vissuto» è prevalentemente concepito nei termini di caratteristiche dell'esperienza soggettiva, quali la sensualità e la tenerezza. Ne consegue una moralità fondata su una sorta di fede cieca nella spontaneità umana. Poco o niente si dice sulla radicale dicotomia che abita il cuore dell'uomo,(4) sulle conseguenze di tale dicotomia nell'ambito sessuale o sul ruolo della grazia e della perseveranza umana nell'affrontare questo conflitto. Di conseguenza, la nozione di esperienza è esposta in un modo molto selettivo, come selettiva è la scelta delle fonti psicologiche. Numerosi psicologi ÂÂÂÂ– per non parlare dei filosofi e dei teologi ÂÂÂÂ– non ammetterebbero che esperienze soggettive, quali la tenerezza e la sensualità, siano in grado di condurre da sole, automaticamente, a un amore autenticamente umano, alla responsabilità e all'auto-trascendenza.
+
+Con questi presupposti anche il riferimento alle fonti classiche della teologia morale, come la Sacra Scrittura, la Tradizione della Chiesa e il Magistero, è attuato in un modo parziale, riduttivo e inadeguato. Richiamandosi al metodo della critica storica, l'Autore ritiene che le norme morali presenti nella Sacra Scrittura vadano ricondotte a contesti storici del passato e quindi ritenute «inconclusive» quanto al giudizio morale da dare oggi, ad esempio su comportamenti come lÂÂÂÂ’omosessualità (p. 160). La Sacra Scrittura non conterrebbe tanto norme concrete, quanto piuttosto intenzioni, e le uniche intenzioni richiamate da Gesù sarebbero l'amore e la libertà, interpretate soggettivisticamente (cf. p. 175). In contrasto diretto con questi stessi principi si trovano però le distorte interpretazioni della Bibbia, che l'Autore adduce a sostegno di alcune posizioni del libro, alla ricerca di presunti esempi edificanti di lesbiche e di omosessuali (p. 164-165).
+
+La Tradizione e il Magistero, presentati in maniera spesso caricaturale (cf. ad es. pp. 4-10, 43-53), non sono valutati e accolti nella loro autorità propria e nel loro valore normativo per la riflessione teologica, ma servono piuttosto da spunto polemico in base al quale l'Autore costruisce la sua «alternativa», sviluppata a partire dal quarto capitolo. E vero che talvolta egli cita il magistero in senso favorevole, mostrando di approvare persino (p. 120), l'affermazione di *Gaudium et spes*(5) che «i figli sono il preziosissimo dono del matrimonio». Ciò nondimeno pone se stesso quale giudice di quali parti dell'insegnamento della Tradizione e del Magistero siano accettabili e di quali non lo siano. Tale ruolo implica superiorità in colui che giudica rispetto a chi viene giudicato.
+
+***2.5. Giudizi morali su singoli comportamenti***
+
+L'opera *The Sexual Creators* contiene giudizi morali in contrasto con quanto affermato costantemente e coerentemente dalla Sacra Scrittura e dalla Tradizione, e insegnato autorevolmente anche dal Magistero più recente. Inoltre tali posizioni non sono incidentali per il libro, ma emergono progressivamente in una forma coerente con la ribadita intenzione dell'Autore di rendere la fecondità sessuale, intesa come integrazione di sen­sualità e tenerezza, autonoma rispetto alla procreazione.
+
+Innanzitutto l'Autore tratta la Sacra Scrittura, la tradizione e le dichiarazioni del Magistero in modo estremamente selettivo, spesso distorcendoli totalmente. Dal terzo capitolo intitolato «*The Dualistic Tradition of Fertility*», specialmente dalle pagine 44-53, si dovrebbe concludere che, per almeno due millenni, la morale sessuale tradizionale in gran parte si è sbagliata nelle sue conclusioni relative a un enfasi sulla procreazione, che l'Autore descrive come una «ideologia natalista» (pp. 44ss). Circa l'insegnamento di *Gaudium et spes* (nn. 47-52) sulla dignità del matrimonio e della famiglia, nel quarto capitolo si legge: «Probabilmente si potrebbero evidenziare in tale costituzione affermazioni in appoggio a un'interpretazione riproduttiva della fecondità sessuale. Ciò non dovrebbe sorprenderci. Oggi c'è un consenso generale sul fatto che nei documenti conciliari si trovano testi che sono il risultato di un compromesso tra posizioni talvolta teoreticamente inconciliabili. Transizioni paradigmatiche sono spesso contrassegnate dalla simultanea presenza divisioni contraddittorie tra loro» (p. 65).
+
+Ciò non può significare se non che *Gaudium et spes* è in parte erronea e può essere compresa correttamente solo escludendo la parte sbagliata del suo insegnamento, cioè la parte considerevole che non si accorda con le idee espresse nel libro. *Humanae vitae* è criticata perché si richiama a leggi biologiche (p. 47). Si dice che *Familiaris consortio* fa «una distinzione puramente nominalistica» tra «osservanza del ritmo» e «ostacolo alla nascita», come se ci fosse una distinzione con rilevanza morale tra i due casi (pp. 49-50). *Persona humana* viene criticata perché considera la procreazione come «finalità essenziale e indispensabile» (della fecondità) (p. 43).
+
+Contro l'insegnamento del magistero,(6) l'Autore, considerando i rapporti sessuali pre-matrimoniali, la possibilità della coabitazione detta «pre-cerimoniale» e del «matrimonio a tappe» (pp. 87-89), osserva: «Si potrebbe anche ritenere che, teologicamente, un simile ÂÂÂÂ“matrimonio per fasiÂÂÂÂ” non è insostenibile» e rimanda anche ad altri suoi scritti (p. 110, nota 5). Contro la dottrina della Chiesa, egli sostiene l'irrilevanza della celebrazione pubblica del patto matrimoniale e della forma canonica del matrimonio tra i cattolici. Fonda poi su una presentazione travisata della storia il suo giudizio di discredito circa la necessità del consenso ecclesiale (p. 88). Egli infatti lascia intendere che la celebrazione liturgica del matrimonio rappresenta uno sviluppo tardivo nella Chiesa, confondendo così l'obbligo della forma canonica richiesta per la validità del matrimonio con l'esistenza di una cerimonia liturgica, che è invece antichissima.
+
+In breve, l'Autore propone (pp. 87-89) una completa ridefinizione del sacramento del matrimonio.
+
+Per quanto riguarda lÂÂÂÂ’omosessualità, l'Autore tende ad assimilare, dal punto di vista morale, la situazione omosessuale a quella eterosessuale sulla base di una concezione astratta di fecondità sessuale, applicata poi in modo univoco a comportamenti sessuali specificamente differenti (pp. 159-160, 172, 177). In alcuni aspetti una relazione omosessuale sembra essere addirittura superiore a quella eterosessuale. A pagina 165 si legge: «Una tale celebrazione gratuita dell'amore \[come nel Cantico dei Cantici: cf. sopra, nella stessa pagina\] è caratteristica della sessualità gay. ... Una donna non fa l'amore con un'altra donna, né un uomo con un altro uomo perché ciò è quanto tutti si aspettano, né perché ciò dev'esser fatto per avere qualcuno che mantenga o dia una casa, e neppure perché questo è il modo per fare bambini. Le persone omosessuali sane sono sessualmente attive con un partner perché esse desiderano esprimere la loro affezione a qualcuno da cui sono attratte».
+
+P. Guindon difende la «fecondità sessuale» degli omosessuali pretendendo di far astrazione da qualsiasi giudizio sulla moralità oggettiva degli atti erotici o genitali che essi possano compiere (p. 163) ÂÂÂÂ– un'astrazione che è difficile o impossibile conciliare con il senso ovvio di espressioni da lui usate quali «fare l'amore» e «\[essendo\] sessualmente attivo» a p. 165, come appena citato ÂÂÂÂ–, e appellandosi in modo vago ed equivoco alla norma dell'amore interpersonale proclamata nel Vangelo (pp. 174-175). Non solo non si riconosce alcun disordine oggettivo nella condizione omosessuale come tale, ma addirittura vengono giustificati i comportamenti omosessuali come «l'unica scelta sana» per chi è naturalmente e irreversibilmente omosessuale (p. 160-161), in opposizione a quanto affermato da *Persona humana*, n. 8. Per giustificare ciò, l'Autore fa appello al principio *agere sequitur esse* (p. 161), che in tal modo è applicato indifferentemente e univocamente all'ordine ontologico (ontico) e all'ordine morale. Egli non sembra riconoscere molta libertà alle persone omosessuali riguardo al loro orientamento sessuale o alla possibilità di astinenza sessuale: «Le uniche scelte che essi \[i moralisti\] sembrano capaci di offrir loro (uno stile di vita eterosessuale o asessuale), sono, come essi stessi sono costretti a riconoscere, irrealizzabili per persone omosessuali sane» (p. 162). La possibilità che una persona omosessuale cambi verso un orientamento eterosessuale mediante psicoterapia è ridicolizzata e scartata (p. 161). Gli omosessuali vengono presentati come una fonte di testimonianza per la società nella loro celebrazione dell'amore gratuito (pp. 174ss).
+
+ 
+
+**II.**
+
+**NECESSITÀ DI CHIARIFICAZIONI**
+
+In alcune lettere al suo Superiore Generale, scritte dopo aver ricevuto una precedente critica da parte della Congregazione per la Dottrina della Fede e successivamente trasmesse alla medesima Congregazione, specialmente in una lettera datata 15 agosto 1990, il P. Guindon ha affermato che, a parte la questione della contraccezione, il suo libro intende essere fedele alla ricchezza della tradizione cattolica e che non si può trovare in esso alcun testo che neghi il ruolo del Magistero nell'etica cattolica. Queste affermazioni appaiono inconciliabili con il modo in cui egli di fatto presenta e critica la Tradizione e il Magistero. In queste lettere P. Guindon ha anche dichiarato che da nessuna parte nel suo libro egli contraddice l'insegnamento di *Persona humana*,(7) secondo cui «l'uso della funzione sessuale ha il suo vero senso e la sua rettitudine morale soltanto nel matrimonio legittimo». Egli sostiene invece che in *The Sexual Creators* non ha messo in discussione nessuna delle posizioni di *Persona humana* riguardanti azioni genitali specifiche.
+
+Naturalmente quanto insegnato in *Persona humana* non esaurisce tutta la morale sessuale cattolica. Nondimeno esso costituisce un adeguato punto di riferimento, del resto scelto dallo stesso P. Guindon nella propria difesa. Pertanto esso merita una più accurata attenzione. La linea di difesa scelta dall'Autore è, quanto meno, sorprendente.
+
+In primo luogo nel libro è proposta una descrizione estremamente ampia della sessualità umana: «La sessualità è ciò che conferisce agli esseri umani una storia interpersonale e sociale, tale da renderli responsabili del suo sviluppo» (p. 34). Ma poi, secondo quanto affermato da P. Guindon nella sua difesa, la trattazione della sessualità non prenderebbe più in considerazione gli atti genitali, come se si potesse scrivere un libro sulla morale sessuale prescindendo del tutto dalla moralità di tali atti. Ci è chiesto di credere che l'Autore discuta differenti stili di vita sessuali, comprese le coabitazioni prematrimoniali (pp. 87-88) e le relazioni omosessuali (pp. 159-204) in un senso che non implichi che questo tipo di relazioni possa includere un'espressione genitale, almeno come problema col quale confrontarsi.
+
+In secondo luogo la dichiarazione che egli non intende contraddire *Persona humana* su questo aspetto del problema non si accorda in vari punti col testo stesso di *The Sexual Creators*. E proprio l'Autore infatti a sottolineare l'importanza del rapporto sessuale: «Quando l'esistenza di ciascuno dei due è confermata dal reciproco riconoscimento nell'amplesso coitale, i soggetti sono generati a se stessi come soggetti» (p. 93). Se si prendono i termini che vengono impiegati quali coabitazione «pre-cerimoniale» (pp. 87-88), «fare l'amore» ed «espressione sessuale» (p. 165, nel contesto dell'omosessualità) nel senso in cui essi vengono oggi comunemente usati, il significato ovvio del testo indica un'approvazione dell'unione genitale anche al di fuori dell'ambito di un vero matrimonio. Il minimo che si possa dire è che la moralità dell'unione genitale è una questione con cui pratica­mente ogni persona è confrontata e cui deve dare una risposta. Scrivere un libro sull'etica sessuale pretendendo di mettere da parte una tale questione è un modo veramente strano di affrontare il problema. Come si può affermare la necessità di una concezione unificata della natura umana come base per comprendere la sessualità e poi asserire che la nozione di sessualità, in qualsiasi modo essa debba venir intesa, non implica una considerazione della questione della moralità dell'unione genitale, quando è riferita, per esempio, alla coabitazione prematrimoniale o all'omosessualità? In questo caso anche il rifiuto di prendere una posizione esplicita significa in realtà assumerne implicitamente una.
+
+Il dialogo con P. Guindon non ha pertanto condotto finora a una chiarificazione soddisfacente della sua posizione, così che devono essere sollecitate ulteriori chiarificazioni.
+
+ 
+
+**III.**
+
+**LE CHIARIFICAZIONI RICHIESTE**
+
+Nell'interesse del bene spirituale dei fedeli la Congregazione per la Dottrina della Fede ha il compito di promuovere e difendere l'autentica dottrina cattolica. Per questa ragione essa ha stimato giusto pubblicare questi elementi di critica del libro di P. Guindon *The Sexual Creators*.
+
+La Congregazione richiede inoltre che l'Autore confermi e dimostri pubblicamente il significato di tre importanti dichiarazioni fatte privatamente nella sua lettera al Superiore Generale (15 agosto 1990), e precisamente:
+
+1\. che scrivendo *The Sexual Creators* egli ha cercato di essere fedele al patrimonio della Tradizione cattolica in materia di morale sessuale;
+
+2\. che in nessun punto del libro egli intese negare la funzione autoritativa del Magistero nell'etica cattolica;
+
+3\. che egli non contraddice il costante insegnamento della Chiesa, recentemente ribadito in *Persona humana*, secondo cui l'uso della funzione sessuale ha il suo ambito legittimo solo in un vero matrimonio.
+
+La Congregazione chiede ancora che P. Guindon risolva in una dichiarazione pubblica la contraddizione, segnalata in questa *Nota*, tra le precedenti affermazioni fatte al suo Superiore Generale e il testo di *The Sexual Creators*, sviluppando il suo pensiero in una forma più coerente, e sciogliendo così incongruità presenti all'interno del libro (quali un uso selettivo e incostante della Tradizione e del Magistero), e riconoscendo alla dottrina del Magistero il posto e l'autorità che le compete.
+
+    
+
+  
+
+1\. Cost. Apost. *Pastor Bonus*, art. 48.
+
+2\. *Gaudium et spes*, n. 49.
+
+3\. *Gaudium et spes*, n. 48.
+
+4\. *Gaudium et spes*, n. 10.
+
+5\. N. 50.
+
+6\. Cf. Dichiarazione *Persona humana*, n. 7; *Familiaris consortio*, n. 80.
+
+7\. N. 5.
+
+    
+
+[![top](/img/top.jpg)](#top)

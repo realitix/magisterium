@@ -1,3 +1,55 @@
-[TABLE]
+[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
+[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
 
-[TABLE]
+CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
+
+**ORDINAZIONE EPISCOPALE A MONS. PAUL HINDER  
+DELL'ORDINE DEI FRATI MINORI CAPPUCCINI,  
+NOMINATO VESCOVO AUSILIARE DI ARABIA**
+
+***OMELIA DEL CARDINALE CRESCENZIO SEPE***
+
+*Chiesa cattedrale di Abu Dhabi  
+Venerdì, 30 gennaio 2004*
+
+ 
+
+*Eccellenze, Rev.do Ministro Generale,  
+Carissimi Sacerdoti, Religiosi e Religiose,  
+Autorità civili, Fratelli e Sorelle tutti,*
+
+Siamo venuti nella Chiesa Cattedrale di Abu Dhabi per partecipare ad un evento di straordinario significato ecclesiale, l'ordinazione episcopale di Mons. Paul Hinder, ofmcap., nominato dal Santo Padre Vescovo Ausiliare del Vicariato Apostolico di Arabia. In sintonia con la preghiera incessante che la Chiesa primitiva elevava per l'apostolo Pietro (cfr *At* 12, 5), ci siamo rivolti a Dio con la colletta della *Tradizione Apostolica* per il fratello Paul: "Padre, che conosci i segreti dei cuori, concedi al tuo servo, eletto all'episcopato, di pascere il tuo santo gregge e di compiere in modo irreprensibile la missione del sommo sacerdozio".
+
+Sono lieto di presiedere, stasera, questa Eucaristia e di trasmettere, con i Vescovi conconsacranti, la pienezza dell'Ordine sacro a p. Hinder, che ha servito con competenza e passione l'Ordine dei Frati Minori Cappuccini nell'ufficio di Definitore Generale. Porto al Vescovo eletto e a tutti voi il cordiale saluto del Santo Padre. Egli vi ha nel cuore e intende raggiungervi tutti con la sua preghiera: cattolici, cristiani, e credenti di altre Fedi. Sono venuto pellegrino a riconoscere l'opera compiuta dal Signore in mezzo a voi. Ringrazio la Famiglia Cappuccina che dal lontano 1889 ha la responsabilità giuridica e pastorale della Chiesa cattolica in Arabia. Ma sono grato anche alle altre Famiglie religiose, maschili e femminili, impegnate a vario titolo per il bene dei fedeli. Esprimo, infine, anche a nome vostro, una speciale parola di gratitudine a Mons. Bernardo Gremoli, da oltre 28 anni Pastore infaticabile di questa Comunità cattolica di Arabia. La Chiesa universale gli è oltremodo obbligata per lo zelo che ha contraddistinto la sua azione pastorale.
+
+Saluto, poi, S.E. Mons. Giuseppe De Andrea, Rappresentante del Santo Padre negli Emirati Arabi Uniti, in Arabia Saudita, nel Bahrein, Oman, Qatar, Kuwait, e Yemen. So quanto venga apprezzata l'opera di comunione ecclesiale e di incoraggiamento che egli continua ad assicurare ai sacerdoti, ai religiosi, alle religiose e ai fedeli tutti.
+
+Do un affettuoso benvenuto, infine, ai 3 fratelli dell'ordinando Vescovo, uno dei quali monaco Benedettino laico. In loro, e in altri familiari di Mons. Paul, qui venuti dalla Svizzera, vorrei rendere onore anche ai genitori scomparsi. La Chiesa di Arabia resterà loro sempre grata per il dono tanto prezioso di un nuovo Pastore.
+
+Siete venuti in tanti ad assistere all'ordinazione di un Vescovo. Ma perché? Chi è il Vescovo? È forse un potente della terra, od un alto funzionario statale? Cosa succede di speciale in questa celebrazione? È forse l'investitura ufficiale di un uomo, scelto a ricoprire una mansione importante? No. La Parola di Dio appena ascoltata dice che stiamo per entrare nel Mistero. L'Eterno entra nel tempo, a consacrare un uomo, pur velandosi nell'apparenza dei segni. Il nuovo Vescovo riceverà una straordinaria effusione di Spirito Santo, e diventerà strumento eletto dell'economia di Dio e della sua opera salvifica.
+
+Avverrà per Mons. Hinder quanto si compì per gli Apostoli. Gesù stabilirà con lui una profonda comunione, che lo porterà a vivere una vera e propria identificazione spirituale.
+
+Oggi Gesù sceglie lui, come tanti secoli fa scelse gli *Apostoli*, dopo una notte di intensa preghiera. Lo chiamerà per nome - *Paul* - perché ne continui la missione, e renda presente ovunque la figura del *Buon Pastore*, che "offre la vita per le pecore (...). Ed ho altre pecore che non sono di quest'ovile; anche queste io devo condurre; ascolteranno la mia voce e diventeranno un solo gregge e un solo pastore" (*Gv* 10, 11.16). La dolce e rassicurante immagine del Buon Pastore, ripresa dal Vangelo di Giovanni, è l'icona cui il nuovo Vescovo si impegnerà a ispirare la vita, in uno sforzo mai concluso di adesione al modello ineguagliabile di Gesù Cristo. Si spenderà generosamente per questa Comunità, senza mai dimenticare che dovrà sentire su di sé la sollecitudine per tutte le Chiese sparse sulla Terra. Caro Mons. Paul, Ti è richiesto un impegno gravoso, ma, come abbiamo letto nella prima lettura, "Non dire: sono giovane, ma va' da coloro a cui ti manderò e annunzia ciò che io ti ordinerò. Non temerli perché io sono con te per proteggerti" (*Ger* 1, 7.8).
+
+*I Dodici*, dopo aver ricevuto il loro mandato dal Signore Gesù, lo passarono ai loro successori mediante l'imposizione delle mani. Sorse, così, la successione apostolica. Allo stesso modo, 45 anni fa un successore degli Apostoli impose le mani al giovane Vescovo Karol Wojtyla che, divenuto Papa, impose le mani anche a me, 12 anni fa. Ed oggi io ho la gioia di ripetere quel gesto e di invocare lo Spirito su Mons. Paul Hinder.
+
+Il nuovo Vescovo diverrà un successore degli Apostoli e, come si legge nel Concilio, renderà presente tra i credenti lo stesso Signore Gesù (cfr *LG* 21). Il Vescovo, infatti, assicura la costante presenza del Figlio di Dio tra gli uomini, rendendo concreta la promessa fatta dal Maestro di Nazareth agli Apostoli, prima di salire al Cielo: "Ecco, io sono con voi tutti i giorni, fino alla fine del mondo" (Mt 28, 20).
+
+Caro Mons. Paul, fra poco sarai consacrato Vescovo della Chiesa cattolica. Riceverai un'effusione speciale dallo Spirito Santo, e diventerai membro del Collegio dei Vescovi. Avrai il dovere di predicare il Vangelo a tutte le creature, un compito affidato agli Apostoli dallo stesso Signore Gesù. Di tale responsabilità ha manifestato consapevolezza l'apostolo Paolo con le parole: "Non è per me un vanto predicare il Vangelo; è per me un dovere: guai a me se non predicassi il Vangelo" (1 *Cor* 9, 16).
+
+Il dovere di annunciare il Vangelo appartiene a titolo speciale ai Vescovi. Essi, nel giorno della sacra Ordinazione, assumono come impegno precipuo quello di predicare il Vangelo. Dovrai, dunque, insegnare, santificare i fedeli, e guidarli ai pascoli eterni del Cielo. Mantieni vivo in Te quanto dice l'apostolo Pietro nella sua prima Lettera: "Pascete il gregge di Dio che vi è affidato, sorvegliandolo non per forza ma volentieri secondo Dio; non per vile interesse, ma di buon animo; non spadroneggiando sulle persone a voi affidate, ma facendovi modelli del gregge" (*Pt* 5, 2.3).
+
+Il Santo Padre Ti ha chiesto di operare in comunione con l'Ecc.mo Mons. Gremoli, e sotto la sua responsabilità. So che, con la Grazia di Dio, rimarrai fedele al mandato che hai ricevuto. La Chiesa che Ti verrà affidata è impegnata su tanti e diversi fronti pastorali: da quello più propriamente sacramentale e catechistico a quello educativo, visibile nel servizio premuroso della formazione scolastica. Ma il Vicariato Apostolico di Arabia gestisce anche opere sociali, mediante la presenza di diverse opere, a vantaggio di anziani, di handicappati e di orfani. Non Ti mancherà il lavoro pastorale. Tuttavia, nei momenti di difficoltà risuonino nel tuo cuore i sentimenti di sant'Agostino che amava dire: "Per voi sono Vescovo, con voi sono cristiano". Il ministero pastorale, ricevuto nella consacrazione, che Ti pone, come Vescovo, "di fronte" agli altri fedeli, si esprime in un "essere per" gli altri fedeli. Ma tale responsabilità non Ti impedisce di "essere con loro".
+
+Ti chiedo, inoltre, di vivere e di promuovere nella Tua Chiesa quella spiritualità di comunione che ha la propria origine nel cuore stesso della SS. Trinità. Impegnati a promuoverla all'interno del Presbiterio, tra i consacrati, le consacrate, e i fedeli-laici. Suscita l'incontro personale, e comunitario, convinto che lo Spirito non cessa mai di parlare alla sua Chiesa (cfr Ap 2, 7). Serviranno, a tale scopo, i ritiri, gli esercizi spirituali e le giornate di spiritualità. La medesima spiritualità di comunione Ti impegni anche ad alimentare la comunione con il Santo Padre e con gli altri fratelli Vescovi.
+
+Chiedo a tutti Voi, sacerdoti, religiosi, religiose, e fedeli-laici, di aiutare, soprattutto con la preghiera, il nuovo Vescovo a vivere in pienezza il suo servizio pastorale. Nell'Esortazione Apostolica post-sinodale *[Pastores Gregis](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis_en.html)* sul Vescovo, servitore del Vangelo di Gesù Cristo per la speranza del mondo, il Papa afferma che tra il Pastore ed i suoi fedeli deve crearsi una sorta di "circolarità". Lo spirito di comunione vivrà della testimonianza di carità dei fedeli e di quella del Vescovo nei suoi atti di magistero; della vita santa dei fedeli e dei mezzi di santificazione che il Vescovo offre ad essi; della responsabilità personale del Vescovo circa il bene della Chiesa a lui affidata e della corresponsabilità di tutti i fedeli rispetto al bene della stessa Comunità ecclesiale (cfr *[Pastores Gregis](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis_en.html)* 10).
+
+Come non ricordarvi, stasera, cari fedeli, che la varietà dei vostri volti testimonia la multiforme ricchezza delle vostre origini, ma che l'armonia delle vostre voci e dei vostri canti esprime anche la coralità di fede dell'unico popolo di Dio: "Lodate il Signore, popoli tutti, voi tutte, nazioni, dategli gloria" (*Sal* 117, 1). In voi si realizza il mistero della Chiesa: "Come in un corpo abbiamo molte membra, e queste non hanno tutte la medesima funzione, così anche noi, pur essendo molti, siamo un corpo solo in Cristo" (*Rm* 12, 4-5). L'unità, dunque, sia il vostro bene fondamentale. Vivete con gioia ed entusiasmo la fede che avete ricevuto in dono da Dio.
+
+"Come il Padre ha mandato me, così anch'io mando voi" (*Gv* 20, 21). Caro Fratello Paul, nuovi orizzonti si schiudono per Te, nuove strade si aprono, oggi, davanti alla Tua esistenza. Prendi in mano il bastone del buon Pastore e cammina con lungimiranza e coraggio davanti al Tuo popolo.
+
+La Tua vita appartiene, ormai, a questa gente. Guidala alle sorgenti della Grazia, dissetala con la freschezza della Parola di salvezza, nutrila con il pane dell'Eucaristia, mantieni viva in essa la nostalgia del Padre dei Cieli. E san Francesco di Assisi, modello della Tua vita religiosa, Ti aiuti a portare ad ogni persona il dono prezioso della Pace. Ti accompagni la materna protezione di Maria Santissima, la Madre del Redentore, e la Stella della nuova evangelizzazione.
+
+[![top](/img/top.jpg)](#top)

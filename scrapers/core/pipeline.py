@@ -64,12 +64,42 @@ def _target_meta(ref: DocRef) -> Path:
     return ref.target_dir / f"{ref.slug}.meta.yaml"
 
 
+def _detect_charset(html: bytes) -> str:
+    """Detect charset from <meta> declaration; fall back to utf-8.
+
+    Legacy Catholic sites (maranatha.it, many 1990s vatican.va pages) are
+    served as windows-1252 / iso-8859-1 without a response Content-Type
+    header; the only hint is the <meta http-equiv="Content-Type" ...>
+    inside the document. Decoding as utf-8 would mangle every accented
+    character to U+FFFD.
+    """
+    import re as _re
+    head = html[:4096]
+    m = _re.search(
+        rb'(?i)charset\s*=\s*["\']?([a-zA-Z0-9_\-]+)',
+        head,
+    )
+    if not m:
+        return "utf-8"
+    enc = m.group(1).decode("ascii", errors="replace").lower()
+    # Normalise a few common aliases.
+    if enc in {"iso-8859-1", "latin-1", "latin1"}:
+        return "iso-8859-1"
+    if enc in {"windows-1252", "cp1252"}:
+        return "windows-1252"
+    return enc
+
+
 def _extract_body(
     html: bytes,
     selector: str | None,
     unwrap_tags: list[str] | None = None,
 ) -> str:
-    text = html.decode("utf-8", errors="replace")
+    enc = _detect_charset(html)
+    try:
+        text = html.decode(enc, errors="replace")
+    except LookupError:
+        text = html.decode("utf-8", errors="replace")
     tree = HTMLParser(text)
     # Strip script/style/nav chrome in all cases
     for bad in tree.css("script, style, noscript, nav, header, footer, aside"):
@@ -86,14 +116,34 @@ def _extract_body(
     if root is None:
         root = tree.css_first("body") or tree.root
 
+    # Auto-detect layout tables: on vatican.va (and other legacy sites) the
+    # body text is often wrapped in a <table><tr><td>...</td></tr></table>
+    # purely for visual centering. Pandoc collapses these to "[TABLE]",
+    # losing the entire document. Heuristic: any <table> that contains
+    # paragraph tags (<p>) is a layout table, not a data table — real data
+    # tables are built from <td>/<th> cells with inline text, not <p>.
+    # Add the structural tags to unwrap_tags so they're stripped below,
+    # keeping the inner <p> content.
+    effective_unwrap = list(unwrap_tags) if unwrap_tags else []
+    if "table" not in (t.lower() for t in effective_unwrap):
+        layout_table_found = False
+        for tbl in root.css("table"):
+            if tbl.css_first("p") is not None:
+                layout_table_found = True
+                break
+        if layout_table_found:
+            for tag in ("table", "tbody", "thead", "tfoot", "tr", "td", "th"):
+                if tag not in (t.lower() for t in effective_unwrap):
+                    effective_unwrap.append(tag)
+
     # Unwrap requested tags (drop the tag itself, keep its children inline).
     # Useful for layout tables and <font>/<span> cruft on legacy vatican.va
     # pages. Selectolax has no native unwrap; we do it via string replacement
     # on the serialized HTML, which is safe because we only touch tags by name.
     html_out = root.html or ""
-    if unwrap_tags:
+    if effective_unwrap:
         import re
-        for tag in unwrap_tags:
+        for tag in effective_unwrap:
             # Remove opening <tag ...> and closing </tag>
             html_out = re.sub(
                 rf"<{tag}(\s[^>]*)?>",

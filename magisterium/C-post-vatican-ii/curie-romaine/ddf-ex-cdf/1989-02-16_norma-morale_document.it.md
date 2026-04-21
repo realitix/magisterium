@@ -1,3 +1,71 @@
-[TABLE]
+[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
+[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg)
 
-[TABLE]
+**La norma morale di «Humanae vitae»  
+e il compito pastorale**\*
+
+ 
+
+Non sono mancate, in queste ultime settimane, osservazioni critiche, talvolta pesanti, circa la morale coniugale come viene insegnata dal Magistero della Chiesa e in particolare dall’enciclica *[Humanae vitae](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae_it.html)* di Paolo VI.
+
+Si sono sollevati dubbi circa interpretazioni su questo insegnamento giudicate eccessivamente rigide e intransigenti e si sono espressi gravi timori che la Chiesa, continuando a insegnare e a urgere la norma morale della *Humanae vitae* secondo simili interpretazioni, possa perdere credito e ascolto presso l’uomo critico di oggi e presso un grande numero di credenti.
+
+I mass-media, dal canto loro, non sono rimasti assenti. Hanno rilanciato, spesso con indebite semplificazioni e con interpretazioni errate, i dubbi e i timori di alcuni teologi, alimentando non poca confusione tra i fedeli.
+
+In genere, è a partire dalle coppie di sposi che si trovano in difficoltà nell’osservare la norma morale circa la procreazione responsabile – dunque secondo una sensibilità e una sollecitudine che vorrebbe essere pastorale – che si sollevano quei dubbi e si esprimono quei timori. Non manca però il riferimento a questioni più specificamente dottrinali, come, ad esempio, l’interpretazione data di alcuni elementi tradizionali, l’asserita impossibilità di fondare biblicamente alcune norme morali particolari (come la norma che proibisce la contraccezione), il ricorso ad una impostazione più decisamente teleologica della problematica morale (calcolo delle conseguenze), la rivendicazione dei diritti della coscienza personale di fronte all’insegnamento del Magistero. Le obiezioni vengono formulate, non poche volte, senza quella rigorosità scientifica che è il distintivo d’una seria riflessione teologica. Talvolta si ricorre persino ad attacchi personali astiosi e sconcertanti.
+
+1\. Certamente ogni coppia di sposi in difficoltà merita grande rispetto e amore, soprattutto quando sono le diverse circostanze della vita – non solo personali, ma anche economiche e sociali – che rendono arduo il compimento del dovere morale.
+
+Dal canto suo, la Chiesa, come maestra e madre, è chiamata a ispirarsi allo stesso atteggiamento del suo Signore, dal quale essa riceve in dono la carità pastorale: è un atteggiamento pieno di amore, di comprensione, di pazienza e di misericordia, così come, nello stesso tempo, è un atteggiamento chiaro e fomite nell’annunciare e nel proporre la verità e la norma morale, la cui osservanza è necessaria condizione per una vita veramente e pienamente umana e per un cammino di santità, alla quale tutti siamo chiamati.
+
+Come testimoniano i Vangeli, verità e misericordia si compenetrano e formano l’unico e indiviso atteggiamento del Signore Gesù. Di una trasparenza particolarmente significativa e paradigmatica del suo atteggiamento pastorale è la parola che Gesù rivolge alla donna peccatrice: «Nessuno ti ha condannata?... Neanch’io ti condanno; va’ e d’ora in poi non peccare più» (Gv 8,10-11). Chiamando per nome il bene e il male, Gesù non falsifica la verità morale, anzi l’attesta in modo inequivocabile; e offrendo il suo amore misericordioso alla donna peccatrice e pentita, egli la riporta alla verità e alla salvezza.
+
+Così l’amore e la sollecitudine pastorale verso le coppie di sposi in difficoltà, se si vuole veramente portare loro un aiuto reale, non possono mai essere separati dalla verità, non possono mai eliminare o attenuare il dovere di chiamare per nome il bene e il male. Come felicemente si è espresso Paolo VI nella sua enciclica: «Non sminuire in nulla la salutare dottrina di Cristo è eminente forma di carità verso le anime» (*HV* 29).
+
+Il dovere di chiamare per nome il bene e il male nell’ambito della procreazione responsabile è stato compiuto, con fedelissimo amore a Cristo e alle anime, da Paolo VI, in particolare con la sua enciclica *[Humanae vitae](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae_it.html)*. Lo stesso dovere, in piena coerenza con il concilio Vaticano II e con l’enciclica ora ricordata, ha compiuto e continua a compiere il Santo Padre Giovanni Paolo II.
+
+2\. Rientra in questo preciso dovere l’affermazione che la norma morale dell’*Humanae vitae* circa la contraccezione, in quanto proibisce un atto intrinsecamente disordinato, *non ammette eccezioni*: Una simile affermazione non è affatto un’interpretazione rigida e intransigente della norma morale. È, semplicemente, il chiaro ed esplicito insegnamento di Paolo VI, più volte ripreso e riproposto dall’attuale Sommo Pontefice.
+
+«In verità – leggiamo nell’enciclica *[Humanae vitae](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae_it.html)* – se è lecito, talvolta, tollerare un minor male a fine di evitare un male maggiore o di promuovere un bene più grande; *non è lecito, neppur per ragioni gravissime, fare il male*, affinché ne venga il bene, cioè far oggetto di un atto positivo di volontà ciò che è *intrinsecamente disordine* dal punto di vista morale e quindi indegno della persona umana, *anche se nell’intento di salvaguardare o promuovere beni individuali, familiari e sociali*» (n. 14).
+
+Questa non è affatto un’opinione teologica passibile di libera discussione; ma, come disse con estrema chiarezza Giovanni Paolo II il [5 giugno 1987](/holy_father/john_paul_ii/speeches/1987/june/documents/hf_jp-ii_spe_19870605_procreazione-responsabile_it.html), «quanto è insegnato dalla Chiesa sulla contraccezione non appartiene a materia liberamente disputata tra teologi. Insegnare il contrario equivale a indurre nell’errore la coscienza morale degli sposi».
+
+3\. La tradizione morale cristiana ha sempre distinto fra norme «positive» (che comandano di fare) e norme «negative» (che proibiscono di fare). Inoltre, essa ha costantemente e chiaramente affermato che, tra quelle negative, le norme che proibiscono *atti intrinsecamente disordinati* non ammettono eccezioni: tali atti, infatti, sono «disordinati» sotto il profilo morale per la loro stessa intima struttura, quindi in se stessi e per se stessi, ossia *contraddicono la persona nella sua specifica dignità di persona*. Proprio per questa precisa ragione, tali atti non possono essere resi «ordinati» sotto il profilo morale da nessuna intenzione e da nessuna circostanza soggettive, che non valgono a mutare la loro struttura.
+
+Tra questi atti si pone anche la contraccezione: in se stessa e per se stessa è sempre un disordine morale, perché oggettivamente e in modo intrinseco (indipendentemente dalle intenzioni, motivazioni e situazioni soggettive) essa contraddice «il linguaggio nativo che esprime la reciproca donazione totale degli sposi» (Esortazione apostolica *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_it.html)*, n. 32).
+
+La stessa tradizione morale cristiana, ora ricordata, ha pure sempre affermato la *distinzione* – non la separazione né tanto meno la contrapposizione – tra il *disordine oggettivo* e la *colpa soggettiva*. Per questo, quando si tratta di giudicare il comportamento morale soggettivo, nell’imprescindibile riferimento alla norma che proibisce il disordine intrinseco della contraccezione, è del tutto legittimo prendere nella dovuta considerazione i diversi fattori e aspetti dell’agire concreto della persona, non solo le sue intenzioni e motivazioni, ma anche le varie circostanze della sua vita, in primo luogo tutte le cause che possono intaccare la sua conoscenza e la sua volontà libera. E questa situazione soggettiva, *mentre non può mai mutare in «ordine»* ciò che è intrinseco «disordine», può *incidere in vario grado sulla responsabilità* della persona che agisce. Com’è noto, è questo un principio generale, che si applica a ogni disordine morale, anche intrinseco: si applica, quindi, anche alla contraccezione.
+
+In questa linea si è giustamente sviluppato, non solo nella teologia morale e pastorale ma anche nell’ambito degli stessi interventi del Magistero, il discorso sulla «legge della gradualità». Tale legge però non può minimamente essere confusa con l’inaccettabile «gradualità della legge», come ha precisato in modo esplicito la citata esortazione *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_it.html)* (cf. n. 34).
+
+Nella valutazione della responsabilità personale non ci si può non riferire alla *coscienza del soggetto*. In conformità con la sua stessa natura e finalità, la coscienza deve essere «pura» (2Tm 1,3), chiamata com’è a «manifestare chiaramente la verità» (2Cor 4,2). La coscienza morale del cristiano poi, ossia di un membro della Chiesa, possiede un’intima configurazione ecclesiale che la apre all’ascolto dell’insegnamento del Magistero della Chiesa. Rivolgendosi ai coniugi, il Concilio Vaticano II scrive: «Nella loro linea di condotta i coniugi cristiani siano consapevoli che non possono procedere a loro arbitrio, ma devono sempre essere retti da una coscienza che sia conforme alla legge divina stessa, docili al Magistero della Chiesa, che in modo autentico quella legge interpreta alla luce del Vangelo» (*GS* 50).
+
+A tutti, ma in particolare ai sacerdoti pastori d’anime, è affidato il compito di aiutare e di accompagnare con amore paziente e coraggioso le coppie di sposi a formarsi una coscienza che giudichi secondo verità e a coltivare una vita spirituale sempre più intensa, necessaria per comprendere e per vivere le esigenze della legge di Dio entro un contesto sociale e culturale spesso poco o nulla favorevole. I teologi moralisti poi, se non vogliono contraddire la stessa «deontologia» professionale di chi studia e insegna la dottrina morale della Chiesa, non devono creare degli ostacoli alla coscienza dei coniugi nel cammino verso la verità del loro amore. Questo accade soprattutto quando si alimentano dubbi e si creano confusioni con pubbliche contestazioni di insegnamenti magisteriali costantemente ribaditi.
+
+4\. Nel dibattito in corso, i dubbi e i timori sollevati rimandano, in ultima analisi, ad una questione centrale: quella del *Magistero della Chiesa*.
+
+Ci si mostra grandemente preoccupati per la sua «credibilità» presso i fedeli. Ma perché non riconoscere apertamente che una delle cause – e non l’ultima – che minacciano e rovinano una simile «credibilità» è proprio la contestazione concertata e sistematica che alcuni teologi hanno ripetutamente mosso all’enciclica *[Humanae vitae](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae_it.html)* e, in seguito, all’esortazione *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_it.html)*?
+
+Gravi confusioni ed equivoci si provocano nei fedeli quando, anche da parte di alcuni teologi stessi, si parla dei pronunciamenti del Magistero tacendo o deformando la sua natura specifica e la sua funzione originale. Come ogni fedele dovrebbe sapere, il Magistero della Chiesa non può essere interpretato correttamente con il ricorso agli stessi criteri che vengono usati per le scienze umane e con il ricorso al mero criterio socioculturale della maggiore o minore adesione ad esso. Al contrario, in quanto dono dello Spirito di Gesù Cristo alla sua Chiesa per il servizio autentico, ossia in forza dell’autorità di Cristo, alla fede «da credere e da applicare nella pratica della vita» (*LG* 25), il Magistero può trovare adeguata comprensione e piena accoglienza solo nella fede.
+
+Meritano di essere qui ricordate le parole che Paolo VI ha rivolto ai sacerdoti: «Il vostro primo compito – specialmente per quelli che insegnano la teologia morale – è di esporre senza ambiguità l’insegnamento della Chiesa sul matrimonio. Siate i primi a dare, nell’esercizio del vostro ministero, l’esempio di un leale ossequio, interno ed esterno, al Magistero della Chiesa. Tale ossequio, beh lo sapete, obbliga non solo per le ragioni addotte, quanto piuttosto a motivo del lume dello Spirito santo, del quale sono particolarmente dotati i pastori della Chiesa per illustrare le verità (cf. *LG* 25)» (*HV* 28). E ancora: «Parlate poi con fiducia, diletti figli, ben convinti che lo Spirito di Dio, mentre assiste il Magistero nel proporre la dottrina, illumina interiormente i cuori dei fedeli, invitandoli a dare il loro assenso» (*ibid.*, n. 29).
+
+Non manca chi accusa il Magistero della Chiesa di un’indebita insistenza sui problemi morali della vita coniugale, e in particolare su quelli riguardanti l’amore e la vita. Sarebbe, questa, un’accentuazione errata e pericolosa, che si sofferma unilateralmente su elementi periferici rispetto alla verità globale e che non tiene conto della gerarchia delle verità.
+
+Una simile insistenza può infastidire quanti, non condividendo l’insegnamento della Chiesa, preferirebbero il silenzio oppure un «discorso moderno». Ma è un’insistenza che trova piena giustificazione se si considera che, a livello teologico, la sessualità è radicata nell’essere l’uomo creato «ad immagine di Dio» («Dio creò l’uomo a sua immagine, a immagine di Dio lo creò; maschio e femmina li creò»: Gn 1,27) e che, a livello antropologico, essa assume una rilevanza tutta particolare, anche esistenzialmente, nella fondamentale vocazione della persona all’amore.
+
+Con questo insegnamento sulla morale coniugale il Magistero della Chiesa vive e testimonia una particolare venerazione per Dio e per il suo disegno e, proprio per questo, per la dignità della persona umana.
+
+ 
+
+\* \* \*
+
+ 
+
+\* *L’Osservatore Romano*, 16 febbraio 1989, p. 1.
+
+Il testo fu allora preceduto dalla seguente nota editoriale: «In merito a un recente pubblico intervento sull’insegnamento del magistero circa *Humanae vitae* da parte di un noto teologo moralista, che ha avuto larga eco sulla stampa, pubblichiamo le seguenti precisazioni».
+
+ 
+
+[![top](/img/top.jpg)](#top)

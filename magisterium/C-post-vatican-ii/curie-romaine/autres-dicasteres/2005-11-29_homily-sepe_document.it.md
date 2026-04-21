@@ -1,3 +1,47 @@
-[TABLE]
+[![The Holy See](http://www.vatican.va/img/pkeys.jpg)](http://www.vatican.va/index.htm) ![](http://www.vatican.va/img/vuoto.gif)  
+[![back](http://www.vatican.va/img/back.jpg)](javascript:history.go(-1)) [![up](http://www.vatican.va/img/up.jpg)](javascript:up()) ![Search](http://www.vatican.va/img/psearch_fill.jpg) ![riga](http://www.vatican.va/img/riga_int.jpg) ![](http://www.vatican.va/img/vuoto.gif)
 
-[TABLE]
+CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
+
+**ORDINAZIONE SACERDOTALE DI 57 DIACONI**
+
+***OMELIA DEL CARDINALE CRESCENZIO SEPE***
+
+*Cattedrale di Hanoi (Viêt Nam)  
+Mercoledì, 29 novembre 2005*
+
+ 
+
+Miei cari fratelli e sorelle in Gesù Cristo, siamo qui riuniti in questa Cattedrale per celebrare il Sacrificio Eucaristico di Nostro Signore, centro e culmine della vita di tutta la Chiesa. Vi saluto cordialmente con le parole che il sacerdote celebrante rivolge alla comunità dei fedeli:  "Il Signore sia con voi".
+
+1\. Siamo al terzo giorno della prima settimana di Avvento, tempo durante il quale la liturgia ci invita a vivere la grande speranza nell'attesa della venuta del Messia. Sappiamo bene che il Messia, il Figlio unigenito di Dio, Nostro Signore Gesù Cristo, è già venuto, si è fatto uomo, nato dalla Vergine Maria, ha sofferto sotto Ponzio Pilato, è stato crocifisso, sepolto, risuscitato ed è asceso in cielo. Egli continua a venire nel nostro cuore, a essere realmente presente in ogni celebrazione liturgica ed eucaristica; verrà alla fine del mondo nella sua gloriosa manifestazione per giudicare i vivi e i morti.
+
+Il Signore Gesù, la notte in cui fu tradito, ha istituito il sacrificio eucaristico del suo Corpo e del suo Sangue affinché fosse perpetuato nel corso dei secoli il sacrificio della Croce fino alla sua venuta. Rendo grazie al Signore per la lieta occasione che mi è stata data di celebrare con voi questa Eucaristia nel corso della quale ordinerò al sacerdozio di Nostro Signore Gesù Cristo 57 diaconi originari di diverse Diocesi della Provincia Ecclesiastica di Hà Nôi. Saranno loro a rinnovare e perpetuare il sacrificio del Calvario. La vita dei futuri ordinati è una grande promessa per la vita e la crescita della Chiesa, e conferisce un dinamismo nuovo all'evangelizzazione. Con la Chiesa in Viêt Nam e tutta la Chiesa nel mondo, rendo lode al Signore della messe che non cessa d'inviare nuovi operai per i suoi raccolti.
+
+2\. In questo giorno di gioia e di festa, permettetemi di rivolgermi direttamente a coloro che ordinerò. Cari fratelli, avete ricevuto dal Signore la chiamata a essere sacerdoti, e il privilegio di continuare con Lui la sua missione salvifica su questa terra. L'ordinazione sacerdotale vi conferisce l'autorità e il dovere di proclamare il Vangelo di Gesù e di predicare a nome della Chiesa. Come sacerdoti presiederete la celebrazione dell'Eucaristia, rinnoverete il sacrificio di Cristo, pronunciando le parole di Cristo: "Questo è il mio Corpo offerto in sacrificio per voi"; "Questo è il calice del mio Sangue, per la nuova ed eterna Alleanza, versato per voi e per tutti in remissione dei peccati". In nome di Cristo e attraverso il Sacramento della Riconciliazione, perdonerete i peccati. Nel vostro ministero e nei numerosi servizi che la Chiesa affiderà alle vostre cure pastorali, cercherete di essere sempre considerati come colui che serve.
+
+Siete chiamati a imitare il Signore e Maestro, a seguire l'esempio del Figlio dell'uomo *"che non è venuto per essere servito, ma per servire e dare la sua vita in riscatto per molti"* (*Mt* 20, 28).
+
+Uno degli aspetti più salienti della vita terrena di Gesù è stata la priorità che ha dato alla preghiera. San Luca ci ricorda che *"folle numerose"* venivano per ascoltarlo e per farsi guarire dalla loro infermità, ma Egli *"si ritirava in luoghi solitari a pregare"* (*Lc* 5, 15-16). Nonostante la grande compassione che provava per le folle alle quali proclamava la vicinanza del Regno di Dio, Gesù ricercava, regolarmente e frequentemente, *"luoghi solitari per pregare"* il suo Padre Eterno. A volte trascorreva l'intera notte in preghiera.
+
+Fratelli miei, non dobbiamo mai dimenticare questa lezione di vita che il Maestro ci ha lasciato con le parole e con l'esempio. Pregare è un elemento vitale per il cristiano ed è anche un immenso servizio che il sacerdote rende al suo popolo. Mediante la preghiera preserviamo e approfondiamo il nostro amore personale per Cristo, percepiamo e accettiamo la volontà di Dio per noi. Il tempo passato in preghiera non è un tempo tolto ai fedeli. Questo tempo alla presenza di Dio è fonte di ogni bene. Se non restiamo uniti a tale fonte, la nostra vita sacerdotale è destinata a morire. È questa fonte, che è Cristo, a comunicarci il dinamismo della nostra vita sacerdotale e la gioia di servire i nostri fratelli.
+
+3\. Prima di ascendere al cielo per ritornare da suo Padre, Gesù ha affidato ai suoi discepoli questa missione: *"Andate dunque e ammaestrate tutte le nazioni, battezzandole nel nome del padre e del Figlio e dello Spirito Santo, insegnando loro ad osservare tutto ciò che vi ho comandato"* (*Mt* 28, 19-20). Ancora oggi, questa missione è urgente se noi guardiamo al Viêt Nam, questo caro e amato Paese. Su una popolazione totale di 80 milioni di abitanti, i cattolici rappresentano una piccola minoranza di 6 milioni. Noi abbiamo il dovere di portare loro la Buona Novella di Gesù.
+
+Predicare il Vangelo non significa fare del proselitismo, nel senso peggiorativo che si attribuisce spesso all'evangelizzazione, ma è la condivisione della felicità e della verità che noi cristiani portiamo ai fratelli non cristiani. È la natura stessa della Chiesa cattolica ed è anche il dovere missionario a cui ogni sacerdote e ogni fedele deve adempiere. San Paolo ha detto: *"Non è infatti per me un vanto predicare il Vangelo; è per me un dovere: guai a me se non predicassi il Vangelo!"* (*1 Cor* 9, 16).
+
+Fratelli miei, sarete ordinati *sacerdoti per la Chiesa di Dio*. Il vostro sguardo, il vostro cuore, la vostra sollecitudine pastorale e missionaria devono estendersi alle dimensioni della Chiesa universale, ai quattro angoli della terra. Allo stesso tempo, in uno spirito di comunione e di dialogo, siete chiamati ad aprire il vostro cuore per accettare con gratitudine ogni collaborazione missionaria proveniente dalle altre Chiese particolari, del Sud, del Centro, del Nord, al di là delle vostre frontiere. Ricordatevi che la Chiesa in Viêt Nam è nata grazie alla predicazione di missionari stranieri. Grazie a Dio, oggi alcuni sacerdoti vietnamiti portano il Vangelo anche agli altri popoli e culture.
+
+Oggi non è solo a me, ma anche al vostro Vescovo, che promettete ubbidienza e rispetto. Mediante questa promessa creerete un vincolo speciale di fiducia con il vostro Vescovo e con i suoi successori. Voi avete dichiarato che volete cooperare con lui e mettere in atto le sue direttive e i suoi ordini per il bene della Chiesa locale, in uno spirito di amore e di rispetto. In tal senso imitate Gesù Cristo che non è venuto per fare la sua volontà, ma la volontà di Colui che l'ha mandato (cfr *Gv* 6, 38). Ricordatevi che dobbiamo la nostra salvezza all'opera salvifica del Figlio di Dio, che ha spogliato se stesso, assumendo la condizione di servo e facendosi obbediente sino alla morte (cfr *Fil* 2, 7-9).
+
+4\. In questo giorno di grande gioia, saluto in particolare i genitori e le famiglie dei nuovi sacerdoti. Vi ringrazio per aver offerto i vostri figli al servizio della Chiesa, condivido la vostra gioia, la vostra felicità e l'onore che vi viene dato di avere un figlio sacerdote nella vostra famiglia. Le vostre preghiere, i vostri buoni esempi, e i vostri sacrifici hanno prodotto buoni frutti per la Chiesa. Tuttavia la vostra preghiera, la vostra generosità, non devono fermarsi qui. Vi chiedo di continuare a pregare e a offrire ancora sacrifici per i nuovi sacerdoti, affinché divengano ogni giorno di più sacerdoti santi, ad immagine di Cristo, alter Christus, Ipse Christus, veri "Buoni Pastori" che offrono la vita per il loro gregge.
+
+Esorto tutta la comunità diocesana e tutte le famiglie cristiane a incoraggiare le vocazioni alla vita sacerdotale e religiosa. So che le famiglie cattoliche vietnamite sono molto religiose e fedeli alla preghiera in famiglia. Creando un clima di fede e di preghiera che favorisce la nascita e la crescita della vocazione alla vita religiosa o sacerdotale, svolgete un ruolo importantissimo. Continuate questa ammirevole tradizione, affinché la Chiesa in Viêt Nam, soprattutto in questa Provincia Ecclesiastica di Hàn Hôi, doni in abbondanza sacerdoti generosi e santi, al servizio della Chiesa e del popolo di Dio.
+
+Vi invito a santificare la famiglia, questa "Chiesa domestica" nella quale ognuno vive il suo dovere di cristiano, di padre, di madre, di figlio; nella quale l'amore, la condivisione delle gioie e dei dolori, il reciproco aiuto materiale, morale e spirituale hanno come obiettivo comune la santificazione della famiglia. Vi incoraggio a difendere la famiglia vietnamita da tutte le influenze negative della società egoista e consumista, a conservare gelosamente la bella tradizione della famiglia vietnamita nella quale pietà familiare e rispetto delle persone anziane sono ancora molto profondi. Sappiamo che da buone famiglie nascono buoni cittadini della società umana.
+
+Vi affido tutti a Nostra Signora di La Vang. Che Ella sia sempre presente e vi protegga nell'amore di suo Figlio, nostro Sommo Sacerdote Gesù Cristo! Vi benedico tutti in nome del nostro Papa Benedetto XVI. Amen!
+
+ 
+
+[![top](http://www.vatican.va/img/top.jpg)](#top)

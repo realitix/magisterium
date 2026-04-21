@@ -1,0 +1,28 @@
+incipit: PARS SECUNDA. CAPUT I. De sacramentis in genere
+titre_fr: Catéchisme romain / Catéchisme du concile de Trente — Pars Secunda — De
+  sacramentis
+auteur: Pie V
+periode: pre-vatican-ii
+type: catechisme
+date: '1566-09-24'
+autorite_magisterielle: magistere-ordinaire-universel
+langues_disponibles:
+- la
+langue_originale: la
+denzinger: []
+sujets:
+- catechisme
+themes_doctrinaux:
+- credo
+- sacrements
+- decalogue
+- oraison-dominicale
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: djvu-ocr
+sha256:
+  la: e4ae7188cee78435c725676ab208cdeddca2c69de01a0727666341830f2c7266

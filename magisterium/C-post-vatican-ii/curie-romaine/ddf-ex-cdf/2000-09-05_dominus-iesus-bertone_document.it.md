@@ -1,3 +1,45 @@
-[TABLE]
+[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
+[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
 
-[TABLE]
+PRESENTAZIONE ALLA SALA STAMPA DELLA  
+SANTA SEDE DELLA DICHIARAZIONE ***  
+*** ***DOMINUS IESUS***
+
+INTERVENTO DI S.E. MONS. T. BERTONE,   
+SEGRETARIO DELLA CDF.
+
+ 
+
+Lo scopo di questo intervento è di commentare brevemente il genere letterario della Dichiarazione *Dominus Iesus* e, in tale contesto, proporre alcune precisazioni circa il suo valore e il suo grado di autorità.
+
+**1.** **Il genere letterario**
+
+Si tratta di una *Dichiarazione* della Congregazione per la Dottrina della Fede. Il termine *Dichiarazione* significa che il Documento non insegna dottrine nuove, risultato dello sviluppo e dell'esplicitazione della fede, ma riafferma e riassume la dottrina della fede cattolica definita o insegnata in precedenti Documenti del Magistero della Chiesa, indicandone la retta interpretazione, a fronte di errori e ambiguità dottrinali diffusi nell'ambiente teologico ed ecclesiale odierno. Come è esplicitamente ricordato nell'Introduzione, il Documento non ha la pretesa di trattare in modo organico e sistematico l'intera problematica relativa ai temi cristologici ed ecclesiologici esposti; non si sostituisce quindi al compito della teologia né intende reprimere lo sforzo dei teologi di dare risposte a questioni finora in larga parte inesplorate. La Dichiarazione al contrario sollecita tali esplorazioni, indicandone però al tempo stesso la direzione e i limiti invalicabili per non cadere nell'errore e nello smarrimento. Direzione e limiti che sono originariamente posti dalla rivelazione della verità di Dio compiuta in Gesù Cristo, e trasmessa dalla Sacra Scrittura e dalla Tradizione viva della Chiesa, interpretate autenticamente dal Magistero.
+
+Trattandosi di un Documento dottrinale della Congregazione per la Dottrina della Fede, espressamente approvato dal Sommo Pontefice, esso è di natura magisteriale universale. Questa peculiarità deriva dal fatto che la Congregazione per la Dottrina della Fede è l'organo ausiliare prossimo del Romano Pontefice, con il mandato specifico e unico da Lui ricevuto di promuovere e tutelare in tutto l'orbe cattolico la dottrina sulla fede e sui costumi (cf. Costituzione Apostolica, *Pastor Bonus*, art. 48). Pertanto i Documenti della Congregazione per la Dottrina della Fede, espressamente approvati dal Papa, partecipano del magistero ordinario del Sommo Pontefice (cf. Istruzione, *Donum Veritatis*, 18). E' bene ricordare che tali Documenti, di natura dottrinale, non sono equiparabili ad atti di natura amministrativa o puramente giurisdizionale, ma sono atti di insegnamento magisteriale, dato lo stretto ed essenziale rapporto che i Membri della Congregazione per la Dottrina della Fede hanno con il Supremo Titolare dell'Ufficio Petrino, che ha una responsabilità unica e particolarissima per la Chiesa universale nell'ambito della potestà di magistero.
+
+Se venisse negato che le decisioni dottrinali della Congregazione, approvate espressamente dal Papa, sono di natura magisteriale universale, ne seguirebbe che tali decisioni avrebbero un valore meramente orientativo e disciplinare o addirittura equivalente al valore di una opinione teologica, per quanto rispettabile. Ciò però contraddice la Tradizione ecclesiale e la volontà e il mandato del Sommo Pontefice stesso.
+
+Per tale ragione, il presente Documento, pur non essendo un atto proprio del Magistero del Sommo Pontefice, tuttavia ne riflette il suo pensiero, poiché è stato esplicitamente approvato e confermato dal Papa, ed indica anche la sua volontà che quanto in esso contenuto sia ritenuto da tutta la Chiesa, poiché è Lui che ne ha ordinato la pubblicazione.
+
+La formula di approvazione, che si trova al termine del Documento, è di speciale ed elevata autorità: *certa scientia et apostolica Sua auctoritate*. Ciò corrisponde all'importanza ed essenzialità dei contenuti dottrinali insegnati nella *Dichiarazione*: si tratta di verità di fede divina e cattolica (che appartengono al 1E comma della *Formula della* *Professione di Fede*) o di verità della dottrina cattolica da tenersi fermamente (che appartengono al 2E comma della medesima *Formula*). L'assenso richiesto quindi ai fedeli è di tipo definitivo e irrevocabile.
+
+A scanso di ogni eventuale equivoco, occorre precisare che tale formula di appropriazione da parte del Sommo Pontefice, che esprime certamente un livello di sommità nell'approvazione del Documento, e che riprende letteralmente espressioni ben conosciute, adoperate dai Romani Pontefici nel passato, non indebolisce né attenua in alcun modo il valore degli altri Documenti finora pubblicati dalla Congregazione per la Dottrina della Fede, e approvati espressamente dal Papa. Se infatti per un verso tutti i Documenti dottrinali della Congregazione, per avere autorità magisteriale, debbono essere approvati espressamente dal Papa, per altro verso tale espressa approvazione può esprimersi con formule diverse, più o meno accentuate, tenendo conto soprattutto dell'oggetto e del diverso ordine o tipo delle categorie di verità contenute nei Documenti stessi.
+
+**2.** **Il grado di autorità**
+
+Una semplice, ma doverosa puntualizzazione sul grado di autorità della *Dichiarazione "Dominus Iesus"* si impone, specialmente considerando l'insistenza con cui- anche di recente- interventi e pubblicazioni di certi teologi hanno sollevato critiche al *Motu proprio* del Santo Padre *"Ad tuendam fidem" e* alla *Nota dottrinale illustrativa* *della Formula della Professione di fede*, pubblicata dalla Congregazione per la Dottrina della Fede nel 1998.
+
+L'obiezione riguarda la presunta distinzione tra *infallibilità* dell'insegnamento e *definitività* della dottrina. Secondo alcuni la *Nota dottrinale* della CDF sostiene che il Magistero può proporre come definitive dottrine, che non sono insegnate infallibilmente.
+
+La conclusione che ne viene tratta è che, dato che non sono infallibili, tali dottrine potrebbero essere considerate provvisorie o rivedibili e quindi discutibili da parte dei teologi.
+
+Questa obiezione e la sua relativa conclusione, sono totalmente infondate e immotivate. Se una dottrina è insegnata come definitiva, e quindi irreformabile, ciò presuppone che sia insegnata dal Magistero con atto infallibile, anche se di diversa tipologia. Il vero problema perciò è un altro: una dottrina può essere insegnata dal Magistero come *definitiva* sia con un atto definitorio e solenne ( dal papa "ex cathedra" e dal Concilio ecumenico) sia con un atto ordinario non solenne (dal Magistero ordinario e universale del Papa e dei Vescovi in comunione con lui). Entrambi questi atti sono tuttavia infallibili. E' inoltre possibile che il Magistero ordinario del Papa confermi o riaffermi dottrine che appartengono d'altronde alla fede della Chiesa: in questo caso, il pronunciamento del Papa, pur non avendo il carattere di una definizione solenne, ripropone alla Chiesa dottrine infallibilmente insegnate come da credersi o da tenersi definitivamente, ed esige quindi dai fedeli un assenso di fede o definitivo.
+
+Nella fattispecie della *Dichiarazione "Dominus Iesus*", si deve dire che esso resta un Documento della Congregazione per la Dottrina della Fede, che non gode quindi della prerogativa dell'infallibilità, in quanto emanato da un organismo inferiore al Papa e al collegio dei Vescovi in comunione con il Papa. Tuttavia gli insegnamenti delle verità di fede e di dottrina cattolica in esso contenuti, esigono da parte di tutti i fedeli un assenso definitivo e irrevocabile, non già in forza e a partire dalla pubblicazione della *Dichiarazione*, ma in quanto essi appartengono al patrimonio di fede della Chiesa e sono stati infallibilmente proposti dal Magistero in precedenti atti e documenti.
+
+La *Dichiarazione* si presenta quindi, per sua propria natura, come un servizio alla fede, sia per salvaguardarla da errori e ambiguità che oscurano o addirittura alterano punti essenziali del suo patrimonio genuino, come il mistero dell'unicità e universalità salvifica di Cristo e il mistero dell'unità e dell'unicità della Chiesa sacramento universale della salvezza, sia per promuoverne una comprensione più approfondita, nella fedeltà e nella continuità con la Tradizione ecclesiale. Tale servizio, che è esattamente l'opposto di una limitazione e di un soffocamento della ricerca teologica, apre l'intelligenza dei credenti, liberandola dal rischio della deviazione e della parzialità, per ricondurla nella direzione giusta verso la comprensione della pienezza della rivelazione divina. In tal senso il Documento è anche un servizio alla carità, a quella che Antonio Rosmini chiamava la «carità intellettuale», poiché la *salus animarum,* che per la Chiesa vale più di ogni altra cosa, richiede come condizione essenziale l'annuncio e la difesa della verità di fede.
+
+                          
+
+[![top](/img/top.jpg)](#top)

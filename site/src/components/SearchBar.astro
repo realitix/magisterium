@@ -79,12 +79,16 @@ const {
           return;
         }
 
+        // Lire ?q=... de l'URL pour pré-remplissage éventuel
+        const params = new URLSearchParams(window.location.search);
+        const initialQuery = params.get('q')?.trim() ?? '';
+
         containers.forEach((el) => {
           const placeholder =
             el.getAttribute('data-placeholder') || 'Rechercher dans le corpus…';
           const variant = el.getAttribute('data-variant') || 'default';
 
-          new PagefindUI({
+          const ui = new PagefindUI({
             element: `#${el.id}`,
             showSubResults: variant !== 'compact',
             showImages: false,
@@ -106,6 +110,27 @@ const {
               searching: 'Recherche de [SEARCH_TERM]…',
             },
           });
+
+          // Pré-remplir et déclencher la recherche si ?q= est présent.
+          // Seulement sur la variante "default" (la page /recherche/), pas
+          // dans le header compact pour éviter les doubles recherches.
+          if (initialQuery && variant !== 'compact') {
+            // Méthode fiable : poser la valeur dans l'input Pagefind et
+            // dispatcher l'event input pour déclencher la recherche.
+            const trySetQuery = () => {
+              const input = el.querySelector<HTMLInputElement>(
+                '.pagefind-ui__search-input'
+              );
+              if (!input) {
+                window.setTimeout(trySetQuery, 50);
+                return;
+              }
+              input.value = initialQuery;
+              input.dispatchEvent(new Event('input', { bubbles: true }));
+              input.focus();
+            };
+            trySetQuery();
+          }
         });
       })
       .catch((err) => {

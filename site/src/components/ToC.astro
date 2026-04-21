@@ -302,11 +302,11 @@ const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
     font-weight: 500;
   }
 
-  /* FAB — toujours visible, positionné sous le header sticky en top-right.
-     Sur desktop il double la ToC sticky (pratique comme raccourci vers
-     l'overlay) ; sur mobile/étroit il en est le seul accès. */
+  /* FAB — visible uniquement sur petit écran (≤ 900px), top-right sous le
+     header sticky. Sur desktop la ToC sticky suffit, le FAB serait un
+     doublon visuel. */
   .toc-fab {
-    display: inline-flex;
+    display: none;
     position: fixed;
     top: calc(var(--space-m) + 3.25rem);   /* sous le header sticky */
     right: var(--space-m);
@@ -416,11 +416,14 @@ const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
     font-size: 1rem;
   }
 
-  /* Responsive : sur mobile la ToC inline disparaît, le FAB reste (il est
-     déjà visible par défaut). */
+  /* Responsive : sur petit écran (< 900px) la ToC sticky disparaît, le FAB
+     apparaît pour donner accès au sommaire via overlay. */
   @media (max-width: 900px) {
     .toc {
       display: none;
+    }
+    .toc-fab {
+      display: inline-flex;
     }
   }
 </style>

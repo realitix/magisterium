@@ -302,13 +302,11 @@ const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
     font-weight: 500;
   }
 
-  /* FAB mobile — caché par défaut sur desktop, positionné sous le header
-     sticky sur mobile. Fixed top-right pour éviter toute collision avec les
-     overlays bas (extensions Chrome, bulles de browser, toolbars), avec le
-     bouton "retour en haut" en bas-droite, et pour rester visible en
-     permanence sans scroller. */
+  /* FAB — toujours visible, positionné sous le header sticky en top-right.
+     Sur desktop il double la ToC sticky (pratique comme raccourci vers
+     l'overlay) ; sur mobile/étroit il en est le seul accès. */
   .toc-fab {
-    display: none;
+    display: inline-flex;
     position: fixed;
     top: calc(var(--space-m) + 3.25rem);   /* sous le header sticky */
     right: var(--space-m);
@@ -418,13 +416,11 @@ const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
     font-size: 1rem;
   }
 
-  /* Responsive : sur mobile la ToC inline disparaît, seul le FAB reste */
+  /* Responsive : sur mobile la ToC inline disparaît, le FAB reste (il est
+     déjà visible par défaut). */
   @media (max-width: 900px) {
     .toc {
       display: none;
-    }
-    .toc-fab {
-      display: inline-flex;
     }
   }
 </style>

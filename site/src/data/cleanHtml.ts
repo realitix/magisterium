@@ -35,9 +35,12 @@ const DEAD_HREF_PATTERNS: RegExp[] = [
 
 /** Images whose src matches one of these patterns are removed entirely. */
 const DEAD_IMG_PATTERNS: RegExp[] = [
+  // vatican.va chrome (layout/navigation only)
   /\/img\/vuoto\.gif/i,
-  /\/img\/back\.jpg/i,
-  /\/img\/up\.jpg/i,
+  /\/img\/back\.(jpg|png)/i,
+  /\/img\/up\.(jpg|png)/i,
+  /\/img\/top\.(jpg|png)/i,
+  /\/img\/print\.(jpg|png)/i,
   /\/img\/pkeys\.jpg/i,
   /\/img\/logo-vatican\.png/i,
   /\/img\/riga_int\.jpg/i,
@@ -52,7 +55,82 @@ interface CleanResult {
     rewrittenInternal: number;
     externalKept: number;
     strippedImages: number;
+    anchorsRestored: number;
+    fragmentsUnwrapped: number;
   };
+}
+
+/** Escape characters that have special meaning in a regular expression. */
+function escapeRegExp(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+/**
+ * Re-inject lost anchor IDs on target elements.
+ *
+ * Many scraped documents contain a table of contents where each entry links
+ * to `#AnchorName`. The original HTML had `<a name="AnchorName"></a>` tags
+ * marking the target, but pandoc drops empty anchors during the conversion
+ * to markdown. Consequently the rendered page has 500+ broken fragment
+ * links.
+ *
+ * Heuristic: for each `<a href="#X">text</a>` we find, locate the first
+ * `<strong>text</strong>` (or `<b>text</b>`) in the document that doesn't
+ * already carry an id and that sits outside an anchor, and inject `id="X"`.
+ * This mirrors the table-of-contents structure used by vatican.va (section
+ * headings are rendered as `<b>…</b>` in their source, not `<h2>`).
+ */
+function restoreAnchors(html: string, stats: CleanResult['stats']): string {
+  // Collect fragment references: (fragment, text).
+  // We dedupe on fragment — the first occurrence wins.
+  const refs = new Map<string, string>();
+  const refPattern = /<a\s+href="#([^"]+)"[^>]*>([^<]{1,200})<\/a>/gi;
+  let m: RegExpExecArray | null;
+  while ((m = refPattern.exec(html)) !== null) {
+    const frag = m[1];
+    const text = m[2].trim();
+    if (text.length === 0) continue;
+    if (!refs.has(frag)) refs.set(frag, text);
+  }
+
+  let out = html;
+  for (const [frag, text] of refs) {
+    // Build a regex that finds the first <strong> or <b> containing exactly
+    // the text and not yet carrying an id. Allow (but don't require) minor
+    // whitespace variations inside.
+    const safe = escapeRegExp(text);
+    const re = new RegExp(
+      `(<(strong|b)(?![^>]*\\bid=)[^>]*)>(\\s*${safe}\\s*)(</\\2>)`,
+      'i'
+    );
+    const before = out;
+    out = out.replace(re, (_match, openHead, tag, inner, close) => {
+      return `${openHead} id="${frag}">${inner}${close}`;
+    });
+    if (out !== before) stats.anchorsRestored += 1;
+  }
+  return out;
+}
+
+/**
+ * Strip `<a href="#X">` whose target was not restored — keeps the inner
+ * text so the table of contents stays readable, just not clickable.
+ */
+function unwrapBrokenFragments(html: string, stats: CleanResult['stats']): string {
+  // Build the set of ids present in the cleaned HTML.
+  const presentIds = new Set<string>();
+  const idRe = /\bid="([^"]+)"/gi;
+  let m: RegExpExecArray | null;
+  while ((m = idRe.exec(html)) !== null) presentIds.add(m[1]);
+
+  return html.replace(
+    /<a\s+href="#([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi,
+    (match, frag, inner) => {
+      if (presentIds.has(frag)) return match; // anchor exists, keep link
+      stats.fragmentsUnwrapped += 1;
+      return inner; // drop the <a> wrapper, keep content
+    }
+  );
 }
 
 /**
@@ -143,7 +221,14 @@ function transformAnchor(
  *   - remove vatican.va chrome images
  */
 export function cleanDocumentHtml(html: string): CleanResult {
-  const stats = { strippedDead: 0, rewrittenInternal: 0, externalKept: 0, strippedImages: 0 };
+  const stats: CleanResult['stats'] = {
+    strippedDead: 0,
+    rewrittenInternal: 0,
+    externalKept: 0,
+    strippedImages: 0,
+    anchorsRestored: 0,
+    fragmentsUnwrapped: 0,
+  };
 
   // Pass 1 : strip junk images.
   let out = html.replace(/<img\b[^>]*>/gi, (imgTag) => {
@@ -156,14 +241,23 @@ export function cleanDocumentHtml(html: string): CleanResult {
     return imgTag;
   });
 
-  // Pass 2 : transform anchors. Non-greedy inner content, allows nested-ish
-  // HTML but not nested <a> (which is invalid in HTML anyway).
+  // Pass 2 : re-inject lost anchor ids (e.g. `<strong>Presentazione</strong>`
+  // becomes `<strong id="Presentazione">…`). Must happen BEFORE anchor
+  // transformation so the unwrap step below can tell which fragments are
+  // still usable.
+  out = restoreAnchors(out, stats);
+
+  // Pass 3 : transform external / internal anchors.
   out = out.replace(
     /<a\b([^>]*)>([\s\S]*?)<\/a>/gi,
     (match, attrs, inner) => transformAnchor(match, `<a${attrs}>`, inner, stats)
   );
 
-  // Pass 3 : collapse now-empty list items / paragraphs left by the strip.
+  // Pass 4 : any remaining `<a href="#X">` whose target doesn't exist is
+  // unwrapped (the visible text stays, the broken link disappears).
+  out = unwrapBrokenFragments(out, stats);
+
+  // Pass 5 : collapse now-empty list items / paragraphs left by the strips.
   out = out.replace(/<(li|p)\b[^>]*>\s*<\/\1>/gi, '');
 
   return { html: out, stats };

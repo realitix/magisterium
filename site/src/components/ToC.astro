@@ -227,13 +227,27 @@ const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
 <style>
   .toc {
     position: sticky;
-    top: calc(var(--space-l) + 0.5rem);
-    max-height: calc(100vh - var(--space-l) * 2);
+    /* Décaler sous le header sticky (≈ 3.5rem) + marge de respiration */
+    top: 4.5rem;
+    /* Réserver la hauteur du header sticky + progress bar + padding bas */
+    max-height: calc(100vh - 6rem);
     overflow-y: auto;
     padding: var(--space-m) var(--space-m) var(--space-m) var(--space-l);
     border-left: 1px solid var(--rule);
     font-size: 0.92rem;
     scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
+  }
+
+  .toc::-webkit-scrollbar {
+    width: 6px;
+  }
+  .toc::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .toc::-webkit-scrollbar-thumb {
+    background: var(--rule);
+    border-radius: 3px;
   }
 
   .toc__eyebrow {

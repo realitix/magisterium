@@ -1,5 +1,6 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import type { MarkdownHeading } from 'astro';
 import Question from '../../layouts/Question.astro';
 
 export async function getStaticPaths() {
@@ -17,6 +18,22 @@ interface Props {
 const { entry } = Astro.props;
 const { Content, headings } = await entry.render();
 const data = entry.data;
+
+// Injecter les headings virtuels rendus par le layout (FourVoices) pour qu'ils
+// apparaissent dans la ToC. Le <h2 id="voices-title"> est effectivement présent
+// dans le DOM (rendu par FourVoices.astro), donc le scroll-spy fonctionne déjà.
+const augmentedHeadings: MarkdownHeading[] = [
+  ...headings,
+  ...(data.voices
+    ? [
+        {
+          depth: 2,
+          slug: 'voices-title',
+          text: 'Panorama — Les quatre voix',
+        },
+      ]
+    : []),
+];
 ---
 
 <Question
@@ -30,7 +47,7 @@ const data = entry.data;
   related_themes={data.related_themes}
   posture={data.posture}
   voices={data.voices}
-  headings={headings}
+  headings={augmentedHeadings}
 >
   <Content />
 </Question>

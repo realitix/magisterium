@@ -257,16 +257,18 @@ if (date) {
     display: grid;
     grid-template-columns: minmax(0, var(--measure)) minmax(0, 17rem);
     gap: var(--space-xl);
-    align-items: start;
+    align-items: stretch;       /* permet au track ToC d'occuper toute la hauteur */
     justify-content: center;
   }
 
   .q__body {
     min-width: 0;
+    align-self: start;          /* l'article reste en haut, ne s'étire pas */
   }
 
   .q__toc-side {
     position: relative;
+    height: 100%;               /* prend toute la hauteur du track pour permettre le sticky */
   }
 
   .q__themes {

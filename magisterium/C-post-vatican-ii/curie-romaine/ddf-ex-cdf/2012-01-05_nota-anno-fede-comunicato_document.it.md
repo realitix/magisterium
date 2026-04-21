@@ -1,3 +1,46 @@
-[TABLE]
+[![The Holy See](/img/pkeys.jpg)](/index.htm) ![](/img/vuoto.gif)  
+[![back](/img/back.jpg)](javascript:history.go(-1)) [![up](/img/up.jpg)](javascript:up()) ![Search](/img/psearch_fill.jpg) ![riga](/img/riga_int.jpg) ![](/img/vuoto.gif)
 
-[TABLE]
+**COMUNICATO SULLA *NOTA* DELLA  
+CONGREGAZIONE PER LA DOTTRINA DELLA FEDE  
+*CON INDICAZIONI PASTORALI PER L’ANNO DELLA FEDE***
+
+ 
+
+Con **[la Lettera apostolica *Porta fidei*](/holy_father/benedict_xvi/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei_it.html)** dell’11 ottobre 2011, [Benedetto XVI](/holy_father/benedict_xvi/index_it.htm) ha indetto un *Anno della fede*. Esso avrà inizio l’11 ottobre 2012, 50° anniversario dell’[apertura del Concilio Vaticano II](/holy_father/john_xxiii/speeches/1962/documents/hf_j-xxiii_spe_19621011_opening-council_it.html), e terminerà il 24 novembre 2013, Solennità di Nostro Signore Gesù Cristo Re dell’Universo. Con la promulgazione di tale *Anno* il Santo Padre intende mettere al centro dell’attenzione ecclesiale ciò che, fin dall’inizio del suo Pontificato, gli sta più a cuore: l’incontro con Gesù Cristo e la bellezza della fede in Lui. D’altra parte, la Chiesa è ben consapevole dei problemi che oggi la fede deve affrontare e sente quanto mai attuale la domanda che Gesù stesso ha posto: «Il Figlio dell’uomo, quando tornerà, troverà ancora la fede sulla terra?» (*Lc* 18, 8). Per questo, «se la fede non riprende vitalità, diventando una profonda convinzione ed una forza reale grazie all’incontro con Gesù Cristo, tutte le altre riforme rimarranno inefficaci» ([*Discorso per la presentazione degli auguri natalizi alla Curia romana*, 22 dicembre 2011](/holy_father/benedict_xvi/speeches/2011/december/documents/hf_ben-xvi_spe_20111222_auguri-curia_it.html)).
+
+Per incarico di [Benedetto XVI](/holy_father/benedict_xvi/index_it.htm), la Congregazione per la Dottrina della Fede ha redatto una ***Nota con indicazioni pastorali per l’Anno della fede***. Tale *Nota* è stata elaborata in accordo con alcuni Dicasteri della Santa Sede e con il contributo del ***Comitato per la preparazione dell’Anno della fede***. Il *Comitato*, costituito presso la Congregazione per la Dottrina della Fede per mandato del Santo Padre, annovera fra i suoi membri: i Cardinali William Levada, Francis Arinze, Angelo Bagnasco, Ivan Dias, Francis E. George, Zenon Grocholewski, Marc Ouellet, Mauro Piacenza, Jean-Pierre Ricard, Stanisław Ryłko e Christoph Schönborn; gli Arcivescovi Salvatore Fisichella e Luis F. Ladaria; i Vescovi Mario Del Valle Moronta Rodríguez, Gerhard Ludwig Müller e Raffaello Martinelli.
+
+La *Nota*, datata 6 gennaio 2012, Solennità dell’Epifania, e che sarà pubblicata il giorno seguente, 7 gennaio, si compone di un’introduzione e di alcune indicazioni pastorali. Nell’**introduzione** si ribadisce che «l’*Anno della fede* vuol contribuire ad una rinnovata conversione al Signore Gesù e alla riscoperta della fede, affinché tutti i membri della Chiesa siano testimoni credibili e gioiosi del Signore risorto, capaci di indicare alle tante persone in ricerca la *porta della fede»*.
+
+«L’**inizio dell’Anno della fede** coincide con il ricordo riconoscente di due grandi eventi che hanno segnato il volto della Chiesa ai nostri giorni: il 50° anniversario dell’apertura del Concilio Vaticano II, voluto dal beato Giovanni XXIII (11 ottobre 1962), e il 20° anniversario della promulgazione del Catechismo della Chiesa Cattolica, offerto alla Chiesa dal beato Giovanni Paolo II (11 ottobre 1992)».
+
+**[Il Concilio Vaticano II](/archive/hist_councils/ii_vatican_council/index_it.htm)**, «a partire dalla luce di Cristo… ha voluto approfondire l’intima natura della Chiesa... e il suo rapporto con il mondo contemporaneo». «Dopo il Concilio, la Chiesa si è impegnata nella recezione e nell’applicazione del suo ricco insegnamento, in continuità con tutta la Tradizione, sotto la guida sicura del Magistero».
+
+«Per favorire la corretta recezione del Concilio, i Sommi Pontefici hanno più volte convocato il Sinodo dei Vescovi…, proponendo alla Chiesa degli orientamenti chiari attraverso le diverse Esortazioni apostoliche post-sinodali. La prossima Assemblea Generale del Sinodo dei Vescovi, nel mese di ottobre 2012, avrà come tema: *La nuova evangelizzazione per la trasmissione della fede cristiana*».
+
+«Sin dall’inizio del suo Pontificato, Papa Benedetto XVI si è impegnato decisamente per una corretta comprensione del Concilio, respingendo come erronea la cosiddetta "ermeneutica della discontinuità e della rottura" e promuovendo quella che lui stesso ha denominato "l’ermeneutica della riforma", del rinnovamento nella continuità».
+
+**[Il *Catechismo della Chiesa Cattolica*](/archive/ccc_it/ccc-it_index_it.html)**, come «autentico frutto del Concilio Vaticano II» (Lettera apostolica *[Porta fidei](/holy_father/benedict_xvi/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei_it.html)*, n. 4), si pone nella linea di tale "rinnovamento nella continuità". Esso comprende «cose nuove e cose antiche» (*Mt* 13, 52). Da una parte riprende l’*antico* e tradizionale ordine della catechesi, articolando il suo contenuto in quattro parti: il *Credo*, la *liturgia*, l’*agire cristiano* e la *preghiera.* Ma, nel medesimo tempo, esprime tutto ciò in modo *nuovo* per rispondere agli interrogativi della nostra epoca.
+
+L’*Anno della fede* sarà un’occasione privilegiata per promuovere la conoscenza e la diffusione dei contenuti del [Concilio Vaticano II](/archive/hist_councils/ii_vatican_council/index_it.htm) e del *[Catechismo della Chiesa Cattolica](/archive/ccc_it/ccc-it_index_it.html)*.
+
+Le **indicazioni pastorali** della *Nota* hanno l’intento di favorire «sia l’incontro con Cristo attraverso autentici testimoni della fede, sia la conoscenza sempre maggiore dei suoi contenuti». Mediante queste indicazioni pastorali - che non intendono «precludere altre proposte che lo Spirito Santo vorrà suscitare tra i Pastori e i fedeli nelle varie parti del mondo» - la Congregazione per la Dottrina della Fede offre il suo aiuto, dato che alle sue specifiche competenze appartiene non solo il compito di tutelare la sana dottrina e di correggerne gli errori ma anche, e primariamente, quello di promuovere la verità della fede (cf. Costituzione apostolica [*Pastor Bonus*, nn. 48-51](/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-roman-curia_it.html#CONGREGAZIONI)).
+
+La *Nota* articola le sue **proposte in quattro livelli**: 1) *Chiesa universale*, 2) *Conferenze Episcopali*, 3) *Diocesi* e 4) *Parrocchie, Comunità, Associazioni, Movimenti*. Vengono qui di seguito richiamati alcuni di questi **suggerimenti particolari**.
+
+Ad esempio, accanto ad una solenne celebrazione per l’inizio dell’*Anno della fede* ed a vari altri eventi cui parteciperà il Santo Padre (Assemblea del Sinodo dei Vescovi, GMG del 2013), vengono auspicate iniziative ecumeniche per «invocare e favorire il ristabilimento dell'unità fra tutti i cristiani» e «avrà luogo una solenne celebrazione ecumenica per riaffermare la fede in Cristo da parte di tutti i battezzati».
+
+A livello di Conferenze Episcopali, viene incoraggiata la qualità della formazione catechistica ecclesiale e «una verifica dei catechismi locali e dei vari sussidi catechistici in uso nelle Chiese particolari per assicurare la loro piena conformità con il *Catechismo della Chiesa Cattolica*», e si auspica un ampio uso dei linguaggi della comunicazione e dell’arte, «trasmissioni televisive o radiofoniche, *film* e pubblicazioni, anche a livello popolare e accessibili a un ampio pubblico, sul tema della fede, dei suoi principi e contenuti, nonché sul significato ecclesiale del Concilio Vaticano II».
+
+A livello diocesano, l’*Anno della fede* viene considerato, tra l’altro, come «rinnovata occasione di dialogo creativo tra fede e ragione attraverso simposi, convegni e giornate di studio, specialmente nelle Università cattoliche», e come tempo favorevole per «celebrazioni penitenziali in cui chiedere perdono a Dio, anche e specialmente per i peccati contro la fede».
+
+A livello di parrocchie, la proposta centrale rimane la celebrazione della fede nella liturgia, e in particolare nell’Eucaristia, perché «nell’Eucarestia, mistero della fede e sorgente della nuova evangelizzazione, la fede della Chiesa viene proclamata, celebrata e fortificata». Da tale iniziativa sono chiamate a nascere, crescere e diffondersi tutte le altre proposte, tra cui avranno senz’altro una rilevanza particolare le iniziative intraprese dai numerosi Istituti, dalle nuove Comunità e dai Movimenti ecclesiali.
+
+«Presso il Pontificio Consiglio per la Promozione della Nuova Evangelizzazione sarà istituita un’apposita ***Segreteria per l’Anno della fede*** per coordinare le diverse iniziative promosse dai vari Dicasteri della Santa Sede o comunque aventi rilevanza per la Chiesa universale». La *Segreteria* «potrà anche suggerire proposte per *l’Anno della fede*» e disporrà di «un apposito sito *internet* al fine di offrire ogni informazione utile» al riguardo.
+
+Le indicazioni offerte nella *Nota* hanno lo scopo di invitare tutti i membri della Chiesa ad impegnarsi nell’*Anno della fede* per riscoprire e «condividere **quello che il cristiano ha di più caro: Cristo Gesù**, Redentore dell’uomo, Re dell’Universo, "autore e perfezionatore della fede" (*Eb* 12, 2)».
+
+ 
+
+[![top](/img/top.jpg)](#top)

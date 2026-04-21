@@ -10,9 +10,6 @@ AL SECONDO CONGRESSO AMERICANO MISSIONARIO (C.A.M.)***
 *Città del Guatemala  
 Mercoledì, 26 novembre 2003 * * *
 
-*  
-*
-
 ***La missione "ad gentes" oggi***
 
  

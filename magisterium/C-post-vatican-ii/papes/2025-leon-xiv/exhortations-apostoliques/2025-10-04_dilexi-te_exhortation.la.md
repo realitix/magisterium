@@ -321,7 +321,6 @@ Hodieque dare
 
 *Datum Romae, apud S. Petrum, die IV mensis Octobris, in memoria s. Francisci Assisiensis, Anno Sancto MMXXV, Pontificatus Nostri primo.  
   
-*
 
 LEO PP. XIV
 

@@ -39,7 +39,6 @@ ORIENTALIUM[\*](#*)**
 
 **DE CHRISTIFIDELIBUS  
 EORUMQUE OMNIUM IURIBUS ET OBLIGATIONIBUS  
- **
 
 **Can. 7** - § 1. Christifideles sunt, qui per baptismum Christo incorporati in populum Dei sunt constituti atque hac ratione muneris Christi sacerdotalis, prophetici et regalis suo modo participes secundum suam cuiusque condicionem ad missionem exercendam vocantur, quam Deus Ecclesiae in mundo implendam concredidit.
 
@@ -1560,7 +1559,6 @@ DE RECTORIBUS ECCLESIARUM
 
 **TITULUS VIII**
 
-**  
 DE EXARCHIIS ET DE EXARCHIS**
 
  
@@ -1957,7 +1955,6 @@ DE AMISSIONE STATUS CLERICALIS
 
 **TITULUS XI**
 
-**  
 DE LAICIS**
 
  

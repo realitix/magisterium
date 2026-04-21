@@ -85,10 +85,8 @@ Roma, dalla Sede della Congregazione per la Dottrina della Fede, l’11 febbraio
 
 + **Joseph Card. Ratzinger**
 
-*  
 Prefetto*
 
-*  
 *+ **Tarcisio Bertone***  
 Arcivescovo emerito di Vercelli  
 Segretario*

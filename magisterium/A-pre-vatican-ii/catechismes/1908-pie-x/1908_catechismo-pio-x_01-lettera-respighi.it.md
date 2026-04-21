@@ -18,7 +18,6 @@ C**ompendio della dottrina cristiana prescritto da
 ** S**ua** S**antità** P**apa** P**io** X**  
 alle diocesi della provincia di** R**oma**
 
-*  
 Roma, Tipografia Vaticana, 1905*
 
 Al signor Cardinale Pietro Respighi,  

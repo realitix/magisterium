@@ -16,9 +16,7 @@ CONGREGATIO PRO DOCTRINA FIDEI
 
 Prot. N. 137/2009S – ED
 
-**  
 DECRETUM  
- **
 
 **C**um sanctissima resplendeat in virtutibus Sanctorum virtus ipsa Iesu Christi, cumque semper proponenda sint fidelibus exempla eorundem Sanctorum[\[1\]](#_ftn1), [Benedictus PP. XVI](/latin/popes_latin/b-xvi/latin_hf_bxvi.html) Epistula die VII mensis Iulii a. D. MMVII data Pontificiæ Commissioni “Ecclesia Dei” mandavit ut quidam eorum, qui recentioribus decenniis Sanctorum Albo ascripti erant, secundum formam quoque extraordinariam Ritus Romani coli possent[\[2\]](#_ftn2). Nam “maximopere decet ut qui sanctus est apud Deum, sanctus etiam ab hominibus habeatur”[\[3\]](#_ftn3), et “quia non parum prodest christifidelibus nova semper habere exempla virtutum quæ imitentur”[\[4\]](#_ftn4).
 
@@ -58,7 +56,6 @@ Congregationis pro Doctrina Fidei Præfectus*
 ✠ Iacobus Morandi  
 Archiepiscopus tit. Cæretanus*  
 Secretarius  
- *
 
 ------------------------------------------------------------------------
 

@@ -1,5 +1,4 @@
    
-)    
 
 CONGREGATIO PRO DOCTRINA FIDEI
 
@@ -56,9 +55,7 @@ Per hanc Epistulam, de mandato Summi Pontificis omnibus Ecclesiae Catholicae Epi
 
 \+ **JOSEPHUS Card. RATZINGER**
 
-*  
 Praefectus  
-*
 
 **+** T**harsicius BERTONE, S.D.B.** *  
 archiep. em. Vercellensis  

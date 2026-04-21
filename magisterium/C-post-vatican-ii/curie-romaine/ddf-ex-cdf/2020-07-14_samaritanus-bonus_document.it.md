@@ -21,7 +21,6 @@ CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 ***SAMARITANUS BONUS***
 
 **sulla cura delle persone nelle fasi critiche e terminali della vita  
- **
 
 ------------------------------------------------------------------------
 

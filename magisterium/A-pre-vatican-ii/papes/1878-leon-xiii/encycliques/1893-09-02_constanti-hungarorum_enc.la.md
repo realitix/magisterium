@@ -51,7 +51,6 @@ Quo autem omnia secundum vota ac prospere cedant, magnas ad Deum preces et ipsi 
  
 
 **LEO PP. XIII  
-**
 
 ------------------------------------------------------------------------
 

@@ -76,6 +76,4 @@ Given at Venice in the monastery of San Giorgio Maggiore on the 15th of May 1800
 
 &nbsp;
 
-- 
-
   ------------------------------------------------------------------------

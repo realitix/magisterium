@@ -2290,7 +2290,6 @@ CUM ECCLESIA CATHOLICA CONVENIENTIBUS**
 **TITULUS XVIII**
 
 **DE OECUMENISMO SEU DE CHRISTIANORUM UNITATE FOVENDA  
- **
 
 **Can. 902** - Cum sollicitudo cunctorum christianorum unitatis instaurandae ad totam Ecclesiam spectet, omnes christifideles, praesertim vero Ecclesiae Pastores, debent pro ea a Domino optata Ecclesiae unitatis plenitudine orare et allaborare sollerter participando operi oecumenico Spiritus Sancti gratia suscitato.  
    
@@ -2314,7 +2313,6 @@ CUM ECCLESIA CATHOLICA CONVENIENTIBUS**
 **TITULUS XIX**
 
 **DE PERSONIS ET DE ACTIBUS IURIDICIS  
- **
 
 **CAPUT I**
 

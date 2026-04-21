@@ -4,8 +4,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 **Sacra Congregazione per la dottrina della fede**

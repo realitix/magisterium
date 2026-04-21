@@ -3,7 +3,6 @@
 
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
-***  
 *** **In margine alla *NOTIFICAZIONE* della  
 Congregazione per la Dottrina della Fede  
 circa alcuni scritti del *  

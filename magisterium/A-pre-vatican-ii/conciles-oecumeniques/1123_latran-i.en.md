@@ -74,8 +74,6 @@
 
   **Introduction and translation taken from *Decrees of the Ecumenical Councils*, ed. Norman P. Tanner**
 
-- 
-
   ------------------------------------------------------------------------
 
   FOOTNOTES

@@ -159,7 +159,6 @@ Nella Lettera inviata ai Vescovi di tutto il mondo per accompagnare il testo del
 L’esplicita volontà di non partecipare alla concelebrazione, in particolare nella Messa Crismale, sembra esprimere una mancanza sia di accoglienza della riforma liturgica sia di comunione ecclesiale con il Vescovo, requisiti necessari per poter usufruire della concessione di celebrare con il *Missale Romanum* del 1962.
 
 *Tuttavia, prima di revocare la concessione di utilizzare il Missale Romanum del 1962, il Vescovo offra al presbitero il tempo necessario per un sincero confronto sulle più profonde motivazioni che lo portano a non riconoscere il valore della concelebrazione, in particolare nella Messa presieduta dal Vescovo, invitandolo a vivere nel gesto eloquente della concelebrazione quella comunione ecclesiale che è condizione necessaria per poter partecipare alla mensa del sacrificio eucaristico.  
-*
 
 > *[Traditionis custodes](https://www.vatican.va/content/francesco/la/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html) *
 >

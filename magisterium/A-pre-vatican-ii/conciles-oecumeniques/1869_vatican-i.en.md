@@ -394,7 +394,7 @@ This we shall do
     - she both invites to herself those who have not yet believed,
     - and likewise assures her sons and daughters that the faith they profess rests on the firmest of foundations.
 14. To this witness is added the effective help of power from on high. For,
-    - 
+
     - the kind Lord stirs up those who go astray and helps them by his grace
       - so that they may come to the knowledge of the truth \[23\] ;
     - and also confirms by his grace those whom he has translated into his admirable light \[24\],
@@ -518,8 +518,6 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
 
 ## 1. On God the creator of all things
 
-- 
-
 - 1\. If anyone denies the one true God, creator and lord of things visible and invisible: let him be **anathema**.
 
 - 2\. If anyone is so bold as to assert that
@@ -533,8 +531,6 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
   - the substance or essence of God and that of all things are one and the same:
 
   let him be **anathema**.
-
-- 
 
 - 4\. If anyone says
 
@@ -564,8 +560,6 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
 
   let him be **anathema**.
 
-- 
-
 - 2\. If anyone says that it is
 
   - impossible, or
@@ -575,8 +569,6 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
     - the worship that should be shown him :
 
   let him be **anathema**.
-
-- 
 
 - 3\. If anyone says that a human being
 
@@ -596,10 +588,6 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
 
   let him be **anathema**.
 
-- 
-
-- 
-
 - 4\. If anyone
 
   - does not receive as sacred and canonical the complete books of sacred scripture with all their parts, as the holy **council of Trent** listed them, or
@@ -617,8 +605,6 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
 
   let him be **anathema**.
 
-- 
-
 - 2\. If anyone says that
 
   - divine faith is not to be distinguished from natural knowledge about God and moral matters, and consequently that
@@ -626,16 +612,12 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
 
   let him be **anathema**.
 
-- 
-
 - 3\. If anyone says that
 
   - divine revelation cannot be made credible by external signs, and that therefore
   - men and women ought to be moved to faith only by each one’s internal experience or private inspiration:
 
   let him be **anathema**.
-
-- 
 
 - 4\. If anyone says that
 
@@ -645,8 +627,6 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
   - nor can the divine origin of the christian religion be proved from them:
 
   let him be **anathema**.
-
-- 
 
 - 5\. If anyone says that
 
@@ -677,16 +657,12 @@ May understanding, knowledge and wisdom increase as ages and centuries roll alon
 
     let him be **anathema**.
 
-  - 
-
   - 2\. If anyone says that
 
     - human studies are to be treated with such a degree of liberty that their assertions may be maintained as true even when they are opposed to divine revelation, and that
     - they may not be forbidden by the church:
 
     let him be **anathema**.
-
-  - 
 
   - 3\. If anyone says that
 
@@ -926,7 +902,6 @@ Chapter 4. On the infallible teaching authority of the Roman pontiff
 
 6.  For the holy Spirit was promised to the successors of Peter
 
-    - 
     - not so that they might, by his revelation, make known some new doctrine,
     - but that, by his assistance, they might religiously guard and faithfully expound the revelation or deposit of faith transmitted by the **apostles**.
 

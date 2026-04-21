@@ -16,7 +16,6 @@ CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
 Prot. N. 602/20
 
-**  
 NOTA SULLA DOMENICA DELLA PAROLA DI DIO**
 
 \[[pdf](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_it.pdf)\]
@@ -57,7 +56,6 @@ Questa Nota intende contribuire a risvegliare, alla luce della Domenica della Pa
 
 Robert Card. Sarah*  
 Prefetto***  
- **
 
 **                                                      ✠** Arthur Roche*  
                                                   Arcivescovo Segretario*

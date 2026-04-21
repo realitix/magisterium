@@ -25,7 +25,6 @@ ORIENTALIUM[\*](#*)**
 **TITULUS XXIII**
 
 **DE BONIS ECCLESIAE TEMPORALIBUS  
- **
 
 **Can. 1007** - Ecclesia in procurando bono hominum spirituali bonis temporalibus eget et utitur, quatenus propria eius missio id postulat; quare ipsi ius nativum competit acquirendi, possidendi, administrandi atque alienandi ea bona temporalia, quae ad fines ei proprios praesertim ad cultum divinum, ad opera apostolatus et caritatis atque ad congruam ministrorum sustentationem necessaria sunt.  
    
@@ -268,7 +267,6 @@ DE PIIS VOLUNTATIBUS ET DE PIIS FUNDATIONIBUS
 **TITULUS XXIV**
 
 **DE IUDICIIS IN GENERE  
- **
 
 **Can. 1055** - § 1. Obiectum iudicii eunt:
 
@@ -1693,7 +1691,6 @@ DE IUDICIO CONTENTIOSO SUMMARIO
 **TITULUS XXVI**
 
 **DE QUIBUSDAM PROCESSIBUS SPECIALIBUS  
- **
 
 CAPUT I  
 DE PROCESSIBUS MATRIMONIALIBUS  

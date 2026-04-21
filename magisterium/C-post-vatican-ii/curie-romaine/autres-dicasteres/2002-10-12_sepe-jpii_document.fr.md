@@ -5,7 +5,6 @@ CONGRÉGATION POUR L'EVANGÉLISATION DES PEUPLES
 
 ***DISCOURS DU CARDINAL CRESCENZIO SEPE  
 AU SYMPOSIUM INTERNATIONAL DE VARSOVIE **  
-*
 
 Je salue cordialement et je présente mes hommages respectueux à S.Em. le Card. Jozef Glemp, Archevêque de Varsovie et Primat de la Pologne, à S.Em. le Card. Franciszek Macharski, Archevêque de Cracovie, et à S.Exc. Mgr Jozef Kowalczyk, Nonce apostolique, que je remercie pour la cordialité fraternelle avec laquelle il m'a accueilli.
 

@@ -39,7 +39,6 @@ Auspicem vero divinorum munerum ac testem benevolentiae Nostrae, vobis omnibus, 
 
 ------------------------------------------------------------------------
 
-*  
 \*A.A.S.*, vol. III (1911), n. 7, pp. 217-224
 
  

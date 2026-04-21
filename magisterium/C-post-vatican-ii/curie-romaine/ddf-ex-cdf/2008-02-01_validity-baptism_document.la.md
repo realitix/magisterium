@@ -1,5 +1,4 @@
    
-)    
 
 CONGREGATIO PRO DOCTRINA FIDEI
 
@@ -18,8 +17,6 @@ D. 2. Utrum qui baptizati sunt cum his formulis absolute baptizandi sunt?
 RESPONSA
 
 ***Ad primum:*** Negative.
-
-****
 
 ***Ad secundum:*** Affirmative.
 

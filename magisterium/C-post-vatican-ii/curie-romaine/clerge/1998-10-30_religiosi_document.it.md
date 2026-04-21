@@ -63,8 +63,6 @@ Il funzionalismo, che significa svuotamento del senso del ministero sacerdotale 
 
 **Rivolgiamoci, infine, alla loro vita penitente, così carica di frutti per l'azione apostolica di tutta la Chiesa: la eventuale debilitazione fisica o stanchezza morale, a causa di malattie o spossatezza, sarà davvero offerta preziosa e grata a Dio a vantaggio della santità di tutti. Essi vivranno l'esperienza di San Paolo, che in forza della sua unione con Cristo sofferente, affermava: ASono lieto delle sofferenze che sopporto per voi e completo nella mia carne quello che manca ai patimenti di Cristo, a favore del suo Corpo che è la Chiesa** (Col 1,24)***.***
 
-****
-
 4\) Riflessi del miglioramento della qualità di vita.
 
 Non possiamo tralasciare di riferirci alle nuove condizioni di vita che influenzano la longevità degli uomini, data la sviluppata assistenza sanitaria e la prevenzione di malattie ed infezioni. Non solamente ciò ha rilevanza perché nella Chiesa è presente un numero sempre più elevato di presbiteri e religiosi anziani, ma anche perché l'età avanzata non significa più difficoltà di salute, ridotta capacità di lavoro pastorale, incapacità di mantenere i ritmi impressi dalla propria missione sacerdotale o religiosa.

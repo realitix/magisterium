@@ -21,8 +21,6 @@ ATTO DI CARITÀ’.
 
 Dio mio, perché siete sommo e perfettissimo bene, io vi amo con tutto il cuore, e sopra ogni altra cosa; e piuttosto che offendervi, son disposto a perdere ogni cosa: e per amor vostro voglio amare il mio prossimo come me medesimo.
 
-*
-
 ATTO DI CONTRIZIONE.
 
 Dio mio, mi pento e mi dolgo con tutto il cuore de' miei peccati non solo per l' Inferno che ho meritato, e pel Paradiso che ho perduto, ma molto più mi pento, perché peccando ho disprezzato un Dio infinitamente buono ; vorrei prima esser morto, che avervi offeso , e per I' avvenire voglio prima morire, che offendervi mai più; e voglio fuggir ogni occasione prossima di peccato.

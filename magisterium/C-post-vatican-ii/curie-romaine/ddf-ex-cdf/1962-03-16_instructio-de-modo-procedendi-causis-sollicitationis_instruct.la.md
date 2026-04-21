@@ -4,8 +4,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 SUPREMAE SACRAE CONGREGATIONIS SANCTI OFFICII

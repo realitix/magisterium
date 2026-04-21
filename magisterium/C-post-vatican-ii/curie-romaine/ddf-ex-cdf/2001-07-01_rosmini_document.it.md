@@ -66,15 +66,12 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, il 1° luglio 2
 
 \+ JOSEPH Card. RATZINGER
 
-*  
 Prefetto  
-*
 
  
 
 \+ TARCISIO BERTONE, S.D.B.
 
-*  
 Arcivescovo emerito di Vercelli  
 Segretario*
 

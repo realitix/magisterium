@@ -207,7 +207,7 @@ L'Arca era poi una cassa di legno preziosissimo, coperto entro e fuori di puriss
 **53.** Dopo averli trattenuti per 40 anni nel deserto, Iddio introdusse gli ebrei nella terra promessa.
 
 Mosè la vide da lungi, ma non vi entrò: Giosuè gli succedette nel governo del popolo.  
-**   
+
 54.** Preceduti dall'Arca, passarono il fiume Giordano le cui acque si erano fermate per lasciare libero il passo nel letto del fiume: presero la città di Gerico, soggiogarono nella terra di Canaan i popoli che l'abitavano, e la divisero in dodici parti, quante erano le loro tribù. Così Iddio per mezzo del suo popolo castigò i gravissimi delitti di quelle genti.
 
 Queste tribù pigliarono il nome da Ruben, Simeone, Levi, Giuda, Isacar, Zabulon, Dan, Neftali, Gad, Aser, Beniamino, figli di Giacobbe, e da Efraim e Manasse, figli di Giuseppe. La tribù di Levi però non ebbe territorio; Iddio la chiamò all'uffizio sacerdotale, e volle tenerle luogo Egli stesso di porzione e di eredità. Dalla tribù di Giuda, secondo aveva profetizzato Giacobbe morente, nacque poi il Redentore del mondo.  

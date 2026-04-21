@@ -4,8 +4,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_po.html) - [ZH_CN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_zh_cn.html) - [ZH_TW](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_zh_tw.html)\]
@@ -47,9 +45,6 @@ Questa *Dichiarazione* non ha la pretesa di esaurire un argomento così ricco e 
 
 Víctor Manuel Card. Fernández  
 *Prefetto*
-
-**  
-**
 
 **Introduzione**
 
@@ -261,9 +256,6 @@ Prefetto*
 
 Ex Audientia Die ** **25.03.2024  
 Franciscus
-
-**  
-**
 
 **Indice**
 

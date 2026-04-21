@@ -622,7 +622,6 @@ I precetti della Chiesa sono cinque:
 
 5.  Non celebrare le nozze ne' tempi vietati, cioè dalla prima domenica dell'Avvento fino all' Epifania, e dal primo giorno di Quaresima fino all'ottava di Pasqua.
 
-***  
 2. - Del primo precetto della Chiesa.***
 
 ** 475. Che cosa ci ordina il primo precetto o comandamento della Chiesa: Ascoltare la Messa tutte le domeniche e le altre feste comandate?**

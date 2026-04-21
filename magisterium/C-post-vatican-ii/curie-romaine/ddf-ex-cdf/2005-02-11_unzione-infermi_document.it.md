@@ -11,7 +11,6 @@ dell'Unzione degli Infermi***
  
 
 **Nota  
-**
 
 Il Codice di Diritto Canonico nel [can. 1003 1](/archive/ITA0276/__P3I.HTM) (cfr anche can. 739 1 del *Codice dei Canoni delle Chiese Orientali*) riprende esattamente la dottrina espressa dal Concilio Tridentino (Sessio XIV, can. 4: DS 1719; cfr anche il *Catechismo della Chiesa Cattolica*, [n. 1516](/archive/ITA0014/__P4K.HTM)), secondo la quale soltanto i sacerdoti (Vescovi e presbiteri)  sono  Ministri  del  Sacramento  dell'Unzione degli Infermi.
 
@@ -29,7 +28,6 @@ Segretario*
 ------------------------------------------------------------------------
 
 **Lettera accompagnatoria  
-**
 
 *Agli Em.mi ed Ecc.mi  
 Presidenti delle Conferenze Episcopali,*
@@ -50,7 +48,6 @@ dev.mo
 ------------------------------------------------------------------------
 
 **Commento  
-**
 
 In questi ultimi decenni si sono manifestate delle tendenze teologiche che mettono in dubbio la dottrina della Chiesa secondo cui il Ministro del Sacramento dell'Unzione degli Infermi "est omnis et solus sacerdos". Il tema viene affrontato in prevalenza dal punto di vista pastorale, specialmente tenendo conto di quelle regioni in cui la scarsità di sacerdoti rende difficile l'amministrazione tempestiva del Sacramento, mentre tale difficoltà potrebbe essere risolta se i diaconi permanenti e anche laici qualificati potessero essere deputati Ministri del Sacramento.
 

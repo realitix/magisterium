@@ -43,7 +43,6 @@ Congregationis pro Doctrina Fidei Præfectus*
  ✠ Iacobus Morandi  
 Archiepiscopus tit. Cæretanus*  
 Secretarius  
- *
 
 ------------------------------------------------------------------------
 

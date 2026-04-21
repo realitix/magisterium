@@ -1,5 +1,4 @@
    
-)    
 
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
@@ -10,8 +9,6 @@ of the
 Leadership Conference of Women Religious***
 
  
-
-****
 
 ***I. Introduction***
 

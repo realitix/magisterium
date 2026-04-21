@@ -163,7 +163,6 @@ del *Compendio
 
 *Ai Venerabili Fratelli Cardinali, Patriarchi, Arcivescovi, Vescovi,  
 Presbiteri, Diaconi e a tutti i Membri del Popolo di Dio  
- *
 
 Vent’anni or sono iniziava l’elaborazione del *Catechismo della Chiesa Cattolica*, richiesto dall’Assemblea straordinaria del Sinodo dei Vescovi, in occasione del ventesimo anniversario della chiusura del Concilio Ecumenico Vaticano II.
 
@@ -243,7 +242,6 @@ DELLA FEDE**
 **SEZIONE PRIMA  
 «IO CREDO» - «NOI CREDIAMO»**
 
-**  
 1. Qual è il disegno di Dio per l'uomo?**
 
 1-25
@@ -298,9 +296,8 @@ Si può parlare di Dio, a tutti e con tutti, partendo dalle perfezioni dell'uomo
 CAPITOLO SECONDO
 
 **DIO VIENE INCONTRO ALL'UOMO  
-**  
+
 **LA RIVELAZIONE DI DIO  
- **
 
 **6. Che cosa Dio rivela all'uomo?**
 
@@ -350,7 +347,6 @@ Pur non appartenendo al deposito della fede, esse possono aiutare a vivere la st
 
      
 **LA TRASMISSIONE DELLA RIVELAZIONE DIVINA  
- **
 
 **11. Perché e in qual modo la Rivelazione divina va trasmessa?**
 
@@ -368,7 +364,6 @@ Dio «vuole che tutti gli uomini siano salvati ed arrivino alla conoscenza della
 
 La Tradizione Apostolica è la trasmissione del messaggio di Cristo, compiuta, sin dalle origini del cristianesimo, mediante la predicazione, la testimonianza, le istituzioni, il culto, gli scritti ispirati. Gli Apostoli hanno trasmesso ai loro successori, i Vescovi, e, attraverso questi, a tutte le generazioni fino alla fine dei tempi, quanto hanno ricevuto da Cristo e appreso dallo Spirito Santo.
 
-**  
 13. In quali modi si realizza la Tradizione Apostolica?**
 
 76
@@ -393,7 +388,6 @@ La Tradizione e la Sacra Scrittura sono tra loro strettamente congiunte e comuni
 
 Il deposito della fede è affidato dagli Apostoli alla totalità della Chiesa. Tutto il popolo di Dio, con il senso soprannaturale della fede, sorretto dallo Spirito Santo e guidato dal Magistero della Chiesa, accoglie la Rivelazione divina, sempre più la comprende e la applica alla vita.
 
-**  
 16. A chi spetta interpretare autenticamente il deposito della fede?**
 
 85-90  
@@ -410,7 +404,6 @@ Essi sono tra loro così strettamente uniti, che nessuno di loro esiste senza gl
 
   
 **LA SACRA SCRITTURA  
- **
 
 **18. Perché la Sacra Scrittura insegna la verità?**
 
@@ -477,9 +470,8 @@ La Sacra Scrittura dona sostegno e vigore alla vita della Chiesa. È, per i suoi
 CAPITOLO TERZO
 
 **LA RISPOSTA DELL'UOMO A DIO  
-**  
+
 **IO CREDO  
- **
 
 **25. Come risponde l'uomo a Dio che si rivela?**
 
@@ -528,7 +520,6 @@ Anche se la fede supera la ragione, non vi potrà mai essere contraddizione tra 
 
   
 **NOI CREDIAMO  
- **
 
 **30. Perché la fede è un atto personale e insieme ecclesiale?**
 
@@ -564,7 +555,6 @@ DELLA FEDE CRISTIANA**
 
 **IL CREDO**
 
-**  
 Simbolo degli Apostoli  
   
 **Io credo in Dio, Padre onnipotente, Creatore del cielo e della terra.  
@@ -2460,7 +2450,6 @@ DELLA CHIESA**
  
 
 **LITURGIA - OPERA DELLA SANTISSIMA TRINITÀ  
- **
 
 **221. In che modo il Padre è la sorgente e il fine della liturgia?**
 
@@ -3770,7 +3759,6 @@ Solitamente le esequie comprendono quattro momenti principali: l'accoglienza del
 LA VOCAZIONE DELL'UOMO:  
 LA VITA NELLO SPIRITO**
 
-**   
 357. Come la vita morale cristiana è legata alla fede e ai Sacramenti?**
 
 1691-1698
@@ -3907,7 +3895,6 @@ Vi sono atti, la cui scelta è sempre illecita a motivo del loro oggetto (ad ese
  
 
 **LA MORALITÀ DELLE PASSIONI  
- **
 
 **370. Che cosa sono le passioni?**
 
@@ -4104,7 +4091,6 @@ I *frutti* dello Spirito Santo sono perfezioni plasmate in noi come primizie del
  
 
 **IL PECCATO  
- **
 
 **391. Che cosa comporta per noi l'accoglienza della misericordia di Dio?**
 
@@ -4533,7 +4519,6 @@ Perché con la loro vita conforme al Signore Gesù i cristiani attirano gli uomi
 **SEZIONE SECONDA  
 I DIECI COMANDAMENTI**
 
-**  
 Esodo  
 20,2-17**  
   
@@ -5579,7 +5564,6 @@ NELLA VITA CRISTIANA**
 CAPITOLO PRIMO
 
 **LA RIVELAZIONE DELLA PREGHIERA  
- **
 
 **535. Perché esiste una chiamata universale alla preghiera?**
 
@@ -6257,14 +6241,14 @@ B\) FORMULE DI DOTTRINA CATTOLICA
  
 
 **Segno della Croce  
-**  
+
 Nel nome del Padre  
 e del Figlio  
 e dello Spirito Santo. Amen.  
  
 
 **Gloria al Padre  
-**  
+
 Gloria al Padre  
 e al Figlio  
 e allo Spirito Santo.  
@@ -6274,7 +6258,7 @@ nei secoli dei secoli. Amen.
  
 
 **Ave, Maria  
-**  
+
 Ave, o Maria, piena di grazia,  
 il Signore è con te.  
 Tu sei benedetta fra le donne  
@@ -6287,7 +6271,7 @@ Amen.
  
 
 **Angelo di Dio  
-**  
+
 Angelo di Dio,  
 che sei il mio custode  
 illumina, custodisci,  
@@ -6298,7 +6282,7 @@ Amen.
  
 
 **L'Eterno riposo  
-**  
+
 L'eterno riposo dona loro, o Signore,  
 e splenda ad essi la luce perpetua.  
 Riposino in pace. Amen.  
@@ -6321,7 +6305,7 @@ Ave Maria...
 *Prega per noi, santa Madre di Dio.  
 *Perché siamo resi degni  
 delle promesse di Cristo.  
-*  
+
 Preghiamo.  
 *Infondi nel nostro spirito la tua grazia,  
 o Padre;  
@@ -6333,10 +6317,9 @@ guidaci alla gloria della risurrezione.
 Per Cristo nostro Signore.  
 Amen.  
 *Gloria al Padre...  
- *
 
 **Regina Cæli  
-**  
+
 *Regina dei cieli, rallegrati,  
 alleluia.  
 *- Cristo, che hai portato nel grembo,  
@@ -6348,7 +6331,7 @@ alleluia.
 *Rallegrati, Vergine Maria,  
 alleluia.  
 *- Il Signore è veramente risorto, alleluia.  
-*  
+
 Preghiamo.  
 *O Dio, che nella gloriosa risurrezione del tuo Figlio hai ridato la gioia al mondo intero, per intercessione di Maria Vergine, concedi a noi di godere la gioia della vita senza fine.  
 Per Cristo nostro Signore.  
@@ -6356,7 +6339,7 @@ Amen.
  
 
 **Salve, Regina  
-**  
+
 Salve, Regina,  
 madre di misericordia,  
 vita, dolcezza e speranza nostra, salve.  
@@ -6374,7 +6357,7 @@ o dolce Vergine Maria!
  
 
 **Magnificat  
-**  
+
 L'anima mia magnifica il Signore  
 e il mio spirito esulta in Dio,  
 mio salvatore,  
@@ -6406,7 +6389,7 @@ nei secoli dei secoli. Amen.
  
 
 **Sotto la tua protezione  
-**  
+
 Sotto la tua protezione  
 cerchiamo rifugio,  
 santa Madre di Dio:  
@@ -6417,7 +6400,7 @@ o Vergine gloriosa e benedetta.
  
 
 **Benedictus  
-**  
+
 Benedetto il Signore, Dio d'Israele,  
 perché ha visitato  
 e redento il suo popolo,  
@@ -6460,7 +6443,7 @@ Amen.
  
 
 **Te Deum  
-**  
+
 Noi ti lodiamo, Dio,  
 ti proclamiamo Signore.  
 O eterno Padre,  
@@ -6516,7 +6499,7 @@ non saremo confusi in eterno.
  
 
 **Vieni, o Spirito Creatore  
-**  
+
 Vieni, o Spirito creatore,  
 visita le nostre menti,  
 riempi della tua grazia  
@@ -6549,7 +6532,7 @@ uniti in un solo Amore. Amen.
  
 
 **Vieni, Santo Spirito  
-**  
+
 Vieni, Santo Spirito,  
 manda a noi dal cielo  
 un raggio della tua luce.  
@@ -6592,7 +6575,7 @@ dona gioia eterna. Amen.
  
 
 **Anima di Cristo  
-**  
+
 Anima di Cristo, santificami.  
 Corpo di Cristo, salvami.  
 Sangue di Cristo, inebriami.  
@@ -6610,13 +6593,13 @@ nei secoli dei secoli. Amen.
  
 
 **Memorare  
-**  
+
 Ricordati, o piissima Vergine Maria, non essersi mai udito al mondo che alcuno abbia ricorso al tuo patrocinio, implorato il tuo aiuto, chiesto la tua protezione e sia stato abbandonato. Animato da tale confidenza, a te ricorro, o Madre, Vergine delle Vergini, a te vengo e, peccatore contrito, innanzi a te mi prostro.  
 Non volere, o Madre del Verbo, disprezzare le mie preghiere, ma ascoltami propizia ed esaudiscimi. Amen.  
  
 
 **Rosario  
-**  
+
 Misteri della gioia  
 *(da recitare lunedì e sabato)  
   
@@ -6628,7 +6611,7 @@ Il ritrovamento di Gesù nel Tempio.
   
 Misteri della luce  
 *(da recitare giovedì)  
-*  
+
 Il battesimo di Gesù al Giordano.  
 L'auto-rivelazione di Gesù  
 alle nozze di Cana.  
@@ -6640,7 +6623,7 @@ L'istituzione dell'Eucaristia.
   
 Misteri del dolore  
 *(da recitare martedì e venerdì)  
-*  
+
 Gesù nell'orto degli ulivi. *  
 *Gesù flagellato alla colonna.  
 Gesù è coronato di spine.  
@@ -6668,7 +6651,7 @@ delle promesse di Cristo.
 
 **Preghiera dell'incenso  
 ***(Tradizione Copta)  
-*  
+
 O Re della pace, dacci la tua pace e perdona i nostri peccati. Allontana i nemici della Chiesa e custodiscila, affinché non venga meno.  
 L'Emmanuele nostro Dio è in mezzo a noi nella gloria del Padre e dello Spirito Santo.  
 Ci benedica e purifichi il nostro cuore e risani le malattie dell'anima e del corpo.  
@@ -6687,18 +6670,18 @@ Sta in pace, o Altare di Dio. L'oblazione che ho preso da te, sia per la remissi
  
 
 **Atto di fede  
-**  
+
 Mio Dio, perché sei verità infallibile, credo tutto quello che tu hai rivelato e la Santa Chiesa ci propone a credere. Credo in te, unico vero Dio in tre persone uguali e distinte, Padre e Figlio e Spirito Santo.  
 Credo in Gesù Cristo, Figlio di Dio incarnato, morto e risorto per noi, il quale darà a ciascuno, secondo i meriti, il premio o la pena eterna. Conforme a questa fede voglio sempre vivere. Signore, accresci la mia fede. Amen.  
  
 
 **Atto di speranza  
-**  
+
 Mio Dio, spero dalla tua bontà, per le tue promesse e per i meriti di Gesù Cristo, nostro Salvatore, la vita eterna e le grazie necessarie per meritarla con le buone opere, che io debbo e voglio fare. Signore, che io possa goderti in eterno. Amen.  
  
 
 **Atto di carità  
-**  
+
 Mio Dio, ti amo con tutto il cuore sopra ogni cosa, perché sei bene infinito e nostra eterna felicità; e per amar tuo amo il prossimo come me stesso e perdono le offese ricevute. Signore, che io ti ami sempre più. Amen.  
  
 
@@ -6711,14 +6694,14 @@ Propongo con il tuo santo aiuto di non offenderti mai più e di fuggire le occas
  
 
 **Signum Crucis  
-**  
+
 In nómine Patris  
 et Filii  
 et Spíritus Sancii. Amen.  
  
 
 **Gloria Patri  
-**  
+
 Glória Patri  
 et Fílio  
 et Spirítui Sancto.  
@@ -6728,7 +6711,7 @@ et in sǽcula sæculórum. Amen.
  
 
 **Ave, Maria  
-**  
+
 Ave, Maria, grátia plena,  
 Dóminus tecum.  
 Benedícta tu in muliéribus,  
@@ -6739,7 +6722,7 @@ Amen.
  
 
 **Angele Dei  
-**  
+
 Ángele Dei,  
 qui custos es mei,  
 me, tibi commíssum pietáte supérna,  
@@ -6749,14 +6732,14 @@ Amen.
  
 
 **Requiem Æternam  
-**  
+
 Réquiem ætérnam dona eis, Dómine,  
 et lux perpétua lúceat eis.  
 Requiéscant in pace. Amen.  
  
 
 **Angelus Domini**  
-*  
+
 Ángelus Dómini  
 nuntiávit Mariæ.  
 *Et concépit  
@@ -6772,7 +6755,7 @@ Ave, Maria...
 *Ora pro nobis, sancta Dei génetrix.  
 *Ut digni efficiámur  
 promissiónibus Christi.  
-*  
+
 Orémus.  
 *Grátiam tuam, quǽsumus,  
 Dómine, méntibus nostris infunde;  
@@ -6784,10 +6767,9 @@ ad resurrectiónis glóriam perducámur.
 Per eúndem Christum  
 Dóminum nostrum. Amen.  
 *Glória Patri...  
- *
 
 **Regina Cæli  
-**  
+
 *Regína cæli lætáre,  
 allelúia.  
 *Quia quem merúisti portáre,  
@@ -6800,14 +6782,14 @@ allelúia.
 allelúia.*  
 Quia surréxit Dominus vere,  
 allelúia.  
-*  
+
 Orémus.  
 *Deus, qui per resurrectiónem Filii tui Dómini nostri Iesu Christi mundum lætificáre dignátus es, præsta, quǽsumus, ut per eius Genetrícem Virginem Maríam perpétuæ capiámus gáudia vitæ.  
 Per Christum Dóminum nostrum. Amen.  
  
 
 **Salve, Regina  
-**  
+
 Salve, Regína,  
 Mater misericórdiæ,  
 vita, dulcédo et spes nostra, salve.  
@@ -6825,7 +6807,7 @@ O clemens, o pia, o dulcis Virgo María!
  
 
 **Magnificat  
-**  
+
 Magníficat ánima mea Dóminum,  
 et exsultávit spíritus meus  
 in Deo salvatóre meo,  
@@ -6858,7 +6840,7 @@ Amen.
  
 
 **Sub tuum præsidium  
-**  
+
 Sub tuum præsídium confúgimus,  
 sancta Dei Génetrix;  
 nostras deprecatiónes ne despícias  
@@ -6869,7 +6851,7 @@ Virgo gloriósa et benedícta.
  
 
 **Benedictus  
-**  
+
 Benedíctus Dóminus, Deus Ísrael,  
 quia visitávit  
 et fecit redemptiónem plebi suæ,  
@@ -6913,7 +6895,7 @@ et in sǽcula sæculòrum. Amen.
  
 
 **Te Deum  
-**  
+
 Te Deum laudámus:  
 te Dóminum confitémur.  
 Te ætérnum Patrem,  
@@ -6973,7 +6955,7 @@ non confúndar in ætérnum.
  
 
 **Veni, Creator Spiritus  
-**  
+
 Veni, creátor Spíritus,  
 mentes tuòrum vísita,  
 imple supérna grátia,  
@@ -7011,7 +6993,7 @@ in sæculórum sǽcula. Amen.
  
 
 **Veni, Sancte Spiritus  
-**  
+
 Veni, Sancte Spíritus,  
 et emítte cǽlitus  
 lucis tuæ rádium.  
@@ -7054,7 +7036,7 @@ Amen.
  
 
 **Anima Christi  
-**  
+
 Ánima Christi, sanctífica me.  
 Corpus Christi, salva me.  
 Sanguis Christi, inébria me,  
@@ -7072,7 +7054,7 @@ Amen.
  
 
 **Memorare  
-**  
+
 Memoráre, o piíssima Virgo María, non esse auditum a sǽculo, quemquam ad tua curréntem præsidia, tua implorántem auxilia, tua peténtem suffrágia, esse derelíctum. Ego tali animátus confidéntia, ad te, Virgo Virginum, Mater, curro, ad te vénio, coram te gemens peccator assisto. Noli, Mater Verbi, verba mea despícere; sed áudi propitia et exáudi.  
 Amen.  
  
@@ -7127,24 +7109,24 @@ promissiónibus Christi.
  
 
 **Actus fidei  
-**  
+
 Dómine Deus, firma fide credo et confíteor ómnia et síngula quæ sancta Ecclésia Cathólica propónit, quia tu, Deus, ea ómnia revelásti, qui es ætérna véritas et sapiéntia quæ nec fállere nec falli potest.  
 In hac fíde vívere et mori státuo. Amen.  
  
 
 **Actus spei  
-**  
+
 Dómine Deus, spero per grátiam tuam remissiónem ómnium peccatórum, et post hanc vitam ætérnam felicitátem me esse consecutúrum: quia tu promisísti, qui es infiníte potens, fidélis, benígnus, et miséricors.  
 In hac spe vívere et mori státuo.  
 Amen.  
  
 
 **Actus caritatis  
-**  
+
 Dómine Deus, amo te super ómnia et próximum meum propter te, quia tu es summum, infinítum, et perfectíssimum bonum, omni dilectióne dignum. In hac caritáte vívere et mori státuo. Amen.
 
 **Actus contritionis  
-**  
+
 Deus meus, ex toto corde pǽnitet me ómnium meórum peccatórum, éaque detéstor, quia peccándo, non solum pœnas a te iuste statútas proméritus sum, sed præsértim quia offéndi te, summum bonum, ac dignum qui super ómnia diligáris. Ideo fírmiter propóno, adiuvánte grátia tua, de cétero me non peccatúrum peccandíque occasiónes próximas fugitúrum. Amen.  
  
 
@@ -7154,9 +7136,8 @@ Deus meus, ex toto corde pǽnitet me ómnium meórum peccatórum, éaque detést
 
  
 
-**  
 I due comandamenti di carità  
-**  
+
 1. Amerai il Signore tuo Dio,  
 con tutto il tuo cuore,  
 con tutta la tua anima  
@@ -7166,13 +7147,13 @@ e con tutta la tua mente.
 come te stesso.  
   
 **La regola d'oro** *(Mt* 7,12)**  
-**  
+
 Tutto quanto volete che gli uomini  
 facciano a voi,  
 anche voi fatelo a loro.  
   
 **Le Beatitudini** *(Mt* 5,3-12)**  
-**  
+
 Beati i poveri in spirito,  
 perché di essi è il regno dei cieli.  
 Beati gli afflitti,  
@@ -7199,7 +7180,7 @@ Rallegratevi ed esultate, perché grande
 è la vostra ricompensa nei cieli*.  
   
 ***I cinque *precetti* della Chiesa  
-**  
+
 1. Partecipare alla Messa la domenica e le altre feste comandate e rimanere liberi da lavori e da attività che potrebbero impedire la santificazione di tali giorni.  
 2. Confessare i propri peccati almeno una volta all'anno.  
 3. Ricevere il sacramento dell'Eucaristia almeno a Pasqua.  
@@ -7208,7 +7189,7 @@ Rallegratevi ed esultate, perché grande
   
 **Le sette opere  
 di *misericordia corporale  
-****  
+
 *1. Dar da mangiare agli affamati.  
 2. Dar da bere agli assetati.*  
 *3. Vestire gli ignudi.  
@@ -7218,21 +7199,21 @@ di *misericordia corporale
 7. Seppellire i morti.  
   
 **Le tre virtù *teologali  
-****  
+
 *1. Fede*  
 *2. Speranza  
 3. Carità.  
   
   
 **Le quattro virtù *cardinali  
-****  
+
 *1. Prudenza  
 2. Giustizia  
 3. Fortezza  
 4. Temperanza.  
   
 **I sette *doni* dello Spirito Santo  
-**  
+
 1. Sapienza  
 2. Intelletto  
 3. Consiglio  
@@ -7240,9 +7221,9 @@ di *misericordia corporale
 5. Scienza  
 6. Pietà  
 7. Timor di Dio*.  
-***  
+
 I dodici *frutti* dello Spirito Santo  
-**  
+
 1. Amore  
 2. Gioia*  
 *3. Pace  
@@ -7258,7 +7239,7 @@ I dodici *frutti* dello Spirito Santo
   
 **Le sette opere  
 di *misericordia spirituale  
-****  
+
 *1. Consigliare i dubbiosi.*  
 *2. Insegnare agli ignoranti.  
 3. Ammonire i peccatori.  
@@ -7268,7 +7249,7 @@ di *misericordia spirituale
 7. Pregare Dio per i vivi e per i morti.  
   
 ** I sette *vizi capitali  
- ****  
+
 *1. Superbia*  
 *2. Avarizia  
 3. Lussuria  
@@ -7278,7 +7259,7 @@ di *misericordia spirituale
 7. Accidia.  
   
 **I quattro novissimi  
-**  
+
 1. Morte  
 2. Giudizio  
 3. Inferno  

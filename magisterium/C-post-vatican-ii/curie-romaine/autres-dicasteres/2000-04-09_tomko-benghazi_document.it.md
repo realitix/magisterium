@@ -11,8 +11,6 @@ PER LA COMUNITÀ ITALIANA A BENGHAZI ***
 
  
 
-****
-
 **** Insieme al vostro Vescovo Mons. Martinelli e al Rappresentante del Papa in questo Paese, Mons. Gatti, rivolgo un cordiale saluto a tutti voi, qui riuniti per un incontro con Dio nel sacrificio eucaristico.  
 Ringrazio Dio grande e misericordioso che mi dà la gioia di incontrarvi e di portarvi il saluto e la benedizione del Santo Padre Giovanni Paolo II, che vi impartirò alla fine della Santa Messa. Ringrazio, poi, le Autorità di questo bel Paese per l'ospitalità che mi stanno riservando in questo mio viaggio apostolico.
 

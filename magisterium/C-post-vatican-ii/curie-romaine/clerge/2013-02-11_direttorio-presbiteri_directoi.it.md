@@ -281,9 +281,6 @@ Possa Maria far risuonare nei nostri cuori, giorno dopo giorno, e particolarment
 > affinché il Padre e il Figlio riversino su di noi,  
 > come in una nuova effusione, lo Spirito Santo»[\[7\]](#_ftn7).
 
-**  
-**
-
 **I. IDENTITÀ DEL PRESBITERO**
 
 Nella sua Esortazione apostolica post-sinodale *[Pastores dabo vobis](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis_it.html)*, il Beato [Giovanni Paolo II](/holy_father/john_paul_ii/index_it.htm) disegna l’identità del sacerdote: «I presbiteri sono, nella Chiesa e per la Chiesa, una ripresentazione sacramentale di Gesù Cristo Capo e Pastore, ne proclamano autorevolmente la parola, ne ripetono i gesti di perdono e di offerta della salvezza, soprattutto col Battesimo, la Penitenza e l’Eucaristia, ne esercitano l’amorevole sollecitudine, fino al dono totale di sé per il gregge, che raccolgono nell’unità e conducono al Padre per mezzo di Cristo nello Spirito»[\[8\]](#_ftn8).
@@ -619,7 +616,6 @@ Come Gesù (cf. *Gv* 6,15 ss), il presbitero «deve rinunciare ad impegnarsi in 
 Il presbitero ricorderà che «non spetta ai Pastori della Chiesa intervenire direttamente nell’azione politica e nell’organizzazione sociale. Questo compito, infatti, fa parte della vocazione dei fedeli laici, i quali operano di propria iniziativa insieme con i loro concittadini»[\[183\]](#_ftn183); egli, tuttavia, non mancherà, seguendo i criteri del Magistero, di applicarsi «nello sforzo di formare rettamente la loro coscienza»[\[184\]](#_ftn184). Il sacerdote ha quindi una particolare responsabilità di spiegare, promuovere e, se necessario, difendere – sempre seguendo gli orientamenti del diritto e del Magistero della Chiesa – le verità religiose e morali, anche di fronte all’opinione pubblica e addirittura, se si possiede la necessaria preparazione specifica, nell’ampio campo dei mass-media. In una cultura sempre più secolarizzata, in cui la religione è spesso trascurata e considerata come irrilevante o illegittima nel dibattito sociale, o tutt’al più confinata solo nell’intimità delle coscienze, il sacerdote è chiamato a sostenere il significato pubblico e comunitario della fede cristiana, trasmettendola in modo chiaro e convincente, in ogni occasione, al momento opportuno e non opportuno (cf. *2Tm* 4,2), e tenendo conto di quel patrimonio di insegnamenti che costituisce la Dottrina Sociale della Chiesa. Il *[Compendio della dottrina sociale della Chiesa](/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_it.html)* è un efficace strumento che lo aiuterà a presentare questo insegnamento sociale e mostrarne la ricchezza nel contesto culturale odierno.
 
 La riduzione della sua missione a compiti temporali, puramente sociali o politici o comunque alieni alla sua identità, non sarebbe una conquista ma una perdita gravissima per la fecondità evangelica della Chiesa intera.**  
-**
 
 **II. SPIRITUALITÁ SACERDOTALE**
 
@@ -1095,7 +1091,6 @@ Ma non si è figli devoti se non si sanno imitare le virtù della Madre. A Maria
 
 Capolavoro del Sacrificio sacerdotale di Cristo, la sempre Vergine Madre di Dio rappresenta la Chiesa nel modo più puro, «senza macchia né ruga», tutta «santa e immacolata» (*Ef* 5,27). Questa contemplazione della beata Vergine, – a cui si affianca anche San Giuseppe, maestro di vita interiore –, pone dinanzi al presbitero l’ideale a cui tendere nel ministero della propria comunità, affinché pure questa sia «Chiesa tutta gloriosa» (*ibid.*) mediante il dono sacerdotale della propria vita.**  
   
-**
 
 **III. FORMAZIONE PERMANENTE**
 
@@ -1472,9 +1467,7 @@ Madre dei Sacerdoti.
 
 Amen!
 
-**  
   
-**
 
  
 

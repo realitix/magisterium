@@ -31,9 +31,6 @@ Questa Congregazione auspica che la *Guida*, in cui si ricordano criteri, indica
 **+ Arthur Roche*****  
 **Arcivescovo Segretario*
 
-*   
-*
-
 ------------------------------------------------------------------------
 
 **[Introduzione](#Introduzione)** 

@@ -3,11 +3,9 @@
 
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
-***  
 NOTA DOTTRINALE*  
 circa alcune questioni riguardanti   
 l'impegno e il comportamento dei cattolici nella vita politica   
-**
 
   
 

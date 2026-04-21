@@ -537,7 +537,6 @@ GIOVANNI PAOLO II
 146 Cf Cost. dogm. sulla Chiesa Lumen gentium, 69.  
   
 \[147\] Conc. Ecum. Vat. II, Cost. dogm. sulla divina rivelazione Dei Verbum, 2: "Con questa rivelazione Dio invisibile... nel suo grande amore parla agli uomini come ad amici... e si intrattiene con essi, per invitarli alla comunione con sé ed accoglierli in essa.".  
- )))
 
 Copyright © Dicastero per la Comunicazione
 

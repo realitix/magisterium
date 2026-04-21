@@ -20,8 +20,6 @@ Venerdì, 12 dicembre 2008*
 
  
 
-****
-
 ***INTERVENTO DI S.E. MONS. LUIS FRANCISCO LADARIA FERRER, S.I.***
 
 In questa introduzione generale alla nuova Istruzione *[Dignitas personae](rc_con_cfaith_doc_20081208_dignitas-personae_it.html)* mi limito a dire una breve parola innanzitutto circa il contesto in cui il Documento è nato, poi circa il suo scopo e valore dottrinale e, infine, circa la struttura del testo e il suo messaggio centrale.
@@ -56,8 +54,6 @@ In conclusione, si spera che i fedeli e anche tutti gli uomini di buona volontà
 
  
 
-****
-
 INTERVENTO DI S.E. MONS. RINO FISICHELLA
 
 Nella costituzione pastorale *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html)*, i Padri conciliari scrivevano: "Dio, padrone della vita, ha affidato agli uomini l'altissima missione di proteggere la vita: missione che deve essere adempiuta in modo degno dell'uomo. Perciò la vita, una volta concepita, deve essere protetta con la massima cura" (n. 51). È sulla lunghezza d'onda di questo insegnamento che si dovrebbe porre l'[Istruzione *Dignitas personae*](rc_con_cfaith_doc_20081208_dignitas-personae_it.html). I suoi contenuti non sono altro che una genuina promozione del senso della vita umana e una sua spassionata difesa. Perché la vita umana possa essere promossa è necessario che si crei una cultura favorevole alla sua accoglienza in ogni espressione che ne viene manifestata. È necessario, per questo, l'apporto condiviso di quanti, credenti o non credenti, ritengono che questo sia il momento favorevole per approdare a uno sforzo comune in favore dell'accoglienza della vita personale. Se in alcuni momenti, comunque, diventa urgente giungere anche a una difesa della umana, per paradossale che possa sembrare, significa che questa è in serio pericolo. Non è la visione catastrofica quella che caratterizza l'insegnamento della Chiesa; ciò che preme, piuttosto, è una lettura realistica del momento presente che come ogni epoca storica è sottoposta a tante luci e molte ombre.
@@ -73,8 +69,6 @@ Alla luce di questi principi si comprendono i giudizi morali che vengono dati in
 Non sarà da dimenticare, da ultimo, il coraggio con cui *[Dignitas personae](rc_con_cfaith_doc_20081208_dignitas-personae_it.html)* affronta il tema della manipolazione genetica che in molti casi ormai ha tutte le caratteristiche per essere definita *eugenetica* e, pertanto, intrinsecamente immorale. Questo giudizio si fonda sul presupposto che tale sperimentazione teorizza di fatto la disuguaglianza tra le persone, enfatizzando oltre misura doti e caratteristiche che non costituiscono l’essenza e la peculiarità della persona stessa. In questo senso, l'insegnamento che se ne ricava è quanto mai lungimirante. Esso provoca a riflettere sul rischio di non cadere in nuove forme di schiavitù che già si affacciano all'orizzonte. Si è dinanzi, infatti, a una *schiavitù biologica* secondo cui una persona si arroga il diritto arbitrario di determinare le caratteristiche genetiche di un altro essere umano. Quanto questa pretesa manifesti una *hybris* talmente riprovevole non ha bisogno di dimostrazione. Questo comportamento, che ben poco ha dello scientifico, non trova giustificazione alcuna se non l’esercizio del puro potere del più forte sugli altri. Una simile sperimentazione va chiamata con il suo giusto nome e non dovrà essere la Chiesa ad avere timore nel doverne denunciare i pericoli.
 
 Pensiamo che solo una vera educazione al rispetto di sé e degli altri, unita ad una corretta formazione a cogliere il proprio limite possa permettere un rinnovato senso di impegno per la vita. D'altronde, la grandezza della persona consiste proprio nell'avere coscienza del proprio limite e in forza di questo, saper guardare oltre verso una trascendenza infinita che ha voluto imprimere dignità alla vita umana assumendola su di sé e diventando egli stesso persona. Poiché in Gesù di Nazareth "la vita si è fatta visibile" (1 Gv 1,2) e noi ne siamo testimoni, viviamo con la responsabilità di rendere partecipi uomini e donne che incontriamo nel cammino della vita di questo grande mistero che suscita ogni giorno meraviglia e stupore.
-
-****
 
  
 
@@ -143,8 +137,6 @@ Il ricorso alla riduzione embrionale, che si configura come "un aborto intenzion
 Il collegamento con le tecniche di fecondazione artificiale e le già indicate conseguenze a danno dell’embrione umano sono le ragioni del rifiuto della crioconservazione di oociti in ordine "al processo di procreazione artificiale" (n. 20).
 
 Un’altra forma di attentato alla dignità di persona dell’embrione umano è rappresentato dal ricorso a prodotti ad azione intercettiva, che impediscono l’annidamento dell’embrione in utero, o ad azione contragestativa che provocano il distacco dell’embrione già annidato. Tra i prodotti intercettivi si fa riferimento alla spirale e alla "pillola del giorno dopo"; il prodotto controgestativo più noto è la pillola RU486, oltre le prostaglandine e il Metrotrexate. Per quanto riguarda l’intercezione, con cui l’azione di impedimento dell’impianto può essere – anche se non sempre – presente, è da sottolineare che già la sola probabilità che questo possa avvenire rende l’intenzionalità di chi la prescrive e di chi la usa abortiva.. Di conseguenza – si legge al n. 23 della Istruzione *[Dignitas personae](rc_con_cfaith_doc_20081208_dignitas-personae_it.html)* – "l’uso dei mezzi di intercezione e di contragestazione rientra nel peccato di aborto ed è gravemente immorale" (n. 23).
-
-****
 
  
 

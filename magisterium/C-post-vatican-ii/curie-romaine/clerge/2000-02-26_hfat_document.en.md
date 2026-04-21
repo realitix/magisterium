@@ -25,8 +25,6 @@ Dear Deacons and your relatives,
 
 You have come to Rome to celebrate your Jubilee: I welcome you with affection! This is an excellent occasion to reflect on the meaning and value of your permanent and not transitory identity as those ordained not for the priesthood, but for the diaconate (cf. Second Vatican Council *Lumen gentium,* n. 29). As ministers of God's People, you are called to work in liturgical service, in teaching and catechesis, and in the service of charity in communion with the Bishop and the presbyterate. And this extraordinary year of grace, which is the Jubilee, aims at helping you grasp even more radically the beauty of life in Christ. Life in the One who is the Holy Door!
 
-****
-
  
 
  
@@ -46,8 +44,6 @@ In our times too there are people whom God calls to the martyrdom of blood; far 
 Before the Holy Door we sense the need to "break away" from our selfish world, from our doubts, from our infidelities, and we hear the pressing invitation to "enter" the holy world of Jesus, which is the world of full fidelity to the One, Holy, Catholic and Apostolic Church. The divine Teacher's words echo in our hearts: "Come to me, all who labour and are heavy laden, and I will give you rest" (Mt 11:28).
 
 Dear deacons, perhaps some of you are tired because of the burden of your duties, because of frustration due to unsuccessful apostolic projects, because many misunderstand you. Do not lose heart! Throw yourselves into Christ's arms: he will refresh you. May this be your Jubilee: a pilgrimage of conversion to Jesus.
-
-****
 
  
 

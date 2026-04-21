@@ -254,7 +254,6 @@ Nel ricevere il santo Battesimo, si rinuncia per sempre al demonio, alle sue ope
 
 Per opere e pompe del demonio si intendono i peccati, e le massime del mondo contrarie alle massime del santo Vangelo.
 
-***  
 5. - Nome e Padrini.***
 
 #### 571. Perché s'impone il nome di un Santo a colui che si battezza?
@@ -471,7 +470,6 @@ La santissima Eucaristia si conserva nelle chiese affinché sia adorata dai fede
 
 L'Eucaristia si deve adorare da tutti, perché contiene veramente, realmente e sostanzialmente lo stesso N. S. Gesù Cristo.
 
-***  
 2******. - Della istituzione e degli effetti del sacramento dell'Eucaristia.***
 
 #### 622. In qual tempo Gesù Cristo ha istituito il sacramento dell'Eucaristia?
@@ -814,7 +812,6 @@ L'assoluzione è la sentenza, che il sacerdote pronunzia in nome di Gesù Cristo
 
 Delle parti del sacramento della Penitenza la più necessaria è la contrizione, perché senza di essa non si può mai ottenere il perdono dei peccati, e con essa sola, quando sia perfetta, si può ottenere il perdono, purché sia congiunta col desiderio, almeno implicito, di confessarsi.
 
-***  
 2. - Degli effetti e della necessità del sacramento della Penitenza  
 e delle disposizioni per ben riceverlo.***
 

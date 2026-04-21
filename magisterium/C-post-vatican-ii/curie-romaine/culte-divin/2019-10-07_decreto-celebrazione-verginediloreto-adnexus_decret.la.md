@@ -63,7 +63,6 @@ BEATÆ MARIÆ VIRGINIS DE LORETO
 Alma Domus – quam chronica anno 1465 exarata dicit inventam nocte inter 9 et 10 decembris 1294, in ipso colle ubi adhuc est – origo est devotionis marianæ quæ in sanctuario Lauretano ostenditur, memoria mysterii incarnationis atque exemplorum evangelicorum Sanctæ Familiæ Nazarethanæ. Multi Summi Pontifices apostolicam curam sanctuario Virginis Lauretanæ tribuerunt, quæ a Benedicto XV patrona aeronautarum proclamata est. Litaniæ vero Lauretanæ per universam Ecclesiam diffunduntur.
 
 De Communi b. Mariæ Virginis: Liturgia Horarum I, præter sequentia.**  
- **
 
 **Ad Officium lectionis**
 

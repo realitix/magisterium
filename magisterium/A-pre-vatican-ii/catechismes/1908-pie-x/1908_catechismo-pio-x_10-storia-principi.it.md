@@ -10,7 +10,6 @@
 **Il Catechismo Maggiore di San Pio X  
 ** *BREVE STORIA DELLA RELIGIONE*
 
- **  
 PRINCIPI E NOZIONI FONDAMENTALI**
 
  

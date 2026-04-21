@@ -2,8 +2,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 \[[BE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_be.html) - [CS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_cs.html) - [DE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_ge.html) - [EN](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html) - [ES](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sp.html) - [FR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_fr.html) - [IT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_it.html) - [HU](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_hu.html) - [LA](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_lt.html) - [LV](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_lv.html) - [PT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_po.html) - [SW](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sw.html) - [ZH](/chinese/concilio/vat-ii_optatam-totius_zh-t.pdf)\]

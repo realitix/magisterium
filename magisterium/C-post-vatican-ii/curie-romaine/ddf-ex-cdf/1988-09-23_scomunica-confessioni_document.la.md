@@ -1,5 +1,4 @@
    
-)   
 
 CONGREGATIO PRO DOCTRINA FIDEI
 

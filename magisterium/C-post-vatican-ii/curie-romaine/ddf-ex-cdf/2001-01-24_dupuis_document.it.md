@@ -9,9 +9,6 @@ NOTIFICAZIONE
 «Verso una teologia del pluralismo religioso»  
 *(Ed. Queriniana, Brescia 1997)**
 
-***  
-***
-
 **Preambolo**
 
  
@@ -83,7 +80,6 @@ La presente *Notificazione* non intende esprimere un giudizio sul pensiero sogge
 \+ Joseph Card. Ratzinger  
 *Prefetto*
 
-*  
 +* Tarcisio Bertone, SDB*  
 Arcivescovo emerito di Vercelli  
 Segretario*

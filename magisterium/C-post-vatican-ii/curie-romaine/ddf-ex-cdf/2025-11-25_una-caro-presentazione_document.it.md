@@ -4,8 +4,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 \[[IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro-presentazione_it.html)\]

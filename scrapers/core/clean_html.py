@@ -93,6 +93,26 @@ def _strip_dead_links(root: Node) -> int:
     return removed
 
 
+def _strip_nav_chrome_images(root: Node) -> int:
+    """Remove `<a>` tags that wrap a back/top/print/logo chrome image, even
+    when their href contains a parenthesis (e.g. `javascript:history.go(-1)`).
+
+    Called as a pre-pass before the generic image/anchor strippers — which
+    is safer because those don't gracefully handle chrome buttons whose
+    href uses `(...)` syntax.
+    """
+    removed = 0
+    for a in list(root.css("a")):
+        img = a.css_first("img")
+        if img is None:
+            continue
+        src = img.attributes.get("src", "") or ""
+        if _DEAD_IMG_SRC.search(src):
+            a.decompose()
+            removed += 1
+    return removed
+
+
 def _strip_empty_anchors(root: Node) -> int:
     """Remove `<a>` elements whose visible content is empty after prior
     strippings. Iterates until stable because removing one may empty its
@@ -162,8 +182,11 @@ def clean_scraped_html(root: Node) -> CleanStats:
     Returns a `CleanStats` with per-pass counts (mostly for debugging).
     """
     stats = CleanStats()
+    # Pre-pass : remove entire anchors wrapping a chrome image (safer than
+    # relying on the href strip when the URL contains parentheses).
+    stats.dead_links += _strip_nav_chrome_images(root)
     stats.images = _strip_chrome_images(root)
-    stats.dead_links = _strip_dead_links(root)
+    stats.dead_links += _strip_dead_links(root)
     # Two passes : removing anchors can make blocks empty, and removing blocks
     # can orphan further anchors (rare but possible). Loop until stable.
     while True:

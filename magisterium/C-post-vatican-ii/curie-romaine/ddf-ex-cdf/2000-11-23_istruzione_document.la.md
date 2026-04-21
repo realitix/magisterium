@@ -3,7 +3,6 @@
 Instructio de orationibus ad obtinendam a Deo sanationem
 
    
-)    
 
 ***INSTRUCTIO  
 DE ORATIONIBUS AD OBTINENDAM A DEO SANATIONEM***

@@ -3,9 +3,6 @@
 
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
-***  
-***
-
 ***NOTIFICAZIONE*  
 su alcune pubblicazioni del*  
 Prof. Dr. REINHARD MEßNER***
@@ -16,7 +13,6 @@ Prof. Dr. REINHARD MEßNER***
 
  
 
-**  
 INTRODUZIONE**
 
 *** ***
@@ -44,7 +40,6 @@ Nel gennaio 1998 la Congregazione per la Dottrina della Fede, a motivo della ser
   
 LE FONTI DELLA FEDE
 
-**   
 La trasmissione della predicazione apostolica**
 
  

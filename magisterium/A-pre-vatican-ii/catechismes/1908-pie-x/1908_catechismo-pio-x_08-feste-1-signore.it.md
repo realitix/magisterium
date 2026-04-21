@@ -11,7 +11,6 @@
 ** *ISTRUZIONE SOPRA LE FESTE DEL SIGNORE  
 DELLA B. VERGINE E DEI SANTI*
 
- **  
 PARTE PRIMA  
 DELLE FESTE DEL SIGNORE**
 
@@ -191,7 +190,6 @@ Per celebrare degnamente la solennità dell'Epifania secondo la mente della Chie
 
 4.  offerirgli ad esempio de' Magi qualche tributo della nostra divozione colla pratica della limosina, della orazione e della mortificazione cristiana.
 
-**  
 CAPO V.  Delle domeniche di  
 settuagesima, sessagesima e quinquagesima.**
 

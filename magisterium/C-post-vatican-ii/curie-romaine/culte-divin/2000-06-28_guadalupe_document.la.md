@@ -6,7 +6,6 @@ Prot. 803/99/L
   
 ***DECRETUM***
 
-**  
 de festo Beatae Mariae Virginis de Guadalupe  
 in tota America quotannis die 12 decembris peragendo**
 

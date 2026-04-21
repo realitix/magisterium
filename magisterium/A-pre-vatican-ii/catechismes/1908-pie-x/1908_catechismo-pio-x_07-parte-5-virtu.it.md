@@ -61,7 +61,6 @@ Siamo obbligati di fare gli atti di Fede, di Speranza e di Carità:
 
 3.  in pericolo di morte.
 
-***  
 2. - Della fede.***
 
 **864. Che cosa è la Fede?**

@@ -14,8 +14,6 @@ PER LA GIORNATA MISSIONARIA MONDIALE 2003***
 
 ------------------------------------------------------------------------
 
-****
-
 INTERVENTO DELL’EM.MO CARD. CRESCENZIO SEPE
 
 I - PREMESSA
@@ -54,8 +52,6 @@ Lasciando ai miei collaboratori la presentazione della vita della Chiesa nei Con
 
 **DATI di *PROPAGANDA FIDE***
 
-****
-
 Circoscrizioni affidate al Dicastero missionario. Al 31 dicembre 2002 il totale delle Circoscrizioni ecclesiastiche \[Arcidiocesi, Diocesi, Vicariati Apostolici, Prefetture Apostoliche *Missio Sui Iuris*, Amministrazioni Apostoliche, Ordinariati Militari, Abbazie Territoriali\] dipendenti da *Propaganda* erano 1.075, quasi il 39% di tutte le Circoscrizioni ecclesiastiche della Chiesa cattolica nel mondo. Di esse, 478 sono in Africa; 85 in America; 453 in Asia; 14 in Europa; 56 in Oceania. Le Arcidiocesi sono 177; le Diocesi 755; i Vicariati Apostolici 74; le Prefetture Apostoliche 45; le *Missio Sui Iuris* 11; le Amministrazioni Apostoliche 6; gli Ordinariati Militari 6; Abbazie Territoriali 1.
 
 Personale Apostolico. A servizio della *Missio Ad Gentes* lavorano all’incirca 85.000 sacerdoti, dei quali 52.000 appartengono al clero diocesano; 33.000 sono Religiosi.
@@ -92,8 +88,6 @@ Sul vasto mare aperto della Missione, la Chiesa alza le vele, sospinta dalla for
 
  
 
-****
-
  
 
 *INTERVENTO DI S.E. MONS. ROBERT SARAH*
@@ -116,15 +110,11 @@ La missione in Africa ha conosciuto un progresso quasi prodigioso: da 2 milioni 
 
 ***Oceania***
 
-****
-
 Anche se con diverse sfumature e specificità, l’Oceania condivide con l’Africa le stesse difficoltà socio-politiche, e la medesima povertà.
 
 Tuttavia, l’Oceania – il Continente navigante – registra numerosi progressi nel suo impegno di annuncio missionario. Nei 26 milioni di abitanti, che costituiscono la sua popolazione, ben 7 milioni sono cattolici, ossia il 26% del totale.
 
 ***Inculturazione***
-
-****
 
 In Oceania, come in Africa, e come in altre parti del mondo, l’inculturazione, il radicamento e l’appropriazione del messaggio evangelico costituisce, oggi, la principale opera missionaria. L’inculturazione del Vangelo è una vera e propria priorità pastorale. Ma di che cosa si tratta precisamente? L’inculturazione del messaggio evangelico e biblico non va presentata come un’aspirazione puramente umana, od una rivendicazione volta a legittimare una africanizzazione, al posto di una occidentalizzazione del Cristianesimo.
 
@@ -133,8 +123,6 @@ L’inculturazione non è né una canonizzazione, né una incoronazione della cu
 E, pertanto, l’inculturazione della fede cristiana è una sfida di santità perché permette di verificare il grado di santità, il livello di penetrazione evangelica, e di fede in Gesù Cristo da parte di una comunità cristiana.
 
  
-
-****
 
  
 
@@ -152,8 +140,6 @@ Nei paesi dell’Asia orientale abbiamo piccole comunità cattoliche che convivo
 Così, la necessità d’una animazione missionaria più incisiva della comunità cattolica del continente diventa importante. Le Chiese locali dell’Asia diventeranno i missionari dei loro fratelli e sorelle e troveranno il linguaggio più adatto per presentare Gesù, il Salvatore del mondo, all’Asia, specie attraverso una vita cristiana di testimonianza trasparente della santità, che è importante per il continente. Il continente Asiatico preferisce testimoni che maestri.
 
 Il [messaggio del Santo Padre per la Giornata Missionaria Mondiale del 2003](/holy_father/john_paul_ii/messages/missions/documents/hf_jp-ii_mes_20030221_world-day-for-missions-2003_it.html), parla proprio di Maria come modello di una vita vissuta in obbedienza totale al Signore. La Madre celeste è stata molto vicina ai fedeli asiatici, che hanno sempre dimostrato una grande dedizione a lei. Il Rosario che riflette profondamente sui punti importanti della vita di Gesù e la vicinanza della Madre celeste al Signore potrebbe diventare una vera e propria catechesi e preghiera missionaria per la Chiesa in Asia. Il Papa ci invita in questo anno del Rosario per una tale riflessione soprattutto sui misteri del Rosario.
-
-****
 
  
 

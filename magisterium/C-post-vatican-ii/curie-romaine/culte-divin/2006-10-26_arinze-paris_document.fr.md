@@ -86,5 +86,3 @@ Cher « Institut Supérieur de Liturgie », je t’adresse tout mes meilleurs v�
 
  
 
-**
-

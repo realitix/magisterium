@@ -4,8 +4,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_it.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_po.html)\]
@@ -98,9 +96,6 @@ Se invece si vuole cogliere soltanto una breve sintesi riflessiva per motivare l
 
 *Víctor Manuel Card. Fernández  
 Prefetto*
-
-*  
-  *
 
 **I. Introduzione**
 

@@ -41,7 +41,6 @@ Please, link this \*.html page.
 The absolute address of this document will be changed over time.  
   
   
-****
 
 |                                                                                                              |
 |:------------------------------------------------------------------------------------------------------------:|

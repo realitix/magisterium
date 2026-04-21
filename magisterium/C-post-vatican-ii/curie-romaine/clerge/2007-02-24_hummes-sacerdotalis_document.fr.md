@@ -217,7 +217,5 @@ A ce propos, les paroles du Saint-Père Benoît XVI sont éclairantes:  "Le vé
 
 37) Benoît XVI, *Discours à la Curie romaine lors de la présentation des voeux de Noël,* 22 décembre 2006.
 
-****
-
  
 

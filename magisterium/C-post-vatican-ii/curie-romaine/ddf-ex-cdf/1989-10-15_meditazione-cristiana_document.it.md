@@ -21,7 +21,6 @@ SU ALCUNI ASPETTI DELLA MEDITAZIONE CRISTIANA* \***
 - **[VII. "Io sono la via"](#VII._IO_SONO_LA_VIA)  
     
     
-  **
 
 **I. INTRODUZIONE**
 

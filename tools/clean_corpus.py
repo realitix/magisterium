@@ -54,6 +54,23 @@ _IMG_CHROME = re.compile(
     re.IGNORECASE | re.VERBOSE,
 )
 
+# Navigation chrome bar : line containing images of back/top/print buttons,
+# typically with `javascript:history.go(-1)` as the href (which breaks the
+# naive `[^)]*` regexes because of the internal parenthesis in `go(-1)`).
+# Strip the entire line.
+_NAV_CHROME_LINE = re.compile(
+    r"""
+    ^[ \t]*                                    # leading whitespace
+    .*                                         # any prefix on the line
+    (?:
+        /img/(?:back|up|top|print)\.(?:png|jpg|gif)
+      | javascript:history\.go
+    )
+    .*$                                        # rest of the line
+    """,
+    re.IGNORECASE | re.VERBOSE | re.MULTILINE,
+)
+
 # Image wrapped in a link — `[![alt](src)](url)`. Replace with nothing.
 _IMG_LINK_CHROME = re.compile(
     r"""
@@ -94,17 +111,42 @@ _DEAD_LINK = re.compile(
 # Remaining empty linked image shells — `[](url)` with nothing between brackets
 _EMPTY_LINK = re.compile(r"\[\s*\]\([^)]*\)")
 
+# Orphan punctuation lines : a line that is only brackets, parens, or pipes,
+# left behind by previous strips (notably when the URL contained nested
+# parentheses like `javascript:history.go(-1)` and the outer regex stopped
+# at the inner `)`).
+_ORPHAN_PUNCT_LINE = re.compile(
+    r"""
+    ^[ \t\xa0]*              # leading whitespace
+    [)(\[\]|*\-]{1,8}         # 1..8 bracket/pipe/asterisk/dash characters
+    [ \t\xa0]*$              # trailing whitespace
+    """,
+    re.MULTILINE | re.VERBOSE,
+)
+
 
 def clean_markdown(text: str) -> tuple[str, dict[str, int]]:
     """Apply all strips to a markdown string.
 
     Returns the cleaned text and a stats dict.
     """
-    stats = {"img_link_chrome": 0, "img_chrome": 0, "dead_link": 0, "empty_link": 0}
+    stats = {
+        "nav_chrome_line": 0,
+        "img_link_chrome": 0,
+        "img_chrome": 0,
+        "dead_link": 0,
+        "empty_link": 0,
+        "orphan_punct": 0,
+    }
 
-    def count(pattern: re.Pattern[str], key: str, repl: str) -> re.Pattern[str]:
-        # helper wrapper — not used; kept for reference
-        return pattern  # pragma: no cover
+    # 0. Nav chrome lines (back/top/print button bars, javascript:history.go).
+    # These must go first because their javascript: URLs contain parentheses
+    # that break the naive `[^)]*` regexes below.
+    def _drop_nav(_m: re.Match[str]) -> str:
+        stats["nav_chrome_line"] += 1
+        return ""
+
+    text = _NAV_CHROME_LINE.sub(_drop_nav, text)
 
     # 1. Images wrapped in a link : drop the whole construct.
     def _drop_img_link(_m: re.Match[str]) -> str:
@@ -135,7 +177,15 @@ def clean_markdown(text: str) -> tuple[str, dict[str, int]]:
 
     text = _EMPTY_LINK.sub(_drop_empty, text)
 
-    # 5. Collapse runs of blank lines introduced by the deletions.
+    # 5. Orphan punctuation lines left by the above passes (e.g. `)` alone
+    # on a line because an earlier URL contained an unbalanced parenthesis).
+    def _drop_orphan(_m: re.Match[str]) -> str:
+        stats["orphan_punct"] += 1
+        return ""
+
+    text = _ORPHAN_PUNCT_LINE.sub(_drop_orphan, text)
+
+    # 6. Collapse runs of blank lines introduced by the deletions.
     text = re.sub(r"\n{3,}", "\n\n", text)
 
     return text, stats
@@ -151,7 +201,14 @@ def main() -> int:
     if args.limit:
         mds = mds[: args.limit]
 
-    totals = {"img_link_chrome": 0, "img_chrome": 0, "dead_link": 0, "empty_link": 0}
+    totals = {
+        "nav_chrome_line": 0,
+        "img_link_chrome": 0,
+        "img_chrome": 0,
+        "dead_link": 0,
+        "empty_link": 0,
+        "orphan_punct": 0,
+    }
     changed_files = 0
 
     for md in mds:

@@ -10,7 +10,6 @@
 **Il Catechismo Maggiore di San Pio X  
 ** *APPENDICE: PREGHIERE E FORMULE IN REDAZIONE AGGIORNATA*
 
- **  
 ** **PREGHIERE E FORMULE -** **2**
 
  

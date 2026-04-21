@@ -12,7 +12,6 @@
 
 **LIBER III**
 
-***  
 DE ECCLESIAE MUNERE DOCENDI***
 
  

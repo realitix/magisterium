@@ -10,8 +10,6 @@ DI ULAANBAATAR IN MONGOLIA***
 
 *Sabato, 30 agosto 2003*
 
-**
-
 *Eminenza,  
 Eccellenza Signor Nunzio Apostolico,  
 Eccellenze,  

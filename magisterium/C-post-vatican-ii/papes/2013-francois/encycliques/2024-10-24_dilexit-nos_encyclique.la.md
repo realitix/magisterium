@@ -597,7 +597,6 @@ CONCLUSIO
 220\. Dominum Iesum oramus, ut ex eius Corde sancto aquae vivae flumina fluant, ad vulnera sananda, quae patimur, ut nostra amandi serviendique facultas roboretur, compulsi, docti, versum mundum iustum, solidalem ac fraternum una procedentes. Istud usque dum feliciter caelestis Regni convivium una simul celebrabimus. Ibi erit, qui resurrexit, Christus, qui omnes nostras dissimilitudines aequabit ex luce quae ab eius aperto Corde perpetuo manat. Qui in perpetuum sit benedictus!
 
 *Datum Romae, apud Sanctum Petrum, die XXIV mensis Octobris, anno MMXXIV, Pontificatus Nostri duodecimo.  
- *
 
 FRANCISCUS
 

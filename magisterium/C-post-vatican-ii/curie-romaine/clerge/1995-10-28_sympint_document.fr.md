@@ -67,23 +67,17 @@ Identité du prêtre
 
 L’office des prêtres, en tant qu’il est lié à l’Ordre épiscopal, participe à l’autorité par laquelle le Christ lui-même construit, sanctifie et gouverne son Corps. C’est pourquoi le sacerdoce des prêtres, s’il suppose les sacrements de l’initiation chrétienne, est cependant conféré au moyen du sacrement particulier qui, par l’onction du Saint-Esprit, les marque d’un caractère spécial, et les configure ainsi au Christ Prêtre, pour les rendre capables d’agir « en personne du Christ Tête ».
 
-****
-
 Presbyterorum Ordinis 2
 
  
 
 La connaissance de la nature et de la mission du sacerdoce ministériel est le présupposé nécessaire et en même temps le guide le plus sûr et le stimulant le plus fort pour développer dans l’Eglise l’action pastorale, en vue de la promotion et du discernement des vocations sacerdotales et de la formation de ceux qui sont appelés au ministère ordonné.
 
-****
-
 Pastores dabo vobis, 11
 
  
 
 Le sacerdoce ministériel rend tangible l’activité propre du Christ-Tête, et prouve que le Christ n’a pas abandonné son Église mais qu’il continue à lui donner la vie grâce à son sacerdoce éternel.
-
-****
 
 Directoire pour le ministère et la vie des prêtres, 1
 
@@ -139,23 +133,17 @@ La mission et le ministère du prêtre dans l’Eglise et dans le monde en mutat
 
 Exerçant, pour la part d’autorité qui est la leur, la charge du Christ Chef et Pasteur, les prêtres, au nom de l’évêque, rassemblent la famille de Dieu comme une fraternité qui n’a qu’une âme, et par le Christ dans l’Esprit, ils la conduisent à Dieu le Père. Pour exercer ce ministère, comme pour les autres charges du prêtre, ils reçoivent un pouvoir spirituel, qui est donné pour construire (cf. 2 Cor 10, 8 ; 13, 10).
 
-****
-
 Presbyterorum Ordinis, 6
 
  
 
 Les prêtres sont ainsi appelés à prolonger la présence du Christ, unique et souverain Pasteur, en retrouvant son style de vie et en se rendant en quelque sorte transparents à lui au milieu du troupeau qui leur est confié.
 
-****
-
 Pastores dabo vobis, 15
 
  
 
 Le prêtre, « comme prolongement visible et sacramentel du Christ, et à sa propre place en face de l’Église et du monde, comme origine permanente et toujours nouvelle du salut », se trouve inséré avec une responsabilité particulière dans la dynamique trinitaire. Son identité provient du *ministerium Verbi et sacramentorum*.
-
-****
 
 Directoire pour le ministère et la vie des prêtres, 4
 
@@ -209,23 +197,17 @@ La spiritualité sacerdotale
 
 « Vous donc, soyez parfaits comme votre Père céleste est parfait » (Mat. 5,48). Mais cette perfection, les prêtres sont tenus de l’acquérir à un titre particulier : en recevant l’Ordre, ils ont été consacrés à Dieu d’une manière nouvelle pour être les instruments vivants du Christ Prêtre éternel, habilités à poursuivre au long du temps l’action admirable par laquelle, dans sa puissance souveraine, il a restauré la communauté chrétienne tout entière. Dès lors qu’il tient à sa manière la place de la personne du Christ lui-même, tout prêtre est, de ce fait, doté aussi d’une grâce particulière ; elle vise à ce qu’en servant le peuple qui lui est confié et le peuple de Dieu tout entier, il puisse mieux tendre vers la perfection de Celui qu’il représente, et pour que sa faiblesse d’homme charnel se trouve guérie par la sainteté de Celui qui est devenu pour nous le Grand Prêtre « saint, innocent, immaculé, séparé des pécheurs » (Héb. 7, 26).
 
-****
-
 Presbyterorum Ordinis, 12
 
  
 
 Par la consécration sacramentelle, le prêtre est configuré à Jésus-Christ en tant que Tête et Pasteur de l’Eglise \[...\] Grâce à cette consécration, opérée par l’effusion de l’Esprit dans le sacrement de l’Ordre, la vie spirituelle du prêtre est empreinte, modelée et marquée par les comportements qui sont propres au Christ Tête et Pasteur de l’Eglise et qui se résument dans sa charité pastorale.
 
-****
-
 Pastores dabo vobis, 21
 
  
 
 Les prêtres maintiendront vivant leur ministère dans une vie spirituelle à laquelle ils accorderont une prééminence absolue, en évitant de la négliger par activisme. C’est justement pour pouvoir exercer fructueusement son ministère pastoral que le prêtre a besoin d’entrer dans une union particulière et profonde avec le Christ, le Bon Pasteur qui seul demeure le protagoniste principal de toute action pastorale.
-
-****
 
 Directoire pour le ministère et la vie des prêtres, 38
 
@@ -273,23 +255,17 @@ La communion et la fraternité entre les prêtres
 
 Les prêtres, constitués dans l’Ordre du presbytérat par l’Ordination, sont tous liés entre eux par une intime fraternité sacramentelle ; mais en particulier ils forment un presbyterium unique dans le diocèse au service duquel ils sont inscrits, sous un évêque propre. Certes, les tâches confiées sont diverses ; il s’agit pourtant d’un ministère sacerdotal unique exercé pour les hommes. \[...\] Finalement, tous visent le même but : construire le Corps du Christ ; de notre temps surtout, cette tâche réclame des fonctions multiples et des adaptations nouvelles. Il est donc bien important que tous les prêtres, diocésains aussi bien que religieux, s’aident entre eux pour être toujours coopérateurs de la vérité (cf 3 Jn 8).
 
-****
-
 *Presbyterorum Ordinis*, 8
 
  
 
 Le ministère ordonné, de par sa nature même, ne peut être accompli que pour autant que le prêtre est uni au Christ par l’insertion sacramentelle dans l’ordre presbytéral et donc pour autant qu’il est en communion hiérarchique avec son évêque. Le ministère ordonné est radicalement de « *nature communautaire »* et ne peut être rempli que comme « *œuvre collective »*. \[...\] Chaque prêtre, qu’il soit diocésain ou religieux, est uni aux autres membres du presbyterium en fonction du sacrement de l’Ordre, par des liens particuliers de charité apostolique, de ministère et de fraternité.
 
-****
-
 Pastores dabo vobis, 17
 
  
 
 En effet, il est inséré dans l’*Ordo Presbyterorum*, constituant une unité qui peut se définir comme une véritable famille où les liens ne viennent pas de la chair et du sang, mais de la grâce de l’Ordre.
-
-****
 
 *Directoire pour le ministère et la vie des prêtres*, 25
 
@@ -317,23 +293,17 @@ La formation permanente
 
 Pour pouvoir fomenter leur union au Christ dans toutes les circonstances de la vie, les prêtres jouissent, outre l’exercice conscient de leur ministère, d’un certain nombre de moyens communs et particuliers, anciens et nouveaux, que le Saint-Esprit n’a jamais manqué de susciter dans le peuple de Dieu, et que l’Eglise recommande, et parfois même impose, pour la sanctification de ses membres.
 
-****
-
 Presbyterorum Ordinis, 18
 
  
 
 Le don de l’Esprit ne remplace pas mais sollicite la liberté du prêtre afin qu’il coopère d’une manière responsable et assume sa formation permanente comme une tâche qui lui est confiée. De cette façon, la formation permanente est à la fois l’expression et la condition de cette fidélité du prêtre à son ministère, plus encore à son être même. Elle est donc amour de Jésus-Christ et cohérence avec soi-même. Mais elle est aussi *un acte d’amour envers le peuple de Dieu* dont le prêtre est le serviteur. II s’agit même d’un véritable *acte de justice :* le prêtre doit en rendre compte, car il est appelé à reconnaître et à promouvoir ce « droit » fondamental du peuple de Dieu comme destinataire de la Parole de Dieu, des sacrements et du service de la charité qui forment le contenu original et irréductible de son ministère pastoral. La formation permanente est nécessaire afin que le prêtre puisse répondre de façon appropriée à ce droit du peuple de Dieu.
 
-****
-
 Pastores dabo vobis, 70
 
  
 
 La formation permanente est un moyen nécessaire au prêtre d’aujourd’hui pour atteindre la fin de sa vocation, c’est-à-dire le service de Dieu et de son Peuple. En pratique, la formation permanente consiste à aider tous les prêtres à répondre généreusement à l’engagement que requiert la dignité et la responsabilité que Dieu leur a confiées par le sacrement de l’Ordre, à conserver, défendre et développer leur identité et leur vocation spécifique, à se sanctifier et à sanctifier les autres dans l’exercice de leur ministère.
-
-****
 
 Directoire pour le ministère et la vie des prêtres, 71
 
@@ -428,8 +398,6 @@ Que Marie, la Mère du Christ et de l’Eglise que nous voulons accueillir dans 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  
-
-****
 
 ***Ce texte a été approuvé à l’unanimité par les participants au Symposium, en conclusion de leurs travaux, le 28 octobre 1995.***
 

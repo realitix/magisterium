@@ -4,7 +4,6 @@
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI 
 
 **La Giornata Missionaria Mondiale 2005** *  
-*
 
 ***Seguire Cristo che ci chiama  
 a camminare sulle vie della storia***

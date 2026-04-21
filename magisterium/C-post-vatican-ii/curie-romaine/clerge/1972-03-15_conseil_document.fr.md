@@ -5,14 +5,9 @@ LES CONSEILS PASTORAUX
 
  
 
-****
-
 S. CONGRÉGATION POUR LE CLERGÉ  
 
 *Lettre circulaire aux patriarches, primats, archevêques, évêques et autres Ordinaires des lieux sur les Conseils pastoraux, conformément aux dispositions de la Congrégation plénière mixte du 15 mars 1972*.*  
-*
-
-**
 
 Introduction
 
@@ -30,15 +25,11 @@ Introduction
 > >
 > > L’Assemblée générale du Synode des évêques, qui s’est tenue en 1971, a exprimé ce désir : « Le Conseil pastoral, auquel des clercs, des religieux et des laïcs choisis prennent part (cf. CD 27), fournit par ses études et ses réflexions les indications nécessaires pour que la communauté diocésaine puisse prédisposer d’une manière organique l’activité pastorale et la réaliser avec efficacité. Plus grandit, de jour en jour, la coopération réciproque et responsable des évêques et des prêtres, surtout grâce aux conseils presbytéraux, et plus il faut désirer que dans chaque diocèse le conseil pastoral soit constitué (22). »
 
-****
-
 Réunion de la Congrégation plénière
 
 > > 5\. La S. Congrégation pour le Clergé, à qui il revient de veiller à tout ce qui concerne les conseils pastoraux (23), a adressé aux présidents des conférences d’Evêques, le 12 mars 1971, une lettre dans laquelle elle invitait les évêques à faire connaître à cette S. congrégation leurs conseils ou leurs propositions au sujet tant des expériences faites jusqu’à maintenant que des normes qui seraient éventuellement à publier. En outre, la Congrégation pour le Clergé a invité la Congrégation pour les Églises orientales et la Congrégation pour l’Evangélisation des peuples à donner leur avis. Après avoir considéré les réponses, cette S. Congrégation a estimé opportun de convoquer une Congrégation plénière mixte à laquelle furent invitées la Congrégation des Évêques et celle des Religieux et des Instituts séculiers, ainsi que le Conseil des laïcs. Cette Congrégation plénière s’est tenue le 15 mars 1972. Ses conclusions, approuvées par le Souverain Pontife Paul VI, sont ici rapportées succinctement.
 > >
 > >  
-
-****
 
 Le nouvel organe consultatif de l’évêque
 
@@ -47,8 +38,6 @@ Le nouvel organe consultatif de l’évêque
 > > Parce qu’un travail de collaboration requiert une convergence mature de la part de tous, il est opportun que chaque évêque diocésain (24) considère attentivement, en menant une réflexion commune au sein de la Conférence épiscopale et avec son propre presbytérium, si sont réunies les conditions favorables pour instituer le Conseil pastoral, et qu’avec les autres il favorise ces conditions, au plan des choses et des personnes, qui permettent l’institution de ce Conseil et le bon ordre de son travail.
 > >
 > > Si l’évêque estime opportun de constituer le Conseil pastoral dans son propre diocèse, qu’il en fasse rédiger les statuts et les approuve lui-même.
-
-****
 
 La composition du Conseil pastoral
 
@@ -62,15 +51,11 @@ La composition du Conseil pastoral
 > >
 > > Le Conseil pastoral, tout en étant par nature constitué de manière stable, peut cependant « être à temps déterminé quant à ses membres et à son activité, et remplir sa fonction occasionnellement (25) ». Il convient donc que les membres du Conseil pastoral, à l’exception de ceux qui, aux termes des statuts, sont désignés en raison de la charge qu’ils exercent dans le diocèse, soient nommés pour le temps déterminé dans les statuts. Mais pour que le Conseil ne disparaisse pas dans sa totalité, il semble convenable de recourir à un système de rotation pour le renouveler, de sorte que, aux échéances prévues, une partie cesse sa fonction et soit remplacée par de nouveaux membres.
 
-****
-
 La nature consultative du Conseil pastoral
 
 > > 8\. Le Conseil pastoral « n’a que voix consultative (26) ». En effet, les conseils et les suggestions des fidèles, proposés au sein de la communion ecclésiastique et dans un esprit de véritable unité, ne sont pas sans importance pour parvenir à une délibération. L’obéissance active et le respect que les fidèles doivent montrer envers les pasteurs sacrés, au lieu d’empêcher, favorisent plutôt la manifestation ouverte et sincère sur ce que demande le bien de l’Église.
 > >
 > > Que l’évêque fasse donc grand cas des propositions et des suggestions du conseil, et qu’il accorde un grand poids à un avis voté à l’unanimité (27), restant sauves cependant la liberté et l’autorité qui lui appartiennent de droit divin pour paître la portion du peuple de Dieu qui lui est confiée.
-
-****
 
 Les problèmes qui peuvent être soumis à l’étude du Conseil pastoral
 
@@ -81,8 +66,6 @@ Les problèmes qui peuvent être soumis à l’étude du Conseil pastoral
 > > Le Conseil pastoral pourra donc apporter à l’évêque une aide très utile, en faisant des propositions et en donnant des suggestions concernant les initiatives missionnaires, catéchétiques et apostoliques dans le cadre du diocèse ; au sujet de la promotion de la formation doctrinale et de la vie sacramentelle des fidèles ; au sujet de l’aide à apporter à l’action pastorale des prêtres dans les divers milieux sociaux ou zones territoriales du diocèse ; au sujet de la façon de sensibiliser toujours davantage l’opinion publique sur les problèmes qui concernent l’Église etc. Le Conseil pastoral peut aussi être très utile pour effectuer un échange réciproque d’expériences et pour proposer des initiatives de divers genres, de façon à révéler plus clairement à l’évêque les besoins concrets de la population du diocèse et à lui suggérer la ligne d’action pastorale plus opportune.
 > >
 > > Même après la création du Conseil pastoral, demeure toujours intact le droit dont jouissent tous les fidèles, même s’ils ne sont pas membres de ce Conseil, de faire connaître d’une façon honnête aux pasteurs sacrés leurs besoins et leurs désirs, avec la liberté et la confiance qui conviennent aux enfants de Dieu, frères dans le Christ, toujours avec véracité et prudence, dans le respect de l’intégrité de la foi (31).
-
-****
 
 La convocation et la durée du Conseil pastoral
 
@@ -96,8 +79,6 @@ La convocation et la durée du Conseil pastoral
 > >
 > >  
 
-****
-
 Les autres Conseils qui présentent des similitudes avec le Conseil pastoral
 
 > > 12\. Les membres de la Congrégation plénière, compte tenu de la nature diocésaine du Conseil pastoral, ont estimé que rien n’empêche la création, dans le cadre du diocèse, de conseils de même nature et ayant les mêmes fonctions, sur le plan paroissial ou sur le plan des différentes zones (pour différents doyennés, pour des catégories sociales, etc.).
@@ -109,8 +90,6 @@ Les autres Conseils qui présentent des similitudes avec le Conseil pastoral
 > >  
 >
 > ****
-
-****
 
 Conclusion
 

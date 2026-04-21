@@ -4,8 +4,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 SACRA CONGEGAZIONE PER LA DOTTRINA DELLA FEDE

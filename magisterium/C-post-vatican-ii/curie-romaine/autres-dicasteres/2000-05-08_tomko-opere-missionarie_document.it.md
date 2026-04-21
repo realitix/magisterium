@@ -8,9 +8,6 @@ DELLE PONTIFICIE OPERE MISSIONARIE***
 
 *Lunedì, 8 maggio 2000*
 
-*  
-*
-
 In quest'anno del Grande Giubileo 2000 la consueta Assemblea annuale dei Direttori Nazionali delle Pontificie Opere Missionarie assume un significato del tutto speciale. Quest'anno voi venite da 115 Paesi di tutti i continenti come rappresentanti qualificati del movimento missionario della Chiesa. Ma venite anche come pellegrini del Grande Giubileo per rinnovare il compito che la Chiesa vi ha affidato nei vostri rispettivi Paesi.
 
 L'appuntamento è del tutto speciale perché l'Anno 2000 è del tutto speciale.

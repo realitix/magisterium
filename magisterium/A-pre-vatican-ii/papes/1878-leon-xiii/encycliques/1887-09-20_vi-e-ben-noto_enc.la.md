@@ -26,7 +26,6 @@ Per vos igitur, Venerabiles Fratres, fieri contingat, ut validus in populis cura
  
 
 **LEO PAPA XIII  
-**
 
 ------------------------------------------------------------------------
 

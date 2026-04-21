@@ -275,8 +275,6 @@ Considerato in ambito liturgico, il quarto passo, la contemplazione, può essere
 
 **Parte Seconda**
 
-**
-
 ARS PRAEDICANDI
 
 37\. Descrivendo il compito della predicazione, il Papa Francesco insegna che « il suo centro e la sua essenza è sempre lo stesso: il Dio che ha manifestato il suo immenso amore in Cristo morto e risorto » (EG 11). Lo scopo di questa parte seconda del *Direttorio omiletico* è di proporre esempi concreti e suggerimenti per aiutare l’omileta a mettere in pratica i principi presentati in questo documento, considerando le letture bibliche indicate dalla liturgia attraverso la lente del mistero pasquale di Cristo, morto e risorto. Non sono modelli di omelie, ma abbozzi che propongono modi di accostare temi e testi nel corso dell’anno liturgico. I *Praenotanda* del Lezionario offrono brevi descrizioni circa la scelta delle letture « per aiutare i pastori d’anime a rendersi conto della struttura dell’Ordinamento delle letture, in modo che ne sia fatto un uso vitale e i fedeli ne traggano frutto » (OLM 92). Si faranno perciò dei rimandi. Per quanto viene proposto intorno a qualsiasi testo della Scrittura occorre tenere sempre presente che « la lettura del Vangelo costituisce il culmine della stessa liturgia della Parola. Le altre letture, proclamate secondo l’ordine tradizionale, cioè dall’Antico al Nuovo Testamento, preparano l’assemblea radunata all’ascolto del Vangelo » (OLM 13).

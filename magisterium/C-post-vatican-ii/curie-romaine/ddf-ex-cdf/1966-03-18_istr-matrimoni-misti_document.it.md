@@ -4,8 +4,6 @@
 
    
 
-)  
-
 ------------------------------------------------------------------------
 
 **SACRA CONGREGATIONE PER LA DOTTRINA DELLA FEDE**

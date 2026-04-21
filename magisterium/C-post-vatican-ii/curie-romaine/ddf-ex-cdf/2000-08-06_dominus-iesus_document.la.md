@@ -167,8 +167,6 @@ Romae, ex Aedibus Congregationis pro Doctrina Fidei, die 6 Augusti, in Festo Tra
  **JOSEPH Card. RATZINGER***  
 Praefectus*
 
-**
-
  
 
 **THARSICIUS BERTONE, S.D.B***.  

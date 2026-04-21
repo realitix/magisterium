@@ -12,7 +12,6 @@
 
 **LIBER IV**
 
-**  
 *DE ECCLESIAE MUNERE SANCTIFICANDI***
 
  
@@ -841,7 +840,6 @@ IN ORDINANDIS**
 **Art. 2  
 DE PRAEREQUISITIS  
 AD ORDINATIONEM  
- **
 
 **Can. 1033** — Licite ad ordines promovetur tantum qui recepit sacrae confirmationis sacramentum.
 

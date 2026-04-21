@@ -85,8 +85,6 @@ Permittit Dei Filii incarnatio ut perennis ac postrema summa videatur completa q
 
 *** ***
 
-**
-
  
 
 ***Coram arcano - ratio***
@@ -141,8 +139,6 @@ Quotiens ab hisce receditur regulis, periculo obicitur homo ne deficiat deveniat
 
 *** ***
 
-**
-
  
 
 ***Posside sapientiam, posside prudentiam* (*Prv* 4, 5)**
@@ -192,8 +188,6 @@ Valores igitur, selecti et propriis viribus comparati, veri sint oportet, quando
 Similem veritatem, per saeculorum decursum, philosophi detegere et exprimere curarunt, quandam condendo doctrinam seu scholam philosophicam. Praeter doctrinas philosophicas, tamen, sunt aliae expressiones quibus homo intendit suam « philosophiam » constituere: agitur de suasionibus vel experientiis privatis, de familiae culturaeque traditionibus vel de viis exsistentiae propriis, in quibus quisque alicuius magistri auctoritati se committit. In singulis his indiciis semper flagrans permanet studium assequendi certitudinem veritatis eiusque absoluti valoris.
 
 *** ***
-
-**
 
  
 
@@ -261,8 +255,6 @@ Fundamentalis concordia inter cognitionem philosophicam et fidei cognitionem ite
 
 *** ***
 
-**
-
  
 
 ***Perennis sancti Thomae Aquinatis sententiarum novitas***
@@ -280,8 +272,6 @@ Primatus tamen huic sapientiae tributus non inducit Doctorem Angelicum ut duas a
 Intime persuasus de eo quod « omne verum a quocumque dicatur a Spiritu Sancto est », ⁵⁰ sanctus Thomas nulla adductus utilitate, veritatem dilexit. Quaesivit eam ubicumque ea exprimi potuit, universalem eius indolem quam maxime illustrando. Magisterium Ecclesiae in ipso vidit et aestimavit ardens veritatis studium; doctrina illius, eo quod universalem, obiectivam et transcendentem veritatem semper asseruit, attigit culmina « quibus attingendis impar humana intelligentia est ». ⁵¹ Merito quidem ille appellari potest « apostolus veritatis ». ⁵² Quoniam indubitanter ad veritatem animum attendebat, revera obiectivum eius sensum agnoscere scivit. Eius vere est philosophia essendi et non apparendi dumtaxat.
 
 *** ***
-
-**
 
  
 
@@ -356,8 +346,6 @@ Aliae absconditi fideismi formae agnosci possunt eo quod theologia speculativa p
 56\. Aliquo modo, postremo, effatis omnia complectentibus et absolutis diffidunt, ii potissimum qui arbitrantur ex consensu, non ex intellectu obiectivae realitati obnoxio depromi veritatem. Certe illud intellegi potest, in mundo qui in multas peculiaresque partes dispertitur, eum complexivum ultimumque vitae sensum difficulter agnosci, quem translaticia philosophia quaesivit. Verumtamen sub lumine fidei quae in Christo Iesu hunc ultimum sensum agnoscit, facere non possumus quin philosophos, christianos vel non christianos, incitemus ut rationis humanae facultati confidant neque metas in philosophandi arte nimis mediocres prae se ferant. Huius iam ad finem vergentis millenni historica lectio testatur hanc esse calcandam viam: oportet veritatis ultimae cupido vestigationisque desiderium non amittantur, quae cum audacia novos cursus detegendi coniunguntur. Fides ipsa rationem lacessit ad omnem secessionem deserendam et ad omnia periclitanda, ut persequatur quae pulchra, bona veraque sunt. Fides sic rationis fit certus atque suadens advocatus.
 
 *** ***
-
-**
 
  
 
@@ -440,8 +428,6 @@ Quod de India dictum est, adscribitur patrimonio praestantium culturarum Sinensi
 74\. Ubertatis comprobatio huius necessitudinis exhibetur personalibus eventibus clarorum theologorum christianorum, qui ut philosophi etiam eximii enituerunt, qui scripta sic altae speculativae praestantiae reliquerunt, ut iure antiquae philosophiae aequarentur doctoribus. Id tum de Ecclesiae Patribus dici potest, inter quos saltem sanctus Gregorius Nazianzenus atque sanctus Augustinus annumerantur, tum de Doctoribus mediaevalibus, inter quos trias illa elucet quam constituunt sancti Anselmus, Bonaventura et Thomas Aquinas. Fecunda illa philosophiae verbique Dei consociatio etiam ex magnanima emergit investigatione a recentioribus doctis provecta, in quibus memorare placet ex orbe occidentali homines veluti Ioannem Henricum Newman, Antonium Rosmini, Iacobum Maritain, Stephanum Gilson, Edith Stein simulque ex orientali orbe studiosos ut Vladimirum S. Solov'ev, Paulum A. Florenskij, Petrum K. Caadaev, Vladimirum N. Lossky. Uti paret, hi cum memorantur auctores, quibuscum alia pariter proferri possunt nomina, non omnem eorum doctrinae aestimationem prodere cupimus, verum exempla quaedam praestantiora illius efferre itineris investigationum philosophicarum ad quod beneficia singularia comparatio attulit cum fidei doctrinis. De hoc autem non est ambigendum: horum doctorum spiritalis itineris contemplatio non poterit quin progredienti veritatis inquisitioni proficiat atque usui consectariorum in hominum utilitatem. Sperari oportet hanc eximiam philosophicam-theologicam traditionem nunc et futuro de tempore suos successores necnon pro Ecclesiae humanitatisque bono cultores esse inventuram.
 
 *** ***
-
-**
 
  
 
@@ -542,8 +528,6 @@ Quadamtenus confirmatur hic nihilismus in terrifica malorum experientia quibus a
 Verum nihilominus est certam quandam mentem positivistam etiam nunc fidem tribuere deceptioni, cuius vi, propter reperta scientifica et technica, homo veluti demiurgus assequi ex se solo possit sibique obtinere plenum suam in fortunam dominatum.
 
 *** ***
-
-**
 
  
 

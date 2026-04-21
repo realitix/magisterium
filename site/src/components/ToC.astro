@@ -1,0 +1,411 @@
+---
+/**
+ * Table of Contents avec scroll-spy.
+ * Liste les headings H2/H3 générés par Astro depuis le markdown.
+ * Scroll-spy via IntersectionObserver (highlighting + auto-suivi).
+ * Sur mobile, devient un bouton flottant qui ouvre un overlay.
+ */
+import type { MarkdownHeading } from 'astro';
+
+interface Props {
+  headings: MarkdownHeading[];
+}
+
+const { headings } = Astro.props;
+
+// Ne garder que H2 et H3, filtrer les sections spécifiques à exclure
+const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
+---
+
+{
+  filtered.length > 0 && (
+    <>
+      <nav class="toc" aria-label="Sommaire de la fiche">
+        <p class="toc__eyebrow">Sommaire</p>
+        <ol class="toc__list" role="list">
+          {filtered.map((h) => (
+            <li class={`toc__item toc__item--h${h.depth}`}>
+              <a href={`#${h.slug}`} class="toc__link" data-toc-target={h.slug}>
+                {h.text}
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+
+      <button class="toc-fab" type="button" aria-label="Ouvrir le sommaire" aria-expanded="false" aria-controls="toc-overlay">
+        <span class="toc-fab__icon" aria-hidden="true">☰</span>
+        <span class="toc-fab__label">Plan</span>
+      </button>
+
+      <div class="toc-overlay" id="toc-overlay" hidden>
+        <div class="toc-overlay__backdrop" data-toc-close></div>
+        <div class="toc-overlay__panel" role="dialog" aria-label="Sommaire" aria-modal="true">
+          <header class="toc-overlay__header">
+            <p class="toc-overlay__eyebrow">Sommaire</p>
+            <button class="toc-overlay__close" type="button" aria-label="Fermer le sommaire" data-toc-close>
+              ×
+            </button>
+          </header>
+          <ol class="toc__list toc__list--mobile" role="list">
+            {filtered.map((h) => (
+              <li class={`toc__item toc__item--h${h.depth}`}>
+                <a href={`#${h.slug}`} class="toc__link" data-toc-target={h.slug} data-toc-close-on-click>
+                  {h.text}
+                </a>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </div>
+    </>
+  )
+}
+
+<script>
+  // Scroll-spy : surligne l'entrée de ToC correspondant à la section visible.
+  // Gère aussi l'overlay mobile.
+
+  type Mode = 'scroll' | 'click';
+
+  function initToc() {
+    const toc = document.querySelector<HTMLElement>('.toc');
+    const fab = document.querySelector<HTMLButtonElement>('.toc-fab');
+    const overlay = document.querySelector<HTMLElement>('.toc-overlay');
+    if (!toc && !overlay) return;
+
+    const targets = Array.from(
+      document.querySelectorAll<HTMLElement>('article h2[id], article h3[id]')
+    );
+    if (targets.length === 0) return;
+
+    const linksBySlug = new Map<string, HTMLAnchorElement[]>();
+    document
+      .querySelectorAll<HTMLAnchorElement>('[data-toc-target]')
+      .forEach((link) => {
+        const slug = link.dataset.tocTarget!;
+        const arr = linksBySlug.get(slug) ?? [];
+        arr.push(link);
+        linksBySlug.set(slug, arr);
+      });
+
+    let activeSlug: string | null = null;
+    let lastMode: Mode = 'scroll';
+
+    function setActive(slug: string | null) {
+      if (slug === activeSlug) return;
+      activeSlug = slug;
+      linksBySlug.forEach((links, s) => {
+        const isActive = s === slug;
+        links.forEach((l) => {
+          l.classList.toggle('is-active', isActive);
+          if (isActive && lastMode === 'scroll') {
+            // Auto-suivi dans la ToC desktop : scroll l'entrée active en vue si elle sort.
+            const listEl = l.closest('.toc__list');
+            if (listEl) {
+              const linkRect = l.getBoundingClientRect();
+              const listRect = listEl.getBoundingClientRect();
+              if (linkRect.top < listRect.top || linkRect.bottom > listRect.bottom) {
+                l.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+              }
+            }
+          }
+        });
+      });
+    }
+
+    // Observe chaque section. Règle : la dernière section dont le top a dépassé 25% du viewport est active.
+    const visibleSlugs = new Set<string>();
+
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e) => {
+          const id = e.target.id;
+          if (!id) return;
+          if (e.isIntersecting) {
+            visibleSlugs.add(id);
+          } else {
+            visibleSlugs.delete(id);
+          }
+        });
+        pickActive();
+      },
+      {
+        // Zone d'activation : du haut (~20% du viewport) jusqu'au milieu.
+        rootMargin: '-15% 0% -60% 0%',
+        threshold: 0,
+      }
+    );
+
+    targets.forEach((t) => io.observe(t));
+
+    function pickActive() {
+      // Si au moins une section est dans la zone, prend la première (la plus haute du doc)
+      if (visibleSlugs.size > 0) {
+        const inDoc = targets
+          .filter((t) => visibleSlugs.has(t.id))
+          .map((t) => t.id);
+        if (inDoc.length > 0) {
+          setActive(inDoc[0]);
+          return;
+        }
+      }
+      // Sinon : fallback, prend la section dont le top est juste au-dessus du viewport
+      let best: string | null = null;
+      let bestTop = -Infinity;
+      for (const t of targets) {
+        const top = t.getBoundingClientRect().top;
+        if (top < 80 && top > bestTop) {
+          bestTop = top;
+          best = t.id;
+        }
+      }
+      setActive(best);
+    }
+
+    // Click sur un lien : smooth scroll + activate immédiat
+    document
+      .querySelectorAll<HTMLAnchorElement>('[data-toc-target]')
+      .forEach((link) => {
+        link.addEventListener('click', (ev) => {
+          const slug = link.dataset.tocTarget!;
+          const target = document.getElementById(slug);
+          if (!target) return;
+          ev.preventDefault();
+          lastMode = 'click';
+          setActive(slug);
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          // Restaurer le mode scroll après l'animation
+          window.setTimeout(() => {
+            lastMode = 'scroll';
+          }, 900);
+          // Mettre à jour l'URL sans sauter
+          history.replaceState(null, '', `#${slug}`);
+        });
+      });
+
+    // État initial
+    pickActive();
+
+    // --- Overlay mobile ---
+    function openOverlay() {
+      if (!overlay || !fab) return;
+      overlay.hidden = false;
+      fab.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeOverlay() {
+      if (!overlay || !fab) return;
+      overlay.hidden = true;
+      fab.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    fab?.addEventListener('click', () => {
+      if (overlay?.hidden) openOverlay();
+      else closeOverlay();
+    });
+
+    overlay
+      ?.querySelectorAll<HTMLElement>('[data-toc-close]')
+      .forEach((el) => el.addEventListener('click', closeOverlay));
+
+    overlay
+      ?.querySelectorAll<HTMLElement>('[data-toc-close-on-click]')
+      .forEach((el) => el.addEventListener('click', closeOverlay));
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && overlay && !overlay.hidden) closeOverlay();
+    });
+  }
+
+  // Init au chargement ET au View Transitions (au cas où on en ajoute plus tard)
+  document.addEventListener('DOMContentLoaded', initToc);
+  document.addEventListener('astro:page-load', initToc);
+</script>
+
+<style>
+  .toc {
+    position: sticky;
+    top: calc(var(--space-l) + 0.5rem);
+    max-height: calc(100vh - var(--space-l) * 2);
+    overflow-y: auto;
+    padding: var(--space-m) var(--space-m) var(--space-m) var(--space-l);
+    border-left: 1px solid var(--rule);
+    font-size: 0.92rem;
+    scrollbar-width: thin;
+  }
+
+  .toc__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.68rem;
+    color: var(--muted);
+    margin: 0 0 var(--space-s);
+  }
+
+  .toc__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: toc;
+  }
+
+  .toc__item {
+    position: relative;
+    line-height: 1.4;
+  }
+
+  .toc__item + .toc__item {
+    margin-top: 0.45rem;
+  }
+
+  .toc__item--h3 {
+    padding-left: 1rem;
+    font-size: 0.88rem;
+  }
+
+  .toc__link {
+    color: var(--ink-soft);
+    text-decoration: none;
+    display: block;
+    padding: 0.15rem 0;
+    border-left: 2px solid transparent;
+    padding-left: 0.65rem;
+    margin-left: -0.65rem;
+    transition: color 180ms ease, border-color 180ms ease, background-color 180ms ease;
+  }
+
+  .toc__link:hover,
+  .toc__link:focus-visible {
+    color: var(--rubric);
+  }
+
+  .toc__link.is-active {
+    color: var(--rubric);
+    border-left-color: var(--rubric);
+    font-weight: 500;
+  }
+
+  /* FAB mobile — caché par défaut sur desktop */
+  .toc-fab {
+    display: none;
+    position: fixed;
+    bottom: var(--space-m);
+    right: var(--space-m);
+    z-index: 40;
+    padding: 0.7rem 1rem;
+    border: 1px solid var(--rubric);
+    background-color: var(--paper);
+    color: var(--rubric);
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    box-shadow: 0 4px 16px -8px rgba(0, 0, 0, 0.25);
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .toc-fab:hover,
+  .toc-fab:focus-visible {
+    background-color: var(--rubric);
+    color: var(--paper);
+  }
+
+  .toc-fab__icon {
+    font-size: 1.15rem;
+    line-height: 1;
+  }
+
+  /* Overlay mobile */
+  .toc-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .toc-overlay[hidden] {
+    display: none !important;
+  }
+
+  .toc-overlay__backdrop {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.35);
+  }
+
+  .toc-overlay__panel {
+    position: relative;
+    max-width: 22rem;
+    width: 85vw;
+    height: 100%;
+    background-color: var(--paper);
+    padding: var(--space-m);
+    overflow-y: auto;
+    border-left: 1px solid var(--rule);
+    animation: toc-slide 250ms ease-out;
+  }
+
+  @keyframes toc-slide {
+    from {
+      transform: translateX(12px);
+      opacity: 0.85;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .toc-overlay__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: var(--space-s);
+    margin-bottom: var(--space-m);
+  }
+
+  .toc-overlay__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin: 0;
+  }
+
+  .toc-overlay__close {
+    background: none;
+    border: none;
+    font-size: 1.7rem;
+    line-height: 1;
+    color: var(--ink-soft);
+    cursor: pointer;
+    padding: 0.1rem 0.4rem;
+  }
+
+  .toc-overlay__close:hover,
+  .toc-overlay__close:focus-visible {
+    color: var(--rubric);
+  }
+
+  .toc__list--mobile .toc__link {
+    padding: 0.55rem 0.65rem;
+    font-size: 1rem;
+  }
+
+  /* Responsive : sur mobile la ToC inline disparaît, seul le FAB reste */
+  @media (max-width: 900px) {
+    .toc {
+      display: none;
+    }
+    .toc-fab {
+      display: inline-flex;
+    }
+  }
+</style>

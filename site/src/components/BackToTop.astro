@@ -1,0 +1,120 @@
+---
+/**
+ * Bouton flottant « Retour en haut ». Apparaît au-delà de 800px de scroll,
+ * disparaît tout en haut. Smooth scroll, respecte prefers-reduced-motion.
+ */
+---
+
+<button class="back-to-top" type="button" aria-label="Retour en haut de la fiche" hidden>
+  <span class="back-to-top__arrow" aria-hidden="true">↑</span>
+  <span class="back-to-top__label">Haut</span>
+</button>
+
+<script>
+  function initBackToTop() {
+    const btn = document.querySelector<HTMLButtonElement>('.back-to-top');
+    if (!btn) return;
+
+    const threshold = 800;
+    let ticking = false;
+
+    function update() {
+      const y = window.scrollY || document.documentElement.scrollTop;
+      const shouldShow = y > threshold;
+      if (shouldShow) {
+        btn!.hidden = false;
+        btn!.classList.add('is-visible');
+      } else {
+        btn!.classList.remove('is-visible');
+        // laisse l'anim se jouer avant de cacher
+        window.setTimeout(() => {
+          if (!btn!.classList.contains('is-visible')) {
+            btn!.hidden = true;
+          }
+        }, 200);
+      }
+      ticking = false;
+    }
+
+    function onScroll() {
+      if (!ticking) {
+        window.requestAnimationFrame(update);
+        ticking = true;
+      }
+    }
+
+    btn.addEventListener('click', () => {
+      const prefersReduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({
+        top: 0,
+        behavior: prefersReduce ? 'auto' : 'smooth',
+      });
+      btn.blur();
+    });
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    update();
+  }
+
+  document.addEventListener('DOMContentLoaded', initBackToTop);
+  document.addEventListener('astro:page-load', initBackToTop);
+</script>
+
+<style>
+  .back-to-top {
+    position: fixed;
+    right: var(--space-m);
+    bottom: calc(var(--space-m) + 3.5rem);
+    z-index: 35;
+    padding: 0.55rem 0.9rem;
+    border: 1px solid var(--rule);
+    background-color: var(--paper);
+    color: var(--ink-soft);
+    font-family: var(--font-display);
+    font-size: 0.88rem;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    box-shadow: 0 4px 12px -6px rgba(0, 0, 0, 0.2);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 180ms ease, transform 180ms ease, background-color 180ms ease, color 180ms ease, border-color 180ms ease;
+  }
+
+  .back-to-top.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .back-to-top:hover,
+  .back-to-top:focus-visible {
+    background-color: var(--rubric);
+    border-color: var(--rubric);
+    color: var(--paper);
+  }
+
+  .back-to-top__arrow {
+    font-size: 1.05rem;
+    line-height: 1;
+  }
+
+  @media (max-width: 640px) {
+    .back-to-top {
+      bottom: calc(var(--space-m) + 3.5rem);
+    }
+    .back-to-top__label {
+      display: none;
+    }
+    .back-to-top {
+      padding: 0.65rem 0.75rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .back-to-top {
+      transition: opacity 100ms linear;
+    }
+  }
+</style>

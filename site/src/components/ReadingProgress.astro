@@ -1,0 +1,86 @@
+---
+/**
+ * Barre de progression de lecture : fine ligne bordeaux qui se remplit
+ * proportionnellement au scroll dans le corps de l'article (et non au scroll
+ * total de la page, pour rester honnête vis-à-vis du header/footer).
+ */
+---
+
+<div class="read-progress" role="progressbar" aria-label="Progression de lecture" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+  <div class="read-progress__bar"></div>
+</div>
+
+<script>
+  function initReadProgress() {
+    const container = document.querySelector<HTMLElement>('.read-progress');
+    const bar = container?.querySelector<HTMLElement>('.read-progress__bar');
+    // On suit la progression de l'article principal quand il existe, sinon du main.
+    const target =
+      document.querySelector<HTMLElement>('article.q__body') ??
+      document.querySelector<HTMLElement>('main#main');
+    if (!container || !bar || !target) return;
+
+    let ticking = false;
+
+    function update() {
+      const rect = target!.getBoundingClientRect();
+      const vh = window.innerHeight;
+      const totalScrollable = rect.height - vh;
+      if (totalScrollable <= 0) {
+        bar!.style.width = '0%';
+        container!.setAttribute('aria-valuenow', '0');
+        ticking = false;
+        return;
+      }
+      const scrolled = Math.min(
+        Math.max(-rect.top, 0),
+        totalScrollable
+      );
+      const ratio = scrolled / totalScrollable;
+      const pct = Math.round(ratio * 100);
+      bar!.style.width = `${pct}%`;
+      container!.setAttribute('aria-valuenow', String(pct));
+      ticking = false;
+    }
+
+    function onScroll() {
+      if (!ticking) {
+        window.requestAnimationFrame(update);
+        ticking = true;
+      }
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll, { passive: true });
+    update();
+  }
+
+  document.addEventListener('DOMContentLoaded', initReadProgress);
+  document.addEventListener('astro:page-load', initReadProgress);
+</script>
+
+<style>
+  .read-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: transparent;
+    z-index: 60;
+    pointer-events: none;
+  }
+
+  .read-progress__bar {
+    height: 100%;
+    width: 0%;
+    background-color: var(--rubric);
+    transition: width 80ms linear;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .read-progress__bar {
+      transition: none;
+    }
+  }
+</style>

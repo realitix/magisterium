@@ -1,7 +1,11 @@
 ---
+import type { MarkdownHeading } from 'astro';
 import Base from './Base.astro';
 import FourVoices from '../components/FourVoices.astro';
-import { getDocumentBySlug } from '../data/loadDocuments.js';
+import ToC from '../components/ToC.astro';
+import ReadingProgress from '../components/ReadingProgress.astro';
+import BackToTop from '../components/BackToTop.astro';
+import DocumentsGrid from '../components/DocumentsGrid.astro';
 import { getThemeBySlug } from '../data/loadThemes.js';
 
 interface Voice {
@@ -26,6 +30,7 @@ interface Props {
     fsspx?: Voice;
     sedevacantiste?: Voice;
   };
+  headings?: MarkdownHeading[];
 }
 
 const {
@@ -38,6 +43,7 @@ const {
   related_themes = [],
   posture = 'traditionnelle',
   voices,
+  headings = [],
 } = Astro.props;
 
 const postureLabel: Record<string, string> = {
@@ -45,14 +51,6 @@ const postureLabel: Record<string, string> = {
   neutre: 'Posture neutre',
   pastorale: 'Posture pastorale',
 };
-
-const documentLinks = related_documents.map((s) => {
-  const doc = getDocumentBySlug(s);
-  return {
-    slug: s,
-    label: doc?.titre_fr ?? doc?.incipit ?? null,
-  };
-});
 
 const themeLinks = related_themes.map((s) => {
   const theme = getThemeBySlug(s);
@@ -83,6 +81,8 @@ if (date) {
 ---
 
 <Base title={title} description={summary ?? question}>
+  <ReadingProgress />
+
   <main class="q" id="main" data-pagefind-body>
     <header class="q__header">
       <p class="q__eyebrow">Question</p>
@@ -111,46 +111,29 @@ if (date) {
         {voices && <FourVoices voices={voices} />}
       </article>
 
-      <aside class="q__aside" aria-label="Références">
-        {documentLinks.length > 0 && (
-          <section class="q__aside-section">
-            <h2 class="q__aside-title">Documents cités</h2>
-            <ul class="q__aside-list" role="list">
-              {documentLinks.map((d) => (
-                <li>
-                  {d.label ? (
-                    <a href={`/documents/${d.slug}/`}>{d.label}</a>
-                  ) : (
-                    <span class="q__aside-missing" title="Document introuvable">
-                      {d.slug}
-                    </span>
-                  )}
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
-
-        {themeLinks.length > 0 && (
-          <section class="q__aside-section">
-            <h2 class="q__aside-title">Thèmes associés</h2>
-            <ul class="q__aside-list" role="list">
-              {themeLinks.map((t) => (
-                <li>
-                  {t.label ? (
-                    <a href={`/themes/${t.slug}/`}>{t.label}</a>
-                  ) : (
-                    <span class="q__aside-missing" title="Thème introuvable">
-                      {t.slug}
-                    </span>
-                  )}
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
+      <aside class="q__toc-side" aria-label="Sommaire">
+        <ToC headings={headings} />
       </aside>
     </div>
+
+    <DocumentsGrid slugs={related_documents} />
+
+    {themeLinks.length > 0 && (
+      <section class="q__themes" aria-labelledby="themes-assoc-title">
+        <h2 id="themes-assoc-title" class="q__themes-title">Thèmes associés</h2>
+        <ul class="q__themes-list" role="list">
+          {themeLinks.map((t) => (
+            <li class="q__theme-chip">
+              {t.label ? (
+                <a href={`/themes/${t.slug}/`}>{t.label}</a>
+              ) : (
+                <span class="q__aside-missing">{t.slug}</span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
 
     <footer class="q__footer">
       <p class="q__disclaimer">
@@ -163,11 +146,13 @@ if (date) {
       </p>
     </footer>
   </main>
+
+  <BackToTop />
 </Base>
 
 <style>
   .q {
-    max-width: 72rem;
+    max-width: 78rem;
     margin: 0 auto;
     padding: var(--space-xl) var(--space-m);
   }
@@ -270,7 +255,7 @@ if (date) {
 
   .q__layout {
     display: grid;
-    grid-template-columns: minmax(0, var(--measure)) minmax(0, 18rem);
+    grid-template-columns: minmax(0, var(--measure)) minmax(0, 17rem);
     gap: var(--space-xl);
     align-items: start;
     justify-content: center;
@@ -280,37 +265,56 @@ if (date) {
     min-width: 0;
   }
 
-  .q__aside {
-    position: sticky;
-    top: var(--space-l);
-    font-size: 0.95rem;
-    padding: var(--space-m);
-    border-left: 1px solid var(--rule);
+  .q__toc-side {
+    position: relative;
   }
 
-  .q__aside-section + .q__aside-section {
-    margin-top: var(--space-l);
+  .q__themes {
+    max-width: var(--measure);
+    margin: var(--space-xl) auto 0;
+    padding-top: var(--space-l);
   }
 
-  .q__aside-title {
+  .q__themes-title {
     font-family: var(--font-display);
     font-size: 1rem;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.15em;
     color: var(--muted);
-    margin-bottom: var(--space-s);
-    padding-bottom: var(--space-3xs);
-    border-bottom: 1px solid var(--rule);
+    margin: 0 0 var(--space-s);
   }
 
-  .q__aside-list {
-    list-style: none;
+  .q__themes-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs) var(--space-xs);
     padding: 0;
     margin: 0;
+    list-style: none;
   }
 
-  .q__aside-list li + li {
-    margin-top: var(--space-2xs);
+  .q__theme-chip {
+    display: inline-block;
+  }
+
+  .q__theme-chip a {
+    display: inline-block;
+    padding: 0.3em 0.75em;
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    text-decoration: none;
+    transition: color 150ms ease, border-color 150ms ease, background-color 150ms ease;
+  }
+
+  .q__theme-chip a:hover,
+  .q__theme-chip a:focus-visible {
+    color: var(--rubric);
+    border-color: var(--rubric);
+    background-color: var(--paper);
   }
 
   .q__aside-missing {
@@ -341,17 +345,13 @@ if (date) {
     letter-spacing: 0.04em;
   }
 
-  /* Mobile : sidebar sous le corps */
+  /* Mobile : plus de colonne ToC */
   @media (max-width: 900px) {
     .q__layout {
       grid-template-columns: minmax(0, 1fr);
     }
-
-    .q__aside {
-      position: static;
-      border-left: 0;
-      border-top: 1px solid var(--rule);
-      padding: var(--space-m) 0 0;
+    .q__toc-side {
+      display: none;
     }
   }
 </style>

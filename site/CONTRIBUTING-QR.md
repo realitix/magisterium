@@ -123,6 +123,41 @@ Pour chaque citation en langue étrangère, utiliser le composant Astro `<Citati
 
 Le bloc `voices` alimente automatiquement la section « Panorama des quatre voix catholiques » en bas de la fiche (voir étape 5 bis). Il est obligatoire, dans l'ordre canonique. Schéma Zod côté site : `/home/realitix/git/catholique/site/src/content/config.ts`. Composant de rendu : `/home/realitix/git/catholique/site/src/components/FourVoices.astro`.
 
+### 6 bis. Composants automatiques sur chaque fiche
+
+Le layout `Question.astro` injecte automatiquement, sans rien à faire côté markdown :
+
+- **Table des matières sticky à droite** (`ToC.astro`) — générée depuis les `H2`/`H3` du markdown via `entry.render().headings`. Scroll-spy via `IntersectionObserver` : la section en cours de lecture est surlignée en bordeaux. Sur mobile, la ToC devient un bouton flottant « Plan » en bas à droite, qui ouvre un panneau latéral.
+- **Barre de progression de lecture** (`ReadingProgress.astro`) — filet de 2 px en haut de l'écran qui se remplit proportionnellement au scroll dans l'article.
+- **Bouton « Retour en haut »** (`BackToTop.astro`) — apparaît au-delà de 800 px de scroll.
+- **Grille de documents cités enrichie en pied** (`DocumentsGrid.astro`) — cartes par document avec titre, auteur, date, type, regroupées par période (pré-V2 / V2 / post-V2 / FSSPX). Les `related_documents` du frontmatter alimentent cette grille directement.
+- **Citations cliquables** (`Citation.astro`) — si le composant reçoit une prop `doc_slug`, la source devient un lien vers `/documents/<slug>/`. Privilégier cette forme pour les citations majeures, afin d'offrir un chemin direct vers le texte intégral.
+
+Conséquence pour le rédacteur :
+
+1. Structurer la fiche avec des `##` (H2) pour les grandes sections et des `###` (H3) pour les sous-sections. C'est cette hiérarchie qui alimente la ToC.
+2. Nommer les H2/H3 avec des titres courts et explicites (ils apparaîtront tels quels dans la ToC).
+3. Ne pas dupliquer les liens vers les documents cités dans le corps du markdown : la grille en pied les présente déjà. En revanche, utiliser `doc_slug` sur les composants `Citation` quand la source est dans le corpus, pour créer le lien contextuel.
+
+Pattern Citation recommandé :
+
+```mdx
+<Citation
+  lang="la"
+  source="Florence, Cantate Domino, 1442"
+  doc_slug="1431_florence"
+  translation="..."
+>
+  Firmiter credit, profitetur et praedicat...
+</Citation>
+```
+
+Notes techniques :
+
+- `entry.render()` est appelé dans `site/src/pages/questions/[slug].astro` et transmet `headings` au layout.
+- Les IDs sur les H2/H3 sont auto-générés par Astro (slug à partir du texte). Pas besoin d'ajouter `{#id}` manuellement.
+- Le scroll-spy utilise un `rootMargin` de `-15% 0% -60% 0%` pour activer la section quand son haut est entre 15% et 40% du viewport — c'est le comportement standard des docs (Astro, MDN).
+
 ### 7. Revue par un agent reviewer
 
 Un agent opus final est lancé en rôle de reviewer. Sa checklist :

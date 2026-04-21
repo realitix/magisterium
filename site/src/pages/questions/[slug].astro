@@ -15,7 +15,7 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 const data = entry.data;
 ---
 
@@ -30,6 +30,7 @@ const data = entry.data;
   related_themes={data.related_themes}
   posture={data.posture}
   voices={data.voices}
+  headings={headings}
 >
   <Content />
 </Question>

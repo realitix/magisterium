@@ -1,11 +1,20 @@
 ---
+import { getDocumentBySlug } from '../data/loadDocuments.js';
+
 interface Props {
   lang: 'la' | 'it' | 'en' | 'de' | 'es' | 'pt';
   source?: string;
   translation: string;
+  /**
+   * Slug du document dans le corpus. Si fourni, la source devient un lien
+   * cliquable vers /documents/<slug>/.
+   */
+  doc_slug?: string;
 }
 
-const { lang, source, translation } = Astro.props;
+const { lang, source, translation, doc_slug } = Astro.props;
+
+const exists = doc_slug ? Boolean(getDocumentBySlug(doc_slug)) : false;
 ---
 
 <figure class="citation" lang={lang}>
@@ -19,7 +28,14 @@ const { lang, source, translation } = Astro.props;
 
   {source && (
     <figcaption class="citation__source">
-      <cite>{source}</cite>
+      {doc_slug && exists ? (
+        <a href={`/documents/${doc_slug}/`} class="citation__source-link">
+          <cite>{source}</cite>
+          <span class="citation__source-arrow" aria-hidden="true">→</span>
+        </a>
+      ) : (
+        <cite>{source}</cite>
+      )}
     </figcaption>
   )}
 </figure>
@@ -63,5 +79,31 @@ const { lang, source, translation } = Astro.props;
 
   .citation__source cite {
     font-style: italic;
+  }
+
+  .citation__source-link {
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 150ms ease;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.35em;
+  }
+
+  .citation__source-link:hover,
+  .citation__source-link:focus-visible {
+    color: var(--rubric);
+  }
+
+  .citation__source-arrow {
+    font-size: 0.85em;
+    opacity: 0.6;
+    transition: opacity 150ms ease, transform 150ms ease;
+  }
+
+  .citation__source-link:hover .citation__source-arrow,
+  .citation__source-link:focus-visible .citation__source-arrow {
+    opacity: 1;
+    transform: translateX(2px);
   }
 </style>

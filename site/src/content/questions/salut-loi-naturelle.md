@@ -22,6 +22,23 @@ related_themes:
   - "ecclesiologie-salut-hors-eglise"
   - "oecumenisme-relations-autres-religions"
 posture: "traditionnelle"
+voices:
+  conciliaire:
+    tagline: "Oui, un cœur sincère suffit."
+    body: "La prédication pastorale dominante depuis Vatican II étend bien au-delà de la lettre la clause de l'ignorance invincible. En paroisse ordinaire, on entend volontiers que « tous les hommes de bonne volonté sont sauvés », que « Dieu ne damne personne », et que la conversion relève plus du dialogue interreligieux que de la nécessité salvifique. Les textes officiels (LG 14, CEC 846, Dominus Iesus) restent nettement plus stricts, mais la catéchèse courante les euphémise ou les ignore."
+    punchline: "Résultat : le curé ne baptise plus, il « accompagne »."
+  ecclesia_dei:
+    tagline: "Non, sauf ignorance invincible — et on la garde rare."
+    body: "Les communautés issues de l'ancien Ecclesia Dei (FSSP, ICRSP, IBP, Bon Pasteur) tiennent la lettre du CEC, de Dominus Iesus et de Redemptoris Missio. Elles évangélisent, rappellent la nécessité de la foi et du baptême, et considèrent l'ignorance invincible comme une hypothèse théologique rare, jamais comme une porte de sortie pastorale. Équilibre courtois entre Florence et LG 16, à la table de l'évêque."
+    punchline: "La position des tradis polis, quand le chancelier est dans la salle."
+  fsspx:
+    tagline: "Non, et c'est écrit noir sur blanc depuis Florence."
+    body: "La Fraternité Saint-Pie X tient intégralement Florence 1442, Vatican I (Dei Filius), Pie IX (Quanto Conficiamur), Pie XI (Mortalium Animos), et les catéchismes classiques. Non à toute forme d'indifférentisme, non à la lecture laxiste de LG 16. L'ignorance invincible existe en théorie mais n'excuse jamais celui qui a croisé l'Évangile et s'est détourné. Le bouddhiste qui vit à Paris en 2026 n'est pas ignorant invincible — il est païen."
+    punchline: "« Hors de l'Église, pas de salut » : on garde la phrase telle quelle, virgule comprise."
+  sedevacantiste:
+    tagline: "Non — et quiconque dit oui n'est pas catholique."
+    body: "Pour les sédévacantistes, la contradiction entre la tradition antérieure (Florence, Trente, Pie IX, Pie XI) et la pastorale post-conciliaire n'est pas un problème d'interprétation : c'est un symptôme. Une Église qui enseignerait officiellement le salut par la loi naturelle seule ne serait plus l'Église catholique. La question se règle donc à l'ancienne, sans filtre V2, par la constance bimillénaire du magistère — avec un certain soulagement intellectuel."
+    punchline: "Position sur laquelle ce site a été conçu. Raison pour laquelle son auteur n'est invité nulle part."
 ---
 
 ## Contexte

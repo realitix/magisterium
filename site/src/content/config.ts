@@ -1,5 +1,11 @@
 import { defineCollection, z } from 'astro:content';
 
+const voiceSchema = z.object({
+  tagline: z.string(),
+  body: z.string(),
+  punchline: z.string().optional(),
+});
+
 const questions = defineCollection({
   type: 'content',
   schema: z.object({
@@ -11,6 +17,14 @@ const questions = defineCollection({
     related_documents: z.array(z.string()).default([]),
     related_themes: z.array(z.string()).default([]),
     posture: z.enum(['traditionnelle', 'neutre', 'pastorale']).default('traditionnelle'),
+    voices: z
+      .object({
+        conciliaire: voiceSchema.optional(),
+        ecclesia_dei: voiceSchema.optional(),
+        fsspx: voiceSchema.optional(),
+        sedevacantiste: voiceSchema.optional(),
+      })
+      .optional(),
   }),
 });
 

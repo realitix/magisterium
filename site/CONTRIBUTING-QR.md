@@ -64,6 +64,26 @@ L'orchestrateur reçoit les N rapports d'agents et produit la synthèse finale. 
 
 Un tableau de synthèse (colonnes : source, date, position, citation-clé) est ajouté si pertinent pour les questions contentieuses. La posture apologétique traditionnelle est assumée tout au long.
 
+### 5 bis. Panorama des quatre voix catholiques — obligatoire sur chaque fiche
+
+À la fin de chaque fiche, **obligatoirement**, une section automatique rendue par le composant `FourVoices.astro` présente la position condensée de chacun des quatre grands courants catholiques contemporains. Cette section est alimentée par le champ `voices` du frontmatter (détails à l'étape 6). Elle existe pour deux raisons : allège le ton d'un site consacré à un sujet lourd (la rupture conciliaire), et donne au lecteur une carte d'identité doctrinale lisible de la controverse.
+
+**Ordre canonique, toujours respecté :** conciliaire → ex-Ecclesia Dei → FSSPX → sédévacantiste. Du plus large au plus strict.
+
+**Ton de chaque voix** — à respecter d'une fiche à l'autre pour la cohérence :
+
+- **Rome post-conciliaire** : décrit la prédication pastorale dominante, souvent laxiste, par contraste avec la lettre des textes officiels qu'elle euphémise. Punchline = constat ironique sur les effets pastoraux (évangélisation effondrée, « accompagnement » au lieu de conversion, etc.).
+- **Ex-Ecclesia Dei** (tradis ralliés : FSSP, ICRSP, IBP, Bon Pasteur) : équilibristes entre la lettre de Florence et LG 16, courtois avec l'évêque. Punchline = allusion à la retenue diplomatique de leur position publique.
+- **Fraternité Saint-Pie X** (« Saint-Piedis » d'Écône) : tient la tradition antérieure intégralement, refus du modernisme, canoniquement irrégulière. Punchline = fermeté assumée sur la formule classique.
+- **Sédévacantistes** : résolvent les contradictions V2 par l'hypothèse que le Siège est vacant ; position explicitement assumée par ce site. Punchline = auto-ironique sur l'isolement de la position.
+
+**Règles de rédaction :**
+
+- Chaque voix : une **tagline** (phrase condensée entre guillemets), un **body** de 60 à 90 mots doctrinalement juste, une **punchline** optionnelle en italique discret.
+- **Humour** tradi, sec, jamais vulgaire. La punchline est un bonus — mieux vaut pas de punchline qu'une pénible.
+- **Fond doctrinal** : techniquement juste, même condensé. Pas de caricature grossière — l'humour vient de la formulation, pas de la déformation.
+- **Symboles et couleurs** : gérés par le composant (✦ gris conciliaire, ☩ doré Ecclesia Dei, ✠ cuivré FSSPX, † bordeaux sédévacantiste). Ne rien redéfinir dans la fiche.
+
 ### 6. Création du markdown dans le site
 
 Le fichier final est placé à `/home/realitix/git/catholique/site/src/content/questions/<slug>.md`. Frontmatter YAML requis :
@@ -79,10 +99,29 @@ tags: [...]
 related_documents: ["slug1", "slug2"]  # slugs présents dans index.jsonl
 related_themes: ["theme1"]             # slugs présents dans concordance.jsonl
 posture: "traditionnelle"
+voices:
+  conciliaire:
+    tagline: "Phrase condensée entre guillemets."
+    body: "60 à 90 mots, doctrinalement juste."
+    punchline: "Optionnelle, italique discret."
+  ecclesia_dei:
+    tagline: "..."
+    body: "..."
+    punchline: "..."
+  fsspx:
+    tagline: "..."
+    body: "..."
+    punchline: "..."
+  sedevacantiste:
+    tagline: "..."
+    body: "..."
+    punchline: "..."
 ---
 ```
 
 Pour chaque citation en langue étrangère, utiliser le composant Astro `<Citation>` situé à `/home/realitix/git/catholique/site/src/components/Citation.astro` — il prend en charge le texte source, la traduction française, et la référence au document d'origine.
+
+Le bloc `voices` alimente automatiquement la section « Panorama des quatre voix catholiques » en bas de la fiche (voir étape 5 bis). Il est obligatoire, dans l'ordre canonique. Schéma Zod côté site : `/home/realitix/git/catholique/site/src/content/config.ts`. Composant de rendu : `/home/realitix/git/catholique/site/src/components/FourVoices.astro`.
 
 ### 7. Revue par un agent reviewer
 
@@ -94,6 +133,7 @@ Un agent opus final est lancé en rôle de reviewer. Sa checklist :
 - Cohérence dogmatique : aucune contradiction interne entre les sections.
 - Posture conforme : traditionnelle assumée, lettre des textes respectée.
 - Frontmatter YAML valide (champs obligatoires présents, date au format ISO).
+- **Bloc `voices` présent, complet (les quatre courants dans l'ordre canonique), et respectant le ton attendu** pour chaque courant (voir étape 5 bis).
 
 Le reviewer retourne un rapport de conformité. L'orchestrateur corrige les écarts avant passage à l'étape 8.
 

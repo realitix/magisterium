@@ -1,0 +1,269 @@
+---
+/**
+ * Panorama des quatre voix catholiques.
+ * Affiche la position condensée de chaque grand courant sur la question.
+ * Ton : juste, informatif, avec une pointe d'humour tradi assumé.
+ */
+interface Voice {
+  tagline: string;
+  body: string;
+  punchline?: string;
+}
+
+interface Props {
+  voices: {
+    conciliaire?: Voice;
+    ecclesia_dei?: Voice;
+    fsspx?: Voice;
+    sedevacantiste?: Voice;
+  };
+}
+
+const { voices } = Astro.props;
+
+type Entry = {
+  key: keyof Props['voices'];
+  label: string;
+  sublabel: string;
+  symbol: string;
+  voice: Voice;
+};
+
+const entries: Entry[] = [];
+if (voices.conciliaire) {
+  entries.push({
+    key: 'conciliaire',
+    label: 'Rome post-conciliaire',
+    sublabel: "L'Église officielle depuis Vatican II",
+    symbol: '✦',
+    voice: voices.conciliaire,
+  });
+}
+if (voices.ecclesia_dei) {
+  entries.push({
+    key: 'ecclesia_dei',
+    label: 'Ex-Ecclesia Dei',
+    sublabel: 'Tradis ralliés — FSSP, ICRSP, IBP',
+    symbol: '☩',
+    voice: voices.ecclesia_dei,
+  });
+}
+if (voices.fsspx) {
+  entries.push({
+    key: 'fsspx',
+    label: 'Fraternité Saint-Pie X',
+    sublabel: "Les « Saint-Piedis » d'Écône",
+    symbol: '✠',
+    voice: voices.fsspx,
+  });
+}
+if (voices.sedevacantiste) {
+  entries.push({
+    key: 'sedevacantiste',
+    label: 'Sédévacantistes',
+    sublabel: 'Sede vacante depuis Pie XII',
+    symbol: '†',
+    voice: voices.sedevacantiste,
+  });
+}
+---
+
+{
+  entries.length > 0 && (
+    <section class="voices" aria-labelledby="voices-title">
+      <header class="voices__header">
+        <p class="voices__eyebrow">Panorama</p>
+        <h2 id="voices-title" class="voices__title">
+          Les quatre voix catholiques
+        </h2>
+        <p class="voices__lede">
+          La même question vue depuis chacun des grands courants du catholicisme
+          contemporain. Pour le plaisir de la carte d'identité — et pour
+          rappeler que la controverse n'est jamais morte.
+        </p>
+      </header>
+
+      <ul class="voices__grid" role="list">
+        {entries.map((e) => (
+          <li class={`voice-card voice-card--${e.key}`}>
+            <div class="voice-card__head">
+              <span class="voice-card__symbol" aria-hidden="true">
+                {e.symbol}
+              </span>
+              <div class="voice-card__titles">
+                <h3 class="voice-card__label">{e.label}</h3>
+                <p class="voice-card__sublabel">{e.sublabel}</p>
+              </div>
+            </div>
+            <p class="voice-card__tagline">« {e.voice.tagline} »</p>
+            <p class="voice-card__body">{e.voice.body}</p>
+            {e.voice.punchline && (
+              <p class="voice-card__punchline">
+                <small>{e.voice.punchline}</small>
+              </p>
+            )}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
+<style>
+  .voices {
+    margin-top: var(--space-2xl);
+    padding-top: var(--space-xl);
+    border-top: 1px solid var(--rule);
+  }
+
+  .voices__header {
+    text-align: center;
+    max-width: 60ch;
+    margin: 0 auto var(--space-xl);
+  }
+
+  .voices__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-bottom: var(--space-xs);
+  }
+
+  .voices__title {
+    font-family: var(--font-display);
+    font-size: clamp(1.6rem, 3vw + 0.5rem, 2.2rem);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    margin: 0 0 var(--space-s);
+  }
+
+  .voices__lede {
+    font-family: var(--font-serif);
+    color: var(--ink-soft);
+    font-size: 1rem;
+    line-height: var(--line-height-prose);
+    font-style: italic;
+  }
+
+  .voices__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-m);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  @media (min-width: 720px) {
+    .voices__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .voice-card {
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-top: 3px solid var(--muted);
+    padding: var(--space-m);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .voice-card--conciliaire {
+    border-top-color: var(--muted);
+  }
+
+  .voice-card--ecclesia_dei {
+    border-top-color: var(--gold);
+  }
+
+  .voice-card--fsspx {
+    border-top-color: #6b4b1f;
+  }
+
+  .voice-card--sedevacantiste {
+    border-top-color: var(--rubric);
+  }
+
+  .voice-card__head {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-s);
+  }
+
+  .voice-card__symbol {
+    font-family: var(--font-display);
+    font-size: 1.8rem;
+    line-height: 1;
+    color: var(--rubric);
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+  }
+
+  .voice-card--conciliaire .voice-card__symbol {
+    color: var(--muted);
+  }
+
+  .voice-card--ecclesia_dei .voice-card__symbol {
+    color: var(--gold);
+  }
+
+  .voice-card--fsspx .voice-card__symbol {
+    color: #6b4b1f;
+  }
+
+  .voice-card__titles {
+    flex: 1;
+  }
+
+  .voice-card__label {
+    font-family: var(--font-display);
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--ink);
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .voice-card__sublabel {
+    font-family: var(--font-serif);
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: 0.15rem 0 0;
+    font-style: italic;
+  }
+
+  .voice-card__tagline {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    color: var(--rubric);
+    margin: 0;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 1.35;
+  }
+
+  .voice-card__body {
+    font-family: var(--font-serif);
+    font-size: 0.98rem;
+    line-height: var(--line-height-prose);
+    color: var(--ink-soft);
+    margin: 0;
+  }
+
+  .voice-card__punchline {
+    margin: 0;
+    padding-top: var(--space-xs);
+    border-top: 1px dashed var(--rule);
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .voice-card__punchline small {
+    font-size: 0.85rem;
+  }
+</style>

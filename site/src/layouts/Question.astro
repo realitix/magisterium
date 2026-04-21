@@ -1,7 +1,14 @@
 ---
 import Base from './Base.astro';
+import FourVoices from '../components/FourVoices.astro';
 import { getDocumentBySlug } from '../data/loadDocuments.js';
 import { getThemeBySlug } from '../data/loadThemes.js';
+
+interface Voice {
+  tagline: string;
+  body: string;
+  punchline?: string;
+}
 
 interface Props {
   title: string;
@@ -13,6 +20,12 @@ interface Props {
   related_documents?: string[];
   related_themes?: string[];
   posture?: 'traditionnelle' | 'neutre' | 'pastorale';
+  voices?: {
+    conciliaire?: Voice;
+    ecclesia_dei?: Voice;
+    fsspx?: Voice;
+    sedevacantiste?: Voice;
+  };
 }
 
 const {
@@ -24,6 +37,7 @@ const {
   related_documents = [],
   related_themes = [],
   posture = 'traditionnelle',
+  voices,
 } = Astro.props;
 
 const postureLabel: Record<string, string> = {
@@ -94,6 +108,7 @@ if (date) {
     <div class="q__layout">
       <article class="prose q__body">
         <slot />
+        {voices && <FourVoices voices={voices} />}
       </article>
 
       <aside class="q__aside" aria-label="Références">

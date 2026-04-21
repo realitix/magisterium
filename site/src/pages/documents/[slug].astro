@@ -8,6 +8,7 @@ import { marked } from 'marked';
 import Document from '../../layouts/Document.astro';
 import { loadAllDocuments, getDocumentBySlug } from '../../data/loadDocuments.ts';
 import { loadDocumentContent } from '../../data/loadMarkdown.ts';
+import { cleanDocumentHtml } from '../../data/cleanHtml.ts';
 
 export async function getStaticPaths() {
   const docs = loadAllDocuments();
@@ -32,7 +33,11 @@ if (loaded === null) {
 
 // Configuration de marked : GFM activé, pas de highlight (désactive Shiki ici).
 marked.setOptions({ gfm: true, breaks: false });
-const renderedHtml: string = await marked.parse(loaded.content);
+const rawHtml: string = await marked.parse(loaded.content);
+// Nettoyage : strip des liens morts (share, javascript, mailto), réécriture
+// des URLs vatican.va vers le corpus interne quand le doc est présent,
+// marquage des liens externes restants.
+const { html: renderedHtml } = cleanDocumentHtml(rawHtml);
 ---
 
 <Document

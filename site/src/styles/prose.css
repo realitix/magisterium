@@ -11,6 +11,20 @@
   color: var(--ink);
 }
 
+/* Lien externe (hors du corpus) — petite flèche discrète en suffixe */
+.prose a.ext-link::after {
+  content: "\2197"; /* ↗ */
+  margin-left: 0.15em;
+  font-size: 0.85em;
+  color: var(--muted);
+  opacity: 0.65;
+}
+
+.prose a.ext-link:hover::after,
+.prose a.ext-link:focus-visible::after {
+  opacity: 1;
+}
+
 /* Rythme vertical cohérent */
 .prose > * + * {
   margin-top: var(--space-m);

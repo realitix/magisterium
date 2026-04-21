@@ -72,6 +72,21 @@ ol[role="list"] {
 html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  /* Smooth scroll natif pour les ancres */
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Compense le header sticky lors de la navigation par ancre
+   (scrollIntoView et #fragment respectent scroll-margin-top).
+   Spécificité 0 grâce à :where, donc facile à surcharger au besoin. */
+:where(h1, h2, h3, h4, h5, h6)[id] {
+  scroll-margin-top: 5rem;
 }
 
 body {

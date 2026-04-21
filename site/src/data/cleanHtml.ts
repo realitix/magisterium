@@ -257,8 +257,20 @@ export function cleanDocumentHtml(html: string): CleanResult {
   // unwrapped (the visible text stays, the broken link disappears).
   out = unwrapBrokenFragments(out, stats);
 
-  // Pass 5 : collapse now-empty list items / paragraphs left by the strips.
-  out = out.replace(/<(li|p)\b[^>]*>\s*<\/\1>/gi, '');
+  // Pass 5 : remove anchors whose content became empty after image/child
+  // strips (e.g. `<a>` that only wrapped a now-removed vatican.va logo).
+  // We loop until stable : a link inside a list item can leave the <li>
+  // empty, which another pass then removes.
+  let previous = '';
+  while (previous !== out) {
+    previous = out;
+    out = out.replace(
+      /<a\b[^>]*>([\s\S]*?)<\/a>/gi,
+      (match, inner) => (inner.replace(/\s|&nbsp;|<[^>]+\/?>/g, '').length === 0 ? '' : match)
+    );
+    // Collapse now-empty block-level wrappers.
+    out = out.replace(/<(li|p|div|span)\b[^>]*>\s*(?:&nbsp;|\s)*\s*<\/\1>/gi, '');
+  }
 
   return { html: out, stats };
 }

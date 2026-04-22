@@ -86,9 +86,9 @@ if (date) {
   <main class="q" id="main" data-pagefind-body>
     <header class="q__header">
       <p class="q__eyebrow">Question</p>
-      <h1 class="q__title">{title}</h1>
-      <p class="q__question">{question}</p>
-      {summary && <p class="q__summary">{summary}</p>}
+      <h1 class="q__title" data-pagefind-meta="title" data-pagefind-weight="10.0">{title}</h1>
+      <p class="q__question" data-pagefind-weight="5.0">{question}</p>
+      {summary && <p class="q__summary" data-pagefind-weight="3.0">{summary}</p>}
 
       <div class="q__meta">
         {dateDisplay && (

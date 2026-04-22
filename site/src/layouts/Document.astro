@@ -139,10 +139,10 @@ const pageDescription: string =
         {dateFormatted !== null && <span>{dateFormatted}</span>}
       </p>
 
-      <h1 class="doc__title">{title}</h1>
+      <h1 class="doc__title" data-pagefind-meta="title" data-pagefind-weight="10.0">{title}</h1>
 
       {meta.titre_original !== undefined && meta.titre_original !== null && meta.titre_original !== title && (
-        <p class="doc__subtitle" lang={lang}>{meta.titre_original}</p>
+        <p class="doc__subtitle" lang={lang} data-pagefind-weight="6.0">{meta.titre_original}</p>
       )}
 
       <div class="doc__badges">

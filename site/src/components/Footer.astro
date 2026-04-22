@@ -13,12 +13,13 @@ const GITHUB_URL: string | null = null; // ex. 'https://github.com/<org>/catholi
 <footer class="site-footer" role="contentinfo">
   <div class="site-footer__inner">
     <div class="site-footer__intro">
-      <p class="site-footer__brand">Magisterium</p>
+      <p class="site-footer__brand">Magister<span class="site-footer__brand-ai">IA</span></p>
       <p class="site-footer__note">
-        Magisterium rassemble les sources primaires du magistère catholique et
+        MagisterIA rassemble les sources primaires du magistère catholique et
         propose des fiches doctrinales selon la lecture traditionnelle de
         l'Église, tout en respectant rigoureusement la lettre des textes
-        conciliaires et pontificaux.
+        conciliaires et pontificaux. Traductions générées par intelligence
+        artificielle là où le Saint-Siège n'en fournit pas.
       </p>
       <p class="site-footer__meta">
         <small>Corpus magistériel — {docCount.toLocaleString('fr-FR')} documents</small>
@@ -58,7 +59,7 @@ const GITHUB_URL: string | null = null; // ex. 'https://github.com/<org>/catholi
 
   <div class="site-footer__bottom">
     <small>
-      © {year} Magisterium. Textes magistériels dans le domaine public ou
+      © {year} MagisterIA. Textes magistériels dans le domaine public ou
       reproduits selon leurs conditions originales.
     </small>
   </div>
@@ -94,6 +95,11 @@ const GITHUB_URL: string | null = null; // ex. 'https://github.com/<org>/catholi
     font-weight: 600;
     color: var(--ink);
     margin-bottom: var(--space-s);
+  }
+
+  .site-footer__brand-ai {
+    color: var(--rubric);
+    font-weight: 700;
   }
 
   .site-footer__note {

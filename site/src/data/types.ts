@@ -1,5 +1,5 @@
 /**
- * Types for the Magisterium corpus data layer.
+ * Types for the MagisterIA corpus data layer.
  */
 
 export type Periode = 'pre-vatican-ii' | 'vatican-ii' | 'post-vatican-ii' | 'fsspx' | string;

@@ -13,8 +13,8 @@ function isActive(prefix: string): boolean {
 
 <header class="site-header">
   <div class="site-header__inner">
-    <a class="site-header__brand" href="/" aria-label="Magisterium — accueil">
-      <span class="site-header__brand-mark">Magisterium</span>
+    <a class="site-header__brand" href="/" aria-label="MagisterIA — accueil">
+      <span class="site-header__brand-mark">Magister<span class="site-header__brand-ai">IA</span></span>
     </a>
 
     <input
@@ -130,6 +130,15 @@ function isActive(prefix: string): boolean {
 
   .site-header__brand-mark {
     display: inline-block;
+  }
+
+  /* Jeu de mot visuel : le suffixe "IA" est mis en valeur par la couleur
+     rubrique. Lecture : « Magister » (latin, maître) + « IA »
+     (intelligence artificielle). */
+  .site-header__brand-ai {
+    color: var(--rubric);
+    font-weight: 700;
+    letter-spacing: 0.02em;
   }
 
   /* Navigation principale */

@@ -1,6 +1,6 @@
 ---
 /**
- * Homepage Magisterium — T7.
+ * Homepage MagisterIA — T7.
  * Hero + question à la une + grille des 11 thèmes + CTA + bloc « en préparation ».
  */
 import { getCollection } from 'astro:content';
@@ -47,14 +47,14 @@ const questionCount = questions.length;
 ---
 
 <Base
-  title="Magisterium"
-  description="Corpus magistériel catholique — conciles, papes, catéchismes, droit et liturgie ; fiches doctrinales selon la lecture traditionnelle."
+  title="MagisterIA"
+  description="Corpus magistériel catholique augmenté par IA — conciles, papes, catéchismes, droit et liturgie ; fiches doctrinales selon la lecture traditionnelle."
 >
   <main id="main" class="home">
     {/* Hero */}
     <section class="hero" aria-labelledby="hero-title">
       <p class="hero__eyebrow">Corpus magistériel</p>
-      <h1 id="hero-title" class="hero__title">Magisterium</h1>
+      <h1 id="hero-title" class="hero__title">Magister<span class="hero__title-ai">IA</span></h1>
       <p class="hero__subtitle">
         Corpus magistériel catholique — tradition et concile moderne.
       </p>
@@ -185,6 +185,13 @@ const questionCount = questions.length;
     color: var(--ink);
     margin-bottom: var(--space-s);
     line-height: 1;
+  }
+
+  /* Jeu de mot : « Magister » (latin) + « IA » (intelligence artificielle)
+     mis en couleur rubrique pour le signaler. */
+  .hero__title-ai {
+    color: var(--rubric);
+    font-weight: 700;
   }
 
   .hero__subtitle {

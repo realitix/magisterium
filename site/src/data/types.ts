@@ -23,6 +23,20 @@ export interface TraductionSummary {
 }
 
 /**
+ * Appartenance à un ouvrage multi-parties (Catéchisme romain, CEC latin,
+ * Code de droit canonique…). Source : `scrapers.core.meta.Ouvrage`.
+ * Absent pour les documents autonomes (la grande majorité).
+ */
+export interface OuvrageRef {
+  slug: string;
+  titre: string;
+  /** Position 1-based dans l'ordre canonique des parties. */
+  partie_index: number;
+  partie_titre: string;
+  total_parties: number;
+}
+
+/**
  * Entrée complète du bloc `traductions` dans un `.meta.yaml`, avec tous les
  * champs de provenance. Champs optionnels selon le `kind`.
  */
@@ -70,6 +84,11 @@ export interface Document {
    * Triée par code langue. Toujours non-vide (au minimum la langue originale).
    */
   traductions: TraductionSummary[];
+  /**
+   * Appartenance à un ouvrage multi-parties. `null` pour les documents
+   * autonomes. Voir `OuvrageRef`.
+   */
+  ouvrage: OuvrageRef | null;
 }
 
 /**
@@ -112,6 +131,8 @@ export interface DocumentMeta {
   }>;
   /** Bloc source de vérité — provenance par langue. */
   traductions?: Record<Langue, TraductionEntry>;
+  /** Appartenance à un ouvrage multi-parties (optionnel). */
+  ouvrage?: OuvrageRef;
   /** Champs historiques, conservés pour compat ascendante. */
   langues_disponibles?: Langue[];
   sha256?: string | Record<string, string>;

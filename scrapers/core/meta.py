@@ -17,6 +17,28 @@ class Source(BaseModel):
     fetch_method: str
 
 
+class Ouvrage(BaseModel):
+    """Appartenance d'un document à un ouvrage multi-parties.
+
+    Quand un ouvrage (Catéchisme romain, CEC latin, Code de Droit Canonique…)
+    est scrapé en N documents distincts — parce qu'aucun `.md` unique ne peut
+    raisonnablement porter tout le texte — chaque partie pointe vers son
+    ouvrage parent via ce bloc. Le site s'en sert pour grouper l'affichage
+    (une carte « ouvrage » en résultat de recherche plutôt que N cartes de
+    parties en doublon).
+
+    Convention : `partie_index` est 1-based pour affichage humain ("Partie 2
+    sur 6"), dérivé de l'ordre canonique des parties (préfixe numérique du
+    slug pour les ouvrages linéaires, ordre lexical sinon).
+    """
+
+    slug: str
+    titre: str
+    partie_index: int
+    partie_titre: str
+    total_parties: int
+
+
 class Traduction(BaseModel):
     """Per-language provenance record.
 
@@ -66,6 +88,10 @@ class DocMeta(BaseModel):
     references_anterieures: list[str] = Field(default_factory=list)
     references_posterieures: list[str] = Field(default_factory=list)
     sources: list[Source] = Field(default_factory=list)
+
+    # Appartenance à un ouvrage multi-parties (cf. Ouvrage).
+    # Absent pour les documents autonomes (la grande majorité).
+    ouvrage: Optional[Ouvrage] = None
 
     # Nouveau bloc multi-langue : une entrée par langue disponible avec
     # sa provenance (originale / officielle / ia). Source de vérité unique.

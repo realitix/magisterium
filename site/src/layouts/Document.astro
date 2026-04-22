@@ -6,6 +6,7 @@
  */
 import Base from './Base.astro';
 import LangFlag from '../components/LangFlag.astro';
+import { getOuvrageParts } from '../data/loadDocuments.ts';
 import type { Document, DocumentMeta, Langue, TraductionKind } from '../data/types.ts';
 
 interface Props {
@@ -34,10 +35,23 @@ const { doc, meta, lang, kind, renderedHtml } = Astro.props;
  */
 const incipit = (doc.incipit ?? meta.incipit ?? null) as string | null;
 const titreFr = (doc.titre_fr ?? meta.titre_fr ?? null) as string | null;
+const ouvragePartTitle = doc.ouvrage?.partie_titre ?? null;
 
 let title: string;
 let subtitle: string | null;
-if (lang === 'fr' && titreFr !== null) {
+if (ouvragePartTitle !== null) {
+  // Pour une partie d'ouvrage, le `partie_titre` est plus informatif que le
+  // titre_fr générique (souvent partagé entre toutes les parties, ex. CEC).
+  // On l'utilise en H1 ; l'incipit ou titre_fr descend en sous-titre.
+  title = ouvragePartTitle;
+  if (lang === 'fr' && titreFr !== null && titreFr !== title) {
+    subtitle = titreFr;
+  } else if (incipit !== null && incipit !== title) {
+    subtitle = incipit;
+  } else {
+    subtitle = null;
+  }
+} else if (lang === 'fr' && titreFr !== null) {
   title = titreFr;
   subtitle = (incipit !== null && incipit !== titreFr) ? incipit : null;
 } else {
@@ -107,6 +121,28 @@ const dateFormatted = formatFrenchDate(doc.date);
 const periodeLabel = PERIODE_LABELS[doc.periode] ?? doc.periode;
 const periodeClass = periodeBadgeClass(doc.periode);
 
+/** Navigation entre parties d'un ouvrage multi-fichiers. */
+const ouvrage = doc.ouvrage;
+const ouvrageParts = ouvrage !== null ? getOuvrageParts(doc.slug) : [];
+/** Retourne la partie à l'offset donné (prev = -1, next = +1) ou null. */
+function findPartAtOffset(offset: number): Document | null {
+  if (ouvrage === null) return null;
+  const targetIndex = ouvrage.partie_index + offset;
+  return ouvrageParts.find((p) => p.ouvrage?.partie_index === targetIndex) ?? null;
+}
+const prevPart = findPartAtOffset(-1);
+const nextPart = findPartAtOffset(1);
+/**
+ * URL pour une partie sœur dans la langue courante si disponible, sinon
+ * repli sur la langue originale de cette partie (évite les 404 quand
+ * telle partie n'existe pas dans la langue qu'on lit).
+ */
+function partHref(part: Document): string {
+  const hasCurrentLang = part.traductions.some((t) => t.lang === lang);
+  const targetLang = hasCurrentLang ? lang : part.langue_originale;
+  return `/documents/${part.slug}/${targetLang}/`;
+}
+
 /** Meta préfèrera la source dans la langue rendue ; sinon la première. */
 const sources = Array.isArray(meta.sources) ? meta.sources : [];
 const primarySource = sources.find((s) => s?.langue === lang) ?? sources[0];
@@ -154,6 +190,27 @@ const pageDescription: string =
     <nav class="doc__back" aria-label="Navigation">
       <a href="/documents/">← Retour à l'index</a>
     </nav>
+
+    {ouvrage !== null && (
+      <>
+        {/*
+          Meta Pagefind pour permettre au JS de recherche (SearchBar.astro)
+          de regrouper les hits par ouvrage. Ces spans n'ont pas de contenu
+          visible — Pagefind lit l'attribut `data-pagefind-meta="key:value"`.
+        */}
+        <span hidden data-pagefind-meta={`ouvrage:${ouvrage.slug}`}></span>
+        <span hidden data-pagefind-meta={`ouvrage_titre:${ouvrage.titre}`}></span>
+        <span hidden data-pagefind-meta={`partie_index:${ouvrage.partie_index}`}></span>
+        <span hidden data-pagefind-meta={`partie_titre:${ouvrage.partie_titre}`}></span>
+        <span hidden data-pagefind-meta={`total_parties:${ouvrage.total_parties}`}></span>
+
+        <nav class="doc__ouvrage-crumb" aria-label="Ouvrage parent">
+          <span class="doc__ouvrage-crumb-label">Dans l'ouvrage</span>
+          <span class="doc__ouvrage-crumb-titre">{ouvrage.titre}</span>
+          <span class="doc__ouvrage-crumb-badge">Partie {ouvrage.partie_index} / {ouvrage.total_parties}</span>
+        </nav>
+      </>
+    )}
 
     <header class="doc__header">
       <p class="doc__eyebrow">
@@ -270,6 +327,40 @@ const pageDescription: string =
         <dd><code>{doc.slug}</code></dd>
       </dl>
     </aside>
+
+    {ouvrage !== null && (prevPart !== null || nextPart !== null) && (
+      <nav class="doc__part-nav" aria-label="Navigation entre parties de l'ouvrage">
+        <p class="doc__part-nav-label">
+          {ouvrage.titre}
+          <span aria-hidden="true"> · </span>
+          <span>Partie {ouvrage.partie_index} / {ouvrage.total_parties}</span>
+        </p>
+        <div class="doc__part-nav-row">
+          <div class="doc__part-nav-slot">
+            {prevPart !== null && (
+              <a href={partHref(prevPart)} class="doc__part-nav-link doc__part-nav-link--prev" rel="prev">
+                <span class="doc__part-nav-arrow" aria-hidden="true">←</span>
+                <span class="doc__part-nav-body">
+                  <span class="doc__part-nav-index">Partie {prevPart.ouvrage!.partie_index}</span>
+                  <span class="doc__part-nav-titre">{prevPart.ouvrage!.partie_titre}</span>
+                </span>
+              </a>
+            )}
+          </div>
+          <div class="doc__part-nav-slot">
+            {nextPart !== null && (
+              <a href={partHref(nextPart)} class="doc__part-nav-link doc__part-nav-link--next" rel="next">
+                <span class="doc__part-nav-body">
+                  <span class="doc__part-nav-index">Partie {nextPart.ouvrage!.partie_index}</span>
+                  <span class="doc__part-nav-titre">{nextPart.ouvrage!.partie_titre}</span>
+                </span>
+                <span class="doc__part-nav-arrow" aria-hidden="true">→</span>
+              </a>
+            )}
+          </div>
+        </div>
+      </nav>
+    )}
 
     <nav class="doc__back doc__back--bottom" aria-label="Navigation">
       <a href="/documents/">← Retour à l'index</a>
@@ -588,6 +679,146 @@ const pageDescription: string =
   .doc__ai-banner-body a {
     color: var(--rubric);
     font-weight: 600;
+  }
+
+  /* Breadcrumb « dans l'ouvrage » en tête de page */
+  .doc__ouvrage-crumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.6em;
+    margin: 0 0 var(--space-m);
+    padding: var(--space-2xs) var(--space-s);
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--gold);
+    border-radius: 3px;
+    font-family: var(--font-display);
+    font-size: 0.82rem;
+    line-height: 1.4;
+  }
+
+  .doc__ouvrage-crumb-label {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    font-size: 0.7rem;
+  }
+
+  .doc__ouvrage-crumb-titre {
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .doc__ouvrage-crumb-badge {
+    font-variant-numeric: oldstyle-nums;
+    color: var(--muted);
+    background-color: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 0.05em 0.45em;
+    letter-spacing: 0.04em;
+  }
+
+  /* Navigation inter-parties en pied d'article */
+  .doc__part-nav {
+    margin-top: var(--space-2xl);
+    padding-top: var(--space-l);
+    border-top: 1px solid var(--rule);
+  }
+
+  .doc__part-nav-label {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin: 0 0 var(--space-s);
+  }
+
+  .doc__part-nav-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-m);
+  }
+
+  .doc__part-nav-slot {
+    min-height: 1rem;
+  }
+
+  .doc__part-nav-link {
+    display: flex;
+    gap: var(--space-s);
+    align-items: center;
+    padding: var(--space-s) var(--space-m);
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    text-decoration: none;
+    color: var(--ink);
+    transition: border-color 150ms ease, background-color 150ms ease, transform 150ms ease;
+  }
+
+  .doc__part-nav-link:hover,
+  .doc__part-nav-link:focus-visible {
+    border-color: var(--rubric);
+    background-color: var(--paper);
+    transform: translateY(-1px);
+  }
+
+  .doc__part-nav-link--next {
+    flex-direction: row;
+    text-align: right;
+    justify-content: flex-end;
+    grid-column: 2;
+  }
+
+  .doc__part-nav-link--prev {
+    grid-column: 1;
+  }
+
+  .doc__part-nav-arrow {
+    font-family: var(--font-display);
+    font-size: 1.2rem;
+    color: var(--muted);
+    flex-shrink: 0;
+  }
+
+  .doc__part-nav-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15em;
+    min-width: 0;
+    flex: 1;
+  }
+
+  .doc__part-nav-link--next .doc__part-nav-body {
+    align-items: flex-end;
+  }
+
+  .doc__part-nav-index {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.7rem;
+    color: var(--muted);
+  }
+
+  .doc__part-nav-titre {
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--ink);
+    line-height: 1.35;
+  }
+
+  @media (max-width: 640px) {
+    .doc__part-nav-row {
+      grid-template-columns: 1fr;
+    }
+    .doc__part-nav-link--next {
+      grid-column: 1;
+    }
   }
 
   .doc__sha {

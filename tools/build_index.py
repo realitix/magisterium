@@ -79,6 +79,12 @@ def build_index() -> int:
             "themes_doctrinaux": data.get("themes_doctrinaux") or [],
             "traductions": traductions_summary,
         }
+        # Bloc `ouvrage` pour les parties de gros corpus multi-fichiers
+        # (Catéchisme romain, CEC latin…). Omis du JSONL pour les documents
+        # autonomes afin de garder l'index compact.
+        ouvrage = data.get("ouvrage")
+        if ouvrage is not None:
+            entry["ouvrage"] = ouvrage
         entries.append(entry)
 
     # Sort by date ascending (None last, to keep stable order)

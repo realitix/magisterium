@@ -29,7 +29,31 @@ traductions:
     sha256: a9b51f43ea5d7576dba71a3cbf35978e399bb51f16d82f48ad7c8771e16ca3a4
     source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
     fetch_method: djvu-ocr
+  fr:
+    kind: ia
+    sha256: 071997ff65b73945d8d0203c1efb1f86d7c2532fda2c8fee474f7288d3872dc0
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: a9b51f43ea5d7576dba71a3cbf35978e399bb51f16d82f48ad7c8771e16ca3a4
+    translated_at: '2026-04-22T13:11:24.938246Z'
+  en:
+    kind: ia
+    sha256: c33af61ae9a6b5d9d0c387e6d3a8d463499549a610ec5033148d72f4cda235b4
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: a9b51f43ea5d7576dba71a3cbf35978e399bb51f16d82f48ad7c8771e16ca3a4
+    translated_at: '2026-04-22T13:11:25.031367Z'
 langues_disponibles:
 - la
+- fr
+- en
 sha256:
   la: a9b51f43ea5d7576dba71a3cbf35978e399bb51f16d82f48ad7c8771e16ca3a4
+  fr: 071997ff65b73945d8d0203c1efb1f86d7c2532fda2c8fee474f7288d3872dc0
+  en: c33af61ae9a6b5d9d0c387e6d3a8d463499549a610ec5033148d72f4cda235b4
+ouvrage:
+  slug: 1566_catechismus-romanus
+  titre: Catéchisme du concile de Trente
+  partie_index: 1
+  partie_titre: Préface (Clément XIII)
+  total_parties: 6

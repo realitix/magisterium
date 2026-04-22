@@ -1,9 +1,13 @@
 ---
 /**
- * SearchBar — composant de recherche Pagefind
+ * SearchBar — recherche Pagefind avec regroupement par ouvrage.
  *
- * Rend un conteneur ciblé par PagefindUI et charge le runtime Pagefind
- * depuis /pagefind/ (généré par `pagefind --site dist` en postbuild).
+ * Contrairement au composant `@pagefind/default-ui` qui affiche un hit par
+ * page, cette UI appelle directement l'API bas niveau `pagefind.search()`
+ * puis regroupe les résultats par `meta.ouvrage` émis par les pages parties
+ * (cf. `layouts/Document.astro`). Conséquence : un ouvrage multi-fichiers
+ * (Catéchisme romain, CEC latin…) apparaît comme une seule card avec ses
+ * parties matchantes en sous-résultats, plutôt que N doublons.
  *
  * Usage :
  *   <SearchBar />
@@ -29,123 +33,382 @@ const {
   role="search"
   aria-label="Recherche plein-texte"
 >
-  <div
-    id={id}
-    class="search__pagefind"
-    data-pagefind-ui
-    data-placeholder={placeholder}
-    data-variant={variant}
-  ></div>
+  <div id={id} class="search__root" data-search-root data-variant={variant}>
+    <form class="search__form" role="search" data-search-form>
+      <input
+        type="search"
+        class="search__input"
+        data-search-input
+        placeholder={placeholder}
+        aria-label={placeholder}
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <button type="button" class="search__clear" data-search-clear aria-label="Effacer la recherche" hidden>×</button>
+    </form>
+    <p class="search__status" data-search-status aria-live="polite"></p>
+    <ol class="search__results" data-search-results role="list"></ol>
+    <button type="button" class="search__more" data-search-more hidden>Plus de résultats</button>
+  </div>
 </div>
 
 <script>
   /*
-   * Initialisation de PagefindUI.
+   * Custom search UI wrapping the Pagefind runtime API.
    *
-   * Le script `/pagefind/pagefind-ui.js` est généré par `pagefind --site dist`
-   * (postbuild). Il expose `window.PagefindUI` et charge lui-même le WASM
-   * et l'index depuis `/pagefind/`.
+   * Pipeline : on input → debounced call to `pagefind.search(query)` →
+   * fetch .data() for each hit in parallel → group by meta.ouvrage →
+   * render.
    *
-   * En mode dev (`astro dev`), l'index n'existe pas : on affiche un message
-   * explicite plutôt qu'une erreur silencieuse.
+   * Le runtime `/pagefind/pagefind.js` est généré par `pagefind --site dist`
+   * (postbuild). En mode dev, absent → on rend un message explicite.
    */
-  const initSearch = () => {
-    const containers = document.querySelectorAll<HTMLElement>('[data-pagefind-ui]');
-    if (containers.length === 0) return;
+  interface PagefindHit {
+    id: string;
+    score: number;
+    data: () => Promise<PagefindData>;
+  }
+  interface PagefindData {
+    url: string;
+    raw_url?: string;
+    excerpt: string;
+    meta: {
+      title?: string;
+      ouvrage?: string;
+      ouvrage_titre?: string;
+      partie_index?: string;
+      partie_titre?: string;
+      total_parties?: string;
+    };
+    filters: Record<string, string[]>;
+  }
+  interface PagefindSearchResponse {
+    results: PagefindHit[];
+    unfilteredResultCount: number;
+  }
+  interface PagefindModule {
+    search: (query: string, options?: Record<string, unknown>) => Promise<PagefindSearchResponse>;
+    debouncedSearch: (
+      query: string,
+      options?: Record<string, unknown>,
+      delay?: number,
+    ) => Promise<PagefindSearchResponse | null>;
+    options?: (opts: Record<string, unknown>) => Promise<void>;
+  }
 
-    const scriptUrl = '/pagefind/pagefind-ui.js';
+  interface RenderedHit {
+    data: PagefindData;
+    bestScore: number;
+  }
+  interface OuvrageGroup {
+    kind: 'ouvrage';
+    slug: string;
+    titre: string;
+    totalParties: number | null;
+    parts: RenderedHit[]; // déjà triés par partie_index
+    bestScore: number;
+  }
+  interface StandaloneHit {
+    kind: 'standalone';
+    hit: RenderedHit;
+    bestScore: number;
+  }
+  type ResultCard = OuvrageGroup | StandaloneHit;
 
-    const loadScript = (src: string): Promise<void> =>
-      new Promise((resolve, reject) => {
-        if (document.querySelector(`script[src="${src}"]`)) {
-          resolve();
+  const RESULTS_BATCH = 10;
+
+  const escapeHtml = (s: string): string =>
+    s.replace(/[&<>"']/g, (c) => {
+      switch (c) {
+        case '&': return '&amp;';
+        case '<': return '&lt;';
+        case '>': return '&gt;';
+        case '"': return '&quot;';
+        case "'": return '&#39;';
+        default: return c;
+      }
+    });
+
+  /** Pagefind injecte <mark>…</mark> dans l'excerpt ; on conserve tel quel. */
+  const renderExcerpt = (excerpt: string): string => excerpt;
+
+  /**
+   * Regroupe les hits bruts Pagefind en cards :
+   *  - Documents autonomes : une card chacun, aussi dédoublonnée entre
+   *    langues d'un même document (garde la meilleure langue matchée).
+   *  - Ouvrages : une card par ouvrage, avec ses parties en sous-résultats
+   *    (une par partie_index distinct, meilleur hit toute langue confondue).
+   *
+   * Justification du dédoublonnage : Pagefind indexe une page par (doc, lang)
+   * donc une recherche « sacramentis » (mot latin) peut retourner la même
+   * partie en la/fr/en ; sans déduplication on afficherait le même résultat
+   * trois fois.
+   */
+  function dedupeSlugFromUrl(url: string): string {
+    // "/documents/{slug}/{lang}/" → "{slug}"
+    const m = /^\/documents\/([^/]+)\/[^/]+\/?$/.exec(url);
+    return m !== null ? m[1] : url;
+  }
+
+  function groupByOuvrage(hits: RenderedHit[]): ResultCard[] {
+    const groups = new Map<string, OuvrageGroup>();
+    // Documents autonomes dédoublonnés par slug (la meilleure langue gagne).
+    const standaloneBySlug = new Map<string, StandaloneHit>();
+    // Ordre d'apparition des cards (= position du premier hit vu).
+    const cardOrder: Array<{ kind: 'ouvrage' | 'standalone'; key: string }> = [];
+
+    for (const hit of hits) {
+      const ouvrageSlug = hit.data.meta.ouvrage;
+      if (ouvrageSlug !== undefined && ouvrageSlug.length > 0) {
+        let g = groups.get(ouvrageSlug);
+        if (g === undefined) {
+          const total = hit.data.meta.total_parties !== undefined
+            ? Number.parseInt(hit.data.meta.total_parties, 10)
+            : null;
+          g = {
+            kind: 'ouvrage',
+            slug: ouvrageSlug,
+            titre: hit.data.meta.ouvrage_titre ?? ouvrageSlug,
+            totalParties: Number.isFinite(total) ? total : null,
+            parts: [],
+            bestScore: hit.bestScore,
+          };
+          groups.set(ouvrageSlug, g);
+          cardOrder.push({ kind: 'ouvrage', key: ouvrageSlug });
+        }
+        // Dédoublonner par partie_index : garde le hit au meilleur score.
+        const partieIdx = hit.data.meta.partie_index ?? hit.data.url;
+        const existing = g.parts.findIndex(
+          (p) => (p.data.meta.partie_index ?? p.data.url) === partieIdx,
+        );
+        if (existing === -1) {
+          g.parts.push(hit);
+        } else if (hit.bestScore > g.parts[existing].bestScore) {
+          g.parts[existing] = hit;
+        }
+        if (hit.bestScore > g.bestScore) g.bestScore = hit.bestScore;
+      } else {
+        // Doc autonome : dédoublonne par slug (le slug identifie le doc,
+        // l'URL inclut la langue ; deux langues d'un même doc = un seul hit).
+        const slug = dedupeSlugFromUrl(hit.data.url);
+        const existing = standaloneBySlug.get(slug);
+        if (existing === undefined) {
+          standaloneBySlug.set(slug, { kind: 'standalone', hit, bestScore: hit.bestScore });
+          cardOrder.push({ kind: 'standalone', key: slug });
+        } else if (hit.bestScore > existing.bestScore) {
+          existing.hit = hit;
+          existing.bestScore = hit.bestScore;
+        }
+      }
+    }
+
+    // Trier les parties d'un ouvrage par partie_index croissant.
+    for (const g of groups.values()) {
+      g.parts.sort((a, b) => {
+        const ai = Number.parseInt(a.data.meta.partie_index ?? '0', 10);
+        const bi = Number.parseInt(b.data.meta.partie_index ?? '0', 10);
+        return ai - bi;
+      });
+    }
+
+    // Fusionner dans l'ordre initial de découverte puis trier par meilleur score.
+    const all: ResultCard[] = cardOrder.map((c) =>
+      c.kind === 'ouvrage' ? groups.get(c.key)! : standaloneBySlug.get(c.key)!,
+    );
+    all.sort((a, b) => b.bestScore - a.bestScore);
+    return all;
+  }
+
+  function renderStandalone(card: StandaloneHit): string {
+    const d = card.hit.data;
+    const title = d.meta.title ?? d.url;
+    return `
+      <li class="sr sr--standalone">
+        <a class="sr__link" href="${escapeHtml(d.url)}">
+          <h3 class="sr__title">${escapeHtml(title)}</h3>
+          <p class="sr__excerpt">${renderExcerpt(d.excerpt)}</p>
+        </a>
+      </li>`;
+  }
+
+  function renderOuvrageGroup(card: OuvrageGroup): string {
+    const matched = card.parts.length;
+    const plural = matched > 1 ? 's' : '';
+    const countLabel = card.totalParties !== null
+      ? `${matched} partie${plural} / ${card.totalParties} avec correspondance`
+      : `${matched} partie${plural} avec correspondance`;
+
+    const parts = card.parts.map((p) => {
+      const d = p.data;
+      const idx = d.meta.partie_index ?? '';
+      const partieTitre = d.meta.partie_titre ?? d.meta.title ?? d.url;
+      return `
+        <li class="sr-sub">
+          <a class="sr-sub__link" href="${escapeHtml(d.url)}">
+            <span class="sr-sub__index">Partie ${escapeHtml(idx)}</span>
+            <span class="sr-sub__titre">${escapeHtml(partieTitre)}</span>
+            <span class="sr-sub__excerpt">${renderExcerpt(d.excerpt)}</span>
+          </a>
+        </li>`;
+    }).join('');
+
+    return `
+      <li class="sr sr--ouvrage">
+        <header class="sr__ouvrage-header">
+          <p class="sr__ouvrage-eyebrow">Ouvrage</p>
+          <h3 class="sr__title">${escapeHtml(card.titre)}</h3>
+          <p class="sr__ouvrage-count">${escapeHtml(countLabel)}</p>
+        </header>
+        <ol class="sr-sub-list" role="list">${parts}</ol>
+      </li>`;
+  }
+
+  function renderCard(card: ResultCard): string {
+    return card.kind === 'ouvrage' ? renderOuvrageGroup(card) : renderStandalone(card);
+  }
+
+  async function hitToRendered(hit: PagefindHit): Promise<RenderedHit> {
+    const data = await hit.data();
+    return { data, bestScore: hit.score };
+  }
+
+  const loadPagefind = async (): Promise<PagefindModule | null> => {
+    try {
+      // L'URL est construite au runtime pour empêcher Rollup de tenter de
+      // résoudre le module au build (il n'existe pas encore — c'est le
+      // postbuild `pagefind --site dist` qui le produit).
+      const url = `${window.location.origin}/pagefind/pagefind.js`;
+      // @ts-ignore — module généré, pas de types TS
+      const mod = await import(/* @vite-ignore */ url);
+      return mod as PagefindModule;
+    } catch (err) {
+      console.warn('[SearchBar] Pagefind runtime indisponible :', err);
+      return null;
+    }
+  };
+
+  const initSearch = async () => {
+    const roots = document.querySelectorAll<HTMLElement>('[data-search-root]');
+    if (roots.length === 0) return;
+
+    const pagefind = await loadPagefind();
+
+    for (const root of roots) {
+      const input = root.querySelector<HTMLInputElement>('[data-search-input]');
+      const clearBtn = root.querySelector<HTMLButtonElement>('[data-search-clear]');
+      const status = root.querySelector<HTMLElement>('[data-search-status]');
+      const resultsEl = root.querySelector<HTMLElement>('[data-search-results]');
+      const moreBtn = root.querySelector<HTMLButtonElement>('[data-search-more]');
+      const form = root.querySelector<HTMLFormElement>('[data-search-form]');
+      if (input === null || clearBtn === null || status === null || resultsEl === null || moreBtn === null || form === null) continue;
+
+      // Empêche la soumission form (Enter) qui pourrait naviguer.
+      form.addEventListener('submit', (e) => e.preventDefault());
+
+      if (pagefind === null) {
+        status.innerHTML =
+          'Index de recherche indisponible. Lancez <code>npm run build</code> pour générer l\'index Pagefind.';
+        input.disabled = true;
+        continue;
+      }
+
+      let currentCards: ResultCard[] = [];
+      let shown = 0;
+      let currentQuery = '';
+
+      const resetUI = () => {
+        resultsEl.innerHTML = '';
+        status.textContent = '';
+        moreBtn.hidden = true;
+        currentCards = [];
+        shown = 0;
+      };
+
+      const renderMore = () => {
+        const batch = currentCards.slice(shown, shown + RESULTS_BATCH);
+        if (batch.length === 0) {
+          moreBtn.hidden = true;
           return;
         }
-        const s = document.createElement('script');
-        s.src = src;
-        s.async = true;
-        s.onload = () => resolve();
-        s.onerror = () =>
-          reject(new Error(`Impossible de charger ${src} (index Pagefind manquant ?)`));
-        document.head.appendChild(s);
+        resultsEl.insertAdjacentHTML('beforeend', batch.map(renderCard).join(''));
+        shown += batch.length;
+        moreBtn.hidden = shown >= currentCards.length;
+      };
+
+      const runSearch = async (query: string) => {
+        if (query.length === 0) {
+          resetUI();
+          clearBtn.hidden = true;
+          return;
+        }
+        clearBtn.hidden = false;
+        status.textContent = `Recherche de « ${query} »…`;
+        try {
+          const resp = await pagefind.debouncedSearch(query, {}, 150);
+          // debouncedSearch retourne null si une recherche plus récente a été lancée.
+          if (resp === null) return;
+          if (query !== currentQuery) return; // race guard supplémentaire
+
+          // Fetch data en parallèle.
+          const rendered = await Promise.all(resp.results.map(hitToRendered));
+          if (query !== currentQuery) return;
+
+          currentCards = groupByOuvrage(rendered);
+          const total = currentCards.length;
+          if (total === 0) {
+            status.textContent = `Aucun résultat pour « ${query} »`;
+            resultsEl.innerHTML = '';
+            moreBtn.hidden = true;
+          } else {
+            status.textContent = `${total} résultat${total > 1 ? 's' : ''} pour « ${query} »`;
+            resultsEl.innerHTML = '';
+            shown = 0;
+            renderMore();
+          }
+        } catch (err) {
+          console.error('[SearchBar] search error :', err);
+          status.textContent = 'Erreur de recherche — voir la console.';
+        }
+      };
+
+      input.addEventListener('input', () => {
+        const q = input.value.trim();
+        currentQuery = q;
+        runSearch(q);
       });
 
-    loadScript(scriptUrl)
-      .then(() => {
-        // @ts-ignore — PagefindUI est injecté globalement par le script chargé
-        const PagefindUI = window.PagefindUI;
-        if (!PagefindUI) {
-          console.error('PagefindUI non disponible sur window après chargement.');
-          return;
-        }
+      clearBtn.addEventListener('click', () => {
+        input.value = '';
+        currentQuery = '';
+        resetUI();
+        clearBtn.hidden = true;
+        input.focus();
+      });
 
-        // Lire ?q=... de l'URL pour pré-remplissage éventuel
+      moreBtn.addEventListener('click', () => {
+        renderMore();
+      });
+
+      // Pré-remplissage via ?q=... — seulement sur variant "default" pour éviter
+      // le double déclenchement entre header compact et page recherche.
+      const variant = root.getAttribute('data-variant') ?? 'default';
+      if (variant !== 'compact') {
         const params = new URLSearchParams(window.location.search);
         const initialQuery = params.get('q')?.trim() ?? '';
-
-        containers.forEach((el) => {
-          const placeholder =
-            el.getAttribute('data-placeholder') || 'Rechercher dans le corpus…';
-          const variant = el.getAttribute('data-variant') || 'default';
-
-          const ui = new PagefindUI({
-            element: `#${el.id}`,
-            showSubResults: variant !== 'compact',
-            showImages: false,
-            resetStyles: false,
-            excerptLength: variant === 'compact' ? 15 : 30,
-            translations: {
-              placeholder,
-              clear_search: 'Effacer',
-              load_more: 'Plus de résultats',
-              search_label: 'Rechercher dans le corpus',
-              filters_label: 'Filtres',
-              zero_results: 'Aucun résultat pour [SEARCH_TERM]',
-              many_results: '[COUNT] résultats pour [SEARCH_TERM]',
-              one_result: '1 résultat pour [SEARCH_TERM]',
-              alt_search:
-                'Aucun résultat pour [SEARCH_TERM]. Résultats pour [DIFFERENT_TERM] affichés',
-              search_suggestion:
-                'Aucun résultat pour [SEARCH_TERM]. Suggestions :',
-              searching: 'Recherche de [SEARCH_TERM]…',
-            },
-          });
-
-          // Pré-remplir et déclencher la recherche si ?q= est présent.
-          // Seulement sur la variante "default" (la page /recherche/), pas
-          // dans le header compact pour éviter les doubles recherches.
-          if (initialQuery && variant !== 'compact') {
-            // Méthode fiable : poser la valeur dans l'input Pagefind et
-            // dispatcher l'event input pour déclencher la recherche.
-            const trySetQuery = () => {
-              const input = el.querySelector<HTMLInputElement>(
-                '.pagefind-ui__search-input'
-              );
-              if (!input) {
-                window.setTimeout(trySetQuery, 50);
-                return;
-              }
-              input.value = initialQuery;
-              input.dispatchEvent(new Event('input', { bubbles: true }));
-              input.focus();
-            };
-            trySetQuery();
-          }
-        });
-      })
-      .catch((err) => {
-        console.warn('[SearchBar]', err.message);
-        containers.forEach((el) => {
-          el.innerHTML =
-            '<p class="search__unavailable">Index de recherche indisponible. Relancez <code>npm run build</code> pour générer l’index Pagefind.</p>';
-        });
-      });
+        if (initialQuery.length > 0) {
+          input.value = initialQuery;
+          currentQuery = initialQuery;
+          input.focus();
+          runSearch(initialQuery);
+        }
+      }
+    }
   };
 
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initSearch);
+    document.addEventListener('DOMContentLoaded', () => { void initSearch(); });
   } else {
-    initSearch();
+    void initSearch();
   }
 </script>
 
@@ -156,213 +419,268 @@ const {
   .search--compact {
     max-width: 22rem;
   }
-  .search__unavailable {
-    color: var(--muted);
-    font-style: italic;
-    font-size: 0.9rem;
-  }
-</style>
-
-<style is:global>
-  /* =========================================================================
-     Overrides Pagefind UI — palette MagisterIA « sobre classique »
-     Variables reconnues par @pagefind/default-ui (cf. pagefind-ui.css).
-     ========================================================================= */
-  .pagefind-ui {
-    --pagefind-ui-primary: var(--rubric);
-    --pagefind-ui-text: var(--ink);
-    --pagefind-ui-background: var(--paper);
-    --pagefind-ui-border: var(--rule);
-    --pagefind-ui-tag: var(--paper-dim);
-    --pagefind-ui-border-width: 1px;
-    --pagefind-ui-border-radius: 4px;
-    --pagefind-ui-image-border-radius: 4px;
-    --pagefind-ui-image-box-ratio: 3 / 2;
-    --pagefind-ui-font: var(--font-serif);
-    --pagefind-ui-scale: 1;
+  .search__root {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
   }
 
-  /* Champ de recherche */
-  .pagefind-ui .pagefind-ui__form::before {
-    /* l'icône loupe fournie par Pagefind — on la teinte en rubrique */
-    background-color: var(--muted);
-    opacity: 0.7;
+  /* ------------------------------------------------------------------ Form */
+  .search__form {
+    position: relative;
+    display: flex;
   }
 
-  .pagefind-ui .pagefind-ui__search-input {
+  .search__input {
+    width: 100%;
     font-family: var(--font-serif);
     font-size: 1rem;
-    padding: 0.7rem 2.6rem 0.7rem 2.6rem;
+    padding: 0.7rem 2.6rem 0.7rem 1rem;
     background-color: var(--paper);
     color: var(--ink);
     border: 1px solid var(--rule);
     border-radius: 4px;
-    transition: border-color 120ms ease;
+    transition: border-color 120ms ease, box-shadow 120ms ease;
   }
-  .pagefind-ui .pagefind-ui__search-input::placeholder {
+
+  .search__input::placeholder {
     color: var(--muted);
     font-style: italic;
   }
-  .pagefind-ui .pagefind-ui__search-input:focus {
+
+  .search__input:focus {
     border-color: var(--rubric);
     outline: none;
     box-shadow: 0 0 0 3px color-mix(in srgb, var(--rubric) 15%, transparent);
   }
 
-  .pagefind-ui .pagefind-ui__search-clear {
+  .search__clear {
+    position: absolute;
+    right: 0.3rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
     color: var(--muted);
-    font-family: var(--font-serif);
-    font-size: 0.9rem;
+    cursor: pointer;
+    font-size: 1.4rem;
+    line-height: 1;
+    padding: 0.3rem 0.6rem;
+    border-radius: 3px;
   }
-  .pagefind-ui .pagefind-ui__search-clear:hover {
+  .search__clear:hover,
+  .search__clear:focus-visible {
     color: var(--rubric);
+    background-color: var(--paper-dim);
+    outline: none;
   }
 
-  /* Bandeau « N résultats » */
-  .pagefind-ui .pagefind-ui__message {
+  /* -------------------------------------------------------------- Status */
+  .search__status {
     font-family: var(--font-display);
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: var(--muted);
-    padding: var(--space-m) 0 var(--space-s);
+    margin: 0;
+    padding-bottom: var(--space-2xs);
     border-bottom: 1px solid var(--rule);
-    margin-bottom: var(--space-s);
     letter-spacing: 0.02em;
   }
+  .search__status:empty {
+    display: none;
+  }
+  .search__status code {
+    font-family: var(--font-mono);
+    background-color: var(--paper-dim);
+    padding: 0.05em 0.35em;
+    border-radius: 2px;
+    border: 1px solid var(--rule);
+    font-size: 0.85em;
+  }
 
-  /* Liste de résultats — cartes sobres */
-  .pagefind-ui .pagefind-ui__results {
+  /* ---------------------------------------------------------- Results list */
+  .search__results {
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
   }
 
-  .pagefind-ui .pagefind-ui__result {
-    padding: var(--space-m) 0;
+  .sr {
+    padding: var(--space-s) 0;
     border-bottom: 1px solid var(--rule);
-    display: block;
   }
-  .pagefind-ui .pagefind-ui__result:last-child {
+  .sr:last-child {
     border-bottom: none;
   }
 
-  .pagefind-ui .pagefind-ui__result-thumb,
-  .pagefind-ui .pagefind-ui__result-image {
-    display: none;
+  /* Card standalone */
+  .sr__link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
   }
 
-  .pagefind-ui .pagefind-ui__result-inner {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-2xs);
-  }
-
-  /* Titre de résultat — serif display */
-  .pagefind-ui .pagefind-ui__result-title {
+  .sr__title {
     font-family: var(--font-display);
-    font-size: 1.35rem;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 1.25;
-    margin: 0;
+    color: var(--rubric);
+    margin: 0 0 var(--space-2xs);
     letter-spacing: -0.005em;
   }
-  .pagefind-ui .pagefind-ui__result-link {
-    color: var(--rubric);
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-    transition: border-color 120ms ease, color 120ms ease;
-  }
-  .pagefind-ui .pagefind-ui__result-link:hover,
-  .pagefind-ui .pagefind-ui__result-link:focus-visible {
+  .sr__link:hover .sr__title,
+  .sr__link:focus-visible .sr__title {
     color: var(--rubric-hover);
-    border-bottom-color: var(--rubric-hover);
+    text-decoration: underline;
   }
 
-  /* Extrait — serif avec mise en valeur du terme */
-  .pagefind-ui .pagefind-ui__result-excerpt {
+  .sr__excerpt {
     font-family: var(--font-serif);
     font-size: 0.95rem;
     color: var(--ink-soft);
     line-height: 1.6;
     margin: 0;
   }
-  .pagefind-ui .pagefind-ui__result-excerpt mark {
+  .sr__excerpt :global(mark),
+  .sr-sub__excerpt :global(mark) {
     background-color: color-mix(in srgb, var(--gold) 35%, transparent);
     color: var(--ink);
     padding: 0 0.1em;
     border-radius: 2px;
   }
 
-  /* Tags / filtres */
-  .pagefind-ui .pagefind-ui__result-tags {
-    display: flex;
-    gap: var(--space-2xs);
-    flex-wrap: wrap;
-    margin-top: var(--space-2xs);
-  }
-  .pagefind-ui .pagefind-ui__result-tag {
-    font-family: var(--font-serif);
-    font-size: 0.8rem;
-    color: var(--muted);
+  /* Card ouvrage (agrégée) */
+  .sr--ouvrage {
     background-color: var(--paper-dim);
     border: 1px solid var(--rule);
-    border-radius: 2px;
-    padding: 0.1rem 0.5rem;
-    letter-spacing: 0.02em;
+    border-left: 3px solid var(--gold);
+    border-radius: 4px;
+    padding: var(--space-m);
   }
 
-  /* Sous-résultats (sections à l'intérieur d'une page) */
-  .pagefind-ui .pagefind-ui__result-nested {
-    margin-top: var(--space-xs);
-    padding-left: var(--space-m);
-    border-left: 2px solid var(--rule);
+  .sr__ouvrage-header {
+    margin-bottom: var(--space-s);
   }
-  .pagefind-ui .pagefind-ui__result-nested .pagefind-ui__result-title {
-    font-size: 1rem;
+
+  .sr__ouvrage-eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin: 0 0 var(--space-2xs);
+  }
+
+  .sr--ouvrage .sr__title {
+    color: var(--ink);
+  }
+
+  .sr__ouvrage-count {
     font-family: var(--font-serif);
     font-style: italic;
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: 0;
   }
 
-  /* Bouton « charger plus » */
-  .pagefind-ui .pagefind-ui__button {
+  .sr-sub-list {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-s) 0 0;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sr-sub {
+    border-bottom: 1px solid var(--rule);
+  }
+  .sr-sub:last-child {
+    border-bottom: none;
+  }
+
+  .sr-sub__link {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.2rem var(--space-m);
+    padding: var(--space-s) 0;
+    color: inherit;
+    text-decoration: none;
+    transition: background-color 120ms ease;
+  }
+  .sr-sub__link:hover,
+  .sr-sub__link:focus-visible {
+    background-color: var(--paper);
+    outline: none;
+  }
+
+  .sr-sub__index {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    grid-row: 1;
+    grid-column: 1;
+    align-self: baseline;
+  }
+
+  .sr-sub__titre {
     font-family: var(--font-display);
     font-size: 1rem;
+    font-weight: 500;
+    color: var(--rubric);
+    grid-row: 1;
+    grid-column: 2;
+  }
+  .sr-sub__link:hover .sr-sub__titre,
+  .sr-sub__link:focus-visible .sr-sub__titre {
+    color: var(--rubric-hover);
+    text-decoration: underline;
+  }
+
+  .sr-sub__excerpt {
+    font-family: var(--font-serif);
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+    line-height: 1.55;
+    grid-row: 2;
+    grid-column: 1 / -1;
+    margin-top: 0.2em;
+  }
+
+  /* ---------------------------------------------------------- Load more btn */
+  .search__more {
+    align-self: center;
+    font-family: var(--font-display);
+    font-size: 0.95rem;
     color: var(--rubric);
     background-color: transparent;
     border: 1px solid var(--rule);
     border-radius: 4px;
-    padding: 0.6rem 1.4rem;
+    padding: 0.55rem 1.4rem;
     cursor: pointer;
     letter-spacing: 0.02em;
-    transition:
-      border-color 120ms ease,
-      color 120ms ease,
-      background-color 120ms ease;
+    margin-top: var(--space-s);
+    transition: border-color 120ms ease, color 120ms ease, background-color 120ms ease;
   }
-  .pagefind-ui .pagefind-ui__button:hover,
-  .pagefind-ui .pagefind-ui__button:focus-visible {
+  .search__more:hover,
+  .search__more:focus-visible {
     border-color: var(--rubric);
     color: var(--rubric-hover);
     background-color: color-mix(in srgb, var(--rubric) 6%, transparent);
+    outline: none;
   }
 
-  /* Filtres */
-  .pagefind-ui .pagefind-ui__filter-panel {
-    font-family: var(--font-serif);
-  }
-  .pagefind-ui .pagefind-ui__filter-name {
-    font-family: var(--font-display);
-    color: var(--ink);
-  }
-  .pagefind-ui .pagefind-ui__filter-value {
-    color: var(--ink-soft);
-  }
-
-  /* Variante compacte — header */
-  [data-variant='compact'].pagefind-ui .pagefind-ui__search-input {
+  /* --------------------------------------------------------- Compact variant */
+  .search--compact .search__input {
     font-size: 0.9rem;
-    padding: 0.45rem 2.2rem;
+    padding: 0.45rem 2.2rem 0.45rem 0.8rem;
   }
-  [data-variant='compact'].pagefind-ui .pagefind-ui__drawer {
+  .search--compact .search__results {
     position: absolute;
     z-index: 50;
     background: var(--paper);
@@ -374,10 +692,13 @@ const {
     width: max(22rem, 100%);
     margin-top: 0.4rem;
   }
-  [data-variant='compact'].pagefind-ui .pagefind-ui__result {
+  .search--compact .search__results:empty {
+    display: none;
+  }
+  .search--compact .sr {
     padding: var(--space-s) 0;
   }
-  [data-variant='compact'].pagefind-ui .pagefind-ui__result-title {
+  .search--compact .sr__title {
     font-size: 1.05rem;
   }
 </style>

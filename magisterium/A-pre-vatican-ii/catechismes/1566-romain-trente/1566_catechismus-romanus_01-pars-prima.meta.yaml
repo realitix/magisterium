@@ -28,7 +28,31 @@ traductions:
     sha256: 35f50865b966d1573e3e9775245842525992adc65821f58395fc7c2e1ac4fed6
     source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
     fetch_method: djvu-ocr
+  fr:
+    kind: ia
+    sha256: d4bf72d5adf4ab00d2561a77a76a006fb8522d84c25d7ae0a1049080d4f2cf98
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 35f50865b966d1573e3e9775245842525992adc65821f58395fc7c2e1ac4fed6
+    translated_at: '2026-04-22T13:11:25.129485Z'
+  en:
+    kind: ia
+    sha256: d41195ff9f7aeed58c59eb20924cf8a8731781d68b10b2efd638fbb0811bf7a4
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 35f50865b966d1573e3e9775245842525992adc65821f58395fc7c2e1ac4fed6
+    translated_at: '2026-04-22T13:19:52.679452Z'
 langues_disponibles:
 - la
+- fr
+- en
 sha256:
   la: 35f50865b966d1573e3e9775245842525992adc65821f58395fc7c2e1ac4fed6
+  fr: d4bf72d5adf4ab00d2561a77a76a006fb8522d84c25d7ae0a1049080d4f2cf98
+  en: d41195ff9f7aeed58c59eb20924cf8a8731781d68b10b2efd638fbb0811bf7a4
+ouvrage:
+  slug: 1566_catechismus-romanus
+  titre: Catéchisme du concile de Trente
+  partie_index: 2
+  partie_titre: Pars prima — Le Symbole
+  total_parties: 6

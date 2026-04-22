@@ -28,7 +28,31 @@ traductions:
     sha256: a72bcb31f382ef3aa4df70820be0bcb4a7c56062cbec680ead5d3f227b82793f
     source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
     fetch_method: djvu-ocr
+  fr:
+    kind: ia
+    sha256: ebbe3a4c34d545d15436ff46f1716d95173eaf2f7a449417f71780827ff96f0f
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: a72bcb31f382ef3aa4df70820be0bcb4a7c56062cbec680ead5d3f227b82793f
+    translated_at: '2026-04-22T14:15:31.795774Z'
+  en:
+    kind: ia
+    sha256: f190c68f0e075366baf4abc700a3852cbafc9c056f2431ae8a471c8e752de71d
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: a72bcb31f382ef3aa4df70820be0bcb4a7c56062cbec680ead5d3f227b82793f
+    translated_at: '2026-04-22T14:15:31.902756Z'
 langues_disponibles:
 - la
+- fr
+- en
 sha256:
   la: a72bcb31f382ef3aa4df70820be0bcb4a7c56062cbec680ead5d3f227b82793f
+  fr: ebbe3a4c34d545d15436ff46f1716d95173eaf2f7a449417f71780827ff96f0f
+  en: f190c68f0e075366baf4abc700a3852cbafc9c056f2431ae8a471c8e752de71d
+ouvrage:
+  slug: 1566_catechismus-romanus
+  titre: Catéchisme du concile de Trente
+  partie_index: 5
+  partie_titre: Pars quarta — L'Oraison dominicale
+  total_parties: 6

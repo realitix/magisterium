@@ -5,7 +5,7 @@
 import fs from 'node:fs';
 import { INDEX_JSONL } from './paths.js';
 import { loadAllThemes } from './loadThemes.js';
-import type { Document, TraductionSummary } from './types.js';
+import type { Document, OuvrageRef, TraductionSummary } from './types.js';
 
 /** Raw JSONL record shape — `sha256` is a string in `index.jsonl`. */
 interface IndexRow {
@@ -22,6 +22,7 @@ interface IndexRow {
   sujets?: string[];
   themes_doctrinaux?: string[];
   traductions?: TraductionSummary[];
+  ouvrage?: OuvrageRef;
 }
 
 let documentsCache: Document[] | null = null;
@@ -76,6 +77,7 @@ function parseRow(line: string, slugToThemes: Map<string, Set<string>>): Documen
     sujets: row.sujets ?? [],
     themes_doctrinaux: Array.from(joined).sort(),
     traductions,
+    ouvrage: row.ouvrage ?? null,
   };
 }
 
@@ -99,4 +101,19 @@ export function loadAllDocuments(): Document[] {
 export function getDocumentBySlug(slug: string): Document | null {
   if (documentsBySlug === null) loadAllDocuments();
   return documentsBySlug?.get(slug) ?? null;
+}
+
+/**
+ * Return all documents belonging to the same ouvrage, sorted by
+ * `partie_index` ascending. Includes the document identified by `slug` if it
+ * has an ouvrage. Returns `[]` for standalone documents (no ouvrage).
+ */
+export function getOuvrageParts(slug: string): Document[] {
+  const doc = getDocumentBySlug(slug);
+  if (doc === null || doc.ouvrage === null) return [];
+  const ouvrageSlug = doc.ouvrage.slug;
+  const all = loadAllDocuments();
+  return all
+    .filter((d) => d.ouvrage !== null && d.ouvrage.slug === ouvrageSlug)
+    .sort((a, b) => (a.ouvrage!.partie_index - b.ouvrage!.partie_index));
 }

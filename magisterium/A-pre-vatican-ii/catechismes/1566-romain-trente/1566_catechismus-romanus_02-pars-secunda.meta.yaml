@@ -28,7 +28,31 @@ traductions:
     sha256: e4ae7188cee78435c725676ab208cdeddca2c69de01a0727666341830f2c7266
     source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
     fetch_method: djvu-ocr
+  fr:
+    kind: ia
+    sha256: 0e4089b378007621f75813bb9d2e55e53b433db75a434235fdc17adece38fb19
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: e4ae7188cee78435c725676ab208cdeddca2c69de01a0727666341830f2c7266
+    translated_at: '2026-04-22T13:45:23.164297Z'
+  en:
+    kind: ia
+    sha256: d9c76906e9ef1d0bcf871755f8ca5cc628fa4ad45b412af50d2b2d78cb414b28
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: e4ae7188cee78435c725676ab208cdeddca2c69de01a0727666341830f2c7266
+    translated_at: '2026-04-22T13:59:20.209122Z'
 langues_disponibles:
 - la
+- fr
+- en
 sha256:
   la: e4ae7188cee78435c725676ab208cdeddca2c69de01a0727666341830f2c7266
+  fr: 0e4089b378007621f75813bb9d2e55e53b433db75a434235fdc17adece38fb19
+  en: d9c76906e9ef1d0bcf871755f8ca5cc628fa4ad45b412af50d2b2d78cb414b28
+ouvrage:
+  slug: 1566_catechismus-romanus
+  titre: Catéchisme du concile de Trente
+  partie_index: 3
+  partie_titre: Pars secunda — Les Sacrements
+  total_parties: 6

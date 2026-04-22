@@ -27,7 +27,31 @@ traductions:
     sha256: 76f4067b22b67c5db7adfbd63e34574ab07494857ee283ad3013041cea6cd84a
     source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
     fetch_method: djvu-ocr
+  fr:
+    kind: ia
+    sha256: 61493b11d3328546a369e62933aface5be00a23d6c435c58bfae38e4939b3ce7
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 76f4067b22b67c5db7adfbd63e34574ab07494857ee283ad3013041cea6cd84a
+    translated_at: '2026-04-22T13:59:20.314237Z'
+  en:
+    kind: ia
+    sha256: 83fd73376d20bac4eeb5902be1c206025e6b9e16ee54a4fdf3f30818ce510ed0
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 76f4067b22b67c5db7adfbd63e34574ab07494857ee283ad3013041cea6cd84a
+    translated_at: '2026-04-22T14:06:23.194268Z'
 langues_disponibles:
 - la
+- fr
+- en
 sha256:
   la: 76f4067b22b67c5db7adfbd63e34574ab07494857ee283ad3013041cea6cd84a
+  fr: 61493b11d3328546a369e62933aface5be00a23d6c435c58bfae38e4939b3ce7
+  en: 83fd73376d20bac4eeb5902be1c206025e6b9e16ee54a4fdf3f30818ce510ed0
+ouvrage:
+  slug: 1566_catechismus-romanus
+  titre: Catéchisme du concile de Trente
+  partie_index: 4
+  partie_titre: Pars tertia — Le Décalogue
+  total_parties: 6

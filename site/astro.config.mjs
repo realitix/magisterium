@@ -21,7 +21,7 @@ const indexRaw = fs.readFileSync(INDEX_JSONL, 'utf8');
 const { bySignature, slugs } = buildIncipitIndex(indexRaw);
 
 export default defineConfig({
-  site: 'https://magisterium.netlify.app',
+  site: 'https://magisteria.app',
   output: 'static',
   trailingSlash: 'always',
   build: {

@@ -18,6 +18,7 @@ const { lang, class: extraClass } = Astro.props;
 const SUPPORTED = new Set([
   'la', 'fr', 'it', 'de', 'es', 'sp', 'pt', 'en', 'pl', 'hu',
   'cs', 'sk', 'ar', 'nl', 'ru', 'uk', 'ro', 'hr', 'sl', 'zh',
+  'zh_cn', 'zh_tw', 'ja', 'vi', 'be', 'mn',
 ]);
 
 const cls = [
@@ -149,7 +150,41 @@ const cls = [
       #ffffff 0 33.33%, #005DA4 33.33% 66.66%, #E03C31 66.66%);
   }
 
-  .lang-flag--zh {
+  .lang-flag--zh,
+  .lang-flag--zh_cn {
+    /* Chine continentale — drapeau rouge uni, simplifié */
     background: #DE2910;
+  }
+
+  /* Chine / Taïwan — rouge avec coin bleu (simplifié) */
+  .lang-flag--zh_tw {
+    background:
+      linear-gradient(to bottom right, #000095 0 45%, transparent 45%),
+      #FE0000;
+  }
+
+  /* Japon — blanc avec disque rouge centré (simplifié via gradient radial) */
+  .lang-flag--ja {
+    background:
+      radial-gradient(circle at center, #BC002D 0 28%, #ffffff 30%);
+  }
+
+  /* Vietnam — rouge uni avec étoile jaune centrée simplifiée */
+  .lang-flag--vi {
+    background:
+      radial-gradient(circle at center, #FFFF00 0 16%, transparent 18%),
+      #DA251D;
+  }
+
+  /* Biélorussie — bandes rouges/vertes horizontales */
+  .lang-flag--be {
+    background: linear-gradient(to bottom,
+      #D41728 0 65%, #009A3E 65%);
+  }
+
+  /* Mongolie — bandes rouge/bleu/rouge verticales */
+  .lang-flag--mn {
+    background: linear-gradient(to right,
+      #E30A17 0 33.33%, #0066B3 33.33% 66.66%, #E30A17 66.66%);
   }
 </style>

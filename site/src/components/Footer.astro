@@ -7,7 +7,7 @@ import { loadAllDocuments } from '../data/loadDocuments.ts';
 const docCount = loadAllDocuments().length;
 const year = new Date().getFullYear();
 // URL GitHub du projet (à ajuster si le repo public change).
-const GITHUB_URL: string | null = null; // ex. 'https://github.com/<org>/catholique'
+const GITHUB_URL: string = 'https://github.com/realitix/magisterium';
 ---
 
 <footer class="site-footer" role="contentinfo">
@@ -40,18 +40,17 @@ const GITHUB_URL: string | null = null; // ex. 'https://github.com/<org>/catholi
         <h2 class="site-footer__col-title">Ressources</h2>
         <ul class="site-footer__list" role="list">
           <li><a href="/a-propos/">À propos</a></li>
-          {GITHUB_URL && (
-            <li>
-              <a href={GITHUB_URL} rel="noopener">Code source (GitHub)</a>
-            </li>
-          )}
         </ul>
       </div>
 
       <div class="site-footer__col">
-        <h2 class="site-footer__col-title">Contact</h2>
+        <h2 class="site-footer__col-title">Code source</h2>
         <ul class="site-footer__list" role="list">
-          <li>Correspondance éditoriale — à préciser</li>
+          <li>
+            <a href={GITHUB_URL} rel="noopener" target="_blank">
+              github.com/realitix/magisterium
+            </a>
+          </li>
         </ul>
       </div>
     </nav>

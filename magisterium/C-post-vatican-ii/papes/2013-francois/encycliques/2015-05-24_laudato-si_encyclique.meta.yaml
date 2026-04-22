@@ -18,13 +18,193 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: ja
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ru/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: ru
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: sl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/uk/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: uk
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: 45604f6d9e15b6c15217afb653aff4d185f389de1c7fb632517b0cafa229695b
+    source_url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:33:32.329059Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: a831ee515bd6148d21ad0cd37ba327f8e72507516e96c4df1afd7ffc0a5c0918
+    source_url: https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:33:48.644562Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 24dbbaa75563a5f6a4653bf0a792ff94f1ff77e32f8e3a7662500348d60190ac
+    source_url: https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:34:04.424849Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 5e041f333a6e0f4be21054857680f0b4c4a8dc6b2aed70e92ceddb8f71804256
+    source_url: https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:34:20.368955Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 2116918fb41973a3c90d03bb90a04a46d6974543ba305972c8ee84a5cf12fd61
+    source_url: https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:34:36.440255Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 014d57caf1797f9e2c0110e1b9b4888c7d668dbb54eb54263b4b72e31d41c094
+    source_url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:34:52.501426Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8192d40700671e287ca5ae7c5271a166cb129e7fed413ecf2441a82b18651858
+    source_url: https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:35:06.409827Z'
+    fetch_method: httpx
+  ja:
+    kind: officielle
+    sha256: f7fb038259d7d9505d1c1ba62124b7108e96ee9c8948a239ac08d3d290dd56d8
+    source_url: https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:35:19.901598Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: aff4567d53fd4429df4efef0aa24ccb42b771102fff71d430ad96247190c6b28
     source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: f63f7be7b631376e4d5aae9b09162963b2accc948a284e29a50012f2a58043eb
+    source_url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:35:34.433065Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 273e443ced574b4f1d75eee32bff8d4c3c59438235591e5e40b9a6929b633ad1
+    source_url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:35:48.478190Z'
+    fetch_method: httpx
+  ru:
+    kind: officielle
+    sha256: 84c82bf5f113cf856f1761de54c657c29a61206d5401fb96e231906ebe1abcae
+    source_url: https://www.vatican.va/content/francesco/ru/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:36:02.517301Z'
+    fetch_method: httpx
+  sl:
+    kind: officielle
+    sha256: 2211c890661796368e127c50b4c9caa024f8c69647853f7cdda667b38ac6d7f6
+    source_url: https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:36:16.525594Z'
+    fetch_method: httpx
+  uk:
+    kind: officielle
+    sha256: 337aac499f39671db575c41b6d1e8ced6d50974f1aa80f999e5d2c426c73c3a4
+    source_url: https://www.vatican.va/content/francesco/uk/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:36:27.960864Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: cce4069bff4c97253ed043f440a00028d2aa41a74485bfc4f0bce5876d956354
+    source_url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:36:35.970171Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 71d2bd36211a66976c17143d96590dfae8453fe2d65c2333688a3eed0cde731e
+    source_url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetched_at: '2026-04-22T09:36:39.973749Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- be
+- de
+- en
+- es
+- fr
+- it
+- ja
 - la
+- pl
+- pt
+- ru
+- sl
+- uk
+- zh_cn
+- zh_tw
 sha256:
+  ar: 45604f6d9e15b6c15217afb653aff4d185f389de1c7fb632517b0cafa229695b
+  be: a831ee515bd6148d21ad0cd37ba327f8e72507516e96c4df1afd7ffc0a5c0918
+  de: 24dbbaa75563a5f6a4653bf0a792ff94f1ff77e32f8e3a7662500348d60190ac
+  en: 5e041f333a6e0f4be21054857680f0b4c4a8dc6b2aed70e92ceddb8f71804256
+  es: 2116918fb41973a3c90d03bb90a04a46d6974543ba305972c8ee84a5cf12fd61
+  fr: 014d57caf1797f9e2c0110e1b9b4888c7d668dbb54eb54263b4b72e31d41c094
+  it: 8192d40700671e287ca5ae7c5271a166cb129e7fed413ecf2441a82b18651858
+  ja: f7fb038259d7d9505d1c1ba62124b7108e96ee9c8948a239ac08d3d290dd56d8
   la: aff4567d53fd4429df4efef0aa24ccb42b771102fff71d430ad96247190c6b28
+  pl: f63f7be7b631376e4d5aae9b09162963b2accc948a284e29a50012f2a58043eb
+  pt: 273e443ced574b4f1d75eee32bff8d4c3c59438235591e5e40b9a6929b633ad1
+  ru: 84c82bf5f113cf856f1761de54c657c29a61206d5401fb96e231906ebe1abcae
+  sl: 2211c890661796368e127c50b4c9caa024f8c69647853f7cdda667b38ac6d7f6
+  uk: 337aac499f39671db575c41b6d1e8ced6d50974f1aa80f999e5d2c426c73c3a4
+  zh_cn: cce4069bff4c97253ed043f440a00028d2aa41a74485bfc4f0bce5876d956354
+  zh_tw: 71d2bd36211a66976c17143d96590dfae8453fe2d65c2333688a3eed0cde731e

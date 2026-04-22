@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 7c0246a5e51358806f981fccd0d3d884b8dfa47c3eafccbeed964d1734825ca5
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html
+    fetched_at: '2026-04-22T08:44:48.655511Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8b97a1919013dac76f935f30ab1da5e5da6ccf1fd525220ab32dad2d589fb481
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html
+    fetched_at: '2026-04-22T08:45:04.667599Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: f381f29f988a45b90f1f586cc82d6970156343a47d49cad2cf8f4909c9770dbd
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 7c0246a5e51358806f981fccd0d3d884b8dfa47c3eafccbeed964d1734825ca5
+  it: 8b97a1919013dac76f935f30ab1da5e5da6ccf1fd525220ab32dad2d589fb481
   la: f381f29f988a45b90f1f586cc82d6970156343a47d49cad2cf8f4909c9770dbd

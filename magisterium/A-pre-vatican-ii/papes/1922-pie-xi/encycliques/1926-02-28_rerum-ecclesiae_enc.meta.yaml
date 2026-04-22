@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  es:
+    kind: officielle
+    sha256: d01bb402e5089971eab869f16801fef6f1ae701f82c3bfe3b5b56f514d475d6f
+    source_url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html
+    fetched_at: '2026-04-22T08:45:28.703444Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 67558b1c128934142825db7529c5491aa0e6a82a39ee908aa6bf9c98955347c7
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html
+    fetched_at: '2026-04-22T08:45:44.720461Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a9899aa59d853ac4acda9cd8bb9da886c8ab18ceffa50b6f0a5280a80f4d6a45
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html
     fetch_method: httpx
 langues_disponibles:
+- es
+- it
 - la
 sha256:
+  es: d01bb402e5089971eab869f16801fef6f1ae701f82c3bfe3b5b56f514d475d6f
+  it: 67558b1c128934142825db7529c5491aa0e6a82a39ee908aa6bf9c98955347c7
   la: a9899aa59d853ac4acda9cd8bb9da886c8ab18ceffa50b6f0a5280a80f4d6a45

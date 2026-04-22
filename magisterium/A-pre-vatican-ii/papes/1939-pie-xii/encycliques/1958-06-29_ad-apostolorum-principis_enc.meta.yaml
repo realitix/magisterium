@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 6cc793747d95f29f4167ff6e9b592ad1c963933cc338d82a4d93006c3d9f1a78
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html
+    fetched_at: '2026-04-22T08:52:33.159510Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: ea96e83b3fcad69bdeb214b5d637324b927f3954739ce5051040b21ed767d8c4
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html
+    fetched_at: '2026-04-22T08:52:49.314286Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: e10ba2edeecbadd8333eae1bde22c94b8d717eb347b79a50d1b2c2921c14b746
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 2ed15c1a8e362dcc5160d259e502b3f7a5e22f6fba490fad3468a474267fdc8e
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html
+    fetched_at: '2026-04-22T08:53:05.131261Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: 6cc793747d95f29f4167ff6e9b592ad1c963933cc338d82a4d93006c3d9f1a78
+  it: ea96e83b3fcad69bdeb214b5d637324b927f3954739ce5051040b21ed767d8c4
   la: e10ba2edeecbadd8333eae1bde22c94b8d717eb347b79a50d1b2c2921c14b746
+  pt: 2ed15c1a8e362dcc5160d259e502b3f7a5e22f6fba490fad3468a474267fdc8e

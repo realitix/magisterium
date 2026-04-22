@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 4a7a64fe08220b0a43320688b71c92cfd17426b6b4e2d049402aef43d036db35
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+    fetched_at: '2026-04-22T08:45:26.698225Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: ece99ac4aed945c03004f4ff26e54aed7042fbca5ad8a9cbda01342fbaf0e7c1
+    source_url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+    fetched_at: '2026-04-22T08:45:42.725172Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: aabdb11edd2b3c2d0e13ca5c3d4ce62bca35a2f8be62057e9ff8307bf6620484
+    source_url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+    fetched_at: '2026-04-22T08:45:58.777145Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: a7eb5284190742ef8a419793d442bc76a8183b2c456137d60d14bd4e57a9ac7f
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+    fetched_at: '2026-04-22T08:46:14.767491Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: fb5304fe70c67d0a9f1315e452955ad819824ebc13c8f00d3151a6d4aafc1e14
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
 sha256:
+  en: 4a7a64fe08220b0a43320688b71c92cfd17426b6b4e2d049402aef43d036db35
+  es: ece99ac4aed945c03004f4ff26e54aed7042fbca5ad8a9cbda01342fbaf0e7c1
+  fr: aabdb11edd2b3c2d0e13ca5c3d4ce62bca35a2f8be62057e9ff8307bf6620484
+  it: a7eb5284190742ef8a419793d442bc76a8183b2c456137d60d14bd4e57a9ac7f
   la: fb5304fe70c67d0a9f1315e452955ad819824ebc13c8f00d3151a6d4aafc1e14

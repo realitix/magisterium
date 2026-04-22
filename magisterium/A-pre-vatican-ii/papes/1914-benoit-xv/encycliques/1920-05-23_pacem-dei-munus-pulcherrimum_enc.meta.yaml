@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: b0c5fb508f796c417ca29f5a230a7b689f59974b40ee0a710422b0e620d38705
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
+    fetched_at: '2026-04-22T08:44:18.582839Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 4a6bea0c38926140418e81211d78f082f26d4619b11256b141ade7d2ed5170d5
+    source_url: https://www.vatican.va/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
+    fetched_at: '2026-04-22T08:44:34.619495Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8b4788cad3d97b412c4ee0c9c2a93453c4cfa76f7dbe5e59638bc9037d7769d6
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
+    fetched_at: '2026-04-22T08:44:50.649313Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 6b4b522de7675e4ba5bdd81b7472e300fd8cc4fa88cbec4a04f5191b6743f9c9
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
 sha256:
+  en: b0c5fb508f796c417ca29f5a230a7b689f59974b40ee0a710422b0e620d38705
+  es: 4a6bea0c38926140418e81211d78f082f26d4619b11256b141ade7d2ed5170d5
+  it: 8b4788cad3d97b412c4ee0c9c2a93453c4cfa76f7dbe5e59638bc9037d7769d6
   la: 6b4b522de7675e4ba5bdd81b7472e300fd8cc4fa88cbec4a04f5191b6743f9c9

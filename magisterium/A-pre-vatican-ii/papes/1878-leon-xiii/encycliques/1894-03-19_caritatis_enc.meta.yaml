@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_19031894_caritatis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_19031894_caritatis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 6d8f28fffef0881cdf726d6d63eacd6650165d74c1a102da94bfde5dbe691cdb
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_19031894_caritatis.html
+    fetched_at: '2026-04-22T08:40:26.315662Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 33163eccafe76d0ea277055f05f9e91c808bdd9456ea620d4371463faeecb18b
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_19031894_caritatis.html
+    fetched_at: '2026-04-22T08:40:42.330808Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b05ab7abab74c438ae1ae91cbb5a09a297f6b0dfc1d7f98574e12e7fa7d62023
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_19031894_caritatis.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 6d8f28fffef0881cdf726d6d63eacd6650165d74c1a102da94bfde5dbe691cdb
+  it: 33163eccafe76d0ea277055f05f9e91c808bdd9456ea620d4371463faeecb18b
   la: b05ab7abab74c438ae1ae91cbb5a09a297f6b0dfc1d7f98574e12e7fa7d62023

@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 710b9ecc653d6b92d2d1ee7fdbd0ca3d0215a7451339fa1e8a1f3b0eb40b9d28
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
+    fetched_at: '2026-04-22T08:43:36.546998Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 6f65c815d1eb5c6a33ee55b4638d70be7d486d0b31f0e93659e6240d1cf68a5f
+    source_url: https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
+    fetched_at: '2026-04-22T08:43:52.570154Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: ccb45c8f8ee268c7d5cf05954e5cc4213bdbbc5a52e09c2bc50670f9fe439243
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
+    fetched_at: '2026-04-22T08:44:08.575805Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ca7e133f8ff63dc4a867d5847e8c854d99237110465880e98e6999227ccdd72c
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: 710b9ecc653d6b92d2d1ee7fdbd0ca3d0215a7451339fa1e8a1f3b0eb40b9d28
+  fr: 6f65c815d1eb5c6a33ee55b4638d70be7d486d0b31f0e93659e6240d1cf68a5f
+  it: ccb45c8f8ee268c7d5cf05954e5cc4213bdbbc5a52e09c2bc50670f9fe439243
   la: ca7e133f8ff63dc4a867d5847e8c854d99237110465880e98e6999227ccdd72c

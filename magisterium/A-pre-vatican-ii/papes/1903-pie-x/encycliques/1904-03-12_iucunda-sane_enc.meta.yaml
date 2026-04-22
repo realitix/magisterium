@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 66f96594efcbffbd9d7778672fb8f1a6474e49144209b9cc1fe97455a8a9e1ad
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
+    fetched_at: '2026-04-22T08:42:28.494041Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: acea105f5222aaafdc3491e7ffe94226ddc531a79074b2809250b00dcf18ddbf
+    source_url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
+    fetched_at: '2026-04-22T08:42:44.510023Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 118c7a02ae9e80a22269be3207045591af355f223711650baeb8fcac5f0082ee
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
+    fetched_at: '2026-04-22T08:43:00.523669Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 0375aebaaa2c97baea700946a290c7358c630e2f46997e292eee06ea717b2064
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: 66f96594efcbffbd9d7778672fb8f1a6474e49144209b9cc1fe97455a8a9e1ad
+  fr: acea105f5222aaafdc3491e7ffe94226ddc531a79074b2809250b00dcf18ddbf
+  it: 118c7a02ae9e80a22269be3207045591af355f223711650baeb8fcac5f0082ee
   la: 0375aebaaa2c97baea700946a290c7358c630e2f46997e292eee06ea717b2064

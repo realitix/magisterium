@@ -18,13 +18,181 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/ar/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: ru
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/zh_cn/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/zh_tw/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: 7437e3a6edd121198381a7cb051e5b265af2a9ff9bed9624f3479339e1155f3c
+    source_url: https://www.vatican.va/content/benedict-xvi/ar/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:33:08.252018Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: 60ebf486fc925e266969aae3a4f01263cb42e14da0a73e788b56643f68bd6823
+    source_url: https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:33:24.302189Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 87d81ccc2ce41c5e461f65ec9d5060385205bdccd96aa67d9c6773757170c5ec
+    source_url: https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:33:40.301039Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 3ed99f13d69610d029b16516187a72b32904dd7567277f0b50622170d44b247d
+    source_url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:33:56.280434Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 288e85f19853d5fbdf3c012a1c4d85c3bcbed76def39e3fbe06a9f349493b637
+    source_url: https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:34:12.316397Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: b415a48e8ec4d60b08597da6de0478f4d2f0ebc5b3fa80522850d3e612d2d214
+    source_url: https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:34:28.372103Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: f431308f6b0e7f657574546d3b7256ef5d5ad6e67b6c8c0862e45b97bbfc9a47
+    source_url: https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:34:44.246475Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: dd71b1b3499aba06a3f7aa66018a2ad22848d8fcf8d329481087a78f39113feb
+    source_url: https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:35:00.372475Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ed1d68243c8644c18667e59fcaad3f7b6c345a60836805ec7c2cee13e24254b2
     source_url: https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
     fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: 1915651d9672f99233be8de526b67cb6cd2299a9e4a2cf4818159b7778b78f43
+    source_url: https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:35:14.588952Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 87545530796fdcb9fccf8702d3f38c5e30cc2112858e9c0a71b078a2a305fa58
+    source_url: https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:35:28.260018Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: bac53fe0306887deb53a6f5b329c1c6c5711ac5d33ccd23ea4db9bcf6a5846af
+    source_url: https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:35:42.397132Z'
+    fetch_method: httpx
+  ru:
+    kind: officielle
+    sha256: 9ab4d9d165bd6012f134cd4f2faeb09a73f33c8c0bffab4d21bcb18ac759ff94
+    source_url: https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:35:56.428990Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: f0125d4e9214db8cc6875087fd14022e6ba5784c876b10ff6406b11c3413b626
+    source_url: https://www.vatican.va/content/benedict-xvi/zh_cn/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:36:09.940139Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 105701ca984c468532611e4627e9bc26a47487ff7012177e4d1f7d95602bfae4
+    source_url: https://www.vatican.va/content/benedict-xvi/zh_tw/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetched_at: '2026-04-22T09:36:21.950747Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- be
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- nl
+- pl
+- pt
+- ru
+- zh_cn
+- zh_tw
 sha256:
+  ar: 7437e3a6edd121198381a7cb051e5b265af2a9ff9bed9624f3479339e1155f3c
+  be: 60ebf486fc925e266969aae3a4f01263cb42e14da0a73e788b56643f68bd6823
+  de: 87d81ccc2ce41c5e461f65ec9d5060385205bdccd96aa67d9c6773757170c5ec
+  en: 3ed99f13d69610d029b16516187a72b32904dd7567277f0b50622170d44b247d
+  es: 288e85f19853d5fbdf3c012a1c4d85c3bcbed76def39e3fbe06a9f349493b637
+  fr: b415a48e8ec4d60b08597da6de0478f4d2f0ebc5b3fa80522850d3e612d2d214
+  hu: f431308f6b0e7f657574546d3b7256ef5d5ad6e67b6c8c0862e45b97bbfc9a47
+  it: dd71b1b3499aba06a3f7aa66018a2ad22848d8fcf8d329481087a78f39113feb
   la: ed1d68243c8644c18667e59fcaad3f7b6c345a60836805ec7c2cee13e24254b2
+  nl: 1915651d9672f99233be8de526b67cb6cd2299a9e4a2cf4818159b7778b78f43
+  pl: 87545530796fdcb9fccf8702d3f38c5e30cc2112858e9c0a71b078a2a305fa58
+  pt: bac53fe0306887deb53a6f5b329c1c6c5711ac5d33ccd23ea4db9bcf6a5846af
+  ru: 9ab4d9d165bd6012f134cd4f2faeb09a73f33c8c0bffab4d21bcb18ac759ff94
+  zh_cn: f0125d4e9214db8cc6875087fd14022e6ba5784c876b10ff6406b11c3413b626
+  zh_tw: 105701ca984c468532611e4627e9bc26a47487ff7012177e4d1f7d95602bfae4

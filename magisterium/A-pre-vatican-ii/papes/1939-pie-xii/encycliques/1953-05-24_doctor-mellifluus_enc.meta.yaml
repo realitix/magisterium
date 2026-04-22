@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: cdf4cc8857429c967e03225e38cae80fa25d4c4c921b8a23e238555f018af90b
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
+    fetched_at: '2026-04-22T08:50:33.052942Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 77fdf16b23093868a55fd5c4d57aa303d77b1aa01db0c29cded764f508faa147
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
+    fetched_at: '2026-04-22T08:50:49.055958Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a425525db6b0bad8f2feb34460ca54649e22444ec4f6f6d9091013d3ac097bff
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: adc275cc72ef7e0483b2839f44987aeec6d317a642f2d225666878fcda70925f
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
+    fetched_at: '2026-04-22T08:51:05.083790Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: cdf4cc8857429c967e03225e38cae80fa25d4c4c921b8a23e238555f018af90b
+  it: 77fdf16b23093868a55fd5c4d57aa303d77b1aa01db0c29cded764f508faa147
   la: a425525db6b0bad8f2feb34460ca54649e22444ec4f6f6d9091013d3ac097bff
+  pt: adc275cc72ef7e0483b2839f44987aeec6d317a642f2d225666878fcda70925f

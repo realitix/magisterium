@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: df830c7cd49b10100cec655749c45b01df19cf310f3fa3b3ff741502eded979c
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
+    fetched_at: '2026-04-22T08:42:20.680799Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 73241ca5f8b078be5048ea38187627996387eb25987cc71a268666de15462aa5
+    source_url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
+    fetched_at: '2026-04-22T08:42:36.482320Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: cc2a0dcd48cc5af0982cba8a28bc3e8c36cd6c00cc313e4e4dc6733fa70c4701
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
+    fetched_at: '2026-04-22T08:42:52.496832Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a31cc0bcf40be57b9b78ee4db410119dce14a2668eb19ccc44c7da295d11d4df
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: df830c7cd49b10100cec655749c45b01df19cf310f3fa3b3ff741502eded979c
+  fr: 73241ca5f8b078be5048ea38187627996387eb25987cc71a268666de15462aa5
+  it: cc2a0dcd48cc5af0982cba8a28bc3e8c36cd6c00cc313e4e4dc6733fa70c4701
   la: a31cc0bcf40be57b9b78ee4db410119dce14a2668eb19ccc44c7da295d11d4df

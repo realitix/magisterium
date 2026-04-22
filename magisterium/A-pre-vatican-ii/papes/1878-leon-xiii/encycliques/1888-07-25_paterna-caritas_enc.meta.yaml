@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 59c5cfd5498773ed3c4e0c9f8b1271222eec0cf3a514d1cdb178577cf273c0e7
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html
+    fetched_at: '2026-04-22T08:38:20.153512Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 2d51128474d2676892f1aa88348b605132d3dfaa981d35ec7b19845c36f87609
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html
+    fetched_at: '2026-04-22T08:38:36.641836Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 1549c830e1895a079921e22ec5daaba94997c9ca737b0d76e5094b3358c9b1ce
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 59c5cfd5498773ed3c4e0c9f8b1271222eec0cf3a514d1cdb178577cf273c0e7
+  it: 2d51128474d2676892f1aa88348b605132d3dfaa981d35ec7b19845c36f87609
   la: 1549c830e1895a079921e22ec5daaba94997c9ca737b0d76e5094b3358c9b1ce

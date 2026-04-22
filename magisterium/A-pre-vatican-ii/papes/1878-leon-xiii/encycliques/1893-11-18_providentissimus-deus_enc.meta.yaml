@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 2156cc7a658896ea9a569e55d541506c9ccbc622911dd1562c40dabbc7e0e513
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+    fetched_at: '2026-04-22T08:40:20.383869Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 6f27bedd07e245914ae7e20b0aef02af7136c947a52eddaa942e0e20914df260
+    source_url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+    fetched_at: '2026-04-22T08:40:36.392903Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: a2ad28435c6447fb2733672a51e9efcb5d15960b9fa8807aa73c114ab2750e12
+    source_url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+    fetched_at: '2026-04-22T08:40:52.478655Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 031f8fa2e1b9538f0014f27789ac06fc9df786b611792eb9534d0dc5a2f8285d
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
+    fetched_at: '2026-04-22T08:41:08.428085Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 0e1c31c3283c650b018dbee6a8ac4d069aca3464e35e7a57a40388f4c2785d6a
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
 sha256:
+  en: 2156cc7a658896ea9a569e55d541506c9ccbc622911dd1562c40dabbc7e0e513
+  es: 6f27bedd07e245914ae7e20b0aef02af7136c947a52eddaa942e0e20914df260
+  fr: a2ad28435c6447fb2733672a51e9efcb5d15960b9fa8807aa73c114ab2750e12
+  it: 031f8fa2e1b9538f0014f27789ac06fc9df786b611792eb9534d0dc5a2f8285d
   la: 0e1c31c3283c650b018dbee6a8ac4d069aca3464e35e7a57a40388f4c2785d6a

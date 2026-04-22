@@ -17,13 +17,181 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/ar/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: ru
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/vi/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: vi
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+  site: www.vatican.va
+  langue: zh
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: cb022a2e3346bb1a1467387d8cae28032d586bcf7a4e906d36dfca318164bd2d
+    source_url: https://www.vatican.va/content/benedict-xvi/ar/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:32:50.152355Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: cbc87459ad5c2fdc4f3c836e0a3dc0c7ad874b8430e137e8b4bd98814f32ccae
+    source_url: https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:33:06.099281Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 0eb90db245742d38a9f407a9dfec18938c0b73210f15c3abab9bff8dc0b5b3c3
+    source_url: https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:33:22.137586Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: fe9f0fc54fd5ce067280419e265ea18a079bf76722a65bda5c1424d1e682f663
+    source_url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:33:38.061627Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: bb4cc5ae0d762b1991686f0105ddc3f67d73b7862df9beba26e38ea630001446
+    source_url: https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:33:54.167098Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 0acd75e8014b53f106f71a1b518d29de7356e5b872686ce4a0462985ccc950c5
+    source_url: https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:34:10.148292Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 7b1356860f53be9aa0269e2d7cd1af01ee7e4674ed52cfd386bac3d2bb0e59fa
+    source_url: https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:34:26.092432Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: cad3874c29bafc16f9a310b8df924942e697ab383a52363a4adbcf1c4edfee62
+    source_url: https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:34:42.177774Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 4bc96abe4cb9366906d7e41414198c73a57aeb3b85a38ac9306224078175bd51
     source_url: https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
     fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: 8f457d133e7963bd19afb56782faeb1d440b805fb15e88974dfc236e4a272ae5
+    source_url: https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:34:58.138261Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 59cf9cfec727dcd42cf7c71d8afc51510792ef1835bb15264cda4957f139faf1
+    source_url: https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:35:12.158114Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: fc4acfa85333a76106ed71f9aac283a016b586a878098bcb9a7c75ec9e00b4dd
+    source_url: https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:35:26.164002Z'
+    fetch_method: httpx
+  ru:
+    kind: officielle
+    sha256: de1c1d0c00eb11513035ba401694c23a4bc80571cb4ba2346d76a760e50a93bc
+    source_url: https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:35:40.205684Z'
+    fetch_method: httpx
+  vi:
+    kind: officielle
+    sha256: aa5a93ae0253f856c5e72cf6a746de27ad1247a0ec0a322d494060c065c1ed5a
+    source_url: https://www.vatican.va/content/benedict-xvi/vi/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:35:54.279944Z'
+    fetch_method: httpx
+  zh:
+    kind: officielle
+    sha256: b3dcc22d298c070622ef4d2c1f5bbe3bac01bfe125fd609503e3ab210fa779b5
+    source_url: https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetched_at: '2026-04-22T09:36:08.142386Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- be
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- nl
+- pl
+- pt
+- ru
+- vi
+- zh
 sha256:
+  ar: cb022a2e3346bb1a1467387d8cae28032d586bcf7a4e906d36dfca318164bd2d
+  be: cbc87459ad5c2fdc4f3c836e0a3dc0c7ad874b8430e137e8b4bd98814f32ccae
+  de: 0eb90db245742d38a9f407a9dfec18938c0b73210f15c3abab9bff8dc0b5b3c3
+  en: fe9f0fc54fd5ce067280419e265ea18a079bf76722a65bda5c1424d1e682f663
+  es: bb4cc5ae0d762b1991686f0105ddc3f67d73b7862df9beba26e38ea630001446
+  fr: 0acd75e8014b53f106f71a1b518d29de7356e5b872686ce4a0462985ccc950c5
+  hu: 7b1356860f53be9aa0269e2d7cd1af01ee7e4674ed52cfd386bac3d2bb0e59fa
+  it: cad3874c29bafc16f9a310b8df924942e697ab383a52363a4adbcf1c4edfee62
   la: 4bc96abe4cb9366906d7e41414198c73a57aeb3b85a38ac9306224078175bd51
+  nl: 8f457d133e7963bd19afb56782faeb1d440b805fb15e88974dfc236e4a272ae5
+  pl: 59cf9cfec727dcd42cf7c71d8afc51510792ef1835bb15264cda4957f139faf1
+  pt: fc4acfa85333a76106ed71f9aac283a016b586a878098bcb9a7c75ec9e00b4dd
+  ru: de1c1d0c00eb11513035ba401694c23a4bc80571cb4ba2346d76a760e50a93bc
+  vi: aa5a93ae0253f856c5e72cf6a746de27ad1247a0ec0a322d494060c065c1ed5a
+  zh: b3dcc22d298c070622ef4d2c1f5bbe3bac01bfe125fd609503e3ab210fa779b5

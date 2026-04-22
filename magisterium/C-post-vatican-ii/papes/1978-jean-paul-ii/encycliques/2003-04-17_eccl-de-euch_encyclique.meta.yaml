@@ -18,13 +18,133 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hr/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+  site: www.vatican.va
+  langue: zh
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 34835d86ddc2e6843c31f803766e77449414aa436c766bf8b29416502b62ca67
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:31:01.936838Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 87000b4e5c900707159c9411bfc83e2f523c70fedc7067f65ec2cfe9e4c4e3f3
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:31:18.055056Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 165c73c3b3b4cd232fb60faf468be2edcef531ff860bad426d7b981c3ac5278f
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:31:34.012443Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 4e130f39a49f4cbce1d86e9436ff74d6f46bbd2e429e3e770140be1287e07a44
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:31:49.969878Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: ca69e6e9e007f2deef668dcc3fa707d46afc4a53c80c420ec9cfd74b99f03a54
+    source_url: https://www.vatican.va/content/john-paul-ii/hr/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:32:06.079190Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 74780765adf2bccf9d491ec1173cb085bca2fc4460dfeb424cedc5e363856b1b
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:32:22.133325Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 1b799cbb461c0126982233fcc81f37790e8b9403ddb1fcd3d528fe4c86ac191d
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:32:38.059034Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 11130f81543d69a9379a73af066cbd98ec79e5d7d16107154ccca17d0d3722b7
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: b25424915b49953d7e654f005bde1e60235d55090928273bd1a9161ec9188d3d
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:32:54.013862Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 9b90f4890c1fa493bd9d0c7900a272c4cc27fc1c5e56c69f2516f637d76f1ed1
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:33:10.073492Z'
+    fetch_method: httpx
+  zh:
+    kind: officielle
+    sha256: ba609235084f3a8ba5fe0e62e9ee5bb4f2d2ea7c1cffda8cad5522f653972aba
+    source_url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html
+    fetched_at: '2026-04-22T09:33:25.822191Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hr
+- hu
+- it
 - la
+- pl
+- pt
+- zh
 sha256:
+  de: 34835d86ddc2e6843c31f803766e77449414aa436c766bf8b29416502b62ca67
+  en: 87000b4e5c900707159c9411bfc83e2f523c70fedc7067f65ec2cfe9e4c4e3f3
+  es: 165c73c3b3b4cd232fb60faf468be2edcef531ff860bad426d7b981c3ac5278f
+  fr: 4e130f39a49f4cbce1d86e9436ff74d6f46bbd2e429e3e770140be1287e07a44
+  hr: ca69e6e9e007f2deef668dcc3fa707d46afc4a53c80c420ec9cfd74b99f03a54
+  hu: 74780765adf2bccf9d491ec1173cb085bca2fc4460dfeb424cedc5e363856b1b
+  it: 1b799cbb461c0126982233fcc81f37790e8b9403ddb1fcd3d528fe4c86ac191d
   la: 11130f81543d69a9379a73af066cbd98ec79e5d7d16107154ccca17d0d3722b7
+  pl: b25424915b49953d7e654f005bde1e60235d55090928273bd1a9161ec9188d3d
+  pt: 9b90f4890c1fa493bd9d0c7900a272c4cc27fc1c5e56c69f2516f637d76f1ed1
+  zh: ba609235084f3a8ba5fe0e62e9ee5bb4f2d2ea7c1cffda8cad5522f653972aba

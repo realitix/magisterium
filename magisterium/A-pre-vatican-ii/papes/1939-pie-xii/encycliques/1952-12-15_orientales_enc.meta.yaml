@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: d0de9462ace1362f1aec59899efc8abbdd38526524282e1e365a58d928557dd4
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html
+    fetched_at: '2026-04-22T08:50:27.002552Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a7dad68684da1ea0c4eb3774fffa03b97d6d255fb1fc5cd9fbf70285a2ab27c0
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 3304a1e7f8354004f03b916fcd44c2b3337d9ba353a27a9bb6f5a0f339570fc9
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html
+    fetched_at: '2026-04-22T08:50:43.013626Z'
+    fetch_method: httpx
 langues_disponibles:
+- it
 - la
+- pt
 sha256:
+  it: d0de9462ace1362f1aec59899efc8abbdd38526524282e1e365a58d928557dd4
   la: a7dad68684da1ea0c4eb3774fffa03b97d6d255fb1fc5cd9fbf70285a2ab27c0
+  pt: 3304a1e7f8354004f03b916fcd44c2b3337d9ba353a27a9bb6f5a0f339570fc9

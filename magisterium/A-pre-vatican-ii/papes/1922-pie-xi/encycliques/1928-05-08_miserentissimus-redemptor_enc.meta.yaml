@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 79e9b17a972bf2ef92f38a472a3fedb9335f109a66a3f86ff217d2277614bd9b
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html
+    fetched_at: '2026-04-22T08:45:50.698535Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 954579c868413552d80fa2d008069fbdcd9a6ae15e0d212ea7a49ad40f0b9cee
+    source_url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html
+    fetched_at: '2026-04-22T08:46:06.735223Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 64de5c2d4892c35d612becbdb4f07225b072ba1c203f95f97dccb73abc79da9d
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html
+    fetched_at: '2026-04-22T08:46:22.766884Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a7d57b35eece1fecf6a8f3875083a3bb5a8ae40f854ca29bc50f85580988015f
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
 sha256:
+  en: 79e9b17a972bf2ef92f38a472a3fedb9335f109a66a3f86ff217d2277614bd9b
+  es: 954579c868413552d80fa2d008069fbdcd9a6ae15e0d212ea7a49ad40f0b9cee
+  it: 64de5c2d4892c35d612becbdb4f07225b072ba1c203f95f97dccb73abc79da9d
   la: a7d57b35eece1fecf6a8f3875083a3bb5a8ae40f854ca29bc50f85580988015f

@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: b542b5297c644d6f6fb07fdc4af94ef2de8718abdcf245532bd3cf7a6cfa1961
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
+    fetched_at: '2026-04-22T08:49:52.943632Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8ed8e8743e1394bf3e1a1460feba9ded62ce4efa6565b8fb13376087e5134bf2
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
+    fetched_at: '2026-04-22T08:50:08.951398Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a61bc5ed65ebb14310695df2912e598f8ee0372c7442aeb10a34b459da49a014
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: b8aa50f9cb7677ff7da830a64ea9050e48a45d748925e25c06aa0f7c2ec3c32f
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
+    fetched_at: '2026-04-22T08:50:24.967887Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: b542b5297c644d6f6fb07fdc4af94ef2de8718abdcf245532bd3cf7a6cfa1961
+  it: 8ed8e8743e1394bf3e1a1460feba9ded62ce4efa6565b8fb13376087e5134bf2
   la: a61bc5ed65ebb14310695df2912e598f8ee0372c7442aeb10a34b459da49a014
+  pt: b8aa50f9cb7677ff7da830a64ea9050e48a45d748925e25c06aa0f7c2ec3c32f

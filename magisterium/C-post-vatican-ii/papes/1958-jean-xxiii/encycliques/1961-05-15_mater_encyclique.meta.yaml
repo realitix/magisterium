@@ -17,13 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/de/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 3d5479e6cc83818cfbb2ca4a6a0703d98a5df1096a167ee49fb28dc3fa1decfa
+    source_url: https://www.vatican.va/content/john-xxiii/de/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+    fetched_at: '2026-04-22T09:25:37.631772Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 639dc135957f97d428b9346a5229cda1815f8a232a9c5372225d45133222ef5e
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+    fetched_at: '2026-04-22T09:25:53.600784Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 305478cef7264961b81d2ca17ef295ca7560014fd0500b381cc9ec942a2e4a3d
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+    fetched_at: '2026-04-22T09:26:09.755058Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9f08ff679d7c60086a62602a171dfdaa1f1fedce74750f35a50e46d62468fcc6
+    source_url: https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+    fetched_at: '2026-04-22T09:26:25.639054Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5a3fa1fba298b88d4e09f6303f8795a8e6d46662cb1bc2a5096fc173556e5a4e
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+    fetched_at: '2026-04-22T09:26:41.688494Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: bf136edaee18d2a676e93c13335ef4db4a8ecebb218a18caca59fd4295404436
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: d566532ecc177b1c86e74ccd16ab91cfbfe7d3c43266e641d170bc300d3e1a06
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html
+    fetched_at: '2026-04-22T09:26:57.682578Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  de: 3d5479e6cc83818cfbb2ca4a6a0703d98a5df1096a167ee49fb28dc3fa1decfa
+  en: 639dc135957f97d428b9346a5229cda1815f8a232a9c5372225d45133222ef5e
+  es: 305478cef7264961b81d2ca17ef295ca7560014fd0500b381cc9ec942a2e4a3d
+  fr: 9f08ff679d7c60086a62602a171dfdaa1f1fedce74750f35a50e46d62468fcc6
+  it: 5a3fa1fba298b88d4e09f6303f8795a8e6d46662cb1bc2a5096fc173556e5a4e
   la: bf136edaee18d2a676e93c13335ef4db4a8ecebb218a18caca59fd4295404436
+  pt: d566532ecc177b1c86e74ccd16ab91cfbfe7d3c43266e641d170bc300d3e1a06

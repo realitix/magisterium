@@ -19,13 +19,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/de/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/hu/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 647ee9c6b01e2cdc4a4af5be9439255356d068ada332bdea347acdcfc73339b4
+    source_url: https://www.vatican.va/content/john-xxiii/de/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetched_at: '2026-04-22T09:26:07.559937Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 180b174bb419d294793f2d077fcc8a9143d5789f221b7a370b8c3d63f8800be5
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetched_at: '2026-04-22T09:26:23.876938Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: e8979fa950fa2cf5d6a48a89da00ba4dc3d2afde6b9aaddb86da7dbf1b7e0a0d
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetched_at: '2026-04-22T09:26:39.660023Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 213a188d7970524652c8dc5119865c619cface093c9fdd0b689066ae0ac01b3d
+    source_url: https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetched_at: '2026-04-22T09:26:55.625427Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 3846248dba36cb8f814a9826cb8a8e494d8110767ccebe205d963ec0619a70ad
+    source_url: https://www.vatican.va/content/john-xxiii/hu/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetched_at: '2026-04-22T09:27:11.657444Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: f4acc9393f06dbaed046b52b444a3381e1c24bad502e9d7fd340919d94fa605c
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetched_at: '2026-04-22T09:27:27.680967Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 26810579bf6bd9d84d99d4e76cd9cd5463dde6cbc118a0a503ad32503e25d351
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 0ef18c23e0444be0e5fe3190fbbfc153addc59f051587df861b33564097c1751
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetched_at: '2026-04-22T09:27:43.785201Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pt
 sha256:
+  de: 647ee9c6b01e2cdc4a4af5be9439255356d068ada332bdea347acdcfc73339b4
+  en: 180b174bb419d294793f2d077fcc8a9143d5789f221b7a370b8c3d63f8800be5
+  es: e8979fa950fa2cf5d6a48a89da00ba4dc3d2afde6b9aaddb86da7dbf1b7e0a0d
+  fr: 213a188d7970524652c8dc5119865c619cface093c9fdd0b689066ae0ac01b3d
+  hu: 3846248dba36cb8f814a9826cb8a8e494d8110767ccebe205d963ec0619a70ad
+  it: f4acc9393f06dbaed046b52b444a3381e1c24bad502e9d7fd340919d94fa605c
   la: 26810579bf6bd9d84d99d4e76cd9cd5463dde6cbc118a0a503ad32503e25d351
+  pt: 0ef18c23e0444be0e5fe3190fbbfc153addc59f051587df861b33564097c1751

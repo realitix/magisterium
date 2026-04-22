@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: e756e6260a39e18ee59a97eded451c57d09e8d719ca3b70b3fcbe61de059e300
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html
+    fetched_at: '2026-04-22T08:42:18.485733Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: f9a97c18628e9201ce50ae068e766b99008dd736b4c822236bdd267cf76f0e0c
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html
+    fetched_at: '2026-04-22T08:42:34.574826Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: c1b008e82d5b660e083a68b57f3fbab79c0656c242af8f11172dfc27d7482a0d
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: e756e6260a39e18ee59a97eded451c57d09e8d719ca3b70b3fcbe61de059e300
+  it: f9a97c18628e9201ce50ae068e766b99008dd736b4c822236bdd267cf76f0e0c
   la: c1b008e82d5b660e083a68b57f3fbab79c0656c242af8f11172dfc27d7482a0d

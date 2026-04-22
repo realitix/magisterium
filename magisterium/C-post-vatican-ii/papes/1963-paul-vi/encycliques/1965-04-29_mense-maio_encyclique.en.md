@@ -1,0 +1,91 @@
+***MENSE MAIO***
+
+ENCYCLICAL OF POPE PAUL VI  
+ON PRAYERS DURING MAY  
+FOR PRESERVATION OF PEACE
+
+APRIL 29, 1965
+
+*To His Venerable Brethren the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries who are at Peace and in Communion with the Apostolic See.*
+
+*Venerable Brethren, Health and Apostolic Benediction.*
+
+The month of May is almost here, a month which the piety of the faithful has long dedicated to Mary, the Mother of God. Our heart rejoices at the thought of the moving tribute of faith and love which will soon be paid to the Queen of Heaven in every corner of the earth. For this is the month during which Christians, in their churches and their homes, offer the Virgin Mother more fervent and loving acts of homage and veneration; and it is the month in which a greater abundance of God's merciful gifts comes down to us from our Mother's throne.
+
+2\. We are delighted and consoled by this pious custom associated with the month of May, which pays honor to the Blessed Virgin and brings such rich benefits to the Christian people. Since Mary is rightly to be regarded as the way by which we are led to Christ, the person who encounters Mary cannot help but encounter Christ likewise. For what other reason do we continually turn to Mary except to seek the Christ in her arms, to seek our Savior in her, through her, and with her? To Him men are to turn amid the anxieties and perils of this world, urged on by duty and driven by the compelling needs of their heart, to find a haven of salvation, a transcendent fountain of life.
+
+*A Time For Special Prayers*
+
+3\. Because the month of May is a powerful incentive to more frequent and fervent prayers, and because our petitions more readily find access to her compassionate heart during it, it has been a favorite custom of Our predecessors to choose this month, dedicated to Mary, for urging the Christian people to offer up public prayers whenever the needs of the Church demanded it or some grave crisis threatened the human race. This year, Venerable Brothers, We in turn feel compelled to call for such prayers from the whole Catholic world. Looking at the present needs of the Church and the status of world peace, We have sound reasons to believe that the present hour is especially grave and that a plea for concerted prayer on the part of all Christians is a matter of top priority.
+
+THE NEEDS OF THE COUNCIL
+
+4\. The first reason is linked to the present historic moment in the life of the Church, the celebration of the Second Vatican Council. This momentous event confronts the Church with a weighty proposition: to adapt herself, in a suitable
+
+way, to the needs of our day. On the success of this endeavor will depend, for a long time to come, the future of Christ's spouse and the fate of many souls. It is indeed a great moment which God has injected into the life of the Church and the history of the world.
+
+*The Work Ahead*
+
+5\. Although a great deal of its work has been completed, there is still much for you to do, Venerable Brothers, in the next session, which will also be the last. The period which follows that session will be equally important. At that time the Council's decisions will have to be implemented. Priests and people will be called upon to combine their efforts so that the seeds sown during the Council may bear tangible, salutary fruit. And so, to obtain the necessary enlightenment and divine blessings for completing this great volume of work, We place Our hope in her whom We gladly proclaimed Mother of the Church at the close of the last session. From the very start of the Council she has given us her loving help, and she will surely stay with us until the task is finished.
+
+PEACE IN JEOPARDY
+
+6\. The second reason for our appeal stems from the present state of international affairs, which, as you well know, Venerable Brothers, is extremely troubled and uncertain. The supreme benefit of peace is again being placed in jeopardy. Today we see tensions worsening gravely between nations in certain parts of the world, as if no lesson had been learned from the bitter experiences of the two world wars which caused so much bloodletting in the first half of this century. Once again we see men risking recourse to arms instead of negotiating to settle disputes between opposing viewpoints. Thus the inhabitants of entire nations are subjected to unspeakable sufferings occasioned by uprisings, secret and treacherous warfare, and outright battles. These activities grow more frequent and more bitter each day, and could at any time spark a new and terrible war.
+
+*Plea to World Leaders*
+
+7\. Cognizant of these grave dangers threatening mankind, and conscious of Our duty as Supreme Pastor, We deem it necessary to voice
+
+Our anxious concern and Our fears that these tensions may degenerate into a bloody war. We implore all those who bear the responsibility of public authority not to disregard mankind's unanimous desires to achieve peace. Let them try everything in their power to preserve the peace which is now threatened. Let them not cease to promote discussions and negotiations on every possible occasion and between men of every rank, so that they may forestall the dangerous recourse to weapons and the terrible misfortunes which result for temporal, spiritual, and moral values. Following the paths marked out by law, let them try to single out every sincere quest for justice and peace; let them encourage such quests and make them successful; let them place confidence in every sincere token of good will, so that the praiseworthy cause of right order may prevail over the cause of disorder and ruin.
+
+*Criminal Acts Condemned*
+
+8\. Alas, in this pitiful state of affairs, We sadly note that there is very often no respect for the sacred and inviolable character of human life; that actions and methods are employed which openly flaunt the moral sensibilities and customs of civilized people. In this respect We cannot help but raise Our voice to defend the dignity of man and Christian civilization; to condemn secret and treacherous warfare, terrorist activities, the taking of hostages, and savage reprisals against unarmed people. These are crimes which debilitate man's awareness of what is just and humane, and further embitter the hearts of the combatants. These crimes can close off the paths still open to mutual good faith; or at least they can place more difficulties in the way of negotiations which, if conducted with sincerity and honesty, could lead to a reasonable settlement.
+
+*Concern For All People*
+
+9\. As you well know, Venerable Brothers, Our deep concern over this state of affairs is not dictated by any narrow self-interest. Our sole desire is to protect those who are afflicted with misfortune and to promote the true welfare of all peoples. And We nurture the hope that awareness of the responsibilities they bear before God and men will be enough to make heads of government continue their generous efforts to preserve peace; to make every effort to forestall, so far as they can, the obstacles posed to safe, sincere agreement by the course of events or human attitudes.
+
+*Peace, A Gift from God*
+
+10\. But peace, Venerable Brothers, is not solely the work of man. It is also, and primarily, a gift from God. Peace comes from heaven. It will truly reign among men when we have finally proved ourselves worthy to receive this gift from Almighty God. Just as the happiness and destiny of nations are in His power, so also are the hearts of men. And so we shall obtain this lofty benefit by praying to God; by praying with constancy and watchfulness, as the Church has been wont to do from her very beginning; by praying, in particular, for the intercession and protection of the Blessed Virgin Mary, who is the Queen of peace.
+
+11\. So, Venerable Brothers, throughout this month of May, let us offer our pleas to the Mother of God with greater devotion and confidence, so that we may obtain her favor and her blessings. Even if the grave sins of men provoke God's justice and merit His just punishments, we must not forget the he is "*the Father of mercies and the God of all comfort*," (1) that He has appointed Mary most holy as the generous steward of His merciful gifts.
+
+*Plea For Mary's Help*
+
+12\. May she who experienced the cares and hardships of earthly life, the weariness of daily toil, the hardships and trials of poverty, and the sorrows of Calvary, come to aid the needs of the Church and the human race. May she graciously lend an ear to the devout pleas of those all over the world who beg her for peace. May she enlighten the minds of those who rule nations. And finally, may she prevail on God, who rules the winds and storms, to calm the tempests in men's warring hearts and grant us peace in our day. What we seek is true peace grounded on the sturdy foundations of justice and love—on a justice which recognizes the legitimate rights of the weak as well as those of the strong; on a love which keeps men from falling into error through excessive concern for their own interests. Thus each person's rights may be safeguarded without the rights of others being forgotten or violated.
+
+*Call For Special Prayers*
+
+13\. We ask you, Venerable Brothers, to make known Our wishes and Our urgent pleas to the faithful entrusted to your care, in whatever way you deem most suitable. We also ask that you make provisions for special prayers in every diocese and parish during the month of May; in particular, on the feast of the Queenship of Mary, let there be solemn public prayer for the intentions We have mentioned.
+
+14\. You should know that We are relying particularly on the prayers of children and those suffering affliction, for their pleas have special power to penetrate heaven and soften God's justice. Since this is a perfect occasion, do not fail to put repeated emphasis on the recitation of the Rosary, the prayer so pleasing to Our Lady and so often recommended by the Roman Pontiffs. It affords the faithful an excellent means of complying effectively and pleasingly with our divine Master's command: "*Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you*. " (2)
+
+15\. Entertaining these benevolent feelings and confidently hoping that all will respond to Our pleas with speed and readiness, We lovingly impart Our Apostolic Blessing to you, Venerable Brothers, and to all those entrusted to your care.
+
+*Given at Rome, at St. Peter's, April 29, 1965, in the second year of Our Pontificate.*
+
+**PAUL VI**
+
+------------------------------------------------------------------------
+
+**NOTES**
+
+LATIN TEXT: *Acta Apostolicae Sedis*, 57 (1965), 353-58.
+
+ENGLISH TRANSLATION: *The Pope Speaks*, 10 (Spring, 1965), 220-24.
+
+REFERENCES:
+
+12\. (1) Cf. 2 *Cor.* 1.3.
+
+13\. (2) *Mt*. 7.7.
+
+Copyright © Dicastery for Communication
+
+[![the holy see](/etc/designs/vatican/library/clientlibs/themes/vatican-v2/images/logo-vatican.png)](/content/vatican/en.html)
+
+## *The* **Holy See**
+
+## [*The* **Holy See**](/content/vatican/en.html)

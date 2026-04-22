@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: eac743ffaa0e6237f2071d566fea3a675032d01791b0bca1df240abe171a03f1
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html
+    fetched_at: '2026-04-22T08:38:16.146216Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 40be189390e444a9c81bd4a0bb99dcf86525db73f0d398c3ef9c5a06f4bbd44e
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html
+    fetched_at: '2026-04-22T08:38:32.107013Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b0e585c9b1a33307cf3ccebcf77e7aff13e04463e82ca416d3d2b109b58847c9
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: eac743ffaa0e6237f2071d566fea3a675032d01791b0bca1df240abe171a03f1
+  it: 40be189390e444a9c81bd4a0bb99dcf86525db73f0d398c3ef9c5a06f4bbd44e
   la: b0e585c9b1a33307cf3ccebcf77e7aff13e04463e82ca416d3d2b109b58847c9

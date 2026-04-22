@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 84267ae38e74d9b4b0f28a792d327cfb1376353f4edc5e823c1a77210fe23031
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
+    fetched_at: '2026-04-22T08:36:05.989615Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: c982f67d221f5f9d8fd6a5182976ed6657c98eb2907164db41561be005cef1ac
+    source_url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
+    fetched_at: '2026-04-22T08:36:22.015928Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: aedf059548d4a6d56a8d3a4678b188a9b0fdb550ef3dc31e929953b2b5b22b14
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
+    fetched_at: '2026-04-22T08:36:38.009328Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 1b1a1aeca383aad38acedba9f8197f65a4d1e8f4377850619a38b7df18ad7ed8
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: 84267ae38e74d9b4b0f28a792d327cfb1376353f4edc5e823c1a77210fe23031
+  fr: c982f67d221f5f9d8fd6a5182976ed6657c98eb2907164db41561be005cef1ac
+  it: aedf059548d4a6d56a8d3a4678b188a9b0fdb550ef3dc31e929953b2b5b22b14
   la: 1b1a1aeca383aad38acedba9f8197f65a4d1e8f4377850619a38b7df18ad7ed8

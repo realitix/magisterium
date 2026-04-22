@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01081897_militantis-ecclesiae.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 5c753546003d5dd645777818d78ebea33bcc96da15599dc1990ce272cd39407e
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01081897_militantis-ecclesiae.html
+    fetched_at: '2026-04-22T08:41:28.385056Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 01154f7cacc6a1e8219693483d70d5db27958fbfb7e9292a69989f4a4d20251a
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01081897_militantis-ecclesiae.html
     fetch_method: httpx
 langues_disponibles:
+- en
 - la
 sha256:
+  en: 5c753546003d5dd645777818d78ebea33bcc96da15599dc1990ce272cd39407e
   la: 01154f7cacc6a1e8219693483d70d5db27958fbfb7e9292a69989f4a4d20251a

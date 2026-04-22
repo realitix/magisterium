@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: b624ff3a5ab975cbbf9acede8fa729fc3362699ba9abf1dda2c85335b9a98a01
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+    fetched_at: '2026-04-22T08:51:43.129203Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 24d6033eed1fc8fcdd79b10035cdbedba048fa39ae4b87f7ebbd8ae6f2ce6a31
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+    fetched_at: '2026-04-22T08:51:59.392606Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 6aa1e6012b52575515ca548df3f5aab75a857060714f5cddec43a312358da727
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+    fetched_at: '2026-04-22T08:52:15.188734Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 65d1fabf58c62941b0a8e7552337418df5db2f386c62464bb60f57c17dcfbb6b
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: ae7bde58b758747af55cad5c9f85989702de4f14f88af712714dfd0977f912a6
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html
+    fetched_at: '2026-04-22T08:52:31.184994Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: b624ff3a5ab975cbbf9acede8fa729fc3362699ba9abf1dda2c85335b9a98a01
+  es: 24d6033eed1fc8fcdd79b10035cdbedba048fa39ae4b87f7ebbd8ae6f2ce6a31
+  it: 6aa1e6012b52575515ca548df3f5aab75a857060714f5cddec43a312358da727
   la: 65d1fabf58c62941b0a8e7552337418df5db2f386c62464bb60f57c17dcfbb6b
+  pt: ae7bde58b758747af55cad5c9f85989702de4f14f88af712714dfd0977f912a6

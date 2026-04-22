@@ -15,13 +15,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/hu/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 9146805715f90372a4efb487c18ba4385aa6e0a7ed8a886cb80c2b6586c7a8a2
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+    fetched_at: '2026-04-22T08:39:08.333503Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 18abd0e7207998d8e4dcaaf2cf4c43eaf57cb77d461af78e3b6fe9e147c6ba9f
+    source_url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+    fetched_at: '2026-04-22T08:39:24.339199Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 81185e733cf6bb22b4fc10e646b0738fc44bb06a9f22c80c278a2cc4e498c018
+    source_url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+    fetched_at: '2026-04-22T08:39:40.401771Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 070daa8139c78db3673fe75386cf3616411abcc279ce2e4395245fd56b1e0e4e
+    source_url: https://www.vatican.va/content/leo-xiii/hu/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+    fetched_at: '2026-04-22T08:39:56.380202Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: f2ffc31323dcfc20ade59e8c6e86508abfd4c2892d0c085fb771fb25c30d3ebf
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+    fetched_at: '2026-04-22T08:40:12.383627Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 27122298680e7553414c60f894823e636f4b223fcf272eded5f1583d2563fd60
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: d79326a5f4f2cfd500362f05fb9f3fe57cb8cb4a95b04c4bff6afedefcb1ef88
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+    fetched_at: '2026-04-22T08:40:28.454530Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pt
 sha256:
+  en: 9146805715f90372a4efb487c18ba4385aa6e0a7ed8a886cb80c2b6586c7a8a2
+  es: 18abd0e7207998d8e4dcaaf2cf4c43eaf57cb77d461af78e3b6fe9e147c6ba9f
+  fr: 81185e733cf6bb22b4fc10e646b0738fc44bb06a9f22c80c278a2cc4e498c018
+  hu: 070daa8139c78db3673fe75386cf3616411abcc279ce2e4395245fd56b1e0e4e
+  it: f2ffc31323dcfc20ade59e8c6e86508abfd4c2892d0c085fb771fb25c30d3ebf
   la: 27122298680e7553414c60f894823e636f4b223fcf272eded5f1583d2563fd60
+  pt: d79326a5f4f2cfd500362f05fb9f3fe57cb8cb4a95b04c4bff6afedefcb1ef88

@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 5334c3c328f44ae64e680b7eb29fae1aa81fe6a57192a10e1bc2deb098ddbafc
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
+    fetched_at: '2026-04-22T08:48:38.827257Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: d13e1c049be71a8602f164832d7b22a8c3ca9939bbb3586f4225323049105389
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
+    fetched_at: '2026-04-22T08:48:54.836303Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 5ce63ae4d5be0ebc9f05bf318ef480d297a9bbbea73afccd60970e54199d04a1
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: e846cebd7bc8ddc0326c728e13253f584c574ed1326a2b60c416f42d63618e49
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html
+    fetched_at: '2026-04-22T08:49:10.806957Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: 5334c3c328f44ae64e680b7eb29fae1aa81fe6a57192a10e1bc2deb098ddbafc
+  it: d13e1c049be71a8602f164832d7b22a8c3ca9939bbb3586f4225323049105389
   la: 5ce63ae4d5be0ebc9f05bf318ef480d297a9bbbea73afccd60970e54199d04a1
+  pt: e846cebd7bc8ddc0326c728e13253f584c574ed1326a2b60c416f42d63618e49

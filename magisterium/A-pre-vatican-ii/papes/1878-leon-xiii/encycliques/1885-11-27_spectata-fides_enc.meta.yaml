@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 5a98af98a1e3578c0ca380e240b39ac6713980c8bfec8af460b823b9d19e70fc
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html
+    fetched_at: '2026-04-22T08:37:08.025520Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 37aa8451f4f57ecd4cf7ae934e587dfa6bb29451f573922190e0ab58bc10b0ef
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html
+    fetched_at: '2026-04-22T08:37:24.048488Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b0f118900bb42f71f28ab188a0461b1e5040419b48db97fe99f5da630a93ce23
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 5a98af98a1e3578c0ca380e240b39ac6713980c8bfec8af460b823b9d19e70fc
+  it: 37aa8451f4f57ecd4cf7ae934e587dfa6bb29451f573922190e0ab58bc10b0ef
   la: b0f118900bb42f71f28ab188a0461b1e5040419b48db97fe99f5da630a93ce23

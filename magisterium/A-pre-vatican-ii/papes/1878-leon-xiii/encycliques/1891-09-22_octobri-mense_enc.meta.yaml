@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 43d4027c4ddb2906e3f64c35fb8077953da359950fbf035370184de45f918b60
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
+    fetched_at: '2026-04-22T08:39:22.234498Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8520515a5e39cae6b8bbb808f6bc7bf721b5f9849755d82f4baf2152f03a6b96
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
+    fetched_at: '2026-04-22T08:39:38.257195Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 5ea247ec9d52ab493de3f2119a41a88368ebb1ffaf32336acd7dbba0b61a40e1
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 2c55a2aec2063f15562577194abe3aae98954c8db0837371af52226af73653fa
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html
+    fetched_at: '2026-04-22T08:39:54.299078Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: 43d4027c4ddb2906e3f64c35fb8077953da359950fbf035370184de45f918b60
+  it: 8520515a5e39cae6b8bbb808f6bc7bf721b5f9849755d82f4baf2152f03a6b96
   la: 5ea247ec9d52ab493de3f2119a41a88368ebb1ffaf32336acd7dbba0b61a40e1
+  pt: 2c55a2aec2063f15562577194abe3aae98954c8db0837371af52226af73653fa

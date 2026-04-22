@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 2b2d3fdd9e4b6bd3c11d89936b2864220b260cb86f3fb11d8831cd9868e59aac
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
+    fetched_at: '2026-04-22T08:42:26.424470Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 0829f8ced698c5748f1c35030ad6ca4116e8e49ed3738881848507ac9db4384f
+    source_url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
+    fetched_at: '2026-04-22T08:42:42.500446Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 48608467c15de5c5d8849cd701bceb5795dfa7bf7c7bff5ab9dbb19e31475bfb
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
+    fetched_at: '2026-04-22T08:42:58.507101Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 06a7c4fa9152fc1c842acf6311b6d86b50370c7cf7a9acb1cd180aa050fda307
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: 2b2d3fdd9e4b6bd3c11d89936b2864220b260cb86f3fb11d8831cd9868e59aac
+  fr: 0829f8ced698c5748f1c35030ad6ca4116e8e49ed3738881848507ac9db4384f
+  it: 48608467c15de5c5d8849cd701bceb5795dfa7bf7c7bff5ab9dbb19e31475bfb
   la: 06a7c4fa9152fc1c842acf6311b6d86b50370c7cf7a9acb1cd180aa050fda307

@@ -17,13 +17,109 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 7061caa8bdc34f660cc65dc4358a5d99f01aecbd7a6704883928138f98ee5a23
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:28:57.947897Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 2e11f56c60f9af09287f3709707ef5b6bd4e8e9dd183ed1762a1e3a0c08efa8d
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:29:13.920481Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 458b2bb624c7ab29669f9f14571719f8c5ed01c3fb2e1045b291f7a70fca1829
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:29:29.949259Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 3579134542e8f30c35fe94b437583d07647696e79face53f24137b4777e1d631
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:29:45.979732Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 4e5e108f1044023ab1d891fc54e9426b288e210d7f2c70d6cc4fd648d73c53db
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:30:02.006139Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 106710f10cc4a9534aa62ce5dd37fa6455ce9e099be0e9df6c17fa63bf3aaa81
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:30:18.003970Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 173a10982116f43d27a671e5423d8280d524d1eb61d15ec6a6c78666a1c39b0a
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: d3df34f55441c5362a32f904da01eba99c3a302a467cd7636baa1caadd8f59af
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:30:34.402526Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: a28251f1034a07996cf13812ba2c987b374fe43512508e2dfc8bbb0566742ff8
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html
+    fetched_at: '2026-04-22T09:30:50.040341Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pl
+- pt
 sha256:
+  de: 7061caa8bdc34f660cc65dc4358a5d99f01aecbd7a6704883928138f98ee5a23
+  en: 2e11f56c60f9af09287f3709707ef5b6bd4e8e9dd183ed1762a1e3a0c08efa8d
+  es: 458b2bb624c7ab29669f9f14571719f8c5ed01c3fb2e1045b291f7a70fca1829
+  fr: 3579134542e8f30c35fe94b437583d07647696e79face53f24137b4777e1d631
+  hu: 4e5e108f1044023ab1d891fc54e9426b288e210d7f2c70d6cc4fd648d73c53db
+  it: 106710f10cc4a9534aa62ce5dd37fa6455ce9e099be0e9df6c17fa63bf3aaa81
   la: 173a10982116f43d27a671e5423d8280d524d1eb61d15ec6a6c78666a1c39b0a
+  pl: d3df34f55441c5362a32f904da01eba99c3a302a467cd7636baa1caadd8f59af
+  pt: a28251f1034a07996cf13812ba2c987b374fe43512508e2dfc8bbb0566742ff8

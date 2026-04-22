@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_03031891_in-ipso.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_03031891_in-ipso.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: da0535069ced748f7650d5d01a83fb942895a31965ef744a1cbe9736f30bfe6d
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_03031891_in-ipso.html
+    fetched_at: '2026-04-22T08:39:04.188204Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 16f8d4ab77472deb675e19724046aafbfce498661996154860c6c440dd34186c
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_03031891_in-ipso.html
+    fetched_at: '2026-04-22T08:39:20.222840Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 56359d15e566461bd924ddf895aec38b46b04467118eb1629581c3f6484f7528
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_03031891_in-ipso.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: da0535069ced748f7650d5d01a83fb942895a31965ef744a1cbe9736f30bfe6d
+  it: 16f8d4ab77472deb675e19724046aafbfce498661996154860c6c440dd34186c
   la: 56359d15e566461bd924ddf895aec38b46b04467118eb1629581c3f6484f7528

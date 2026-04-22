@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 6880a97e588c30ae3d54b94c22c14fafa7a73212472e908f4653109fec696f01
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html
+    fetched_at: '2026-04-22T08:40:40.311353Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 041400e75f0cee8e2853b7dae63407ef0a88d459a05ae932f8ff44531bec6e97
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html
+    fetched_at: '2026-04-22T08:40:56.332016Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: e3aeb40722f786aad08c4a26f5f8470c17d63ebf57cfc0a722018ebd99927407
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 6880a97e588c30ae3d54b94c22c14fafa7a73212472e908f4653109fec696f01
+  it: 041400e75f0cee8e2853b7dae63407ef0a88d459a05ae932f8ff44531bec6e97
   la: e3aeb40722f786aad08c4a26f5f8470c17d63ebf57cfc0a722018ebd99927407

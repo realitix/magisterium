@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: d193bfae50545a6d8e286e969e3de8bc3d6de380efa7c4439c4c8957d13fc67c
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
+    fetched_at: '2026-04-22T08:47:56.861973Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: d1dd68673487acac368b3c82800e9ddb65ced81f1601d1bcc0216ab80af8b033
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
+    fetched_at: '2026-04-22T08:48:12.884505Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: c87b1d41cc5a4d03883007f495203034e504a5ac143d9a364cf1169a87116d93
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 4e42805448408bdfe8b0b7e6db3832881ce9ddaf8aafecc45247f08623ef7734
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html
+    fetched_at: '2026-04-22T08:48:28.886001Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: d193bfae50545a6d8e286e969e3de8bc3d6de380efa7c4439c4c8957d13fc67c
+  it: d1dd68673487acac368b3c82800e9ddb65ced81f1601d1bcc0216ab80af8b033
   la: c87b1d41cc5a4d03883007f495203034e504a5ac143d9a364cf1169a87116d93
+  pt: 4e42805448408bdfe8b0b7e6db3832881ce9ddaf8aafecc45247f08623ef7734

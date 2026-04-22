@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 25034e75da24bdf3a03489016f11908c7eb19530dd30d7d45852123813b613b5
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
+    fetched_at: '2026-04-22T08:44:20.787255Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 182005511883ddb62f2a8d366105849d327021104cb293b3457e0b763376c378
+    source_url: https://www.vatican.va/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
+    fetched_at: '2026-04-22T08:44:36.779439Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 0dcf38be1385ee9d5bc27808215b9bc61680f9da2ee3c94abbba561c0827f7cd
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
+    fetched_at: '2026-04-22T08:44:52.808705Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 0d4bf54bdc3ac525832b2d4d8e226e834df5ece571bad55f52f9a0847e3995c9
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
 sha256:
+  en: 25034e75da24bdf3a03489016f11908c7eb19530dd30d7d45852123813b613b5
+  es: 182005511883ddb62f2a8d366105849d327021104cb293b3457e0b763376c378
+  it: 0dcf38be1385ee9d5bc27808215b9bc61680f9da2ee3c94abbba561c0827f7cd
   la: 0d4bf54bdc3ac525832b2d4d8e226e834df5ece571bad55f52f9a0847e3995c9

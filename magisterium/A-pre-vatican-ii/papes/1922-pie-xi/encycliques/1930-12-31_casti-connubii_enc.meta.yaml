@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/hu/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 677137ef17e8b9ff8d245721ef53e47ffdb3327956b49b47ec736de5f7108bb9
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+    fetched_at: '2026-04-22T08:46:26.903352Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 5e60b42160f210f7691fc12f043d48de58624ae736e8a84eb04d63c114e04f05
+    source_url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+    fetched_at: '2026-04-22T08:46:43.058823Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 66c83c093bba34a03bf0d445cb19307fa5414b0dcb8c062762c11c1434f1d89f
+    source_url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+    fetched_at: '2026-04-22T08:46:58.969368Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 21007b2ad93e5dfa33c2bd06329c3417922b1f57b066d64041f027a7e6ae5762
+    source_url: https://www.vatican.va/content/pius-xi/hu/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+    fetched_at: '2026-04-22T08:47:14.992283Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: caa05a1ebf440ec8419867354d25f232813053dd560f211dca374ca493311a24
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+    fetched_at: '2026-04-22T08:47:31.040328Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: da8cd1735e5f0d9198bc9810e3b1ac1dc61a6d563f16155b6567328eae4dbb6d
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- hu
+- it
 - la
 sha256:
+  en: 677137ef17e8b9ff8d245721ef53e47ffdb3327956b49b47ec736de5f7108bb9
+  es: 5e60b42160f210f7691fc12f043d48de58624ae736e8a84eb04d63c114e04f05
+  fr: 66c83c093bba34a03bf0d445cb19307fa5414b0dcb8c062762c11c1434f1d89f
+  hu: 21007b2ad93e5dfa33c2bd06329c3417922b1f57b066d64041f027a7e6ae5762
+  it: caa05a1ebf440ec8419867354d25f232813053dd560f211dca374ca493311a24
   la: da8cd1735e5f0d9198bc9810e3b1ac1dc61a6d563f16155b6567328eae4dbb6d

@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/de/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 1f41eba2e2a384c2315a51ec4e9a595f2b669677830969b7734e6a9879fecad8
+    source_url: https://www.vatican.va/content/pius-xi/de/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+    fetched_at: '2026-04-22T08:47:20.799516Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 0b786f8d132b3f9447ee3a7bbe97e26cd213a62c53b5a1be4216aaf47bf94f3e
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+    fetched_at: '2026-04-22T08:47:36.776345Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: cad3823f6541b2a1eb27d6448309d65cdfe25c5955797f6934bd8317d8aeb3d4
+    source_url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+    fetched_at: '2026-04-22T08:47:52.833347Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: acedc3fd3b132800fa92969f207a4a4df041c7885427c145a41d7fbea9a8053f
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+    fetched_at: '2026-04-22T08:48:08.852991Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 4ad5a7cf9af891fac11bff29843d5426c26cdb522aa293b6aa6236d3f8bdf319
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 8328cdefee5c25e3a8722fb84f3917111d5e76fe51e4f7533af335aac9449e34
+    source_url: https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+    fetched_at: '2026-04-22T08:48:24.887358Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- fr
+- it
 - la
+- pt
 sha256:
+  de: 1f41eba2e2a384c2315a51ec4e9a595f2b669677830969b7734e6a9879fecad8
+  en: 0b786f8d132b3f9447ee3a7bbe97e26cd213a62c53b5a1be4216aaf47bf94f3e
+  fr: cad3823f6541b2a1eb27d6448309d65cdfe25c5955797f6934bd8317d8aeb3d4
+  it: acedc3fd3b132800fa92969f207a4a4df041c7885427c145a41d7fbea9a8053f
   la: 4ad5a7cf9af891fac11bff29843d5426c26cdb522aa293b6aa6236d3f8bdf319
+  pt: 8328cdefee5c25e3a8722fb84f3917111d5e76fe51e4f7533af335aac9449e34

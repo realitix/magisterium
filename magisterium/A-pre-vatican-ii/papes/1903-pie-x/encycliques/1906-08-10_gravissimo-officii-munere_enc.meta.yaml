@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 2db457f8416dd930681f0a1c687fc617cf01b0aebb48b7f6149aa9e38c625a67
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html
+    fetched_at: '2026-04-22T08:43:06.479310Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 686fefdcebf915f69b7e110dc9274469efc22058912c5c47c5b34b19b4926518
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html
+    fetched_at: '2026-04-22T08:43:22.510095Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 47cf2c09466a2a68bb3b33d92af0cefbb4edff648f6f06ac42f04885a2fef907
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 2db457f8416dd930681f0a1c687fc617cf01b0aebb48b7f6149aa9e38c625a67
+  it: 686fefdcebf915f69b7e110dc9274469efc22058912c5c47c5b34b19b4926518
   la: 47cf2c09466a2a68bb3b33d92af0cefbb4edff648f6f06ac42f04885a2fef907

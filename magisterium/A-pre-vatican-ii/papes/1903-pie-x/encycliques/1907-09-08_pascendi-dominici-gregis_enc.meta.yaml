@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/es/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/pt/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 00ce9af92029360c71ce3ea4812f1698e1a22f9b3a934581d4763a7ceeb4cadf
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+    fetched_at: '2026-04-22T08:43:12.714099Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: d79478809330aa34288f4cc9f8bab78d2ec88f182a4e499dea563bf3b166e967
+    source_url: https://www.vatican.va/content/pius-x/es/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+    fetched_at: '2026-04-22T08:43:28.777823Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 725d3be93e6585c3fa4ab0a78021a9e76bdad1dad740b8967a8421e7634f8d0e
+    source_url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+    fetched_at: '2026-04-22T08:43:44.707805Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 6d15593015bdfd7328c44114bfd0a86c40d8dc41f50039e9030c3abff14ba330
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+    fetched_at: '2026-04-22T08:44:00.732632Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: fb35340a8b97badd4bb77bb98e1d66dec0f04cc0dfb8d6e5256733c972ad7b7c
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 4e3df2af0dc630b71081f8a9ede7e1361dc7beccd6847db9a7869488e19122b9
+    source_url: https://www.vatican.va/content/pius-x/pt/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html
+    fetched_at: '2026-04-22T08:44:16.747618Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: 00ce9af92029360c71ce3ea4812f1698e1a22f9b3a934581d4763a7ceeb4cadf
+  es: d79478809330aa34288f4cc9f8bab78d2ec88f182a4e499dea563bf3b166e967
+  fr: 725d3be93e6585c3fa4ab0a78021a9e76bdad1dad740b8967a8421e7634f8d0e
+  it: 6d15593015bdfd7328c44114bfd0a86c40d8dc41f50039e9030c3abff14ba330
   la: fb35340a8b97badd4bb77bb98e1d66dec0f04cc0dfb8d6e5256733c972ad7b7c
+  pt: 4e3df2af0dc630b71081f8a9ede7e1361dc7beccd6847db9a7869488e19122b9

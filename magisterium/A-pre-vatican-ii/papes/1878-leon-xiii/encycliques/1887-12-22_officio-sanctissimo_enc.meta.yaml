@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: cd7b28e79d093b303c5cce805ade382a39a6f6001944cd13eaf8f27cddf7f366
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html
+    fetched_at: '2026-04-22T08:37:56.201344Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 16322e22d1c3b168f6895f1dde40b7182e4b9acf3c4846929bd108c05fac2685
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html
+    fetched_at: '2026-04-22T08:38:12.179155Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a97620a523c4c9dbd19f8eca633948def0ffe0dcd799c6a786d7eab037cd078f
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: cd7b28e79d093b303c5cce805ade382a39a6f6001944cd13eaf8f27cddf7f366
+  it: 16322e22d1c3b168f6895f1dde40b7182e4b9acf3c4846929bd108c05fac2685
   la: a97620a523c4c9dbd19f8eca633948def0ffe0dcd799c6a786d7eab037cd078f

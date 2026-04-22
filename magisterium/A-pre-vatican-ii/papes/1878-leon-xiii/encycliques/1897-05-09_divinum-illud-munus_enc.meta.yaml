@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: cd56e846c899c30dd24afa6b4dab6b5ef3ffa699f36e8025486320ca2b994764
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html
+    fetched_at: '2026-04-22T08:41:20.504178Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 9e2f49b44d58ca4e970e0b87f85e6517a96bcd28db1f36cc79c7bc1428aa1e69
+    source_url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html
+    fetched_at: '2026-04-22T08:41:36.671548Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: f9a16cdc0a9692478a1e95c1da123e9cea242df7ee4ee33e922679cf30463147
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
 - la
 sha256:
+  en: cd56e846c899c30dd24afa6b4dab6b5ef3ffa699f36e8025486320ca2b994764
+  es: 9e2f49b44d58ca4e970e0b87f85e6517a96bcd28db1f36cc79c7bc1428aa1e69
   la: f9a16cdc0a9692478a1e95c1da123e9cea242df7ee4ee33e922679cf30463147

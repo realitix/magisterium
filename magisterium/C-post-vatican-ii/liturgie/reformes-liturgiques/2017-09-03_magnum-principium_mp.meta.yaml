@@ -17,13 +17,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: e59a5c65b15ecace8ec09ba234cce9b3bc56f073778c46acae57c7ce9d65f1d1
+    source_url: https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+    fetched_at: '2026-04-22T09:24:21.213771Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: de23e7f6f2fff1e598a4ebcdb4171e98e2bf0a9788a4ca3526d673ab4a735f28
+    source_url: https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+    fetched_at: '2026-04-22T09:24:37.230511Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f80d51bc26dff6ccdfd263c4a67a9e6b065d4fdd88d7a43262eaccd9e7ae1641
+    source_url: https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+    fetched_at: '2026-04-22T09:24:53.278200Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8071ca10c025cf4be09f47be1495288bd38b0e32e13b306cc2b084548889178f
+    source_url: https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+    fetched_at: '2026-04-22T09:25:09.344413Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 1f0f4f85eb0574e2a7e5a0c8e580ee7d9fce13c5cda5a48290988cad47b984e9
     source_url: https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: e64a6ed4b25967cf2c7e8ff23707066c19ac17c074be8bef24b890ccce2455ca
+    source_url: https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html
+    fetched_at: '2026-04-22T09:25:25.338890Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  de: e59a5c65b15ecace8ec09ba234cce9b3bc56f073778c46acae57c7ce9d65f1d1
+  en: de23e7f6f2fff1e598a4ebcdb4171e98e2bf0a9788a4ca3526d673ab4a735f28
+  es: f80d51bc26dff6ccdfd263c4a67a9e6b065d4fdd88d7a43262eaccd9e7ae1641
+  it: 8071ca10c025cf4be09f47be1495288bd38b0e32e13b306cc2b084548889178f
   la: 1f0f4f85eb0574e2a7e5a0c8e580ee7d9fce13c5cda5a48290988cad47b984e9
+  pt: e64a6ed4b25967cf2c7e8ff23707066c19ac17c074be8bef24b890ccce2455ca

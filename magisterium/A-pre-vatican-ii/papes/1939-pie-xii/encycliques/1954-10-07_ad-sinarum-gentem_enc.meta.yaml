@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 0e60e044d2d95ce4ce04b1debdf81cc1e8aebd0557bdc255bc8ae477a31451db
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html
+    fetched_at: '2026-04-22T08:51:01.035876Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: b120ceecb3a6a842d6994172739f108cb33aa3a47ac836a1f1a188d75d467c9e
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html
+    fetched_at: '2026-04-22T08:51:17.063322Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: deeb84b31b51ed5ba62e7719824e1203e757e6d24a9a66524e53d04f00a2d582
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 0e60e044d2d95ce4ce04b1debdf81cc1e8aebd0557bdc255bc8ae477a31451db
+  it: b120ceecb3a6a842d6994172739f108cb33aa3a47ac836a1f1a188d75d467c9e
   la: deeb84b31b51ed5ba62e7719824e1203e757e6d24a9a66524e53d04f00a2d582

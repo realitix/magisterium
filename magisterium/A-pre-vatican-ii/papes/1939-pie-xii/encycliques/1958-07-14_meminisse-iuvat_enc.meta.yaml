@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: addcbbad400f31dbbe99f6fdbfb2c549b84e7682597cd82dd63b9fee59ac6343
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html
+    fetched_at: '2026-04-22T08:52:37.158747Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 655ace591291fcf84d191b2ef7905bff7bbcade280d17ae28e63f58ab71f9e04
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html
+    fetched_at: '2026-04-22T08:52:53.170351Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b9a9b7cfa43d5670d3d15e3cddf48ef56e5ad3b89cc4aff26c906236b89afbf8
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 0598d8cedc997b22069287057fe618c1992fd2ef7bb93a214ddcf92d0e8f285b
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html
+    fetched_at: '2026-04-22T08:53:09.229334Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: addcbbad400f31dbbe99f6fdbfb2c549b84e7682597cd82dd63b9fee59ac6343
+  it: 655ace591291fcf84d191b2ef7905bff7bbcade280d17ae28e63f58ab71f9e04
   la: b9a9b7cfa43d5670d3d15e3cddf48ef56e5ad3b89cc4aff26c906236b89afbf8
+  pt: 0598d8cedc997b22069287057fe618c1992fd2ef7bb93a214ddcf92d0e8f285b

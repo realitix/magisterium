@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: e5e114875034154f0a9192d463cfcd780566f8ecbeda3fb2bb7ccab91cbfd637
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+    fetched_at: '2026-04-22T08:49:59.024361Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: df47025cf66d208ca69558d01d5a7f665c30df7441de3c05ca6cce25b4ac0b36
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+    fetched_at: '2026-04-22T08:50:15.008998Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 113a9d954aaaafa23d6edfe44ddc106f3703b8f142a9eeec7aea3f8b3078db6c
+    source_url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+    fetched_at: '2026-04-22T08:50:31.029993Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5c925221c2197b176b899e8876fb9dd976e9486f10837d9b690ec9999b011d42
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+    fetched_at: '2026-04-22T08:50:47.058197Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 37fcb2a3423a4f56f131c45c5f6fecfe848e92fd96420065a648ae2f3f7da541
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 6e7c2813a970506d79208a028650158ff11e56efb402295a864795eaad205a30
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+    fetched_at: '2026-04-22T08:51:03.051751Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: e5e114875034154f0a9192d463cfcd780566f8ecbeda3fb2bb7ccab91cbfd637
+  es: df47025cf66d208ca69558d01d5a7f665c30df7441de3c05ca6cce25b4ac0b36
+  fr: 113a9d954aaaafa23d6edfe44ddc106f3703b8f142a9eeec7aea3f8b3078db6c
+  it: 5c925221c2197b176b899e8876fb9dd976e9486f10837d9b690ec9999b011d42
   la: 37fcb2a3423a4f56f131c45c5f6fecfe848e92fd96420065a648ae2f3f7da541
+  pt: 6e7c2813a970506d79208a028650158ff11e56efb402295a864795eaad205a30

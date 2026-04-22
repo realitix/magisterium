@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-saepe-venerabiles-5-augusti-1871.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 807db5d4e8a930cca73494e8b58f926022d34adaba8ecb5787792ff3f1617e2d
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-saepe-venerabiles-5-augusti-1871.html
+    fetched_at: '2026-04-22T08:35:31.894056Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 41276904a86e582e491af3bf0cfdcd7aaa36eb7936928038eb6ac8e8b7ae4c10
     source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-saepe-venerabiles-5-augusti-1871.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 807db5d4e8a930cca73494e8b58f926022d34adaba8ecb5787792ff3f1617e2d
   la: 41276904a86e582e491af3bf0cfdcd7aaa36eb7936928038eb6ac8e8b7ae4c10

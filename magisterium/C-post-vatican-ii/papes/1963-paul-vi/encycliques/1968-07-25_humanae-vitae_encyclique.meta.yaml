@@ -19,13 +19,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/hu/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/zh_cn/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/zh_tw/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 3b5e6335bb69b670ed768176bf79efeaa0869774a596b9f929694ec33e54c41c
+    source_url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:27:29.557263Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: f2fe31b23bc154af5146f0a934cb383fef78bd00a019e4e91da7e4fa4db9ddb0
+    source_url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:27:45.571811Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 1a83e278cf9d7a881fe30368cd92d82a24bc1985a222418c8dddb7c871db53fc
+    source_url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:28:01.621305Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 5ac73196d377ceafbea24655d7e7d2bfa9a199759d6408e7cbb732522db3a0c3
+    source_url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:28:17.626306Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: b287193b8b90d47b24147e57c45ca8f9513a82edccb56f327e839ff964835fd1
+    source_url: https://www.vatican.va/content/paul-vi/hu/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:28:33.653616Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 23e9f49f621e868b7e204cbe456cd4309943dfe629850ba9ed53b02be8cff8ad
+    source_url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:28:49.696311Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 5659cf33c7d55f1171b9dce195cce9dff0c5ef85acdb7050a8433d33c856980e
     source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: fb2c9eb203383fc52c8a0bb042383a6a993610397d1d54aa2e41f58fe1fe39a2
+    source_url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:29:05.687791Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: 1154fa21ae57849a5c851e77a73705093ed543ee445c64d9c8011f9456cde333
+    source_url: https://www.vatican.va/content/paul-vi/zh_cn/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:29:21.561821Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 6d310362867a49e09f8223b8ab03fa61ad754f9c31d0b7c32d0e18ae25e701ad
+    source_url: https://www.vatican.va/content/paul-vi/zh_tw/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetched_at: '2026-04-22T09:29:37.520711Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pt
+- zh_cn
+- zh_tw
 sha256:
+  de: 3b5e6335bb69b670ed768176bf79efeaa0869774a596b9f929694ec33e54c41c
+  en: f2fe31b23bc154af5146f0a934cb383fef78bd00a019e4e91da7e4fa4db9ddb0
+  es: 1a83e278cf9d7a881fe30368cd92d82a24bc1985a222418c8dddb7c871db53fc
+  fr: 5ac73196d377ceafbea24655d7e7d2bfa9a199759d6408e7cbb732522db3a0c3
+  hu: b287193b8b90d47b24147e57c45ca8f9513a82edccb56f327e839ff964835fd1
+  it: 23e9f49f621e868b7e204cbe456cd4309943dfe629850ba9ed53b02be8cff8ad
   la: 5659cf33c7d55f1171b9dce195cce9dff0c5ef85acdb7050a8433d33c856980e
+  pt: fb2c9eb203383fc52c8a0bb042383a6a993610397d1d54aa2e41f58fe1fe39a2
+  zh_cn: 1154fa21ae57849a5c851e77a73705093ed543ee445c64d9c8011f9456cde333
+  zh_tw: 6d310362867a49e09f8223b8ab03fa61ad754f9c31d0b7c32d0e18ae25e701ad

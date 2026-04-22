@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: eae988a31e23ca62868e1298b56de8c0618d19e80a1a56c24cf816809305c5eb
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+    fetched_at: '2026-04-22T08:49:56.936700Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: c555e24f0559e32f416d7d361e8f4486529193b5f845307db767046bb5172da4
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+    fetched_at: '2026-04-22T08:50:12.920405Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 859c8faebcfa4c6822824537547dc9998c850806f8ec5ec8834209caf0ad6ec2
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 308bda6a8e792b0db127069daf36020a51b2a65ed378e2bbe14196cb8603dd45
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+    fetched_at: '2026-04-22T08:50:28.974100Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: eae988a31e23ca62868e1298b56de8c0618d19e80a1a56c24cf816809305c5eb
+  it: c555e24f0559e32f416d7d361e8f4486529193b5f845307db767046bb5172da4
   la: 859c8faebcfa4c6822824537547dc9998c850806f8ec5ec8834209caf0ad6ec2
+  pt: 308bda6a8e792b0db127069daf36020a51b2a65ed378e2bbe14196cb8603dd45

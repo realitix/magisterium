@@ -18,13 +18,217 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: ja
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/mn/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: mn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/nl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: sl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/uk/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: uk
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/vi/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: vi
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: 537b6ca5ae543666a10ad386038485fd8217e28b7e75acdffbf5910947335eba
+    source_url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:33:58.481136Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: 908999b573dd3dbdd87aa4e4c4085759e2936b2dcf7c5850f3a3f72da4f0a67c
+    source_url: https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:34:14.448101Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: c7de2259d2de58fdf978a4f453ea85928418cb634c6115b9adbecedc9e17d206
+    source_url: https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:34:30.608719Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: b7838e8fc5d1ef3dea1e493c701e342d8df288466fdd67ce298286a070b9ff4c
+    source_url: https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:34:46.447733Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 9771f9984a88cf6b0b29f9cc640a9242100c4f792f1a4f2665252535b2073726
+    source_url: https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:35:02.523785Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 0a38044a0f7792163cfad90e2a32b24f13312e7da5b47fd9e56e456df652fd9f
+    source_url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:35:16.763916Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: b4e1d6f6798373aabe5ea5f87ea27859d6ace29e22fa3c9ad6bb9055952f5d6d
+    source_url: https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:35:30.810229Z'
+    fetch_method: httpx
+  ja:
+    kind: officielle
+    sha256: 65f4877c5eb3d66525e4febb4dde72bc4ef3f0acbf86b0ebfa635bdbb6f8fda6
+    source_url: https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:35:43.919302Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 52947e16d52122d796ed3cd47ed356e88d935b0a6041fff5801d8b31f96815b5
     source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
     fetch_method: httpx
+  mn:
+    kind: officielle
+    sha256: b87fdd62d9d6363d7ce3090021f2e184b15a426ae9ee480291c979510522438b
+    source_url: https://www.vatican.va/content/francesco/mn/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:35:57.930478Z'
+    fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: 7e790a1b271a0a68785940f88f31ec0bde5cfd19b2129afcacd440579e60f1f2
+    source_url: https://www.vatican.va/content/francesco/nl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:11.983192Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 8ec25165cbdd0ad00a8bbdd159218cbae8145ce0f9faccf5fec85a5c61f932bc
+    source_url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:24.818210Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: cc1aa9bd6164e23cb919cd4737b0e6cbe5a11b43b3df4c368d4837aecb8b6498
+    source_url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:34.690035Z'
+    fetch_method: httpx
+  sl:
+    kind: officielle
+    sha256: bccc8981b05906d6f6d3c6c1b9e7ba8eff37e1f5851a3f3b951cd7ca7baf2c39
+    source_url: https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:38.532342Z'
+    fetch_method: httpx
+  uk:
+    kind: officielle
+    sha256: 8b56f6889ada087361167f323cb8e3706a4ae996919a8953c4c7b5f74fc4a793
+    source_url: https://www.vatican.va/content/francesco/uk/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:41.981404Z'
+    fetch_method: httpx
+  vi:
+    kind: officielle
+    sha256: 11622a6b018dca8fc2e211f014b65e6c30490431484d8bba8ff3834b8de1841e
+    source_url: https://www.vatican.va/content/francesco/vi/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:44.693568Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: c89b1c66e230082235240245cfb1ef0446ca82fc14c1533d9788cf4f3331bf73
+    source_url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:45.974515Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: dd224e3fe6e3a2184bc5e70f764462212b973b7b441459f407faba24a1f3f6a9
+    source_url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetched_at: '2026-04-22T09:36:47.978937Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- be
+- de
+- en
+- es
+- fr
+- it
+- ja
 - la
+- mn
+- nl
+- pl
+- pt
+- sl
+- uk
+- vi
+- zh_cn
+- zh_tw
 sha256:
+  ar: 537b6ca5ae543666a10ad386038485fd8217e28b7e75acdffbf5910947335eba
+  be: 908999b573dd3dbdd87aa4e4c4085759e2936b2dcf7c5850f3a3f72da4f0a67c
+  de: c7de2259d2de58fdf978a4f453ea85928418cb634c6115b9adbecedc9e17d206
+  en: b7838e8fc5d1ef3dea1e493c701e342d8df288466fdd67ce298286a070b9ff4c
+  es: 9771f9984a88cf6b0b29f9cc640a9242100c4f792f1a4f2665252535b2073726
+  fr: 0a38044a0f7792163cfad90e2a32b24f13312e7da5b47fd9e56e456df652fd9f
+  it: b4e1d6f6798373aabe5ea5f87ea27859d6ace29e22fa3c9ad6bb9055952f5d6d
+  ja: 65f4877c5eb3d66525e4febb4dde72bc4ef3f0acbf86b0ebfa635bdbb6f8fda6
   la: 52947e16d52122d796ed3cd47ed356e88d935b0a6041fff5801d8b31f96815b5
+  mn: b87fdd62d9d6363d7ce3090021f2e184b15a426ae9ee480291c979510522438b
+  nl: 7e790a1b271a0a68785940f88f31ec0bde5cfd19b2129afcacd440579e60f1f2
+  pl: 8ec25165cbdd0ad00a8bbdd159218cbae8145ce0f9faccf5fec85a5c61f932bc
+  pt: cc1aa9bd6164e23cb919cd4737b0e6cbe5a11b43b3df4c368d4837aecb8b6498
+  sl: bccc8981b05906d6f6d3c6c1b9e7ba8eff37e1f5851a3f3b951cd7ca7baf2c39
+  uk: 8b56f6889ada087361167f323cb8e3706a4ae996919a8953c4c7b5f74fc4a793
+  vi: 11622a6b018dca8fc2e211f014b65e6c30490431484d8bba8ff3834b8de1841e
+  zh_cn: c89b1c66e230082235240245cfb1ef0446ca82fc14c1533d9788cf4f3331bf73
+  zh_tw: dd224e3fe6e3a2184bc5e70f764462212b973b7b441459f407faba24a1f3f6a9

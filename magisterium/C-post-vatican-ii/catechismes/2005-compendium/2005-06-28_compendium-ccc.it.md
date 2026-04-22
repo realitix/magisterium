@@ -6,7 +6,6 @@ CHIESA CATTOLICA**
 
 !
 
-© Copyright 2005 - Libreria Editrice Vaticana
 
  
 

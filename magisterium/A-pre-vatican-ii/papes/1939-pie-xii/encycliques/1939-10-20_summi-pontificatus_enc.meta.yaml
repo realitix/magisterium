@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 2996a58cf76dc73c8d3d041454e864fd05ab375570ea7212cf3cf3f965fbb524
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+    fetched_at: '2026-04-22T08:47:44.890504Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 2be02e56aa8911c5fad711ba6bcf586cd4100ca0552cac5b1044206d3d86135c
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+    fetched_at: '2026-04-22T08:48:00.949638Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 523d0023f10187da73c764fef8506cfe5aea85400b53d38ba255685120d871c6
+    source_url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+    fetched_at: '2026-04-22T08:48:16.965556Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: b68b174030a4f65bc51fca6bc98e466c7eeedba9f470a1af293954393230e35d
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+    fetched_at: '2026-04-22T08:48:33.136484Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ebdb0d2c61bd58613b7f28339fb3c970f9fad9943e31b503bee3f46034590c7d
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 2ae803ae90ad1645761a20f75eb02c522b3e0566d39938d5be12fdc344c04c93
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html
+    fetched_at: '2026-04-22T08:48:49.032002Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: 2996a58cf76dc73c8d3d041454e864fd05ab375570ea7212cf3cf3f965fbb524
+  es: 2be02e56aa8911c5fad711ba6bcf586cd4100ca0552cac5b1044206d3d86135c
+  fr: 523d0023f10187da73c764fef8506cfe5aea85400b53d38ba255685120d871c6
+  it: b68b174030a4f65bc51fca6bc98e466c7eeedba9f470a1af293954393230e35d
   la: ebdb0d2c61bd58613b7f28339fb3c970f9fad9943e31b503bee3f46034590c7d
+  pt: 2ae803ae90ad1645761a20f75eb02c522b3e0566d39938d5be12fdc344c04c93

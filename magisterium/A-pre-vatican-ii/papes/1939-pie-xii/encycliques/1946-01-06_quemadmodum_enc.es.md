@@ -1,0 +1,61 @@
+**CARTA ENCÍCLICA**
+
+***QUEMADMODUM***
+
+DE NUESTRO SANTÍSIMO SEÑOR
+
+**PÍO**
+
+POR LA DIVINA PROVIDENCIA
+
+**PAPA XII**
+
+A LOS VENERABLES HERMANOS  
+PATRIARCAS, PRIMADOS, ARZOBISPOS, OBISPOS  
+Y DEMÁS ORDINARIOS LOCALES  
+EN PAZ Y EN COMUNIÓN CON LA SEDE APOSTÓLICA
+
+**SOBRE EL MAYOR EMPEÑO  
+CON QUE EN ESTOS TIEMPOS SE HA DE TOMAR  
+EL CUIDADO DE LOS NIÑOS INDIGENTES**
+
+VENERABLES HERMANOS  
+SALUD Y BENDICIÓN APOSTÓLICA
+
+Así como, mientras se recrudecía la guerra a muerte, nunca cesamos, en cuanto Nos fue posible, de persuadir y de suplicar a todos, para que cuanto antes se pusiese término a una conflagración, que iba resultando ya demasiado larga; así también ahora, depuestas finalmente las armas, aunque la paz no se haya restablecido, cumpliendo con Nuestro apostólico deber, no dejamos de tentar todos los caminos para aplicar los oportunos lenitivos a tantos dolores y para aliviar el cúmulo de miserias que, de una o de otra manera, agobian a tanta gente.
+
+Pero en medio de las incontables desgracias, que la cruel .guerra ha traído consigo, ninguna lastima, ninguna hiere tanto Nuestro corazón de padre como las que padecen los muchos niños inocentes, —millones, según Nuestras noticias,— que, faltos de lo más indispensable para la vida, se van en muchas partes consumiendo de frío, de hambre y de enfermedad, mientras que con frecuencia se ven abandonados de todos, careciendo no solamente de pan, de vestido y de techo, sino hasta de aquel cariño, tan necesario en tan tierna edad.
+
+Como muy bien sabéis, Venerables Hermanos, por Nuestra parte también en esto no hemos dejado de hacer lo que estaba en Nuestras manos; y ahora queremos manifestar Nuestra más sincera gratitud a todos los que con su generosidad Nos permitieron socorrer las necesidades de la infancia y de la niñez. Sabemos igualmente que no pocas personas, o individualmente o formando sociedad con otras, han tomado algunas iniciativas en el mismo sentido y trabajan con grande ardor por llevarlas a la práctica. A todos ellos, merecedores de todo honor de parte de los buenos, tributamos aquí las debidas alabanzas y les desearnos y pedimos a Dios para sus actividades, iniciativas e instituciones toda suerte de bienes.
+
+Pero como tales providencias y cuidados ni remotamente están en proporción con la inmensidad de los males que tratan de remediar, hemos creído propio de Nuestro ministerio hacer este llamamiento y exhortación paternal, para que de manera especial os dediquéis con toda el alma a este trabajo de capital importancia, en favor de los niños indigentes, sin dejar de hacer nada que pudiera suavizar y aliviar tan precaria situación.
+
+Mandamos, pues, que en todas vuestras diócesis designéis un día en el que, después de haber elevado a la Divina Majestad las debidas plegarias, informéis al pueblo, por medio de vuestros delegados y colaboradores, de tan urgente necesidad y le exhortéis a que con oraciones, con buenas obras y con limosnas secunde todas aquellas iniciativas que tienden a ayudar, con todo género de socorros y de cuidados, a la niñez indigente y abandonada. Se trata, como fácilmente puede verse, de algo que, si incumbe a todos los ciudadanos, sean las que sean sus opiniones con tal de que no estén privados del sentimiento de humanidad y de compasión, toca sin embargo de manera especial a los cristianos, que deben reconocer en sus hermanitos, pobres y faltos de todo, la imagen viva del Divino Niño, y tener presente aquello de la Escritura : «En verdad os digo : siempre que lo hicisteis con alguno de estos mis más pequeños hermanos, conmigo lo hicisteis » *(Mat.* XXV, 40). Consideren todos y reflexionen oportunamente que estos niños son el punto de apoyo para los tiempos que han de venir, y que por consiguiente es absolutamente necesario hacerles crecer sanos de alma y de cuerpo. para no encontrarnos mañana con una generación tarada con los gérmenes de la enfermedad y el estigma del vicio. Por eso, a nadie le debe parecer demasiado prestar su cooperación y sus fuerzas, y dar su dinero para una finalidad tan oportuna y necesaria. Los que carecen de bienes de fortuna ayuden según su capacidad y sus fuerzas con ánimo dispuesto y generoso ; los que, por el contrario, viven opíparamente y en la abundancia consideren y no olviden que la indigencia, las privaciones y la desnudez de estos niños los acusarán, con severidad y vehemencia, ante el Padre de las misericordias, si endurecen su corazón y no ofrecen una ayuda generosa. Finalmente, convénzanse todos de que no se han de arruinar por estas liberalidades, ya que pueden estar seguros de que quien da su fortuna u ofrece lo que puede a los necesitados, en cierta manera presta su capital a un Dios, que sabrá premiar un día con generosa munificencia al bienhechor. Nos complace, por consiguiente, esperar que, lo mismo que en los primitivos tiempos apostólicos, cuando la comunidad cristiana de Jerusalén se veía vejada por la persecución y las privaciones, los demás cristianos de todo el mundo oraban a Dios por ella y le enviaban sus socorros (cfr. I *Cor*. XVI, 1); de la misma manera hoy, movidos y animados todos por el mismo amor, acudirán, según sus recursos, en socorro de la infancia y de la niñez abandonada. Háganlo, como ya hemos dicho, antes que nada elevando fervientes súplicas a nuestro misericordiosísimo Redentor, ya que de la devota plegaria, como muy bien sabéis, brota una fuerza misteriosa que penetra en el cielo e impetra de aquellas sempiternas moradas las luces sobrenaturales y los divinos impulsos que han de iluminar las inteligencias de los hombres, doblegar sus voluntades al bien y convencer y mover en favor de la caridad.
+
+Conviene también observar aquí que la Iglesia, en todos los tiempos, ha tenido un cuidado especialísimo de la niñez y la ha considerado, con toda razón, como parte confiada de manera singularísima a su cuidado y a su caridad. Y mientras que así ha hecho y sigue haciendo, obra de acuerdo con los ejemplos y las enseñanzas de su Divino Fundador, quien, atrayendo los niños suavemente, decía a los Apóstoles, que reprendían a sus madres : « Dejad que vengan a mí los niños, y no se lo estorbéis; porque de los que se asemejan a ellos es el reino de Dios » *(Marc*. X*,* 14). Jesucristo, —como muy bien y con toda claridad decía Nuestro Predecesor S. León Magno, de inmortal memoria— « ama... la infancia, que primero tomó para sí en el alma y en el cuerpo. Jesucristo ama la infancia, maestra de la humildad, norma de la inocencia, imagen de la mansedumbre. Jesucristo ama la infancia, sobre la que quiere modelar las costumbres de los grandes y a la que desea que vuelvan los ancianos; y a quienes eleva al reino eterno, les incita a imitarla» *(Serm.* XXXVII, c. 3; M. L. 54, 258 c.).
+
+De estas palabras y de estas enseñanzas rebosantes de luz podéis deducir, Venerables Hermanos, con qué amor y con qué diligencia y cuidado la Iglesia, a ejemplo de su Fundador, debe atender a los párvulos y a los niños. Hace todo lo posible para que a los cuerpos no les falte el alimento, ni la casa, ni el vestido; pero al mismo tiempo no olvida ni descuida las tiernas almas que, nacidas como de un hálito divino, parece que reflejan un rayo de las hermosuras celestiales. Por eso su primer cuidado y su primera preocupación es que la inocencia no se mancille, a fin de tener siempre presente y procurar su salvación eterna. Así han nacido las casi innumerables instituciones, cuyo fin es guiar a la niñez por el recto sendero, para educarla en las buenas costumbres, elevándola. en lo posible, a aquel estado de vida capaz de satisfacer. a las crecientes necesidades de alma y de cuerpo. En tan utilísima empresa se afanan a porfía, con admirable sacrificio y utilidad, según sabéis, no pocas Congregaciones de hombres y de mujeres, cuya actividad inteligente, vigilante y desinteresada contribuye eficazmente al bien de Iglesia y de la sociedad. Y no solamente realizan tan fecunda y saludable actividad entre los pueblos y las naciones civilizadas, sino también entre los rudos o no iluminados todavía con la luz del Cristianismo donde los predicadores del Evangelio —y en especial la Pontificia Obra de la Santa Infancia— recogen tantos niños y párvulos; librándolos de la esclavitud del demonio y de los hombres perversos, y haciéndoles participantes de la libertad de los hijos de Dios y de la verdadera civilización.
+
+No obstante, en tan espantoso momento histórico, mientras se acumulan inmensas ruinas espirituales y materiales, tales generosas iniciativas de caridad, que acaso en otros tiempos eran suficientes para cubrir las necesidades ordinarias, hoy son sin duda ninguna insuficientes.
+
+A nuestros ojos se presentan, Venerables Hermanos, esas ingentes multitudes de niños que, pereciendo de hambre y casi acabados, piden pan con sus tiernas manitas «y no hay quien se lo distribuya (cfr. *Thre*. IV, 4); que, sin habitación y sin vestido bajo el rigor invernal, agonizan temblorosos, sin un padre y una madre que les vistan y les libren del frío; que, enfermos o minados por la tuberculosis y miseria, carecen de los oportunos cuidados y de las adecuadas medicinas. Con dolor Nos parece verles errar en gran número por las ruidosas calles de las ciudades, entre el ocio y las atracciones del vicio, o por los pueblos, por las aldeas y por los campos, vagando inciertos y errantes, sin que nadie ¡oh dolor! les procure un asilo seguro contra la pobreza y la vida viciosa y criminal. ¿Por qué, pues, Nos, que tan intensamente amamos a estos hijitos « en las entrañas de Jesucristo » *(Philipp.* 1, 8); por qué Nos, Venerables Hermanos, no hemos de alzar una y mil veces Nuestra voz, juntamente con vosotros y con todos los que alimentan sentimientos de humanidad, de misericordia y de piedad, para que con todos los recursos de la caridad cristiana, que son muchísimos, os dediquéis, con ánimo generoso y noble, a mitigar y a suavizar esta miserable situación en todas partes?
+
+Nada se omita de lo que nuestros tiempos. sugieren y enseñan ; búsquense maneras nuevas, para que, con el esfuerzo común de todos tos buenos, se procure un remedio oportuno a los males presentes y a los futuros que se temen. Así se podrá lograr cuanto antes, con la gracia y ayuda del Señor, que los ejemplos de virtud tomen el lugar de los atractivos del vicio, que dan al traste con tantos niños abandonados; que el trabajo honesto y agradable aleje de ellos el triste e inútil ocio; que el hambre, la miseria y la desnudez encuentren los necesarios remedios en la caridad divina de Jesucristo que en estos tiempos es menester resucitar, enfervorizar y hacer crecer en sus seguidores.
+
+Todo lo cual, no sólo contribuirá al aumento de la religión y de la virtud cristiana, sino también, y de manera extraordinaria, al bien de la sociedad humana; siendo cierto, como todos saben, que no se llenarían las cárceles y las prisiones de gente ruin y facinerosa, si oportunamente, y especialmente en la juventud, se empleasen aquellos medios que son aptos para prevenir la criminalidad; y que más fácilmente abundarían los ciudadanos probos y fuertes, llenos de cualidades físicas y morales, si se procurase nutrir una juventud sana, íntegra y laboriosa.
+
+Esto, Venerables Hermanos, es lo que por tan grave motivo teníamos que comunicaros con esta Carta Encíclica, confiándoos el mandato de hacer presente a vuestra grey, del modo mejor posible, Nuestra paternal exhortación y voluntad ; y estamos seguros de que vuestra correspondencia, benévola y generosa, no faltará a Nuestros deseos y exhortaciones.
+
+En tan firme esperanza, como prenda de las gracias celestiales y testimonio de Nuestra particular benevolencia a cada uno de vosotros, Venerables Hermanos, a la grey confiada a vuestros cuidados, y en especial a aquellos que son o que serán beneméritos de tan santa causa, os damos con todo amor en el Señor la Bendición Apostólica.
+
+*Dado en Roma, junto a S. Pedro, el día 6 de Enero, en la Epifanía de N. S. Jesucristo, del año 1946, séptimo de Nuestro Pontificado.*
+
+**PÍO PP. XII**
+
+Copyright © Dicasterio para la Comunicación
+
+[![the holy see](/etc/designs/vatican/library/clientlibs/themes/vatican-v2/images/logo-vatican.png)](/content/vatican/es.html)
+
+## *La* **Santa Sede**
+
+## [*La* **Santa Sede**](/content/vatican/es.html)

@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 978a4b9a6de8dca0806fc05876379a86c0561c46b92da12c5cd25b1184d60e97
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html
+    fetched_at: '2026-04-22T08:45:54.709743Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: c75815e6270c8beae5d0afd1ffadbd361788e94a30347fd927de332fe2392e75
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 978a4b9a6de8dca0806fc05876379a86c0561c46b92da12c5cd25b1184d60e97
   la: c75815e6270c8beae5d0afd1ffadbd361788e94a30347fd927de332fe2392e75

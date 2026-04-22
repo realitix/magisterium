@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: f33eb9a31148e6999d7e979bc1eeeb81e586ca66f733ee7b4aaaabdc4a490a47
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html
+    fetched_at: '2026-04-22T08:38:26.117146Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5f3dbce28cdd441bdbfb2e7b4934e31556be7d72601172e8f41e024895b09838
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html
+    fetched_at: '2026-04-22T08:38:42.185619Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 91051ce3459b6be0bb754302ff5bbed27be0723a2712ed64ec7ecd874802b800
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: f33eb9a31148e6999d7e979bc1eeeb81e586ca66f733ee7b4aaaabdc4a490a47
+  it: 5f3dbce28cdd441bdbfb2e7b4934e31556be7d72601172e8f41e024895b09838
   la: 91051ce3459b6be0bb754302ff5bbed27be0723a2712ed64ec7ecd874802b800

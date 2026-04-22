@@ -18,13 +18,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 187ac254e888386e27edec77f66de00b7b721e85dff9c240658bec1c998673df
+    source_url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+    fetched_at: '2026-04-22T09:26:51.445600Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: c583d8cac97fb21c497a081a7908aeb1c87ee593496e8a7dc9eccf9270667739
+    source_url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+    fetched_at: '2026-04-22T09:27:07.471666Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 63168fbb9729fb8edd545abca285727c43c2d75c6793a2d716aa9c43d940254f
+    source_url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+    fetched_at: '2026-04-22T09:27:23.484120Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: ed5ac86f85d170f5a89606c2e452224ba7d0bd59e0b1ba4da26b8d9004837982
+    source_url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+    fetched_at: '2026-04-22T09:27:39.531128Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a98f62a77f6b163d0ca181604f4f8a22df6bd040323fa9e0a13ef71d5fcbfd38
     source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 33d19be13f82319d7a0e499d03b89b29ba9f662f4a10588e3fd95e988a5ae7e1
+    source_url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+    fetched_at: '2026-04-22T09:27:55.549644Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  de: 187ac254e888386e27edec77f66de00b7b721e85dff9c240658bec1c998673df
+  en: c583d8cac97fb21c497a081a7908aeb1c87ee593496e8a7dc9eccf9270667739
+  es: 63168fbb9729fb8edd545abca285727c43c2d75c6793a2d716aa9c43d940254f
+  it: ed5ac86f85d170f5a89606c2e452224ba7d0bd59e0b1ba4da26b8d9004837982
   la: a98f62a77f6b163d0ca181604f4f8a22df6bd040323fa9e0a13ef71d5fcbfd38
+  pt: 33d19be13f82319d7a0e499d03b89b29ba9f662f4a10588e3fd95e988a5ae7e1

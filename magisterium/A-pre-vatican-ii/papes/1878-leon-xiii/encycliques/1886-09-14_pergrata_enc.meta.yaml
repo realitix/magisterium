@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 4735a903316c8fe85ccb8b60f86dc0e6e41a312cb492ec4de7388ae8c62da740
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html
+    fetched_at: '2026-04-22T08:37:46.092698Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: feb85aee69bcd473b65365f897bd73405160ec75fc3d520d8f91ab3233429035
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html
+    fetched_at: '2026-04-22T08:38:02.112623Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 386677f486a5f9a93d5d9097636930525424f0994caa93d4a726df3312c2f0ee
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 4735a903316c8fe85ccb8b60f86dc0e6e41a312cb492ec4de7388ae8c62da740
+  it: feb85aee69bcd473b65365f897bd73405160ec75fc3d520d8f91ab3233429035
   la: 386677f486a5f9a93d5d9097636930525424f0994caa93d4a726df3312c2f0ee

@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 341f642555a4c69f6a8077f3e0595d23f02ff6eac2b7ad20dad2c1c03e77033b
+    source_url: https://www.vatican.va/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+    fetched_at: '2026-04-22T08:51:15.221297Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: a0ed7d93301454a75f1fdb3d76f69741cea7ae3f740dd990f36769d12126dfd3
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+    fetched_at: '2026-04-22T08:51:31.223072Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: c7df29ee132372ecb47ea8fcbbe9a6f8b77a3f681a9ee38d4a26521bcbb4ff77
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+    fetched_at: '2026-04-22T08:51:47.313787Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 86ee27384fcdcabcedba64215de01caa87fb0bd0c3bac626838165cb2efb3357
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+    fetched_at: '2026-04-22T08:52:03.279861Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 218f9a12b7d5ee210d6129228fcbb0f807cbdd79702e4a0664a699b4e9e99450
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 229b0b89debab1355172f558399cac1d925abb11783c0ac7860f7b89047d41d9
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+    fetched_at: '2026-04-22T08:52:19.290717Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  de: 341f642555a4c69f6a8077f3e0595d23f02ff6eac2b7ad20dad2c1c03e77033b
+  en: a0ed7d93301454a75f1fdb3d76f69741cea7ae3f740dd990f36769d12126dfd3
+  es: c7df29ee132372ecb47ea8fcbbe9a6f8b77a3f681a9ee38d4a26521bcbb4ff77
+  it: 86ee27384fcdcabcedba64215de01caa87fb0bd0c3bac626838165cb2efb3357
   la: 218f9a12b7d5ee210d6129228fcbb0f807cbdd79702e4a0664a699b4e9e99450
+  pt: 229b0b89debab1355172f558399cac1d925abb11783c0ac7860f7b89047d41d9

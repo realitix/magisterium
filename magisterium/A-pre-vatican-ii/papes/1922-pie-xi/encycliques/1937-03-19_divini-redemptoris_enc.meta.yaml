@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: b9bf11a8236ba1680c3d463cf468117ebeb5dd22ca242a504cb9e7d6c4bba307
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+    fetched_at: '2026-04-22T08:47:26.882319Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f9f7842cb4305fdb544d31ae037f06edfd808c61bdfce478745b7583d54a4188
+    source_url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+    fetched_at: '2026-04-22T08:47:42.982160Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 8c54c9708dac99b46d57a2e282c9c0e68d6d3a9e138a6bf977e359940b89b741
+    source_url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+    fetched_at: '2026-04-22T08:47:58.975789Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: d7120993a7b27b3667216b8226a2145d832f17d43ac1a38587372d73d9ef358f
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+    fetched_at: '2026-04-22T08:48:14.981100Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: e67d5a22b76587421ea54ca67af8651a116f37cbbf25e338ec964487fb6f5090
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 7244f532f5883cb207e106311b55916853c9823ead5cbccec71b129d49e77ea1
+    source_url: https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+    fetched_at: '2026-04-22T08:48:30.991445Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: b9bf11a8236ba1680c3d463cf468117ebeb5dd22ca242a504cb9e7d6c4bba307
+  es: f9f7842cb4305fdb544d31ae037f06edfd808c61bdfce478745b7583d54a4188
+  fr: 8c54c9708dac99b46d57a2e282c9c0e68d6d3a9e138a6bf977e359940b89b741
+  it: d7120993a7b27b3667216b8226a2145d832f17d43ac1a38587372d73d9ef358f
   la: e67d5a22b76587421ea54ca67af8651a116f37cbbf25e338ec964487fb6f5090
+  pt: 7244f532f5883cb207e106311b55916853c9823ead5cbccec71b129d49e77ea1

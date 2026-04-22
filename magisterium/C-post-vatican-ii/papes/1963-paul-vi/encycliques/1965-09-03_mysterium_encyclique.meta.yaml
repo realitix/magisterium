@@ -17,13 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 3276ae290545983594be2f449cb394433927beb394b99d0190c9f31838e6d147
+    source_url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+    fetched_at: '2026-04-22T09:26:37.457273Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 1d5d71baa13eca789eedd8bcf6b018aa8745fe82f5b08c53d4fd787457f35e57
+    source_url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+    fetched_at: '2026-04-22T09:26:53.528483Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 5615ea96d0c3f57a83c15e29facb9968ee37ab0811fac828e580d07fe3a9030d
+    source_url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+    fetched_at: '2026-04-22T09:27:09.595344Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: a26670f1dca1967a961d1222f9b730a503bd78dcb777e03bcd67d83ed407b3ec
+    source_url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+    fetched_at: '2026-04-22T09:27:25.585757Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 7baf02d6f68de6efaacfc5829881ca8b471b2c913026209caddf6eaa8d6e0f63
+    source_url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+    fetched_at: '2026-04-22T09:27:41.573012Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 4003556a6fe7bd4a7a52eb0881f83487978219b85a5fa6f1842a5c9cc6412eea
     source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: d663d3d94a4c6fc02234d051f03ad198b5ef6e5ffc33a0540a301ac18f66f6f0
+    source_url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html
+    fetched_at: '2026-04-22T09:27:57.623054Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  de: 3276ae290545983594be2f449cb394433927beb394b99d0190c9f31838e6d147
+  en: 1d5d71baa13eca789eedd8bcf6b018aa8745fe82f5b08c53d4fd787457f35e57
+  es: 5615ea96d0c3f57a83c15e29facb9968ee37ab0811fac828e580d07fe3a9030d
+  fr: a26670f1dca1967a961d1222f9b730a503bd78dcb777e03bcd67d83ed407b3ec
+  it: 7baf02d6f68de6efaacfc5829881ca8b471b2c913026209caddf6eaa8d6e0f63
   la: 4003556a6fe7bd4a7a52eb0881f83487978219b85a5fa6f1842a5c9cc6412eea
+  pt: d663d3d94a4c6fc02234d051f03ad198b5ef6e5ffc33a0540a301ac18f66f6f0

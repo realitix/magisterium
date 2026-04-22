@@ -17,13 +17,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19170915_cum-iuris-canonici.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 24daadf28c78c6b73ceefdf357b2464cd1bb390ae2175dfe9086d8f94f642692
+    source_url: https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19170915_cum-iuris-canonici.html
+    fetched_at: '2026-04-22T08:34:33.874485Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: bc60d93973e8be663c48f558121a080e52f7ddeebc4692a2dfb5ee100685c316
     source_url: https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19170915_cum-iuris-canonici.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 24daadf28c78c6b73ceefdf357b2464cd1bb390ae2175dfe9086d8f94f642692
   la: bc60d93973e8be663c48f558121a080e52f7ddeebc4692a2dfb5ee100685c316

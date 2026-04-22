@@ -18,13 +18,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 8df241881b61d2da328fb01f8a405a8c079900f867f3ee9da22f27955fd34247
+    source_url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+    fetched_at: '2026-04-22T09:27:17.639425Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 200b4bb0bf86e405494bd38a9d4da25524c41b652de1aedd2c3897266139b5e9
+    source_url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+    fetched_at: '2026-04-22T09:27:33.717201Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 96dedd9acbfebcbef1446165dbf546c6eb9e35030ed0d72e67d64d11cfd40034
+    source_url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+    fetched_at: '2026-04-22T09:27:49.710317Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: de95a4afdc68f7192ac0a4b5b73f9f3980acf6df9320438b85d24b933f48ca05
+    source_url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+    fetched_at: '2026-04-22T09:28:05.763572Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: d24af94f7d49839561356726c97c6917e232d197f62b071bd65a02e99c81b8c6
     source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: d059343766dd416f191af80d1ccb098f0c990dd65e0e56f98807e3d4b39d65fe
+    source_url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html
+    fetched_at: '2026-04-22T09:28:21.638842Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: 8df241881b61d2da328fb01f8a405a8c079900f867f3ee9da22f27955fd34247
+  es: 200b4bb0bf86e405494bd38a9d4da25524c41b652de1aedd2c3897266139b5e9
+  fr: 96dedd9acbfebcbef1446165dbf546c6eb9e35030ed0d72e67d64d11cfd40034
+  it: de95a4afdc68f7192ac0a4b5b73f9f3980acf6df9320438b85d24b933f48ca05
   la: d24af94f7d49839561356726c97c6917e232d197f62b071bd65a02e99c81b8c6
+  pt: d059343766dd416f191af80d1ccb098f0c990dd65e0e56f98807e3d4b39d65fe

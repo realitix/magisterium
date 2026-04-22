@@ -17,13 +17,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 0b2e3bd89ed032e7bba30f79a817f685a96a44452b9eb56b7147704924039bc4
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+    fetched_at: '2026-04-22T09:25:31.463065Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: e34571140381ac878818936f7d0d5ce36cccbf5bc9eb0d802c551bf7c32d65ed
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+    fetched_at: '2026-04-22T09:25:47.492397Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 1442a874831907db6449abe1ac2e96491b7fbe3db477e4af37b66675fd467d06
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+    fetched_at: '2026-04-22T09:26:03.553777Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: dfa500fe36d7c6eb9436365a3bd25438ebb7da489efba75ac25d3a2d08063339
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: ef902cc5519fb3d8ede3a4cc7db390a28aa0a958bc9a23e53817337d4aae69e8
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html
+    fetched_at: '2026-04-22T09:26:19.509295Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: 0b2e3bd89ed032e7bba30f79a817f685a96a44452b9eb56b7147704924039bc4
+  es: e34571140381ac878818936f7d0d5ce36cccbf5bc9eb0d802c551bf7c32d65ed
+  it: 1442a874831907db6449abe1ac2e96491b7fbe3db477e4af37b66675fd467d06
   la: dfa500fe36d7c6eb9436365a3bd25438ebb7da489efba75ac25d3a2d08063339
+  pt: ef902cc5519fb3d8ede3a4cc7db390a28aa0a958bc9a23e53817337d4aae69e8

@@ -18,13 +18,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 332e1859d4f72af86f8a5d37943e52d80bf39656f3858e756877683b40ad3f77
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+    fetched_at: '2026-04-22T09:24:25.409614Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 9bd74b4eba77cb7d3501ceebb0c39fb9435c38cc0d783b3d64110d9fb2625373
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+    fetched_at: '2026-04-22T09:24:41.472399Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 0bde97192962b6cf772d892e4e9c7fcba8fe244f3110eb684a30950751d25e3e
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+    fetched_at: '2026-04-22T09:24:57.481556Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ddedaec500cacbd657d8b1dbb9841000b14f9a6e9f4dc4fca83f799f0ebd1340
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 35f1aa8b5e948a95280dc7aee18e7c9a8741d0c30e9d665583ad3a471e4d9253
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+    fetched_at: '2026-04-22T09:25:13.513252Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: 332e1859d4f72af86f8a5d37943e52d80bf39656f3858e756877683b40ad3f77
+  es: 9bd74b4eba77cb7d3501ceebb0c39fb9435c38cc0d783b3d64110d9fb2625373
+  it: 0bde97192962b6cf772d892e4e9c7fcba8fe244f3110eb684a30950751d25e3e
   la: ddedaec500cacbd657d8b1dbb9841000b14f9a6e9f4dc4fca83f799f0ebd1340
+  pt: 35f1aa8b5e948a95280dc7aee18e7c9a8741d0c30e9d665583ad3a471e4d9253

@@ -15,13 +15,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: e56e8308c69ede909140d35e1ae6a401e6a950827577b152ef906f6d976091ed
+    source_url: https://www.vatican.va/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+    fetched_at: '2026-04-22T08:48:11.140469Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: c887ea0a322785b2e9bda817045a2360ccbc5fb07614951e8faca1a9222f243e
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+    fetched_at: '2026-04-22T08:48:27.028666Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: fc13b9352402d6bd24a781947efdcd2909fb810f40a5ff88855d558cfb64c588
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+    fetched_at: '2026-04-22T08:48:43.115865Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 81944802471ae543d8f1d198dc82e063e8591444cf192c2ef914dea5b821a95c
+    source_url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+    fetched_at: '2026-04-22T08:48:59.133898Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: a265cf3221ea0a72c5f551b2ce2cc5dfcd597664e56a48d8524911ee8c90e3fb
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+    fetched_at: '2026-04-22T08:49:15.106395Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 377d0984e0b8c4561a6f07a290e7eee98be33674b70db838d64ce11c5196c94e
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: d846edbf29f386dc9d38ce3c1a1977801666a7f23376781fbbaa2c53ee215c6b
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html
+    fetched_at: '2026-04-22T08:49:31.130950Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  de: e56e8308c69ede909140d35e1ae6a401e6a950827577b152ef906f6d976091ed
+  en: c887ea0a322785b2e9bda817045a2360ccbc5fb07614951e8faca1a9222f243e
+  es: fc13b9352402d6bd24a781947efdcd2909fb810f40a5ff88855d558cfb64c588
+  fr: 81944802471ae543d8f1d198dc82e063e8591444cf192c2ef914dea5b821a95c
+  it: a265cf3221ea0a72c5f551b2ce2cc5dfcd597664e56a48d8524911ee8c90e3fb
   la: 377d0984e0b8c4561a6f07a290e7eee98be33674b70db838d64ce11c5196c94e
+  pt: d846edbf29f386dc9d38ce3c1a1977801666a7f23376781fbbaa2c53ee215c6b

@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 73da9b11ae37aa2fecd60c6147b09c00c03243841d2c48edf6343c88c4e08056
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html
+    fetched_at: '2026-04-22T08:36:14.143901Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: a2dcbde9bd6e946fd272659a6825f4049bb286a6be327a3d09889a2f1edd8022
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html
+    fetched_at: '2026-04-22T08:36:30.234773Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 61baf507165f8685f0a0b65b41729fde4f4ee9d8d89c6a95a84b73eb1090263e
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 73da9b11ae37aa2fecd60c6147b09c00c03243841d2c48edf6343c88c4e08056
+  it: a2dcbde9bd6e946fd272659a6825f4049bb286a6be327a3d09889a2f1edd8022
   la: 61baf507165f8685f0a0b65b41729fde4f4ee9d8d89c6a95a84b73eb1090263e

@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: a00e8e05c75a31a0441aeb94957890fc12bbe1a8e3f7e1a142318d9534d67bf5
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
+    fetched_at: '2026-04-22T08:42:30.459739Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 109e73fcaba1d93cba81d5080d4aee8297f563c35bae269aadb43963b8aa483b
+    source_url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
+    fetched_at: '2026-04-22T08:42:46.484962Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 76b7a84c342049bf1b8c721cb53e5cffc8d03ceb65ad7f6074aba82fa93ca9b2
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
+    fetched_at: '2026-04-22T08:43:02.502926Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 4d52c8651ed11473f1983aa370fc692e5dc17453e5fa0de2efe06f646655d11b
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: a00e8e05c75a31a0441aeb94957890fc12bbe1a8e3f7e1a142318d9534d67bf5
+  fr: 109e73fcaba1d93cba81d5080d4aee8297f563c35bae269aadb43963b8aa483b
+  it: 76b7a84c342049bf1b8c721cb53e5cffc8d03ceb65ad7f6074aba82fa93ca9b2
   la: 4d52c8651ed11473f1983aa370fc692e5dc17453e5fa0de2efe06f646655d11b

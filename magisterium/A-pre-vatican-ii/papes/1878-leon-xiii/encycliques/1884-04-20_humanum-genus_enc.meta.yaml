@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 6752f20130b22c4e614e7ad1449fdd21ff2352005ddbb5bafddcfbb0868f5cf0
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+    fetched_at: '2026-04-22T08:36:32.073305Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9161474e58592111c73725e1d8c463da92ed0673a629745f9dbe4e9330cca060
+    source_url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+    fetched_at: '2026-04-22T08:36:48.089421Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 4703b82c7c3edcf3a65e7afa208a9367b579c5e768450b2fc6e4e766f8e155a0
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+    fetched_at: '2026-04-22T08:37:04.105756Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: cc08a3adcedd448c245657ad2c5a5903dea6db9cc7e0fd32df1146137d5ad181
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: fd12338cd663eb5b624644f066486cbc9693b50085b371f1889d9c447b72de96
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html
+    fetched_at: '2026-04-22T08:37:20.120649Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
+- pt
 sha256:
+  en: 6752f20130b22c4e614e7ad1449fdd21ff2352005ddbb5bafddcfbb0868f5cf0
+  fr: 9161474e58592111c73725e1d8c463da92ed0673a629745f9dbe4e9330cca060
+  it: 4703b82c7c3edcf3a65e7afa208a9367b579c5e768450b2fc6e4e766f8e155a0
   la: cc08a3adcedd448c245657ad2c5a5903dea6db9cc7e0fd32df1146137d5ad181
+  pt: fd12338cd663eb5b624644f066486cbc9693b50085b371f1889d9c447b72de96

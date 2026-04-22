@@ -7,7 +7,6 @@
 
 La pro­ces­sion d’en­trée. A droite, Mgr Ducaud-Bourget
 
-[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-002.jpg)
 
 Le jeune abbé Fellay au milieu des autres ordinands
 

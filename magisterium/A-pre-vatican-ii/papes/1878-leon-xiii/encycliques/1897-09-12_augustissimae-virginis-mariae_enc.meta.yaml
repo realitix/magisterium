@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: f2458a34878c35ea6a5acb67e7ab76d08ae13ae9829a7dd758bc0a22a270b919
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html
+    fetched_at: '2026-04-22T08:41:38.523824Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 40ffd4b1fcd0f80bf9d3a0eb4ed406b0959325cfbcbb71bf2a8517465b8e93be
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: f479b67dc635f19ea7257d1ef471f8e380d220868e770e99bedf5fe2f71dcae5
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html
+    fetched_at: '2026-04-22T08:41:54.412584Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
 - la
+- pt
 sha256:
+  en: f2458a34878c35ea6a5acb67e7ab76d08ae13ae9829a7dd758bc0a22a270b919
   la: 40ffd4b1fcd0f80bf9d3a0eb4ed406b0959325cfbcbb71bf2a8517465b8e93be
+  pt: f479b67dc635f19ea7257d1ef471f8e380d220868e770e99bedf5fe2f71dcae5

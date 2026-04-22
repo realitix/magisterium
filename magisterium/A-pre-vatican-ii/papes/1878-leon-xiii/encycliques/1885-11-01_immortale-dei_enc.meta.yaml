@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 22037ca097f4a6702a22491688508f96cd61bc9dc21aef1b8ee5d7108ffeb018
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+    fetched_at: '2026-04-22T08:37:02.111209Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 87aecc5e08b0fe8e56a233bf04e13d3382a35a65b137b553ffc7227f846241f5
+    source_url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+    fetched_at: '2026-04-22T08:37:18.134912Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 54dbb87193d9bbbc2e56bb68c8aa55cfd1657fdafd5db4652fa13dc76aa55c50
+    source_url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+    fetched_at: '2026-04-22T08:37:34.189835Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 96f3a868ba18a1b04c5405cade5df65018a50baaa8d47a89a6080f70ee1af23b
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+    fetched_at: '2026-04-22T08:37:50.152772Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 066cd4df3ae3e86b56304e514366ea5e4853a83e13abfd5c0d628fab7eac4a4e
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 8688f273955e1a793a63cfc9da9ae54188348849596809edddbe20a90e4f7e84
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html
+    fetched_at: '2026-04-22T08:38:06.182758Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: 22037ca097f4a6702a22491688508f96cd61bc9dc21aef1b8ee5d7108ffeb018
+  es: 87aecc5e08b0fe8e56a233bf04e13d3382a35a65b137b553ffc7227f846241f5
+  fr: 54dbb87193d9bbbc2e56bb68c8aa55cfd1657fdafd5db4652fa13dc76aa55c50
+  it: 96f3a868ba18a1b04c5405cade5df65018a50baaa8d47a89a6080f70ee1af23b
   la: 066cd4df3ae3e86b56304e514366ea5e4853a83e13abfd5c0d628fab7eac4a4e
+  pt: 8688f273955e1a793a63cfc9da9ae54188348849596809edddbe20a90e4f7e84

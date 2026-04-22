@@ -17,13 +17,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 30f5b418d4001a99efc4812fc08d9c2d56b9fe63c42ae2faa5817503ed26f6e1
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+    fetched_at: '2026-04-22T09:24:31.430321Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 2d2992c841990cc9328083222550a69e8b0293007e25626538176d83a43244d3
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+    fetched_at: '2026-04-22T09:24:47.452182Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: d18568b36dc5017d9234b1eced7839af7ca9904aaa87215b213ff59debeb891d
+    source_url: https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+    fetched_at: '2026-04-22T09:25:03.441371Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 1c45f4aaafadc23af239bc82d90c107a825758a1841455e84fa32ea505746b9f
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+    fetched_at: '2026-04-22T09:25:19.384928Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 0caefe8759a79399cc4792d2225b16790632b69d25ebce9552e32f483f3a5ccf
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: a4a9760ab32fdf36e2270dbb4bf0bdf31e83539e42e1ebed90d9f4d2e02e2ddd
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+    fetched_at: '2026-04-22T09:25:35.767362Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: 30f5b418d4001a99efc4812fc08d9c2d56b9fe63c42ae2faa5817503ed26f6e1
+  es: 2d2992c841990cc9328083222550a69e8b0293007e25626538176d83a43244d3
+  fr: d18568b36dc5017d9234b1eced7839af7ca9904aaa87215b213ff59debeb891d
+  it: 1c45f4aaafadc23af239bc82d90c107a825758a1841455e84fa32ea505746b9f
   la: 0caefe8759a79399cc4792d2225b16790632b69d25ebce9552e32f483f3a5ccf
+  pt: a4a9760ab32fdf36e2270dbb4bf0bdf31e83539e42e1ebed90d9f4d2e02e2ddd

@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 731e14af53f1b44c184bdc331f9fb0715874f8bcb99c6da70f01db8a04885cbb
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html
+    fetched_at: '2026-04-22T08:41:00.347396Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: aa04881c05300ae5869a2bf0be78f4912500c1538b14aaca7ad8b9c396281c10
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html
+    fetched_at: '2026-04-22T08:41:16.433848Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 18b25685a801fa80fcc6fbf12bd80ad7516ed10075df61ab19d1e56c26d30cb0
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 731e14af53f1b44c184bdc331f9fb0715874f8bcb99c6da70f01db8a04885cbb
+  it: aa04881c05300ae5869a2bf0be78f4912500c1538b14aaca7ad8b9c396281c10
   la: 18b25685a801fa80fcc6fbf12bd80ad7516ed10075df61ab19d1e56c26d30cb0

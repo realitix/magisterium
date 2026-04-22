@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25051899_annum-sacrum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: bcc256076c3b28d03f771b86356b784dd7f47c8046c83ff54f5f29acbd02f77f
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25051899_annum-sacrum.html
+    fetched_at: '2026-04-22T08:41:58.440632Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b1e26a0ae55e0d1813ab719bd967839c6c40d2e494bb33ba2011a13f20fa2216
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25051899_annum-sacrum.html
     fetch_method: httpx
 langues_disponibles:
+- en
 - la
 sha256:
+  en: bcc256076c3b28d03f771b86356b784dd7f47c8046c83ff54f5f29acbd02f77f
   la: b1e26a0ae55e0d1813ab719bd967839c6c40d2e494bb33ba2011a13f20fa2216

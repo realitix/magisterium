@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: ad8f80ae6549ef8297e52f0a2e69e07b7b72401645618e83c66f449a6fd8bdf9
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html
+    fetched_at: '2026-04-22T08:51:41.021402Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 70dea2f4cb4ec1118b41bc4922ee9eb27edb472b014ac4234c330ef5f3190add
+    source_url: https://www.vatican.va/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html
+    fetched_at: '2026-04-22T08:51:57.025436Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: a616febb0e66434c8b248b3b316c44783f840a33d18a93afab03143f4f475e6f
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html
+    fetched_at: '2026-04-22T08:52:13.059101Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 3fd4102a4357e966fb799a1edda1b93266e6a570881b04197bfeb10dd6c4e3fb
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- hu
+- it
 - la
 sha256:
+  en: ad8f80ae6549ef8297e52f0a2e69e07b7b72401645618e83c66f449a6fd8bdf9
+  hu: 70dea2f4cb4ec1118b41bc4922ee9eb27edb472b014ac4234c330ef5f3190add
+  it: a616febb0e66434c8b248b3b316c44783f840a33d18a93afab03143f4f475e6f
   la: 3fd4102a4357e966fb799a1edda1b93266e6a570881b04197bfeb10dd6c4e3fb

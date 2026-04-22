@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: c959e4a181981326fd9f515df86d99c1ab6a9afe91783cf0661709788b2b2389
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html
+    fetched_at: '2026-04-22T08:48:02.835669Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: feb1846d6fcac4c8fd63a41edd389c3f30f31b80dc0b24c712371d3f4088ad7f
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html
+    fetched_at: '2026-04-22T08:48:18.864146Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b3e97e1df5ec5e2144f202573345b8ed9ad1433b77334ff096979f7b2133c321
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 88f7709fac2a7b9649c4ce940af8996be82f2acf4462bb9b62034088bdbb497c
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html
+    fetched_at: '2026-04-22T08:48:34.925800Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: c959e4a181981326fd9f515df86d99c1ab6a9afe91783cf0661709788b2b2389
+  it: feb1846d6fcac4c8fd63a41edd389c3f30f31b80dc0b24c712371d3f4088ad7f
   la: b3e97e1df5ec5e2144f202573345b8ed9ad1433b77334ff096979f7b2133c321
+  pt: 88f7709fac2a7b9649c4ce940af8996be82f2acf4462bb9b62034088bdbb497c

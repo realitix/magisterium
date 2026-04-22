@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 6df26634aebc9b62a52b6f30762e5988f21209a321a5a93d9304dad4e40a8686
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
+    fetched_at: '2026-04-22T08:50:39.069965Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: ece399a776d0bffd6fb4c86b07f7c1b24cf2b21160e7dc7e57734b232ce576fb
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
+    fetched_at: '2026-04-22T08:50:55.152893Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: d004fd52f4ac1241e8ff0037203f95072f40a053ee384f29b6f6242851a8851f
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: e13ed8d4c51575411cc6ed8d50d7b68e8ac8b3b037227581580714592fa5a46d
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
+    fetched_at: '2026-04-22T08:51:11.144870Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: 6df26634aebc9b62a52b6f30762e5988f21209a321a5a93d9304dad4e40a8686
+  it: ece399a776d0bffd6fb4c86b07f7c1b24cf2b21160e7dc7e57734b232ce576fb
   la: d004fd52f4ac1241e8ff0037203f95072f40a053ee384f29b6f6242851a8851f
+  pt: e13ed8d4c51575411cc6ed8d50d7b68e8ac8b3b037227581580714592fa5a46d

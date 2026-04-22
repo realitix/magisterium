@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_05041906_tribus-circiter.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 6535127eb85c1deb7d7bb68545854c06bc9e5847fe2fcd42204236e8aaf7e62e
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_05041906_tribus-circiter.html
+    fetched_at: '2026-04-22T08:42:40.462310Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: f7c49ab3e5c9da5d47888797ca63fd713802604a3dc422b355d0652dd7f1c6a4
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_05041906_tribus-circiter.html
     fetch_method: httpx
 langues_disponibles:
+- en
 - la
 sha256:
+  en: 6535127eb85c1deb7d7bb68545854c06bc9e5847fe2fcd42204236e8aaf7e62e
   la: f7c49ab3e5c9da5d47888797ca63fd713802604a3dc422b355d0652dd7f1c6a4

@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 337a9dbe22546d7cb069c99edefad1d7df02a0a62d6d8ab664abf77e1ffb2c94
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html
+    fetched_at: '2026-04-22T08:44:38.601817Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 77f676d90e5c6e24cb515d74a156334f29ed7d9fa0274fb8f9a8f8e64e9b4f25
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html
+    fetched_at: '2026-04-22T08:44:54.653879Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: bef1a229a3423bfc073c8c11c67a43ce4534321d5fbf3404d73912fb7ac77d5a
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 337a9dbe22546d7cb069c99edefad1d7df02a0a62d6d8ab664abf77e1ffb2c94
+  it: 77f676d90e5c6e24cb515d74a156334f29ed7d9fa0274fb8f9a8f8e64e9b4f25
   la: bef1a229a3423bfc073c8c11c67a43ce4534321d5fbf3404d73912fb7ac77d5a

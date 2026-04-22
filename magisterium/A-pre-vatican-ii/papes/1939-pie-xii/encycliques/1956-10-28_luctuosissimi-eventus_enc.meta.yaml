@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 704daed1fa1210972c2eacae221b5057ac5ba434f84166210082cf199eb43637
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html
+    fetched_at: '2026-04-22T08:51:35.024489Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: f11b0319feb529af9e9cdd0e62d9da3dde56a3c00f7cf954cad75d2ca21a7bab
+    source_url: https://www.vatican.va/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html
+    fetched_at: '2026-04-22T08:51:51.058109Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5edfa6d9d2f774e63ce10e0fdac36a391639672800a375159f644cf898eea61b
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html
+    fetched_at: '2026-04-22T08:52:07.056546Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 8d0c41013abb550127ae0cb6c6b44fd725fce643e9cd57a7f7d40db31ed159ac
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- hu
+- it
 - la
 sha256:
+  en: 704daed1fa1210972c2eacae221b5057ac5ba434f84166210082cf199eb43637
+  hu: f11b0319feb529af9e9cdd0e62d9da3dde56a3c00f7cf954cad75d2ca21a7bab
+  it: 5edfa6d9d2f774e63ce10e0fdac36a391639672800a375159f644cf898eea61b
   la: 8d0c41013abb550127ae0cb6c6b44fd725fce643e9cd57a7f7d40db31ed159ac

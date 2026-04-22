@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 776ea9e6b5d9742451e83c44286bf8223ce8ce9527ff86149a41fc5c1ff82962
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+    fetched_at: '2026-04-22T08:42:38.510250Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 351d0b9b30dd80a3bcb47a343f9b711db612c8c80cc0815dafbd9b1862bdd292
+    source_url: https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+    fetched_at: '2026-04-22T08:42:54.502938Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 3dfe6f2bb6e7c64182873c540ae927229de2d61973f454806436169b1446a140
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+    fetched_at: '2026-04-22T08:43:10.506119Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 483fe47e59fef3044fdc8a21d7140ec54690e5f28cb0c03cad084aec8f6ba74b
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: 776ea9e6b5d9742451e83c44286bf8223ce8ce9527ff86149a41fc5c1ff82962
+  fr: 351d0b9b30dd80a3bcb47a343f9b711db612c8c80cc0815dafbd9b1862bdd292
+  it: 3dfe6f2bb6e7c64182873c540ae927229de2d61973f454806436169b1446a140
   la: 483fe47e59fef3044fdc8a21d7140ec54690e5f28cb0c03cad084aec8f6ba74b

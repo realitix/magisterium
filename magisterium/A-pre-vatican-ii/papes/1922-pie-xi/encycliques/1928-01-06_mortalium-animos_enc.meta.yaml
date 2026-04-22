@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 46bb34b81d6d32745cd73a0cc59c9005aa458515a8f07c12072985c03455bfb8
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+    fetched_at: '2026-04-22T08:45:46.706275Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 998e292a1fc40c447f03e44316317a032fd2924f3f1343137dbe8cc4336d76f0
+    source_url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+    fetched_at: '2026-04-22T08:46:02.962596Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 6da809c6daeb6d6afd05285eef93e2537bae8549340048fd51ca114078c3ecd7
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+    fetched_at: '2026-04-22T08:46:18.740972Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ab45bbf822cb4f2d79ccd6a47b54449d1b7ebe539886576571f6144eaf72c10e
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 4731144aa4502953e92502568d70f5b3c92f720993cbe6ebbf1064441e7e4454
+    source_url: https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+    fetched_at: '2026-04-22T08:46:34.756919Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
+- pt
 sha256:
+  en: 46bb34b81d6d32745cd73a0cc59c9005aa458515a8f07c12072985c03455bfb8
+  fr: 998e292a1fc40c447f03e44316317a032fd2924f3f1343137dbe8cc4336d76f0
+  it: 6da809c6daeb6d6afd05285eef93e2537bae8549340048fd51ca114078c3ecd7
   la: ab45bbf822cb4f2d79ccd6a47b54449d1b7ebe539886576571f6144eaf72c10e
+  pt: 4731144aa4502953e92502568d70f5b3c92f720993cbe6ebbf1064441e7e4454

@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: d2f818e7ff4c4c8b611d8a159d48ff9f396300383c6b4df17540facc5a5455ae
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html
+    fetched_at: '2026-04-22T08:47:00.703160Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: db499730f6b4192f8cde74ba13d592562022ea0d4b5bcd170d9b4a6f9a968e25
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: d2f818e7ff4c4c8b611d8a159d48ff9f396300383c6b4df17540facc5a5455ae
   la: db499730f6b4192f8cde74ba13d592562022ea0d4b5bcd170d9b4a6f9a968e25

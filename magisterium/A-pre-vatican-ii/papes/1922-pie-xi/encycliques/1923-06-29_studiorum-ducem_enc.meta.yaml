@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: d798740d74e30eb17a91462ab369faf55db453263eb13f795af69f963f53ffe5
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html
+    fetched_at: '2026-04-22T08:45:00.675900Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 9a6eef4effbcfc7b6b2131785adfc39738696f00a2adea51a07353847a11596d
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: d798740d74e30eb17a91462ab369faf55db453263eb13f795af69f963f53ffe5
   la: 9a6eef4effbcfc7b6b2131785adfc39738696f00a2adea51a07353847a11596d

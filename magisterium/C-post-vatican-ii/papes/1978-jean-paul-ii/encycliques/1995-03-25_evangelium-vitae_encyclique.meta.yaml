@@ -19,13 +19,145 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh_cn/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh_tw/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 8cf9a0b93a75508b2b83cda446790504362d2ac75ed473987021f04819cb7ae9
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:30:48.302869Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: e96654ee86acbd97b3361aec5347df736cf5fb38c5b39f4432c1de9b89bb54b3
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:31:04.275869Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: e7d61b38664999eb9d1918b7b67f412bb241f302bcabd0073790bba66fed0ac4
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:31:20.365253Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: cd8c76944a279313fb646e7256eed745ecfe6545c32a1b4dc5201b6e99a34376
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:31:36.284789Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 760620edc0b35070f8a2067fa87fce629d79bc70b27d57a9723e4eb17680c183
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:31:52.245346Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 9964acf57ee99c813c78c64a5203b191cd8253b95520394784d7ee2b4777d70e
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:32:08.517247Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 0e0a9d29e034490484bca03bedba0bda2a679f9fb439ee7021fb5da288136e1f
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
     fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: 927a963f57e5c7bbe2fb0186b6cc7542d7f449a508ce03436c283e08b1359074
+    source_url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:32:24.518543Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: c4ef17c5716009cecb6d454e320bf9958e30bfd2f56400e8f087e449d02b756b
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:32:40.340790Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 720cfa427a86f02c607fb3e3bf41e709538012736ef080086b343fdeedf3c436
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:32:56.463128Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: edd6b85ccf727620e386c4b568f6bbbc8fa1678f10dd822a3bf2f58a01b5f50a
+    source_url: https://www.vatican.va/content/john-paul-ii/zh_cn/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:33:11.727411Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 97a0f466f9340d623ad283cd1a31fd0a2eb5990968b710901f358d399b692252
+    source_url: https://www.vatican.va/content/john-paul-ii/zh_tw/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetched_at: '2026-04-22T09:33:27.797258Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- nl
+- pl
+- pt
+- zh_cn
+- zh_tw
 sha256:
+  de: 8cf9a0b93a75508b2b83cda446790504362d2ac75ed473987021f04819cb7ae9
+  en: e96654ee86acbd97b3361aec5347df736cf5fb38c5b39f4432c1de9b89bb54b3
+  es: e7d61b38664999eb9d1918b7b67f412bb241f302bcabd0073790bba66fed0ac4
+  fr: cd8c76944a279313fb646e7256eed745ecfe6545c32a1b4dc5201b6e99a34376
+  hu: 760620edc0b35070f8a2067fa87fce629d79bc70b27d57a9723e4eb17680c183
+  it: 9964acf57ee99c813c78c64a5203b191cd8253b95520394784d7ee2b4777d70e
   la: 0e0a9d29e034490484bca03bedba0bda2a679f9fb439ee7021fb5da288136e1f
+  nl: 927a963f57e5c7bbe2fb0186b6cc7542d7f449a508ce03436c283e08b1359074
+  pl: c4ef17c5716009cecb6d454e320bf9958e30bfd2f56400e8f087e449d02b756b
+  pt: 720cfa427a86f02c607fb3e3bf41e709538012736ef080086b343fdeedf3c436
+  zh_cn: edd6b85ccf727620e386c4b568f6bbbc8fa1678f10dd822a3bf2f58a01b5f50a
+  zh_tw: 97a0f466f9340d623ad283cd1a31fd0a2eb5990968b710901f358d399b692252

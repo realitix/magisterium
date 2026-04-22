@@ -17,13 +17,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 13f968f0ce044bfc104f70aa8bcb6341369f29b8af79f0c7ac9b2dbfaa8c0d9d
+    source_url: https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+    fetched_at: '2026-04-22T09:24:13.357783Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: d8e2425b300de903b14f7ff61409054ad45d1592f298dd86f6d78213d81a3cc5
+    source_url: https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+    fetched_at: '2026-04-22T09:24:29.306509Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5f4156064cc2fc88927abec5930823642021430f3d6848e3a32d3f1a9e014fd0
+    source_url: https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+    fetched_at: '2026-04-22T09:24:45.306073Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 46958a1c64180548a7b1c8fa46f46929cb0873a0f3e531a5fac5e3f466188315
     source_url: https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
 sha256:
+  en: 13f968f0ce044bfc104f70aa8bcb6341369f29b8af79f0c7ac9b2dbfaa8c0d9d
+  es: d8e2425b300de903b14f7ff61409054ad45d1592f298dd86f6d78213d81a3cc5
+  it: 5f4156064cc2fc88927abec5930823642021430f3d6848e3a32d3f1a9e014fd0
   la: 46958a1c64180548a7b1c8fa46f46929cb0873a0f3e531a5fac5e3f466188315

@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 57a23299fb0ee371849972aef673ac3ab90ff08aa62b5634064ffaee04da9c79
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html
+    fetched_at: '2026-04-22T08:46:54.799854Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 6aebef309bb62d44e7f20276c17b388403df27938f3bd55e7f6cf4523b95f8b4
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 57a23299fb0ee371849972aef673ac3ab90ff08aa62b5634064ffaee04da9c79
   la: 6aebef309bb62d44e7f20276c17b388403df27938f3bd55e7f6cf4523b95f8b4

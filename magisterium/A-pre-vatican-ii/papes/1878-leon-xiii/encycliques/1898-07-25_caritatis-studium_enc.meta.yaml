@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25071898_caritatis-studium.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: f4ca6858085989ae01fd5cbc098508b8907fcab64e8b320664c1d3cf6ce41336
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25071898_caritatis-studium.html
+    fetched_at: '2026-04-22T08:41:48.400003Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 07e0dfacef16b7ecf20acb78a6f4e11a423d544ce2e023307663be79cff0b2d5
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25071898_caritatis-studium.html
     fetch_method: httpx
 langues_disponibles:
+- en
 - la
 sha256:
+  en: f4ca6858085989ae01fd5cbc098508b8907fcab64e8b320664c1d3cf6ce41336
   la: 07e0dfacef16b7ecf20acb78a6f4e11a423d544ce2e023307663be79cff0b2d5

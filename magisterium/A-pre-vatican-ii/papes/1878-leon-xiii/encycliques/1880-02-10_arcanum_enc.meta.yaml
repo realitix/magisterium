@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/hu/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 89cd814a26f2db4636c537b317c12a712750da0e168582b6ea03f11cb172cfa0
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+    fetched_at: '2026-04-22T08:36:10.090211Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 32e73cecc099a0e956e2ef4afcb0eea2c225f5d09cab35f720fcadc461df1e7c
+    source_url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+    fetched_at: '2026-04-22T08:36:26.118960Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 15ce078cb765a074c5b89ddb4903aacdb2ee57bf58160b5074c5516f4ef7545a
+    source_url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+    fetched_at: '2026-04-22T08:36:42.104908Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: ccbd22cbce30cf332e43847552261516dbcead53b4798a6d114cfa8854cd018e
+    source_url: https://www.vatican.va/content/leo-xiii/hu/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+    fetched_at: '2026-04-22T08:36:58.079585Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 84d39dc7ec453e8153b5657f34cd16939881d708e6c0162f1138244d38f85630
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
+    fetched_at: '2026-04-22T08:37:14.176463Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 47ce79355a3fe53a0724cc5b54b03753646c45d9191bb8d589098a7824b4f907
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- hu
+- it
 - la
 sha256:
+  en: 89cd814a26f2db4636c537b317c12a712750da0e168582b6ea03f11cb172cfa0
+  es: 32e73cecc099a0e956e2ef4afcb0eea2c225f5d09cab35f720fcadc461df1e7c
+  fr: 15ce078cb765a074c5b89ddb4903aacdb2ee57bf58160b5074c5516f4ef7545a
+  hu: ccbd22cbce30cf332e43847552261516dbcead53b4798a6d114cfa8854cd018e
+  it: 84d39dc7ec453e8153b5657f34cd16939881d708e6c0162f1138244d38f85630
   la: 47ce79355a3fe53a0724cc5b54b03753646c45d9191bb8d589098a7824b4f907

@@ -15,13 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: a9449b79808c1e6f24d258e5fa4232ad83e1b54a327ad5ae24792d97943bbac3
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+    fetched_at: '2026-04-22T08:49:02.948773Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 8fd519ec23c8ce81bf0e880019b62c1107e9b479cd71b736d1a0172e78e42242
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+    fetched_at: '2026-04-22T08:49:18.970422Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 34d8c846d609699e3d742be15410138285c84daaa225ddf1c389a1bf66fa28c0
+    source_url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+    fetched_at: '2026-04-22T08:49:34.992917Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: ffbac1fd68d79fc2581db38ec4c37d2f652a5ea2f5bc0958cf59ba6f97c6aae3
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+    fetched_at: '2026-04-22T08:49:50.995163Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 257e48ffe3cd36259c2040a4d11882b536fdf135575a23d8c1139307e97edd19
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 2f8e9015027ee898fc769ecb1632c5949416232727ba89fa806cffbdf0f2cfd2
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html
+    fetched_at: '2026-04-22T08:50:07.020355Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  en: a9449b79808c1e6f24d258e5fa4232ad83e1b54a327ad5ae24792d97943bbac3
+  es: 8fd519ec23c8ce81bf0e880019b62c1107e9b479cd71b736d1a0172e78e42242
+  fr: 34d8c846d609699e3d742be15410138285c84daaa225ddf1c389a1bf66fa28c0
+  it: ffbac1fd68d79fc2581db38ec4c37d2f652a5ea2f5bc0958cf59ba6f97c6aae3
   la: 257e48ffe3cd36259c2040a4d11882b536fdf135575a23d8c1139307e97edd19
+  pt: 2f8e9015027ee898fc769ecb1632c5949416232727ba89fa806cffbdf0f2cfd2

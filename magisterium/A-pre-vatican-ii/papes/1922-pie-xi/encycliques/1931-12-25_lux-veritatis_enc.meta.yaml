@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19311225_lux-veritatis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 3e4b23496690b6838edcac24b4deefc89e379f6429259c505b8839e6fb39366b
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19311225_lux-veritatis.html
+    fetched_at: '2026-04-22T08:46:48.850963Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 80f6116c73873fc1ce25a148aa73e814bcd1ba708cfec4f98c1a9b24b4258fc3
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311225_lux-veritatis.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 3e4b23496690b6838edcac24b4deefc89e379f6429259c505b8839e6fb39366b
   la: 80f6116c73873fc1ce25a148aa73e814bcd1ba708cfec4f98c1a9b24b4258fc3

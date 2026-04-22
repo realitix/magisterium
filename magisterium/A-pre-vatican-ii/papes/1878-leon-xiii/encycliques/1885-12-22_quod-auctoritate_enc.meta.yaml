@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: a5002377806cd009b2c7907bb21aa7d5acf0eda60f4ab15c30c4638c9ab68ac1
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html
+    fetched_at: '2026-04-22T08:37:10.050476Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: beb352ef2db62e2e8d80870097a5b2d706c0f138dc980a71496db30a22f8f55d
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html
+    fetched_at: '2026-04-22T08:37:26.073236Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: abb4c1fb277ed3dbf4eeb3ea862a01b0c6ee22e19faaca2ace5ccfac9add2c1c
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: a5002377806cd009b2c7907bb21aa7d5acf0eda60f4ab15c30c4638c9ab68ac1
+  it: beb352ef2db62e2e8d80870097a5b2d706c0f138dc980a71496db30a22f8f55d
   la: abb4c1fb277ed3dbf4eeb3ea862a01b0c6ee22e19faaca2ace5ccfac9add2c1c

@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: b955509f800bb0c2a1695be657a5b41475592bd7fc60785c97e2d2acc506ea2d
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html
+    fetched_at: '2026-04-22T08:38:34.193345Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 3193c2d9d9e8139bc246bfeac3a1ead18e608a4c86199713e7df4bc68b0940a2
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html
+    fetched_at: '2026-04-22T08:38:50.201209Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: e9a66e1c46eabea3b043afa6bba29d4897202bc85d0d17d549c78e4a712dcbaf
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: b955509f800bb0c2a1695be657a5b41475592bd7fc60785c97e2d2acc506ea2d
+  it: 3193c2d9d9e8139bc246bfeac3a1ead18e608a4c86199713e7df4bc68b0940a2
   la: e9a66e1c46eabea3b043afa6bba29d4897202bc85d0d17d549c78e4a712dcbaf

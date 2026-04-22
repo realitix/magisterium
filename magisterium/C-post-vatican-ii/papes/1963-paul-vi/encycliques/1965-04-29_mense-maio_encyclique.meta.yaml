@@ -18,13 +18,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: d6dd8eded1556aeeb991010426eb05db2ee9f5fe72adf77c8f98ff52f133b402
+    source_url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+    fetched_at: '2026-04-22T09:26:27.427611Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 74a17077382889f8179dd8a8f997b8cc89b402a3ca9d7a0a8b6e15a59faeb5b8
+    source_url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+    fetched_at: '2026-04-22T09:26:43.471932Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 681d68770cc410ea1c6940b5b1753fe984369cb05f267603493064769c0729e0
+    source_url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+    fetched_at: '2026-04-22T09:26:59.457062Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 596ff0bced5e8db3ac42b3a179b7402143a049c5c3ac0e23313654fd6e7f6a6c
     source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: b4cce038713682ada4b3472db52857e3eff652a648841ea6a4f85ca038825d92
+    source_url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html
+    fetched_at: '2026-04-22T09:27:15.468839Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: d6dd8eded1556aeeb991010426eb05db2ee9f5fe72adf77c8f98ff52f133b402
+  es: 74a17077382889f8179dd8a8f997b8cc89b402a3ca9d7a0a8b6e15a59faeb5b8
+  it: 681d68770cc410ea1c6940b5b1753fe984369cb05f267603493064769c0729e0
   la: 596ff0bced5e8db3ac42b3a179b7402143a049c5c3ac0e23313654fd6e7f6a6c
+  pt: b4cce038713682ada4b3472db52857e3eff652a648841ea6a4f85ca038825d92

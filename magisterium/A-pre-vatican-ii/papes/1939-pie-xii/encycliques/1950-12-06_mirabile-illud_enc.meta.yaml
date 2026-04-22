@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: fcc02799714d794d10fe9a135b21178cf030be36355171c808ceb4fdca9c2be9
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
+    fetched_at: '2026-04-22T08:50:02.912553Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 215b1469b7087c4bf0d57b17e46417eaa4deb13bdb278471c6a7cb2c5412b59a
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
+    fetched_at: '2026-04-22T08:50:18.996024Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 4ddea893efd014a23797098fc65aab8e2d38037d526a81fdb36c8939f3b895a3
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 1c0587438f34baa0893def473dcef1108519631e5d71e98a1f9de3368f18aa5c
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
+    fetched_at: '2026-04-22T08:50:34.954463Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: fcc02799714d794d10fe9a135b21178cf030be36355171c808ceb4fdca9c2be9
+  it: 215b1469b7087c4bf0d57b17e46417eaa4deb13bdb278471c6a7cb2c5412b59a
   la: 4ddea893efd014a23797098fc65aab8e2d38037d526a81fdb36c8939f3b895a3
+  pt: 1c0587438f34baa0893def473dcef1108519631e5d71e98a1f9de3368f18aa5c

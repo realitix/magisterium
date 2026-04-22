@@ -18,13 +18,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/ar/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/be/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/de/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/en/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/es/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/fr/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/it/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/pl/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiv/pt/apost_exhortations/documents/20251004-dilexi-te.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: 7bbb863a144fdc494db3bc3292ebb1143cdc76b98693e02ff0812055c0133188
+    source_url: https://www.vatican.va/content/leo-xiv/ar/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:34:38.215725Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: 2dec6f4950eac1ee24e21595bf62e734e2fba32d508ff0cb9c61205d107b2808
+    source_url: https://www.vatican.va/content/leo-xiv/be/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:34:54.461694Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 6521c5d0f1f053f9880f479659479192d8201f66a9dba43e93f69271f39b87c6
+    source_url: https://www.vatican.va/content/leo-xiv/de/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:35:08.304959Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: bf5576d35b53b8fe25ece2c66bffa19f1d27279a3b0271d7bcc76d173ad681a9
+    source_url: https://www.vatican.va/content/leo-xiv/en/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:35:22.251862Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 8d108ca3721b48fd0fb3934498978800ab88d0707536ed69d06c0e51d286e59f
+    source_url: https://www.vatican.va/content/leo-xiv/es/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:35:36.264982Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: dbe971e6b4c45c4ebfcf0010b64e71629a95bb24995149290c6830f95cc19874
+    source_url: https://www.vatican.va/content/leo-xiv/fr/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:35:50.283230Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 22ae28e16a6e932914287dd4eb7527bcbfe410ce409bf50dab4cb1f46ff1af58
+    source_url: https://www.vatican.va/content/leo-xiv/it/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:36:04.281619Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a6a0e05f8b1d7417193109b9a7b3c56b117f96e889fc678b3d64fc8b8d692f2b
     source_url: https://www.vatican.va/content/leo-xiv/la/apost_exhortations/documents/20251004-dilexi-te.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 9575d783183c594ca53019212cfd2cd6b5e43393b4cd708d93d80dfd605e4f8f
+    source_url: https://www.vatican.va/content/leo-xiv/pl/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:36:18.240877Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: e68f1b043086a04f3bf93ecc342829e0955de7397fde73c9d49ff25afb6eb9ba
+    source_url: https://www.vatican.va/content/leo-xiv/pt/apost_exhortations/documents/20251004-dilexi-te.html
+    fetched_at: '2026-04-22T09:36:30.421810Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- be
+- de
+- en
+- es
+- fr
+- it
 - la
+- pl
+- pt
 sha256:
+  ar: 7bbb863a144fdc494db3bc3292ebb1143cdc76b98693e02ff0812055c0133188
+  be: 2dec6f4950eac1ee24e21595bf62e734e2fba32d508ff0cb9c61205d107b2808
+  de: 6521c5d0f1f053f9880f479659479192d8201f66a9dba43e93f69271f39b87c6
+  en: bf5576d35b53b8fe25ece2c66bffa19f1d27279a3b0271d7bcc76d173ad681a9
+  es: 8d108ca3721b48fd0fb3934498978800ab88d0707536ed69d06c0e51d286e59f
+  fr: dbe971e6b4c45c4ebfcf0010b64e71629a95bb24995149290c6830f95cc19874
+  it: 22ae28e16a6e932914287dd4eb7527bcbfe410ce409bf50dab4cb1f46ff1af58
   la: a6a0e05f8b1d7417193109b9a7b3c56b117f96e889fc678b3d64fc8b8d692f2b
+  pl: 9575d783183c594ca53019212cfd2cd6b5e43393b4cd708d93d80dfd605e4f8f
+  pt: e68f1b043086a04f3bf93ecc342829e0955de7397fde73c9d49ff25afb6eb9ba

@@ -18,13 +18,109 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 37a2de2baf8bfdbc225f71e2001edc1efe50d5302974fdbfba8fa710d45297b6
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:28:27.640374Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 7ff20a379706b84d0e13a27e17c4794cc96584836423cfff96c3a48acd9acb12
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:28:43.703600Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 9600ea6775698fb929f045b875476638c63251456426fd1400cda2a001392687
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:28:59.740787Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: b6ecbadf79e4f9e41f6e33fabe97f816653d6a80f2ebbef1a2e5e0d0643e0d50
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:29:15.649506Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: e4d174267f84047604498e8b3c9fe6888c83fa2b39fc64b8e9be82336c930b0b
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:29:31.764373Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: de64573b2275d9b1005461284bb1a25f72fc9d339092ada6e218ed16bd4a33a3
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:29:47.867504Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 78bb6e7bb1bfd3506ebc173792f899ba9ea7ec6a169aa56d027ad97231a6e167
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 13b382300c5b6c0a1995c8d105fea92f8cbfe086e5b1d18d6c15a500eef22c32
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:30:03.958484Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 6ac53bdc7cf83ea3a6e1d6435a34b4d4b16598fac9dff16cb27f13dc4061d7f5
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetched_at: '2026-04-22T09:30:19.762964Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pl
+- pt
 sha256:
+  de: 37a2de2baf8bfdbc225f71e2001edc1efe50d5302974fdbfba8fa710d45297b6
+  en: 7ff20a379706b84d0e13a27e17c4794cc96584836423cfff96c3a48acd9acb12
+  es: 9600ea6775698fb929f045b875476638c63251456426fd1400cda2a001392687
+  fr: b6ecbadf79e4f9e41f6e33fabe97f816653d6a80f2ebbef1a2e5e0d0643e0d50
+  hu: e4d174267f84047604498e8b3c9fe6888c83fa2b39fc64b8e9be82336c930b0b
+  it: de64573b2275d9b1005461284bb1a25f72fc9d339092ada6e218ed16bd4a33a3
   la: 78bb6e7bb1bfd3506ebc173792f899ba9ea7ec6a169aa56d027ad97231a6e167
+  pl: 13b382300c5b6c0a1995c8d105fea92f8cbfe086e5b1d18d6c15a500eef22c32
+  pt: 6ac53bdc7cf83ea3a6e1d6435a34b4d4b16598fac9dff16cb27f13dc4061d7f5

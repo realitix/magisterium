@@ -18,13 +18,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/sk/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: sk
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+  site: www.vatican.va
+  langue: zh
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 582227d765e7fed3f5861ee74af1d2e0575efa134a6507dec9dfee1cbee7bbae
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:27:47.730777Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 959285375608f162e1f6734b604372e7f8f8574d577939b0b21ccc4d981ea6ff
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:28:03.872555Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f0041ffd78c222dbddec4b3b3b9cde3d06fde718a0af18ba35ad49edd6cab624
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:28:19.889558Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 0b324d252ac20406fb343d4c843778d3b9363b0107bf6146516278acf8fcd0ea
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:28:35.755313Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: d61f44c43a7eb91b8ae27a2f7a7707e1aa009577764982f72613d8ceffa1d1df
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:28:51.955774Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: d7566d7e8f2e7190a95d67f431b25a44047c8e4a914ff37978515a9dce31bb93
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 1e40c8a48bdfb716e73a4409d4ee93b812d76a2af60fafeda2f358b9580d26dd
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:29:07.877557Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: a129e476c24fe923fea31bc0198f4f58f574394d2a8086425bd97b22220391fa
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:29:23.929631Z'
+    fetch_method: httpx
+  sk:
+    kind: officielle
+    sha256: 5b08f1faaa97b5c20aa590a27b657534d5005d5a2ced3c156a780d5ec3b460ef
+    source_url: https://www.vatican.va/content/john-paul-ii/sk/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:29:39.927504Z'
+    fetch_method: httpx
+  zh:
+    kind: officielle
+    sha256: 8ee2220d3acd9d7c0687e4415a59c33ad74d306edf66329847d23a30cb3720bb
+    source_url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html
+    fetched_at: '2026-04-22T09:29:55.599835Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- it
 - la
+- pl
+- pt
+- sk
+- zh
 sha256:
+  de: 582227d765e7fed3f5861ee74af1d2e0575efa134a6507dec9dfee1cbee7bbae
+  en: 959285375608f162e1f6734b604372e7f8f8574d577939b0b21ccc4d981ea6ff
+  es: f0041ffd78c222dbddec4b3b3b9cde3d06fde718a0af18ba35ad49edd6cab624
+  fr: 0b324d252ac20406fb343d4c843778d3b9363b0107bf6146516278acf8fcd0ea
+  it: d61f44c43a7eb91b8ae27a2f7a7707e1aa009577764982f72613d8ceffa1d1df
   la: d7566d7e8f2e7190a95d67f431b25a44047c8e4a914ff37978515a9dce31bb93
+  pl: 1e40c8a48bdfb716e73a4409d4ee93b812d76a2af60fafeda2f358b9580d26dd
+  pt: a129e476c24fe923fea31bc0198f4f58f574394d2a8086425bd97b22220391fa
+  sk: 5b08f1faaa97b5c20aa590a27b657534d5005d5a2ced3c156a780d5ec3b460ef
+  zh: 8ee2220d3acd9d7c0687e4415a59c33ad74d306edf66329847d23a30cb3720bb

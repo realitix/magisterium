@@ -17,13 +17,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 18c215e74c1eef3754d184365f0a3a76cf99e5ec0c692f79d82bedf551975d77
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+    fetched_at: '2026-04-22T09:25:57.410724Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: fc26160f7d1f4d3df60a6f77fabb58817dd0a7c11640d6a2d141d635e98d3af6
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+    fetched_at: '2026-04-22T09:26:13.437986Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: eeb91f4813e4fae05ee0911bedb3126433e65d9b61fa12acad8939a785727d07
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+    fetched_at: '2026-04-22T09:26:29.487803Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ff6e5181712e2a20bf843fe2808d437c39a2c75495c426c4dc42e90a407ea989
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: f2148d1397cd4ca90d7d2809ca8b135913f4b6cb710c4a8e7088b1c6d0101688
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+    fetched_at: '2026-04-22T09:26:45.471053Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: 18c215e74c1eef3754d184365f0a3a76cf99e5ec0c692f79d82bedf551975d77
+  es: fc26160f7d1f4d3df60a6f77fabb58817dd0a7c11640d6a2d141d635e98d3af6
+  it: eeb91f4813e4fae05ee0911bedb3126433e65d9b61fa12acad8939a785727d07
   la: ff6e5181712e2a20bf843fe2808d437c39a2c75495c426c4dc42e90a407ea989
+  pt: f2148d1397cd4ca90d7d2809ca8b135913f4b6cb710c4a8e7088b1c6d0101688

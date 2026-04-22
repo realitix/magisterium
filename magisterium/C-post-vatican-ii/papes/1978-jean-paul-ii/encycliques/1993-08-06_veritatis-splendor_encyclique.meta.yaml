@@ -18,13 +18,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: ecec90fa9eb41fae025f69d50efa9d1c648224b9171a22472b4b7c21687c6c40
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:30:40.141107Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: d2dbada686049355483f5420d76856a6c4f3d015ea4fa2495a6063bf67dd4f5c
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:30:56.183838Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 5edf467f0c54258e80290dffcfe8010f4c70531bf5d92355e799f063de24bbf8
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:31:12.504571Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 5cbb5dcdfa4d32b635dbc8295733801eb2a38034b2c975e2dead9849bf9c9248
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:31:28.274433Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 9692e101a3c36d3c406750d2df0fa2ae4d8e781ee85ae01be21b000008c169b5
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:31:44.244004Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 9a65533262c1f2ed03bc213b2907cc36cfc4d38424d7dcc4648403059dc1b087
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:32:00.357089Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 931df2750f8b9813986d9ab0b234d465e3ccece7164b9ad3f97ee216128a6a1f
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
     fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: 67f779b3fbd7f6ef0824123a010490e54cddfc30069958a65fff853542a787f6
+    source_url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:32:16.390132Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 3b241623f09f9f82df0efa9a80486030c28b0c94d8b89d7323c33469932ac48e
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:32:32.469175Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 3789398513ff41354b7f126b9a4aaa419e5ca450e7d7b609569e339195446c10
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
+    fetched_at: '2026-04-22T09:32:48.633853Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- nl
+- pl
+- pt
 sha256:
+  de: ecec90fa9eb41fae025f69d50efa9d1c648224b9171a22472b4b7c21687c6c40
+  en: d2dbada686049355483f5420d76856a6c4f3d015ea4fa2495a6063bf67dd4f5c
+  es: 5edf467f0c54258e80290dffcfe8010f4c70531bf5d92355e799f063de24bbf8
+  fr: 5cbb5dcdfa4d32b635dbc8295733801eb2a38034b2c975e2dead9849bf9c9248
+  hu: 9692e101a3c36d3c406750d2df0fa2ae4d8e781ee85ae01be21b000008c169b5
+  it: 9a65533262c1f2ed03bc213b2907cc36cfc4d38424d7dcc4648403059dc1b087
   la: 931df2750f8b9813986d9ab0b234d465e3ccece7164b9ad3f97ee216128a6a1f
+  nl: 67f779b3fbd7f6ef0824123a010490e54cddfc30069958a65fff853542a787f6
+  pl: 3b241623f09f9f82df0efa9a80486030c28b0c94d8b89d7323c33469932ac48e
+  pt: 3789398513ff41354b7f126b9a4aaa419e5ca450e7d7b609569e339195446c10

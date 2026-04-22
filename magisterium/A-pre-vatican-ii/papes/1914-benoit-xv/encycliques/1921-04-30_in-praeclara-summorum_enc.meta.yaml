@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: d7e08482ee6665063a8b7bda5541b6ae3546ba51c16f6e020570fa9e282ee807
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
+    fetched_at: '2026-04-22T08:44:42.544474Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 4257100c04ef258676f5ed5b7ec4703addd3fe813527369ce54f40b90b4294d4
+    source_url: https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
+    fetched_at: '2026-04-22T08:44:58.633209Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: dda2e98fa89a1f2e3dae1fe7a359001bee794c640333d4993911047acb976555
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
+    fetched_at: '2026-04-22T08:45:14.690093Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: eb05625486beeb31cdeb12e98e9dcf775d3f9fc046d47779514c62f194a6ffff
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: d7e08482ee6665063a8b7bda5541b6ae3546ba51c16f6e020570fa9e282ee807
+  fr: 4257100c04ef258676f5ed5b7ec4703addd3fe813527369ce54f40b90b4294d4
+  it: dda2e98fa89a1f2e3dae1fe7a359001bee794c640333d4993911047acb976555
   la: eb05625486beeb31cdeb12e98e9dcf775d3f9fc046d47779514c62f194a6ffff

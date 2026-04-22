@@ -18,13 +18,181 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/hr/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: ru
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/vi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: vi
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+  site: www.vatican.va
+  langue: zh
+  fetch_method: httpx
 traductions:
+  be:
+    kind: officielle
+    sha256: 23b1b5a38ea30dea7ea029447b222dd582c839cb8717bbda622d305b35c30d01
+    source_url: https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:31:22.030945Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 569860a5130c935336cf76abf8deaf3c6843452c209bb46ed6d559d31f296c43
+    source_url: https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:31:38.023334Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 398b4f253a86fa0aa50fcd0d230453a62ac0f4198b582ce341d01a6c8a64eff5
+    source_url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:31:53.970290Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: ae20aa415e88c942bb49af28087ddb2ae9f6c9f9a2af0059999e0cd4df422c26
+    source_url: https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:32:09.990330Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 2c03d44acb159b3d2316fcb823a013fdeea2c9911e0d72163938b7b3ecdfb180
+    source_url: https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:32:26.057391Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 23fafcffc3b47044f66b1372b58faeea38bf5737896edba88f772b48fb38cb0d
+    source_url: https://www.vatican.va/content/benedict-xvi/hr/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:32:42.045289Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 30084baa6341e584bc22835de39c741e62e9982e86c7b729c002dfb9b72b84a8
+    source_url: https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:32:58.107002Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 56dad738fd5b9119ea25204fda500881ae15b16096c31ac69d94e0b5baf4a36f
+    source_url: https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:33:14.059737Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 2b11233dc5c78c8e1235f318eab3a9fb20dd844d191cf0b825e96568b968d26f
     source_url: https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
     fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: 481cf602597da0b660a2ec03cbecf73701ae4a2e4e6e068c9b30f214445e3e9b
+    source_url: https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:33:30.040882Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: c7d23ac6b1e846b6fb469769b41aab2b0cf1f1ffed6788c34f5778da7fa4e6bd
+    source_url: https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:33:46.891629Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: cdb1b99341040b8d6ba2a9b0805462a67d323b7b3c3b7491d0aab1466cd8d546
+    source_url: https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:34:02.106756Z'
+    fetch_method: httpx
+  ru:
+    kind: officielle
+    sha256: b65e634035da4aa6c6af949434198687ef6c6e5047b817701d384bc9cf122144
+    source_url: https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:34:18.241324Z'
+    fetch_method: httpx
+  vi:
+    kind: officielle
+    sha256: 5b7042f85c392a57ce00b36e15fb03512be5b0b39fed365c10b179dcd246edca
+    source_url: https://www.vatican.va/content/benedict-xvi/vi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:34:34.190399Z'
+    fetch_method: httpx
+  zh:
+    kind: officielle
+    sha256: c5534515b01a199f30086cc5a786e8937f95da501fe8ae64b3e0cffdc910af48
+    source_url: https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetched_at: '2026-04-22T09:34:49.880427Z'
+    fetch_method: httpx
 langues_disponibles:
+- be
+- de
+- en
+- es
+- fr
+- hr
+- hu
+- it
 - la
+- nl
+- pl
+- pt
+- ru
+- vi
+- zh
 sha256:
+  be: 23b1b5a38ea30dea7ea029447b222dd582c839cb8717bbda622d305b35c30d01
+  de: 569860a5130c935336cf76abf8deaf3c6843452c209bb46ed6d559d31f296c43
+  en: 398b4f253a86fa0aa50fcd0d230453a62ac0f4198b582ce341d01a6c8a64eff5
+  es: ae20aa415e88c942bb49af28087ddb2ae9f6c9f9a2af0059999e0cd4df422c26
+  fr: 2c03d44acb159b3d2316fcb823a013fdeea2c9911e0d72163938b7b3ecdfb180
+  hr: 23fafcffc3b47044f66b1372b58faeea38bf5737896edba88f772b48fb38cb0d
+  hu: 30084baa6341e584bc22835de39c741e62e9982e86c7b729c002dfb9b72b84a8
+  it: 56dad738fd5b9119ea25204fda500881ae15b16096c31ac69d94e0b5baf4a36f
   la: 2b11233dc5c78c8e1235f318eab3a9fb20dd844d191cf0b825e96568b968d26f
+  nl: 481cf602597da0b660a2ec03cbecf73701ae4a2e4e6e068c9b30f214445e3e9b
+  pl: c7d23ac6b1e846b6fb469769b41aab2b0cf1f1ffed6788c34f5778da7fa4e6bd
+  pt: cdb1b99341040b8d6ba2a9b0805462a67d323b7b3c3b7491d0aab1466cd8d546
+  ru: b65e634035da4aa6c6af949434198687ef6c6e5047b817701d384bc9cf122144
+  vi: 5b7042f85c392a57ce00b36e15fb03512be5b0b39fed365c10b179dcd246edca
+  zh: c5534515b01a199f30086cc5a786e8937f95da501fe8ae64b3e0cffdc910af48

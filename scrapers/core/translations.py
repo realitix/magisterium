@@ -47,11 +47,21 @@ VATICAN_SUFFIX_TO_LANG: dict[str, str] = {
 # marathi, etc.) sont ignorées pour limiter le bruit.
 ACCEPTED_LANGS: frozenset[str] = frozenset({
     "la", "fr", "en", "it", "de", "es", "pt", "pl",
-    "hu", "sl", "zh", "ar", "ru", "uk", "cs", "nl", "sk", "hr", "ro",
+    "hu", "sl", "zh", "zh_cn", "zh_tw", "ar", "ru", "uk",
+    "cs", "nl", "sk", "hr", "ro",
+    "ja", "vi", "be", "mn",  # ajouts pour le pattern /content/{pape}/{lang}/
 })
 
 _VATICAN_LANG_PATTERN = re.compile(
     r"^(?P<base>.+?)_(?P<suffix>[a-z]{2,3})\.html?$", re.IGNORECASE
+)
+
+# Pattern des URLs modernes /content/<pape>/<lang>/... — où la langue est un
+# segment de chemin et non un suffixe de nom de fichier. Utilisé par tous les
+# textes Francesco, Benoît XVI et Jean-Paul II récents. Le code langue fait
+# 2 lettres (fr, en, it, la…) ou 5 caractères avec underscore (zh_cn, zh_tw).
+_VATICAN_CONTENT_PATH = re.compile(
+    r"^(?P<prefix>/content/[^/]+/)(?P<lang>[a-z]{2}(?:_[a-z]{2})?)(?P<rest>/.+)$"
 )
 
 
@@ -122,16 +132,81 @@ def discover_vatican_va(
     return sorted(out.items())
 
 
+def discover_vatican_content(
+    html: bytes | str,
+    source_url: str,
+) -> list[tuple[str, str]]:
+    """Parse une page vatican.va au format moderne `/content/<pape>/<lang>/…`
+    et retourne les siblings dans les autres langues.
+
+    Exemples couverts : Fratelli Tutti, Laudato Si', Evangelii Gaudium,
+    Dilexit Nos, toutes les encycliques / exhortations / lettres des papes
+    Francesco, Benoît XVI et Jean-Paul II récents.
+    """
+    parsed = urlparse(source_url)
+    if parsed.netloc != "www.vatican.va":
+        return []
+    m = _VATICAN_CONTENT_PATH.match(parsed.path)
+    if m is None:
+        return []
+    prefix = m.group("prefix")  # ex. "/content/francesco/"
+    source_lang_seg = m.group("lang").lower()
+    rest = m.group("rest")  # ex. "/encyclicals/documents/XXX.html"
+
+    if isinstance(html, bytes):
+        text = html.decode("utf-8", errors="replace")
+    else:
+        text = html
+
+    tree = HTMLParser(text)
+    out: dict[str, str] = {}
+    for a in tree.css("a[href]"):
+        href = (a.attributes.get("href") or "").strip()
+        if not href or href.startswith(("mailto:", "javascript:", "#")):
+            continue
+        abs_url = urljoin(source_url, href)
+        abs_parsed = urlparse(abs_url)
+        if abs_parsed.netloc != parsed.netloc:
+            continue
+        m2 = _VATICAN_CONTENT_PATH.match(abs_parsed.path)
+        if m2 is None:
+            continue
+        if m2.group("prefix") != prefix or m2.group("rest") != rest:
+            continue
+        cand_lang = m2.group("lang").lower()
+        if cand_lang == source_lang_seg:
+            continue
+        if cand_lang not in ACCEPTED_LANGS:
+            continue
+        clean = f"{abs_parsed.scheme}://{abs_parsed.netloc}{abs_parsed.path}"
+        out.setdefault(cand_lang, clean)
+
+    return sorted(out.items())
+
+
 def discover(html: bytes | str, source_url: str) -> list[tuple[str, str]]:
     """Dispatcher par domaine. Retourne liste (lang, url) des traductions
     officielles détectables depuis le HTML de la source. Vide par défaut
-    pour les domaines sans support."""
+    pour les domaines sans support.
+
+    Sur vatican.va on essaie d'abord le pattern classique `..._xx.html`
+    (documents pré-2013), puis le pattern moderne `/content/<pape>/<lang>/...`
+    utilisé par les textes Francesco / Benoît XVI / Jean-Paul II récents.
+    """
     host = urlparse(source_url).netloc
     if host == "www.vatican.va":
-        return discover_vatican_va(html, source_url)
+        legacy = discover_vatican_va(html, source_url)
+        if legacy:
+            return legacy
+        return discover_vatican_content(html, source_url)
     # papalencyclicals.net, laportelatine.org, etc. : pas de traductions
     # officielles multi-langues, on laisse le skill IA s'en occuper.
     return []
 
 
-__all__ = ["discover", "discover_vatican_va", "ACCEPTED_LANGS"]
+__all__ = [
+    "discover",
+    "discover_vatican_va",
+    "discover_vatican_content",
+    "ACCEPTED_LANGS",
+]

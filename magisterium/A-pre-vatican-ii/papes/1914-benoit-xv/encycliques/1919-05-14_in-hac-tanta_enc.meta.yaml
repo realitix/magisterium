@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: d53ea01b2a1f3a2c85efddf0e99a409c7095563f2aaf18567cdc65693be36e5c
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html
+    fetched_at: '2026-04-22T08:43:54.634872Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 4f615f14b0dcfc943a5a6c405a77f73741ea180592e16bc0f8f575fe66640589
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html
+    fetched_at: '2026-04-22T08:44:10.594449Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 96aef704868fc6ae1f1ea95e9c460191e937f4832dabf0fc67a29934dff4f810
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: d53ea01b2a1f3a2c85efddf0e99a409c7095563f2aaf18567cdc65693be36e5c
+  it: 4f615f14b0dcfc943a5a6c405a77f73741ea180592e16bc0f8f575fe66640589
   la: 96aef704868fc6ae1f1ea95e9c460191e937f4832dabf0fc67a29934dff4f810

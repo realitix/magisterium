@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-ix/it/documents/encyclica-quanta-cura-8-decembris-1864.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: ca2f7e5a56ea2990ccd3220f7eaec0d57c047ae711a3d8cf70eb3028d4705958
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/encyclica-quanta-cura-8-decembris-1864.html
+    fetched_at: '2026-04-22T08:35:20.020928Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: e9ae3e30c6c445c1b0e08e6c71369731a24eae900d3fb5a5ad431d36a8697d59
     source_url: https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: ca2f7e5a56ea2990ccd3220f7eaec0d57c047ae711a3d8cf70eb3028d4705958
   la: e9ae3e30c6c445c1b0e08e6c71369731a24eae900d3fb5a5ad431d36a8697d59

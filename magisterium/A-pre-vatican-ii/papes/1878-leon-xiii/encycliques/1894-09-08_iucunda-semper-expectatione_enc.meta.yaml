@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 340810c56d5ed9cf1f405e8ddc14314319194fe5a623f26272cc56cae08eac0f
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
+    fetched_at: '2026-04-22T08:40:46.316814Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 81edd51f2ba4bdddf6f53548b11ead1878f32ceeb9b4e10a7c1d2fb0a4092732
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
+    fetched_at: '2026-04-22T08:41:02.359145Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a371d8805f6e961c26bfd55dddc96fec13c8e46278d6661ac7468c9da7b8915c
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 851368011da6e4b5b217cf094669613eff44e9cce056c307cbf0efe17081fecc
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
+    fetched_at: '2026-04-22T08:41:18.395722Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: 340810c56d5ed9cf1f405e8ddc14314319194fe5a623f26272cc56cae08eac0f
+  it: 81edd51f2ba4bdddf6f53548b11ead1878f32ceeb9b4e10a7c1d2fb0a4092732
   la: a371d8805f6e961c26bfd55dddc96fec13c8e46278d6661ac7468c9da7b8915c
+  pt: 851368011da6e4b5b217cf094669613eff44e9cce056c307cbf0efe17081fecc

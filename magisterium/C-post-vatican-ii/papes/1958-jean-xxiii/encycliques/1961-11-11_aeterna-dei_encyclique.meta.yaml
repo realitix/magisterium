@@ -17,13 +17,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 8748ad5d9155247ff671201fd56605f7c101605c6a6f794e570da57da60f17e9
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+    fetched_at: '2026-04-22T09:25:45.454622Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 912d753f2935a0396a59527e674cc87f7745b744640e02637b38305cdb0c8b78
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+    fetched_at: '2026-04-22T09:26:01.484587Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 325803c24e230a19a378bca7443b973003538c02fe65676db71756dc2d96b740
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+    fetched_at: '2026-04-22T09:26:17.422861Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 31b98d67f2309472d0c07e444cef922d81d40e3688c01ddbc10b9918630ff47d
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: b727bee2ca8dd8982ff75271693b36a213a3433603b542f3edc875988b171123
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+    fetched_at: '2026-04-22T09:26:33.510752Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: 8748ad5d9155247ff671201fd56605f7c101605c6a6f794e570da57da60f17e9
+  es: 912d753f2935a0396a59527e674cc87f7745b744640e02637b38305cdb0c8b78
+  it: 325803c24e230a19a378bca7443b973003538c02fe65676db71756dc2d96b740
   la: 31b98d67f2309472d0c07e444cef922d81d40e3688c01ddbc10b9918630ff47d
+  pt: b727bee2ca8dd8982ff75271693b36a213a3433603b542f3edc875988b171123

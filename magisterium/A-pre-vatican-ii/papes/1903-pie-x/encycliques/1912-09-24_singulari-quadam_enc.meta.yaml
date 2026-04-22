@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 11381ba208116a25daa0f175b426d927fb5dd54f43661b46838c0868ab5e884f
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html
+    fetched_at: '2026-04-22T08:43:32.499994Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 9da8753024334fe5f9752f1fda513335c55be2e3e861931b44e77b6c6af07ea9
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html
+    fetched_at: '2026-04-22T08:43:48.524306Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: fbb856cc5f840b84ca12b23a87020155cffcb0d60f1a00f6b331e3533a7c3d50
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 11381ba208116a25daa0f175b426d927fb5dd54f43661b46838c0868ab5e884f
+  it: 9da8753024334fe5f9752f1fda513335c55be2e3e861931b44e77b6c6af07ea9
   la: fbb856cc5f840b84ca12b23a87020155cffcb0d60f1a00f6b331e3533a7c3d50

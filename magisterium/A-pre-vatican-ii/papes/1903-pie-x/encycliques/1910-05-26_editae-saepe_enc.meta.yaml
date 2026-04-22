@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 24c9bd589e6cfa1dfa60b2abab9fc95192142f311e160f8d3f04a3492a9f71be
+    source_url: https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html
+    fetched_at: '2026-04-22T08:43:24.563122Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 595082e86ef8053b234a03a36be1d49f80d82ac0eeae388976bca3b46ac71f80
+    source_url: https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html
+    fetched_at: '2026-04-22T08:43:40.590280Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 1c7c1ebed0283050435b0c5f6ee1b6e7a71768fef9d37ae7cf503ece700658fe
     source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 24c9bd589e6cfa1dfa60b2abab9fc95192142f311e160f8d3f04a3492a9f71be
+  it: 595082e86ef8053b234a03a36be1d49f80d82ac0eeae388976bca3b46ac71f80
   la: 1c7c1ebed0283050435b0c5f6ee1b6e7a71768fef9d37ae7cf503ece700658fe

@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: c8cde7988a2b7cae4ec781d3d92078b491231021a315e36cdcd15a753bb83304
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+    fetched_at: '2026-04-22T08:43:42.601895Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 207324fa7dc0d863dbdd466cde02a10f3b01d6fb6d3900db54488a2507f47919
+    source_url: https://www.vatican.va/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+    fetched_at: '2026-04-22T08:43:58.485237Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 7ebf9add7ef1066e06199b5b80dad70453f863a42380cb2b03e1c6b0b1fa1d15
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+    fetched_at: '2026-04-22T08:44:14.467442Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: edfd0fdb8ea5fa609fdcadc7749628aa316737f37e1061d08c6f8ab612be2601
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
 sha256:
+  en: c8cde7988a2b7cae4ec781d3d92078b491231021a315e36cdcd15a753bb83304
+  es: 207324fa7dc0d863dbdd466cde02a10f3b01d6fb6d3900db54488a2507f47919
+  it: 7ebf9add7ef1066e06199b5b80dad70453f863a42380cb2b03e1c6b0b1fa1d15
   la: edfd0fdb8ea5fa609fdcadc7749628aa316737f37e1061d08c6f8ab612be2601

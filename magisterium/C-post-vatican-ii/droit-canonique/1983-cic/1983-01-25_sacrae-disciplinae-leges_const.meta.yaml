@@ -17,13 +17,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: bb831bba673d96c52001f6d0bf0c47628a8afe4ac765e687c2dbaa86d3f673fe
+    source_url: https://www.vatican.va/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+    fetched_at: '2026-04-22T09:24:01.235997Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 4d2845d2d371194e7a511058d2cb6ffbfac71d171b3d6f885df9703c4232b7ba
+    source_url: https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+    fetched_at: '2026-04-22T09:24:17.282761Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: fa89c46118e98868495c83656965c2f35d47568f70ac9776742e678f0836368c
+    source_url: https://www.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+    fetched_at: '2026-04-22T09:24:33.355156Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 0584b55b9f7bb74938003ed0599f13f96c94c0203fec9637841f182c6d5e15c6
+    source_url: https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+    fetched_at: '2026-04-22T09:24:49.318888Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 47a08e8fa463894db68ab5c5bcf3d5c51475c9f298baa6db7a79fdfd7c667351
     source_url: https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 33adca5950663c267d505cd1e9e58e46993620b2f2edcf2c10433a729f99f32f
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+    fetched_at: '2026-04-22T09:25:05.274486Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  de: bb831bba673d96c52001f6d0bf0c47628a8afe4ac765e687c2dbaa86d3f673fe
+  en: 4d2845d2d371194e7a511058d2cb6ffbfac71d171b3d6f885df9703c4232b7ba
+  es: fa89c46118e98868495c83656965c2f35d47568f70ac9776742e678f0836368c
+  it: 0584b55b9f7bb74938003ed0599f13f96c94c0203fec9637841f182c6d5e15c6
   la: 47a08e8fa463894db68ab5c5bcf3d5c51475c9f298baa6db7a79fdfd7c667351
+  pt: 33adca5950663c267d505cd1e9e58e46993620b2f2edcf2c10433a729f99f32f

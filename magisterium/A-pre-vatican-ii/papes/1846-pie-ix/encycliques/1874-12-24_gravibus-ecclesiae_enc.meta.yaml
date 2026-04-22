@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-gravibus-ecclesiae-24-decembris-1874.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 441661f38651b029942572971b717d032477bbd88e393cdbd681e7026a340b61
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-gravibus-ecclesiae-24-decembris-1874.html
+    fetched_at: '2026-04-22T08:36:00.022922Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ef82e4cde23f9094da3bddd4ad0405f091d4b49a97a32f96318fa3bea31db3cb
     source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-gravibus-ecclesiae-24-decembris-1874.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 441661f38651b029942572971b717d032477bbd88e393cdbd681e7026a340b61
   la: ef82e4cde23f9094da3bddd4ad0405f091d4b49a97a32f96318fa3bea31db3cb

@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 2cad47b681b9adf988661820303dff497f86f56393d05a17ff54039882f2b1aa
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html
+    fetched_at: '2026-04-22T08:39:52.244918Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 30086e11bc739c3e02311117605c0b9d13b1a0ecff8873625c41afae90acc467
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html
+    fetched_at: '2026-04-22T08:40:08.272702Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 393b81fc1e6962ef28f0f448658d7035634723b2fd9f1b3e89e636daa898a51a
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 2cad47b681b9adf988661820303dff497f86f56393d05a17ff54039882f2b1aa
+  it: 30086e11bc739c3e02311117605c0b9d13b1a0ecff8873625c41afae90acc467
   la: 393b81fc1e6962ef28f0f448658d7035634723b2fd9f1b3e89e636daa898a51a

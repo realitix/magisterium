@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 49b67aecca33bbeec5f4bc951ada7c62c78f6f43947db558b0240d56d34bdfbb
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+    fetched_at: '2026-04-22T08:48:56.874490Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 49bed012568e84b849c0ae2b8101f059eb735263ee8dfc0fd4203c4d14e64c52
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+    fetched_at: '2026-04-22T08:49:12.902143Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: b7e9e80e1ed2bb887d6eb43834ca93a3f877dfc084254b49293783133cd7663d
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+    fetched_at: '2026-04-22T08:49:28.909166Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a5ff476b865ab2298b82c127fb045565b148cb7461683ebbe721850252abda66
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 6f1a2cf5eaaaf53396d8c4660d785e5012b59254a9f998649ef08e30b2338dac
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html
+    fetched_at: '2026-04-22T08:49:44.942533Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: 49b67aecca33bbeec5f4bc951ada7c62c78f6f43947db558b0240d56d34bdfbb
+  es: 49bed012568e84b849c0ae2b8101f059eb735263ee8dfc0fd4203c4d14e64c52
+  it: b7e9e80e1ed2bb887d6eb43834ca93a3f877dfc084254b49293783133cd7663d
   la: a5ff476b865ab2298b82c127fb045565b148cb7461683ebbe721850252abda66
+  pt: 6f1a2cf5eaaaf53396d8c4660d785e5012b59254a9f998649ef08e30b2338dac

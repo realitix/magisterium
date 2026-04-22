@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 6545363afbd895c161fc0907eedf1ab03fbac7a39499a2372279887ab88a4717
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html
+    fetched_at: '2026-04-22T08:36:12.030012Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: c47546e66277bc83bce6109218a141a404ed0dbbffdab794a1b4293f496f3623
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html
+    fetched_at: '2026-04-22T08:36:28.066255Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b75d850c3e0eb78973f9120a60b4b739587c27426308453ed8d608ca07e2a7f1
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 6545363afbd895c161fc0907eedf1ab03fbac7a39499a2372279887ab88a4717
+  it: c47546e66277bc83bce6109218a141a404ed0dbbffdab794a1b4293f496f3623
   la: b75d850c3e0eb78973f9120a60b4b739587c27426308453ed8d608ca07e2a7f1

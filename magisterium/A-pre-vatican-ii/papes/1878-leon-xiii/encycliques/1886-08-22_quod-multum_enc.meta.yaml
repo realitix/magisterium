@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 65010a733dae989d36ec17fc861c4ac10ce6e4d64e02e9b176d5b52ceeed2187
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html
+    fetched_at: '2026-04-22T08:37:38.111601Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: cc9a433e436599f7d1697d43bdb4548397c3bda5d957cf027c11e036f93a272d
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html
+    fetched_at: '2026-04-22T08:37:54.118076Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b1ca784c76430ddfc509b1c568005a1fc1a6eefea13e50b74b9e68c1ed7b0cfd
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 65010a733dae989d36ec17fc861c4ac10ce6e4d64e02e9b176d5b52ceeed2187
+  it: cc9a433e436599f7d1697d43bdb4548397c3bda5d957cf027c11e036f93a272d
   la: b1ca784c76430ddfc509b1c568005a1fc1a6eefea13e50b74b9e68c1ed7b0cfd

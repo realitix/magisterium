@@ -17,13 +17,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/ar/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/sk/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+  site: www.vatican.va
+  langue: sk
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: b046910fe57991580246c9baaaaa4c548790cb25386432b6f3edf2e654e0d0e2
+    source_url: https://www.vatican.va/content/john-paul-ii/ar/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:28:07.784288Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: cf1b4cc659cc84bdf8356ab428ae7e621f79b056eba9c1119bd8ca8eec00c7f4
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:28:23.808633Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: ba7d9cf3939e3abe2ba5cec60f8374ddb13deb43c38b032778ab9d83e6d0472d
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:28:39.823379Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 61175eaf27e982657f8ae35688e9d556eb07fc0d4fecb458e7c8f9ebae6ceae2
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:28:55.943725Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: b13e30f8c62679e56d970079f11bd27586941e97418535fe4aa156ee50981d9f
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:29:11.793608Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 0669697e3a9a207f8f1421f8e1f5e0189f4e15501d936979002fef51cf341ae5
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:29:27.801439Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 7880cf8235ca63c58596f4c34c2f01d6ec7c59b0f48d465fde4096f1b32119e1
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 8640fb46381f19c6b6d758035fa50ee7880b9ca567db53c4cdf82672a8c858c5
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:29:43.871746Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: cf88004500719d6ebca29f746b5700f5e69d2e67370f4078d29b4ebf2988bd9c
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:29:59.903626Z'
+    fetch_method: httpx
+  sk:
+    kind: officielle
+    sha256: 75c84c593847c1b313f2a47995c35fe4ca14c542d9f0ae07ce0188aaa90e266e
+    source_url: https://www.vatican.va/content/john-paul-ii/sk/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetched_at: '2026-04-22T09:30:15.917891Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- de
+- en
+- es
+- fr
+- it
 - la
+- pl
+- pt
+- sk
 sha256:
+  ar: b046910fe57991580246c9baaaaa4c548790cb25386432b6f3edf2e654e0d0e2
+  de: cf1b4cc659cc84bdf8356ab428ae7e621f79b056eba9c1119bd8ca8eec00c7f4
+  en: ba7d9cf3939e3abe2ba5cec60f8374ddb13deb43c38b032778ab9d83e6d0472d
+  es: 61175eaf27e982657f8ae35688e9d556eb07fc0d4fecb458e7c8f9ebae6ceae2
+  fr: b13e30f8c62679e56d970079f11bd27586941e97418535fe4aa156ee50981d9f
+  it: 0669697e3a9a207f8f1421f8e1f5e0189f4e15501d936979002fef51cf341ae5
   la: 7880cf8235ca63c58596f4c34c2f01d6ec7c59b0f48d465fde4096f1b32119e1
+  pl: 8640fb46381f19c6b6d758035fa50ee7880b9ca567db53c4cdf82672a8c858c5
+  pt: cf88004500719d6ebca29f746b5700f5e69d2e67370f4078d29b4ebf2988bd9c
+  sk: 75c84c593847c1b313f2a47995c35fe4ca14c542d9f0ae07ce0188aaa90e266e

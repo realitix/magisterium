@@ -17,13 +17,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 030ba9de630e6b2f36b2e7a8519cdb3c429cd5684725a3b1b1b4f357d932f6e2
+    source_url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+    fetched_at: '2026-04-22T09:25:17.345550Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f716e9bd18d303059de464bd400476db8e01cbe74204673b0b6146e94ec086e0
+    source_url: https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+    fetched_at: '2026-04-22T09:25:33.369670Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 2d7535725c52508e15272bf9bc4207b5f9ac85a03edfb96fff81b163a98d93de
+    source_url: https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+    fetched_at: '2026-04-22T09:25:49.375114Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 67403a649c585dc0131cefbfd846f07520c1acaeee86f320abc0df1dc853b8ac
     source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: a9c52ed93a57f96c323cddb2d6b67a91c6567adefc40da4c98d37d7d453755c7
+    source_url: https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html
+    fetched_at: '2026-04-22T09:26:05.406564Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
+- pt
 sha256:
+  en: 030ba9de630e6b2f36b2e7a8519cdb3c429cd5684725a3b1b1b4f357d932f6e2
+  es: f716e9bd18d303059de464bd400476db8e01cbe74204673b0b6146e94ec086e0
+  it: 2d7535725c52508e15272bf9bc4207b5f9ac85a03edfb96fff81b163a98d93de
   la: 67403a649c585dc0131cefbfd846f07520c1acaeee86f320abc0df1dc853b8ac
+  pt: a9c52ed93a57f96c323cddb2d6b67a91c6567adefc40da4c98d37d7d453755c7

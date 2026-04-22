@@ -18,13 +18,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 273f19d00b5e39d64fd1cac74b135d6ca5a3181bee7590ba4693912523223f0c
+    source_url: https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+    fetched_at: '2026-04-22T09:27:05.674460Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 67ea2a4ff886906eb07754bbb977f9cb436466ce5226331def44a4de0bbadd8c
+    source_url: https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+    fetched_at: '2026-04-22T09:27:21.587058Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f36996e1f885457c68e0abe649af594b8b8aa247f90c2089eedbda6f1e88bfb9
+    source_url: https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+    fetched_at: '2026-04-22T09:27:37.651895Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9b9fb4c72bb607d522b1f285502b7e45b48e7dd67b893cfd19f28ada2270ec7e
+    source_url: https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+    fetched_at: '2026-04-22T09:27:53.709698Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 1d38c2187ce8af953081cd88ec9865590b9eb2eb7fae183b2034738495d3befc
+    source_url: https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+    fetched_at: '2026-04-22T09:28:09.644295Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: acc4451adb67df687355361ff1e0024c1671480d9a5678d76fd08c628b0c4369
     source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 8bcb6caa951c0b407871df6197c81c445bd5e3bc9775030c1c8488df95f1d0db
+    source_url: https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+    fetched_at: '2026-04-22T09:28:25.722794Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  de: 273f19d00b5e39d64fd1cac74b135d6ca5a3181bee7590ba4693912523223f0c
+  en: 67ea2a4ff886906eb07754bbb977f9cb436466ce5226331def44a4de0bbadd8c
+  es: f36996e1f885457c68e0abe649af594b8b8aa247f90c2089eedbda6f1e88bfb9
+  fr: 9b9fb4c72bb607d522b1f285502b7e45b48e7dd67b893cfd19f28ada2270ec7e
+  it: 1d38c2187ce8af953081cd88ec9865590b9eb2eb7fae183b2034738495d3befc
   la: acc4451adb67df687355361ff1e0024c1671480d9a5678d76fd08c628b0c4369
+  pt: 8bcb6caa951c0b407871df6197c81c445bd5e3bc9775030c1c8488df95f1d0db

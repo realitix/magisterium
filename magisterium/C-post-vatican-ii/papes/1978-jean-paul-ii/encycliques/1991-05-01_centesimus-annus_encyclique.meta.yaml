@@ -17,13 +17,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+  site: www.vatican.va
+  langue: zh
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: d7c53ab28fb4d0da700fd8f4f3dd6969ea1ed8f9076923c1c434a6c48999d599
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:30:27.953632Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: bb609fea68c107a43a198a75fda3c75a17bee298c9956779d15d9cf0457476a6
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:30:43.865499Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 45896f1b7432f54b69b937eb90ecd113e39326e33b5a617bf77756da767b9896
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:31:00.046794Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 933b2abdcbd38182c0f92afefbafd6cd83d04a7394bdbb6fbe56d6e628a4a704
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:31:16.035791Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: c93c27101a27a410b7440253cb695a11b781299c437620009c2603af07ffef06
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:31:32.095464Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: af03631a76b74ceb417f126db16f96af5379a0c7a324b50a34c5f8b5bfa5eca8
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:31:48.351145Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a9af04cd922bea2dd782908bca23450c79622a8c782aa0d5ba24039cef868e48
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 10e0737a98d208a91b96bf44a8e74647ac48d218ffd49d19c9cb5924e04a92c1
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:32:04.079580Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 143c251d5538a30ccc61c78e254747eabb8c15d9c7735083055bc7066b6311c0
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:32:20.149517Z'
+    fetch_method: httpx
+  zh:
+    kind: officielle
+    sha256: 725e0484e3199dbdf4395ce527307409476fe27f3a62daff9d623e9c085593b3
+    source_url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetched_at: '2026-04-22T09:32:35.742570Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pl
+- pt
+- zh
 sha256:
+  de: d7c53ab28fb4d0da700fd8f4f3dd6969ea1ed8f9076923c1c434a6c48999d599
+  en: bb609fea68c107a43a198a75fda3c75a17bee298c9956779d15d9cf0457476a6
+  es: 45896f1b7432f54b69b937eb90ecd113e39326e33b5a617bf77756da767b9896
+  fr: 933b2abdcbd38182c0f92afefbafd6cd83d04a7394bdbb6fbe56d6e628a4a704
+  hu: c93c27101a27a410b7440253cb695a11b781299c437620009c2603af07ffef06
+  it: af03631a76b74ceb417f126db16f96af5379a0c7a324b50a34c5f8b5bfa5eca8
   la: a9af04cd922bea2dd782908bca23450c79622a8c782aa0d5ba24039cef868e48
+  pl: 10e0737a98d208a91b96bf44a8e74647ac48d218ffd49d19c9cb5924e04a92c1
+  pt: 143c251d5538a30ccc61c78e254747eabb8c15d9c7735083055bc7066b6311c0
+  zh: 725e0484e3199dbdf4395ce527307409476fe27f3a62daff9d623e9c085593b3

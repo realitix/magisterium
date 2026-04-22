@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 16e14495470d4748ff25ff29fa62f069897db9fa39c7aa22fbfe6516d6320424
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html
+    fetched_at: '2026-04-22T08:39:44.225556Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: bc029bfc744398047ca00b5241f25a47a428daffbd3859a93757ca4c3d325de0
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html
+    fetched_at: '2026-04-22T08:40:00.277356Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: bf51695e8edc1cc853f500067185de21c5dfa3d206aa761ad5325ac9a7a1c163
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 16e14495470d4748ff25ff29fa62f069897db9fa39c7aa22fbfe6516d6320424
+  it: bc029bfc744398047ca00b5241f25a47a428daffbd3859a93757ca4c3d325de0
   la: bf51695e8edc1cc853f500067185de21c5dfa3d206aa761ad5325ac9a7a1c163

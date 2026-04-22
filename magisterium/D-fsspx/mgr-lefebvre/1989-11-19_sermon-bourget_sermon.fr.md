@@ -6,7 +6,6 @@
 
 
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-002.jpg)
 
 [!](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001-1.jpg)
 

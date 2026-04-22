@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: b3465d2e6d2d80e4b91faee6e8cc7531614238a674e1fd618ea25bbaf408cf3c
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html
+    fetched_at: '2026-04-22T08:46:46.733462Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 9e6bb72a5ffb5cc5d3ab512bad524e96c089cf49671d870a8147f3dfd5c1d3ee
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: b3465d2e6d2d80e4b91faee6e8cc7531614238a674e1fd618ea25bbaf408cf3c
   la: 9e6bb72a5ffb5cc5d3ab512bad524e96c089cf49671d870a8147f3dfd5c1d3ee

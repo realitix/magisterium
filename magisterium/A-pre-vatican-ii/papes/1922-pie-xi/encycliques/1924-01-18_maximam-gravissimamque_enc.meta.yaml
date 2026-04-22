@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 00efd1471b7b1ee439080abb246daa0921628584b059de80e31ec2948dae5586
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html
+    fetched_at: '2026-04-22T08:45:24.623202Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: aae46fd21d030ec141dfdc1f2010a4b1feca570ad71246d42892886a488c6b94
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html
     fetch_method: httpx
 langues_disponibles:
+- en
 - la
 sha256:
+  en: 00efd1471b7b1ee439080abb246daa0921628584b059de80e31ec2948dae5586
   la: aae46fd21d030ec141dfdc1f2010a4b1feca570ad71246d42892886a488c6b94

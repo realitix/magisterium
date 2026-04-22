@@ -18,13 +18,109 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/sk/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+  site: www.vatican.va
+  langue: sk
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 08770f924807c97a8c93f9c13105904b2371a908435513606827cf07562a20df
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:28:15.815883Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: dbeb05ba51364f4c06731957ca3c24ba62daeb150c3863e2c1bcf68d6ba5fc1f
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:28:31.922520Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: ad2c65e5e11ae3a80999cc05338d526f6adda699a68eceeaef88d60139ddcbc0
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:28:47.936776Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 46543a055622b6cb259a2248c3161bb65427278535598a3e32f36632614d05cc
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:29:03.869201Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: dcd18457b63d9d905179970c2f8e228fa34dc9d11a403908f5c2e4b65349f738
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:29:19.875176Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 5ae590af262ed5ad2c5f1adaec558f6c613e0a7c26fa03aee4f2721b9b28ab01
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 80269dd7cf08f674438c24ddd6a963772d157698f34a6ffb34631a7a64add936
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:29:35.862925Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 8c328b4ab5786678b46b5b5d1bd94f45e5537fb9a42b6c9d6b46d32a2bdaade5
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:29:51.949462Z'
+    fetch_method: httpx
+  sk:
+    kind: officielle
+    sha256: 16c3a87bdaac84c91eef334e3046f7d658d8811800686e643f045943f1308562
+    source_url: https://www.vatican.va/content/john-paul-ii/sk/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html
+    fetched_at: '2026-04-22T09:30:08.182171Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- it
 - la
+- pl
+- pt
+- sk
 sha256:
+  de: 08770f924807c97a8c93f9c13105904b2371a908435513606827cf07562a20df
+  en: dbeb05ba51364f4c06731957ca3c24ba62daeb150c3863e2c1bcf68d6ba5fc1f
+  es: ad2c65e5e11ae3a80999cc05338d526f6adda699a68eceeaef88d60139ddcbc0
+  fr: 46543a055622b6cb259a2248c3161bb65427278535598a3e32f36632614d05cc
+  it: dcd18457b63d9d905179970c2f8e228fa34dc9d11a403908f5c2e4b65349f738
   la: 5ae590af262ed5ad2c5f1adaec558f6c613e0a7c26fa03aee4f2721b9b28ab01
+  pl: 80269dd7cf08f674438c24ddd6a963772d157698f34a6ffb34631a7a64add936
+  pt: 8c328b4ab5786678b46b5b5d1bd94f45e5537fb9a42b6c9d6b46d32a2bdaade5
+  sk: 16c3a87bdaac84c91eef334e3046f7d658d8811800686e643f045943f1308562

@@ -17,13 +17,181 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: ja
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ru/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: ru
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: sl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: cae3c3d3296d8661a6409ee3d0511ab5038e410b908f288c106643e3eb1b976c
+    source_url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:33:19.798214Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: 9a86646e39157b6a1370687144d56451f20808a07b6abd96083318c42b04acef
+    source_url: https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:33:36.200273Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: cd2bcbc1da7fb799ee1b3183a7c720f33b8c80f812284166167e3ae3771280d1
+    source_url: https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:33:52.120871Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 9342d602710253718d00884fa5e316efe38dd64af566e96daef79487cf3833b3
+    source_url: https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:34:08.131897Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 51ff40a21c93b14bd6c0d45b0fe899c6e809343bce4a551941f8f92b447d15e3
+    source_url: https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:34:24.240956Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 6934561a8d33b0be6fa84ab0c4820d56437986a664b16cfe31c7871a4d97b0db
+    source_url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:34:40.177747Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8c5c16156bd24d599214577862a7473d49da6d99669bfff6545e9550ca5a2ce1
+    source_url: https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:34:56.139605Z'
+    fetch_method: httpx
+  ja:
+    kind: officielle
+    sha256: a592b31a3e2b1ab9f0f4c7896f88de6a3b91471ed8eb5656228397019424a007
+    source_url: https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:35:09.984782Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: d5b205e5d7be58b16e1f4a3c1b2ef8e99382d0ef46c7ee7d3dd8df4c819755f3
     source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: e906fca405500a33588f0e42cafa1912ec1df1014647fcf79366a86a4ada3810
+    source_url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:35:23.909615Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: df9177775f1e296d6a81168aa0d5f82c8ed21a20327faa0d588e49e8ebdc8e4a
+    source_url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:35:38.205379Z'
+    fetch_method: httpx
+  ru:
+    kind: officielle
+    sha256: efe085465e20345f14a33f63cc459c11fbb51c3c79a0b649454c1217df3e8972
+    source_url: https://www.vatican.va/content/francesco/ru/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:35:52.129001Z'
+    fetch_method: httpx
+  sl:
+    kind: officielle
+    sha256: 39cf2c8582f59054d5fc8c87a93a9efe9848c1d508de56684870967e385e2d84
+    source_url: https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:36:06.224803Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: 5b7a09f80e21a46a71d74381c4caa3ce21798825b52505277155a6e2aa4adb06
+    source_url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:36:20.187305Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 64325d374fd9175dc2c89ab508268115df0f928049fe1bd29655e0d22c89d6ad
+    source_url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetched_at: '2026-04-22T09:36:32.267047Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- be
+- de
+- en
+- es
+- fr
+- it
+- ja
 - la
+- pl
+- pt
+- ru
+- sl
+- zh_cn
+- zh_tw
 sha256:
+  ar: cae3c3d3296d8661a6409ee3d0511ab5038e410b908f288c106643e3eb1b976c
+  be: 9a86646e39157b6a1370687144d56451f20808a07b6abd96083318c42b04acef
+  de: cd2bcbc1da7fb799ee1b3183a7c720f33b8c80f812284166167e3ae3771280d1
+  en: 9342d602710253718d00884fa5e316efe38dd64af566e96daef79487cf3833b3
+  es: 51ff40a21c93b14bd6c0d45b0fe899c6e809343bce4a551941f8f92b447d15e3
+  fr: 6934561a8d33b0be6fa84ab0c4820d56437986a664b16cfe31c7871a4d97b0db
+  it: 8c5c16156bd24d599214577862a7473d49da6d99669bfff6545e9550ca5a2ce1
+  ja: a592b31a3e2b1ab9f0f4c7896f88de6a3b91471ed8eb5656228397019424a007
   la: d5b205e5d7be58b16e1f4a3c1b2ef8e99382d0ef46c7ee7d3dd8df4c819755f3
+  pl: e906fca405500a33588f0e42cafa1912ec1df1014647fcf79366a86a4ada3810
+  pt: df9177775f1e296d6a81168aa0d5f82c8ed21a20327faa0d588e49e8ebdc8e4a
+  ru: efe085465e20345f14a33f63cc459c11fbb51c3c79a0b649454c1217df3e8972
+  sl: 39cf2c8582f59054d5fc8c87a93a9efe9848c1d508de56684870967e385e2d84
+  zh_cn: 5b7a09f80e21a46a71d74381c4caa3ce21798825b52505277155a6e2aa4adb06
+  zh_tw: 64325d374fd9175dc2c89ab508268115df0f928049fe1bd29655e0d22c89d6ad

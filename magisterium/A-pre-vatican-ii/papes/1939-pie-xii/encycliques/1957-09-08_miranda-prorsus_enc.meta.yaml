@@ -15,13 +15,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: a89f6908d51d34632dd4057a4a721ea733ef67726956720566784dfeaaa8646d
+    source_url: https://www.vatican.va/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+    fetched_at: '2026-04-22T08:52:27.244457Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 89473e45fb3414440123fd2fb47df1f9fc5ea5bff4dd6d48ca6d1f1e398041a4
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+    fetched_at: '2026-04-22T08:52:43.320407Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 71eddd088d97a0ae2d85d0e10780afd64acf8077641409f15aa993252539f4a7
+    source_url: https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+    fetched_at: '2026-04-22T08:52:59.269371Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: cf984d1259bc53c5a92e4f7e5fbc48a2de31876d0322095986b4cf9f9547e02f
+    source_url: https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+    fetched_at: '2026-04-22T08:53:15.614303Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 4ba309276c7475635c696bbb3ed50d377ea48263110e19f4e017d4f0f628fc52
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+    fetched_at: '2026-04-22T08:53:31.309190Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 114f54835473e2994e80438a3d6b7d007e2144ccbcf6e678e6811c3078fafc2a
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: c4cd0a87c401d9c0eaf0dbc6f3aa8b242339a04fa550716a3bba13fd32fc36db
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+    fetched_at: '2026-04-22T08:53:47.468083Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- it
 - la
+- pt
 sha256:
+  de: a89f6908d51d34632dd4057a4a721ea733ef67726956720566784dfeaaa8646d
+  en: 89473e45fb3414440123fd2fb47df1f9fc5ea5bff4dd6d48ca6d1f1e398041a4
+  es: 71eddd088d97a0ae2d85d0e10780afd64acf8077641409f15aa993252539f4a7
+  fr: cf984d1259bc53c5a92e4f7e5fbc48a2de31876d0322095986b4cf9f9547e02f
+  it: 4ba309276c7475635c696bbb3ed50d377ea48263110e19f4e017d4f0f628fc52
   la: 114f54835473e2994e80438a3d6b7d007e2144ccbcf6e678e6811c3078fafc2a
+  pt: c4cd0a87c401d9c0eaf0dbc6f3aa8b242339a04fa550716a3bba13fd32fc36db

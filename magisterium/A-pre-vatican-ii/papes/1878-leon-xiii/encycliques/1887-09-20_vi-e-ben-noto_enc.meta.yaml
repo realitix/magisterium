@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: bf0a4e34e5b5be83740736cec1f21470ddcfda0c22f65d056e236c4703ca082e
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html
+    fetched_at: '2026-04-22T08:37:52.070673Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: daced23506fe729e8ab9682bfe1b74c581e11c03a07a1bbf3254041b3b29138e
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html
+    fetched_at: '2026-04-22T08:38:08.103861Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 9cd93303b6c2590ad044644f5b2867a74b8809e9108e75c97e6ab006968a077e
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: bf0a4e34e5b5be83740736cec1f21470ddcfda0c22f65d056e236c4703ca082e
+  it: daced23506fe729e8ab9682bfe1b74c581e11c03a07a1bbf3254041b3b29138e
   la: 9cd93303b6c2590ad044644f5b2867a74b8809e9108e75c97e6ab006968a077e

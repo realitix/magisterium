@@ -17,13 +17,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 76624eb5bb0b000012048bdfc9809322df95995ab616c88097a140291112fafc
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:30:51.971167Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 2e1e5ed34f003ae2f041768e9d1ef8ab65f5196a5d9ed25c29894ecc9aa992fb
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:31:08.053598Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 12b1f947b1ae8fb510f4c4a478221593b93937479324f25bb9f363423378c48c
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:31:24.138910Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: df9a8eaa1bcfedb57d3e074e470bd95fab60a27ad9eb87a675373da4c78eb231
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:31:39.971637Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 792b16cd98ce30f5c645eb14f30236317745c23b9c522bd89b878f3dc4c8a57b
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:31:56.063660Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: ed482b784d486f844ac7b81961f837b48fea3860ea8db549bfa7fd4f90e258b1
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:32:12.134086Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 3808e61fcd4ddfa84eea7f73dfcce0425684ebafa1a1e2bc1942bc9b87694f0f
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
     fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: a3058c1210a017d28b2013f06f07125630d364d5fe6b285df4a0277038f65145
+    source_url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:32:28.426714Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 59ed5167a24431c117abe3f7804d71810ece1938a992794cc5221c89b842dad7
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:32:44.219979Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 853272f6688660ad062f4ac88383aa620a4fe14ed12da387bdeed72220f4399a
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html
+    fetched_at: '2026-04-22T09:33:00.343587Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- nl
+- pl
+- pt
 sha256:
+  de: 76624eb5bb0b000012048bdfc9809322df95995ab616c88097a140291112fafc
+  en: 2e1e5ed34f003ae2f041768e9d1ef8ab65f5196a5d9ed25c29894ecc9aa992fb
+  es: 12b1f947b1ae8fb510f4c4a478221593b93937479324f25bb9f363423378c48c
+  fr: df9a8eaa1bcfedb57d3e074e470bd95fab60a27ad9eb87a675373da4c78eb231
+  hu: 792b16cd98ce30f5c645eb14f30236317745c23b9c522bd89b878f3dc4c8a57b
+  it: ed482b784d486f844ac7b81961f837b48fea3860ea8db549bfa7fd4f90e258b1
   la: 3808e61fcd4ddfa84eea7f73dfcce0425684ebafa1a1e2bc1942bc9b87694f0f
+  nl: a3058c1210a017d28b2013f06f07125630d364d5fe6b285df4a0277038f65145
+  pl: 59ed5167a24431c117abe3f7804d71810ece1938a992794cc5221c89b842dad7
+  pt: 853272f6688660ad062f4ac88383aa620a4fe14ed12da387bdeed72220f4399a

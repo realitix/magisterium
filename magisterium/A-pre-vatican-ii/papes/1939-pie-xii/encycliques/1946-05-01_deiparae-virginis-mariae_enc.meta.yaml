@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: a51a86669803c510853cd13f0da2b6364b3247fe27e4beb17c27f56eed4d8dd2
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
+    fetched_at: '2026-04-22T08:49:00.858740Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: caced81937af18af52abf2695f2b9c204852f20de0813607924a3e4e1906b614
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
+    fetched_at: '2026-04-22T08:49:16.859022Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: faf7902172c08473a2d3fdbed5ce12e8858960150bef03740a6098f1286b45e0
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 494730c6034d931c2393b2212b5fd7a0880c9c49ffa0e39d6f765440ce16fb40
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html
+    fetched_at: '2026-04-22T08:49:32.835730Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: a51a86669803c510853cd13f0da2b6364b3247fe27e4beb17c27f56eed4d8dd2
+  it: caced81937af18af52abf2695f2b9c204852f20de0813607924a3e4e1906b614
   la: faf7902172c08473a2d3fdbed5ce12e8858960150bef03740a6098f1286b45e0
+  pt: 494730c6034d931c2393b2212b5fd7a0880c9c49ffa0e39d6f765440ce16fb40

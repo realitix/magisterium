@@ -18,13 +18,169 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/ar/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/ro/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: ro
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh_cn/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh_tw/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: 6b8bb0ddae866dad5b979551b068b6ab859d6156e6e3e4fba0c400b51624dc35
+    source_url: https://www.vatican.va/content/john-paul-ii/ar/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:30:54.183536Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: eda2f56bb8a3fc6d19715f5a01df1811b2c20f9bccc2728360250b7772021467
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:31:10.289256Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 3f66407d014c57ef9cdd25457d21607da5257790f3cd4e769164080c3eebcec3
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:31:26.221970Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 3b02ff8226809f71159252052cd1207cf33cfb18337a71ae01d529a6b5d92bd1
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:31:42.238255Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: f905f7a3a4c81a2f9f9a90015b41700a97c670d83406a18d36f304dadba3351c
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:31:58.224486Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 0d7a9be3d8ac3191b18d3ba2f9a3d86a23ecb17eab8f3fe0a998157b631e507b
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:32:14.175493Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 9534d11ce215410386cfc8bcbfc867cc13ca88083d09cfbbdc66fca7a56b91e5
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:32:30.267925Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 90bed88361d1191e6bbf7eed3e3892af21d2d731cd2f6ed3e6f88371cb9063a5
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
     fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: 23e8ca88fece5ad2b94d3e027e7a23553412c03f6629e5496eb733fae8d02328
+    source_url: https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:32:46.343975Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: d6fca1f5c86edd9d84bc43f9ec5c2962f5ff56802b6153ababd5afcc6e3b7b3d
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:33:02.263866Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: dc82b4773e72e9271facaf443e5a0a17f67a5fda84f79cd8fc3945c180a56f93
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:33:18.283028Z'
+    fetch_method: httpx
+  ro:
+    kind: officielle
+    sha256: 75fd3991a192ee562357dc89c78a045d458fc5cb6eded2707921c3adbe6d3688
+    source_url: https://www.vatican.va/content/john-paul-ii/ro/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:33:34.305341Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: aa4d0030fd9520fb66bb3aedfdd3eb7e3de75eeb4aec78a9db886156a0ebc199
+    source_url: https://www.vatican.va/content/john-paul-ii/zh_cn/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:33:49.837511Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 00ba91f96a127db53ca481fc0c19927041f2509fbdbee631a71f63ac6de4224e
+    source_url: https://www.vatican.va/content/john-paul-ii/zh_tw/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetched_at: '2026-04-22T09:34:05.831099Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- nl
+- pl
+- pt
+- ro
+- zh_cn
+- zh_tw
 sha256:
+  ar: 6b8bb0ddae866dad5b979551b068b6ab859d6156e6e3e4fba0c400b51624dc35
+  de: eda2f56bb8a3fc6d19715f5a01df1811b2c20f9bccc2728360250b7772021467
+  en: 3f66407d014c57ef9cdd25457d21607da5257790f3cd4e769164080c3eebcec3
+  es: 3b02ff8226809f71159252052cd1207cf33cfb18337a71ae01d529a6b5d92bd1
+  fr: f905f7a3a4c81a2f9f9a90015b41700a97c670d83406a18d36f304dadba3351c
+  hu: 0d7a9be3d8ac3191b18d3ba2f9a3d86a23ecb17eab8f3fe0a998157b631e507b
+  it: 9534d11ce215410386cfc8bcbfc867cc13ca88083d09cfbbdc66fca7a56b91e5
   la: 90bed88361d1191e6bbf7eed3e3892af21d2d731cd2f6ed3e6f88371cb9063a5
+  nl: 23e8ca88fece5ad2b94d3e027e7a23553412c03f6629e5496eb733fae8d02328
+  pl: d6fca1f5c86edd9d84bc43f9ec5c2962f5ff56802b6153ababd5afcc6e3b7b3d
+  pt: dc82b4773e72e9271facaf443e5a0a17f67a5fda84f79cd8fc3945c180a56f93
+  ro: 75fd3991a192ee562357dc89c78a045d458fc5cb6eded2707921c3adbe6d3688
+  zh_cn: aa4d0030fd9520fb66bb3aedfdd3eb7e3de75eeb4aec78a9db886156a0ebc199
+  zh_tw: 00ba91f96a127db53ca481fc0c19927041f2509fbdbee631a71f63ac6de4224e

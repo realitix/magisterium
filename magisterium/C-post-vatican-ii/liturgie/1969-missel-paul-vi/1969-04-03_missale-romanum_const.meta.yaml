@@ -17,13 +17,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/de/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 6da357755effe40ec24202121ac99e7a05dd489777d9c78c696aaa748ae1c571
+    source_url: https://www.vatican.va/content/paul-vi/de/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+    fetched_at: '2026-04-22T09:24:11.286239Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: a80686eb55e93387f81f2624a38e7e8dc523a3fa871e1afaff24924fd5dd58f8
+    source_url: https://www.vatican.va/content/paul-vi/en/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+    fetched_at: '2026-04-22T09:24:27.278516Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 6b0937a91012a95a8aa5c6c34825f4b20ba533e9538ceb463b2d25394b6aa8f9
+    source_url: https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+    fetched_at: '2026-04-22T09:24:43.363832Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 9fd928de064b608f7ff24e9740999404118a227be3ceea28ef84e0eecfe8cbd0
     source_url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: c72473e42d2c9e8a318872db673ded109d4801313f923bfe936e3dc3ea3c7826
+    source_url: https://www.vatican.va/content/paul-vi/pt/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+    fetched_at: '2026-04-22T09:24:59.333472Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- it
 - la
+- pt
 sha256:
+  de: 6da357755effe40ec24202121ac99e7a05dd489777d9c78c696aaa748ae1c571
+  en: a80686eb55e93387f81f2624a38e7e8dc523a3fa871e1afaff24924fd5dd58f8
+  it: 6b0937a91012a95a8aa5c6c34825f4b20ba533e9538ceb463b2d25394b6aa8f9
   la: 9fd928de064b608f7ff24e9740999404118a227be3ceea28ef84e0eecfe8cbd0
+  pt: c72473e42d2c9e8a318872db673ded109d4801313f923bfe936e3dc3ea3c7826

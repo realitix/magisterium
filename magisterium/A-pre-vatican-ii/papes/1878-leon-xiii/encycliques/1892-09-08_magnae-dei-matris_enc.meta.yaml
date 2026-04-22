@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 1809467aab76c56b06923f79ba006f64d5a7a97325e4444d275e7e4f89c3796c
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html
+    fetched_at: '2026-04-22T08:39:42.601889Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5d791bae7dee41c8f7ec0ae5eece0648131db08d8d374cd7c9d3bf87491c3100
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html
+    fetched_at: '2026-04-22T08:39:58.271863Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: dd1be6e4b7d44166ed824db9ef2ec003054cbbde43c95d29ff5c069f55600a02
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 95e26d28ef0bb6f304994822e3fcca15773c6e3798b9248ef49b3e559cbf59f7
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html
+    fetched_at: '2026-04-22T08:40:14.322862Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: 1809467aab76c56b06923f79ba006f64d5a7a97325e4444d275e7e4f89c3796c
+  it: 5d791bae7dee41c8f7ec0ae5eece0648131db08d8d374cd7c9d3bf87491c3100
   la: dd1be6e4b7d44166ed824db9ef2ec003054cbbde43c95d29ff5c069f55600a02
+  pt: 95e26d28ef0bb6f304994822e3fcca15773c6e3798b9248ef49b3e559cbf59f7

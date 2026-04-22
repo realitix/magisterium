@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 60c41f95ee4962d1222794b9b96153ba1902abeafcd6f7883e90363c7ca085fe
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html
+    fetched_at: '2026-04-22T08:41:50.382093Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 68ea5cef60cc331b47d40c22c60386484821aad2bdc49fa85aca5fed7ddf74db
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 41124f52e7a2d9351f75e6381a01c253f547b19fac9a2ece063daf5a80d7093f
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html
+    fetched_at: '2026-04-22T08:42:06.440262Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
 - la
+- pt
 sha256:
+  en: 60c41f95ee4962d1222794b9b96153ba1902abeafcd6f7883e90363c7ca085fe
   la: 68ea5cef60cc331b47d40c22c60386484821aad2bdc49fa85aca5fed7ddf74db
+  pt: 41124f52e7a2d9351f75e6381a01c253f547b19fac9a2ece063daf5a80d7093f

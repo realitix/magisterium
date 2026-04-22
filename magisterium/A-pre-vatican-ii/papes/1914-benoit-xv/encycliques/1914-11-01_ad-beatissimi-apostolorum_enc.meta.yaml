@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 726367f97c5d1938949d0b5a76867be8ad9212cc7af9193abb6e2153392b24cf
+    source_url: https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
+    fetched_at: '2026-04-22T08:43:34.565571Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: bc7b45400019d63e3bf4269447e33f2e2c2833a25a099b95163bd329eb4bf45e
+    source_url: https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
+    fetched_at: '2026-04-22T08:43:50.578297Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 4792ed1de950e4eec8b94d55d60b2c4c1ce0b9b333128ca032ba7bb0abbea8cb
+    source_url: https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
+    fetched_at: '2026-04-22T08:44:06.561796Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: d24a2070541e5a814cb22407d4dde669c79267032d4e69e95acad6c014bf56ba
     source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: 726367f97c5d1938949d0b5a76867be8ad9212cc7af9193abb6e2153392b24cf
+  fr: bc7b45400019d63e3bf4269447e33f2e2c2833a25a099b95163bd329eb4bf45e
+  it: 4792ed1de950e4eec8b94d55d60b2c4c1ce0b9b333128ca032ba7bb0abbea8cb
   la: d24a2070541e5a814cb22407d4dde669c79267032d4e69e95acad6c014bf56ba

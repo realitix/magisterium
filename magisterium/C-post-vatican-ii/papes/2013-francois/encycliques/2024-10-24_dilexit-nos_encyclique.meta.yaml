@@ -18,13 +18,145 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/be/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/it/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
 traductions:
+  ar:
+    kind: officielle
+    sha256: ceb5d2821088c25e374922c65a1f3c3e15eebf352fbff558bd0503a8916cbba4
+    source_url: https://www.vatican.va/content/francesco/ar/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:34:00.286318Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: c01e480f391e63e1e2e14920294546a58443b3bbd5995f2ed50ddda44e32f427
+    source_url: https://www.vatican.va/content/francesco/be/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:34:16.209172Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 7e1e8e64341b9f2da3d4fd44ee0e1b74bb2a358de70eb1564dd1e42112a2f584
+    source_url: https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:34:32.333401Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 95c6a25e728951c3f9e60593c2055270e17c851c6a9677ce7ea9f84468fa751d
+    source_url: https://www.vatican.va/content/francesco/en/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:34:48.303631Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: d34ddb60ef2f6c1b05afdf2f092df445b1695472763a01af55d8906825306089
+    source_url: https://www.vatican.va/content/francesco/es/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:35:04.329824Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 5e40953e639415fd30abe7061d84d7dd9f2bc732155fe88485645b477761e35b
+    source_url: https://www.vatican.va/content/francesco/fr/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:35:18.346849Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 6e1fd54fd7beb2a96dc0006c48edc37dfdd7e1003f999c56062502977319360e
+    source_url: https://www.vatican.va/content/francesco/it/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:35:32.412664Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 595b8ac0f061e987f6a036f03869cebe9af88cd1b65e16a45b0e0943f1e2bbd8
     source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/20241024-enciclica-dilexit-nos.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: c0c56f0f741d8cb53091da2f72c8be28a41e5f331710a036760f77bd75d665a6
+    source_url: https://www.vatican.va/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:35:46.329903Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 01a4a30bab38426d06abe0a61a98ba3028006fa71d46dc9fd188db0fd246c3c9
+    source_url: https://www.vatican.va/content/francesco/pt/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:36:00.426501Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: 44b63bde7d21efdea1cce558680c7514d01ce6c5884568ee0d1923a948075091
+    source_url: https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:36:13.960453Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 92c3e47102eefbe500579ba6551fb7431652aafe9f1a42cdc8cb8a5774e8124c
+    source_url: https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetched_at: '2026-04-22T09:36:25.953380Z'
+    fetch_method: httpx
 langues_disponibles:
+- ar
+- be
+- de
+- en
+- es
+- fr
+- it
 - la
+- pl
+- pt
+- zh_cn
+- zh_tw
 sha256:
+  ar: ceb5d2821088c25e374922c65a1f3c3e15eebf352fbff558bd0503a8916cbba4
+  be: c01e480f391e63e1e2e14920294546a58443b3bbd5995f2ed50ddda44e32f427
+  de: 7e1e8e64341b9f2da3d4fd44ee0e1b74bb2a358de70eb1564dd1e42112a2f584
+  en: 95c6a25e728951c3f9e60593c2055270e17c851c6a9677ce7ea9f84468fa751d
+  es: d34ddb60ef2f6c1b05afdf2f092df445b1695472763a01af55d8906825306089
+  fr: 5e40953e639415fd30abe7061d84d7dd9f2bc732155fe88485645b477761e35b
+  it: 6e1fd54fd7beb2a96dc0006c48edc37dfdd7e1003f999c56062502977319360e
   la: 595b8ac0f061e987f6a036f03869cebe9af88cd1b65e16a45b0e0943f1e2bbd8
+  pl: c0c56f0f741d8cb53091da2f72c8be28a41e5f331710a036760f77bd75d665a6
+  pt: 01a4a30bab38426d06abe0a61a98ba3028006fa71d46dc9fd188db0fd246c3c9
+  zh_cn: 44b63bde7d21efdea1cce558680c7514d01ce6c5884568ee0d1923a948075091
+  zh_tw: 92c3e47102eefbe500579ba6551fb7431652aafe9f1a42cdc8cb8a5774e8124c

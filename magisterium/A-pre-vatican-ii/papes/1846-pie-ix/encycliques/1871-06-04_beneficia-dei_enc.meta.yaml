@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-beneficia-dei-4-iunii-1871.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 920fe8bcb1e90667e4680e586b135bf56b3ea2293216ab82703f269b3775cd02
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-beneficia-dei-4-iunii-1871.html
+    fetched_at: '2026-04-22T08:35:29.939371Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: e57caba5925fe7c79339e49d98a3edef88e26d545599a426e41f38e40301a36a
     source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-beneficia-dei-4-iunii-1871.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 920fe8bcb1e90667e4680e586b135bf56b3ea2293216ab82703f269b3775cd02
   la: e57caba5925fe7c79339e49d98a3edef88e26d545599a426e41f38e40301a36a

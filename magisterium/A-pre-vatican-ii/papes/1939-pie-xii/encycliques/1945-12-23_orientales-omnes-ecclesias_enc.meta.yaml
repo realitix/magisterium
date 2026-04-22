@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 86dbdda6ca12550eb4f2b9dc7f4507c7581379b69addbb36ef903e5df6a0ccaf
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html
+    fetched_at: '2026-04-22T08:48:52.967518Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5738d6c4da2264c3544b4fdf8eab58dfad583a99f4c19b73fb091fdf222ef217
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html
+    fetched_at: '2026-04-22T08:49:08.975143Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 71b5800817e97a835cfaae299132d4d87f907168e81e545661c0fe04cd92ada9
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 86dbdda6ca12550eb4f2b9dc7f4507c7581379b69addbb36ef903e5df6a0ccaf
+  it: 5738d6c4da2264c3544b4fdf8eab58dfad583a99f4c19b73fb091fdf222ef217
   la: 71b5800817e97a835cfaae299132d4d87f907168e81e545661c0fe04cd92ada9

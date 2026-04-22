@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 4ccd8cdfb7cdc1e4879fa6e7c84de0e59cd27fe158109f33732fa68e86555236
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+    fetched_at: '2026-04-22T08:47:18.954657Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 615888e158c2f112a6376bc60d94b4bcbcc9e632dd97e53d6c1f0ac11d41efec
+    source_url: https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+    fetched_at: '2026-04-22T08:47:34.992102Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 701fd707bfca2d305f646da5e6077f309e174044b3729e67a4b8370a8f44cdf4
+    source_url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+    fetched_at: '2026-04-22T08:47:50.973471Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 1c08d843b1f5f4fb62b53d26ee11da24600a15c51e2a6afa9749b7ec0098ef6b
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+    fetched_at: '2026-04-22T08:48:07.046605Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a2730a4d0203af67ebb423d42df3b45b4660f429e9d6f59d9849a6e940e160d0
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
 sha256:
+  en: 4ccd8cdfb7cdc1e4879fa6e7c84de0e59cd27fe158109f33732fa68e86555236
+  es: 615888e158c2f112a6376bc60d94b4bcbcc9e632dd97e53d6c1f0ac11d41efec
+  fr: 701fd707bfca2d305f646da5e6077f309e174044b3729e67a4b8370a8f44cdf4
+  it: 1c08d843b1f5f4fb62b53d26ee11da24600a15c51e2a6afa9749b7ec0098ef6b
   la: a2730a4d0203af67ebb423d42df3b45b4660f429e9d6f59d9849a6e940e160d0

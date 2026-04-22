@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 59d6b20fdd37483184f6e1a7bf2f26b63c6a07b13a23116f7866b6ca537ffdf6
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html
+    fetched_at: '2026-04-22T08:51:49.088605Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 38bcda69ba7da89e7f84dd6f44da27ac63ef55c2e2d6ac9d1449bf28d48014fa
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html
+    fetched_at: '2026-04-22T08:52:05.110197Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 35528e71fe0951729a9662234fa75174de0ab0e9164b09faf9149aeb6a013adc
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 59d6b20fdd37483184f6e1a7bf2f26b63c6a07b13a23116f7866b6ca537ffdf6
+  it: 38bcda69ba7da89e7f84dd6f44da27ac63ef55c2e2d6ac9d1449bf28d48014fa
   la: 35528e71fe0951729a9662234fa75174de0ab0e9164b09faf9149aeb6a013adc

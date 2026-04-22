@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: c8e7658436481302fee965ca6c1e5a02ff15a5dfbaf1089761abb3a8ba627ce1
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
+    fetched_at: '2026-04-22T08:50:37.052390Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: c17d54f6993864e5196dbd8ac5a3bd8964c6b1b73df596b91c4475e54d092206
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
+    fetched_at: '2026-04-22T08:50:53.005866Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 259d1457784015ab697430bef596501b337189c40daa0cb0b9b88468de2b812c
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 6ec8b6ae72475204af61d54e5881812638e7a58d3715599b531636aa2f192e36
+    source_url: https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html
+    fetched_at: '2026-04-22T08:51:09.097101Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: c8e7658436481302fee965ca6c1e5a02ff15a5dfbaf1089761abb3a8ba627ce1
+  it: c17d54f6993864e5196dbd8ac5a3bd8964c6b1b73df596b91c4475e54d092206
   la: 259d1457784015ab697430bef596501b337189c40daa0cb0b9b88468de2b812c
+  pt: 6ec8b6ae72475204af61d54e5881812638e7a58d3715599b531636aa2f192e36

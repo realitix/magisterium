@@ -18,13 +18,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/hr/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/it/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/vi/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+  site: www.vatican.va
+  langue: vi
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: cda6d030449e9536c0bdbfb52913624804a0c354621dc880e18e5edfeed86aaf
+    source_url: https://www.vatican.va/content/francesco/de/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+    fetched_at: '2026-04-22T09:24:23.278700Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 7f71d62861f9754390bfb01f52f6b3ab9b6bd92e0036a36f428c99afad9365d4
+    source_url: https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+    fetched_at: '2026-04-22T09:24:39.310997Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 60f62f88e47eae6df62c3f54d9e61d77d061352233cedf9d1b062e026503ce63
+    source_url: https://www.vatican.va/content/francesco/es/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+    fetched_at: '2026-04-22T09:24:55.347422Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 780490e619b410759089041b0dec8f02bf14b362ecd4e432aefa0ce87bf9796d
+    source_url: https://www.vatican.va/content/francesco/hr/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+    fetched_at: '2026-04-22T09:25:11.309221Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 86f5efb1fbdbc93baaf67428ebb153579b31c7e72fc55a11bc678a5e0ca23ff1
+    source_url: https://www.vatican.va/content/francesco/it/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+    fetched_at: '2026-04-22T09:25:27.361961Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: b9dd1ab0037142d23584671c067471738515ca27b6e50dba537966c0f224ac6c
     source_url: https://www.vatican.va/content/francesco/la/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
     fetch_method: httpx
+  vi:
+    kind: officielle
+    sha256: 2949694110e908a3db61963eed4b06fe5ed6a6cd6be02d28a1639d8d414a574c
+    source_url: https://www.vatican.va/content/francesco/vi/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+    fetched_at: '2026-04-22T09:25:43.405722Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- hr
+- it
 - la
+- vi
 sha256:
+  de: cda6d030449e9536c0bdbfb52913624804a0c354621dc880e18e5edfeed86aaf
+  en: 7f71d62861f9754390bfb01f52f6b3ab9b6bd92e0036a36f428c99afad9365d4
+  es: 60f62f88e47eae6df62c3f54d9e61d77d061352233cedf9d1b062e026503ce63
+  hr: 780490e619b410759089041b0dec8f02bf14b362ecd4e432aefa0ce87bf9796d
+  it: 86f5efb1fbdbc93baaf67428ebb153579b31c7e72fc55a11bc678a5e0ca23ff1
   la: b9dd1ab0037142d23584671c067471738515ca27b6e50dba537966c0f224ac6c
+  vi: 2949694110e908a3db61963eed4b06fe5ed6a6cd6be02d28a1639d8d414a574c

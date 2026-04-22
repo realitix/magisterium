@@ -17,13 +17,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/hu/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: f16c2f5aacf626b11f8607a223425ded040c9c45c2c0f94cbaf0b7287e3a31a6
+    source_url: https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetched_at: '2026-04-22T09:24:19.293146Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: ffb96ba5f475b349c4515f49d42a8757bbbf397d749382c85dcb9fdfdac92e17
+    source_url: https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetched_at: '2026-04-22T09:24:35.301807Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: dcf287d0534cc0e45bf587b5098083a20c98582fbf8b3f0687b7319d75688654
+    source_url: https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetched_at: '2026-04-22T09:24:51.334239Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: a74e88ab0feeed0bd17e300562344eb07c480bf44277392a048c4fe90de05427
+    source_url: https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetched_at: '2026-04-22T09:25:07.370749Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 0af6a03b50dbdfe115cfa69bd166a3b0bfc105e4f1e38d76daca7aca85386bf5
+    source_url: https://www.vatican.va/content/benedict-xvi/hu/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetched_at: '2026-04-22T09:25:23.378889Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: f7504b370a647cc9497344dc58d27d8cd042784126dab19274d3e900196b20d8
+    source_url: https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetched_at: '2026-04-22T09:25:39.426768Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: fffc64c2e1561cf87632e6dc8ec9eb9a18e65c36ded36c9966bbf77f814eaa2b
     source_url: https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: dc88b09fcb4be0a07d406c2f72bee1aeba77d8db7f783984bfb3cf78dad0ec7f
+    source_url: https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetched_at: '2026-04-22T09:25:55.440444Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pt
 sha256:
+  de: f16c2f5aacf626b11f8607a223425ded040c9c45c2c0f94cbaf0b7287e3a31a6
+  en: ffb96ba5f475b349c4515f49d42a8757bbbf397d749382c85dcb9fdfdac92e17
+  es: dcf287d0534cc0e45bf587b5098083a20c98582fbf8b3f0687b7319d75688654
+  fr: a74e88ab0feeed0bd17e300562344eb07c480bf44277392a048c4fe90de05427
+  hu: 0af6a03b50dbdfe115cfa69bd166a3b0bfc105e4f1e38d76daca7aca85386bf5
+  it: f7504b370a647cc9497344dc58d27d8cd042784126dab19274d3e900196b20d8
   la: fffc64c2e1561cf87632e6dc8ec9eb9a18e65c36ded36c9966bbf77f814eaa2b
+  pt: dc88b09fcb4be0a07d406c2f72bee1aeba77d8db7f783984bfb3cf78dad0ec7f

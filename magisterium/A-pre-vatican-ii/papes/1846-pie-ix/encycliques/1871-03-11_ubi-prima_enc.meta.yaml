@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-ubi-prima-11-martii-1871.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 46e05a96512ab7582eaafa83069a14de97f9e9cf22b66a312050085536a17d31
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-ubi-prima-11-martii-1871.html
+    fetched_at: '2026-04-22T08:35:25.930074Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: a0d3c498cf5524ef717e71ff5054c3b8161ab198e01e665fa9735e259f9ba507
     source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-prima-11-martii-1871.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 46e05a96512ab7582eaafa83069a14de97f9e9cf22b66a312050085536a17d31
   la: a0d3c498cf5524ef717e71ff5054c3b8161ab198e01e665fa9735e259f9ba507

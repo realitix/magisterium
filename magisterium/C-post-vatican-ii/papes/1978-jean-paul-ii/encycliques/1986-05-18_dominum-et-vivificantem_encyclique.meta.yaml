@@ -18,13 +18,109 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 1854b8dca9a0452a6fbb7a23c8ed3fb49d8574bc2770c1628f7247260e95abea
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:28:29.979726Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 14666f35cbee45205d4042376d27db1a6ed7650ae8d68273b748c24d4a76f753
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:28:46.145740Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: b49ee1bf192ac8e24cf83bb917c597307af9beaec7b0b2a2dab539f4451001d6
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:29:02.087809Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 799e5756320f93641859fac5f1b5c75c974c0cf6f7450596070a2490aedaef42
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:29:18.135358Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 8d61599aab499985b57113af6f4f830a95d074a47fb8ec3992aa8695bacfce56
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:29:33.948669Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: a5dff282c56b1879be73bafb45d39a7d2d504810d91e8d9363c6ced2bf58ef76
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:29:49.910340Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: fcea3a98462aaf95f4f48a68f4f9362297dc9a4fc051be0ff5f4ade2d0fff495
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 77178ac92218a9fb4c9030238b77f6838b2ead8801c891944e7826f2b5dc05af
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:30:06.054531Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: e2f5fa73f0f34b85b91dd0b47132d5e15fd0bbe67aa9da5f04f3f6322d2e401f
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetched_at: '2026-04-22T09:30:22.140348Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pl
+- pt
 sha256:
+  de: 1854b8dca9a0452a6fbb7a23c8ed3fb49d8574bc2770c1628f7247260e95abea
+  en: 14666f35cbee45205d4042376d27db1a6ed7650ae8d68273b748c24d4a76f753
+  es: b49ee1bf192ac8e24cf83bb917c597307af9beaec7b0b2a2dab539f4451001d6
+  fr: 799e5756320f93641859fac5f1b5c75c974c0cf6f7450596070a2490aedaef42
+  hu: 8d61599aab499985b57113af6f4f830a95d074a47fb8ec3992aa8695bacfce56
+  it: a5dff282c56b1879be73bafb45d39a7d2d504810d91e8d9363c6ced2bf58ef76
   la: fcea3a98462aaf95f4f48a68f4f9362297dc9a4fc051be0ff5f4ade2d0fff495
+  pl: 77178ac92218a9fb4c9030238b77f6838b2ead8801c891944e7826f2b5dc05af
+  pt: e2f5fa73f0f34b85b91dd0b47132d5e15fd0bbe67aa9da5f04f3f6322d2e401f

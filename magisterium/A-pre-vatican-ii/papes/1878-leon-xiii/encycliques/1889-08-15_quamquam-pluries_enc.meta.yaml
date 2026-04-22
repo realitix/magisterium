@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 12638c8c7af2cc0b505cf61b44cb06d1bf2c62c0cb4a29b5b87efaf42340c03f
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html
+    fetched_at: '2026-04-22T08:38:38.150368Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: bcbf2ac5443b8c2483df23f9a34a8c975f65412cf3ead5eb5f6100635db4ea48
+    source_url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html
+    fetched_at: '2026-04-22T08:38:54.204821Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 1730fa88c3b50b6da8a0f6af2fd11445a6fe8063d272b9b3fe1f36a44ced8eff
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html
+    fetched_at: '2026-04-22T08:39:10.245315Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 7df9936098dab539fbfca4fcbd67e0fa8759657613a6eaff074b93b65bfee5d7
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- it
 - la
 sha256:
+  en: 12638c8c7af2cc0b505cf61b44cb06d1bf2c62c0cb4a29b5b87efaf42340c03f
+  es: bcbf2ac5443b8c2483df23f9a34a8c975f65412cf3ead5eb5f6100635db4ea48
+  it: 1730fa88c3b50b6da8a0f6af2fd11445a6fe8063d272b9b3fe1f36a44ced8eff
   la: 7df9936098dab539fbfca4fcbd67e0fa8759657613a6eaff074b93b65bfee5d7

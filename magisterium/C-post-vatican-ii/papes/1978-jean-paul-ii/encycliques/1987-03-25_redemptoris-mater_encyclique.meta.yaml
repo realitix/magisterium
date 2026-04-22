@@ -18,13 +18,97 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 67decd68e1b8723603328efaebbbf18c1cee38ce2e4023a51f6c3d442440362b
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetched_at: '2026-04-22T09:28:54.241031Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: baf381fa7320a8eee23d97925263f817c63ebaa1a21b20cf14093fd037a80181
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetched_at: '2026-04-22T09:29:09.858784Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 321a32a04711e279e0d90e678e5a4cec8c3937271ce1a61c883d691cdf2b4615
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetched_at: '2026-04-22T09:29:25.920235Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 752fbe71c3fa764a3677dbe08a2bcb96a4efd10698b2291f043b7f9f5aebfc18
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetched_at: '2026-04-22T09:29:41.900998Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: f45dbce74fa8fbdeccf386359b7fcf7b493b3a7516e246c1fdabd174514f0f6f
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetched_at: '2026-04-22T09:29:57.962806Z'
+    fetch_method: httpx
   it:
     kind: originale
     sha256: ca3524aed7e5670fbd2ea9bfaeb5ecad7b7732c19d8560f4f48bba6836c23f29
     source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 29b8fbbfbb05e7929b9f1ff100807848b2de743332af2f993a513d061c84c7f7
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetched_at: '2026-04-22T09:30:14.059240Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: a326548bfc7ad2621436e87471aaba92644bb178ad264a17444d082d17cea119
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetched_at: '2026-04-22T09:30:30.038930Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
 - it
+- pl
+- pt
 sha256:
+  de: 67decd68e1b8723603328efaebbbf18c1cee38ce2e4023a51f6c3d442440362b
+  en: baf381fa7320a8eee23d97925263f817c63ebaa1a21b20cf14093fd037a80181
+  es: 321a32a04711e279e0d90e678e5a4cec8c3937271ce1a61c883d691cdf2b4615
+  fr: 752fbe71c3fa764a3677dbe08a2bcb96a4efd10698b2291f043b7f9f5aebfc18
+  hu: f45dbce74fa8fbdeccf386359b7fcf7b493b3a7516e246c1fdabd174514f0f6f
   it: ca3524aed7e5670fbd2ea9bfaeb5ecad7b7732c19d8560f4f48bba6836c23f29
+  pl: 29b8fbbfbb05e7929b9f1ff100807848b2de743332af2f993a513d061c84c7f7
+  pt: a326548bfc7ad2621436e87471aaba92644bb178ad264a17444d082d17cea119

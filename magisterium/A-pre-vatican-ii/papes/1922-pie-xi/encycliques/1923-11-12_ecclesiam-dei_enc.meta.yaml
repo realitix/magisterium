@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: d53338493c95458f24852ad76ff86d294fd9e9e6b9299d1302a2f381528550a4
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html
+    fetched_at: '2026-04-22T08:45:22.662050Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 59e754b476f7e6d50df731ce7daf4321315cd68704f2c7c55905e33fe2019fef
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: d53338493c95458f24852ad76ff86d294fd9e9e6b9299d1302a2f381528550a4
   la: 59e754b476f7e6d50df731ce7daf4321315cd68704f2c7c55905e33fe2019fef

@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: ecc9950a7eaacd35c0fa1c49c9d4a4b98274dd44c8a15a08606c16ccab11c4a2
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
+    fetched_at: '2026-04-22T08:41:14.382548Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 828c93fa400461ee92eb7d0a63e5b68df8b8a8c534560ef324cfcc7926a2b3b0
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
+    fetched_at: '2026-04-22T08:41:30.370746Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: d2d6585bc26730a865bcd57ac9c736334f51858936d9121c0dbb08682888fea8
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
     fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: d0841d7769c0185dd103bee45c7cda94710e3d29f4ef5150d3c8c37cc6ac5ef8
+    source_url: https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
+    fetched_at: '2026-04-22T08:41:46.379781Z'
+    fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
+- pt
 sha256:
+  en: ecc9950a7eaacd35c0fa1c49c9d4a4b98274dd44c8a15a08606c16ccab11c4a2
+  it: 828c93fa400461ee92eb7d0a63e5b68df8b8a8c534560ef324cfcc7926a2b3b0
   la: d2d6585bc26730a865bcd57ac9c736334f51858936d9121c0dbb08682888fea8
+  pt: d0841d7769c0185dd103bee45c7cda94710e3d29f4ef5150d3c8c37cc6ac5ef8

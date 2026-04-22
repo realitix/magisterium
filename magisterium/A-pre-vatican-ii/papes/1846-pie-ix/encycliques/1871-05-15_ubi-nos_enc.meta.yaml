@@ -15,13 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-ubi-nos-15-maii-1871.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  it:
+    kind: officielle
+    sha256: 429b763634558a57a1166a3ee648c5fe54d697aa48c25c3297fca590c08f6407
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-ubi-nos-15-maii-1871.html
+    fetched_at: '2026-04-22T08:35:28.154643Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: ee187abd95dd0d13fe907c7773d0ba396dc092ad49e179a55b01d9f1a9e03db2
     source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-nos-15-maii-1871.html
     fetch_method: httpx
 langues_disponibles:
+- it
 - la
 sha256:
+  it: 429b763634558a57a1166a3ee648c5fe54d697aa48c25c3297fca590c08f6407
   la: ee187abd95dd0d13fe907c7773d0ba396dc092ad49e179a55b01d9f1a9e03db2

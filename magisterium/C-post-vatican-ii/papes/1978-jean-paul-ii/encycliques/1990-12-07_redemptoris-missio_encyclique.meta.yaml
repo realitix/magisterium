@@ -17,13 +17,121 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+  site: www.vatican.va
+  langue: zh
+  fetch_method: httpx
 traductions:
+  de:
+    kind: officielle
+    sha256: 5d56f31bb883de00dd911b1884b5cdc98f8770d1e468136fc12d6d8249f230b4
+    source_url: https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:30:10.303755Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: f5d0c810168eb89e0985a260e5f99ee27a4c26cfdc1614800b1f1afcdf8865ca
+    source_url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:30:26.093596Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 45b073b2091ab364ab133d3491a133909c72d4c5f79a24fe66356f17893e6a55
+    source_url: https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:30:42.164016Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: bff587735195f04a9a14284d0394d42d737c43e474a56a0f35b8e9b92b6af52f
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:30:58.128482Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: e010298194c5c4c8fff8a873a3701faf4945e893ff6d98c61f109f2f559604a9
+    source_url: https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:31:14.180907Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 52316a376ecc355b1bf1f51c28c5a04cc1edf6c87dbd2d965beac9312f49313e
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:31:30.158828Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 199a860de6685fb04d15c341b49df952c7ee3f67a7db5bc817c7e68c896827ed
     source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
     fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: d1ac9a6ba9273888880e02d5322790822a2ab97709daa20bd72d7ad5d85693e7
+    source_url: https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:31:46.156472Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 406c7218831f293d87817adc43c1b05f1fd08746bf1e809893aa1efc812056a8
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:32:02.236646Z'
+    fetch_method: httpx
+  zh:
+    kind: officielle
+    sha256: a0e946fdd349ac8adce632ca2018eee0757c2f751f7efeb3567fb975e34ebf4f
+    source_url: https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetched_at: '2026-04-22T09:32:17.727005Z'
+    fetch_method: httpx
 langues_disponibles:
+- de
+- en
+- es
+- fr
+- hu
+- it
 - la
+- pl
+- pt
+- zh
 sha256:
+  de: 5d56f31bb883de00dd911b1884b5cdc98f8770d1e468136fc12d6d8249f230b4
+  en: f5d0c810168eb89e0985a260e5f99ee27a4c26cfdc1614800b1f1afcdf8865ca
+  es: 45b073b2091ab364ab133d3491a133909c72d4c5f79a24fe66356f17893e6a55
+  fr: bff587735195f04a9a14284d0394d42d737c43e474a56a0f35b8e9b92b6af52f
+  hu: e010298194c5c4c8fff8a873a3701faf4945e893ff6d98c61f109f2f559604a9
+  it: 52316a376ecc355b1bf1f51c28c5a04cc1edf6c87dbd2d965beac9312f49313e
   la: 199a860de6685fb04d15c341b49df952c7ee3f67a7db5bc817c7e68c896827ed
+  pl: d1ac9a6ba9273888880e02d5322790822a2ab97709daa20bd72d7ad5d85693e7
+  pt: 406c7218831f293d87817adc43c1b05f1fd08746bf1e809893aa1efc812056a8
+  zh: a0e946fdd349ac8adce632ca2018eee0757c2f751f7efeb3567fb975e34ebf4f

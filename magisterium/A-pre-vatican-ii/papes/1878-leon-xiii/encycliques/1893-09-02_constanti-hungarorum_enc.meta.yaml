@@ -15,13 +15,37 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 8623303bdcbbabd8485b525d874a94c710b6d8714133dc3850437a3d82578f61
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html
+    fetched_at: '2026-04-22T08:40:02.277329Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: b823d6867ddeb73672a4e5b5c87a349157266be219c26487dc6fe89e625ae576
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html
+    fetched_at: '2026-04-22T08:40:18.295910Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 78df8c2d884e703b645a02c9926d9085d7970e39497eac07f0a037df9a89218c
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- it
 - la
 sha256:
+  en: 8623303bdcbbabd8485b525d874a94c710b6d8714133dc3850437a3d82578f61
+  it: b823d6867ddeb73672a4e5b5c87a349157266be219c26487dc6fe89e625ae576
   la: 78df8c2d884e703b645a02c9926d9085d7970e39497eac07f0a037df9a89218c

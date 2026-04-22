@@ -15,13 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 29a9e69a26b4cc207c7d490537f7e4e1beb846d602ac0c8b42c5b249550c88da
+    source_url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+    fetched_at: '2026-04-22T08:36:08.045651Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 9ab0c83ff6073bbf90c9a6794e6e29a01ea818241c41f3e91d43892f0aac36f9
+    source_url: https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+    fetched_at: '2026-04-22T08:36:24.122231Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 41c2cbcda2cdd3891d72b3303cfebb0c8ac1a22725fac9f3586f1e76a087df7a
+    source_url: https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+    fetched_at: '2026-04-22T08:36:40.107377Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 9942a0cdf0765ae1a1a19f93e8a918c9b3c04d52570db36af686d22c78bc35e8
+    source_url: https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+    fetched_at: '2026-04-22T08:36:56.102430Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 0c92dc3a459c3fb1cb3a918d640224504b6fae6a1e36615c33b52080869d2bec
     source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- es
+- fr
+- it
 - la
 sha256:
+  en: 29a9e69a26b4cc207c7d490537f7e4e1beb846d602ac0c8b42c5b249550c88da
+  es: 9ab0c83ff6073bbf90c9a6794e6e29a01ea818241c41f3e91d43892f0aac36f9
+  fr: 41c2cbcda2cdd3891d72b3303cfebb0c8ac1a22725fac9f3586f1e76a087df7a
+  it: 9942a0cdf0765ae1a1a19f93e8a918c9b3c04d52570db36af686d22c78bc35e8
   la: 0c92dc3a459c3fb1cb3a918d640224504b6fae6a1e36615c33b52080869d2bec

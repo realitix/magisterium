@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 78d4c081b4f624ba0f51c917a38ae9bd60b2778650977b34a67ce79623f5d27a
+    source_url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
+    fetched_at: '2026-04-22T08:51:37.020883Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: efea293e9fa9fc1c82eca28a167523edec1de8f9b5adb6d49eef6445e9321f13
+    source_url: https://www.vatican.va/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
+    fetched_at: '2026-04-22T08:51:53.025637Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 0366b127c199448a419a9bb543920012bd19eebd7e3670a81080ad880257517f
+    source_url: https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
+    fetched_at: '2026-04-22T08:52:09.052223Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 66738d184a6e223e0996bb691d78f8e67a17d30dff22da52be9d8b017fd26801
     source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- hu
+- it
 - la
 sha256:
+  en: 78d4c081b4f624ba0f51c917a38ae9bd60b2778650977b34a67ce79623f5d27a
+  hu: efea293e9fa9fc1c82eca28a167523edec1de8f9b5adb6d49eef6445e9321f13
+  it: 0366b127c199448a419a9bb543920012bd19eebd7e3670a81080ad880257517f
   la: 66738d184a6e223e0996bb691d78f8e67a17d30dff22da52be9d8b017fd26801

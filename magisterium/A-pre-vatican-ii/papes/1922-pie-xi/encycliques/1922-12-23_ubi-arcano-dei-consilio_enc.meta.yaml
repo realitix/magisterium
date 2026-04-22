@@ -15,13 +15,49 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
 traductions:
+  en:
+    kind: officielle
+    sha256: 05ef1ae5b1d11d2a0e3e116939e4bfb8b0148ec91563078158b59f5ddca5e4dc
+    source_url: https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
+    fetched_at: '2026-04-22T08:44:46.671650Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: b7e1384b9816c0e70a1921d2cd22fe498b512dc320490c04db78cc07a3ac6d0a
+    source_url: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
+    fetched_at: '2026-04-22T08:45:02.706953Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 45d24feef4adbce050f7524b3d474adee17774f33c3c98d951efa860f86a4a1f
+    source_url: https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
+    fetched_at: '2026-04-22T08:45:18.731773Z'
+    fetch_method: httpx
   la:
     kind: originale
     sha256: 37e96ca7e66aff155980dd5b55cbf7920625fd3801ed35e347838efe5275300d
     source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
     fetch_method: httpx
 langues_disponibles:
+- en
+- fr
+- it
 - la
 sha256:
+  en: 05ef1ae5b1d11d2a0e3e116939e4bfb8b0148ec91563078158b59f5ddca5e4dc
+  fr: b7e1384b9816c0e70a1921d2cd22fe498b512dc320490c04db78cc07a3ac6d0a
+  it: 45d24feef4adbce050f7524b3d474adee17774f33c3c98d951efa860f86a4a1f
   la: 37e96ca7e66aff155980dd5b55cbf7920625fd3801ed35e347838efe5275300d

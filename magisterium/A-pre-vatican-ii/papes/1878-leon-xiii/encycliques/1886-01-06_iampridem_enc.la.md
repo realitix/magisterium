@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_06011886_iampridem.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_06011886_iampridem.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_06011886_iampridem.html)
-
 ***LITTERAE SS. D. N. PAPAE LEONIS XIII  
 AD ARCHIEPISCOPOS ET EPISCOPOS BORUSSIAE\****
 

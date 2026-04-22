@@ -1,0 +1,155 @@
+---
+/**
+ * LangFlag — pictogramme de drapeau mini pour les chips de langue.
+ * Rendu en pur CSS (gradients) pour ne pas alourdir la page. Pour le latin
+ * (langue liturgique de l'Église), on utilise le drapeau du Vatican.
+ * Pour les langues sans drapeau défini (code exotique), on affiche un
+ * rectangle neutre avec le code langue en 2 lettres.
+ */
+interface Props {
+  lang: string;
+  class?: string;
+}
+
+const { lang, class: extraClass } = Astro.props;
+
+// Langues supportées : si le code n'est pas ici, la chip retombe sur le
+// placeholder typographique (code lettre dans un petit cadre).
+const SUPPORTED = new Set([
+  'la', 'fr', 'it', 'de', 'es', 'sp', 'pt', 'en', 'pl', 'hu',
+  'cs', 'sk', 'ar', 'nl', 'ru', 'uk', 'ro', 'hr', 'sl', 'zh',
+]);
+
+const cls = [
+  'lang-flag',
+  SUPPORTED.has(lang) ? `lang-flag--${lang}` : 'lang-flag--fallback',
+  extraClass ?? '',
+].filter(Boolean).join(' ');
+---
+
+{SUPPORTED.has(lang) ? (
+  <span class={cls} aria-hidden="true"></span>
+) : (
+  <span class={cls} aria-hidden="true">{lang.toUpperCase()}</span>
+)}
+
+<style>
+  .lang-flag {
+    display: inline-block;
+    width: 1.2em;
+    height: 0.85em;
+    border-radius: 1.5px;
+    border: 1px solid color-mix(in srgb, var(--ink) 20%, transparent);
+    vertical-align: -0.08em;
+    flex-shrink: 0;
+    background-color: var(--paper-dim);
+    box-shadow: 0 0 0 0.5px rgba(0,0,0,0.04);
+  }
+
+  .lang-flag--fallback {
+    font-family: var(--font-display);
+    font-size: 0.55em;
+    line-height: 1.55em;
+    font-weight: 700;
+    text-align: center;
+    color: var(--muted);
+    letter-spacing: 0.02em;
+  }
+
+  /* Latin → drapeau du Vatican (simplifié : jaune + blanc, sans clés). */
+  .lang-flag--la {
+    background: linear-gradient(to right, #FFCD00 0 50%, #ffffff 50%);
+  }
+
+  .lang-flag--fr {
+    background: linear-gradient(to right,
+      #0055A4 0 33.33%, #ffffff 33.33% 66.66%, #EF4135 66.66%);
+  }
+
+  .lang-flag--it {
+    background: linear-gradient(to right,
+      #009246 0 33.33%, #ffffff 33.33% 66.66%, #CE2B37 66.66%);
+  }
+
+  .lang-flag--de {
+    background: linear-gradient(to bottom,
+      #000000 0 33.33%, #DD0000 33.33% 66.66%, #FFCE00 66.66%);
+  }
+
+  .lang-flag--es,
+  .lang-flag--sp {
+    background: linear-gradient(to bottom,
+      #AA151B 0 25%, #F1BF00 25% 75%, #AA151B 75%);
+  }
+
+  .lang-flag--pt {
+    background: linear-gradient(to right,
+      #006600 0 40%, #FF0000 40%);
+  }
+
+  /* English → croix de saint Georges (drapeau d'Angleterre, plus lisible
+     qu'un Union Jack miniaturisé). */
+  .lang-flag--en {
+    background:
+      linear-gradient(to bottom, transparent 38%, #CE1124 38% 62%, transparent 62%),
+      linear-gradient(to right, transparent 40%, #CE1124 40% 60%, transparent 60%),
+      #ffffff;
+  }
+
+  .lang-flag--pl {
+    background: linear-gradient(to bottom,
+      #ffffff 0 50%, #DC143C 50%);
+  }
+
+  .lang-flag--hu {
+    background: linear-gradient(to bottom,
+      #CD2A3E 0 33.33%, #ffffff 33.33% 66.66%, #436F4D 66.66%);
+  }
+
+  .lang-flag--cs,
+  .lang-flag--sk {
+    background: linear-gradient(to bottom,
+      #ffffff 0 50%, #D7141A 50%);
+  }
+
+  .lang-flag--ar {
+    /* Pan-arabe (Syrie / Egypte / Irak), utilisé comme générique pour
+       l'arabe standard moderne. */
+    background: linear-gradient(to bottom,
+      #007A3D 0 33.33%, #ffffff 33.33% 66.66%, #CE1126 66.66%);
+  }
+
+  .lang-flag--nl {
+    background: linear-gradient(to bottom,
+      #AE1C28 0 33.33%, #ffffff 33.33% 66.66%, #21468B 66.66%);
+  }
+
+  .lang-flag--ru {
+    background: linear-gradient(to bottom,
+      #ffffff 0 33.33%, #0039A6 33.33% 66.66%, #D52B1E 66.66%);
+  }
+
+  .lang-flag--uk {
+    background: linear-gradient(to bottom,
+      #0057B7 0 50%, #FFD700 50%);
+  }
+
+  .lang-flag--ro {
+    background: linear-gradient(to right,
+      #002B7F 0 33.33%, #FCD116 33.33% 66.66%, #CE1126 66.66%);
+  }
+
+  .lang-flag--hr {
+    background: linear-gradient(to bottom,
+      #FF0000 0 33.33%, #ffffff 33.33% 66.66%, #171796 66.66%);
+  }
+
+  .lang-flag--sl {
+    background: linear-gradient(to bottom,
+      #ffffff 0 33.33%, #005DA4 33.33% 66.66%, #E03C31 66.66%);
+  }
+
+  .lang-flag--zh {
+    background: #DE2910;
+  }
+</style>

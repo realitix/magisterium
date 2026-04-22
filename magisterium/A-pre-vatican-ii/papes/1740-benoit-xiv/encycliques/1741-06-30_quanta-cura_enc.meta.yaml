@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1741-06-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 0aa1b1e01a0a1360ea23639ab48e37dd42080ab7434aae458063f3b273353c40
+    source_url: https://www.papalencyclicals.net/ben14/b14quant.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: c770aeb86ea8dfe91208acae484f5397d1aca02a97e1fe41d1b9e0ed57aac834
+  en: 0aa1b1e01a0a1360ea23639ab48e37dd42080ab7434aae458063f3b273353c40

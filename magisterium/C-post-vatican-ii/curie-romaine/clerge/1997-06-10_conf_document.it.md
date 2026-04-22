@@ -1,6 +1,3 @@
-   
-) )  
-
 CONFERENZA di S.E.R. Mons. DARIO CASTRILLON HOYOS
 
 Pro-Prefetto della Congregazione per il Clero

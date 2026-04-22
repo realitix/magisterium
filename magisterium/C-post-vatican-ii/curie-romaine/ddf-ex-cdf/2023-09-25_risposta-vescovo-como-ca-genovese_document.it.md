@@ -1,17 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_fr.html) - [HR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_hr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_it.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_po.html)\]
-
- 
-
 DICASTERIO PRO DOCTRINA FIDEI
 
 APPUNTO  

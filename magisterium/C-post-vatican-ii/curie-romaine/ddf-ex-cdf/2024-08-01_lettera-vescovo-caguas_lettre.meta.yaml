@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2024-08-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-caguas_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-caguas_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-caguas_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 5a2af994c6cf06a1977b4cf491a493fdf1357167dac137d1f6386891951b8b6c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-caguas_en.html
+    fetched_at: '2026-04-22T07:25:06.389850Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 55f7a7c65b41e57ca1f7a2ad17a4132de55b969ea40c6209626fe2bea89a5908
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-caguas_sp.html
+    fetched_at: '2026-04-22T07:25:22.426844Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 7518023bd39c94d891538c5cbaf58e3c902dd060dacb3ebce79deb804550f0c7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-caguas_fr.html
+    fetched_at: '2026-04-22T07:25:38.415346Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: c946c962975902f6f77c6957a9d49f2256cb1704d80850d8a0231b3883a93742
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-caguas_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 7111df655e2e969c7248ee40d1c1232c873ac8489b49fb41913d3b685d1367cf
+  en: 5a2af994c6cf06a1977b4cf491a493fdf1357167dac137d1f6386891951b8b6c
+  es: 55f7a7c65b41e57ca1f7a2ad17a4132de55b969ea40c6209626fe2bea89a5908
+  fr: 7518023bd39c94d891538c5cbaf58e3c902dd060dacb3ebce79deb804550f0c7
+  it: c946c962975902f6f77c6957a9d49f2256cb1704d80850d8a0231b3883a93742

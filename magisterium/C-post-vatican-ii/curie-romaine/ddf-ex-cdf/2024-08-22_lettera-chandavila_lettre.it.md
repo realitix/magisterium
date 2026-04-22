@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_it.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_po.html)\]
-
 DICASTERO PER LA DOTTRINA DELLA FEDE
 
  

@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html)
-
 LITTERAE ENCYCLICAE  
 ***EDITAE SAEPE***  
 VENERABILIBUS FRATRIBUS  

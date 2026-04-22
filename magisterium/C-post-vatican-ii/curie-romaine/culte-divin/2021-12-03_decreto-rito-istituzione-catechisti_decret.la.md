@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 **PONTIFICALE ROMANUM  
 **EX DECRETO SACROSANCTI ŒCUMENICI  
 CONCILII VATICANI II INSTAURATUM  

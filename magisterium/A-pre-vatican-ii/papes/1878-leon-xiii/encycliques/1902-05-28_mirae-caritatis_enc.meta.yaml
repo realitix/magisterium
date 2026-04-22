@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1902-05-28'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c1b008e82d5b660e083a68b57f3fbab79c0656c242af8f11172dfc27d7482a0d
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 798d37dc540757f202a0f86c06bc0d53724351e795d3ebbd1cd87be3326e13e6
+  la: c1b008e82d5b660e083a68b57f3fbab79c0656c242af8f11172dfc27d7482a0d

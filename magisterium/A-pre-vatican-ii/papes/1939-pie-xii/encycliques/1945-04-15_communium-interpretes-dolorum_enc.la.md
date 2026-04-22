@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html)
-
 EPISTULAE ENCYCLICAE  
 ***COMMUNIUM INTERPRETES DOLORUM\*  
 ***SUMMI PONTIFICIS***  

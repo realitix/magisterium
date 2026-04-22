@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html)
-
 SANCTISSIMI DOMINI NOSTRI
 
 LEONIS DIVINA PROVIDENTIA PAPAE XIII

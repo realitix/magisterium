@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html)  - [FR](/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html)
-
 EPISTOLA ENCYCLICA  
 ***AD BEATISSIMI APOSTOLORUM\****  
 SUMMI PONTIFICIS  

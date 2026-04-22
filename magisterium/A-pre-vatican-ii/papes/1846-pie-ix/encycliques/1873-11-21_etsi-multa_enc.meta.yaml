@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1873-11-21'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 3dba697739adfb1049fa6c4cabdb7687062c68ac2cd59c7e06fd83548db71654
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-etsi-multa-21-novembre-1873.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 9ea294fb5a738d3b20f391e1ba18e08c75180dbf4b1c5f618ef3939361c0e671
+  it: 3dba697739adfb1049fa6c4cabdb7687062c68ac2cd59c7e06fd83548db71654

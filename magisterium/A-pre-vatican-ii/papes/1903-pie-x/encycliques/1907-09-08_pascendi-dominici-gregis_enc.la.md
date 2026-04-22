@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)  - [ES](/content/pius-x/es/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)  - [FR](/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)  - [PT](/content/pius-x/pt/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html)
-
 LITTERAE ENCYCLICAE  
 ***PASCENDI DOMINICI GREGIS\*  
 ***SUMMI PONTIFICIS  

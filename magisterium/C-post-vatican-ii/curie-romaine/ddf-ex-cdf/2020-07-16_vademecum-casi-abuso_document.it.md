@@ -1,17 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_cfaith_doc_20200716_vademecum-casi-abuso_ge.html) - [EN](rc_con_cfaith_doc_20200716_vademecum-casi-abuso_en.html) - [ES](rc_con_cfaith_doc_20200716_vademecum-casi-abuso_sp.html) - [FR](rc_con_cfaith_doc_20200716_vademecum-casi-abuso_fr.html) - [IT](rc_con_cfaith_doc_20200716_vademecum-casi-abuso_it.html) - [PL](rc_con_cfaith_doc_20200716_vademecum-casi-abuso_en.html) - [PT](rc_con_cfaith_doc_20200716_vademecum-casi-abuso_en.html)\]
-
- 
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***VADEMECUM***

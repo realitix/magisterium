@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2011-04-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f237fb3a1534b5490212c18ee804b3c434e8eacbd161a6ee7872520115ca38e9
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20110402_colletta_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 80638a413fc03b7ca5fa8283a4cc3ace76e4f3f8657b75690ff227dde16370be
+  la: f237fb3a1534b5490212c18ee804b3c434e8eacbd161a6ee7872520115ca38e9

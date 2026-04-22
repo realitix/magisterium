@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1964-11-21'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: c0d0470554755661ae932f30546d6bfdf944500637d860bc457daa5aeba96f6f
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_cs.html
+    fetched_at: '2026-04-22T06:47:54.439920Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: ae54eacfda4958d01404a6728ea2be5b2e147ce2f7960421617eeaec110d8fd3
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html
+    fetched_at: '2026-04-22T06:48:10.405688Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 408559912ebce39b9c968eff9a762f15d41e6d72e4311df685815980be705d39
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html
+    fetched_at: '2026-04-22T06:48:26.444615Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 96334890c4cc77a4b9feacec4e74301512bf321d85577b281f25964a3d57592c
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_fr.html
+    fetched_at: '2026-04-22T06:48:42.436331Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 25d36b4b9e5880f8f54b1422ae3cbc23d7bd251a2db397b88a5b68bd3e4a0eba
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_hu.html
+    fetched_at: '2026-04-22T06:48:58.322203Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: d4a4ceaacd711f7d5bcf1c8f1153c3ba5f4d5b2c41ed8393bc7a5ce5b10015d2
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_it.html
+    fetched_at: '2026-04-22T06:49:14.462779Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: d893776f0ac240e7051be2edf7299349d8ffd134666a28935bd8da694bb9743b
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 891494a29614cbc8ebc623b17f8771c6cc6579f1f015bb086b1d2bad675c54c3
+  cs: c0d0470554755661ae932f30546d6bfdf944500637d860bc457daa5aeba96f6f
+  en: ae54eacfda4958d01404a6728ea2be5b2e147ce2f7960421617eeaec110d8fd3
+  es: 408559912ebce39b9c968eff9a762f15d41e6d72e4311df685815980be705d39
+  fr: 96334890c4cc77a4b9feacec4e74301512bf321d85577b281f25964a3d57592c
+  hu: 25d36b4b9e5880f8f54b1422ae3cbc23d7bd251a2db397b88a5b68bd3e4a0eba
+  it: d4a4ceaacd711f7d5bcf1c8f1153c3ba5f4d5b2c41ed8393bc7a5ce5b10015d2
+  la: d893776f0ac240e7051be2edf7299349d8ffd134666a28935bd8da694bb9743b

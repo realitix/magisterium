@@ -1,6 +1,3 @@
-   
-) )  
-
 All'Angelus Giovanni Paolo II conclude le celebrazioni del Giubileo dei Diaconi permanenti e annuncia l'incontro con quello che Paolo VI definiva «cenacolo permanente» totalmente consacrato al bene della Chiesa
 
 Martedì avrò la gioia di celebrare con tutti

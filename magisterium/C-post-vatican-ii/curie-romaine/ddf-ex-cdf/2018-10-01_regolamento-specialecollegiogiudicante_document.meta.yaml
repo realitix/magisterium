@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2018-10-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: f3841a1c03a4dd00b388ca8e9610f9a8d0360c600aa38a69e8d4ee7827acd2b9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20181001_regolamento-specialecollegiogiudicante_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 63322db7e06a0b49785b52d6f050db882052ac5a89f27bb0f499e16444a96809
+  it: f3841a1c03a4dd00b388ca8e9610f9a8d0360c600aa38a69e8d4ee7827acd2b9

@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: normes
 date: '2021-10-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: f68b19e2f452ee35d19acda721a1c37879b701fa3ee88b809a8fec3c2cf2256c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_en.html
+    fetched_at: '2026-04-22T07:22:16.196198Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 2d1fdea24549dd5ba6ab3702c79905a71d911e6286aa1dc753669e1ad10793b0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_sp.html
+    fetched_at: '2026-04-22T07:22:32.111823Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9cb7562cdd9fcff1c907d6f79b380db273ff3edd39de92dcf04a5e645a407fce
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_fr.html
+    fetched_at: '2026-04-22T07:22:48.278224Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: ff567dbe089fa56cee314f1ea6e77675b061c70ca866864a9d27bbf4bc81afc4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_it.html
+    fetched_at: '2026-04-22T07:23:04.243186Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: e760e2e291394b0750bcd7aeb0dbe1be56f3e37f44b46e6d11f8c6a66842337b
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_la.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 4afcce3c1bf90cf288b8ff7e1e6923b25998fd537575eae6ca17a811f14be64f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_pl.html
+    fetched_at: '2026-04-22T07:23:20.256862Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
+- pl
 sha256:
-  la: 15abd238c7f0fafe4825120798bc85f7587896b0fb77d9db75bbe10248d69918
+  en: f68b19e2f452ee35d19acda721a1c37879b701fa3ee88b809a8fec3c2cf2256c
+  es: 2d1fdea24549dd5ba6ab3702c79905a71d911e6286aa1dc753669e1ad10793b0
+  fr: 9cb7562cdd9fcff1c907d6f79b380db273ff3edd39de92dcf04a5e645a407fce
+  it: ff567dbe089fa56cee314f1ea6e77675b061c70ca866864a9d27bbf4bc81afc4
+  la: e760e2e291394b0750bcd7aeb0dbe1be56f3e37f44b46e6d11f8c6a66842337b
+  pl: 4afcce3c1bf90cf288b8ff7e1e6923b25998fd537575eae6ca17a811f14be64f

@@ -4,8 +4,6 @@ auteur: Don Davide Pagliarani
 periode: fsspx
 type: declaration
 date: '2024-11-22'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 8bda9a7f5a225d72250c3215a89182b109b56eced18360bb87db6f77f39cd3d6
+    source_url: https://laportelatine.org/formation/crise-eglise/rapports-rome-fsspx/1974-2024-semper-idem
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 78f7bf45353d13343e6c6545a9eb916b7f4bf96800d4b848a01cbb6e9e10ee9c
+  fr: 8bda9a7f5a225d72250c3215a89182b109b56eced18360bb87db6f77f39cd3d6

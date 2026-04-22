@@ -1,6 +1,3 @@
-   
-) )  
-
 Heiliges Jahr 2000 – »Jubiläum der Ständigen Diakone« in der Aula Paul VI.
 
 Mit Wort und Tat dem Aufbau des Reiches Gottes dienen

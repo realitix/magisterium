@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_28051902_mirae-caritatis.html)
-
 EPISTOLA ENCYCLICA
 
 ***MIRAE CARITATIS\****

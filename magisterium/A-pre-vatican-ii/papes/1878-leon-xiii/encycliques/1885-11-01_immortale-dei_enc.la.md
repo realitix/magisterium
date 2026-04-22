@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)
-
 EPISTOLA ENCYCLICA
 
 ***IMMORTALE DEI\****

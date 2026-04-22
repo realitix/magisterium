@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1920-10-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: bef1a229a3423bfc073c8c11c67a43ce4534321d5fbf3404d73912fb7ac77d5a
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: eb90bccddd019c0a885ee7e49b0f4c4b365cd665bcc253a0b1c9f5e1bd8cfd56
+  la: bef1a229a3423bfc073c8c11c67a43ce4534321d5fbf3404d73912fb7ac77d5a

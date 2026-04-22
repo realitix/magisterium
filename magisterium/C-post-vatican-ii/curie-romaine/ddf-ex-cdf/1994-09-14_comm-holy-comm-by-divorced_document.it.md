@@ -1,6 +1,3 @@
-   
-) )  
-
 **COMMENTARIUM**
 
 ***«FEDELTÀ NELLA VERITÀ»***\*

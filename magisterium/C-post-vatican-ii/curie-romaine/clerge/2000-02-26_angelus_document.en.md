@@ -1,6 +1,3 @@
-   
-) )  
-
 SUNDAY ANGELUS: 20 FEBRUARY
 
  

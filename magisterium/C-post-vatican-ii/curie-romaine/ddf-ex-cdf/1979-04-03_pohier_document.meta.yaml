@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1979-04-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e7f10053cf63ec3de30f0f668702c623bfcc965cfe29ea866d820ed5f7d9581e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 0d1c553f66430d8caaf14f120fc980f93281a52182caebcff1849855bbe699ab
+  la: e7f10053cf63ec3de30f0f668702c623bfcc965cfe29ea866d820ed5f7d9581e

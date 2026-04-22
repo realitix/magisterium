@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html)
-
 EPISTOLA ENCYCLICA
 
 SANCTISSIMI D. N. LEONIS PP. XIII

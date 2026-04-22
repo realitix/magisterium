@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1926-04-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0d5a922ea691ba5ba484f67bd3aed3ebf399a3a5d360a9caca689e98d792c22b
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260430_rite-expiatis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 887da965646f14fda3153024c6dc82f0613f8d909314e76e1d5cc4dbae3cf7ae
+  la: 0d5a922ea691ba5ba484f67bd3aed3ebf399a3a5d360a9caca689e98d792c22b

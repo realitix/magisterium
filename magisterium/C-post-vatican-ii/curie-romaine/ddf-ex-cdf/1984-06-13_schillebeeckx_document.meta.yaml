@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1984-06-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 3e7a6a05ebb6ab903fb6e59621cb9dae84aa5500d20258e3df750f9a568a7003
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19840613_schillebeeckx_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: d93524c335939af15aeceecd299b0d79d1bb5b50fabd7cefe1a76463b79790e1
+  it: 3e7a6a05ebb6ab903fb6e59621cb9dae84aa5500d20258e3df750f9a568a7003

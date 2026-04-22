@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2009-11-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- sp
 langue_originale: sp
 denzinger: []
 sujets: []
@@ -17,5 +15,18 @@ sources:
   site: www.vatican.va
   langue: sp
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: f1089b912d3309c790b7ca92545732c58e57ff8f789dce65c23250eea743a090
+  sp:
+    kind: originale
+    sha256: fd46e6fadadbeb6502500956148862c1f0ef3faefc2ac70ee9f6e449c3b82711
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_20091118_assemblea-plenaria_sp.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
+- sp
 sha256:
-  sp: 26e85a3f3df76b7078760d47d49c02b84abf9b7cd9e2732996c811b77383e560
+  fr: f1089b912d3309c790b7ca92545732c58e57ff8f789dce65c23250eea743a090
+  sp: fd46e6fadadbeb6502500956148862c1f0ef3faefc2ac70ee9f6e449c3b82711

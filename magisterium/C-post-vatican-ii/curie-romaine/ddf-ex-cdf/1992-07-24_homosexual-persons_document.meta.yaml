@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1992-07-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: eb9cc76a38e7578f58fb5782a8b6a25c5a246d4e3142d4f72cb4713e9bb82cd5
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19920724_homosexual-persons_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: d893993321b25fcb96a1dbfb425da4490e88523b3a87445608d8aa09c7946ece
+  it: eb9cc76a38e7578f58fb5782a8b6a25c5a246d4e3142d4f72cb4713e9bb82cd5

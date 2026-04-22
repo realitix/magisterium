@@ -6,8 +6,6 @@ periode: pre-vatican-ii
 type: catechisme
 date: '1566-09-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -24,5 +22,13 @@ sources:
   site: archive.org
   langue: la
   fetch_method: djvu-ocr
+traductions:
+  la:
+    kind: originale
+    sha256: a72bcb31f382ef3aa4df70820be0bcb4a7c56062cbec680ead5d3f227b82793f
+    source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
+    fetch_method: djvu-ocr
+langues_disponibles:
+- la
 sha256:
   la: a72bcb31f382ef3aa4df70820be0bcb4a7c56062cbec680ead5d3f227b82793f

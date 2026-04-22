@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2025-11-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: afa638b99a514adf84606f52b50e1b2de2dcabb977ebea2a879eb683cc4c7cd2
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_en.html
+    fetched_at: '2026-04-22T07:26:44.580998Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 4384db5e584eed37b7c61b906bca3c53f87027e7e901775a6d5907c41f08853d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_sp.html
+    fetched_at: '2026-04-22T07:27:00.603236Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 006d7c8d4cf9e895cea92b944bc76b4f4b26726a7cf4e56a90da0f79111931fc
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_fr.html
+    fetched_at: '2026-04-22T07:27:16.613184Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 4a5e3c78ad99ac08cbd6907919cd17a1923674686605a6aa992b036609b29536
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 0df6208cb3e24833f8626ca74ca13745ecbec79b3681a921a6472e8124410262
+  en: afa638b99a514adf84606f52b50e1b2de2dcabb977ebea2a879eb683cc4c7cd2
+  es: 4384db5e584eed37b7c61b906bca3c53f87027e7e901775a6d5907c41f08853d
+  fr: 006d7c8d4cf9e895cea92b944bc76b4f4b26726a7cf4e56a90da0f79111931fc
+  it: 4a5e3c78ad99ac08cbd6907919cd17a1923674686605a6aa992b036609b29536

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1888-06-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b0e585c9b1a33307cf3ccebcf77e7aff13e04463e82ca416d3d2b109b58847c9
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d6b1cdd481e110761ab6413c0a9c62b81879586b27223f9d4589617880e5ed96
+  la: b0e585c9b1a33307cf3ccebcf77e7aff13e04463e82ca416d3d2b109b58847c9

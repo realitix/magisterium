@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html)
-
 EPISTOLA ENCYCLICA  
 ***IN HAC TANTA******\****  
 SUMMI PONTIFICIS  

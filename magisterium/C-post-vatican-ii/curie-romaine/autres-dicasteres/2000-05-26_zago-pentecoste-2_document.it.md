@@ -1,6 +1,3 @@
-   
-) )  
-
 ***RIFLESSIONE DI MONS. MARCELLO ZAGO***
 
 ***PENTECOSTE 2000***

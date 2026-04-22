@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-amantissimi-redemptoris-3-maggio-1858.html)
-
 ENCICLICA ***  
 AMANTISSIMI REDEMPTORIS***   
 DI SUA SANTITÀ  

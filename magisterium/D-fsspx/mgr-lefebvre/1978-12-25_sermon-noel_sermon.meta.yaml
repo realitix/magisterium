@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1978-12-25'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 3ec34334342426fb2f711c7fbb5310f595d81d0e90a61f6a2528de1450ecce8c
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-noel-25-decembre-1978
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 2491f73ca1ab7e8738a3ef60121eb35e3bbf8eb36928a760c66acc9dfeb81049
+  fr: 3ec34334342426fb2f711c7fbb5310f595d81d0e90a61f6a2528de1450ecce8c

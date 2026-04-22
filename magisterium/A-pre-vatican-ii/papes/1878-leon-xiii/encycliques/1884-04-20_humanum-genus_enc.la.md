@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html)
-
 SS. D.N. LEONIS PAPAE XIII
 
 EPISTOLA ENCYCLICA

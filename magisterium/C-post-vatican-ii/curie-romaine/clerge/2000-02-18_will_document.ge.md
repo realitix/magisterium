@@ -1,6 +1,3 @@
-   
-) )  
-
 Willkommensgruss
 
 durch S.Em. Kardinal Dario Castrillon Hoyos, Präfekt

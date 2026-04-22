@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: normes
 date: '2024-05-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hr
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 6ae33356cda132c3cd34aa3f7dcba67a2a6ae75c051e3430669c07bb8c1416f4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html
+    fetched_at: '2026-04-22T07:24:04.547670Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: d0db72106bdaa66e31f68ecc8e37a3568a0d0628b415de07a1a22946b3ec21fb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_sp.html
+    fetched_at: '2026-04-22T07:24:20.484588Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 75c6ccac41225d1857b10203524a5fe8b98556a23e839343b033ab72c5585bf5
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_fr.html
+    fetched_at: '2026-04-22T07:24:36.491645Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 1e4c9ab38a3352bea8ebf7ffdba68721ea40bb36a8ae50b5c6f2104aaac53773
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_hr.html
+    fetched_at: '2026-04-22T07:24:52.527562Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 30ad3093a89d1c327a3acf24d6b6130a08edb57ff1529b1c6a6f2fbfc37f183b
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 6026d7e2b35041af6948861872556742717f1a143d3bc3750dc416b71b41a71c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_pl.html
+    fetched_at: '2026-04-22T07:25:08.529627Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- hr
+- it
+- pl
 sha256:
-  it: ec0b7dd47665a5cf00b7134045743497ddffcdbf698f282ff83a7ade0bb3aeb7
+  en: 6ae33356cda132c3cd34aa3f7dcba67a2a6ae75c051e3430669c07bb8c1416f4
+  es: d0db72106bdaa66e31f68ecc8e37a3568a0d0628b415de07a1a22946b3ec21fb
+  fr: 75c6ccac41225d1857b10203524a5fe8b98556a23e839343b033ab72c5585bf5
+  hr: 1e4c9ab38a3352bea8ebf7ffdba68721ea40bb36a8ae50b5c6f2104aaac53773
+  it: 30ad3093a89d1c327a3acf24d6b6130a08edb57ff1529b1c6a6f2fbfc37f183b
+  pl: 6026d7e2b35041af6948861872556742717f1a143d3bc3750dc416b71b41a71c

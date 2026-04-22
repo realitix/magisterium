@@ -1,5 +1,3 @@
-[EN](/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html)  - [ES](/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html)  - [IT](/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html)  - [LA](/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html)  - [PT](/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html)
-
 PAULUS PP. VI
 
 EPISTULA ENCYCLICA

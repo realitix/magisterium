@@ -1,6 +1,3 @@
-   
-) )  
-
 Grusswort
 
 Seiner Eminenz, Des Herrn Kardinalpräfekten

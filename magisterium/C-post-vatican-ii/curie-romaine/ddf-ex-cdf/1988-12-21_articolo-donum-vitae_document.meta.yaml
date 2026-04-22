@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1988-12-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- ge
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ad89cd476a1f25a72518a09dda900296e2e8f52e4e3b3c6189adde66222ddfa9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881221_articolo-donum-vitae_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: fac4cff55b62e9a76111ca31b99b35ae99b07d06ca271a57649bb968c5c2e855
+  it: ad89cd476a1f25a72518a09dda900296e2e8f52e4e3b3c6189adde66222ddfa9

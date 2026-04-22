@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_07101954_ad-sinarum-gentem.html)
-
   PIUS PP. XII
 
 EPISTULA ENCYCLICA

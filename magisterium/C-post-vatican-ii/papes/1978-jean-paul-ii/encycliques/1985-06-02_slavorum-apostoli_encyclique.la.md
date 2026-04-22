@@ -1,5 +1,3 @@
-[DE](/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [EN](/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [ES](/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [FR](/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [HU](/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [IT](/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [LA](/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [PL](/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)  - [PT](/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html)
-
 **IOANNIS PAULI PP. II  
 **SUMMI PONTIFICIS  
 EPISTULA ENCYCLICA***  

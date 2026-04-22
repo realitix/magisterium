@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1980-05-05'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 129eebca198c24cbde47929f3834305532510843658e6f7fa68d93f5cc72b7b3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19800505_eutanasia_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 7b0696153756cfca82bbb64fa1d6907ff62a460e7c02c65040512871b122d6e2
+  la: 129eebca198c24cbde47929f3834305532510843658e6f7fa68d93f5cc72b7b3

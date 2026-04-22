@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_pl.html) - [SK](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sk.html)\]
-
 DICASTERO PER LA DOTTRINA DELLA FEDE
 
 **Considerazioni circa l’esperienza spirituale sul monte Zvir (Litmanová)**

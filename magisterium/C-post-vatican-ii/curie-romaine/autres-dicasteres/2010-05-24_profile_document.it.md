@@ -1,6 +1,3 @@
-   
-   
-
 **ARCHIVIO**
 
 ***La Congregazione per l'Evangelizzazione dei Popoli ha cessato la sua attività e le sue competenze e funzioni sono state assunte dal Dicastero per l'Evangelizzazione***   

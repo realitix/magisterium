@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2007-01-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 79b29734a06228957909919e1c8de1562dcfccbc6b72d1fcd9862af46eeeb028
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070125_vassula-ryden_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: a922d6de557e3a4b60950629f1dd39e1173fc1d0f60f7c7049fbe1e012830795
+  it: 79b29734a06228957909919e1c8de1562dcfccbc6b72d1fcd9862af46eeeb028

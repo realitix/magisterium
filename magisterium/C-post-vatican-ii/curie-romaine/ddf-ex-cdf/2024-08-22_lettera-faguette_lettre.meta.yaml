@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2024-08-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 10d07359d011f517846db04eee6b5682eb23ffc5f7943306b7ad38af0fdb1600
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_en.html
+    fetched_at: '2026-04-22T07:25:40.445478Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: b00ff147157b503731456281303aead7d6b21fb67001de7032aac59686a18b4d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_sp.html
+    fetched_at: '2026-04-22T07:25:56.697196Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 6b34c6b3d207614cbd1a5cae047956bca08f03626ae86acaf5f194a61ca37859
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_fr.html
+    fetched_at: '2026-04-22T07:26:12.491853Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: da16ce99a45b792e04cdf358e555e20c2788ddd0a2075766fca5390faa67a76c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 1f4d1917175a68899fcba49e25ebbcf29fc30661ecb4ebd0faf7091c47ab1a02
+  en: 10d07359d011f517846db04eee6b5682eb23ffc5f7943306b7ad38af0fdb1600
+  es: b00ff147157b503731456281303aead7d6b21fb67001de7032aac59686a18b4d
+  fr: 6b34c6b3d207614cbd1a5cae047956bca08f03626ae86acaf5f194a61ca37859
+  it: da16ce99a45b792e04cdf358e555e20c2788ddd0a2075766fca5390faa67a76c

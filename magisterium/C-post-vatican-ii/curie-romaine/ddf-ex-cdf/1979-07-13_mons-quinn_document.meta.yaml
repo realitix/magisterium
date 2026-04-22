@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1979-07-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 1c3e1ba5607fd28e90b59d0d4931e5c551272f6e1dba914e2a6162bacc3a9b26
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790713_mons-quinn_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: b3e8752ea784b249f3711de1e849808348951290de3fc81df9befdc4a184c772
+  it: 1c3e1ba5607fd28e90b59d0d4931e5c551272f6e1dba914e2a6162bacc3a9b26

@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2020-03-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 220d896a9826c819e70ea0c0a783fc896fc5635dcf1d5838cab3e9aae2d5f49a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200330_lettera-fratellidellacarita-belgio_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 530d7333250e179f8cddb2e45f903390e90a393d881937a1f333eda714519744
+  it: 220d896a9826c819e70ea0c0a783fc896fc5635dcf1d5838cab3e9aae2d5f49a

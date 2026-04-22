@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1992-11-20'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4b1355b24fdfc8744fd77af27b287eea969741106851302948d213c7a4fa955e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19921120_bapt-new-church_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 4417e0986c45612e63b5029b0f7c822d91c0b24c5fb103d23775b7e4345a559d
+  la: 4b1355b24fdfc8744fd77af27b287eea969741106851302948d213c7a4fa955e

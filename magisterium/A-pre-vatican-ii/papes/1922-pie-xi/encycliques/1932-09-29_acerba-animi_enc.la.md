@@ -1,5 +1,3 @@
-[IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html)
-
 EPISTOLA ENCYCLICA  
 ***ACERBA ANIMI***  
 VENERABILIBUS FRATRIBUS  

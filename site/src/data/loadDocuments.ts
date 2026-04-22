@@ -5,7 +5,7 @@
 import fs from 'node:fs';
 import { INDEX_JSONL } from './paths.js';
 import { loadAllThemes } from './loadThemes.js';
-import type { Document } from './types.js';
+import type { Document, TraductionSummary } from './types.js';
 
 /** Raw JSONL record shape — `sha256` is a string in `index.jsonl`. */
 interface IndexRow {
@@ -21,6 +21,7 @@ interface IndexRow {
   sha256: string;
   sujets?: string[];
   themes_doctrinaux?: string[];
+  traductions?: TraductionSummary[];
 }
 
 let documentsCache: Document[] | null = null;
@@ -58,6 +59,9 @@ function parseRow(line: string, slugToThemes: Map<string, Set<string>>): Documen
   const row = JSON.parse(line) as IndexRow;
   const joined = slugToThemes.get(row.slug) ?? new Set<string>();
   for (const t of row.themes_doctrinaux ?? []) joined.add(t);
+  const traductions: TraductionSummary[] = Array.isArray(row.traductions)
+    ? row.traductions
+    : [{ lang: row.langue_originale, kind: 'originale' }];
   return {
     path: row.path,
     slug: row.slug,
@@ -71,6 +75,7 @@ function parseRow(line: string, slugToThemes: Map<string, Set<string>>): Documen
     sha256: row.sha256,
     sujets: row.sujets ?? [],
     themes_doctrinaux: Array.from(joined).sort(),
+    traductions,
   };
 }
 

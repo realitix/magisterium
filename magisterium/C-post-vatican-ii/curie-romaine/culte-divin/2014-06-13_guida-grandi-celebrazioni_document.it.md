@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 CONGREGATIO DE CULTU DIVINO  
 ET DISCIPLINA SACRAMENTORUM
 

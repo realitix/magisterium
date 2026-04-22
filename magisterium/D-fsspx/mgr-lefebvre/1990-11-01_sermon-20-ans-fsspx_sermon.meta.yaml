@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1990-11-01'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 410dc21648af5dd2e04b5217907d09f21a727ef30ef961d567e33de4a679592f
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-toussaint-20eme-anniversaire-de-la-fraternite-1er-novembre-1990
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 0d5dc5cc53155edeaae901762c4699989cec6d9782c5847678a4f8b82a19dc30
+  fr: 410dc21648af5dd2e04b5217907d09f21a727ef30ef961d567e33de4a679592f

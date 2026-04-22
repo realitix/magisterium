@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1986-05-18'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: fcea3a98462aaf95f4f48a68f4f9362297dc9a4fc051be0ff5f4ade2d0fff495
+    source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 58adc71ec1e3787b246f85db73b1aaac47cb5bc97b43ff49c41ab6c7e512caa9
+  la: fcea3a98462aaf95f4f48a68f4f9362297dc9a4fc051be0ff5f4ade2d0fff495

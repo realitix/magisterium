@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2012-04-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: d4a9b97d41efac9e60b2fefd04d5c4d8cba97358e4101528b1f402f791c68362
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120418_statement-lcwr_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8e8040cc76ef32d0271f4b85d82c1b4558e2eff8619f827770f0a6baadb23a76
+  it: d4a9b97d41efac9e60b2fefd04d5c4d8cba97358e4101528b1f402f791c68362

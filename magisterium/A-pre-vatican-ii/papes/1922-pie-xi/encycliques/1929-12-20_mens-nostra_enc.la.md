@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19291220_mens-nostra.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19291220_mens-nostra.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19291220_mens-nostra.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19291220_mens-nostra.html)
-
 LITTERAE ENCYCLICAE  
 ***MENS NOSTRA\****  
 AD VENERABILES FRATRES PATRIARCHAS, PRIMATES, ARCHIEPISCOPOS, EPISCOPOS ALIOSQUE LOCORUM ORDINARIOS PACEM ET COMMUNIONEM CUM APOSTOLICA SEDE HABENTES: DE USU EXERCITIORUM SPIRITUALIUM MAGIS MAGISQUE PROMOVENDO.  

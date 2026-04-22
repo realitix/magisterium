@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '0325-06-19'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 3f1cac9cde67af0709c7fb6f2cd56e590050e027a93e1c01ab925e5f1d97d595
+    source_url: https://www.papalencyclicals.net/councils/ecum01.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: d2407450c4ebcd48a16a8b3ce1ba5561546359cdf2dba618616409caef529ef4
+  en: 3f1cac9cde67af0709c7fb6f2cd56e590050e027a93e1c01ab925e5f1d97d595

@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1965-10-28'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: b961214503c0e5eb6f9c28e5b0cfced212c52aad8cb394d2d06e1a03b62dc83a
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_cs.html
+    fetched_at: '2026-04-22T06:47:56.578835Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 2b21a072d097b85e0bf4d0cd83c1ded6859095a294b580f142e917a06e94f1fc
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html
+    fetched_at: '2026-04-22T06:48:12.423898Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f699abc2352f5cac7da45f99395cb7bd0ed6b717bf97bb523257612419320bf7
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html
+    fetched_at: '2026-04-22T06:48:28.434949Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 2378d06d69aa3cc5860fc79cea44bfe8796072e7d6e23034947578ab3c5648a0
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_fr.html
+    fetched_at: '2026-04-22T06:48:44.698934Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: d7d22fcbdf469e3b06f590dfeb24d915f2d3763019956a38fd24cfd3723e23f6
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_hu.html
+    fetched_at: '2026-04-22T06:49:00.363263Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: f30c3253e3d1bdae6928f63fd18bff0964801d6a3687de7c256a090ecd5812c7
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_it.html
+    fetched_at: '2026-04-22T06:49:16.500280Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: f8c277cbfde93bfc0de7a4e3084ee3670ef47c6dd227a74c9083e1d6efa9d4b0
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 9239f5fca1cdbaf6a2e8c9f1472c5db53d162dfad840442d140522ce95cc7676
+  cs: b961214503c0e5eb6f9c28e5b0cfced212c52aad8cb394d2d06e1a03b62dc83a
+  en: 2b21a072d097b85e0bf4d0cd83c1ded6859095a294b580f142e917a06e94f1fc
+  es: f699abc2352f5cac7da45f99395cb7bd0ed6b717bf97bb523257612419320bf7
+  fr: 2378d06d69aa3cc5860fc79cea44bfe8796072e7d6e23034947578ab3c5648a0
+  hu: d7d22fcbdf469e3b06f590dfeb24d915f2d3763019956a38fd24cfd3723e23f6
+  it: f30c3253e3d1bdae6928f63fd18bff0964801d6a3687de7c256a090ecd5812c7
+  la: f8c277cbfde93bfc0de7a4e3084ee3670ef47c6dd227a74c9083e1d6efa9d4b0

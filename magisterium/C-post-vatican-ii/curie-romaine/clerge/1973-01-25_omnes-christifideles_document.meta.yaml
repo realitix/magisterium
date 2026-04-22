@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1973-01-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: eadc72afb4950eb961462087be3de80516a45988783f089a811aaa9dc1e1fb74
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19730125_omnes-christifideles_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 53e6c5b20734f9171a3ac015fff1029ad1c8612de5921d973dc3b7b16e0f677a
+  it: eadc72afb4950eb961462087be3de80516a45988783f089a811aaa9dc1e1fb74

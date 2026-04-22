@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1834-06-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 16c034ed9a6f51c015510f7fb3fdfe78b409e79ec67abd25b689e42e99a1d1ce
+    source_url: https://www.papalencyclicals.net/greg16/g16singu.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 72605b4f751fbdb9f3195bfe9eeb86d1302826e980123a90df5cef42026ea88a
+  en: 16c034ed9a6f51c015510f7fb3fdfe78b409e79ec67abd25b689e42e99a1d1ce

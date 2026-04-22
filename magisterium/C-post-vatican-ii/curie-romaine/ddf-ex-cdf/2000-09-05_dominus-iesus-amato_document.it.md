@@ -1,6 +1,3 @@
-   
-) )   
-
 PRESENTAZIONE DELLA DICHIARAZIONE ***  
 "DOMINUS JESUS"***
 

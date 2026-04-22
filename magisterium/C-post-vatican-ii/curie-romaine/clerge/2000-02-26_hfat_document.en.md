@@ -1,6 +1,3 @@
-   
-) )  
-
 Active apostles of the new evangelization
 
  

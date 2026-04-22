@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1840-09-18'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 5a4ef196a7de5551da208bfc2d4b0411f7c9a0d0e618f460b665ff563207cf4a
+    source_url: https://www.papalencyclicals.net/greg16/g16probe.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 7c90d8e4d8f7045848da8ef7d84761738def24d2569a1af0c10e8630f7807bf3
+  en: 5a4ef196a7de5551da208bfc2d4b0411f7c9a0d0e618f460b665ff563207cf4a

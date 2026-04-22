@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1929-12-31'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: da4d8719eeec42ff437db88a360ded310551b6c4fea88e6d9d607f479196d703
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 28d7734a29e2a25759128ab33bf9a81ce75a997f5f415c395221ae2a7c832a56
+  la: da4d8719eeec42ff437db88a360ded310551b6c4fea88e6d9d607f479196d703

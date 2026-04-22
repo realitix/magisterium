@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2020-12-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 2b17b586a145f590956573da297aae6a6ec8f43b3fc26a477cba5e5d15a23ae7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_en.html
+    fetched_at: '2026-04-22T07:21:40.036539Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 110cd4b41ba7f293c88fec8ea9c6b84d60314648f6d055c93757e9b23a28de3a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_sp.html
+    fetched_at: '2026-04-22T07:21:56.050681Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 4b8d14a597ad85de71f53cdb1cfc0dcf1f2c90f9621a6b9aadc09e8bcdc7c5d3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_fr.html
+    fetched_at: '2026-04-22T07:22:12.245313Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: ab2702296d71b017d8d63a74fc1826a34eb1d405ccc04680f833e53badfdaf56
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 86ae0755e7c6953303d962faf3de603c0e717423646820db0a2ed41de091a5e2
+  en: 2b17b586a145f590956573da297aae6a6ec8f43b3fc26a477cba5e5d15a23ae7
+  es: 110cd4b41ba7f293c88fec8ea9c6b84d60314648f6d055c93757e9b23a28de3a
+  fr: 4b8d14a597ad85de71f53cdb1cfc0dcf1f2c90f9621a6b9aadc09e8bcdc7c5d3
+  it: ab2702296d71b017d8d63a74fc1826a34eb1d405ccc04680f833e53badfdaf56

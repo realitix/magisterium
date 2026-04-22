@@ -1,6 +1,3 @@
-   
-) )   
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 *** **In margine alla *NOTIFICAZIONE* della  

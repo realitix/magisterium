@@ -59,6 +59,15 @@ _DEAD_HREF = re.compile(
 
 _WHITESPACE_ONLY = re.compile(r"^(?:\s|&nbsp;|\xa0)*$")
 
+# Code langue ISO sur 2 lettres (y compris variantes vatican.va : _lt, _ge, _sp…)
+_LANG_CODE = re.compile(r"^[A-Z]{2,3}$")
+# Un href vatican.va qui se termine par `_<lang>.html` — la barre de choix
+# de langue.
+_VATICAN_LANG_HREF = re.compile(
+    r"vatican\.va/.+_[a-z]{2,3}\.html?$",
+    re.IGNORECASE,
+)
+
 
 # --- Helpers ----------------------------------------------------------------
 
@@ -139,6 +148,54 @@ def _strip_empty_anchors(root: Node) -> int:
     return total
 
 
+def _strip_vatican_lang_nav(root: Node) -> int:
+    """Remove the vatican.va language chooser strip when it appears in-body.
+
+    Pattern in HTML (DDF / curie récentes) :
+        [<a href="..._ge.html">DE</a> - <a href="..._en.html">EN</a>
+         - <a href="..._sp.html">ES</a> - <a href="..._fr.html">FR</a>
+         - <a href="..._it.html">IT</a> - <a href="..._po.html">PT</a>]
+
+    On détecte un parent <p> / <div> dont le contenu utile se limite à une
+    liste de tels liens (2+ adjacents, libellés en codes 2-3 lettres et
+    href pointant vers une variante `..._xx.html` sur vatican.va). On
+    supprime le parent entier pour ne pas laisser de séparateurs orphelins.
+    Returns the number of navs stripped.
+    """
+    removed = 0
+    # On regarde p / div / span de niveau supérieur.
+    for container in list(root.css("p, div, span")):
+        anchors = container.css("a")
+        if len(anchors) < 2:
+            continue
+        # Tous les <a> doivent être des liens de nav de langue
+        all_lang_anchors = True
+        for a in anchors:
+            text = (a.text() or "").strip()
+            href = (a.attributes.get("href") or "").strip()
+            if not _LANG_CODE.match(text):
+                all_lang_anchors = False
+                break
+            if not _VATICAN_LANG_HREF.search(href):
+                all_lang_anchors = False
+                break
+        if not all_lang_anchors:
+            continue
+        # Vérifier que le reste du texte (hors liens) ne contient rien de
+        # substantiel — uniquement des séparateurs et crochets.
+        full_text = (container.text() or "").strip()
+        link_text = " ".join((a.text() or "").strip() for a in anchors)
+        leftover = full_text
+        for piece in link_text.split():
+            leftover = leftover.replace(piece, " ", 1)
+        leftover = re.sub(r"[\s\-–—·|\[\]()]+", "", leftover)
+        if leftover:
+            continue  # contient autre chose que la nav → on n'y touche pas
+        container.decompose()
+        removed += 1
+    return removed
+
+
 def _collapse_empty_blocks(root: Node) -> int:
     """Remove now-empty `<li>`, `<p>`, `<div>` elements left by previous
     strips. Non-semantic cleanup — better output for pandoc.
@@ -185,6 +242,8 @@ def clean_scraped_html(root: Node) -> CleanStats:
     # Pre-pass : remove entire anchors wrapping a chrome image (safer than
     # relying on the href strip when the URL contains parentheses).
     stats.dead_links += _strip_nav_chrome_images(root)
+    # Barre de choix de langue vatican.va → rendue inutile par le switcher UI.
+    stats.dead_links += _strip_vatican_lang_nav(root)
     stats.images = _strip_chrome_images(root)
     stats.dead_links += _strip_dead_links(root)
     # Two passes : removing anchors can make blocks empty, and removing blocks

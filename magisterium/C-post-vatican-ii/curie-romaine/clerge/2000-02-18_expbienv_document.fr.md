@@ -1,6 +1,3 @@
-   
-) )  
-
 Expression de bienvenue
 
 Prononcée par S.Em. le Card. Darío Castrillón Hoyos, Préfet

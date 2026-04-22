@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2021-02-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: bc34140d9120c2cab222ea9dd1595661ff180d4457f4b6f74efb589c23fd46e2
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_en.html
+    fetched_at: '2026-04-22T07:12:17.541400Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: a06cf32e3424412444366244d6f9e2c4b3ecb820e56d8056365acd3e43d5e568
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_sp.html
+    fetched_at: '2026-04-22T07:12:33.504557Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 5b316bdc1ce84683f48ff8989de558a1949093304eb7697162a484ab23cacd4c
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_fr.html
+    fetched_at: '2026-04-22T07:12:49.528718Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 2dddc9ebf5693504f8becd57b27f5049462a51777ffc07c8a6758a4a54861929
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 3bdf00ff53aab94793d26a35b2eb1e4b9daf2d087804d0e2c7a2549b9a2a80b2
+  en: bc34140d9120c2cab222ea9dd1595661ff180d4457f4b6f74efb589c23fd46e2
+  es: a06cf32e3424412444366244d6f9e2c4b3ecb820e56d8056365acd3e43d5e568
+  fr: 5b316bdc1ce84683f48ff8989de558a1949093304eb7697162a484ab23cacd4c
+  it: 2dddc9ebf5693504f8becd57b27f5049462a51777ffc07c8a6758a4a54861929

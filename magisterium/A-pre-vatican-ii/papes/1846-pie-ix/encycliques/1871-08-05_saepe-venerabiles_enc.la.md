@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/epistola-encyclica-saepe-venerabiles-5-augusti-1871.html)  - [LA](/content/pius-ix/la/documents/epistola-encyclica-saepe-venerabiles-5-augusti-1871.html)
-
 SANCTISSIMI DOMINI NOSTRI  
 PII  
  DIVINA PROVIDENTIA  

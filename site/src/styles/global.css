@@ -84,8 +84,13 @@ html {
 
 /* Compense le header sticky lors de la navigation par ancre
    (scrollIntoView et #fragment respectent scroll-margin-top).
-   Spécificité 0 grâce à :where, donc facile à surcharger au besoin. */
-:where(h1, h2, h3, h4, h5, h6)[id] {
+   Spécificité 0 grâce à :where, donc facile à surcharger au besoin.
+   On couvre aussi les `[id]` internes des documents scrapés — sur
+   vatican.va les ancres sont souvent posées sur des `<strong>` / `<span>`
+   inline et non sur des vrais `<h2>` (le sommaire renvoie alors à
+   l'intérieur d'un `<p>`). */
+:where(h1, h2, h3, h4, h5, h6)[id],
+:where(.prose) :where([id], [name]) {
   scroll-margin-top: 5rem;
 }
 

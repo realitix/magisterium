@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1997-06-10'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: b760043d4eee5bb35876abf69d92c9a587a61c0293dd5ee8aec7628bdfef44d6
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_10061997_omelia_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: aea02fee7345d9df3a26a08043889d9bdc3af0ef838222e3048fff6fdcbaa7b3
+  it: b760043d4eee5bb35876abf69d92c9a587a61c0293dd5ee8aec7628bdfef44d6

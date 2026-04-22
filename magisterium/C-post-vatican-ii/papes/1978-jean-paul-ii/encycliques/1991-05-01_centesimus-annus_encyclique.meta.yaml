@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1991-05-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a9af04cd922bea2dd782908bca23450c79622a8c782aa0d5ba24039cef868e48
+    source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 580983eef8474c45856283c4e8558597d5961b893c293281289e928017391740
+  la: a9af04cd922bea2dd782908bca23450c79622a8c782aa0d5ba24039cef868e48

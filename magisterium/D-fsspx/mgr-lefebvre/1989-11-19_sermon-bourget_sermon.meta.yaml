@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1989-11-19'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 23176eeb7e4684fd9b9c83984d92a67a1c32af6f38e79805db613741aae85f83
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/sermon-de-mgr-lefebvre-au-bourget-le-11-novembre-1989
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 66639ff886097f00a58dc1f50bae74252c0135ce52255d2118e6556c01fdcec1
+  fr: 23176eeb7e4684fd9b9c83984d92a67a1c32af6f38e79805db613741aae85f83

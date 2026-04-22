@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1994-07-31'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 3206318ad137a5d81da84ec3e89a588b3cb1b12bfb376c33e65a1bbb480c3f10
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_31071994_uterine-isolation_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: f2213af867f68cb96ef657f75d842f731c32b9d36d63e6d8e2d04e5543ae0ee8
+  it: 3206318ad137a5d81da84ec3e89a588b3cb1b12bfb376c33e65a1bbb480c3f10

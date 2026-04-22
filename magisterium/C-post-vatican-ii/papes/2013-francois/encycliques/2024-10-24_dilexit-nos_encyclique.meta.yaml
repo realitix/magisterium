@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '2024-10-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 595b8ac0f061e987f6a036f03869cebe9af88cd1b65e16a45b0e0943f1e2bbd8
+    source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/20241024-enciclica-dilexit-nos.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 8b26ecdf28c96901d254da638bb01b7a13382a31026e73c31f0c863eed8e937b
+  la: 595b8ac0f061e987f6a036f03869cebe9af88cd1b65e16a45b0e0943f1e2bbd8

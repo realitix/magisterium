@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2011-01-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 034d72f8c358fb9a44063ceaf96c2210ecfe783b6f426904de803a7531a0a421
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20110115_decree-erection-walsingham_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 0ea0f1a23db55084df2ae5084517f4bc43aef03bb3584de622be71b5f0edfcbe
+  it: 034d72f8c358fb9a44063ceaf96c2210ecfe783b6f426904de803a7531a0a421

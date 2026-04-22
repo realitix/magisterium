@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1914-11-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: d24a2070541e5a814cb22407d4dde669c79267032d4e69e95acad6c014bf56ba
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: b78b81810772bfd0d34b09559a088078d7037d610a4f71f55ce5fc08ea743d2e
+  la: d24a2070541e5a814cb22407d4dde669c79267032d4e69e95acad6c014bf56ba

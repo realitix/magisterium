@@ -1,15 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[AR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_ar.html) - [BE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_be.html) - [CS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_cs.html) - [DE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_ge.html) - [EN](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html) - [ES](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sp.html) - [FR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_fr.html) - [IT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_it.html) - [HE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_he.html) - [HR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hr.html) - [HU](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hu.html) - [LA](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_lt.html) - [LV](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_lv.html) - [PT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_po.html) - [SW](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sw.html) - [ZH](/chinese/concilio/vat-ii_nostra-aetate_zh-t.pdf)\]
-
- 
-
 PAULUS EPISCOPUS  
 SERVUS SERVORUM DEI  
 UNA CUM SACROSANCTI CONCILII PATRIBUS  

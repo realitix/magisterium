@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2011-12-14'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- nl
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -25,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ed4936f9ca160e0b663f7edd9c61cc0b10ecc06c07ae61fec773f8f301fc1bc4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 5d0d357d53166bfd0089cf710c621810f03b82d0d4581424ad05f526aa73b33d
+  it: ed4936f9ca160e0b663f7edd9c61cc0b10ecc06c07ae61fec773f8f301fc1bc4

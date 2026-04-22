@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/epistola-encyclica-respicientes-ea-1-novembris-1870.html)  - [LA](/content/pius-ix/la/documents/epistola-encyclica-respicientes-ea-1-novembris-1870.html)
-
 PIUS PP. IX
 
 ***RESPICIENTES EA\****

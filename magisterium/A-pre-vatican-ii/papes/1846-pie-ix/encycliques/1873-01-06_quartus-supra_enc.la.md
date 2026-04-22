@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-quartus-supra-6-gennaio-1873.html)  - [LA](/content/pius-ix/la/documents/enciclica-quartus-supra-6-gennaio-1873.html)
-
 SS.MI DOMINI MOSTRI PII DIVINA PROVIDENTIA PAPAE IX
 
 **EPISTOLA ENCYCLICA**

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1874-03-07'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: fec69812572817105c2f0a2536c9737602204b1655e1df28efb4376b6be7ed23
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-vix-dum-a-nobis-7-marzo-1874.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 4031f4c80135be7f94ad2f03ef4494e40d156c010990476c353bdf0cf3db4e72
+  it: fec69812572817105c2f0a2536c9737602204b1655e1df28efb4376b6be7ed23

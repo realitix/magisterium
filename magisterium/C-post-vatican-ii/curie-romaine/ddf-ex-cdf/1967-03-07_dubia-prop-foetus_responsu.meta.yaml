@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '1967-03-07'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 92000bad9b223000fcfaabba666bfe2ae44ef3df8d692620e83519596ad07554
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670307_dubia-prop-foetus_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 2ec56dc39d700a2d91157a63ea3fe1c7f84e650823f1a01528e16fc3267c113a
+  la: 92000bad9b223000fcfaabba666bfe2ae44ef3df8d692620e83519596ad07554

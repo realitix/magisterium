@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2025-11-04'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- be
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: e19e9c417930c2b6808b111760e76b624e7a82f7572df3c50b401ebb4e4cb851
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_en.html
+    fetched_at: '2026-04-22T07:27:19.134434Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: c7cfb4ed079cb5973f7a5e883c83c523f8d8071940eee023b0e543c126fbf2e7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html
+    fetched_at: '2026-04-22T07:27:34.948156Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: ed0b1dad38041066827be1543cc278057692f3ba587b42bc6932949635ca5f63
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_fr.html
+    fetched_at: '2026-04-22T07:27:50.880865Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 3c504b9133ef539b5aab430b5c6af1e62bd5b7ed9fd61a13ba1b291ea459a3d0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 1dec03437be9285304cc64518511b3c753d2e09bc745c788cf56bb779dca64c8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_pl.html
+    fetched_at: '2026-04-22T07:28:06.756808Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
 sha256:
-  it: 2a674eb25ed667e4af94065528c762079f3990718326a154d2eeecba18b3837e
+  en: e19e9c417930c2b6808b111760e76b624e7a82f7572df3c50b401ebb4e4cb851
+  es: c7cfb4ed079cb5973f7a5e883c83c523f8d8071940eee023b0e543c126fbf2e7
+  fr: ed0b1dad38041066827be1543cc278057692f3ba587b42bc6932949635ca5f63
+  it: 3c504b9133ef539b5aab430b5c6af1e62bd5b7ed9fd61a13ba1b291ea459a3d0
+  pl: 1dec03437be9285304cc64518511b3c753d2e09bc745c788cf56bb779dca64c8

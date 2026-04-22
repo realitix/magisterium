@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1976-08-29'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 9e53b6ed8a70c06192bccbd456ac2162395208e46daedd06043af57fb845deca
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/lille-29-aout-1976
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 4f077754a0238e65b5a8cd924d26d884a5b64ec110b89daf683899905bd11b53
+  fr: 9e53b6ed8a70c06192bccbd456ac2162395208e46daedd06043af57fb845deca

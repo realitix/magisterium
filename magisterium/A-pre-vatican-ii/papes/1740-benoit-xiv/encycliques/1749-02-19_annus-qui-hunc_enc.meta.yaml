@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1749-02-19'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -22,5 +19,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: e46f98b76c00c7dfd1647c449389c09debf03f1cfeeeecf03112f281ca4f4677
+    source_url: https://www.papalencyclicals.net/ben14/annus-qui-hunc.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 27c6ee0777ea354205c45b2696bc1b1f73743df91bb759bb15525de4526fcc7c
+  en: e46f98b76c00c7dfd1647c449389c09debf03f1cfeeeecf03112f281ca4f4677

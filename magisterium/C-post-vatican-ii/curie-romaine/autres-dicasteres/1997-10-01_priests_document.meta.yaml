@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1997-10-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- sp
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 8093d9f50f3252533b8abd054330c5a1a789a85b6821ea00d8411046f581cdc7
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_19971001_priests_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: d7b53b95e1eb861df84a69e77a8af939153b74f921b576a2143b5d2883ab128f
+  fr: 8093d9f50f3252533b8abd054330c5a1a789a85b6821ea00d8411046f581cdc7

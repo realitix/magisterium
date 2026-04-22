@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-12-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: dab4eb7305be8f2b640ab0b721c3143d12a50d797515810c13bba2f11422d2c0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021221_scomunica-donne_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 9116a9cf743372001dfdca3de0e74f7fda0b8744f6d1f6997851e6f88b2e77af
+  it: dab4eb7305be8f2b640ab0b721c3143d12a50d797515810c13bba2f11422d2c0

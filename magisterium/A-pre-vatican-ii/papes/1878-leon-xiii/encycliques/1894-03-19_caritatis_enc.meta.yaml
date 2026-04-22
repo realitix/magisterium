@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1894-03-19'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b05ab7abab74c438ae1ae91cbb5a09a297f6b0dfc1d7f98574e12e7fa7d62023
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_19031894_caritatis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 657f1697589a7f646b989b1cffb5667e6ec1f60c67a8b7caad46b59b3a5ec53e
+  la: b05ab7abab74c438ae1ae91cbb5a09a297f6b0dfc1d7f98574e12e7fa7d62023

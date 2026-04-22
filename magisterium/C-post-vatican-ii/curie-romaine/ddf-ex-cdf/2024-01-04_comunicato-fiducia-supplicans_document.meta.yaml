@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-01-04'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 370419fbe5c1bd1d0b0066f5456c3ac254c95206cc3f18aea90ecbc367bf092f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_en.html
+    fetched_at: '2026-04-22T07:23:34.167591Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 2a2251fcd83dbaae02f66a23da5c072978fc813eed4a73b0b300b3328d03600f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_sp.html
+    fetched_at: '2026-04-22T07:23:50.332488Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 1cac02f24b247f98ea834af1629e282a2cb797327760ea831fe98db50e45de91
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_fr.html
+    fetched_at: '2026-04-22T07:24:06.387804Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 2f08676c5c47c9fba976ddb032b53fb107c0e19c58e138c907d0846a93c31722
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: cf99512226e728dd8889eec29b899e901b1d262597e0dd63a781520ba3dd69d0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240104_comunicato-fiducia-supplicans_pl.html
+    fetched_at: '2026-04-22T07:24:22.374399Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
 sha256:
-  it: c394441cc1fe4a64977ee73ababab8a844f6ca43aab6dfb3305ee5351f88e29f
+  en: 370419fbe5c1bd1d0b0066f5456c3ac254c95206cc3f18aea90ecbc367bf092f
+  es: 2a2251fcd83dbaae02f66a23da5c072978fc813eed4a73b0b300b3328d03600f
+  fr: 1cac02f24b247f98ea834af1629e282a2cb797327760ea831fe98db50e45de91
+  it: 2f08676c5c47c9fba976ddb032b53fb107c0e19c58e138c907d0846a93c31722
+  pl: cf99512226e728dd8889eec29b899e901b1d262597e0dd63a781520ba3dd69d0

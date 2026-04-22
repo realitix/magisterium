@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1975-02-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 1a76fb0c330404deac7c1e9065b3970b82c68038ca3e77d6b6266682665c3ad7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750215_libri-kung_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6dcb470df8db91b6afc22c3fcf9ff6611e96b5dcaa04f5b08a8c13d17af21bdc
+  la: 1a76fb0c330404deac7c1e9065b3970b82c68038ca3e77d6b6266682665c3ad7

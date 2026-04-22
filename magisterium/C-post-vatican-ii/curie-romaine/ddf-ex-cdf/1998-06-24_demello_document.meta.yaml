@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-06-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sk
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -25,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6d2aa952daad8419421064a0bb4f0130684e6e255ad97e3e33c2a4cf85d43044
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: f86466a11b7a127bf56fffd50e77bf9bc8e2c51e8dc04adc250482eef02006de
+  la: 6d2aa952daad8419421064a0bb4f0130684e6e255ad97e3e33c2a4cf85d43044

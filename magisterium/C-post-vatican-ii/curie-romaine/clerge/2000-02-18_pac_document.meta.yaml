@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- sp
 langue_originale: sp
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: sp
   fetch_method: httpx
+traductions:
+  sp:
+    kind: originale
+    sha256: e2b6a761b64dcd2d2faf4f2b458c2efd9654beedf4ce7843ec964feedb041cef
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_18022000_pac_sp.html
+    fetch_method: httpx
+langues_disponibles:
+- sp
 sha256:
-  sp: 02470d4a8e2a4838453b7087fb247a16dd2ebd7670d0c27379f3fd69a7dad600
+  sp: e2b6a761b64dcd2d2faf4f2b458c2efd9654beedf4ce7843ec964feedb041cef

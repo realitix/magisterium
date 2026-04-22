@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2020-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-cumsanctissima_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-cumsanctissima_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-cumsanctissima_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 1531cb2054bbc9ca14e65adb5f844248923bc9d0503a9c41e525c9b2dc0fabe8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-cumsanctissima_en.html
+    fetched_at: '2026-04-22T07:21:04.130159Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: add83088291c5fc1c947861e2b7c7adeb9458f378ff1dfcbd91ee8c738b756d3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-cumsanctissima_sp.html
+    fetched_at: '2026-04-22T07:21:20.153937Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 95148f91b891175aca3c024cef52b48b379433fb4ea9085d9eac7eab5bca74a8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-cumsanctissima_fr.html
+    fetched_at: '2026-04-22T07:21:36.170393Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 59477cfcbf7f10f92ab107b07cbfec7e0cd5115894cebe1c81008057e0d7e154
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-cumsanctissima_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: fa7e8273b6ec79dada8f33f2581fd94184de6804b5de74411b22b38729037d04
+  en: 1531cb2054bbc9ca14e65adb5f844248923bc9d0503a9c41e525c9b2dc0fabe8
+  es: add83088291c5fc1c947861e2b7c7adeb9458f378ff1dfcbd91ee8c738b756d3
+  fr: 95148f91b891175aca3c024cef52b48b379433fb4ea9085d9eac7eab5bca74a8
+  it: 59477cfcbf7f10f92ab107b07cbfec7e0cd5115894cebe1c81008057e0d7e154

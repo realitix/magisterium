@@ -5,8 +5,6 @@ periode: vatican-ii
 type: declaration-conciliaire
 date: '1965-10-28'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: 249b19c9018adde5f8c50f8265e276b6d2366fcf6c34207625f6e7adb0e0ea74
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_ar.html
+    fetched_at: '2026-04-22T06:45:56.326687Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: 96be3f1249e395a974c50261f3a714167086232981544c3a3cfe5fab9f2ccce2
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_cs.html
+    fetched_at: '2026-04-22T06:46:12.300840Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: ee4dd5500d0381984fd3c2d13535533b324897c6c245dd4e7b63ea5567da1e9e
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html
+    fetched_at: '2026-04-22T06:46:28.306679Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: c5a6b9c71bd0562bec5d83c56aa084150c0f923ebd9a79cccd827935b75d7a19
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_sp.html
+    fetched_at: '2026-04-22T06:46:44.327524Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 698104f494acb720d798411f525e1996e988d19a2c16cdec5ef1afaa45ba928f
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_fr.html
+    fetched_at: '2026-04-22T06:47:00.365499Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: fdd35a580144ee09e183da110064f5b8abbf40878af27bfcec128d07c7b382fb
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_hu.html
+    fetched_at: '2026-04-22T06:47:16.369720Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 46028ada0b2ee4eac90d62470d1ba756548aa0f464c076c5fea6abefc1db2c99
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_it.html
+    fetched_at: '2026-04-22T06:47:32.328637Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: ab53325c94b90515529385322d61e1b849a7cad2495b36b3a9aee6d8848602c5
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 3a1bc71edbd6d662aaaa976fe7df068261eac79744ca0c70aa02db894fd1f9fc
+  ar: 249b19c9018adde5f8c50f8265e276b6d2366fcf6c34207625f6e7adb0e0ea74
+  cs: 96be3f1249e395a974c50261f3a714167086232981544c3a3cfe5fab9f2ccce2
+  en: ee4dd5500d0381984fd3c2d13535533b324897c6c245dd4e7b63ea5567da1e9e
+  es: c5a6b9c71bd0562bec5d83c56aa084150c0f923ebd9a79cccd827935b75d7a19
+  fr: 698104f494acb720d798411f525e1996e988d19a2c16cdec5ef1afaa45ba928f
+  hu: fdd35a580144ee09e183da110064f5b8abbf40878af27bfcec128d07c7b382fb
+  it: 46028ada0b2ee4eac90d62470d1ba756548aa0f464c076c5fea6abefc1db2c99
+  la: ab53325c94b90515529385322d61e1b849a7cad2495b36b3a9aee6d8848602c5

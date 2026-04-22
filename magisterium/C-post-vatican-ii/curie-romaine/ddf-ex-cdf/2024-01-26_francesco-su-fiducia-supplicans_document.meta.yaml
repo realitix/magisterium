@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-01-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 8183b13a57300ca806d9f176b1340be3c374c7380b15f6c212a5136154001d3b
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 3e45b295d99d3efe12b33a9870fe52d5b9c7454392c837a604134ac51cae2606
+  it: 8183b13a57300ca806d9f176b1340be3c374c7380b15f6c212a5136154001d3b

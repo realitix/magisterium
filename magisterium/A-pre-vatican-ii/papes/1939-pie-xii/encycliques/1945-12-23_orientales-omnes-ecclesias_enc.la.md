@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html)
-
 LITTERAE ENCYCLICAE  
 ***ORIENTALES OMNES ECCLESIAS\*******  
 ***SUMMI PONTIFICIS***  

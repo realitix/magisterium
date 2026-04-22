@@ -1,6 +1,3 @@
-   
-) )  
-
 IL CONSIGLIO PRESBITERALE  
 
   

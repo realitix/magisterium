@@ -4,7 +4,6 @@
 
 ## Quelques photos des ordinations de 1982
 
-[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-001.jpg)
 
 La pro­ces­sion d’en­trée. A droite, Mgr Ducaud-Bourget
 

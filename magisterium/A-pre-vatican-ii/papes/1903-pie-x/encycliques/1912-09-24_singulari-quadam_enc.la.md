@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html)
-
 EPISTOLA ENCYCLICA  
 ***SINGULARI QUADAM***  
 SUMMI PONTIFICIS  

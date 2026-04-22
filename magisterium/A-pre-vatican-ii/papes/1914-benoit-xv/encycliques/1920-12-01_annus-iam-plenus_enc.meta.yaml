@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1920-12-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 7fe4d5cb8543e94d4fe67bc11d75fc0b691e016399eba3ac817af6945982ca09
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01121920_annus-iam-plenus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a7a2938c4ba7b9cadd0ebf80de001883c30465692c480fb27704e37e89863301
+  la: 7fe4d5cb8543e94d4fe67bc11d75fc0b691e016399eba3ac817af6945982ca09

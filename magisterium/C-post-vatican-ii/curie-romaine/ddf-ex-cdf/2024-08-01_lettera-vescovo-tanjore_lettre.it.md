@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-tanjore_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-tanjore_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-tanjore_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-tanjore_it.html) - [TA](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240801_lettera-vescovo-tanjore_ta.pdf)\]
-
 DICASTERO PER LA DOTTRINA DELLA FEDE
 
  

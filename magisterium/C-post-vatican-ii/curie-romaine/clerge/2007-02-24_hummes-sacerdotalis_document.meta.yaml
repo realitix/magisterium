@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2007-02-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- pt
-- sp
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 056e8d4614719c204c15a39c7e2c33c49a307d618b152db313864e81f2ca83b3
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20070224_hummes-sacerdotalis_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 9a5cfdaf5110e9260e3a4d0eea147a16cda05c9b20388a502c3f020b44d7645f
+  fr: 056e8d4614719c204c15a39c7e2c33c49a307d618b152db313864e81f2ca83b3

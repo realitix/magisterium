@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1975-03-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 49c1bdf948f163978763e856f5dd1373f40943f6c0c0860e101df54e4341f326
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: f16ceeb0bffb8f54e840e4767378dd7c484cf06d5bc65ca3baff04857514cc59
+  la: 49c1bdf948f163978763e856f5dd1373f40943f6c0c0860e101df54e4341f326

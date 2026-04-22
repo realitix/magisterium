@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1980-03-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
 langue_originale: en
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 1c05419094d468592286ed950a237e6a41cf2b2bc9ed66d40cc68ceb9dc22904
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_25031980_post_en.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 6202bc585228953d368ec7a936a3743700b26e0e8a12cce22d16006dc7093d81
+  en: 1c05419094d468592286ed950a237e6a41cf2b2bc9ed66d40cc68ceb9dc22904

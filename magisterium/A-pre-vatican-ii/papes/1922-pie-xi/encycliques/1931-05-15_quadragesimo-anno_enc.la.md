@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html)  - [PT](/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

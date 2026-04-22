@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html)
-
 EPISTULAE ENCYCLICAE  
 ***DILECTISSIMA NOBIS\****  
 AD EMOS PP. DD. FRANCISCUM S. R. E. PRESB. CARD. VIDAL ET  

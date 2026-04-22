@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1990-05-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 98acb1763df482cafc766fb1729068edf277962121acaf28a502d4f94370f5d1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_en.html
+    fetched_at: '2026-04-22T07:16:47.969638Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 13dae4baf3066b9a000a1673cf5738ded5cf6465dee5324100d244a4f07d8373
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_sp.html
+    fetched_at: '2026-04-22T07:17:04.037868Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9ed37966ea111fed2a2f8ab9cb17a62ab10edb79765770306a588c18a5aaa806
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_fr.html
+    fetched_at: '2026-04-22T07:17:20.007946Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 4624d810b714021547b6a69e099c780093e715d13a9d3c8c194ee99d9f7e241f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_it.html
+    fetch_method: httpx
+  la:
+    kind: officielle
+    sha256: 79ac04a291f30ae02780bb15464859e6428b64479a4d71c38172e3a15e540989
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_lt.html
+    fetched_at: '2026-04-22T07:17:36.103236Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: c3f096d1ba79e7fcfdef1ad540b1b0e8b1e7294d7826f4075bb1859b407e9327
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_pl.html
+    fetched_at: '2026-04-22T07:17:52.048864Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
+- pl
 sha256:
-  it: 01e684a5574fc71769194420975a4a6ca49b6f2109436c2c34e8e38705d0c0b4
+  en: 98acb1763df482cafc766fb1729068edf277962121acaf28a502d4f94370f5d1
+  es: 13dae4baf3066b9a000a1673cf5738ded5cf6465dee5324100d244a4f07d8373
+  fr: 9ed37966ea111fed2a2f8ab9cb17a62ab10edb79765770306a588c18a5aaa806
+  it: 4624d810b714021547b6a69e099c780093e715d13a9d3c8c194ee99d9f7e241f
+  la: 79ac04a291f30ae02780bb15464859e6428b64479a4d71c38172e3a15e540989
+  pl: c3f096d1ba79e7fcfdef1ad540b1b0e8b1e7294d7826f4075bb1859b407e9327

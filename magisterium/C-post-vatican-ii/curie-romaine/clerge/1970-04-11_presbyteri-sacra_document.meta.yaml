@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1970-04-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: fd75fa5635b44128131e26bbadc649d0d9a3d82358f0a67cb7fd39875032eb86
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19700411_presbyteri-sacra_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8b6f6e82f7d35164cea659c6b830cda7bd7a44fb66fe6a4cc9b7c6c1abcdc1ed
+  it: fd75fa5635b44128131e26bbadc649d0d9a3d82358f0a67cb7fd39875032eb86

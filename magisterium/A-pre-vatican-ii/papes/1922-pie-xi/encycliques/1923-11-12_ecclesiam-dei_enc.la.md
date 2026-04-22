@@ -1,5 +1,3 @@
-[IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html)
-
 PIUS PP. XI
 
 EPISTOLA ENCYCLICA

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1854-03-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 249b9e7076fada62cce34b8468741eeaeef63990194e85dc11576fe45eeb9a67
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-optime-noscitis-20-marzo-1854.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 9a7e452bb2b1ca484652a1a9780dc54ad4af6454dbd290add242bd24d147b547
+  it: 249b9e7076fada62cce34b8468741eeaeef63990194e85dc11576fe45eeb9a67

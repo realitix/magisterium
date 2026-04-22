@@ -1,5 +1,3 @@
-[DE](/content/pius-xi/de/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html)  - [EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html)  - [PT](/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html)
-
 PIUS PP. XI
 
 EPISTULA ENCYCLICA

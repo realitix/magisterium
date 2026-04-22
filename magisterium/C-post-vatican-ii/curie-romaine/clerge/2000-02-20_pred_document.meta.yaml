@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-20'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- ge
 langue_originale: ge
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: ge
   fetch_method: httpx
+traductions:
+  ge:
+    kind: originale
+    sha256: bfba98a711e5b651a3065dddc01062cdd08629ad89d270d2bc478d43c0bee74e
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20022000_pred_ge.html
+    fetch_method: httpx
+langues_disponibles:
+- ge
 sha256:
-  ge: c80982abf24558686bfe8084c4e789c3a4b419507affaf6b66b6eea9d6107227
+  ge: bfba98a711e5b651a3065dddc01062cdd08629ad89d270d2bc478d43c0bee74e

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-07-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 05fea4f7dffb33a7508fdb38ac9b01795554769ba597d68634bc8556b60922d7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: f5ca24cdad0d5b4bb12b4ab877e6803bfa3019bb1c03f03876a751aa104a0141
+  it: 05fea4f7dffb33a7508fdb38ac9b01795554769ba597d68634bc8556b60922d7

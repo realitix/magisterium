@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-07-31'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- pl
-- pt
-- sk
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -25,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: caf3d4b4937b21e50cf7ac020d6c28c2cff41f0f967dd725a1289406b784af18
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 03459dec4459045d836de54e21d6a3bc7fe66195eeccb9300dd85f91ebf50be5
+  it: caf3d4b4937b21e50cf7ac020d6c28c2cff41f0f967dd725a1289406b784af18

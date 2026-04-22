@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html)  - [FR](/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html)
-
   PIUS PP. XII
 
 LITTERAE ENCYCLICAE

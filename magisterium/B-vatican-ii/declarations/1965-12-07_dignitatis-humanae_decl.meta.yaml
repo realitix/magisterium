@@ -5,8 +5,6 @@ periode: vatican-ii
 type: declaration-conciliaire
 date: '1965-12-07'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: fa4dfea22bd9abed35bdcd1436f5e2334c4aca071df298322da013f13eea6680
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_ar.html
+    fetched_at: '2026-04-22T06:46:00.619847Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: 36620b7fd02c05c6e210f9ec85d8767a48ed913cd8110e97b5712e20b3bb57b8
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_cs.html
+    fetched_at: '2026-04-22T06:46:16.315492Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: e31717d47492cee683458862811977d0f57d55fe10b716a3f123352cbaf12316
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html
+    fetched_at: '2026-04-22T06:46:32.141416Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: ddd4655666def389fe08acda73e15fee17503842818fd5c5ce9d971b088cc496
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_sp.html
+    fetched_at: '2026-04-22T06:46:48.375903Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: d58bdfa5af16623739cb19a2916f254f7b5ff09feb7c1e9b520831d3d3d1b0a1
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_fr.html
+    fetched_at: '2026-04-22T06:47:04.361512Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 9727a852fcf2505946411d73468b574f14af342258bfd31a25bfb7aca51d33d2
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_hu.html
+    fetched_at: '2026-04-22T06:47:20.202106Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 00aeef04dea332a00dda039965ba95061fc0aec9be502821ee74eaec776ca83f
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_it.html
+    fetched_at: '2026-04-22T06:47:36.294519Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 7576a770bb440d091d6a166e9a9736e9362a161555e7bb3d10ddb5adaff11793
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: ac082b12529139674cab18d9bacddf1a1dc9c19b59b7df2ad332f8d90c553bba
+  ar: fa4dfea22bd9abed35bdcd1436f5e2334c4aca071df298322da013f13eea6680
+  cs: 36620b7fd02c05c6e210f9ec85d8767a48ed913cd8110e97b5712e20b3bb57b8
+  en: e31717d47492cee683458862811977d0f57d55fe10b716a3f123352cbaf12316
+  es: ddd4655666def389fe08acda73e15fee17503842818fd5c5ce9d971b088cc496
+  fr: d58bdfa5af16623739cb19a2916f254f7b5ff09feb7c1e9b520831d3d3d1b0a1
+  hu: 9727a852fcf2505946411d73468b574f14af342258bfd31a25bfb7aca51d33d2
+  it: 00aeef04dea332a00dda039965ba95061fc0aec9be502821ee74eaec776ca83f
+  la: 7576a770bb440d091d6a166e9a9736e9362a161555e7bb3d10ddb5adaff11793

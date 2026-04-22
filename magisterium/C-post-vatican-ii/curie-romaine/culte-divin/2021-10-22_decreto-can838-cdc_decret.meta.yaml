@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2021-10-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -22,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 1d15a39686b66f9b17e9dbd39d83273984de0c05aa02b063daad93de755e9fe7
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_en.html
+    fetched_at: '2026-04-22T07:13:09.754262Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 417a0a744621d12e4aec07834a2b3647619d15defbf173c1f50fdfeeced11982
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_sp.html
+    fetched_at: '2026-04-22T07:13:25.786919Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: acdda517990c014dc062294fcd6eadd67085460b1b06e53702990d1cb6be5cfd
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_fr.html
+    fetched_at: '2026-04-22T07:13:41.780774Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: f03e470880de6be0808906d565a2ac275c2e6ad5c7e6e6e1894cf9bdfc78f541
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_it.html
+    fetched_at: '2026-04-22T07:13:57.754333Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: f76bd8874f7dd1fca730640fa3826d3ab76dbe59535fd1cc07dbb422eccf4afc
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211022_decreto-can838-cdc_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: 7a4b767fa701818d021ef2ba148dc4ab0f639ebf3ff67f12158f80d6d364fb06
+  en: 1d15a39686b66f9b17e9dbd39d83273984de0c05aa02b063daad93de755e9fe7
+  es: 417a0a744621d12e4aec07834a2b3647619d15defbf173c1f50fdfeeced11982
+  fr: acdda517990c014dc062294fcd6eadd67085460b1b06e53702990d1cb6be5cfd
+  it: f03e470880de6be0808906d565a2ac275c2e6ad5c7e6e6e1894cf9bdfc78f541
+  la: f76bd8874f7dd1fca730640fa3826d3ab76dbe59535fd1cc07dbb422eccf4afc

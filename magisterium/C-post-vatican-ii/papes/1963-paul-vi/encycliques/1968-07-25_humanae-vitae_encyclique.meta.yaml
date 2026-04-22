@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1968-07-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +19,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 5659cf33c7d55f1171b9dce195cce9dff0c5ef85acdb7050a8433d33c856980e
+    source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: fed9c659d34792b26ca547316e5e77fc0d82a297a86affa26e7d2160cd4e0ed2
+  la: 5659cf33c7d55f1171b9dce195cce9dff0c5ef85acdb7050a8433d33c856980e

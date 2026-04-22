@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html)
-
 BENEDICTUS PP. XV
 
 LITTERAE ENCYCLICAE

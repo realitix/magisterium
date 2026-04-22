@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1995-10-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: b7a83d8f97181c62b12c7303fbda929e65e64cef6d4bcd61da2fdba3f1499edd
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 0f4ceb128d17107e137e261d8a9e29b598f09e45883b9e08eb69964c8cb15653
+  it: b7a83d8f97181c62b12c7303fbda929e65e64cef6d4bcd61da2fdba3f1499edd

@@ -1,5 +1,3 @@
-[DE](/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)  - [EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html)
-
 PIUS PP. XII 
 
 ***HAURIETIS AQUAS***\*

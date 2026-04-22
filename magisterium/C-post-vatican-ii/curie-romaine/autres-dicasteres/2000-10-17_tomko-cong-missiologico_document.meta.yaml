@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-10-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: cbc973249a48a472e6cd383e41dabdf27b6e5b9d26bdc09a30a4f9c1a44ecbef
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20001017_tomko-cong-missiologico_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 9dd766a8766efa316be90a9a8528cd341116f540ab66d778bc88aec07d5cc3a4
+  it: cbc973249a48a472e6cd383e41dabdf27b6e5b9d26bdc09a30a4f9c1a44ecbef

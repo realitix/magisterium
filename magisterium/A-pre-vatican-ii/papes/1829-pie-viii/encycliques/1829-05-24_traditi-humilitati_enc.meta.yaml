@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1829-05-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: bfdd061337f698e89352a82c6f3f096f3fc9a9969386363894fc2008073cfe2f
+    source_url: https://www.papalencyclicals.net/pius08/p8tradit.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: e4fbb9706fd2bf98cd291d264e50f32b99cffbc0d77e50b2f308ced2c752197b
+  en: bfdd061337f698e89352a82c6f3f096f3fc9a9969386363894fc2008073cfe2f

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 2c9b66dddbf093f5356e270edafd6579b6a49666c46d62ab042969dabffdaeb9
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19022000_hogroch_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 51138b2ae2157cd1ab0814279e69b2a2aa811e2b9d7d53e42cc12a333bf25f77
+  fr: 2c9b66dddbf093f5356e270edafd6579b6a49666c46d62ab042969dabffdaeb9

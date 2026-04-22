@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1972-03-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 2aeb315a333c3de9aa6b63ce6f755979433f83fd8b7e58132bdb1ed915791b40
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_15031972_conseil_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: a389c143f6e7056771d12e18d6170d0a449c0378bfc87ce526b9f4ce18ab791a
+  fr: 2aeb315a333c3de9aa6b63ce6f755979433f83fd8b7e58132bdb1ed915791b40

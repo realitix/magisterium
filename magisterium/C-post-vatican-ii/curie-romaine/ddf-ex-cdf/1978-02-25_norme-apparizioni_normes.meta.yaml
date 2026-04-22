@@ -4,17 +4,6 @@ periode: post-vatican-ii
 type: normes
 date: '1978-02-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- la
-- nl
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -26,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f65a169a98dfe09dfafa9aa2841b5f0be32ddb241c8e14ab16d92ee5cf6c85ee
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5619c2ca8d78136c0485b7d755ea0335f4f4fff50cd58958678ede6bd683100f
+  la: f65a169a98dfe09dfafa9aa2841b5f0be32ddb241c8e14ab16d92ee5cf6c85ee

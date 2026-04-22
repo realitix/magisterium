@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1890-01-10'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ffac722cf88aad5e1d109fda5d910bb5493a341ac1a3ef4b7aaac8558aecff7a
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 870c733e88c5530aa4a8edb2e6c200e2d8297e22a78cb0e0c033311adaab2a62
+  la: ffac722cf88aad5e1d109fda5d910bb5493a341ac1a3ef4b7aaac8558aecff7a

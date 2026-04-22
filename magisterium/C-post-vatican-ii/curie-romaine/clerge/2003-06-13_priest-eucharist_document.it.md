@@ -1,6 +1,3 @@
-   
-) )   
-
 CONGREGAZIONE PER IL CLERO
 
 *L'Eucaristia e il Sacerdote:  

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2005-06-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- pt
 langue_originale: pt
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: pt
   fetch_method: httpx
+traductions:
+  pt:
+    kind: originale
+    sha256: 6c855fd186999e30daae43b04d3a08751e7afcfadb0c15d2b69f55009bd35d67
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20050619_fatima_po.html
+    fetch_method: httpx
+langues_disponibles:
+- pt
 sha256:
-  pt: 2430f56c0aa7444b692a5da70289ca5397ca9cd147292816c5bbd71a9de98023
+  pt: 6c855fd186999e30daae43b04d3a08751e7afcfadb0c15d2b69f55009bd35d67

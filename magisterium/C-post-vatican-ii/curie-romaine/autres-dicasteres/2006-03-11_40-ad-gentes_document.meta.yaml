@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2006-03-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ff2d7fd1bbf565015930a9f7790c85bed461f3ba1431b02d2c19b5252c4d9bbd
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20060311_40-ad-gentes_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: c0fdbc793fd845d32640b56581deb7d6c877a424d19954d026e9bf1e12d707e4
+  it: ff2d7fd1bbf565015930a9f7790c85bed461f3ba1431b02d2c19b5252c4d9bbd

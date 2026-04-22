@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1972-01-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 8961b2aaa3c7a1a7882869065dc76d1caa69d069708d76c4cd5434829a012611
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720101_giuramento-fedelta_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 2ce2033a069942d0fb7bea2ad4299a3ccddf55d4fd69624fa176f7d3d833a13e
+  la: 8961b2aaa3c7a1a7882869065dc76d1caa69d069708d76c4cd5434829a012611

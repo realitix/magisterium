@@ -1,5 +1,3 @@
-[DE](/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)  - [EN](/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)  - [ES](/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)  - [FR](/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)  - [IT](/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)  - [LA](/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)  - [PT](/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)
-
 PAULUS PP. VI
 
 LITTERAE ENCYCLICAE 

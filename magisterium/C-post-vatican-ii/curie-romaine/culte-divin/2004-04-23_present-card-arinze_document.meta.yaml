@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2004-04-23'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: bd985097b75d646a267626c7b6ead87873321171d264886eb4644ad89b0a0f7d
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-card-arinze_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 3645178bb1211ef8162f77a02a7412358020a06e803ec05249afae270842e341
+  it: bd985097b75d646a267626c7b6ead87873321171d264886eb4644ad89b0a0f7d

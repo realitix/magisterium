@@ -1,0 +1,63 @@
+---
+/**
+ * Route dynamique canonique : une page HTML par (document, langue).
+ * getStaticPaths itère sur chaque `traductions[]` de chaque document, ce
+ * qui produit ~1304 × (1-8) routes selon la couverture multi-langue.
+ *
+ * Indexation Pagefind : chaque page porte `data-pagefind-body` + un filtre
+ * `lang` — la recherche est donc facettable par langue.
+ */
+import { marked } from 'marked';
+import Document from '../../../layouts/Document.astro';
+import { loadAllDocuments, getDocumentBySlug } from '../../../data/loadDocuments.ts';
+import { loadDocumentContent } from '../../../data/loadMarkdown.ts';
+import { cleanDocumentHtml } from '../../../data/cleanHtml.ts';
+import type { Langue } from '../../../data/types.ts';
+
+export async function getStaticPaths() {
+  const docs = loadAllDocuments();
+  const paths: { params: { slug: string; lang: string } }[] = [];
+  for (const doc of docs) {
+    for (const t of doc.traductions) {
+      paths.push({ params: { slug: doc.slug, lang: t.lang } });
+    }
+  }
+  return paths;
+}
+
+const { slug, lang } = Astro.params;
+if (typeof slug !== 'string' || typeof lang !== 'string') {
+  throw new Error('Paramètres slug/lang manquants');
+}
+
+const doc = getDocumentBySlug(slug);
+if (doc === null) {
+  throw new Error(`Document introuvable pour le slug : ${slug}`);
+}
+
+const loaded = loadDocumentContent(slug, lang as Langue);
+if (loaded === null) {
+  throw new Error(`Contenu markdown introuvable : ${slug} / ${lang}`);
+}
+
+// Si la langue demandée n'existe pas en fichier, loadDocumentContent
+// retombe sur l'originale — on refuse ce mismatch pour que le build
+// échoue tôt plutôt que de servir un contenu trompeur.
+if (loaded.lang !== lang) {
+  throw new Error(
+    `Mismatch lang demandée vs servie : demandé=${lang} servi=${loaded.lang} slug=${slug}`,
+  );
+}
+
+marked.setOptions({ gfm: true, breaks: false });
+const rawHtml: string = await marked.parse(loaded.content);
+const { html: renderedHtml } = cleanDocumentHtml(rawHtml);
+---
+
+<Document
+  doc={doc}
+  meta={loaded.meta}
+  lang={loaded.lang}
+  kind={loaded.kind}
+  renderedHtml={renderedHtml}
+/>

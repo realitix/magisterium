@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1964-11-21'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: ad4af62fef92f60005f3a84c0277bf536e8fed77bbdb4e9ee5e4b092ac25d5a3
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_cs.html
+    fetched_at: '2026-04-22T06:46:04.276032Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 7e8e479ac64f36cc8ac834bff91c4bacb642809a0589be9725bf3972de52125f
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html
+    fetched_at: '2026-04-22T06:46:20.319542Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: e94d4ed041d28c3a055f38eb7f0d6de0bf9d2fa6a6f39a9e71a7a35156cbec84
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_sp.html
+    fetched_at: '2026-04-22T06:46:36.259198Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: c5a3f0571fc53360d8674c442fbec77396c18a39cd89e1e50e1c25b6d14ac663
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_fr.html
+    fetched_at: '2026-04-22T06:46:52.354012Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: c6d8a6cf31e31f171e890109bea2632c73cb3922d1623f09abe4abf8d6a3a0ac
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_hu.html
+    fetched_at: '2026-04-22T06:47:08.344074Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: c0c049b0f3d783f5156619a92fe8d675ca263d8f5204b54ea7d9d6cacd85a4c6
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_it.html
+    fetched_at: '2026-04-22T06:47:24.402215Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a17a85a04072b22a7c77dfc30154ff9f0f81309641b7d6e7febb616e2d926f58
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 3fc2fbdd35aecb6f16beee7cd7beb33386fd7a3d638a4082bed125fef1a69c11
+  cs: ad4af62fef92f60005f3a84c0277bf536e8fed77bbdb4e9ee5e4b092ac25d5a3
+  en: 7e8e479ac64f36cc8ac834bff91c4bacb642809a0589be9725bf3972de52125f
+  es: e94d4ed041d28c3a055f38eb7f0d6de0bf9d2fa6a6f39a9e71a7a35156cbec84
+  fr: c5a3f0571fc53360d8674c442fbec77396c18a39cd89e1e50e1c25b6d14ac663
+  hu: c6d8a6cf31e31f171e890109bea2632c73cb3922d1623f09abe4abf8d6a3a0ac
+  it: c0c049b0f3d783f5156619a92fe8d675ca263d8f5204b54ea7d9d6cacd85a4c6
+  la: a17a85a04072b22a7c77dfc30154ff9f0f81309641b7d6e7febb616e2d926f58

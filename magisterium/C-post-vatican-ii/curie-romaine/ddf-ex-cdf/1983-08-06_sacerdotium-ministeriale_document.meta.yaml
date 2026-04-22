@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1983-08-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 21ec0cf993a13c624f8dd337306a9c97a328f2722b0f64a905b2dfb41920bb91
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 9325935060d70535c2cf94f343834da7ca6eee04438dc52a1eea1b704f1cb1b3
+  la: 21ec0cf993a13c624f8dd337306a9c97a328f2722b0f64a905b2dfb41920bb91

@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-singulari-quidem-17-marzo-1856.html)
-
 ENCICLICA  
 ***SINGULARI QUIDEM  
 *** DEL SOMMO PONTEFICE  

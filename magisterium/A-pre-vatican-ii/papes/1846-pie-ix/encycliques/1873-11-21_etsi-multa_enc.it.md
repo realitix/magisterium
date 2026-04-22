@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-etsi-multa-21-novembre-1873.html)
-
 ENCICLICA  
 ***ETSI MULTA***  
 DEL SOMMO PONTEFICE  

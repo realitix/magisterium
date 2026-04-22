@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html)  - [HU](/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html)
-
 PIUS PP. XII 
 
 ***LAETAMUR ADMODUM***\*

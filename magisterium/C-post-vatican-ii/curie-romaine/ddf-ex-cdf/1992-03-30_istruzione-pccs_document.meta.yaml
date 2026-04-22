@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1992-03-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: c746d7a2ee04d9266c66cfb43311e1fbbc9826f442505346c14ab9be3036946b
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19920330_istruzione-pccs_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8bac5e9b2d3078030ed38a1fa859134454ebb97c85e1b69fc67fba87c92c8010
+  it: c746d7a2ee04d9266c66cfb43311e1fbbc9826f442505346c14ab9be3036946b

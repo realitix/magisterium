@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2025-11-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 4fccbbaf6ffaf7943f0ed2fa26e04c8e381496d9987c6cb00cf1c4dfdb2696bc
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_en.html
+    fetched_at: '2026-04-22T07:27:25.024194Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 58aef522a2a0a745e44724cbdddd4e750a66de20c5aeb24e82270c3a5712c2eb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_sp.html
+    fetched_at: '2026-04-22T07:27:41.210234Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 36b7dc4d47b5700a2396ce90a83e3c09431b80d9aa6d807eba32d380f102644d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_fr.html
+    fetched_at: '2026-04-22T07:27:56.836533Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 40688ddd258d1395a9c904d8e01cd0b5697a4afce4c39cbc2fea5914b5b754ec
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 246407353f53eae46e7fb0d65828f9d9d239dbb1cc705fe3745c56d426d10fc7
+  en: 4fccbbaf6ffaf7943f0ed2fa26e04c8e381496d9987c6cb00cf1c4dfdb2696bc
+  es: 58aef522a2a0a745e44724cbdddd4e750a66de20c5aeb24e82270c3a5712c2eb
+  fr: 36b7dc4d47b5700a2396ce90a83e3c09431b80d9aa6d807eba32d380f102644d
+  it: 40688ddd258d1395a9c904d8e01cd0b5697a4afce4c39cbc2fea5914b5b754ec

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1950-08-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 37fcb2a3423a4f56f131c45c5f6fecfe848e92fd96420065a648ae2f3f7da541
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1e3561c2da9a00ff252b71d0024aaff26149d184011e8e4094ad6b885b7e4ed9
+  la: 37fcb2a3423a4f56f131c45c5f6fecfe848e92fd96420065a648ae2f3f7da541

@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: code-canonique
 date: '1095-01-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.documentacatholicaomnia.eu
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f911c1585eee6ce822f76cbb1e3bf48f9a63f88837f223fa8cf38b2e2ce22e05
+    source_url: https://www.documentacatholicaomnia.eu/03d/1040-1116,_Ivo_Carnotensis,_Decretum,_LT.pdf
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 9fec8584c814a3f66abaa38502743093c1098127c2742bd55b148e9c20a34ff4
+  la: f911c1585eee6ce822f76cbb1e3bf48f9a63f88837f223fa8cf38b2e2ce22e05

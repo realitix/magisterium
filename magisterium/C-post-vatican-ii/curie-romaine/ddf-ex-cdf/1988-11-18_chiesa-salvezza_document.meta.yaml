@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1988-11-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: e51fa426302ce87601f91c33e46fcade0d8f5352f45c153156fdfb148c75ae01
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 24bea10bb357186042fd9a8a9089d85607d25da40f70fae964d5d61e227bce20
+  it: e51fa426302ce87601f91c33e46fcade0d8f5352f45c153156fdfb148c75ae01

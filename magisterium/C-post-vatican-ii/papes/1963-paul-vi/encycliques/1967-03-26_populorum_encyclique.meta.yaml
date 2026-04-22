@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1967-03-26'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: acc4451adb67df687355361ff1e0024c1671480d9a5678d76fd08c628b0c4369
+    source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: eb14c843c21e5d31b5631ee12ec5993bfdaf7c100656d89993938389dc42fd92
+  la: acc4451adb67df687355361ff1e0024c1671480d9a5678d76fd08c628b0c4369

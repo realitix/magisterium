@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: notification
 date: '2002-10-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 829104d9f7785ba30521e1de400fbf70b2c6f76c846daf33d656d017579245ef
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20021002_notificazione-lezionari_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8665b9998cce08261b279b0745980c54230908b17353e764a656d8cddfc5c44c
+  it: 829104d9f7785ba30521e1de400fbf70b2c6f76c846daf33d656d017579245ef

@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI
 

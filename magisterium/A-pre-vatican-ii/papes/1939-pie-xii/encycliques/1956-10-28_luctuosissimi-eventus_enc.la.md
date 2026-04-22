@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html)  - [HU](/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html)
-
 PIUS PP. XII 
 
 ***LUCTUOSISSIMI EVENTUS\****

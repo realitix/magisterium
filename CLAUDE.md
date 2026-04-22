@@ -6,8 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Two-part monorepo :
 
-1. **Python corpus archiver** — scrapers + tools qui construisent un corpus local de documents magistériels catholiques (conciles, papes, curie, catéchismes, droit, liturgie, FSSPX) dans `magisterium/`, en **langue source uniquement** (pas de traductions).
-2. **Astro static site** dans `site/` — publie le corpus (pages document, pages thème, fiches Q/R doctrinales) avec recherche full-text Pagefind côté client. Déployé sur Netlify.
+1. **Python corpus archiver** — scrapers + tools qui construisent un corpus local de documents magistériels catholiques (conciles, papes, curie, catéchismes, droit, liturgie, FSSPX) dans `magisterium/`. Chaque document stocke d'abord sa **langue originale** (source de vérité doctrinale) puis, si le site source le permet, les **traductions officielles** (vatican.va publie souvent 6-8 langues). Les langues manquantes peuvent être complétées par IA via le skill `translate-corpus` (voir ci-dessous).
+2. **Astro static site** dans `site/` — publie le corpus (pages document multi-langues, pages thème, fiches Q/R doctrinales) avec recherche full-text Pagefind côté client. Déployé sur Netlify.
 
 Le site **lit le corpus au build** depuis `../magisterium/` (pas de duplication). Toute modification du corpus Python oblige un rebuild du site.
 
@@ -29,10 +29,12 @@ just resume                # reprend un scraping interrompu
 just refresh SOURCE        # re-scrape un doc précis
 
 # Outils corpus
-just build-index           # régénère magisterium/_metadata/index.jsonl
-just build-concordance     # régénère magisterium/_metadata/concordance.jsonl (11 thèmes)
-just validate              # vérifie tous les .meta.yaml + .md
-just stats                 # statistiques corpus
+just build-index             # régénère magisterium/_metadata/index.jsonl
+just build-concordance       # régénère magisterium/_metadata/concordance.jsonl (11 thèmes)
+just complete-translations   # pour chaque doc vatican.va, récupère les traductions officielles (multi-lang)
+just migrate-traductions     # migration schema → bloc `traductions` (one-shot)
+just validate                # vérifie tous les .meta.yaml + .md
+just stats                   # statistiques corpus
 uv run python -m tools.repair_broken          # rescrape les .md cassés (contenu [TABLE], etc.)
 uv run python -m tools.repair_broken --dry-run
 
@@ -71,7 +73,28 @@ magisterium/
     └── errors.log
 ```
 
-Règle clé : **langue source uniquement** (latin pour les conciles post-Trente, italien pour les documents italiens, etc.). `langue_originale` dans chaque meta.yaml. Un document peut avoir plusieurs fichiers `.lang.md` si le Saint-Siège le publie en plusieurs langues ; le loader du site préfère `langue_originale`.
+Règle clé : **la langue originale reste la source de vérité doctrinale**. Elle est toujours présente et marquée `kind: originale` dans `traductions` du `.meta.yaml`. Les traductions officielles scrapées (ex. vatican.va) sont marquées `kind: officielle`, les traductions IA produites par le skill `translate-corpus` sont marquées `kind: ia`. Un document peut donc avoir jusqu'à ~10 fichiers `.lang.md` frères (un par langue). Toute analyse doctrinale sérieuse (fiches Q/R, citations) DOIT partir du `.<langue_originale>.md` — les autres sont de l'aide à la lecture.
+
+Structure d'une entrée `traductions` :
+
+```yaml
+traductions:
+  la:
+    kind: originale           # source de vérité
+    sha256: <hash>
+    source_url: https://www.vatican.va/...
+  fr:
+    kind: officielle          # publiée par le Saint-Siège
+    sha256: <hash>
+    source_url: https://www.vatican.va/..._fr.html
+  es:
+    kind: ia                  # générée par translate-corpus
+    sha256: <hash>
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: <hash de la source au moment de la traduction>
+    translated_at: 2026-05-01T12:00:00Z
+```
 
 ## Architecture du site
 
@@ -87,7 +110,13 @@ Règle clé : **langue source uniquement** (latin pour les conciles post-Trente,
 - `Theme.astro` — vue comparative pré-V2 / V2 / post-V2 via `ThemeCompare`
 - `Question.astro` — fiche Q/R avec ToC sticky + scroll-spy, FourVoices en pied, DocumentsGrid enrichie, ReadingProgress, BackToTop
 
-**Pages dynamiques** : `pages/documents/[slug].astro` (1304 routes), `pages/themes/[slug].astro` (11), `pages/questions/[slug].astro`. `getStaticPaths()` itère sur les loaders.
+**Pages dynamiques** :
+- `pages/documents/[slug]/[lang].astro` — route canonique, une par couple (document, langue) ; indexée Pagefind avec filtre `lang`.
+- `pages/documents/[slug]/index.astro` — route legacy `/documents/{slug}/` qui redirige vers la langue originale (compatibilité des anciens liens ; ni indexée ni dupliquée dans les résultats de recherche).
+- `pages/themes/[slug].astro` (11).
+- `pages/questions/[slug].astro`.
+
+`getStaticPaths()` itère sur les loaders. Pour les documents, chaque entrée du bloc `traductions` d'un doc génère une route distincte. L'UI expose un switcher de langue avec des badges de provenance (originale / trad. officielle / trad. IA), et un bandeau non-dismissible apparaît en tête d'article pour `kind: ia` qui renvoie vers la version originale.
 
 **Pagefind** : index généré au postbuild (`astro build && pagefind --site dist`). Seuls les éléments avec `data-pagefind-body` (les `<main>` des layouts Document/Question/Theme) sont indexés. L'UI charge `pagefind-ui.js` à runtime, tokenise, télécharge les shards pertinents. Pas de backend.
 

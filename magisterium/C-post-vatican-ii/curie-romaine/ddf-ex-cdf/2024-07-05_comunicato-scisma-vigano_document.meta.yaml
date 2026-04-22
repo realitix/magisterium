@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-07-05'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- pl
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,37 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 1cd7754e930ff4dae310f23fe082de8edeb810e705bd84d3570df72d96d66095
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_en.html
+    fetched_at: '2026-04-22T07:24:18.316376Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: fe479ad97ac3c0688f7d612d304effd90771ce8584c2a86f4bce0cdbef1dcd37
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: e14b4b805df4691fda4e645861e18464213988dd7638912568f59ae69f58cff0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_pl.html
+    fetched_at: '2026-04-22T07:24:34.322555Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- it
+- pl
 sha256:
-  it: 6fabcb1564f2d1c94a2757ba63f0726cc5cbbe449cd3d96d296f759500728949
+  en: 1cd7754e930ff4dae310f23fe082de8edeb810e705bd84d3570df72d96d66095
+  it: fe479ad97ac3c0688f7d612d304effd90771ce8584c2a86f4bce0cdbef1dcd37
+  pl: e14b4b805df4691fda4e645861e18464213988dd7638912568f59ae69f58cff0

@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: directoire
 date: '2014-06-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 056fdee90490aa71b8f627bb2cd740781839d08a9d21740355768f37e4431632
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140629_direttorio-omiletico_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: cc1362941dc1b51890366174883631ea0cecf8a2476de6ebe8bb699ea855639f
+  it: 056fdee90490aa71b8f627bb2cd740781839d08a9d21740355768f37e4431632

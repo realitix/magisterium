@@ -27,6 +27,9 @@ Tu es en charge de produire une fiche Q/R complète pour le site Magisterium. Ce
 
 - Lire `/home/realitix/git/catholique/magisterium/_metadata/concordance.jsonl` (11 thèmes) et identifier celui/ceux qui recoupent la question.
 - Faire un `Grep` ciblé sur les mots-clés attendus (latin, italien, français) dans `magisterium/`.
+  - **RESTRICTION CRITIQUE — lecture langue originale uniquement.** Depuis que le scraper récupère aussi les traductions officielles vatican.va (fichiers `.fr.md`, `.en.md`, `.it.md`… à côté du `.la.md` source), il y a plusieurs `.md` par document. **Ne jamais lire une traduction comme source doctrinale.** Toujours lire le `.<langue_originale>.md` (typiquement `.la.md` pour les conciles post-Trente, `.it.md` pour les documents italiens, `.en.md` pour papalencyclicals.net).
+  - Pour le `Grep` : utiliser le filtre `--include "*.<lang>.md"` (ex. `--include "*.la.md"` pour le latin) **au lieu** de `--include "*.md"`, afin de ne pas cramer du contexte sur des traductions.
+  - Pour récupérer la langue originale d'un doc donné : lire le champ `langue_originale` dans son `.meta.yaml` ou dans `index.jsonl`.
 - Lister explicitement les **gros textes** à traiter par agent dédié. Patterns récurrents :
   - Catéchisme du Concile de Trente (6 fichiers latins, ~148 000 mots)
   - Catéchisme de saint Pie X (16 fichiers italiens, ~68 000 mots)
@@ -56,12 +59,14 @@ Chaque prompt d'agent doit imposer :
 4. **Conclusion explicite** en fin de rapport : réponse directe à la question.
 5. **Limite** 1000-1500 mots par rapport.
 6. **Posture traditionnelle** respectant la lettre des textes.
+7. **Lecture stricte de la langue originale** — l'agent doit lire uniquement les fichiers `.<langue_originale>.md` des documents (`.la.md` pour le latin, `.it.md` pour l'italien, etc.), **jamais** les traductions officielles ou IA qui cohabitent dans le même dossier. Les chemins donnés à l'agent doivent toujours inclure le suffixe de langue explicite.
 
 Exemple de prompt squelette :
 
 > Tu es un théologien catholique. Analyse le [NOM DU TEXTE] pour répondre à la question : [QUESTION, avec exclusions explicites].
 >
-> Fichiers à lire : [LISTE EXPLICITE DE CHEMINS].
+> Fichiers à lire : [LISTE EXPLICITE DE CHEMINS AVEC SUFFIXE DE LANGUE ORIGINALE, ex. `...catechismus-romanus_01-pars-prima.la.md`].
+> **Ne lis AUCUN autre fichier `.md` dans le même dossier** — les fichiers `.fr.md`, `.en.md`, `.it.md` sont des traductions qu'on ignore ici pour préserver le contexte.
 >
 > Consignes : citer en langue source avec traduction française systématique, référencer slug + paragraphe, distinguer dogme/doctrine commune/opinion, conclure explicitement. 1000-1500 mots.
 

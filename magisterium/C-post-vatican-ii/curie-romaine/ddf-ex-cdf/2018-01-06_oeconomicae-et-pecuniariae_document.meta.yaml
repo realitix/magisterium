@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2018-01-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 7a1b81cec9d79685380948babef4bc6a2052d0d5e4265a7391ac3302b636ca4f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_en.html
+    fetched_at: '2026-04-22T07:20:00.177955Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: eb3e444ac1e6b02012c711da86393b7c9ef43e12bf2b2407af182f2375a6804e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_sp.html
+    fetched_at: '2026-04-22T07:20:16.218699Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9bba995d3172cd866cd8243316574d4bd53a6b1f7f531cf052432937106af274
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_fr.html
+    fetched_at: '2026-04-22T07:20:32.362063Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 28faae94d8763938d8f7e4221dfffb679e7a4e92b4bbfeae0acb292db24d6524
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 19d0758413145d6e8e8430f021b6fc23f657ada2e29fa06b49e9362a9cf1a883
+  en: 7a1b81cec9d79685380948babef4bc6a2052d0d5e4265a7391ac3302b636ca4f
+  es: eb3e444ac1e6b02012c711da86393b7c9ef43e12bf2b2407af182f2375a6804e
+  fr: 9bba995d3172cd866cd8243316574d4bd53a6b1f7f531cf052432937106af274
+  it: 28faae94d8763938d8f7e4221dfffb679e7a4e92b4bbfeae0acb292db24d6524

@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1976-06-29'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -21,5 +19,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 340f1756702bd96291dbaa46cec49c48cb32c2a9025398b91088dd8ed13e9822
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/sermon-des-ordinations-sacerdotales-econe-le-29-juin-1976-mgr-lefebvre
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: ea26ac44e7c9dac4e9183e739883b1b7f4ec620a9586506a4d18ada26825f9b6
+  fr: 340f1756702bd96291dbaa46cec49c48cb32c2a9025398b91088dd8ed13e9822

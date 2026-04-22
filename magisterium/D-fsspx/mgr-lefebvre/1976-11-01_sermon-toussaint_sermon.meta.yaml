@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1976-11-01'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 5d984c2f59d6d34f02865d0d1eb32363b4e024c1fffe532b284fb05e31a45e46
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-toussaint-1er-novembre-1976
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: d47dce24b1a7d93bc6221ebad8f15e3b04ec2b08170ecdf4b3a2f08f411b85d3
+  fr: 5d984c2f59d6d34f02865d0d1eb32363b4e024c1fffe532b284fb05e31a45e46

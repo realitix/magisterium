@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1950-03-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a61bc5ed65ebb14310695df2912e598f8ee0372c7442aeb10a34b459da49a014
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 13a8a0501a0f91978b90e452d2e95a2eb0bbe4c2ef29b93fd49a30954c5e08c6
+  la: a61bc5ed65ebb14310695df2912e598f8ee0372c7442aeb10a34b459da49a014

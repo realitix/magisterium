@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2021-01-10'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- hr
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: faca643aef20de4a9026a182436ff4297dbe6642d17639acb026f3e118a85501
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_en.html
+    fetched_at: '2026-04-22T07:22:06.220239Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: a88b097c87b8cc5be3c6cfe7c6081a885ab7293ab836c30c63219a86937edbe8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_sp.html
+    fetched_at: '2026-04-22T07:22:22.266693Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: b0d043f40ace0d0abbf11f87b0b484964b23e2af3f5a0181bf25b385495b66a2
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_hr.html
+    fetched_at: '2026-04-22T07:22:38.254863Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 451e53913dcda77ba889f26d3950974a9de41c33eb1190f7a09c66bde97611fd
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 91a87cf5b6559ad8bbcf9cbae56b8aa95f379ddd6b25ef0ef9e52a8f0f3f524f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_pl.html
+    fetched_at: '2026-04-22T07:22:54.276317Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- hr
+- it
+- pl
 sha256:
-  it: 13e85fac2b4fb738e1427cf6b829dcd478774d1e507912367d556f16f9224940
+  en: faca643aef20de4a9026a182436ff4297dbe6642d17639acb026f3e118a85501
+  es: a88b097c87b8cc5be3c6cfe7c6081a885ab7293ab836c30c63219a86937edbe8
+  hr: b0d043f40ace0d0abbf11f87b0b484964b23e2af3f5a0181bf25b385495b66a2
+  it: 451e53913dcda77ba889f26d3950974a9de41c33eb1190f7a09c66bde97611fd
+  pl: 91a87cf5b6559ad8bbcf9cbae56b8aa95f379ddd6b25ef0ef9e52a8f0f3f524f

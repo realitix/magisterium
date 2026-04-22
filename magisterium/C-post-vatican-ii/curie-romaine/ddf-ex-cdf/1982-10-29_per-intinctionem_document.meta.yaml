@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1982-10-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a013584f9c78887334a32b3adf450294346ac606ce01fe714b2304c30b7e992f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 560f05b26651d4778578ac6c32073c8e91fdeef43536178688b2aa3ffb0940b3
+  la: a013584f9c78887334a32b3adf450294346ac606ce01fe714b2304c30b7e992f

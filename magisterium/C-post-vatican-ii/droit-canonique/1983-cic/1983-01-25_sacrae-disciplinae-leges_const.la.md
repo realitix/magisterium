@@ -1,5 +1,3 @@
-[DE](/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)  - [EN](/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)  - [ES](/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)  - [IT](/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)  - [LA](/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)  - [PT](/content/john-paul-ii/pt/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)
-
   **IOANNES PAULUS EPISCOPUS  
 SERVUS SERVORUM DEI  
 AD PERPETUAM REI MEMORIAM**

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1950-07-19'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 859c8faebcfa4c6822824537547dc9998c850806f8ec5ec8834209caf0ad6ec2
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 8c2f9160d07c951b6beb7aa962fb8bc8ef98d702fe59661406ff6fd86a293ba5
+  la: 859c8faebcfa4c6822824537547dc9998c850806f8ec5ec8834209caf0ad6ec2

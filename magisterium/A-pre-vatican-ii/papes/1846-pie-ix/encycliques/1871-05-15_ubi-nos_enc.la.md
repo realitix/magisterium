@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/epistola-encyclica-ubi-nos-15-maii-1871.html)  - [LA](/content/pius-ix/la/documents/epistola-encyclica-ubi-nos-15-maii-1871.html)
-
 PIUS PP. IX
 
 ***UBI NOS\****

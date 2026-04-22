@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1972-02-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: fc1ccded2d15ffcd7803eba2599fc7d40826fc3a78671911b4028a52c2eec6c0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6ed71e8c3894f5adff792998a5e3b70c5f1e468c3f3eb000bc37b1bba296d14a
+  la: fc1ccded2d15ffcd7803eba2599fc7d40826fc3a78671911b4028a52c2eec6c0

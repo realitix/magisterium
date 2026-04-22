@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1894-07-02'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e3aeb40722f786aad08c4a26f5f8470c17d63ebf57cfc0a722018ebd99927407
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d9a6add47ac7b572a2792d532e56bdd49e1af5cba35d88e2aac9117e8426705a
+  la: e3aeb40722f786aad08c4a26f5f8470c17d63ebf57cfc0a722018ebd99927407

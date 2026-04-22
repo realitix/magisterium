@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1936-06-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4ad5a7cf9af891fac11bff29843d5426c26cdb522aa293b6aa6236d3f8bdf319
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 53923a47a277240218f127e7e77a3cd34bb424f9b0d676d505be4037a40141ba
+  la: 4ad5a7cf9af891fac11bff29843d5426c26cdb522aa293b6aa6236d3f8bdf319

@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html)
-
   PIUS PP. XII
 
 EPISTULA ENCYCLICA

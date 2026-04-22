@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19510915_ingruentium-malorum.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

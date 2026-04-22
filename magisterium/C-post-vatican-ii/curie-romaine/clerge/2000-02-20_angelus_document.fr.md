@@ -1,6 +1,3 @@
-   
-) )  
-
 ANGELUS  
   
 De la place Saint-Pierre, le 20 février 2000

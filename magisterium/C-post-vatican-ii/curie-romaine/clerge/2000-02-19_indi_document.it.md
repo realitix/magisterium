@@ -1,6 +1,3 @@
-   
-) )  
-
 Indirizzo di saluto
 
 dell'Em.mo Cardinale Prefetto Darío Castrillón Hoyos

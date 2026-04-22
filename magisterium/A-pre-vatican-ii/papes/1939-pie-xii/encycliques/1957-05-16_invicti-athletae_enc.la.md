@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

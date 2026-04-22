@@ -1,6 +1,3 @@
-   
-) )   
-
 CONGREGAZIONE PER LA DOTTRINA DELLE FEDE
 
 **Decreto di Erezione dell'Ordinariato Personale della Cattedra di San Pietro  **

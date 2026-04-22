@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2006-10-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 292c3f9b5088a0ffa6b5093462ef8b4ee500d68e4b7371c63f8b492d65ae7bff
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20061026_arinze-paris_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: f96ec09292dcc66960ab0afa5a022432787616c1949ed88b20d0f767df2e3c87
+  fr: 292c3f9b5088a0ffa6b5093462ef8b4ee500d68e4b7371c63f8b492d65ae7bff

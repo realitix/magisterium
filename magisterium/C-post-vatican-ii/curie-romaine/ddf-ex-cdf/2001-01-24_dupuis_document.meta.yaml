@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2001-01-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 3c544dec209c4cc360105f3f056a6df7160784f99975281bffdf69650d601cae
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20010124_dupuis_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: cb0e08c104b383b78a0e82eecacc81686c2650a57b1a69ac6b046c825a2a1e62
+  it: 3c544dec209c4cc360105f3f056a6df7160784f99975281bffdf69650d601cae

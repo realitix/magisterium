@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-10-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 0fb149f70a64090fe87efc7bfd2f19ff4a8e05467947867b8bafe1d7f101d7df
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20021009_sepe-urbaniana_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 434001217bb9066d2398f2ed2e1b0ac3e163d8ff74e58f98db145f204aed9377
+  it: 0fb149f70a64090fe87efc7bfd2f19ff4a8e05467947867b8bafe1d7f101d7df

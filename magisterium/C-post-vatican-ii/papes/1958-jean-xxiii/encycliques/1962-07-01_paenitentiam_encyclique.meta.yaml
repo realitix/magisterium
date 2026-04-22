@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1962-07-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ff6e5181712e2a20bf843fe2808d437c39a2c75495c426c4dc42e90a407ea989
+    source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c7943dfa47d9ccccdd3115afd15590209675d193dd5157295f37d3fe21969a83
+  la: ff6e5181712e2a20bf843fe2808d437c39a2c75495c426c4dc42e90a407ea989

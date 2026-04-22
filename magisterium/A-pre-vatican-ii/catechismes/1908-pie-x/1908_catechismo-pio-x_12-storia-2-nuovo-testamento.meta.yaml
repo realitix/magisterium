@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets:
@@ -24,5 +22,13 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 1f01fbd2fe0799020f9f1c10ee2dcc975d28356f7d76b82a05f26cb0f7060f2d
+    source_url: https://www.maranatha.it/catpiox/14text.htm
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 5a77fb8dfd0632fae6bf19a891a3368b31520266fdb11464ca44488021bcc924
+  it: 1f01fbd2fe0799020f9f1c10ee2dcc975d28356f7d76b82a05f26cb0f7060f2d

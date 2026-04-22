@@ -1,6 +1,3 @@
-   
-) )   
-
   CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
                                           *“**LE RAGIONI DI UN'ISTRUZIONE”***

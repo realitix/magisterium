@@ -1,15 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[AR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ar.html) - [BE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_be.html) - [CS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_cs.html) - [DE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ge.html) - [EN](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html) - [ES](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html) - [FR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_fr.html) - [IT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html) - [HE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_he.pdf) - [HU](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_hu.html) - [LA](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lt.html) - [LV](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lv.html) - [PT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_po.html) - [SW](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sw.html) - [ZH](/chinese/concilio/vat-ii_dei-verbum_zh-t.pdf)\]
-
- 
-
 PAULUS EPISCOPUS  
 SERVUS SERVORUM DEI  
 UNA CUM SACROSANCTI CONCILII PATRIBUS  

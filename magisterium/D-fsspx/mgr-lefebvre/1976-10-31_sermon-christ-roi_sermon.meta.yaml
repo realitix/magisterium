@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1976-10-31'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: d19c1520fe2b7fd11aed5aca067a9e8b166bd8a25361affd8e2fa35babdebd3d
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-christ-roi-diaconat-sous-diaconat-31-octobre-1976
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: ffced0183f6c80b28062700398c1129dc9be3611aaa671232948d183b6e94b58
+  fr: d19c1520fe2b7fd11aed5aca067a9e8b166bd8a25361affd8e2fa35babdebd3d

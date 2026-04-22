@@ -1,5 +1,3 @@
-[IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

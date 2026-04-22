@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html)  - [PT](/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

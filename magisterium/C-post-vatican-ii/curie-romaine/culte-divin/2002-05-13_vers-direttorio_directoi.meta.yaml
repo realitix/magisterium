@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: directoire
 date: '2002-05-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: a4f6717f37e792b7ababfe53b4af7619298066e00ec5d2dc76fcbc321d3929af
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html
+    fetched_at: '2026-04-22T07:11:02.158742Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f3198f4a4a21bae2d6d131fe5fc60808677fa93fb5be99a4548a969b52eba66b
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_sp.html
+    fetched_at: '2026-04-22T07:11:17.914591Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 4b43fcedec37efc77a8e5ab40350b0767f9f7109ec8eccd6e9085b799bfbd03b
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_fr.html
+    fetched_at: '2026-04-22T07:11:35.274665Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 3ca49a54a282db1baddcbd7c39d38b40646b59027f164a514ae5caee7063fb7a
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 12de26bff5f2cc2161978b0990d7e79216bc2b993d6c80dc718cc65c2d05f8a0
+  en: a4f6717f37e792b7ababfe53b4af7619298066e00ec5d2dc76fcbc321d3929af
+  es: f3198f4a4a21bae2d6d131fe5fc60808677fa93fb5be99a4548a969b52eba66b
+  fr: 4b43fcedec37efc77a8e5ab40350b0767f9f7109ec8eccd6e9085b799bfbd03b
+  it: 3ca49a54a282db1baddcbd7c39d38b40646b59027f164a514ae5caee7063fb7a

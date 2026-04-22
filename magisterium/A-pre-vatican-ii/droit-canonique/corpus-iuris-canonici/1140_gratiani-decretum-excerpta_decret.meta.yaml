@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: code-canonique
 date: '1140-01-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.documentacatholicaomnia.eu
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 7c18dfd3fe962dae719efa27dffb0310e4a89532b1367c885245856c714270a5
+    source_url: https://www.documentacatholicaomnia.eu/04z/z_1140-1140__Gratianus_Ioannes__Decretum_Gratiani_%5BExcerpta._Dom_Handschrift_127_Koeln%5D__LT.doc.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 50a4149e7bd61126a3e122a693e4539c0facf739d0343d32fc1c688342ef6302
+  la: 7c18dfd3fe962dae719efa27dffb0310e4a89532b1367c885245856c714270a5

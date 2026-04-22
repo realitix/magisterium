@@ -1,6 +1,3 @@
-   
-) )  
-
 DISCURSO : Durante el encuentro con los diáconos permanentes con ocasión de su jubileo, sábado 19 de febrero
 
 Llevad a todos hacia Cristo

@@ -1,6 +1,3 @@
-   
-) )  
-
 PREDIGT
 
 Seiner Eminenz, Kardinal Dario Castrillon Hoyos, Präfekt

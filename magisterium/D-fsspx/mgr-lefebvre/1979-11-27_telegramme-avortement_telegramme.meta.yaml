@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: telegramme
 date: '1979-11-27'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 427cd1c40789c4f7185f0bdadd13751c881b2f03f383cd52fe769ce5f27d9611
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/halte-a-lavortement
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: b9d6fba41fa74570c7c9a43802465655ca17eb03d829b32ead32e72f2ec9b491
+  fr: 427cd1c40789c4f7185f0bdadd13751c881b2f03f383cd52fe769ce5f27d9611

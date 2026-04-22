@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html)
-
 ***LITTERAE SANCTISSIMI D. N. LEONIS XIII  
 AD ARCHIEPISCOPOS ET EPISCOPOS BAVARIAE\****
 

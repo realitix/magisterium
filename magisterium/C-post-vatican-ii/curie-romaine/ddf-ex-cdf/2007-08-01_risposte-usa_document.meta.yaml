@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2007-08-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 5c6892097c63559b5627c7de0a5b9ee857d5f46dc331fe21d6e5ce9debe6018f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 86f900997b54f3771d1e69c7f3b5ce928baabab03bad5a1fcbc8acde5f2734d1
+  la: 5c6892097c63559b5627c7de0a5b9ee857d5f46dc331fe21d6e5ce9debe6018f

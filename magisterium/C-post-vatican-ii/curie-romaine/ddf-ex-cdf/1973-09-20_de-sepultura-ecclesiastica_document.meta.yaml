@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1973-09-20'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: bf80101ea6165f1754e20b1d4637de4f81cb85eeee51a8c76ef789e046fa3e5c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6313477643d162b9fd567a9db73ffb67a45b6d8d7731ea3556e2187f1b286311
+  la: bf80101ea6165f1754e20b1d4637de4f81cb85eeee51a8c76ef789e046fa3e5c

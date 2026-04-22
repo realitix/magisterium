@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-05-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 2e0e9324583472c6b5263f5906c93acd3c924b2dc485fd620a21b485f2e68bb8
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020502_medina-estevez-penance_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8e5fad7273f0bfa443f625ff0af4daf67b6d0b213c9eb021cc7c411e46cd585d
+  it: 2e0e9324583472c6b5263f5906c93acd3c924b2dc485fd620a21b485f2e68bb8

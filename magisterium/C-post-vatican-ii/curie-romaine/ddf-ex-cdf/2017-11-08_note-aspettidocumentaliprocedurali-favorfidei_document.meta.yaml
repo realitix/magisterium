@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2017-11-08'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 21192a97e5f4124075498a344160f8618f45c61dfd7ca49b8a21292b8845a8c8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20171108_note-aspettidocumentaliprocedurali-favorfidei_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: a64ce9c0fb9a59935d8a5848e0345da7415aa6f60a76cf1aeb011606ce9ad3b3
+  it: 21192a97e5f4124075498a344160f8618f45c61dfd7ca49b8a21292b8845a8c8

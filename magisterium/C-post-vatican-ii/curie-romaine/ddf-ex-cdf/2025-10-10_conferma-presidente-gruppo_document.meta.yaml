@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2025-10-10'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: ad4111be004a71c07997fa0d0017774a152f22ff4074ca183c430c7e3114a4cb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_en.html
+    fetched_at: '2026-04-22T07:26:38.459231Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: a8a718d747d8df465db9edbad6f0919934eadd04de48661c021d1683858e05c0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_sp.html
+    fetched_at: '2026-04-22T07:26:54.505919Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: a9f1b3e83ad685e07123e35e9cdd12aec0de165e68e73f45395a5cc647e270f0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_fr.html
+    fetched_at: '2026-04-22T07:27:10.492699Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 6b8c2b4bb1d818f84220bd77bd450daf0bac98fbbb4578c47316a15c82458423
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: c115eadfb9f94939b56eb5506a44b19bb10c23d797d615184b61dc731de4f7d7
+  en: ad4111be004a71c07997fa0d0017774a152f22ff4074ca183c430c7e3114a4cb
+  es: a8a718d747d8df465db9edbad6f0919934eadd04de48661c021d1683858e05c0
+  fr: a9f1b3e83ad685e07123e35e9cdd12aec0de165e68e73f45395a5cc647e270f0
+  it: 6b8c2b4bb1d818f84220bd77bd450daf0bac98fbbb4578c47316a15c82458423

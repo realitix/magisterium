@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: declaration
 date: '1983-11-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 217e7efb4579915225aad39190513baf56f380e588bfd9211799d9db45efbc54
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c5fb6ecd8234bacf7ee690a67e9b687cc938adb5760cea5e7ea84c2147885a3c
+  la: 217e7efb4579915225aad39190513baf56f380e588bfd9211799d9db45efbc54

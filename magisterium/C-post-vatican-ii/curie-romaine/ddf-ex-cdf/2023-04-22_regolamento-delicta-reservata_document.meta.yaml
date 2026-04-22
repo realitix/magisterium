@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2023-04-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: fa80f0689bfaacd106bc3e5e76d87a2d0a00f89b243717c12ca693d1aefd3d5d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20230422_regolamento-delicta-reservata_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: f167c9551b736aaa49c1b8654f5075f098af1024c7ce6b67ebe2663ce82cbf9f
+  it: fa80f0689bfaacd106bc3e5e76d87a2d0a00f89b243717c12ca693d1aefd3d5d

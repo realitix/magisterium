@@ -1,0 +1,54 @@
+---
+/**
+ * Route legacy `/documents/{slug}/` — page de redirection vers la langue
+ * originale du document. Émet un meta refresh + un `<link rel="canonical">`
+ * pour éviter l'indexation en double.
+ *
+ * Conserve la compatibilité avec les anciens liens internes (Q/R, grille
+ * de documents, etc.) tout en laissant la route canonique être
+ * `/documents/{slug}/{lang}/`.
+ */
+import { loadAllDocuments, getDocumentBySlug } from '../../../data/loadDocuments.ts';
+import { loadDocumentContent } from '../../../data/loadMarkdown.ts';
+
+export async function getStaticPaths() {
+  const docs = loadAllDocuments();
+  return docs.map((doc) => ({ params: { slug: doc.slug } }));
+}
+
+const { slug } = Astro.params;
+if (typeof slug !== 'string') {
+  throw new Error('Paramètre slug manquant');
+}
+
+const doc = getDocumentBySlug(slug);
+if (doc === null) {
+  throw new Error(`Document introuvable pour le slug : ${slug}`);
+}
+
+// On cible la langue originale du document pour la redirection.
+const loaded = loadDocumentContent(slug);
+const targetLang = loaded?.lang ?? doc.langue_originale;
+const canonicalUrl = `/documents/${slug}/${targetLang}/`;
+---
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="refresh" content={`0; url=${canonicalUrl}`} />
+  <link rel="canonical" href={canonicalUrl} />
+  <title>Redirection…</title>
+  <style>
+    body { font-family: system-ui, sans-serif; padding: 2rem; color: #444; }
+    a { color: #7a3030; }
+  </style>
+</head>
+<body>
+  <p>Redirection vers la <a href={canonicalUrl}>version originale</a>…</p>
+  <script is:inline define:vars={{ canonicalUrl }}>
+    window.location.replace(canonicalUrl);
+  </script>
+</body>
+</html>

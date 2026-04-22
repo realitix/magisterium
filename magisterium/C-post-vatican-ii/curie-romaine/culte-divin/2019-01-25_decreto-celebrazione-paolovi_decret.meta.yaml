@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2019-01-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: af2df10cfeda26c3a7a392067b1defd230b4cc575dbb481dde19744629e4bb60
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_en.html
+    fetched_at: '2026-04-22T07:11:53.457771Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: a99b5b66d900f5dfb67dee285fdd5da0319f198dffa2a7b430a9ab98fe3ad625
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_sp.html
+    fetched_at: '2026-04-22T07:12:09.466408Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 53520abca0b20148520b333e976137b8c6de1083f640cf4bdcbb15364348f402
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_fr.html
+    fetched_at: '2026-04-22T07:12:25.514283Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 09ea98ddddc5f4e3919f1f91c1d6f8ae2121cdae0ebb8e5a60212337211ea2a8
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_it.html
+    fetched_at: '2026-04-22T07:12:41.532461Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: bac5cddb50b8368b65507271a1c63d3fca4dfaed3af01a35bb835ae1d68e5261
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_decreto-celebrazione-paolovi_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: 00142ea1e4cc44b45f2b7d761b256e79f29571ed575df4d94dccf8bc6408fcd2
+  en: af2df10cfeda26c3a7a392067b1defd230b4cc575dbb481dde19744629e4bb60
+  es: a99b5b66d900f5dfb67dee285fdd5da0319f198dffa2a7b430a9ab98fe3ad625
+  fr: 53520abca0b20148520b333e976137b8c6de1083f640cf4bdcbb15364348f402
+  it: 09ea98ddddc5f4e3919f1f91c1d6f8ae2121cdae0ebb8e5a60212337211ea2a8
+  la: bac5cddb50b8368b65507271a1c63d3fca4dfaed3af01a35bb835ae1d68e5261

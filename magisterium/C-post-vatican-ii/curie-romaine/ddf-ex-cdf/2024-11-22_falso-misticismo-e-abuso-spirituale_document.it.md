@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_it.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_po.html)\]
-
 **DICASTERIUM PRO DOCTRINA FIDEI**
 
 ** **

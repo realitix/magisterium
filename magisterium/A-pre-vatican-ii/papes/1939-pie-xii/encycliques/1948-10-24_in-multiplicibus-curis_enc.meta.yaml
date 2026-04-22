@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1948-10-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 886a6b3e1445462de84effb02b83930e28fbe0c996b9b75e565111941b0f8da3
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19481024_in-multiplicibus-curis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6fc095bd65f9f78b5e7d3bdab24a85afaa9c4eb2e58914dbf52eb4e912a8a7f7
+  la: 886a6b3e1445462de84effb02b83930e28fbe0c996b9b75e565111941b0f8da3

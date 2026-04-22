@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1956-05-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 218f9a12b7d5ee210d6129228fcbb0f807cbdd79702e4a0664a699b4e9e99450
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 642bc743959eaf526015fd31415995b4f10633ed2fe938d6e26fc8cda2ef7614
+  la: 218f9a12b7d5ee210d6129228fcbb0f807cbdd79702e4a0664a699b4e9e99450

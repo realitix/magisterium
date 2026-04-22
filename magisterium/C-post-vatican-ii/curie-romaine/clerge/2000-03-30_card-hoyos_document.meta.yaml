@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-03-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 9704295367ee9428dbc47cdfeffca6bcaa38edcd8f2ba91e088ba894548f0d50
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20000330_card-hoyos_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 2853180d356f9a7a54a1cfd688b307025d78dec26a65494d0c0848174c0bc179
+  it: 9704295367ee9428dbc47cdfeffca6bcaa38edcd8f2ba91e088ba894548f0d50

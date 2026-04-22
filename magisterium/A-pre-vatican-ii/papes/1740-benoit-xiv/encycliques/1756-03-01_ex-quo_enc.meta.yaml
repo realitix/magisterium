@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1756-03-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 91d1e09f34faea84a9b2394351918dd5f107cd4edfd983e1859d3fef8d037dcf
+    source_url: https://www.papalencyclicals.net/ben14/b14exquo.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: dd3100f605062ee81dd517c7f2baca6f86ed1e69deddd3c813659187d1837412
+  en: 91d1e09f34faea84a9b2394351918dd5f107cd4edfd983e1859d3fef8d037dcf

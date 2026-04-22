@@ -1,6 +1,3 @@
-   
-) )  
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
     

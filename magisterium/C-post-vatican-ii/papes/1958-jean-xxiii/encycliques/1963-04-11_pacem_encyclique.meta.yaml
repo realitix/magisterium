@@ -6,8 +6,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1963-04-11'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +19,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 26810579bf6bd9d84d99d4e76cd9cd5463dde6cbc118a0a503ad32503e25d351
+    source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: fcb243887bd8e47cf612348f2b12cec89ff8aa7e77840bb7f036c0bcf23cb5e3
+  la: 26810579bf6bd9d84d99d4e76cd9cd5463dde6cbc118a0a503ad32503e25d351

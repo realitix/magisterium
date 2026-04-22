@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: discours
 date: '2003-03-08'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: c1fcb0d43584022a066c4a40e94da549b16d71e7d8d83e8a445c3f8b8b9ca3db
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20030308_discorso-sepe-cuba_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: cbd3285dfc0a17e67cf8517776e21c4ffe4675013fb24d31f4b1b209d1e75e21
+  it: c1fcb0d43584022a066c4a40e94da549b16d71e7d8d83e8a445c3f8b8b9ca3db

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '1962-03-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 5aaaecebce035a3c16666a95a1f4bb3066413acf4f87085442e8a04d5841bc03
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19620316_instructio-de-modo-procedendi-causis-sollicitationis_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 7bcd20a57da50159724de8b4c39ef76d7a792a2469c72ba0161cb717be99603f
+  la: 5aaaecebce035a3c16666a95a1f4bb3066413acf4f87085442e8a04d5841bc03

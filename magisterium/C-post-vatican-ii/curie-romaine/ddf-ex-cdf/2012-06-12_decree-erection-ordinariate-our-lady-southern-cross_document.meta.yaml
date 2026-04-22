@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2012-06-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
 langue_originale: en
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: e1985f19d119a033d95f4b92e950ece2f25e66420333c8b60373c66dcdc0df3a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120612_decree-erection-ordinariate-our-lady-southern-cross_en.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 0c9eee512aaee74888af452aaaa34b3c620ee2ab60f23126b8782b13a5b2baae
+  en: e1985f19d119a033d95f4b92e950ece2f25e66420333c8b60373c66dcdc0df3a

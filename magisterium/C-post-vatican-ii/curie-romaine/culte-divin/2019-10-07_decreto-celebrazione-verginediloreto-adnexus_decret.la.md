@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 Adnexus decreto diei 7 mensis Octobris 2019, Prot. N. 404/19 
 
 **ADDITIONES IN LIBRIS LITURGICIS RITUS ROMANI  

@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html)
-
 ***EPISTOLA ENCYCLICA SANCTISSIMI D. N. LEONIS XIII  
 DE ROSARIO MARIALI\****
 

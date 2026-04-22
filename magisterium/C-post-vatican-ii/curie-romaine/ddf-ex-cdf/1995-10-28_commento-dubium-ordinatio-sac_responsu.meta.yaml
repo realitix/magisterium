@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '1995-10-28'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: f05a0e1e510b21ce234bb01ec9872985e0bded0e938ae65fa6f2ecb53d746680
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: b3bb509801842de4b844d7d00d81de8ca36c5c54408d8e5ef8c1b08775eb4893
+  it: f05a0e1e510b21ce234bb01ec9872985e0bded0e938ae65fa6f2ecb53d746680

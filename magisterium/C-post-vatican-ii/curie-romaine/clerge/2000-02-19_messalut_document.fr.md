@@ -1,6 +1,3 @@
-   
-) )  
-
 Message de salutation
 
 De S.Em le Cardinal Préfet Darío Castrillón Hoyos

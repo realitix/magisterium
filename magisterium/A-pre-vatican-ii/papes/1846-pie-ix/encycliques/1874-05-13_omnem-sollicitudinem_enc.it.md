@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-omnem-sollicitudinem-13-maggio-1874.html)
-
 ENCICLICA  
 ***OMNEM SOLLICITUDINEM***  
 DEL SOMMO PONTEFICE  

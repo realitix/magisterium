@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- cs
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: c462bcfd57e5ee3ad8569880377c580274783f852a6a16c4f340a8ac6b618cdb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000211_chiesa-clandestina_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: bd061d18baa46a195a4362b9b503e40c5932e5f0cd9e04fcf501c2f048d7a696
+  it: c462bcfd57e5ee3ad8569880377c580274783f852a6a16c4f340a8ac6b618cdb

@@ -1,6 +1,3 @@
-   
-) )   
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **Rescritto emanato dall’Udienza papale  

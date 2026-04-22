@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: document
 date: '1951-02-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 8c681c81273c611afdb2fd7974a3d1c17071dbf17d3fa61f5a60dee31eedd342
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_19510209_dominicae-resurrectionis_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 97233844c8ca2997c277c42fd95bb97a4446514e890327f427d6ac8ca6a72635
+  la: 8c681c81273c611afdb2fd7974a3d1c17071dbf17d3fa61f5a60dee31eedd342

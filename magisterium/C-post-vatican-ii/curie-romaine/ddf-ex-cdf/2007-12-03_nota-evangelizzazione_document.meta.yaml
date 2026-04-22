@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2007-12-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sk
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -25,5 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071203_nota-evangelizzazione_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  it:
+    kind: officielle
+    sha256: 6ff97e8d352146a39f3d4a420931bf8aaf9fdb981a3701b6fd4f4149391f45d1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071203_nota-evangelizzazione_it.html
+    fetched_at: '2026-04-22T07:18:52.101046Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: c1de634313af67bbb79f88586e86bbfe855876bd0dd062bb71c72c2c65c447ac
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071203_nota-evangelizzazione_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- it
+- la
 sha256:
-  la: 5fed671cf5ef999dbee196753751006d87df50267d2524cf51692dd775c02fb7
+  it: 6ff97e8d352146a39f3d4a420931bf8aaf9fdb981a3701b6fd4f4149391f45d1
+  la: c1de634313af67bbb79f88586e86bbfe855876bd0dd062bb71c72c2c65c447ac

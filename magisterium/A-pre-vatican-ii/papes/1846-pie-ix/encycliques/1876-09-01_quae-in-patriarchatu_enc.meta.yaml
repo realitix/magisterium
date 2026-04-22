@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1876-09-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: af893b24083cc1ee6e8e54d0856ae18c296a1f76e0066c6a76a8dccf1979a313
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-quae-in-patriarchatu-1-settembre-1876.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e472d81404235d76f7b9711b2534be77ec4ccf1241cebc708ed252661392d0ba
+  it: af893b24083cc1ee6e8e54d0856ae18c296a1f76e0066c6a76a8dccf1979a313

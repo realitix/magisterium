@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html)
-
 EPISTOLA ENCYCLICA  
 SS. D. N. PII DIV. PROV. PP. X
 

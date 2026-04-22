@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: directoire
 date: '1994-01-31'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ab26da217cfd9a44b25e0126030d05545b3db4035081b573d546ae7d30a2296e
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_31011994_directory_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e560a01781008d5f3a0805b58ce1c5f7c487b0607006479ccae3c0918e2bdcc9
+  it: ab26da217cfd9a44b25e0126030d05545b3db4035081b573d546ae7d30a2296e

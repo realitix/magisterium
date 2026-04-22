@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html)  - [HU](/content/leo-xiii/hu/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html)
-
 SANCTISSIMI DOMINI NOSTRI  
 LEONIS  
 DIVINA PROVIDENTIA  

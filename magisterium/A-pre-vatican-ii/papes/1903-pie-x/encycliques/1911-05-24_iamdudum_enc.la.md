@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_24051911_iamdudum.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_24051911_iamdudum.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_24051911_iamdudum.html)
-
 EPISTOLA ENCYCLICA  
 ***IAMDUDUM\****  
 SUMMI PONTIFICIS  

@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-02-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- cs
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 9633efd892df06a442e2f721aa6f2300d5bf57c2c56c85186e3842c0b54cc442
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: f3bcb1aed732f758b1fcd1e29d934bae38c791260aed9fffa769d09dbdb1014b
+  la: 9633efd892df06a442e2f721aa6f2300d5bf57c2c56c85186e3842c0b54cc442

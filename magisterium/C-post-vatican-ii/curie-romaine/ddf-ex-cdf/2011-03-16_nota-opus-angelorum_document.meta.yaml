@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2011-03-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- pt
-- sp
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 42c45b7aada8aae5127cc3eb114ce20a7b543e9af4eda564a1990d6a946580fc
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20110316_nota-opus-angelorum_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: b4b2bd3c9f0dbf47796551e6956e17f8ad37ff44304cc03aed8d81f02c027d1a
+  fr: 42c45b7aada8aae5127cc3eb114ce20a7b543e9af4eda564a1990d6a946580fc

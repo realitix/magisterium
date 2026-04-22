@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-incredibili-afflictamur-17-settembre-1863.html)
-
 ENCICLICA  
 ***INCREDIBILI AFFLICTAMUR***  
 DEL SOMMO PONTEFICE  

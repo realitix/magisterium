@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1871-06-04'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e57caba5925fe7c79339e49d98a3edef88e26d545599a426e41f38e40301a36a
+    source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-beneficia-dei-4-iunii-1871.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 2575a5da40c0bc88eb10625865e41ac9a78a5839b1de922f50e478e95cfcba18
+  la: e57caba5925fe7c79339e49d98a3edef88e26d545599a426e41f38e40301a36a

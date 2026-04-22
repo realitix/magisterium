@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html)
-
 PIO XII 
 
 LITTERAE ENCYCLICAE

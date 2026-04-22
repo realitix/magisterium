@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1851-11-21'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 567ac58fc9eaf7770e8526621699a440455b8216354608d6056182fc6a57d8ee
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-ex-aliis-nostris-21-novembre-1851.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 248e0858c670af1ec27d172d5d3bb1dcd23d1dcb25fef81525315723b02ecf51
+  it: 567ac58fc9eaf7770e8526621699a440455b8216354608d6056182fc6a57d8ee

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1858-01-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: e2b8990db6ddceff0f84ba995794b7d065b770981560afa341852a75ccee50c6
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-cum-nuper-20-gennaio-1858.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: ecacd89d8ffd53515afd2158c1b3ac14e95f7b1cc5d305a286c1241f885110a2
+  it: e2b8990db6ddceff0f84ba995794b7d065b770981560afa341852a75ccee50c6

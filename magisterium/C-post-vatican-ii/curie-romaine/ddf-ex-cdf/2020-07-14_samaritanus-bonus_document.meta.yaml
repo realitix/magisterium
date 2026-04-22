@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2020-07-14'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: ddd6f33972d55ecad786ab1903f9b6d85dd8c116f3c2f473f2a80fbb5758dc48
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_en.html
+    fetched_at: '2026-04-22T07:21:30.422342Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: eaf43eae96bd2afd31a552ecbae5034fb516832df7e0f6cee72e8ae3e6e314e1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_sp.html
+    fetched_at: '2026-04-22T07:21:46.272711Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 90706b9935f222870248c5f2cc9a8805ee6bc533019a8d43bcbbac27b980e851
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_fr.html
+    fetched_at: '2026-04-22T07:22:02.514123Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: a0b0d36f8c5c95b6aaf0bd3d022fad9980a939129692ddbe9584df9097ced5a7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: c9a44786820eb9d3d1f567766905bfb50306ac547a014918965ce952688b4aca
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_pl.html
+    fetched_at: '2026-04-22T07:22:18.504154Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
 sha256:
-  it: 4c002c247a3df13377675d30888d61bfb016a8a48cc7a7af6b41b3300fcf436f
+  en: ddd6f33972d55ecad786ab1903f9b6d85dd8c116f3c2f473f2a80fbb5758dc48
+  es: eaf43eae96bd2afd31a552ecbae5034fb516832df7e0f6cee72e8ae3e6e314e1
+  fr: 90706b9935f222870248c5f2cc9a8805ee6bc533019a8d43bcbbac27b980e851
+  it: a0b0d36f8c5c95b6aaf0bd3d022fad9980a939129692ddbe9584df9097ced5a7
+  pl: c9a44786820eb9d3d1f567766905bfb50306ac547a014918965ce952688b4aca

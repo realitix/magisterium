@@ -1,17 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_sp.html) - [HR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_hr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_it.html)\]
-
- 
-
 **DICASTERIUM PRO DOCTRINA FIDEI**
 
 **Lettera a S.E. Mons. Ramón Alfredo de la Cruz Baldera,  

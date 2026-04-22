@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-12-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 286b76bb694685b44802f19bc764b1f06a4d2dd54dae0d93a29d16d4a1b87477
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_conf-stampa-dignitas-personae_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 724cb7783ce379740fab6ca585e5bf7f74b1213495555f1df796e4100afcbfd4
+  it: 286b76bb694685b44802f19bc764b1f06a4d2dd54dae0d93a29d16d4a1b87477

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2021-12-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c1d7c9e1466ba268c32bde55c1c3260b6aac6d16130bdcabdf22d7920de38aaa
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_decreto-rito-istituzione-catechisti_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 15f9f7e696363d561bdf170cc721b3db47f8bbf3fbb1e030e043c5886e323368
+  la: c1d7c9e1466ba268c32bde55c1c3260b6aac6d16130bdcabdf22d7920de38aaa

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-10-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 0d2aba080e2dfeba61149ec2e22f3f2d5d4f724d7ffa9de88a9590f3e32b7f43
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_17101998_sacer_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 9f8f9ee3feb92914ecacb9760797cf41c6c868436803b8dd55daed37f141c6ff
+  it: 0d2aba080e2dfeba61149ec2e22f3f2d5d4f724d7ffa9de88a9590f3e32b7f43

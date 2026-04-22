@@ -4,17 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-08-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- la
-- pl
-- pt
-- sk
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -26,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 2612268e09fb930dacb6d7c2ded7de1578de1804384ed7407c2d1d8ab2025a68
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: da17f8905aa8c94b84f187b30b2f5881d4c87903d8249181917c50eea2e9c5d5
+  la: 2612268e09fb930dacb6d7c2ded7de1578de1804384ed7407c2d1d8ab2025a68

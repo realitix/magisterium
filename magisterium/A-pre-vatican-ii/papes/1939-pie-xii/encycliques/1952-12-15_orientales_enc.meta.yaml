@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1952-12-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a7dad68684da1ea0c4eb3774fffa03b97d6d255fb1fc5cd9fbf70285a2ab27c0
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: f4a23d070ea9ddd9f5e3aeb2ca5b80eb935471979b93a0700952d358a1fa77a7
+  la: a7dad68684da1ea0c4eb3774fffa03b97d6d255fb1fc5cd9fbf70285a2ab27c0

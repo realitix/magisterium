@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-11-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: eea71a3f2350d79c0a49d118fe52608523df636dfe66071766c2538a728a0093
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19111998_santuari_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 3198088266e867be512c1b75bd45e28c51dbd805b3f9f705f257fb0cfbdbc33a
+  it: eea71a3f2350d79c0a49d118fe52608523df636dfe66071766c2538a728a0093

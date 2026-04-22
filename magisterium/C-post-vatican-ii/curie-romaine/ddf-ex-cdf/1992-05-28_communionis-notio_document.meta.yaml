@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1992-05-28'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c3c6bd4b7810fd592efc3337397cfe017ba3efcff074e3f9f0b300b70f2a3cdc
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_28051992_communionis-notio_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e898d20ef0266a4b627a1577a72c365502becb467875c72cd2eff35bbf256ddb
+  la: c3c6bd4b7810fd592efc3337397cfe017ba3efcff074e3f9f0b300b70f2a3cdc

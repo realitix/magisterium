@@ -1,5 +1,3 @@
-[DE](/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html)  - [EN](/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html)  - [ES](/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html)  - [IT](/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html)  - [LA](/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html)  - [PT](/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html)
-
 PAULUS PP. VI
 
 EPISTULA ENCYCLICA

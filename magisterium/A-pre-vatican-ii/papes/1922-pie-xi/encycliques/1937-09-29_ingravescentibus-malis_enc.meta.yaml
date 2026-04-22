@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1937-09-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 340464df13cfd85a7c40e3dce8987ae2ebebcba1ea05eddbeb2aa0cb36222a00
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370929_ingravescentibus-malis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 31d10c55d88e79ca244f54632d9d5e089c2f2f5d22a3658495fc739482a523a7
+  la: 340464df13cfd85a7c40e3dce8987ae2ebebcba1ea05eddbeb2aa0cb36222a00

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1937-03-19'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e67d5a22b76587421ea54ca67af8651a116f37cbbf25e338ec964487fb6f5090
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: b26244161b2ea6e2c6f38d12e5dfa9c58c109ea1590345e0bdc2de1782b47802
+  la: e67d5a22b76587421ea54ca67af8651a116f37cbbf25e338ec964487fb6f5090

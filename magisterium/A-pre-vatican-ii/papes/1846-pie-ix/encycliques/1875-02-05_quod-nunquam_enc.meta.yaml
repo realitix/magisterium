@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1875-02-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 2d9161c349d2953590770d4ac9a3fa66996c05bec78811564539d01432445671
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-quod-nunquam-5-febbraio-1875.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: c399a93eba86ef32cbb99a1c51d4a82d97311b4c5b7f73a13144b9d97b80c15b
+  it: 2d9161c349d2953590770d4ac9a3fa66996c05bec78811564539d01432445671

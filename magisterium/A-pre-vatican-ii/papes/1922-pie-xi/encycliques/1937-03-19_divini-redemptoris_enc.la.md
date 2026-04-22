@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html)  - [PT](/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html)
-
 PIUS S PP. XI
 
 LITTERAE ENCYCLICAE

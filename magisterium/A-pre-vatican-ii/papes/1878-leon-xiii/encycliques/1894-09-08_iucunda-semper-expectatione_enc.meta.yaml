@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1894-09-08'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a371d8805f6e961c26bfd55dddc96fec13c8e46278d6661ac7468c9da7b8915c
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c0c310aedf2663fad1ccde1c7d8dc8657aa609d78dd949c3b2dca9ba5e9e0708
+  la: a371d8805f6e961c26bfd55dddc96fec13c8e46278d6661ac7468c9da7b8915c

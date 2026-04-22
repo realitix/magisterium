@@ -1,5 +1,3 @@
-[IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19291223_quinquagesimo-ante-anno.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19291223_quinquagesimo-ante-anno.html)
-
 LITTERAE ENCYCLICAE  
 ***QUINQUAGESIMO ANTE ANNO***  
 VENERABILIBUS FRATRIBUS  

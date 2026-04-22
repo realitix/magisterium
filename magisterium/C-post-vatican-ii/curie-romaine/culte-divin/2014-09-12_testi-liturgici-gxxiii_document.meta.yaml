@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2014-09-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- la
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c126f7b4cd2a903149365cc17cc972f79388ced30764d764784df7394d8b6d61
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140912_testi-liturgici-gxxiii_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 55ac6c3c50c5dd367c36e3bf0698ce59a28988aed04b6a2026563b91f7404b3b
+  la: c126f7b4cd2a903149365cc17cc972f79388ced30764d764784df7394d8b6d61

@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: catechisme
 date: '1992-10-11'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 167e2a69c582e003491e511584da0296af34872e099ea315c380c0541a3f2075
+    source_url: https://www.vatican.va/archive/FRA0013/__P64.HTM
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 27f223657256534b1068282bbb3291f93b477e8e95557738ff5158b83d2710e5
+  fr: 167e2a69c582e003491e511584da0296af34872e099ea315c380c0541a3f2075

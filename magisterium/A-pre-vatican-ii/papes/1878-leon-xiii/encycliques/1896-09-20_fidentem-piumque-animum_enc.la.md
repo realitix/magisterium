@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html)
-
 SANCTISSIMI DOMINI NOSTRI LEONIS
 
 DIVINA PROVIDENTE PAPAE XIII

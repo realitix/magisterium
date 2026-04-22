@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '1274-05-07'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 5f278eda99535075af1e7c4b79c7f5988fedadc921e9a2c1e05d4155bf2d25a3
+    source_url: https://www.papalencyclicals.net/councils/ecum14.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 80498e6e29f2ede565c330f3a2ce000bd22ef71b8f5082f521ba07e73ed6ca81
+  en: 5f278eda99535075af1e7c4b79c7f5988fedadc921e9a2c1e05d4155bf2d25a3

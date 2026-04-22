@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1897-05-09'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f9a16cdc0a9692478a1e95c1da123e9cea242df7ee4ee33e922679cf30463147
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 608bd37f30470db670e01ff7717b4d24a6ae59e67f57f003fd4de1cf53a7d5b8
+  la: f9a16cdc0a9692478a1e95c1da123e9cea242df7ee4ee33e922679cf30463147

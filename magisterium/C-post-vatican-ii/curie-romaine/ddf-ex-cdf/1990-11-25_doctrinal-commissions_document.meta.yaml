@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1990-11-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ba008e73dd06f79af656fe943d3fcc3f408773f4eb114eb1a4db14359587dc9a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e2c12e23c60c2f72ebbfa212b00e94b3a4f4e3678b5986901961f78239e56ab2
+  la: ba008e73dd06f79af656fe943d3fcc3f408773f4eb114eb1a4db14359587dc9a

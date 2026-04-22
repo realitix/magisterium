@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2004-01-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 6a8994b77e3fa189ced21af7bc3a1d077db2d6f0069d0ef1ece0ef0cdf86134f
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20040130_homily-abu-dhabi_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: abb9bcef2948fd80084680e3e3daab13d924c0e4867dc3cdcd05bb96d9b8daa4
+  it: 6a8994b77e3fa189ced21af7bc3a1d077db2d6f0069d0ef1ece0ef0cdf86134f

@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1988-06-30'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 9831c946d426f41f1bbea43a82d1cbd5487caae9aa7cd25f621fb6183d1dbbe4
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-homelie-de-mgr-lefebvre-declaration-et-profession-de-foi-de-mgr-de-castro-mayer-sacre-de-quatre-eveques-30-juin-1988
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: ebd77bc6ea6d165f9d45afb52924c890a4b7af63172e15a49f446a6d9ea7592b
+  fr: 9831c946d426f41f1bbea43a82d1cbd5487caae9aa7cd25f621fb6183d1dbbe4

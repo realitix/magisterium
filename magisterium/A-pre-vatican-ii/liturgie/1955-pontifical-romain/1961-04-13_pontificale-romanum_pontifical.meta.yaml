@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: pontifical
 date: '1961-04-13'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: archive.org
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 21732e6f6073be3a9ee13d6af86fecfcb0edf1dd34fb6bcc9f5ce75782af2492
+    source_url: https://archive.org/download/PontificaleRomanum/PontificaleRomanum.pdf
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 75683d7dbbdebc08ab5a39d571f3b42f0a91d16572c21ab23046e560fb84bbbe
+  la: 21732e6f6073be3a9ee13d6af86fecfcb0edf1dd34fb6bcc9f5ce75782af2492

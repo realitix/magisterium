@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1981-04-10'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: c4df168b41054749d7b81f14e613dc0e84d27a84f3075345f72702de24527cba
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-notre-dame-de-compassion-10-avril-1981
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 06a03997f9ba504494c61d56eeb60d9cd276e28645e6bc9b80f63302d8aa9df0
+  fr: c4df168b41054749d7b81f14e613dc0e84d27a84f3075345f72702de24527cba

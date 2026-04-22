@@ -1,13 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_it.html)\]
-
 Congregazione per il Culto Divino e la Disciplina dei Sacramenti
 
  

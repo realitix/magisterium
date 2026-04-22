@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html)
-
 SANCTISSIMI DOMINI NOSTRI  
 L E O N I S  
 DIVINA PROVIDENTIA  

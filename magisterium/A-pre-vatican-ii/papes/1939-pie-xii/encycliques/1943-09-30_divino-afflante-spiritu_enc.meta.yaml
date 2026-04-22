@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1943-09-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 58093605e9eeb1cc3009bc39b311b40b233c3824145c816762049613af943005
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19430930_divino-afflante-spiritu.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 18d52c22faea9f3e8ca86e1d0ea5bec1863c18f2b5d031d7f8643c9a8aad0683
+  la: 58093605e9eeb1cc3009bc39b311b40b233c3824145c816762049613af943005

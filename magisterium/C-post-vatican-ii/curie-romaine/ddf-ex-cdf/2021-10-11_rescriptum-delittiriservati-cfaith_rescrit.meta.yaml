@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: rescrit
 date: '2021-10-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: d35bab99d234e4e3284c4f2564f6d5d7fd09a6347176d09c91f3f66fdc5b8350
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_rescriptum-delittiriservati-cfaith_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: dc50bada608598e0524aca46af4112cb83d9453681fd31d22d620f76039e1ce4
+  la: d35bab99d234e4e3284c4f2564f6d5d7fd09a6347176d09c91f3f66fdc5b8350

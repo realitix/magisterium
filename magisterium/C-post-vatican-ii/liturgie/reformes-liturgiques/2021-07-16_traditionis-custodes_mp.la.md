@@ -1,5 +1,3 @@
-[DE](/content/francesco/de/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)  - [EN](/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)  - [ES](/content/francesco/es/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)  - [HR](/content/francesco/hr/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)  - [IT](/content/francesco/it/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)  - [LA](/content/francesco/la/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)  - [VI](/content/francesco/vi/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html)
-
 LITTERAE APOSTOLICAE  
 MOTU PROPRIO DATAE  
 

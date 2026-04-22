@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1995-03-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +19,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0e0a9d29e034490484bca03bedba0bda2a679f9fb439ee7021fb5da288136e1f
+    source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 65f4b0df09dcc44917a8f5f3abe174a9e7beef5e5ba671352a63abdaf256e87f
+  la: 0e0a9d29e034490484bca03bedba0bda2a679f9fb439ee7021fb5da288136e1f

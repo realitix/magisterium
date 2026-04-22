@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_ge.html) - [EN](rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_en.html) - [ES](rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_sp.html) - [FR](rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_fr.html) - [IT](rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_it.html) - [PT](rc_con_cfaith_doc_20201221_nota-vaccini-anticovid_po.html)\]
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE  
  
 

@@ -1,6 +1,3 @@
-   
-) )   
-
 La Chiesa non ha il diritto di cambiare   
 ciò che Cristo stessa ha istituito [\*](#_ftn1)
 

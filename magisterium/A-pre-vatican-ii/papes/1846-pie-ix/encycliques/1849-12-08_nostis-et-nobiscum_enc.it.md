@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-nostis-et-nobiscum-8-dicembre-1849.html)
-
 ENCICLICA  
 ***NOSTIS ET NOBISCUM***  
 DEL SOMMO PONTEFICE  

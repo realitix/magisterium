@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1989-11-19'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 9faef166e6fdb2de24c237d9ed42dc9f2360b72c6b86c4711ae37ab86b83e6e5
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-jubile-sacerdotal-60-ans-19-novembre-1989
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: fda853dd484073a604c761c13cdb092addeb2d7f707613c042d6c6cddf924184
+  fr: 9faef166e6fdb2de24c237d9ed42dc9f2360b72c6b86c4711ae37ab86b83e6e5

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1953-05-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a425525db6b0bad8f2feb34460ca54649e22444ec4f6f6d9091013d3ac097bff
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 07e207db113e28bbfbdb56e181577e7955b814feb8dde73cc188c0a897549f73
+  la: a425525db6b0bad8f2feb34460ca54649e22444ec4f6f6d9091013d3ac097bff

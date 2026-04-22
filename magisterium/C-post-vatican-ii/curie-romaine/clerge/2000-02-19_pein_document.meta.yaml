@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- sp
 langue_originale: sp
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: sp
   fetch_method: httpx
+traductions:
+  sp:
+    kind: originale
+    sha256: c48ad5badc9d6564615c312cf3bb919c39917f86d21191fef8ddb616170a84d8
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19022000_pein_sp.html
+    fetch_method: httpx
+langues_disponibles:
+- sp
 sha256:
-  sp: 37a9a4c60d80cfd2cb6f6b90dfc622de8921c6d728ea62b3ae225b8503369764
+  sp: c48ad5badc9d6564615c312cf3bb919c39917f86d21191fef8ddb616170a84d8

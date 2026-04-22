@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1932-05-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6aebef309bb62d44e7f20276c17b388403df27938f3bd55e7f6cf4523b95f8b4
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e26739a92a0139e07393e842531a0236b4a015b8ec2ec7c43245a7ce1529f877
+  la: 6aebef309bb62d44e7f20276c17b388403df27938f3bd55e7f6cf4523b95f8b4

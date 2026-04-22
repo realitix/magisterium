@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-12-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- nl
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 9e25e60c67951cfd8c334092273b05406f39707a26ae0812d35c0c5285a727c8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 4dec4f21cedb3c4e4b2ff290e83b6604b701d668914b161aef8931759b67de54
+  it: 9e25e60c67951cfd8c334092273b05406f39707a26ae0812d35c0c5285a727c8

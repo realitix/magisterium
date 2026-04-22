@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[EN](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_en.html) - [ES](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_sp.html) - [HR](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_hr.html) - [IT](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_it.html) - [PL](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_pl.html) - [PT](rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_po.html)\]
-
 **LETTERA DEL SANTO PADRE FRANCESCO  
 AL PREFETTO DELLA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE  
 CIRCA L’ACCESSO DELLE DONNE  

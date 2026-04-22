@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

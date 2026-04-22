@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1894-05-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 2305a2a8bc7781a7d57b5c98f549f5d5e653d647a460d4d5bd4ca11603f4653d
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01051894_inter-graves.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 51af6ce33384d57dfc1afc3edcfc03e117ed2bfbfec95862cb8145b569b9667c
+  la: 2305a2a8bc7781a7d57b5c98f549f5d5e653d647a460d4d5bd4ca11603f4653d

@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2006-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 75cdc512228b8c807afdec42f7a0d875635f1240b3a255fdc2530ac8c562467f
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20060222_wau-sudan_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 66dca3e8f8370389cef0d73c832273d90d8e1e94dca40645fda04fe39097ce92
+  it: 75cdc512228b8c807afdec42f7a0d875635f1240b3a255fdc2530ac8c562467f

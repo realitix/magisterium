@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19490415_redemptoris-nostri-cruciatus.html)
-
 PIUS PP. XII
 
 EPISTULA ENCYCLICA

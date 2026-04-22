@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-03-27'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 9e84b4b08c7182d9d930e16f58c992cb8abf6b7885974654d950c9da7ad81591
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020327_card-medina-estevez_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e711aad1fa517d091c078f8b531fbc25e585b4767beb3fd466e4413c264f489a
+  it: 9e84b4b08c7182d9d930e16f58c992cb8abf6b7885974654d950c9da7ad81591

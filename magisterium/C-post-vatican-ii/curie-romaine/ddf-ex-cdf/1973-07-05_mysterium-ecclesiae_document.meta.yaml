@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1973-07-05'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6a0f1030a1a0e5961bf2d800a14e8c8d5c193e7a6c257af1ad287a3d1cff0479
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a0519f6c3388557140ec7ebb0f0595b67558aab087ea700cf05c0a0f6ddd09ae
+  la: 6a0f1030a1a0e5961bf2d800a14e8c8d5c193e7a6c257af1ad287a3d1cff0479

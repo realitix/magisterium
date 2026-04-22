@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '2021-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 7218b5584c03d75604850d7f930a60b6b9aaf0cb1c567c3435b9bb45359a9df6
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_en.html
+    fetched_at: '2026-04-22T07:22:08.223445Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 4730adc05fc16b03f02890dce25545ec2f6517f0afc3c3ce131c25c50cc95bdd
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_sp.html
+    fetched_at: '2026-04-22T07:22:24.286433Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: a10e213067dc2a6fcbc1bb0874638db9a4beade2f656878e0f5779d544158e2d
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_fr.html
+    fetched_at: '2026-04-22T07:22:40.253127Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: f4f8905ab04999f02e6293256fe5031124311e411973dce2389b0f92b04c65bb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: f5173062543e4547757567b8ea63c49e7279feafbb71d0ccd81cd3ed869d5300
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_articolo-responsum-dubium-unioni_pl.html
+    fetched_at: '2026-04-22T07:22:56.269747Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
 sha256:
-  it: 36878c89b61d6c2a395e4d129d6c67ad4b9140b0fd8bf1176d94411ed7322e3a
+  en: 7218b5584c03d75604850d7f930a60b6b9aaf0cb1c567c3435b9bb45359a9df6
+  es: 4730adc05fc16b03f02890dce25545ec2f6517f0afc3c3ce131c25c50cc95bdd
+  fr: a10e213067dc2a6fcbc1bb0874638db9a4beade2f656878e0f5779d544158e2d
+  it: f4f8905ab04999f02e6293256fe5031124311e411973dce2389b0f92b04c65bb
+  pl: f5173062543e4547757567b8ea63c49e7279feafbb71d0ccd81cd3ed869d5300

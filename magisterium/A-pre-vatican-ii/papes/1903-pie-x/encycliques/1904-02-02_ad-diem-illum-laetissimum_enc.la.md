@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html)  - [FR](/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html)
-
 PIUS PP. X
 
 LITTERAE ENCYCLICAE

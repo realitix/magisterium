@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: motu-proprio
 date: '1964-01-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 46958a1c64180548a7b1c8fa46f46929cb0873a0f3e531a5fac5e3f466188315
+    source_url: https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6bff245a9859e893ee260574e78a1b10db1671542cf71312a880b688f5b4ff21
+  la: 46958a1c64180548a7b1c8fa46f46929cb0873a0f3e531a5fac5e3f466188315

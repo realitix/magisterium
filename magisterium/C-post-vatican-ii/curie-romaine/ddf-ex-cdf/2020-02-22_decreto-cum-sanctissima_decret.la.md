@@ -1,17 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_ge.html) - [EN](rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_en.html) - [ES](rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_sp.html) - [FR](rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_fr.html) - [IT](rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_it.html) - [LA](rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_la.html) - [PT](rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_po.html)\]
-
- 
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 Prot. N. 137/2009S – ED

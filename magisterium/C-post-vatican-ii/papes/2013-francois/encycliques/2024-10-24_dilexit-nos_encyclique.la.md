@@ -1,5 +1,3 @@
-[AR](/content/francesco/ar/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [BE](/content/francesco/be/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [DE](/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [EN](/content/francesco/en/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [ES](/content/francesco/es/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [FR](/content/francesco/fr/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [IT](/content/francesco/it/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [LA](/content/francesco/la/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [PL](/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [PT](/content/francesco/pt/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [ZH_CN](/content/francesco/zh_cn/encyclicals/documents/20241024-enciclica-dilexit-nos.html)  - [ZH_TW](/content/francesco/zh_tw/encyclicals/documents/20241024-enciclica-dilexit-nos.html)
-
 FRANCISCUS  
 SUMMUS PONTIFEX
 

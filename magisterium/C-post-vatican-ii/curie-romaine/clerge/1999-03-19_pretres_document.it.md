@@ -1,8 +1,3 @@
-   
-) )  
-
-  
-
 CONGREGAZIONE PER IL CLERO
 
 ***IL PRESBITERO,  

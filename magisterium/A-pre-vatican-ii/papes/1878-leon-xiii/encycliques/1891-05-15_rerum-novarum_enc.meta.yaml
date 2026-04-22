@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1891-05-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 27122298680e7553414c60f894823e636f4b223fcf272eded5f1583d2563fd60
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ec8511d4e43b12b58e459f069986345b0b3fab89aef3b093a1022d257c0b58f3
+  la: 27122298680e7553414c60f894823e636f4b223fcf272eded5f1583d2563fd60

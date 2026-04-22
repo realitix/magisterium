@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22081886_quod-multum.html)
-
 ***EPISTOLA ENCYCLICA  
 SSMI D. N. LEONIS PAPAE XIII  
 AD EPISCOPOS HUNGARIAE\****

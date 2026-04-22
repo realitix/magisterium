@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-03-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 8f847425057e9e689f49409c3c9093afe4b68181b078254f96026927eea6d627
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20030309_homily-sepe-cuba_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: d031595cd99c43b16cf495b029428eb4aea17bb45e741da6cb68439092683d26
+  it: 8f847425057e9e689f49409c3c9093afe4b68181b078254f96026927eea6d627

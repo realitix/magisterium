@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1898-09-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 68ea5cef60cc331b47d40c22c60386484821aad2bdc49fa85aca5fed7ddf74db
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1ec41f0bbe36d14b72f3114ed6635c25731c365021710f92f2af71daa3d34fb8
+  la: 68ea5cef60cc331b47d40c22c60386484821aad2bdc49fa85aca5fed7ddf74db

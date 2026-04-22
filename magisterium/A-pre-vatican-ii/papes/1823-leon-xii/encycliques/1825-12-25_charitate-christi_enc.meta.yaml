@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1825-12-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: f97b25cd7e895ca73ae0e215572cf8c48473476f763fc931182aa6640a3a0114
+    source_url: https://www.papalencyclicals.net/leo12/l12chari.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: baed073b9c38aa0e66ef35ea7ecfb7ff319004b9ede16432cc6e2bd55c36ce29
+  en: f97b25cd7e895ca73ae0e215572cf8c48473476f763fc931182aa6640a3a0114

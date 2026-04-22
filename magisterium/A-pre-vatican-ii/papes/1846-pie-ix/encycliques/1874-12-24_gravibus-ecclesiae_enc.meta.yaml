@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1874-12-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ef82e4cde23f9094da3bddd4ad0405f091d4b49a97a32f96318fa3bea31db3cb
+    source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-gravibus-ecclesiae-24-decembris-1874.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 0bbb6f13aca53b311191513bb67ce9dd53b6d197d2a76e3410a7f3c48eaaad5b
+  la: ef82e4cde23f9094da3bddd4ad0405f091d4b49a97a32f96318fa3bea31db3cb

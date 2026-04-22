@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1986-09-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: d7cd28bae49a09e325c106746275151ebe7432907c685a142168039d252aebe1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860915_libro-schillebeeckx_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8b06feb2be22776b2673c188367a3f9967c82547b57ec28ccb8b75a322eb942c
+  it: d7cd28bae49a09e325c106746275151ebe7432907c685a142168039d252aebe1

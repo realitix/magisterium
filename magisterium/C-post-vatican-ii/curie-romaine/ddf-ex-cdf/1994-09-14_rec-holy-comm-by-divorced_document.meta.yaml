@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1994-09-14'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 94ccff709c237fe4d1cec1c458576ad8ec30ff5fc2cc1d91b13b3040bc033527
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 74807ecf8d0e50bc2a8e43ae0efa04bc99c3665bc0b8f498e7cdbdea3f695e6e
+  la: 94ccff709c237fe4d1cec1c458576ad8ec30ff5fc2cc1d91b13b3040bc033527

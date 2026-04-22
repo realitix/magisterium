@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-05-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 920b4aadd7c84b608b471c3755e92e47b181df112a54ce4f0e99106a2744e502
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20000503_tomko-vatican-radio_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: c558c5dfa82a550e3be6fbb1db5c2f6f20c4baf1b6063f791a99a34651fc4d1f
+  it: 920b4aadd7c84b608b471c3755e92e47b181df112a54ce4f0e99106a2744e502

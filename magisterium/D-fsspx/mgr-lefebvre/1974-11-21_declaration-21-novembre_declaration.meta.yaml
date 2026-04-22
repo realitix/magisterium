@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: declaration
 date: '1974-11-21'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -21,5 +19,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: af3fee25129873bfb4ec5f484785699e7ad7dd007c79613a72009e384d5c651c
+    source_url: https://laportelatine.org/qui-sommes-nous/declaration-du-21-novembre-1974
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 43963ddf493bd1098bb81db659c3f36d9eb9f19f9712e83e899272d3a9351f8a
+  fr: af3fee25129873bfb4ec5f484785699e7ad7dd007c79613a72009e384d5c651c

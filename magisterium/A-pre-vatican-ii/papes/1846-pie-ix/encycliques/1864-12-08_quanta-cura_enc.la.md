@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/encyclica-quanta-cura-8-decembris-1864.html)  - [LA](/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html)
-
 LITTERAE APOSTOLICAE
 
 ***QUANTA CURA[\*](#fonte)***

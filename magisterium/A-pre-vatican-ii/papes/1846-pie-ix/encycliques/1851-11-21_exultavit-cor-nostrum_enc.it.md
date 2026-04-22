@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-exultavit-cor-nostrum-21-novembre-1851.html)
-
 ENCICLICA  
 ***EXULTAVIT COR NOSTRUM***  
 DEL SOMMO PONTEFICE  

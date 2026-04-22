@@ -1,8 +1,3 @@
-
-
-  
-) )
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
  

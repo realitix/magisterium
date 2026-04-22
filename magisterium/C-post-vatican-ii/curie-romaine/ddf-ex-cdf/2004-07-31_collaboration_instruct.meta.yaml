@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '2004-07-31'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 2119d1f03b54a578ad9fcf50346bc0e3ca08d0611f75fe5d6cfce090e463a89e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e7f05f6d2ca5e2809840e0dcada44080b619cd36400556b9453b3facbed1c7e5
+  it: 2119d1f03b54a578ad9fcf50346bc0e3ca08d0611f75fe5d6cfce090e463a89e

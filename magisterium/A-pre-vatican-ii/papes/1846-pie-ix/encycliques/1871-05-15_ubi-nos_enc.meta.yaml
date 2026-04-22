@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1871-05-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ee187abd95dd0d13fe907c7773d0ba396dc092ad49e179a55b01d9f1a9e03db2
+    source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-nos-15-maii-1871.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d356b4bb8078205339b73ca43b24657a618465a3126f7706b58f76e0542195c7
+  la: ee187abd95dd0d13fe907c7773d0ba396dc092ad49e179a55b01d9f1a9e03db2

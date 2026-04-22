@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-07-07'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 33e07aa11b04b0cd8136bf841a8832cc0dc9f64151b39c5d9ea97b2e1040880d
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_07071998_seconv_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: eaf0551ad53f1c809defab6293997e20f6b0dd920ecd2949b0a8374cfa3c7244
+  fr: 33e07aa11b04b0cd8136bf841a8832cc0dc9f64151b39c5d9ea97b2e1040880d

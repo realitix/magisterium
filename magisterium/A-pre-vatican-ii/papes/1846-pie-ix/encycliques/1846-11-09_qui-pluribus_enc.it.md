@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-qui-pluribus-9-novembre-1846.html)
-
 ENCICLICA  
 ***QUI PLURIBUS***  
 DEL SOMMO PONTEFICE  

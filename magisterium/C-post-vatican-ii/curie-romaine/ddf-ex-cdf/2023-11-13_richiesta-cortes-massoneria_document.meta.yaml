@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2023-11-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- hr
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,37 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231113_richiesta-cortes-massoneria_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231113_richiesta-cortes-massoneria_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 9e7ea48e80fce046007d28a9f2e1ca4641829a5cc9af1cbc751d7a851ac9e7ae
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231113_richiesta-cortes-massoneria_en.html
+    fetched_at: '2026-04-22T07:22:52.205879Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 741ed7c79bbf3caaca30285905a6ec8df38385710d20e0f5ce90070c64e8a8a1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231113_richiesta-cortes-massoneria_hr.html
+    fetched_at: '2026-04-22T07:23:08.239921Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 3d90abfca99bbaee7b25cb4989c250d0111dfd0aa69109ce8f3aaabe15237743
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231113_richiesta-cortes-massoneria_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- hr
+- it
 sha256:
-  it: 25d37c83297106f13aa2c819e14afc70174d3b75981e24b0a874fff134d3fbff
+  en: 9e7ea48e80fce046007d28a9f2e1ca4641829a5cc9af1cbc751d7a851ac9e7ae
+  hr: 741ed7c79bbf3caaca30285905a6ec8df38385710d20e0f5ce90070c64e8a8a1
+  it: 3d90abfca99bbaee7b25cb4989c250d0111dfd0aa69109ce8f3aaabe15237743

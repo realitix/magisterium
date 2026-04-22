@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1933-06-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 59312bcd0353baaf729acd5bb49b457e589c010181b0948b7cbaee5ce7bae6cb
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 23c345f88d584416c4e7bc882ee801ac0c9d6c7e440117aa7f11c4e65290b1f3
+  la: 59312bcd0353baaf729acd5bb49b457e589c010181b0948b7cbaee5ce7bae6cb

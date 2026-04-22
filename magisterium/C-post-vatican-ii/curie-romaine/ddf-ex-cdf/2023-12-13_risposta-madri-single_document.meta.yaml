@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2023-12-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- hr
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 355f88734aac2dcbfc2de011cee8eed107d10ff019cbd79bae0515ab4fda80fe
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_en.html
+    fetched_at: '2026-04-22T07:23:26.299034Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: d822c177e35f8065268ee583f68da9ae821abe26069e734f122e5c46a06e6499
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_sp.html
+    fetched_at: '2026-04-22T07:23:42.382605Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 4be5d5afe697e0abb900e41c4fa7377bb4959fb0cc7b17208059bb34ed2d16e5
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_hr.html
+    fetched_at: '2026-04-22T07:23:58.341857Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: a84cbcea078eb475e73b9afab815cfcb04ffa25a00ceefb05c9ece679e748520
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- hr
+- it
 sha256:
-  it: 645abdc1a29f6c0e9a2e42c344c73d560cff294bb556193b955df3b198653e4e
+  en: 355f88734aac2dcbfc2de011cee8eed107d10ff019cbd79bae0515ab4fda80fe
+  es: d822c177e35f8065268ee583f68da9ae821abe26069e734f122e5c46a06e6499
+  hr: 4be5d5afe697e0abb900e41c4fa7377bb4959fb0cc7b17208059bb34ed2d16e5
+  it: a84cbcea078eb475e73b9afab815cfcb04ffa25a00ceefb05c9ece679e748520

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: profession-de-foi
 date: '1967-07-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0f082dd11c8d4fea7fd1e2483a3a147878dde244f3ff4f816e089e1a8dd4f2b7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e50df08f158b842ef0c2059cdab2b0bf4ac8e4f17b9df491afdb2973e6c8d9ac
+  la: 0f082dd11c8d4fea7fd1e2483a3a147878dde244f3ff4f816e089e1a8dd4f2b7

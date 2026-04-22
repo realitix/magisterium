@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html)
-
 EPISTOLA ENCYCLICA SSmi D.N. LEONIS XIII
 
 ***SUPERIORE ANNO\****

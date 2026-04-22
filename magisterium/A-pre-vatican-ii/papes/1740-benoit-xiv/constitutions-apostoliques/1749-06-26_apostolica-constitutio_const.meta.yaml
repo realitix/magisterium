@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: constitution-apostolique
 date: '1749-06-26'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 4ed1d43209fb54184147c1c6ceb6fce1b71fa015b64fbbad1fc64006ba8abe4f
+    source_url: https://www.papalencyclicals.net/ben14/b14apost.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: f7739def5a3d229ff431d66cadaa236193c059277bca188f038786efdca3d5d5
+  en: 4ed1d43209fb54184147c1c6ceb6fce1b71fa015b64fbbad1fc64006ba8abe4f

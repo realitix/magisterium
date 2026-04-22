@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2025-11-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 9992046dba407aee3087703d71f21c97ad555e3d63b23fd355f9658d091675fa
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro-presentazione_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 63c49cea294da8acb21e7e85d4e516aa4fa50b865cfdb247592f085847e598cf
+  it: 9992046dba407aee3087703d71f21c97ad555e3d63b23fd355f9658d091675fa

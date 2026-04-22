@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_en.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_comunicato-scisma-vigano_po.html)\]
-
 DICASTERO PER LA DOTTRINA DELLA FEDE
 
 **Comunicato stampa circa la conclusione del processo extragiudiziale  

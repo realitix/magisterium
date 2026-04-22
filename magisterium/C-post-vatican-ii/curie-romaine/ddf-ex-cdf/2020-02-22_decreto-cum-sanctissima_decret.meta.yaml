@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2020-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 812941b2099e70cf14e755925d3be197a2deff7d572bc2c5f72662753547967f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_en.html
+    fetched_at: '2026-04-22T07:20:46.125884Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 6f346f352a54eb8921fcd79b8aff0a69473e3b4b6e003a2a3d5a48eb8f26cdb3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_sp.html
+    fetched_at: '2026-04-22T07:21:02.141198Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 7c335a542fb5f43e57e5bfc15ded2713531dfd37f2e189dcda730d283574d660
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_fr.html
+    fetched_at: '2026-04-22T07:21:18.167872Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: e695ccd300e009186fa2643142fdc001e0b916c9214c54a4ab726bf769de10bd
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_it.html
+    fetched_at: '2026-04-22T07:21:34.180573Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: e9e6f3782f7d3ac1955b518f43abf5465a9377beeaa16fc793d5f54772484b38
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-cum-sanctissima_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: 5c71093aa454155a9392b2975190add0efc895771bd4f1e5e6a2f83c1ad74f17
+  en: 812941b2099e70cf14e755925d3be197a2deff7d572bc2c5f72662753547967f
+  es: 6f346f352a54eb8921fcd79b8aff0a69473e3b4b6e003a2a3d5a48eb8f26cdb3
+  fr: 7c335a542fb5f43e57e5bfc15ded2713531dfd37f2e189dcda730d283574d660
+  it: e695ccd300e009186fa2643142fdc001e0b916c9214c54a4ab726bf769de10bd
+  la: e9e6f3782f7d3ac1955b518f43abf5465a9377beeaa16fc793d5f54772484b38

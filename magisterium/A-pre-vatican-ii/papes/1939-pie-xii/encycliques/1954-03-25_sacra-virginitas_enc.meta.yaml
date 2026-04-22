@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1954-03-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: d004fd52f4ac1241e8ff0037203f95072f40a053ee384f29b6f6242851a8851f
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: edc1cac817c018577573aed277598ae235cc80a92765c0bc9cacf414be599352
+  la: d004fd52f4ac1241e8ff0037203f95072f40a053ee384f29b6f6242851a8851f

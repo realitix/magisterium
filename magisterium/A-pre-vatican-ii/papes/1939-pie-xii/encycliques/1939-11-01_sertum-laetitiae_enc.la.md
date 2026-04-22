@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html)
-
 PIUS PP. XII
 
 EPISTULAE ENCYCLICAE

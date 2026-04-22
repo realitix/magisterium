@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20091887_vi-e-ben-noto.html)
-
 ***LITTERAE SANCTISSIMI D. N. LEONIS PAPAE XIII  
 AD EPISCOPOS ITALIAE DE SS. ROSARIO\****
 

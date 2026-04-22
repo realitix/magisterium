@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-quod-nunquam-5-febbraio-1875.html)
-
 ENCICLICA  
 ***QUOD NUNQUAM***  
 DEL SOMMO PONTEFICE  

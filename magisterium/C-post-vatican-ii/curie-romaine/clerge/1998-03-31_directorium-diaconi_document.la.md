@@ -1,8 +1,3 @@
-The Holy See - Vatican web site
-
-   
-) )  
-
 CONGREGATIO DE INSTITUTIONE CATHOLICA
 
 CONGREGATIO PRO CLERICIS

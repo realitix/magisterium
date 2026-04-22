@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2024-07-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 77bf35ced0c5f4360b3735ee1559be59e4de60138655d8850af44d0026a40baa
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_en.html
+    fetched_at: '2026-04-22T07:25:04.424804Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 5fca42afcadff2525612c0d3b8836a3b90513cabaf8377d5b5b2d3b77f3035ac
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_sp.html
+    fetched_at: '2026-04-22T07:25:20.431516Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: a8f44d4da1b4091fd351788257c033176acd9e0ed7a3fcea88f77db78fe822c6
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_fr.html
+    fetched_at: '2026-04-22T07:25:36.444542Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 14a244db7cedfa572cfbd46b225e600d329663c3cf63dfe8e6bb9e6e8d2d4e2e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 1fd28b7d35e144d818946be2d59647973f38ac642b7698198c91dd875590ff66
+  en: 77bf35ced0c5f4360b3735ee1559be59e4de60138655d8850af44d0026a40baa
+  es: 5fca42afcadff2525612c0d3b8836a3b90513cabaf8377d5b5b2d3b77f3035ac
+  fr: a8f44d4da1b4091fd351788257c033176acd9e0ed7a3fcea88f77db78fe822c6
+  it: 14a244db7cedfa572cfbd46b225e600d329663c3cf63dfe8e6bb9e6e8d2d4e2e

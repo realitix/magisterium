@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

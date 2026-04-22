@@ -1,15 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_ge.html) - [EN](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_en.html) - [ES](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_sp.html) - [FR](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_fr.html) - [IT](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_it.html) - [PT](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_po.html)\]
-
- 
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
  
@@ -18,7 +6,6 @@ Prot. N. 602/20
 
 NOTA SULLA DOMENICA DELLA PAROLA DI DIO**
 
-\[[pdf](rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_it.pdf)\]
 
  
 

@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2021-12-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 7860ecd9fabc703cabf9563eca9a54e219d5c87ec27aeebc131ce0d0e8387d69
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_en.html
+    fetched_at: '2026-04-22T07:13:13.599821Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 8a6a6f05075d916b44093672a11d0163e32c3567bfc2eaec4ea1d0bbd36a9963
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_sp.html
+    fetched_at: '2026-04-22T07:13:29.617645Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 8c56536936bb2d1d28c2cd7945c6be056882d5aa978570aba1b41720309cc918
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_fr.html
+    fetched_at: '2026-04-22T07:13:45.647296Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 5de0caf611b3a68575d5fa0a96b4c1ed8b61deefa197d925829be89dab60f081
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: c563b4f996c1da98415658c79f22e49e321516808db22c20a944f2d628c69462
+  en: 7860ecd9fabc703cabf9563eca9a54e219d5c87ec27aeebc131ce0d0e8387d69
+  es: 8a6a6f05075d916b44093672a11d0163e32c3567bfc2eaec4ea1d0bbd36a9963
+  fr: 8c56536936bb2d1d28c2cd7945c6be056882d5aa978570aba1b41720309cc918
+  it: 5de0caf611b3a68575d5fa0a96b4c1ed8b61deefa197d925829be89dab60f081

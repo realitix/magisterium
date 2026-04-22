@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_24111919_paterno-iam-diu.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_24111919_paterno-iam-diu.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_24111919_paterno-iam-diu.html)
-
 BENEDICTUS PP. XV
 
 LITTERAE ENCYCLICAE

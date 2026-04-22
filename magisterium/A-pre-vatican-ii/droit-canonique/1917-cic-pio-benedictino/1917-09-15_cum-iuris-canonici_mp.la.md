@@ -1,5 +1,3 @@
-[IT](/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19170915_cum-iuris-canonici.html)  - [LA](/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19170915_cum-iuris-canonici.html)
-
 **BENEDICTUS PP. XV**
 
 MOTU PROPRIO

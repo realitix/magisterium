@@ -1,5 +1,3 @@
-[DE](/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)  - [EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)  - [FR](/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

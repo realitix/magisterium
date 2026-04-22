@@ -1,6 +1,3 @@
-   
-) )   
-
 Le conseguenze canoniche e pastorali[\*](#_ftn1)
 
 Card. Urbano Navarrete, S.I.

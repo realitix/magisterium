@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1896-05-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 1f124b091de303c9a6a08c041d22c617f8ad54691c03c31d16c58185adbb9a2d
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01051896_insignes.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 67f6833c9695311331ee7f21c586d42ce0d610357d6969bedf9b9b59559fa33e
+  la: 1f124b091de303c9a6a08c041d22c617f8ad54691c03c31d16c58185adbb9a2d

@@ -1,22 +1,21 @@
 /**
  * Markdown + meta.yaml loader for a single document.
  *
- * Given a slug, resolves the `.meta.yaml` path via the index, parses it,
- * then reads the corresponding `<dir>/<filename>.<lang>.md` file. The
- * language preference order is:
- *   1. explicit `preferLang` argument (if a file exists for it);
- *   2. `langue_originale` from the meta.yaml;
- *   3. any language listed in `langues_disponibles` for which a file exists;
- *   4. fallback probe of known langs: la, fr, it, en.
+ * Given a slug (and optional lang), résout le `.meta.yaml`, parse le bloc
+ * `traductions` pour connaître les langues dispos + leur provenance, puis
+ * lit le fichier `<dir>/<filename>.<lang>.md` correspondant.
+ *
+ * Ordre de préférence des langues :
+ *   1. `preferLang` explicite (si un fichier existe pour cette langue) ;
+ *   2. `langue_originale` du meta.yaml ;
+ *   3. toute autre langue présente dans `traductions`.
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import yaml from 'js-yaml';
 import { CORPUS_ROOT } from './paths.js';
 import { getDocumentBySlug } from './loadDocuments.js';
-import type { DocumentContent, DocumentMeta, Langue } from './types.js';
-
-const KNOWN_LANGS: readonly Langue[] = ['la', 'fr', 'it', 'en'];
+import type { DocumentContent, DocumentMeta, Langue, TraductionKind } from './types.js';
 
 /** Cache of parsed meta.yaml files, keyed by absolute path. */
 const metaCache = new Map<string, DocumentMeta>();
@@ -32,7 +31,6 @@ function readMeta(absMetaPath: string): DocumentMeta {
 
 /** Derive the `.md` path for a given language from a `.meta.yaml` path. */
 function mdPathFor(absMetaPath: string, lang: Langue): string {
-  // Strip the trailing `.meta.yaml` (10 chars) to get the base path.
   const base = absMetaPath.replace(/\.meta\.yaml$/, '');
   return `${base}.${lang}.md`;
 }
@@ -52,6 +50,28 @@ function pickExistingLang(
 }
 
 /**
+ * Construit l'ordre de préférence des langues pour un document donné,
+ * en dédupliquant les entrées.
+ */
+function buildLangOrder(
+  meta: DocumentMeta,
+  fallbackOriginale: Langue,
+  preferLang?: Langue,
+): Langue[] {
+  const order: Langue[] = [];
+  const push = (l: Langue | undefined | null): void => {
+    if (l !== undefined && l !== null && !order.includes(l)) order.push(l);
+  };
+  push(preferLang);
+  push(meta.langue_originale ?? fallbackOriginale);
+  if (meta.traductions !== undefined) {
+    for (const l of Object.keys(meta.traductions)) push(l);
+  }
+  for (const l of meta.langues_disponibles ?? []) push(l);
+  return order;
+}
+
+/**
  * Load the markdown content + parsed meta for a single document slug.
  * Returns `null` if the slug is unknown or no markdown file exists.
  */
@@ -66,20 +86,12 @@ export function loadDocumentContent(
   if (!fs.existsSync(absMetaPath)) return null;
 
   const meta = readMeta(absMetaPath);
-
-  // Build the ordered list of candidate languages, deduplicated.
-  const order: Langue[] = [];
-  const push = (l: Langue | undefined | null): void => {
-    if (l !== undefined && l !== null && !order.includes(l)) order.push(l);
-  };
-  push(preferLang);
-  push(meta.langue_originale ?? doc.langue_originale);
-  for (const l of meta.langues_disponibles ?? []) push(l);
-  for (const l of KNOWN_LANGS) push(l);
-
+  const order = buildLangOrder(meta, doc.langue_originale, preferLang);
   const lang = pickExistingLang(absMetaPath, order);
   if (lang === null) return null;
 
   const content = fs.readFileSync(mdPathFor(absMetaPath, lang), 'utf8');
-  return { content, lang, meta };
+  const kind: TraductionKind =
+    meta.traductions?.[lang]?.kind ?? 'originale';
+  return { content, lang, kind, meta };
 }

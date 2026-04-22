@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)
-
 EPISTULAE ENCYCLICAE  
 
 ***QUAS PRIMAS******\****  

@@ -1,5 +1,3 @@
-[ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_it.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_po.html) - [UK](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_uk.html) - [VI](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_vi.html)\]
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 Lettera ***Placuit Deo**  

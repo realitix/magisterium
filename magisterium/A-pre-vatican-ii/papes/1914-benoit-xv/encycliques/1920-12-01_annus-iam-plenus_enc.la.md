@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01121920_annus-iam-plenus.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01121920_annus-iam-plenus.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01121920_annus-iam-plenus.html)
-
 BENEDICTUS PP. XV
 
 EPISTOLA ENCYCLICA

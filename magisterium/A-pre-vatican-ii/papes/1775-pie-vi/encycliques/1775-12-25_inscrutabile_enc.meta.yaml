@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1775-12-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: dd1a6eba3d971acbe58b68b4c00e7ed7a34197517ad1eaff48975be21aee051b
+    source_url: https://www.papalencyclicals.net/pius06/p6inscru.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 747557a36e1a05954750319a2debe5feda529acd130b58fbd4f9efbefb5fd53a
+  en: dd1a6eba3d971acbe58b68b4c00e7ed7a34197517ad1eaff48975be21aee051b

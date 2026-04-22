@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '0869-10-05'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: a9d62717753e42a0b7f11d1887f3bef02996d2b63848a2a750e609f91827cb57
+    source_url: https://www.papalencyclicals.net/councils/ecum08.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 658928b31d73783203b79fe38728df55c8c20900cc70c6728b0f3bc3b80f7f12
+  en: a9d62717753e42a0b7f11d1887f3bef02996d2b63848a2a750e609f91827cb57

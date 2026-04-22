@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1971-01-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e8acf64bd9c6f890a64db2ee73950d066194786b062c5d6e2fc2efbb55245a51
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 592e3a208086f6bfdf4d40cea94bd9b3b0397bd4ec08390cc3314ba622e3217c
+  la: e8acf64bd9c6f890a64db2ee73950d066194786b062c5d6e2fc2efbb55245a51

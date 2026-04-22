@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1924-01-18'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: aae46fd21d030ec141dfdc1f2010a4b1feca570ad71246d42892886a488c6b94
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 29325b6e387f5aa05a9fa35c28b1eba093ea21768c547e72f15ded76fd31f78d
+  la: aae46fd21d030ec141dfdc1f2010a4b1feca570ad71246d42892886a488c6b94

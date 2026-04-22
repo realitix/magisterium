@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '1966-07-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ec6c1db356b20c5858281d90f7bdaf90e764f9bd6a72501041cc5f3252c494cb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ceca31eddb4d143775fc8926d7ec7daeb958306377523d7962bba322f06cd2ac
+  la: ec6c1db356b20c5858281d90f7bdaf90e764f9bd6a72501041cc5f3252c494cb

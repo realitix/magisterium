@@ -1,6 +1,3 @@
-   
-) )  
-
 OMELIA dell'Em.mo Signor Cardinale
 
 Darío Castrillón Hoyos

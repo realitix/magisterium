@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2001-04-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b7899fff0c201b4130944f4b3c8673fa2b03aff492f40ce9dd3d953a8528752d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20010430_favor-fidei_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 3c64cf4c6da8345bb73da91cef3931c6d3329cd58c4ae70e3aaaf73a4da74674
+  la: b7899fff0c201b4130944f4b3c8673fa2b03aff492f40ce9dd3d953a8528752d

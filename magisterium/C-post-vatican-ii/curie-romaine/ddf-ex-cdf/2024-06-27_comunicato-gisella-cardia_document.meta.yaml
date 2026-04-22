@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-06-27'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- ge
-- hr
-- it
-- pl
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,37 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240627_comunicato-gisella-cardia_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240627_comunicato-gisella-cardia_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  hr:
+    kind: officielle
+    sha256: 27a782b22bae3a7433621e95c84d3dbd905e8b0993d470c16b66ff9272aef438
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240627_comunicato-gisella-cardia_hr.html
+    fetched_at: '2026-04-22T07:24:08.290030Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 191a099d4e91ce856e58c81f63258a6b9b0a03b1337e33f3c9a77bb88391c3ea
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240627_comunicato-gisella-cardia_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 853e20320407af48c3265a004949ee48952ca97fa5a9f476491fabef0aa920df
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240627_comunicato-gisella-cardia_pl.html
+    fetched_at: '2026-04-22T07:24:24.314038Z'
+    fetch_method: httpx
+langues_disponibles:
+- hr
+- it
+- pl
 sha256:
-  it: 78008c963293dd4161cf2cacb6c4f9592e15089da3330e22f40565b5ca4a7406
+  hr: 27a782b22bae3a7433621e95c84d3dbd905e8b0993d470c16b66ff9272aef438
+  it: 191a099d4e91ce856e58c81f63258a6b9b0a03b1337e33f3c9a77bb88391c3ea
+  pl: 853e20320407af48c3265a004949ee48952ca97fa5a9f476491fabef0aa920df

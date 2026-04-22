@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2009-07-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sk
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 7e627860aef802d045f0457f430c12207808913534a99dc95bb0e16af426a9ab
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20090711_aborto-procurato_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 557f210e1ded03d590dbae93f9f01e70675e13d24d442f08fa4df1fdc2d7d8b9
+  it: 7e627860aef802d045f0457f430c12207808913534a99dc95bb0e16af426a9ab

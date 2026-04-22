@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-01-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 07aab75f0475d901be781dd11e2b43561bebeb8c0f5ea29dcb204347a917ada7
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1d5ebe4f20ae1faf8ac73233f388c259de9b86ce98c982d15ab5fe62a0a605f6
+  la: 07aab75f0475d901be781dd11e2b43561bebeb8c0f5ea29dcb204347a917ada7

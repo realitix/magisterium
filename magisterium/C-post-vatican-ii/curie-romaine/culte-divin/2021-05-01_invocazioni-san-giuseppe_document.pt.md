@@ -1,13 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2021/05/01/0264/00573.html#de) - [EN](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2021/05/01/0264/00573.html#en) - [ES](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2021/05/01/0264/00573.html#es) - [FR](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2021/05/01/0264/00573.html#fra) - [IT](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2021/05/01/0264/00573.html) - [PT](rc_con_ccdds_doc_20210501_invocazioni-san-giuseppe_po.html)\]
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
  

@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html)  - [HU](/content/pius-xi/hu/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html)
-
 LITTERAE ENCYCLICAE  
 ***CASTI CONNUBII***  
 VENERABILIBUS FRATRIBUS  

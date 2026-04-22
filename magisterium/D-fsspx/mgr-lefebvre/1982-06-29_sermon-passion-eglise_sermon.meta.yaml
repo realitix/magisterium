@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1982-06-29'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: f52383eee04ae954da7756192c3c75467c7bdffe67730efedf4a6231d21b6678
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-ordinations-sacerdotales-29-juin-1982
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 4737346cf6e8f0489d84d3759a4774efa9c2eeeaf76e0e4a6488c5b0e5e1d6f9
+  fr: f52383eee04ae954da7756192c3c75467c7bdffe67730efedf4a6231d21b6678

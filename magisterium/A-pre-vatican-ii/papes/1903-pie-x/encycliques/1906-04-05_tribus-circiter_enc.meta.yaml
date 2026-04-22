@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1906-04-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f7c49ab3e5c9da5d47888797ca63fd713802604a3dc422b355d0652dd7f1c6a4
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_05041906_tribus-circiter.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e4a65e31981e19af0ca8017ea0621af10ba2dbe008c62071ec2de50fd1ec886f
+  la: f7c49ab3e5c9da5d47888797ca63fd713802604a3dc422b355d0652dd7f1c6a4

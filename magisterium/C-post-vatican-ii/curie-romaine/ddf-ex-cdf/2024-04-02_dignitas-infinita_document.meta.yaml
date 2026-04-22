@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-04-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: bfd6abeb9f9c78a7d6d294770a6b6a8331b2b5f90262134b18088e149fd9b25e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_en.html
+    fetched_at: '2026-04-22T07:23:56.600425Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 729ea69b9ef3ed3476116ea8494afe918b58ae5e87dac1243214fa25e41d0e1f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_sp.html
+    fetched_at: '2026-04-22T07:24:12.444455Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: bf5dd528a248a88ab1134c4d16b1c71c96f56266cc8f7f5c85c9133880bd214d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_fr.html
+    fetched_at: '2026-04-22T07:24:28.666686Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 6499934853cbe0291525add90d4e15e892d0cc0ac19fc60493d46cd6047bbfd5
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 2bcc58748ebe6bef05a5c10913ca10dc1a2d8eb15633212d1042a7b912854526
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html
+    fetched_at: '2026-04-22T07:24:44.622893Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
 sha256:
-  it: eeb4e4710475dec310691b824a8d499ec8803cd281c07a521a90ec81f85269b6
+  en: bfd6abeb9f9c78a7d6d294770a6b6a8331b2b5f90262134b18088e149fd9b25e
+  es: 729ea69b9ef3ed3476116ea8494afe918b58ae5e87dac1243214fa25e41d0e1f
+  fr: bf5dd528a248a88ab1134c4d16b1c71c96f56266cc8f7f5c85c9133880bd214d
+  it: 6499934853cbe0291525add90d4e15e892d0cc0ac19fc60493d46cd6047bbfd5
+  pl: 2bcc58748ebe6bef05a5c10913ca10dc1a2d8eb15633212d1042a7b912854526

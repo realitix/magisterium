@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '1512-05-03'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 8d56b089b0ef86bc38c4a6f696258259638b38f0815d520b5b0e71a40d59ac66
+    source_url: https://www.papalencyclicals.net/councils/ecum18.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 4eb117230d350af3e881ac220ac5820886ba26430689891e47814b8a49e2e862
+  en: 8d56b089b0ef86bc38c4a6f696258259638b38f0815d520b5b0e71a40d59ac66

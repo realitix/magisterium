@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html)
-
 ***LITTERAE ENCYCLICAE  
 SANCTISSIMI DOMINI NOSTRI  
 LEONIS DIVINA PROVIDENTIA PAPAE XIII  

@@ -1,6 +1,3 @@
-   
-) )  
-
 Troisième rencontre internationale des prêtres
 
 Basilique Notre-Dame de Guadalupe (Mexico), dimanche 12 juillet 1998

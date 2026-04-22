@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19510908_sempiternus-rex-christus.html)
-
   PIUS PP. XII
 
 LITTERAE ENCYCLICAE

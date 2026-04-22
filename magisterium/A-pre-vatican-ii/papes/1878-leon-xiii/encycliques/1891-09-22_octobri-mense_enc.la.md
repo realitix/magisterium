@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html)
-
 EPISTOLA ENCYCLICA
 
 ***OCTOBRI MENSE\****

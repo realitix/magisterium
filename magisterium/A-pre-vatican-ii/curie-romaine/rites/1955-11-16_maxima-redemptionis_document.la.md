@@ -1,6 +1,3 @@
-   
-) )   
-
 **SACRA CONGREGATIO RITUUM**
 
 **DECRETUM GENERALE**

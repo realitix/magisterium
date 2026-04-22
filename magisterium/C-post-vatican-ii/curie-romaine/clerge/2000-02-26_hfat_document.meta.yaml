@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
 langue_originale: en
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: c1ac77be3495085a98201174e0416dcfd6d5391ee3393b55cb7843fe26fd94f7
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_26022000_hfat_en.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 747743d65abfb5db7e0f97f259796cbe89a59117e3e418e7cf2cf09022e75863
+  en: c1ac77be3495085a98201174e0416dcfd6d5391ee3393b55cb7843fe26fd94f7

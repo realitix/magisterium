@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-11-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: b3446053ae7bf7c576c036a972a99a7a056d283d6e21b10cac3e5ec9394a56bf
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html
+    fetched_at: '2026-04-22T07:26:14.451850Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: b2537c40fdf1121f5bd7e57bb7b639e2147c825b137d85f847503fe457093055
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_sp.html
+    fetched_at: '2026-04-22T07:26:30.509800Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9980b4959154b12b5d991139382ab536b79749df33e64b92496af307b9bddf0e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_fr.html
+    fetched_at: '2026-04-22T07:26:46.534972Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: b34c63fae3a8de0420dcb93183a00505f004875d0761b10464a2a69dcb12a824
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: d29d37c04179b1414ca71b820918c242b7b633e2dc37c135d38843cde27a40dd
+  en: b3446053ae7bf7c576c036a972a99a7a056d283d6e21b10cac3e5ec9394a56bf
+  es: b2537c40fdf1121f5bd7e57bb7b639e2147c825b137d85f847503fe457093055
+  fr: 9980b4959154b12b5d991139382ab536b79749df33e64b92496af307b9bddf0e
+  it: b34c63fae3a8de0420dcb93183a00505f004875d0761b10464a2a69dcb12a824

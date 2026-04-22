@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-07-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
 langue_originale: en
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 6873954d883c149aa785a8525df849c098ece8e68a1a59a2a56fc0e7dbfa477f
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20080722_dias-lambeth_en.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 8a80facd1dd266eea802c252603b03d6e60a851f3fd3e00319af2cce2276bd90
+  en: 6873954d883c149aa785a8525df849c098ece8e68a1a59a2a56fc0e7dbfa477f

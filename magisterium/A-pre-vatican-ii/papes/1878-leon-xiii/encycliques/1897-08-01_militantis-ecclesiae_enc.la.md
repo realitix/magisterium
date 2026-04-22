@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01081897_militantis-ecclesiae.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01081897_militantis-ecclesiae.html)
-
 SANCTISSIMI DOMINI NOSTRI LEONIS XIII
 
 EPISTOLA ENCYCLICA

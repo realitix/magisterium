@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1951-09-08'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e632dc44759b90b7001f458ade40cd3a4ac2f26acea85200e69f6cbbd72b0727
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19510908_sempiternus-rex-christus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 57503ec5a34d09e29d08b84b888dce625c7b4b9978c3737e2a0795239950430e
+  la: e632dc44759b90b7001f458ade40cd3a4ac2f26acea85200e69f6cbbd72b0727

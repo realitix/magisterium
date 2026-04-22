@@ -1,6 +1,3 @@
-   
-) )  
-
 Troisième rencontre internationale des prêtres
 
 en préparation au grand jubilé de l'an 2000

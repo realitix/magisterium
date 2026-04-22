@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_decreto-opus-angelorum_ge.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_decreto-opus-angelorum_it.html) - [LA](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_decreto-opus-angelorum_la.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_decreto-opus-angelorum_po.html)\]
-
 DICASTERIUM PRO DOCTRINA FIDEI
 
 **DECRETUM  

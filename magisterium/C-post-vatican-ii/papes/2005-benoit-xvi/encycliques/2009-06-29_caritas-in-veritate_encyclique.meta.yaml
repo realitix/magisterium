@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '2009-06-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ed1d68243c8644c18667e59fcaad3f7b6c345a60836805ec7c2cee13e24254b2
+    source_url: https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: b96c7dc3735cb51244726284bb45c24febc42b440d11168420eb7dcabb9227ab
+  la: ed1d68243c8644c18667e59fcaad3f7b6c345a60836805ec7c2cee13e24254b2

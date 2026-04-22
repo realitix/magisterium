@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '1997-06-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6c17f8b00ee40525ffae6b7cebc8badfb164f698113b765d87c54dc9aee25deb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19970629_ratio-agendi_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 824a687750487e50687041155247c307919880208c889f8cb3a15b4f733fde7e
+  la: 6c17f8b00ee40525ffae6b7cebc8badfb164f698113b765d87c54dc9aee25deb

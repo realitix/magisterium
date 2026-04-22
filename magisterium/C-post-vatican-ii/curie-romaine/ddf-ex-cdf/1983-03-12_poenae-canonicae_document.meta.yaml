@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1983-03-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 1a55353f8d0a3459dba90e3db61ed295ffb9603b461b60bcddf1d14f59ec06ec
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6153d88866ee1eb10fa9948614df6feb0a3458f7cade3f929959edd3bdd9fc5b
+  la: 1a55353f8d0a3459dba90e3db61ed295ffb9603b461b60bcddf1d14f59ec06ec

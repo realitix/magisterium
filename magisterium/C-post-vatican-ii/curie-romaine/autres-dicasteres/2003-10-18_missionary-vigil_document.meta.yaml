@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-10-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 53889e49fb955de3a948f370d2cd4290ed0c736fbebc288d035e7d685fe6161e
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20031018_missionary-vigil_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: ca6ff3fbcbb074f71d50a50418b2467e5ed9a7ebea892352efd88a78476cab83
+  it: 53889e49fb955de3a948f370d2cd4290ed0c736fbebc288d035e7d685fe6161e

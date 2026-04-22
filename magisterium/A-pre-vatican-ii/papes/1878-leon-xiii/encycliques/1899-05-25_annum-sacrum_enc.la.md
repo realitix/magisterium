@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25051899_annum-sacrum.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25051899_annum-sacrum.html)
-
 LITTERAE ENCYCLICAE  
 SSMI. D. N. LEONIS PAPAE XIII
 

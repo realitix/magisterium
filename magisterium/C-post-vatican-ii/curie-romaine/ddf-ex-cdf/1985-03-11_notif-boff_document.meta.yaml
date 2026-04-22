@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1985-03-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 27b4f008f4b57adda662b72398b25bd59087033c1d438bccf67576bfcfe35bd9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 42563eb81af38106154249572e402fa8b9420faac8a73c274eedf3ed4d5a2b20
+  it: 27b4f008f4b57adda662b72398b25bd59087033c1d438bccf67576bfcfe35bd9

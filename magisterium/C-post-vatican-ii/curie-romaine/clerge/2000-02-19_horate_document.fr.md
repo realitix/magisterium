@@ -1,6 +1,3 @@
-   
-) )  
-
 AD HORAM TERTIAM
 
  

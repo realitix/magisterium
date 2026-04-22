@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: document
 date: '1955-11-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f15b3b762a09b6b5a7300c945f60dc8c9f85d3579176abb965a05b3127ba325d
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_19551116_maxima-redemptionis_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d5fb38951b3896763fe577e6e898319650ab29255ecd818ef235e20e033fc08c
+  la: f15b3b762a09b6b5a7300c945f60dc8c9f85d3579176abb965a05b3127ba325d

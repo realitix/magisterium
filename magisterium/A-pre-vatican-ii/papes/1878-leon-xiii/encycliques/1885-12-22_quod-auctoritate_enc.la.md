@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22121885_quod-auctoritate.html)
-
 ***LITTERAE ENCYCLICAE SSMI D. N. LEONIS PAPAE XIII,  
 QUIBUS EXTRAORDINARIUM IUBILAEUM INDICITUR\****
 

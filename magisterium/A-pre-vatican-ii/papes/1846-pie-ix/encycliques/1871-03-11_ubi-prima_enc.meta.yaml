@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1871-03-11'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a0d3c498cf5524ef717e71ff5054c3b8161ab198e01e665fa9735e259f9ba507
+    source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-prima-11-martii-1871.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 49452ed9a9f6ad642e6f378a1376ab2d35c7f47f67ccfb97f6a6f4678714bf5a
+  la: a0d3c498cf5524ef717e71ff5054c3b8161ab198e01e665fa9735e259f9ba507

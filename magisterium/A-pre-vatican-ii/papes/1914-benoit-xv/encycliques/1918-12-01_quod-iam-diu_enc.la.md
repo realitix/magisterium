@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html)  - [ES](/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html)
-
 EPISTOLA ENCYCLICA  
 ***QUOD IAM DIU\****  
 SUMMI PONTIFICIS  

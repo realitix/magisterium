@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1898-07-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 07e0dfacef16b7ecf20acb78a6f4e11a423d544ce2e023307663be79cff0b2d5
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25071898_caritatis-studium.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1405004c59165f0bdf4fd16cb5600ae77adf0a25e168dcb2c33811dfd3bfbdb4
+  la: 07e0dfacef16b7ecf20acb78a6f4e11a423d544ce2e023307663be79cff0b2d5

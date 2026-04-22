@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

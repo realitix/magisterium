@@ -1,6 +1,3 @@
-   
-) )   
-
  CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI
 
 ***Intervento del Card. Crescenzio Sepe  

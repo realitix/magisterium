@@ -1,15 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_ccdds_doc_20211022_decreto-can838-cdc_ge.html) - [EN](rc_con_ccdds_doc_20211022_decreto-can838-cdc_en.html) - [ES](rc_con_ccdds_doc_20211022_decreto-can838-cdc_sp.html) - [FR](rc_con_ccdds_doc_20211022_decreto-can838-cdc_fr.html) - [IT](rc_con_ccdds_doc_20211022_decreto-can838-cdc_it.html) - [LA](rc_con_ccdds_doc_20211022_decreto-can838-cdc_la.html)\]
-
- 
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
  

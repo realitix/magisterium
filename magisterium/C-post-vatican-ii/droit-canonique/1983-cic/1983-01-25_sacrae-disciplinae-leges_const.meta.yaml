@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: constitution-apostolique
 date: '1983-01-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 47a08e8fa463894db68ab5c5bcf3d5c51475c9f298baa6db7a79fdfd7c667351
+    source_url: https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e58a2c66b1350d2ef38b460183fee9c6833d4e96518be6131fc62ef8865305b2
+  la: 47a08e8fa463894db68ab5c5bcf3d5c51475c9f298baa6db7a79fdfd7c667351

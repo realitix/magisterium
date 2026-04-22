@@ -1,6 +1,3 @@
-   
-) )   
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
  

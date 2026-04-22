@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2018-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
-- uk
-- vi
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_uk.html
+  site: www.vatican.va
+  langue: uk
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: eda8e35c85dffd7523462401025eed191354adb515fdf21740db62003cadd617
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_en.html
+    fetched_at: '2026-04-22T07:20:02.140774Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 005cd6d8fda5554b28701d1cf2b9801900f2831a8c2ccab40c3da5443317cb1c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_sp.html
+    fetched_at: '2026-04-22T07:20:18.163407Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: d5fb880dcfbb1549cb71c48a5a951b0ad050324657454854e8748b09e00b3b46
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_fr.html
+    fetched_at: '2026-04-22T07:20:34.384624Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: b2e3a46367ad037c2894a9f0243fb9af5322d8e3981635fed23e741037c243dd
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_it.html
+    fetch_method: httpx
+  uk:
+    kind: officielle
+    sha256: 6822f6984d52529e5d911da0b5d6335caeeb5021917ed0ad010d2798d527a32d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180222_placuit-deo_uk.html
+    fetched_at: '2026-04-22T07:20:50.235292Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- uk
 sha256:
-  it: 22ad9690501c43fc663876446d00abaac9458366dd69acb551621938d4877fbc
+  en: eda8e35c85dffd7523462401025eed191354adb515fdf21740db62003cadd617
+  es: 005cd6d8fda5554b28701d1cf2b9801900f2831a8c2ccab40c3da5443317cb1c
+  fr: d5fb880dcfbb1549cb71c48a5a951b0ad050324657454854e8748b09e00b3b46
+  it: b2e3a46367ad037c2894a9f0243fb9af5322d8e3981635fed23e741037c243dd
+  uk: 6822f6984d52529e5d911da0b5d6335caeeb5021917ed0ad010d2798d527a32d

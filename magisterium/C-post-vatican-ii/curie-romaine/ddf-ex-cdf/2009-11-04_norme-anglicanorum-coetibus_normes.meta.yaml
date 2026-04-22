@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: normes
 date: '2009-11-04'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- cs
-- en
-- fr
-- ge
-- it
-- pt
-- sk
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 8e5367aba1a8c4fb47763a3c6dce6039957abd0ef09a18cada9496a9b0484bcc
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 10a94fca4233400349488a69a87342799855281b933059ab2907905091b4e350
+  it: 8e5367aba1a8c4fb47763a3c6dce6039957abd0ef09a18cada9496a9b0484bcc

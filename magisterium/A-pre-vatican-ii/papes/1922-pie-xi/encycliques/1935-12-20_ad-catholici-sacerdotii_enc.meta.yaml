@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1935-12-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a2730a4d0203af67ebb423d42df3b45b4660f429e9d6f59d9849a6e940e160d0
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ae7747cb5170b1e754b83a16230abc694d176d1f18658a27398d33d3488c860c
+  la: a2730a4d0203af67ebb423d42df3b45b4660f429e9d6f59d9849a6e940e160d0

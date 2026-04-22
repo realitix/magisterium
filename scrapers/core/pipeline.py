@@ -7,14 +7,16 @@ from __future__ import annotations
 
 import asyncio
 from dataclasses import dataclass, field
+from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Literal
 
+import yaml
 from selectolax.parser import HTMLParser
 
-from . import dedup, fetcher, markdown, strategy
+from . import dedup, fetcher, markdown, strategy, translations
 from .errors import log_error
-from .meta import DocMeta, Source
+from .meta import DocMeta, Source, Traduction
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 MAGISTERIUM_ROOT = REPO_ROOT / "magisterium"
@@ -47,6 +49,11 @@ class DocRef:
     # where the real body is wrapped in <table>/<td> that pandoc collapses to
     # "[TABLE]").
     unwrap_tags: list[str] = field(default_factory=list)
+    # Provenance de la traduction à écrire dans `traductions[lang]`.
+    # "originale" par défaut ; "officielle" pour les langues découvertes
+    # automatiquement sur le site source ; "ia" réservé aux traductions
+    # produites hors pipeline par le skill translate-corpus.
+    kind: Literal["originale", "officielle", "ia"] = "originale"
 
 
 @dataclass
@@ -172,11 +179,23 @@ async def process_one(
     phase: str,
     refresh: bool = False,
 ) -> tuple[str, str | None]:
-    """Return (status, error). status ∈ {ok, skipped, error}."""
+    """Return (status, error). status ∈ {ok, skipped, error}.
+
+    Idempotence : on saute uniquement si le .md de cette langue précise
+    existe ET qu'une entrée `traductions[lang]` est déjà présente dans le
+    meta.yaml. Un meta.yaml existant sans la langue courante est donc un
+    cas valide (ajout d'une traduction officielle sur un doc déjà scrapé).
+    """
     meta_path = _target_meta(ref)
     md_path = _target_md(ref)
     if not refresh and meta_path.exists() and md_path.exists():
-        return ("skipped", None)
+        try:
+            existing_data = yaml.safe_load(meta_path.read_text(encoding="utf-8")) or {}
+        except Exception:  # noqa: BLE001
+            existing_data = {}
+        existing_trads = (existing_data.get("traductions") or {}) if isinstance(existing_data, dict) else {}
+        if ref.lang in existing_trads:
+            return ("skipped", None)
 
     try:
         result = await fetcher.fetch(ref.url)
@@ -219,37 +238,92 @@ async def process_one(
             content_hash = dedup.sha256_text(body_md)
 
         hints = dict(ref.meta_hints)
-        sources_list = hints.pop("sources", None)
-        source_entry = Source(
-            url=ref.url,
-            site=fetcher._domain(ref.url),
-            langue=ref.lang,
+        domain = fetcher._domain(ref.url)
+        now = datetime.now(timezone.utc)
+        new_trad = Traduction(
+            kind=ref.kind,
+            sha256=content_hash,
+            source_url=ref.url,
+            fetched_at=now,
             fetch_method=result.method,
         )
-        if sources_list:
-            sources_list.append(source_entry.model_dump())
-        else:
-            sources_list = [source_entry.model_dump()]
 
-        meta = DocMeta(
-            incipit=hints.pop("incipit", ref.slug),
-            titre_fr=hints.pop("titre_fr", None),
-            auteur=hints.pop("auteur", "inconnu"),
-            periode=hints.pop("periode", "pre-vatican-ii"),
-            type=hints.pop("type", "document"),
-            date=hints.pop("date", None),
-            autorite_magisterielle=hints.pop("autorite_magisterielle", None),
-            langues_disponibles=hints.pop("langues_disponibles", [ref.lang]),
-            langue_originale=hints.pop("langue_originale", ref.lang),
-            denzinger=hints.pop("denzinger", []),
-            sujets=hints.pop("sujets", []),
-            themes_doctrinaux=hints.pop("themes_doctrinaux", []),
-            references_anterieures=hints.pop("references_anterieures", []),
-            references_posterieures=hints.pop("references_posterieures", []),
-            sources=sources_list,
-            sha256={ref.lang: content_hash},
-        )
+        if meta_path.exists():
+            # Fusion avec l'existant : on n'écrase que les champs qui concernent
+            # la nouvelle langue. Le reste (incipit, auteur, sujets…) reste tel quel.
+            existing = yaml.safe_load(meta_path.read_text(encoding="utf-8")) or {}
+            if not isinstance(existing, dict):
+                existing = {}
+            sources_list = list(existing.get("sources") or [])
+            # Ajouter la source si pas déjà présente pour cette langue
+            if not any(
+                (isinstance(s, dict) and s.get("langue") == ref.lang and s.get("url") == ref.url)
+                for s in sources_list
+            ):
+                sources_list.append({
+                    "url": ref.url, "site": domain,
+                    "langue": ref.lang, "fetch_method": result.method,
+                })
+            existing["sources"] = sources_list
+            existing.setdefault("traductions", {})
+            existing["traductions"][ref.lang] = new_trad.model_dump(
+                mode="json", exclude_none=True,
+            )
+            meta = DocMeta.model_validate(existing)
+        else:
+            sources_list = hints.pop("sources", None) or []
+            sources_list.append({
+                "url": ref.url, "site": domain,
+                "langue": ref.lang, "fetch_method": result.method,
+            })
+            meta = DocMeta(
+                incipit=hints.pop("incipit", ref.slug),
+                titre_fr=hints.pop("titre_fr", None),
+                titre_original=hints.pop("titre_original", None),
+                auteur=hints.pop("auteur", "inconnu"),
+                periode=hints.pop("periode", "pre-vatican-ii"),
+                type=hints.pop("type", "document"),
+                date=hints.pop("date", None),
+                autorite_magisterielle=hints.pop("autorite_magisterielle", None),
+                langue_originale=hints.pop("langue_originale", ref.lang),
+                denzinger=hints.pop("denzinger", []),
+                sujets=hints.pop("sujets", []),
+                themes_doctrinaux=hints.pop("themes_doctrinaux", []),
+                references_anterieures=hints.pop("references_anterieures", []),
+                references_posterieures=hints.pop("references_posterieures", []),
+                sources=sources_list,
+                traductions={ref.lang: new_trad},
+            )
+
+        meta.sync_legacy_fields()
         meta.write(meta_path)
+
+        # Découverte des traductions officielles : uniquement sur les scrapes
+        # d'une originale, et uniquement si on a une page HTML en main.
+        # Les DocRefs découverts héritent de tout sauf de l'URL/lang/kind.
+        if ref.kind == "originale" and "pdf" not in ctype and not ref.url.lower().endswith(".pdf"):
+            try:
+                siblings = translations.discover(result.content, ref.url)
+            except Exception as exc:  # noqa: BLE001
+                siblings = []
+                log_error(
+                    source=domain, url=ref.url, phase=phase,
+                    message=f"discover_translations: {type(exc).__name__}: {exc}",
+                    slug=ref.slug,
+                )
+            for sib_lang, sib_url in siblings:
+                sib_ref = DocRef(
+                    url=sib_url,
+                    target_dir=ref.target_dir,
+                    slug=ref.slug,
+                    lang=sib_lang,
+                    meta_hints={},  # meta.yaml existe déjà, hints non utilisés
+                    body_selector=ref.body_selector,
+                    unwrap_tags=list(ref.unwrap_tags),
+                    kind="officielle",
+                )
+                # Récursion bornée : kind=officielle → pas de redécouverte.
+                await process_one(sib_ref, phase=phase, refresh=refresh)
         return ("ok", None)
     except Exception as e:  # noqa: BLE001
         log_error(

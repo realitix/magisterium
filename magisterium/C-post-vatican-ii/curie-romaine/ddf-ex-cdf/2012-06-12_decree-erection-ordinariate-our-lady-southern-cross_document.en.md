@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Decree of Erection of the Personal Ordinariate  

@@ -1,5 +1,3 @@
-[IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260430_rite-expiatis.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260430_rite-expiatis.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

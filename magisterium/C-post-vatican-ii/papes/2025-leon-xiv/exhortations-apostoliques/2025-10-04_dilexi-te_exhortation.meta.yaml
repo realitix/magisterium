@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: exhortation-apostolique
 date: '2025-10-04'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a6a0e05f8b1d7417193109b9a7b3c56b117f96e889fc678b3d64fc8b8d692f2b
+    source_url: https://www.vatican.va/content/leo-xiv/la/apost_exhortations/documents/20251004-dilexi-te.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 21b4cdf4da9721c24b58ed8e03a05f09d8c8d1669db474f7beaf28d0ece0f8cb
+  la: a6a0e05f8b1d7417193109b9a7b3c56b117f96e889fc678b3d64fc8b8d692f2b

@@ -3,8 +3,6 @@ titre_fr: Critique de la nouvelle liturgie issue de Vatican II
 auteur: Fraternité Saint-Pie X
 periode: fsspx
 type: etude
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 30ec14851053321698bb87a9ff3710ab0601f7b128792b272a1e3447b36c0808
+    source_url: https://laportelatine.org/critique-du-concile-vatican-ii/la-nouvelle-liturgie
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: d0d2e7d5e45d61edd7e0d6ac94a9776b022ec7402065ec5fe5f191b1c96d0295
+  fr: 30ec14851053321698bb87a9ff3710ab0601f7b128792b272a1e3447b36c0808

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1956-11-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 66738d184a6e223e0996bb691d78f8e67a17d30dff22da52be9d8b017fd26801
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01111956_laetamur-admodum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 3372d78510a33d17b3ba5fdc3ee2809fc19f87e4650d9e41709c323e57d0c343
+  la: 66738d184a6e223e0996bb691d78f8e67a17d30dff22da52be9d8b017fd26801

@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-10-07'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 508c88fdba1c0343d88a9e4d8f6010947a594caf04b043847c617e07c42b60cb
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20001007_card-tomko-homily_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 2cfc9cc45200900ca0ae0a2fc8607f2bc99dbd2cc4f63c721295c6d86ca2ad74
+  it: 508c88fdba1c0343d88a9e4d8f6010947a594caf04b043847c617e07c42b60cb

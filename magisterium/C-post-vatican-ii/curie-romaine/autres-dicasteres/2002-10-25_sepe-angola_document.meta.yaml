@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-10-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 7c95a37436b513d440421e6ae54e34cb40a3b250fc8057dfd1c8c73fbef821e8
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20021025_sepe-angola_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 1cf62e213e9bd1a3afa801a91adccb18dec53e45ddd40661d80a3fe9c6288ea8
+  it: 7c95a37436b513d440421e6ae54e34cb40a3b250fc8057dfd1c8c73fbef821e8

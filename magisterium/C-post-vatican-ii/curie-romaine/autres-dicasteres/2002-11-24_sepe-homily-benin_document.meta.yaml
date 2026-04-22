@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-11-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 8c9c8ec5d56e17975a7fcb2202595f5e112a13a049dcb1a9aab106972bbbd65e
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20021124_sepe-homily-benin_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: add1de590f729f8f8debcd2df705f90caab36f398e864277385b836d7412a488
+  it: 8c9c8ec5d56e17975a7fcb2202595f5e112a13a049dcb1a9aab106972bbbd65e

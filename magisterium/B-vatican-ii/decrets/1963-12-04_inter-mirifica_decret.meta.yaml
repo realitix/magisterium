@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1963-12-04'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: d82e3d0a845190c791d90455d62d43f487bec073108d274700e5ed0898c6cdd3
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_cs.html
+    fetched_at: '2026-04-22T06:46:02.091409Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: d8e3ee1cac48957835c0e7240e3ba8d95ea93508ef52d1812bd0c32b529a6174
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_en.html
+    fetched_at: '2026-04-22T06:46:18.450815Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 89ecde179f75aaa2726602e3d9dbc3673b4ddfd3bb4af52aa73cdab4cf404a54
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_sp.html
+    fetched_at: '2026-04-22T06:46:34.270330Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 5b65f32f7d9138cd08232d53c3a62c6e2d28ac0810333d5e497289bce7610b8b
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_fr.html
+    fetched_at: '2026-04-22T06:46:50.297877Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 9698c9d40d55ed63c2c1c63733976a9d1f3741a7e0495abe36ddf2e6bcabf1fe
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_hu.html
+    fetched_at: '2026-04-22T06:47:06.346517Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: b7f1e7a9ef4c9f30b12e15951859defd3dbf8eff07706831de58924af3fb68f6
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_it.html
+    fetched_at: '2026-04-22T06:47:22.281854Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: f4ed3595bdd46afbd3bf59684f1e4f57d1137251e71161746e0a37068e8e5b95
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 06f3a6ad9982fc2b5e9b45dc1cad1f6a78bd7e0b159eb66ad8d667908920c352
+  cs: d82e3d0a845190c791d90455d62d43f487bec073108d274700e5ed0898c6cdd3
+  en: d8e3ee1cac48957835c0e7240e3ba8d95ea93508ef52d1812bd0c32b529a6174
+  es: 89ecde179f75aaa2726602e3d9dbc3673b4ddfd3bb4af52aa73cdab4cf404a54
+  fr: 5b65f32f7d9138cd08232d53c3a62c6e2d28ac0810333d5e497289bce7610b8b
+  hu: 9698c9d40d55ed63c2c1c63733976a9d1f3741a7e0495abe36ddf2e6bcabf1fe
+  it: b7f1e7a9ef4c9f30b12e15951859defd3dbf8eff07706831de58924af3fb68f6
+  la: f4ed3595bdd46afbd3bf59684f1e4f57d1137251e71161746e0a37068e8e5b95

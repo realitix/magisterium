@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19471218_optatissima-pax.html)
-
 PIUS PP. XII
 
 EPISTULA ENCYCLICA

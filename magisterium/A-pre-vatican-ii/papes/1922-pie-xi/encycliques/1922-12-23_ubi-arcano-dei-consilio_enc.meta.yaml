@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1922-12-23'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 37e96ca7e66aff155980dd5b55cbf7920625fd3801ed35e347838efe5275300d
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d55b66039317e803f8f28b9ca9fddc53d28d5520a250a4136a4d057bdfc871ab
+  la: 37e96ca7e66aff155980dd5b55cbf7920625fd3801ed35e347838efe5275300d

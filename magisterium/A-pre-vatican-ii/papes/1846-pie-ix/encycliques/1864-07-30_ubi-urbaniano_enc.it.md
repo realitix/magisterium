@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-ubi-urbaniano-30-luglio-1864.html)
-
 ENCICLICA  
 ***URBI URBANIANO***  
 DEL SOMMO PONTEFICE  

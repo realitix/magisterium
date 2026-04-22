@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-11-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 6f327e1be17c354ecde810ed7ff1a2c136be365f345103d50b89a32fef5874fe
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20031109_ivan-merz_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 671929b78200c43f23b50684c5eb06032d92de83318620d57c7baa5bfa2cfde7
+  it: 6f327e1be17c354ecde810ed7ff1a2c136be365f345103d50b89a32fef5874fe

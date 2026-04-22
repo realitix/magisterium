@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2016-05-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- sl
-- sp
-- uk
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sl.html
+  site: www.vatican.va
+  langue: sl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 16d356a1914f12de2bca87d92d43a2c553e053b24b389e32a2fad672a0376415
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_en.html
+    fetched_at: '2026-04-22T07:19:54.064590Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 3c0f046c15ec30b178b03977f2627d8b5f396b3ca3ec1451677bfab5a0943b4e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sp.html
+    fetched_at: '2026-04-22T07:20:10.298336Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 68ae6cc947fe680adf529e447571b2b30eaf1a7b6e212cd4418010f04075652a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_fr.html
+    fetched_at: '2026-04-22T07:20:26.150754Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 7f1ed347ffd67f43dbd1d9f2de0ea5c06395a40653c221cad209a6aa8af48a56
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_it.html
+    fetch_method: httpx
+  sl:
+    kind: officielle
+    sha256: 8d3e8a34a541e28582fd334ddfd474b756b3fdfd3ca338e5fde6dca5446151be
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sl.html
+    fetched_at: '2026-04-22T07:20:42.354462Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- sl
 sha256:
-  it: 031fa7a353c7bcf241c21d699c5d135163b38c678356ab721fa0c3deda6b66d0
+  en: 16d356a1914f12de2bca87d92d43a2c553e053b24b389e32a2fad672a0376415
+  es: 3c0f046c15ec30b178b03977f2627d8b5f396b3ca3ec1451677bfab5a0943b4e
+  fr: 68ae6cc947fe680adf529e447571b2b30eaf1a7b6e212cd4418010f04075652a
+  it: 7f1ed347ffd67f43dbd1d9f2de0ea5c06395a40653c221cad209a6aa8af48a56
+  sl: 8d3e8a34a541e28582fd334ddfd474b756b3fdfd3ca338e5fde6dca5446151be

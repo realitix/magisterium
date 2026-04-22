@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '2020-10-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 52947e16d52122d796ed3cd47ed356e88d935b0a6041fff5801d8b31f96815b5
+    source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 491cb77daaf1e7e82c3b53b26e21ad406fdb940fcd4ac7834f8deef4bdcf3341
+  la: 52947e16d52122d796ed3cd47ed356e88d935b0a6041fff5801d8b31f96815b5

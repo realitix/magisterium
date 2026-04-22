@@ -6,8 +6,6 @@ periode: post-vatican-ii
 type: motu-proprio
 date: '2021-07-16'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b9dd1ab0037142d23584671c067471738515ca27b6e50dba537966c0f224ac6c
+    source_url: https://www.vatican.va/content/francesco/la/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 16d1502169f6ed3c10c1820ab802438bd497d5eeb8f0c61de8698e6c078124bc
+  la: b9dd1ab0037142d23584671c067471738515ca27b6e50dba537966c0f224ac6c

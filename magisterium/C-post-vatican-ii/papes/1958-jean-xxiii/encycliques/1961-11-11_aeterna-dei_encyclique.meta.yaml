@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1961-11-11'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 31b98d67f2309472d0c07e444cef922d81d40e3688c01ddbc10b9918630ff47d
+    source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 94880f93d33621ec19f07fded92f6c0443d0c60d324e34f6ddbd7ef0b54e14b0
+  la: 31b98d67f2309472d0c07e444cef922d81d40e3688c01ddbc10b9918630ff47d

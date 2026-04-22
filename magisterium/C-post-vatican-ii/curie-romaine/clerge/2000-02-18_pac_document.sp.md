@@ -1,6 +1,3 @@
-   
-) )  
-
 Palabras de Acogida
 
 pronunciada por S. Em. Cardenal Darío Castrillón Hoyos, Prefecto

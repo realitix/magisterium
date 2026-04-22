@@ -1,5 +1,3 @@
-[DE](/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [EN](/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [ES](/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [FR](/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [HU](/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [IT](/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [LA](/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [PL](/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [PT](/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)  - [ZH](/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)
-
 **IOANNIS PAULI PP. II**  
 SUMMI PONTIFICIS  
 ***CENTESIMUS ANNUS***  

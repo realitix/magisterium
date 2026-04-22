@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2005-11-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 33032b5520eb2c91ad5263821e96f30ef6e73e9ea26f3c901ed7617524ad90a5
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20051129_homily-sepe_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: eff77ee32f622394b625fbcca2aa5926694e3029951bab4f72fb491e3ebb0f25
+  it: 33032b5520eb2c91ad5263821e96f30ef6e73e9ea26f3c901ed7617524ad90a5

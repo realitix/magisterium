@@ -1,6 +1,3 @@
-   
-) )  
-
 HOMÉLIE
 
 de S.Em. le Cardinal Darío Castrillón Hoyos, Préfet

@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2025-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250222_comunicato-scritti-valtorta_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250222_comunicato-scritti-valtorta_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250222_comunicato-scritti-valtorta_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 0a994ec46c887ed1c4a71ddc658dddf15508f6d951641abbc5cc790ea1e1398f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250222_comunicato-scritti-valtorta_en.html
+    fetched_at: '2026-04-22T07:26:20.426207Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: a6cc79f71fa23536a2b7c1f9ed5bcf07bbe4169eaec49bac3ad3ba56083e06b3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250222_comunicato-scritti-valtorta_sp.html
+    fetched_at: '2026-04-22T07:26:36.334165Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: f8186e55d7fcd3bb2baccb55fdb252b3daecb4bbdc500af802142f36f315462e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250222_comunicato-scritti-valtorta_fr.html
+    fetched_at: '2026-04-22T07:26:52.350067Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: cb1f14d4430e7aafa3947c2f359c863ff8101745371c0425dc80789bee6d787c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250222_comunicato-scritti-valtorta_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 53c1d3f9874a1c14f099621e07984516c55d99c0760f2dc5ed219e5e1bef0c04
+  en: 0a994ec46c887ed1c4a71ddc658dddf15508f6d951641abbc5cc790ea1e1398f
+  es: a6cc79f71fa23536a2b7c1f9ed5bcf07bbe4169eaec49bac3ad3ba56083e06b3
+  fr: f8186e55d7fcd3bb2baccb55fdb252b3daecb4bbdc500af802142f36f315462e
+  it: cb1f14d4430e7aafa3947c2f359c863ff8101745371c0425dc80789bee6d787c

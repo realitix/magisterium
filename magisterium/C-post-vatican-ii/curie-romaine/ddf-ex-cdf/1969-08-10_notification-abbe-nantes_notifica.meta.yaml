@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: notification
 date: '1969-08-10'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 73880e7305cd5f859412b16c72afa42ab9bdcd95403b191fc02d297c7be0d8db
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19690810_notification-abbe-nantes_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: c86bf0d9f9eddf068b1c78bf620e2a68fb00239e7d8586a7ab1fad3aadf9394d
+  fr: 73880e7305cd5f859412b16c72afa42ab9bdcd95403b191fc02d297c7be0d8db

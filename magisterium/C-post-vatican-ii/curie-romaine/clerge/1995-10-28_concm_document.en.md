@@ -1,4 +1,3 @@
-   
 ) )   This text was unanimously approved
 
 by all the participants in the Symposium,

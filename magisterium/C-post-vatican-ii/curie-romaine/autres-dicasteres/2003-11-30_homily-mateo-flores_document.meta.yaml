@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-11-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 5f854413e8fa387bd017e8a79e2eb2e19cd5c2132e3ec5a3fc0e44c85237f78e
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20031130_homily-mateo-flores_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e37ccc0dea94374aaf27046207cd80cf4dcd9caf3d1a96502f326eeacd7de7eb
+  it: 5f854413e8fa387bd017e8a79e2eb2e19cd5c2132e3ec5a3fc0e44c85237f78e

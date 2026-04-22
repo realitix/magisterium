@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: catechisme
 date: '1885-04-06'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
 langue_originale: en
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.gutenberg.org
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: b068b962e026d3e97033cd2e2c82d033c49cffc776914713d55a02ca2cf5509b
+    source_url: https://www.gutenberg.org/cache/epub/14552/pg14552-images.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 54fc95a7e30c23d2a17241b6502f4d6fcc91c243d5e101cc148547ef76b7a4ed
+  en: b068b962e026d3e97033cd2e2c82d033c49cffc776914713d55a02ca2cf5509b

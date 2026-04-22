@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-11-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 7ddb74ef3e4bd37b4aabee5aefd5b81e0edeb303ffa9ec1af56d207b3c7baa5b
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20031126_cam_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: cb9dcce0ca530dd33ac1c50500e2d1c309487df4fdfbcf41748a6d8b87764c57
+  it: 7ddb74ef3e4bd37b4aabee5aefd5b81e0edeb303ffa9ec1af56d207b3c7baa5b

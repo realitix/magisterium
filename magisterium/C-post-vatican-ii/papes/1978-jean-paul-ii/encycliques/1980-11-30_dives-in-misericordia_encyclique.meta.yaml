@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1980-11-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 7880cf8235ca63c58596f4c34c2f01d6ec7c59b0f48d465fde4096f1b32119e1
+    source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 8decc715f8f5e872fea7ca09bb9f181a513b42db58ae00cf7b1f1a4dc980a367
+  la: 7880cf8235ca63c58596f4c34c2f01d6ec7c59b0f48d465fde4096f1b32119e1

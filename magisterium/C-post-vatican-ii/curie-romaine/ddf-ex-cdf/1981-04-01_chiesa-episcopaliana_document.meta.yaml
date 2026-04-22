@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1981-04-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 2c6bb45da41c5afc069a09bd8c0f0f61bc289bb1c50ebddeace33d65d2bfbb20
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810401_chiesa-episcopaliana_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: aa912904a8b68719c78f1ad806fa5b3967bf4475769a2671ddd6fbbe1d2f70c8
+  it: 2c6bb45da41c5afc069a09bd8c0f0f61bc289bb1c50ebddeace33d65d2bfbb20

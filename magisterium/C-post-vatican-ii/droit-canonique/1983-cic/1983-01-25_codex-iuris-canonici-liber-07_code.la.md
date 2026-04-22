@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 [CODEX IURIS CANONICI](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_la.html)
 
  

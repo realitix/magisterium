@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1906-02-11'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 483fe47e59fef3044fdc8a21d7140ec54690e5f28cb0c03cad084aec8f6ba74b
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 634f560c7013a49e291a586347863c26acd393f69dce0a5efbdeb4bb795ffe2c
+  la: 483fe47e59fef3044fdc8a21d7140ec54690e5f28cb0c03cad084aec8f6ba74b

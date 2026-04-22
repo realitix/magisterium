@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1928-01-06'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ab45bbf822cb4f2d79ccd6a47b54449d1b7ebe539886576571f6144eaf72c10e
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 7b28dd6141d65b49c045cc44a2ddb14ff9ca4b2d660670765c87cb76b5ca8cf6
+  la: ab45bbf822cb4f2d79ccd6a47b54449d1b7ebe539886576571f6144eaf72c10e

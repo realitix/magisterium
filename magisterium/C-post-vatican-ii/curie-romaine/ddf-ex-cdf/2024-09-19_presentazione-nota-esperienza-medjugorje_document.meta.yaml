@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-09-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 07cdafe0e51ab497e065114043d65f72bc7e88fbb4b9af1211d2f930e0c757d1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_presentazione-nota-esperienza-medjugorje_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 24f8368c77b8cafdbdbc37dcfd6cf1d7a1fa47e8e46bb829b12c91a64db37985
+  it: 07cdafe0e51ab497e065114043d65f72bc7e88fbb4b9af1211d2f930e0c757d1

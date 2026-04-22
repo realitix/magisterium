@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1912-09-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: fbb856cc5f840b84ca12b23a87020155cffcb0d60f1a00f6b331e3533a7c3d50
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ae9fc4852cbb0cb4671d7542dff3c62db8b67d1c08217cc12f900c648dd6bae4
+  la: fbb856cc5f840b84ca12b23a87020155cffcb0d60f1a00f6b331e3533a7c3d50

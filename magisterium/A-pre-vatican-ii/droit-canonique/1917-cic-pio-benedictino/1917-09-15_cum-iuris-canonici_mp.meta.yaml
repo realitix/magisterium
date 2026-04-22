@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: motu-proprio
 date: '1917-09-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: bc60d93973e8be663c48f558121a080e52f7ddeebc4692a2dfb5ee100685c316
+    source_url: https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19170915_cum-iuris-canonici.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 721ab8133c595f37908176cba9f806a010aa5e99bba8371797588ac62798751e
+  la: bc60d93973e8be663c48f558121a080e52f7ddeebc4692a2dfb5ee100685c316

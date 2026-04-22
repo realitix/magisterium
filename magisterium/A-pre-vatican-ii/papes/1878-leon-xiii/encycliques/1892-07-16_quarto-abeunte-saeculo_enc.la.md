@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_16071892_quarto-abeunte-saeculo.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_16071892_quarto-abeunte-saeculo.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_16071892_quarto-abeunte-saeculo.html)
-
 EPISTOLA
 
 ***QUARTO ABEUNTE SAECULO\****

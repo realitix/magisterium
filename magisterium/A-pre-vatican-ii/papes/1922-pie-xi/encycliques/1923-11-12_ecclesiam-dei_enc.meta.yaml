@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1923-11-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 59e754b476f7e6d50df731ce7daf4321315cd68704f2c7c55905e33fe2019fef
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 05c866331e66c7b58c417a169b2ae1247de62e2843f70d05bde3b8144a0b415e
+  la: 59e754b476f7e6d50df731ce7daf4321315cd68704f2c7c55905e33fe2019fef

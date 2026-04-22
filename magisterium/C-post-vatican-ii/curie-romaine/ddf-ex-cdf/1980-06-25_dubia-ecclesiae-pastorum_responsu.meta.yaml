@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '1980-06-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0227b9de39832d82537b03053d2bceaf1dac2f80f64dd8191994aa7a9c1b8bea
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19800625_dubia-ecclesiae-pastorum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: aaf75d4a6ff1bc802a76fa5ad41419e940fc606296b84bebb6b4088126368fe4
+  la: 0227b9de39832d82537b03053d2bceaf1dac2f80f64dd8191994aa7a9c1b8bea

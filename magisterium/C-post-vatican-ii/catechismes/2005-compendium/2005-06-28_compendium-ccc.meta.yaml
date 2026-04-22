@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: catechisme
 date: '2005-06-28'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,85 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_ro.html
+  site: www.vatican.va
+  langue: ro
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_sl.html
+  site: www.vatican.va
+  langue: sl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 2bf9c7afede546e65e0d6de138ac98e45088df5542d4a696ae5feb6c9ad252e1
+    source_url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html
+    fetched_at: '2026-04-22T07:05:51.725593Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 05f8b410943b734b1a1aa0b07159949457f4605e9ff8791735490bb0eb8f76e9
+    source_url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_sp.html
+    fetched_at: '2026-04-22T07:06:07.871206Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 44639b12e60d38abe931ac53d79757439ca6226865dd509383fa17e141fd913a
+    source_url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_fr.html
+    fetched_at: '2026-04-22T07:06:23.710787Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: cc4ba1540432bedbada9d9ff2e3643b73e4f9c33abb107d496ced8e5e3f7f26d
+    source_url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_hu.html
+    fetched_at: '2026-04-22T07:06:39.513579Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 289ccaeafd34d77446e24fae8f9488491e57f6d01b09a434cd3b6d27bb8d1c7b
+    source_url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_it.html
+    fetch_method: httpx
+  ro:
+    kind: officielle
+    sha256: fbe6e76cc2298238b89d14431ee78e0706aae67d985efdde4e8bd70818ce855c
+    source_url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_ro.html
+    fetched_at: '2026-04-22T07:06:55.649546Z'
+    fetch_method: httpx
+  sl:
+    kind: officielle
+    sha256: 9597cfd37453ed3460efcd9506575892c5da1cf332b96033f3e8e63d471cb463
+    source_url: https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_sl.html
+    fetched_at: '2026-04-22T07:07:11.632103Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- hu
+- it
+- ro
+- sl
 sha256:
-  it: f1487ad5fb235e3cc8d363148b59c907fabb3ab841b96a0dce0a3e2831630605
+  en: 2bf9c7afede546e65e0d6de138ac98e45088df5542d4a696ae5feb6c9ad252e1
+  es: 05f8b410943b734b1a1aa0b07159949457f4605e9ff8791735490bb0eb8f76e9
+  fr: 44639b12e60d38abe931ac53d79757439ca6226865dd509383fa17e141fd913a
+  hu: cc4ba1540432bedbada9d9ff2e3643b73e4f9c33abb107d496ced8e5e3f7f26d
+  it: 289ccaeafd34d77446e24fae8f9488491e57f6d01b09a434cd3b6d27bb8d1c7b
+  ro: fbe6e76cc2298238b89d14431ee78e0706aae67d985efdde4e8bd70818ce855c
+  sl: 9597cfd37453ed3460efcd9506575892c5da1cf332b96033f3e8e63d471cb463

@@ -1,6 +1,3 @@
-   
-) )  
-
 Congrégation pour le clergé
 
 SYMPOSIUM INTERNATIONAL  

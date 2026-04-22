@@ -1,5 +1,3 @@
-[DE](/content/pius-xii/de/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html)  - [EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html)  - [FR](/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

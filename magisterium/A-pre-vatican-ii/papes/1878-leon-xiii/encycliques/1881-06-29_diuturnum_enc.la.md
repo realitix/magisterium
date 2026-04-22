@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_29061881_diuturnum.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_29061881_diuturnum.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_29061881_diuturnum.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_29061881_diuturnum.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_29061881_diuturnum.html)
-
 SANCTISSIMI DOMINI NOSTRI LEONIS
 
 DIVINA PROVIDENTIA

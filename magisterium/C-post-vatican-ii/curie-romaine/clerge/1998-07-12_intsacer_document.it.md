@@ -1,6 +1,3 @@
-   
-) )  
-
 3° Incontro Internazionale dei Sacerdoti
 
 in preparazione al Grande Giubileo del Duemila

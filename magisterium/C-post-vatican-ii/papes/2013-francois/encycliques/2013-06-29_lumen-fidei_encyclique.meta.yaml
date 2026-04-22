@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '2013-06-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: d5b205e5d7be58b16e1f4a3c1b2ef8e99382d0ef46c7ee7d3dd8df4c819755f3
+    source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 0e94d1b0cf5df269b2a2c0ce3af80527878bfb81ceb6de32a82801f8d78db18a
+  la: d5b205e5d7be58b16e1f4a3c1b2ef8e99382d0ef46c7ee7d3dd8df4c819755f3

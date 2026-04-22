@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1972-06-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: de7f91681f7f87917e6a42337b6d90d4c878b6e35991136b7208494989997df8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c6ed74861e30c6f865dabc24cb4f133c038618a3c49e55e81343d07c0cde0635
+  la: de7f91681f7f87917e6a42337b6d90d4c878b6e35991136b7208494989997df8

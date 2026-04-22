@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '0381-05-01'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 444f19a2386aaf1014e15f5fda8dc87353ee61347263d0585037a19930bf7c31
+    source_url: https://www.papalencyclicals.net/councils/ecum02.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: a62d4ec0b77d4d5f4def36a28eb5c02cec26663b3a6a88f21085190ff3dd44c2
+  en: 444f19a2386aaf1014e15f5fda8dc87353ee61347263d0585037a19930bf7c31

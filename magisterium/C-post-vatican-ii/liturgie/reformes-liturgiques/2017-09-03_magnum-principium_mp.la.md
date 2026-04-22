@@ -1,5 +1,3 @@
-[DE](/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)  - [EN](/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)  - [ES](/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)  - [IT](/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)  - [LA](/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)  - [PT](/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html)
-
 **LITTERAE APOSTOLICAE MOTU PROPRIO DATAE**
 
 ***MAGNUM PRINCIPIUM***

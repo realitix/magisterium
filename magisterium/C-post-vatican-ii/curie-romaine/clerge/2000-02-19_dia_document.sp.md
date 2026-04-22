@@ -1,8 +1,3 @@
-   
-) )  
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 EL DIÁCONO PERMANENTE: IDENTIDAD, FUNCIÓN Y PROSPECTIVAS
 
 Preparado y presentado por

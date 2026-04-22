@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1972-05-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 82ce63cf63310a2ff6ddbd6f7941db0f74493cba8b589a8d2478e1d320b16cb5
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720502_de-fragmentis-eucharisticis_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 47edaffb59c6b1135ad251dc3c313b26a6d47c04a8fce8465ca76b2d91f93f0a
+  la: 82ce63cf63310a2ff6ddbd6f7941db0f74493cba8b589a8d2478e1d320b16cb5

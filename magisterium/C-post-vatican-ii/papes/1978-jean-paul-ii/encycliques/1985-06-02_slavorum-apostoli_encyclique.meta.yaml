@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1985-06-02'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 78bb6e7bb1bfd3506ebc173792f899ba9ea7ec6a169aa56d027ad97231a6e167
+    source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 10e3d578d5b46003c2fd9b33f807af94fe5c551b1cf15d4768f3238299a80cf1
+  la: 78bb6e7bb1bfd3506ebc173792f899ba9ea7ec6a169aa56d027ad97231a6e167

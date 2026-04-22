@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2020-05-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 28e5c3be3c8c9ab2ec990d663b0b8fda7dabe86193ff6bf257a84359f9ff5d3a
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina-adnexus_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 8f85ffe7d77d26789087db071d701f066a5f1fe42bb25c82727078b0417451ab
+  la: 28e5c3be3c8c9ab2ec990d663b0b8fda7dabe86193ff6bf257a84359f9ff5d3a

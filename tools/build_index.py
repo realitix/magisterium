@@ -53,6 +53,17 @@ def build_index() -> int:
         # slug: filename stem before ".meta"
         slug = meta_path.name.removesuffix(".meta.yaml")
 
+        traductions = data.get("traductions") or {}
+        # Liste compacte [{lang, kind}] pour le site : évite de re-parser
+        # chaque meta.yaml juste pour connaître les langues dispos.
+        traductions_summary = sorted(
+            (
+                {"lang": lang, "kind": (t or {}).get("kind", "originale")}
+                for lang, t in traductions.items()
+            ),
+            key=lambda e: e["lang"],
+        )
+
         entry = {
             "path": rel,
             "slug": slug,
@@ -66,6 +77,7 @@ def build_index() -> int:
             "sha256": _pick_sha(data.get("sha256") or {}, data.get("langue_originale")),
             "sujets": data.get("sujets") or [],
             "themes_doctrinaux": data.get("themes_doctrinaux") or [],
+            "traductions": traductions_summary,
         }
         entries.append(entry)
 

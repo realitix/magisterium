@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-ubi-primum-2-febbraio-1849.html)
-
 ENCICLICA  
 ***UBI PRIMUM***  
 DEL SOMMO PONTEFICE  

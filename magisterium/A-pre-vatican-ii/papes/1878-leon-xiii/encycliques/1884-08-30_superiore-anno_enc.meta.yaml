@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1884-08-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 2d9f1c5b3bd2f2f1d6d74b303ea7826309a31c35109c2ae818956cca85211915
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: f24bea4ad3242034074d332e457565282eaf0d487074325b0e9b479a921be442
+  la: 2d9f1c5b3bd2f2f1d6d74b303ea7826309a31c35109c2ae818956cca85211915

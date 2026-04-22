@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1973-03-23'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 2497db47a026b516c05d602523e441e64bcafaf7b22e46013e746240310dd20c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 4b6de6a68d68122d41d29a1d9718073b87bee846b1825b940c2eb81a6f268757
+  la: 2497db47a026b516c05d602523e441e64bcafaf7b22e46013e746240310dd20c

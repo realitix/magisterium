@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1981-09-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 496c8bdde96c5b80e9f54a9f75acf98f2f1ea276dc84770e84013400589a629d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810922_indulti_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8d72a80e7710a0f5eda9be376b89c9dfca37c4483cffa9d5f36b41042402aaf8
+  it: 496c8bdde96c5b80e9f54a9f75acf98f2f1ea276dc84770e84013400589a629d

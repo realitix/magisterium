@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2004-04-23'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 52a1332d9dcc94102c89fbfb7f47e812241a4f58030cc8535e306f4cf44d4fbc
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 0bb2725cbeda3d9ce61223d7e1239fb029a9c0c1fa8168409d9014e872d7bfd8
+  la: 52a1332d9dcc94102c89fbfb7f47e812241a4f58030cc8535e306f4cf44d4fbc

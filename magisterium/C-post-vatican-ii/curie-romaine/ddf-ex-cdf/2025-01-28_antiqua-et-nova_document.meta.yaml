@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2025-01-28'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: c8a89aa1539f0faa3f4cff248864ffcacaeac7c1b3532d45ca13238ea64528f3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html
+    fetched_at: '2026-04-22T07:26:16.857630Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 7dee1dce5b5eeff55de3b7b750b51f62d0a74ebf320a6c47b1c14f6a619c094c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_sp.html
+    fetched_at: '2026-04-22T07:26:32.888055Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 58d5e19183aea63acd8d550c138c8c420cc3b01b562c0301e1b23ac0e7103a96
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_fr.html
+    fetched_at: '2026-04-22T07:26:48.962504Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 818add1a67df5b6a7b3e8b9296d954a2dddfe4d078c5ff83dd4a92f4feb66336
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 25882691d17d6777b89771d8c4daf8c0d4c6341c894f3f00339427327f364539
+  en: c8a89aa1539f0faa3f4cff248864ffcacaeac7c1b3532d45ca13238ea64528f3
+  es: 7dee1dce5b5eeff55de3b7b750b51f62d0a74ebf320a6c47b1c14f6a619c094c
+  fr: 58d5e19183aea63acd8d550c138c8c420cc3b01b562c0301e1b23ac0e7103a96
+  it: 818add1a67df5b6a7b3e8b9296d954a2dddfe4d078c5ff83dd4a92f4feb66336

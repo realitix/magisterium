@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI
 
@@ -13,7 +5,6 @@ E LA DISCIPLINA DEI SACRAMENTI
 
  
 
-© Copyright 2015 – Libreria Editrice Vaticana
 
  
 

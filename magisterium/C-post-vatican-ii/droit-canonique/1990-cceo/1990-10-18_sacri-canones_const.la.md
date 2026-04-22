@@ -1,5 +1,3 @@
-[LA](/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_sacri-canones.html)
-
 IOANNES PAULUS EPISCOPUS  
 SERVUS SERVORUM DEI  
 AD PERPETUAM REI MEMORIAM

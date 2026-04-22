@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-inter-multiplices-21-marzo-1853.html)
-
 ENCICLICA  
 ***INTER MULTIPLICES***  
 DEL SOMMO PONTEFICE  

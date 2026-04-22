@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1976-09-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ab9b86053a7eaeaae10a71c90bb808b51aa6834bb3645dd93cb326db9fdf5a50
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a9eaab58dc4e588ee5bea2ba7f28e1579dad8ee0a73f9a8181a4c5f177c33777
+  la: ab9b86053a7eaeaae10a71c90bb808b51aa6834bb3645dd93cb326db9fdf5a50

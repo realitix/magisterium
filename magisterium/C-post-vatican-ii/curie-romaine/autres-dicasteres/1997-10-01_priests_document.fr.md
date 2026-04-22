@@ -1,8 +1,3 @@
-   
-) )  
-
-  
-
 CONGRÉGATION POUR L'ÉVANGÉLISATION DES PEUPLES
 
  

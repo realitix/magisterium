@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-02-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hr
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 14444cf172885d405f038ece1861a0d143337dba6b5d57f0170d6dfcd1c0bb68
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_en.html
+    fetched_at: '2026-04-22T07:23:54.444462Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: b58222b5ad63b542885f968dc2e27d91e8c07d99a20ccd89205b60bd3fc92ec5
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_sp.html
+    fetched_at: '2026-04-22T07:24:10.485923Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 8e18345d0c75dacac3763775d13ec7064ba7876f50bf54fb488a2d66c100ad41
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_fr.html
+    fetched_at: '2026-04-22T07:24:26.514895Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 7b1f0e526195f7ea57141eb62135ac4da77b99113512fd33805862ca58fdeb3d
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_hr.html
+    fetched_at: '2026-04-22T07:24:42.517588Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 74fcaf64fe62f4366e02f048cc01fb24629849a7c8261d0fcfe352b281555f6f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 194ea9426cfcc700c98403ca24ef630e24f323cb5e85bca772b4b205eab6d8ff
+    source_url: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_pl.html
+    fetched_at: '2026-04-22T07:24:58.514931Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- hr
+- it
+- pl
 sha256:
-  it: c3cebc138b9ee533cd564435ec3b5b3d564191a1a9010b7fb65b1619e6f7a2e5
+  en: 14444cf172885d405f038ece1861a0d143337dba6b5d57f0170d6dfcd1c0bb68
+  es: b58222b5ad63b542885f968dc2e27d91e8c07d99a20ccd89205b60bd3fc92ec5
+  fr: 8e18345d0c75dacac3763775d13ec7064ba7876f50bf54fb488a2d66c100ad41
+  hr: 7b1f0e526195f7ea57141eb62135ac4da77b99113512fd33805862ca58fdeb3d
+  it: 74fcaf64fe62f4366e02f048cc01fb24629849a7c8261d0fcfe352b281555f6f
+  pl: 194ea9426cfcc700c98403ca24ef630e24f323cb5e85bca772b4b205eab6d8ff

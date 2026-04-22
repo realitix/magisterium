@@ -1,6 +1,3 @@
-   
-) )  
-
 Introductory address and Closing words
 
 given by His Excellency Archbishop Csaba Ternyák

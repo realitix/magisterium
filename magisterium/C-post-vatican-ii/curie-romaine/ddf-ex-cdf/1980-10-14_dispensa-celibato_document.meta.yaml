@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1980-10-14'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4f319745f17489d50aa40d7516712411cb270ef2a3e2bf4cea8d966622f7ebc0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensa-celibato_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a4a1453570874d6ebeafb0050627e282edd2c6025d0bac68f7a6d158e8410447
+  la: 4f319745f17489d50aa40d7516712411cb270ef2a3e2bf4cea8d966622f7ebc0

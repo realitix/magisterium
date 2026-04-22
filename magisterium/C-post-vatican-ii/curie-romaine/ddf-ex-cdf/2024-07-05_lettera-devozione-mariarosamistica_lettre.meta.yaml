@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2024-07-05'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 750f676455eb247d3b306fbea95053798d9efcbd9e1f9cf8ca6c249faab3bd94
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_en.html
+    fetched_at: '2026-04-22T07:24:54.418534Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 64d2dfd26338cf21fb5811366fc66a12ac04c78ff4ef9777089ed656322d91c0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_sp.html
+    fetched_at: '2026-04-22T07:25:10.426468Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 514adc1644d2194d562f87666d4814b07ce6fc59711b877de728ea2cd5c31534
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_fr.html
+    fetched_at: '2026-04-22T07:25:26.442982Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 2bcee99fd6c7324c69f69ec54f6a214be1a26f8155e8b1c130d03f8da110b9b6
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 5ad81589e7dd7fa4d7c628fa638bb8d61fd4ec01beb5eb95f7fe6ccb4d12c228
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_pl.html
+    fetched_at: '2026-04-22T07:25:42.460518Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
 sha256:
-  it: 4323c9d0e08a2a9cf54986c5e8974302af972076f65674f734ac263f6f577fb0
+  en: 750f676455eb247d3b306fbea95053798d9efcbd9e1f9cf8ca6c249faab3bd94
+  es: 64d2dfd26338cf21fb5811366fc66a12ac04c78ff4ef9777089ed656322d91c0
+  fr: 514adc1644d2194d562f87666d4814b07ce6fc59711b877de728ea2cd5c31534
+  it: 2bcee99fd6c7324c69f69ec54f6a214be1a26f8155e8b1c130d03f8da110b9b6
+  pl: 5ad81589e7dd7fa4d7c628fa638bb8d61fd4ec01beb5eb95f7fe6ccb4d12c228

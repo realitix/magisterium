@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1910-05-26'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 1c7c1ebed0283050435b0c5f6ee1b6e7a71768fef9d37ae7cf503ece700658fe
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 66f81638ddbd3262a8069c5ca9b6ed1a02d361fa2466b864d8771482b541ab04
+  la: 1c7c1ebed0283050435b0c5f6ee1b6e7a71768fef9d37ae7cf503ece700658fe

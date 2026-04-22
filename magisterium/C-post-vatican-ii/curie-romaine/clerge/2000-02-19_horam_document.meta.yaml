@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- sp
 langue_originale: en
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: eacb29a4aba139e7cd157fa48a6c4e233e2dc1735ca73799b24b72b64076d24f
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19022000_horam_en.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: f2dc953cd0387932783c19b33579340336180f31cc9417423cdb19f818043213
+  en: eacb29a4aba139e7cd157fa48a6c4e233e2dc1735ca73799b24b72b64076d24f

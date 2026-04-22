@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01051894_inter-graves.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_01051894_inter-graves.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01051894_inter-graves.html)
-
 ***LITTERAE SANCTISSIMI D. N. LEONIS  
 PAPAE XIII AD ANTISTITES PERUVIAE\****
 

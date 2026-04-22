@@ -1,5 +1,3 @@
-[DE](/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)  - [EN](/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)  - [ES](/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)  - [FR](/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)  - [IT](/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)  - [LA](/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)  - [PT](/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html)
-
 PAULUS PP. VI
 
 LITTERAE ENCYCLICAE

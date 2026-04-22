@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2020-06-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- vi
 langue_originale: vi
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: vi
   fetch_method: httpx
+traductions:
+  vi:
+    kind: originale
+    sha256: 8ce581763fe5f716bf6b1bc5a3d65b9001d873503ec0b37ffb9d189696641ce6
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20200629_istruzione-conversione-pastorale_vi.html
+    fetch_method: httpx
+langues_disponibles:
+- vi
 sha256:
-  vi: 63ef413ba0c33f61f0f9a439fba8a0a26e19b431d306ba52cc97993ff2e0a0b2
+  vi: 8ce581763fe5f716bf6b1bc5a3d65b9001d873503ec0b37ffb9d189696641ce6

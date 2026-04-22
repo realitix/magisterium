@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2005-02-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 71c9ab43b11f9a27e0a57c8643c6e7fbfd6d9393a2241cd30fc606690730d9ac
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20050211_unzione-infermi_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 517a06c998cac118d7e4488238da6f5e19267655983a0f9ba5a703dcbce7d2d9
+  it: 71c9ab43b11f9a27e0a57c8643c6e7fbfd6d9393a2241cd30fc606690730d9ac

@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1990-12-07'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 199a860de6685fb04d15c341b49df952c7ee3f67a7db5bc817c7e68c896827ed
+    source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5ef645436d751f430912d12f8c5051cb864ebee5bd1002e769d51397a13ef0f2
+  la: 199a860de6685fb04d15c341b49df952c7ee3f67a7db5bc817c7e68c896827ed

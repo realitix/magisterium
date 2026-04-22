@@ -5,8 +5,6 @@ periode: vatican-ii
 type: constitution-conciliaire
 date: '1965-12-07'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: 78be01986ad743bddca1d7452204c943a8cc4b13bccac94048a167b888205d9f
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_ar.html
+    fetched_at: '2026-04-22T06:45:54.567861Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: 273fd67ecf809cb9809e68448a47ca200d4f7ab8b070b729f96cac684fab5adb
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_cs.html
+    fetched_at: '2026-04-22T06:46:10.724971Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 0192b0bf5ccba98649aca619623adfe60962bc30ee8ffc0f55193994522a0ddf
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html
+    fetched_at: '2026-04-22T06:46:26.394973Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 93ad336fcf96cd6ff73a331c6b63ef769b3c9425f052c66d3e5d5ab2010663a8
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html
+    fetched_at: '2026-04-22T06:46:42.599442Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 6bac438e63df1849e88cd64f353acf0f8388c38efca8987db228f8dc24cd4d92
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_fr.html
+    fetched_at: '2026-04-22T06:46:58.757561Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: d41df079938d7803fd47f7424bdca5a7d5aa0c6d7dbe92467eff07d69d8a7042
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_hu.html
+    fetched_at: '2026-04-22T06:47:14.528709Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 052f9a8f95c9e85f4a9d3b0873862bcf94b4b79dd9b1395a5e3b958dbafcc875
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html
+    fetched_at: '2026-04-22T06:47:30.690866Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: d619603a16af68a33014695a6d545bb3077127e7b638f4b23848f81ecce3cb3e
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 2aba72df7fdb7f56181374a26690792f3d028362bf8c332ae59088c7f4e593d6
+  ar: 78be01986ad743bddca1d7452204c943a8cc4b13bccac94048a167b888205d9f
+  cs: 273fd67ecf809cb9809e68448a47ca200d4f7ab8b070b729f96cac684fab5adb
+  en: 0192b0bf5ccba98649aca619623adfe60962bc30ee8ffc0f55193994522a0ddf
+  es: 93ad336fcf96cd6ff73a331c6b63ef769b3c9425f052c66d3e5d5ab2010663a8
+  fr: 6bac438e63df1849e88cd64f353acf0f8388c38efca8987db228f8dc24cd4d92
+  hu: d41df079938d7803fd47f7424bdca5a7d5aa0c6d7dbe92467eff07d69d8a7042
+  it: 052f9a8f95c9e85f4a9d3b0873862bcf94b4b79dd9b1395a5e3b958dbafcc875
+  la: d619603a16af68a33014695a6d545bb3077127e7b638f4b23848f81ecce3cb3e

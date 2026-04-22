@@ -1,6 +1,3 @@
-   
-) )  
-
 Parole di introduzione e conclusione
 
 di S. Ecc. Mons. Csaba Ternyak

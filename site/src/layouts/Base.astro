@@ -9,12 +9,15 @@ interface Props {
   description?: string;
   /** Si vrai, n'affiche pas le Header ni le Footer (pages spéciales). */
   hideChrome?: boolean;
+  /** Code langue BCP-47 à mettre sur `<html lang>`. Défaut : "fr". */
+  htmlLang?: string;
 }
 
 const {
   title,
   description = "Corpus magistériel catholique",
   hideChrome = false,
+  htmlLang = "fr",
 } = Astro.props;
 
 const siteName = "Magisterium";
@@ -22,7 +25,7 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
 ---
 
 <!doctype html>
-<html lang="fr" data-theme="light">
+<html lang={htmlLang} data-theme="light">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />

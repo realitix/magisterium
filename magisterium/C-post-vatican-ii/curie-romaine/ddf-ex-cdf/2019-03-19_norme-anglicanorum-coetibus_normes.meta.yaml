@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: normes
 date: '2019-03-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 207c78d619100be7318ca47c78485cad6ab01133ccf93e4676a790c525ca651e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20190319_norme-anglicanorum-coetibus_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8a2a42bf3621869cc265997ebb29c4ff6e41c039333301fce04c30c1fd144803
+  it: 207c78d619100be7318ca47c78485cad6ab01133ccf93e4676a790c525ca651e

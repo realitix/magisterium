@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2012-01-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 07f09fae9c7c85b4c4f247cf992f0318308789393b6114d153b817ef425c5da9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: a22a3fa6d6f6d3de4c5b30352e6051bb2e2ec34ca44b3439ed4619b7b8da84c7
+  it: 07f09fae9c7c85b4c4f247cf992f0318308789393b6114d153b817ef425c5da9

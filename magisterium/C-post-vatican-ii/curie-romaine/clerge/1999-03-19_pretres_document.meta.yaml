@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1999-03-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: befd12705224293265086bd378fee82532d47194ce67201b119a126527d5c98c
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19031999_pretres_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: fc2b81f0acce6598bd4d48f348a555d3007000184a11cafad82eda8d621b1e3a
+  it: befd12705224293265086bd378fee82532d47194ce67201b119a126527d5c98c

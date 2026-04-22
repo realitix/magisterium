@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19370328_firmissimam-constantiam.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19370328_firmissimam-constantiam.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370328_firmissimam-constantiam.html)
-
 PIUS PP. XI
 
 EPISTULA ENCYCLICA

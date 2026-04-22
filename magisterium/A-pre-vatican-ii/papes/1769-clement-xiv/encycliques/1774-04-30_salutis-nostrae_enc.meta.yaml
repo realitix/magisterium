@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1774-04-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: c1f441466ee0ed3370a05f1af4ae8fd520598cbf6a699192e45bf32b879f7a16
+    source_url: https://www.papalencyclicals.net/clem14/c14salut.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: d52a8b4ff5022fcad2098c58373e918315648d7952238a0feae47e0823912d2c
+  en: c1f441466ee0ed3370a05f1af4ae8fd520598cbf6a699192e45bf32b879f7a16

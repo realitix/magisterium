@@ -1,6 +1,3 @@
-   
-) )   
-
 ***Cultura cattolica per un vero umanesimo***
 
  

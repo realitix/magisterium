@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: code-canonique
 date: '1983-01-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: bed095962ec1edf834de94927ced2b0adf9f5ad349a6427d0197c89b9af6ac33
+    source_url: https://www.vatican.va/archive/cod-iuris-canonici/latin/documents/cic_liberII_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5702c7213dbe8a60e6e8ab4c565b9049eeb679ed6c52559a0e7ca17ebe669051
+  la: bed095962ec1edf834de94927ced2b0adf9f5ad349a6427d0197c89b9af6ac33

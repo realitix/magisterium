@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html)  - [HU](/content/pius-xii/hu/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_05111956_datis-nuperrime.html)
-
 PIUS PP. XII
 
 ***DATIS NUPERRIME***\*

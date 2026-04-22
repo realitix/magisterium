@@ -1,5 +1,3 @@
-[EN](/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html)  - [ES](/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html)  - [IT](/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html)  - [LA](/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html)  - [PT](/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html)
-
 LITTERAE ENCYCLICAE  
 ***PAENITENTIAM AGERE  
 ***SUMMI PONTIFICIS  

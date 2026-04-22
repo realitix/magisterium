@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1988-11-19'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 5b5d6e2084aef44895534ee15dd5923ae51e2a32992e5e218f8511e1287d11c7
+    source_url: https://laportelatine.org/formation/crise-eglise/sacres-1988/la-ou-est-la-tradition-la-est-leglise
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 182833eb919dd5ce70d6aa64a5b4a3cd43deb69ef45db4d4d6f7439ff7f8324c
+  fr: 5b5d6e2084aef44895534ee15dd5923ae51e2a32992e5e218f8511e1287d11c7

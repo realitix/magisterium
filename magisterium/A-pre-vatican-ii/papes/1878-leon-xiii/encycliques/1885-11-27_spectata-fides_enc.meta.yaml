@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1885-11-27'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b0f118900bb42f71f28ab188a0461b1e5040419b48db97fe99f5da630a93ce23
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5d75798a7886f400f630a5d5c4f498880bb9f8056749dfb3ba7fe49516cdfb5b
+  la: b0f118900bb42f71f28ab188a0461b1e5040419b48db97fe99f5da630a93ce23

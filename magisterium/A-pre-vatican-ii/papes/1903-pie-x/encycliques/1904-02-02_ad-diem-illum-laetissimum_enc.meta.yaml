@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1904-02-02'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 06a7c4fa9152fc1c842acf6311b6d86b50370c7cf7a9acb1cd180aa050fda307
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_02021904_ad-diem-illum-laetissimum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5c24752e454e31d3c8ed4c411dc12ff9c1fcff243e03715836e04dab81ac87ab
+  la: 06a7c4fa9152fc1c842acf6311b6d86b50370c7cf7a9acb1cd180aa050fda307

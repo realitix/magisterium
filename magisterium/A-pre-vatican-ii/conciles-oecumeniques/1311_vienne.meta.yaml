@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '1311-10-16'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: afd618d0a77e5b31858c8c20209c180b6769ba77abcc8a68790e7c7fddc26a24
+    source_url: https://www.papalencyclicals.net/councils/ecum15.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 9b90814d37c25b5c8cf2f20c73fc1f9b04650328b47e311d2570e732430825f2
+  en: afd618d0a77e5b31858c8c20209c180b6769ba77abcc8a68790e7c7fddc26a24

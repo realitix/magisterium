@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1897-08-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 01154f7cacc6a1e8219693483d70d5db27958fbfb7e9292a69989f4a4d20251a
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01081897_militantis-ecclesiae.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1da421ab37ebdccda838bb8a58f89738cf37335d101263f80be1694a056247fc
+  la: 01154f7cacc6a1e8219693483d70d5db27958fbfb7e9292a69989f4a4d20251a

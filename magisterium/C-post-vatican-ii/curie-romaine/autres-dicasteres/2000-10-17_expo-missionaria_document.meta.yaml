@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-10-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: b9955943b18454648d03c199e1ef662319934c49761a9b75483210d5780ecfda
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20001017_expo-missionaria_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 09bdff4d4ca67e7c0680a5df07e474b55dded4a30b6481c6f55f1d49f951fbbb
+  it: b9955943b18454648d03c199e1ef662319934c49761a9b75483210d5780ecfda

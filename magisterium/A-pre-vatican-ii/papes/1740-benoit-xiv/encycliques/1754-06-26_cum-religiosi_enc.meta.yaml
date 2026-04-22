@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1754-06-26'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: f7b5e442d396c2e964e2af74ceb0e7b7740ca3205493281ce9b8c390e8666df5
+    source_url: https://www.papalencyclicals.net/ben14/b14cumre.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: f86ed553397485d935721c1ee050174bd473aa622c6f56a2ec596c2efee0db3a
+  en: f7b5e442d396c2e964e2af74ceb0e7b7740ca3205493281ce9b8c390e8666df5

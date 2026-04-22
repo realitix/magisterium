@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1981-02-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sk
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -25,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f8243e8e974554a53d9c6621ccada51b6935c614d4f798c0c23ae4c0ffb903c1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a86df74eb72f2f5d587e20d3ecc9c2edb56e9b34806c7cfd58e8306d1e30cb10
+  la: f8243e8e974554a53d9c6621ccada51b6935c614d4f798c0c23ae4c0ffb903c1

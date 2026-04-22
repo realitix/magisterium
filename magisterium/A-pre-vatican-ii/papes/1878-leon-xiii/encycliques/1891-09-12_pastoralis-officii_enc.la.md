@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_12091891_pastoralis-officii.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_12091891_pastoralis-officii.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_12091891_pastoralis-officii.html)
-
 EPISTOLA
 
 ***PASTORALIS OFFICII\****

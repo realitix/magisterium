@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1928-09-08'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c75815e6270c8beae5d0afd1ffadbd361788e94a30347fd927de332fe2392e75
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c3a74024fc55946a8da7f47821d463488111faf1bd35f51385b2918d4876e6a9
+  la: c75815e6270c8beae5d0afd1ffadbd361788e94a30347fd927de332fe2392e75

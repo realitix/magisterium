@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1965-10-28'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: b3e812b79877556a84b5f35d70c92f5f43b933b463d654c5733a85a3dbc74514
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_cs.html
+    fetched_at: '2026-04-22T06:48:00.444450Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 750d926eec11fb60fec24ee3bf36970c8e8f09644efd865259b24974c30cb598
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_en.html
+    fetched_at: '2026-04-22T06:48:16.394216Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: cad871b56392b7bf825d94febcccba37685857ba365a17b49a181b8bedb8173f
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_sp.html
+    fetched_at: '2026-04-22T06:48:32.434751Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: d0c2004b0d9ee6476649e6b4447fe6becd50f209dea93afe9bd28e2ca26a5919
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_fr.html
+    fetched_at: '2026-04-22T06:48:48.470204Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 6210d2fc5f01c649beef28e0bee8e4ba0409711d4e87d38be1a053db95d93e70
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_hu.html
+    fetched_at: '2026-04-22T06:49:04.499594Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: a0e0b3139f59e306cacbcd3607a30d0c44b0401c63a4ce0f5651244f7a738da8
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_it.html
+    fetched_at: '2026-04-22T06:49:20.495363Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5ae147393c9757a4ea4308a6c248b57ff0eb8e5ec4d4ef424701ddd1514d9bfd
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 4b7907d137546afbf261e81ef93f5b265852863bcb6fe90674055375a5c8d1ba
+  cs: b3e812b79877556a84b5f35d70c92f5f43b933b463d654c5733a85a3dbc74514
+  en: 750d926eec11fb60fec24ee3bf36970c8e8f09644efd865259b24974c30cb598
+  es: cad871b56392b7bf825d94febcccba37685857ba365a17b49a181b8bedb8173f
+  fr: d0c2004b0d9ee6476649e6b4447fe6becd50f209dea93afe9bd28e2ca26a5919
+  hu: 6210d2fc5f01c649beef28e0bee8e4ba0409711d4e87d38be1a053db95d93e70
+  it: a0e0b3139f59e306cacbcd3607a30d0c44b0401c63a4ce0f5651244f7a738da8
+  la: 5ae147393c9757a4ea4308a6c248b57ff0eb8e5ec4d4ef424701ddd1514d9bfd

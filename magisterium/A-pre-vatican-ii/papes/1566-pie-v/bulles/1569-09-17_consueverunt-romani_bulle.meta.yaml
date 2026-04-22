@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1569-09-17'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 275e16f495297fba017f94290c4efb86e424cc6df9f9521540bafda5eb337326
+    source_url: https://www.papalencyclicals.net/pius05/p5consue.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 5d350c73d35217340d822747796c68995338bc676d48d356fbe0e250898bda78
+  en: 275e16f495297fba017f94290c4efb86e424cc6df9f9521540bafda5eb337326

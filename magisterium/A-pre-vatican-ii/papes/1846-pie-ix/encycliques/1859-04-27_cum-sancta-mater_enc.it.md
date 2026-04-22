@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-cum-sancta-mater-27-aprile-1859.html)
-
 ENCICLICA  
 ***CUM SANCTA MATER  
 ***DEL SOMMO PONTEFICE  

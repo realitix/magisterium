@@ -1,6 +1,3 @@
-   
-) )  
-
 **Congregazione per il Clero**
 
 **DIRETTORIO  

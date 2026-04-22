@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1895-01-06'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 18b25685a801fa80fcc6fbf12bd80ad7516ed10075df61ab19d1e56c26d30cb0
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1638a99fc2a1b854656a29bc29406cb3f6de674496bf1aea73d82f7cda03f622
+  la: 18b25685a801fa80fcc6fbf12bd80ad7516ed10075df61ab19d1e56c26d30cb0

@@ -1,6 +1,3 @@
-   
-) )   
-
 CONGREGAZIONE PER L'EVANGELIZZAZIONE DEI POPOLI 
 
 **La Giornata Missionaria Mondiale 2005** *  

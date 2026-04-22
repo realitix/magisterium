@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1896-09-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: d2d6585bc26730a865bcd57ac9c736334f51858936d9121c0dbb08682888fea8
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 3dccf343a102475536ea960bd5aa25b03332d7ed10d550bab789e93e7c4b055d
+  la: d2d6585bc26730a865bcd57ac9c736334f51858936d9121c0dbb08682888fea8

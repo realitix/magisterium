@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1973-12-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c6ec427957d93d7c40d815837ea29b1532fde4ce944b3e248295daf21172b3d6
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19731206_solutione-matrimonii_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 7514cd6526d8fab9737a25983cbb420f49e6000f2049df03db81af100c9a048e
+  la: c6ec427957d93d7c40d815837ea29b1532fde4ce944b3e248295daf21172b3d6

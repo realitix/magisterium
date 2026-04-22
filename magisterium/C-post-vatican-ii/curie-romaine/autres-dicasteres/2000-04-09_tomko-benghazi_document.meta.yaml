@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-04-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 98599e609453496fbdddef4e6a73a7df64521ca4f999f74d8d3a1f26ff452d02
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20000409_tomko-benghazi_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 8e26285e92f8dc41376b7dc28c7c917aca856124a43469c5523afe2e9403d5c8
+  it: 98599e609453496fbdddef4e6a73a7df64521ca4f999f74d8d3a1f26ff452d02

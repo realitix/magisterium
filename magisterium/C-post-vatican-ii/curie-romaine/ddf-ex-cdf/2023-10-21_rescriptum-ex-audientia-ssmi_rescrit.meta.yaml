@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: rescrit
 date: '2023-10-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- hr
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 3523a3b44962fa8674023e8e237da9e1201dff60f83056a4c278f78625011f4e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231021_rescriptum-ex-audientia-ssmi_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 56d69c0216062675c27f7809d11112a0e0d51b30302b47c3e429b4faf594cad0
+  it: 3523a3b44962fa8674023e8e237da9e1201dff60f83056a4c278f78625011f4e

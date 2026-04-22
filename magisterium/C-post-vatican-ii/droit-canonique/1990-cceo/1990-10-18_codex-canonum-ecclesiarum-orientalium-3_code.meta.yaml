@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: code-canonique
 date: '1990-10-18'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 38d0e8a0253f62fbc0c4af8d34e332f7c588e3c2959da4c9bae848ccd6f5ff33
+    source_url: https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-3.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6bc861f7266b808981950c6f7b3d624b53071ceab5c8d0aa5ee91be4faf2290c
+  la: 38d0e8a0253f62fbc0c4af8d34e332f7c588e3c2959da4c9bae848ccd6f5ff33

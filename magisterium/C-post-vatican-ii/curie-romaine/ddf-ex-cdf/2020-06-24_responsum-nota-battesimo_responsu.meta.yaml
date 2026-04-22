@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '2020-06-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_cdf_doc_20200624_responsum-nota-battesimo_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_cdf_doc_20200624_responsum-nota-battesimo_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_cdf_doc_20200624_responsum-nota-battesimo_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 2a34e170e032fd7faf4d0b8e3c4f78dd222fb75615d69d7854956901927b2e5d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_cdf_doc_20200624_responsum-nota-battesimo_en.html
+    fetched_at: '2026-04-22T07:21:22.158665Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: a6d233936c958035cf6febd4fcc1336be807bdcf5bc95c129f4840e96ae181e9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_cdf_doc_20200624_responsum-nota-battesimo_sp.html
+    fetched_at: '2026-04-22T07:21:38.183444Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 8547496ca49931901c255f9408ac227251fd399fec3de4541b17e95c3cfc2de2
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_cdf_doc_20200624_responsum-nota-battesimo_fr.html
+    fetched_at: '2026-04-22T07:21:54.048792Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: aa42063b1fee3c39530805b97755c2baee66ecb111f0c972d79614d7477dc416
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_cdf_doc_20200624_responsum-nota-battesimo_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 7fb2513462c249739ef99816379254ca71ae3756b6cbb516b5f2ad9aa29446f4
+  en: 2a34e170e032fd7faf4d0b8e3c4f78dd222fb75615d69d7854956901927b2e5d
+  es: a6d233936c958035cf6febd4fcc1336be807bdcf5bc95c129f4840e96ae181e9
+  fr: 8547496ca49931901c255f9408ac227251fd399fec3de4541b17e95c3cfc2de2
+  it: aa42063b1fee3c39530805b97755c2baee66ecb111f0c972d79614d7477dc416

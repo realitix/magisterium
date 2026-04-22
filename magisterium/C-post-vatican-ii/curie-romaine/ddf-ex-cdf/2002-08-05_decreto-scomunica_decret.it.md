@@ -1,6 +1,3 @@
-   
-) )   
-
 **Congregazione per la Dottrina della Fede**
 
  

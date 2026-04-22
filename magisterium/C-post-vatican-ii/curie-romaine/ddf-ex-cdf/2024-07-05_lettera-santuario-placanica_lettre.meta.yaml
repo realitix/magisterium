@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2024-07-05'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 39d887e72a4138d5e9e581eecd0c3630602a7681a2dcc487a3e65e29b0803513
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_en.html
+    fetched_at: '2026-04-22T07:24:56.383209Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f8de70250c11da7c3e69e4767aad5efd33d50d6abc8bcff444a6fd375a070150
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_sp.html
+    fetched_at: '2026-04-22T07:25:12.414672Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 5113f0268bc688b0cf97a8eb0b831e9db22beb9ba1b26b10b48e68f66de7b45f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_fr.html
+    fetched_at: '2026-04-22T07:25:28.434455Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 06fa67cf2bc46a654d0d2d44f4b8a30b51c3895585d3ea358385efd10d7ebc7c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 92202d9f34fb994371c909e08d2b8b855062f802db23433b7735c873a4897595
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_pl.html
+    fetched_at: '2026-04-22T07:25:44.432506Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
 sha256:
-  it: 71f65e007963472ea4714c4e2da192913efd6bf4462e5ee511a073140e0f08cb
+  en: 39d887e72a4138d5e9e581eecd0c3630602a7681a2dcc487a3e65e29b0803513
+  es: f8de70250c11da7c3e69e4767aad5efd33d50d6abc8bcff444a6fd375a070150
+  fr: 5113f0268bc688b0cf97a8eb0b831e9db22beb9ba1b26b10b48e68f66de7b45f
+  it: 06fa67cf2bc46a654d0d2d44f4b8a30b51c3895585d3ea358385efd10d7ebc7c
+  pl: 92202d9f34fb994371c909e08d2b8b855062f802db23433b7735c873a4897595

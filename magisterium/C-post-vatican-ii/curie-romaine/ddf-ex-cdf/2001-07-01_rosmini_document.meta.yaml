@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2001-07-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ff284d5739387709f35e652c55f2dac18837aaaa98c941f4a60cbc8e9b2a8f57
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20010701_rosmini_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e148fe9b6ff8583d32447a53977d46196916fc8a3bc125e3845e1fd05fcd6fda
+  it: ff284d5739387709f35e652c55f2dac18837aaaa98c941f4a60cbc8e9b2a8f57

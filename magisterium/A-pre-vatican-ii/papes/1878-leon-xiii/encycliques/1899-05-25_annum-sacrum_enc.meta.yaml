@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1899-05-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b1e26a0ae55e0d1813ab719bd967839c6c40d2e494bb33ba2011a13f20fa2216
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25051899_annum-sacrum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a48e8d58e8f06910b36b2292831569f2fd176516f69638b7353e2b2635505886
+  la: b1e26a0ae55e0d1813ab719bd967839c6c40d2e494bb33ba2011a13f20fa2216

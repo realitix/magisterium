@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '2015-05-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: aff4567d53fd4429df4efef0aa24ccb42b771102fff71d430ad96247190c6b28
+    source_url: https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 03a98498ec265588126859c59e6574f6bd6bf9e6abf5c08beffecba6d3bc22a3
+  la: aff4567d53fd4429df4efef0aa24ccb42b771102fff71d430ad96247190c6b28

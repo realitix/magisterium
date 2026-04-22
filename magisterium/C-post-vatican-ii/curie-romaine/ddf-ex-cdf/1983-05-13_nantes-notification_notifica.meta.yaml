@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: notification
 date: '1983-05-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: c94b2c8159f38bbaffdc6f5fcc53284049c5e4c40e188b8fadda3849c643f2be
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830513_nantes-notification_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: bb621afa2060cd007c98e126e26e373664ab6e08ea253c48992af5df93ca8cfc
+  it: c94b2c8159f38bbaffdc6f5fcc53284049c5e4c40e188b8fadda3849c643f2be

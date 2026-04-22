@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html)
-
 LITTERAE ENCYCLICAE
 
 ***SAPIENTIAE CHRISTIANAE\****

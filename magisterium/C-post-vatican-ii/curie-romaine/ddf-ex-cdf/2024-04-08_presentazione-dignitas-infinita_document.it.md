@@ -1,5 +1,3 @@
-\[[IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240408_presentazione-dignitas-infinita_it.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240408_presentazione-dignitas-infinita_po.html)\]
-
 DICASTERO PER LA DOTTRINA DELLA FEDE  
  
 

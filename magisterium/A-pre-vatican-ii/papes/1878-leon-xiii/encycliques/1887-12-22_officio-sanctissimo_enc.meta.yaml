@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1887-12-22'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a97620a523c4c9dbd19f8eca633948def0ffe0dcd799c6a786d7eab037cd078f
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d7256e2af06fa77641fbd58bcb0d53d994b337fca2737de4cde9ba7f6745108e
+  la: a97620a523c4c9dbd19f8eca633948def0ffe0dcd799c6a786d7eab037cd078f

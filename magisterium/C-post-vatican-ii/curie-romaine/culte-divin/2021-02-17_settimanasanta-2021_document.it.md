@@ -1,13 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_ccdds_doc_20210217_settimanasanta-2021_ge.html) - [EN](rc_con_ccdds_doc_20210217_settimanasanta-2021_en.html) - [ES](rc_con_ccdds_doc_20210217_settimanasanta-2021_sp.html) - [FR](rc_con_ccdds_doc_20210217_settimanasanta-2021_fr.html) - [IT](rc_con_ccdds_doc_20210217_settimanasanta-2021_it.html) - [PT](rc_con_ccdds_doc_20210217_settimanasanta-2021_po.html)\]
-
 NOTA DELLA CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI
 

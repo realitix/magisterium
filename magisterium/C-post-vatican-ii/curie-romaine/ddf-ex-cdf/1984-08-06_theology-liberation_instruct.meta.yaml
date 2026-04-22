@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '1984-08-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 4c6844ff42e5d69adffb4b944a10d0798dc8d0a57a16be5a908b476dd3e7bb47
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19840806_theology-liberation_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 55b041aa998b4651a63136df94cf11bdf3397f74e4f23cd60835e60dc3ad6afa
+  it: 4c6844ff42e5d69adffb4b944a10d0798dc8d0a57a16be5a908b476dd3e7bb47

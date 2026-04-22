@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html)
-
 PIUS PP. XII
 
 EPISTULA ENCYCLICA

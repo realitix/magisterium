@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1844-05-08'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 76f37ac90de1d6a0856dbd7603399d092340bb5fd4b862fd36e783a5db8d5844
+    source_url: https://www.papalencyclicals.net/greg16/g16inter.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: b220ae4b8b4dabce3d36fa485fbdc12395a0f81fc2be6758005b8df9f9d5d57d
+  en: 76f37ac90de1d6a0856dbd7603399d092340bb5fd4b862fd36e783a5db8d5844

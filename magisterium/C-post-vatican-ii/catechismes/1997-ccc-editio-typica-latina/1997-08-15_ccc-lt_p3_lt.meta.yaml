@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: catechisme
 date: '1997-08-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: cf284da99db5c134359ae6bd9da1b4358ea02b1e4d32bc05da818b50db1a1c9a
+    source_url: https://www.vatican.va/archive/catechism_lt/p3_lt.htm
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 806b385175ace3cb6dc006cbbb550151687441f28475cf1a4e69b5c8be3f224d
+  la: cf284da99db5c134359ae6bd9da1b4358ea02b1e4d32bc05da818b50db1a1c9a

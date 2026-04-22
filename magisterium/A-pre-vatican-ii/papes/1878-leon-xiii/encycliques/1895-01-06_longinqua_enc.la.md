@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua.html)
-
 ***EPISTOLA SSMI D. N. LEONIS PP. XIII  
 AD ARCHIEPISCOPOS ET EPISCOPOS  
 FOEDERATARUM AMERICAE SEPTENTRIONALIS CIVITATUM\****

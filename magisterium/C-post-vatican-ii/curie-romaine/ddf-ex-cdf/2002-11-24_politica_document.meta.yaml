@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-11-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: efac002a6a319ef63a71da55a232988240c7ad799db43bd295af62f014d9e52f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 561d6bdbec3f8d34beff53d1c3e06e2e9a93b26db18d7f9836ada32033f8e0a5
+  it: efac002a6a319ef63a71da55a232988240c7ad799db43bd295af62f014d9e52f

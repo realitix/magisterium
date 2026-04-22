@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2013-05-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 549bdc12dca76804a7452308a0f42274259ab839ecea32fb3c9fe014c25d25ce
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5a360497b1f7e8819b81e99a4a72564d54a48785373f2b1b6f0f8b051008d009
+  la: 549bdc12dca76804a7452308a0f42274259ab839ecea32fb3c9fe014c25d25ce

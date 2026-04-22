@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1932-09-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: db499730f6b4192f8cde74ba13d592562022ea0d4b5bcd170d9b4a6f9a968e25
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 0eef2bf3112acc3359fc6c9b7011dd0e641dda1522caab52d4794f5f5230b254
+  la: db499730f6b4192f8cde74ba13d592562022ea0d4b5bcd170d9b4a6f9a968e25

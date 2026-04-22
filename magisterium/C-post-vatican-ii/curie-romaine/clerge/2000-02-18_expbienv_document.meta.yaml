@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 2bf9a7a089fd180d58ebb336cdfe79f3d47c28aeba002d36573ef8d1d132cec3
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_18022000_expbienv_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: c45c2e3cbd99ff92dec8550a783675758d3d4bc0d8d6e264118f7f9fc52d1852
+  fr: 2bf9a7a089fd180d58ebb336cdfe79f3d47c28aeba002d36573ef8d1d132cec3

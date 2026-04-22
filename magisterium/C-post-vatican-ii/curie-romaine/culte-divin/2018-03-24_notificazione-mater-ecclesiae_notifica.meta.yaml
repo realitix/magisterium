@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: notification
 date: '2018-03-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
-- la
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c08d99f50133d428fd3a42beb4d4e82a92e5b6fef0e242fad608212d9a22656d
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20180324_notificazione-mater-ecclesiae_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 70d5f3c01a0f87f414fdf17a0f28c1460e2064737af63e8c4ed354e370ef0809
+  la: c08d99f50133d428fd3a42beb4d4e82a92e5b6fef0e242fad608212d9a22656d

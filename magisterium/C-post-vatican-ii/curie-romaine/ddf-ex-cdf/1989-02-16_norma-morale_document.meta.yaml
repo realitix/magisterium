@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1989-02-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 48da05b3d9aa43711c80ddf7b9e223264cb4c1b614d12768e64b30e7c9afd7a6
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19890216_norma-morale_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 0c6aa79f48c357ebf4ad99ca75fa9392afaf9e6eec95a9f16232be8df6cf9915
+  it: 48da05b3d9aa43711c80ddf7b9e223264cb4c1b614d12768e64b30e7c9afd7a6

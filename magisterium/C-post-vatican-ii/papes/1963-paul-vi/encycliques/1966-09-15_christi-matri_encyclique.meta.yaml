@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1966-09-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a98f62a77f6b163d0ca181604f4f8a22df6bd040323fa9e0a13ef71d5fcbfd38
+    source_url: https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 17cfe47674e81526b13211f9e3c4964724f0d5349bf312fae7b8fd87eff1b4e8
+  la: a98f62a77f6b163d0ca181604f4f8a22df6bd040323fa9e0a13ef71d5fcbfd38

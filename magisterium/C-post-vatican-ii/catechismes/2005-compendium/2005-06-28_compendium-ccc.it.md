@@ -1,14 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[BE](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_be.pdf), [DE](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_ge.html), [EN](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html), [ES](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_sp.html), [FR](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_fr.html), [HU](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_hu.html), [ID](/archive/compendium_ccc/documents/archive_compendium-ccc_id.pdf), [IT](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_it.html), [LT](/archive/compendium_ccc/documents/compendium_catech_lit.pdf), [PT](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_po.html), [RO](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_ro.html), [RU](/archive/compendium_ccc/documents/archive_compendium-ccc_ru.pdf), [SL](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_sl.html), [SV](/archive/compendium_ccc/documents/archive_2005_compendium-ccc_sv.html)\]
-
-   
 **CATECHISMO  
 DELLA  
 CHIESA CATTOLICA**

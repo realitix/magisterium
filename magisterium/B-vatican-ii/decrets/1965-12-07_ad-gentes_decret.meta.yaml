@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1965-12-07'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: 5b117797fddd6b40785dedf30a8080f85c2de494081d6d080ca4fc5dbb3d0c24
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_cs.html
+    fetched_at: '2026-04-22T06:48:04.803386Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 2b6579512981340dcc8b9626f86b06180eb8e63f99ebd62b8b4a2da40d68e5cb
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html
+    fetched_at: '2026-04-22T06:48:20.537260Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: f2809d9343f232d36a822a719da067d8f0abb2e381b7357ae1230ca84ce1df99
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html
+    fetched_at: '2026-04-22T06:48:36.508380Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 68c293aed1d7fac9ce754a789add94f0087354b97b0c911d042d8cfff24d749a
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_fr.html
+    fetched_at: '2026-04-22T06:48:52.632965Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 47a1a4f26960973d908173ca10b7566702529e0e320e159180297c7cefae52f6
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_hu.html
+    fetched_at: '2026-04-22T06:49:09.035912Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 1b9dd6af40b23bab360586c6782a8733b3b1dbc54c397d88d243732057c0f9e0
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_it.html
+    fetched_at: '2026-04-22T06:49:24.633269Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 236a91f1be7e60cfc0287e237db217294634ceb24bf44ec30f228fa1d3ab540e
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 3ae750b0c8100387f975d39031160794a22f5896f070377c6fb23454b06770f1
+  cs: 5b117797fddd6b40785dedf30a8080f85c2de494081d6d080ca4fc5dbb3d0c24
+  en: 2b6579512981340dcc8b9626f86b06180eb8e63f99ebd62b8b4a2da40d68e5cb
+  es: f2809d9343f232d36a822a719da067d8f0abb2e381b7357ae1230ca84ce1df99
+  fr: 68c293aed1d7fac9ce754a789add94f0087354b97b0c911d042d8cfff24d749a
+  hu: 47a1a4f26960973d908173ca10b7566702529e0e320e159180297c7cefae52f6
+  it: 1b9dd6af40b23bab360586c6782a8733b3b1dbc54c397d88d243732057c0f9e0
+  la: 236a91f1be7e60cfc0287e237db217294634ceb24bf44ec30f228fa1d3ab540e

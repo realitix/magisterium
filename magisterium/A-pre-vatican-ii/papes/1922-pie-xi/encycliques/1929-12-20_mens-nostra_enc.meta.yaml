@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1929-12-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 26a861a7b1ea8d2d71481fd290869dc9a8d6dd2785e526141ea1a15d0af57c79
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19291220_mens-nostra.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 648b18cd85df7b6910b8caae0f93704a7a32b15cb281ef622fcceb6045f27bba
+  la: 26a861a7b1ea8d2d71481fd290869dc9a8d6dd2785e526141ea1a15d0af57c79

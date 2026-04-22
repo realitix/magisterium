@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-cum-nuper-20-gennaio-1858.html)
-
 ENCICLICA  
 ***CUM NUPER  
 ***DEL SOMMO PONTEFICE  

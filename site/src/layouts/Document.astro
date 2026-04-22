@@ -5,18 +5,21 @@
  * déjà rendu en HTML par la page appelante.
  */
 import Base from './Base.astro';
-import type { Document, DocumentMeta, Langue } from '../data/types.ts';
+import LangFlag from '../components/LangFlag.astro';
+import type { Document, DocumentMeta, Langue, TraductionKind } from '../data/types.ts';
 
 interface Props {
   doc: Document;
   meta: DocumentMeta;
   /** Langue effectivement rendue (celle du .md chargé). */
   lang: Langue;
+  /** Provenance de la traduction servie. */
+  kind: TraductionKind;
   /** HTML déjà rendu depuis le markdown. */
   renderedHtml: string;
 }
 
-const { doc, meta, lang, renderedHtml } = Astro.props;
+const { doc, meta, lang, kind, renderedHtml } = Astro.props;
 
 /** Titre principal : titre_fr > incipit > slug. */
 const title: string =
@@ -94,15 +97,24 @@ if (typeof meta.sha256 === 'string' && meta.sha256.length > 0) {
   shaDisplay = doc.sha256;
 }
 
-/** Langues disponibles (ordonnées, dédupliquées). */
-const langues: Langue[] = [];
-for (const l of meta.langues_disponibles ?? []) {
-  if (!langues.includes(l)) langues.push(l);
-}
-if (meta.langue_originale !== undefined && meta.langue_originale !== null) {
-  if (!langues.includes(meta.langue_originale)) langues.unshift(meta.langue_originale);
-}
-if (!langues.includes(doc.langue_originale)) langues.push(doc.langue_originale);
+/** Traductions dispos avec leur provenance, triées : originale puis officielles puis IA. */
+const KIND_ORDER: Record<TraductionKind, number> = { originale: 0, officielle: 1, ia: 2 };
+const traductionsList = [...doc.traductions].sort((a, b) => {
+  const byKind = KIND_ORDER[a.kind] - KIND_ORDER[b.kind];
+  if (byKind !== 0) return byKind;
+  return a.lang.localeCompare(b.lang);
+});
+
+/** Libellé de provenance pour une chip de langue. */
+const KIND_LABELS: Record<TraductionKind, string> = {
+  originale: 'originale',
+  officielle: 'trad. officielle',
+  ia: 'trad. IA',
+};
+
+const isAi = kind === 'ia';
+const iaModel = isAi ? (meta.traductions?.[lang]?.model ?? 'modèle IA') : null;
+const iaSourceLang = isAi ? (meta.traductions?.[lang]?.translated_from ?? doc.langue_originale) : null;
 
 const proseClass = lang === 'fr' ? 'prose' : 'prose prose-latin';
 
@@ -112,8 +124,8 @@ const pageDescription: string =
     : title;
 ---
 
-<Base title={title} description={pageDescription}>
-  <main class="doc" id="main" data-pagefind-body>
+<Base title={title} description={pageDescription} htmlLang={lang}>
+  <main class="doc" id="main" data-pagefind-body data-pagefind-filter={`lang:${lang}`}>
     <nav class="doc__back" aria-label="Navigation">
       <a href="/documents/">← Retour à l'index</a>
     </nav>
@@ -151,54 +163,66 @@ const pageDescription: string =
       )}
     </header>
 
+    <section class="doc__lang-bar" aria-label="Changer de langue">
+      <div class="doc__lang-bar-label">
+        {traductionsList.length > 1 ? 'Versions disponibles' : 'Version unique'}
+      </div>
+      <ul class="doc__lang-list" role="list">
+        {traductionsList.map((t) => {
+          const isActive = t.lang === lang;
+          const href = `/documents/${doc.slug}/${t.lang}/`;
+          const langLabel = LANG_LABELS[t.lang] ?? t.lang;
+          const kindLabel = KIND_LABELS[t.kind];
+          const chipClass = [
+            'doc__lang-chip',
+            `doc__lang-chip--${t.kind}`,
+            isActive ? 'doc__lang-chip--active' : '',
+          ].filter(Boolean).join(' ');
+          return (
+            <li>
+              {isActive ? (
+                <span class={chipClass} aria-current="page">
+                  <LangFlag lang={t.lang} class="doc__lang-chip-flag" />
+                  <span class="doc__lang-chip-body">
+                    <span class="doc__lang-chip-lang">{langLabel}</span>
+                    <span class="doc__lang-chip-kind">{kindLabel}</span>
+                  </span>
+                </span>
+              ) : (
+                <a href={href} class={chipClass} hreflang={t.lang}>
+                  <LangFlag lang={t.lang} class="doc__lang-chip-flag" />
+                  <span class="doc__lang-chip-body">
+                    <span class="doc__lang-chip-lang">{langLabel}</span>
+                    <span class="doc__lang-chip-kind">{kindLabel}</span>
+                  </span>
+                </a>
+              )}
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+
+    {isAi && (
+      <aside class="doc__ai-banner" role="note" aria-label="Avertissement traduction IA">
+        <p class="doc__ai-banner-title">Traduction générée par intelligence artificielle</p>
+        <p class="doc__ai-banner-body">
+          Ce texte a été traduit automatiquement par {iaModel} depuis la version
+          <strong>{LANG_LABELS[iaSourceLang ?? doc.langue_originale] ?? iaSourceLang}</strong>.
+          Le texte faisant autorité est la
+          <a href={`/documents/${doc.slug}/${doc.langue_originale}/`}>version originale</a>.
+          Merci de la consulter pour tout usage doctrinal, théologique ou liturgique.
+        </p>
+      </aside>
+    )}
+
     <article class={proseClass} lang={lang}>
       <Fragment set:html={renderedHtml} />
     </article>
 
-    <aside class="doc__meta" aria-label="Métadonnées du document">
-      <h2 class="doc__meta-title">Métadonnées</h2>
+    <aside class="doc__meta" aria-label="Métadonnées techniques du document">
+      <h2 class="doc__meta-title">Métadonnées techniques</h2>
       <dl class="doc__meta-list">
-        <dt>Langue affichée</dt>
-        <dd>{LANG_LABELS[lang] ?? lang}</dd>
-
-        {langues.length > 0 && (
-          <Fragment>
-            <dt>Langues disponibles</dt>
-            <dd>
-              {langues.map((l, idx) => (
-                <Fragment>
-                  {idx > 0 && <span>, </span>}
-                  {l === lang ? (
-                    <span class="doc__lang-current">{LANG_LABELS[l] ?? l}</span>
-                  ) : (
-                    <a href={`/documents/${doc.slug}/?lang=${l}`}>{LANG_LABELS[l] ?? l}</a>
-                  )}
-                </Fragment>
-              ))}
-            </dd>
-          </Fragment>
-        )}
-
-        {doc.date !== null && (
-          <Fragment>
-            <dt>Date</dt>
-            <dd>{dateFormatted ?? doc.date}</dd>
-          </Fragment>
-        )}
-
-        {doc.auteur !== null && (
-          <Fragment>
-            <dt>Auteur</dt>
-            <dd>{doc.auteur}</dd>
-          </Fragment>
-        )}
-
-        <dt>Période</dt>
-        <dd>{periodeLabel}</dd>
-
-        <dt>Type</dt>
-        <dd>{doc.type}</dd>
-
         {primarySource?.url !== undefined && (
           <Fragment>
             <dt>Source</dt>
@@ -397,8 +421,147 @@ const pageDescription: string =
     word-break: break-word;
   }
 
-  .doc__lang-current {
+  .doc__lang-bar {
+    margin: var(--space-l) 0 var(--space-m);
+    padding: var(--space-s) var(--space-m);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    background-color: var(--paper-dim);
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+
+  .doc__lang-bar-label {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.7rem;
+    color: var(--muted);
+    flex-shrink: 0;
+  }
+
+  .doc__lang-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2xs);
+  }
+
+  .doc__lang-chip {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.45em;
+    padding: 0.3em 0.75em;
+    border-radius: 3px;
+    border: 1px solid var(--rule);
+    background-color: var(--paper);
+    text-decoration: none;
+    color: var(--ink-soft);
+    font-family: var(--font-display);
+    font-size: 0.88rem;
+    line-height: 1.2;
+    transition: border-color 120ms ease, color 120ms ease, transform 120ms ease;
+  }
+
+  .doc__lang-chip:hover,
+  .doc__lang-chip:focus-visible {
+    border-color: var(--rubric);
+    color: var(--rubric);
+    transform: translateY(-1px);
+  }
+
+  .doc__lang-chip-body {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1.1;
+  }
+
+  .doc__lang-chip-lang {
+    font-weight: 600;
     color: var(--ink);
+    text-transform: capitalize;
+  }
+
+  .doc__lang-chip-kind {
+    font-size: 0.72em;
+    color: var(--muted);
+    letter-spacing: 0.02em;
+    margin-top: 0.1em;
+  }
+
+  .doc__lang-chip--active {
+    border-color: var(--rubric);
+    background-color: color-mix(in srgb, var(--rubric) 8%, transparent);
+    cursor: default;
+  }
+
+  .doc__lang-chip--active:hover {
+    transform: none;
+  }
+
+  .doc__lang-chip--active .doc__lang-chip-lang,
+  .doc__lang-chip--active .doc__lang-chip-kind {
+    color: var(--rubric);
+  }
+
+  .doc__lang-chip--originale {
+    border-left: 3px solid var(--gold);
+  }
+
+  .doc__lang-chip--ia {
+    border-style: dashed;
+  }
+
+  @media (max-width: 640px) {
+    .doc__lang-bar {
+      padding: var(--space-2xs) var(--space-s);
+      gap: var(--space-2xs);
+    }
+    .doc__lang-bar-label {
+      width: 100%;
+    }
+  }
+
+  .doc__ai-banner {
+    margin: var(--space-l) 0 var(--space-m);
+    padding: var(--space-m);
+    border: 1px dashed color-mix(in srgb, var(--rubric) 55%, transparent);
+    border-left: 4px solid var(--rubric);
+    background-color: color-mix(in srgb, var(--rubric) 5%, var(--paper));
+    border-radius: 3px;
+  }
+
+  .doc__ai-banner-title {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--rubric);
+    margin: 0 0 var(--space-2xs) 0;
+  }
+
+  .doc__ai-banner-body {
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    color: var(--ink-soft);
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .doc__ai-banner-body strong {
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .doc__ai-banner-body a {
+    color: var(--rubric);
     font-weight: 600;
   }
 

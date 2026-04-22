@@ -1,5 +1,3 @@
-[EN](/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html)  - [ES](/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html)  - [IT](/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html)  - [LA](/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html)
-
 LITTERAE APOSTOLICAE  
  MOTU PROPRIO DATAE\*
 

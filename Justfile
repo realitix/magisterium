@@ -47,6 +47,12 @@ build-index:
 build-concordance:
     uv run python -m tools.build_concordance
 
+complete-translations:
+    uv run python -m tools.complete_translations
+
+migrate-traductions:
+    uv run python -m tools.migrate_to_traductions
+
 validate:
     uv run python -m tools.validate
 

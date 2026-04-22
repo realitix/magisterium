@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html)  - [FR](/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html)
-
 BENEDICTUS PP. XV
 
 LITTERAE ENCYCLICAE

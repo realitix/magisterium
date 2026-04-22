@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html)
-
 EPISTOLA
 
 ***LITTERAS A VOBIS\****

@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: catechisme
 date: '2018-08-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- mg
-- pl
-- sp
-- vi
 langue_originale: la
 denzinger: []
 sujets: []
@@ -25,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 7b154d7e4139859ed0f4242096a9022368c6eddb7260ccb55464606bff0cf8fa
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html
+    fetched_at: '2026-04-22T07:20:04.023438Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 914a60b6adbe11562ee57d50019dba74e47926d847d8567629c0e7f496117fff
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_sp.html
+    fetched_at: '2026-04-22T07:20:20.042963Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 958e1104f006ffd5b858ae8df6a3aafcf94e0eceb84272c62b2788f15fac7b02
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_fr.html
+    fetched_at: '2026-04-22T07:20:35.947994Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 51a97fb5007cd9f1600376999079d54e95f03d160ce36402cb8c00532a776177
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_it.html
+    fetched_at: '2026-04-22T07:20:52.092273Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a91399f9b998ee6b3c17fa3a22576c3406d622282f4b4be1b9ea41a8281e7ff1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_la.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 03f22f27526a1d04b4d311788e3d9215328a91e269715b8bd74494cdd67c904f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_pl.html
+    fetched_at: '2026-04-22T07:21:07.972979Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
+- pl
 sha256:
-  la: 5193c01989196c4044d8006e53c488033facce3b24a9937ea0325766adaaf065
+  en: 7b154d7e4139859ed0f4242096a9022368c6eddb7260ccb55464606bff0cf8fa
+  es: 914a60b6adbe11562ee57d50019dba74e47926d847d8567629c0e7f496117fff
+  fr: 958e1104f006ffd5b858ae8df6a3aafcf94e0eceb84272c62b2788f15fac7b02
+  it: 51a97fb5007cd9f1600376999079d54e95f03d160ce36402cb8c00532a776177
+  la: a91399f9b998ee6b3c17fa3a22576c3406d622282f4b4be1b9ea41a8281e7ff1
+  pl: 03f22f27526a1d04b4d311788e3d9215328a91e269715b8bd74494cdd67c904f

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2016-01-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 61456cbf06ee3278a9a89bd1db612ba0038a97829cafba2084f2a3a6042370d2
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_commento-decreto-lavanda-piedi_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 6faef54a2e0983c8f3797e4fe9d89166713110e493227107ac94351d25b58779
+  it: 61456cbf06ee3278a9a89bd1db612ba0038a97829cafba2084f2a3a6042370d2

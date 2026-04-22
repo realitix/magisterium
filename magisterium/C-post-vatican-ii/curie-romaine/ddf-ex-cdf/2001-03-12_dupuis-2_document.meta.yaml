@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2001-03-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: d4b0e95237cb5816a2447441e406ee7fc8442120fd2b3bf477b64724edaa525d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20010312_dupuis-2_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: f9746190dc5f84cf0ea2e66168aaf6ca2f949819d5b401ea1dd899de2aeb502f
+  it: d4b0e95237cb5816a2447441e406ee7fc8442120fd2b3bf477b64724edaa525d

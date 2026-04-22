@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_11061905_il-fermo-proposito.html)  - [FR](/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_11061905_il-fermo-proposito.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_11061905_il-fermo-proposito.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_11061905_il-fermo-proposito.html)
-
 LITTERAE ENCYCLICAE  
 SS. D. N. PII DIV. PROV. PP. X
 

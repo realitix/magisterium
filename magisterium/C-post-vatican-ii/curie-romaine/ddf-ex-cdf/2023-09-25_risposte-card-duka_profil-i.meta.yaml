@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: profil-institutionnel
 date: '2023-09-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 844ece1126cfd889025a0644c5a8a476d2757c649103bbdc36d4899ae10a8308
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_en.html
+    fetched_at: '2026-04-22T07:22:44.121216Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 5e5d81f7318363582befc876e5b2609a263006ecefbd68ddc95b44d5dae56ca3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_sp.html
+    fetched_at: '2026-04-22T07:23:00.281932Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: d2aa0641c92ced2be31168f20c794bef7f0007f8f99bf0eef4af248160e12329
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_fr.html
+    fetched_at: '2026-04-22T07:23:16.296061Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 8d996bc6c8978daa5abd9b5b955cdc38f454c32bde77c988769e433ea776c43e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_hr.html
+    fetched_at: '2026-04-22T07:23:32.387304Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 41616e11d5012012925b0092003d581ffe5c242e5d888be5a5a69830b57415ff
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- hr
+- it
 sha256:
-  it: c523f74bb15d9ba0bd66ec89d689df57b8f49ae53fddcfd768d1936676cbb6f3
+  en: 844ece1126cfd889025a0644c5a8a476d2757c649103bbdc36d4899ae10a8308
+  es: 5e5d81f7318363582befc876e5b2609a263006ecefbd68ddc95b44d5dae56ca3
+  fr: d2aa0641c92ced2be31168f20c794bef7f0007f8f99bf0eef4af248160e12329
+  hr: 8d996bc6c8978daa5abd9b5b955cdc38f454c32bde77c988769e433ea776c43e
+  it: 41616e11d5012012925b0092003d581ffe5c242e5d888be5a5a69830b57415ff

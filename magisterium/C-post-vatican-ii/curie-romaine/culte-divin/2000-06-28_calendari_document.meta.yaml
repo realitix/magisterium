@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-06-28'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 351f0f742563ff73c78eef0ab090b848d2935353f9a5be779a299596d69a7101
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20000628_calendari_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 50e3cddc3cd05f9ca6c5d2613fc206042f84d03434e6141d22ab89d5002940f2
+  it: 351f0f742563ff73c78eef0ab090b848d2935353f9a5be779a299596d69a7101

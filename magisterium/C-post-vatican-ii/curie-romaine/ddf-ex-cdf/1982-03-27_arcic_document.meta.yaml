@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1982-03-27'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: e9fb1bb873c028915f4dfdd2cc8198296bf354fd2d298a485738245886b0f3c1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19820327_arcic_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 5c0ecfa1943461dfb37f8dcadc0a9cdaeb654534f1f71a16adbe3d05dacd82b4
+  it: e9fb1bb873c028915f4dfdd2cc8198296bf354fd2d298a485738245886b0f3c1

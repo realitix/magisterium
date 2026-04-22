@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1980-10-14'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6add711facfaebcd9bfa0b67a94ca5a8f9d724c97061aab171395aec8d5ab2cd
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 744f3df2ff14039789d197dfc05127906c2348e127aa1512208969fe6e2d9925
+  la: 6add711facfaebcd9bfa0b67a94ca5a8f9d724c97061aab171395aec8d5ab2cd

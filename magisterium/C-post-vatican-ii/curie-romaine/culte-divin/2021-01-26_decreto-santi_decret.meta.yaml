@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2021-01-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 7412006b2f69476290c09c2a32e914c1d40b418d6d1c9c011c5b08d08c6630ba
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_en.html
+    fetched_at: '2026-04-22T07:12:15.466311Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: ad003ae23a33544f9896eb8b185bc559d6b39bd6a69368401c925e271f039dfd
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_sp.html
+    fetched_at: '2026-04-22T07:12:31.638186Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 7507ddf7fc9b1e87c089a6425d029758268c106b0cfee4d75de775ed0dccade6
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_fr.html
+    fetched_at: '2026-04-22T07:12:47.526734Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: e0188f7adec0ab42e02bcf5363a5543d242d59b51af7f65f114d9d02a6af4155
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_it.html
+    fetched_at: '2026-04-22T07:13:03.539219Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 9284212ec7da2610b6ac9b756701944388ab7b64462038ce868addec2071690d
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: 01b6b8c846e77d4e6b2ff37b309f306ecb0e4d8be2196438c256aecbba3f9450
+  en: 7412006b2f69476290c09c2a32e914c1d40b418d6d1c9c011c5b08d08c6630ba
+  es: ad003ae23a33544f9896eb8b185bc559d6b39bd6a69368401c925e271f039dfd
+  fr: 7507ddf7fc9b1e87c089a6425d029758268c106b0cfee4d75de775ed0dccade6
+  it: e0188f7adec0ab42e02bcf5363a5543d242d59b51af7f65f114d9d02a6af4155
+  la: 9284212ec7da2610b6ac9b756701944388ab7b64462038ce868addec2071690d

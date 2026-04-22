@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1851-11-21'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: f78842fc0528f4afb5311b79c0e9c020db6600d8cc84f32c216e77e1de354558
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-exultavit-cor-nostrum-21-novembre-1851.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 63a4d1860d46e6a611f1eeaee895c726f085f6cf2427938f2577db081c75a59a
+  it: f78842fc0528f4afb5311b79c0e9c020db6600d8cc84f32c216e77e1de354558

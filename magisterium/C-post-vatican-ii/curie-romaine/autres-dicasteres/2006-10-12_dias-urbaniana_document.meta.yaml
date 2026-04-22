@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2006-10-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: fb5aa5cf2f58a1a3acf8ab0a382a3b06470b79a7a0c719cc32b27b9f2ab12f3b
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20061012_dias-urbaniana_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e4e18e2e0e4772e7357a491360e0ddaeddc1692a3d9f3998ea0703c8f54af9de
+  it: fb5aa5cf2f58a1a3acf8ab0a382a3b06470b79a7a0c719cc32b27b9f2ab12f3b

@@ -4,9 +4,7 @@
 
 ## Photos
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-006.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-007.jpg)
 
 [!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-002.jpg)
 

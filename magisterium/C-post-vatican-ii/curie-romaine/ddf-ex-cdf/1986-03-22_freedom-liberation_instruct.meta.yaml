@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '1986-03-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 777f8f7e9f0723da91f97341958cc28c41ed7be8d1a35ff4ee22308c80f372d5
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: db547a81918e92da8bb3c632285aa3410e1ff18e4bdb0392354237b068956fe8
+  la: 777f8f7e9f0723da91f97341958cc28c41ed7be8d1a35ff4ee22308c80f372d5

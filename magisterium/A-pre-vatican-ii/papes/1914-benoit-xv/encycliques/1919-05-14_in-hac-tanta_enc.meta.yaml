@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1919-05-14'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 96aef704868fc6ae1f1ea95e9c460191e937f4832dabf0fc67a29934dff4f810
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 86e2d3a68470260f0d454a7f67e0ab96f22fdffdea17298e3902bb821d4e28e8
+  la: 96aef704868fc6ae1f1ea95e9c460191e937f4832dabf0fc67a29934dff4f810

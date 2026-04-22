@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-05-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- pt
 langue_originale: pt
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: pt
   fetch_method: httpx
+traductions:
+  pt:
+    kind: originale
+    sha256: 19e73c724e02398905449037ecc16c6850ec79bd9c68dfd52430ade5be5a886e
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20000518_hoyos-birthday_po.html
+    fetch_method: httpx
+langues_disponibles:
+- pt
 sha256:
-  pt: df2fc75fb72618aaeaada945b56ce74d5436d6ae75e46cea6efdc394ee900584
+  pt: 19e73c724e02398905449037ecc16c6850ec79bd9c68dfd52430ade5be5a886e

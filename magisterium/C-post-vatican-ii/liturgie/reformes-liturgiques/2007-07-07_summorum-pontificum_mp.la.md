@@ -1,5 +1,3 @@
-[DE](/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)  - [EN](/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)  - [ES](/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)  - [FR](/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)  - [HU](/content/benedict-xvi/hu/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)  - [IT](/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)  - [LA](/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)  - [PT](/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)
-
 **BENEDICTUS PP. XVI**
 
 LITTERAE APOSTOLICAE  

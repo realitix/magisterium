@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1959-08-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0caefe8759a79399cc4792d2225b16790632b69d25ebce9552e32f483f3a5ccf
+    source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6aab47e43e59ad38815fb67c4ff7aef1392c6849b2284e2d2a732db6e6457ab7
+  la: 0caefe8759a79399cc4792d2225b16790632b69d25ebce9552e32f483f3a5ccf

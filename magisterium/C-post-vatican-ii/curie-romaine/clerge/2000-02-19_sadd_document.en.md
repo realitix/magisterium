@@ -1,6 +1,3 @@
-   
-) )  
-
 Salutation Address
 
 by His Em Card. Prefect Darío Castrillón Hoyos

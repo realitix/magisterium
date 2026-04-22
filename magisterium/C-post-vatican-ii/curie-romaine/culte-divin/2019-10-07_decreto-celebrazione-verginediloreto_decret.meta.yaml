@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2019-10-07'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -22,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 1249175c039a7acc6c93d894ea6f82d403bed12a4a2ce1c45011ebbb0e74dc24
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_en.html
+    fetched_at: '2026-04-22T07:11:57.458672Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 323e80653a12376abb743ce00c368e78db80b8de61b687e4aa7c6b26aad866f1
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_sp.html
+    fetched_at: '2026-04-22T07:12:13.477258Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 89a0904ac9e666a267ba363cb65f880a226155fa3afed76cefbe7840d9f99013
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_fr.html
+    fetched_at: '2026-04-22T07:12:29.497170Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: dbfa3063c42035fa02bb36cf105821dfffb141c396e03d68534d395f6c0498bf
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_it.html
+    fetched_at: '2026-04-22T07:12:45.515067Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 91f82084bdfe3e7c3f0862d89f0b5b916848786bc27407f212900149bb5ceb91
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: a7b056b3f8c35f68786ff4b1ac93baf0deb3ff141f28c1a0f6c959e1c8294ce9
+  en: 1249175c039a7acc6c93d894ea6f82d403bed12a4a2ce1c45011ebbb0e74dc24
+  es: 323e80653a12376abb743ce00c368e78db80b8de61b687e4aa7c6b26aad866f1
+  fr: 89a0904ac9e666a267ba363cb65f880a226155fa3afed76cefbe7840d9f99013
+  it: dbfa3063c42035fa02bb36cf105821dfffb141c396e03d68534d395f6c0498bf
+  la: 91f82084bdfe3e7c3f0862d89f0b5b916848786bc27407f212900149bb5ceb91

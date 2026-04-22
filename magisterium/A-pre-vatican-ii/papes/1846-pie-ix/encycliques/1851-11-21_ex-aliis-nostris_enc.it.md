@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-ex-aliis-nostris-21-novembre-1851.html)
-
 ENCICLICA  
 ***EX ALIIS NOSTRIS***  
 DEL SOMMO PONTEFICE  

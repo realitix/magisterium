@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1992-06-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 88c11eaac3ee16357bfea598de09b02dfb901fe0db1e152d8d824cf7a83d1fc7
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19920606_opus-angelorum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1ea5847b0c224c0f47d7466229138c788e9ad5d26f4101769e0edfb97b36a2cb
+  la: 88c11eaac3ee16357bfea598de09b02dfb901fe0db1e152d8d824cf7a83d1fc7

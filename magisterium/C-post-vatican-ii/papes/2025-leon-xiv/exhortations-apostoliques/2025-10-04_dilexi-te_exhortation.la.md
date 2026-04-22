@@ -1,5 +1,3 @@
-[AR](/content/leo-xiv/ar/apost_exhortations/documents/20251004-dilexi-te.html)  - [BE](/content/leo-xiv/be/apost_exhortations/documents/20251004-dilexi-te.html)  - [DE](/content/leo-xiv/de/apost_exhortations/documents/20251004-dilexi-te.html)  - [EN](/content/leo-xiv/en/apost_exhortations/documents/20251004-dilexi-te.html)  - [ES](/content/leo-xiv/es/apost_exhortations/documents/20251004-dilexi-te.html)  - [FR](/content/leo-xiv/fr/apost_exhortations/documents/20251004-dilexi-te.html)  - [IT](/content/leo-xiv/it/apost_exhortations/documents/20251004-dilexi-te.html)  - [LA](/content/leo-xiv/la/apost_exhortations/documents/20251004-dilexi-te.html)  - [PL](/content/leo-xiv/pl/apost_exhortations/documents/20251004-dilexi-te.html)  - [PT](/content/leo-xiv/pt/apost_exhortations/documents/20251004-dilexi-te.html)
-
 LEO XIV  
 SUMMUS PONTIFEX
 

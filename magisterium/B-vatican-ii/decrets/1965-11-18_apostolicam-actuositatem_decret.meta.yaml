@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1965-11-18'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: 39ef3e1fff8e487c8c45ce8752da536e26bb7ba314241c414a641f5883ee56b5
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_ar.html
+    fetched_at: '2026-04-22T06:48:02.501874Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: 80a2f2a610eeedc9c9c199ae21dae3496808f905b6e640ac1c51a7a1530eb3f1
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_cs.html
+    fetched_at: '2026-04-22T06:48:18.319245Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: cc61ad751387ff6d6b78f385fd0e7c0bc28af80d8f47d9ba9bce6124da6e40fc
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html
+    fetched_at: '2026-04-22T06:48:34.453367Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 37900ee01fe9791488219e6c6d2d1dada6f9bc3d363ce65e279a549529625d4e
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_sp.html
+    fetched_at: '2026-04-22T06:48:50.476854Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 2c3fb1543b8982b57dd92a7fae2e6c61e8f2ac9fe6352bda439cc91074543d8d
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_fr.html
+    fetched_at: '2026-04-22T06:49:06.646153Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 10f92b3fe4616f0dfd1fe977149329f8358db24c2ff3c08fd641e8832ecd0f3d
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_hu.html
+    fetched_at: '2026-04-22T06:49:22.558845Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 90012a5e426b376140bf4aaba5225f01e16b41426607a99f7a1713b0ddb7d7be
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_it.html
+    fetched_at: '2026-04-22T06:49:38.550878Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 2d5688fd368181226b88e347367a50c949a2d4eeb806b546e4d9a7bb01524e17
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 50a0132f7a1402ddc92f0087dd9036e4cf80b7dbdd7b70d02533cbb226447a30
+  ar: 39ef3e1fff8e487c8c45ce8752da536e26bb7ba314241c414a641f5883ee56b5
+  cs: 80a2f2a610eeedc9c9c199ae21dae3496808f905b6e640ac1c51a7a1530eb3f1
+  en: cc61ad751387ff6d6b78f385fd0e7c0bc28af80d8f47d9ba9bce6124da6e40fc
+  es: 37900ee01fe9791488219e6c6d2d1dada6f9bc3d363ce65e279a549529625d4e
+  fr: 2c3fb1543b8982b57dd92a7fae2e6c61e8f2ac9fe6352bda439cc91074543d8d
+  hu: 10f92b3fe4616f0dfd1fe977149329f8358db24c2ff3c08fd641e8832ecd0f3d
+  it: 90012a5e426b376140bf4aaba5225f01e16b41426607a99f7a1713b0ddb7d7be
+  la: 2d5688fd368181226b88e347367a50c949a2d4eeb806b546e4d9a7bb01524e17

@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-11-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 0baf97451f0af4625efccf6fe5acd86c81e39fae8a4d5e4507c876bf1a636a1a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20001130_messner_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 5e4468c87fff71f4a1c161406ab12b599623345bf1a3b0393d59d25b1b0fa337
+  it: 0baf97451f0af4625efccf6fe5acd86c81e39fae8a4d5e4507c876bf1a636a1a

@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

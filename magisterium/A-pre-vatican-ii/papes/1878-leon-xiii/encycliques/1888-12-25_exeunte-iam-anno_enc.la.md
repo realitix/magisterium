@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25121888_exeunte-iam-anno.html)
-
 EPISTOLA
 
 ***EXEUNTE IAM ANNO\****

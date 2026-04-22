@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2020-05-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -22,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 6a9939330cfe485a347cb339658297b6aa1559651486ace7890e196c6cf8bb03
+    source_url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_en.html
+    fetched_at: '2026-04-22T07:12:03.572124Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: ad3066fafcfcdaa963ffa485e6dd4c032990ff5913f2d9c9123b3ce5a1be34eb
+    source_url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_sp.html
+    fetched_at: '2026-04-22T07:12:19.530865Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: cf5a3885096e793feb6d0ac38735898e2e0bbdef7ff1e5daa37a8312ea2afb64
+    source_url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_fr.html
+    fetched_at: '2026-04-22T07:12:35.517050Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 45f50db16dfce7bb2acb7100add55dd785c74144456011b06217082d186d7186
+    source_url: http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_it.html
+    fetched_at: '2026-04-22T07:12:51.528679Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 480852d637067559cec791437368e4abc892c8464c92af2a761f87d21de6691e
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200518_decreto-celebrazione-santafaustina_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: 5cf95228ffdf88ba42c359df3e5a9b724ccaa12a622b986e0e53a27c013ca3a7
+  en: 6a9939330cfe485a347cb339658297b6aa1559651486ace7890e196c6cf8bb03
+  es: ad3066fafcfcdaa963ffa485e6dd4c032990ff5913f2d9c9123b3ce5a1be34eb
+  fr: cf5a3885096e793feb6d0ac38735898e2e0bbdef7ff1e5daa37a8312ea2afb64
+  it: 45f50db16dfce7bb2acb7100add55dd785c74144456011b06217082d186d7186
+  la: 480852d637067559cec791437368e4abc892c8464c92af2a761f87d21de6691e

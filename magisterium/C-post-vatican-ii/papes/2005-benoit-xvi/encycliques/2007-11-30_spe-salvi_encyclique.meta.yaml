@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '2007-11-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4bc96abe4cb9366906d7e41414198c73a57aeb3b85a38ac9306224078175bd51
+    source_url: https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 25e494adb67b104bb0b318b464a05d95494e4d06fcc5e178910e6020cf430f3e
+  la: 4bc96abe4cb9366906d7e41414198c73a57aeb3b85a38ac9306224078175bd51

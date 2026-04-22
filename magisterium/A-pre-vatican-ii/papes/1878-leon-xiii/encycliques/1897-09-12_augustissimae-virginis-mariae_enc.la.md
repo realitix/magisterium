@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html)
-
 SANCTISSIMI DOMINI NOSTRI  
 ** LEONIS  
 ** DIVINA PROVIDENTIA PAPAE XIII

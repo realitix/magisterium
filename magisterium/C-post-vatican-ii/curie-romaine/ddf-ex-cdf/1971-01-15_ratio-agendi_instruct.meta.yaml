@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '1971-01-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ba79960ff389519b2adc6536c61337a095a36cdb32322a558058b81e787a69d4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a4d8f6ddeeb43f86fda7b7a14c774e39837688c0c504c01d560e417348c38082
+  la: ba79960ff389519b2adc6536c61337a095a36cdb32322a558058b81e787a69d4

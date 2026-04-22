@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)  - [FR](/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)
-
   PIUS PP. XII
 
 LITTERAE ENCYCLICAE

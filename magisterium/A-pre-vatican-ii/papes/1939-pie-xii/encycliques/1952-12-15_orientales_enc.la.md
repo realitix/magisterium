@@ -1,5 +1,3 @@
-[IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html)
-
 PIUS PP. XII
 
 EPISTULA ENCYCLICA

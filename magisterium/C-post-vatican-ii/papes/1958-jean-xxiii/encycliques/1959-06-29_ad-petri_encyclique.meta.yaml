@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1959-06-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ddedaec500cacbd657d8b1dbb9841000b14f9a6e9f4dc4fca83f799f0ebd1340
+    source_url: https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 7266bec928785b62d3e63b211d1fc1098ebef26e731d24da73a24f3d2476909c
+  la: ddedaec500cacbd657d8b1dbb9841000b14f9a6e9f4dc4fca83f799f0ebd1340

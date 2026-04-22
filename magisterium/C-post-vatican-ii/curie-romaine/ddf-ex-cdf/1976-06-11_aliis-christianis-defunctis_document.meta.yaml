@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1976-06-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 329be988a115fcc590d0e8cb617f6ae8c53415334870d81a6792bce3d922577e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e0a671aacf1c5e5b3a6d769b1d0824566740cebd0ec2e7e8e2e0188333402bb2
+  la: 329be988a115fcc590d0e8cb617f6ae8c53415334870d81a6792bce3d922577e

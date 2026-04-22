@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2024-07-05'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- ge
-- it
-- la
-- pt
 langue_originale: la
 denzinger: []
 sujets: []
@@ -20,5 +15,25 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_decreto-opus-angelorum_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  it:
+    kind: officielle
+    sha256: 32771b37ac37878d54c04df8bd0e4bf6c70812f87b905dd702fca628689c2d1d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_decreto-opus-angelorum_it.html
+    fetched_at: '2026-04-22T07:24:30.345775Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: e56869aa4d553f91b325f64fba35b241ea2f4dcd9e3081b0d346c51e922da034
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_decreto-opus-angelorum_la.html
+    fetch_method: httpx
+langues_disponibles:
+- it
+- la
 sha256:
-  la: 90d12970261e19b6f8229ef23f080e8d371ba3abb79e348cd090435827e83933
+  it: 32771b37ac37878d54c04df8bd0e4bf6c70812f87b905dd702fca628689c2d1d
+  la: e56869aa4d553f91b325f64fba35b241ea2f4dcd9e3081b0d346c51e922da034

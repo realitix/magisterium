@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-optime-noscitis-20-marzo-1854.html)
-
 ENCICLICA  
 ***OPTIME NOSCITIS***  
 DEL SOMMO PONTEFICE  

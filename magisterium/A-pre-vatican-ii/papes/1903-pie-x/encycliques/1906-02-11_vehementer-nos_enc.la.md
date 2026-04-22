@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html)  - [FR](/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_11021906_vehementer-nos.html)
-
 EPISTOLA ENCYCLICA  
 SS. D. N. PII DIV. PROV. PP. X
 

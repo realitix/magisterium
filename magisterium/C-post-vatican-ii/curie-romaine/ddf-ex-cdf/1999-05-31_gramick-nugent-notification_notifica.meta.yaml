@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: notification
 date: '1999-05-31'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 43c0a3011fcfb7b58b654a92a9b15b077433af11bf73f385384868de1abe5e9d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19990531_gramick-nugent-notification_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 06d842ab7546987292ed5fdc516e42c5dd2ecfe5dc2b4231323bf80260b9e0a4
+  it: 43c0a3011fcfb7b58b654a92a9b15b077433af11bf73f385384868de1abe5e9d

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2002-08-05'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 0955ce5877471902cee4834b69c860ada69d68de5979a9b836e17af939dd0105
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: d1411ea571677e3dc1e32dcac363a630839be22de80ad9a376780624ca832036
+  it: 0955ce5877471902cee4834b69c860ada69d68de5979a9b836e17af939dd0105

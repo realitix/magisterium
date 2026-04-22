@@ -1,13 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[EN](rc_con_ccdds_doc_20220325_settimanasanta-2022_en.html) - [ES](rc_con_ccdds_doc_20220325_settimanasanta-2022_sp.html) - [FR](rc_con_ccdds_doc_20220325_settimanasanta-2022_fr.html) - [IT](rc_con_ccdds_doc_20220325_settimanasanta-2022_it.html)\]
-
 NOTA DELLA CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI
 

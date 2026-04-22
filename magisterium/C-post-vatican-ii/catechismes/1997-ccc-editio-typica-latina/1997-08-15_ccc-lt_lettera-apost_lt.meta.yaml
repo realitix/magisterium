@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: catechisme
 date: '1997-08-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 15623598b5397db7a922220afa485c06487cce0889fc16d3f6647d8eb6786424
+    source_url: https://www.vatican.va/archive/catechism_lt/lettera-apost_lt.htm
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: b10d9574a8a714f40e5d9e183cc8c10e21a4da5c89c2ee0ba646f53c222a12b5
+  la: 15623598b5397db7a922220afa485c06487cce0889fc16d3f6647d8eb6786424

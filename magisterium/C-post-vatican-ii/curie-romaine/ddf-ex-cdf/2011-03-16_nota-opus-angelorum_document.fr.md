@@ -1,6 +1,3 @@
-   
-) )   
-
 ***ARTICLE ILLUSTRATIF***
 
 L’OPUS SANCTORUM ANGELORUM\*

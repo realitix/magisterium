@@ -1,6 +1,3 @@
-   
-) )  
-
 SACERDOTI E RELIGIOSI NELL'ETÀ AVANZATA  
   
 XIII Conferenza Internazionale

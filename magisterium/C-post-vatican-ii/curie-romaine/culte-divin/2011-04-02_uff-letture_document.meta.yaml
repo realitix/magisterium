@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2011-04-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6008cb3302941ca882524fa16a3423c9571d9b48549e6ed148bd6d13b2163ec9
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20110402_uff-letture_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 3b8bd93afd11d9a108f6a695acd0401e1147a136eaf71470b6bcbc0f7ba510fe
+  la: 6008cb3302941ca882524fa16a3423c9571d9b48549e6ed148bd6d13b2163ec9

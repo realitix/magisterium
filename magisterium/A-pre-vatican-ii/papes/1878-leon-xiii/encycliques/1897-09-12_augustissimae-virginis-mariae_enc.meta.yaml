@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1897-09-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 40ffd4b1fcd0f80bf9d3a0eb4ed406b0959325cfbcbb71bf2a8517465b8e93be
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5949b86f93fe40ad59eccb1b80677089c946c93751200e96d252d2cd15b4469a
+  la: 40ffd4b1fcd0f80bf9d3a0eb4ed406b0959325cfbcbb71bf2a8517465b8e93be

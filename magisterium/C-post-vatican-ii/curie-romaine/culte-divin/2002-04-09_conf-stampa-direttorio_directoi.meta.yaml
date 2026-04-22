@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: directoire
 date: '2002-04-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 581b0226e1e0503d6c49e30ad9bfd1104a7589a19d628d9bac4759625b79c3ca
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020409_conf-stampa-direttorio_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 090b6326beec3f06d083e5c20be02ec780a2286d299b0fbfea4185b38bae79db
+  it: 581b0226e1e0503d6c49e30ad9bfd1104a7589a19d628d9bac4759625b79c3ca

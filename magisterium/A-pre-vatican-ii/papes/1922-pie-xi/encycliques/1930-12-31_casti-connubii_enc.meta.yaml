@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1930-12-31'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: da8cd1735e5f0d9198bc9810e3b1ac1dc61a6d563f16155b6567328eae4dbb6d
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e97651ba78135341d625a0f015434314c9acf88749fedab485c2b4533156eac8
+  la: da8cd1735e5f0d9198bc9810e3b1ac1dc61a6d563f16155b6567328eae4dbb6d

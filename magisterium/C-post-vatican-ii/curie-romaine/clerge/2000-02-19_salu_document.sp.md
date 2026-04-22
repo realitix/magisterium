@@ -1,6 +1,3 @@
-   
-) )  
-
 Saludo
 
 de S. Em. Cardenal Prefecto Darío Castrillón Hoyos

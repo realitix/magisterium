@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '2016-12-08'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: c8a03d987123095af1d43f5cbc925159288cd3ba047d3152c212eb26056f8e96
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20161208_ratio-fundamentalis-institutionis-sacerdotalis_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: c8f49358b196be3fab74ba9a858211d46f895bc8f9ec09579a5336b8c30922c2
+  it: c8a03d987123095af1d43f5cbc925159288cd3ba047d3152c212eb26056f8e96

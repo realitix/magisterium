@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_27111885_spectata-fides.html)
-
 LITTERAE
 
 ***SPECTATA FIDES\****

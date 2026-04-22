@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: lettre-apostolique
 date: '1839-12-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 91e53aff8a5bf07bd34621be732922dc9407aa480ba189b0b3e0f21671911ae2
+    source_url: https://www.papalencyclicals.net/greg16/g16sup.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 925eacdad04cf0a02941f8c0e26adeb9f10663105df5f47e007ca19d25d99510
+  en: 91e53aff8a5bf07bd34621be732922dc9407aa480ba189b0b3e0f21671911ae2

@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_05041906_tribus-circiter.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_05041906_tribus-circiter.html)
-
 LITTERAE ENCYCLICAE  
 SS. D. N. PII DIV. PROV. PP. X
 

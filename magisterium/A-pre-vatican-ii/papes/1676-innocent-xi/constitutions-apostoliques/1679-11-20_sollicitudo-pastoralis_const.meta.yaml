@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: constitution-apostolique
 date: '1679-11-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: e4a3de3d18a58e62683d26871c3d825ad1bbdadb3880eb66d007cc450e398870
+    source_url: https://www.papalencyclicals.net/innoc11/soll-l.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 3ba737ec8911fd33373ce5abfa2dc8c1258d6f64a1c0aac4fc3688065c99bb31
+  en: e4a3de3d18a58e62683d26871c3d825ad1bbdadb3880eb66d007cc450e398870

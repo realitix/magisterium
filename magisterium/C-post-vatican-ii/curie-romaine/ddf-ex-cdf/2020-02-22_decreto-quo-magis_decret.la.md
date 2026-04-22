@@ -1,16 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_cfaith_doc_20200222_decreto-quo-magis_ge.html) - [EN](rc_con_cfaith_doc_20200222_decreto-quo-magis_en.html) - [ES](rc_con_cfaith_doc_20200222_decreto-quo-magis_sp.html) - [FR](rc_con_cfaith_doc_20200222_decreto-quo-magis_fr.html) - [IT](rc_con_cfaith_doc_20200222_decreto-quo-magis_it.html) - [LA](rc_con_cfaith_doc_20200222_decreto-quo-magis_la.html) - [PT](rc_con_cfaith_doc_20200222_decreto-quo-magis_it.html)\]  
- 
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
  

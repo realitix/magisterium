@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-05-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 60ef459dd66194aaf3c188bf0561ec1c777f3946c3b777f85f19f890d7b9a29f
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20080530_santificazione-sacerdotale_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: cbeefa2dda20750ddbcc893556b534ebc66b88e522d7ef847ef194a4c54d35b0
+  it: 60ef459dd66194aaf3c188bf0561ec1c777f3946c3b777f85f19f890d7b9a29f

@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-nullis-certe-19-gennaio-1860.html)
-
 ENCICLICA  
 ***NULLIS CERTE***  
 DEL SOMMO PONTEFICE  

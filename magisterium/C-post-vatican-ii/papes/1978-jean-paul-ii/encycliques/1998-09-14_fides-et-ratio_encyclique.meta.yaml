@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1998-09-14'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 90bed88361d1191e6bbf7eed3e3892af21d2d731cd2f6ed3e6f88371cb9063a5
+    source_url: https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: dc204353f512fc033d2f116b83bcda1627ab016804beebfced12766b3f07b538
+  la: 90bed88361d1191e6bbf7eed3e3892af21d2d731cd2f6ed3e6f88371cb9063a5

@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-03-08'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 271ec2ffd9314cba88788d18190e5e0a7c7d67f3718de0f85c71c0ed8ab00c51
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20030308_sepe-cuba_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 3f6c1096a0b0a2de0e399949264757ccaa9f840d84b6f1b32a9ece0d37afc5ac
+  it: 271ec2ffd9314cba88788d18190e5e0a7c7d67f3718de0f85c71c0ed8ab00c51

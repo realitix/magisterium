@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
 langue_originale: en
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: ab4ed11a5579c628db79e1133f68062f83bc2472bfde94e02aa22fdfe463bd27
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_21022000_conf_en.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 8c4551104589c182eeefaa976a906669411b763c56a1059de9cd6324daf1121d
+  en: ab4ed11a5579c628db79e1133f68062f83bc2472bfde94e02aa22fdfe463bd27

@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '1966-11-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: bee82c1d20b52616f8154c4f0cd42cdfb0a860200b9b02c85bc8b9cb588201a1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5882ac67d85ece3695cd9513e088945f1a4048d4f7a948d199fe478309ce000e
+  la: bee82c1d20b52616f8154c4f0cd42cdfb0a860200b9b02c85bc8b9cb588201a1

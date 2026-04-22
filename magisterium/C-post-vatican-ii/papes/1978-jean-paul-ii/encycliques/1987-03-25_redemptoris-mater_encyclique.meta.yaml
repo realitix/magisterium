@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '1987-03-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ca3524aed7e5670fbd2ea9bfaeb5ecad7b7732c19d8560f4f48bba6836c23f29
+    source_url: https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: c8aac8c5afbaeeb37a513623ca70d349741319e6050e63768770bd1ee6ff21bd
+  it: ca3524aed7e5670fbd2ea9bfaeb5ecad7b7732c19d8560f4f48bba6836c23f29

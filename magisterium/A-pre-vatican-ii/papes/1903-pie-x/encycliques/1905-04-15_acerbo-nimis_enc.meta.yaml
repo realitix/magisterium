@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1905-04-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4d52c8651ed11473f1983aa370fc692e5dc17453e5fa0de2efe06f646655d11b
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a03af187748be9b368305e091c4ad78bd7b117cb898933b814e02b60d86854ba
+  la: 4d52c8651ed11473f1983aa370fc692e5dc17453e5fa0de2efe06f646655d11b

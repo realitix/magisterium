@@ -1,7 +1,3 @@
-   
-) )  
-
-  
 **CONGREGAZIONE PER IL CLERO**
 
 **DIRETTORIO  

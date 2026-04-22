@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2020-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: fbd1da663ea6a8a30bed77f000860406e17703ea127f6d9663a6d5e12c6ee9aa
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_en.html
+    fetched_at: '2026-04-22T07:20:56.085699Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: a1c6de39d0e3d5491892ad4b4288c2b285d61960e59b00f9d65245aee007a1bc
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_sp.html
+    fetched_at: '2026-04-22T07:21:12.259817Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: f4a47e423c43d645368502c1ffc33322404b4aa2a85bcd7048921a2c5fe36db8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_fr.html
+    fetched_at: '2026-04-22T07:21:28.116791Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 6aa518788439f1c32fcbfbb589dd0dc12a4cba47616ca42b16658dbe5d5bdd65
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_it.html
+    fetched_at: '2026-04-22T07:21:44.155017Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: b5ea028456074c645205b123e6953302284380cad9160dc067fc241542e5dd5e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_decreto-quo-magis_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: 09869e7d85cae63c6541541d21d5303893efd45b47b185bd67a161420c8c7b03
+  en: fbd1da663ea6a8a30bed77f000860406e17703ea127f6d9663a6d5e12c6ee9aa
+  es: a1c6de39d0e3d5491892ad4b4288c2b285d61960e59b00f9d65245aee007a1bc
+  fr: f4a47e423c43d645368502c1ffc33322404b4aa2a85bcd7048921a2c5fe36db8
+  it: 6aa518788439f1c32fcbfbb589dd0dc12a4cba47616ca42b16658dbe5d5bdd65
+  la: b5ea028456074c645205b123e6953302284380cad9160dc067fc241542e5dd5e

@@ -5,8 +5,6 @@ periode: vatican-ii
 type: constitution-conciliaire
 date: '1964-11-21'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: 581c1ea5f4d0954c74d8d9c668d04192843f10313be1855897124b8f1d01680e
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ar.html
+    fetched_at: '2026-04-22T06:45:50.533733Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: e1f152c9964565b7e73106d2593cb867671eeaab6aee78086dabcdad2ecc0369
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_cs.html
+    fetched_at: '2026-04-22T06:46:06.531867Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 7d78a0dcacdb3b8178da7c0406329f3f48b74e5ceb652d6752012b6f3db678b1
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
+    fetched_at: '2026-04-22T06:46:22.362109Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 74d307e44847bf8eddc0c938bbcd1226d60b9ed798a56ed67ab44e76c3232c8a
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html
+    fetched_at: '2026-04-22T06:46:38.651356Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 6e6cd8d1bde954b679c93f120824cfeb105d4e74218654d38e885442082ed329
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html
+    fetched_at: '2026-04-22T06:46:54.727879Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 9f3334eece671770d8c5f4b9cad3817990005cc03b6daf70bd34c43fe21a1786
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_hu.html
+    fetched_at: '2026-04-22T06:47:10.634361Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 26f14640fe4753c700ecac20a5bd6954abf945ee9c1d54fc954e7a0f535d1d4d
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html
+    fetched_at: '2026-04-22T06:47:26.689215Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 54b93e0cec79e9ee0a5165a4f183c927fab9b0430165e20485ec76d1a33ea507
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 94384b17a0e67e41193ed8c336ddad2ef4fd2c7493cc2df195d2b5a4e67d150a
+  ar: 581c1ea5f4d0954c74d8d9c668d04192843f10313be1855897124b8f1d01680e
+  cs: e1f152c9964565b7e73106d2593cb867671eeaab6aee78086dabcdad2ecc0369
+  en: 7d78a0dcacdb3b8178da7c0406329f3f48b74e5ceb652d6752012b6f3db678b1
+  es: 74d307e44847bf8eddc0c938bbcd1226d60b9ed798a56ed67ab44e76c3232c8a
+  fr: 6e6cd8d1bde954b679c93f120824cfeb105d4e74218654d38e885442082ed329
+  hu: 9f3334eece671770d8c5f4b9cad3817990005cc03b6daf70bd34c43fe21a1786
+  it: 26f14640fe4753c700ecac20a5bd6954abf945ee9c1d54fc954e7a0f535d1d4d
+  la: 54b93e0cec79e9ee0a5165a4f183c927fab9b0430165e20485ec76d1a33ea507

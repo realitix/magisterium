@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20111890_catholicae-ecclesiae.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20111890_catholicae-ecclesiae.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20111890_catholicae-ecclesiae.html)
-
 ***LITTERAE CIRCULARES  
 SANCTISSIMI D. N. LEONIS PAPAE XIII  
 QUIBUS CONSTITUITUR UT QUOTANNIS  

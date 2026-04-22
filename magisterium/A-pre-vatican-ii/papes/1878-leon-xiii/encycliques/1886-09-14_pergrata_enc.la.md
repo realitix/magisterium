@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_14091886_pergrata.html)
-
 ***EPISTOLA ENCYCLICA  
 SANCTISSIMI D. N. LEONIS PAPAE XIII  
 AD EPISCOPOS LUSITANIAE\****

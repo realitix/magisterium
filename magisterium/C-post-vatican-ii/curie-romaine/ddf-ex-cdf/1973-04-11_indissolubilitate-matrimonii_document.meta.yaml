@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1973-04-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: be673c29eb87a09daf4184133afa2ce7ae4cb03b603e0cbb724d959d49a0f968
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730411_indissolubilitate-matrimonii_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ee18b521c9b9e2921380e6cc968742c8b5c92962e799e7e39b1d5bd7cd32e905
+  la: be673c29eb87a09daf4184133afa2ce7ae4cb03b603e0cbb724d959d49a0f968

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1892-12-08'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: bf51695e8edc1cc853f500067185de21c5dfa3d206aa761ad5325ac9a7a1c163
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 0721901e8deeb0a60e433c362c3dcfd77bcc4f3aab0c119f1c8972d69fd3b6d0
+  la: bf51695e8edc1cc853f500067185de21c5dfa3d206aa761ad5325ac9a7a1c163

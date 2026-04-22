@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1891-03-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 56359d15e566461bd924ddf895aec38b46b04467118eb1629581c3f6484f7528
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_03031891_in-ipso.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 8b546187211729d2cb2febe88e8405554b59cbe341a85f24ab3354be8cad1d5f
+  la: 56359d15e566461bd924ddf895aec38b46b04467118eb1629581c3f6484f7528

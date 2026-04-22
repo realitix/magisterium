@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-11-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 154170a6f0860efe9c97df5d37766906a6ebdd0e4e4b3efa78463dc1a556665a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_card-biffi-politica_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 65672050b513fe879e7b6959c45953def54dd5cbfb6cf2e4ad341136285e356d
+  it: 154170a6f0860efe9c97df5d37766906a6ebdd0e4e4b3efa78463dc1a556665a

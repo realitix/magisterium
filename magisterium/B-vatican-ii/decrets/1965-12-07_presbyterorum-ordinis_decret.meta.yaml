@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1965-12-07'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: f57ce5f718d58b9fcb8043b5d1a7026d52e543999fa912b469d266425f82cac9
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_cs.html
+    fetched_at: '2026-04-22T06:48:08.574354Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 4e50eb24f6c5a237212692b0bb2c65a3ef06ddc407e4a196855a00e67d0a27ba
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html
+    fetched_at: '2026-04-22T06:48:24.581226Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 8940948e9acb927365b23ebffd57491c3aacfbc1a0d31f21c86d002ae9c79d64
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html
+    fetched_at: '2026-04-22T06:48:40.627633Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 8fe56453320eaf9462556c6b324363fd44c0f20b47add4571cc9e6fa729a96f2
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html
+    fetched_at: '2026-04-22T06:48:56.673369Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: d39018a28ac8c5c9652e94398f7a5b3a5893a4e25a41a861b312e607e467d717
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_hu.html
+    fetched_at: '2026-04-22T06:49:12.665431Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: c3221d2770d1ca2beff39c71f6757feb9acc7b1dfb3f1a90124b10885b6dbbdd
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_it.html
+    fetched_at: '2026-04-22T06:49:28.607707Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: d489118a1b1b5d15e8eb2c37cbcb6772afb65d67764e7ab0ba07f9dddeb53c43
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: cc18e874afc7f23c5b93656a2131d02e36b949b67ecaff6faa66fa87f090f895
+  cs: f57ce5f718d58b9fcb8043b5d1a7026d52e543999fa912b469d266425f82cac9
+  en: 4e50eb24f6c5a237212692b0bb2c65a3ef06ddc407e4a196855a00e67d0a27ba
+  es: 8940948e9acb927365b23ebffd57491c3aacfbc1a0d31f21c86d002ae9c79d64
+  fr: 8fe56453320eaf9462556c6b324363fd44c0f20b47add4571cc9e6fa729a96f2
+  hu: d39018a28ac8c5c9652e94398f7a5b3a5893a4e25a41a861b312e607e467d717
+  it: c3221d2770d1ca2beff39c71f6757feb9acc7b1dfb3f1a90124b10885b6dbbdd
+  la: d489118a1b1b5d15e8eb2c37cbcb6772afb65d67764e7ab0ba07f9dddeb53c43

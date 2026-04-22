@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1957-09-08'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 114f54835473e2994e80438a3d6b7d007e2144ccbcf6e678e6811c3078fafc2a
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 2ee4b87e20988fef9ba3daafaa236566d3f8ea1f6cddf66a8f73f12950bbfb52
+  la: 114f54835473e2994e80438a3d6b7d007e2144ccbcf6e678e6811c3078fafc2a

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1863-09-17'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 1a02f4325cdea9ee304bc2dac092ef017cc63f2e336d4337553415f9934667d5
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-incredibili-afflictamur-17-settembre-1863.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 404c2c80bebce46e590654fd77fdcf2c7917516d8fbc1035d012c0b2b026ae52
+  it: 1a02f4325cdea9ee304bc2dac092ef017cc63f2e336d4337553415f9934667d5

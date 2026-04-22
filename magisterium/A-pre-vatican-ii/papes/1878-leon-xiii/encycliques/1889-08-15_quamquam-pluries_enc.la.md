@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_15081889_quamquam-pluries.html)
-
 EPISTOLA ENCYCLICA
 
 ***QUAMQUAM PLURIES\****

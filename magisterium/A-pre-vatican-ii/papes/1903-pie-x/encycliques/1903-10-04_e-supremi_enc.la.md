@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html)  - [FR](/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html)
-
 EPISTOLA ENCYCLICA  
 ***E SUPREMI\****  
 SUMMI PONTIFICIS  

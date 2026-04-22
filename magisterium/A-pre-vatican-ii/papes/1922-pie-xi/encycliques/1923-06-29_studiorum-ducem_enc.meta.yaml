@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1923-06-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 9a6eef4effbcfc7b6b2131785adfc39738696f00a2adea51a07353847a11596d
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: f2020cc56b34d207da678e1739eaab302e1539a15ce74fc1c24ef7e168e11841
+  la: 9a6eef4effbcfc7b6b2131785adfc39738696f00a2adea51a07353847a11596d

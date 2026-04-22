@@ -5,8 +5,6 @@ periode: vatican-ii
 type: constitution-conciliaire
 date: '1965-11-18'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: 2d57f6311325d34a76a01a6bb2f2155c761bf6df31a0baef1c72f5e566adc165
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ar.html
+    fetched_at: '2026-04-22T06:45:52.296523Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: ec727de24787f3d1fede6e52f7714398323d25fa4232393a47517cc1949d8001
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_cs.html
+    fetched_at: '2026-04-22T06:46:08.238550Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 171548d98d0034e1485bb75f9278cff92961a94eff826f7c2d1cfbbbbc8c2220
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html
+    fetched_at: '2026-04-22T06:46:24.259674Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 3c442b38cde8bd2023832154373ae899d5208beaa8964395138e1448f4121d7c
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html
+    fetched_at: '2026-04-22T06:46:40.266549Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9bf0d44c7cda0fa60421d0171e17724744db0ebbb7fcd35eb30304d6dd4dd50d
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_fr.html
+    fetched_at: '2026-04-22T06:46:56.314425Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: e65d6981c1e939d89c9a8f68326b3cdf17b6d21a4525d274ce00e62eaf0f0d13
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_hu.html
+    fetched_at: '2026-04-22T06:47:12.402597Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 6decd17ef3bd3e450cfbe07a96c70478ff485a94a5852670390a183e5f593ac2
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html
+    fetched_at: '2026-04-22T06:47:28.361549Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 8ef3ff02a99da999f9978f9a2577fcbe9b6430d5846a0c152ca374b9b216d255
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 34fe279fc1ac69c8e77bdff95d3f5d97f75abb2ff4d770953cc3363d02407d77
+  ar: 2d57f6311325d34a76a01a6bb2f2155c761bf6df31a0baef1c72f5e566adc165
+  cs: ec727de24787f3d1fede6e52f7714398323d25fa4232393a47517cc1949d8001
+  en: 171548d98d0034e1485bb75f9278cff92961a94eff826f7c2d1cfbbbbc8c2220
+  es: 3c442b38cde8bd2023832154373ae899d5208beaa8964395138e1448f4121d7c
+  fr: 9bf0d44c7cda0fa60421d0171e17724744db0ebbb7fcd35eb30304d6dd4dd50d
+  hu: e65d6981c1e939d89c9a8f68326b3cdf17b6d21a4525d274ce00e62eaf0f0d13
+  it: 6decd17ef3bd3e450cfbe07a96c70478ff485a94a5852670390a183e5f593ac2
+  la: 8ef3ff02a99da999f9978f9a2577fcbe9b6430d5846a0c152ca374b9b216d255

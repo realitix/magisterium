@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-08-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 88c8dc6b48ea217ea600e11c7ea5c91683b9264978de4a9e80ba02437a2cc312
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20030829_mongolia-msgr-padilla_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 5a9aac4fd1cbebb3d5c3d041c0552e71f7b6e4095ff86a29d180a063e6e6f094
+  it: 88c8dc6b48ea217ea600e11c7ea5c91683b9264978de4a9e80ba02437a2cc312

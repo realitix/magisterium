@@ -1,13 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 **Regolamento dello Speciale Collegio Giudicante  
 istituito per l’esame dei ricorsi alla Sessione Ordinaria  
 della Congregazione per la Dottrina della Fede**

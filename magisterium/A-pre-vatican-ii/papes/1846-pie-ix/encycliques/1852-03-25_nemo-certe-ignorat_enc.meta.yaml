@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1852-03-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 88ec3325baae650f6813fdd6d7de4303f8debc294e5425edbaaf2bd92537a300
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-nemo-certe-ignorat-25-marzo-1852.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 373be661662b48f6d86b993297e5bc8087696a2f07524d73970c72e31f2f86cd
+  it: 88ec3325baae650f6813fdd6d7de4303f8debc294e5425edbaaf2bd92537a300

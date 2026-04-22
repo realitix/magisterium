@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1973-12-06'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c6c36d90e537d52a44631e888a8bf7ffd9e892169cee4add9e532d0ec75e1188
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19731206_dissolutionis-vinculi_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 9cff058735551134802669927784277b8793ac03005087b37bf8da1ffa2bdffb
+  la: c6c36d90e537d52a44631e888a8bf7ffd9e892169cee4add9e532d0ec75e1188

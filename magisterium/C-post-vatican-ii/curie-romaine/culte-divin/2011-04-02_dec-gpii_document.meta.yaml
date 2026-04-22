@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2011-04-02'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b1c67df94ee0aa0ed0ee3d21146817e14ac63c57b91ac94dfbd7b46d20e8045b
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20110402_dec-gpii_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: f45739991e01bfa242f5e22bc4cf34aeab99971bab5d40e9ed8002c68c2deda9
+  la: b1c67df94ee0aa0ed0ee3d21146817e14ac63c57b91ac94dfbd7b46d20e8045b

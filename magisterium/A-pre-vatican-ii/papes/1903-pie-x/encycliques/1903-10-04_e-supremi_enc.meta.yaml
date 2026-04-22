@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1903-10-04'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a31cc0bcf40be57b9b78ee4db410119dce14a2668eb19ccc44c7da295d11d4df
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_04101903_e-supremi.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1a8461f7a0130cd348c7dd02ea6243ddf4db8056027953e207cfb3fb71240b87
+  la: a31cc0bcf40be57b9b78ee4db410119dce14a2668eb19ccc44c7da295d11d4df

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2004-10-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: e655fc14df13d7b9b11f6d60a0bc9be753d2faac0fa5f553af69dacc4ac7becb
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20041024_giornata-missionaria_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 88255b01e541ffef0b772ecccad80527ede7492ecec5c02757ed9b1ff085438a
+  it: e655fc14df13d7b9b11f6d60a0bc9be753d2faac0fa5f553af69dacc4ac7becb

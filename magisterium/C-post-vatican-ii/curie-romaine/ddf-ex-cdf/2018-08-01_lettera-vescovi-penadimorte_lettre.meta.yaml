@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2018-08-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- sp
-- vi
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: e823ad5c052783d66ce64b5188e7e8a96bd13ad705bc8b9d0ed791616c67e855
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_en.html
+    fetched_at: '2026-04-22T07:20:05.938996Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 666bda2087279bf685edee4774b435dec8c081f2f8202683b82fa2ca4f53c6e4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_sp.html
+    fetched_at: '2026-04-22T07:20:22.106769Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 579da98687e7ba760441ca67b89875ed64587284c5c0035737a868e1394a923c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_fr.html
+    fetched_at: '2026-04-22T07:20:38.121154Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 3e6af8d1757725b5c9030406894104fb63150f3e62eac993ca1f1aae111bcde2
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 00fa7566b2ad0b6361048f744731901ac5586fa9644bea435fcbd44ff3a82cdf
+  en: e823ad5c052783d66ce64b5188e7e8a96bd13ad705bc8b9d0ed791616c67e855
+  es: 666bda2087279bf685edee4774b435dec8c081f2f8202683b82fa2ca4f53c6e4
+  fr: 579da98687e7ba760441ca67b89875ed64587284c5c0035737a868e1394a923c
+  it: 3e6af8d1757725b5c9030406894104fb63150f3e62eac993ca1f1aae111bcde2

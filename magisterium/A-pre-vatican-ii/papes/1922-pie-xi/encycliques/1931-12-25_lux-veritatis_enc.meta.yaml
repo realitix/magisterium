@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1931-12-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 80f6116c73873fc1ce25a148aa73e814bcd1ba708cfec4f98c1a9b24b4258fc3
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311225_lux-veritatis.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e21c0dedcb9029f9a71d728d4584bcd6dd74f8625b95ce0c9c1ed5cf0f007daa
+  la: 80f6116c73873fc1ce25a148aa73e814bcd1ba708cfec4f98c1a9b24b4258fc3

@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html)
-
 ***EPISTOLA ENCYCLICA SSMI D. N. LEONIS XIII  
 AD PATRIARCHAS PRIMATES ARCHIEPISCOPOS EPISCOPOS  
 ALIOSQUE LOCORUM ORDINARIOS PACEM ET COMMUNIONEM  

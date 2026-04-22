@@ -1,15 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[BE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_be.html) - [CS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_cs.html) - [DE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_ge.html) - [EN](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html) - [ES](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html) - [FR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_fr.html) - [IT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_it.html) - [HU](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_hu.html) - [LA](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_lt.html) - [LV](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_lv.html) - [PT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_po.html) - [SW](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sw.html) - [ZH](/chinese/concilio/vat-ii_ad-gentes_zh-t.pdf)\]
-
- 
-
 PAULUS EPISCOPUS  
 SERVUS SERVORUM DEI  
 UNA CUM SACROSANCTI CONCILII PATRIBUS  

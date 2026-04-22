@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1748-06-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 238581d3537199ae7eb46c3190cff006231cfc873028d8bf8a7d2897fe397812
+    source_url: https://www.papalencyclicals.net/ben14/b14magna.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 0960c9e17a5b9739e0f1f5ae2bab8712c89d5983dfb8d1732401d495efb0e7af
+  en: 238581d3537199ae7eb46c3190cff006231cfc873028d8bf8a7d2897fe397812

@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-01-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 449b166b7046daf9624deb6fb7124d1aa173ab4ddf83b4f9c182ab6b9c899a88
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980101_ratzinger-comm-divorced_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: cc8cf6890e8f88795043e291b54741d7cba407031d838a811ce96e73670c986e
+  it: 449b166b7046daf9624deb6fb7124d1aa173ab4ddf83b4f9c182ab6b9c899a88

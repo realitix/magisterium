@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1919-11-24'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6867725ee4a13409e486ec696059deef15d6a60c87afeaceaae821c05eab92be
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_24111919_paterno-iam-diu.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 92222098fe286201a58bd3c45c8c20a50ea10de42fabd132cd4d67b8bbd01664
+  la: 6867725ee4a13409e486ec696059deef15d6a60c87afeaceaae821c05eab92be

@@ -1,6 +1,3 @@
-   
-) )   
-
 ** PROFESSIONE DI FEDE E GIURAMENTO DI FEDELTÀ**
 
 Considerazioni dottrinali\*

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1978-04-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 257c1451bcb9357a3a7d6f45accab0016889501f1576a9b782d4c2da17fca0b8
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780415_kowalska_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 683389344340c5074663bbe275451c3ee60ec390c7d41f637bfdae89e0e92af5
+  it: 257c1451bcb9357a3a7d6f45accab0016889501f1576a9b782d4c2da17fca0b8

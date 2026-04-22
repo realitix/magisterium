@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1871-08-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 41276904a86e582e491af3bf0cfdcd7aaa36eb7936928038eb6ac8e8b7ae4c10
+    source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-saepe-venerabiles-5-augusti-1871.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 86a0a93e7bc985de85cedd1efac08a9468cefb6a860202697c43c3784ce37b23
+  la: 41276904a86e582e491af3bf0cfdcd7aaa36eb7936928038eb6ac8e8b7ae4c10

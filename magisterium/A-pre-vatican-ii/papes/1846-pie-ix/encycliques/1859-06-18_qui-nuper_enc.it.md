@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-qui-nuper-18-giugno-1859.html)
-
 ENCICLICA  
 ***QUI NUPER  
 *** DEL SOMMO PONTEFICE  

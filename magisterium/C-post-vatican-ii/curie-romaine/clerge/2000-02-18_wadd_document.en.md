@@ -1,6 +1,3 @@
-   
-) )  
-
 WELCOMING ADDRESS
 
 Delivered by His Em. Card. Darío Castrillón Hoyos, Prefect

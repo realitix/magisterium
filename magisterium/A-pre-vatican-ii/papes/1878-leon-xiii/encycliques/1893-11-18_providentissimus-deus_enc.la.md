@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html)  - [ES](/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html)  - [FR](/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html)
-
 SANCTISSIMI DOMINI NOSTRI LEONIS DIVINA PROVIDENTIA PAPAE XIII  
 LITTERAE ENCYCLICAE  
 ***DE STUDIIS SCRIPTURAE SACRAE\*  

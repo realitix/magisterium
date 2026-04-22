@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/epistola-encyclica-beneficia-dei-4-iunii-1871.html)  - [LA](/content/pius-ix/la/documents/epistola-encyclica-beneficia-dei-4-iunii-1871.html)
-
  PIUS PAPA IX
 
 ***BENEFICIA DEI\****

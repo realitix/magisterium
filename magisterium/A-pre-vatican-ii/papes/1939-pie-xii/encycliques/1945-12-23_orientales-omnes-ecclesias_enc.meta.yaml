@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1945-12-23'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 71b5800817e97a835cfaae299132d4d87f907168e81e545661c0fe04cd92ada9
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d63103f8369559885e14bdc17bc3bd8586e3a28981b479af51d6b84bab564da5
+  la: 71b5800817e97a835cfaae299132d4d87f907168e81e545661c0fe04cd92ada9

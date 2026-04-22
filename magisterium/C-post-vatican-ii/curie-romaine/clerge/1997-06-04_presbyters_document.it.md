@@ -1,8 +1,3 @@
-   
-) )  
-
-  
-
 ***III Giornata mondiale di Preghiera per la Santificazione dei Presbiteri***
 
 ***6 giugno 1997 - Festa del Sacro Cuore di Gesù***

@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html)
-
 SANCTISSIMI DOMINI NOSTRI  
 LEONIS  
 DIVINA PROVIDENTIA  

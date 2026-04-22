@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '2021-12-04'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: b7a2c30716778cf011c7fa640e977e5ac3b90dc559d9c3c78a9e368cb7c0f7fd
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_en.html
+    fetched_at: '2026-04-22T07:13:17.600798Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 434873e80ba6f02ee06b70471c25dd99a42a6da2694b0400334cbbda72d0d1e7
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_sp.html
+    fetched_at: '2026-04-22T07:13:33.621812Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 99033bef70ff190de26c774893b1574f6810aaae3a6f48e6f696f73f04308583
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_fr.html
+    fetched_at: '2026-04-22T07:13:49.651428Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: d30846b4cfbb4347c50cd4f35ac2f55aa3d6fe474f55d21b7c990b65b02562ce
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: f388c7c5f95797297cbfdfe95a21c23409e744a4cd6b13ea6e757f9501ddce29
+  en: b7a2c30716778cf011c7fa640e977e5ac3b90dc559d9c3c78a9e368cb7c0f7fd
+  es: 434873e80ba6f02ee06b70471c25dd99a42a6da2694b0400334cbbda72d0d1e7
+  fr: 99033bef70ff190de26c774893b1574f6810aaae3a6f48e6f696f73f04308583
+  it: d30846b4cfbb4347c50cd4f35ac2f55aa3d6fe474f55d21b7c990b65b02562ce

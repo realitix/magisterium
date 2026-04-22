@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1944-04-09'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 1fdf6c09da49f718080e7bfd72b9c490a6e4dcc1c8a6c417dbb2127482c22e2f
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19440409_orientalis-ecclesiae.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 48e0d7c5fda11a4eafae4a2c5a85859f740732fb2eab058db72594716553b8d8
+  la: 1fdf6c09da49f718080e7bfd72b9c490a6e4dcc1c8a6c417dbb2127482c22e2f

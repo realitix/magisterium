@@ -1,6 +1,3 @@
-   
-) )  
-
 Le Christ hier, aujourd’hui et à jamais
 
 Conférence de son Éminence Mgr Darío Castrillón Hoyos

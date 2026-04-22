@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2024-08-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 82d6113529d3617de8f743bc7430a295a14647ed14008c6bd7869d0890124f1f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_en.html
+    fetched_at: '2026-04-22T07:25:30.383621Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 00e960d4b14ebb62410fa725be96890026094b747681d775a09025f5bfa8da63
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_sp.html
+    fetched_at: '2026-04-22T07:25:46.408125Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 29baf6aaf5599b40183d19dd84f13099c5b0fa62c2104430baaa70f8d8e46add
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_fr.html
+    fetched_at: '2026-04-22T07:26:02.372818Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 6d310be460bd575ea9748f7d59e8ce718f5f848c037baab366478692931aa0c3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 5d23752113a408200f710648c416f25ef7b52a5900267fc0d1747c38a8755273
+  en: 82d6113529d3617de8f743bc7430a295a14647ed14008c6bd7869d0890124f1f
+  es: 00e960d4b14ebb62410fa725be96890026094b747681d775a09025f5bfa8da63
+  fr: 29baf6aaf5599b40183d19dd84f13099c5b0fa62c2104430baaa70f8d8e46add
+  it: 6d310be460bd575ea9748f7d59e8ce718f5f848c037baab366478692931aa0c3

@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-10-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- pt
-- sp
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 1724f7f9688e8a199d20d542cfbc9776ffb3b422fb08085bee98ee65bbddd4a6
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20021012_sepe-jpii_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 536afaebdba83b07b4b5b17d5e8d916e827b49676ff6bd0a091b4190898035df
+  fr: 1724f7f9688e8a199d20d542cfbc9776ffb3b422fb08085bee98ee65bbddd4a6

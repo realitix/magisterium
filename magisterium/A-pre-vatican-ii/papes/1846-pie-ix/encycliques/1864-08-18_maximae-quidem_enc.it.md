@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-maximae-quidem-18-agosto-1864.html)
-
 ENCICLICA  
 ***MAXIMAE QUIDEM  
 *** DEL SOMMO PONTEFICE  

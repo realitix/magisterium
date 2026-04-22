@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_02091893_constanti-hungarorum.html)
-
 SANCTISSIMI DOMINI NOSTRI  
 LEONIS  
 DIVINA PROVIDENTIA  

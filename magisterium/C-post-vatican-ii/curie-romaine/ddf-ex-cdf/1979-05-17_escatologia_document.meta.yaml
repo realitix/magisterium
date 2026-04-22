@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1979-05-17'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: fde3193eb9aa3ebfb1f71b59f5f289c0153f11475289bd75d3df1421680e6e17
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790517_escatologia_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: dcae76c937e28138cff3b23ebab56faf79cc64144ce20ce21348b552940560e9
+  it: fde3193eb9aa3ebfb1f71b59f5f289c0153f11475289bd75d3df1421680e6e17

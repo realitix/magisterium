@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1985-09-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 796e1b58a6051a627b476bdf5f6cbe56552dabdd45f52a3164750858ba6c9cc2
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850924_exorcism_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 3ca1e9ffc931803db63bc9df6d170473a6c333623d0aa662924b061c50463303
+  la: 796e1b58a6051a627b476bdf5f6cbe56552dabdd45f52a3164750858ba6c9cc2

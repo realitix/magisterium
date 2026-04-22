@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-ubi-primum-17-giugno-1847.html)
-
 ENCICLICA  
 ***UBI PRIMUM***  
 DEL SOMMO PONTEFICE  

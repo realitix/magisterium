@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2020-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-quomagis_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-quomagis_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-quomagis_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 316becb6dcf9d734b578b07ae90d95e430880292e46324a09368e2e6d9a94522
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-quomagis_en.html
+    fetched_at: '2026-04-22T07:21:10.136841Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: b8c6dbe7ede26da0303b21161dfef185fa007b1b2f03705f91d524b1a1073d6a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-quomagis_sp.html
+    fetched_at: '2026-04-22T07:21:26.098787Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 8d363e32ca06a1e8ef6b8e927eb7d56b788b7ef839f17f6838b2a24bde28f6e4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-quomagis_fr.html
+    fetched_at: '2026-04-22T07:21:42.170300Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: c5cac204965bcfa6693f4fdea2cfc6897037e207eecf31de7edda1b3cd02cc3a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200222_nota-decreto-quomagis_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: efed33bca1d66110e05585a22a15bc62a9ec760f1ee442534fc5b4aa95719b88
+  en: 316becb6dcf9d734b578b07ae90d95e430880292e46324a09368e2e6d9a94522
+  es: b8c6dbe7ede26da0303b21161dfef185fa007b1b2f03705f91d524b1a1073d6a
+  fr: 8d363e32ca06a1e8ef6b8e927eb7d56b788b7ef839f17f6838b2a24bde28f6e4
+  it: c5cac204965bcfa6693f4fdea2cfc6897037e207eecf31de7edda1b3cd02cc3a

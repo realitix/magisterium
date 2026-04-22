@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1570-03-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -22,5 +19,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 91c8a41b6989519d19af85a21b0196a418f75aa2bb4f5a440e058d716dfe7bb9
+    source_url: https://www.papalencyclicals.net/pius05/p5regnans.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 627ec2e181c5960ae9c475882fe6c55ff6255d10a8d3fba6020790804e2593c0
+  en: 91c8a41b6989519d19af85a21b0196a418f75aa2bb4f5a440e058d716dfe7bb9

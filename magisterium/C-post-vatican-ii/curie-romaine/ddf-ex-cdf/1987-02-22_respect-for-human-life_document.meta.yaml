@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1987-02-22'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: d3c08b5cb3c5e80a4e372408995a04cadd30e7040af77d8c058aca20dc10325f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 4d129159bafe0e5c91df4d5bd8d641f96286e3343fc6fe4b6939d188254a5fb6
+  la: d3c08b5cb3c5e80a4e372408995a04cadd30e7040af77d8c058aca20dc10325f

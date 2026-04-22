@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-01-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: bc5284376af577862dd72909de6fb8321708ad87069bd71038ef3fbd62b42842
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240130_chiarimento-adulti-vulnerabili_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: a790497eda83853a2f3844f90cb455456ea631e60c6cc1799f3f723584a453c2
+  it: bc5284376af577862dd72909de6fb8321708ad87069bd71038ef3fbd62b42842

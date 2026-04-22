@@ -1,6 +1,3 @@
-   
-) )  
-
 Postquam apostoli
 
 Directives for Collaboration among Local Churches

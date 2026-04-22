@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1977-05-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 638f8aa30f437f2b0537ecc7dbd0cba52e100e9b686ddbc0e94224181006f4c2
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19770513_impotentia_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: d573f123bf4e0d725c95d72a11af76dc61a98cefd7b4545b8a694321aa7751fb
+  la: 638f8aa30f437f2b0537ecc7dbd0cba52e100e9b686ddbc0e94224181006f4c2

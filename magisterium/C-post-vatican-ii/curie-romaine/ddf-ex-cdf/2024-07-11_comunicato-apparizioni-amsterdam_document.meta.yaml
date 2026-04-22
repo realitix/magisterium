@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-07-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- nl
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_nl.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: cfd37f6cb9f05607e4364c682da257a2ed34ffdbcb180315b3afaff8ba657779
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_en.html
+    fetched_at: '2026-04-22T07:25:02.376830Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: b3e3277d48769217d6d020b1cadb5f79b30c6dc1aebba43b5f2778941141a851
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_sp.html
+    fetched_at: '2026-04-22T07:25:18.374742Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: cf4e8ad0aa6cd51e13c619e18d41f571a728522ef22f8e9d2506d4569065da8d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_fr.html
+    fetched_at: '2026-04-22T07:25:34.342237Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 81a1c81bd596a39524935418c5ba30593c297795464740b3899a097f6da5639e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_it.html
+    fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: fb38bcad1133e91562ba33bde5df44a8785e10f5be666d847bb1f6ded3969ff9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_nl.html
+    fetched_at: '2026-04-22T07:25:50.400089Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: cf6fdca47ff6eae12720f32f06b2d0929d8de071eec8c25056a66659e4dc2d05
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_pl.html
+    fetched_at: '2026-04-22T07:26:06.422151Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- nl
+- pl
 sha256:
-  it: 18f8f0e2d33e8c94c929cbdbadb3b07988a9c5ae46e9eae93a7e126b41a2eb47
+  en: cfd37f6cb9f05607e4364c682da257a2ed34ffdbcb180315b3afaff8ba657779
+  es: b3e3277d48769217d6d020b1cadb5f79b30c6dc1aebba43b5f2778941141a851
+  fr: cf4e8ad0aa6cd51e13c619e18d41f571a728522ef22f8e9d2506d4569065da8d
+  it: 81a1c81bd596a39524935418c5ba30593c297795464740b3899a097f6da5639e
+  nl: fb38bcad1133e91562ba33bde5df44a8785e10f5be666d847bb1f6ded3969ff9
+  pl: cf6fdca47ff6eae12720f32f06b2d0929d8de071eec8c25056a66659e4dc2d05

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2001-05-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 0f8d2263eefcb3aff8a3565df9afbe27479863789251db10e53f3a7da27b9f88
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20010515_vidal_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 9da5c0d98c4c04208f955928026bb15623711bffc9259eb869c5013bd6c9fc4c
+  it: 0f8d2263eefcb3aff8a3565df9afbe27479863789251db10e53f3a7da27b9f88

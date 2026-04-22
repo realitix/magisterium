@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1997-07-08'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 3f87bc4d65eb72a1c2a72f512617fd61577196845ad25445f6bfcd9150b4fe68
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_08071997_christ_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: e1aa3855aa4d5dc509fa98503ae02c615da91d8fa9a120d1b08b3d0b56f40ee4
+  fr: 3f87bc4d65eb72a1c2a72f512617fd61577196845ad25445f6bfcd9150b4fe68

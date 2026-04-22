@@ -1,6 +1,3 @@
-   
-) )   
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***Decreto di Erezione dell’Ordinariato Personale  

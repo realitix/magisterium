@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1923-01-26'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f381f29f988a45b90f1f586cc82d6970156343a47d49cad2cf8f4909c9770dbd
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 35478525c5ba0737d9c36089fccb4b2e26b724e952a3beac0ec1e10a18c7bc28
+  la: f381f29f988a45b90f1f586cc82d6970156343a47d49cad2cf8f4909c9770dbd

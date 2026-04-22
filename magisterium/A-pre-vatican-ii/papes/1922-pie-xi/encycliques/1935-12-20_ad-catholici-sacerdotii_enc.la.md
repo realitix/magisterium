@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html)
-
 LITTERAE ENCYCLICAE  
 ***AD CATHOLICI SACERDOTII***  
 VENERABILIBUS FRATRIBUS  

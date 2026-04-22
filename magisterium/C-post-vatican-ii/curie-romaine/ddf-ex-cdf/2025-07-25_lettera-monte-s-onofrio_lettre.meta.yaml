@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2025-07-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: f8804fe9fa3e49adb919a190d3167d2e9ce5b4b28215748b20e30f1cf54bd3be
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_en.html
+    fetched_at: '2026-04-22T07:26:34.567591Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 7a089444024169808a299ae3db163189045a7fc0fabe96c7c8c6b7a03a394ebc
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_sp.html
+    fetched_at: '2026-04-22T07:26:50.585281Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 8ba16e905182f102d73a1237ca47cf9d25f8f957c2cd61ca262de8e0444e2cda
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_fr.html
+    fetched_at: '2026-04-22T07:27:06.611192Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: e4bb616ec1361fa73f22da19b532efd031c28bb741b4ae01f627273a150eadd6
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: c641f22aca51923eaaf36cbd3f73db406b786801a7214dc9cce51322a8071318
+  en: f8804fe9fa3e49adb919a190d3167d2e9ce5b4b28215748b20e30f1cf54bd3be
+  es: 7a089444024169808a299ae3db163189045a7fc0fabe96c7c8c6b7a03a394ebc
+  fr: 8ba16e905182f102d73a1237ca47cf9d25f8f957c2cd61ca262de8e0444e2cda
+  it: e4bb616ec1361fa73f22da19b532efd031c28bb741b4ae01f627273a150eadd6

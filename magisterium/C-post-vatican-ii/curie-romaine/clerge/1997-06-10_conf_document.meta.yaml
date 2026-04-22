@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1997-06-10'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 187447bf081a1587701e1d47b97b9eefa6ef6f25cfda8224162cb8e406886a9c
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_10061997_conf_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 97b42acb37c3bcc3ccd9dbd74ddb7cc83726eb5f36a4412ff4d16f2bc524377c
+  it: 187447bf081a1587701e1d47b97b9eefa6ef6f25cfda8224162cb8e406886a9c

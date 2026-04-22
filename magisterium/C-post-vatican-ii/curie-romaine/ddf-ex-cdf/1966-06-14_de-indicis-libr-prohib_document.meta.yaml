@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1966-06-14'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 90f5d51e5f573cf8915b66f4b27ae8b2bfd1526fe06b150fd278f3ef1e245188
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660614_de-indicis-libr-prohib_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 68d16f5101ff3a3b37f06e84fed6725b6def0161eb0a96c8275071d4f1b1c013
+  la: 90f5d51e5f573cf8915b66f4b27ae8b2bfd1526fe06b150fd278f3ef1e245188

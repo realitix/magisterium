@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1520-06-15'
 autorite_magisterielle: magistere-extraordinaire-constitution-dogmatique
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 4c604c961c079676aa7f06b132a48ec194e00dea275da12b2ded2aa45af50807
+    source_url: https://www.papalencyclicals.net/leo10/l10exdom.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 26de9af81ef55bc2b3736f02b54744c30d647f60d8efcb4169caba0877cde67c
+  en: 4c604c961c079676aa7f06b132a48ec194e00dea275da12b2ded2aa45af50807

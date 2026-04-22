@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1925-12-11'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: fb5304fe70c67d0a9f1315e452955ad819824ebc13c8f00d3151a6d4aafc1e14
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c95da2922d7c754329af607cf4e0214104a0c1bf4d00b16dea8f697251ad1d25
+  la: fb5304fe70c67d0a9f1315e452955ad819824ebc13c8f00d3151a6d4aafc1e14

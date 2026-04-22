@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/epistola-encyclica-gravibus-ecclesiae-24-decembris-1874.html)  - [LA](/content/pius-ix/la/documents/epistola-encyclica-gravibus-ecclesiae-24-decembris-1874.html)
-
 PIUS PP. IX
 
 ***GRAVIBUS ECCLESIAE\****

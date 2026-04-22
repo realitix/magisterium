@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html)  - [ES](/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280508_miserentissimus-redemptor.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

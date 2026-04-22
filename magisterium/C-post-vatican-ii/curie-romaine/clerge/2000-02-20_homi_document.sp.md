@@ -1,6 +1,3 @@
-   
-) )  
-
 HOMILÍA
 
 de Su Eminencia el Cardenal Darío Castrillón Hoyos

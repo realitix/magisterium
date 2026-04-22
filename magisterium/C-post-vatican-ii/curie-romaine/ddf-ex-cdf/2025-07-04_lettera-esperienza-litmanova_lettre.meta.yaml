@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2025-07-04'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pl
-- sk
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sk.html
+  site: www.vatican.va
+  langue: sk
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: c4161820a0beff89ce346ebc662af32f34c410b67808038780106abbf7994fba
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_en.html
+    fetched_at: '2026-04-22T07:26:26.532829Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 569220fa2eb57c7376af52ba42cef2fd319e940ee57c2523e8214655f379e1d3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sp.html
+    fetched_at: '2026-04-22T07:26:42.541963Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 1572429284412e1a1d9d43967037b7e9392017e8492fc41a45f880c44edac967
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_fr.html
+    fetched_at: '2026-04-22T07:26:58.510244Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 66d3fb879c56305d9f30850c179676e08ccf17f60df9417656edda708d58a981
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 5e9199c34d1fb738f7556b388422f3c51042e07c3d488b1e54639374e72eddc3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_pl.html
+    fetched_at: '2026-04-22T07:27:14.554254Z'
+    fetch_method: httpx
+  sk:
+    kind: officielle
+    sha256: bdc0562f27b0f6c34e251b411aab0d7f4b0b35ebba48068fae9a47c058c86644
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sk.html
+    fetched_at: '2026-04-22T07:27:30.640500Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
+- sk
 sha256:
-  it: 6c45b2463a787bd38190ffc8de3998ad95e37b9ce583b9291cb1ac7d21a225ae
+  en: c4161820a0beff89ce346ebc662af32f34c410b67808038780106abbf7994fba
+  es: 569220fa2eb57c7376af52ba42cef2fd319e940ee57c2523e8214655f379e1d3
+  fr: 1572429284412e1a1d9d43967037b7e9392017e8492fc41a45f880c44edac967
+  it: 66d3fb879c56305d9f30850c179676e08ccf17f60df9417656edda708d58a981
+  pl: 5e9199c34d1fb738f7556b388422f3c51042e07c3d488b1e54639374e72eddc3
+  sk: bdc0562f27b0f6c34e251b411aab0d7f4b0b35ebba48068fae9a47c058c86644

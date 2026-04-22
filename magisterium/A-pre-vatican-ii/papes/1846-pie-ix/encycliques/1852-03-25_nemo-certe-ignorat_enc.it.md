@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-nemo-certe-ignorat-25-marzo-1852.html)
-
 ENCICLICA  
 ***NEMO CERTE IGNORAT***  
 DEL SOMMO PONTEFICE  

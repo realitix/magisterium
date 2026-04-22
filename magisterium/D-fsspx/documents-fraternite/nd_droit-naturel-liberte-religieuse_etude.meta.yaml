@@ -3,8 +3,6 @@ titre_fr: Analyse critique du droit à la liberté religieuse
 auteur: Fraternité Saint-Pie X
 periode: fsspx
 type: etude
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: d5add6fd1eb9ff4e4c2d9eb35d1626f40a9d64d0f6c573a6251174865540845b
+    source_url: https://laportelatine.org/critique-du-concile-vatican-ii/y-a-t-il-un-droit-naturel-a-la-liberte-religieuse
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 0fe7680e9df1234cf08e4c877649120af93cc11e5ffe60e41206a98ddc9da1b2
+  fr: d5add6fd1eb9ff4e4c2d9eb35d1626f40a9d64d0f6c573a6251174865540845b

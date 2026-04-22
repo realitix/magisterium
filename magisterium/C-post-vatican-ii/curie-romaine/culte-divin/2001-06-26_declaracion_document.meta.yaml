@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2001-06-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- sp
 langue_originale: sp
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: sp
   fetch_method: httpx
+traductions:
+  sp:
+    kind: originale
+    sha256: 1cfd540263d85f9ca9cc954cd2d6e8af50193dd1a0a343ab1e89ca917cba522f
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20010626_declaracion_sp.html
+    fetch_method: httpx
+langues_disponibles:
+- sp
 sha256:
-  sp: 461eea27e45395fba8701f1a47e6e27a214fda3bbdf5c719406b5003b08fc4bd
+  sp: 1cfd540263d85f9ca9cc954cd2d6e8af50193dd1a0a343ab1e89ca917cba522f

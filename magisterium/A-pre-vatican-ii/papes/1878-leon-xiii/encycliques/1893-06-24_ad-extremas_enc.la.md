@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_24061893_ad-extremas.html)
-
 ***EPISTOLA SSMI D.N. LEONIS XIII  
 DE COLLEGIIS CLERICORUM IN INDIIS  
 ORIENTALIBUS INSTITUENDIS\****

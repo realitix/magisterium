@@ -1,5 +1,3 @@
-[DE](/content/john-xxiii/de/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [EN](/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [ES](/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [FR](/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [HU](/content/john-xxiii/hu/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [IT](/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [LA](/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [PT](/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)  - [SW](/content/john-xxiii/sw/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)
-
 LITTERAE ENCYCLICAE***  
 PACEM IN TERRIS  
 ***SUMMI PONTIFICIS  

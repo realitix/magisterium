@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: instruction-liturgique
 date: '2001-03-28'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 84736caaacecfd6e985d063f01e17a5e61b7a13de356f966b246b9b1d4106e7c
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20010507_liturgiam-authenticam_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c7f2dcb1d5ba8c47b7a6f883e790560c86d3422d3fc7c5a5e121fb31fca74951
+  la: 84736caaacecfd6e985d063f01e17a5e61b7a13de356f966b246b9b1d4106e7c

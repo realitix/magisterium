@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '1974-01-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 6681504bfe3a49b3120e756828412ecb6c72eb4193276c18f36f8fd025af7bf4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_comm-instauratio-liturgica_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 3a50864c35a343551918bad98025c5cc4e5050d5b6326c5a6382f392f28c4478
+  it: 6681504bfe3a49b3120e756828412ecb6c72eb4193276c18f36f8fd025af7bf4

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1950-12-06'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4ddea893efd014a23797098fc65aab8e2d38037d526a81fdb36c8939f3b895a3
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: b2cec9075e968958c35b670deaeef3a3fa5cfd2d7a38ecc55885d907db731b4d
+  la: 4ddea893efd014a23797098fc65aab8e2d38037d526a81fdb36c8939f3b895a3

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-10-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 2fd948271143d1b08a95c8c06c04793a84c8037b04161dedb4a417db9e96a5b8
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_30101998_religiosi_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 0e3802930405910e3bca640f02be8747d3e43131294670015c0b4f9ea986c9e4
+  it: 2fd948271143d1b08a95c8c06c04793a84c8037b04161dedb4a417db9e96a5b8

@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html)
-
 PIUS PP. XII
 
 EPISTULA ENCYCLICA

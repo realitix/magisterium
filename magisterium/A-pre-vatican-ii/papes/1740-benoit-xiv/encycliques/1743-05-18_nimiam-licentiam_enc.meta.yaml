@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1743-05-18'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: ae540fa0f30fb137f5985cbffeef5b6dd70b87d640f63fa3a951575dfb118d44
+    source_url: https://www.papalencyclicals.net/ben14/b14nimia.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: f09d03d080f580bfa7a1657ab86ce504b2514b9cb5fd058698f675532eff90b4
+  en: ae540fa0f30fb137f5985cbffeef5b6dd70b87d640f63fa3a951575dfb118d44

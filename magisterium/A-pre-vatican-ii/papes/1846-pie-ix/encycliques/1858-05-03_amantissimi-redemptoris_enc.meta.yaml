@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1858-05-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 9f8858fc4289298c2a507f95624118be71dacae0cbeef441ce217c38ebe5449a
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-amantissimi-redemptoris-3-maggio-1858.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 6f0b52171b418d7bf109fd758828f761215e4a70a0b7bc1a068c96290d4cffe6
+  it: 9f8858fc4289298c2a507f95624118be71dacae0cbeef441ce217c38ebe5449a

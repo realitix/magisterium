@@ -4,17 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-11-23'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- la
-- pl
-- pt
-- sk
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -26,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 28cb2c53317dd2f18db41b3e24ee3722a5fb1317947eaa16a4222ea1a97c32df
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20001123_istruzione_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 62601230ae1d913df87ff0695ec5d73cfbfa3f0c3f133befe7b2edd08a3c41e9
+  la: 28cb2c53317dd2f18db41b3e24ee3722a5fb1317947eaa16a4222ea1a97c32df

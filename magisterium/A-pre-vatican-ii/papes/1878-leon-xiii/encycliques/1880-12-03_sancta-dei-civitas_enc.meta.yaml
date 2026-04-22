@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1880-12-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 61baf507165f8685f0a0b65b41729fde4f4ee9d8d89c6a95a84b73eb1090263e
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_03121880_sancta-dei-civitas.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 45824a46b3af4e18599219a98205d6e81b2af8da698c43ab438f183a875b5d21
+  la: 61baf507165f8685f0a0b65b41729fde4f4ee9d8d89c6a95a84b73eb1090263e

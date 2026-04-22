@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1971-01-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: cc9146e7362bb1461aac275d5cffd991b5f8c23d4e69a40ab70aca141d439fa0
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e5cf065ac6a421805a5be7deb44f8bb13705bcf41f33d931b0d9106b0b0c6ff1
+  la: cc9146e7362bb1461aac275d5cffd991b5f8c23d4e69a40ab70aca141d439fa0

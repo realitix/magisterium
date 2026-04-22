@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1989-10-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4ecea2c4e7e9e16fe9829ce64743da1354b5311a35b201bda6a2f7ba5e1e519a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-christiana_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: b40fd08817ccbec84a3d772d6ed9ddcc61ba1bb88847b1878fcf0651b20f76ab
+  la: 4ecea2c4e7e9e16fe9829ce64743da1354b5311a35b201bda6a2f7ba5e1e519a

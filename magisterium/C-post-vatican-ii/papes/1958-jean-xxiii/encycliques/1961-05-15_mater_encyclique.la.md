@@ -1,5 +1,3 @@
-[DE](/content/john-xxiii/de/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)  - [EN](/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)  - [ES](/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)  - [FR](/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)  - [IT](/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)  - [LA](/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)  - [PT](/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)
-
 LITTERAE ENCYCLICAE***  
 MATER ET MAGISTRA  
 ***SUMMI PONTIFICIS  

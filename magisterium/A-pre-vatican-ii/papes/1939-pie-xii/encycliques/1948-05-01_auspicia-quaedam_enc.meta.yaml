@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1948-05-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 2bdb5cc989864d874ee2a40248eaa41f750172b16574d017f04982e25cc82b08
+    source_url: https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19480501_auspicia-quaedam.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ce42955d30f2027f33f58b22d64a2de117d0cdf82b1babbd1e44fc6b3666c861
+  la: 2bdb5cc989864d874ee2a40248eaa41f750172b16574d017f04982e25cc82b08

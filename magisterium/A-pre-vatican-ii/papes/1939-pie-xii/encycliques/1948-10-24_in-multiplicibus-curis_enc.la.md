@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19481024_in-multiplicibus-curis.html)
-
   PIUS PP. XII
 
 EPISTULA ENCYCLICA

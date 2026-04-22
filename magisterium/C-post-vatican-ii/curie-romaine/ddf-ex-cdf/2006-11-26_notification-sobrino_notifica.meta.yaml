@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: notification
 date: '2006-11-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: c84636368758a59b7da7662e21c55ed77c63f3e89f494715fa9982ffaa495983
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20061126_notification-sobrino_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 042700462cab275432ba41bd20056a4d66eb1b83fcc7457aa29dda609d395862
+  it: c84636368758a59b7da7662e21c55ed77c63f3e89f494715fa9982ffaa495983

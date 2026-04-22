@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-in-magnis-illis-27-dicembre-1873.html)
-
 ENCICLICA  
 ***IN MAGNIS ILLIS***  
 DEL SOMMO PONTEFICE  

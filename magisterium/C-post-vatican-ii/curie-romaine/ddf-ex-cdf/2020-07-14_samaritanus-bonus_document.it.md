@@ -1,17 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_cfaith_doc_20200714_samaritanus-bonus_ge.html) - [EN](rc_con_cfaith_doc_20200714_samaritanus-bonus_en.html) - [ES](rc_con_cfaith_doc_20200714_samaritanus-bonus_sp.html) - [FR](rc_con_cfaith_doc_20200714_samaritanus-bonus_fr.html) - [IT](rc_con_cfaith_doc_20200714_samaritanus-bonus_it.html) - [PL](rc_con_cfaith_doc_20200714_samaritanus-bonus_pl.html) - [PT](rc_con_cfaith_doc_20200714_samaritanus-bonus_po.html)\]
-
- 
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
  

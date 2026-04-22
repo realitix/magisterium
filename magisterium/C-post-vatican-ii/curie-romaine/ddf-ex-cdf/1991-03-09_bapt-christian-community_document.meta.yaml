@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1991-03-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 07c8d9f5d54c83b16f5f9359914410ace309c418bb178c7e1bdd3dfa0519e46f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 69275b4f2a5240fe39b7023bf096494281d7f6de74f1b90d637a04d648a2dd09
+  la: 07c8d9f5d54c83b16f5f9359914410ace309c418bb178c7e1bdd3dfa0519e46f

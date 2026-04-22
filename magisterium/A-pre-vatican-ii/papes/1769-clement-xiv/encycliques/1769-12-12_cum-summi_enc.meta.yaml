@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1769-12-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 8c5703fb40ce8c2f88df2c1859f698df135f608c1eeb982bc5f26bfebfeacfe3
+    source_url: https://www.papalencyclicals.net/clem14/c14cumsu.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: e61f705bb26d908251b2cf8b3c16538e3e05ad1cce129a0bc61087e5ac77511f
+  en: 8c5703fb40ce8c2f88df2c1859f698df135f608c1eeb982bc5f26bfebfeacfe3

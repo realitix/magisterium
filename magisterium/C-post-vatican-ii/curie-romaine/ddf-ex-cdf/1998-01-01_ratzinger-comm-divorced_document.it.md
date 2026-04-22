@@ -1,6 +1,3 @@
-   
-) )   
-
 ***A proposito di alcune obiezioni contro la dottrina della Chiesa  
 circa la recezione della Comunione eucaristica  
 da parte di fedeli divorziati risposati* [\[1\]](#_ftn1)**

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1920-05-23'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6b4b522de7675e4ba5bdd81b7472e300fd8cc4fa88cbec4a04f5191b6743f9c9
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1ffb66b5efd232f33c165e5d98ce9ad29e18e3630e9a8464f3aed728f298f417
+  la: 6b4b522de7675e4ba5bdd81b7472e300fd8cc4fa88cbec4a04f5191b6743f9c9

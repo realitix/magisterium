@@ -5,8 +5,6 @@ periode: vatican-ii
 type: decret-conciliaire
 date: '1965-10-28'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,85 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  cs:
+    kind: officielle
+    sha256: abb5776f0aafb6517cdadb1f18c2b42ff3d735691fc32a66a2e34e74f2d023f9
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_cs.html
+    fetched_at: '2026-04-22T06:47:58.940867Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: dc5f493c563b566559966a1b2ecd0a6a640812c0ab76b63c39e5f71ce68c594f
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html
+    fetched_at: '2026-04-22T06:48:14.278615Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: febe3da5f80caaad4bf3ae93855de266e957d2504cd32744fea470af8d7e655c
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sp.html
+    fetched_at: '2026-04-22T06:48:30.282337Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: c4800d18dbc26fc9fe3f6be713f65f6314667eff2dc78083363fa425876b5e06
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_fr.html
+    fetched_at: '2026-04-22T06:48:46.491738Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 2cb637bea5d09c5aadf04b70882f47093f5220fce5a37d83b758a1231d9f4db2
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_hu.html
+    fetched_at: '2026-04-22T06:49:02.517359Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 7a5fb0e9604bf822104f12527f6745a4b2cf57b069930110d17b657738f786c8
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_it.html
+    fetched_at: '2026-04-22T06:49:18.540770Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 87562e9512ebca67089c42dc5bfc7c3146a33b6c2943b1a90817f45e8e217dfd
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 6740ef54cbd24b633c58bcce7481435feeaf02f00c24dd6ac90664c7c608337f
+  cs: abb5776f0aafb6517cdadb1f18c2b42ff3d735691fc32a66a2e34e74f2d023f9
+  en: dc5f493c563b566559966a1b2ecd0a6a640812c0ab76b63c39e5f71ce68c594f
+  es: febe3da5f80caaad4bf3ae93855de266e957d2504cd32744fea470af8d7e655c
+  fr: c4800d18dbc26fc9fe3f6be713f65f6314667eff2dc78083363fa425876b5e06
+  hu: 2cb637bea5d09c5aadf04b70882f47093f5220fce5a37d83b758a1231d9f4db2
+  it: 7a5fb0e9604bf822104f12527f6745a4b2cf57b069930110d17b657738f786c8
+  la: 87562e9512ebca67089c42dc5bfc7c3146a33b6c2943b1a90817f45e8e217dfd

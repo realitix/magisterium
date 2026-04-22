@@ -5,8 +5,6 @@ periode: vatican-ii
 type: constitution-conciliaire
 date: '1963-12-04'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,97 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: 18b187761527e0899e85ab2a26b766accc830529084409f6ce667e18182bc482
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_ar.html
+    fetched_at: '2026-04-22T06:38:25.085166Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: 430347cd149303c5e05de3a7260cc2d5a4da67b794b0f1fc105a996388a71753
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_cs.html
+    fetched_at: '2026-04-22T06:38:27.125497Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 6a5d957ad4a63a10d9d5dd204945bfe24b42da2583a23ba672c1b6585b6da9f2
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html
+    fetched_at: '2026-04-22T06:38:29.062748Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: cef76a57d0d1a6566893c49d370e58c065ab13a48148be9482868dcaea083b7d
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html
+    fetched_at: '2026-04-22T06:38:31.073836Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 3bf6fd564695d11ff250fe9eef15994313d3690ce13c33d08eca11fe5a041a7e
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_fr.html
+    fetched_at: '2026-04-22T06:38:32.923263Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 805b2ac6533bf4fe1031a0ba4879c0d035fcb9888c623544d300cf2f4b38e51b
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_hu.html
+    fetched_at: '2026-04-22T06:38:34.930131Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 8824894ce27e2a13b5e1e09c5062f46e7fa34302d29b8558dc9e9a55b2c6b0ea
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_it.html
+    fetched_at: '2026-04-22T06:38:37.056365Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a8ac1d866c60b449b982ab536891a61b23ed1b26b2a1300b14216103960a6060
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hu
+- it
+- la
 sha256:
-  la: 705cc80a074d0bbdd9796e65ea62c8dfa0b15e84b57ad3e993b0125eb647aa6a
+  ar: 18b187761527e0899e85ab2a26b766accc830529084409f6ce667e18182bc482
+  cs: 430347cd149303c5e05de3a7260cc2d5a4da67b794b0f1fc105a996388a71753
+  en: 6a5d957ad4a63a10d9d5dd204945bfe24b42da2583a23ba672c1b6585b6da9f2
+  es: cef76a57d0d1a6566893c49d370e58c065ab13a48148be9482868dcaea083b7d
+  fr: 3bf6fd564695d11ff250fe9eef15994313d3690ce13c33d08eca11fe5a041a7e
+  hu: 805b2ac6533bf4fe1031a0ba4879c0d035fcb9888c623544d300cf2f4b38e51b
+  it: 8824894ce27e2a13b5e1e09c5062f46e7fa34302d29b8558dc9e9a55b2c6b0ea
+  la: a8ac1d866c60b449b982ab536891a61b23ed1b26b2a1300b14216103960a6060

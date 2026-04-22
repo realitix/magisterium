@@ -1,5 +1,3 @@
-[EN](/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)  - [ES](/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)  - [FR](/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)  - [IT](/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)  - [LA](/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)  - [PT](/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)
-
 PAULUS PP. VI
 
 ***SACERDOTALIS CELIBATUS***\*

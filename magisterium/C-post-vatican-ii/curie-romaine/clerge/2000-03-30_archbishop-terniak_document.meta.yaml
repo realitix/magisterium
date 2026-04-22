@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-03-30'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 46082458275348201854a457fc74ec10df4668d1f49f25b0003e9304092928b2
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20000330_archbishop-terniak_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 1f805b396119577978d7f7631a4b3cdb0a23f16d2822ef82d1924a11d9613253
+  it: 46082458275348201854a457fc74ec10df4668d1f49f25b0003e9304092928b2

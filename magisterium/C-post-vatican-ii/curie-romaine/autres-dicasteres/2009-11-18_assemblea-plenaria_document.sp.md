@@ -1,6 +1,3 @@
-   
-) )  
-
 ***La Congregación para la Evangelización de los Pueblos***
 
 *** ***

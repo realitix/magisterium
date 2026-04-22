@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2001-06-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ee05ebd17366357bf4a3cd3be17c8bf8bd04a5323f635cccbf3a685bc5da3a72
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20010612_istruzione-sacerdoti_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e0a8c728ba1f676095cca77a0bf925c4f80f7260ed4573356f24e3dcf872cf0b
+  it: ee05ebd17366357bf4a3cd3be17c8bf8bd04a5323f635cccbf3a685bc5da3a72

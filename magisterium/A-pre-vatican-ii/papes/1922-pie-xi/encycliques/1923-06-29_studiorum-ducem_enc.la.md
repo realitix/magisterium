@@ -1,5 +1,3 @@
-[IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

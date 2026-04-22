@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_25071888_paterna-caritas.html)
-
 EPISTOLA ENCYCLICA
 
 ***PATERNA CARITAS\****

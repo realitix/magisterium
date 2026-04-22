@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html)
-
 SANCTISSIMI DOMINI NOSTRI  
 LEONIS  
 DIVINA PROVIDENTIA  

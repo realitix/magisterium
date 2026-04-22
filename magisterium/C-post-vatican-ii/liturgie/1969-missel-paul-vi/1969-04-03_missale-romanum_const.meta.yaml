@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: constitution-apostolique
 date: '1969-04-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 9fd928de064b608f7ff24e9740999404118a227be3ceea28ef84e0eecfe8cbd0
+    source_url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: b735fdd29f9b0faf73e449aad94308e1a4f705ca2f26148c401fe8f09b90f723
+  la: 9fd928de064b608f7ff24e9740999404118a227be3ceea28ef84e0eecfe8cbd0

@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_24061888_saepe-nos.html)
-
 LITTERAE
 
 ***SAEPE NOS\****

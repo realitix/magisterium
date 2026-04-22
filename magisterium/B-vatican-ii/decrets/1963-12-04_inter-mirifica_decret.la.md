@@ -1,11 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
 \[[BE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_be.html) - [CS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_cs.html) - [DE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_ge.html) - [EN](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_en.html) - [ES](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_sp.html) - [FR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_fr.html) - [IT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_it.html) - [HU](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_hu.html) - [LA](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_lt.html) - [LV](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_lv.html) - [PT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_po.html) - [SW](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_sw.html) - ZH\]
 
  

@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1768-01-06'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: c3331bf12e434a72a0afecd5d8285af20b3089870bf70b1f707799cca9abceb6
+    source_url: https://www.papalencyclicals.net/clem13/c13summa.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 5f64a9a6b6208b419a498d18a8bff9c62cec98e6620cd3a7a69dedf1c32c4212
+  en: c3331bf12e434a72a0afecd5d8285af20b3089870bf70b1f707799cca9abceb6

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2019-10-07'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 1db447351eb7a4caceeeaf6bd8acdff896e50c77ac7dc59cae2ead42bc7b4335
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto-adnexus_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a149648a6755edf1fcd06eb1839d8e62fa8f1dcef03d7ef53c9262821a369831
+  la: 1db447351eb7a4caceeeaf6bd8acdff896e50c77ac7dc59cae2ead42bc7b4335

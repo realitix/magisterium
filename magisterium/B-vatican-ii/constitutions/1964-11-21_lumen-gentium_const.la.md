@@ -1,15 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[AR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ar.html) - [BE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_be.html) - [CS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_cs.html) - [DE](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html) - [EN](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) - [ES](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html) - [FR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html) - [IT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html) - [HU](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_hu.html) - [LA](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html) - [LV](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lv.html) - [PT](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html) - [SW](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sw.html) - [ZH](/chinese/concilio/vat-ii_lumen-gentium_zh-t.pdf)\]
-
- 
-
 PAULUS EPISCOPUS  
 SERVUS SERVORUM DEI  
 UNA CUM SACROSANCTI CONCILII PATRIBUS  

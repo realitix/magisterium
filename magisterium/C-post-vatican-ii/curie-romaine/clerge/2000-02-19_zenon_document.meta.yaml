@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2000-02-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- sp
 langue_originale: sp
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: sp
   fetch_method: httpx
+traductions:
+  sp:
+    kind: originale
+    sha256: 79dc4605da5521f17270fb592cf75c3d1a1709f3bfeeea92721c833efc6bfbb2
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19022000_zenon_sp.html
+    fetch_method: httpx
+langues_disponibles:
+- sp
 sha256:
-  sp: d17492c168e2eaf89ef9c8536302f814a6bb526e2dce997367349392be813281
+  sp: 79dc4605da5521f17270fb592cf75c3d1a1709f3bfeeea92721c833efc6bfbb2

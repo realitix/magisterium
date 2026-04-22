@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: rescrit
 date: '2023-02-20'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,25 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20230220_rescriptum-traditioniscustodes_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 3739883628531ccaba467003a2f5f194c9d2b91c02b49935034a9cd4785b2176
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20230220_rescriptum-traditioniscustodes_en.html
+    fetched_at: '2026-04-22T07:13:23.549528Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 43f7dc9691ee9c95d326d22d1d3d72467ca24b0bc20475a51257e238e2e59568
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20230220_rescriptum-traditioniscustodes_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- it
 sha256:
-  it: d1c161dc3f07ca1944b7a7c6704f417e958184788146d5c7aea31f5754000e3b
+  en: 3739883628531ccaba467003a2f5f194c9d2b91c02b49935034a9cd4785b2176
+  it: 43f7dc9691ee9c95d326d22d1d3d72467ca24b0bc20475a51257e238e2e59568

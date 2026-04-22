@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2014-06-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 6a9758740786c12c848e1f86c9f461444ae02a8ebbe5bde13ee7ec8cf94482d6
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140613_guida-grandi-celebrazioni_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 72944fda0378a67656851bb3282275110b80644ca6bda41dedb82a775368251b
+  it: 6a9758740786c12c848e1f86c9f461444ae02a8ebbe5bde13ee7ec8cf94482d6

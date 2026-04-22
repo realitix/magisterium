@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1929-12-23'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c79d8a1a78abe5aa2861487d07b68bb6a9baaf79896da8d47f3631dfbe9932a0
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19291223_quinquagesimo-ante-anno.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 4bc2ec1aee77e2357915f568cd1f05d6862497d03ec6909eca6ccce45b16e2c9
+  la: c79d8a1a78abe5aa2861487d07b68bb6a9baaf79896da8d47f3631dfbe9932a0

@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1570-07-14'
 autorite_magisterielle: magistere-extraordinaire-constitution-dogmatique
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -22,5 +19,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: d2787cb4cacb6cffe17b9ab1155bc8cee5493e72ed5045d4469ae2c85c53a301
+    source_url: https://www.papalencyclicals.net/pius05/p5quopri.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 66371c08c669664dae66fb21a9ffbe61f1700e510295b5f7e904f194d8b70067
+  en: d2787cb4cacb6cffe17b9ab1155bc8cee5493e72ed5045d4469ae2c85c53a301

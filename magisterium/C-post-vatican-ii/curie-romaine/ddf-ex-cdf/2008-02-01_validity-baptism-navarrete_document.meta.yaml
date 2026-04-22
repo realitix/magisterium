@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-02-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: b93f0575a24ba43251c0ea85eb7b267d9e19b74e24b249ddf52d65ff7ec25d7a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism-navarrete_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 42dfb26a50c2fb65c94547a42cd1144e95f96c14dd808e7418c5529e1d400aaa
+  it: b93f0575a24ba43251c0ea85eb7b267d9e19b74e24b249ddf52d65ff7ec25d7a

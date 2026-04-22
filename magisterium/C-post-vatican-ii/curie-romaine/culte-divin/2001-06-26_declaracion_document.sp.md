@@ -1,6 +1,3 @@
-   
-) )   
-
 **LITTERAE CONGREGATIONIS** 
 
 *Quoad ordinationes diaconorum in dioecesi Sancti Christophori de las Casas in Mexico die 18 ianuarii 2000 celebratas, necnon ad quaestiones cum iisdem coniunctas quod spectat, Congregatio de Cultu Divino et Disciplina Sacramentorum hodierno Episcopo supradictae dioecesis, Excellentissimo Domino Philippo Arizmendi Esquivel, litteras scripsit, quae ob peculiare momentum suum pro opportuna informatione et norma et de consensu Secretariae Status, una cum pertinenti declaratione Dicasterii, publici iuris fiunt.*

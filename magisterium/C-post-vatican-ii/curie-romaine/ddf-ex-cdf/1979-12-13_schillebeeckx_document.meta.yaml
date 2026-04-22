@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1979-12-13'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 037cb04717c9305dfc1545b3ccfb3fd2a1149082c41ac505ecf425d6214927f9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791213_schillebeeckx_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: e653f8501f8f354c0814805b931e72d7dadfd25a58ba83d858b5c0546fdc57c8
+  fr: 037cb04717c9305dfc1545b3ccfb3fd2a1149082c41ac505ecf425d6214927f9

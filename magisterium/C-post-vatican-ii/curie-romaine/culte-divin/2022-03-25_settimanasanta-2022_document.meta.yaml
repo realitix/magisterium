@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2022-03-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20220325_settimanasanta-2022_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20220325_settimanasanta-2022_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20220325_settimanasanta-2022_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 6ab8504d0d1313ff65f878fe8ac78581de9f2ef23cbf753c6328424221b2d460
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20220325_settimanasanta-2022_en.html
+    fetched_at: '2026-04-22T07:13:21.552530Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 6cee0e2125cb53b98cac7b5685a030bbe5d68bcebf82275359138337fe0ed87c
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20220325_settimanasanta-2022_sp.html
+    fetched_at: '2026-04-22T07:13:37.657590Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 824277264a80d28177c7b3c4bd131fb7ea6322293a02b4470e86e9f8f84c5dd0
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20220325_settimanasanta-2022_fr.html
+    fetched_at: '2026-04-22T07:13:53.589033Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: ac546ea724f43a3d1a08b50c8ca47c25e5a9b1f0f32aab73c5e87fe7b99b80b4
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20220325_settimanasanta-2022_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: 53beef07d9381c46a48cdb09dbacfe2d08a509329bf2eb99471dc45c9109e79e
+  en: 6ab8504d0d1313ff65f878fe8ac78581de9f2ef23cbf753c6328424221b2d460
+  es: 6cee0e2125cb53b98cac7b5685a030bbe5d68bcebf82275359138337fe0ed87c
+  fr: 824277264a80d28177c7b3c4bd131fb7ea6322293a02b4470e86e9f8f84c5dd0
+  it: ac546ea724f43a3d1a08b50c8ca47c25e5a9b1f0f32aab73c5e87fe7b99b80b4

@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1832-08-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -22,5 +19,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 75fc5794851244dc111d414d43231c99c55311104f52094a2cc1b0016e97a1e4
+    source_url: https://www.papalencyclicals.net/greg16/g16mirar.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: aa1cc4d2da481138fc08dbd658c7ac3a919476eaf4a67b4458e266b73af353a3
+  en: 75fc5794851244dc111d414d43231c99c55311104f52094a2cc1b0016e97a1e4

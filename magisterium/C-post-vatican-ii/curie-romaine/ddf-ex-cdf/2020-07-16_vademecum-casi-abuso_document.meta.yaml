@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2020-07-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,49 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: caccd0dc2bc4b97daacf24636319d0280f6d27ed28902d1ac38b4c05d737a04d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_en.html
+    fetched_at: '2026-04-22T07:21:32.356786Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 290398cd9b1fa951c39ba47ff6aad07e6f2232f456012e6b401ff371ff3c42bf
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_sp.html
+    fetched_at: '2026-04-22T07:21:48.373410Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 9eedec5f7bfd9deb2099d68a4f7aec5b123799f1f55e6293167c9c796eb7678d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_fr.html
+    fetched_at: '2026-04-22T07:22:04.403070Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 41ec81beb41d7a15425a9d98bc84f61ee4521bd8c2db18fb49acf331ba208e28
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
 sha256:
-  it: d239f4cf8754f1f55c857e0d5455251258661699128497e23b332fabee8fbf73
+  en: caccd0dc2bc4b97daacf24636319d0280f6d27ed28902d1ac38b4c05d737a04d
+  es: 290398cd9b1fa951c39ba47ff6aad07e6f2232f456012e6b401ff371ff3c42bf
+  fr: 9eedec5f7bfd9deb2099d68a4f7aec5b123799f1f55e6293167c9c796eb7678d
+  it: 41ec81beb41d7a15425a9d98bc84f61ee4521bd8c2db18fb49acf331ba208e28

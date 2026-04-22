@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1878-12-28'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 1b1a1aeca383aad38acedba9f8197f65a4d1e8f4377850619a38b7df18ad7ed8
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 2486a16016632862138fa1e04b96854e4b8ee972153394387d5dba22527eb618
+  la: 1b1a1aeca383aad38acedba9f8197f65a4d1e8f4377850619a38b7df18ad7ed8

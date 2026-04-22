@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2008-12-08'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- nl
-- pl
-- pt
-- sp
-- vi
 langue_originale: it
 denzinger: []
 sujets: []
@@ -25,5 +15,85 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_lt.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_nl.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: bc0eedabe91b38b3eddbe87a2b62ad3a9f493020b6460aa0ddf9effd684e372a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_en.html
+    fetched_at: '2026-04-22T07:19:03.994005Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 570421c63206e46ffba033d326891e40cb62fd99790b5e9d3cf5a06100189f65
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_sp.html
+    fetched_at: '2026-04-22T07:19:20.158888Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 04ccf6dc8d6e0794cb79319760bad79a4b774561f94952d162332a2857f79605
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_fr.html
+    fetched_at: '2026-04-22T07:19:36.035321Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 61df4d4735369199cb122c5026ff5ea0599529923895b10ac9a73c57de36f1ca
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_it.html
+    fetch_method: httpx
+  la:
+    kind: officielle
+    sha256: db7f4f648c83ab96cc650a11af51d843e981beebe7380d3b9f4b8171938aa65b
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_lt.html
+    fetched_at: '2026-04-22T07:19:52.247651Z'
+    fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: ad341d7014359680af653ed45cfd9fc8d4fea0e160fa1749688d764d8d9bb948
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_nl.html
+    fetched_at: '2026-04-22T07:20:08.282775Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: febeb581571212d7e5834eb5355cff194b7a332d6f42c65c3d53c4a3d96031bd
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_pl.html
+    fetched_at: '2026-04-22T07:20:24.436669Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
+- nl
+- pl
 sha256:
-  it: c0c2527def3d530e388a9a1f5fdd74c86716d0f4f6f7aaf341eb0119531303cf
+  en: bc0eedabe91b38b3eddbe87a2b62ad3a9f493020b6460aa0ddf9effd684e372a
+  es: 570421c63206e46ffba033d326891e40cb62fd99790b5e9d3cf5a06100189f65
+  fr: 04ccf6dc8d6e0794cb79319760bad79a4b774561f94952d162332a2857f79605
+  it: 61df4d4735369199cb122c5026ff5ea0599529923895b10ac9a73c57de36f1ca
+  la: db7f4f648c83ab96cc650a11af51d843e981beebe7380d3b9f4b8171938aa65b
+  nl: ad341d7014359680af653ed45cfd9fc8d4fea0e160fa1749688d764d8d9bb948
+  pl: febeb581571212d7e5834eb5355cff194b7a332d6f42c65c3d53c4a3d96031bd

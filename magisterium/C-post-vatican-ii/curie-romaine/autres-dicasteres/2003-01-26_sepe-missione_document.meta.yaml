@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2003-01-26'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: 67de777a097fcda25ae35ffdd9b10d955981603682b2a887cecc4008b3164c6c
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20030126_sepe-missione_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 2c0d0f6e713056f9468ce11315bf88d5c727fb75347a58fb1fc167b2c1ab9acd
+  fr: 67de777a097fcda25ae35ffdd9b10d955981603682b2a887cecc4008b3164c6c

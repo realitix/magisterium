@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1983-12-14'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ca74e5aae49b7672a7a358d5bf1545e71a80bbec28f0ede2ae2a784c2346588e
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831214_carnis-resurrectionem_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: a373623e7849a0b50acb7a6a3ac45f056cf93706d4ceb64e5772208a8c2631aa
+  it: ca74e5aae49b7672a7a358d5bf1545e71a80bbec28f0ede2ae2a784c2346588e

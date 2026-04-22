@@ -4,13 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2007-06-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -22,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: e586849a36c9f321cf7142af2a22d9236177819082e08e8a9762714b45c421f9
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20070609_santificazione-sacerdotale_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 93c7ecaefcfb3862afaa4f4cfa7fc52102d76cab60db8e2fa70fe3a2df3e2141
+  it: e586849a36c9f321cf7142af2a22d9236177819082e08e8a9762714b45c421f9

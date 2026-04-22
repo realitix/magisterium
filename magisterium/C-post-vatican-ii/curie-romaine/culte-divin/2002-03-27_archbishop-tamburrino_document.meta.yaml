@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-03-27'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: ecd50391526cd1b8878188a1c3ebb97ff5ed63bbffec59313a8c13cff6e12a5a
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020327_archbishop-tamburrino_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 526c3bd3b5f36ea5579e81e44609b28a75068904e66e28640623df7b77d4698e
+  it: ecd50391526cd1b8878188a1c3ebb97ff5ed63bbffec59313a8c13cff6e12a5a

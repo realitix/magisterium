@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus.html)
-
 EPISTOLA ENCYCLICA
 
 ***TAMETSI FUTURA PROSPICIENTIBUS\****

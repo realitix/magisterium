@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2012-01-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: db1521f22355b9949b78608d8967774bd019141cc0a49d864fc449fb92d25eb5
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120101_chair-of-st-peter_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 3faa76f90328659d9e2f53d51fabe33d3959da72da85d12729d7e1cc740a3016
+  it: db1521f22355b9949b78608d8967774bd019141cc0a49d864fc449fb92d25eb5

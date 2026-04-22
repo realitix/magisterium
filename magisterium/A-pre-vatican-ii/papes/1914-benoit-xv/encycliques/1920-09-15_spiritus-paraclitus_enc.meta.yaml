@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1920-09-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0d4bf54bdc3ac525832b2d4d8e226e834df5ece571bad55f52f9a0847e3995c9
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_15091920_spiritus-paraclitus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 37179e3bdc50809d549ec38be206a9c64e64003445d38e3477c02b5535b76cd8
+  la: 0d4bf54bdc3ac525832b2d4d8e226e834df5ece571bad55f52f9a0847e3995c9

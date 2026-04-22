@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: code-canonique
 date: '1917-05-27'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.documentacatholicaomnia.eu
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 63ba6642fb363919cdffbe238851a351f9e6e9227f07e01924e53fc091ca2356
+    source_url: https://www.documentacatholicaomnia.eu/03d/1917-1917,_Absens,_Codex_Iuris_Canonici,_LT.pdf
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 561e79c5f4843e5078e4022d275849046929f7cb189f22ce1a00a925cb7c0a45
+  la: 63ba6642fb363919cdffbe238851a351f9e6e9227f07e01924e53fc091ca2356

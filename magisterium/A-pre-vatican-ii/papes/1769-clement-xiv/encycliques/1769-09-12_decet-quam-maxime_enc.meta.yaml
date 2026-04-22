@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1769-09-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 9e9342471058e43303e36f4e2f26a1ee6582f0eccc6f6ac7a63a7d69d4fc8758
+    source_url: https://www.papalencyclicals.net/clem14/c14decet.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 40b447e569171acaff265e0b4285abd5bbb8718663fceed1babbfae286046107
+  en: 9e9342471058e43303e36f4e2f26a1ee6582f0eccc6f6ac7a63a7d69d4fc8758

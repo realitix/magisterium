@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1881-08-03'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: fd5b8289786bd1355eaea86d156cfcb7317c037d4c945f1d00840e790ea43526
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_03081881_licet-multa.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ad6d1c645afd61754adab793748376a53b15b793327873b5d26ae6926d55a6d1
+  la: fd5b8289786bd1355eaea86d156cfcb7317c037d4c945f1d00840e790ea43526

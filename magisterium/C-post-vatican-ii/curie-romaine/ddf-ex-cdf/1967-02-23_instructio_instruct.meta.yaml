@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: instruction
 date: '1967-02-23'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ea77228dc125987132f3f31d862ed98d65b2549c4c91d2da5120d17d25c3a46d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 75d41aa3215868d92a7ec6d2a3e1a40a2a177c022dd48b8cc10b1d47966de6db
+  la: ea77228dc125987132f3f31d862ed98d65b2549c4c91d2da5120d17d25c3a46d

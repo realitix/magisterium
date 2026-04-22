@@ -1,6 +1,3 @@
-   
-) )  
-
 LES CONSEILS PASTORAUX
 
  

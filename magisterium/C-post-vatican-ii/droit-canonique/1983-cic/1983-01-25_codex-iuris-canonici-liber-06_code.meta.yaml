@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: code-canonique
 date: '1983-01-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: c024b0fbcd6e6ac883851bc86b987b56d638b1d2f40df0a9d5106a727d444a26
+    source_url: https://www.vatican.va/archive/cod-iuris-canonici/latin/documents/cic_liberVI_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 9c06e9543604c4ba2c0457ca166815f2f3e30ad5bf0aeed0b805053b2c4f2b2b
+  la: c024b0fbcd6e6ac883851bc86b987b56d638b1d2f40df0a9d5106a727d444a26

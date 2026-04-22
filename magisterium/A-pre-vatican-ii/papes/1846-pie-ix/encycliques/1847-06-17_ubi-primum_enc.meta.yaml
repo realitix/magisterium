@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1847-06-17'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 2bdd674d8019176db1bd625e417fe2902717f53aa823f5c8ff41b29f61e23f97
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-ubi-primum-17-giugno-1847.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 965b9410d0495a37c9cfc49fda2a1de815d3eae50db3c2ac69f46d7663bd79ee
+  it: 2bdd674d8019176db1bd625e417fe2902717f53aa823f5c8ff41b29f61e23f97

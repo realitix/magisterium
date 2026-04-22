@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1990-08-15'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: e16cec196d7fd2418ada301d15464a49a226e90392c74a731ae6ec70e44724dd
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-assomption-15-aout-1990
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 29ce020fcdf6c235211761cad7c8fb560af37e0c6086a4ab18495137dfd19f1f
+  fr: e16cec196d7fd2418ada301d15464a49a226e90392c74a731ae6ec70e44724dd

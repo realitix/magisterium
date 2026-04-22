@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '1545-12-13'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: ecc274cc5a2e5c320098e8d3fc88c6a4341a9f0e688624bd24e8497af1e2f3b4
+    source_url: https://www.papalencyclicals.net/councils/trent.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: c4e83fabedca861f13e81cea8798fa6b8a779335815c68179b57c0c31f84434b
+  en: ecc274cc5a2e5c320098e8d3fc88c6a4341a9f0e688624bd24e8497af1e2f3b4

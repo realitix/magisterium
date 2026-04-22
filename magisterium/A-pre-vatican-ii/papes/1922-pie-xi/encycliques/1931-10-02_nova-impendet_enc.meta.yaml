@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1931-10-02'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 9e6bb72a5ffb5cc5d3ab512bad524e96c089cf49671d870a8147f3dfd5c1d3ee
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: c878873d81080652d3530a5fe4892af02ac7d5c03796de57f3967fbfcdbd9269
+  la: 9e6bb72a5ffb5cc5d3ab512bad524e96c089cf49671d870a8147f3dfd5c1d3ee

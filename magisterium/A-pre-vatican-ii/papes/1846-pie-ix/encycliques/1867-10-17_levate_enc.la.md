@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/epistola-encyclica-levate-17-octobris-1867.html)  - [LA](/content/pius-ix/la/documents/epistola-encyclica-levate-17-octobris-1867.html)
-
 PIUS PP. IX
 
 ***LEVATE\****

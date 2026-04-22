@@ -1,6 +1,3 @@
-   
-) )  
-
 RIFLESSIONE di S. Em. Rev.ma il Signor Cardinale
 
 Darío Castrillón Hoyos

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2007-12-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: cc294bb723d23f83e212e90be52de55683002afae7a64ae6a7529fdc06d5201c
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6331f8505d3b5a94fdef0d62af6c93580e4a5a3f3fb2b36177a19834f96ff16a
+  la: cc294bb723d23f83e212e90be52de55683002afae7a64ae6a7529fdc06d5201c

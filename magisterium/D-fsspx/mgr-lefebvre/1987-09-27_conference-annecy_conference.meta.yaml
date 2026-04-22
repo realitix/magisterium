@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: conference
 date: '1987-09-27'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: b34536d5084c44a73658ede136f55b46ac9449601c87604709cf1c9c5bcd73e6
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/conference-de-mgr-lefebvre-annecy-1987
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: e83bb1aa039aeedd6c1a4aa987c1cdc8541efd5b072dac535b69f5796d77189d
+  fr: b34536d5084c44a73658ede136f55b46ac9449601c87604709cf1c9c5bcd73e6

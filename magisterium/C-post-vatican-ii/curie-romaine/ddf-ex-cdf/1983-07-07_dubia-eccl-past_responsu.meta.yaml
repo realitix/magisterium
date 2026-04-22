@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '1983-07-07'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 540a718602ec8231b945b326b58a831d531ce14bb7eee2e2b9b5bf0cbd39437b
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: a6f6cb9e537593ae841cb2d88ebcf7dddb7075910c5974ba3eba5ab54e69ed24
+  it: 540a718602ec8231b945b326b58a831d531ce14bb7eee2e2b9b5bf0cbd39437b

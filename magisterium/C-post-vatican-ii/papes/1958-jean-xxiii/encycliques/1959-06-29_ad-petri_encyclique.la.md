@@ -1,5 +1,3 @@
-[EN](/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html)  - [ES](/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html)  - [IT](/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html)  - [LA](/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html)  - [PT](/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html)
-
 LITTERAE ENCYCLICAE***  
 AD PETRI CATHEDRAM  
 ***SUMMI PONTIFICIS  

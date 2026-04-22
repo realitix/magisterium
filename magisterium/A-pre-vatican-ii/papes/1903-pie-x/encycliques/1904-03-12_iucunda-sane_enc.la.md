@@ -1,5 +1,3 @@
-[EN](/content/pius-x/en/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html)  - [FR](/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html)  - [IT](/content/pius-x/it/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html)  - [LA](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html)
-
 PIUS PP. X
 
 ***LITTERAE ENCYCLICAE SANCTISSIMI DOMINI NOSTRI  

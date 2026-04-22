@@ -1,6 +1,3 @@
-   
-) )  
-
 Conferenza di S.E.R. Mons. Dario Castrillon Hoyos
 
 Yamoussoukro - martedì 8 luglio 1997

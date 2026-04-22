@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-04-08'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 06f39a28c055c0dc50ef127b53862e76988cf9b59b0c3d8977e0d07fe5450ede
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240408_presentazione-dignitas-infinita_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 74884ad73ce1eb84e88f5923844dc03c1f2a5806be5ec626ab73c4a6d04a2926
+  it: 06f39a28c055c0dc50ef127b53862e76988cf9b59b0c3d8977e0d07fe5450ede

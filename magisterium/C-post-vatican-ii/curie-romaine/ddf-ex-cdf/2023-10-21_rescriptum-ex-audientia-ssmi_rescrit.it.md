@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
- 
-
 **DICASTERIUM PRO DOCTRINA FIDEI**
 
 Foglio di Udienza col Santo Padre

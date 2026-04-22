@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-quanto-conficiamur-10-agosto-1863.html)
-
 ENCICLICA  
 ***QUANTO CONFICIAMUR***  
 DEL SOMMO PONTEFICE  

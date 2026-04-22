@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2023-09-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hr
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: ceb823e25bc933a13ae2893bb59cd0508aecc42bd994e8c776dcd9a223999a0f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_en.html
+    fetched_at: '2026-04-22T07:22:42.106730Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: da71e73cfd98cf920252cd3e8819ff8c133e8cfe7ec1453e62365e46ed1d8dc3
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_sp.html
+    fetched_at: '2026-04-22T07:22:58.286983Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: f641239471037a3410c4178cc1eb883e9ba2576a27f4eebc3b8278f9461139a9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_fr.html
+    fetched_at: '2026-04-22T07:23:14.289248Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: b933395f8144a23291d6b15c38b79a14007f5b96e8f2b53d597a660e5b790648
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_hr.html
+    fetched_at: '2026-04-22T07:23:30.291476Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 760a73e20279a85e1e3b0a81b60034f8dbc48a095ed49312081b68be27bc3ac9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_dpc_20230925_risposta-vescovo-como-ca-genovese_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- hr
+- it
 sha256:
-  it: 3a322f6028286498368c564c5e2e245c5d4bb38d5fe181fcc8468d4bf86a93be
+  en: ceb823e25bc933a13ae2893bb59cd0508aecc42bd994e8c776dcd9a223999a0f
+  es: da71e73cfd98cf920252cd3e8819ff8c133e8cfe7ec1453e62365e46ed1d8dc3
+  fr: f641239471037a3410c4178cc1eb883e9ba2576a27f4eebc3b8278f9461139a9
+  hr: b933395f8144a23291d6b15c38b79a14007f5b96e8f2b53d597a660e5b790648
+  it: 760a73e20279a85e1e3b0a81b60034f8dbc48a095ed49312081b68be27bc3ac9

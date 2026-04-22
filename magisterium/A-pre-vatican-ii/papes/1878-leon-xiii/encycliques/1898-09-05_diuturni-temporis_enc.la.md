@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html)  - [PT](/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html)
-
 EPISTOLA
 
 ***DIUTURNI TEMPORIS\****

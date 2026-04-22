@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1745-11-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: db3e12ec34b2c8a7f6a0cf002090b48f5872193d69d07d5b3bcad6898bbcd1ba
+    source_url: https://www.papalencyclicals.net/ben14/b14vixpe.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 40513c0d2e7b68783c45e9e4f7838e8cc47005e65d63bafde92027eb0087cb11
+  en: db3e12ec34b2c8a7f6a0cf002090b48f5872193d69d07d5b3bcad6898bbcd1ba

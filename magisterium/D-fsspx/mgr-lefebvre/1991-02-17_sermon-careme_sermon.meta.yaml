@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: sermon
 date: '1991-02-17'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: cf66eaeda41b594f76b3e79a4592f7ac8d2699409cb84f0d2b6092d6633b1ca7
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-premier-dimanche-de-careme-17-fevrier-1991
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 4ebea25d94e8bc91e8c55f43d3917e6fde740515b976fc635d9b1b3f0e50edc0
+  fr: cf66eaeda41b594f76b3e79a4592f7ac8d2699409cb84f0d2b6092d6633b1ca7

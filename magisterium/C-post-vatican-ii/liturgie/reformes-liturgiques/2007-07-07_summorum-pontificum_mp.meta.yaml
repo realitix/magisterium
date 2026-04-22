@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: motu-proprio
 date: '2007-07-07'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: fffc64c2e1561cf87632e6dc8ec9eb9a18e65c36ded36c9966bbf77f814eaa2b
+    source_url: https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 08e4f45d228d26f6a049158e844a31bc31b2aae67ae40446374d1f735a1bb5d1
+  la: fffc64c2e1561cf87632e6dc8ec9eb9a18e65c36ded36c9966bbf77f814eaa2b

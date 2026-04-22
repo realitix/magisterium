@@ -1,6 +1,3 @@
-   
-) )   
-
 **GIUBILEO DEI VESCOVI **
 
 ***OMELIA DEL CARD. TOMKO   

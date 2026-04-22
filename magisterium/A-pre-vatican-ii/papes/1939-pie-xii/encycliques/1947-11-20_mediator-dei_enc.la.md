@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

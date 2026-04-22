@@ -1,15 +1,3 @@
-
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_ccdds_doc_20210126_decreto-santi_ge.html) - [EN](rc_con_ccdds_doc_20210126_decreto-santi_en.html) - [ES](rc_con_ccdds_doc_20210126_decreto-santi_sp.html) - [FR](rc_con_ccdds_doc_20210126_decreto-santi_fr.html) - [IT](rc_con_ccdds_doc_20210126_decreto-santi_it.html) - [LA](rc_con_ccdds_doc_20210126_decreto-santi_la.html) - [PT](rc_con_ccdds_doc_20210126_decreto-santi_po.html)\]
-
- 
-
 Prot. N. 35/21
 
 **DECRETUM  

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1926-02-28'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a9899aa59d853ac4acda9cd8bb9da886c8ab18ceffa50b6f0a5280a80f4d6a45
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 1951b2aa2694b86ca84fd09150b9bfceac870fddad58c7d88e2720f23266b3cb
+  la: a9899aa59d853ac4acda9cd8bb9da886c8ab18ceffa50b6f0a5280a80f4d6a45

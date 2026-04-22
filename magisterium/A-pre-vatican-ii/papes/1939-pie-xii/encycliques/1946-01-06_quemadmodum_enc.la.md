@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html)
-
 EPISTULAE ENCYCLICAE  
 ***QUEMADMODUM\*  
 ***SUMMI PONTIFICIS***  

@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1571-07-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 165143cab49308c6bf349a4c7e02621232e5cec8cb615929fb1e96401271f60d
+    source_url: https://www.papalencyclicals.net/pius05/p5exponi.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: ab91fd2b5bc6917f59a037796a572fd08aa378612885b4d796530f162ee81d91
+  en: 165143cab49308c6bf349a4c7e02621232e5cec8cb615929fb1e96401271f60d

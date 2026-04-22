@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2007-08-01'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 09f25c2640760301d99fd6d801099d3d2577c4ce8725f1cae786d440973ad4cb
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_nota-commento_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 1e2d3435e186c41c77684e631a60265f0db02fa9d44ea0cc3e1c4bacc5167a7d
+  it: 09f25c2640760301d99fd6d801099d3d2577c4ce8725f1cae786d440973ad4cb

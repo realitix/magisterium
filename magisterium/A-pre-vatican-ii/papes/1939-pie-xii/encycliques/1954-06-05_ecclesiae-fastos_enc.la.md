@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19540605_ecclesiae-fastos.html)
-
   EPISTULA ENCYCLICA
 
 ***ECCLESIAE FASTOS\****

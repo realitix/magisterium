@@ -1,5 +1,3 @@
-[DE](/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [EN](/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [ES](/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [FR](/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [HU](/content/paul-vi/hu/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [IT](/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [LA](/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [PT](/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [ZH_CN](/content/paul-vi/zh_cn/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)  - [ZH_TW](/content/paul-vi/zh_tw/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)
-
 PAULUS PP. VI
 
 LITTERAE ENCYCLICAE

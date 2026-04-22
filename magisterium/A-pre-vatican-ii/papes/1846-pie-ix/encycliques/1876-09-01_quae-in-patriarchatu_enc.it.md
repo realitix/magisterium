@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-quae-in-patriarchatu-1-settembre-1876.html)
-
 ENCICLICA  
 ***QUAE IN PATRIARCATU***  
 DEL SOMMO PONTEFICE  

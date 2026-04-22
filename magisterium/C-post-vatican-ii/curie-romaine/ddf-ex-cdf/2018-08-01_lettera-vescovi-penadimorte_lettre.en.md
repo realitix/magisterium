@@ -1,0 +1,67 @@
+CONGREGATION FOR THE DOCTRINE OF THE FAITH
+
+**LETTER TO THE BISHOPS  
+REGARDING THE [NEW REVISION OF NUMBER 2267  
+OF THE CATECHISM OF THE CATHOLIC CHURCH  
+ON THE DEATH PENALTY](rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html)**
+
+1\. The Holy Father [Pope Francis](/content/francesco/en.html), in his [Discourse](/content/francesco/en/speeches/2017/october/documents/papa-francesco_20171011_convegno-nuova-evangelizzazione.html) on the occasion of the twenty-fifth anniversary of the publication of the Apostolic Constitution *[Fidei depositum](/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)*, by which [John Paul II](/content/john-paul-ii/en.html) promulgated the *Catechism of the Catholic Church*, asked that the teaching on the death penalty be reformulated so as to better reflect the development of the doctrine on this point that has taken place in recent times. [\[1\]](#_ftn1) This development centers principally on the clearer awareness of the Church for the respect due to every human life. Along this line, [John Paul II](/content/john-paul-ii/en.html) affirmed: “Not even a murderer loses his personal dignity, and God himself pledges to guarantee this.”[\[2\]](#_ftn2)
+
+2\. It is in the same light that one should understand the attitude towards the death penalty that is expressed ever more widely in the teaching of pastors and in the sensibility of the people of God. If, in fact, the political and social situation of the past made the death penalty an acceptable means for the protection of the common good, today the increasing understanding that the dignity of a person is not lost even after committing the most serious crimes, the deepened understanding of the significance of penal sanctions applied by the State, and the development of more efficacious detention systems that guarantee the due protection of citizens have given rise to a new awareness that recognizes the inadmissibility of the death penalty and, therefore, calling for its abolition.
+
+3\. In this development, the teaching of the Encyclical Letter *[Evangelium vitæ](/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html)* of [John Paul II](/content/john-paul-ii/en.html) is of great importance. The Holy Father enumerated among the signs of hope for a new culture of life “a growing public opposition to the death penalty, even when such a penalty is seen as a kind of ‘legitimate defense’ on the part of society. Modern society in fact has the means of effectively suppressing crime by rendering criminals harmless without definitively denying them the chance to reform.”[\[3\]](#_ftn3) The teaching of *[Evangelium vitæ](/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html)* was then included in the *editio typica* of the *Catechism of the Catholic Church*. In it, the death penalty is not presented as a proportionate penalty for the gravity of the crime, but it can be justified if it is “the only practicable way to defend the lives of human beings effectively against the aggressor,” even if in reality “cases of absolute necessity for suppression of the offender today are very rare, if not practically non-existent” (n. 2267).
+
+4\. [John Paul II](/content/john-paul-ii/en.html) also intervened on other occasions against the death penalty, appealing both to respect for the dignity of the person as well as to the means that today’s society possesses to defend itself from criminals. Thus, in the [*Christmas Message* of 1998](/content/john-paul-ii/en/messages/urbi/documents/hf_jp-ii_mes_25121998_urbi.html), he wished “the world the consensus concerning the need for urgent and adequate measures … to end the death penalty.”[\[4\]](#_ftn4) [The following month in the United States, he repeated](/content/john-paul-ii/en/travels/1999/documents/hf_jp-ii_hom_27011999_stlouis.html), “A sign of hope is the increasing recognition that the dignity of human life must never be taken away, even in the case of someone who has done great evil. Modern society has the means of protecting itself, without definitively denying criminals the chance to reform. I renew the appeal I made most recently at Christmas for a consensus to end the death penalty, which is both cruel and unnecessary.”[\[5\]](#_ftn5)
+
+5\. The motivation to be committed to the abolition of the death penalty was continued with the subsequent Pontiffs. [Benedict XVI](/content/benedict-xvi/en.html) recalled “the attention of society’s leaders to the need to make every effort to eliminate the death penalty.” [\[6\]](#_ftn6) He later wished a group of the faithful that “your deliberations will encourage the political and legislative initiatives being promoted in a growing number of countries to eliminate the death penalty and to continue the substantive progress made in conforming penal law both to the human dignity of prisoners and the effective maintenance of public order.”[\[7\]](#_ftn7)
+
+6\. In this same prospective, [Pope Francis](/content/francesco/en.html) has reaffirmed that “today capital punishment is unacceptable, however serious the condemned’s crime may have been.”[\[8\]](#_ftn8) The death penalty, regardless of the means of execution, “entails cruel, inhumane, and degrading treatment.”[\[9\]](#_ftn9) Furthermore, it is to be rejected “due to the defective selectivity of the criminal justice system and in the face of the possibility of judicial error.”[\[10\]](#_ftn10) It is in this light that [Pope Francis](/content/francesco/en.html) has asked for a revision of the formulation of the *Catechism of the Catholic Church* on the death penalty in a manner that affirms that “no matter how serious the crime that has been committed, the death penalty is inadmissible because it is an attack on the inviolability and the dignity of the person.”[\[11\]](#_ftn11)
+
+7\. The [new revision of number 2267](rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html) of the *Catechism of the Catholic Church*, approved by [Pope Francis](/content/francesco/en.html), situates itself in continuity with the preceding Magisterium while bringing forth a coherent development of Catholic doctrine.[\[12\]](#_ftn12) The new text, following the footsteps of the teaching of [John Paul II](/content/john-paul-ii/en.html) in *[Evangelium vitæ](/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html)*, affirms that ending the life of a criminal as punishment for a crime is inadmissible because it attacks the dignity of the person, a dignity that is not lost even after having committed the most serious crimes. This conclusion is reached taking into account the new understanding of penal sanctions applied by the modern State, which should be oriented above all to the rehabilitation and social reintegration of the criminal. Finally, given that modern society possesses more efficient detention systems, the death penalty becomes unnecessary as protection for the life of innocent people. Certainly, it remains the duty of public authorities to defend the life of citizens, as has always been taught by the Magisterium and is confirmed by the *Catechism of the Catholic Church* in numbers 2265 and 2266.
+
+8\. All of this shows that the [new formulation of number 2267](rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html) of the *Catechism* expresses an authentic development of doctrine that is not in contradiction with the prior teachings of the Magisterium. These teachings, in fact, can be explained in the light of the primary responsibility of the public authority to protect the common good in a social context in which the penal sanctions were understood differently, and had developed in an environment in which it was more difficult to guarantee that the criminal could not repeat his crime.
+
+9\. The new revision affirms that the understanding of the inadmissibility of the death penalty grew “in the light of the Gospel.”[\[13\]](#_ftn13) The Gospel, in fact, helps to understand better the order of creation that the Son of God assumed, purified, and brought to fulfillment. It also invites us to the mercy and patience of the Lord that gives to each person the time to convert oneself.
+
+10\. The [new formulation of number 2267](rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html) of the *Catechism of the Catholic Church* desires to give energy to a movement towards a decisive commitment to favor a mentality that recognizes the dignity of every human life and, in respectful dialogue with civil authorities, to encourage the creation of conditions that allow for the elimination of the death penalty where it is still in effect.
+
+*The Sovereign Pontiff Francis, in the Audience granted to the undersigned Secretary of the Congregation for the Doctrine of the Faith on 28 June 2018, has approved the present Letter, adopted in the Ordinary Session of this Congregation on 13 June 2018, and ordered its publication.*
+
+*Rome, from the Office of the Congregation for the Doctrine of the Faith, 1 August 2018,* *Memorial of Saint Alphonsus Liguori*.
+
+Luis F. Card. Ladaria, S.I.*  
+Prefect*
+
+\+ Giacomo Morandi*  
+Titular Archbishop of Cerveteri  
+Secretary*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[\[1\]](#_ftnref1) Cf. [Francis](/content/francesco/en.html), *[Address to participants in the meeting promoted by the Pontifical Council for Promoting the New Evangelization](/content/francesco/en/speeches/2017/october/documents/papa-francesco_20171011_convegno-nuova-evangelizzazione.html)* (11 October 2017): *L’Osservatore Romano* (13 October 2017), 4.
+
+[\[2\]](#_ftnref2) [John Paul II](/content/john-paul-ii/en.html), Encyclical Letter *[Evangelium vitæ](/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html)* (25 March 1995), n. 9: *AAS* 87 (1995), 411.
+
+[\[3\]](#_ftnref3) *[Ibid](/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html).*, n. 27: *AAS* 87 (1995), 432.
+
+[\[4\]](#_ftnref4) [John Paul II](/content/john-paul-ii/en.html), *[Urbi et Orbi Message of His Holiness Pope John Paul II: Christmas 1998](/content/john-paul-ii/en/messages/urbi/documents/hf_jp-ii_mes_25121998_urbi.html)* (25 December 1998), n. 5: *Insegnamenti* XXI,2 (1998), 1348.
+
+[\[5\]](#_ftnref5) Id., *[Homily in the Trans World Dome of St. Louis](/content/john-paul-ii/en/travels/1999/documents/hf_jp-ii_hom_27011999_stlouis.html)* (27 January 1999): *Insegnamenti *XXII,1 (1999), 269; cf. *[Homily for Mass in the Basilica of Nuestra Señora de Guadalupe in Mexico City](/content/john-paul-ii/en/homilies/1999/documents/hf_jp-ii_hom_19990123_mexico-guadalupe.html)* (23 January 1999): “There must be an end to the unnecessary recourse to the death penalty”: *Insegnamenti* XXII,1 (1999), 123.
+
+[\[6\]](#_ftnref6) [Benedict XVI](/content/benedict-xvi/en.html), Postsynodal Apostolic Exhortation *[Africæ munus](/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20111119_africae-munus.html)* (19 November 2011), n. 83: *AAS* 104 (2012), 276.
+
+[\[7\]](#_ftnref7) Id., *[General Audience](/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20111130.html)* (30 November 2011): *Insegnamenti* VII,2 (2011), 813.
+
+[\[8\]](#_ftnref8) [Francis](/content/francesco/en.html), *[Letter to the President of the International Commission Against the Death Penalty](/content/francesco/en/letters/2015/documents/papa-francesco_20150320_lettera-pena-morte.html)* (20 March 2015): *L’Osservatore Romano* (20-21 March 2015), 7.
+
+[\[9\]](#_ftnref9) *[Ibid](/content/francesco/en/letters/2015/documents/papa-francesco_20150320_lettera-pena-morte.html).*
+
+[\[10\]](#_ftnref10) *[Ibid](/content/francesco/en/letters/2015/documents/papa-francesco_20150320_lettera-pena-morte.html).*
+
+[\[11\]](#_ftnref11) [Francis](/content/francesco/en.html), *[Address to participants in the meeting promoted by the Pontifical Council for Promoting the New Evangelization](/content/francesco/en/speeches/2017/october/documents/papa-francesco_20171011_convegno-nuova-evangelizzazione.html)* (11 October 2017): *L’Osservatore Romano* (13 October 2017), 5.
+
+[\[12\]](#_ftnref12) Cf. Vincent of Lérins, *Commonitorium*, cap. 23: *PL *50, 667-669. In reference to the death penalty, treating the stipulations of the precepts of the Decalogue, the [Pontifical Biblical Commission](/roman_curia/congregations/cfaith/pcb_index.htm) spoke of the “refinement” of the moral positions of the Church: “In the course of history and of the development of civilization, the Church too, meditating on the Scriptures, has refined her moral stance on the death penalty and on war, which is now becoming more and more absolute. Underlying this stance, which may seem radical, is the same anthropological basis, the fundamental dignity of the human person, created in the image of God.” (*[The Bible and Morality: Biblical Roots of Christian Conduct](/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20080511_bibbia-e-morale_en.html)*, 2008, n. 98).
+
+[\[13\]](#_ftnref13) [Second Vatican Ecumenical Council](/archive/hist_councils/ii_vatican_council/index.htm), The Pastoral Constitution *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*, n. 4.
+
+------------------------------------------------------------------------

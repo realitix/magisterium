@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2023-12-09'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- hr
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,37 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: e9f313e9991fc670b6bba98271151d7080614b4e8639dc58bee67a623791c891
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_en.html
+    fetched_at: '2026-04-22T07:23:06.285483Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: 5a6dfb9898a21497c91716ddb69d2c3827f59d1bce5d653f571ae91583780091
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_hr.html
+    fetched_at: '2026-04-22T07:23:22.295814Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: f18d8b4cf33448d5e0223a9992f44e410f4df6cac03be41e6b49c404298c51c4
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_it.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- hr
+- it
 sha256:
-  it: 83a436b6b8bf0c86340026841b0c1bbf5df10bdc1e9e658b9de1eb32ffc87a6d
+  en: e9f313e9991fc670b6bba98271151d7080614b4e8639dc58bee67a623791c891
+  hr: 5a6dfb9898a21497c91716ddb69d2c3827f59d1bce5d653f571ae91583780091
+  it: f18d8b4cf33448d5e0223a9992f44e410f4df6cac03be41e6b49c404298c51c4

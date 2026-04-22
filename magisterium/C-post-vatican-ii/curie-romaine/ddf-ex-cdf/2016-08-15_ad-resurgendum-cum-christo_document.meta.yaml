@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2016-08-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- pl
-- pt
-- sp
-- uk
-- vi
 langue_originale: it
 denzinger: []
 sujets: []
@@ -25,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_uk.html
+  site: www.vatican.va
+  langue: uk
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 98f61766e5dadf87b5549016d9cd415926d149ec32c19add31d3316079bfce28
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_en.html
+    fetched_at: '2026-04-22T07:19:55.942709Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 947c729ccfc1e0e621c37ac226addcb9136439ff4972c1db214cb631f25da281
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_sp.html
+    fetched_at: '2026-04-22T07:20:11.964053Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 43c709f1380610a4c3e0e6bec5a84f3901b923761343d2d34d59e6b5db402bc1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_fr.html
+    fetched_at: '2026-04-22T07:20:28.113769Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: edb857ba2603d303d3d2f1393d70e4d365ac723e0c6a28fd5bc1bc933d49003f
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: b156831fa592df6993040f3d929674ecaa948fb8c0837488089f15b5446e4272
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_pl.html
+    fetched_at: '2026-04-22T07:20:44.130299Z'
+    fetch_method: httpx
+  uk:
+    kind: officielle
+    sha256: 70dd745778a8c7c1f8a514c290602adfca2ee87600988f29e5e37c0f7976ca76
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_uk.html
+    fetched_at: '2026-04-22T07:21:00.164760Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- pl
+- uk
 sha256:
-  it: b60f9e4f3e6be6d956244cd49fc8edc5dc0fa6143543d105fedb429a6dc82c3c
+  en: 98f61766e5dadf87b5549016d9cd415926d149ec32c19add31d3316079bfce28
+  es: 947c729ccfc1e0e621c37ac226addcb9136439ff4972c1db214cb631f25da281
+  fr: 43c709f1380610a4c3e0e6bec5a84f3901b923761343d2d34d59e6b5db402bc1
+  it: edb857ba2603d303d3d2f1393d70e4d365ac723e0c6a28fd5bc1bc933d49003f
+  pl: b156831fa592df6993040f3d929674ecaa948fb8c0837488089f15b5446e4272
+  uk: 70dd745778a8c7c1f8a514c290602adfca2ee87600988f29e5e37c0f7976ca76

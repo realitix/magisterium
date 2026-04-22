@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1769-12-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 0e7e864112610ae79dfdb9778f83f87ec5edd2100909e26e8a9276d0baa019cc
+    source_url: https://www.papalencyclicals.net/clem14/c14inscr.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 769a052317be2cb74d4da51a0fd51594f3b135f402120221fdf5054e8e8543cd
+  en: 0e7e864112610ae79dfdb9778f83f87ec5edd2100909e26e8a9276d0baa019cc

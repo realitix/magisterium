@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1687-11-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -22,5 +19,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: c9c606700ed203818d0f3b76445d29a87995c9daf0600b11d5fb8bbba89983c8
+    source_url: https://www.papalencyclicals.net/innoc11/i11coel.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 6eda2ce466c23630c4f52f8b9348aece77c25af5db2af617c2a1c8cdf87d9698
+  en: c9c606700ed203818d0f3b76445d29a87995c9daf0600b11d5fb8bbba89983c8

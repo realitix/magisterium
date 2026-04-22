@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: constitution-apostolique
 date: '1990-10-18'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 64c02a84a560997d7a64377770ee4a02cc6c5e5365cbd72807ab6eb913f35a74
+    source_url: https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_sacri-canones.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 59644790ff84a779c942ecd436925adfa3bbe3518a3c30f8d85c8c2d0322a55b
+  la: 64c02a84a560997d7a64377770ee4a02cc6c5e5365cbd72807ab6eb913f35a74

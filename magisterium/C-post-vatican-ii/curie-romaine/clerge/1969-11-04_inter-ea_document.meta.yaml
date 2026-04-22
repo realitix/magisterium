@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1969-11-04'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: dba4bbc8bda96ea6ea799fc75b76c17271e76547011f375f0b4574a94a8a54bb
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19691104_inter-ea_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 232a84d04769406037403bcd924601d105a60e7eb7e29808772d8142fafc3a91
+  it: dba4bbc8bda96ea6ea799fc75b76c17271e76547011f375f0b4574a94a8a54bb

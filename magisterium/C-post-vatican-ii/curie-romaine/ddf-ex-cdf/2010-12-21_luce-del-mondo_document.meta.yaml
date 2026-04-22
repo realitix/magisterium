@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2010-12-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- pl
-- pt
-- sk
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -25,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: b2123343090029ec2e2a947ab74d3f4bece1fa9255dd3b1c8ae9ba32e2a1c602
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 5a1c4c9d1ca9486f83ae16c6d54eba69ada0b9e4455161c83a4d732504c936c9
+  it: b2123343090029ec2e2a947ab74d3f4bece1fa9255dd3b1c8ae9ba32e2a1c602

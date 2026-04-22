@@ -5,8 +5,6 @@ periode: post-vatican-ii
 type: encyclique
 date: '2005-12-25'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 2b11233dc5c78c8e1235f318eab3a9fb20dd844d191cf0b825e96568b968d26f
+    source_url: https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 19d0d0484d3bb2427431d18e32a522735ea3ef21ee68f012bc1e110262edb711
+  la: 2b11233dc5c78c8e1235f318eab3a9fb20dd844d191cf0b825e96568b968d26f

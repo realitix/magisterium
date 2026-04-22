@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1537-05-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -22,5 +19,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 1a56885cc899c8a03b4d84a96bc4bcbef12fd4e8eac9f7362401b1857ee52baa
+    source_url: https://www.papalencyclicals.net/paul03/p3subli.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: b57ddf7662f0d05ce3806dfd9d542006c542c505ac209ba9059161fe45bf6087
+  en: 1a56885cc899c8a03b4d84a96bc4bcbef12fd4e8eac9f7362401b1857ee52baa

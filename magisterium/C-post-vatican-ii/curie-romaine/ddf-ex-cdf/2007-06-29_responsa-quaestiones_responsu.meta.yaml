@@ -4,16 +4,6 @@ periode: post-vatican-ii
 type: responsum
 date: '2007-06-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -25,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 5fe50fad7f606994fe802142b10d0e7890e64ba94034d7a3eb889407e021fb11
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070629_responsa-quaestiones_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: aa08edb5008edb1bde4c54a22108ece23ab42cef3cf52860fa74dcf56097bbf9
+  la: 5fe50fad7f606994fe802142b10d0e7890e64ba94034d7a3eb889407e021fb11

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1880-09-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b75d850c3e0eb78973f9120a60b4b739587c27426308453ed8d608ca07e2a7f1
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_30091880_grande-munus.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: e73629e0df953ab374cb8196a94f7a9a86706e9dafdf97e4a622c4b34165a566
+  la: b75d850c3e0eb78973f9120a60b4b739587c27426308453ed8d608ca07e2a7f1

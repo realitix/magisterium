@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1759-12-20'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 9f4f65ccddfa97d718fce1240197abdeccdc751ce5fc8201657fd83a5b1f07da
+    source_url: https://www.papalencyclicals.net/clem13/c13appet.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 96399af2ab37e304bc5689ac8b6977fef26a6d433029b489e766194ab305ae08
+  en: 9f4f65ccddfa97d718fce1240197abdeccdc751ce5fc8201657fd83a5b1f07da

@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-03-31'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hu
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 3b5ca09273e89bcc9b2b4071f2b7a31ef0b4d7922ac6df1e3597ec14d73729cf
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_ccatheduc_doc_19980331_directorium-diaconi_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a0f6136ab2df4a8f1276ab5ebcd29b94d3aeca539a834f729df02284f6a79d5d
+  la: 3b5ca09273e89bcc9b2b4071f2b7a31ef0b4d7922ac6df1e3597ec14d73729cf

@@ -1,17 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_ge.html) - [EN](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_en.html) - [ES](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_sp.html) - [FR](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_fr.html) - [IT](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_it.html) - [PT](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_po.html) - [ZH_CN](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_zh_cn.pdf) - [ZH_TW](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_zh_tw.pdf)\]
-
- 
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 DICASTERO PER IL SERVIZIO DELLO SVILUPPO UMANO INTEGRALE

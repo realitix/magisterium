@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1892-07-16'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f2d755207ea11335f0a1fa4d76398bee3f3e419dd39480e93c6e924924f01f5d
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_16071892_quarto-abeunte-saeculo.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6f26dc65dcd748d864cd0d64d90e4b95ae83f0c7a4a58bd3448c5018af6aaf25
+  la: f2d755207ea11335f0a1fa4d76398bee3f3e419dd39480e93c6e924924f01f5d

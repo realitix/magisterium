@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1983-09-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 7cc2fb478112c420df72f8b2a4d91496a8c0cf44bc7ce489c9a73a9bf5994657
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a305337bbaeca532da05451368782793a82da9506b38305ecb6387afdde985e5
+  la: 7cc2fb478112c420df72f8b2a4d91496a8c0cf44bc7ce489c9a73a9bf5994657

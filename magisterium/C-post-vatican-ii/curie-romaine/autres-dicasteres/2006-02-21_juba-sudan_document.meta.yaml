@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2006-02-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: c71b8b221c5c2eded9f2696d8e1523e06c56ec8974266496f5e4278a54f08636
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20060221_juba-sudan_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 28862bbeb43ffa70f6d395d462e45d40b2df9df18a81f04c1755f643863ad618
+  it: c71b8b221c5c2eded9f2696d8e1523e06c56ec8974266496f5e4278a54f08636

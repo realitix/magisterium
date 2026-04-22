@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1824-05-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 47a7bc2d606fed69b42b9edb23feaf2eeb171e7c5be872981b73315e029d9caf
+    source_url: https://www.papalencyclicals.net/leo12/l12ubipr.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 53717d0159495e9be90659853b408bc1ae4a2a955543654614fe0db4cd91bde8
+  en: 47a7bc2d606fed69b42b9edb23feaf2eeb171e7c5be872981b73315e029d9caf

@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1995-10-28'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: db919816b5664e059d3cde98384b36a73f940128da79185fdfd1c08ad407c3c4
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_28101995_sympint_fr.html
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 8601e042ad21ffc0f2122845d3aaa9196b68e4694d896954354e03a69fafe038
+  fr: db919816b5664e059d3cde98384b36a73f940128da79185fdfd1c08ad407c3c4

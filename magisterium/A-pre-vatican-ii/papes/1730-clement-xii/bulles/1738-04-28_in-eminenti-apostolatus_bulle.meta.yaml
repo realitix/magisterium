@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1738-04-28'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -21,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 817f5625f1f08de4d750cd723fd1f9f5b362b639e8a0dd60552295277fa35d24
+    source_url: https://www.papalencyclicals.net/clem12/c12inemengl.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 6625f73ff7781660bf41f398f620555f22f7c30d50b247230337777147ea66b7
+  en: 817f5625f1f08de4d750cd723fd1f9f5b362b639e8a0dd60552295277fa35d24

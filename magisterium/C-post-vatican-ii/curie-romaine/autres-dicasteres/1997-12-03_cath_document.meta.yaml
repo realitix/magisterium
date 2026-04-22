@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1997-12-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: d1a5730222dd5a655f83f3878022eb610b366f58b9ba7a43ddb3b8d03faa5839
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_19971203_cath_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 9f2d26b09091753a53002477909f0ea0541302f330dbeee4d59a0c1339a75afe
+  it: d1a5730222dd5a655f83f3878022eb610b366f58b9ba7a43ddb3b8d03faa5839

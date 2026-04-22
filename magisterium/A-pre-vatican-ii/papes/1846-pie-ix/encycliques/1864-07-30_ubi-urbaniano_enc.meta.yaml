@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1864-07-30'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: f20e88d440ad4e8ca70f8fd5682fdb2760976f9cf83fa60721c47dc9d5dfe6d4
+    source_url: https://www.vatican.va/content/pius-ix/it/documents/enciclica-ubi-urbaniano-30-luglio-1864.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: e5f978e9e556caa7a3a79ebd1caa685aa3a4461718ba966779d67d991319d85a
+  it: f20e88d440ad4e8ca70f8fd5682fdb2760976f9cf83fa60721c47dc9d5dfe6d4

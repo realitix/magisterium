@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1904-03-12'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0375aebaaa2c97baea700946a290c7358c630e2f46997e292eee06ea717b2064
+    source_url: https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_12031904_iucunda-sane.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: de62460dcb9f36cd434561dffe6b73bed90bdd8291d6b9acbaa55a521b393e3e
+  la: 0375aebaaa2c97baea700946a290c7358c630e2f46997e292eee06ea717b2064

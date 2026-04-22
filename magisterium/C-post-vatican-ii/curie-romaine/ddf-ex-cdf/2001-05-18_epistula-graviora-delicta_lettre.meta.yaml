@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: lettre
 date: '2001-05-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- ge
-- it
-- la
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 2624af05f489306612270e9cfd0604dd94e522027cae24c5a8140d133ffa85d9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20010518_epistula-graviora-delicta_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: acebf737cf6b83d8eba45233c6b884ce80a4713aebc197ed4c2e76f5a5ac9403
+  la: 2624af05f489306612270e9cfd0604dd94e522027cae24c5a8140d133ffa85d9

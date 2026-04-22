@@ -1,17 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_fr.html) - [HR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_hr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_it.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_po.html)\]
-
- 
-
 DICASTERIUM PRO DOCTRINA FIDEI
 
 311/15 

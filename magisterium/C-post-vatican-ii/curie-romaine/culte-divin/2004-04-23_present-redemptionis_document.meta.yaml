@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2004-04-23'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- pt
 langue_originale: en
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 8431149fdc19cfd37d363d52458d8b64f7eba0814f70aee24faf50a760251bd5
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-redemptionis_en.html
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 81a5671a58815449dcf476583797dc9e1edaf62b2e2c2917467ea5e08dce14c6
+  en: 8431149fdc19cfd37d363d52458d8b64f7eba0814f70aee24faf50a760251bd5

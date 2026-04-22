@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19440409_orientalis-ecclesiae.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

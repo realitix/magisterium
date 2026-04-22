@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1966-03-18'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 247aa8dcc5e9abda6020a8e88ae2ea4561a6ac606854369e44518aab4dcf1eee
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660318_matrimonii-sacramentum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 425d927a22de93eb76c0578129f92273a43a6867b0f73e309b5e2194ed33bc50
+  la: 247aa8dcc5e9abda6020a8e88ae2ea4561a6ac606854369e44518aab4dcf1eee

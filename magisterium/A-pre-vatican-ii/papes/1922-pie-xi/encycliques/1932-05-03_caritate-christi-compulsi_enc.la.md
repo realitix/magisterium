@@ -1,5 +1,3 @@
-[IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

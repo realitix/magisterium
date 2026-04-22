@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1759-09-17'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: af129e99e031026a91f1f366b12f89488c56fffb6507078e2c44ff3831207567
+    source_url: https://www.papalencyclicals.net/clem13/c13cumpr.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: f57de140906e9683e8ca035056437686630c07364ef55163eb086f32f065af67
+  en: af129e99e031026a91f1f366b12f89488c56fffb6507078e2c44ff3831207567

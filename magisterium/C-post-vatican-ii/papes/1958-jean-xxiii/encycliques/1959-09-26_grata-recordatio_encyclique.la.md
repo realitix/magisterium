@@ -1,5 +1,3 @@
-[EN](/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html)  - [ES](/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html)  - [IT](/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html)  - [LA](/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html)  - [PT](/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html)
-
 LITTERAE ENCYCLICAE***  
 GRATA RECORDATIO  
 ***SUMMI PONTIFICIS  

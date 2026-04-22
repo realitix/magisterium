@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1926-11-18'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e42a9e80cd41de5dcb64790e25fe4ca08d467c53769d08a8087788db4882c24d
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19261118_iniquis-afflictisque.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 6050da1ba482a84bc5d5c942fa4816a40cb275deb2a5fc625dbca5aa53c2761f
+  la: e42a9e80cd41de5dcb64790e25fe4ca08d467c53769d08a8087788db4882c24d

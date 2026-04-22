@@ -4,11 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2018-02-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
-- la
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -20,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 9b9c1056c185c829099ef18c883841cb6637ca7e93e3e3292a25d6be72e72e4d
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20180211_decreto-mater-ecclesiae_la.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 30753ae651c170859bf38aca0cb35e86dc5e812bbbadfef76f5ac7d93127f0a8
+  la: 9b9c1056c185c829099ef18c883841cb6637ca7e93e3e3292a25d6be72e72e4d

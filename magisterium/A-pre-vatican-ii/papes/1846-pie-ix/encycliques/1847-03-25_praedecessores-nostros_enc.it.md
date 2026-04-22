@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-praedecessores-nostros-25-marzo-1847.html)
-
 ENCICLICA  
 ***PRAEDECESSORES NOSTROS***  
 DEL SOMMO PONTEFICE  

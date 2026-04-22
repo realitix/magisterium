@@ -5,8 +5,6 @@ periode: vatican-ii
 type: declaration-conciliaire
 date: '1965-10-28'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,109 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_ar.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_cs.html
+  site: www.vatican.va
+  langue: cs
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hu.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  ar:
+    kind: officielle
+    sha256: 4acc172176170714d8911580d8c63d12160b61e2df7d432c0282100e91b3776a
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_ar.html
+    fetched_at: '2026-04-22T06:45:58.331603Z'
+    fetch_method: httpx
+  cs:
+    kind: officielle
+    sha256: 0be81217f744bcdb0b02c531e8e8b3acad3a8e4a4fbcb5c8ff037a62d0a0bc2a
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_cs.html
+    fetched_at: '2026-04-22T06:46:14.235822Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: f9595cd085898e8b21c447ac9b613b21a14a85c1a5d16357853dd8c9e6b759a3
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html
+    fetched_at: '2026-04-22T06:46:30.203588Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 9fa35bebcd2ee2e7794066f6d177a5abd132fb0ab2dd55850951ee3d4c6122d6
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sp.html
+    fetched_at: '2026-04-22T06:46:46.229434Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 1805931cadad1fecc78bbaefd0cdb44b6c8b5e495e21676ebc07aaa4bac797d5
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_fr.html
+    fetched_at: '2026-04-22T06:47:02.253712Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: dfbc059a7f53c9de44216d06a6532638cc6f378fcd348fd807d92700dba7badc
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hr.html
+    fetched_at: '2026-04-22T06:47:18.313257Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: c3764cbc6418fef307b8203f0c6ac77aafea0c8831b1497989cde4a09a4f8420
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hu.html
+    fetched_at: '2026-04-22T06:47:34.340655Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 53f1c800ce3c16d94486a0dfbbb715d14f2b904cbec3287c6bca127e54240ec3
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_it.html
+    fetched_at: '2026-04-22T06:47:50.313312Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a4a69e35d20fd6deeb7f1920d375c86ed23c5365624acf668818863b129b8e84
+    source_url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- ar
+- cs
+- en
+- es
+- fr
+- hr
+- hu
+- it
+- la
 sha256:
-  la: cd393ad6750354f32c5ed812e498cad96e7d9688ea6b48e56cbbebe3d359f098
+  ar: 4acc172176170714d8911580d8c63d12160b61e2df7d432c0282100e91b3776a
+  cs: 0be81217f744bcdb0b02c531e8e8b3acad3a8e4a4fbcb5c8ff037a62d0a0bc2a
+  en: f9595cd085898e8b21c447ac9b613b21a14a85c1a5d16357853dd8c9e6b759a3
+  es: 9fa35bebcd2ee2e7794066f6d177a5abd132fb0ab2dd55850951ee3d4c6122d6
+  fr: 1805931cadad1fecc78bbaefd0cdb44b6c8b5e495e21676ebc07aaa4bac797d5
+  hr: dfbc059a7f53c9de44216d06a6532638cc6f378fcd348fd807d92700dba7badc
+  hu: c3764cbc6418fef307b8203f0c6ac77aafea0c8831b1497989cde4a09a4f8420
+  it: 53f1c800ce3c16d94486a0dfbbb715d14f2b904cbec3287c6bca127e54240ec3
+  la: a4a69e35d20fd6deeb7f1920d375c86ed23c5365624acf668818863b129b8e84

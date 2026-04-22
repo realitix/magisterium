@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2002-09-28'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- it
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 6ae7237d5cb0249cf6bd98020a81fa298d1eadd9fecbdbebea88fde115326933
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20020928_wu-cheng-chung_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: bdf9348be32d8c544559c5e75dacd776afccbb9f1c7d1fdb8132aec95b169b9f
+  it: 6ae7237d5cb0249cf6bd98020a81fa298d1eadd9fecbdbebea88fde115326933

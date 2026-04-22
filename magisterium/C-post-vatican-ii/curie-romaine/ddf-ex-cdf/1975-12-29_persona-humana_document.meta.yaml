@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1975-12-29'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e8f4685d394b732b5b709a3392f5185447ee9bd6cdba9605f32527da77167596
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5c84a1455b89f0c81d107f0013b99611bfb7e43564f718d8ec5c0aba7e793c05
+  la: e8f4685d394b732b5b709a3392f5185447ee9bd6cdba9605f32527da77167596

@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
- 
-
 **Estratto dal discorso del Santo Padre Francesco  
 durante l'[Udienza ai Partecipanti alla Plenaria del Dicastero per la Dottrina della Fede](https://www.vatican.va/content/francesco/it/events/event.dir.html/content/vaticanevents/it/2024/1/26/plenaria-ddf.html)**
 

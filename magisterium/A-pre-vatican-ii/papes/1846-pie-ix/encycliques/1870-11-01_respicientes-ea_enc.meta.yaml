@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1870-11-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 0b3af46532605f76fc45d22195a5346ea640b026b9a83574af8c6deec0d48c20
+    source_url: https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-respicientes-ea-1-novembris-1870.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 653b3397a8ad54c304259c054d221df172cf3888655978e211ea7f106481a966
+  la: 0b3af46532605f76fc45d22195a5346ea640b026b9a83574af8c6deec0d48c20

@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10121888_quam-aerumnosa.html)
-
 EPISTOLA
 
 ***QUAM AERUMNOSA\****

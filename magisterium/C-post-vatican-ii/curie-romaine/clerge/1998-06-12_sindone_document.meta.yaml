@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1998-06-12'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 62cc0d5feca8f38964eff46ef3589108d8173630930e4cebc5ddd3a296b53d2b
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_12061998_sindone_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 841c44c7a21e0fff53b294c70710630f16996274aa25c1e5d54595f04d1024c6
+  it: 62cc0d5feca8f38964eff46ef3589108d8173630930e4cebc5ddd3a296b53d2b

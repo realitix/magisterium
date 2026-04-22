@@ -4,9 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2004-10-24'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- it
 langue_originale: it
 denzinger: []
 sujets: []
@@ -18,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 31ca558a5b2afca050e6bef2ce4260d0f39a41d23a4613039704c7a7d1a9d3e7
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20041024_homily-mission-sunday_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 760806a7d919f3378a7672148960958b78d271c390ac6bdb641083cc5542bd47
+  it: 31ca558a5b2afca050e6bef2ce4260d0f39a41d23a4613039704c7a7d1a9d3e7

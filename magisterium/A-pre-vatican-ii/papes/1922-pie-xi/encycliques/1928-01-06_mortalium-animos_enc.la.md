@@ -1,5 +1,3 @@
-[EN](/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)  - [FR](/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)  - [IT](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)  - [LA](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)  - [PT](/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html)
-
 PIUS PP. XI
 
 LITTERAE ENCYCLICAE

@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2011-05-03'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- cs
-- en
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -23,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: f9aaf1106df6c7f96a725521433542fb48eb635367854de3fd3aa8089d54bf14
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20110503_levada-abuso-minori_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 286377e451ea7c888792d73e04e236b8ade096cb9814dc21ed37d0dfad28138a
+  it: f9aaf1106df6c7f96a725521433542fb48eb635367854de3fd3aa8089d54bf14

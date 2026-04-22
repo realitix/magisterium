@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1881-06-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 4f87e163cee808b658cb7bb2c7439be9b7b631fcd92d8172be6dd2cbbef243f0
+    source_url: https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_29061881_diuturnum.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 73c31444929ae894d32f53eb7a6613effc3e1bc0cf3f7e7d668ee69fcd4087af
+  la: 4f87e163cee808b658cb7bb2c7439be9b7b631fcd92d8172be6dd2cbbef243f0

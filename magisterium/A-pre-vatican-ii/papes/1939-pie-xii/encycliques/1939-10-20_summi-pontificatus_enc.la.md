@@ -1,5 +1,3 @@
-[EN](/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html)  - [ES](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html)  - [FR](/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html)  - [IT](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html)  - [LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html)  - [PT](/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html)
-
 PIUS PP. XII
 
 LITTERAE ENCYCLICAE

@@ -4,8 +4,6 @@ auteur: Mgr Marcel Lefebvre
 periode: fsspx
 type: conference-presse
 date: '1988-06-15'
-langues_disponibles:
-- fr
 langue_originale: fr
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: laportelatine.org
   langue: fr
   fetch_method: httpx
+traductions:
+  fr:
+    kind: originale
+    sha256: cd803451d7c9a5b6c174158ad3cb197fa762b4a49ec682d14e12157094966d1c
+    source_url: https://laportelatine.org/formation/mgr-lefebvre/pourquoi-il-faut-sacrer-des-eveques-explications-aux-journalistes
+    fetch_method: httpx
+langues_disponibles:
+- fr
 sha256:
-  fr: 6f8070b2e60ac3a6b1623ffdd59c42a36ef03831c8ed5eeb937a8eab41a14ef8
+  fr: cd803451d7c9a5b6c174158ad3cb197fa762b4a49ec682d14e12157094966d1c

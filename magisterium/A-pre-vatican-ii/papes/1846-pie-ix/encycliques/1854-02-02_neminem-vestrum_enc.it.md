@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-neminem-vestrum-2-febbraio-1854.html)
-
 ENCICLICA  
 ***NEMINEM VESTRUM***  
 DEL SOMMO PONTEFICE  

@@ -1,6 +1,3 @@
-   
-) )  
-
 CONGREGAZIONE PER IL CLERO
 
  

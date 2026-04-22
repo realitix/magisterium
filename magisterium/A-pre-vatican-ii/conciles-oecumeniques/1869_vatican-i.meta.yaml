@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: concile-oecumenique
 date: '1869-12-08'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
-langues_disponibles:
-- la
-- en
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 9769ea6cff4be7a331679ad84264eb04b21130804c0595f02dc76629e8080a88
+    source_url: https://www.papalencyclicals.net/councils/ecum20.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: c234042e6a8ae2159b193a3ce7682747f135142e4004e9ca3d3e3606083add8b
+  en: 9769ea6cff4be7a331679ad84264eb04b21130804c0595f02dc76629e8080a88

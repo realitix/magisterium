@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html)  - [FR](/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html)
-
 EPISTOLA ENCYCLICA  
 ***HUMANI GENERIS REDEMPTIONEM\****  
 SUMMI PONTIFICIS  

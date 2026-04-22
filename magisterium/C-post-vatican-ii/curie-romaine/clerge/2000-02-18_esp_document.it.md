@@ -1,6 +1,3 @@
-   
-) )  
-
 Espressione di accoglienza
 
 pronunciata dall'Em.mo Prefetto, Card. Darío Castrillón Hoyos

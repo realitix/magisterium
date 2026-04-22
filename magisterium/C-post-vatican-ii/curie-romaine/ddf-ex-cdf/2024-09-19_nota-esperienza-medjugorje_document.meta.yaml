@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2024-09-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- hr
-- it
-- pl
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -24,5 +15,73 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_hr.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_pl.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: a95648a2bc2fac0168e6aa8576b4a321344123e375effaba2400745b4e986334
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html
+    fetched_at: '2026-04-22T07:26:08.546748Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: bbc9096f751b72168dc29425c2d5b1da03900203430e7d881a7a3b721075f1de
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_sp.html
+    fetched_at: '2026-04-22T07:26:24.632162Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: fa7d742a2acc298c24684e2b773db68c82addeef29b425197b8e88ffe4ce7c0d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_fr.html
+    fetched_at: '2026-04-22T07:26:40.709792Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: c7393882a67563031a59553d3a48a0a56f159df7807f35445e4d0d9a3783b2c6
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_hr.html
+    fetched_at: '2026-04-22T07:26:56.643707Z'
+    fetch_method: httpx
+  it:
+    kind: originale
+    sha256: 43f05bd50d19b9a7282e90f7f83ef35124c97b432aa8061e8c5c40932ce9abe1
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_it.html
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 59fdd695e81cc88ea79a3f0de29179eb07dc85ad7d09ee5048b4433271c56b93
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_pl.html
+    fetched_at: '2026-04-22T07:27:12.697166Z'
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- hr
+- it
+- pl
 sha256:
-  it: 7d03480838204b4cb28d92fb3c575a4144990c418456ae45cbdb6c8b5f69f7fa
+  en: a95648a2bc2fac0168e6aa8576b4a321344123e375effaba2400745b4e986334
+  es: bbc9096f751b72168dc29425c2d5b1da03900203430e7d881a7a3b721075f1de
+  fr: fa7d742a2acc298c24684e2b773db68c82addeef29b425197b8e88ffe4ce7c0d
+  hr: c7393882a67563031a59553d3a48a0a56f159df7807f35445e4d0d9a3783b2c6
+  it: 43f05bd50d19b9a7282e90f7f83ef35124c97b432aa8061e8c5c40932ce9abe1
+  pl: 59fdd695e81cc88ea79a3f0de29179eb07dc85ad7d09ee5048b4433271c56b93

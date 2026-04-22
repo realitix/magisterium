@@ -1,5 +1,3 @@
-[EN](/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html)  - [ES](/content/benedict-xv/es/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html)  - [IT](/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html)  - [LA](/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum.html)
-
 EPISTOLA ENCYCLICA  
 ***PACEM, DEI MUNUS PULCHERRIMUM\****  
 SUMMI PONTIFICIS  

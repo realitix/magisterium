@@ -1,5 +1,3 @@
-[IT](/content/pius-ix/it/documents/enciclica-vix-dum-a-nobis-7-marzo-1874.html)
-
 ENCICLICA  
 ***VIX DUM A NOBIS***  
 DEL SOMMO PONTEFICE  

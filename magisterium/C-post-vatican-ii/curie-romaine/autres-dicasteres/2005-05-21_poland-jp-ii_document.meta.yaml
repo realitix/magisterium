@@ -4,10 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '2005-05-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- it
-- pt
 langue_originale: it
 denzinger: []
 sujets: []
@@ -19,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: d6d7ee94983700388f10dbb0825306112cbe8818dad4a3fa83989f8ea08a8429
+    source_url: https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_doc_20050521_poland-jp-ii_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 83164381ec2fb9bcfd7390f931dd28115a411bede964398b6552c51c8c89dcb0
+  it: d6d7ee94983700388f10dbb0825306112cbe8818dad4a3fa83989f8ea08a8429

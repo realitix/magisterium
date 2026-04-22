@@ -1,5 +1,3 @@
-[LA](/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_19480501_auspicia-quaedam.html)
-
 PIUS PP. XII 
 
  EPISTULA ENCYCLICA

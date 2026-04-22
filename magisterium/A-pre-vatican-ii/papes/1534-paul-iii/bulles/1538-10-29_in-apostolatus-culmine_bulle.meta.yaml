@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: bulle
 date: '1538-10-29'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +18,13 @@ sources:
   site: www.papalencyclicals.net
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 251c1382525bcb7bb47164547e111528b2fcc23b96836639aa8ede07b1871417
+    source_url: https://www.papalencyclicals.net/paul03/p3inapost.htm
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: cebecdaea3322e247ff9256e76f007d4dd8c45405565a9a843ab88f413d76a67
+  la: 251c1382525bcb7bb47164547e111528b2fcc23b96836639aa8ede07b1871417

@@ -1,15 +1,3 @@
-
-
- 
-
-   
-
-) ) 
-
-------------------------------------------------------------------------
-
-\[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_it.html) - [NL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_nl.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240711_comunicato-apparizioni-amsterdam_po.html)\]
-
 DICASTERO PER LA DOTTRINA DELLA FEDE
 
  

@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1931-05-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: e777669fe99caea987d4d5bbe9f044b7db0eed474eea05cc2d7de5af647edc35
+    source_url: https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: a98652cc3f3f3dda7a05513316d5dbe9751e82537b674f73079d236aef98955f
+  la: e777669fe99caea987d4d5bbe9f044b7db0eed474eea05cc2d7de5af647edc35

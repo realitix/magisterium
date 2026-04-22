@@ -1,0 +1,32 @@
+**[*Responsum* de la Congrégation pour la Doctrine de la Foi  
+à un *dubium* au sujet de la bénédiction des unions de personnes du même sexe](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_responsum-dubium-unioni_fr.html)**
+
+**Commentaire du *Responsum ad dubium***
+
+La présente intervention de la Congrégation pour la Doctrine de la Foi est une réponse à une question - en termes classiques, à un *dubium* - soulevée, comme c’est normalement le cas, par des pasteurs et des fidèles qui ont besoin d'une clarification de principe sur un sujet controversé. Face à l'incertitude suscitée par des déclarations ou des pratiques problématiques dans des domaines décisifs pour la vie chrétienne, il est demandé de répondre par l'affirmative ou la négative, puis d'exposer les arguments qui soutiennent la position adoptée. Le but de l'intervention est de soutenir l’Église universelle pour mieux correspondre aux exigences de l’Évangile, de régler les controverses et de favoriser une saine communion dans le peuple saint de Dieu.
+
+La question disputée intervient dans le cadre de la « volonté sincère d’accueil et d’accompagnement des personnes homosexuelles, auxquelles sont proposés des cheminements de croissance dans la foi » (*Note explicative*), comme l’a indiqué le Saint-Père François, à l’issue de deux Assemblées synodales sur la famille : « afin que ceux qui manifestent une tendance homosexuelle puissent bénéficier de l’aide nécessaire pour comprendre et réaliser pleinement la volonté de Dieu dans leur vie » (Exhortation apostolique *[Amoris laetitia](http://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html)*, n. 250). Il s’agit d’une invitation à évaluer avec un discernement approprié les projets et les propositions pastorales proposés à cet égard. Dans ce cadre, il y a aussi les bénédictions données aux unions de personnes du même sexe. Il est dès lors demandé si l’Église a le pouvoir de donner sa bénédiction : c’est la formule contenue dans le *quaesitum*.
+
+La réponse – [le *Responsum ad dubium*](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_responsum-dubium-unioni_fr.html) – est expliquée et motivée dans la *Note explicative* ci-jointe de la Congrégation pour la Doctrine de la Foi, datée du 22 février 2021, à la publication de laquelle le pape François lui-même a consenti.
+
+La *Note* est centrée sur la distinction fondamentale et décisive entre les personnes et l'union. De sorte que le jugement négatif sur la bénédiction des unions de personnes du même sexe n’implique pas un jugement sur les personnes.
+
+Les personnes avant tout. Vaut pour elles, et c’est un point de non-retour, ce qui est déclaré au n. 4 des *Considérations à propos des projets de reconnaissance juridique des unions entre personnes homosexuelles* de la même Congrégation et rappelé par le Catéchisme de l’Église catholique : « Selon l’enseignement de l'Église, les hommes et les femmes avec des tendances homosexuelles “doivent être accueillis avec respect, compassion et délicatesse. On évitera à leur égard toute marque de discrimination injuste” (2358) ». Cet enseignement est rappelé et réitéré par la *Note*.
+
+Quant aux unions de personnes du même sexe, [la réponse au *dubium*](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_responsum-dubium-unioni_fr.html) « déclare illicite toute forme de bénédiction qui tend à reconnaître leurs unions ». Illicéité que la *Note explicative* renvoie à un triple ordre de raisons, en relation les unes avec les autres.
+
+La première est donnée par la vérité et la valeur des bénédictions. Celles-ci appartiennent au genre des *sacramentaux*, lesquels sont des « actions liturgiques de l’Église » qui demandent une cohérence de vie avec ce qu'ils signifient et engendrent. Significations et effets de la grâce que la *Note* expose de manière concise. Par conséquent, une béné-diction sur une relation humaine exige que celle-ci soit ordonnée à la réception et à l’expression du bien qui lui est dit et donné.
+
+Nous en arrivons ainsi à la deuxième raison : l’ordre qui rend apte à recevoir le don est fonction des « desseins de Dieu inscrits dans la Création et pleinement révélés par le Christ Seigneur ». Desseins auxquels ne répondent pas les « relations ou partenariats, même stables, qui impliquent une pratique sexuelle hors mariage », c’est-à-dire « hors de l'union indissoluble d'un homme et d'une femme, ouverte en soi à la transmission de la vie ». C’est le cas des unions entre personnes du même sexe. Pas seulement de celles-ci, cependant, comme si le problème ne se posait que pour de telles unions, mais de toute union qui entraîne l'exercice de la sexualité en dehors du mariage, ce qui est illicite du point de vue moral, selon l'enseignement continu du Magistère de l’Église.
+
+Cela suppose un pouvoir que l’Église n’a pas, car elle ne peut pas disposer des desseins de Dieu, qui seraient autrement désavoués et niés. L’Église n’est pas l’arbitre de ces desseins et des vérités de vie qu’ils expriment, mais leur fidèle interprète et messagère.
+
+La troisième raison est donnée par l'erreur, à laquelle on serait facilement conduit, d’assimiler la bénédiction des unions de personnes du même sexe à celle des unions matrimoniales. En raison de la relation que les bénédictions sur les personnes entretiennent avec les sacrements, la bénédiction de telles unions pourrait d'une certaine manière constituer « une imitation ou un renvoi analogique à la bénédiction nuptiale », donnée à l'homme et à la femme unis dans le sacrement du mariage. Ce qui serait erroné et fallacieux.
+
+Pour les raisons indiquées ci-dessus, « la bénédiction des unions homosexuelles ne peut être considérée comme licite ». Cette déclaration ne porte en rien préjudice à la considération humaine et chrétienne dans laquelle l’Église tient chaque personne. À tel point que [la réponse au *dubium*](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210222_responsum-dubium-unioni_fr.html) « n’exclut pas l’octroi de bénédictions individuelles aux personnes à tendance homosexuelle, qui manifestent le désir de vivre en fidélité aux desseins révélés de Dieu, comme le propose l'enseignement de l’Église ».
+
+\*\*\*
+
+ 
+
+------------------------------------------------------------------------

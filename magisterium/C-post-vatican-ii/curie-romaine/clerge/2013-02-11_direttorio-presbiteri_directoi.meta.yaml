@@ -4,12 +4,6 @@ periode: post-vatican-ii
 type: directoire
 date: '2013-02-11'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- fr
-- ge
-- it
-- pt
-- sp
 langue_originale: it
 denzinger: []
 sujets: []
@@ -21,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: it
   fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 28abe92fc454ef6147026cfba70e08a08d9218be2f9d9671e1ae421dbe922348
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20130211_direttorio-presbiteri_it.html
+    fetch_method: httpx
+langues_disponibles:
+- it
 sha256:
-  it: 5f58444e678c2bbd54786c6ac7b15f6553c628798abf3ba61345779dac24c661
+  it: 28abe92fc454ef6147026cfba70e08a08d9218be2f9d9671e1ae421dbe922348

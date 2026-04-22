@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1976-10-15'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6004e51392d76762d8c4e0567c120967550541bce2619df806c643c01c3a550d
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 10358093f807354f28978ce5ba399481b04b7139d7631b374c4db6d159b88e4b
+  la: 6004e51392d76762d8c4e0567c120967550541bce2619df806c643c01c3a550d

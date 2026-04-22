@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1918-12-01'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: edfd0fdb8ea5fa609fdcadc7749628aa316737f37e1061d08c6f8ab612be2601
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01121918_quod-iam-diu.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: fa0fcad9faa7d3a09adb74a4080062ee01a72d146fdaab7e02a28bae6a6f4377
+  la: edfd0fdb8ea5fa609fdcadc7749628aa316737f37e1061d08c6f8ab612be2601

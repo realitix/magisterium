@@ -1,5 +1,3 @@
-[EN](/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24121894_christi-nomen.html)  - [IT](/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_24121894_christi-nomen.html)  - [LA](/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_24121894_christi-nomen.html)
-
 ***EPISTOLA ENCYCLICA SANCTISSIMI DOMINI NOSTRI LEONIS PP. XIII,  
 QUA INSTITUTUM « A PROPAGATIONE FIDEI » FOVETUR ET COMMENDATUR\****
 

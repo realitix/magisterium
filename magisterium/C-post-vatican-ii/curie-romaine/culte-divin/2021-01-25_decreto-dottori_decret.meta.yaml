@@ -4,14 +4,6 @@ periode: post-vatican-ii
 type: decret
 date: '2021-01-25'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -23,5 +15,61 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_sp.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_fr.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_it.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: cfca5beb4641e6e30726abe3cb2872e5cf6a3ff53cd613369644322e17d592a5
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_en.html
+    fetched_at: '2026-04-22T07:12:11.485543Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 3c7efbe75a3a7742e030f9dd0dc01606e3cb2b909b3f5c22053f2cb4c98e03f6
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_sp.html
+    fetched_at: '2026-04-22T07:12:27.490017Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: ee1848efef2efe79708e2f7a43c91f305b118f65a193db447782698289028387
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_fr.html
+    fetched_at: '2026-04-22T07:12:43.526923Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 5059eb3ea7fec9a9e6d09d925740313a2ff88b226d4b86b4624ac27eaad50975
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_it.html
+    fetched_at: '2026-04-22T07:12:59.509386Z'
+    fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 1adf13a30be1556474f94f6b85715ce77b3016b929d9ee54e6469fb38bdc218a
+    source_url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_la.html
+    fetch_method: httpx
+langues_disponibles:
+- en
+- es
+- fr
+- it
+- la
 sha256:
-  la: 9a45bbf438ce11fefd95e5f456692d392b23e68b6b9f70f3dc283504ff686218
+  en: cfca5beb4641e6e30726abe3cb2872e5cf6a3ff53cd613369644322e17d592a5
+  es: 3c7efbe75a3a7742e030f9dd0dc01606e3cb2b909b3f5c22053f2cb4c98e03f6
+  fr: ee1848efef2efe79708e2f7a43c91f305b118f65a193db447782698289028387
+  it: 5059eb3ea7fec9a9e6d09d925740313a2ff88b226d4b86b4624ac27eaad50975
+  la: 1adf13a30be1556474f94f6b85715ce77b3016b929d9ee54e6469fb38bdc218a

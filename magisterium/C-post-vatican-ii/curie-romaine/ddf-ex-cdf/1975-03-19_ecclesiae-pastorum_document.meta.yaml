@@ -4,15 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1975-03-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- en
-- fr
-- ge
-- it
-- la
-- pl
-- pt
-- sp
 langue_originale: la
 denzinger: []
 sujets: []
@@ -24,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 5fa7c4343b5fe7969ccb076cff250a3932333dc3e07ffb303dcf161ef19e2a30
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750319_ecclesiae-pastorum_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 5b60b9d526fb7bc6514b6cebea4db01065ef27784f4c3d5d5bd36938ec6b22c5
+  la: 5fa7c4343b5fe7969ccb076cff250a3932333dc3e07ffb303dcf161ef19e2a30

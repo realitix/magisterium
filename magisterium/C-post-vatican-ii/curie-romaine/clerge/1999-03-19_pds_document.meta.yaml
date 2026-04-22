@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1999-03-19'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- ge
 langue_originale: ge
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: ge
   fetch_method: httpx
+traductions:
+  ge:
+    kind: originale
+    sha256: d66ae0cab5b18c73534ac8821c68038ec3fa3a4bdaeed5fbd4ff17d63f7571ce
+    source_url: https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19031999_pds_ge.html
+    fetch_method: httpx
+langues_disponibles:
+- ge
 sha256:
-  ge: 8a5effbb1ae2f3a949ff0677c75f78096f8011af86f14b86d1c24a19bc0a26a5
+  ge: d66ae0cab5b18c73534ac8821c68038ec3fa3a4bdaeed5fbd4ff17d63f7571ce

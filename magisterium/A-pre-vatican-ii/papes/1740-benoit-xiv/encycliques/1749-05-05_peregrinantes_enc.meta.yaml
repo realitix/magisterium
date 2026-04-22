@@ -5,9 +5,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1749-05-05'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- en
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -20,5 +17,13 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+traductions:
+  en:
+    kind: originale
+    sha256: 95b332cc77bd91aa7a27fd18df905ff02d1596f1da3c94519d7803e61e537828
+    source_url: https://www.papalencyclicals.net/ben14/b14pereg.htm
+    fetch_method: httpx
+langues_disponibles:
+- en
 sha256:
-  en: 459bb2c87a3eca5d42c159ce282cb2e1eb5f88d48839a9cdfd4136bee1022548
+  en: 95b332cc77bd91aa7a27fd18df905ff02d1596f1da3c94519d7803e61e537828

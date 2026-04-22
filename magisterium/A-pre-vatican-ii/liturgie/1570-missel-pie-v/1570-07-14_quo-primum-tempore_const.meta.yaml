@@ -5,8 +5,6 @@ periode: pre-vatican-ii
 type: constitution-apostolique
 date: '1570-07-14'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets:
@@ -19,5 +17,13 @@ sources:
   site: www.fromrome.info
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: b633e6b7471ea73792c1ae6530f8de2fd84031ab0ee92706c7d821eb06cb7060
+    source_url: https://www.fromrome.info/2023/02/10/quo-primum-st-pius-vs-1570-bull-on-the-roman-missal-latin-and-english-text/
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 3a9ed0aa3dfdd8c099b5b2ee16d144af54740b408219fde4a9731623522aa47b
+  la: b633e6b7471ea73792c1ae6530f8de2fd84031ab0ee92706c7d821eb06cb7060

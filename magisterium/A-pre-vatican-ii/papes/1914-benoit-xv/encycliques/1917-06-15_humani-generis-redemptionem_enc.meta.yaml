@@ -4,8 +4,6 @@ periode: pre-vatican-ii
 type: encyclique
 date: '1917-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: ca7e133f8ff63dc4a867d5847e8c854d99237110465880e98e6999227ccdd72c
+    source_url: https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 40b5136f91e5309aa055584379583766b5bb07e040a7f7d9ed0d2ded8550a1e9
+  la: ca7e133f8ff63dc4a867d5847e8c854d99237110465880e98e6999227ccdd72c

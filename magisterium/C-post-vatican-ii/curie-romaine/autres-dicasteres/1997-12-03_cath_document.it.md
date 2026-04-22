@@ -1,7 +1,3 @@
-   
-) )  
-
-  
 ***Congregazione per l'Evangelizzazione dei Popoli***
 
 ***GUIDA PER I CATECHISTI***

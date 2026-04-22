@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: document
 date: '1972-05-16'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 78b2c65f7e8ce894154fae2d2e5791a6d439e1cf2e95a996c759054016f2a3e9
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720516_imp-mani_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: 94fa7586cdf39c12338ca35ec908abfde3bd085d5ebc32ea1ab2828ad321126f
+  la: 78b2c65f7e8ce894154fae2d2e5791a6d439e1cf2e95a996c759054016f2a3e9

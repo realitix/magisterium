@@ -4,8 +4,6 @@ periode: post-vatican-ii
 type: rescrit
 date: '2010-05-21'
 autorite_magisterielle: magistere-ordinaire
-langues_disponibles:
-- la
 langue_originale: la
 denzinger: []
 sujets: []
@@ -17,5 +15,13 @@ sources:
   site: www.vatican.va
   langue: la
   fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 6af087da037e433f21dbdbf35f365ef7f34d3321d1b4c13b685279a4cf8a056a
+    source_url: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20100521_rescriptum-ex-audientia_lt.html
+    fetch_method: httpx
+langues_disponibles:
+- la
 sha256:
-  la: ac5804603c655e7df4b00b7b0c55eb6c4c76f37325d5d2bb466818a1b7090c68
+  la: 6af087da037e433f21dbdbf35f365ef7f34d3321d1b4c13b685279a4cf8a056a

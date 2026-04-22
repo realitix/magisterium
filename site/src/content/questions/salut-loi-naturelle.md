@@ -1,6 +1,6 @@
 ---
-title: "Peut-on se sauver par la loi naturelle seule (hors ignorance invincible) ?"
-question: "Un bouddhiste qui respecte la loi morale naturelle, mais qui a entendu parler du christianisme et ne s'y est pas converti, peut-il être sauvé ? (hors hypothèse d'ignorance invincible)"
+title: "Peut-on se sauver par la loi naturelle seule ?"
+question: "Un bouddhiste qui respecte la loi morale naturelle, mais qui a entendu parler du christianisme et ne s'y est pas converti, peut-il être sauvé ?"
 slug: "salut-loi-naturelle"
 date: "2026-04-21"
 summary: "Non. De Florence (1442) à l'Unica Croce Salvezza du DDF (novembre 2025), le magistère catholique — y compris Benoît XVI (Spe Salvi), François (Lumen Fidei), et le DDF post-2000 (Dominus Iesus, Placuit Deo, Unica Croce Salvezza, Mater Populi Fidelis) — exclut que la loi naturelle seule suffise pour qui n'est pas dans l'ignorance invincible. La foi surnaturelle est requise necessitate medii."

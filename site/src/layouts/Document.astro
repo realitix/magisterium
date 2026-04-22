@@ -141,9 +141,18 @@ const pageDescription: string =
 
       <h1 class="doc__title" data-pagefind-meta="title" data-pagefind-weight="10.0">{title}</h1>
 
-      {meta.titre_original !== undefined && meta.titre_original !== null && meta.titre_original !== title && (
-        <p class="doc__subtitle" lang={lang} data-pagefind-weight="6.0">{meta.titre_original}</p>
-      )}
+      {(() => {
+        // Sous-titre = titre_original si présent, sinon l'incipit
+        // (le nom canonique du document dans la tradition catholique,
+        // typiquement les premiers mots latins / italiens). On ne l'affiche
+        // pas s'il est identique au titre principal (évite la duplication
+        // pour les docs dont le titre_fr est absent et où h1 = incipit).
+        const secondary = meta.titre_original ?? doc.incipit ?? meta.incipit ?? null;
+        if (secondary === null || secondary === title) return null;
+        return (
+          <p class="doc__subtitle" lang={lang} data-pagefind-weight="6.0">{secondary}</p>
+        );
+      })()}
 
       <div class="doc__badges">
         <span class={`badge ${periodeClass}`}>{periodeLabel}</span>

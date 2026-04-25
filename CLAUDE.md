@@ -60,18 +60,29 @@ Phases (`scrapers/phases/phase_N_*.py`) : chaque phase construit une liste de `D
 
 ## Structure du corpus
 
+Le corpus est scindé en deux racines, selon l'autorité du texte :
+
 ```
-magisterium/
+magisterium/                  # textes du magistère ecclésial (autorité)
 ├── A-pre-vatican-ii/        # conciles, papes, curie, catéchismes, droit, liturgie
 ├── B-vatican-ii/            # constitutions, déclarations, décrets
 ├── C-post-vatican-ii/       # papes post-V2, curie récente, catéchismes (CEC)
 ├── D-fsspx/                 # Mgr Lefebvre, supérieurs généraux, FSSPX
 └── _metadata/
-    ├── index.jsonl          # 1 ligne JSON par document (1304 au total)
+    ├── index.jsonl          # 1 ligne JSON par document magistériel
     ├── concordance.jsonl    # 11 thèmes → slugs pré-V2 / V2 / post-V2 / FSSPX
     ├── fetch-strategy.json
     └── errors.log
+
+livres/                       # références non-magistérielles (livres, études)
+├── ottaviani-bacci/         # ex. Bref examen critique 1969 (intervention cardinalice privée)
+└── _metadata/
+    └── index.jsonl          # 1 ligne JSON par livre
 ```
+
+Le champ `categorie` du `.meta.yaml` (défaut `magistere` ; `livre` pour la racine `livres/`) propage cette distinction dans l'index, où chaque entrée la transporte. Le site Astro charge les **deux** index et les fusionne en mémoire ; les fiches Q/R citent les slugs sans préfixe (le slug reste globalement unique). La concordance par thèmes ne s'applique qu'au magistère.
+
+**Quand mettre quoi dans `livres/` ?** Tout texte qui n'engage pas l'autorité de l'Église : interventions cardinalices privées, études tradi (FSSPX, sédévacantistes, communautés tradi…), manuels théologiques, commentaires patristiques, etc. Les véritables actes magistériels (encycliques, constitutions, instructions, motu proprio, lettres dicastérielles signées en fonction) restent dans `magisterium/`.
 
 Règle clé : **la langue originale reste la source de vérité doctrinale**. Elle est toujours présente et marquée `kind: originale` dans `traductions` du `.meta.yaml`. Les traductions officielles scrapées (ex. vatican.va) sont marquées `kind: officielle`, les traductions IA produites par le skill `translate-corpus` sont marquées `kind: ia`. Un document peut donc avoir jusqu'à ~10 fichiers `.lang.md` frères (un par langue). Toute analyse doctrinale sérieuse (fiches Q/R, citations) DOIT partir du `.<langue_originale>.md` — les autres sont de l'aide à la lecture.
 

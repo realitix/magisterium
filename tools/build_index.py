@@ -1,4 +1,12 @@
-"""Build magisterium/_metadata/index.jsonl from all .meta.yaml sidecars.
+"""Build index.jsonl files from all .meta.yaml sidecars.
+
+Génère deux index séparés :
+- ``magisterium/_metadata/index.jsonl`` — corpus magistériel (autorité)
+- ``livres/_metadata/index.jsonl`` — références non-magistérielles (livres)
+
+Le champ `categorie` du `.meta.yaml` (défaut: ``magistere``) propagé dans chaque
+entrée d'index permet aux consommateurs (site Astro) de fusionner les deux
+sources tout en distinguant l'autorité.
 
 Run: ``uv run python -m tools.build_index``.
 """
@@ -12,8 +20,10 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
-CORPUS = ROOT / "magisterium"
-OUT = CORPUS / "_metadata" / "index.jsonl"
+ROOTS: tuple[tuple[str, Path], ...] = (
+    ("magistere", ROOT / "magisterium"),
+    ("livre", ROOT / "livres"),
+)
 
 
 def _pick_sha(sha256: dict, langue_originale: str | None) -> str | None:
@@ -35,10 +45,13 @@ def _iso(d) -> str | None:
     return str(d)
 
 
-def build_index() -> int:
+def _build_one(corpus_root: Path, default_categorie: str) -> tuple[int, list[str]]:
+    """Build one index for the given corpus root. Returns (count, errors)."""
+    if not corpus_root.exists():
+        return 0, []
     entries: list[dict] = []
     errors: list[str] = []
-    meta_files = sorted(CORPUS.rglob("*.meta.yaml"))
+    meta_files = sorted(corpus_root.rglob("*.meta.yaml"))
     for meta_path in meta_files:
         try:
             data = yaml.safe_load(meta_path.read_text(encoding="utf-8"))
@@ -49,13 +62,10 @@ def build_index() -> int:
             errors.append(f"{meta_path}: not a dict")
             continue
 
-        rel = meta_path.relative_to(CORPUS).as_posix()
-        # slug: filename stem before ".meta"
+        rel = meta_path.relative_to(corpus_root).as_posix()
         slug = meta_path.name.removesuffix(".meta.yaml")
 
         traductions = data.get("traductions") or {}
-        # Liste compacte [{lang, kind}] pour le site : évite de re-parser
-        # chaque meta.yaml juste pour connaître les langues dispos.
         traductions_summary = sorted(
             (
                 {"lang": lang, "kind": (t or {}).get("kind", "originale")}
@@ -67,6 +77,7 @@ def build_index() -> int:
         entry = {
             "path": rel,
             "slug": slug,
+            "categorie": data.get("categorie", default_categorie),
             "incipit": data.get("incipit"),
             "titre_fr": data.get("titre_fr"),
             "auteur": data.get("auteur"),
@@ -79,33 +90,42 @@ def build_index() -> int:
             "themes_doctrinaux": data.get("themes_doctrinaux") or [],
             "traductions": traductions_summary,
         }
-        # Bloc `ouvrage` pour les parties de gros corpus multi-fichiers
-        # (Catéchisme romain, CEC latin…). Omis du JSONL pour les documents
-        # autonomes afin de garder l'index compact.
         ouvrage = data.get("ouvrage")
         if ouvrage is not None:
             entry["ouvrage"] = ouvrage
         entries.append(entry)
 
-    # Sort by date ascending (None last, to keep stable order)
     def _key(e: dict):
         d = e.get("date")
         return (0, d) if d else (1, e.get("slug") or "")
 
     entries.sort(key=_key)
 
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    with OUT.open("w", encoding="utf-8") as fh:
+    out_path = corpus_root / "_metadata" / "index.jsonl"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with out_path.open("w", encoding="utf-8") as fh:
         for e in entries:
             fh.write(json.dumps(e, ensure_ascii=False) + "\n")
 
-    print(f"[build_index] wrote {len(entries)} entries to {OUT.relative_to(ROOT)}")
-    if errors:
-        print(f"[build_index] {len(errors)} parse errors:", file=sys.stderr)
-        for e in errors[:20]:
+    print(f"[build_index] wrote {len(entries)} entries to {out_path.relative_to(ROOT)}")
+    return len(entries), errors
+
+
+def build_index() -> int:
+    total = 0
+    all_errors: list[str] = []
+    for default_categorie, corpus_root in ROOTS:
+        count, errors = _build_one(corpus_root, default_categorie)
+        total += count
+        all_errors.extend(errors)
+
+    if all_errors:
+        print(f"[build_index] {len(all_errors)} parse errors:", file=sys.stderr)
+        for e in all_errors[:20]:
             print(f"  - {e}", file=sys.stderr)
-        if len(errors) > 20:
-            print(f"  ... ({len(errors) - 20} more)", file=sys.stderr)
+        if len(all_errors) > 20:
+            print(f"  ... ({len(all_errors) - 20} more)", file=sys.stderr)
+    print(f"[build_index] total: {total} entries across {len(ROOTS)} corpus roots")
     return 0
 
 

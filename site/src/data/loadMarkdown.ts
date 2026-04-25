@@ -13,7 +13,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import yaml from 'js-yaml';
-import { CORPUS_ROOT } from './paths.js';
+import { CORPUS_ROOT, LIVRES_ROOT } from './paths.js';
 import { getDocumentBySlug } from './loadDocuments.js';
 import type { DocumentContent, DocumentMeta, Langue, TraductionKind } from './types.js';
 
@@ -82,7 +82,9 @@ export function loadDocumentContent(
   const doc = getDocumentBySlug(slug);
   if (doc === null) return null;
 
-  const absMetaPath = path.join(CORPUS_ROOT, doc.path);
+  // `doc.path` est relatif à la racine du document (magisterium ou livres).
+  const root = doc.categorie === 'livre' ? LIVRES_ROOT : CORPUS_ROOT;
+  const absMetaPath = path.join(root, doc.path);
   if (!fs.existsSync(absMetaPath)) return null;
 
   const meta = readMeta(absMetaPath);

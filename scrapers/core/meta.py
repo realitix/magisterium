@@ -8,6 +8,7 @@ from pydantic import BaseModel, Field
 
 Period = Literal["pre-vatican-ii", "vatican-ii", "post-vatican-ii", "fsspx"]
 TraductionKind = Literal["originale", "officielle", "ia"]
+Categorie = Literal["magistere", "livre"]
 
 
 class Source(BaseModel):
@@ -78,6 +79,12 @@ class DocMeta(BaseModel):
     titre_original: Optional[str] = None
     auteur: str
     periode: Period
+    # Catégorie d'autorité du texte. `magistere` (défaut) pour tout document
+    # produit par le magistère ecclésial (papes, conciles, dicastères) qui
+    # vit sous `magisterium/`. `livre` pour les références non-magistérielles
+    # (interventions cardinalices privées, études tradi, manuels théologiques)
+    # qui vivent sous `livres/`. Voir CLAUDE.md.
+    categorie: Categorie = "magistere"
     type: str
     date: Optional[_date] = None
     autorite_magisterielle: Optional[str] = None

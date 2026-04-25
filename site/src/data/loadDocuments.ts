@@ -3,14 +3,16 @@
  * concordance to populate `themes_doctrinaux`, and caches the result.
  */
 import fs from 'node:fs';
-import { INDEX_JSONL } from './paths.js';
+import { INDEX_JSONL, LIVRES_INDEX_JSONL } from './paths.js';
 import { loadAllThemes } from './loadThemes.js';
-import type { Document, OuvrageRef, TraductionSummary } from './types.js';
+import type { Categorie, Document, OuvrageRef, TraductionSummary } from './types.js';
 
-/** Raw JSONL record shape — `sha256` is a string in `index.jsonl`. */
+/** Raw JSONL record shape — `sha256` is a string in the index files. */
 interface IndexRow {
   path: string;
   slug: string;
+  /** Présent dans l'index depuis l'introduction de la racine `livres/`. Défaut = magistere pour la rétrocompat. */
+  categorie?: Categorie;
   incipit: string | null;
   titre_fr: string | null;
   auteur: string | null;
@@ -56,7 +58,11 @@ function buildSlugToThemes(): Map<string, Set<string>> {
  * join. The row's own `themes_doctrinaux` (usually empty) is merged too so
  * we don't lose data.
  */
-function parseRow(line: string, slugToThemes: Map<string, Set<string>>): Document {
+function parseRow(
+  line: string,
+  slugToThemes: Map<string, Set<string>>,
+  defaultCategorie: Categorie,
+): Document {
   const row = JSON.parse(line) as IndexRow;
   const joined = slugToThemes.get(row.slug) ?? new Set<string>();
   for (const t of row.themes_doctrinaux ?? []) joined.add(t);
@@ -66,6 +72,7 @@ function parseRow(line: string, slugToThemes: Map<string, Set<string>>): Documen
   return {
     path: row.path,
     slug: row.slug,
+    categorie: row.categorie ?? defaultCategorie,
     incipit: row.incipit,
     titre_fr: row.titre_fr,
     auteur: row.auteur,
@@ -81,16 +88,31 @@ function parseRow(line: string, slugToThemes: Map<string, Set<string>>): Documen
   };
 }
 
-/** Load all documents, caching the result in memory. */
+/**
+ * Load one JSONL index. Returns an empty array if the file does not exist
+ * (e.g. the books root is empty).
+ */
+function loadIndex(
+  indexPath: string,
+  slugToThemes: Map<string, Set<string>>,
+  defaultCategorie: Categorie,
+): Document[] {
+  if (!fs.existsSync(indexPath)) return [];
+  const raw = fs.readFileSync(indexPath, 'utf8');
+  return raw
+    .split('\n')
+    .filter((line) => line.trim().length > 0)
+    .map((line) => parseRow(line, slugToThemes, defaultCategorie));
+}
+
+/** Load all documents (magisterium + livres merged), caching the result. */
 export function loadAllDocuments(): Document[] {
   if (documentsCache !== null) return documentsCache;
 
   const slugToThemes = buildSlugToThemes();
-  const raw = fs.readFileSync(INDEX_JSONL, 'utf8');
-  const docs: Document[] = raw
-    .split('\n')
-    .filter((line) => line.trim().length > 0)
-    .map((line) => parseRow(line, slugToThemes));
+  const magistere = loadIndex(INDEX_JSONL, slugToThemes, 'magistere');
+  const livres = loadIndex(LIVRES_INDEX_JSONL, slugToThemes, 'livre');
+  const docs = [...magistere, ...livres];
 
   documentsCache = docs;
   documentsBySlug = new Map(docs.map((d) => [d.slug, d]));

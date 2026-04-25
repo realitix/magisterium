@@ -19,7 +19,12 @@ from pydantic import ValidationError
 from scrapers.core.meta import DocMeta
 
 ROOT = Path(__file__).resolve().parents[1]
-CORPUS = ROOT / "magisterium"
+# Deux racines à valider : le corpus magistériel et la collection de livres
+# non-magistériels. Voir CLAUDE.md.
+CORPUS_ROOTS: tuple[Path, ...] = (
+    ROOT / "magisterium",
+    ROOT / "livres",
+)
 
 
 def _companion_ok(meta_path: Path, langs: list[str]) -> tuple[bool, str]:
@@ -57,7 +62,10 @@ def _companion_ok(meta_path: Path, langs: list[str]) -> tuple[bool, str]:
 
 
 def main() -> int:
-    meta_files = sorted(CORPUS.rglob("*.meta.yaml"))
+    meta_files: list[Path] = []
+    for corpus in CORPUS_ROOTS:
+        if corpus.exists():
+            meta_files.extend(sorted(corpus.rglob("*.meta.yaml")))
     yaml_errors: list[tuple[Path, str]] = []
     pydantic_errors: list[tuple[Path, str]] = []
     md_errors: list[tuple[Path, str]] = []
@@ -103,7 +111,7 @@ def main() -> int:
             return
         print(f"\n-- {label} (showing {min(limit, len(rows))}/{len(rows)}) --")
         for p, reason in rows[:limit]:
-            print(f"  {p.relative_to(CORPUS)}: {reason}")
+            print(f"  {p.relative_to(ROOT)}: {reason}")
         if len(rows) > limit:
             print(f"  ... ({len(rows) - limit} more)")
 

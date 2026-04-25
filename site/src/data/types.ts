@@ -4,6 +4,14 @@
 
 export type Periode = 'pre-vatican-ii' | 'vatican-ii' | 'post-vatican-ii' | 'fsspx' | string;
 
+/**
+ * Catégorie d'autorité du document :
+ *  - `magistere` : produit du magistère ecclésial (papes, conciles, dicastères).
+ *  - `livre`     : référence non-magistérielle (intervention cardinalice
+ *                  privée, étude tradi, manuel théologique). Vit sous `livres/`.
+ */
+export type Categorie = 'magistere' | 'livre';
+
 export type Langue = 'la' | 'fr' | 'it' | 'en' | string;
 
 /**
@@ -57,9 +65,11 @@ export interface TraductionEntry {
  * derived from the concordance (join on slug).
  */
 export interface Document {
-  /** Relative path of the `.meta.yaml` file inside the magisterium corpus. */
+  /** Relative path of the `.meta.yaml` file inside its corpus root (magisterium or livres). */
   path: string;
   slug: string;
+  /** Catégorie d'autorité — magistère ou livre (référence). */
+  categorie: Categorie;
   incipit: string | null;
   titre_fr: string | null;
   auteur: string | null;

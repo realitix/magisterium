@@ -1,0 +1,68 @@
+incipit: Memoriale Domini
+titre_fr: Instruction sur la manière de distribuer la sainte communion
+auteur: Sacrée Congrégation pour le Culte Divin
+periode: post-vatican-ii
+type: instruction-liturgique
+date: '1969-05-29'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+- eucharistie
+- communion
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://archive.org/stream/AAS-61-1969/AAS-61-1969_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: curl+manual-cleanup
+- url: https://www.padreblog.fr/wp-content/uploads/2020/03/memoriale-domini.pdf
+  site: padreblog.fr
+  langue: fr
+  fetch_method: pdftotext
+- url: https://www.veritatemincaritate.com/wp/2019/04/istruzione-memoriale-domini-come-inizio-la-comunione-sulla-mano/
+  site: veritatemincaritate.com
+  langue: it
+  fetch_method: webfetch
+- url: https://www.ewtn.com/catholicism/library/instruction-on-the-manner-of-distributing-holy-communion-2195
+  site: www.ewtn.com
+  langue: en
+  fetch_method: curl+pandoc
+- url: https://www.ewtn.com/catholicism/library/en-reponse-a-la-demande-2208
+  site: www.ewtn.com
+  langue: en
+  fetch_method: curl+pandoc
+traductions:
+  la:
+    kind: originale
+    sha256: 3316fcf9fdac5c0d3e6f62431c7d282831908317f94e96a4dbfc28e9234c4236
+    source_url: https://archive.org/details/AAS-61-1969
+    fetch_method: curl+manual-cleanup
+  fr:
+    kind: officielle
+    sha256: 793d4ec8db15a9e134c7f46695039580f5b87c48402b41b21e5f60be015f7513
+    source_url: https://www.padreblog.fr/wp-content/uploads/2020/03/memoriale-domini.pdf
+    fetch_method: pdftotext
+  it:
+    kind: officielle
+    sha256: f34001b515ecc47ae953ce1fed16947f0de063c4b73fe5e51dca05f150883535
+    source_url: https://www.veritatemincaritate.com/wp/2019/04/istruzione-memoriale-domini-come-inizio-la-comunione-sulla-mano/
+    fetch_method: webfetch
+  en:
+    kind: officielle
+    sha256: 3d3945514aa22ad10a8c6c3640b4d5c9313beb32de2db8c37899bdf0bd7e7d50
+    source_url: https://www.ewtn.com/catholicism/library/instruction-on-the-manner-of-distributing-holy-communion-2195
+    fetch_method: curl+pandoc
+langues_disponibles:
+- la
+- fr
+- it
+- en
+sha256:
+  la: 3316fcf9fdac5c0d3e6f62431c7d282831908317f94e96a4dbfc28e9234c4236
+  fr: 793d4ec8db15a9e134c7f46695039580f5b87c48402b41b21e5f60be015f7513
+  it: f34001b515ecc47ae953ce1fed16947f0de063c4b73fe5e51dca05f150883535
+  en: 3d3945514aa22ad10a8c6c3640b4d5c9313beb32de2db8c37899bdf0bd7e7d50

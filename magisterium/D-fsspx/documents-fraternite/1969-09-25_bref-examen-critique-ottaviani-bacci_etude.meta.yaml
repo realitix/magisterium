@@ -1,0 +1,56 @@
+incipit: Bref examen critique du nouvel Ordo Missae
+titre_fr: Bref examen critique du nouvel Ordo Missae
+titre_original: Breve esame critico del Novus Ordo Missæ
+auteur: Cardinaux Alfredo Ottaviani et Antonio Bacci
+periode: fsspx
+type: etude-critique
+date: 1969-09-25
+autorite_magisterielle: non-magisteriel
+langue_originale: fr
+denzinger: []
+sujets:
+- liturgie
+- messe
+- ordo-missae
+- novus-ordo
+- sacrifice-eucharistique
+- reforme-liturgique
+- vatican-ii
+themes_doctrinaux:
+- sacrifice-de-la-messe
+- presence-reelle
+- transsubstantiation
+- sacerdoce-ministeriel
+references_anterieures:
+- bulle-quo-primum-1570
+- concile-trente-session-22
+- mediator-dei-1947
+references_posterieures: []
+sources:
+- url: http://amdg.free.fr/brefexamen.htm
+  site: amdg.free.fr
+  langue: fr
+  fetch_method: curl
+- url: http://www.gianfrancobertagni.it/materiali/cristianesimo/Monsignor%20Michel%20Louis%20-%20Gu%C3%A9rard%20de%20Lauriers%20OP,%20Breve%20esame%20critico%20Novus%20ordo%20Missae%20dei%20cardinali%20Ottaviani%20e%20Bacci.pdf
+  site: gianfrancobertagni.it
+  langue: it
+  fetch_method: curl+pdftotext
+traductions:
+  fr:
+    kind: originale
+    sha256: 4f06f630b6651702a92654d41a5535979b3a018b11fc49619b8fcc79c5899efa
+    source_url: http://amdg.free.fr/brefexamen.htm
+    fetched_at: 2026-04-25T13:47:19Z
+    fetch_method: curl
+  it:
+    kind: officielle
+    sha256: ad1c7ebd969d84025891543b72ef10f392861641197248898816451e58cd8456
+    source_url: http://www.gianfrancobertagni.it/materiali/cristianesimo/Monsignor%20Michel%20Louis%20-%20Gu%C3%A9rard%20de%20Lauriers%20OP,%20Breve%20esame%20critico%20Novus%20ordo%20Missae%20dei%20cardinali%20Ottaviani%20e%20Bacci.pdf
+    fetched_at: 2026-04-25T13:47:19Z
+    fetch_method: curl+pdftotext
+langues_disponibles:
+- fr
+- it
+sha256:
+  fr: 4f06f630b6651702a92654d41a5535979b3a018b11fc49619b8fcc79c5899efa
+  it: ad1c7ebd969d84025891543b72ef10f392861641197248898816451e58cd8456

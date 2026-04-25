@@ -7,6 +7,9 @@ summary: "La réponse dépend du niveau auquel on pose la question. Sur le rite 
 tags: ["liturgie", "messe", "novus-ordo", "rite-tridentin", "quo-primum", "trente", "mediator-dei", "sacrosanctum-concilium", "summorum-pontificum", "traditionis-custodes", "ottaviani-bacci", "sacrifice-eucharistique"]
 related_documents:
   - "1545_trente"
+  - "1545_trente_sess-07-de-sacramentis"
+  - "1545_trente_sess-13-de-eucharistia"
+  - "1545_trente_sess-22-de-sacrificio-missae"
   - "1570-07-14_quo-primum-tempore_const"
   - "1947-11-20_mediator-dei_enc"
   - "1963-12-04_sacrosanctum-concilium_const"
@@ -65,7 +68,7 @@ L'enjeu pastoral est concret : un ami catholique fréquente la messe Paul VI dan
 
 ### Trente, session XXII (17 septembre 1562) — la doctrine dogmatique du sacrifice de la messe
 
-> **Note éditoriale.** Le fichier `1545_trente.en.md` du corpus local n'archive qu'une **table des matières** des sessions de Trente (avec liens vers le texte intégral hébergé par papalencyclicals.net) — les textes latins eux-mêmes ne sont pas dans le corpus. Les citations latines des sessions XXII, XIII et VII reproduites ci-après proviennent du **Denzinger-Hünermann** (DH 1740, 1743, 1751, 1753, 1756 pour la session XXII ; DH 1652 pour la session XIII chap. IV ; DH 1610 pour la session VII can. 11) — texte canonique reçu universellement, mais qu'aucun fichier de notre corpus n'atteste textuellement. Le lecteur qui veut vérifier doit se reporter au DH ou aux Actes officiels du concile.
+> **Note éditoriale.** Les sessions du concile de Trente sont désormais **archivées localement** dans la traduction anglaise classique de J. Waterworth (1848, *via* papalencyclicals.net), une partie par fichier sous `1545-trente/` — slugs `1545_trente_sess-22-de-sacrificio-missae`, `1545_trente_sess-13-de-eucharistia`, `1545_trente_sess-07-de-sacramentis`, etc. Le lecteur peut donc vérifier chaque canon dans le texte anglais directement consultable. Les **citations latines** reproduites ci-après proviennent quant à elles du **Denzinger-Hünermann** (DH 1740, 1743, 1751, 1753, 1756 pour la session XXII ; DH 1652 pour la session XIII chap. IV ; DH 1610 pour la session VII can. 11) — formulation canonique latine reçue universellement, à confirmer dans une édition critique du DH ou des Actes officiels avant publication d'une fiche qui en dépendrait fortement.
 
 La XXIIᵉ session du concile de Trente définit comme *de fide divina et catholica definita* le caractère propitiatoire et sacrificiel propre de la messe, et son identité numérique avec le sacrifice de la croix. Le chapitre I établit l'institution :
 
@@ -73,7 +76,7 @@ La XXIIᵉ session du concile de Trente définit comme *de fide divina et cathol
 >
 > **Traduction :** « Notre Dieu et Seigneur, bien qu'il dût s'offrir une seule fois lui-même à Dieu son Père sur l'autel de la croix par sa mort, pour y opérer l'éternelle rédemption ; néanmoins, parce que son sacerdoce ne devait pas s'éteindre par la mort, à la dernière Cène […] il a laissé un sacrifice **visible** (comme l'exige la nature humaine). »
 >
-> — *Concile de Trente, sess. XXII (1562), Doctrina de sacrificio missae, chap. I* (slug `1545_trente`)
+> — *Concile de Trente, sess. XXII (1562), Doctrina de sacrificio missae, chap. I* (slug `1545_trente_sess-22-de-sacrificio-missae` ; texte latin DH 1740)
 
 Le chapitre II affirme l'identité numérique avec le sacrifice de la croix :
 
@@ -81,7 +84,7 @@ Le chapitre II affirme l'identité numérique avec le sacrifice de la croix :
 >
 > **Traduction :** « C'est en effet **une seule et même hostie**, c'est le même qui s'offre maintenant par le ministère des prêtres, lui qui s'offrit alors lui-même sur la Croix : seule diffère la manière d'offrir. »
 >
-> — *Concile de Trente, sess. XXII, Doctrina, chap. II* (slug `1545_trente`)
+> — *Concile de Trente, sess. XXII, Doctrina, chap. II* (slug `1545_trente_sess-22-de-sacrificio-missae` ; texte latin DH 1743)
 
 Suivent les neuf canons anathématisants. Trois sont décisifs pour notre question :
 
@@ -97,9 +100,9 @@ Suivent les neuf canons anathématisants. Trois sont décisifs pour notre questi
 >
 > **Traduction :** « Si quelqu'un dit que **le Canon de la messe contient des erreurs et qu'il faut donc l'abroger**, qu'il soit anathème. »
 >
-> — *Concile de Trente, sess. XXII, Canones de sacrificio missae* (slug `1545_trente`)
+> — *Concile de Trente, sess. XXII, Canones de sacrificio missae* (slug `1545_trente_sess-22-de-sacrificio-missae` ; texte latin DH 1751, 1753, 1756 — vérifiable en anglais Waterworth dans le fichier archivé)
 
-Ces canons fixent les **bornes dogmatiques irréformables** auxquelles tout rite romain ultérieur doit se conformer : caractère propitiatoire manifesté, sacrifice vrai et propre, intégrité doctrinale du Canon. La session XIII (1551) ajoute la définition de la transsubstantiation comme conversion de toute la substance du pain et du vin, et précise que **matière, forme et intention** suffisent à la validité (sess. VII, *De sacramentis in genere*, can. 11).
+Ces canons fixent les **bornes dogmatiques irréformables** auxquelles tout rite romain ultérieur doit se conformer : caractère propitiatoire manifesté, sacrifice vrai et propre, intégrité doctrinale du Canon. La session XIII (1551, slug `1545_trente_sess-13-de-eucharistia`, DH 1652) ajoute la définition de la transsubstantiation comme conversion de toute la substance du pain et du vin, et la session VII (1547, slug `1545_trente_sess-07-de-sacramentis`, DH 1610) précise par son canon 11 que **matière, forme et intention de faire ce que fait l'Église** suffisent à la validité du sacrement.
 
 ### *Quo Primum Tempore* (saint Pie V, 14 juillet 1570) — la promulgation perpétuelle du Missel romain
 
@@ -388,7 +391,10 @@ Face à un ami catholique qui s'inquiète après avoir lu une critique tradi sur
 
 ## Références
 
-- **Concile de Trente — sessions VII, XIII, XXII (1545-1563)** → `/documents/1545_trente/`
+- **Concile de Trente — index général (1545-1563)** → `/documents/1545_trente/`
+- **Concile de Trente — session VII, *De sacramentis in genere* (3 mars 1547)** → `/documents/1545_trente_sess-07-de-sacramentis/`
+- **Concile de Trente — session XIII, *De ss. Eucharistiae sacramento* (11 octobre 1551)** → `/documents/1545_trente_sess-13-de-eucharistia/`
+- **Concile de Trente — session XXII, *De sacrificio missae* (17 septembre 1562)** → `/documents/1545_trente_sess-22-de-sacrificio-missae/`
 - **Saint Pie V — bulle *Quo Primum Tempore* (14 juillet 1570)** → `/documents/1570-07-14_quo-primum-tempore_const/`
 - **Pie XII — encyclique *Mediator Dei* (20 novembre 1947)** → `/documents/1947-11-20_mediator-dei_enc/`
 - **Vatican II — Constitution *Sacrosanctum Concilium* (4 décembre 1963)** → `/documents/1963-12-04_sacrosanctum-concilium_const/`

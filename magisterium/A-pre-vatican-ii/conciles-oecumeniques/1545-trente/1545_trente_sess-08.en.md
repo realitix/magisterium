@@ -1,0 +1,9 @@
+Menu
+
+**\[Page 67\]**
+
+Celebrated on the eleventh day of the month of March, in the year MDXLVII.
+
+### DECREE CONCERNING THE TRANSLATION OF THE COUNCIL
+
+Doth it please you to decree and declare, that, from the foregoing statements and other allegations, a disease of the kind stated is so plainly and notoriously certain, that the prelates cannot without danger of their lives remain in this city, and that **\[Page 68\]** therefore they cannot and ought not to be detained therein against their wills? And considering moreover the withdrawal of many prelates since the Session last held, and the protests made in the general congregations by very many other prelates, who wish by all means to depart hence through fear of the said disease, who cannot justly be detained; and by whose departure the Council would either be dissolved, or, from the small number of the prelates, its beneficial progress be hindered; and considering also the imminent danger to life, and the other notoriously true and legitimate reasons alleged in the said congregations by certain of the Fathers; doth it please you, in like manner, to decree and declare, that, for the preservation and prosecution of the said Council, and for the safety of the lives of the said prelates, this Council be transferred for a time to the city of Bologna, as being a place better provided, more healthy, and fit, and that the translation have effect from this day forth, and that the Session, already indicted for the twentyfirst of April ought to be celebrated, and be celebrated, there on that appointed day; and that the further matters be proceeded with in order, until it shall seem expedient, to our most holy Lord and to the sacred Council, that the said Council may, and ought to, be brought back to this, or to some other place, taking council also thereupon with the most invincible Emperor, the most Christian king, and with the other Christian kings and princes? They answered: It pleaseth us.

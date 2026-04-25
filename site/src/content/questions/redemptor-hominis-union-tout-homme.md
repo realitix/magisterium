@@ -1,10 +1,10 @@
 ---
 title: "« Le Fils de Dieu s'est uni à tout homme » (Redemptor Hominis §13) — hérésie universaliste ou christologie traditionnelle ?"
-question: "Quand Jean-Paul II reprend dans Redemptor Hominis §13 (1979) la formule de Vatican II « le Fils de Dieu, par son Incarnation, s'est uni d'une certaine manière à tout homme » (Gaudium et Spes §22), enseigne-t-il l'hérésie d'un salut universel automatique par incorporation ontologique du Christ à la nature humaine — comme l'affirment Adrien Abauzit et la mouvance sédévacantiste ?"
+question: "Quand Jean-Paul II reprend dans Redemptor Hominis §13 (1979) la formule de Vatican II « le Fils de Dieu, par son Incarnation, s'est uni d'une certaine manière à tout homme » (Gaudium et Spes §22), enseigne-t-il l'hérésie d'un salut universel automatique par incorporation ontologique du Christ à la nature humaine ?"
 slug: "redemptor-hominis-union-tout-homme"
 date: "2026-04-25"
 summary: "Non. La formule « cum omni homine quodammodo Se univit » est, lue dans son latin original avec son adverbe quodammodo (« d'une certaine manière »), une reprise pastorale de la christologie thomiste-chalcédonienne classique — assomption de la nature humaine par le Verbe en Marie, solidarité du « nouvel Adam » avec tous ceux qui partagent cette nature, fruits salvifiques offerts à tous mais à actualiser par la foi, le baptême et l'incorporation à l'Église. La lecture sédévacantiste qui supprime le quodammodo est textuellement infondée — et explicitement contredite par Jean-Paul II lui-même dans Redemptoris Missio (1990), puis par le DDF dans Dominus Iesus (2000), Placuit Deo (2018, condamnation du néo-pélagianisme), Unica Croce Salvezza (2025) et Mater Populi Fidelis (2025). Mais les ambiguïtés rhétoriques réelles de RH §13 ont effectivement nourri une réception inclusiviste qui justifie a posteriori les clarifications romaines."
-tags: ["christologie", "incarnation", "salut-universel", "redemptor-hominis", "gaudium-et-spes", "assumptio-naturae", "sedevacantisme", "abauzit"]
+tags: ["christologie", "incarnation", "salut-universel", "redemptor-hominis", "gaudium-et-spes", "assumptio-naturae", "sedevacantisme"]
 related_documents:
   - "0431_ephese"
   - "0451_chalcedoine"
@@ -38,14 +38,14 @@ voices:
     body: "La Fraternité Saint-Pie X reconnaît que la lettre de Redemptor Hominis §13, lue avec ses qualificatifs et dans le contexte du magistère antérieur (Chalcédoine, Florence, Pie X), reste compatible avec la doctrine de l'assomption de la nature humaine. Mais elle dénonce le déséquilibre rhétorique massif : Jean-Paul II martèle la dignité de l'homme, l'union du Christ à tout homme, l'optimisme christocentrique — et tait la nécessité du baptême, le péché originel, la damnation possible. La Tradition n'a pas besoin de ces formules ambiguës ; elle préférait dire les choses comme Pie X."
     punchline: "On a connu des encycliques moins anthropocentriques."
   sedevacantiste:
-    tagline: "Abauzit a le mérite d'avoir lu le texte."
-    body: "Pour les sédévacantistes (Adrien Abauzit en France, John Lane et Robert Sungenis dans le monde anglophone), la formule de Redemptor Hominis §13 est l'une des preuves les plus claires que l'Église conciliaire enseigne une hérésie universaliste : si le Christ s'est uni à tout homme, alors tout homme est sauvé, et l'Église perd toute nécessité salvifique. La lecture est tendancieuse — elle gomme le quodammodo et ignore Redemptoris Missio — mais elle est servie par les ambiguïtés réelles du texte de 1979. Position cohérente si l'on accepte sa prémisse, faible quand on lit Jean-Paul II en entier."
+    tagline: "La lettre du texte est lue — mais à demi."
+    body: "Pour les sédévacantistes, la formule de Redemptor Hominis §13 est l'une des preuves les plus claires que l'Église conciliaire enseigne une hérésie universaliste : si le Christ s'est uni à tout homme, alors tout homme est sauvé, et l'Église perd toute nécessité salvifique. La lecture est tendancieuse — elle gomme le quodammodo et ignore Redemptoris Missio — mais elle est servie par les ambiguïtés réelles du texte de 1979. Position cohérente si l'on accepte sa prémisse, faible quand on lit Jean-Paul II en entier."
     punchline: "Le mérite : avoir lu le latin. Le défaut : avoir oublié l'adverbe."
 ---
 
 ## Contexte
 
-La question est posée par un commentateur sédévacantiste français, **Adrien Abauzit**, qui dénonce dans le magistère de Jean-Paul II — et plus largement dans le concile Vatican II — l'enseignement d'une « hérésie du salut universel » par union ontologique du Christ avec tout homme. Le texte qu'il cite est l'un des plus fameux du pontificat : *Redemptor Hominis* (4 mars 1979), première encyclique programmatique de Karol Wojtyła, paragraphe 13. Jean-Paul II y reprend explicitement, avec note de référence, une formule de la constitution pastorale *Gaudium et Spes* §22 du concile Vatican II :
+La mouvance sédévacantiste dénonce dans le magistère de Jean-Paul II — et plus largement dans le concile Vatican II — l'enseignement supposé d'une « hérésie du salut universel » par union ontologique du Christ avec tout homme. Le texte le plus souvent invoqué à charge est l'un des plus fameux du pontificat : *Redemptor Hominis* (4 mars 1979), première encyclique programmatique de Karol Wojtyła, paragraphe 13. Jean-Paul II y reprend explicitement, avec note de référence, une formule de la constitution pastorale *Gaudium et Spes* §22 du concile Vatican II :
 
 > *« Filius Dei, incarnatione sua cum omni homine quodammodo se univit. »*
 >
@@ -53,15 +53,15 @@ La question est posée par un commentateur sédévacantiste français, **Adrien 
 >
 > — *Vatican II,* Gaudium et Spes *§22, 7 décembre 1965* (source : `1965-12-07_gaudium-et-spes_const.la.md`, l. 210)
 
-Cette phrase — qui figure littéralement dans GS §22, est citée dans RH §8 et §13, reprise allusivement dans RH §14 et §18, et est devenue l'une des formules emblématiques du pontificat de Jean-Paul II — peut-elle être lue, comme le veut Abauzit, comme l'affirmation magistérielle d'un salut automatique de tous les hommes par leur seule appartenance à la nature humaine ? Si oui, elle contredirait frontalement le concile de Florence (1442), Vatican I, le catéchisme du concile de Trente, le catéchisme de saint Pie X, et la doctrine *de fide* « hors de l'Église point de salut ». Si non, comment lire correctement la formule, et comment répondre à un interlocuteur sédévacantiste qui, lui, ne lâche pas la lettre ?
+Cette phrase — qui figure littéralement dans GS §22, est citée dans RH §8 et §13, reprise allusivement dans RH §14 et §18, et est devenue l'une des formules emblématiques du pontificat de Jean-Paul II — peut-elle être lue, comme le veut l'objection sédévacantiste, comme l'affirmation magistérielle d'un salut automatique de tous les hommes par leur seule appartenance à la nature humaine ? Si oui, elle contredirait frontalement le concile de Florence (1442), Vatican I, le catéchisme du concile de Trente, le catéchisme de saint Pie X, et la doctrine *de fide* « hors de l'Église point de salut ». Si non, comment lire correctement la formule, et comment répondre à un interlocuteur sédévacantiste qui, lui, ne lâche pas la lettre ?
 
 La fiche démontrera, en s'appuyant strictement sur le latin original des textes incriminés et sur la tradition christologique antérieure, que :
 
 1. **La lettre de RH §13 et de GS §22 reste compatible avec la christologie traditionnelle** (Chalcédoine, Éphèse, Florence, Trente, Pie X) à condition de respecter l'adverbe **quodammodo** (« de quelque manière »), qui distingue précisément l'union par solidarité naturelle d'une union hypostatique universelle (laquelle, elle, serait hérétique).
-2. **La lecture sédévacantiste / Abauzit est textuellement infondée** : elle gomme le *quodammodo*, ignore *Redemptoris Missio* (1990) où Jean-Paul II lui-même clarifie le sens de l'union à tout homme, et passe sous silence les clarifications successives du DDF de 2000, 2018 et novembre 2025.
+2. **La lecture sédévacantiste est textuellement infondée** : elle gomme le *quodammodo*, ignore *Redemptoris Missio* (1990) où Jean-Paul II lui-même clarifie le sens de l'union à tout homme, et passe sous silence les clarifications successives du DDF de 2000, 2018 et novembre 2025.
 3. **Les ambiguïtés rhétoriques réelles du texte de 1979 sont néanmoins à reconnaître honnêtement** : Jean-Paul II y déséquilibre l'optimisme christocentrique au détriment du péché originel et de la damnation possible, ce qui a effectivement nourri des réceptions inclusivistes — réceptions que Rome elle-même a dû corriger dans une cascade de documents magistériels postérieurs. La critique tradi a sa pertinence, mais elle ne va pas jusqu'à l'hérésie formelle.
 
-L'enjeu pastoral est concret : un ami catholique tradi vient de lire ou d'entendre Adrien Abauzit, et conclut que Jean-Paul II est hérétique parce qu'il aurait enseigné que tout homme est uni au Christ par nature. Comment lui répondre sans céder à la caricature, ni minimiser les vraies ambiguïtés ? La réponse passe par la lecture latine du texte, la tradition christologique antérieure, et la réception magistérielle officielle.
+L'enjeu pastoral est concret : un ami catholique tradi vient de croiser cette objection, et conclut que Jean-Paul II est hérétique parce qu'il aurait enseigné que tout homme est uni au Christ par nature. Comment lui répondre sans céder à la caricature, ni minimiser les vraies ambiguïtés ? La réponse passe par la lecture latine du texte, la tradition christologique antérieure, et la réception magistérielle officielle.
 
 ## Enseignement traditionnel (pré-Vatican II)
 
@@ -157,7 +157,7 @@ C'est l'antidote magistériel par anticipation à toute lecture universaliste de
 
 ### Gaudium et Spes §22 (1965) — le *quodammodo* comme verrou scolastique
 
-C'est ici que se trouve la formule qu'Abauzit dénonce. Lue *en entier*, en latin, elle se révèle parfaitement traditionnelle. Voici l'enchaînement complet du paragraphe :
+C'est ici que se trouve la formule incriminée. Lue *en entier*, en latin, elle se révèle parfaitement traditionnelle. Voici l'enchaînement complet du paragraphe :
 
 > *« Cum in Eo natura humana assumpta, non perempta sit, eo ipso etiam in nobis ad sublimem dignitatem evecta est. Ipse enim, Filius Dei, incarnatione sua cum omni homine quodammodo Se univit. […] Natus de Maria Virgine, vere unus ex nostris factus est, in omnibus nobis similis excepto peccato. »*
 >
@@ -226,7 +226,7 @@ L'union « quodammodo » est précisément la *raison* de la mission de l'Églis
 
 ### Redemptoris Missio (1990) — Jean-Paul II clarifie son propre enseignement
 
-Onze ans après *Redemptor Hominis*, Jean-Paul II publie l'encyclique missionnaire de son pontificat, *Redemptoris Missio* (7 décembre 1990). Le titre seul — *De perenni vi mandati missionalis*, « sur la force permanente du mandat missionnaire » — répond *a priori* à toute lecture universaliste de RH §13. JP2 cite explicitement RH §13 dès §4, mais en tire la conséquence inverse de celle d'Abauzit :
+Onze ans après *Redemptor Hominis*, Jean-Paul II publie l'encyclique missionnaire de son pontificat, *Redemptoris Missio* (7 décembre 1990). Le titre seul — *De perenni vi mandati missionalis*, « sur la force permanente du mandat missionnaire » — répond *a priori* à toute lecture universaliste de RH §13. JP2 cite explicitement RH §13 dès §4, mais en tire la conséquence inverse de la lecture universaliste :
 
 > *« Christus unus est mediator inter Deum et homines… Si non exclusae sunt mediationes participatae diversi generis et ordinis, hae attamen significationem trahunt et vim a mediatione Christi, **nec pares haberi possunt nec perfectivae**. »*
 >
@@ -274,7 +274,7 @@ Les autres religions sont qualifiées, dans une expression devenue célèbre, co
 
 ### Placuit Deo (CDF, 2018) — condamnation explicite du néo-pélagianisme
 
-Près de quatre décennies après RH, la Congrégation pour la doctrine de la foi (préfet : cardinal Luis Ladaria) publie sous le pape François la lettre *Placuit Deo* (22 février 2018), qui condamne nommément l'hérésie même qu'Abauzit prête à Jean-Paul II :
+Près de quatre décennies après RH, la Congrégation pour la doctrine de la foi (préfet : cardinal Luis Ladaria) publie sous le pape François la lettre *Placuit Deo* (22 février 2018), qui condamne nommément l'hérésie même que la lecture sédévacantiste prête à Jean-Paul II :
 
 > *« Nei nostri tempi prolifera un neo-pelagianesimo per cui l'individuo, radicalmente autonomo, pretende di salvare sé stesso, senza riconoscere che egli dipende, nel più profondo del suo essere, da Dio e dagli altri. »*
 >
@@ -290,7 +290,7 @@ Et :
 >
 > — *CDF,* Placuit Deo *§4* (même source)
 
-La lettre cite ensuite *littéralement* GS §22 — la formule qu'Abauzit incrimine — et la lit dans un contexte explicitement *anti*-pélagien :
+La lettre cite ensuite *littéralement* GS §22 — la formule incriminée — et la lit dans un contexte explicitement *anti*-pélagien :
 
 > *« "Il Figlio di Dio si è fatto figlio dell'uomo" e nostro fratello. Così, in quanto Egli è entrato a far parte della famiglia umana, "si è unito, in certo modo, ad ogni uomo". »*
 >
@@ -342,7 +342,7 @@ Vingt-quatre heures plus tard, la même DDF, sous Léon XIV, publie une note doc
 >
 > — *DDF,* Mater Populi Fidelis *§27, citant Dominus Iesus §13* (même source)
 
-L'ensemble forme une chaîne magistérielle ininterrompue : *Dominus Iesus* 2000 → *Placuit Deo* 2018 → *Unica Croce Salvezza* novembre 2025 → *Mater Populi Fidelis* novembre 2025. Vingt-cinq ans, quatre pontificats (Jean-Paul II, Benoît XVI, François, Léon XIV), trois préfets DDF (Ratzinger, Ladaria, Fernández) : Rome a *systématiquement* exclu toute lecture universaliste de la formule de RH §13 / GS §22. La lecture d'Abauzit n'est pas seulement contredite par Jean-Paul II lui-même (RM 1990), elle l'est par toute la curie romaine sur un quart de siècle.
+L'ensemble forme une chaîne magistérielle ininterrompue : *Dominus Iesus* 2000 → *Placuit Deo* 2018 → *Unica Croce Salvezza* novembre 2025 → *Mater Populi Fidelis* novembre 2025. Vingt-cinq ans, quatre pontificats (Jean-Paul II, Benoît XVI, François, Léon XIV), trois préfets DDF (Ratzinger, Ladaria, Fernández) : Rome a *systématiquement* exclu toute lecture universaliste de la formule de RH §13 / GS §22. La lecture sédévacantiste n'est pas seulement contredite par Jean-Paul II lui-même (RM 1990), elle l'est par toute la curie romaine sur un quart de siècle.
 
 ## Contradictions et tensions
 
@@ -359,10 +359,10 @@ Ces ambiguïtés sont *réelles* mais *n'équivalent pas à l'hérésie*. Elles 
 
 **Deuxième point : la critique tradi sur la pastorale post-conciliaire est, elle, en grande partie justifiée.** Si la *lettre* de RH §13 reste compatible avec la tradition christologique, sa *réception* dans la prédication ordinaire des années 1980-2020 a effectivement glissé. La formule de Vatican II, dépouillée de son *quodammodo*, est devenue dans bien des bouches l'affirmation d'un universalisme diffus : « tout homme est aimé », « tout homme est sauvé », « le Christ est dans toute religion ». Cette dérive est attestée, et elle est *précisément* ce que *Placuit Deo* condamne sous le nom de néo-pélagianisme. La critique tradi, sur ce plan-là, est non seulement légitime mais doctrinalement reçue par Rome elle-même.
 
-**Troisième point : la lecture sédévacantiste passe de la critique pastorale légitime à l'imputation d'hérésie formelle, ce qui est un saut qu'aucun texte magistériel n'autorise.** La position d'Abauzit suppose, pour tenir, trois opérations textuellement contestables :
+**Troisième point : la lecture sédévacantiste passe de la critique pastorale légitime à l'imputation d'hérésie formelle, ce qui est un saut qu'aucun texte magistériel n'autorise.** Cette position suppose, pour tenir, trois opérations textuellement contestables :
 
 1. *Lire RH §13 et GS §22 isolément*, sans les paragraphes immédiatement environnants (RH §14 « *licet homo huiusce rei non sit conscius* », « bien que l'homme n'en ait pas conscience » ; RH §18 conditionnel « *si Christus* », « si le Christ [s'est uni à tout homme] » ; GS §22 final « *consocientur modo Deo cognito* », « qu'ils soient associés [au mystère pascal] d'une manière que Dieu connaît »).
-2. *Gommer le quodammodo*. Sans lui, l'énoncé deviendrait : « Le Fils de Dieu s'est uni à tout homme » au sens hypostatique — ce qui *serait* hérétique. Avec lui, l'énoncé reste dans la doctrine classique de l'*assumptio naturae*. Abauzit ne peut donc accuser RH §13 d'hérésie qu'en escamotant son adverbe central.
+2. *Gommer le quodammodo*. Sans lui, l'énoncé deviendrait : « Le Fils de Dieu s'est uni à tout homme » au sens hypostatique — ce qui *serait* hérétique. Avec lui, l'énoncé reste dans la doctrine classique de l'*assumptio naturae*. La thèse sédévacantiste ne peut donc accuser RH §13 d'hérésie qu'en escamotant son adverbe central.
 3. *Ignorer LG §§14-17, RM, DI, PD, UCS, MPF*, qui sont tous des actes magistériels qui clarifient le sens de la formule dans une direction explicitement non universaliste.
 
 Une lecture textuelle honnête ne peut que conclure : la lettre de RH §13 reste catholique ; la rhétorique de RH §13 est imparfaite ; la pastorale post-conciliaire issue de RH §13 a souvent dérapé ; mais l'imputation d'hérésie formelle à Jean-Paul II ou à Vatican II sur ce point précis est textuellement infondée.
@@ -384,19 +384,19 @@ Une lecture textuelle honnête ne peut que conclure : la lettre de RH §13 reste
 
 **Réponse directe à la question** : non, Jean-Paul II n'enseigne pas dans *Redemptor Hominis* §13 l'hérésie d'un salut universel automatique par incorporation ontologique du Christ à la nature humaine. La lettre du texte, lue en latin avec son adverbe *quodammodo* et dans son contexte (§§13-14-18, conclusion mariale et eucharistique), reste compatible avec la christologie thomiste-chalcédonienne classique de l'*assumptio naturae*. Cette lecture est explicitement confirmée par Jean-Paul II lui-même dans *Redemptoris Missio* (1990) et par le DDF dans une cascade ininterrompue de documents (2000, 2018, novembre 2025).
 
-La lecture d'Adrien Abauzit et de la mouvance sédévacantiste est donc, sur ce point précis, **textuellement infondée** — elle ne tient qu'au prix de l'escamotage du *quodammodo* et du silence sur RM, DI, PD, UCS, MPF. Mais elle est **partiellement justifiée** dans son intuition critique sur la rhétorique déséquilibrée de Jean-Paul II et sur les dérives pastorales post-conciliaires que cette rhétorique a effectivement nourries. L'apologétique traditionnelle honnête doit reconnaître les deux : la non-hérésie formelle du texte, et la légitimité de la critique sur les ambiguïtés rhétoriques.
+La lecture sédévacantiste est donc, sur ce point précis, **textuellement infondée** — elle ne tient qu'au prix de l'escamotage du *quodammodo* et du silence sur RM, DI, PD, UCS, MPF. Mais elle est **partiellement justifiée** dans son intuition critique sur la rhétorique déséquilibrée de Jean-Paul II et sur les dérives pastorales post-conciliaires que cette rhétorique a effectivement nourries. L'apologétique traditionnelle honnête doit reconnaître les deux : la non-hérésie formelle du texte, et la légitimité de la critique sur les ambiguïtés rhétoriques.
 
 ## Comment répondre pastoralement
 
-Face à un ami catholique qui vient d'écouter Adrien Abauzit et qui s'inquiète d'avoir « découvert » que Jean-Paul II est hérétique, plusieurs points méritent d'être dits posément.
+Face à un ami catholique qui vient de croiser cette objection sédévacantiste et qui s'inquiète d'avoir « découvert » que Jean-Paul II est hérétique, plusieurs points méritent d'être dits posément.
 
-**1. Saluer le sérieux de la lecture, mais inviter à la prolonger.** Abauzit a au moins le mérite d'avoir lu le texte. Beaucoup de catholiques modernes citent GS §22 comme un slogan sans même avoir ouvert l'encyclique. Le sédévacantiste a lu — c'est déjà mieux que l'auditeur enthousiaste qui répète sans vérifier. Mais il a lu *partiellement*. La consigne est : finir la phrase. Lire le *quodammodo*. Lire RH §14 (« licet homo non sit conscius »). Lire RH §18 conditionnel. Lire *Redemptoris Missio* publiée par le même pape onze ans plus tard. Lire *Dominus Iesus*, *Placuit Deo*, *Unica Croce Salvezza*. Le sédévacantisme commence là où la lecture s'arrête.
+**1. Saluer le sérieux de la lecture, mais inviter à la prolonger.** L'objection a au moins le mérite d'avoir lu le texte. Beaucoup de catholiques modernes citent GS §22 comme un slogan sans même avoir ouvert l'encyclique. Le sédévacantiste a lu — c'est déjà mieux que l'auditeur enthousiaste qui répète sans vérifier. Mais il a lu *partiellement*. La consigne est : finir la phrase. Lire le *quodammodo*. Lire RH §14 (« licet homo non sit conscius »). Lire RH §18 conditionnel. Lire *Redemptoris Missio* publiée par le même pape onze ans plus tard. Lire *Dominus Iesus*, *Placuit Deo*, *Unica Croce Salvezza*. Le sédévacantisme commence là où la lecture s'arrête.
 
 **2. Expliquer le *quodammodo* sans technicité.** L'adverbe *quodammodo* (« d'une certaine manière », « en quelque sorte ») est un mot qu'utilisent saint Thomas, saint Augustin, saint Léon. Il sert à dire « par analogie, par participation, pas au sens propre ». Quand Jean-Paul II dit que le Christ « s'est uni d'une certaine manière à tout homme », il dit : *pas au sens d'une incarnation universelle*, mais *au sens d'une solidarité avec tous ceux qui partagent la nature humaine qu'il a assumée en Marie*. C'est exactement la doctrine du Catéchisme du concile de Trente (1566) sur le « second Adam » : « comme dans le premier tous meurent, dans le second tous sont rappelés à la vie ». Rappel : *rappelés* à la vie — pas *automatiquement vivifiés*. Le rappel attend la réponse de la foi.
 
 **3. Souligner que Jean-Paul II lui-même a clarifié.** Onze ans après *Redemptor Hominis*, le même pape publie *Redemptoris Missio* — l'encyclique missionnaire de son pontificat — où il martèle que le Christ est l'unique Sauveur, que les autres religions ne sont pas des voies parallèles, que la conversion explicite et le baptême sont nécessaires, et que l'Église est *« ordinaria salutis via »* — la voie ordinaire du salut. Si Jean-Paul II avait voulu enseigner le salut universel automatique en 1979, il ne se serait pas contredit lui-même en 1990.
 
-**4. Renvoyer à *Placuit Deo* (2018).** C'est peut-être l'argument le plus simple et le plus décisif. La Congrégation pour la doctrine de la foi a *condamné nommément* le « néo-pélagianisme » en 2018, c'est-à-dire précisément l'hérésie qu'Abauzit prête à Jean-Paul II : la prétention de se sauver par sa seule humanité, sans grâce, sans Église, sans sacrements. *Placuit Deo* cite *littéralement* GS §22 dans un contexte explicitement *anti*-pélagien. Si Rome avait enseigné l'universalisme en 1965 et 1979, elle ne le condamnerait pas en 2018 sous le nom de « néo-pélagianisme ».
+**4. Renvoyer à *Placuit Deo* (2018).** C'est peut-être l'argument le plus simple et le plus décisif. La Congrégation pour la doctrine de la foi a *condamné nommément* le « néo-pélagianisme » en 2018, c'est-à-dire précisément l'hérésie que l'objection sédévacantiste prête à Jean-Paul II : la prétention de se sauver par sa seule humanité, sans grâce, sans Église, sans sacrements. *Placuit Deo* cite *littéralement* GS §22 dans un contexte explicitement *anti*-pélagien. Si Rome avait enseigné l'universalisme en 1965 et 1979, elle ne le condamnerait pas en 2018 sous le nom de « néo-pélagianisme ».
 
 **5. Reconnaître la part juste de la critique tradi.** L'ami sédévacantiste a tort sur l'imputation d'hérésie formelle, mais il a *raison* de dire que la rhétorique de Jean-Paul II est déséquilibrée, que la prédication post-conciliaire a souvent glissé vers un universalisme de fait, que les catéchismes paroissiaux n'osent plus parler de damnation possible. Cette dérive est réelle. Et c'est *Rome elle-même* qui la corrige depuis 2000. Le tradi sérieux et le DDF de Léon XIV peuvent s'entendre sur ce diagnostic.
 

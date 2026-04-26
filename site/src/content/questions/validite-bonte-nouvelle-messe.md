@@ -3,15 +3,20 @@ title: "Validité et bonté de la nouvelle messe (Novus Ordo Missae, Paul VI 196
 question: "La nouvelle messe (Novus Ordo Missae) promulguée par Paul VI le 3 avril 1969 est-elle valide ? est-elle bonne ? est-elle l'équivalent du rite tridentin fixé par saint Pie V dans Quo Primum (1570) ? La question doit être posée à trois niveaux distincts qui ne reçoivent pas la même réponse : (1) la NOM telle qu'elle est dans l'editio typica latine — célébration quasiment jamais rencontrée en pratique ; (2) la NOM en vernaculaire célébrée selon les rubriques officielles ; (3) la célébration paroissiale ordinaire telle qu'on la voit dans la grande majorité des paroisses, jusqu'aux meilleures (par exemple les messes de la Communauté de l'Emmanuel)."
 slug: "validite-bonte-nouvelle-messe"
 date: "2026-04-25"
-summary: "La réponse dépend du niveau auquel on pose la question. Sur le rite typique latin (editio typica) : validité certaine, bonté contestée à l'aune des canons de Trente sess. XXII et de Mediator Dei, équivalence avec Pie V juridiquement disputée à Rome elle-même (Summorum Pontificum 2007 vs Traditionis Custodes 2021). Mais ce rite typique latin n'est quasiment jamais célébré en pratique : les célébrations réelles sont en vernaculaire, versus populum, avec communion dans la main, prière eucharistique II par défaut, latin et grégorien quasi-disparus. Sur ces célébrations ordinaires — y compris les meilleures, comme celles de la Communauté de l'Emmanuel — la validité demeure (les conditions essentielles tridentines sont préservées), mais la bonté pastorale est gravement amoindrie : la lex orandi prescrite par Rome est elle-même très loin de la lex orandi vécue par 99% des fidèles. La question dogmatique du rite typique reste pertinente pour la question ecclésiologique sur l'Église post-conciliaire ; mais elle ne suffit pas à juger ce que vit concrètement un catholique du dimanche."
+summary: "La fiche évite l'argument circulaire qui consisterait à valider la NOM par appel au magistère post-V2 (Summorum Pontificum, Traditionis Custodes), ces sources étant elles-mêmes issues de l'autorité qui a promulgué la NOM. Méthode adoptée : (1) extraire les conditions objectives de validité du sacrement de l'eucharistie à partir des seules sources pré-V2 (Trente sess. VII, XIII, XXII ; Catéchisme romain ; Léon XIII Apostolicae Curae 1896 ; Pie XII Mediator Dei 1947 et Sacramentum Ordinis 1947 ; Catéchisme de saint Pie X) ; (2) examiner techniquement le contenu textuel du missel Paul VI 1969 (editio typica latine, prières eucharistiques, paroles consécratoires, intention objectivée) ; (3) vérifier point par point. Conclusion : sur les conditions matérielles (pain/vin), la forme essentielle (« Hoc est corpus meum » et « Hic est calix… pro multis » conservés en latin), et la présomption d'intention par observance du rite, la NOM en latin selon ses rubriques officielles satisfait les conditions tridentines de validité — pour autant que le célébrant soit validement ordonné, ce qui ouvre la question subordonnée critique de la validité du nouveau Pontifical de 1968 (non résolue dans cette fiche, faute d'avoir le texte de Pontificalis Romani dans le corpus). Sur la bonté du rite (au sens d'Apostolicae Curae §27, suffisance expressive de la signification sacramentelle) et sur la question d'une intention objectivement adverse au sens d'Apostolicae Curae §33 (rite « expurgé » à la manière de l'Ordinal d'Édouard VI), la NOM est sérieusement contestée par le Bref examen Ottaviani-Bacci, sans que cette contestation tranche dogmatiquement la question de l'invalidité absolue."
 tags: ["liturgie", "messe", "novus-ordo", "rite-tridentin", "quo-primum", "trente", "mediator-dei", "sacrosanctum-concilium", "summorum-pontificum", "traditionis-custodes", "ottaviani-bacci", "sacrifice-eucharistique"]
 related_documents:
   - "1545_trente"
   - "1545_trente_sess-07-de-sacramentis"
   - "1545_trente_sess-13-de-eucharistia"
   - "1545_trente_sess-22-de-sacrificio-missae"
+  - "1545_trente_sess-23-de-sacramento-ordinis"
+  - "1566_catechismus-romanus_02-pars-secunda"
   - "1570-07-14_quo-primum-tempore_const"
+  - "1896-09-13_apostolicae-curae_bulle"
+  - "1908_catechismo-pio-x_06-parte-4-sacramenti"
   - "1947-11-20_mediator-dei_enc"
+  - "1947-11-30_sacramentum-ordinis_const"
   - "1963-12-04_sacrosanctum-concilium_const"
   - "1969-04-03_missale-romanum_const"
   - "1969-05-29_memoriale-domini_instr"
@@ -58,11 +63,17 @@ Ces trois questions doivent en outre être posées à **trois niveaux distincts*
 - **Niveau 2 — la NOM en vernaculaire célébrée selon les rubriques officielles**, avec les options légalement permises : autel versus populum, communion dans la main par dérogation universelle, prière eucharistique II ou III par défaut, lectures et oraisons en langue locale, présidence et signe de paix élargi. C'est la célébration **réglementairement conforme**, reçue dans la grande majorité des paroisses respectueuses des rubriques.
 - **Niveau 3 — la célébration paroissiale ordinaire**, qui ajoute aux options du niveau 2 toute une coloration pastorale : abandon quasi-total du grégorien au profit de chants para-liturgiques, latin réduit à zéro, prêtre en posture de « président de l'assemblée », sermon centré sur l'expérience communautaire, fragments laissés sur la patène ou même sur le sol, pas de moments de silence, élans charismatiques. La **meilleure extrémité** de ce spectre — par exemple les messes solennelles de la Communauté de l'Emmanuel — reste une célébration soignée, révérencieuse, fervente ; mais elle n'a plus rien de la NOM telle qu'elle est dans l'*editio typica* latine.
 
-L'enjeu pastoral est concret : un ami catholique fréquente la messe Paul VI dans sa paroisse et se demande si elle est « vraiment » valide après avoir lu l'objection tradi ; ou inversement, un tradi récemment converti hésite à assister à une messe NOM dignement célébrée par crainte de compromettre sa foi sur le sacrifice. **Le tradi qui parle de « la NOM » et le paroissien qui parle de « la messe de dimanche » ne parlent pas de la même chose.** Toute la difficulté de la question vient de là : les analyses doctrinales d'Ottaviani-Bacci, du *Bref examen critique*, des théologiens du courant tradi portent sur le niveau 1 — lequel est dans la pratique introuvable. Et la pastorale paroissiale, qui se déroule au niveau 3, n'est elle-même pas réductible à ce que Rome a juridiquement promulgué en 1969. La fiche démontrera, en s'appuyant strictement sur les textes du magistère catholique (Trente, Pie V, Pie XII, Vatican II, Paul VI, Benoît XVI, François) et sur le *Bref examen critique* d'Ottaviani-Bacci, que :
+L'enjeu pastoral est concret : un ami catholique fréquente la messe Paul VI dans sa paroisse et se demande si elle est « vraiment » valide après avoir lu l'objection tradi ; ou inversement, un tradi récemment converti hésite à assister à une messe NOM dignement célébrée par crainte de compromettre sa foi sur le sacrifice. **Le tradi qui parle de « la NOM » et le paroissien qui parle de « la messe de dimanche » ne parlent pas de la même chose.**
 
-1. **La validité sacramentelle de la NOM en latin selon ses rubriques officielles est doctrinalement certaine** — elle dérive de l'autorité pontificale promulgatoire (SC §22 ; *Missale Romanum* 1969) et de la conservation des conditions essentielles posées par Trente (matière, forme, intention).
-2. **La bonté du rite, c'est-à-dire son adéquation à exprimer la doctrine tridentine du sacrifice, est doctrinalement contestée** — non par anti-papisme, mais sur la base directe des canons 1, 3, 6 de la session XXII de Trente et des principes posés par Pie XII dans *Mediator Dei* (continuité organique, refus de l'archéologisme, primat du prêtre comme sujet de l'oblation).
-3. **L'équivalence substantielle avec le rite tridentin n'est pas démontrée par les textes promulgatoires** — *Missale Romanum* l'affirme implicitement (« *Haud secus Nos* », « pas autrement Nous-mêmes » que saint Pie V), mais ne la fonde pas. Le conflit magistériel ouvert entre *Summorum Pontificum* (2007) et *Traditionis Custodes* (2021) montre que la question reste juridiquement disputée à Rome elle-même.
+### Méthode adoptée — éviter l'argument circulaire
+
+Une lecture honnête doit reconnaître ceci : on ne peut pas valider la NOM par appel à *Summorum Pontificum* (2007) ou à *Traditionis Custodes* (2021), parce que **ces sources sont elles-mêmes issues de l'autorité qui a promulgué la NOM**. L'argument serait circulaire — et inopérant face à un sédévacantiste qui tient justement que cette autorité n'est pas légitime parce qu'elle a promulgué un rite suspect. Pour qu'une analyse de la validité tienne face à toute position interne à la tradition catholique, elle doit procéder différemment : extraire les conditions objectives de validité du sacrement à partir des **seules sources pré-Vatican II** (Trente, Catéchisme romain, Léon XIII, Pie XII, Catéchisme de saint Pie X), puis examiner techniquement le contenu textuel de la NOM, et vérifier point par point si les conditions sont remplies. C'est la méthode qu'adopte cette fiche.
+
+Trois conclusions seront tirées en bout de chaîne logique :
+
+1. **La validité sacramentelle de la NOM en latin selon ses rubriques officielles est techniquement préservée** au regard des conditions tridentines de validité — *à condition* que le célébrant soit validement ordonné. La matière (pain de froment, vin de vigne) est intacte ; la forme essentielle (« *Hoc est corpus meum* » et « *Hic est calix sanguinis mei… qui pro vobis et pro multis effundetur* ») est conservée mot pour mot dans l'*editio typica* latine ; la présomption d'intention par observance du rite (Apostolicae Curae §33) joue tant que le célébrant pose sérieusement la matière et la forme prescrites par l'Église — quelle que soit sa croyance privée.
+2. **La bonté du rite — au sens d'Apostolicae Curae §27, c'est-à-dire la suffisance expressive de la signification sacrificielle — est sérieusement contestée** par le *Bref examen critique* d'Ottaviani-Bacci (1969), sur la base des canons 1, 3, 6 de Trente sess. XXII et des principes posés par Pie XII dans *Mediator Dei*. Cette contestation ne tranche pas l'invalidité absolue, mais ouvre un *grave dubium* sur l'aptitude du rite à exprimer ce qu'il doit signifier.
+3. **Une question subordonnée critique reste ouverte** : la nouvelle ordination promulguée par Paul VI dans *Pontificalis Romani* (1968) produit-elle des prêtres validement ordonnés au regard de *Sacramentum Ordinis* (Pie XII 1947) ? Si non, la NOM célébrée par un prêtre ordonné selon le nouveau rite est invalide *en amont*, indépendamment de la qualité du missel lui-même. La fiche signale cette question comme dette technique du corpus (le texte de *Pontificalis Romani* 1968 reste à ingérer).
 
 ## Enseignement traditionnel (pré-Vatican II)
 
@@ -151,6 +162,133 @@ Pie XII rattache ensuite cette dérive au *conciliabule de Pistoie* (déjà cond
 > — *Pie XII, Mediator Dei, §92* (slug `1947-11-20_mediator-dei_enc`)
 
 *Mediator Dei* fournit donc, en 1947, la **grille de lecture magistérielle** qui s'imposera à toute réforme ultérieure : continuité organique, refus de l'archéologisme exagéré, maintien du latin, primat du prêtre comme sujet de l'oblation distinct du peuple. Ces critères seront en partie hérités, en partie tendus, par la réforme de 1969.
+
+### Léon XIII, *Apostolicae Curae* (13 septembre 1896) — la grille universelle d'analyse de la validité d'un rite
+
+C'est le texte qui formalise *autoritativement* la méthode d'examen de tout rite sacramentel. Léon XIII, examinant l'Ordinal anglican d'Édouard VI, pose en *Apostolicae Curae* §24 le principe :
+
+> « *In the examination of any rite for the effecting and administering of Sacraments, distinction is rightly made between the part which is ceremonial and that which is essential, the latter being usually called the « matter and form ».* »
+>
+> **Traduction :** « Dans l'examen de **tout rite** produisant et administrant les sacrements, on distingue à bon droit la part cérémonielle et la part essentielle, cette dernière étant habituellement appelée « matière et forme ». »
+>
+> — *Léon XIII, Apostolicae Curae §24, 1896* (slug `1896-09-13_apostolicae-curae_bulle`)
+
+Et au §27, le critère de la suffisance expressive de la forme :
+
+> « *That « form » consequently cannot be considered apt or sufficient for the Sacrament which omits what it ought essentially to signify.* »
+>
+> **Traduction :** « Cette « forme » ne peut donc être tenue pour apte ou suffisante au sacrement, lorsqu'elle **omet ce qu'elle doit essentiellement signifier**. »
+>
+> — *Léon XIII, Apostolicae Curae §27* (slug `1896-09-13_apostolicae-curae_bulle`)
+
+Au §33, la doctrine décisive sur l'intention — qui sera centrale dans l'analyse de la NOM :
+
+> « *The Church does not judge about the mind and intention, in so far as it is something by its nature internal ; but in so far as it is manifested externally she is bound to judge concerning it. A person who has correctly and seriously used the requisite matter and form to effect and confer a sacrament is presumed for that very reason to have intended to do (intendisse) what the Church does. […] On the other hand, if the rite be changed, with the manifest intention of introducing another rite not approved by the Church and of rejecting what the Church does, and what, by the institution of Christ, belongs to the nature of the Sacrament, then it is clear that not only is the necessary intention wanting to the Sacrament, but that the intention is adverse to and destructive of the Sacrament.* »
+>
+> **Traduction :** « L'Église ne juge pas de l'esprit et de l'intention en tant qu'ils sont par nature intérieurs ; mais en tant qu'ils se manifestent extérieurement, elle est tenue d'en juger. Une personne qui a correctement et sérieusement employé la matière et la forme requises pour produire et conférer un sacrement est, pour cette raison même, **présumée avoir eu l'intention de faire ce que fait l'Église**. […] Au contraire, si le rite est changé avec l'intention manifeste d'introduire un autre rite non approuvé par l'Église et de rejeter ce que fait l'Église et ce qui, par l'institution du Christ, appartient à la nature du sacrement, il est clair non seulement que l'intention nécessaire fait défaut au sacrement, mais que **l'intention est adverse et destructrice du sacrement**. »
+>
+> — *Léon XIII, Apostolicae Curae §33* (slug `1896-09-13_apostolicae-curae_bulle`)
+
+Deux thèses corrélatives donc : (a) **présomption positive** — qui pose sérieusement la matière et la forme catholiques approuvées est *présumé* avoir l'intention requise, peu importe sa croyance privée ; (b) **présomption négative** — si le rite a été *fabriqué* pour rejeter ou occulter ce que fait l'Église, l'intention manifestée par le rite est objectivement adverse, quelle que soit la piété subjective du célébrant individuel. C'est exactement la grille qu'il faudra appliquer à la NOM.
+
+### Pie XII, *Sacramentum Ordinis* (30 novembre 1947) — matière et forme essentielles du sacrement de l'ordre
+
+Crucial pour la question subordonnée de la validité de l'ordination du célébrant. Pie XII, agissant *« Apostolica Auctoritate et certa scientia »*, fixe :
+
+> « *We […] declare and […] decree and provide : that the matter, and the only matter, of the Sacred Orders of the Diaconate, the Priesthood, and the Episcopacy is the imposition of hands ; and that the form, and the only form, is the words which determine the application of this matter, which univocally signify the sacramental effects — namely the power of Order and the grace of the Holy Spirit — and which are accepted and used by the Church in that sense.* »
+>
+> **Traduction :** « Nous déclarons et décrétons : que **la matière, et l'unique matière, des saints ordres du diaconat, de la prêtrise et de l'épiscopat est l'imposition des mains** ; et que **la forme, et l'unique forme, est constituée par les paroles qui déterminent l'application de cette matière, lesquelles signifient univoquement les effets sacramentels — à savoir le pouvoir de l'Ordre et la grâce du Saint-Esprit** — et qui sont reçues et employées par l'Église en ce sens. »
+>
+> — *Pie XII, Sacramentum Ordinis §4, 1947* (slug `1947-11-30_sacramentum-ordinis_const`)
+
+Pie XII reproduit ensuite les paroles essentielles latines pour chaque grade. Pour la **prêtrise** :
+
+> « *Da, quaesumus, omnipotens Pater, in hunc famulum tuum Presbyterii dignitatem ; innova in visceribus eius spiritum sanctitatis…* »
+>
+> **Traduction :** « Accorde, nous t'en prions, Père tout-puissant, à ton serviteur la dignité du Sacerdoce ; renouvelle dans son cœur l'esprit de sainteté… »
+>
+> — *Pie XII, Sacramentum Ordinis §5* (slug `1947-11-30_sacramentum-ordinis_const`)
+
+Pour l'**épiscopat** :
+
+> « *Comple in Sacerdote tuo ministerii tui summam, et ornamentis totius glorificationis instructum coelestis unguenti rore sanctifica.* »
+>
+> **Traduction :** « Achève en ton prêtre la plénitude de ton ministère et, l'ayant revêtu de tous les ornements de la glorification, sanctifie-le par la rosée de l'onction céleste. »
+>
+> — *Pie XII, Sacramentum Ordinis §5* (slug `1947-11-30_sacramentum-ordinis_const`)
+
+Toute forme ultérieure d'ordination, pour être valide, doit signifier *univoquement* ces deux choses : le pouvoir d'ordre, et la grâce du Saint-Esprit. C'est le critère pré-V2 contre lequel se mesurera *Pontificalis Romani* (Paul VI 1968).
+
+### Catéchisme du Concile de Trente (1566) — matière et forme de l'eucharistie
+
+Le Catéchisme romain, IIᵉ partie, ch. IV (slug `1566_catechismus-romanus_02-pars-secunda`), fixe explicitement :
+
+> *« Duplex itaque est huius sacramenti materia : altera panis ex tritico confectus […] Salvatoris verba ostendunt, panem ex tritico confici oportere. »*
+>
+> **Traduction :** « Cette matière est donc double : d'une part le pain confectionné à partir de **froment** […]. Les paroles du Sauveur démontrent que le pain doit être confectionné de froment. »
+>
+> — *Catéchisme romain, II, IV, sect. XII* (slug `1566_catechismus-romanus_02-pars-secunda`)
+
+Sur le vin :
+
+> *« Est autem vinum ex vitis fructu expressum, cui modicum aquae permistum sit. »*
+>
+> **Traduction :** « C'est le vin pressé du **fruit de la vigne**, auquel un peu d'eau a été mêlé. »
+>
+> — *Catéchisme romain, II, IV, sect. XV* (slug `1566_catechismus-romanus_02-pars-secunda`)
+
+Sur la forme — la **forme essentielle** sur le pain (sect. XIX) :
+
+> *« Itaque a sanctis Evangelistis Matthaeo et Luca, itemque ab Apostolo docemur, illam esse formam : "Hoc est corpus meum". […] Quae quidem consecrationis forma quum a Christo Domino servata sit, ea perpetuo catholica ecclesia usa est. »*
+>
+> **Traduction :** « Nous apprenons des saints évangélistes Matthieu et Luc, et de l'Apôtre, que cette forme est : **« Ceci est mon corps »**. Cette forme de consécration ayant été observée par le Christ Seigneur, l'Église catholique en a perpétuellement usé. »
+>
+> — *Catéchisme romain, II, IV, sect. XIX* (slug `1566_catechismus-romanus_02-pars-secunda`)
+
+Et sur le vin (sect. XXI) :
+
+> *« Eam igitur his verbis comprehendi certo credendum est : "Hic est enim calix sanguinis mei, novi et aeterni Testamenti, mysterium fidei, qui pro vobis et pro multis effundetur in remissionem peccatorum". »*
+>
+> **Traduction :** « Il faut tenir avec certitude que cette forme est comprise dans ces paroles : « **Car ceci est le calice de mon sang, du nouveau et éternel Testament, mystère de foi, qui sera répandu pour vous et pour la multitude en rémission des péchés** ». »
+>
+> — *Catéchisme romain, II, IV, sect. XXI* (slug `1566_catechismus-romanus_02-pars-secunda`)
+
+Le Catéchisme romain dispute explicitement la formulation « *pro universis* » (« pour tous »), au profit du « *pro multis* » (« pour la multitude ») :
+
+> *« Recte ergo factum est, ut "pro universis" non diceretur. »*
+>
+> **Traduction :** « Il a donc été fait à juste titre de **ne pas dire « pour tous »**. »
+>
+> — *Catéchisme romain, II, IV, sect. XXIV* (slug `1566_catechismus-romanus_02-pars-secunda`)
+
+Ce point sera décisif pour la critique des traductions vernaculaires de la NOM qui ont rendu *pro multis* par « pour tous ».
+
+### Catéchisme de saint Pie X (1908) — la formule pédagogique
+
+Le Catéchisme de saint Pie X, q. 522 (slug `1908_catechismo-pio-x_06-parte-4-sacramenti`), pose la grille classique avec une concision autoritative :
+
+> *« Per fare un sacramento si richiedono la materia, la forma ed il ministro, il quale abbia l'intenzione di fare ciò che fa la Chiesa. »*
+>
+> **Traduction :** « Pour faire un sacrement il faut **la matière, la forme et le ministre, lequel ait l'intention de faire ce que fait l'Église**. »
+>
+> — *Catéchisme de saint Pie X, q. 522* (slug `1908_catechismo-pio-x_06-parte-4-sacramenti`)
+
+Quatre conditions donc — matière, forme, intention, ministre — qui constituent la grille opérationnelle commune au pré-V2.
+
+### Synthèse pré-V2 — checklist d'évaluation d'un rite eucharistique
+
+| # | Condition | Critère pré-V2 | Source dogmatique principale |
+|---|---|---|---|
+| 1a | Matière (pain) | Pain de **froment** | Cat. romain II, IV, XII ; Pie X q. 599 |
+| 1b | Matière (vin) | **Vin de vigne** (eau requise *sub gravi* mais non pour la validité stricte) | Cat. romain II, IV, XV–XVII ; Trente XXII ch. VII |
+| 2a | Forme (pain) | « **Hoc est corpus meum** » prononcé sur le pain | Cat. romain II, IV, XIX ; Pie X q. 600 |
+| 2b | Forme (vin) | Paroles consécratoires du calice telles que reçues par tradition apostolique, signifiant *univoquement* la conversion du vin en sang du Christ versé pour la rémission des péchés | Cat. romain II, IV, XXI–XXIII ; *Apostolicae Curae* §24-27 |
+| 3a | Intention (positive) | Intention *au moins* de « **faire ce que fait l'Église** », **présumée** chez celui qui pose sérieusement matière et forme catholiques | Trente sess. VII can. XI ; *Apostolicae Curae* §33 |
+| 3b | Intention (négative) | Le rite ne doit pas avoir été *fabriqué* pour rejeter ou occulter ce que fait l'Église : un rite expurgé de la signification sacrificielle/transsubstantielle objective une intention **adverse**, quelle que soit la piété subjective du célébrant | *Apostolicae Curae* §30-33 ; *Mediator Dei* §47 |
+| 4a | Ministre (pouvoir) | **Prêtre validement ordonné**, agissant *in persona Christi capitis* | Trente sess. XXII can. II ; Cat. romain II, IV, LXXVII ; *Mediator Dei* §92 |
+| 4b | Ministre (validité de l'ordination) | Imposition des mains + forme déterminante signifiant univoquement le sacerdoce et son pouvoir, conférée par un évêque lui-même validement consacré | Pie XII *Sacramentum Ordinis* §4-5 ; *Apostolicae Curae* §24-29 |
+
+C'est cette **checklist** qui sera appliquée à la NOM dans la section centrale d'application logique. Aucun appel au magistère post-V2 ne sera fait dans cette application — la grille pré-V2 suffit, et c'est elle seule qui fonde une analyse de validité non circulaire.
 
 ## Enseignement de Vatican II et post-Vatican II
 
@@ -300,6 +438,82 @@ Une question doctrinale plus profonde demeure cependant en arrière-plan, qu'il 
 
 L'argument canonique de Benoît XVI conserve par ailleurs sa force intrinsèque : un Missel jamais juridiquement abrogé n'est pas abrogeable rétroactivement par simple changement de qualification.
 
+## Application logique des critères pré-V2 à la NOM
+
+C'est ici que la fiche tranche méthodologiquement. On a posé en section précédente les conditions objectives de validité d'un rite eucharistique selon le pré-V2 (Trente, Catéchisme romain, Léon XIII, Pie XII). On a posé en section descriptive ce que la NOM contient factuellement (Missale Romanum 1969 + critique Ottaviani-Bacci). On vérifie maintenant **point par point** si chaque condition est remplie — *sans* recourir au magistère post-V2 pour valider.
+
+### Condition 1 — La matière
+
+**Critère pré-V2** : pain de **froment**, vin de **vigne** (Catéchisme romain II, IV, XII et XV ; Pie X q. 599).
+
+**Constat sur la NOM** : la constitution apostolique *Missale Romanum* (1969) ne consacre aucun paragraphe explicite à la matière sacramentelle — son objet est l'organisation des prières eucharistiques. La matière reste régulée par l'IGMR et le droit canonique général, qui maintiennent l'exigence de pain de froment et de vin de raisin. Aucune source ne suggère que la NOM ait modifié la matière. Ottaviani-Bacci notent une glissade rubricale (admission du « pain ordinaire » au lieu de l'azyme dans certaines régions), mais l'azyme/levé ne touche pas la validité dans la doctrine pré-V2 (Cat. romain II, IV, XIV).
+
+**Verdict** : la condition de matière est **objectivement remplie** dans la NOM, à tous les niveaux de célébration. Aucun argument sérieux du courant tradi ne soutient le contraire.
+
+### Condition 2 — La forme essentielle
+
+**Critère pré-V2** :
+- Sur le pain : « *Hoc est corpus meum* » (Catéchisme romain II, IV, XIX).
+- Sur le vin : la formule complète comprenant « *Hic est enim calix sanguinis mei, novi et aeterni Testamenti, qui pro vobis et pro multis effundetur in remissionem peccatorum* » (Catéchisme romain II, IV, XXI ; le « *pro multis* » est explicitement défendu contre « *pro universis* » au sect. XXIV).
+
+**Constat sur la NOM** (texte latin de l'*editio typica* tel que cité par *Missale Romanum* §23) :
+
+> *« supra panem : ACCIPITE ET MANDUCATE EX HOC OMNES : HOC EST ENIM CORPUS MEUM, QUOD PRO VOBIS TRADETUR. […] et supra calicem : ACCIPITE ET BIBETE EX EO OMNES : HIC EST ENIM CALIX SANGUINIS MEI NOVI ET AETERNI TESTAMENTI, QUI PRO VOBIS ET PRO MULTIS EFFUNDETUR IN REMISSIONEM PECCATORUM. — HOC FACITE IN MEAM COMMEMORATIONEM. »*
+>
+> — *Paul VI, Missale Romanum §23* (slug `1969-04-03_missale-romanum_const`)
+
+Comparaison terme à terme :
+- « *Hoc est enim corpus meum* » : **conservé** verbatim ; ajout de « *quod pro vobis tradetur* » (qui n'altère pas la signification essentielle, mais l'enrichit en l'alignant sur Lc 22, 19).
+- « *Hic est enim calix sanguinis mei novi et aeterni Testamenti, qui pro vobis et pro multis effundetur in remissionem peccatorum* » : **conservé** verbatim. Le « *pro multis* » défendu par le Catéchisme romain est **maintenu en latin officiel**.
+- *Mysterium fidei* : extrait de la formule consécratoire et déplacé en acclamation après la consécration. C'est une modification rubricale qui inquiète Ottaviani-Bacci (le Catéchisme romain l'incluait dans la forme reçue par tradition apostolique, sect. XXIII), mais elle ne supprime pas une partie *essentielle* de la signification au sens d'Apostolicae Curae §27 — la conversion du vin en sang du Christ pour la rémission des péchés reste intégralement signifiée par les paroles conservées.
+
+**Verdict** : la condition de forme essentielle est **objectivement remplie** dans l'*editio typica* latine de la NOM. Le critère du Catéchisme romain est satisfait. Le « *pro multis* » est maintenu, contre la tendance vernaculaire qui a parfois rendu « pour tous » — point sur lequel les traductions vernaculaires défectueuses sont invalidantes au sens du Catéchisme romain II, IV, XXIV ; mais cette défaillance ne touche que les traductions, pas la forme officielle latine.
+
+### Condition 3 — L'intention du célébrant
+
+**Critère pré-V2** : intention *au moins* de « faire ce que fait l'Église » (Trente sess. VII can. XI). Cette intention est **présumée** chez celui qui pose sérieusement matière et forme catholiques approuvées (Apostolicae Curae §33). Mais elle est **objectivée par le rite** : si le rite a été *fabriqué* pour rejeter ce que fait l'Église, l'intention manifestée est adverse, indépendamment de la croyance subjective du célébrant (Apostolicae Curae §30-33).
+
+**Constat sur la NOM — application de la double présomption** :
+
+(a) *Présomption positive* : un prêtre qui célèbre la NOM en latin selon les rubriques officielles, prononce les paroles consécratoires telles que prescrites par Paul VI dans *Missale Romanum* §23, et accomplit le rite tel qu'imposé par l'autorité qui le promulgue, *pose sérieusement la matière et la forme prescrites par l'Église*. Sa croyance privée n'entre pas en compte. Au regard du seul critère pré-V2 — Trente sess. VII can. XI + Apostolicae Curae §33 — sa **présomption d'intention est objectivement satisfaite**, peu importe sa formation théologique personnelle ou ses opinions sur le sacrifice propitiatoire.
+
+(b) *Présomption négative — la question critique sédévacantiste* : le rite Paul VI a-t-il été « fabriqué pour rejeter ce que fait l'Église » au sens où Léon XIII condamne l'Ordinal d'Édouard VI ? C'est exactement la thèse d'Ottaviani-Bacci au chapitre VII du *Bref examen critique* : « *On a substitué à la romanité des éléments qui rapprochent le nouvel ORDO MISSAE de certains rites protestants […] Le nouvel ORDO MISSAE aura la faveur des groupes proches de l'apostasie* » (slug `1969-09-25_bref-examen-critique-ottaviani-bacci_etude`). Le critère d'Apostolicae Curae §27 est ici l'argument-clé : *« that form cannot be considered apt or sufficient for the Sacrament which omits what it ought essentially to signify »*.
+
+**Verdict** : la question est **partiellement tranchable, partiellement ouverte**.
+- Tranchable : pour les conditions positives (matière + forme + intention présumée par le rite officiel), la NOM en latin satisfait objectivement les critères pré-V2. Refuser cette conclusion reviendrait à nier la présomption d'Apostolicae Curae §33 — laquelle vaut pour *tout* rite catholique posé sérieusement.
+- Ouverte : pour la présomption négative d'Apostolicae Curae §30-33, la critique cardinalice d'Ottaviani-Bacci ouvre un *grave dubium* sur le caractère « fabriqué pour rejeter » du nouveau rite. Ce dubium ne tranche pas l'invalidité absolue, mais il fonde objectivement la prudence pratique tradi qui préfère s'abstenir.
+
+Sur la PE II particulièrement, le verdict d'Ottaviani-Bacci pèse sans le contredire dogmatiquement : *« cette « Prière eucharistique II » peut être employée en toute tranquillité de conscience par un prêtre qui ne croit plus ni à la transsubstantiation ni au caractère sacrificiel de la Messe : cette prière eucharistique peut très bien servir pour la célébration d'un ministre protestant »*. Mais la note 21 du même *Bref examen* précise : *« telles qu'elles figurent dans le nouvel ORDO MISSAE, les paroles de la Consécration peuvent être valides en vertu de l'intention du prêtre ; mais elles peuvent aussi ne l'être pas »*. **Les cardinaux eux-mêmes admettent la validité de principe** — leur critique porte sur le seuil critique d'Apostolicae Curae §27 (suffisance expressive), pas sur l'invalidité absolue.
+
+### Condition 4 — La validité de l'ordination du célébrant (question subordonnée critique)
+
+**Critère pré-V2** : prêtre validement ordonné (Trente sess. XXII can. II ; Cat. romain II, IV, LXXVII). La validité de l'ordination dépend, depuis Pie XII (1947), de la conformité avec *Sacramentum Ordinis* §4-5 — imposition des mains + paroles essentielles signifiant *univoquement* le pouvoir d'ordre et la grâce du Saint-Esprit, conférée par un évêque lui-même validement consacré.
+
+**Question critique** : la nouvelle ordination promulguée par Paul VI dans la constitution apostolique *Pontificalis Romani* (18 juin 1968), qui a remplacé le Pontifical romain de Pie XII / Trente, respecte-t-elle les conditions fixées par *Sacramentum Ordinis* ?
+
+**Statut dans le corpus** : le texte de *Pontificalis Romani* (1968) **n'est pas encore archivé** dans le corpus local. La fiche ne peut donc pas examiner verbatim la nouvelle forme et la comparer aux paroles essentielles fixées par Pie XII. C'est une **dette technique** signalée pour une fiche Q/R future dédiée.
+
+**Conséquences pour la fiche présente** :
+- Pour un prêtre **ordonné selon le Pontifical antérieur à 1968** (donc tout prêtre ordonné jusqu'en 1968 inclus, et tous ceux ordonnés depuis lors par un évêque tradi consacré selon l'ancien rite — FSSPX, sédévacantistes, certaines communautés ralliées) : la validité de son ordination est **présumée** au regard de *Sacramentum Ordinis*. Sa célébration de la NOM (s'il devait la célébrer) hérite de cette présomption sur la condition 4.
+- Pour un prêtre **ordonné depuis 1968 selon le nouveau rite** (la grande majorité du clergé conciliaire actuel) : la question subordonnée reste **ouverte tant que *Pontificalis Romani* n'est pas analysé contre *Sacramentum Ordinis***. La fiche ne tranche pas — elle pose le cas-limite.
+
+C'est ici que la posture sédévacantiste tire sa cohérence pratique : doute sérieux sur la condition 3b (intention objectivée par le rite, suite à Ottaviani-Bacci) **+** doute sérieux sur la condition 4b (validité de l'ordination du célébrant ordonné selon le nouveau rite) **=** doute prudentiel suffisant pour s'abstenir pratiquement. Cette posture n'est pas une démonstration d'invalidité, c'est l'application stricte du principe moral classique : *« in dubio sacramenti, abstine »* — face à un doute sérieux sur la validité d'un sacrement, on s'abstient. Le sédévacantiste cohérent n'affirme pas que la NOM est invalide ; il dit que les conditions de présomption de validité sont sérieusement entamées au point de fonder l'abstention.
+
+### Synthèse de l'application logique
+
+| # | Condition | Verdict pré-V2 sur la NOM (editio typica latine) |
+|---|---|---|
+| 1a | Matière (pain) | **Satisfaite** — pain de froment maintenu |
+| 1b | Matière (vin) | **Satisfaite** — vin de vigne maintenu |
+| 2a | Forme (pain) | **Satisfaite** — *Hoc est enim corpus meum* conservé verbatim |
+| 2b | Forme (vin) | **Satisfaite** en latin — *pro multis* maintenu ; *mysterium fidei* extrait de la forme mais signification essentielle intacte. **Défectueuse** dans certaines traductions vernaculaires (« pour tous ») |
+| 3a | Intention positive (présumée par observance) | **Satisfaite** par défaut — *Apostolicae Curae* §33 joue tant que le célébrant pose sérieusement matière et forme |
+| 3b | Intention négative (rite fabriqué pour rejeter ?) | **Question ouverte** — *grave dubium* fondé par Ottaviani-Bacci au regard d'*Apostolicae Curae* §30-33, mais non démonstration d'invalidité |
+| 4a | Ministre — pouvoir d'ordre | **Requise** par Trente XXII can. II |
+| 4b | Validité de l'ordination du célébrant | **Tranchée** pour prêtre pré-1968 (présumée valide) ; **question ouverte** pour prêtre ordonné selon *Pontificalis Romani* 1968 — dette technique du corpus |
+
+**Conclusion logique** : la NOM dans son *editio typica* latine, célébrée par un prêtre validement ordonné selon le rite pré-1968, **satisfait les conditions objectives de validité posées par le pré-V2**, sous réserve du *grave dubium* sur l'intention objectivée. Les deux questions ouvertes (condition 3b et condition 4b) ne tranchent pas l'invalidité ; elles fondent l'abstention prudentielle tradi.
+
 ## Du rite typique aux célébrations concrètes
 
 C'est ici que la fiche se distingue de l'analyse strictement dogmatique. Les sections précédentes ont opposé deux objets juridiques : le rite tridentin promulgué *in perpetuum* par saint Pie V en 1570, et le rite Paul VI promulgué le 3 avril 1969 dans son *editio typica* latine. **Ces deux objets ne sont pas ce que vit un catholique de paroisse en 2026.**
@@ -343,33 +557,39 @@ C'est pourquoi un fidèle peut tenir simultanément, sans contradiction, ces tro
 
 ## Réponse dogmatique
 
-**Note théologique** : la doctrine du sacrifice propitiatoire de la messe (vrai et propre, identique en victime et offrant au sacrifice de la croix, mode d'oblation seul différent) est **de fide divina et catholica definita** (Trente, sess. XXII, can. 1, 3). La doctrine de la transsubstantiation est *de fide* (Trente, sess. XIII). Les conditions de validité du sacrement (matière, forme, intention) sont *de fide* (Trente, sess. VII, can. 11). La compétence pontificale pour réguler la liturgie est de droit divin (Pie XII, *Mediator Dei* §58 ; SC §22). Le statut du Missel tridentin comme « jamais abrogé » est un acte législatif pontifical authentique (Benoît XVI, *Summorum Pontificum*, art. 1) ; sa restriction par *Traditionis Custodes* est un acte législatif pontifical authentique de signe contraire — magistère ordinaire disciplinaire, non définition dogmatique.
+**Note méthodologique** : cette section ne s'appuie **que** sur les sources pré-V2 énumérées dans la section « Enseignement traditionnel » et sur l'analyse logique de la section « Application logique des critères pré-V2 à la NOM ». Les actes du magistère post-V2 (*Sacrosanctum Concilium*, *Missale Romanum* 1969, *Summorum Pontificum* 2007, *Traditionis Custodes* 2021) sont décrits dans la section « Enseignement de Vatican II » comme **objets** de l'analyse, non comme **autorités** validantes — pour éviter l'argument circulaire qui serait inopérant face à la position sédévacantiste cohérente.
 
-| Proposition | Statut doctrinal |
-|---|---|
-| La messe est un sacrifice vrai et propre, propitiatoire, identique au sacrifice de la croix | *De fide* (Trente sess. XXII, can. 1, 3) |
-| La conversion de toute la substance du pain et du vin (transsubstantiation) | *De fide* (Trente sess. XIII, can. 2) |
-| Matière, forme essentielle (*Hoc est corpus meum* / *Hic est calix sanguinis mei*) et intention suffisent à la validité | *De fide* (Trente sess. VII, can. 11) |
-| La NOM en latin selon ses rubriques officielles est valide | **Doctrine certaine** (autorité pontificale promulgatoire + conditions essentielles préservées) |
-| Le Canon romain ne peut être déclaré contenir des erreurs ni être totalement abrogé | *De fide* (Trente sess. XXII, can. 6) |
-| La liturgie doit suivre la doctrine, non l'inverse (*lex credendi legem statuat supplicandi*) | Doctrine commune (Pie XII, *Mediator Dei* §47) |
-| Les nouvelles formes doivent croître **organiquement** à partir des formes existantes | Norme conciliaire (SC §23) — magistère authentique |
-| La restitution archéologisante de la forme primitive de l'autel comme table est une dérive | Magistère authentique (Pie XII, *Mediator Dei* §62) |
-| Le Missel de saint Pie V n'a jamais été juridiquement abrogé | Acte législatif pontifical (Benoît XVI, *Summorum Pontificum* art. 1, 2007) |
-| La NOM est l'expression unique de la *lex orandi* du rite romain | Acte législatif pontifical de signe contraire (François, *Traditionis Custodes* art. 1, 2021) |
-| La NOM n'exprime pas suffisamment le caractère propitiatoire défini par Trente XXII | Opinion théologique solidement fondée (Bref examen Ottaviani-Bacci) — non magistériel |
-| La NOM en vernaculaire avec PE II et communion dans la main est *valide* | **Doctrine certaine** (conditions essentielles préservées) |
-| La même célébration est *pastoralement suffisante* à transmettre la foi sur le sacrifice eucharistique | Question contestée — la pratique pastorale française des 50 dernières années suggère plutôt une *insuffisance* observable (chute catéchétique sur la présence réelle, le sacrifice, le sacerdoce) |
-| La célébration paroissiale ordinaire (niveau 3 ci-dessus) reste valide tant que matière, forme, intention sont préservées | Doctrine certaine |
-| Un fidèle peut légitimement préférer la forme extraordinaire (Pie V) pour des raisons de fidélité expressive au dogme | Magistère pontifical (*Summorum Pontificum* art. 5 §1, qui demande au curé d'accueillir « *libenter* » de telles demandes) |
+**Statut doctrinal** : la doctrine du sacrifice propitiatoire de la messe est *de fide divina et catholica definita* (Trente sess. XXII can. 1, 3) ; la transsubstantiation est *de fide* (Trente sess. XIII can. 2) ; les conditions de validité du sacrement (matière, forme, intention au moins de faire ce que fait l'Église) sont *de fide* (Trente sess. VII can. 11) ; la matière et la forme essentielles du sacrement de l'ordre sont fixées *autoritativement* par Pie XII (*Sacramentum Ordinis* §4-5, 1947) ; la grille universelle d'examen de tout rite (matière + forme + intention objectivée) est posée *autoritativement* par Léon XIII (*Apostolicae Curae* §24, §27, §33, 1896).
 
-**Réponse directe aux trois sous-questions** :
+| Proposition | Statut doctrinal | Source |
+|---|---|---|
+| La messe est un sacrifice vrai et propre, propitiatoire, identique au sacrifice de la croix | *De fide* | Trente sess. XXII can. 1, 3 |
+| La conversion de toute la substance du pain et du vin (transsubstantiation) | *De fide* | Trente sess. XIII can. 2 |
+| Matière, forme essentielle, intention au moins de faire ce que fait l'Église suffisent à la validité d'un sacrement | *De fide* | Trente sess. VII can. 11 |
+| La validité d'un rite s'examine en distinguant le cérémoniel et l'essentiel (matière + forme + intention) | Magistère pontifical solennel | Léon XIII, *Apostolicae Curae* §24 |
+| Une forme qui omet ce qu'elle doit essentiellement signifier n'est pas apte ni suffisante au sacrement | Magistère pontifical solennel | Léon XIII, *Apostolicae Curae* §27 |
+| L'intention est présumée chez celui qui pose sérieusement matière et forme catholiques approuvées | Magistère pontifical solennel | Léon XIII, *Apostolicae Curae* §33 |
+| Un rite changé pour rejeter ce que fait l'Église manifeste objectivement une intention adverse | Magistère pontifical solennel | Léon XIII, *Apostolicae Curae* §33 |
+| Matière (imposition des mains) et forme essentielles du sacrement de l'ordre | Magistère pontifical solennel (*ex certa scientia*) | Pie XII, *Sacramentum Ordinis* §4-5 |
+| Pain de froment + vin de vigne sont la matière de l'eucharistie | Doctrine reçue | Cat. romain II, IV, XII et XV ; Pie X q. 599 |
+| « *Hoc est corpus meum* » et « *Hic est calix sanguinis mei… qui pro vobis et pro multis…* » sont la forme essentielle | Doctrine reçue (tradition apostolique selon Trente) | Cat. romain II, IV, XIX-XXIII |
+| « Pour tous » au lieu de « pour la multitude » dans la consécration du calice est défectueux | Doctrine reçue | Cat. romain II, IV, XXIV (*« recte ergo factum est, ut « pro universis » non diceretur »*) |
+| L'eucharistie ne peut être confectée que par un prêtre validement ordonné, agissant *in persona Christi* | *De fide* | Trente sess. XXII can. 2 ; Cat. romain II, IV, LXXVII ; Pie XII *Mediator Dei* §92 |
+| La NOM en latin (*editio typica*) maintient la matière (pain de froment, vin de vigne) | **Vérification logique : satisfaite** | *Missale Romanum* §23 + Cat. romain (corpus) |
+| La NOM en latin (*editio typica*) maintient la forme essentielle sur le pain et sur le vin avec « *pro multis* » | **Vérification logique : satisfaite** | *Missale Romanum* §23 (verbatim) + Cat. romain XIX-XXIV |
+| La NOM en vernaculaire avec « pour tous » dans la consécration du calice présente un défaut de forme au sens du Cat. romain XXIV | **Vérification logique : défectueuse** dans les versions concernées (point disciplinairement corrigé en 2011 dans la nouvelle traduction française) | Cat. romain II, IV, XXIV |
+| L'intention du célébrant qui pose sérieusement matière et forme prescrites est *présumée* — quelle que soit sa croyance privée | **Vérification logique : satisfaite** par défaut | *Apostolicae Curae* §33 |
+| Le rite Paul VI a-t-il été « fabriqué pour rejeter » ce que fait l'Église, au sens d'*Apostolicae Curae* §30-33 ? | **Question ouverte** — *grave dubium* fondé par le Bref examen Ottaviani-Bacci ; ne tranche pas l'invalidité absolue | Ottaviani-Bacci ch. VII ; *Apostolicae Curae* §27, §33 |
+| L'ordination promulguée par *Pontificalis Romani* (Paul VI 1968) respecte-t-elle *Sacramentum Ordinis* §4-5 ? | **Question ouverte** — *Pontificalis Romani* non encore archivé dans le corpus ; analyse différée | Pie XII *Sacramentum Ordinis* (critère) + texte de 1968 (à ingérer) |
+| Pour un prêtre ordonné selon le rite pré-1968, la validité de l'ordination est *présumée* | Doctrine reçue | *Sacramentum Ordinis* (norme respectée par le Pontifical antérieur) |
 
-1. **La NOM est-elle valide ?** **Oui** — doctrine certaine. La promulgation par Paul VI relève de la pleine autorité pontificale sur la liturgie (SC §22 ; *Mediator Dei* §58) ; les conditions essentielles tridentines (matière, forme, intention) sont préservées dans l'*editio typica* latine ; le Canon romain est conservé. Nier la validité de principe reviendrait à nier le munus liturgique du Souverain Pontife — position qui sort du cadre catholique.
+**Réponse directe aux trois sous-questions** (par application logique de la grille pré-V2 au contenu factuel de la NOM) :
 
-2. **La NOM est-elle bonne ?** **Question doctrinalement contestée**. Sa promulgation lui confère la présomption de bonté pastorale au titre du magistère authentique. Mais elle est tendue par : (a) la lettre des canons 1, 3, 6 de la session XXII de Trente, qui exige un caractère propitiatoire **manifesté** (et non seulement préservé en arrière-plan) ; (b) les principes de continuité organique et de refus de l'archéologisme posés par *Mediator Dei* (1947) ; (c) la mise en garde immédiate de *Memoriale Domini* (1969) sur les risques de profanation et d'altération doctrinale ; (d) le verdict cardinalice du *Bref examen critique* d'Ottaviani-Bacci. La bonté du rite **en lui-même** comme expression du dogme tridentin est solidement contestée par cette chaîne d'arguments.
+1. **La NOM est-elle valide ?** **Sur les conditions positives** (matière, forme essentielle en latin, intention présumée par observance du rite), **la NOM dans son *editio typica* latine satisfait objectivement les critères pré-V2** — tels que définis par Trente, le Catéchisme romain, Léon XIII et Pie XII. Cette conclusion ne dépend d'aucun appel au magistère post-V2 ; elle se fonde uniquement sur la grille tridentine et léonine. **Cette validité de principe est expressément reconnue par les cardinaux Ottaviani et Bacci** eux-mêmes (note 21 du *Bref examen* : *« peuvent être valides en vertu de l'intention du prêtre »*) — ce qui signifie qu'aucun courant interne à la tradition catholique, même sédévacantiste, n'affirme dogmatiquement l'invalidité absolue de la NOM en latin. Reste **deux questions ouvertes** qui ne tranchent pas l'invalidité mais fondent l'abstention prudentielle : (a) le critère négatif d'*Apostolicae Curae* §30-33 sur l'intention objectivée par un rite « expurgé », argué par Ottaviani-Bacci ch. VII ; (b) la validité de l'ordination du célébrant ordonné selon le nouveau Pontifical de 1968, question qui reste à examiner contre *Sacramentum Ordinis*.
 
-3. **La NOM est-elle équivalente au rite tridentin ?** **Non, sur le plan de la fidélité expressive ; et juridiquement contesté entre Rome 2007 et Rome 2021**. Sur la fidélité expressive : *Missale Romanum* l'affirme par geste (« *Haud secus Nos* »), mais les silences doctrinaux du texte promulgatoire, les nouveautés revendiquées comme telles (« *praecipua instaurationis novitas* »), et la critique cardinalice du *Bref examen* convergent pour conclure qu'il s'agit d'un **rite substantiellement nouveau**, non d'un développement organique du Missel de saint Pie V. Sur le plan juridique : *Summorum Pontificum* 2007 affirme l'équivalence canonique implicite (« *duo usus unici ritus romani* »), *Traditionis Custodes* 2021 la nie en pratique (« *unica expressio* ») — la question reste ouverte à Rome elle-même.
+2. **La NOM est-elle bonne ?** Au sens d'*Apostolicae Curae* §27 — la « bonté » étant l'aptitude expressive du rite à signifier ce qu'il doit essentiellement signifier — **la NOM est sérieusement contestée**. Le *Bref examen critique* d'Ottaviani-Bacci formule, sur la base directe des canons 1, 3, 6 de Trente sess. XXII et de *Mediator Dei*, le verdict que le rite *« renonce en fait à être l'expression de la doctrine que le Concile de Trente a définie comme étant de foi divine et catholique »*. Cette contestation est **doctrinalement fondée**, ne relève pas du « rubricisme » mais de la dogmatique tridentine, et ouvre un *grave dubium* sur la suffisance expressive du rite — sans pour autant démontrer son invalidité au sens strict.
+
+3. **La NOM est-elle équivalente au rite tridentin ?** **Non, sur le plan de la fidélité expressive au dogme tridentin**. Le rite Paul VI est un rite *substantiellement nouveau* dans son ordonnancement, ses prières eucharistiques (PE I conservée mais reléguée à un usage minoritaire ; PE II-IV ajoutées de novo dont la PE II *« peut servir pour la célébration d'un ministre protestant »* selon Ottaviani-Bacci), son offertoire refait, sa définition fonctionnelle dans l'IGMR n. 7. Paul VI lui-même qualifie ces nouveautés de *« praecipua instaurationis novitas »*. L'équivalence avec le Missel de saint Pie V est juridiquement affirmée par *Summorum Pontificum* (2007) et niée en pratique par *Traditionis Custodes* (2021), mais cette tension juridique post-V2 ne dit rien de l'équivalence *substantielle* — laquelle reste, à l'examen pré-V2, démentie par le contenu textuel.
 
 ## Comment répondre pastoralement
 
@@ -377,7 +597,7 @@ Face à un ami catholique qui s'inquiète après avoir lu une critique tradi sur
 
 **1. Distinguer rigoureusement les trois questions.** La validité, la bonté et l'équivalence ne sont pas une seule question mais trois. La confusion engendre tous les malentendus : un tradi qui dirait « la NOM est invalide » sort du cadre dogmatique reconnu par sa propre tradition (Ottaviani-Bacci eux-mêmes admettent la validité de principe, en latin, selon les rubriques) ; un conciliaire qui dirait « la NOM est en tout point équivalente au rite tridentin » nie ce que Paul VI lui-même revendique comme « *praecipua instaurationis novitas* » et ce que la lettre de *Summorum Pontificum* (« *deux* usages », même *unique* rite) implique.
 
-**2. Tenir fermement la validité.** Il faut tenir avec une certitude doctrinale **forte** que la messe Paul VI célébrée en latin selon ses rubriques officielles, par un prêtre validement ordonné qui a l'intention de faire ce que fait l'Église, **confecte vraiment l'eucharistie**. Le Christ y est réellement, substantiellement, totalement présent. La transsubstantiation s'opère. C'est le sacrifice du calvaire rendu présent. Toute autre position sort du cadre catholique reconnu — y compris par les cardinaux Ottaviani et Bacci en personne. Ce point doit être reçu sans concession ni nuance pour celui qui doute.
+**2. Tenir fermement la validité de principe — sur la base pré-V2.** La messe Paul VI célébrée en latin selon ses rubriques officielles, par un prêtre **validement ordonné** qui pose sérieusement matière et forme prescrites, satisfait les conditions tridentines de validité — telles que les définissent Trente, le Catéchisme romain, Léon XIII et Pie XII, *sans* avoir besoin d'invoquer aucun acte du magistère post-V2. La présomption d'intention par observance du rite (Apostolicae Curae §33) joue, indépendamment de la croyance privée du célébrant. Les cardinaux Ottaviani et Bacci eux-mêmes admettent cette validité de principe (note 21 du *Bref examen*). Reste néanmoins deux questions ouvertes : (a) l'intention objectivée par un rite « expurgé » au sens d'*Apostolicae Curae* §30-33 ; (b) la validité de l'ordination du célébrant ordonné selon le nouveau Pontifical de 1968. Ces deux questions ne tranchent pas l'invalidité, mais fondent objectivement l'abstention prudentielle de qui doute sérieusement — selon le principe moral classique *« in dubio sacramenti, abstine »*.
 
 **3. Reconnaître la légitimité doctrinale de la critique sur la bonté.** Sur le second point, il faut savoir dire honnêtement à l'ami conciliaire : la critique tradi du nouvel *Ordo* n'est ni une lubie nostalgique, ni une révolte contre l'autorité ; elle s'enracine dans les canons tridentins, dans *Mediator Dei*, dans *Memoriale Domini* — c'est-à-dire dans le magistère lui-même. Quand deux cardinaux de la Curie écrivent au pape pour signaler un éloignement « impressionnant » de Trente, et que Rome elle-même corrige l'article 7 incriminé en 1970, c'est qu'il y a une *matière* à examiner. Le « rubricisme » dont on accuse parfois les tradis est en réalité de la **dogmatique** : la lettre du rite porte le dogme, et les canons de Trente exigent que le sacrifice propitiatoire soit *manifesté* dans la célébration.
 
@@ -387,7 +607,7 @@ Face à un ami catholique qui s'inquiète après avoir lu une critique tradi sur
 
 **6. Distinguer ce dont on parle.** C'est peut-être le point le plus important pour la pratique. La question dogmatique « la NOM est-elle valide / bonne / équivalente » porte techniquement sur le **rite typique latin** — quasi-introuvable dans la vie paroissiale ordinaire. Quand l'ami catholique dit « la messe de ma paroisse », il parle d'un autre objet : la NOM en vernaculaire avec ses options pastorales (autel face au peuple, communion dans la main, prière eucharistique II, latin et grégorien quasi-disparus). **Cette célébration reste valide** (conditions essentielles tridentines préservées), même quand elle est célébrée dans des communautés très soignées comme celles de la Communauté de l'Emmanuel. Mais sa **suffisance pastorale** à transmettre la foi catholique sur l'eucharistie est, elle, sérieusement entamée. Cela explique pourquoi un fidèle peut tenir ensemble : la messe est valide ; le rite typique est blessé ; la réception paroissiale est appauvrie ; le recours à la forme extraordinaire reste légitime et même conseillable pour qui en éprouve le besoin (*Summorum Pontificum* art. 5 §1).
 
-**7. Formule synthétique finale** : *« Trois niveaux, trois réponses. La NOM dans son livre latin officiel est valide, contestable dans sa bonté à l'aune de Trente, et juridiquement disputée dans son équivalence avec Pie V. La NOM en vernaculaire selon les rubriques est valide et conforme, mais déjà pastoralement amoindrie. La célébration paroissiale ordinaire — y compris dans ses meilleures formes — est valide mais ne suffit plus à transmettre par elle-même la foi catholique sur le sacrifice. La messe est valide ; le rite est blessé ; la réception est appauvrie ; le recours à Pie V demeure une voie ouverte par Rome elle-même. »*
+**7. Formule synthétique finale** : *« Sur la base des seules sources pré-Vatican II — sans appel circulaire au magistère post-V2 qui validerait son propre œuvre — la NOM dans son editio typica latine, célébrée par un prêtre validement ordonné selon le rite pré-1968, satisfait les conditions tridentines de matière, de forme essentielle (pro multis maintenu) et d'intention présumée. Sa validité de principe est admise même par les cardinaux Ottaviani et Bacci. Mais sa bonté au sens d'Apostolicae Curae §27 — l'aptitude expressive à signifier ce qu'elle doit signifier — est sérieusement contestée par le Bref examen critique de 1969. Et deux questions critiques restent ouvertes : l'intention objectivée par un rite "expurgé" au sens d'Apostolicae Curae §30-33, et la validité de la nouvelle ordination de 1968 qui demande à être examinée contre Sacramentum Ordinis. La messe latine officielle est techniquement valide ; le rite est blessé dans sa suffisance expressive ; la nouvelle ordination est une question subordonnée à instruire ; et le recours pratique à la forme tridentine demeure la voie de la prudence sacramentelle. »*
 
 ## Références
 
@@ -395,6 +615,11 @@ Face à un ami catholique qui s'inquiète après avoir lu une critique tradi sur
 - **Concile de Trente — session VII, *De sacramentis in genere* (3 mars 1547)** → `/documents/1545_trente_sess-07-de-sacramentis/`
 - **Concile de Trente — session XIII, *De ss. Eucharistiae sacramento* (11 octobre 1551)** → `/documents/1545_trente_sess-13-de-eucharistia/`
 - **Concile de Trente — session XXII, *De sacrificio missae* (17 septembre 1562)** → `/documents/1545_trente_sess-22-de-sacrificio-missae/`
+- **Concile de Trente — session XXIII, *De sacramento ordinis* (15 juillet 1563)** → `/documents/1545_trente_sess-23-de-sacramento-ordinis/`
+- **Catéchisme du Concile de Trente — IIᵉ partie, *Pars secunda*, sur les sacrements (1566)** → `/documents/1566_catechismus-romanus_02-pars-secunda/`
+- **Léon XIII — bulle *Apostolicae Curae* (13 septembre 1896)** → `/documents/1896-09-13_apostolicae-curae_bulle/`
+- **Catéchisme de saint Pie X — IVᵉ partie, *Sacramenti* (1908)** → `/documents/1908_catechismo-pio-x_06-parte-4-sacramenti/`
+- **Pie XII — Constitution apostolique *Sacramentum Ordinis* (30 novembre 1947)** → `/documents/1947-11-30_sacramentum-ordinis_const/`
 - **Saint Pie V — bulle *Quo Primum Tempore* (14 juillet 1570)** → `/documents/1570-07-14_quo-primum-tempore_const/`
 - **Pie XII — encyclique *Mediator Dei* (20 novembre 1947)** → `/documents/1947-11-20_mediator-dei_enc/`
 - **Vatican II — Constitution *Sacrosanctum Concilium* (4 décembre 1963)** → `/documents/1963-12-04_sacrosanctum-concilium_const/`

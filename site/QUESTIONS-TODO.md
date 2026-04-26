@@ -10,6 +10,8 @@ Cocher au fur et à mesure de la production.
 - [x] `redemptor-hominis-union-tout-homme` — RH §13 et le « quodammodo » : hérésie universaliste ou christologie traditionnelle ?
 - [x] `validite-bonte-nouvelle-messe` — Validité et bonté de la nouvelle messe (Novus Ordo Missae) ; équivalence avec le rite tridentin de Pie V ?
 
+> Question subordonnée critique signalée par cette fiche : la nouvelle ordination promulguée par *Pontificalis Romani* de Paul VI (18 juin 1968) produit-elle des prêtres validement ordonnés au regard de Pie XII *Sacramentum Ordinis* (1947) ? Le texte de *Pontificalis Romani* 1968 doit être ingéré dans le corpus avant qu'une fiche dédiée puisse être produite. **Dette technique d'ingestion préalable** ; à traiter avant toute fiche sur la nouvelle ordination.
+
 ## Niveau 1 — priorité haute (public tradi, corpus riche)
 
 - [ ] **Liberté religieuse Vatican II vs Pie IX / Léon XIII** — *Dignitatis Humanae* vs *Quanta Cura* / *Syllabus*, *Mirari Vos*, *Immortale Dei*, *Libertas*. Cas-type de la « rupture ».

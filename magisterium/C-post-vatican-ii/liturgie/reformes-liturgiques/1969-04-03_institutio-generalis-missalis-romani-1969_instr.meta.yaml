@@ -1,0 +1,47 @@
+incipit: Institutio generalis Missalis Romani (editio princeps)
+titre_fr: Présentation générale du Missel romain (édition princeps de 1969)
+titre_original: Institutio generalis Missalis Romani
+auteur: Sacrée Congrégation pour le Culte Divin
+periode: post-vatican-ii
+categorie: magistere
+type: instruction-liturgique
+date: '1969-04-03'
+autorite_magisterielle: magistere-ordinaire
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+- messe
+- reforme-liturgique
+themes_doctrinaux:
+- liturgie-eucharistique
+- novus-ordo-missae
+references_anterieures:
+- 1963-12-04_sacrosanctum-concilium_const
+- 1969-04-03_missale-romanum_const
+references_posterieures:
+- 1970-03-26_institutio-generalis-missalis-romani-1970_instr
+- 2002-04-20_institutio-generalis-missalis-romani-2002_instr
+sources:
+- url: https://www.ccwatershed.org/2013/08/25/general-instruction-roman-missal-pdf/
+  site: www.ccwatershed.org
+  langue: la
+  fetch_method: webfetch+pdftotext
+- url: https://archive.ccwatershed.org/pdfs/6882-institutio-generalis-1969/download/
+  site: archive.ccwatershed.org
+  langue: la
+  fetch_method: webfetch+pdftotext
+- url: https://rorate-caeli.blogspot.com/2011/09/most-important-historical-document-1969.html
+  site: rorate-caeli.blogspot.com
+  langue: la
+  fetch_method: reference
+traductions:
+  la:
+    kind: originale
+    sha256: b5a515440fc26203439f1f59c6c1cc8cf0438d764e11eb741421c5f179a51c52
+    source_url: https://archive.ccwatershed.org/pdfs/6882-institutio-generalis-1969/download/
+    fetch_method: webfetch+pdftotext
+langues_disponibles:
+- la
+sha256:
+  la: b5a515440fc26203439f1f59c6c1cc8cf0438d764e11eb741421c5f179a51c52

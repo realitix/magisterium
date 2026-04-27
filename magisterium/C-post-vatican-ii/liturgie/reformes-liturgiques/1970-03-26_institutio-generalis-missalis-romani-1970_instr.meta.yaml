@@ -1,0 +1,44 @@
+incipit: Institutio generalis Missalis Romani (editio revisée)
+titre_fr: Présentation générale du Missel romain (révision de 1970)
+titre_original: Institutio generalis Missalis Romani
+auteur: Sacrée Congrégation pour le Culte Divin
+periode: post-vatican-ii
+categorie: magistere
+type: instruction-liturgique
+date: '1970-03-26'
+autorite_magisterielle: magistere-ordinaire
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+- messe
+- reforme-liturgique
+themes_doctrinaux:
+- liturgie-eucharistique
+- novus-ordo-missae
+- sacrifice-eucharistique
+references_anterieures:
+- 1963-12-04_sacrosanctum-concilium_const
+- 1969-04-03_missale-romanum_const
+- 1969-04-03_institutio-generalis-missalis-romani-1969_instr
+references_posterieures:
+- 2002-04-20_institutio-generalis-missalis-romani-2002_instr
+sources:
+- url: https://archive.org/details/missale-romanvm-vol.-i-1-733-temp.-adv.-nat.-ac-tpa
+  site: archive.org
+  langue: la
+  fetch_method: archive.org+pdftotext
+- url: https://archive.org/download/missale-romanvm-vol.-i-1-733-temp.-adv.-nat.-ac-tpa/MISSALE%20ROMANVM%20%28Vol.%20I%2C%201-733%29%20%5BTemp.%20Adv.%2C%20Nat.%20ac%20TPA%5D.pdf
+  site: archive.org
+  langue: la
+  fetch_method: curl+pdftotext
+traductions:
+  la:
+    kind: originale
+    sha256: adbf3b1d915b7098c3f27af69e791c10a773e1b8fa223c0b01b397341974611d
+    source_url: https://archive.org/download/missale-romanvm-vol.-i-1-733-temp.-adv.-nat.-ac-tpa/MISSALE%20ROMANVM%20%28Vol.%20I%2C%201-733%29%20%5BTemp.%20Adv.%2C%20Nat.%20ac%20TPA%5D.pdf
+    fetch_method: curl+pdftotext
+langues_disponibles:
+- la
+sha256:
+  la: adbf3b1d915b7098c3f27af69e791c10a773e1b8fa223c0b01b397341974611d

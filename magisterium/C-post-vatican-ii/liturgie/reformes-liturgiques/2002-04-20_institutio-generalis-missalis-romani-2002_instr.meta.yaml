@@ -1,0 +1,46 @@
+incipit: Institutio generalis Missalis Romani (editio typica tertia)
+titre_fr: Présentation générale du Missel romain (3e édition typique de 2002)
+titre_original: Institutio generalis Missalis Romani
+auteur: Congrégation pour le Culte Divin et la Discipline des Sacrements
+periode: post-vatican-ii
+categorie: magistere
+type: instruction-liturgique
+date: '2002-04-20'
+autorite_magisterielle: magistere-ordinaire
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+- messe
+- reforme-liturgique
+themes_doctrinaux:
+- liturgie-eucharistique
+- novus-ordo-missae
+- sacrifice-eucharistique
+references_anterieures:
+- 1963-12-04_sacrosanctum-concilium_const
+- 1969-04-03_missale-romanum_const
+- 1969-04-03_institutio-generalis-missalis-romani-1969_instr
+- 1970-03-26_institutio-generalis-missalis-romani-1970_instr
+references_posterieures:
+- 2007-07-07_summorum-pontificum_mp
+- 2021-07-16_traditionis-custodes_mp
+sources:
+- url: https://archive.ccwatershed.org/pdfs/6799-girm-2002-latin-institutio-generalis-missalis-romani/download/
+  site: archive.ccwatershed.org
+  langue: la
+  fetch_method: webfetch+pdftotext
+- url: https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: reference
+traductions:
+  la:
+    kind: originale
+    sha256: 69f3a7d3a76725f5c7945b21b8b533a801651016dea684e4f2abfc004c1d0ff8
+    source_url: https://archive.ccwatershed.org/pdfs/6799-girm-2002-latin-institutio-generalis-missalis-romani/download/
+    fetch_method: webfetch+pdftotext
+langues_disponibles:
+- la
+sha256:
+  la: 69f3a7d3a76725f5c7945b21b8b533a801651016dea684e4f2abfc004c1d0ff8

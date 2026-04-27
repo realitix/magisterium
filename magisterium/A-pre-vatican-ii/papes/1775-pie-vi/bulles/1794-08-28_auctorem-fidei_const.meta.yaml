@@ -1,0 +1,44 @@
+incipit: Auctorem fidei
+titre_fr: Condamnation des 85 propositions du synode janséniste de Pistoie (1786)
+titre_original: Auctorem fidei
+auteur: Pie VI
+periode: pre-vatican-ii
+categorie: magistere
+type: constitution-apostolique
+date: '1794-08-28'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: la
+denzinger:
+- DH 2600-2700
+- DS 2600-2700
+sujets:
+- jansenisme
+- synode-de-pistoie
+- scipione-de-ricci
+- gallicanisme
+- liturgie
+- ecclesiologie
+- sacrements
+- grace
+- predestination
+themes_doctrinaux: []
+references_anterieures:
+- 1713-09-08_unigenitus_const
+- concile-de-trente
+references_posterieures:
+- 1947-11-20_mediator-dei_enc
+sources:
+- url: https://books.google.fr/books/download/Auctorem_Fidei.pdf?id=5wOjJINE5nAC&hl=fr&output=pdf
+  site: books.google.com
+  langue: la
+  fetch_method: pdftotext+pymupdf
+traductions:
+  la:
+    kind: originale
+    sha256: 2eabf91692b3daa8879077f33ebed03115e08f3285adea444b66baf463586c91
+    source_url: https://books.google.fr/books/download/Auctorem_Fidei.pdf?id=5wOjJINE5nAC&hl=fr&output=pdf
+    fetch_method: pdftotext+pymupdf
+langues_disponibles:
+- la
+sha256:
+  la: 2eabf91692b3daa8879077f33ebed03115e08f3285adea444b66baf463586c91

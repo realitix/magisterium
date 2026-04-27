@@ -1,0 +1,43 @@
+incipit: De sacramento Eucharistiae
+titre_fr: 'Commentaires et Disputes sur la IIIe Partie de saint Thomas : Du Sacrement
+  de l''Eucharistie (2e partie : tome XXI)'
+titre_original: 'Commentaria ac Disputationes in IIIam Partem D. Thomae : De Sacramento
+  Eucharistiae (Pars secunda : tomus XXI)'
+auteur: Francisco Suárez
+periode: pre-vatican-ii
+categorie: livre
+type: commentaire-thomiste
+date: '1602-01-01'
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- eucharistie
+- forme-eucharistique
+- consecration
+- intention-ministre
+- communion
+- espèces-eucharistiques
+themes_doctrinaux:
+- consecration-eucharistique
+- forme-eucharistique
+- intention-du-ministre
+- communion-eucharistique
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://archive.org/details/rpfranciscisuare21suar
+  site: archive.org
+  langue: la
+  fetch_method: archive.org+djvu-ocr
+traductions:
+  la:
+    kind: originale
+    sha256: ac5813e5f8687fe1a1cea534493a95cf388ab8839f6af82334f1fab727d4a304
+    source_url: https://archive.org/details/rpfranciscisuare21suar
+    fetched_at: '2026-04-27T13:48:38Z'
+    fetch_method: archive.org+djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: ac5813e5f8687fe1a1cea534493a95cf388ab8839f6af82334f1fab727d4a304

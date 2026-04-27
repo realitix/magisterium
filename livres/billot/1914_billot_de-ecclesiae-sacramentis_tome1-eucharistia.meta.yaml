@@ -1,0 +1,62 @@
+incipit: De Ecclesiae sacramentis — Tomus prior, secunda pars (De Eucharistia)
+titre_fr: Des sacrements de l'Église — Tome I, seconde partie (De l'Eucharistie)
+titre_original: 'De Ecclesiae sacramentis : commentarius in tertiam partem S. Thomae. Tomus prior, De Eucharistia'
+auteur: Louis Billot
+periode: pre-vatican-ii
+categorie: livre
+type: commentaire-thomiste
+date: '1914-01-01'
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- eucharistie
+- sacrifice-de-la-messe
+- transsubstantiation
+- presence-reelle
+- thomisme
+- theologie-dogmatique
+- manuel-romain
+themes_doctrinaux:
+- eucharistie
+- sacrifice-de-la-messe
+- transsubstantiation
+- presence-reelle
+- adoration-eucharistique
+- communion
+- forme-du-sacrement
+- matiere-du-sacrement
+- effets-de-l-eucharistie
+references_anterieures:
+- summa-theologiae-iiia-pars-q73-83
+- concile-trente-session-13
+- concile-trente-session-22
+- concile-florence-decret-pour-les-armeniens
+references_posterieures:
+- mediator-dei-1947
+sources:
+- url: https://archive.org/details/deecclesiaesacra01bill
+  site: archive.org
+  langue: la
+  fetch_method: archive.org-djvu-txt
+- url: https://archive.org/download/deecclesiaesacra01bill/deecclesiaesacra01bill_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: curl
+traductions:
+  la:
+    kind: originale
+    sha256: 732a01d86785031accff4aa62eda4b8d58268d1328cfc5640fbafee5d011b02a
+    source_url: https://archive.org/download/deecclesiaesacra01bill/deecclesiaesacra01bill_djvu.txt
+    fetched_at: 2026-04-27T15:43:00Z
+    fetch_method: curl
+langues_disponibles:
+- la
+sha256:
+  la: 732a01d86785031accff4aa62eda4b8d58268d1328cfc5640fbafee5d011b02a
+ouvrage:
+  slug: billot_de-ecclesiae-sacramentis
+  titre: 'De Ecclesiae sacramentis : commentarius in tertiam partem S. Thomae (cardinal Louis Billot, S.J., Romae 1914)'
+  partie_index: 2
+  partie_titre: 'Tome I, seconde partie : De Eucharistia (Quaest. LXXIII-LXXXIII)'
+  total_parties: 3

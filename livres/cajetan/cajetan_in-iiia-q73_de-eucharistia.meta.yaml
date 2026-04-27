@@ -1,0 +1,44 @@
+incipit: Q. 73, De sacramento Eucharistiae
+titre_fr: Commentaire sur la Q. 73, De sacramento Eucharistiae
+titre_original: Commentaria in Summam Theologiae — IIIa Pars, Q. 73, De sacramento
+  Eucharistiae
+auteur: Thomas de Vio (Cajetan)
+periode: pre-vatican-ii
+categorie: livre
+type: commentaire
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- eucharistie
+- sacrements
+- necessite-du-sacrement
+themes_doctrinaux:
+- eucharistie
+- necessite-du-sacrement
+- res-et-sacramentum
+references_anterieures:
+- summa-theologiae-iiia-pars
+references_posterieures: []
+sources:
+- url: https://archive.org/details/operaomniaiussui12thom
+  site: archive.org
+  langue: la
+  fetch_method: archive.org-djvu-ocr
+ouvrage:
+  slug: cajetan_commentaria-summa-iiia
+  titre: Commentaria in Tertiam Partem Summae Theologiae S. Thomae Aquinatis
+  partie_index: 4
+  partie_titre: Q. 73, De sacramento Eucharistiae
+  total_parties: 13
+traductions:
+  la:
+    kind: originale
+    sha256: 4227a79d705b494f9e0a1371e1c5123097fa87ee87ce93e0652fc17f97e44832
+    source_url: https://archive.org/details/operaomniaiussui12thom
+    fetched_at: '2026-04-27T13:50:00Z'
+    fetch_method: archive.org-djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: 4227a79d705b494f9e0a1371e1c5123097fa87ee87ce93e0652fc17f97e44832

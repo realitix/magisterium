@@ -1,0 +1,60 @@
+incipit: Episcopus ordinetur electus ab omni populo
+titre_fr: La Tradition apostolique
+titre_original: Traditio apostolica
+auteur: Hippolyte de Rome (attribué)
+periode: pre-vatican-ii
+categorie: livre
+type: traite-liturgique-ancien
+date: 0215-01-01
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie-ancienne
+- ordination-episcopale
+- anaphore-eucharistique
+- ordres-ecclesiastiques
+- catechumenat
+- bapteme-rite-primitif
+- prieres-eucharistiques
+- diaconat
+- presbyterat
+- discipline-ecclesiastique
+themes_doctrinaux:
+- ordination
+- eucharistie
+- bapteme
+- sacrements-anciens
+- liturgie-eucharistique
+references_anterieures: []
+references_posterieures:
+- missel-paul-vi-1969
+- priere-eucharistique-ii
+sources:
+- url: https://web.archive.org/web/2020/http://ldysinger.stjohnsem.edu/@texts/0215_hippolytus/03_Hippol_Ap-Trad.htm
+  site: ldysinger.stjohnsem.edu
+  langue: la
+  fetch_method: curl+selectolax
+- url: https://www.gutenberg.org/files/61614/61614-h/61614-h.htm
+  site: gutenberg.org
+  langue: en
+  fetch_method: curl+pandoc
+traductions:
+  la:
+    kind: originale
+    sha256: 4d6a07d1a554841de207e4b9d17166a16aef2a2f30d8751ecc00a44aaa6de549
+    source_url: https://web.archive.org/web/2020/http://ldysinger.stjohnsem.edu/@texts/0215_hippolytus/03_Hippol_Ap-Trad.htm
+    fetched_at: 2026-04-27T15:50:00Z
+    fetch_method: curl+selectolax
+  en:
+    kind: officielle
+    sha256: 6ce60a99ad26916b19d9b1b2482489b268efa7a122778898144814f524c12f1e
+    source_url: https://www.gutenberg.org/files/61614/61614-h/61614-h.htm
+    fetched_at: 2026-04-27T15:43:00Z
+    fetch_method: curl+pandoc
+langues_disponibles:
+- la
+- en
+sha256:
+  la: 4d6a07d1a554841de207e4b9d17166a16aef2a2f30d8751ecc00a44aaa6de549
+  en: 6ce60a99ad26916b19d9b1b2482489b268efa7a122778898144814f524c12f1e

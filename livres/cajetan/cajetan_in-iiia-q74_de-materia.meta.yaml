@@ -1,0 +1,44 @@
+incipit: Q. 74, De materia huius sacramenti
+titre_fr: Commentaire sur la Q. 74, De materia huius sacramenti
+titre_original: Commentaria in Summam Theologiae — IIIa Pars, Q. 74, De materia huius
+  sacramenti
+auteur: Thomas de Vio (Cajetan)
+periode: pre-vatican-ii
+categorie: livre
+type: commentaire
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- eucharistie
+- matiere-du-sacrement
+- pain-azyme
+- vin
+themes_doctrinaux:
+- eucharistie
+- matiere-eucharistique
+references_anterieures:
+- summa-theologiae-iiia-pars
+references_posterieures: []
+sources:
+- url: https://archive.org/details/operaomniaiussui12thom
+  site: archive.org
+  langue: la
+  fetch_method: archive.org-djvu-ocr
+ouvrage:
+  slug: cajetan_commentaria-summa-iiia
+  titre: Commentaria in Tertiam Partem Summae Theologiae S. Thomae Aquinatis
+  partie_index: 5
+  partie_titre: Q. 74, De materia huius sacramenti
+  total_parties: 13
+traductions:
+  la:
+    kind: originale
+    sha256: 064f98b09f7f71761f51813018366f15d3fa100ee27ce2d169c8e7de77341169
+    source_url: https://archive.org/details/operaomniaiussui12thom
+    fetched_at: '2026-04-27T13:50:00Z'
+    fetch_method: archive.org-djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: 064f98b09f7f71761f51813018366f15d3fa100ee27ce2d169c8e7de77341169

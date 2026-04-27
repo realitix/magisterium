@@ -1,0 +1,41 @@
+incipit: Q. 72, De confirmatione
+titre_fr: Commentaire sur la Q. 72, De confirmatione
+titre_original: Commentaria in Summam Theologiae — IIIa Pars, Q. 72, De confirmatione
+auteur: Thomas de Vio (Cajetan)
+periode: pre-vatican-ii
+categorie: livre
+type: commentaire
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- confirmation
+- sacrements
+themes_doctrinaux:
+- confirmation
+- don-de-l-esprit-saint
+references_anterieures:
+- summa-theologiae-iiia-pars
+references_posterieures: []
+sources:
+- url: https://archive.org/details/operaomniaiussui12thom
+  site: archive.org
+  langue: la
+  fetch_method: archive.org-djvu-ocr
+ouvrage:
+  slug: cajetan_commentaria-summa-iiia
+  titre: Commentaria in Tertiam Partem Summae Theologiae S. Thomae Aquinatis
+  partie_index: 3
+  partie_titre: Q. 72, De confirmatione
+  total_parties: 13
+traductions:
+  la:
+    kind: originale
+    sha256: d41c5825262637edac9edf49960f03d2177eacb9387c966d0f1ee24015db6f18
+    source_url: https://archive.org/details/operaomniaiussui12thom
+    fetched_at: '2026-04-27T13:50:00Z'
+    fetch_method: archive.org-djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: d41c5825262637edac9edf49960f03d2177eacb9387c966d0f1ee24015db6f18

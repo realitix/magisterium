@@ -1,0 +1,41 @@
+incipit: De sacrificio Missae
+titre_fr: "Disputes sur les Controverses — Du Sacrifice de la Messe"
+titre_original: "Disputationum de Controversiis Christianae Fidei — De Eucharistia, Libri V-VI (de Sacrificio Missae)"
+auteur: Robert Bellarmin
+periode: pre-vatican-ii
+categorie: livre
+type: traite-theologique
+date: 1593-01-01
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- messe
+- sacrifice-de-la-messe
+- liturgie
+- canon-romain
+- transsubstantiation
+- controverse
+- contre-reforme
+themes_doctrinaux:
+- sacrifice-de-la-messe
+- eucharistie
+- liturgie
+references_anterieures:
+- concile-trente-session-22
+references_posterieures: []
+sources:
+- url: https://archive.org/details/operaomnia04bell
+  site: archive.org
+  langue: la
+  fetch_method: archive.org+djvu+ocr-clean
+traductions:
+  la:
+    kind: originale
+    sha256: 0d15cf8f936a41cb6b93eae6f603af21bebebe0d0e3acde9446d7945f92904e3
+    source_url: https://archive.org/details/operaomnia04bell
+    fetch_method: archive.org+djvu+ocr-clean
+langues_disponibles:
+- la
+sha256:
+  la: 0d15cf8f936a41cb6b93eae6f603af21bebebe0d0e3acde9446d7945f92904e3

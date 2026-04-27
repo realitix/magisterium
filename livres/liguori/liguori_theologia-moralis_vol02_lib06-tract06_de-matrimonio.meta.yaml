@@ -1,0 +1,46 @@
+incipit: De sponsalibus et matrimonio
+titre_fr: 'Theologia Moralis — Livre VI, Traité VI : Du mariage'
+titre_original: Liber VI, Tractatus VI — De Matrimonio
+auteur: S. Alphonse-Marie de Liguori
+periode: pre-vatican-ii
+categorie: livre
+type: traite-de-theologie-morale
+date: '1748-01-01'
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- theologie-morale
+- sacrements
+themes_doctrinaux:
+- mariage
+- matiere-forme
+- empechements-matrimoniaux
+references_anterieures:
+- concile-trente-session-7
+- concile-trente-session-13
+- concile-trente-session-14
+- concile-trente-session-22
+references_posterieures: []
+sources:
+- url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: djvu-ocr
+ouvrage:
+  slug: liguori_theologia-moralis
+  titre: Theologia Moralis
+  partie_index: 6
+  partie_titre: Liber VI, Tractatus VI — De Matrimonio
+  total_parties: 7
+traductions:
+  la:
+    kind: originale
+    sha256: 9c2bd8281c3daac339dbd0bd6f28f8f9908ef530fda93de854b0b717bd54a38f
+    source_url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+    fetched_at: '2026-04-27T13:49:16Z'
+    fetch_method: djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: 9c2bd8281c3daac339dbd0bd6f28f8f9908ef530fda93de854b0b717bd54a38f

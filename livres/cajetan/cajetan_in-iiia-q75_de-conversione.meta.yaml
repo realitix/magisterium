@@ -1,0 +1,45 @@
+incipit: Q. 75, De conversione panis et vini in corpus et sanguinem Christi
+titre_fr: Commentaire sur la Q. 75, De conversione panis et vini in corpus et sanguinem
+  Christi
+titre_original: Commentaria in Summam Theologiae — IIIa Pars, Q. 75, De conversione
+  panis et vini in corpus et sanguinem Christi
+auteur: Thomas de Vio (Cajetan)
+periode: pre-vatican-ii
+categorie: livre
+type: commentaire
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- eucharistie
+- transsubstantiation
+- presence-reelle
+themes_doctrinaux:
+- transsubstantiation
+- presence-reelle
+- conversion-eucharistique
+references_anterieures:
+- summa-theologiae-iiia-pars
+references_posterieures: []
+sources:
+- url: https://archive.org/details/operaomniaiussui12thom
+  site: archive.org
+  langue: la
+  fetch_method: archive.org-djvu-ocr
+ouvrage:
+  slug: cajetan_commentaria-summa-iiia
+  titre: Commentaria in Tertiam Partem Summae Theologiae S. Thomae Aquinatis
+  partie_index: 6
+  partie_titre: Q. 75, De conversione panis et vini in corpus et sanguinem Christi
+  total_parties: 13
+traductions:
+  la:
+    kind: originale
+    sha256: b236b7a6680604b1e1ca09400ef9735e48da8ea6133ccb53b5f62d3e10caa24f
+    source_url: https://archive.org/details/operaomniaiussui12thom
+    fetched_at: '2026-04-27T13:50:00Z'
+    fetch_method: archive.org-djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: b236b7a6680604b1e1ca09400ef9735e48da8ea6133ccb53b5f62d3e10caa24f

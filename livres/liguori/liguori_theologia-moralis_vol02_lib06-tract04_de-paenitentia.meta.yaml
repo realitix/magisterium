@@ -1,0 +1,48 @@
+incipit: De sacramento poenitentiae
+titre_fr: 'Theologia Moralis — Livre VI, Traité IV : Du sacrement de pénitence'
+titre_original: Liber VI, Tractatus IV — De Sacramento Poenitentiae
+auteur: S. Alphonse-Marie de Liguori
+periode: pre-vatican-ii
+categorie: livre
+type: traite-de-theologie-morale
+date: '1748-01-01'
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- theologie-morale
+- sacrements
+themes_doctrinaux:
+- penitence
+- confession
+- absolution
+- indulgences
+- satisfaction
+references_anterieures:
+- concile-trente-session-7
+- concile-trente-session-13
+- concile-trente-session-14
+- concile-trente-session-22
+references_posterieures: []
+sources:
+- url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: djvu-ocr
+ouvrage:
+  slug: liguori_theologia-moralis
+  titre: Theologia Moralis
+  partie_index: 4
+  partie_titre: Liber VI, Tractatus IV — De Sacramento Poenitentiae
+  total_parties: 7
+traductions:
+  la:
+    kind: originale
+    sha256: afea9c52433d97cfb37d49c106c6be6601db0842d04cb82d5b49869148949ff6
+    source_url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+    fetched_at: '2026-04-27T13:49:16Z'
+    fetch_method: djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: afea9c52433d97cfb37d49c106c6be6601db0842d04cb82d5b49869148949ff6

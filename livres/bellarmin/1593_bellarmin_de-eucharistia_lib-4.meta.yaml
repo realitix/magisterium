@@ -1,0 +1,41 @@
+incipit: De sacramento Eucharistiae (Liber IV)
+titre_fr: "Disputes sur les Controverses — De l'Eucharistie (Livre IV)"
+titre_original: "Disputationum de Controversiis Christianae Fidei — De Sacramento Eucharistiae, Liber IV"
+auteur: Robert Bellarmin
+periode: pre-vatican-ii
+categorie: livre
+type: traite-theologique
+date: 1593-01-01
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- eucharistie
+- sacrement
+- matiere-et-forme
+- communion
+- adoration-eucharistique
+- controverse
+themes_doctrinaux:
+- eucharistie
+- sacrement-en-general
+- communion
+references_anterieures:
+- concile-trente-session-13
+- concile-trente-session-21
+references_posterieures: []
+sources:
+- url: https://archive.org/details/operaomnia04bell
+  site: archive.org
+  langue: la
+  fetch_method: archive.org+djvu+ocr-clean
+traductions:
+  la:
+    kind: originale
+    sha256: 1ee45b7b2bc99079bda0d400c7d2a3c90be351b3e90809a2e7e7b46042fdb013
+    source_url: https://archive.org/details/operaomnia04bell
+    fetch_method: archive.org+djvu+ocr-clean
+langues_disponibles:
+- la
+sha256:
+  la: 1ee45b7b2bc99079bda0d400c7d2a3c90be351b3e90809a2e7e7b46042fdb013

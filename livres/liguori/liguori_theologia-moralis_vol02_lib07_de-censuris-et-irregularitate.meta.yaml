@@ -1,0 +1,47 @@
+incipit: De censuris ecclesiasticis et irregularitatibus
+titre_fr: 'Theologia Moralis — Livre VII : Des censures ecclésiastiques et des irrégularités'
+titre_original: Liber VII — De Censuris Ecclesiasticis et Irregularitatibus
+auteur: S. Alphonse-Marie de Liguori
+periode: pre-vatican-ii
+categorie: livre
+type: traite-de-theologie-morale
+date: '1748-01-01'
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- theologie-morale
+- sacrements
+themes_doctrinaux:
+- censures-ecclesiastiques
+- excommunication
+- irregularites
+- droit-canonique
+references_anterieures:
+- concile-trente-session-7
+- concile-trente-session-13
+- concile-trente-session-14
+- concile-trente-session-22
+references_posterieures: []
+sources:
+- url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: djvu-ocr
+ouvrage:
+  slug: liguori_theologia-moralis
+  titre: Theologia Moralis
+  partie_index: 7
+  partie_titre: Liber VII — De Censuris Ecclesiasticis et Irregularitatibus
+  total_parties: 7
+traductions:
+  la:
+    kind: originale
+    sha256: ae73bf577838fcfb89213a683290f826112c6fc036b66e3860e6eee6cb7f6a33
+    source_url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+    fetched_at: '2026-04-27T13:49:16Z'
+    fetch_method: djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: ae73bf577838fcfb89213a683290f826112c6fc036b66e3860e6eee6cb7f6a33

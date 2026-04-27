@@ -1,0 +1,55 @@
+incipit: De Ecclesiae sacramentis — Tomus prior, prima pars (sacramenta in communi, baptismus, confirmatio)
+titre_fr: Des sacrements de l'Église — Tome I, première partie (sacrements en général, baptême, confirmation)
+titre_original: 'De Ecclesiae sacramentis : commentarius in tertiam partem S. Thomae. Tomus prior'
+auteur: Louis Billot
+periode: pre-vatican-ii
+categorie: livre
+type: commentaire-thomiste
+date: '1914-01-01'
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- sacrements
+- bapteme
+- confirmation
+- thomisme
+- theologie-dogmatique
+- manuel-romain
+themes_doctrinaux:
+- sacrements
+- bapteme
+- confirmation
+- caractere-sacramentel
+- grace-sacramentelle
+- intention-du-ministre
+references_anterieures:
+- summa-theologiae-iiia-pars
+- concile-trente-session-7
+references_posterieures: []
+sources:
+- url: https://archive.org/details/deecclesiaesacra01bill
+  site: archive.org
+  langue: la
+  fetch_method: archive.org-djvu-txt
+- url: https://archive.org/download/deecclesiaesacra01bill/deecclesiaesacra01bill_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: curl
+traductions:
+  la:
+    kind: originale
+    sha256: 6453d4ab7108366db01377d06791d11802d009c6cf8bf898bbf4aca25a3f8db4
+    source_url: https://archive.org/download/deecclesiaesacra01bill/deecclesiaesacra01bill_djvu.txt
+    fetched_at: 2026-04-27T15:43:00Z
+    fetch_method: curl
+langues_disponibles:
+- la
+sha256:
+  la: 6453d4ab7108366db01377d06791d11802d009c6cf8bf898bbf4aca25a3f8db4
+ouvrage:
+  slug: billot_de-ecclesiae-sacramentis
+  titre: 'De Ecclesiae sacramentis : commentarius in tertiam partem S. Thomae (cardinal Louis Billot, S.J., Romae 1914)'
+  partie_index: 1
+  partie_titre: 'Tome I, première partie : Sacramenta in communi, De Baptismo, De Confirmatione'
+  total_parties: 3

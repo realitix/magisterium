@@ -1,0 +1,43 @@
+incipit: De Summo Pontifice (Liber IV)
+titre_fr: "Disputes sur les Controverses — Du Souverain Pontife (Livre IV)"
+titre_original: "Disputationum de Controversiis Christianae Fidei — De Summo Pontifice, Liber IV"
+auteur: Robert Bellarmin
+periode: pre-vatican-ii
+categorie: livre
+type: traite-theologique
+date: 1586-01-01
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- pape
+- infaillibilite
+- magistere
+- autorite-doctrinale
+- disciplines-universelles
+- gallicanisme
+- controverse
+- contre-reforme
+themes_doctrinaux:
+- magistere
+- infaillibilite-pontificale
+- ecclesiologie
+references_anterieures:
+- concile-florence
+references_posterieures:
+- vatican-i-pastor-aeternus
+sources:
+- url: https://archive.org/details/operaomnia02bell_0
+  site: archive.org
+  langue: la
+  fetch_method: archive.org+djvu+ocr-clean
+traductions:
+  la:
+    kind: originale
+    sha256: 960b5641b98a25bccb6f67b8cfe86dd5590808bfe1ec5c5c05fbf7873fecd4b6
+    source_url: https://archive.org/details/operaomnia02bell_0
+    fetch_method: archive.org+djvu+ocr-clean
+langues_disponibles:
+- la
+sha256:
+  la: 960b5641b98a25bccb6f67b8cfe86dd5590808bfe1ec5c5c05fbf7873fecd4b6

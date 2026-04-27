@@ -1,0 +1,52 @@
+incipit: Tractatus tertius de Eucharistia
+titre_fr: 'Theologia Moralis — Livre VI, Traité III : De l''Eucharistie'
+titre_original: Liber VI, Tractatus III — De Eucharistia
+auteur: S. Alphonse-Marie de Liguori
+periode: pre-vatican-ii
+categorie: livre
+type: traite-de-theologie-morale
+date: '1748-01-01'
+autorite_magisterielle: non-magisteriel
+langue_originale: la
+denzinger: []
+sujets:
+- theologie-morale
+- sacrements
+themes_doctrinaux:
+- eucharistie
+- transsubstantiation
+- messe
+- sacrifice-eucharistique
+- matiere-forme
+- consecration
+- defectus-missae
+- validite-sacramentelle
+- sacerdoce-ministeriel
+references_anterieures:
+- concile-trente-session-7
+- concile-trente-session-13
+- concile-trente-session-14
+- concile-trente-session-22
+references_posterieures: []
+sources:
+- url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+  site: archive.org
+  langue: la
+  fetch_method: djvu-ocr
+ouvrage:
+  slug: liguori_theologia-moralis
+  titre: Theologia Moralis
+  partie_index: 3
+  partie_titre: Liber VI, Tractatus III — De Eucharistia
+  total_parties: 7
+traductions:
+  la:
+    kind: originale
+    sha256: be482b40e6811ce77c34823b45f3a9cd3745f000545594d4aafa8743f3c68c7b
+    source_url: https://archive.org/download/theologiamoralis02ligu_0/theologiamoralis02ligu_0_djvu.txt
+    fetched_at: '2026-04-27T13:49:16Z'
+    fetch_method: djvu-ocr
+langues_disponibles:
+- la
+sha256:
+  la: be482b40e6811ce77c34823b45f3a9cd3745f000545594d4aafa8743f3c68c7b

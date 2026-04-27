@@ -2,6 +2,7 @@ incipit: Lettre à Jean-Paul II du 2 juin 1988
 titre_fr: Lettre de Mgr Lefebvre à Jean-Paul II annonçant les sacres
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: lettre
 date: '1988-06-02'
 langue_originale: fr
@@ -21,10 +22,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: f954cfa958692ce193c13292910f3494ab992c2f6f4815e4d2e7f64c0a317cfe
+    sha256: 7ab0cfdd4c29c161c2758892c6beee4551ac24c3491e784485aeadb34bfff8a7
     source_url: https://laportelatine.org/formation/crise-eglise/rapports-rome-fsspx/lettre-de-mgr-lefebvre-a-jean-paul-ii-du-2-juin-1988
+    fetched_at: '2026-04-27T13:29:57.834313Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: f954cfa958692ce193c13292910f3494ab992c2f6f4815e4d2e7f64c0a317cfe
+  fr: 7ab0cfdd4c29c161c2758892c6beee4551ac24c3491e784485aeadb34bfff8a7

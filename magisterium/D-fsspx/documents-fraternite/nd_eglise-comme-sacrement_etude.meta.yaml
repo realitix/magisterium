@@ -2,6 +2,7 @@ incipit: La redéfinition de l'Église comme sacrement
 titre_fr: La redéfinition de l'Église comme sacrement
 auteur: Fraternité Saint-Pie X
 periode: fsspx
+categorie: magistere
 type: etude
 langue_originale: fr
 denzinger: []
@@ -20,10 +21,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 8670d62386ba36d86d26aa597c3d12e4cfef82785143b09e7952de0b601a8ac8
+    sha256: 9b196e21539f17d92fc1aeee44909828156f1ab7247302d0c6115ccf470123b8
     source_url: https://laportelatine.org/critique-du-concile-vatican-ii/la-redefinition-de-leglise-comme-sacrement
+    fetched_at: '2026-04-27T13:30:46.022599Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 8670d62386ba36d86d26aa597c3d12e4cfef82785143b09e7952de0b601a8ac8
+  fr: 9b196e21539f17d92fc1aeee44909828156f1ab7247302d0c6115ccf470123b8

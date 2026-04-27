@@ -2,6 +2,7 @@ incipit: Semper idem — 50e anniversaire de la Déclaration de 1974
 titre_fr: Message du supérieur général et de ses assistants — 1974–2024 Semper idem
 auteur: Don Davide Pagliarani
 periode: fsspx
+categorie: magistere
 type: declaration
 date: '2024-11-22'
 langue_originale: fr
@@ -21,10 +22,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 8bda9a7f5a225d72250c3215a89182b109b56eced18360bb87db6f77f39cd3d6
+    sha256: 9884328330a4bdeea0ccaa4213f9c132f5463feb149d758a0413010be2effa8e
     source_url: https://laportelatine.org/formation/crise-eglise/rapports-rome-fsspx/1974-2024-semper-idem
+    fetched_at: '2026-04-27T13:30:34.340531Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 8bda9a7f5a225d72250c3215a89182b109b56eced18360bb87db6f77f39cd3d6
+  fr: 9884328330a4bdeea0ccaa4213f9c132f5463feb149d758a0413010be2effa8e

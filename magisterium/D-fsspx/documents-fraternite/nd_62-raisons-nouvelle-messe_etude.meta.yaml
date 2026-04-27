@@ -2,6 +2,7 @@ incipit: 62 raisons pour lesquelles nous ne pouvons assister à la nouvelle mess
 titre_fr: 62 raisons contre la nouvelle messe
 auteur: Fraternité Saint-Pie X
 periode: fsspx
+categorie: magistere
 type: etude
 langue_originale: fr
 denzinger: []
@@ -20,10 +21,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: c03a3c04d4b3a3fb0aa7642a49b9e7ae5d856cccd504dbe7b158e9ac9848ed24
+    sha256: a188bd2d47b7c427eb93df1b52918326e93137980c37b996a1c114a97992c34f
     source_url: https://laportelatine.org/critique-du-concile-vatican-ii/62-raisons-pour-lesquelles-nous-ne-pouvons-assister-a-la-nouvelle-messe
+    fetched_at: '2026-04-27T13:30:37.874971Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: c03a3c04d4b3a3fb0aa7642a49b9e7ae5d856cccd504dbe7b158e9ac9848ed24
+  fr: a188bd2d47b7c427eb93df1b52918326e93137980c37b996a1c114a97992c34f

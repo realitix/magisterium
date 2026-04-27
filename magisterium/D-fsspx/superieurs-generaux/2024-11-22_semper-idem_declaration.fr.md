@@ -38,11 +38,3 @@ Christian Bouchacourt, 2^(nd) Assistant géné­ral
  
 
 Source : [fsspx​.news](https://fsspx.news/fr/news/1974-2024-semper-idem-48888) du 21 novembre 2024
-
-[!](https://laportelatine.org/personne/don-davide-pagliarani)
-
-### [Don Davide Pagliarani](https://laportelatine.org/personne/don-davide-pagliarani)
-
-Supérieur Général FSSPX
-
-M. l’ab­bé Davide Pagliarani est l’ac­tuel Supérieur Général de la FSSPX élu en 2018 pour un man­dat de 12 ans. Il réside à la [Maison Générale de Menzingen](https://laportelatine.org/lieux/maison-generale-priorat-mariae-verkundigung-menzingen), en Suisse.

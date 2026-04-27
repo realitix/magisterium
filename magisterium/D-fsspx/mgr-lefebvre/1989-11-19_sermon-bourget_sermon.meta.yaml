@@ -2,6 +2,7 @@ incipit: Sermon du Bourget
 titre_fr: Sermon au Bourget — 19 novembre 1989
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: sermon
 date: '1989-11-19'
 langue_originale: fr
@@ -21,10 +22,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 57dfa5e5249c79daffc55efa407138831b239ffdd0c17c6354dfcc5ea479dd03
+    sha256: ffc80a3827164f6d7c1e0c59151a1223937dc7c77d9bd800df380f20b00e7d69
     source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/sermon-de-mgr-lefebvre-au-bourget-le-11-novembre-1989
+    fetched_at: '2026-04-27T13:29:55.880744Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 57dfa5e5249c79daffc55efa407138831b239ffdd0c17c6354dfcc5ea479dd03
+  fr: ffc80a3827164f6d7c1e0c59151a1223937dc7c77d9bd800df380f20b00e7d69

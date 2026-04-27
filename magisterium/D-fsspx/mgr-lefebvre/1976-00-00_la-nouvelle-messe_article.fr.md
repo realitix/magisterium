@@ -20,11 +20,3 @@ Source : [Le Phare Breton n° 13 ](https://laportelatine.org/wp-content/uploa
 
 1.  Propitiatoire signi­fie répa­ra­teur. Autrement dit, la messe est un sacri­fice qui nous rend Dieu pro­pice c’est-à-dire agréable\[[↩](#identifier_1_180223)\]
 2.  Extraits de confé­rences parus dans le livre *La messe de tou­jours*.\[[↩](#identifier_2_180223)\]
-
-[![Mgr Marcel Lefebvre](https://laportelatine.org/wp-content/uploads/2020/04/ASSET-106811007-57-300x300.jpg)](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-### [Mgr Marcel Lefebvre](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-Fondateur de la FSSPX
-
-[Mgr Marcel Lefebvre](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) (1905–1991) a occu­pé des postes majeurs dans l’Église en tant que Délégué apos­to­lique pour l’Afrique fran­co­phone puis Supérieur géné­ral de la Congrégation du Saint-​Esprit. Défenseur de la Tradition catho­lique lors du concile Vatican II, il fonde en 1970 la [Fraternité Saint-​Pie X](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) et le [sémi­naire d’Écône](https://laportelatine.org/lieux/seminaire-international-saint-pie-x-econe-suisse). Il [sacre pour la Fraternité quatre évêques en 1988](https://laportelatine.org/tag/sacres-de-1988) avant de rendre son âme à Dieu trois ans plus tard. Voir [sa bio­gra­phie](https://www.clovis-diffusion.com/marcel-lefebvre-une-vie-c2x12345676).

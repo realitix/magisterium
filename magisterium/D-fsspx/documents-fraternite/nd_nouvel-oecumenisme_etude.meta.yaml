@@ -2,6 +2,7 @@ incipit: Le nouvel œcuménisme de Vatican II
 titre_fr: Le nouvel œcuménisme de Vatican II
 auteur: Fraternité Saint-Pie X
 periode: fsspx
+categorie: magistere
 type: etude
 langue_originale: fr
 denzinger: []
@@ -19,10 +20,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 0db967acaf513d8050c460b9e2cfb955a190fbfdeab91cc0edd75f810eabb730
+    sha256: 6a0cb10a57e3492af812577fa03188cb14bb02b9a3faeaf8a52814d17ea4dbbb
     source_url: https://laportelatine.org/critique-du-concile-vatican-ii/le-nouvel-oecumenisme-de-vatican-ii
+    fetched_at: '2026-04-27T13:30:39.900532Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 0db967acaf513d8050c460b9e2cfb955a190fbfdeab91cc0edd75f810eabb730
+  fr: 6a0cb10a57e3492af812577fa03188cb14bb02b9a3faeaf8a52814d17ea4dbbb

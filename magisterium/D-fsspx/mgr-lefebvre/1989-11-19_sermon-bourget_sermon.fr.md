@@ -4,32 +4,35 @@
 
 ## Photos
 
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-006-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-006.jpg)
 
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-007-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-007.jpg)
 
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-002-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-002.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001-1.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001-1-680x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001-1.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/PJ-Au-Bourget-Paris-13-nov.-89-001.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-008.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-008-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-008.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-010.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-010-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-010.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-003.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-003-1024x576.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-003.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-004.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-004-680x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-004.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-009.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-009-677x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-009.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-011.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-011-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-011.jpg)
 
 Mgr de Galarreta célé­brait les vêpres pon­ti­fi­cales l’après-midi
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-012.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-012-680x1024.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-012.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-013.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-013-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-013.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-014.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-014-1024x680.jpg)](https://laportelatine.org/wp-content/uploads/2022/11/Bourget-Mod-014.jpg)
 
 ## Transcription écrite
 
@@ -130,11 +133,3 @@ Devant cette des­truc­tion, nous devons nous lever et c’est ce que vous fait
 Et nous deman­de­rons à la Très Sainte Vierge de nous aider dans ce com­bat. Et pour cela, dans quelques ins­tants après la sainte messe, nous nous réuni­rons, évêques ici pré­sents, les cinq que nous sommes pour redire la consé­cra­tion du monde et de la Russie au Cœur Immaculée de la Très Sainte Vierge Marie, per­sua­dés que la Très Sainte Vierge, notre mère, qui elle est tou­jours à la pointe du com­bat, c’est elle qui nous encou­rage, c’est elle qui vient sur la terre nous deman­der de lut­ter, de ne pas avoir peur, que Jésus est avec nous, qu’elle est avec nous, alors nous lui deman­de­rons en nous consa­crants, nos familles, nos per­sonnes, nos cités, nos pays, nos patries, au Cœur Immaculée de Marie, nous sommes per­sua­dés qu’elle vien­dra à notre secours et fera en sorte que nous la rejoin­drons un jour dans la vie éternelle.
 
 *Au nom du Père et du Fils et du Saint-​Esprit, ainsi-soit-il.*
-
-[![Mgr Marcel Lefebvre](https://laportelatine.org/wp-content/uploads/2020/04/ASSET-106811007-57-300x300.jpg)](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-### [Mgr Marcel Lefebvre](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-Fondateur de la FSSPX
-
-[Mgr Marcel Lefebvre](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) (1905–1991) a occu­pé des postes majeurs dans l’Église en tant que Délégué apos­to­lique pour l’Afrique fran­co­phone puis Supérieur géné­ral de la Congrégation du Saint-​Esprit. Défenseur de la Tradition catho­lique lors du concile Vatican II, il fonde en 1970 la [Fraternité Saint-​Pie X](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) et le [sémi­naire d’Écône](https://laportelatine.org/lieux/seminaire-international-saint-pie-x-econe-suisse). Il [sacre pour la Fraternité quatre évêques en 1988](https://laportelatine.org/tag/sacres-de-1988) avant de rendre son âme à Dieu trois ans plus tard. Voir [sa bio­gra­phie](https://www.clovis-diffusion.com/marcel-lefebvre-une-vie-c2x12345676).

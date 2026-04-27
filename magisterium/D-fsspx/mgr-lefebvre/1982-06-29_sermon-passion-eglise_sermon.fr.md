@@ -4,21 +4,23 @@
 
 ## Quelques photos des ordinations de 1982
 
+[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-001-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-001.jpg)
 
 La pro­ces­sion d’en­trée. A droite, Mgr Ducaud-Bourget
 
+[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-002-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-002.jpg)
 
 Le jeune abbé Fellay au milieu des autres ordinands
 
-[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-003.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-003-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-003.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-005.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-005-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-005.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-008.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-008-1024x678.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-e-1982-06-29-008.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-006.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-006-1024x667.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-006.jpg)
 
-[!](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-007.jpg)
+[![](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-007-1024x667.jpg)](https://laportelatine.org/wp-content/uploads/2023/03/D009-f-1982-06-29-007.jpg)
 
 > Mes bien chers frères,  
 > Mes bien chers amis,
@@ -150,11 +152,3 @@ Et don­nant vrai­ment Notre Seigneur Jésus-​Christ dans son Sang, dans son 
 Que la Vierge Marie en par­ti­cu­lier soit notre modèle. Demandons-​lui aujourd’hui de faire de vous, mes chers amis, de saints Prêtres, des prêtres comme elle les désire. Et cer­tai­ne­ment si vous l’invoquez au cours de votre vie, elle vous pro­té­ge­ra et fera de vous des prêtres selon le cœur de Notre Seigneur Jésus-​Christ son divin Fils.
 
 *Au nom du Père et du Fils et du Saint-​Esprit. Ainsi soit-il.*
-
-[![Mgr Marcel Lefebvre](https://laportelatine.org/wp-content/uploads/2020/04/ASSET-106811007-57-300x300.jpg)](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-### [Mgr Marcel Lefebvre](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-Fondateur de la FSSPX
-
-[Mgr Marcel Lefebvre](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) (1905–1991) a occu­pé des postes majeurs dans l’Église en tant que Délégué apos­to­lique pour l’Afrique fran­co­phone puis Supérieur géné­ral de la Congrégation du Saint-​Esprit. Défenseur de la Tradition catho­lique lors du concile Vatican II, il fonde en 1970 la [Fraternité Saint-​Pie X](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) et le [sémi­naire d’Écône](https://laportelatine.org/lieux/seminaire-international-saint-pie-x-econe-suisse). Il [sacre pour la Fraternité quatre évêques en 1988](https://laportelatine.org/tag/sacres-de-1988) avant de rendre son âme à Dieu trois ans plus tard. Voir [sa bio­gra­phie](https://www.clovis-diffusion.com/marcel-lefebvre-une-vie-c2x12345676).

@@ -2,6 +2,7 @@ incipit: Nous faisons la sourde oreille aux nouveautés destructrices
 titre_fr: Nous faisons la sourde oreille aux nouveautés destructrices de l'Église
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: article
 langue_originale: fr
 denzinger: []
@@ -20,10 +21,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: ae980926e5dfb049ff9966db04270d334ca07d689f2c9e7e82aea36182815b15
+    sha256: 061c9b7f626ae1623c212fce6b2a9fca4a9c6ac1b76295589996c9dad27170db
     source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/nous-faisons-la-sourde-oreille-aux-nouveautes-destructrices-de-leglise
+    fetched_at: '2026-04-27T13:30:12.303209Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: ae980926e5dfb049ff9966db04270d334ca07d689f2c9e7e82aea36182815b15
+  fr: 061c9b7f626ae1623c212fce6b2a9fca4a9c6ac1b76295589996c9dad27170db

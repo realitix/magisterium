@@ -2,6 +2,7 @@ incipit: La nouvelle messe selon Mgr Lefebvre
 titre_fr: 'La nouvelle messe : critique doctrinale'
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: article
 langue_originale: fr
 denzinger: []
@@ -21,10 +22,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 89c4d681f11a2d939e1ddfc7e4b4bfc66df84d109253d406ca86cc2ba8e1cd4d
+    sha256: bfee1cd1e9df4f94e43287e22560583ea08af325fb5807045931816b6800f0c1
     source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/la-nouvelle-messe-selon-mgr-lefebvre
+    fetched_at: '2026-04-27T13:30:09.852814Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 89c4d681f11a2d939e1ddfc7e4b4bfc66df84d109253d406ca86cc2ba8e1cd4d
+  fr: bfee1cd1e9df4f94e43287e22560583ea08af325fb5807045931816b6800f0c1

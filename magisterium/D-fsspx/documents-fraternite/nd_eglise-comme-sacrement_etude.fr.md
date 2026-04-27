@@ -129,8 +129,6 @@ Le Concile avait en effet dit de l’Église qu’elle était (cf. la syn­thè
   - a\. du salut défi­ni­tif, ou de l’union intime avec Dieu dans la vie éter­nelle, ou de l’union de tous les élus dans l’Église triom­phante : on peut y acquiescer ;
   - b\. du salut ici-​bas c’est-à-dire de la grâce, ou de l’union intime avec Dieu dans le temps ; ou de l’unité des membres de l’Église sous l’autorité de l’évêque ; ou encore de l’unité du genre humain : cer­tai­ne­ment pas.
 
-1.  
-
 ### Conclusion
 
 On le voit, ce n’est qu’avec des dis­tinc­tions qu’on peut envi­sa­ger l’Église comme sacre­ment : le Concile va donc trop loin. Soutenu par aucun consen­sus anté­cé­dent, il fait siennes des thèses au moins dis­cu­tables, voire erro­nées, et leur confère l’autorité magis­té­rielle. Sans consi­dé­ra­tions pru­den­tielles, il porte à la connais­sance du monde entier, auquel il aime à s’adresser, des spé­cu­la­tions théo­lo­giques qui, faute de pré­ci­sions, sont sources de confu­sion, et dont d’ailleurs des maîtres du Concile comme Rahner ont abu­sé, jusqu’à s’opposer aux don­nées de la foi.
@@ -180,9 +178,3 @@ Il faut ain­si bel et bien recon­naître, une fois de plus, que le fond du pro
 26. En rigueur de termes, c’est le sacre­ment (par­tie de l’Église), et non l’Église en son entier, qui cause la grâce. D’où l’emploi du condi­tion­nel.\[[↩](#identifier_26_67928)\]
 27. Elle est en par­ti­cu­lier expo­sée de façon péda­go­gique dans l’article de Smulders cité plus haut.\[[↩](#identifier_27_67928)\]
 28. « Tout le bien que le peuple de Dieu, au temps de son pèle­ri­nage ter­restre, peut pro­cu­rer à la famille humaine, découle de cette réa­li­té que l’Église est le « sacre­ment uni­ver­sel du salut », mani­fes­tant et actua­li­sant tout à la fois le mys­tère de l’amour de Dieu pour l’homme. » (*Gaudium et Spes*, n. 45) L’Église a pour mis­sion « de réunir en un seul Esprit tous les hommes » (n. 92 et 42), de sorte que « l’union de la famille humaine » trouve son achè­ve­ment (*com­ple­tur*) et une plus grande vigueur dans « l’unité de la famille des fils de Dieu » (n. 42). « En effet, pro­mou­voir l’unité s’harmonise avec la mis­sion pro­fonde de l’Église, puisqu’elle est « dans le Christ » comme le sacre­ment… de l’unité de tout le genre humain. Sa propre réa­li­té mani­feste ain­si au monde qu’une véri­table union sociale visible découle de l’union des esprits et des cœurs, à savoir de cette foi et de cette cha­ri­té, sur les­quelles, dans l’Esprit saint, son uni­té est indis­so­lu­ble­ment fon­dée » (n. 42, 3).\[[↩](#identifier_28_67928)\]
-
-[![Abbé Philippe Toulza](https://laportelatine.org/wp-content/uploads/2020/04/Abbé-Toulza-Philippe-300x300.jpg)](https://laportelatine.org/personne/abbe-philippe-toulza)
-
-### [Abbé Philippe Toulza](https://laportelatine.org/personne/abbe-philippe-toulza)
-
-FSSPX

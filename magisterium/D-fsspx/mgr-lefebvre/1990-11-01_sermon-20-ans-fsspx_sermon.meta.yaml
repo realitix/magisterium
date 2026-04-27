@@ -2,6 +2,7 @@ incipit: 20e anniversaire de la FSSPX
 titre_fr: Toussaint — 20e anniversaire de la Fraternité — 1er novembre 1990
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: sermon
 date: '1990-11-01'
 langue_originale: fr
@@ -21,10 +22,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 410dc21648af5dd2e04b5217907d09f21a727ef30ef961d567e33de4a679592f
+    sha256: db44a3efe76884403460b3fe88508612be2d0064a79b0c53d40968b9842f7254
     source_url: https://laportelatine.org/formation/mgr-lefebvre/textes/sermon-de-mgr-lefebvre-toussaint-20eme-anniversaire-de-la-fraternite-1er-novembre-1990
+    fetched_at: '2026-04-27T13:30:26.342807Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 410dc21648af5dd2e04b5217907d09f21a727ef30ef961d567e33de4a679592f
+  fr: db44a3efe76884403460b3fe88508612be2d0064a79b0c53d40968b9842f7254

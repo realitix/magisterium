@@ -6,13 +6,13 @@
 
 ## Photos
 
-- [!](https://laportelatine.org/wp-content/uploads/2021/07/Messe-Lille-1976.jpg)
+- [![](https://laportelatine.org/wp-content/uploads/2021/07/Messe-Lille-1976-1024x920.jpg)](https://laportelatine.org/wp-content/uploads/2021/07/Messe-Lille-1976.jpg)
   « Très Saint Père, rendez-​nous la vraie messe ! »
 
-- [!](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-002.jpg)
+- [![](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-002-1024x725.jpg)](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-002.jpg)
   La foule pré­sente dans le hangar
 
-- [!](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-001.jpg)
+- [![](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-001-1024x817.jpg)](https://laportelatine.org/wp-content/uploads/2021/07/Numerisations-001.jpg)
   Présence de la presse
 
 ## Extrait vidéo
@@ -90,11 +90,3 @@ Au nom du Père et du Fils et du Saint-​Esprit. Ainsi soit-il.
 **Notes de bas de page**
 
 1.  Peine infli­gée par l’Église qui, si elle était juste, inter­di­rait de célé­brer les sacre­ments dont la messe.\[[↩](#identifier_1_64693)\]
-
-[![Mgr Marcel Lefebvre](https://laportelatine.org/wp-content/uploads/2020/04/ASSET-106811007-57-300x300.jpg)](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-### [Mgr Marcel Lefebvre](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-Fondateur de la FSSPX
-
-[Mgr Marcel Lefebvre](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) (1905–1991) a occu­pé des postes majeurs dans l’Église en tant que Délégué apos­to­lique pour l’Afrique fran­co­phone puis Supérieur géné­ral de la Congrégation du Saint-​Esprit. Défenseur de la Tradition catho­lique lors du concile Vatican II, il fonde en 1970 la [Fraternité Saint-​Pie X](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) et le [sémi­naire d’Écône](https://laportelatine.org/lieux/seminaire-international-saint-pie-x-econe-suisse). Il [sacre pour la Fraternité quatre évêques en 1988](https://laportelatine.org/tag/sacres-de-1988) avant de rendre son âme à Dieu trois ans plus tard. Voir [sa bio­gra­phie](https://www.clovis-diffusion.com/marcel-lefebvre-une-vie-c2x12345676).

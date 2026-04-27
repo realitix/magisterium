@@ -2,6 +2,7 @@ incipit: Sermon des ordinations sacerdotales à Écône
 titre_fr: Ordinations sacerdotales à Écône — 29 juin 1976
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: sermon
 date: '1976-06-29'
 langue_originale: fr
@@ -22,10 +23,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 340f1756702bd96291dbaa46cec49c48cb32c2a9025398b91088dd8ed13e9822
+    sha256: de7b97546d45bf241c9319e7e70b168a9671242c1c408abcda247274a961a486
     source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/sermon-des-ordinations-sacerdotales-econe-le-29-juin-1976-mgr-lefebvre
+    fetched_at: '2026-04-27T13:29:52.341431Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 340f1756702bd96291dbaa46cec49c48cb32c2a9025398b91088dd8ed13e9822
+  fr: de7b97546d45bf241c9319e7e70b168a9671242c1c408abcda247274a961a486

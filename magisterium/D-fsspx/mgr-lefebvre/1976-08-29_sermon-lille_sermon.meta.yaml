@@ -2,6 +2,7 @@ incipit: Sermon de Lille
 titre_fr: Sermon de Mgr Lefebvre à Lille — 29 août 1976
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: sermon
 date: '1976-08-29'
 langue_originale: fr
@@ -21,10 +22,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: 9e53b6ed8a70c06192bccbd456ac2162395208e46daedd06043af57fb845deca
+    sha256: 63b4ac3f8e1925c1fcbef3b8d87b565db61c5e5d0f90fc512de0d64aa3dd4395
     source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/lille-29-aout-1976
+    fetched_at: '2026-04-27T13:29:49.904017Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: 9e53b6ed8a70c06192bccbd456ac2162395208e46daedd06043af57fb845deca
+  fr: 63b4ac3f8e1925c1fcbef3b8d87b565db61c5e5d0f90fc512de0d64aa3dd4395

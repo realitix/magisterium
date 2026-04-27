@@ -2,6 +2,7 @@ incipit: Déclaration du 21 novembre 1974
 titre_fr: Nous adhérons de tout cœur à la Rome catholique
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: declaration
 date: '1974-11-21'
 langue_originale: fr
@@ -22,10 +23,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: af3fee25129873bfb4ec5f484785699e7ad7dd007c79613a72009e384d5c651c
+    sha256: a8a390a1b131650afc12a6adacfe92b27f2642e0539696ff2311df8454c7af69
     source_url: https://laportelatine.org/qui-sommes-nous/declaration-du-21-novembre-1974
+    fetched_at: '2026-04-27T13:29:47.860449Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: af3fee25129873bfb4ec5f484785699e7ad7dd007c79613a72009e384d5c651c
+  fr: a8a390a1b131650afc12a6adacfe92b27f2642e0539696ff2311df8454c7af69

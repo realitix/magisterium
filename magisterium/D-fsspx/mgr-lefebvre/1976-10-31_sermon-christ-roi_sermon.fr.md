@@ -84,11 +84,3 @@ Voilà ce qu’un vrai chré­tien, un vrai catho­lique doit avoir dans son cœ
 Eh bien, c’est ce que vous serez, mes bien chers amis. Nous allons deman­der tous ensemble, tous ceux qui sont venus de loin, tous vos amis, tous vos parents qui vous entourent de leur affec­tion aujourd’hui et qui sont heu­reux de vous voir mon­ter encore un peu plus près de Notre Seigneur Jésus-​Christ, nous deman­de­rons par toutes les prières de la litur­gie, que d’abondantes grâces des­cendent dans vos âmes pour que vous soyez dignes de cette grâce que vous allez recevoir.
 
 *Au nom du Père et du Fils et du Saint-​Esprit. Ainsi soit-il.*
-
-[![Mgr Marcel Lefebvre](https://laportelatine.org/wp-content/uploads/2020/04/ASSET-106811007-57-300x300.jpg)](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-### [Mgr Marcel Lefebvre](https://laportelatine.org/personne/mgr-marcel-lefebvre)
-
-Fondateur de la FSSPX
-
-[Mgr Marcel Lefebvre](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) (1905–1991) a occu­pé des postes majeurs dans l’Église en tant que Délégué apos­to­lique pour l’Afrique fran­co­phone puis Supérieur géné­ral de la Congrégation du Saint-​Esprit. Défenseur de la Tradition catho­lique lors du concile Vatican II, il fonde en 1970 la [Fraternité Saint-​Pie X](https://laportelatine.org/nous-decouvrir/qui-sommes-nous/mgr-marcel-lefebvre-fondateur-de-la-fsspx) et le [sémi­naire d’Écône](https://laportelatine.org/lieux/seminaire-international-saint-pie-x-econe-suisse). Il [sacre pour la Fraternité quatre évêques en 1988](https://laportelatine.org/tag/sacres-de-1988) avant de rendre son âme à Dieu trois ans plus tard. Voir [sa bio­gra­phie](https://www.clovis-diffusion.com/marcel-lefebvre-une-vie-c2x12345676).

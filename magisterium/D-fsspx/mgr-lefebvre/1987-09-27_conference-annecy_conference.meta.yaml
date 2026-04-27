@@ -2,6 +2,7 @@ incipit: J'ai vu des prêtres pleurer
 titre_fr: Conférence à Annecy — 27 septembre 1987
 auteur: Mgr Marcel Lefebvre
 periode: fsspx
+categorie: magistere
 type: conference
 date: '1987-09-27'
 langue_originale: fr
@@ -21,10 +22,11 @@ sources:
 traductions:
   fr:
     kind: originale
-    sha256: b34536d5084c44a73658ede136f55b46ac9449601c87604709cf1c9c5bcd73e6
+    sha256: 255e28a54d57df8ac23fc504dc7b880a4f578c7152e99f7b0c0f4296e5a18706
     source_url: https://laportelatine.org/formation/mgr-lefebvre/sermons-historiques/conference-de-mgr-lefebvre-annecy-1987
+    fetched_at: '2026-04-27T13:29:53.887355Z'
     fetch_method: httpx
 langues_disponibles:
 - fr
 sha256:
-  fr: b34536d5084c44a73658ede136f55b46ac9449601c87604709cf1c9c5bcd73e6
+  fr: 255e28a54d57df8ac23fc504dc7b880a4f578c7152e99f7b0c0f4296e5a18706

@@ -27,7 +27,17 @@ SITE_SELECTORS: dict[str, str] = {
     "www.papalencyclicals.net": "div.entry-content",
     "www.vatican.va": "div.documento, div.testo, #testoen, #testo",
     "www.ewtn.com": "main, article, div.body",
-    "laportelatine.org": "article, main, div.entry-content",
+    "laportelatine.org": (
+        # Site Elementor : header / footer / sidebars / contenu sont des
+        # frères avec data-elementor-type. On cible directement les widgets
+        # qui portent le texte du document — sinon on ramasse le menu, les
+        # icônes sociales, les "related posts" et le copyright à chaque
+        # page (résidu visible : « [ !](…) [ contact ](/contact) © 2021 »).
+        # `theme-post-content` couvre les articles ; `text-editor` couvre
+        # les pages statiques (déclaration 1974, etc.).
+        "div.elementor-widget-theme-post-content, "
+        "div.elementor-widget-text-editor"
+    ),
     "www.salve-regina.com": "#mw-content-text",
     "vatican2voice.org": "#content, body",
     "www.clerus.va": "main, article, body",
@@ -112,13 +122,20 @@ def _extract_body(
     for bad in tree.css("script, style, noscript, nav, header, footer, aside"):
         bad.decompose()
 
-    # Pick root: matched selector > <body> > whole doc
+    # Pick root: first selector with at least one match > <body> > whole doc.
+    # Quand plusieurs nœuds matchent le même sélecteur (ex. plusieurs widgets
+    # text-editor sur une page Elementor), on les fusionne dans un wrapper
+    # virtuel pour ne pas perdre le contenu réparti sur plusieurs blocs.
     root = None
     if selector:
         for sel in (s.strip() for s in selector.split(",") if s.strip()):
-            node = tree.css_first(sel)
-            if node is not None:
-                root = node
+            nodes = tree.css(sel)
+            if nodes:
+                if len(nodes) == 1:
+                    root = nodes[0]
+                else:
+                    merged = "".join((n.html or "") for n in nodes)
+                    root = HTMLParser(f"<div>{merged}</div>").css_first("div")
                 break
     if root is None:
         root = tree.css_first("body") or tree.root

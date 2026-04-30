@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-16 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 096a31cc92df7985492d04b3e6a3aa227ca4bc466578e3800b16abf1752c3545
     source_url: https://www.papalencyclicals.net/councils/trent/sixteenth-session.htm
     fetched_at: '2026-04-25T20:44:38.462147Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: c143f2f0841ca00616503fc5eb1684508b2cd386decbffbc3ea784eccbef9673
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 096a31cc92df7985492d04b3e6a3aa227ca4bc466578e3800b16abf1752c3545
+  la: c143f2f0841ca00616503fc5eb1684508b2cd386decbffbc3ea784eccbef9673

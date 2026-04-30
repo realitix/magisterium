@@ -17,13 +17,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/04z/z_1740-12-03__SS_Benedictus_XIV__Ubi_Primum__LT.doc.html
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 8819ce2d7190bdff970da0cf5e896975af6111a59c5eb0ffa145d73c1472aac7
     source_url: https://www.papalencyclicals.net/ben14/b14ubipr.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 8aad890b6abfd0ea25ce24125dffb34424c798a379f7b14721aaac39a2f20cd5
+    source_url: https://www.documentacatholicaomnia.eu/04z/z_1740-12-03__SS_Benedictus_XIV__Ubi_Primum__LT.doc.html
+    fetched_at: '2026-04-30T17:47:12.446034+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 8819ce2d7190bdff970da0cf5e896975af6111a59c5eb0ffa145d73c1472aac7
+  la: 8aad890b6abfd0ea25ce24125dffb34424c798a379f7b14721aaac39a2f20cd5

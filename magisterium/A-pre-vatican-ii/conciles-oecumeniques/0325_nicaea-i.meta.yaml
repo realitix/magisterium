@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 3f1cac9cde67af0709c7fb6f2cd56e590050e027a93e1c01ab925e5f1d97d595
     source_url: https://www.papalencyclicals.net/councils/ecum01.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5ce2d91ffae8fcd650478420382881d18ebb826f07b3d7a4365814bfc5d420f4
+    source_url: https://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 3f1cac9cde67af0709c7fb6f2cd56e590050e027a93e1c01ab925e5f1d97d595
+  la: 5ce2d91ffae8fcd650478420382881d18ebb826f07b3d7a4365814bfc5d420f4

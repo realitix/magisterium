@@ -22,14 +22,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/litterae-apostolicae-apostolicae-curae-13-septembris-1896.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: c2c39695d9f50cff8b388e5e8d1d918ac222fa1e8637ac68fcaacbfcdf09f745
     source_url: https://www.papalencyclicals.net/leo13/l13curae.htm
     fetched_at: '2026-04-26T13:15:51.333182Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a75ed339370894c6c98f0bab4f82f65f64429a296924817219a9c447fae2be7f
+    source_url: https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/litterae-apostolicae-apostolicae-curae-13-septembris-1896.html
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: c2c39695d9f50cff8b388e5e8d1d918ac222fa1e8637ac68fcaacbfcdf09f745
+  la: a75ed339370894c6c98f0bab4f82f65f64429a296924817219a9c447fae2be7f

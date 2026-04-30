@@ -18,13 +18,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/04z/z_1659-10-09__SS_Alexander_VII__Super_Cathedram_Principis_Apostolorum__LT.doc.html
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: a1ff3930ff8b78d7814ffdc591e5132719c75df627940f075900b441d8f8ee02
     source_url: https://www.papalencyclicals.net/alex07/alex07super.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: d3aafed34994e10a5b3da32d3f99d1a0be59ebd52dac3bea5a61f8c29cb95ddf
+    source_url: https://www.documentacatholicaomnia.eu/04z/z_1659-10-09__SS_Alexander_VII__Super_Cathedram_Principis_Apostolorum__LT.doc.html
+    fetched_at: '2026-04-30T17:47:09.010558+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: a1ff3930ff8b78d7814ffdc591e5132719c75df627940f075900b441d8f8ee02
+  la: d3aafed34994e10a5b3da32d3f99d1a0be59ebd52dac3bea5a61f8c29cb95ddf

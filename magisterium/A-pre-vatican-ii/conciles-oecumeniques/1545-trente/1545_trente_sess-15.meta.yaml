@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-15 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 9557e47a55da6c592ab77259e9b24257d1c7edce5c283f171a72aee7ab27e347
     source_url: https://www.papalencyclicals.net/councils/trent/fifteenth-session.htm
     fetched_at: '2026-04-25T20:44:36.418595Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: cee8fe51043590077baff1d300fc717ae151db751b69a828b546d3627997b910
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 9557e47a55da6c592ab77259e9b24257d1c7edce5c283f171a72aee7ab27e347
+  la: cee8fe51043590077baff1d300fc717ae151db751b69a828b546d3627997b910

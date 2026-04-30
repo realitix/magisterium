@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/1274-1274,_Concilium_Lugdunense_II,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 5f278eda99535075af1e7c4b79c7f5988fedadc921e9a2c1e05d4155bf2d25a3
     source_url: https://www.papalencyclicals.net/councils/ecum14.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 21f01fdbe4cc752a7d5617c5e86fdcfe46827af29f07da9cab90ae2b88077c57
+    source_url: https://www.documentacatholicaomnia.eu/03d/1274-1274,_Concilium_Lugdunense_II,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 5f278eda99535075af1e7c4b79c7f5988fedadc921e9a2c1e05d4155bf2d25a3
+  la: 21f01fdbe4cc752a7d5617c5e86fdcfe46827af29f07da9cab90ae2b88077c57

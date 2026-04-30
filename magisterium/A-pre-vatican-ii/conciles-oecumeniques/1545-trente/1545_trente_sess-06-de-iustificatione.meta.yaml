@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-06-de-iustificatione extraite du djvu OCR de l'édition critique
+    Canones et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 3e051718e0a7d64529e3846095fcb29f75083cdfcfa8f2128c7ca1ddf06bd582
     source_url: https://www.papalencyclicals.net/councils/trent/sixth-session.htm
     fetched_at: '2026-04-25T20:44:18.194334Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: ccaae4c85645c09bf08f9a7bde979010e7fc7331efb588b48e6ac031908d776e
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 3e051718e0a7d64529e3846095fcb29f75083cdfcfa8f2128c7ca1ddf06bd582
+  la: ccaae4c85645c09bf08f9a7bde979010e7fc7331efb588b48e6ac031908d776e

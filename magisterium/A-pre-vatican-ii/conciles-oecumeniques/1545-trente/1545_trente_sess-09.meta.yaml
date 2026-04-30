@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-09 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: e5d944c0c7ae9edcc49714a610660952a3270b0c8629da495f6e31f719f527b6
     source_url: https://www.papalencyclicals.net/councils/trent/ninth-session.htm
     fetched_at: '2026-04-25T20:44:24.113367Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 10300378baf1129f1dc50dacdecbfbbb167c56727038046c23836e4ebe2508b5
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: e5d944c0c7ae9edcc49714a610660952a3270b0c8629da495f6e31f719f527b6
+  la: 10300378baf1129f1dc50dacdecbfbbb167c56727038046c23836e4ebe2508b5

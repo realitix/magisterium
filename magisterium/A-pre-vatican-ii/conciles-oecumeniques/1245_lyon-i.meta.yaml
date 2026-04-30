@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/1245-1245,_Concilium_Lugdunense_I,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: c6e92e2d1da618bc0de2e8df7eba4c244b275914fd5c558cf11a09dfe432a3f9
     source_url: https://www.papalencyclicals.net/councils/ecum13.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: f88459460095a5e11aa5806410d700847f593693fd695901670c297061f44c56
+    source_url: https://www.documentacatholicaomnia.eu/03d/1245-1245,_Concilium_Lugdunense_I,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: c6e92e2d1da618bc0de2e8df7eba4c244b275914fd5c558cf11a09dfe432a3f9
+  la: f88459460095a5e11aa5806410d700847f593693fd695901670c297061f44c56

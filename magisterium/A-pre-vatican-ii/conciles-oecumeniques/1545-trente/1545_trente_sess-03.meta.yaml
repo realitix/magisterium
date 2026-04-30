@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-03 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 678b324147e8e9e9be2fe17cf120ce4ef81af4a80a30137ee35cb7757cc670cd
     source_url: https://www.papalencyclicals.net/councils/trent/third-session.htm
     fetched_at: '2026-04-25T20:44:12.111756Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: dcf3d3e73d7196f35961245a6d7395d0d9c4803bcf6391a30ee2f7002cb16894
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 678b324147e8e9e9be2fe17cf120ce4ef81af4a80a30137ee35cb7757cc670cd
+  la: dcf3d3e73d7196f35961245a6d7395d0d9c4803bcf6391a30ee2f7002cb16894

@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 444f19a2386aaf1014e15f5fda8dc87353ee61347263d0585037a19930bf7c31
     source_url: https://www.papalencyclicals.net/councils/ecum02.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5f7d0a3d7c0a2db931460ddc28d0a22f0b89256cc04695f0dfe783e47d6cdbcd
+    source_url: https://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 444f19a2386aaf1014e15f5fda8dc87353ee61347263d0585037a19930bf7c31
+  la: 5f7d0a3d7c0a2db931460ddc28d0a22f0b89256cc04695f0dfe783e47d6cdbcd

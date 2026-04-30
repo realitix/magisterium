@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0869-0870,_Concilium_Constantinopolitanum_IV,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: a9d62717753e42a0b7f11d1887f3bef02996d2b63848a2a750e609f91827cb57
     source_url: https://www.papalencyclicals.net/councils/ecum08.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 58631b6c37326514e77a24196373e24718cd08e36fc69030ad94662f2bc203d7
+    source_url: https://www.documentacatholicaomnia.eu/03d/0869-0870,_Concilium_Constantinopolitanum_IV,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: a9d62717753e42a0b7f11d1887f3bef02996d2b63848a2a750e609f91827cb57
+  la: 58631b6c37326514e77a24196373e24718cd08e36fc69030ad94662f2bc203d7

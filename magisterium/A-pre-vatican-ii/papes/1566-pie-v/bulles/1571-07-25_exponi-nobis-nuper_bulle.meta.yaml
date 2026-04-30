@@ -17,13 +17,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/04z/z_1571-07-25__SS_Pius_V__Exponi_Nobis_Nuper__LT.doc.html
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 165143cab49308c6bf349a4c7e02621232e5cec8cb615929fb1e96401271f60d
     source_url: https://www.papalencyclicals.net/pius05/p5exponi.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: cd7ee9e39b3188a9579e414033855ce27cca80f8ef55d454196b476735be482c
+    source_url: https://www.documentacatholicaomnia.eu/04z/z_1571-07-25__SS_Pius_V__Exponi_Nobis_Nuper__LT.doc.html
+    fetched_at: '2026-04-30T17:47:07.883730+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 165143cab49308c6bf349a4c7e02621232e5cec8cb615929fb1e96401271f60d
+  la: cd7ee9e39b3188a9579e414033855ce27cca80f8ef55d454196b476735be482c

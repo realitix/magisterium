@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0787-0787,_Concilium_Nicaenum_II,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: c61471ac55f120cf85009a2047cd97fd2c60fcd89d4f2fb910c93386f4d69932
     source_url: https://www.papalencyclicals.net/councils/ecum07.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 216f84e1e452f334942ff7a2f89dcc60bf849af006f071668797caf5613dd6bd
+    source_url: https://www.documentacatholicaomnia.eu/03d/0787-0787,_Concilium_Nicaenum_II,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: c61471ac55f120cf85009a2047cd97fd2c60fcd89d4f2fb910c93386f4d69932
+  la: 216f84e1e452f334942ff7a2f89dcc60bf849af006f071668797caf5613dd6bd

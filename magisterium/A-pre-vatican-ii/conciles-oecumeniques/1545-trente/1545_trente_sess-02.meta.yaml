@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-02 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 04a345c9a8d6ffc8f958dd0365af4610800a3a5465fdec50d4636d81da412dd6
     source_url: https://www.papalencyclicals.net/councils/trent/second-session.htm
     fetched_at: '2026-04-25T20:44:10.408067Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: d2775df6dc48d7bd96647912b0a783c547e1df7bbebac9360b58259cafbebe82
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 04a345c9a8d6ffc8f958dd0365af4610800a3a5465fdec50d4636d81da412dd6
+  la: d2775df6dc48d7bd96647912b0a783c547e1df7bbebac9360b58259cafbebe82

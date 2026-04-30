@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-13-de-eucharistia extraite du djvu OCR de l'édition critique Canones
+    et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: c64e1597b4213e3d9ed6403f9afd28e142696d02c7644ddd514778ef6fc67b0f
     source_url: https://www.papalencyclicals.net/councils/trent/thirteenth-session.htm
     fetched_at: '2026-04-25T20:44:32.176846Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: aa005ad42ec22fac7e3d99e56c10d4fafa7a6efd403cbc8ed1f3c9f0abf47fec
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: c64e1597b4213e3d9ed6403f9afd28e142696d02c7644ddd514778ef6fc67b0f
+  la: aa005ad42ec22fac7e3d99e56c10d4fafa7a6efd403cbc8ed1f3c9f0abf47fec

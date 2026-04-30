@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 2c56955921a1f03f607e0ca80c82ca98a084fbb649c7ad81923c36d6dcbd8458
     source_url: https://www.papalencyclicals.net/councils/ecum04.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 7514de29e339a29e27bfbc54320307ee6c7d3b351565139cea3d5053a5166b45
+    source_url: https://www.documentacatholicaomnia.eu/03d/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 2c56955921a1f03f607e0ca80c82ca98a084fbb649c7ad81923c36d6dcbd8458
+  la: 7514de29e339a29e27bfbc54320307ee6c7d3b351565139cea3d5053a5166b45

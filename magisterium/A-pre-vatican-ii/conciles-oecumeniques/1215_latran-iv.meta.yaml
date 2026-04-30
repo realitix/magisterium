@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/1215-1215,_Concilium_Lateranum_IIII,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 6fea090209db4c5b28cb41e562c8c042068de14ec313e8dd5ec2be1884208d1f
     source_url: https://www.papalencyclicals.net/councils/ecum12-2.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 3e2733abcd17e64736dfde549a3a70f4377415b1863bbc3ebab2fcbc8345ba45
+    source_url: https://www.documentacatholicaomnia.eu/03d/1215-1215,_Concilium_Lateranum_IIII,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 6fea090209db4c5b28cb41e562c8c042068de14ec313e8dd5ec2be1884208d1f
+  la: 3e2733abcd17e64736dfde549a3a70f4377415b1863bbc3ebab2fcbc8345ba45

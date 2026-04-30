@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-21-de-communione extraite du djvu OCR de l'édition critique Canones
+    et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: bb111b85ceccdf7bab0d38bfc854e443126db41c7368750456fa6fc21231db50
     source_url: https://www.papalencyclicals.net/councils/trent/twenty-first-session.htm
     fetched_at: '2026-04-25T20:44:48.470653Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: bc627cdab5d7c78e4bd997db859ef6d708e082276c8d52f0d8fdf03b4d08de15
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: bb111b85ceccdf7bab0d38bfc854e443126db41c7368750456fa6fc21231db50
+  la: bc627cdab5d7c78e4bd997db859ef6d708e082276c8d52f0d8fdf03b4d08de15

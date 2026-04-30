@@ -19,13 +19,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://la.wikisource.org/wiki/Decet_Romanum_Pontificem
+  site: la.wikisource.org
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 56b47a2e4f96220022a5bda3000059b7484984daf2a3f7e02d2161237bcd015f
     source_url: https://www.papalencyclicals.net/leo10/l10decet.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: ae7bfcebd9532ff9f95e4f5b4cf0e01522c841270e5e88f5af1bbc67b58c93af
+    source_url: https://la.wikisource.org/wiki/Decet_Romanum_Pontificem
+    fetched_at: '2026-04-30T17:53:33.744273+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 56b47a2e4f96220022a5bda3000059b7484984daf2a3f7e02d2161237bcd015f
+  la: ae7bfcebd9532ff9f95e4f5b4cf0e01522c841270e5e88f5af1bbc67b58c93af

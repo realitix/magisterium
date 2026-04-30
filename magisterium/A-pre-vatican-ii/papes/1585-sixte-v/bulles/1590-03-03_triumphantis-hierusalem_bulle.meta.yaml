@@ -18,13 +18,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/04z/z_1585-1590__SS_Sixtus_V__Bulla_%27Triumphantis_Hierusalem%27_%5BAD_1588%5D__LT.doc.html
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: c31efc185e7b37ef15ace7ba50ee6ba8c6f17e1d4ac321ebcf58b83c4261a7d2
     source_url: https://www.papalencyclicals.net/sixtus05/triumph.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: cd16000cd9835b3b17155db421a732f24149f07d3254853268edd38817aabca1
+    source_url: https://www.documentacatholicaomnia.eu/04z/z_1585-1590__SS_Sixtus_V__Bulla_%27Triumphantis_Hierusalem%27_%5BAD_1588%5D__LT.doc.html
+    fetched_at: '2026-04-30T17:47:42.735858+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: c31efc185e7b37ef15ace7ba50ee6ba8c6f17e1d4ac321ebcf58b83c4261a7d2
+  la: cd16000cd9835b3b17155db421a732f24149f07d3254853268edd38817aabca1

@@ -88,7 +88,7 @@ Léon XIII, statuant *suprema Apostolica auctoritate*, expose le **principe cano
 >
 > **Traduction :** « Tous savent que les sacrements de la Loi nouvelle, étant des signes sensibles et efficaces de la grâce invisible, doivent à la fois signifier la grâce qu'ils opèrent et opérer la grâce qu'ils signifient. Bien que la signification doive se trouver dans tout le rite essentiel, c'est-à-dire dans la matière et la forme, elle appartient surtout à la forme, puisque la matière est par elle-même indéterminée et qu'elle est déterminée par la forme. »
 >
-> — *Apostolicae Curae*, §24 (source : `1896-09-13_apostolicae-curae_bulle.en.md`, l. 53)
+> — Léon XIII, *Apostolicae Curae* (source : `1896-09-13_apostolicae-curae_bulle.la.md`, l. 36)
 
 Et l'application précise au sacrement de l'ordre :
 
@@ -96,7 +96,7 @@ Et l'application précise au sacrement de l'ordre :
 >
 > **Traduction :** « Et cela apparaît encore plus clairement dans le sacrement de l'Ordre, dont la matière — l'imposition des mains — par elle-même ne signifie rien de défini et sert également pour plusieurs ordres et pour la Confirmation. »
 >
-> — *Apostolicae Curae*, §24 (source : `1896-09-13_apostolicae-curae_bulle.en.md`, l. 53)
+> — Léon XIII, *Apostolicae Curae* (source : `1896-09-13_apostolicae-curae_bulle.la.md`, l. 36)
 
 C'est donc la **forme verbale** qui détermine quel ordre est conféré. Pour l'épiscopat précisément :
 
@@ -104,7 +104,7 @@ C'est donc la **forme verbale** qui détermine quel ordre est conféré. Pour l'
 >
 > **Traduction :** « Mais l'épiscopat appartient indubitablement, par l'institution du Christ, très véritablement au sacrement de l'Ordre et constitue le sacerdoce au plus haut degré, à savoir celui que, par l'enseignement des saints Pères et nos coutumes liturgiques, on appelle le *souverain sacerdoce, sommet du ministère sacré*. »
 >
-> — *Apostolicae Curae*, §28 (source : `1896-09-13_apostolicae-curae_bulle.en.md`, l. 63)
+> — Léon XIII, *Apostolicae Curae* (source : `1896-09-13_apostolicae-curae_bulle.la.md`, l. 38)
 
 Une forme valide de consécration épiscopale doit donc signifier **définitivement** : (i) le souverain sacerdoce / *summum sacerdotium*, (ii) sa grâce propre, (iii) sa puissance spécifique. *Apostolicae Curae* déclare nulles les ordinations anglicanes précisément parce que leur forme, dépouillée des mots qui désignaient le souverain sacerdoce et le sacerdoce sacrificiel, omettait *« ce qu'elle aurait dû essentiellement signifier »* (§27).
 

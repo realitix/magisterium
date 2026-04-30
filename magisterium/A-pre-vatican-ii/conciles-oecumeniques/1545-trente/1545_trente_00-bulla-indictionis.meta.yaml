@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_00-bulla-indictionis extraite du djvu OCR de l'édition critique Canones
+    et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 48e224107655e71daeb5127e46b46a997b9a02f71373d80a8d88c6d04bd17cf1
     source_url: https://www.papalencyclicals.net/councils/trent/ctbull.htm
     fetched_at: '2026-04-25T20:44:06.176811Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 8a80e9831771d53f32f3105bf7d342db20888658c960d60e7cbfae8597198427
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 48e224107655e71daeb5127e46b46a997b9a02f71373d80a8d88c6d04bd17cf1
+  la: 8a80e9831771d53f32f3105bf7d342db20888658c960d60e7cbfae8597198427

@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-07-de-sacramentis extraite du djvu OCR de l'édition critique Canones
+    et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 4eb35cd7c132bbc64859f7da0b545cb5d0bbe12b5c76cefb95e91ef057f65be3
     source_url: https://www.papalencyclicals.net/councils/trent/seventh-session.htm
     fetched_at: '2026-04-25T20:44:20.166180Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a4470da011d21af2d9d017dc06588a063567d291e2d83687949bf92662b5a3b9
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 4eb35cd7c132bbc64859f7da0b545cb5d0bbe12b5c76cefb95e91ef057f65be3
+  la: a4470da011d21af2d9d017dc06588a063567d291e2d83687949bf92662b5a3b9

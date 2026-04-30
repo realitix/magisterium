@@ -17,13 +17,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: manual-synthetic
+  note: Édition critique Canones et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: ecc274cc5a2e5c320098e8d3fc88c6a4341a9f0e688624bd24e8497af1e2f3b4
     source_url: https://www.papalencyclicals.net/councils/trent.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 1719108e4115fcbbc21798110de9764b7d1e055ac78afbc1d03bdbe299bf5c70
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:36:20Z'
+    fetch_method: manual-synthetic
+    note: Index synthétique latin des 25 sessions + bulles complémentaires, rédigé
+      d'après la table des matières de l'édition critique (canonesetdecreta00coun_0).
 langues_disponibles:
 - en
+- la
 sha256:
   en: ecc274cc5a2e5c320098e8d3fc88c6a4341a9f0e688624bd24e8497af1e2f3b4
+  la: 1719108e4115fcbbc21798110de9764b7d1e055ac78afbc1d03bdbe299bf5c70

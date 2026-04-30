@@ -19,13 +19,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://la.wikisource.org/wiki/Mirari_Vos
+  site: la.wikisource.org
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 75fc5794851244dc111d414d43231c99c55311104f52094a2cc1b0016e97a1e4
     source_url: https://www.papalencyclicals.net/greg16/g16mirar.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: fb96bffcfa42f9d6c8521259959ff1a1302f1128583a73d2d6f1008268309fd6
+    source_url: https://la.wikisource.org/wiki/Mirari_Vos
+    fetched_at: '2026-04-30T17:53:34.152699+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 75fc5794851244dc111d414d43231c99c55311104f52094a2cc1b0016e97a1e4
+  la: fb96bffcfa42f9d6c8521259959ff1a1302f1128583a73d2d6f1008268309fd6

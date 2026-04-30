@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-01 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: d80da77b81cc4e9a37f1d122bfce8458f13f67a65af705fb9b1645bee53d4bf6
     source_url: https://www.papalencyclicals.net/councils/trent/firstsession.htm
     fetched_at: '2026-04-25T20:44:08.103036Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 556628776865f11e03a16f0f3a7db2a33357237e279b941dbbfdd79c5b92677b
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: d80da77b81cc4e9a37f1d122bfce8458f13f67a65af705fb9b1645bee53d4bf6
+  la: 556628776865f11e03a16f0f3a7db2a33357237e279b941dbbfdd79c5b92677b

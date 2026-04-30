@@ -18,13 +18,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://la.wikisource.org/wiki/Exsurge,_Domine
+  site: la.wikisource.org
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 4c604c961c079676aa7f06b132a48ec194e00dea275da12b2ded2aa45af50807
     source_url: https://www.papalencyclicals.net/leo10/l10exdom.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5a74f420e5b42205e3238211966d75c4def522d153624396000bab3a75b48a3e
+    source_url: https://la.wikisource.org/wiki/Exsurge,_Domine
+    fetched_at: '2026-04-30T17:53:33.575833+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 4c604c961c079676aa7f06b132a48ec194e00dea275da12b2ded2aa45af50807
+  la: 5a74f420e5b42205e3238211966d75c4def522d153624396000bab3a75b48a3e

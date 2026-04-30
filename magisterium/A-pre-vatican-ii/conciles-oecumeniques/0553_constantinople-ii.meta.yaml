@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0553-0553,_Concilium_Constantinopolitanum_II,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 5383af07d2815f3c41e65b64f68122b8594ae7e22e2df8a66b22023677e0852d
     source_url: https://www.papalencyclicals.net/councils/ecum05.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 4de9f972ff2dc82b8e22bdeb55b9a72532eef326875df56410d17771478ba291
+    source_url: https://www.documentacatholicaomnia.eu/03d/0553-0553,_Concilium_Constantinopolitanum_II,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 5383af07d2815f3c41e65b64f68122b8594ae7e22e2df8a66b22023677e0852d
+  la: 4de9f972ff2dc82b8e22bdeb55b9a72532eef326875df56410d17771478ba291

@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-08 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 63d49c88efa31c655624edd9409f6cd7ad531b45c68af5b9ac75bd9199cafc17
     source_url: https://www.papalencyclicals.net/councils/trent/eighth-session.htm
     fetched_at: '2026-04-25T20:44:22.553442Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 750c7f21ddcdf773a3a8893dfe2b5e507964ffa1466b0e6cb238bd5c520fad0e
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 63d49c88efa31c655624edd9409f6cd7ad531b45c68af5b9ac75bd9199cafc17
+  la: 750c7f21ddcdf773a3a8893dfe2b5e507964ffa1466b0e6cb238bd5c520fad0e

@@ -20,14 +20,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-14-de-poenitentia extraite du djvu OCR de l'édition critique Canones
+    et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: bd4984d7e76a9d4f07ba8c4bfecd0f41dcbc60dd0d3cf4b0016d1247cb9cbdfd
     source_url: https://www.papalencyclicals.net/councils/trent/fourteenth-session.htm
     fetched_at: '2026-04-25T20:44:34.210698Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 1f9fc9b2c7043e9c6998a41c1d53362f91bb51a58b0744aeb36017a1d700bae5
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: bd4984d7e76a9d4f07ba8c4bfecd0f41dcbc60dd0d3cf4b0016d1247cb9cbdfd
+  la: 1f9fc9b2c7043e9c6998a41c1d53362f91bb51a58b0744aeb36017a1d700bae5

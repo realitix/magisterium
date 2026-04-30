@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/1311-1312,_Concilium_Viennense,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: afd618d0a77e5b31858c8c20209c180b6769ba77abcc8a68790e7c7fddc26a24
     source_url: https://www.papalencyclicals.net/councils/ecum15.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: aebeea7fe93483efc0c78f976acca8e336d7c1875699c7a618a51a256896cce4
+    source_url: https://www.documentacatholicaomnia.eu/03d/1311-1312,_Concilium_Viennense,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: afd618d0a77e5b31858c8c20209c180b6769ba77abcc8a68790e7c7fddc26a24
+  la: aebeea7fe93483efc0c78f976acca8e336d7c1875699c7a618a51a256896cce4

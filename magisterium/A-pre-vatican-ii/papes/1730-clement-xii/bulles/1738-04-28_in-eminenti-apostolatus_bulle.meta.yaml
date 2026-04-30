@@ -18,13 +18,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/04z/z_1738-04-28__SS_Clemens_XII__In_Eminenti__LT.doc.html
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 817f5625f1f08de4d750cd723fd1f9f5b362b639e8a0dd60552295277fa35d24
     source_url: https://www.papalencyclicals.net/clem12/c12inemengl.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 06908997b5c3f97a5e6a1daaf293a68619c275b043ee9d21f3363d59d0f78067
+    source_url: https://www.documentacatholicaomnia.eu/04z/z_1738-04-28__SS_Clemens_XII__In_Eminenti__LT.doc.html
+    fetched_at: '2026-04-30T17:47:11.326274+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 817f5625f1f08de4d750cd723fd1f9f5b362b639e8a0dd60552295277fa35d24
+  la: 06908997b5c3f97a5e6a1daaf293a68619c275b043ee9d21f3363d59d0f78067

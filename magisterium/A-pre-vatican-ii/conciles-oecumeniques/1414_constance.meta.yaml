@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/1414-1414,_Concilium_Constantiense,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 4ef4cd9237975015c719deab15143ae27723dcec889a8d50a0f8703eaeeb0b28
     source_url: https://www.papalencyclicals.net/councils/ecum16.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 82e0fefa5618364876f67665f3f7d38225952dfca958b7ed49c5c5a4685a5030
+    source_url: https://www.documentacatholicaomnia.eu/03d/1414-1414,_Concilium_Constantiense,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 4ef4cd9237975015c719deab15143ae27723dcec889a8d50a0f8703eaeeb0b28
+  la: 82e0fefa5618364876f67665f3f7d38225952dfca958b7ed49c5c5a4685a5030

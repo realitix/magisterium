@@ -17,13 +17,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-ix/la/documents/
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 9769ea6cff4be7a331679ad84264eb04b21130804c0595f02dc76629e8080a88
     source_url: https://www.papalencyclicals.net/councils/ecum20.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 49cb8fe5f1afde2293df71f509c35592ed69543db82f0745602c2072ab261801
+    source_url: https://www.vatican.va/content/pius-ix/la/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html
+    fetch_method: httpx
+    note: Concaténation Dei Filius + Pastor Aeternus depuis vatican.va
 langues_disponibles:
 - en
+- la
 sha256:
   en: 9769ea6cff4be7a331679ad84264eb04b21130804c0595f02dc76629e8080a88
+  la: 49cb8fe5f1afde2293df71f509c35592ed69543db82f0745602c2072ab261801

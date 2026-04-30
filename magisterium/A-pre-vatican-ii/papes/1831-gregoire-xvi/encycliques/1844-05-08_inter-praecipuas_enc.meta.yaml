@@ -18,13 +18,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://la.wikisource.org/wiki/Inter_praecipuas_machinationes
+  site: la.wikisource.org
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 76f37ac90de1d6a0856dbd7603399d092340bb5fd4b862fd36e783a5db8d5844
     source_url: https://www.papalencyclicals.net/greg16/g16inter.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 03e79932e693000d2ac046a548c89f2c5a3fdb12973dd7c44591fa1b3edfda4d
+    source_url: https://la.wikisource.org/wiki/Inter_praecipuas_machinationes
+    fetched_at: '2026-04-30T17:53:34.297846+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 76f37ac90de1d6a0856dbd7603399d092340bb5fd4b862fd36e783a5db8d5844
+  la: 03e79932e693000d2ac046a548c89f2c5a3fdb12973dd7c44591fa1b3edfda4d

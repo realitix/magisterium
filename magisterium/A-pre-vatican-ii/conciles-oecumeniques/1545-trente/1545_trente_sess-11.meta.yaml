@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-11 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 1acf82510021022c223e60ba87d58d3e9bd6ea871e4439edb14dfcc21f6f4450
     source_url: https://www.papalencyclicals.net/councils/trent/eleventh-session.htm
     fetched_at: '2026-04-25T20:44:28.114973Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: cd1eeb94895a3d0f85c9873539414299d2eeb5f9d35534f11be2519a4bcd5e5f
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 1acf82510021022c223e60ba87d58d3e9bd6ea871e4439edb14dfcc21f6f4450
+  la: cd1eeb94895a3d0f85c9873539414299d2eeb5f9d35534f11be2519a4bcd5e5f

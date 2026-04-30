@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-04 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 1c419fe3326f0571fa627c0d93f1c2052e41537791d5317bbd145981b7504e15
     source_url: https://www.papalencyclicals.net/councils/trent/fourth-session.htm
     fetched_at: '2026-04-25T20:44:14.124948Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 68e47ee7b48db318861f3dd579a92dacb39a54ac655e700617110fca4da4e727
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 1c419fe3326f0571fa627c0d93f1c2052e41537791d5317bbd145981b7504e15
+  la: 68e47ee7b48db318861f3dd579a92dacb39a54ac655e700617110fca4da4e727

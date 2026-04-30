@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/1179-1179,_Concilium_Lateranum_III,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 33aaddf4502f9ad1621e4381a36134565a657f13eaae254137b4f8e064a322ee
     source_url: https://www.papalencyclicals.net/councils/ecum11.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a5a3235217c06515e9d8a73ba88fbe954c6f28da5c7db3b048908a6668156f6e
+    source_url: https://www.documentacatholicaomnia.eu/03d/1179-1179,_Concilium_Lateranum_III,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 33aaddf4502f9ad1621e4381a36134565a657f13eaae254137b4f8e064a322ee
+  la: a5a3235217c06515e9d8a73ba88fbe954c6f28da5c7db3b048908a6668156f6e

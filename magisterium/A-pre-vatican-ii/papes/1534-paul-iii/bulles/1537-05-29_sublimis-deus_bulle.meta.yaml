@@ -19,13 +19,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://la.wikisource.org/wiki/Sublimis_Deus
+  site: la.wikisource.org
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 1a56885cc899c8a03b4d84a96bc4bcbef12fd4e8eac9f7362401b1857ee52baa
     source_url: https://www.papalencyclicals.net/paul03/p3subli.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5fb19b52d70d7f6a55c20d163b6774b0631e5cbc0277f2b9b15c2a238411f455
+    source_url: https://la.wikisource.org/wiki/Sublimis_Deus
+    fetched_at: '2026-04-30T17:53:33.864090+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 1a56885cc899c8a03b4d84a96bc4bcbef12fd4e8eac9f7362401b1857ee52baa
+  la: 5fb19b52d70d7f6a55c20d163b6774b0631e5cbc0277f2b9b15c2a238411f455

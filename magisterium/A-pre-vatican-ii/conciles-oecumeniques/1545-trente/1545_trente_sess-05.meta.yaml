@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-05 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: cf18f46a4969cf55d1bca9e22caa376199db4aa114f34733981ac3220071ca7f
     source_url: https://www.papalencyclicals.net/councils/trent/fifth-session.htm
     fetched_at: '2026-04-25T20:44:16.127354Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 9f583dfeca7169b748d4b55487b98832247fdf6ac2705b7dc1e3c9c2627c149a
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: cf18f46a4969cf55d1bca9e22caa376199db4aa114f34733981ac3220071ca7f
+  la: 9f583dfeca7169b748d4b55487b98832247fdf6ac2705b7dc1e3c9c2627c149a

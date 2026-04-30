@@ -18,13 +18,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://la.wikisource.org/wiki/Vix_pervenit
+  site: la.wikisource.org
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: db3e12ec34b2c8a7f6a0cf002090b48f5872193d69d07d5b3bcad6898bbcd1ba
     source_url: https://www.papalencyclicals.net/ben14/b14vixpe.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5eec3ad9269558e041a0de970adf5f259d58a6a251611288842996d0c47a88a2
+    source_url: https://la.wikisource.org/wiki/Vix_pervenit
+    fetched_at: '2026-04-30T17:53:33.996265+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: db3e12ec34b2c8a7f6a0cf002090b48f5872193d69d07d5b3bcad6898bbcd1ba
+  la: 5eec3ad9269558e041a0de970adf5f259d58a6a251611288842996d0c47a88a2

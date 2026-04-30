@@ -19,13 +19,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://la.wikisource.org/wiki/Regnans_in_Excelsis
+  site: la.wikisource.org
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 91c8a41b6989519d19af85a21b0196a418f75aa2bb4f5a440e058d716dfe7bb9
     source_url: https://www.papalencyclicals.net/pius05/p5regnans.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 0fe4874fbf6dd1b20d450ad9b6144387dec3c9d8275afd2671185fa1859a7f21
+    source_url: https://la.wikisource.org/wiki/Regnans_in_Excelsis
+    fetched_at: '2026-04-30T17:53:34.408600+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: 91c8a41b6989519d19af85a21b0196a418f75aa2bb4f5a440e058d716dfe7bb9
+  la: 0fe4874fbf6dd1b20d450ad9b6144387dec3c9d8275afd2671185fa1859a7f21

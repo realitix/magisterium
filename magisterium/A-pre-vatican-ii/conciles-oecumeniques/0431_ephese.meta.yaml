@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0431-0431,_Concilium_Ephesenum,_Documenta_Omnia,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: b135e25f26a714093d8431e5d8d834d03923cc10b3171771253d78e1dd171c07
     source_url: https://www.papalencyclicals.net/councils/ecum03.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: a41ec745577bb65ea51b0a95963655fc83922a1a644e825ce4a6995cb38d9f57
+    source_url: https://www.documentacatholicaomnia.eu/03d/0431-0431,_Concilium_Ephesenum,_Documenta_Omnia,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: b135e25f26a714093d8431e5d8d834d03923cc10b3171771253d78e1dd171c07
+  la: a41ec745577bb65ea51b0a95963655fc83922a1a644e825ce4a6995cb38d9f57

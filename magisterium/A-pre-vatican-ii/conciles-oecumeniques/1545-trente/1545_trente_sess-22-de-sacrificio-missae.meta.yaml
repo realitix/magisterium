@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-22-de-sacrificio-missae extraite du djvu OCR de l'édition critique
+    Canones et decreta (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: ece7c6ccc5f8f4c90c27724a8e4b1929cea8309519142e8dd84eb4a250561d6e
     source_url: https://www.papalencyclicals.net/councils/trent/twenty-second-session.htm
     fetched_at: '2026-04-25T20:43:44.892874Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5e9affa1ed2ea6ff06415603e5c4763463ef34498e4478a9c5cd5ff83f143df6
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: ece7c6ccc5f8f4c90c27724a8e4b1929cea8309519142e8dd84eb4a250561d6e
+  la: 5e9affa1ed2ea6ff06415603e5c4763463ef34498e4478a9c5cd5ff83f143df6

@@ -68,7 +68,7 @@ Le Concile œcuménique de Florence, dans la bulle d'union avec les Coptes *Cant
 >
 > **Traduction :** « Elle [la sainte Église romaine] croit, professe et prêche fermement que tous ceux qui sont en dehors de l'Église catholique, non seulement les païens mais aussi les Juifs, les hérétiques et les schismatiques, ne peuvent participer à la vie éternelle et iront dans le feu éternel, "qui a été préparé pour le diable et ses anges" (Mt 25, 41), à moins qu'ils ne soient agrégés à elle avant la fin de leur vie. »
 >
-> — *Concile de Florence, bulle* Cantate Domino *pour les Coptes, 4 février 1442* (source : `1431_florence.en.md`, l. 713)
+> — *Concile de Florence, bulle* Cantate Domino *pour les Coptes, 4 février 1442* (source : `1431_florence.la.md`, l. 1062)
 
 Le texte ajoute immédiatement après :
 
@@ -88,7 +88,7 @@ Le premier Concile du Vatican, dans sa Constitution dogmatique *Dei Filius* (187
 >
 > **Traduction :** « Cette foi, qui est le commencement du salut de l'homme, l'Église catholique la professe comme une vertu surnaturelle, par laquelle, avec l'inspiration et l'aide de la grâce de Dieu, nous croyons que les choses révélées par lui sont vraies, non à cause de leur vérité intrinsèque perçue par la lumière naturelle de la raison, mais à cause de l'autorité de Dieu lui-même qui révèle, qui ne peut ni se tromper ni nous tromper. »
 >
-> — *Vatican I,* Dei Filius, *chap. 3* (source : `1869_vatican-i.en.md`, l. 339-346)
+> — *Vatican I,* Dei Filius, *chap. 3* (source : `1869_vatican-i.la.md`, l. 60)
 
 Le même chapitre tire la conséquence nécessaire :
 
@@ -96,7 +96,7 @@ Le même chapitre tire la conséquence nécessaire :
 >
 > **Traduction :** « Puisque sans la foi il est impossible de plaire à Dieu (Hb 11, 6) et de parvenir à la société de ses fils, nul n'a jamais obtenu la justification sans elle, et nul n'obtiendra la vie éternelle s'il n'y persévère pas jusqu'à la fin. »
 >
-> — *Vatican I,* Dei Filius, *chap. 3* (source : `1869_vatican-i.en.md`, l. 377)
+> — *Vatican I,* Dei Filius, *chap. 3* (source : `1869_vatican-i.la.md`, l. 68)
 
 Ce passage est une citation directe du Concile de Trente (*Décret sur la justification*, chap. VIII, DS 1532) reprise au plus haut niveau dogmatique. Il affirme trois choses : (1) la foi est *nécessaire* ; (2) sans la foi, la justification n'a jamais eu lieu ; (3) la persévérance dans la foi jusqu'à la fin est requise pour obtenir la vie éternelle. Le bouddhiste qui observe la loi naturelle, mais qui *ne croit pas* au Christ révélateur, ne satisfait à aucune des trois conditions.
 

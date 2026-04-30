@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-10 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: af86fa7574fb340447676fdc79e3a26551aea8dbbd4d5246c2a57f233b22b4f0
     source_url: https://www.papalencyclicals.net/councils/trent/tenth-session.htm
     fetched_at: '2026-04-25T20:44:26.383525Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 2c837e771cc8b9716e0cd65f44b04327a8dd5d9dd98ca64912447e4b46d69d6a
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: af86fa7574fb340447676fdc79e3a26551aea8dbbd4d5246c2a57f233b22b4f0
+  la: 2c837e771cc8b9716e0cd65f44b04327a8dd5d9dd98ca64912447e4b46d69d6a

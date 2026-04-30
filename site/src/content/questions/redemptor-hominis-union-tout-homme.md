@@ -73,7 +73,7 @@ Le concile œcuménique de Chalcédoine définit en 451, contre le monophysisme 
 >
 > **Traduction :** « Nous enseignons à confesser **un seul et même** Fils, notre Seigneur Jésus-Christ… reconnu **en deux natures**, sans confusion, sans changement, sans division, sans séparation. »
 >
-> — *Concile de Chalcédoine, définition christologique, 451* (source : `0451_chalcedoine.en.md`, l. 118)
+> — *Concile de Chalcédoine, définition christologique, 451* (source : `0451_chalcedoine.la.md`, l. 23)
 
 Le sujet de l'union est **un seul** (« unum eundemque »), pas une multitude. Léon le Grand, dans son *Tomus ad Flavianum* solennellement reçu par le concile, précise que les deux natures « ont convergé en une seule personne » (« *in unam coeunte personam* »). L'union hypostatique est donc, par définition conciliaire, **singulière** : elle a lieu entre la Personne éternelle du Verbe et **une chair concrète** assumée par lui en Marie. Toute hypothèse d'une union hypostatique étendue à tous les hommes serait, à proprement parler, une multiplication des incarnations contredisant Chalcédoine.
 
@@ -85,7 +85,7 @@ Le concile d'Éphèse, suivant saint Cyrille d'Alexandrie, anathématise toute c
 >
 > **Traduction :** « Si quelqu'un ne confesse pas que le Verbe issu de Dieu le Père s'est uni à la chair *selon l'hypostase*, et qu'il est un seul Christ avec sa **propre chair**… qu'il soit anathème. »
 >
-> — *Concile d'Éphèse, anathématismes de saint Cyrille, 431* (source : `0431_ephese.en.md`, l. 122-144)
+> — *Concile d'Éphèse, anathématismes de saint Cyrille, 431* (source : `0431_ephese.la.md`, l. 21)
 
 L'expression « *propria carne* » (« sa propre chair ») est un verrou anti-universaliste : la nature assumée n'est pas répartie entre tous les hommes, elle est *celle*, propre, personnelle, conçue dans le sein de la Vierge.
 
@@ -97,7 +97,7 @@ Le concile de Florence, dans la bulle d'union *Cantate Domino* (4 février 1442)
 >
 > **Traduction :** « Elle croit fermement, professe et prêche qu'**une** personne de la Trinité… a pris une nature humaine vraie et parfaite **du sein immaculé de la Vierge Marie**, et l'a unie à elle-même en une union personnelle. »
 >
-> — *Concile de Florence, bulle* Cantate Domino, *1442* (source : `1431_florence.en.md`, l. 701)
+> — *Concile de Florence, bulle* Cantate Domino, *1442* (source : `1431_florence.la.md`, l. 1050)
 
 Et immédiatement après, sur le salut :
 
@@ -105,7 +105,7 @@ Et immédiatement après, sur le salut :
 >
 > **Traduction :** « Elle croit fermement… que **nul de ceux qui se trouvent hors de l'Église catholique**, non seulement les païens, mais aussi les juifs, hérétiques et schismatiques, **ne peut participer à la vie éternelle** ; et qu'ils iront au feu éternel… s'ils ne sont pas agrégés à elle avant la fin de leur vie. »
 >
-> — *Concile de Florence, bulle* Cantate Domino, *1442* (source : `1431_florence.en.md`, l. 713)
+> — *Concile de Florence, bulle* Cantate Domino, *1442* (source : `1431_florence.la.md`, l. 1062)
 
 Démonstration *a contrario* : si Florence enseigne dogmatiquement que les païens, juifs et hérétiques *non agrégés à l'Église* ne peuvent être sauvés, *aucune* lecture orthodoxe de l'Incarnation ne peut soutenir que le Verbe se serait uni hypostatiquement et salvifiquement à chaque homme par sa seule humanité. L'union hypostatique reste singulière (avec une seule chair, prise de Marie), et la rédemption qui en découle reste à appliquer par foi, baptême, et persévérance dans l'Église.
 

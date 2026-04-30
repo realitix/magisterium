@@ -19,13 +19,25 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/04z/z_1570-07-15__SS_Pius_V__Quo_Primum_Tempore__LT.doc.html
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: curl
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: d2787cb4cacb6cffe17b9ab1155bc8cee5493e72ed5045d4469ae2c85c53a301
     source_url: https://www.papalencyclicals.net/pius05/p5quopri.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 9a0ca62c188e0902632882c95f1e54c05669934c06151eff70bd7fd22f42ee04
+    source_url: https://www.documentacatholicaomnia.eu/04z/z_1570-07-15__SS_Pius_V__Quo_Primum_Tempore__LT.doc.html
+    fetched_at: '2026-04-30T17:47:06.772567+00:00'
+    fetch_method: curl
 langues_disponibles:
 - en
+- la
 sha256:
   en: d2787cb4cacb6cffe17b9ab1155bc8cee5493e72ed5045d4469ae2c85c53a301
+  la: 9a0ca62c188e0902632882c95f1e54c05669934c06151eff70bd7fd22f42ee04

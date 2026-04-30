@@ -19,14 +19,28 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: trente_sess-12 extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 5f4244e509f1572555246035e7c59fecc8a0b32f7e75248dff2e06d39f763fb4
     source_url: https://www.papalencyclicals.net/councils/trent/twelfth-session.htm
     fetched_at: '2026-04-25T20:44:30.117516Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 539b7b847df21e0c59465f37190d4c325f8ef70c7de9410ab32f51d332be62f6
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetched_at: '2026-04-30T17:35:19Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 5f4244e509f1572555246035e7c59fecc8a0b32f7e75248dff2e06d39f763fb4
+  la: 539b7b847df21e0c59465f37190d4c325f8ef70c7de9410ab32f51d332be62f6

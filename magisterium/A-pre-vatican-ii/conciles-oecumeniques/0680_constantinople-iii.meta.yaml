@@ -17,13 +17,24 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.documentacatholicaomnia.eu/03d/0680-0680,_Concilium_Constantinopolitanum_III,_Documenta,_LT.doc
+  site: www.documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: cdfe93db97104fd20bef40835408cf87682203f700914845fc2e76493da7eed1
     source_url: https://www.papalencyclicals.net/councils/ecum06.htm
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: f0bfa28479dd6750b6253dc6d6a9470d3e361a80c38e5abf9cdaa8c258228348
+    source_url: https://www.documentacatholicaomnia.eu/03d/0680-0680,_Concilium_Constantinopolitanum_III,_Documenta,_LT.doc
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: cdfe93db97104fd20bef40835408cf87682203f700914845fc2e76493da7eed1
+  la: f0bfa28479dd6750b6253dc6d6a9470d3e361a80c38e5abf9cdaa8c258228348

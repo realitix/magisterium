@@ -68,11 +68,11 @@ Dogme défini, magistère solennel infaillible. Trois canons capitaux pour notre
 
 > *« Si quelqu'un dit que, par l'ordination sacrée, l'Esprit Saint n'est pas donné… ou qu'un caractère n'est pas imprimé par cette ordination… qu'il soit anathème. »*
 >
-> — *Concile de Trente, sess. 23, canon IV*
+> — *Concile de Trente, sess. 23, canon IV* (source : `1545_trente_sess-23-de-sacramento-ordinis.en.md`, l. 49)
 
 > *« Si quelqu'un dit que les évêques ne sont pas supérieurs aux prêtres ; ou qu'ils n'ont pas le pouvoir de confirmer et d'ordonner ; ou que le pouvoir qu'ils possèdent leur est commun avec les prêtres… qu'il soit anathème. »*
 >
-> — *Concile de Trente, sess. 23, canon VII*
+> — *Concile de Trente, sess. 23, canon VII* (source : `1545_trente_sess-23-de-sacramento-ordinis.en.md`, l. 55)
 
 Conséquence pour la validité d'une consécration épiscopale : la forme rituelle doit conférer **un pouvoir** (potestas) qui est **propre à l'évêque** et **distinct** de celui du simple prêtre. Toute forme qui n'opère pas cette distinction, même implicitement, manque à la *res* du sacrement.
 
@@ -84,7 +84,7 @@ Léon XIII, statuant *suprema Apostolica auctoritate*, expose le **principe cano
 >
 > **Traduction :** « Tous savent que les sacrements de la Loi nouvelle, étant des signes sensibles et efficaces de la grâce invisible, doivent à la fois signifier la grâce qu'ils opèrent et opérer la grâce qu'ils signifient. Bien que la signification doive se trouver dans tout le rite essentiel, c'est-à-dire dans la matière et la forme, elle appartient surtout à la forme, puisque la matière est par elle-même indéterminée et qu'elle est déterminée par la forme. »
 >
-> — *Apostolicae Curae*, §24
+> — *Apostolicae Curae*, §24 (source : `1896-09-13_apostolicae-curae_bulle.en.md`, l. 53)
 
 Et l'application précise au sacrement de l'ordre :
 
@@ -92,7 +92,7 @@ Et l'application précise au sacrement de l'ordre :
 >
 > **Traduction :** « Et cela apparaît encore plus clairement dans le sacrement de l'Ordre, dont la matière — l'imposition des mains — par elle-même ne signifie rien de défini et sert également pour plusieurs ordres et pour la Confirmation. »
 >
-> — *Apostolicae Curae*, §24
+> — *Apostolicae Curae*, §24 (source : `1896-09-13_apostolicae-curae_bulle.en.md`, l. 53)
 
 C'est donc la **forme verbale** qui détermine quel ordre est conféré. Pour l'épiscopat précisément :
 
@@ -100,7 +100,7 @@ C'est donc la **forme verbale** qui détermine quel ordre est conféré. Pour l'
 >
 > **Traduction :** « Mais l'épiscopat appartient indubitablement, par l'institution du Christ, très véritablement au sacrement de l'Ordre et constitue le sacerdoce au plus haut degré, à savoir celui que, par l'enseignement des saints Pères et nos coutumes liturgiques, on appelle le *souverain sacerdoce, sommet du ministère sacré*. »
 >
-> — *Apostolicae Curae*, §28
+> — *Apostolicae Curae*, §28 (source : `1896-09-13_apostolicae-curae_bulle.en.md`, l. 63)
 
 Une forme valide de consécration épiscopale doit donc signifier **définitivement** : (i) le souverain sacerdoce / *summum sacerdotium*, (ii) sa grâce propre, (iii) sa puissance spécifique. *Apostolicae Curae* déclare nulles les ordinations anglicanes précisément parce que leur forme, dépouillée des mots qui désignaient le souverain sacerdoce et le sacerdoce sacrificiel, omettait *« ce qu'elle aurait dû essentiellement signifier »* (§27).
 
@@ -112,7 +112,7 @@ Acte dogmatique qui clôt les débats. Pie XII commence par poser le principe no
 >
 > **Traduction :** « Les sept sacrements de la Loi nouvelle ont tous été institués par Notre Seigneur Jésus-Christ, et l'Église n'a aucun pouvoir sur la substance des sacrements. »
 >
-> — *Sacramentum Ordinis*, §1
+> — *Sacramentum Ordinis*, §1 (source : `1947-11-30_sacramentum-ordinis_const.la.md`, l. 13)
 
 Puis vient le critère d'**univocité** — pierre de touche de toute l'analyse subséquente :
 
@@ -120,7 +120,7 @@ Puis vient le critère d'**univocité** — pierre de touche de toute l'analyse 
 >
 > **Traduction :** « Ayant invoqué la lumière divine, par Notre suprême Autorité Apostolique et de science certaine, Nous déclarons et, autant que de besoin, décrétons et statuons : la matière des Saints Ordres du Diaconat, du Presbytérat et de l'Épiscopat est une seule, à savoir l'imposition des mains ; la forme est pareillement une seule, à savoir les paroles déterminant l'application de cette matière, par lesquelles **sont signifiés de manière univoque les effets sacramentels** — c'est-à-dire **le pouvoir d'Ordre et la grâce de l'Esprit-Saint** — et qui sont reçues et employées comme telles par l'Église. »
 >
-> — *Sacramentum Ordinis*, §4
+> — *Sacramentum Ordinis*, §4 (source : `1947-11-30_sacramentum-ordinis_const.la.md`, l. 19)
 
 Le mot *univoce* est le verrou. Pie XII n'exige pas que les effets soient *suggérés*, ni *connotés*, ni présents *dans le contexte rituel d'ensemble* : il exige qu'ils soient signifiés *univoquement* — sans pluralité de sens possibles — par les paroles essentielles elles-mêmes.
 
@@ -130,7 +130,7 @@ Et il définit cette forme essentielle pour l'épiscopat :
 >
 > **Traduction :** « Enfin, dans l'Ordination ou Consécration épiscopale, la matière est l'imposition des mains opérée par l'Évêque consécrateur ; la forme consiste en les paroles de la Préface dont voici celles qui sont essentielles et donc requises pour la validité : *« Achève en Ton prêtre la plénitude de Ton ministère, et, l'ayant orné des insignes de toute glorification, sanctifie-le par la rosée de l'onction céleste. »* »
 >
-> — *Sacramentum Ordinis*, §5
+> — *Sacramentum Ordinis*, §5 (source : `1947-11-30_sacramentum-ordinis_const.la.md`, l. 21)
 
 Cette formule *« Comple in Sacerdote tuo ministerii tui summam »* — qu'on retrouve, intégrale, dans le Pontifical romain de Léon XIII (1895) à la fin de la Préface consécratoire — exprime *univoque* la **plénitude** (*ministerii tui summam*) du sacerdoce conféré, et la grâce de l'Esprit-Saint par l'image de la *« rosée de l'onction céleste »* (*coelestis unguenti rore sanctifica*) — d'où le nom même donné par le CIRS à son étude critique.
 
@@ -142,7 +142,7 @@ Théologie privée d'École romaine, mais d'une autorité reconnue. Billot rappe
 >
 > **Traduction :** « Les sacrements causent en signifiant. »
 >
-> — *Billot, De Sacramentis*, ligne 1305
+> — *Billot, De Sacramentis* (source : `1914_billot_de-ecclesiae-sacramentis_tome2-poenitentia-extrema-unctione-ordine-matrimonio.la.md`, l. 1305)
 
 Et précise que la forme du sacrement de l'ordre doit être **assertive ou impérative**, non purement déprécative :
 
@@ -150,7 +150,7 @@ Et précise que la forme du sacrement de l'ordre doit être **assertive ou impé
 >
 > **Traduction :** « La forme de l'Ordre doit être non pas déprécative mais assertive ou impérative, comme l'exige ce qui se fait alors, à savoir l'investiture du pouvoir. »
 >
-> — *Billot, De Ordine*, lignes 9173-9175
+> — *Billot, De Ordine* (source : `1914_billot_de-ecclesiae-sacramentis_tome2-poenitentia-extrema-unctione-ordine-matrimonio.la.md`, l. 9173)
 
 ## Enseignement de Vatican II et post-Vatican II
 
@@ -160,7 +160,7 @@ Constitution apostolique qui promulgue le rite nouveau. Paul VI cite expresséme
 
 > *« Constitutionem Apostolicam Sacramentum Ordinis (…) qua declaratur Sacrorum Ordinum Diaconatus, Presbyteratus et Episcopatus materiam eamque unam esse manuum impositionem : formam vero itemque unam esse verba applicationem huius materiae determinantia, quibus univoce significantur effectus sacramentales — scilicet potestas Ordinis et gratia Spiritus Sancti — quaeque ab Ecclesia qua talia accipiuntur et usurpantur. »*
 >
-> — *Pontificalis Romani*, citant *Sacramentum Ordinis* §4
+> — *Pontificalis Romani*, citant *Sacramentum Ordinis* §4 (source : `1968-06-18_pontificalis-romani_const-apost.la.md`, l. 30)
 
 Le critère d'univocité est donc **explicitement reconnu par Paul VI lui-même** comme cadre dans lequel il statue. Puis vient la nouvelle forme essentielle :
 
@@ -170,7 +170,7 @@ Le critère d'univocité est donc **explicitement reconnu par Paul VI lui-même*
 >
 > **Traduction :** « Enfin, pour l'Ordination de l'Évêque, la matière est l'imposition des mains qui est faite par les Évêques consécrateurs, ou du moins par le Consécrateur principal, en silence sur la tête de l'Élu avant la prière consécratoire ; la forme consiste dans les paroles de cette même prière consécratoire, dont voici celles qui appartiennent à la nature de la chose et sont par suite requises pour la validité de l'acte : *« Et maintenant répands sur cet Élu cette force qui vient de Toi, l'Esprit qui gouverne, que Tu as donné à Ton Fils bien-aimé Jésus-Christ, qu'Il a Lui-même donné aux saints Apôtres qui ont fondé l'Église en chaque lieu comme Ton sanctuaire, à la gloire et à la louange incessante de Ton nom. »* »
 >
-> — *Pontificalis Romani*, §38
+> — *Pontificalis Romani*, §38 (source : `1968-06-18_pontificalis-romani_const-apost.la.md`, l. 38)
 
 Paul VI invoque comme source historique la *Tradition apostolique* attribuée à Hippolyte de Rome (3ᵉ siècle), dont la prière serait *« en grande partie conservée dans la liturgie de l'ordination des Coptes et des Syriens occidentaux »*.
 
@@ -182,7 +182,7 @@ Les deux éditions typiques du Saint-Siège portent **la même forme essentielle
 >
 > **Traduction :** « Par l'imposition des mains des évêques et la Prière d'ordination, le don du Saint-Esprit est conféré à l'élu pour la charge d'évêque. Or ces paroles appartiennent à la nature même de la chose, et sont à ce titre exigées pour la validité de l'acte : *« Et maintenant répands sur cet élu cette force qui vient de toi, l'Esprit principal… »* »
 >
-> — *Pontificale Romanum, editio typica altera (1990)*
+> — *Pontificale Romanum, editio typica altera (1990)* (source : `1990-pontificale-romanum-altera_pontifical.la.md`, l. 530)
 
 L'altera ne fait que **confirmer** la délimitation déjà opérée par 1968 ; elle ne corrige aucun mot de la forme essentielle.
 
@@ -194,7 +194,7 @@ Document concernant les ordinations sauvages de Mgr Ngô-dinh-Thuc à Palmar de 
 >
 > **Traduction :** « **Quoi qu'il en soit de la validité des ordres**, l'Église ne reconnaît pas leur ordination et ne la reconnaîtra pas. »
 >
-> — *Illegitimas ordinationes*, §17
+> — *Illegitimas ordinationes*, §17 (source : `1976-09-17_illegitimas-ordinationes_document.la.md`, l. 17)
 
 La CDF invoque la juridiction canonique (mandat pontifical, can. 953, 955), non les éléments essentiels du sacrement. Aucune analyse de la matière ou de la forme.
 

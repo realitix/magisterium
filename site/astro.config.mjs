@@ -10,14 +10,19 @@ import {
 } from './src/plugins/rehype-incipit-link.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const INDEX_JSONL = path.join(
-  __dirname,
-  '..',
-  'magisterium',
-  '_metadata',
-  'index.jsonl',
+const MAG_INDEX = path.join(
+  __dirname, '..', 'magisterium', '_metadata', 'index.jsonl',
 );
-const indexRaw = fs.readFileSync(INDEX_JSONL, 'utf8');
+const LIVRES_INDEX = path.join(
+  __dirname, '..', 'livres', '_metadata', 'index.jsonl',
+);
+// Lit les deux index (magistère + livres) — l'auto-linking des incipits
+// fonctionne ainsi pour les ouvrages non magistériels (Billot, Cajetan,
+// Bellarmin, Suárez, Hippolyte, Rore Sanctifica…).
+const indexRaw = [MAG_INDEX, LIVRES_INDEX]
+  .filter((p) => fs.existsSync(p))
+  .map((p) => fs.readFileSync(p, 'utf8'))
+  .join('\n');
 const { bySignature, slugs } = buildIncipitIndex(indexRaw);
 
 export default defineConfig({

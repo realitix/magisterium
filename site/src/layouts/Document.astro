@@ -845,4 +845,26 @@ const pageDescription: string =
       padding-top: var(--space-2xs);
     }
   }
+
+  /* Surlignage temporaire de la ligne ciblée par #lN dans l'URL.
+   * Active quand on arrive depuis une citation de fiche Q/R. L'animation
+   * estompe le surlignage en ~3 s pour ne pas distraire la lecture. */
+  .prose :target {
+    background-color: rgba(255, 220, 100, 0.45);
+    padding: 0.15em 0.3em;
+    margin: -0.15em -0.3em;
+    border-radius: 3px;
+    animation: target-fade 4s ease-out 1s forwards;
+  }
+  @keyframes target-fade {
+    to {
+      background-color: transparent;
+      padding: 0 0;
+      margin: 0 0;
+    }
+  }
+  /* Préviens le tassement contre le header sticky lors du scroll natif. */
+  .prose [id^="l"] {
+    scroll-margin-top: 5rem;
+  }
 </style>

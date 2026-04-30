@@ -23,7 +23,7 @@ const indexRaw = [MAG_INDEX, LIVRES_INDEX]
   .filter((p) => fs.existsSync(p))
   .map((p) => fs.readFileSync(p, 'utf8'))
   .join('\n');
-const { bySignature, slugs } = buildIncipitIndex(indexRaw);
+const { bySignature, slugs, langueOriginaleBySlug } = buildIncipitIndex(indexRaw);
 
 export default defineConfig({
   site: 'https://magisteria.app',
@@ -35,7 +35,7 @@ export default defineConfig({
   integrations: [mdx()],
   markdown: {
     remarkPlugins: [remarkSmartypants],
-    rehypePlugins: [[rehypeIncipitLink, { bySignature, slugs }]],
+    rehypePlugins: [[rehypeIncipitLink, { bySignature, slugs, langueOriginaleBySlug }]],
     shikiConfig: {
       theme: 'github-light',
     },

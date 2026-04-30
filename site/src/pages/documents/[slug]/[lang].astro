@@ -50,7 +50,40 @@ if (loaded.lang !== lang) {
 }
 
 marked.setOptions({ gfm: true, breaks: false });
-const rawHtml: string = await marked.parse(loaded.content);
+
+// Rendu bloc-par-bloc pour pouvoir attacher un id="lN" sur le premier
+// élément HTML produit par chaque token, où N est le numéro de ligne du
+// début du token dans le markdown source. Cela permet aux liens depuis les
+// fiches Q/R (ex. `…la.md, l. 19`) de pointer précisément vers la ligne
+// correspondante avec scroll natif et surlignage `:target`.
+function renderWithLineAnchors(src: string): string {
+  const tokens = marked.lexer(src);
+  let lineCursor = 1;
+  const blocks: string[] = [];
+  for (const token of tokens) {
+    const lineStart = lineCursor;
+    const raw: string = (token as { raw?: string }).raw ?? '';
+    const newlines = (raw.match(/\n/g) ?? []).length;
+    lineCursor += newlines;
+    let html: string;
+    try {
+      html = marked.parser([token]);
+    } catch {
+      continue;
+    }
+    if (html.trim().length === 0) continue;
+    // Injecte id="lN" sur le premier élément ouvrant — uniquement si le
+    // token a produit un élément racine (et qu'il n'a pas déjà d'id).
+    const annotated = html.replace(
+      /^(\s*<([a-z][a-z0-9]*)(?![^>]*\bid=)[^>]*?)(>)/i,
+      (_, openStart, _tag, gt) => `${openStart} id="l${lineStart}"${gt}`,
+    );
+    blocks.push(annotated);
+  }
+  return blocks.join('\n');
+}
+
+const rawHtml: string = renderWithLineAnchors(loaded.content);
 const { html: renderedHtml } = cleanDocumentHtml(rawHtml);
 ---
 

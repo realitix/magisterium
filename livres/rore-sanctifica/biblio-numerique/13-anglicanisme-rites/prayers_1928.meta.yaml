@@ -1,0 +1,35 @@
+incipit: Prayers 1928
+titre_fr: Prayers 1928
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document-de-reference
+date: null
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: fr
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+- ordinations-anglicanes
+themes_doctrinaux:
+- ordinations-anglicanes
+- matiere-forme-intention
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/13-anglicanisme-rites/1928-rite_anglican-autres_textes_du_bcp/Prayers_1928.pdf
+  site: rore-sanctifica.org
+  langue: fr
+  fetch_method: httpx
+traductions:
+  fr:
+    kind: officielle
+    sha256: 25ab5e29e3f02cfb0f416291565689a854237b3742ae0e167387e899215bcd7e
+    source_url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/13-anglicanisme-rites/1928-rite_anglican-autres_textes_du_bcp/Prayers_1928.pdf
+    fetch_method: httpx
+langues_disponibles:
+- fr
+sha256:
+  fr: 25ab5e29e3f02cfb0f416291565689a854237b3742ae0e167387e899215bcd7e

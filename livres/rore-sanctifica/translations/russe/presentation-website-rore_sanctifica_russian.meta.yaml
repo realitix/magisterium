@@ -1,0 +1,32 @@
+incipit: Представление Загрузить в PDF
+titre_fr: Представление Загрузить в PDF
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document
+date: null
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: ru
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/documents-en-russe/presentation-website-RORE_SANCTIFICA_russian.pdf
+  site: rore-sanctifica.org
+  langue: ru
+  fetch_method: httpx
+traductions:
+  ru:
+    kind: ia
+    sha256: 4435204ae13088349fc9644f7272f884f749ab04d79bce05b97c5495a8426736
+    source_url: http://www.rore-sanctifica.org/documents-en-russe/presentation-website-RORE_SANCTIFICA_russian.pdf
+    fetch_method: httpx
+langues_disponibles:
+- ru
+sha256:
+  ru: 4435204ae13088349fc9644f7272f884f749ab04d79bce05b97c5495a8426736

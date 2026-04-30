@@ -1,0 +1,36 @@
+incipit: The Book of Common Prayer - 1662
+titre_fr: The Book of Common Prayer - 1662
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document-de-reference
+date: '1662-01-01'
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: fr
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+- ordinations-anglicanes
+themes_doctrinaux:
+- validite-ordinations
+- rite-episcopal-1968
+- matiere-forme
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/14-anglicanisme-invalidite_des_ordres/1662-book_of_common_prayer/bcp-1662.pdf
+  site: rore-sanctifica.org
+  langue: fr
+  fetch_method: httpx
+traductions:
+  fr:
+    kind: officielle
+    sha256: e057a013f36fcbb96255c1b585897971d6fc11276ae67081162e2de410d0e2d7
+    source_url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/14-anglicanisme-invalidite_des_ordres/1662-book_of_common_prayer/bcp-1662.pdf
+    fetch_method: httpx
+langues_disponibles:
+- fr
+sha256:
+  fr: e057a013f36fcbb96255c1b585897971d6fc11276ae67081162e2de410d0e2d7

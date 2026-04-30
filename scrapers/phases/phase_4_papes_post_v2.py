@@ -173,6 +173,13 @@ EXTRA_SOLEMN: list[tuple[str, str, str, str | None, str, str, list[str]]] = [
         "20251004-dilexi-te", "exhortation-apostolique",
         ["pauvres", "doctrine-sociale"],
     ),
+    (
+        "paul-vi", "1968-06-18", "Pontificalis Romani",
+        "Sur la révision du rite des ordinations du diacre, du prêtre et de l'évêque",
+        "hf_p-vi_apc_19680618_pontificalis-romani", "constitution-apostolique",
+        ["sacrements", "ordre", "matiere-forme", "ordinations",
+         "rite-episcopal", "validite-sacramentelle", "reforme-liturgique"],
+    ),
 ]
 
 
@@ -286,9 +293,15 @@ async def build_refs() -> list[DocRef]:
     probe_list: list[tuple[str, str, str]] = []
     for pope_slug, _d, _i, _t, filename, _s in ENCYCLICALS:
         probe_list.append((pope_slug, "encyclicals", filename))
-    for pope_slug, _d, _i, _t, filename, _typ, _s in EXTRA_SOLEMN:
-        # Leo XIV's Dilexi Te is an apostolic exhortation
-        probe_list.append((pope_slug, "apost_exhortations", filename))
+    # Map doc_type to its vatican.va section subpath
+    section_for = {
+        "exhortation-apostolique": "apost_exhortations",
+        "constitution-apostolique": "apost_constitutions",
+        "motu-proprio": "motu_proprio",
+        "lettre-apostolique": "apost_letters",
+    }
+    for pope_slug, _d, _i, _t, filename, doc_type, _s in EXTRA_SOLEMN:
+        probe_list.append((pope_slug, section_for[doc_type], filename))
 
     probed = await _resolve_all_langs(probe_list)
 
@@ -334,8 +347,9 @@ async def build_refs() -> list[DocRef]:
         pr = probed.get((pope_slug, filename))
         if pr is None:
             lang = "la"
+            section = section_for[doc_type]
             url = (
-                f"{BASE}/{pope_slug}/la/apost_exhortations/documents/"
+                f"{BASE}/{pope_slug}/la/{section}/documents/"
                 f"{filename}.html"
             )
         else:

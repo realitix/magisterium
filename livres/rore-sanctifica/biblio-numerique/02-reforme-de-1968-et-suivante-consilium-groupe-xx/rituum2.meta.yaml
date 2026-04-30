@@ -1,0 +1,34 @@
+incipit: Rituum
+titre_fr: Rituum
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document-de-reference
+date: null
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: fr
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+- consilium
+- reforme-liturgique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/02-reforme_de_1968_et_suivante-consilium-groupe_xx/rites_pour_benoit_16/2005-04-20-intronisation_de_l_eveque_de_rome_(ratzinger)/rituum2.pdf
+  site: rore-sanctifica.org
+  langue: fr
+  fetch_method: httpx
+traductions:
+  fr:
+    kind: officielle
+    sha256: 6bed5beb63ebfb36643a0aac850f41bcd843503bbb106f1301cb42e0ae419057
+    source_url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/02-reforme_de_1968_et_suivante-consilium-groupe_xx/rites_pour_benoit_16/2005-04-20-intronisation_de_l_eveque_de_rome_(ratzinger)/rituum2.pdf
+    fetch_method: httpx
+langues_disponibles:
+- fr
+sha256:
+  fr: 6bed5beb63ebfb36643a0aac850f41bcd843503bbb106f1301cb42e0ae419057

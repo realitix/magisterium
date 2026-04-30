@@ -1,0 +1,35 @@
+incipit: Articles of Religion
+titre_fr: Articles of Religion
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document-de-reference
+date: null
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: fr
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+- ordinations-anglicanes
+themes_doctrinaux:
+- ordinations-anglicanes
+- matiere-forme-intention
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/13-anglicanisme-rites/1928-rite_anglican-autres_textes_du_bcp/Articles_Religion.pdf
+  site: rore-sanctifica.org
+  langue: fr
+  fetch_method: httpx
+traductions:
+  fr:
+    kind: officielle
+    sha256: 2ab139df428d7ee2a2d767419cce55a0a52d7fe539355c042e8d6d258926dea3
+    source_url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/13-anglicanisme-rites/1928-rite_anglican-autres_textes_du_bcp/Articles_Religion.pdf
+    fetch_method: httpx
+langues_disponibles:
+- fr
+sha256:
+  fr: 2ab139df428d7ee2a2d767419cce55a0a52d7fe539355c042e8d6d258926dea3

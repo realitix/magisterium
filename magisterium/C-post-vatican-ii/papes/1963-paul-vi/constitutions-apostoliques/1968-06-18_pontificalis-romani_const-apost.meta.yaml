@@ -1,0 +1,49 @@
+incipit: Pontificalis Romani
+titre_fr: Sur la révision du rite des ordinations du diacre, du prêtre et de l'évêque
+auteur: Paul VI
+periode: post-vatican-ii
+categorie: magistere
+type: constitution-apostolique
+date: '1968-06-18'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: la
+denzinger: []
+sujets:
+- sacrements
+- ordre
+- matiere-forme
+- ordinations
+- rite-episcopal
+- validite-sacramentelle
+- reforme-liturgique
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19680618_pontificalis-romani.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19680618_pontificalis-romani.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: a61d83f482da4fb44f43d1525ef317f887e0a9e76bd7ae23fa62ccd1f47f3823
+    source_url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19680618_pontificalis-romani.html
+    fetched_at: '2026-04-30T13:19:22.715593Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 54edd4a17601ffcaac9843ca66e1c01faa6223355030e500d6f0856285b60720
+    source_url: https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19680618_pontificalis-romani.html
+    fetched_at: '2026-04-30T13:19:24.747937Z'
+    fetch_method: httpx
+langues_disponibles:
+- la
+- it
+sha256:
+  la: a61d83f482da4fb44f43d1525ef317f887e0a9e76bd7ae23fa62ccd1f47f3823
+  it: 54edd4a17601ffcaac9843ca66e1c01faa6223355030e500d6f0856285b60720

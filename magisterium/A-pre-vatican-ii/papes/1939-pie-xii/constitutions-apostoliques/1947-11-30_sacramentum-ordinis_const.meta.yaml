@@ -21,6 +21,10 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://www.vatican.va/content/pius-xii/la/apost_constitutions/documents/hf_p-xii_apc_19471130_sacramentum-ordinis.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
 traductions:
   en:
     kind: originale
@@ -28,7 +32,15 @@ traductions:
     source_url: https://www.papalencyclicals.net/pius12/p12sacrao.htm
     fetched_at: '2026-04-26T13:15:53.256205Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 72fe8cce72a68ff1845ffba63b24ddf94ca81d1d7be50c6c39dcd4e31c303993
+    source_url: https://www.vatican.va/content/pius-xii/la/apost_constitutions/documents/hf_p-xii_apc_19471130_sacramentum-ordinis.html
+    fetched_at: '2026-04-30T13:33:53.352025Z'
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: b66727f626729db0cf90182e8b983bdd61c217e8b10b718737b04ad486363137
+  la: 72fe8cce72a68ff1845ffba63b24ddf94ca81d1d7be50c6c39dcd4e31c303993

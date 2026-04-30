@@ -1,0 +1,36 @@
+incipit: cette page
+titre_fr: cette page
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document-de-reference
+date: null
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: en
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+- ordinations-anglicanes
+themes_doctrinaux:
+- validite-ordinations
+- rite-episcopal-1968
+- matiere-forme
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/14-anglicanisme-invalidite_des_ordres/1875-cardinal_franzelin-votum-invalidite_des_ordres_anglicans/Cardinal_Franzelin-Votum_1875-Integral-traduit-en-francais.pdf
+  site: rore-sanctifica.org
+  langue: en
+  fetch_method: httpx
+traductions:
+  en:
+    kind: officielle
+    sha256: 49182272aa0a3ec487c1918b73c175ec3d9e8b4a65862c2e60c09b91cfb55220
+    source_url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/14-anglicanisme-invalidite_des_ordres/1875-cardinal_franzelin-votum-invalidite_des_ordres_anglicans/Cardinal_Franzelin-Votum_1875-Integral-traduit-en-francais.pdf
+    fetch_method: httpx
+langues_disponibles:
+- en
+sha256:
+  en: 49182272aa0a3ec487c1918b73c175ec3d9e8b4a65862c2e60c09b91cfb55220

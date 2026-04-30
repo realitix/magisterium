@@ -1,0 +1,35 @@
+incipit: Загрузка в PDF (Télécharger en PDF)
+titre_fr: Загрузка в PDF (Télécharger en PDF)
+auteur: CIRS — Comité international Rore Sanctifica
+periode: post-vatican-ii
+type: notitia
+date: '2006-06-01'
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: de
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+themes_doctrinaux:
+- validite-ordinations
+- rite-episcopal-1968
+- matiere-forme
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/documents-en-russe/rs_notitia_3_de_patriarchae_2006_06_rossico.pdf
+  site: rore-sanctifica.org
+  langue: de
+  fetch_method: httpx
+traductions:
+  de:
+    kind: originale
+    sha256: 81397878c86cec3393d55c4d5a89913de864eba5663cc62c30923984813accf3
+    source_url: http://www.rore-sanctifica.org/documents-en-russe/rs_notitia_3_de_patriarchae_2006_06_rossico.pdf
+    fetch_method: httpx
+langues_disponibles:
+- de
+sha256:
+  de: 81397878c86cec3393d55c4d5a89913de864eba5663cc62c30923984813accf3

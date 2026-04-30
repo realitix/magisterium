@@ -1,0 +1,41 @@
+incipit: Pontificale Romanum
+titre_fr: Pontifical romain (édition Léon XIII, 1895) — texte intégral en latin
+auteur: Léon XIII
+periode: pre-vatican-ii
+type: pontifical
+date: '1895-01-01'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: la
+denzinger: []
+sujets:
+- liturgie
+- ordre
+- ordinations
+- rite-episcopal
+- forme-sacramentelle
+- ancien-rite
+themes_doctrinaux:
+- ordination-episcopale
+- ordination-presbyterale
+- ordination-diaconale
+- forme-essentielle-ancienne
+- comple-in-sacerdote-tuo
+references_anterieures: []
+references_posterieures:
+- 1961-04-13_pontificale-romanum_pontifical
+- 1947-11-30_sacramentum-ordinis_const
+sources:
+- url: http://www.documentacatholicaomnia.eu/01p/1895-1895,_SS_Leo_XIII,_Pontificale_Romanum,_LT.pdf
+  site: documentacatholicaomnia.eu
+  langue: la
+  fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: f1391676823f380779d1c001aa375ca6f806e2c47ec8f109bb96e6e216f4432c
+    source_url: http://www.documentacatholicaomnia.eu/01p/1895-1895,_SS_Leo_XIII,_Pontificale_Romanum,_LT.pdf
+    fetch_method: httpx
+langues_disponibles:
+- la
+sha256:
+  la: f1391676823f380779d1c001aa375ca6f806e2c47ec8f109bb96e6e216f4432c

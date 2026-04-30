@@ -1,0 +1,32 @@
+incipit: 'Ordination: A General Bibliography (English)'
+titre_fr: 'Ordination: A General Bibliography (English)'
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document-de-reference
+date: null
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: fr
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/17-bibliographie/1996-bibiographie-ordination_(anglais)/BiblioOrdinationGen.pdf
+  site: rore-sanctifica.org
+  langue: fr
+  fetch_method: httpx
+traductions:
+  fr:
+    kind: officielle
+    sha256: 8fe92356abdd74bc3fe4dea4851f5ba9ae59e174f344c8ae065e65c70d0fd6b4
+    source_url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/17-bibliographie/1996-bibiographie-ordination_(anglais)/BiblioOrdinationGen.pdf
+    fetch_method: httpx
+langues_disponibles:
+- fr
+sha256:
+  fr: 8fe92356abdd74bc3fe4dea4851f5ba9ae59e174f344c8ae065e65c70d0fd6b4

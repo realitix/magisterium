@@ -1,0 +1,35 @@
+incipit: 'N° 1 : Octobre 1895'
+titre_fr: 'N° 1 : Octobre 1895'
+auteur: Divers (collection CIRS)
+periode: post-vatican-ii
+type: document-de-reference
+date: '1895-01-01'
+categorie: livre
+autorite_magisterielle: etude-privee
+langue_originale: fr
+denzinger: []
+sujets:
+- validite-ordinations
+- rite-episcopal-1968
+- pontificalis-romani
+- ordinations-anglicanes
+themes_doctrinaux:
+- ordinations-anglicanes
+- matiere-forme-intention
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/15-anglicanisme-histoire_et_conspiration/1895-1896_Revue-anglo-romaine/1895-10_AssCatho_Reunion-Eglise-Anglicane.pdf
+  site: rore-sanctifica.org
+  langue: fr
+  fetch_method: httpx
+traductions:
+  fr:
+    kind: officielle
+    sha256: 1f967c96994d3466d50254a0d03f174b98733f12bc99fe9af2013b4368220a4b
+    source_url: http://www.rore-sanctifica.org/bibilotheque_rore_sanctifica/15-anglicanisme-histoire_et_conspiration/1895-1896_Revue-anglo-romaine/1895-10_AssCatho_Reunion-Eglise-Anglicane.pdf
+    fetch_method: httpx
+langues_disponibles:
+- fr
+sha256:
+  fr: 1f967c96994d3466d50254a0d03f174b98733f12bc99fe9af2013b4368220a4b

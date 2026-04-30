@@ -4,6 +4,8 @@
  * Affiche la position condensée de chaque grand courant sur la question.
  * Ton : juste, informatif, avec une pointe d'humour tradi assumé.
  */
+import { marked } from 'marked';
+
 interface Voice {
   tagline: string;
   body: string;
@@ -20,6 +22,9 @@ interface Props {
 }
 
 const { voices } = Astro.props;
+
+const renderInline = (s: string | undefined) =>
+  s ? (marked.parseInline(s, { async: false }) as string) : '';
 
 type Entry = {
   key: keyof Props['voices'];
@@ -95,11 +100,13 @@ if (voices.sedevacantiste) {
                 <p class="voice-card__sublabel">{e.sublabel}</p>
               </div>
             </div>
-            <p class="voice-card__tagline">« {e.voice.tagline} »</p>
-            <p class="voice-card__body">{e.voice.body}</p>
+            <p class="voice-card__tagline">
+              «{' '}<span set:html={renderInline(e.voice.tagline)} />{' '}»
+            </p>
+            <p class="voice-card__body" set:html={renderInline(e.voice.body)} />
             {e.voice.punchline && (
               <p class="voice-card__punchline">
-                <small>{e.voice.punchline}</small>
+                <small set:html={renderInline(e.voice.punchline)} />
               </p>
             )}
           </li>

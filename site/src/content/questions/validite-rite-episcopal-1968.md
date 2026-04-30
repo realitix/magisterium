@@ -33,19 +33,19 @@ related_themes:
 posture: "traditionnelle"
 voices:
   conciliaire:
-    tagline: "« Tout est valide, on n'en parle pas. »"
+    tagline: "Tout est valide, on n'en parle pas."
     body: "La prédication post-conciliaire dominante traite la question comme tranchée par la promulgation papale et l'usage universel : Paul VI a parlé *Apostolica auctoritate*, l'Église entière reçoit ces évêques comme évêques, donc le rite est valide. La controverse est renvoyée à un cercle marginal qu'on ne discute pas. La distinction patiemment posée par Sacramentum Ordinis entre *signification univoque* et *signification contextuelle* n'est plus enseignée ; on substitue la *lex orandi* dominicale à l'analyse théologique de la forme. La lettre des textes infaillibles est silencieusement tenue à distance."
     punchline: "*Le débat n'a pas lieu, donc il n'a pas lieu.*"
   ecclesia_dei:
-    tagline: "« Le rite est valide, mais reconnaissons les inquiétudes. »"
+    tagline: "Le rite est valide, mais reconnaissons les inquiétudes."
     body: "FSSP, ICRSP, IBP — communautés réintégrées en 2007/2009 — soutiennent la validité de la nouvelle forme tout en admettant qu'elle est moins explicite que l'ancienne. Argument majeur : le Pontifical d'Hippolyte, les liturgies copte et syrienne ont toujours été reconnus valides par Rome, donc une forme analogue ne peut être déclarée nulle. Position prudente, qui évite de creuser publiquement le critère d'univocité de Pie XII pour ne pas heurter l'évêque diocésain dont le mandat conditionne leur statut."
     punchline: "*Diplomatie liturgique : on tient les deux bouts de la chaîne.*"
   fsspx:
-    tagline: "« Doute sérieux, prudence pastorale. »"
+    tagline: "Doute sérieux, prudence pastorale."
     body: "Mgr Lefebvre n'a jamais déclaré formellement nulle la consécration nouvelle ; mais il a refusé de prendre le risque, sacrant lui-même quatre évêques en 1988 selon le rite ancien. La FSSPX maintient que la forme de 1968 ne satisfait pas à la lettre l'exigence d'univocité de Sacramentum Ordinis et que *Spiritum principalem* est polysémique. Ordination *sub conditione* recommandée pour les clercs venant du nouveau rite. Position : la lettre des textes infaillibles oblige à la prudence."
     punchline: "*« Comple in Sacerdote tuo ministerii tui summam » — c'est la formule romaine, on la garde.*"
   sedevacantiste:
-    tagline: "« La conclusion logique va jusqu'au bout. »"
+    tagline: "La conclusion logique va jusqu'au bout."
     body: "Tient la lettre des textes infaillibles sans concession contextuelle : si Pie XII a défini *suprema Apostolica auctoritate* le critère d'univocité, et si la forme de 1968 ne le satisfait pas, alors les consécrations selon ce rite sont sacramentellement nulles. Les évêques ainsi sacrés ne sont pas évêques, les prêtres qu'ils ordonnent ne sont pas prêtres. Quant au statut du Siège romain qui a promulgué un tel rite, c'est un autre raisonnement, fondé sur les conditions canoniques de la perte d'office par hérésie formelle. Position rigoureuse à fort coût ecclésiologique : cohérence syllogistique, mais succession sacramentelle visible à reconstruire."
     punchline: "*La rigueur de la conclusion vaut le prix de la solitude.*"
 ---

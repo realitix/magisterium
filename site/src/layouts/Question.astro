@@ -195,8 +195,24 @@ if (date) {
     font-family: var(--font-serif);
     font-size: 1.05rem;
     color: var(--ink-soft);
-    line-height: var(--line-height-prose);
-    margin-bottom: var(--space-m);
+    line-height: 1.75;
+    margin: var(--space-m) 0;
+    padding: var(--space-m) var(--space-l);
+    border-left: 3px solid color-mix(in srgb, var(--rubric) 35%, var(--rule));
+    background-color: var(--paper-dim);
+    border-radius: 0 4px 4px 0;
+    position: relative;
+  }
+
+  .q__summary::before {
+    content: "Synthèse";
+    display: block;
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.22em;
+    font-size: 0.7rem;
+    color: var(--muted);
+    margin-bottom: var(--space-xs);
   }
 
   .q__meta {

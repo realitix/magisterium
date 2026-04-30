@@ -3,7 +3,7 @@ title: "Validité et bonté de la nouvelle messe (Novus Ordo Missae, Paul VI 196
 question: "La nouvelle messe (Novus Ordo Missae) promulguée par Paul VI le 3 avril 1969 est-elle valide ? est-elle bonne ? est-elle l'équivalent du rite tridentin fixé par saint Pie V dans Quo Primum (1570) ? La question se pose à trois niveaux qui ne reçoivent pas la même réponse : (1) la NOM dans son editio typica latine — célébration quasiment introuvable en pratique ; (2) la NOM en vernaculaire célébrée selon les rubriques officielles ; (3) la célébration paroissiale ordinaire, telle qu'on la voit dans la grande majorité des paroisses, jusqu'aux meilleures (par exemple les messes solennelles de la Communauté de l'Emmanuel)."
 slug: "validite-bonte-nouvelle-messe"
 date: "2026-04-30"
-summary: "La réponse N'EST PAS la même selon ce dont on parle, et c'est tout l'enjeu de la fiche. Trois niveaux à distinguer rigoureusement. NIVEAU 1 — la NOM dans son editio typica latine, célébrée intégralement selon les rubriques officielles (canon romain, latin, grégorien) : objet juridique de référence du débat doctrinal, mais quasi-introuvable en pratique paroissiale (subsiste dans quelques abbayes bénédictines et chapelles d'ordinariats anglicans). À ce niveau, matière, forme essentielle (pro multis maintenu) et présomption d'intention sont objectivement satisfaites au regard du pré-V2 ; reste néanmoins un grave dubium non démonstratif d'invalidité sur l'intention objectivée par le rite (Apostolicae Curae §30-33, fondé par Ottaviani-Bacci et matériellement reconnu par la révision de l'IGMR en mars 1970 qui a réintroduit dans l'art. 7 « personamque Christi gerente », « sacrificium eucharisticum » et la note 14 renvoyant à Trente sess. XXII DS 1740). NIVEAU 2 — la NOM en français selon les rubriques officielles actuelles (depuis l'Avent 2020 à titre transitoire et le 24 mai 2021 à titre définitif), avec « pour la multitude » restauré suite au décret romain de confirmatio du 1er octobre 2019 (card. Sarah) appliquant la lettre Arinze du 17 octobre 2006 : conditions à peu près satisfaites en latin officiel, le défaut de forme passé étant disciplinairement corrigé. NIVEAU 3 — la célébration paroissiale ordinaire telle qu'elle est vécue le dimanche en France en 2026, jusque dans les meilleures paroisses : objet bien plus problématique. (a) Pour la totalité de la période 1969-2021 (un demi-siècle), la pratique paroissiale française a employé « pour tous » au lieu de « pour la multitude » — défaut de forme objectif au regard du Catéchisme romain II, IV, sect. XXIV (position rigoureuse héritée de saint Alphonse de Liguori dans sa Theologia Moralis ; position modérée chez Cajetan ; correction romaine tardive sans déclaration rétroactive d'invalidité). (b) S'y ajoute, à tous les niveaux et toujours, le grave dubium sur l'intention objectivée par le rite (Ottaviani-Bacci ch. VII, Apostolicae Curae §30-33). (c) S'ajoutent enfin les options pastorales effectives (PE II « célébrable par un protestant » selon le Bref examen, communion dans la main universalisée contre Memoriale Domini, autel versus populum, latin et grégorien quasi-disparus contre SC §36 et §116) qui érodent la suffisance expressive du rite. Aucun de ces doutes ne tranche à lui seul l'invalidité, mais leur cumul fournit un fondement doctrinal solide à l'abstention prudentielle (« in dubio sacramenti, abstine ») et justifie objectivement le recours pratique au rite tridentin. Méthode anti-circulaire adoptée : on n'invoque pas le magistère post-V2 (Summorum Pontificum, Traditionis Custodes) comme autorité validante de la NOM, ces sources étant elles-mêmes issues de l'autorité qui a promulgué la NOM. La grille d'évaluation est extraite des seules sources pré-V2 (Trente sess. VII/XIII/XXII ; Catéchisme romain ; Léon XIII Apostolicae Curae 1896 ; Pie XII Mediator Dei 1947 ; Catéchisme de saint Pie X). La validité de l'ordination du nouveau rite (Pontificalis Romani 1968) — qui touche aussi la chaîne sacramentelle — n'est pas traitée dans cette fiche : c'est un dossier distinct qui mérite sa propre analyse dédiée."
+summary: "La réponse n'est pas la même selon ce dont on parle. Trois niveaux à distinguer. (1) La NOM dans son editio typica latine, rite de référence quasi-introuvable en pratique : techniquement valide au regard des conditions tridentines, mais grevée d'un grave dubium sur l'intention objectivée (Ottaviani-Bacci 1969, matériellement reconnu par la révision de l'IGMR en mars 1970). (2) La NOM en français selon le Missel actuel, depuis le 24 mai 2021 : conditions à peu près satisfaites, le défaut de forme du « pour tous » ayant été corrigé en « pour la multitude ». (3) La pratique paroissiale française réelle 1969-2021 : cumul de doutes sérieux — défaut de forme du « pour tous » contre le Catéchisme romain XXIV, dubium d'intention persistant, options pastorales appauvries (PE II, communion dans la main universalisée contre Memoriale Domini, latin et grégorien quasi-disparus). Aucun de ces doutes ne tranche à lui seul l'invalidité, mais leur cumul fonde objectivement l'abstention prudentielle (« in dubio sacramenti, abstine ») et justifie le recours pratique au rite tridentin. Méthode anti-circulaire : on n'invoque pas le magistère post-V2 (SP, TC) comme autorité validante. La grille est extraite des seules sources pré-V2 (Trente, Catéchisme romain, Apostolicae Curae 1896, Mediator Dei 1947, Catéchisme de saint Pie X). La validité de l'ordination du nouveau rite n'est pas traitée ici."
 tags: ["liturgie", "messe", "novus-ordo", "rite-tridentin", "quo-primum", "trente", "mediator-dei", "sacrosanctum-concilium", "summorum-pontificum", "traditionis-custodes", "ottaviani-bacci", "apostolicae-curae", "pro-multis", "sacrifice-eucharistique", "validite-sacramentelle", "igmr"]
 related_documents:
   - "1545_trente"
@@ -78,19 +78,71 @@ Une lecture honnête doit reconnaître ceci : on ne peut pas valider la NOM par 
 
 Pour le **niveau 3 — la pratique paroissiale réelle —**, la méthode change par nécessité : aucun document magistériel ne décrit ce qui se passe concrètement dans une paroisse ordinaire de Lyon, Toulouse ou Paris en 2026. À ce niveau, la fiche s'autorise à décrire la réception pastorale telle qu'elle est, en prenant pour pierre de touche les exigences textuelles précédemment dégagées des seules sources pré-V2. C'est descriptif, mais c'est explicitement assumé comme tel.
 
-**Trois verdicts par niveau** seront tirés en bout de chaîne logique — et ils ne se confondent pas. Anticipons-les ici pour que le lecteur ne sorte pas avec l'impression d'une réponse globale uniforme :
+**Trois verdicts par niveau** seront tirés en bout de chaîne logique — et ils ne se confondent pas. Anticipons-les ici pour que le lecteur ne sorte pas avec l'impression d'une réponse globale uniforme.
 
-1. **Niveau 1 — l'*editio typica* latine (rite de référence, quasi-introuvable en pratique).** Sa validité sacramentelle est *techniquement préservée* au regard des conditions tridentines, sous réserve que le célébrant soit validement ordonné. La matière (pain de froment, vin de vigne) est intacte ; la forme essentielle (« *Hoc est corpus meum* » et « *Hic est calix sanguinis mei… qui pro vobis et pro multis effundetur* ») est conservée verbatim ; la présomption d'intention par observance (Apostolicae Curae §33) joue. **Reste un *grave dubium* non démonstratif d'invalidité** sur l'intention objectivée par le rite (Apostolicae Curae §30-33, argué par Ottaviani-Bacci et matériellement reconnu par la révision de l'IGMR en mars 1970, qui a réintroduit dans l'art. 7 les termes dogmatiques omis dans l'*editio princeps* de 1969). La **bonté** au sens de la suffisance expressive (Apostolicae Curae §27) est sérieusement contestée — sans démonstration d'invalidité.
+<section class="verdicts">
 
-2. **Niveau 2 — la NOM en français selon les rubriques officielles actuelles** (depuis l'Avent 2020 transitoire / le 24 mai 2021 définitif). À ce niveau, la traduction française a été corrigée : « pour la multitude » a remplacé « pour tous », sur décision romaine de confirmatio du 1er octobre 2019 (card. Sarah), elle-même appliquant la lettre Arinze du 17 octobre 2006. Le défaut de forme objectif vernaculaire est donc disciplinairement levé. La validité de principe est sauve, mais il subsiste le même *grave dubium* d'intention objectivée que pour le niveau 1.
+<article class="verdict verdict--neutral">
 
-3. **Niveau 3 — la célébration paroissiale ordinaire telle qu'elle est célébrée chaque dimanche en France** (jusque dans les meilleures paroisses, par exemple Communauté de l'Emmanuel). Là, le verdict change. **On cumule plusieurs ombres sur la présomption sacramentelle** :
-   - pour la totalité de la période 1969-2021 (un demi-siècle), un **défaut de forme objectif** au regard du Catéchisme romain II, IV, sect. XXIV — la formule « pour tous » que Trente avait expressément récusée ;
-   - le même *grave dubium* d'intention objectivée que pour le niveau 1 ;
-   - les options pastorales effectives (PE II « célébrable par un protestant » selon le *Bref examen*, communion dans la main universalisée contre *Memoriale Domini*, autel *versus populum*, latin et grégorien quasi-disparus contre SC §36 et §116) qui érodent encore la suffisance expressive.
-   Aucun de ces doutes ne tranche à lui seul l'invalidité, mais leur **cumul** fournit un fondement doctrinal solide à l'abstention prudentielle (« *in dubio sacramenti, abstine* ») et justifie objectivement le recours pratique au rite tridentin.
+<header class="verdict__head">
+<span class="verdict__rank">Niveau 1</span>
+<h4 class="verdict__title">L'<em>editio typica</em> latine</h4>
+<p class="verdict__sub">Rite de référence — quasi-introuvable en pratique paroissiale.</p>
+</header>
 
-**À retenir** : tenir une réponse uniforme « la NOM est valide » serait inexact. Le bon niveau de précision, qu'il faudra défendre tout au long de la fiche, est *« la NOM dans son editio typica latine est techniquement valide avec un grave dubium ; la pratique paroissiale française réelle, elle, demeure sous le poids cumulé de plusieurs doutes sérieux »*.
+<p class="verdict__lede"><strong>Validité techniquement préservée</strong> au regard des conditions tridentines, sous réserve d'ordination valide.</p>
+
+<ul class="verdict__list">
+<li><em>matière</em> intacte (pain de froment, vin de vigne)</li>
+<li><em>forme essentielle</em> conservée verbatim (« <em>Hoc est corpus meum</em> » et « <em>Hic est calix sanguinis mei… qui pro vobis et pro multis effundetur</em> »)</li>
+<li><em>présomption d'intention</em> par observance du rite (Apostolicae Curae §33)</li>
+</ul>
+
+<p class="verdict__caveat">Reste un <strong>grave <em>dubium</em> non démonstratif d'invalidité</strong> sur l'intention objectivée (Apostolicae Curae §30-33), argué par Ottaviani-Bacci et matériellement reconnu par la révision de l'IGMR en mars 1970, qui a réintroduit dans l'art. 7 les termes dogmatiques omis dans l'<em>editio princeps</em> de 1969.</p>
+
+</article>
+
+<article class="verdict verdict--gold">
+
+<header class="verdict__head">
+<span class="verdict__rank">Niveau 2</span>
+<h4 class="verdict__title">La NOM en français selon le Missel actuel</h4>
+<p class="verdict__sub">Depuis l'Avent 2020 (transitoire) — définitivement le 24 mai 2021.</p>
+</header>
+
+<p class="verdict__lede">« Pour la multitude » a remplacé « pour tous » — décret romain de <em>confirmatio</em> du 1<sup>er</sup> octobre 2019 (card. Sarah), application de la lettre Arinze du 17 octobre 2006.</p>
+
+<ul class="verdict__list">
+<li>défaut de forme vernaculaire <strong>disciplinairement levé</strong></li>
+<li>validité de principe sauve</li>
+<li>subsiste néanmoins le même <strong>grave <em>dubium</em> d'intention objectivée</strong> que pour le niveau 1</li>
+</ul>
+
+</article>
+
+<article class="verdict verdict--rubric">
+
+<header class="verdict__head">
+<span class="verdict__rank">Niveau 3</span>
+<h4 class="verdict__title">La célébration paroissiale ordinaire</h4>
+<p class="verdict__sub">Chaque dimanche, en France — jusque dans les meilleures paroisses.</p>
+</header>
+
+<p class="verdict__lede">Là, le verdict change : <strong>cumul de plusieurs ombres</strong> sur la présomption sacramentelle.</p>
+
+<ul class="verdict__list">
+<li><strong>1969–2021</strong> (un demi-siècle) : <strong>défaut de forme objectif</strong> — la formule « pour tous » que Trente avait expressément récusée (Cat. romain II, IV, sect. XXIV)</li>
+<li>même <strong>grave <em>dubium</em> d'intention objectivée</strong> que pour le niveau 1</li>
+<li><strong>options pastorales effectives</strong> qui érodent encore la suffisance expressive : PE II « célébrable par un protestant » selon le <em>Bref examen</em> ; communion dans la main universalisée contre <em>Memoriale Domini</em> ; autel <em>versus populum</em> ; latin et grégorien quasi-disparus contre SC §36 et §116</li>
+</ul>
+
+<p class="verdict__caveat">Aucun de ces doutes ne tranche à lui seul l'invalidité — leur <strong>cumul</strong> fonde l'abstention prudentielle (« <em>in dubio sacramenti, abstine</em> ») et justifie objectivement le recours pratique au rite tridentin.</p>
+
+</article>
+
+</section>
+
+> **À retenir.** Tenir une réponse uniforme « la NOM est valide » serait inexact. Le bon niveau de précision est : *« la NOM dans son editio typica latine est techniquement valide avec un grave dubium ; la pratique paroissiale française réelle, elle, demeure sous le poids cumulé de plusieurs doutes sérieux »*.
 
 > **Périmètre de la fiche.** La question de la validité du sacrement de l'**ordre** dans le nouveau Pontifical de 1968 — qui touche elle aussi la chaîne sacramentelle, puisque l'eucharistie requiert un prêtre validement ordonné — n'est pas traitée ici. C'est un sujet distinct qui demande son propre dossier et ses propres sources (en particulier le texte de *Pontificalis Romani* 1968 et son examen contre Pie XII *Sacramentum Ordinis* 1947). La présente fiche **présuppose** la validité de l'ordination du célébrant et examine uniquement la validité du rite eucharistique lui-même.
 

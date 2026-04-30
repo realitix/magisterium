@@ -275,3 +275,98 @@
 .prose-latin p + p {
   margin-top: var(--space-s);
 }
+
+/* =========================================================================
+   .verdicts — cartes de verdict par niveau (fiches Q/R)
+   Trois cartes hiérarchisées par couleur : neutre / doré / rubric.
+   ========================================================================= */
+.prose .verdicts {
+  display: grid;
+  gap: var(--space-m);
+  margin: var(--space-l) 0;
+}
+
+.prose .verdict {
+  padding: var(--space-m) var(--space-l);
+  border-left: 4px solid var(--rule);
+  background-color: var(--paper-dim);
+  border-radius: 0 4px 4px 0;
+  position: relative;
+}
+
+.prose .verdict--neutral {
+  border-left-color: color-mix(in srgb, var(--ink-soft) 35%, var(--rule));
+}
+
+.prose .verdict--gold {
+  border-left-color: var(--gold);
+  background-color: color-mix(in srgb, var(--gold) 5%, var(--paper-dim));
+}
+
+.prose .verdict--rubric {
+  border-left-color: var(--rubric);
+  background-color: color-mix(in srgb, var(--rubric) 5%, var(--paper-dim));
+}
+
+.prose .verdict__head {
+  margin: 0 0 var(--space-s);
+  padding-bottom: var(--space-xs);
+  border-bottom: 1px solid var(--rule);
+}
+
+.prose .verdict__rank {
+  display: inline-block;
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.22em;
+  color: var(--muted);
+  margin-bottom: var(--space-3xs);
+}
+
+.prose .verdict--gold .verdict__rank { color: var(--gold); }
+.prose .verdict--rubric .verdict__rank { color: var(--rubric); }
+
+.prose .verdict__title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+}
+
+.prose .verdict__sub {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: var(--space-3xs) 0 0;
+}
+
+.prose .verdict__lede {
+  font-size: 1.02rem;
+  color: var(--ink);
+  margin: var(--space-s) 0 0;
+}
+
+.prose .verdict__list {
+  margin: var(--space-s) 0 0;
+  padding-left: var(--space-m);
+}
+
+.prose .verdict__list li {
+  margin-bottom: var(--space-2xs);
+}
+
+.prose .verdict__list li:last-child {
+  margin-bottom: 0;
+}
+
+.prose .verdict__caveat {
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  border-top: 1px dashed var(--rule);
+  padding-top: var(--space-s);
+  margin: var(--space-s) 0 0;
+}

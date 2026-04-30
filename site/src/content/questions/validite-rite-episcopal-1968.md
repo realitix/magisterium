@@ -66,13 +66,17 @@ Cas pastoral concret : un fidèle apprend que son curé a été ordonné par un 
 
 Dogme défini, magistère solennel infaillible. Trois canons capitaux pour notre question :
 
-> *« Si quelqu'un dit que, par l'ordination sacrée, l'Esprit Saint n'est pas donné… ou qu'un caractère n'est pas imprimé par cette ordination… qu'il soit anathème. »*
+> *« Si quis dixerit, per sacram ordinationem non dari Spiritum sanctum, ac proinde frustra episcopos dicere : Accipe Spiritum sanctum ; aut per eam non imprimi characterem ; vel eum, qui sacerdos semel fuit, laicum rursus fieri posse : anathema sit. »*
 >
-> — *Concile de Trente, sess. 23, canon IV* (source : `1545_trente_sess-23-de-sacramento-ordinis.en.md`, l. 49)
+> **Traduction :** « Si quelqu'un dit que, par l'ordination sacrée, l'Esprit Saint n'est pas donné, et que c'est donc en vain que les évêques disent : "Reçois l'Esprit Saint" ; ou qu'un caractère n'est pas imprimé par cette ordination ; ou que celui qui a une fois été prêtre peut redevenir laïc : qu'il soit anathème. »
+>
+> — *Concile de Trente, sess. 23, canon IV* (source : `1545_trente_sess-23-de-sacramento-ordinis.la.md`, l. 148)
 
-> *« Si quelqu'un dit que les évêques ne sont pas supérieurs aux prêtres ; ou qu'ils n'ont pas le pouvoir de confirmer et d'ordonner ; ou que le pouvoir qu'ils possèdent leur est commun avec les prêtres… qu'il soit anathème. »*
+> *« Si quis dixerit, episcopos non esse presbyteris superiores ; vel non habere potestatem confirmandi et ordinandi ; vel eam, quam habent, illis esse cum presbyteris communem (…) anathema sit. »*
 >
-> — *Concile de Trente, sess. 23, canon VII* (source : `1545_trente_sess-23-de-sacramento-ordinis.en.md`, l. 55)
+> **Traduction :** « Si quelqu'un dit que les évêques ne sont pas supérieurs aux prêtres ; ou qu'ils n'ont pas le pouvoir de confirmer et d'ordonner ; ou que celui qu'ils possèdent leur est commun avec les prêtres (…) qu'il soit anathème. »
+>
+> — *Concile de Trente, sess. 23, canon VII* (source : `1545_trente_sess-23-de-sacramento-ordinis.la.md`, l. 162)
 
 Conséquence pour la validité d'une consécration épiscopale : la forme rituelle doit conférer **un pouvoir** (potestas) qui est **propre à l'évêque** et **distinct** de celui du simple prêtre. Toute forme qui n'opère pas cette distinction, même implicitement, manque à la *res* du sacrement.
 

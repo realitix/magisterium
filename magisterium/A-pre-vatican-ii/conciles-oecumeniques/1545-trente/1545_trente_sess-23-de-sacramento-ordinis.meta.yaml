@@ -19,14 +19,27 @@ sources:
   site: www.papalencyclicals.net
   langue: en
   fetch_method: httpx
+- url: https://archive.org/details/canonesetdecreta00coun_0
+  site: archive.org
+  langue: la
+  fetch_method: httpx
+  note: Sessio XXIII extraite du djvu OCR de l'édition critique Canones et decreta
+    (Internet Archive)
 traductions:
   en:
-    kind: originale
+    kind: officielle
     sha256: 3e32b7036dbbf650899d34beabeb7930b4927b9e79ecd8968612a39c947105d8
     source_url: https://www.papalencyclicals.net/councils/trent/twenty-third-session.htm
     fetched_at: '2026-04-25T20:44:50.221440Z'
     fetch_method: httpx
+  la:
+    kind: originale
+    sha256: 5a029d495db110e896c27d4fc66cfed4970754761f33cb045318907b30241fb0
+    source_url: https://archive.org/details/canonesetdecreta00coun_0
+    fetch_method: httpx
 langues_disponibles:
 - en
+- la
 sha256:
   en: 3e32b7036dbbf650899d34beabeb7930b4927b9e79ecd8968612a39c947105d8
+  la: 5a029d495db110e896c27d4fc66cfed4970754761f33cb045318907b30241fb0

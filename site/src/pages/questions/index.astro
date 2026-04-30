@@ -1,6 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import { marked } from 'marked';
+
+const renderInline = (s: string | undefined) =>
+  s ? (marked.parseInline(s, { async: false }) as string) : '';
 
 const entries = await getCollection('questions');
 
@@ -55,7 +59,7 @@ function formatDate(iso?: string): string | null {
                   <a href={`/questions/${slug}/`}>{d.title}</a>
                 </h2>
                 <p class="qcard__question">{d.question}</p>
-                {d.summary && <p class="qcard__summary">{d.summary}</p>}
+                {d.summary && <p class="qcard__summary" set:html={renderInline(d.summary)} />}
                 <div class="qcard__meta">
                   {dateDisplay && (
                     <time class="qcard__date" datetime={d.date}>{dateDisplay}</time>

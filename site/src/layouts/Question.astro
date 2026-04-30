@@ -7,6 +7,10 @@ import ReadingProgress from '../components/ReadingProgress.astro';
 import BackToTop from '../components/BackToTop.astro';
 import DocumentsGrid from '../components/DocumentsGrid.astro';
 import { getThemeBySlug } from '../data/loadThemes.js';
+import { marked } from 'marked';
+
+const renderInline = (s: string | undefined) =>
+  s ? (marked.parseInline(s, { async: false }) as string) : '';
 
 interface Voice {
   tagline: string;
@@ -88,7 +92,7 @@ if (date) {
       <p class="q__eyebrow">Question</p>
       <h1 class="q__title" data-pagefind-meta="title" data-pagefind-weight="10.0">{title}</h1>
       <p class="q__question" data-pagefind-weight="5.0">{question}</p>
-      {summary && <p class="q__summary" data-pagefind-weight="3.0">{summary}</p>}
+      {summary && <p class="q__summary" data-pagefind-weight="3.0" set:html={renderInline(summary)} />}
 
       <div class="q__meta">
         {dateDisplay && (

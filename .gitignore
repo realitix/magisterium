@@ -14,9 +14,8 @@ build/
 _raw_html/
 magisterium/_metadata/errors.log
 magisterium/_metadata/phase-state.json
-# Binary PDFs: not versioned (source URL is in the sibling .meta.yaml so they
-# can be re-fetched via `just resume` ou via la phase de scraping idempotente
-# correspondante). Prevents >100 MB files breaking git remotes and keeps the
-# repo text-focused.
-magisterium/**/*.pdf
-livres/**/*.pdf
+# PDFs : versionnés depuis le pipeline OCR. Les scans bruts sont passés sous
+# tesseract via ocrmypdf (couche texte invisible ajoutée), les PDFs > 100 MB
+# remplacés par leurs équivalents texte natif (cf. missel romain 1962 — version
+# CMAA/MusicaSacra). Source URL conservée dans chaque sidecar pour permettre
+# une re-récupération idempotente.

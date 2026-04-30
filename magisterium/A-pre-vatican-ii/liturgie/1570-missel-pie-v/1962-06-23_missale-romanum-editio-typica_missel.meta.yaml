@@ -13,17 +13,17 @@ themes_doctrinaux: []
 references_anterieures: []
 references_posterieures: []
 sources:
-- url: https://archive.org/download/missale-romanum-1962/Missale%20Romanum%201962.pdf
+- url: https://archive.org/download/missale-romanum-1962-cmaa-musica-sacra.com-missale-62/Missale_Romanum_1962-CMAA-MusicaSacra.com-(missale62).pdf
   site: archive.org
   langue: la
   fetch_method: httpx
 traductions:
   la:
     kind: originale
-    sha256: 07e7bde10d882e046a485bf2d0867bdbc4ab36a8705b9c4405cf568b7953aa83
-    source_url: https://archive.org/download/missale-romanum-1962/Missale%20Romanum%201962.pdf
+    sha256: 648fdb8fe830ed65a08aa4a95de6f94424c533ddf2398c8fc26b18735fd3518a
+    source_url: https://archive.org/download/missale-romanum-1962-cmaa-musica-sacra.com-missale-62/Missale_Romanum_1962-CMAA-MusicaSacra.com-(missale62).pdf
     fetch_method: httpx
 langues_disponibles:
 - la
 sha256:
-  la: 07e7bde10d882e046a485bf2d0867bdbc4ab36a8705b9c4405cf568b7953aa83
+  la: 648fdb8fe830ed65a08aa4a95de6f94424c533ddf2398c8fc26b18735fd3518a

@@ -1,8 +1,31 @@
-# 25/03/1966 - Lettre de Louvain - Dom Bernard Botte
+                                                                 Louvain,             25-5-1966
 
-*Document collecté par le Comité International Rore Sanctifica (CIRS).*
 
-**PDF source** : `07_kleinheyerlettre25marsl66dombotteconsilium.fr.pdf`
 
-*Texte natif non extractible automatiquement (scan OCR cassé ou typographie complexe).*
-*Consulter le PDF ci-joint pour le contenu intégral.*
+
+Üher bonsieur               le    vecrétaire,
+
+
+
+Vous      üvez       déjà    reçu sans            doute     l'exemplaire du schéma
+
+sur le         sacre    épiscopal             avec des          notes marsinales.                      Pour
+la   prêtrise          et    le    diaconat          je    n'ui          aucune       remarque          à
+faire      .
+
+Je   ne    crois       pas       indispensable             de    donner          les       formules
+
+pour la réunion des                     periti,       I1    suffira que                   nous    ayons
+nous-mêmes            les    textes         sur     lesquels             nous    sommes          d'accord,
+pour      pouvoir       en donner             une    idée       si       on    nous       interroge;
+
+mais      il    ne    faut       pas    les    soumettre             à    l'approbation @es
+periti,
+
+Quant      aux       souhaits          Ad   multos        annos,              pour ma purt             je
+préfère qu'on les                  supnrime,          et    je ne crois pus                      que
+personne         proteste,
+
+Croyez         bien,    cher       Monsieur          le    Professeur,                à   mes     senti-
+ments      tout       dévoués          in 4°,
+

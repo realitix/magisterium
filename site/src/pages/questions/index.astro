@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Tampon from '../../components/Tampon.astro';
 import { marked } from 'marked';
 
 const renderInline = (s: string | undefined) =>
@@ -55,6 +56,11 @@ function formatDate(iso?: string): string | null {
           return (
             <li class="ql__item">
               <article class="qcard">
+                {d.tampon && (
+                  <div class="qcard__tampon">
+                    <Tampon variant={d.tampon} />
+                  </div>
+                )}
                 <h2 class="qcard__title">
                   <a href={`/questions/${slug}/`}>{d.title}</a>
                 </h2>
@@ -145,10 +151,34 @@ function formatDate(iso?: string): string | null {
   }
 
   .qcard {
+    position: relative;
     padding: var(--space-l);
     border: 1px solid var(--rule);
     background-color: var(--paper);
     transition: border-color 150ms ease, background-color 150ms ease;
+  }
+
+  .qcard__tampon {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  /* Sur mobile, on laisse de la place au titre : on pousse le titre sous
+     le tampon en réservant une marge à droite seulement quand il est petit. */
+  @media (max-width: 520px) {
+    .qcard__tampon {
+      top: 0.5rem;
+      right: 0.5rem;
+      transform: scale(0.85);
+      transform-origin: top right;
+    }
+
+    .qcard__title {
+      padding-right: 7rem;
+    }
   }
 
   .qcard:hover {

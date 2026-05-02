@@ -5,6 +5,7 @@
  */
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import Tampon from '../components/Tampon.astro';
 import { loadAllDocuments } from '../data/loadDocuments.ts';
 import { loadAllThemes } from '../data/loadThemes.ts';
 
@@ -89,6 +90,11 @@ const questionCount = questions.length;
     {/* Question à la une */}
     {featured && (
       <section class="featured" aria-labelledby="featured-title">
+        {featured.data.tampon && (
+          <div class="featured__tampon">
+            <Tampon variant={featured.data.tampon} />
+          </div>
+        )}
         <header class="featured__header">
           <p class="featured__eyebrow">Question à la une</p>
           <h2 id="featured-title" class="featured__title">
@@ -280,12 +286,34 @@ const questionCount = questions.length;
 
   /* Question à la une */
   .featured {
+    position: relative;
     border: 1px solid var(--rule);
     border-left: 3px solid var(--rubric);
     background-color: var(--paper);
     padding: var(--space-l);
     margin-bottom: var(--space-2xl);
     transition: border-color 150ms ease, background-color 150ms ease;
+  }
+
+  .featured__tampon {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  @media (max-width: 520px) {
+    .featured__tampon {
+      top: 0.5rem;
+      right: 0.5rem;
+      transform: scale(0.85);
+      transform-origin: top right;
+    }
+
+    .featured__title {
+      padding-right: 7rem;
+    }
   }
 
   .featured:hover {

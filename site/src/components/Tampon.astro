@@ -1,0 +1,211 @@
+---
+type Variant =
+  | 'casus_gravissimus'
+  | 'quaestio_disputata'
+  | 'de_fide_definita'
+  | 'traditio_constans'
+  | 'disciplina'
+  | 'ad_mentem_pii_x';
+
+interface Props {
+  variant: Variant;
+}
+
+interface VariantSpec {
+  label: string;
+  subtitle: string;
+  ink: 'red' | 'blue' | 'black';
+  rotate: number;
+  symbol?: string;
+}
+
+const SPECS: Record<Variant, VariantSpec> = {
+  casus_gravissimus: {
+    label: 'CASUS GRAVISSIMUS',
+    subtitle: 'Sujet brûlant',
+    ink: 'red',
+    rotate: -9,
+    symbol: '☣',
+  },
+  quaestio_disputata: {
+    label: 'QUÆSTIO DISPUTATA',
+    subtitle: 'Sujet débattu',
+    ink: 'red',
+    rotate: -6,
+  },
+  de_fide_definita: {
+    label: 'DE FIDE DEFINITA',
+    subtitle: 'Dogme défini',
+    ink: 'blue',
+    rotate: -4,
+    symbol: '†',
+  },
+  traditio_constans: {
+    label: 'TRADITIO CONSTANS',
+    subtitle: 'Tradition constante',
+    ink: 'blue',
+    rotate: -7,
+  },
+  disciplina: {
+    label: 'DISCIPLINA',
+    subtitle: 'Question canonique',
+    ink: 'black',
+    rotate: -5,
+  },
+  ad_mentem_pii_x: {
+    label: 'AD MENTEM S. PII X',
+    subtitle: 'Contre le modernisme',
+    ink: 'black',
+    rotate: -8,
+  },
+};
+
+const { variant } = Astro.props;
+const spec = SPECS[variant];
+
+// Identifiant unique du filtre par variant — pas par instance, pour éviter
+// la duplication si plusieurs tampons coexistent dans la page.
+const filterId = `tampon-rough-${variant}`;
+---
+
+<div
+  class={`tampon tampon--${spec.ink}`}
+  style={`--tampon-rot: ${spec.rotate}deg`}
+  role="img"
+  aria-label={`${spec.label} — ${spec.subtitle}`}
+>
+  <svg class="tampon__defs" aria-hidden="true" focusable="false">
+    <defs>
+      <filter id={filterId} x="-10%" y="-10%" width="120%" height="120%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" />
+        <feDisplacementMap in="SourceGraphic" scale="1.6" />
+      </filter>
+    </defs>
+  </svg>
+
+  <div class="tampon__ink" style={`filter: url(#${filterId})`}>
+    <div class="tampon__frame">
+      {spec.symbol && <span class="tampon__symbol" aria-hidden="true">{spec.symbol}</span>}
+      <span class="tampon__label">{spec.label}</span>
+      <span class="tampon__subtitle">{spec.subtitle}</span>
+    </div>
+  </div>
+</div>
+
+<style>
+  .tampon {
+    /* Couleurs par défaut : noir d'encre */
+    --tampon-color: #1a1614;
+    --tampon-shadow: rgba(26, 22, 20, 0.18);
+
+    display: inline-block;
+    transform: rotate(var(--tampon-rot, -8deg));
+    transform-origin: center;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  .tampon--red {
+    --tampon-color: #8b1a1a;
+    --tampon-shadow: rgba(139, 26, 26, 0.18);
+  }
+
+  .tampon--blue {
+    --tampon-color: #1b3a6b;
+    --tampon-shadow: rgba(27, 58, 107, 0.18);
+  }
+
+  .tampon--black {
+    --tampon-color: #2a2420;
+    --tampon-shadow: rgba(42, 36, 32, 0.18);
+  }
+
+  /* Conteneur réservé au <svg> de définition du filtre — pas de rendu visible */
+  .tampon__defs {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .tampon__ink {
+    /* Le filtre SVG est appliqué ici pour produire l'effet "encre tamponnée" */
+    color: var(--tampon-color);
+    /* Légère ombre portée — comme l'encre qui a marqué le papier en dessous */
+    filter: drop-shadow(0 1px 0 var(--tampon-shadow));
+  }
+
+  .tampon__frame {
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.15em;
+    padding: 0.45em 1.1em 0.4em;
+    border: 2px solid currentColor;
+    /* Double filet : on fake un second bord avec un box-shadow inset */
+    box-shadow: inset 0 0 0 1px var(--paper, #faf7f2),
+                inset 0 0 0 4px currentColor;
+    border-radius: 3px;
+    /* Aplats irréguliers : opacité < 1 pour simuler l'encre qui n'a pas pris partout */
+    opacity: 0.88;
+  }
+
+  .tampon__symbol {
+    font-family: var(--font-display, serif);
+    font-size: 1.05em;
+    line-height: 1;
+    margin-bottom: 0.1em;
+    letter-spacing: 0.15em;
+    /* Optique : recentre légèrement le symbole */
+    transform: translateY(0.05em);
+  }
+
+  .tampon__label {
+    font-family: var(--font-display, 'Cormorant Garamond', serif);
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.12em;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  .tampon__subtitle {
+    font-family: var(--font-display, serif);
+    font-style: italic;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    line-height: 1;
+    /* Petit filet horizontal au-dessus du subtitle, à la manière d'un tampon
+       officiel qui sépare la mention principale de la mention secondaire. */
+    padding-top: 0.35em;
+    margin-top: 0.15em;
+    border-top: 1px solid currentColor;
+    width: 100%;
+    text-align: center;
+    opacity: 0.92;
+  }
+
+  /* Mode sombre : on éclaircit légèrement les encres pour rester lisible
+     sans perdre le caractère "tampon". */
+  :global(:root[data-theme='dark']) .tampon--red,
+  :global(:root.dark) .tampon--red {
+    --tampon-color: #d97a7a;
+  }
+  :global(:root[data-theme='dark']) .tampon--blue,
+  :global(:root.dark) .tampon--blue {
+    --tampon-color: #7aa3d9;
+  }
+  :global(:root[data-theme='dark']) .tampon--black,
+  :global(:root.dark) .tampon--black {
+    --tampon-color: #d8cfbe;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tampon {
+      /* On garde la rotation visuelle (statique), pas d'animation à désactiver. */
+    }
+  }
+</style>

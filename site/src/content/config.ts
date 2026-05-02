@@ -17,6 +17,16 @@ const questions = defineCollection({
     related_documents: z.array(z.string()).default([]),
     related_themes: z.array(z.string()).default([]),
     posture: z.enum(['traditionnelle', 'neutre', 'pastorale']).default('traditionnelle'),
+    tampon: z
+      .enum([
+        'casus_gravissimus',
+        'quaestio_disputata',
+        'de_fide_definita',
+        'traditio_constans',
+        'disciplina',
+        'ad_mentem_pii_x',
+      ])
+      .optional(),
     voices: z
       .object({
         conciliaire: voiceSchema.optional(),

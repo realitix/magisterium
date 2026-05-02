@@ -3,6 +3,7 @@ title: "La consécration épiscopale dans le rite de Paul VI (1968) est-elle sac
 question: "La forme essentielle nouvelle promulguée par Paul VI le 18 juin 1968 dans Pontificalis Romani — « Et nunc effunde super hunc Electum eam virtutem, quae a te est, Spiritum principalem… » — satisfait-elle aux critères infailliblement définis par Pie XII dans Sacramentum Ordinis (1947), à savoir l'expression univoque du pouvoir d'ordre épiscopal et de la grâce de l'Esprit-Saint ?"
 slug: "validite-rite-episcopal-1968"
 date: "2026-04-30"
+tampon: "casus_gravissimus"
 summary: "Pie XII a défini infailliblement en 1947, *suprema Apostolica auctoritate*, que la forme essentielle d'une consécration épiscopale doit signifier *univoque* le pouvoir d'ordre et la grâce de l'Esprit-Saint. La forme nouvelle de Paul VI (1968) ne contient explicitement ni *Episcopus*, ni *summum sacerdotium*, ni *Spiritus Sanctus*, et son expression-clé *Spiritum principalem* est polysémique (sens moral dans le Psaume 50, usage abbatial non-sacramentel chez les Coptes). Par syllogisme strict sur la lettre des textes infaillibles, la nouvelle forme ne satisfait pas le critère d'univocité ; les consécrations conférées selon ce rite sont, à la stricte lettre, sacramentellement invalides."
 tags:
   - ordinations

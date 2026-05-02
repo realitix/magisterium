@@ -2,6 +2,7 @@
 import type { MarkdownHeading } from 'astro';
 import Base from './Base.astro';
 import FourVoices from '../components/FourVoices.astro';
+import Tampon from '../components/Tampon.astro';
 import ToC from '../components/ToC.astro';
 import ReadingProgress from '../components/ReadingProgress.astro';
 import BackToTop from '../components/BackToTop.astro';
@@ -28,6 +29,13 @@ interface Props {
   related_documents?: string[];
   related_themes?: string[];
   posture?: 'traditionnelle' | 'neutre' | 'pastorale';
+  tampon?:
+    | 'casus_gravissimus'
+    | 'quaestio_disputata'
+    | 'de_fide_definita'
+    | 'traditio_constans'
+    | 'disciplina'
+    | 'ad_mentem_pii_x';
   voices?: {
     conciliaire?: Voice;
     ecclesia_dei?: Voice;
@@ -46,6 +54,7 @@ const {
   related_documents = [],
   related_themes = [],
   posture = 'traditionnelle',
+  tampon,
   voices,
   headings = [],
 } = Astro.props;
@@ -89,6 +98,11 @@ if (date) {
 
   <main class="q" id="main" data-pagefind-body>
     <header class="q__header">
+      {tampon && (
+        <div class="q__tampon">
+          <Tampon variant={tampon} />
+        </div>
+      )}
       <p class="q__eyebrow">Question</p>
       <h1 class="q__title" data-pagefind-meta="title" data-pagefind-weight="10.0">{title}</h1>
       <p class="q__question" data-pagefind-weight="5.0">{question}</p>
@@ -162,10 +176,30 @@ if (date) {
   }
 
   .q__header {
+    position: relative;
     max-width: var(--measure);
     margin: 0 auto var(--space-xl);
     padding-bottom: var(--space-l);
     border-bottom: 1px solid var(--rule);
+  }
+
+  .q__tampon {
+    position: absolute;
+    top: -0.5rem;
+    right: -0.5rem;
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  /* Sur mobile, on ramène le tampon dans le flux pour ne pas qu'il déborde
+     ou n'écrase le titre quand l'espace est étroit. */
+  @media (max-width: 640px) {
+    .q__tampon {
+      position: static;
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: var(--space-xs);
+    }
   }
 
   .q__eyebrow {

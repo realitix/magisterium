@@ -162,8 +162,17 @@ function formatDate(iso?: string): string | null {
     position: absolute;
     top: 0.75rem;
     right: 0.75rem;
-    z-index: 2;
+    z-index: 3;
     pointer-events: none;
+  }
+
+  /* Au hover de la carte, le tampon disparaît rapidement pour libérer le
+     titre. À la sortie, retour avec overshoot — effet "slam de tampon". */
+  .qcard:hover .qcard__tampon {
+    --tampon-opacity: 0;
+    --tampon-scale: 1.25;
+    --tampon-duration: 160ms;
+    --tampon-easing: ease-out;
   }
 
   /* Sur mobile, on laisse de la place au titre : on pousse le titre sous

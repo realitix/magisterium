@@ -98,12 +98,34 @@ const filterId = `tampon-rough-${variant}`;
     --tampon-color: #1a1614;
     --tampon-shadow: rgba(26, 22, 20, 0.18);
 
+    /* NB : on n'assigne PAS --tampon-scale / --tampon-opacity / --tampon-duration
+       / --tampon-easing ici, sinon la valeur locale gagnerait sur l'héritage
+       et le parent ne pourrait plus piloter l'état au :hover. On utilise
+       var(..., défaut) pour fournir la valeur par défaut, ce qui laisse les
+       wrappers libres de surcharger via la cascade. */
+
     display: inline-block;
-    transform: rotate(var(--tampon-rot, -8deg));
+    transform:
+      rotate(var(--tampon-rot, -8deg))
+      scale(var(--tampon-scale, 1));
     transform-origin: center;
+    opacity: var(--tampon-opacity, 1);
     pointer-events: none;
     user-select: none;
     -webkit-user-select: none;
+    transition:
+      transform
+        var(--tampon-duration, 420ms)
+        var(--tampon-easing, cubic-bezier(0.18, 0.89, 0.32, 1.28)),
+      opacity
+        var(--tampon-duration, 420ms)
+        var(--tampon-easing, cubic-bezier(0.18, 0.89, 0.32, 1.28));
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tampon {
+      transition: none !important;
+    }
   }
 
   .tampon--red {
@@ -203,9 +225,4 @@ const filterId = `tampon-rough-${variant}`;
     --tampon-color: #d8cfbe;
   }
 
-  @media (prefers-reduced-motion: reduce) {
-    .tampon {
-      /* On garde la rotation visuelle (statique), pas d'animation à désactiver. */
-    }
-  }
 </style>

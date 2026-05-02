@@ -187,8 +187,18 @@ if (date) {
     position: absolute;
     top: -0.5rem;
     right: -0.5rem;
-    z-index: 2;
+    z-index: 3;
     pointer-events: none;
+  }
+
+  /* Au hover du header (lecture du titre / question), le tampon se retire :
+     fade rapide. À la sortie de hover, retour avec un easing bouncy → effet
+     "slam de tampon". Les variables se cascadent dans <Tampon>. */
+  .q__header:hover .q__tampon {
+    --tampon-opacity: 0;
+    --tampon-scale: 1.25;
+    --tampon-duration: 160ms;
+    --tampon-easing: ease-out;
   }
 
   /* Sur mobile, on ramène le tampon dans le flux pour ne pas qu'il déborde

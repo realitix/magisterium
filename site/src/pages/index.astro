@@ -299,8 +299,17 @@ const questionCount = questions.length;
     position: absolute;
     top: 0.75rem;
     right: 0.75rem;
-    z-index: 2;
+    z-index: 3;
     pointer-events: none;
+  }
+
+  /* Hover du bloc featured → le tampon se retire (fade rapide), retour bouncy
+     à la sortie de hover. Variables cascadées dans <Tampon>. */
+  .featured:hover .featured__tampon {
+    --tampon-opacity: 0;
+    --tampon-scale: 1.25;
+    --tampon-duration: 160ms;
+    --tampon-easing: ease-out;
   }
 
   @media (max-width: 520px) {

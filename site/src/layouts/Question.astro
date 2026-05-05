@@ -4,6 +4,7 @@ import Base from './Base.astro';
 import FourVoices from '../components/FourVoices.astro';
 import Tampon from '../components/Tampon.astro';
 import ToC from '../components/ToC.astro';
+import CulDeLampe from '../components/CulDeLampe.astro';
 import ReadingProgress from '../components/ReadingProgress.astro';
 import BackToTop from '../components/BackToTop.astro';
 import DocumentsGrid from '../components/DocumentsGrid.astro';
@@ -126,6 +127,7 @@ if (date) {
     <div class="q__layout">
       <article class="prose q__body">
         <slot />
+        <CulDeLampe />
         {voices && <FourVoices voices={voices} />}
       </article>
 

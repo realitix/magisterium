@@ -61,6 +61,12 @@ const GITHUB_URL: string = 'https://github.com/realitix/magisterium';
       © {year} MagisterIA. Textes magistériels dans le domaine public ou
       reproduits selon leurs conditions originales.
     </small>
+    <small class="site-footer__credit">
+      Fleurons :
+      <a href="https://www.iginomarini.com/" rel="noopener" target="_blank">
+        IM Fell Types digitally reproduced by Igino Marini
+      </a>.
+    </small>
   </div>
 </footer>
 
@@ -159,5 +165,25 @@ const GITHUB_URL: string = 'https://github.com/realitix/magisterium';
     border-top: 1px solid var(--rule);
     color: var(--muted);
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3xs);
+  }
+
+  .site-footer__credit {
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+
+  .site-footer__credit a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--muted) 40%, transparent);
+  }
+
+  .site-footer__credit a:hover,
+  .site-footer__credit a:focus-visible {
+    color: var(--rubric);
+    text-decoration-color: var(--rubric);
   }
 </style>

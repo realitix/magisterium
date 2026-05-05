@@ -150,12 +150,17 @@ const filtered = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
           return;
         }
       }
-      // Sinon : fallback, prend la section dont le top est juste au-dessus du viewport
+      // Sinon : fallback, prend la dernière section dont le top est passé.
+      // Seuil dynamique aligné sur la marge top de la zone IO (30% du viewport)
+      // pour que les H2/H3 qui viennent juste de sortir par le haut qualifient
+      // encore — sinon on retombe à tort sur la section précédente quand le
+      // titre actuel est entre 80 px et la zone IO (gap mort ~80-160 px).
+      const threshold = window.innerHeight * 0.3;
       let best: string | null = null;
       let bestTop = -Infinity;
       for (const t of targets) {
         const top = t.getBoundingClientRect().top;
-        if (top < 80 && top > bestTop) {
+        if (top < threshold && top > bestTop) {
           bestTop = top;
           best = t.id;
         }

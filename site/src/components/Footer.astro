@@ -13,7 +13,7 @@ const GITHUB_URL: string = 'https://github.com/realitix/magisterium';
 <footer class="site-footer" role="contentinfo">
   <div class="site-footer__inner">
     <div class="site-footer__intro">
-      <p class="site-footer__brand">Magister<span class="site-footer__brand-ai">IA</span></p>
+      <img class="site-footer__logo" src="/logo.png" alt="MagisterIA" width="180" height="98" />
       <p class="site-footer__note">
         MagisterIA rassemble les sources primaires du magistère catholique et
         propose des fiches doctrinales selon la lecture traditionnelle de
@@ -88,17 +88,11 @@ const GITHUB_URL: string = 'https://github.com/realitix/magisterium';
     }
   }
 
-  .site-footer__brand {
-    font-family: var(--font-display);
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: var(--ink);
+  .site-footer__logo {
+    width: auto;
+    height: 88px;
+    display: block;
     margin-bottom: var(--space-s);
-  }
-
-  .site-footer__brand-ai {
-    color: var(--rubric);
-    font-weight: 700;
   }
 
   .site-footer__note {

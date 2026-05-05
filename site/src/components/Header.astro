@@ -14,7 +14,7 @@ function isActive(prefix: string): boolean {
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-header__brand" href="/" aria-label="MagisterIA — accueil">
-      <span class="site-header__brand-mark">Magister<span class="site-header__brand-ai">IA</span></span>
+      <img src="/logo.png" alt="MagisterIA" width="200" height="109" />
     </a>
 
     <input
@@ -114,31 +114,26 @@ function isActive(prefix: string): boolean {
   }
 
   .site-header__brand {
-    font-family: var(--font-display);
-    font-size: 1.4rem;
-    font-weight: 600;
-    letter-spacing: -0.01em;
-    color: var(--ink);
+    display: inline-flex;
+    align-items: center;
+    line-height: 0;
     text-decoration: none;
-    line-height: 1;
+    transition: opacity 120ms ease;
   }
 
   .site-header__brand:hover,
   .site-header__brand:focus-visible {
-    color: var(--rubric);
+    opacity: 0.85;
   }
 
-  .site-header__brand-mark {
-    display: inline-block;
+  .site-header__brand img {
+    height: 56px;
+    width: auto;
+    display: block;
   }
 
-  /* Jeu de mot visuel : le suffixe "IA" est mis en valeur par la couleur
-     rubrique. Lecture : « Magister » (latin, maître) + « IA »
-     (intelligence artificielle). */
-  .site-header__brand-ai {
-    color: var(--rubric);
-    font-weight: 700;
-    letter-spacing: 0.02em;
+  @media (max-width: 640px) {
+    .site-header__brand img { height: 44px; }
   }
 
   /* Navigation principale */

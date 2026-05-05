@@ -62,6 +62,12 @@ def _build_one(corpus_root: Path, default_categorie: str) -> tuple[int, list[str
             errors.append(f"{meta_path}: not a dict")
             continue
 
+        # Documents marqués `private: true` (rares — ex. textes hors domaine
+        # public conservés au dépôt pour analyse mais non publiés) sont exclus
+        # de l'index et donc invisibles au site et à Pagefind.
+        if data.get("private") is True:
+            continue
+
         rel = meta_path.relative_to(corpus_root).as_posix()
         slug = meta_path.name.removesuffix(".meta.yaml")
 

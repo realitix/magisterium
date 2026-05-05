@@ -46,8 +46,8 @@ voices:
     body: "Mgr Lefebvre n'a jamais déclaré formellement nulle la consécration nouvelle ; mais il a refusé de prendre le risque, sacrant lui-même quatre évêques en 1988 selon le rite ancien. La FSSPX maintient que la forme de 1968 ne satisfait pas à la lettre l'exigence d'univocité de Sacramentum Ordinis et que *Spiritum principalem* est polysémique. Ordination *sub conditione* recommandée pour les clercs venant du nouveau rite. Position : la lettre des textes infaillibles oblige à la prudence."
     punchline: "*« Comple in Sacerdote tuo ministerii tui summam » — c'est la formule romaine, on la garde.*"
   sedevacantiste:
-    tagline: "La conclusion logique va jusqu'au bout."
-    body: "Tient la lettre des textes infaillibles sans concession contextuelle : si Pie XII a défini *suprema Apostolica auctoritate* le critère d'univocité, et si la forme de 1968 ne le satisfait pas, alors les consécrations selon ce rite sont sacramentellement nulles. Les évêques ainsi sacrés ne sont pas évêques, les prêtres qu'ils ordonnent ne sont pas prêtres. Quant au statut du Siège romain qui a promulgué un tel rite, c'est un autre raisonnement, fondé sur les conditions canoniques de la perte d'office par hérésie formelle. Position rigoureuse à fort coût ecclésiologique : cohérence syllogistique, mais succession sacramentelle visible à reconstruire."
+    tagline: "La conclusion logique va jusqu'au bout — non sans dissidences internes."
+    body: "Tient la lettre des textes infaillibles sans concession contextuelle : si Pie XII a défini *suprema Apostolica auctoritate* le critère d'univocité, et si la forme de 1968 ne le satisfait pas, alors les consécrations selon ce rite sont sacramentellement nulles. Les évêques ainsi sacrés ne sont pas évêques, les prêtres qu'ils ordonnent ne sont pas prêtres. Quant au statut du Siège romain qui a promulgué un tel rite, c'est un autre raisonnement, fondé sur les conditions canoniques de la perte d'office par hérésie formelle. Position rigoureuse à fort coût ecclésiologique : cohérence syllogistique, mais succession sacramentelle visible à reconstruire. **La mouvance n'est pas monolithique** : certains prêtres tradi indépendants en non-communion avec Rome (« non una cum ») défendent la validité du nouveau rite, à rebours des sédévacantistes classiques (Cekada, Sanborn) ; cette position interne est examinée dans le corps de la fiche."
     punchline: "*La rigueur de la conclusion vaut le prix de la solitude.*"
 ---
 
@@ -232,6 +232,91 @@ La forme nouvelle prétend reprendre la prière consécratoire de la *Tradition 
 ### Tension n°5 — *Ecclesiae nulla competat potestas in substantiam Sacramentorum*
 
 Le verrou ultime. Pie XII (§1) rappelle, avec Trente sess. VII can. 1, que l'Église **n'a aucun pouvoir** sur la substance des sacrements. Si Pie XII a défini en 1947 — *suprema Apostolica Auctoritate, decernimus et constituimus* — que la forme essentielle de la consécration épiscopale est *« Comple in Sacerdote tuo ministerii tui summam… »*, la question logique est nette : ou bien la nouvelle forme de 1968 est **substantiellement équivalente** à l'ancienne (à démontrer par la lettre — ce qui se heurte aux tensions 1 à 4), ou bien Paul VI a tenté de modifier ce que Pie XII avait précisément déclaré relever de la *substantia sacramenti*, c'est-à-dire ce sur quoi *« l'Église n'a aucun pouvoir »*.
+
+## Examen critique d'un plaidoyer pour la validité
+
+Le plaidoyer le plus structuré pour la **validité** du rite de 1968 émane d'un prêtre traditionaliste, ermite à Charritte-de-Bas, ancien membre de la FSSPX (1992-2013), célébrant *non una cum* — c'est-à-dire sans nommer le pape François au canon de la messe (abbé Olivier Rioult, *Mémoire en faveur de la validité du nouveau rite de la consécration épiscopale promulgué en 1968 par Paul VI*, 2023). Sa position publique sur le statut des papes post-Vatican II est résumée par sa propre formule (entretien Pelagius, 6 octobre 2013) : « *Pour moi c'est de l'ordre de l'opinion. Je ne sais pas ce qu'il est réellement ce François. Ce dont je suis certain, c'est que je ne suis pas en communion avec lui.* » Cette posture — qualifiée d'« opinioniste » par les sédévacantistes stricts (Cekada, Sanborn) qui lui reprochent de ne pas conclure — se distingue à la fois du sédévacantisme strict et de la thèse Cassiciacum (Guérard des Lauriers). Il tient pour « tenables et catholiques », *dans la situation inédite* que vit l'Église selon lui, à la fois la position lefebvriste et la position sédévacantiste. La position est doctrinalement atypique : un prêtre en non-communion publique avec Rome qui défend néanmoins, contre la majorité de sa mouvance, la validité du rite épiscopal promulgué par celle-ci.
+
+L'examen est utile : un plaidoyer construit, citant abondamment Pie XII, *Apostolicae Curae*, le *Dictionnaire de Théologie Catholique* (article *Ordre* d'A. Michel), Pourrat, d'Alès. Si ses arguments tenaient, la fiche tomberait. Confrontation point par point.
+
+### Réponse à la tension n°1 — *Episcopus* implicite ?
+
+**Plaidoyer** : *« Et nunc effunde super hunc Electum eam virtutem… Spiritum principalem, quem dedisti dilecto Filio Tuo Iesu Christo, quem Ipse donavit sanctis Apostolis »* — recevoir « *l'Esprit donné aux Apôtres* » signifierait, par implicite, devenir *successeur des Apôtres*, donc évêque. L'auteur invoque l'enseignement d'Innocent IV († 1254) selon lequel, en l'absence de prescription positive, il aurait suffi de dire *« Sois prêtre, ou autres paroles équivalentes »* pour le presbytérat ; il transpose cet argument à l'épiscopat.
+
+**Pesée logique** : l'inférence « *Esprit donné aux Apôtres* → *successeur des Apôtres* → *évêque* » insère un terme moyen non porté par le verbatim. Le texte demande l'**Esprit qui** fut donné aux Apôtres ; il ne demande pas le **pouvoir d'en être les successeurs**. Et l'enseignement même d'Innocent IV cité par le plaidoyer se retourne contre lui : il précise que *« dans les temps qui ont suivi, l'Église a imposé des formes qu'il fallait observer. Et ces mêmes formes seront de toute nécessité »* — ce qui est, mot pour mot, l'argument pianien de 1947.
+
+**Verdict** : la tension reçoit une réponse défendable mais non concluante. La fiche conserve l'avantage.
+
+### Réponse à la tension n°2 — *Spiritus Sanctus* par métonymie ?
+
+**Plaidoyer** : *Spiritum principalem* renvoierait à l'Esprit-Saint par **métonymie** — soit comme don créé désignant la cause incréée, soit, dans la version latine, directement comme troisième Personne.
+
+**Pesée logique** : l'auteur **énonce lui-même comme fait acquis** que le sens originel chez Hippolyte « *ne désignait pas la troisième personne de la Trinité, mais un don créé* ». Il cite longuement le P. Lécuyer (artisan du rite) — qu'il défend contre les attaques de Rore Sanctifica — et la citation reproduite confirme que *spiritus principalis* chez Hippolyte ne peut recevoir le « sens personnel » du Saint-Esprit. La prémisse de la tension n°2 est donc **validée par le plaidoyer lui-même**, même si l'auteur la transfigure ensuite par sa théorie de la métonymie. Reste l'argument de récupération par métonymie. Or la métonymie est, par définition, un **transfert** de signification : équivoque sur le plan lexical, univoque seulement par convention culturelle externe. Pie XII exige l'univocité **des paroles** (*verba…quibus univoce significantur*), pas l'univocité par convention. L'asymétrie diaconat/épiscopat dans la même promulgation (le diaconat conserve *Spiritum Sanctum* explicitement) reste sans explication.
+
+**Verdict** : la tension est **renforcée** par les concessions internes du plaidoyer.
+
+### Réponse à la tension n°3 — l'argument *Lucifer* ?
+
+**Plaidoyer** : la polysémie hors-contexte ne vaut pas dans-contexte. *« De même que* Lucifer*, l'astre du matin désigne de façon univoque le Christ (et non pas Vénus ni Satan), de même le* spiritus principalis *dans son contexte… ne possède pas une douzaine de sens possibles, mais un seul »*.
+
+**Pesée logique** : l'analogie est asymétrique. *Lucifer* dans l'*Exsultet* a une tradition liturgique millénaire qui fixe son sens christologique par usage. *Spiritum principalem* dans la **forme essentielle latine de l'épiscopat** est une **innovation de 1968** : le contexte censé fixer le sens est précisément ce qui est contesté. Surtout, le **contre-exemple copte est dévastateur** : le *même* contexte rituel (consécration ecclésiastique avec imposition des mains et prière épiclétique) avec *πνεῦμα ἡγεμονικόν* ne désigne **pas l'épiscopat** chez les Coptes — il bénit un Hégoumen (Père Abbé), bénédiction non sacramentelle. Donc le contexte rituel ne fixe **pas** univoquement le sens. Le plaidoyer ne traite jamais ce contre-exemple. À cela s'ajoute, dans le dossier critique du rite (Rore Sanctifica), l'aveu de Bugnini sur la difficulté à comprendre et à traduire *Spiritus principalis* en langues vernaculaires — aveu qui n'est pas discuté par le plaidoyer, et qui constitue en lui-même un aveu d'équivocité au sens technique de Pie XII.
+
+**Verdict** : argument *Lucifer* rhétoriquement habile, logiquement faible. La fiche conserve l'avantage.
+
+### Réponse à la tension n°4 — Hippolyte « semblable à quelques différences près » ?
+
+**Plaidoyer** : la formule de Paul VI est, selon le plaidoyer, *« à quelques différences près, semblable »* à celle d'Hippolyte. L'argument historique s'appuie en partie sur Dom Botte, qui a reconstitué la *Tradition Apostolique* d'Hippolyte et invoque « *un fait de tradition* » pour justifier l'emprunt aux liturgies orientales.
+
+**Pesée logique** : le plaidoyer **ne traite pas** la critique de troncature. Il constate la similitude *paragraphe par paragraphe* sans interroger pourquoi le contenu typiquement épiscopal d'Hippolyte (*primatum sacerdotii*, *potestatem dimittere peccata*, *solvere omnem collegationem secundum potestatem quam dedisti apostolis*) est passé **hors** de la portion isolée comme essentielle par Paul VI. L'auteur cite même Kröger : *« ce qui est […] encore récité comme prière(s), n'a, du moins fondamentalement, pas d'influence sur la validité ou l'invalidité du sacre »* — phrase qui **confirme** que la forme essentielle a été coupée du contenu typiquement épiscopal qu'Hippolyte y joignait. L'argument *ex traditione* via Dom Botte est en outre **circulaire** : Botte est précisément l'artisan de la « Tradition apostolique d'Hippolyte » dont s'inspire le rite de 1968 — juge et partie. L'auteur lui-même reconnaît ailleurs que l'attribution à Hippolyte est *« erronée »*.
+
+**Verdict** : la tension est **non réfutée**, partiellement validée par les citations du plaidoyer.
+
+### Réponse à la tension n°5 — l'argument d'amplitude ?
+
+**Plaidoyer** : Pie XII reconnaîtrait lui-même, dans *Sacramentum Ordinis*, que l'Église peut *« changer et abroger »* ce qu'elle a établi. D'Alès et A. Michel (*DTC*) parlent d'une *« amplitude »* du pouvoir ecclésiastique sur les déterminations *in ultima specie* : *« il appartient à l'Église, gardienne des sacrements, d'en fixer officiellement les bornes, et ces bornes ne sont pas nécessairement partout et toujours les mêmes »*. Donc Paul VI pouvait modifier la forme spécifiée par Pie XII.
+
+**Pesée logique** : trois objections décisives.
+
+1. **Sélection citationnelle** : le plaidoyer cite *Sacramentum Ordinis* à plusieurs reprises mais **jamais le §1** — *« septem Novæ Legis Sacramenta sint omnia a Iesu Christo Domino Nostro instituta et Ecclesiæ nulla competat potestas in substantiam Sacramentorum »*. C'est précisément le verset qui constitue le verrou de la tension n°5. Cette omission, répétée tout au long du livre, n'est pas accidentelle.
+
+2. **Saut sur la portée du passage cité** : le passage de *Sacramentum Ordinis* effectivement cité (*« quod statuit etiam mutare et abrogare valere »*) concerne explicitement la *traditio instrumentorum* — un rite qui avait été *« ex Ecclesiæ voluntate et præscripto »* **ajouté** par l'Église, et que Pie XII abroge. La forme essentielle elle-même, Pie XII la définit *suprema Apostolica auctoritate, decernimus et constituimus* : elle n'est pas posée comme un ajout abrogeable. Le plaidoyer généralise indûment du disciplinaire (la *traditio*) au substantiel (la forme verbale univoque).
+
+3. **Tension structurelle entre non-communion et indéfectibilité** : le plaidoyer invoque l'**indéfectibilité de l'Église** (« un rite légitimement promulgué par l'Église ne peut être invalide ») comme argument décisif pour la validité. Mais l'auteur lui-même refuse publiquement la communion liturgique avec les papes post-V2 et célèbre *non una cum*. Le dilemme est :
+   - *si* Paul VI promulguait avec l'indéfectibilité de l'Église, l'auteur devrait être en communion avec lui (et ses successeurs catholiques) — ce qu'il refuse explicitement ;
+   - *si* l'auteur a raison de refuser cette communion, alors Paul VI n'agissait pas pleinement comme pape légitime de l'Église catholique au sens où l'indéfectibilité s'attacherait à ses actes — et l'argument d'indéfectibilité ne peut être invoqué pour valider sa promulgation rituelle.
+
+   La position « le statut du pape relève de l'opinion, mais le rite qu'il promulgue bénéficie de l'indéfectibilité » suppose une dissociation problématique entre l'autorité doctrinale-juridictionnelle (qui serait douteuse) et l'autorité liturgico-sacramentaire (qui resterait garantie) — dissociation que ni Trente, ni *Sacramentum Ordinis*, ni la théologie de l'indéfectibilité classique ne reconnaissent.
+
+**Verdict** : la tension est **éludée par sélection citationnelle** et la position du plaidoyer est **logiquement auto-contradictoire**.
+
+### Faiblesses structurelles du plaidoyer
+
+Trois faiblesses transversales :
+
+1. **Translation du critère d'univocité** du plan lexical (« *univoce significantur* » — paroles signifiant univoquement) vers un plan contextuel-rhétorique (les paroles dans leur contexte rituel signifient l'épiscopat). Pie XII parle des *paroles déterminant l'application de la matière* ; le plaidoyer parle de la *signification globale du rite*. La translation de plan n'est jamais justifiée.
+
+2. **Asymétrie d'évaluation** entre l'Ordinal anglican (lu en contexte hostile : Cranmer protestant ⇒ rite suspect) et *Pontificalis Romani* (lu en contexte bénin : Bugnini œcuménique ⇒ recontextualisé), alors que Léon XIII pose un critère uniforme (le *« dessein manifeste »* lu *dans* le rite et ses circonstances). Le plaidoyer reconnaît même que la réforme *« sort de l'hérésie et aboutit à l'hérésie »* (Lefebvre cité) — c'est exactement le grief léonin contre les anglicans.
+
+3. **Argument circulaire via Dom Botte** : utiliser Botte (artisan du rite de 1968) pour valider le rite de 1968 est juge et partie. Le plaidoyer reconnaît par ailleurs les difficultés textuelles de la « *Tradition apostolique* » qu'il fait pourtant porter à son argumentaire.
+
+### Ce que le plaidoyer marque légitimement
+
+Honnêteté impose de reconnaître ce que le plaidoyer **gagne** :
+
+- **Décret d'Eugène IV (1439) *Pro Armenis*** : le plaidoyer rapporte la thèse du cardinal van Rossum (reprise dans le *DTC*) selon laquelle ce décret n'est **pas** une définition *ex cathedra* infaillible — position majoritaire des théologiens depuis 1900 (A. Michel, d'Alès). Ce point ne concerne pas la fiche, qui ne s'appuie pas centralement sur ce décret.
+- **Distinction implicite/équivoque** : un sens *implicite* peut être univoque ; il ne faut donc pas conclure de l'absence du mot *Episcopus* à l'invalidité par simple littéralisme. La présente fiche ne le fait pas — elle s'appuie sur l'**équivocité positive** de *Spiritum principalem* (cas copte abbatial), pas sur l'absence de mots-clés isolément.
+- **Faiblesse d'arguments invalidistes secondaires** : décompte de mots Préface copte/maronite vs Paul VI ; charge gnostique contre les réformateurs ; lectures hyper-polémiques de certaines pièces du dossier Rore Sanctifica. Ces critiques sont justes et la présente fiche les écarte également (cf. *« Pourquoi Rore Sanctifica n'est pas l'autorité de la réponse »*).
+
+### Bilan de l'examen
+
+Sur les **cinq tensions**, le plaidoyer pour la validité :
+- **0** est réfutée frontalement ;
+- **1** (tension 1) reçoit une réponse partielle défendable ;
+- **4** sont éludées, esquivées, contournées, ou auto-réfutées par les concessions internes du plaidoyer.
+
+Le plaidoyer **n'apporte pas la réfutation qu'il prétend apporter**. Il ouvre un espace argumentaire où une modification de la forme par l'Église est concevable, sans démontrer que celle de Paul VI s'y inscrit. Et sa pratique de non-communion liturgique avec les papes post-V2, en distançant l'autorité du promulgateur, fragilise l'argument d'indéfectibilité sur lequel sa conclusion repose.
+
+Conclusion logique : la fiche **résiste à la confrontation**.
 
 ## Réponse dogmatique
 

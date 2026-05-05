@@ -307,6 +307,53 @@ Honnêteté impose de reconnaître ce que l'abbé Rioult **gagne** :
 - **Distinction implicite/équivoque** : un sens *implicite* peut être univoque ; il ne faut donc pas conclure de l'absence du mot *Episcopus* à l'invalidité par simple littéralisme. La présente fiche ne le fait pas — elle s'appuie sur l'**équivocité positive** de *Spiritum principalem* (cas copte abbatial), pas sur l'absence de mots-clés isolément.
 - **Faiblesse d'arguments invalidistes secondaires** : décompte de mots Préface copte/maronite vs Paul VI ; charge gnostique contre les réformateurs ; lectures hyper-polémiques de certaines pièces du dossier Rore Sanctifica. Ces critiques sont justes et la présente fiche les écarte également (cf. [*« Pourquoi Rore Sanctifica n'est pas l'autorité de la réponse »*](#pourquoi-rore-sanctifica-nest-pas-lautorité-de-la-réponse)).
 
+### Autres axes du plaidoyer
+
+L'abbé Rioult développe son argumentation sur plusieurs axes complémentaires des cinq précédemment examinés. Pour la complétude éditoriale et le respect dû à un travail substantiel, voici l'inventaire des autres lignes argumentatives, avec pour chacune une pesée brève. Aucune ne fait basculer le verdict des cinq tensions ; trois d'entre elles renforcent même la position de la fiche par les concessions internes qu'elles comportent.
+
+#### Sur la théologie sacramentaire générale
+
+- **Le Christ n'a pas fixé la forme de l'Ordre.** Thèse-prémisse de l'abbé Rioult : à la différence de l'Eucharistie où le Christ a posé les paroles consécratoires, pour l'Ordre la forme a été laissée à l'Église. *Pesée* : doctrinalement vrai, mais cela ne supplante pas l'acte du 30 novembre 1947 où Pie XII a fixé cette forme *suprema Apostolica auctoritate*. La 5ᵉ tension demeure intacte.
+- **Opinion Morin sur le pouvoir constitutif de l'Église** : *« si le Christ a laissé à son Église le soin de déterminer la matière et la forme, il lui a donné par là même le pouvoir de les modifier »*. *Pesée* : valable pour les éléments que l'Église a *elle-même ajoutés* — typiquement la *traditio instrumentorum* abrogée par Pie XII en 1947. Elle bute sur *Sacramentum Ordinis* §1 (que l'abbé Rioult ne cite pas) : *« Ecclesiae nulla competat potestas in substantiam Sacramentorum »*.
+- **Forme = sens, pas mots** : ce qu'a déterminé le Christ, c'est le sens à conférer, non les paroles précises. *Pesée* : argument herméneutique sérieux. Mais il déplace la question sans la résoudre — *Spiritum principalem* exprime-t-il univoquement le sens « plénitude du sacerdoce épiscopal + grâce de l'Esprit-Saint » ? Le contre-exemple copte abbatial montre que non.
+- **Critique de la méthode hylémorphiste scolastique** comme source de l'invalidisme : la scolastique pousserait à raisonner *a priori* en négligeant l'histoire liturgique. *Pesée* : critique méthodologique légitime, mais elle ne neutralise pas un acte magistériel solennel de 1947.
+- **Variations historiques entre Grecs et Latins** : matières et formes ont varié (déprécatoire/assertive, *Signo te / Signaculum doni*, etc.). *Pesée* : *Sacramentum Ordinis* §3 reconnaît précisément ces variations dans les rites historiques (« *sufficienter significati* »), mais §4 fixe pour l'avenir l'exigence d'univocité — c'est exactement la distinction descriptif/constitutif déjà discutée à la tension n°5.
+- **Suffisance générique de la forme** (DTC 1931) : le minimum requis serait la mention générique de l'ordre conféré. *Pesée* : DTC 1931 est antérieur à *Sacramentum Ordinis* 1947 ; Pie XII affine la doctrine en exigeant l'univocité.
+- **Argument *a fortiori* tridentin** : *« la formule de Pie XII est plus implicite que celle de Paul VI »*. *Pesée* : factuellement faux. La formule pré-1968 contient *Sacerdote tuo* (le sujet : le prêtre/évêque) et *summam ministerii tui* (la *plénitude* — terme technique de l'épiscopat). Elle n'est pas plus implicite, elle est lexicalement précise.
+
+#### Sur l'intention (Léon XIII / *Apostolicae Curae*)
+
+- **Doctrine de l'intention objective présumée** (DTC 1931, Pesch) : l'intention requise se présume du seul fait de l'emploi sérieux de la matière et de la forme rituelles, sans qu'il faille scruter la conscience du ministre. *Pesée* : doctrine classique exacte, mais Léon XIII l'a précisément utilisée *contre* les anglicans en lisant l'intention dans le rite lui-même (retrait des mots du sacerdoce sacrificiel). Symétriquement appliquée, elle peut être retournée contre le rite de 1968 (retrait d'*Episcopus*, *summum sacerdotium*).
+- **Recontextualisation de la phrase de Bugnini** : la formule *« dépouiller nos prières catholiques de tout ce qui pourrait représenter l'ombre d'une pierre d'achoppement pour nos frères séparés »* concerne, dans son contexte original, les oraisons du Vendredi saint 1965, non la consécration épiscopale. *Pesée* : recontextualisation littérale exacte. Mais elle reste une indication de la méthode du *Consilium*, et Rore Sanctifica l'utilise comme symptôme et non comme preuve directe.
+- ***« Favorise sans être »*** : la réforme *« favorise indirectement »* l'hérésie sans *être* elle-même hérétique — donc doctrinalement critiquable mais sacramentellement valide. *Pesée* : **concession importante** de l'abbé Rioult. Léon XIII dans *Apostolicae Curae* ne demande pas que le rite soit *hérétique* pour le déclarer nul ; il demande qu'il *signifie objectivement autre chose* que le sacerdoce catholique. Une réforme qui « favorise l'hérésie » par retrait du vocabulaire protecteur tombe précisément sous cette grille — concession qui **renforce** la fiche.
+
+#### Sur la défense du P. Lécuyer
+
+- **L'abbé Rioult démontre que Rore Sanctifica déforme Lécuyer** en n'extrayant que six paragraphes de deux articles totalisant quarante pages. *Pesée* : démonstration recevable sur la forme (RS est polémique). Mais elle concerne la **personne** de Lécuyer et l'orthodoxie de sa christologie, non la **lettre du rite** — elle n'affecte donc pas le périmètre formel de la fiche.
+- **Onction sacerdotale du Verbe dès le Fiat marial** : l'abbé Rioult cite Lécuyer affirmant que *« le Fils de Dieu est devenu prêtre au moment même de l'Incarnation »*. *Pesée* : doctrine christologique défendable. Mais en citant *intégralement* Lécuyer pour le défendre, l'abbé Rioult **valide involontairement** la prémisse de la tension n°2 — Lécuyer dit lui-même que *spiritus principalis* chez Hippolyte « *ne désigne pas* la 3ᵉ Personne ».
+
+#### Sur la lecture des doctrines officielles post-Vatican II
+
+- **Continuité substantielle du *Catéchisme de l'Église catholique*** (1992) sur l'Ordre. *Pesée* : argument doctrinal recevable, sans incidence directe sur la lettre du rite essentiel.
+- **Lecture de *Lumen Gentium* 21-22** : difficultés (collégialité, confusion ordre/juridiction) mais pas hérésies formelles. *Pesée* : interprétation possible de Vatican II, qui ne touche pas la forme essentielle isolée par Paul VI.
+- **Rôle de la *Nota explicativa praevia*** : *« coup de boutoir aux interprétations hétérodoxes »* du schéma collégial. *Pesée* : valable au plan ecclésiologique. Mais l'abbé Rioult cite ensuite **sans commentaire** le rite officiel qui inscrit explicitement le *« collège des évêques »* dans l'homélie type et l'interrogatoire de l'ordinand — ce qui montre, **contre sa propre thèse de séparation**, que la collégialité n'a pas été tenue hors du rite.
+- **Argument de l'indéterminé volontaire** : LG ne contient rien de définitif → pas *de fide* → pas de rupture dogmatique. *Pesée* : argument formel sur la qualité magistérielle de Vatican II, sans portée sur la validité formelle du rite sacramentel.
+
+#### Sur l'épistémologie et la portée pastorale
+
+- **Certitude *morale* et non métaphysique**. L'abbé Rioult formule lui-même sa conclusion ainsi : *« il n'y a aucune raison valable, a priori, de refuser à l'évêque qui use sérieusement du nouveau rite l'efficacité du sacrement. Nous en avons la certitude morale. Évidemment pour une certitude métaphysique…, seul le magistère du souverain pontife pourrait la donner par voie d'autorité. »* *Pesée* : **honnêteté épistémologique remarquable** de l'auteur, à saluer. Mais elle **renforce paradoxalement** la position de la fiche : devant un *dubium probabile* sur un sacrement non itérable, la théologie sacramentelle classique impose la *tutior pars* — et l'abbé Rioult lui-même reconnaît ne pas disposer de la certitude métaphysique qui seule autoriserait à passer outre cette règle.
+- **Position pastorale anti-réordination** : « *les évêques consacrés avec ce nouveau rite sont bien pourvus des pouvoirs sacramentels* ». *Pesée* : conséquence pratique de sa thèse, non un argument supplémentaire.
+- **Argument par exclusion** : aucun des invalidistes (Cekada, Coomaraswamy, Rore Sanctifica, P. Pierre-Marie OP, abbé Calderon, Lefebvre, P. Calmel) ne serait concluant. *Pesée* : disqualification rhétorique des contradicteurs, sans nouvel argument propre.
+
+#### Synthèse de cet inventaire
+
+Aucun des points ci-dessus ne franchit le verrou des cinq tensions. **Trois d'entre eux renforcent même la position de la fiche** par les concessions internes qu'ils comportent :
+- la concession « *favorise sans être* » (qui rejoint le grief léonin contre les anglicans dans *Apostolicae Curae*) ;
+- la concession non commentée sur le « *collège des évêques* » dans l'homélie/interrogatoire (qui montre que la collégialité n'a pas été contenue hors du rite) ;
+- l'aveu d'une certitude seulement *morale* (qui fonde précisément la prudence *tutior pars* que la fiche recommande).
+
+Les autres axes argumentatifs soit déplacent la question sans la résoudre (forme = sens, opinion Morin), soit concernent un terrain (la personne de Lécuyer, la lecture de Vatican II, la qualité magistérielle de *Lumen Gentium*) qui n'affecte pas la lettre de la forme essentielle au sens précis de Pie XII 1947.
+
 ### Bilan de l'examen
 
 Sur les **cinq tensions**, le plaidoyer Rioult pour la validité :

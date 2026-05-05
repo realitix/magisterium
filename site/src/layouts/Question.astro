@@ -429,3 +429,22 @@ if (date) {
     }
   }
 </style>
+
+<!-- Lettrine — premier paragraphe de la fiche (desktop uniquement).
+     Le contenu vient du markdown rendu par marked dans le <slot />, donc
+     les sélecteurs scoped Astro ne s'y propagent pas : on utilise is:global
+     pour cibler le <p> directement. -->
+<style is:global>
+  @media (min-width: 760px) {
+    .q__body > p:first-of-type::first-letter {
+      font-family: var(--font-display);
+      float: left;
+      font-size: 4.6em;
+      line-height: 0.82;
+      font-weight: 600;
+      color: var(--rubric);
+      padding: 0.06em 0.08em 0 0;
+      margin: 0.04em 0.04em -0.04em 0;
+    }
+  }
+</style>

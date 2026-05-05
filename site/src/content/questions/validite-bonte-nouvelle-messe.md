@@ -585,7 +585,7 @@ La note 21 du *Bref examen* (cf. supra) est ici cruciale : **les cardinaux eux-m
 
 **Critère pré-V2** : prêtre validement ordonné (Trente sess. XXII can. II ; Cat. romain II, IV, LXXVII ; *Mediator Dei* §92).
 
-La fiche **présuppose** cette condition remplie : on examine ici la validité du **rite eucharistique** lui-même, indépendamment du dossier connexe sur la validité du nouveau rite d'ordination promulgué en 1968. Ce dossier est important — l'eucharistie requiert un prêtre validement ordonné, donc une chaîne sacramentelle ininterrompue — mais il a sa propre matière, ses propres sources (notamment Pie XII *Sacramentum Ordinis* 1947 et le texte de la nouvelle ordination 1968) et appelle une analyse séparée.
+La fiche **présuppose** cette condition remplie : on examine ici la validité du **rite eucharistique** lui-même, indépendamment du [dossier connexe sur la validité du nouveau rite d'ordination promulgué en 1968](/questions/validite-rite-episcopal-1968/). Ce dossier est important — l'eucharistie requiert un prêtre validement ordonné, donc une chaîne sacramentelle ininterrompue — mais il a sa propre matière, ses propres sources (notamment Pie XII *Sacramentum Ordinis* 1947 et le texte de la nouvelle ordination 1968) et appelle une analyse séparée.
 
 ### Synthèse de l'application logique au niveau 1
 

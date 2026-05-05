@@ -127,7 +127,7 @@ if (date) {
     <div class="q__layout">
       <article class="prose q__body">
         <slot />
-        <CulDeLampe />
+        <CulDeLampe glyph="a" />
         {voices && <FourVoices voices={voices} />}
       </article>
 
@@ -430,13 +430,48 @@ if (date) {
   }
 </style>
 
-<!-- Lettrine — premier paragraphe de la fiche (desktop uniquement).
-     Le contenu vient du markdown rendu par marked dans le <slot />, donc
-     les sélecteurs scoped Astro ne s'y propagent pas : on utilise is:global
-     pour cibler le <p> directement. -->
+<!-- Enluminures — culs-de-lampe entre les sections + lettrine sur le
+     premier paragraphe de chaque section. Le contenu de la fiche vient du
+     markdown rendu par marked dans le <slot />, et certains fleurons sont
+     injectés en JS (DOM dynamique). On utilise donc is:global pour pouvoir
+     cibler tous ces nœuds. -->
 <style is:global>
+  /* Cul-de-lampe (composant + nœuds injectés par le script ci-dessous) */
+  .q__body .cul-de-lampe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: var(--space-xl) auto var(--space-l);
+    line-height: 1;
+    color: var(--rubric);
+    user-select: none;
+  }
+  .q__body .cul-de-lampe__glyph {
+    font-family: var(--font-fleuron);
+    font-size: 4.5rem;
+    font-weight: 400;
+    line-height: 1;
+    opacity: 0.78;
+    transition: opacity 200ms ease;
+  }
+  .q__body .cul-de-lampe:hover .cul-de-lampe__glyph {
+    opacity: 1;
+  }
+  @media (max-width: 640px) {
+    .q__body .cul-de-lampe__glyph {
+      font-size: 3.25rem;
+    }
+  }
+  @media print {
+    .q__body .cul-de-lampe__glyph {
+      opacity: 1;
+      color: #000;
+    }
+  }
+
+  /* Lettrine — premier <p> qui suit chaque <h2> de la fiche (desktop uniquement). */
   @media (min-width: 760px) {
-    .q__body > p:first-of-type::first-letter {
+    .q__body h2 + p::first-letter {
       font-family: var(--font-display);
       float: left;
       font-size: 4.6em;
@@ -448,3 +483,26 @@ if (date) {
     }
   }
 </style>
+
+<script>
+  // Injecte un cul-de-lampe avant chaque <h2> du corps de la fiche, sauf le
+  // premier (qui ouvre la lecture). Chaque section reçoit un fleuron distinct
+  // pris dans un cycle de glyphes FeFlow2.
+  const glyphs = ['C', 'E', 'b', 'o', 'p', 'd', 'F'];
+  const body = document.querySelector('.q__body');
+  if (body) {
+    const h2s = body.querySelectorAll(':scope > h2');
+    h2s.forEach((h2, i) => {
+      if (i === 0) return;
+      const fleuron = document.createElement('div');
+      fleuron.className = 'cul-de-lampe';
+      fleuron.setAttribute('role', 'presentation');
+      fleuron.setAttribute('aria-hidden', 'true');
+      const span = document.createElement('span');
+      span.className = 'cul-de-lampe__glyph';
+      span.textContent = glyphs[(i - 1) % glyphs.length];
+      fleuron.appendChild(span);
+      h2.parentNode!.insertBefore(fleuron, h2);
+    });
+  }
+</script>

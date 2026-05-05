@@ -1,10 +1,11 @@
 ---
 /**
- * Cul-de-lampe — fleuron typographique en fin de fiche.
+ * Cul-de-lampe — fleuron typographique entre les sections d'une fiche Q/R.
  * Utilise la police IM Fell Flowers (Igino Marini, d'après les fontes
  * gravées par John Fell, Oxford University Press, XVIIᵉ s.).
  *
- * Rendu invisible en lecture d'écran (présentationnel).
+ * Le CSS associé vit en is:global dans Question.astro pour pouvoir
+ * également styler les fleurons injectés dynamiquement avant chaque <h2>.
  */
 interface Props {
   /** Glyphe à afficher. Défaut : 'a' (croix ornée FeFlow2). */
@@ -17,42 +18,3 @@ const { glyph = 'a' } = Astro.props;
 <div class="cul-de-lampe" role="presentation" aria-hidden="true">
   <span class="cul-de-lampe__glyph">{glyph}</span>
 </div>
-
-<style>
-  .cul-de-lampe {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: var(--space-xl) auto var(--space-l);
-    line-height: 1;
-    color: var(--rubric);
-    user-select: none;
-  }
-
-  .cul-de-lampe__glyph {
-    font-family: var(--font-fleuron);
-    font-size: 4.5rem;
-    font-weight: 400;
-    line-height: 1;
-    /* Lègère atténuation pour un rendu d'encre vieillie. */
-    opacity: 0.78;
-    transition: opacity 200ms ease, transform 400ms ease;
-  }
-
-  .cul-de-lampe:hover .cul-de-lampe__glyph {
-    opacity: 1;
-  }
-
-  @media (max-width: 640px) {
-    .cul-de-lampe__glyph {
-      font-size: 3.25rem;
-    }
-  }
-
-  @media print {
-    .cul-de-lampe__glyph {
-      opacity: 1;
-      color: #000;
-    }
-  }
-</style>

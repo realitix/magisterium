@@ -529,7 +529,7 @@ Ces deux énoncés sont des **actes législatifs disciplinaires** pontificaux (m
 
 ## Application logique des critères pré-V2 à la NOM (niveau 1 — *editio typica* latine)
 
-C'est ici que la fiche tranche méthodologiquement. On a posé en section précédente les conditions objectives de validité d'un rite eucharistique selon le pré-V2. On a posé ce que la NOM contient factuellement. On vérifie maintenant **point par point** si chaque condition est remplie — *sans* recourir au magistère post-V2 pour valider.
+C'est ici que la fiche tranche méthodologiquement. On a posé [en section précédente](#synthèse-pré-v2--checklist-dévaluation-dun-rite-eucharistique) les conditions objectives de validité d'un rite eucharistique selon le pré-V2. On a posé ce que la NOM contient factuellement. On vérifie maintenant **point par point** si chaque condition est remplie — *sans* recourir au magistère post-V2 pour valider.
 
 ### Condition 1 — La matière
 

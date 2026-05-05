@@ -405,17 +405,17 @@ Face à un ami catholique qui vient de croiser cette objection sédévacantiste 
 
 ## Références
 
-- **Concile d'Éphèse — anathématismes de saint Cyrille (431)** → `/documents/0431_ephese/`
-- **Concile de Chalcédoine — définition christologique (451)** → `/documents/0451_chalcedoine/`
-- **Concile de Florence — bulle *Cantate Domino* (4 février 1442)** → `/documents/1431_florence/`
-- **Concile de Trente (1545-1563)** → `/documents/1545_trente/`
-- **Catéchisme du concile de Trente — Pars prima (1566)** → `/documents/1566_catechismus-romanus_01-pars-prima/`
-- **Saint Pie X — *Catechismo della dottrina cristiana*, partie I (1908)** → `/documents/1908_catechismo-pio-x_03-parte-1-credo/`
-- **Vatican II — Constitution dogmatique *Lumen Gentium* (21 novembre 1964)** → `/documents/1964-11-21_lumen-gentium_const/`
-- **Vatican II — Constitution pastorale *Gaudium et Spes* (7 décembre 1965)** → `/documents/1965-12-07_gaudium-et-spes_const/`
-- **Jean-Paul II — Encyclique *Redemptor Hominis* (4 mars 1979)** → `/documents/1979-03-04_redemptor-hominis_encyclique/`
-- **Jean-Paul II — Encyclique *Redemptoris Missio* (7 décembre 1990)** → `/documents/1990-12-07_redemptoris-missio_encyclique/`
-- **Congrégation pour la doctrine de la foi — Déclaration *Dominus Iesus* (6 août 2000)** → `/documents/2000-08-06_dominus-iesus_document/`
-- **Congrégation pour la doctrine de la foi — Lettre *Placuit Deo* (22 février 2018)** → `/documents/2018-02-22_placuit-deo_document/`
-- **Dicastère pour la doctrine de la foi — Lettre *Unica Croce Salvezza* (3 novembre 2025)** → `/documents/2025-11-03_unica-croce-salvezza_document/`
-- **Dicastère pour la doctrine de la foi — Note *Mater Populi Fidelis* (4 novembre 2025)** → `/documents/2025-11-04_mater-populi-fidelis_document/`
+- **[Concile d'Éphèse — anathématismes de saint Cyrille (431)](/documents/0431_ephese/)**
+- **[Concile de Chalcédoine — définition christologique (451)](/documents/0451_chalcedoine/)**
+- **[Concile de Florence — bulle *Cantate Domino* (4 février 1442)](/documents/1431_florence/)**
+- **[Concile de Trente (1545-1563)](/documents/1545_trente/)**
+- **[Catéchisme du concile de Trente — Pars prima (1566)](/documents/1566_catechismus-romanus_01-pars-prima/)**
+- **[Saint Pie X — *Catechismo della dottrina cristiana*, partie I (1908)](/documents/1908_catechismo-pio-x_03-parte-1-credo/)**
+- **[Vatican II — Constitution dogmatique *Lumen Gentium* (21 novembre 1964)](/documents/1964-11-21_lumen-gentium_const/)**
+- **[Vatican II — Constitution pastorale *Gaudium et Spes* (7 décembre 1965)](/documents/1965-12-07_gaudium-et-spes_const/)**
+- **[Jean-Paul II — Encyclique *Redemptor Hominis* (4 mars 1979)](/documents/1979-03-04_redemptor-hominis_encyclique/)**
+- **[Jean-Paul II — Encyclique *Redemptoris Missio* (7 décembre 1990)](/documents/1990-12-07_redemptoris-missio_encyclique/)**
+- **[Congrégation pour la doctrine de la foi — Déclaration *Dominus Iesus* (6 août 2000)](/documents/2000-08-06_dominus-iesus_document/)**
+- **[Congrégation pour la doctrine de la foi — Lettre *Placuit Deo* (22 février 2018)](/documents/2018-02-22_placuit-deo_document/)**
+- **[Dicastère pour la doctrine de la foi — Lettre *Unica Croce Salvezza* (3 novembre 2025)](/documents/2025-11-03_unica-croce-salvezza_document/)**
+- **[Dicastère pour la doctrine de la foi — Note *Mater Populi Fidelis* (4 novembre 2025)](/documents/2025-11-04_mater-populi-fidelis_document/)**

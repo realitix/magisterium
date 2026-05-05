@@ -731,29 +731,29 @@ Face à un ami catholique qui s'inquiète après avoir lu une critique tradi sur
 
 ## Références
 
-- **Concile de Trente — index général (1545-1563)** → `/documents/1545_trente/`
-- **Concile de Trente — session VII, *De sacramentis in genere* (3 mars 1547)** → `/documents/1545_trente_sess-07-de-sacramentis/`
-- **Concile de Trente — session XIII, *De ss. Eucharistiae sacramento* (11 octobre 1551)** → `/documents/1545_trente_sess-13-de-eucharistia/`
-- **Concile de Trente — session XXII, *De sacrificio missae* (17 septembre 1562)** → `/documents/1545_trente_sess-22-de-sacrificio-missae/`
-- **Catéchisme du Concile de Trente — IIᵉ partie, *Pars secunda*, sur les sacrements (1566)** → `/documents/1566_catechismus-romanus_02-pars-secunda/`
-- **Saint Pie V — bulle *Quo Primum Tempore* (14 juillet 1570)** → `/documents/1570-07-14_quo-primum-tempore_const/`
-- **Pie VI — bulle *Auctorem fidei* (28 août 1794)** → `/documents/1794-08-28_auctorem-fidei_const/`
-- **Léon XIII — bulle *Apostolicae Curae* (13 septembre 1896)** → `/documents/1896-09-13_apostolicae-curae_bulle/`
-- **Catéchisme de saint Pie X — IVᵉ partie, *Sacramenti* (1908)** → `/documents/1908_catechismo-pio-x_06-parte-4-sacramenti/`
-- **Pie XII — encyclique *Mediator Dei* (20 novembre 1947)** → `/documents/1947-11-20_mediator-dei_enc/`
-- **Vatican II — Constitution *Sacrosanctum Concilium* (4 décembre 1963)** → `/documents/1963-12-04_sacrosanctum-concilium_const/`
-- **Paul VI — Constitution apostolique *Missale Romanum* (3 avril 1969)** → `/documents/1969-04-03_missale-romanum_const/`
-- **IGMR — *Institutio generalis Missalis Romani* 1969 (editio princeps)** → `/documents/1969-04-03_institutio-generalis-missalis-romani-1969_instr/`
-- **Sacrée Congrégation pour le Culte Divin — instruction *Memoriale Domini* (29 mai 1969)** → `/documents/1969-05-29_memoriale-domini_instr/`
-- **Cardinaux Ottaviani et Bacci — *Bref examen critique du nouvel Ordo Missae* (25 septembre 1969)** → `/documents/1969-09-25_bref-examen-critique-ottaviani-bacci_etude/`
-- **IGMR — *Institutio generalis Missalis Romani* 1970 (révision corrigée, art. 7 amendé)** → `/documents/1970-03-26_institutio-generalis-missalis-romani-1970_instr/`
-- **IGMR — *Institutio generalis Missalis Romani* 2002 (3ᵉ édition typique)** → `/documents/2002-04-20_institutio-generalis-missalis-romani-2002_instr/`
-- **Card. Arinze — Lettre sur *pro multis* (17 octobre 2006, Prot. N. 467/05/L)** → `/documents/2006-10-17_arinze-pro-multis_lettre/`
-- **Benoît XVI — motu proprio *Summorum Pontificum* (7 juillet 2007)** → `/documents/2007-07-07_summorum-pontificum_mp/`
-- **François — motu proprio *Magnum principium* (3 septembre 2017)** → `/documents/2017-09-03_magnum-principium_mp/`
-- **Conférence des évêques de France — communiqué sur le décret de *confirmatio* du Missel français (5 novembre 2019)** → `/documents/2019-11-05_cef-confirmatio-missel-francais_communique/`
-- **François — motu proprio *Traditionis Custodes* (16 juillet 2021)** → `/documents/2021-07-16_traditionis-custodes_mp/`
-- **S. Alphonse-Marie de Liguori — *Theologia Moralis*, lib. VI tract. III *De Eucharistia*** → `/documents/liguori_theologia-moralis_vol02_lib06-tract03_de-eucharistia/`
+- **[Concile de Trente — index général (1545-1563)](/documents/1545_trente/)**
+- **[Concile de Trente — session VII, *De sacramentis in genere* (3 mars 1547)](/documents/1545_trente_sess-07-de-sacramentis/)**
+- **[Concile de Trente — session XIII, *De ss. Eucharistiae sacramento* (11 octobre 1551)](/documents/1545_trente_sess-13-de-eucharistia/)**
+- **[Concile de Trente — session XXII, *De sacrificio missae* (17 septembre 1562)](/documents/1545_trente_sess-22-de-sacrificio-missae/)**
+- **[Catéchisme du Concile de Trente — IIᵉ partie, *Pars secunda*, sur les sacrements (1566)](/documents/1566_catechismus-romanus_02-pars-secunda/)**
+- **[Saint Pie V — bulle *Quo Primum Tempore* (14 juillet 1570)](/documents/1570-07-14_quo-primum-tempore_const/)**
+- **[Pie VI — bulle *Auctorem fidei* (28 août 1794)](/documents/1794-08-28_auctorem-fidei_const/)**
+- **[Léon XIII — bulle *Apostolicae Curae* (13 septembre 1896)](/documents/1896-09-13_apostolicae-curae_bulle/)**
+- **[Catéchisme de saint Pie X — IVᵉ partie, *Sacramenti* (1908)](/documents/1908_catechismo-pio-x_06-parte-4-sacramenti/)**
+- **[Pie XII — encyclique *Mediator Dei* (20 novembre 1947)](/documents/1947-11-20_mediator-dei_enc/)**
+- **[Vatican II — Constitution *Sacrosanctum Concilium* (4 décembre 1963)](/documents/1963-12-04_sacrosanctum-concilium_const/)**
+- **[Paul VI — Constitution apostolique *Missale Romanum* (3 avril 1969)](/documents/1969-04-03_missale-romanum_const/)**
+- **[IGMR — *Institutio generalis Missalis Romani* 1969 (editio princeps)](/documents/1969-04-03_institutio-generalis-missalis-romani-1969_instr/)**
+- **[Sacrée Congrégation pour le Culte Divin — instruction *Memoriale Domini* (29 mai 1969)](/documents/1969-05-29_memoriale-domini_instr/)**
+- **[Cardinaux Ottaviani et Bacci — *Bref examen critique du nouvel Ordo Missae* (25 septembre 1969)](/documents/1969-09-25_bref-examen-critique-ottaviani-bacci_etude/)**
+- **[IGMR — *Institutio generalis Missalis Romani* 1970 (révision corrigée, art. 7 amendé)](/documents/1970-03-26_institutio-generalis-missalis-romani-1970_instr/)**
+- **[IGMR — *Institutio generalis Missalis Romani* 2002 (3ᵉ édition typique)](/documents/2002-04-20_institutio-generalis-missalis-romani-2002_instr/)**
+- **[Card. Arinze — Lettre sur *pro multis* (17 octobre 2006, Prot. N. 467/05/L)](/documents/2006-10-17_arinze-pro-multis_lettre/)**
+- **[Benoît XVI — motu proprio *Summorum Pontificum* (7 juillet 2007)](/documents/2007-07-07_summorum-pontificum_mp/)**
+- **[François — motu proprio *Magnum principium* (3 septembre 2017)](/documents/2017-09-03_magnum-principium_mp/)**
+- **[Conférence des évêques de France — communiqué sur le décret de *confirmatio* du Missel français (5 novembre 2019)](/documents/2019-11-05_cef-confirmatio-missel-francais_communique/)**
+- **[François — motu proprio *Traditionis Custodes* (16 juillet 2021)](/documents/2021-07-16_traditionis-custodes_mp/)**
+- **[S. Alphonse-Marie de Liguori — *Theologia Moralis*, lib. VI tract. III *De Eucharistia*](/documents/liguori_theologia-moralis_vol02_lib06-tract03_de-eucharistia/)**
 - **Thomas de Vio (Cajetan) — *Commentaria in Summam*, IIIa pars, q. 78 *De forma***  → `/documents/cajetan_in-iiia-q78_de-forma/`
-- **FSSPX — *Critique de la nouvelle liturgie*** → `/documents/nd_critique-nouvelle-liturgie_etude/`
-- **62 raisons sur la nouvelle messe (Campos)** → `/documents/nd_62-raisons-nouvelle-messe_etude/`
+- **[FSSPX — *Critique de la nouvelle liturgie*](/documents/nd_critique-nouvelle-liturgie_etude/)**
+- **[62 raisons sur la nouvelle messe (Campos)](/documents/nd_62-raisons-nouvelle-messe_etude/)**

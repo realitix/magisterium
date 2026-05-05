@@ -43,7 +43,7 @@ voices:
     punchline: "*Diplomatie liturgique : on tient les deux bouts de la chaîne.*"
   fsspx:
     tagline: "Doute sérieux, prudence pastorale."
-    body: "Mgr Lefebvre n'a jamais déclaré formellement nulle la consécration nouvelle ; mais il a refusé de prendre le risque, sacrant lui-même quatre évêques en 1988 selon le rite ancien. La FSSPX maintient que la forme de 1968 ne satisfait pas à la lettre l'exigence d'univocité de Sacramentum Ordinis et que *Spiritum principalem* est polysémique. Ordination *sub conditione* recommandée pour les clercs venant du nouveau rite. Position : la lettre des textes infaillibles oblige à la prudence."
+    body: "Mgr Lefebvre n'a jamais déclaré formellement nulle la consécration nouvelle ; mais il a refusé de prendre le risque, sacrant lui-même quatre évêques en 1988 selon le rite ancien. La FSSPX maintient que la forme de 1968 ne satisfait pas à la lettre l'exigence d'univocité de Sacramentum Ordinis et que *Spiritum principalem* est polysémique. Ordination *sub conditione* recommandée pour les clercs venant du nouveau rite. **Actualisation** : le 2 février 2026, l'abbé Pagliarani a annoncé de nouveaux sacres à Ecône le **1ᵉʳ juillet 2026** (fête du Précieux-Sang), au titre de l'*état de nécessité*, pour garantir la continuité du ministère épiscopal selon le rite ancien — la DDF a aussitôt averti qu'il s'agirait d'un acte schismatique. Position constante : la lettre des textes infaillibles oblige à la prudence sacramentelle."
     punchline: "*« Comple in Sacerdote tuo ministerii tui summam » — c'est la formule romaine, on la garde.*"
   sedevacantiste:
     tagline: "La conclusion logique va jusqu'au bout — non sans dissidences internes."
@@ -415,15 +415,17 @@ Rore Sanctifica fournit l'argumentaire textuel le plus complet sur la non-satisf
 
 ## Références
 
-Les documents cités dans cette fiche apparaissent dans la grille en pied de page. Documents-pivots :
+Documents-pivots cités dans cette fiche :
 
-- **Trente, sess. 23 *De sacramento Ordinis*** (1563) — dogme infaillible.
-- **Léon XIII, *Apostolicae Curae*** (1896) — bulle dogmatique fixant les critères de validité formelle.
-- **Pie XII, *Sacramentum Ordinis*** (1947) — constitution apostolique infaillible définissant matière, forme et critère d'univocité.
-- **Pontifical romain, édition Léon XIII** (1895) — forme essentielle ancienne *« Comple in Sacerdote tuo… »*.
-- **Paul VI, *Pontificalis Romani recognitio*** (18 juin 1968) — promulgation du rite nouveau.
-- **Pontificale Romanum, editio typica princeps** (1968) et **editio typica altera** (1990) — texte officiel du rite.
-- **CDF, *Illegitimas ordinationes*** (1976) — décret canonique sur les ordinations de Palmar de Troya.
-- **Hippolyte, *Tradition apostolique*** (3ᵉ s.) — source historique invoquée par Paul VI.
-- **Card. Louis Billot, *De Ordine*** (1914) — théologie thomiste classique.
-- **Mgr Marcel Lefebvre** — sermons d'ordination (1976, 1982) et des sacres (1988).
+- **[Concile de Trente, sess. 23 — *De sacramento Ordinis* (1563)](/documents/1545_trente_sess-23-de-sacramento-ordinis/)** — dogme infaillible.
+- **[Léon XIII — bulle *Apostolicae Curae* (13 septembre 1896)](/documents/1896-09-13_apostolicae-curae_bulle/)** — bulle dogmatique fixant les critères de validité formelle.
+- **[Pie XII — constitution apostolique *Sacramentum Ordinis* (30 novembre 1947)](/documents/1947-11-30_sacramentum-ordinis_const/)** — constitution apostolique infaillible définissant matière, forme et critère d'univocité.
+- **[Pontifical romain — édition Léon XIII (1895)](/documents/1895-pontificale-romanum-leo-xiii_pontifical/)** — forme essentielle ancienne *« Comple in Sacerdote tuo… »*.
+- **[Paul VI — constitution apostolique *Pontificalis Romani recognitio* (18 juin 1968)](/documents/1968-06-18_pontificalis-romani_const-apost/)** — promulgation du rite nouveau.
+- **[Pontificale Romanum, editio typica princeps (1968)](/documents/1968-pontificale-romanum-typica_pontifical/)** et **[editio typica altera (1990)](/documents/1990-pontificale-romanum-altera_pontifical/)** — texte officiel du rite.
+- **[CDF — *Illegitimas ordinationes* (17 septembre 1976)](/documents/1976-09-17_illegitimas-ordinationes_document/)** — décret canonique sur les ordinations de Palmar de Troya.
+- **[Hippolyte — *Tradition apostolique* (3ᵉ s., attribution)](/documents/nd_hippolyte_traditio-apostolica/)** — source historique invoquée par Paul VI.
+- **[Card. Louis Billot — *De Ecclesiae Sacramentis*, t. II (1914)](/documents/1914_billot_de-ecclesiae-sacramentis_tome2-poenitentia-extrema-unctione-ordine-matrimonio/)** — théologie thomiste classique sur l'Ordre.
+- **[Mgr Marcel Lefebvre — sermon des ordinations à Écône (29 juin 1976)](/documents/1976-06-29_sermon-ordinations-econe_sermon/)**.
+- **[Mgr Marcel Lefebvre — sermon de la « Passion de l'Église » (29 juin 1982)](/documents/1982-06-29_sermon-passion-eglise_sermon/)**.
+- **[Mgr Marcel Lefebvre — sermon des sacres épiscopaux (30 juin 1988)](/documents/1988-06-30_sermon-sacres-episcopaux_sermon/)**.

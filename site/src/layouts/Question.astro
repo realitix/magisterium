@@ -459,10 +459,11 @@ if (date) {
     width: min(100%, 230px);
   }
   .q__body .bandeau {
-    margin-top: var(--space-xl);
-    margin-bottom: var(--space-m);
+    margin-top: var(--space-l);
+    margin-bottom: 0;
     width: min(100%, 460px);
   }
+  /* Le h2 qui suit un bandeau garde sa propre marge top, suffisante. */
 
   @media (max-width: 640px) {
     .q__body .cul-de-lampe {
@@ -502,7 +503,7 @@ if (date) {
       img.setAttribute('role', 'presentation');
       img.className = 'bandeau';
       img.width = 1000;
-      img.height = 677;
+      img.height = 131;
       img.loading = 'lazy';
       h2.parentNode!.insertBefore(img, h2);
     });

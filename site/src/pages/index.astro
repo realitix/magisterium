@@ -1,512 +1,281 @@
 ---
 /**
- * Homepage MagisterIA — T7.
- * Hero + question à la une + grille des 11 thèmes + CTA + bloc « en préparation ».
+ * Homepage MagisterIA — hero épuré.
+ * Frontispice gravé (gravure XVIIᵉ s.) + verset d'accroche + texte de
+ * positionnement + un seul CTA. Pas de listing thèmes/questions/docs :
+ * la navigation se fait via le header.
  */
-import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import Tampon from '../components/Tampon.astro';
-import { loadAllDocuments } from '../data/loadDocuments.ts';
-import { loadAllThemes } from '../data/loadThemes.ts';
-
-const documents = loadAllDocuments();
-const themes = loadAllThemes().slice().sort((a, b) => a.label.localeCompare(b.label, 'fr'));
-
-interface ThemeCard {
-  slug: string;
-  label: string;
-  total: number;
-  preV2: number;
-  v2: number;
-  postV2: number;
-  fsspx: number;
-}
-
-const themeCards: ThemeCard[] = themes.map((t) => {
-  const preV2 = t.pre_v2?.length ?? 0;
-  const v2 = t.v2?.length ?? 0;
-  const postV2 = t.post_v2?.length ?? 0;
-  const fsspx = t.fsspx?.length ?? 0;
-  return {
-    slug: t.slug,
-    label: t.label,
-    total: preV2 + v2 + postV2 + fsspx,
-    preV2,
-    v2,
-    postV2,
-    fsspx,
-  };
-});
-
-const questions = await getCollection('questions');
-const featuredSlug = 'salut-loi-naturelle';
-const featured = questions.find((q) => q.slug === featuredSlug) ?? questions[0] ?? null;
-
-const docCount = documents.length;
-const themeCount = themes.length;
-const questionCount = questions.length;
 ---
 
 <Base
   title="MagisterIA"
-  description="Corpus magistériel catholique augmenté par IA — conciles, papes, catéchismes, droit et liturgie ; fiches doctrinales selon la lecture traditionnelle."
+  description="Le magistère catholique, lu et mis en perspective par l'intelligence artificielle, au service de la Tradition."
 >
   <main id="main" class="home">
-    {/* Hero */}
     <section class="hero" aria-labelledby="hero-title">
-      <p class="hero__eyebrow">Corpus magistériel</p>
-      <h1 id="hero-title" class="hero__title">Magister<span class="hero__title-ai">IA</span></h1>
-      <p class="hero__subtitle">
-        Corpus magistériel catholique — tradition et concile moderne.
-      </p>
-      <p class="hero__lede">
-        Archive documentaire des textes du magistère catholique — conciles
-        œcuméniques, enseignement pontifical, curie romaine, catéchismes, droit
-        canonique et liturgie — accompagnée de fiches doctrinales rédigées
-        selon la lecture traditionnelle de l'Église. Les sources primaires
-        sont présentées en langue originale ; l'apologétique assumée ne
-        dispense pas du respect rigoureux de la lettre des textes.
-      </p>
-      <div class="hero__cta">
-        <a class="btn btn--primary" href="/documents/">Explorer le corpus</a>
-        <a class="btn btn--ghost" href="/themes/">Parcourir les thèmes</a>
-      </div>
-    </section>
+      <div class="hero__inner">
+        <div class="hero__text">
+          <p class="hero__verse">
+            <span
+              class="hero__verse-latin"
+              tabindex="0"
+              data-trad="La vérité du Seigneur demeure éternellement."
+              aria-label="Veritas Domini manet in æternum — La vérité du Seigneur demeure éternellement"
+            >Veritas Domini manet in æternum.</span>
+            <cite class="hero__verse-ref">Ps 116, 2</cite>
+          </p>
 
-    {/* Statistiques */}
-    <section class="stats" aria-label="Statistiques du corpus">
-      <p class="stats__line">
-        <span class="stats__num">{docCount.toLocaleString('fr-FR')}</span>
-        documents
-        <span class="stats__sep" aria-hidden="true">·</span>
-        <span class="stats__num">{themeCount}</span>
-        thèmes doctrinaux
-        <span class="stats__sep" aria-hidden="true">·</span>
-        <span class="stats__num">{questionCount}</span>
-        fiche{questionCount > 1 ? 's' : ''} Q/R disponible{questionCount > 1 ? 's' : ''}
-      </p>
-    </section>
+          <h1 id="hero-title" class="hero__title">
+            Le magistère catholique,<br />à la lumière de l'IA.
+          </h1>
 
-    {/* Question à la une */}
-    {featured && (
-      <section class="featured" aria-labelledby="featured-title">
-        {featured.data.tampon && (
-          <div class="featured__tampon">
-            <Tampon variant={featured.data.tampon} />
-          </div>
-        )}
-        <header class="featured__header">
-          <p class="featured__eyebrow">Question à la une</p>
-          <h2 id="featured-title" class="featured__title">
-            <a href={`/questions/${featured.slug}/`}>{featured.data.title}</a>
-          </h2>
-          <p class="featured__question">{featured.data.question}</p>
-        </header>
-        {featured.data.summary && (
-          <p class="featured__summary">{featured.data.summary}</p>
-        )}
-        <p class="featured__link">
-          <a href={`/questions/${featured.slug}/`} aria-label={`Lire la fiche : ${featured.data.title}`}>
-            Lire la fiche →
-          </a>
-        </p>
-      </section>
-    )}
+          <p class="hero__lede">
+            Le corpus complet du magistère ecclésial — conciles, papes,
+            dicastères, catéchismes, droit, liturgie — lu et mis en
+            perspective par l'intelligence artificielle, au service de
+            la Tradition.
+          </p>
 
-    {/* Grille des 11 thèmes */}
-    <section class="themes" aria-labelledby="themes-title">
-      <header class="themes__header">
-        <h2 id="themes-title" class="themes__title">Les {themeCount} thèmes doctrinaux</h2>
-        <p class="themes__subtitle">
-          Concordance transversale — controverses de l'époque moderne
-          à travers les périodes pré-Vatican II, conciliaire, post-conciliaire
-          et FSSPX.
-        </p>
-      </header>
-      <ul class="themes__grid" role="list">
-        {themeCards.map((card) => (
-          <li class="theme-card">
-            <a class="theme-card__link" href={`/themes/${card.slug}/`}>
-              <h3 class="theme-card__title">{card.label}</h3>
-              <p class="theme-card__total"><small>{card.total} document{card.total > 1 ? 's' : ''}</small></p>
-              <ul class="theme-card__counts" role="list">
-                <li><span class="theme-card__n">{card.preV2}</span> pré-V2</li>
-                <li><span class="theme-card__n">{card.v2}</span> V2</li>
-                <li><span class="theme-card__n">{card.postV2}</span> post-V2</li>
-                {card.fsspx > 0 && <li><span class="theme-card__n">{card.fsspx}</span> FSSPX</li>}
-              </ul>
+          <p class="hero__cta">
+            <a class="hero__btn" href="/questions/">
+              Parcourir les questions
+              <span class="hero__btn-arrow" aria-hidden="true">→</span>
             </a>
-          </li>
-        ))}
-      </ul>
-    </section>
+          </p>
+        </div>
 
-    {/* En préparation */}
-    <section class="pipeline" aria-labelledby="pipeline-title">
-      <h2 id="pipeline-title" class="pipeline__title">En préparation</h2>
-      <p class="pipeline__text">
-        D'autres fiches Q/R sont en cours de rédaction sur les questions les
-        plus sensibles du magistère contemporain : liberté religieuse, valeur
-        doctrinale des textes conciliaires, œcuménisme et dialogue
-        interreligieux, nouvelle messe et continuité liturgique, statut du
-        magistère ordinaire. Elles seront publiées au fil des mois ; le
-        corpus documentaire est d'ores et déjà consultable dans son intégralité.
-      </p>
-      <p class="pipeline__cta">
-        <a href="/questions/">Voir toutes les fiches disponibles</a>
-      </p>
+        <div class="hero__image" aria-hidden="true">
+          <img
+            src="/hero-frontispice.png"
+            alt=""
+            width="800"
+            height="1200"
+            loading="eager"
+            fetchpriority="high"
+          />
+        </div>
+      </div>
     </section>
   </main>
 </Base>
 
 <style>
   .home {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: var(--space-xl) var(--space-m);
+    min-height: calc(100vh - 200px);
   }
 
-  /* Hero */
   .hero {
-    text-align: center;
-    padding: var(--space-xl) 0 var(--space-l);
-    border-bottom: 1px solid var(--rule);
-    margin-bottom: var(--space-xl);
-  }
-
-  .hero__eyebrow {
-    font-family: var(--font-display);
-    text-transform: uppercase;
-    letter-spacing: 0.22em;
-    font-size: 0.75rem;
-    color: var(--muted);
-    margin-bottom: var(--space-s);
-  }
-
-  .hero__title {
-    font-family: var(--font-display);
-    font-size: clamp(2.75rem, 7vw + 1rem, 5rem);
-    font-weight: 600;
-    letter-spacing: -0.02em;
-    color: var(--ink);
-    margin-bottom: var(--space-s);
-    line-height: 1;
-  }
-
-  /* Jeu de mot : « Magister » (latin) + « IA » (intelligence artificielle)
-     mis en couleur rubrique pour le signaler. */
-  .hero__title-ai {
-    color: var(--rubric);
-    font-weight: 700;
-  }
-
-  .hero__subtitle {
-    font-family: var(--font-display);
-    font-style: italic;
-    font-size: clamp(1.15rem, 1.5vw + 0.7rem, 1.45rem);
-    color: var(--ink-soft);
-    max-width: 52ch;
-    margin: 0 auto var(--space-m);
-    line-height: 1.4;
-  }
-
-  .hero__lede {
-    font-family: var(--font-serif);
-    font-size: 1.05rem;
-    color: var(--ink-soft);
-    max-width: 62ch;
-    margin: 0 auto var(--space-l);
-    line-height: var(--line-height-prose);
-  }
-
-  .hero__cta {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: var(--space-s);
-  }
-
-  .btn {
-    display: inline-block;
-    padding: var(--space-2xs) var(--space-m);
-    font-family: var(--font-display);
-    font-size: 1rem;
-    letter-spacing: 0.03em;
-    text-decoration: none;
-    border: 1px solid var(--rubric);
-    transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease;
-  }
-
-  .btn--primary {
-    background-color: var(--rubric);
-    color: var(--paper);
-  }
-
-  .btn--primary:hover,
-  .btn--primary:focus-visible {
-    background-color: var(--rubric-hover);
-    border-color: var(--rubric-hover);
-    color: var(--paper);
-  }
-
-  .btn--ghost {
-    background-color: transparent;
-    color: var(--rubric);
-  }
-
-  .btn--ghost:hover,
-  .btn--ghost:focus-visible {
-    background-color: color-mix(in srgb, var(--rubric) 10%, transparent);
-    color: var(--rubric-hover);
-  }
-
-  /* Statistiques */
-  .stats {
-    text-align: center;
-    margin-bottom: var(--space-xl);
-  }
-
-  .stats__line {
-    font-family: var(--font-serif);
-    font-size: 0.95rem;
-    color: var(--muted);
-    letter-spacing: 0.01em;
-  }
-
-  .stats__num {
-    font-variant-numeric: oldstyle-nums;
-    font-weight: 600;
-    color: var(--ink);
-  }
-
-  .stats__sep {
-    margin: 0 var(--space-2xs);
-    color: var(--rule);
-  }
-
-  /* Question à la une */
-  .featured {
-    position: relative;
-    border: 1px solid var(--rule);
-    border-left: 3px solid var(--rubric);
-    background-color: var(--paper);
-    padding: var(--space-l);
-    margin-bottom: var(--space-2xl);
-    transition: border-color 150ms ease, background-color 150ms ease;
-  }
-
-  .featured__tampon {
-    position: absolute;
-    top: 0.75rem;
-    right: 0.75rem;
-    z-index: 3;
-    pointer-events: none;
-  }
-
-  /* Hover du bloc featured → le tampon se retire (fade rapide), retour bouncy
-     à la sortie de hover. Variables cascadées dans <Tampon>. */
-  .featured:hover .featured__tampon {
-    --tampon-opacity: 0;
-    --tampon-scale: 1.25;
-    --tampon-duration: 160ms;
-    --tampon-easing: ease-out;
-  }
-
-  @media (max-width: 520px) {
-    .featured__tampon {
-      top: 0.5rem;
-      right: 0.5rem;
-      transform: scale(0.85);
-      transform-origin: top right;
-    }
-
-    .featured__title {
-      padding-right: 7rem;
-    }
-  }
-
-  .featured:hover {
-    border-color: color-mix(in srgb, var(--rubric) 35%, var(--rule));
-    border-left-color: var(--rubric);
-    background-color: var(--paper-dim);
-  }
-
-  .featured__eyebrow {
-    font-family: var(--font-display);
-    text-transform: uppercase;
-    letter-spacing: 0.18em;
-    font-size: 0.75rem;
-    color: var(--rubric);
-    margin-bottom: var(--space-xs);
-  }
-
-  .featured__title {
-    font-family: var(--font-display);
-    font-size: clamp(1.5rem, 2.2vw + 0.8rem, 2rem);
-    font-weight: 600;
-    line-height: 1.2;
-    margin-bottom: var(--space-s);
-  }
-
-  .featured__title a {
-    color: var(--ink);
-    text-decoration: none;
-  }
-
-  .featured__title a:hover,
-  .featured__title a:focus-visible {
-    color: var(--rubric);
-    text-decoration: underline;
-    text-underline-offset: 0.15em;
-  }
-
-  .featured__question {
-    font-family: var(--font-display);
-    font-style: italic;
-    color: var(--ink-soft);
-    margin-bottom: var(--space-s);
-    font-size: 1.1rem;
-    line-height: 1.4;
-  }
-
-  .featured__summary {
-    font-family: var(--font-serif);
-    color: var(--ink-soft);
-    margin-bottom: var(--space-m);
-    line-height: var(--line-height-prose);
-  }
-
-  .featured__link {
-    font-family: var(--font-display);
-    letter-spacing: 0.04em;
-  }
-
-  /* Thèmes */
-  .themes {
-    margin-bottom: var(--space-2xl);
-  }
-
-  .themes__header {
-    text-align: center;
-    margin-bottom: var(--space-l);
-  }
-
-  .themes__title {
-    font-family: var(--font-display);
-    font-weight: 600;
-    color: var(--ink);
-    margin-bottom: var(--space-s);
-  }
-
-  .themes__subtitle {
-    font-family: var(--font-serif);
-    color: var(--ink-soft);
-    max-width: 60ch;
+    max-width: 1200px;
     margin: 0 auto;
+    padding: var(--space-2xl) var(--space-m);
   }
 
-  .themes__grid {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+  .hero__inner {
     display: grid;
     grid-template-columns: 1fr;
-    gap: var(--space-m);
-  }
-
-  @media (min-width: 560px) {
-    .themes__grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
+    gap: var(--space-xl);
+    align-items: center;
   }
 
   @media (min-width: 900px) {
-    .themes__grid {
-      grid-template-columns: repeat(3, 1fr);
+    .hero__inner {
+      grid-template-columns: 1.05fr 1fr;
+      gap: var(--space-2xl);
+      padding: var(--space-xl) 0;
     }
   }
 
-  .theme-card {
-    border: 1px solid var(--rule);
-    background-color: var(--paper);
-    transition: border-color 120ms ease, background-color 120ms ease;
+  /* Texte hero */
+  .hero__text {
+    max-width: 38rem;
   }
 
-  .theme-card:hover,
-  .theme-card:focus-within {
-    border-color: var(--rubric);
-    background-color: var(--paper-dim);
-  }
-
-  .theme-card__link {
-    display: block;
-    padding: var(--space-m);
-    color: var(--ink);
-    text-decoration: none;
-  }
-
-  .theme-card__title {
-    font-family: var(--font-display);
-    font-size: 1.15rem;
-    font-weight: 600;
-    margin-bottom: var(--space-2xs);
-    color: var(--ink);
-  }
-
-  .theme-card__link:hover .theme-card__title,
-  .theme-card__link:focus-visible .theme-card__title {
-    color: var(--rubric-hover);
-  }
-
-  .theme-card__total {
-    margin-bottom: var(--space-s);
-    color: var(--muted);
-  }
-
-  .theme-card__counts {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--space-xs) var(--space-m);
-    color: var(--ink-soft);
-    font-size: 0.9rem;
-  }
-
-  .theme-card__n {
-    font-variant-numeric: oldstyle-nums;
-    font-weight: 600;
-    color: var(--ink);
-    margin-right: 2px;
-  }
-
-  /* Pipeline */
-  .pipeline {
-    border-top: 1px solid var(--rule);
-    padding-top: var(--space-xl);
-    max-width: 70ch;
-    margin: 0 auto;
-    text-align: center;
-  }
-
-  .pipeline__title {
-    font-family: var(--font-display);
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-bottom: var(--space-s);
-    color: var(--ink);
-  }
-
-  .pipeline__text {
+  /* Verset latin avec tooltip */
+  .hero__verse {
     font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 1.05rem;
     color: var(--ink-soft);
-    line-height: var(--line-height-prose);
-    margin-bottom: var(--space-m);
+    margin: 0 0 var(--space-l);
+    line-height: 1.5;
   }
 
-  .pipeline__cta {
-    font-family: var(--font-display);
+  .hero__verse-latin {
+    position: relative;
+    cursor: help;
+    border-bottom: 1px dotted color-mix(in srgb, var(--rubric) 50%, transparent);
+    transition: color 150ms ease, border-color 150ms ease;
+    outline-offset: 4px;
+  }
+
+  .hero__verse-latin:hover,
+  .hero__verse-latin:focus-visible {
+    color: var(--rubric);
+    border-bottom-color: var(--rubric);
+  }
+
+  /* Tooltip CSS pur — apparait au hover/focus */
+  .hero__verse-latin::after {
+    content: attr(data-trad);
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 0.6rem);
+    transform: translateX(-50%) translateY(4px);
+    background-color: var(--ink);
+    color: var(--paper);
+    font-family: var(--font-serif);
+    font-style: normal;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    padding: 0.55rem 0.85rem;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-shadow: 0 6px 18px -8px rgba(0, 0, 0, 0.35);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 180ms ease, transform 180ms ease, visibility 0s linear 180ms;
+    z-index: 5;
+  }
+
+  .hero__verse-latin::before {
+    /* Petite flèche en bas du tooltip */
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 0.2rem);
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border: 5px solid transparent;
+    border-top-color: var(--ink);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 180ms ease, visibility 0s linear 180ms;
+    z-index: 5;
+  }
+
+  .hero__verse-latin:hover::after,
+  .hero__verse-latin:focus-visible::after,
+  .hero__verse-latin:hover::before,
+  .hero__verse-latin:focus-visible::before {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+    transition-delay: 0s;
+  }
+
+  .hero__verse-ref {
+    font-style: normal;
+    color: var(--muted);
+    font-size: 0.85rem;
     letter-spacing: 0.04em;
+    margin-left: 0.4em;
+  }
+
+  /* Titre principal */
+  .hero__title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(2.25rem, 4.5vw + 0.5rem, 3.6rem);
+    line-height: 1.1;
+    letter-spacing: -0.018em;
+    color: var(--ink);
+    margin: 0 0 var(--space-l);
+  }
+
+  /* Lede */
+  .hero__lede {
+    font-family: var(--font-serif);
+    font-size: 1.125rem;
+    line-height: 1.65;
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-xl);
+    max-width: 36rem;
+  }
+
+  /* CTA */
+  .hero__cta {
+    margin: 0;
+  }
+
+  .hero__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55em;
+    padding: 0.85em 1.6em;
+    font-family: var(--font-display);
+    font-size: 1.05rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--paper);
+    background-color: var(--rubric);
+    text-decoration: none;
+    border: 1px solid var(--rubric);
+    transition: background-color 150ms ease, color 150ms ease, transform 200ms ease;
+  }
+
+  .hero__btn:hover,
+  .hero__btn:focus-visible {
+    background-color: var(--paper);
+    color: var(--rubric);
+    transform: translateX(2px);
+  }
+
+  .hero__btn-arrow {
+    transition: transform 200ms ease;
+  }
+
+  .hero__btn:hover .hero__btn-arrow,
+  .hero__btn:focus-visible .hero__btn-arrow {
+    transform: translateX(3px);
+  }
+
+  /* Image hero */
+  .hero__image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .hero__image img {
+    width: 100%;
+    max-width: 460px;
+    height: auto;
+    display: block;
+    user-select: none;
+  }
+
+  @media (min-width: 900px) {
+    .hero__image img {
+      max-width: 520px;
+    }
+  }
+
+  /* Réorganisation mobile : image au-dessus, texte en-dessous */
+  @media (max-width: 899px) {
+    .hero__inner {
+      gap: var(--space-l);
+    }
+    .hero__image {
+      order: -1;
+    }
+    .hero__image img {
+      max-width: 320px;
+    }
+    .hero__text {
+      text-align: center;
+      margin: 0 auto;
+    }
+    .hero__lede {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .hero__verse-latin::after {
+      white-space: normal;
+      max-width: 80vw;
+      width: max-content;
+    }
   }
 </style>

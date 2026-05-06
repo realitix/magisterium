@@ -127,7 +127,7 @@ if (date) {
     <div class="q__layout">
       <article class="prose q__body">
         <slot />
-        <CulDeLampe glyph="a" />
+        <CulDeLampe />
         {voices && <FourVoices voices={voices} />}
       </article>
 
@@ -430,46 +430,50 @@ if (date) {
   }
 </style>
 
-<!-- Enluminures — culs-de-lampe entre les sections + lettrine sur le
-     premier paragraphe de chaque section. Le contenu de la fiche vient du
-     markdown rendu par marked dans le <slot />, et certains fleurons sont
-     injectés en JS (DOM dynamique). On utilise donc is:global pour pouvoir
-     cibler tous ces nœuds. -->
+<!-- Enluminures — bandeau gravé entre chaque section + cul-de-lampe en
+     fin de fiche + lettrine sur le premier paragraphe de chaque section.
+     Le contenu vient du markdown rendu dans le <slot /> et le bandeau est
+     injecté en JS (DOM dynamique). On utilise is:global pour cibler tous
+     ces nœuds. -->
 <style is:global>
-  /* Cul-de-lampe (composant + nœuds injectés par le script ci-dessous) */
-  .q__body .cul-de-lampe {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: var(--space-xl) auto var(--space-l);
-    line-height: 1;
-    color: var(--rubric);
+  /* Cul-de-lampe (composant final) + bandeau (injecté par le script) :
+     mêmes propriétés de base, juste des largeurs différentes. */
+  .q__body .cul-de-lampe,
+  .q__body .bandeau {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
     user-select: none;
-  }
-  .q__body .cul-de-lampe__glyph {
-    font-family: var(--font-fleuron);
-    font-size: 4.5rem;
-    font-weight: 400;
-    line-height: 1;
-    opacity: 0.78;
+    opacity: 0.88;
     transition: opacity 200ms ease;
   }
-  .q__body .cul-de-lampe:hover .cul-de-lampe__glyph {
+  .q__body .cul-de-lampe:hover,
+  .q__body .bandeau:hover {
     opacity: 1;
   }
-  @media (max-width: 640px) {
-    .q__body .cul-de-lampe__glyph {
-      font-size: 3.25rem;
-    }
+
+  .q__body .cul-de-lampe {
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-l);
+    width: min(100%, 230px);
   }
-  @media print {
-    .q__body .cul-de-lampe__glyph {
-      opacity: 1;
-      color: #000;
+  .q__body .bandeau {
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-m);
+    width: min(100%, 460px);
+  }
+
+  @media (max-width: 640px) {
+    .q__body .cul-de-lampe {
+      width: min(100%, 180px);
+    }
+    .q__body .bandeau {
+      width: min(100%, 320px);
     }
   }
 
-  /* Lettrine — premier <p> qui suit chaque <h2> de la fiche (desktop uniquement). */
+  /* Lettrine — premier <p> qui suit chaque <h2> de la fiche (desktop). */
   @media (min-width: 760px) {
     .q__body h2 + p::first-letter {
       font-family: var(--font-display);
@@ -485,24 +489,22 @@ if (date) {
 </style>
 
 <script>
-  // Injecte un cul-de-lampe avant chaque <h2> du corps de la fiche, sauf le
-  // premier (qui ouvre la lecture). Chaque section reçoit un fleuron distinct
-  // pris dans un cycle de glyphes FeFlow2.
-  const glyphs = ['C', 'E', 'b', 'o', 'p', 'd', 'F'];
+  // Injecte un bandeau gravé avant chaque <h2> du corps de la fiche, sauf
+  // le premier (qui ouvre la lecture).
   const body = document.querySelector('.q__body');
   if (body) {
     const h2s = body.querySelectorAll(':scope > h2');
     h2s.forEach((h2, i) => {
       if (i === 0) return;
-      const fleuron = document.createElement('div');
-      fleuron.className = 'cul-de-lampe';
-      fleuron.setAttribute('role', 'presentation');
-      fleuron.setAttribute('aria-hidden', 'true');
-      const span = document.createElement('span');
-      span.className = 'cul-de-lampe__glyph';
-      span.textContent = glyphs[(i - 1) % glyphs.length];
-      fleuron.appendChild(span);
-      h2.parentNode!.insertBefore(fleuron, h2);
+      const img = document.createElement('img');
+      img.src = '/ornements/bandeau.png';
+      img.alt = '';
+      img.setAttribute('role', 'presentation');
+      img.className = 'bandeau';
+      img.width = 1000;
+      img.height = 677;
+      img.loading = 'lazy';
+      h2.parentNode!.insertBefore(img, h2);
     });
   }
 </script>

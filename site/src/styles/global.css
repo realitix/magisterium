@@ -46,16 +46,6 @@
   font-display: swap;
 }
 
-/* IM Fell Flowers — fleurons gravés (Igino Marini, d'après Dr. John Fell, XVIIᵉ s.)
-   Utilisé pour les culs-de-lampe en fin de fiche. */
-@font-face {
-  font-family: 'IM Fell Flowers';
-  src: url('/fonts/FeFlow2.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
 /* -------------------------------------------------------------------------
    Reset moderne
    ------------------------------------------------------------------------- */
@@ -179,7 +169,6 @@ button {
   --font-serif: 'EB Garamond', 'Georgia', serif;
   --font-display: 'Cormorant Garamond', 'EB Garamond', 'Georgia', serif;
   --font-mono: 'Iosevka', 'JetBrains Mono', 'Courier New', ui-monospace, monospace;
-  --font-fleuron: 'IM Fell Flowers', serif;
 
   --size-base: 18px;
   --line-height-prose: 1.65;

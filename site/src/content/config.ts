@@ -16,6 +16,7 @@ const questions = defineCollection({
     tags: z.array(z.string()).default([]),
     related_documents: z.array(z.string()).default([]),
     related_themes: z.array(z.string()).default([]),
+    image: z.string().optional(),
     posture: z.enum(['traditionnelle', 'neutre', 'pastorale']).default('traditionnelle'),
     tampon: z
       .enum([

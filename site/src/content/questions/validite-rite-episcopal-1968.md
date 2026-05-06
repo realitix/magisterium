@@ -32,6 +32,7 @@ related_themes:
   - "magistere-infaillibilite"
   - "liturgie-messe"
 posture: "traditionnelle"
+image: "/questions/validite-rite-episcopal-1968.png"
 voices:
   conciliaire:
     tagline: "Tout est valide, on n'en parle pas."

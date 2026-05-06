@@ -36,6 +36,7 @@ related_documents:
 related_themes:
   - "liturgie-messe"
 posture: "traditionnelle"
+image: "/questions/validite-bonte-nouvelle-messe.png"
 voices:
   conciliaire:
     tagline: "C'est la messe de l'Église — célébrons-la dignement, le reste est rubricisme."

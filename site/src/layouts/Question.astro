@@ -43,6 +43,7 @@ interface Props {
     fsspx?: Voice;
     sedevacantiste?: Voice;
   };
+  image?: string;
   headings?: MarkdownHeading[];
 }
 
@@ -57,6 +58,7 @@ const {
   posture = 'traditionnelle',
   tampon,
   voices,
+  image,
   headings = [],
 } = Astro.props;
 
@@ -102,6 +104,11 @@ if (date) {
       {tampon && (
         <div class="q__tampon">
           <Tampon variant={tampon} />
+        </div>
+      )}
+      {image && (
+        <div class="q__hero-image" aria-hidden="true">
+          <img src={image} alt="" width="600" height="600" loading="eager" />
         </div>
       )}
       <p class="q__eyebrow">Question</p>
@@ -212,6 +219,24 @@ if (date) {
       justify-content: flex-end;
       margin-bottom: var(--space-xs);
     }
+  }
+
+  .q__hero-image {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto var(--space-l);
+    user-select: none;
+  }
+
+  .q__hero-image img {
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    .q__hero-image img { max-width: 240px; }
   }
 
   .q__eyebrow {

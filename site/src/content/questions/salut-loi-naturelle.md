@@ -30,6 +30,7 @@ related_themes:
   - "ecclesiologie-salut-hors-eglise"
   - "oecumenisme-relations-autres-religions"
 posture: "traditionnelle"
+image: "/questions/salut-loi-naturelle.png"
 voices:
   conciliaire:
     tagline: "Oui, un cœur sincère suffit."

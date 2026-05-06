@@ -17,6 +17,7 @@ const questions = defineCollection({
     related_documents: z.array(z.string()).default([]),
     related_themes: z.array(z.string()).default([]),
     image: z.string().optional(),
+    model: z.string().default('Claude Opus 4.7'),
     posture: z.enum(['traditionnelle', 'neutre', 'pastorale']).default('traditionnelle'),
     tampon: z
       .enum([

@@ -44,6 +44,7 @@ interface Props {
     sedevacantiste?: Voice;
   };
   image?: string;
+  model?: string;
   headings?: MarkdownHeading[];
 }
 
@@ -59,6 +60,7 @@ const {
   tampon,
   voices,
   image,
+  model = 'Claude Opus 4.7',
   headings = [],
 } = Astro.props;
 
@@ -122,6 +124,10 @@ if (date) {
         )}
         <span class={`q__posture q__posture--${posture}`}>
           {postureLabel[posture] ?? posture}
+        </span>
+        <span class="q__model" title={`Fiche rédigée par ${model}`}>
+          <span class="q__model-eyebrow">Rédigée par</span>
+          <span class="q__model-name">{model}</span>
         </span>
         {tags.length > 0 && (
           <ul class="q__tags" role="list">
@@ -324,6 +330,32 @@ if (date) {
   .q__posture--pastorale {
     border-color: color-mix(in srgb, var(--gold) 50%, var(--rule));
     color: var(--gold);
+  }
+
+  .q__model {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4em;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  .q__model-eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    font-size: 0.7rem;
+    color: var(--muted);
+  }
+
+  .q__model-name {
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    padding: 0.1em 0.5em;
+    background-color: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
   }
 
   .q__tags {

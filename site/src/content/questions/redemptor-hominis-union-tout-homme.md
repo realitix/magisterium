@@ -25,6 +25,7 @@ related_themes:
   - "ecclesiologie-salut-hors-eglise"
   - "oecumenisme-relations-autres-religions"
 posture: "traditionnelle"
+image: "/questions/redemptor-hominis-union-tout-homme.png"
 voices:
   conciliaire:
     tagline: "Le Christ s'est uni à tout homme — donc tout homme est dans le Christ."

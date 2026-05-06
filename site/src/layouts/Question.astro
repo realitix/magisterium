@@ -499,9 +499,12 @@ if (date) {
     }
   }
 
-  /* Lettrine — premier <p> qui suit chaque <h2> de la fiche (desktop). */
+  /* Lettrine CSS — fallback pour les sections dont la première lettre
+     n'a pas encore d'image gravée (lettrine image gérée par .lettrine
+     ci-dessous, et le script JS retire la lettre du flux quand il
+     l'a remplacée par l'image — donc :first-letter ne s'applique plus). */
   @media (min-width: 760px) {
-    .q__body h2 + p::first-letter {
+    .q__body h2 + p:not(.has-lettrine)::first-letter {
       font-family: var(--font-display);
       float: left;
       font-size: 4.6em;
@@ -512,13 +515,63 @@ if (date) {
       margin: 0.04em 0.04em -0.04em 0;
     }
   }
+
+  /* Lettrine image — gravure XVIIᵉ s. avec rinceaux qui débordent.
+     Masque radial : lettre 100 % opaque au centre, fade progressif
+     vers les bords pour que les rinceaux qui passent sur le texte
+     deviennent un filigrane discret. */
+  .q__body .lettrine {
+    float: left;
+    width: 4.5em;
+    height: 4.5em;
+    margin: 0.05em 0.45em -0.3em -0.55em;
+    shape-outside: circle(50% at 55% 50%);
+    position: relative;
+    overflow: visible;
+    user-select: none;
+  }
+
+  .q__body .lettrine img {
+    position: absolute;
+    width: 165%;
+    height: 165%;
+    top: -32%;
+    left: -32%;
+    pointer-events: none;
+    -webkit-mask-image: radial-gradient(
+      circle at center,
+      black 0%,
+      black 28%,
+      rgba(0, 0, 0, 0.55) 50%,
+      rgba(0, 0, 0, 0.18) 80%,
+      rgba(0, 0, 0, 0.04) 100%
+    );
+    mask-image: radial-gradient(
+      circle at center,
+      black 0%,
+      black 28%,
+      rgba(0, 0, 0, 0.55) 50%,
+      rgba(0, 0, 0, 0.18) 80%,
+      rgba(0, 0, 0, 0.04) 100%
+    );
+  }
+
+  @media (max-width: 640px) {
+    .q__body .lettrine {
+      width: 3.4em;
+      height: 3.4em;
+      margin: 0.05em 0.35em -0.2em -0.2em;
+    }
+  }
 </style>
 
 <script>
-  // Injecte un bandeau gravé avant chaque <h2> du corps de la fiche, sauf
-  // le premier (qui ouvre la lecture).
+  // Lettrines disponibles — étendue au fur et à mesure des générations.
+  const availableLettrines = new Set(['L']);
+
   const body = document.querySelector('.q__body');
   if (body) {
+    // 1. Bandeau gravé avant chaque <h2> sauf le premier.
     const h2s = body.querySelectorAll(':scope > h2');
     h2s.forEach((h2, i) => {
       if (i === 0) return;
@@ -531,6 +584,73 @@ if (date) {
       img.height = 131;
       img.loading = 'lazy';
       h2.parentNode!.insertBefore(img, h2);
+    });
+
+    // 2. Lettrine gravée — premier <p> qui suit chaque <h2>, si la
+    //    première lettre est disponible en image.
+    h2s.forEach((h2) => {
+      let next: Element | null = h2.nextElementSibling;
+      while (next && next.tagName !== 'P') {
+        if (next.tagName === 'H2' || next.tagName === 'H3') {
+          next = null;
+          break;
+        }
+        next = next.nextElementSibling;
+      }
+      if (!next) return;
+      const p = next as HTMLParagraphElement;
+      const text = p.textContent ?? '';
+      const firstChar = text.trim().charAt(0).toUpperCase();
+      if (!availableLettrines.has(firstChar)) return;
+
+      // Trouver le premier nœud texte non-vide et y remplacer la première
+      // lettre par un span.lettrine + image.
+      const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+      let firstTextNode: Text | null = null;
+      while (walker.nextNode()) {
+        const t = walker.currentNode as Text;
+        if (t.textContent && t.textContent.trim().length > 0) {
+          firstTextNode = t;
+          break;
+        }
+      }
+      if (!firstTextNode || !firstTextNode.textContent) return;
+
+      const original = firstTextNode.textContent;
+      const idx = original.search(/\S/);
+      if (idx < 0) return;
+
+      // Découpe : [whitespace prefix] + [lettre] + [reste].
+      const prefix = original.slice(0, idx);
+      const rest = original.slice(idx + 1);
+
+      const lettrineSpan = document.createElement('span');
+      lettrineSpan.className = 'lettrine';
+      lettrineSpan.setAttribute('aria-hidden', 'true');
+      const lettrineImg = document.createElement('img');
+      lettrineImg.src = `/ornements/lettrines/${firstChar}.png`;
+      lettrineImg.alt = '';
+      lettrineImg.width = 600;
+      lettrineImg.height = 600;
+      lettrineImg.loading = 'lazy';
+      lettrineSpan.appendChild(lettrineImg);
+
+      // Conserver la lettre pour les lecteurs d'écran : on l'ajoute en
+      // texte invisible visuellement mais lisible par AT.
+      const srOnly = document.createElement('span');
+      srOnly.className = 'sr-only';
+      srOnly.textContent = firstChar;
+      srOnly.style.cssText = 'position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;';
+
+      // Reconstituer le paragraphe : prefix textuel + lettrine + sr-only + reste.
+      const parent = firstTextNode.parentNode!;
+      if (prefix) parent.insertBefore(document.createTextNode(prefix), firstTextNode);
+      parent.insertBefore(lettrineSpan, firstTextNode);
+      parent.insertBefore(srOnly, firstTextNode);
+      firstTextNode.textContent = rest;
+
+      // Marqueur pour désactiver le ::first-letter CSS sur ce paragraphe.
+      p.classList.add('has-lettrine');
     });
   }
 </script>

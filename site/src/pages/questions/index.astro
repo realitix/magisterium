@@ -2,14 +2,10 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Tampon from '../../components/Tampon.astro';
-import { marked } from 'marked';
-
-const renderInline = (s: string | undefined) =>
-  s ? (marked.parseInline(s, { async: false }) as string) : '';
 
 const entries = await getCollection('questions');
 
-// Tri par date décroissante ; les entrées sans date passent à la fin
+// Tri par date décroissante ; les entrées sans date passent à la fin.
 const sorted = entries.slice().sort((a, b) => {
   const da = a.data.date ?? '';
   const db = b.data.date ?? '';
@@ -18,17 +14,6 @@ const sorted = entries.slice().sort((a, b) => {
   if (!db) return -1;
   return db.localeCompare(da);
 });
-
-function formatDate(iso?: string): string | null {
-  if (!iso) return null;
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso;
-  return d.toLocaleDateString('fr-FR', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  });
-}
 ---
 
 <Base
@@ -40,48 +25,41 @@ function formatDate(iso?: string): string | null {
       <p class="ql__eyebrow">MagisterIA</p>
       <h1 class="ql__title">Questions doctrinales</h1>
       <p class="ql__subtitle">
-        Fiches de synthèse sur les tensions doctrinales, rédigées selon la
-        posture apologétique traditionnelle.
+        Fiches de synthèse sur les tensions doctrinales, rédigées selon
+        la posture apologétique traditionnelle.
       </p>
     </header>
 
     {sorted.length === 0 ? (
       <p class="ql__empty">Aucune fiche disponible pour l'instant.</p>
     ) : (
-      <ul class="ql__list" role="list">
+      <ul class="ql__grid" role="list">
         {sorted.map((entry) => {
           const d = entry.data;
           const slug = entry.slug;
-          const dateDisplay = formatDate(d.date);
           return (
             <li class="ql__item">
-              <article class="qcard">
+              <a
+                class="qcard"
+                href={`/questions/${slug}/`}
+                aria-label={`Lire la fiche : ${d.title}`}
+              >
                 {d.tampon && (
-                  <div class="qcard__tampon">
+                  <span class="qcard__tampon" aria-hidden="true">
                     <Tampon variant={d.tampon} />
-                  </div>
+                  </span>
                 )}
-                <h2 class="qcard__title">
-                  <a href={`/questions/${slug}/`}>{d.title}</a>
-                </h2>
-                <p class="qcard__question">{d.question}</p>
-                {d.summary && <p class="qcard__summary" set:html={renderInline(d.summary)} />}
-                <div class="qcard__meta">
-                  {dateDisplay && (
-                    <time class="qcard__date" datetime={d.date}>{dateDisplay}</time>
-                  )}
-                  {d.tags.length > 0 && (
-                    <ul class="qcard__tags" role="list">
-                      {d.tags.map((tag) => <li class="qcard__tag">{tag}</li>)}
-                    </ul>
-                  )}
-                </div>
-                <p class="qcard__link">
-                  <a href={`/questions/${slug}/`} aria-label={`Lire la fiche : ${d.title}`}>
-                    Lire la fiche
-                  </a>
-                </p>
-              </article>
+
+                {d.image ? (
+                  <span class="qcard__image" aria-hidden="true">
+                    <img src={d.image} alt="" width="600" height="600" loading="lazy" />
+                  </span>
+                ) : (
+                  <span class="qcard__image qcard__image--empty" aria-hidden="true"></span>
+                )}
+
+                <span class="qcard__question">{d.question}</span>
+              </a>
             </li>
           );
         })}
@@ -92,16 +70,16 @@ function formatDate(iso?: string): string | null {
 
 <style>
   .ql {
-    max-width: 60rem;
+    max-width: 78rem;
     margin: 0 auto;
-    padding: var(--space-xl) var(--space-m);
+    padding: var(--space-xl) var(--space-m) var(--space-2xl);
   }
 
   .ql__header {
     text-align: center;
     padding-bottom: var(--space-l);
+    margin-bottom: var(--space-2xl);
     border-bottom: 1px solid var(--rule);
-    margin-bottom: var(--space-xl);
   }
 
   .ql__eyebrow {
@@ -138,136 +116,141 @@ function formatDate(iso?: string): string | null {
     padding: var(--space-xl) 0;
   }
 
-  .ql__list {
+  /* Grille de cartes — 1 / 2 / 2 colonnes selon la largeur. */
+  .ql__grid {
     list-style: none;
     padding: 0;
     margin: 0;
     display: grid;
-    gap: var(--space-l);
+    grid-template-columns: 1fr;
+    gap: var(--space-2xl) var(--space-xl);
+    justify-items: center;
+  }
+
+  @media (min-width: 720px) {
+    .ql__grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
   }
 
   .ql__item {
     margin: 0;
+    width: 100%;
+    max-width: 30rem;
   }
 
+  /* Carte : entièrement cliquable, présentation type « page de livre ». */
   .qcard {
     position: relative;
-    padding: var(--space-l);
-    border: 1px solid var(--rule);
-    background-color: var(--paper);
-    transition: border-color 150ms ease, background-color 150ms ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-m);
+    padding: var(--space-l) var(--space-m);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 220ms ease, filter 220ms ease;
+    isolation: isolate;
   }
 
+  .qcard::before {
+    /* Liseré décoratif — apparait au hover. */
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 1px solid transparent;
+    transition: border-color 220ms ease, background-color 220ms ease;
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  .qcard:hover,
+  .qcard:focus-visible {
+    transform: translateY(-3px);
+  }
+
+  .qcard:hover::before,
+  .qcard:focus-visible::before {
+    border-color: color-mix(in srgb, var(--rubric) 35%, var(--rule));
+    background-color: color-mix(in srgb, var(--paper-dim) 70%, var(--paper));
+  }
+
+  .qcard:focus-visible {
+    outline: 2px solid var(--rubric);
+    outline-offset: 4px;
+  }
+
+  /* Image : grand médaillon centré, ratio 1:1. */
+  .qcard__image {
+    display: block;
+    width: 100%;
+    max-width: 320px;
+    aspect-ratio: 1 / 1;
+  }
+
+  .qcard__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+    transition: opacity 220ms ease;
+  }
+
+  .qcard__image--empty {
+    /* Placeholder : un simple petit fleuron centré pour les fiches sans image. */
+    background-image: radial-gradient(
+      circle,
+      color-mix(in srgb, var(--muted) 18%, transparent) 1px,
+      transparent 1px
+    );
+    background-size: 12px 12px;
+    background-position: center;
+    opacity: 0.4;
+  }
+
+  /* Question : l'élément textuel principal de la carte. */
+  .qcard__question {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: clamp(1.05rem, 1vw + 0.9rem, 1.25rem);
+    line-height: 1.4;
+    color: var(--ink);
+    text-align: center;
+    max-width: 30ch;
+  }
+
+  .qcard:hover .qcard__question,
+  .qcard:focus-visible .qcard__question {
+    color: var(--rubric);
+  }
+
+  /* Tampon — position absolue, fade au hover de la carte
+     (effet « slam » lors du retour, comme dans Question.astro). */
   .qcard__tampon {
     position: absolute;
-    top: 0.75rem;
-    right: 0.75rem;
+    top: var(--space-s);
+    right: var(--space-s);
     z-index: 3;
     pointer-events: none;
   }
 
-  /* Au hover de la carte, le tampon disparaît rapidement pour libérer le
-     titre. À la sortie, retour avec overshoot — effet "slam de tampon". */
-  .qcard:hover .qcard__tampon {
+  .qcard:hover .qcard__tampon,
+  .qcard:focus-visible .qcard__tampon {
     --tampon-opacity: 0;
     --tampon-scale: 1.25;
     --tampon-duration: 160ms;
     --tampon-easing: ease-out;
   }
 
-  /* Sur mobile, on laisse de la place au titre : on pousse le titre sous
-     le tampon en réservant une marge à droite seulement quand il est petit. */
   @media (max-width: 520px) {
     .qcard__tampon {
-      top: 0.5rem;
-      right: 0.5rem;
+      top: var(--space-xs);
+      right: var(--space-xs);
       transform: scale(0.85);
       transform-origin: top right;
     }
-
-    .qcard__title {
-      padding-right: 7rem;
+    .qcard__image {
+      max-width: 240px;
     }
-  }
-
-  .qcard:hover {
-    border-color: color-mix(in srgb, var(--rubric) 35%, var(--rule));
-    background-color: var(--paper-dim);
-  }
-
-  .qcard__title {
-    font-family: var(--font-display);
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-bottom: var(--space-2xs);
-    line-height: 1.25;
-  }
-
-  .qcard__title a {
-    color: var(--ink);
-    text-decoration: none;
-  }
-
-  .qcard__title a:hover,
-  .qcard__title a:focus-visible {
-    color: var(--rubric);
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 0.2em;
-  }
-
-  .qcard__question {
-    font-family: var(--font-display);
-    font-style: italic;
-    font-size: 1.1rem;
-    color: var(--ink-soft);
-    margin-bottom: var(--space-s);
-    line-height: 1.4;
-  }
-
-  .qcard__summary {
-    font-family: var(--font-serif);
-    font-size: 1rem;
-    color: var(--ink-soft);
-    margin-bottom: var(--space-s);
-    line-height: var(--line-height-prose);
-  }
-
-  .qcard__meta {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: var(--space-xs) var(--space-s);
-    margin-top: var(--space-s);
-    font-size: 0.85rem;
-  }
-
-  .qcard__date {
-    color: var(--muted);
-    font-variant-numeric: oldstyle-nums;
-  }
-
-  .qcard__tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--space-3xs) var(--space-2xs);
-    padding: 0;
-    margin: 0;
-  }
-
-  .qcard__tag {
-    display: inline-block;
-    padding: 0.1em 0.55em;
-    font-size: 0.8rem;
-    color: var(--muted);
-    background-color: var(--paper-dim);
-    border-radius: 2px;
-  }
-
-  .qcard__link {
-    margin-top: var(--space-m);
-    font-family: var(--font-display);
-    letter-spacing: 0.04em;
-    font-size: 0.95rem;
   }
 </style>

@@ -58,7 +58,7 @@ const sorted = entries.slice().sort((a, b) => {
                   <span class="qcard__image qcard__image--empty" aria-hidden="true"></span>
                 )}
 
-                <span class="qcard__question">{d.question}</span>
+                <span class="qcard__question">{d.title}</span>
               </a>
             </li>
           );
@@ -116,27 +116,38 @@ const sorted = entries.slice().sort((a, b) => {
     padding: var(--space-xl) 0;
   }
 
-  /* Grille de cartes — 1 / 2 / 2 colonnes selon la largeur. */
+  /* Grille de cartes — 1 / 2 / 3 / 4 colonnes selon la largeur. */
   .ql__grid {
     list-style: none;
     padding: 0;
     margin: 0;
     display: grid;
     grid-template-columns: 1fr;
-    gap: var(--space-2xl) var(--space-xl);
-    justify-items: center;
+    gap: var(--space-l) var(--space-m);
+    justify-items: stretch;
   }
 
-  @media (min-width: 720px) {
+  @media (min-width: 560px) {
     .ql__grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 880px) {
+    .ql__grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .ql__grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
     }
   }
 
   .ql__item {
     margin: 0;
     width: 100%;
-    max-width: 30rem;
   }
 
   /* Carte : entièrement cliquable, présentation type « page de livre ». */
@@ -145,8 +156,9 @@ const sorted = entries.slice().sort((a, b) => {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: var(--space-m);
-    padding: var(--space-l) var(--space-m);
+    gap: var(--space-s);
+    padding: var(--space-m) var(--space-s) var(--space-l);
+    height: 100%;
     text-decoration: none;
     color: inherit;
     transition: transform 220ms ease, filter 220ms ease;
@@ -184,7 +196,7 @@ const sorted = entries.slice().sort((a, b) => {
   .qcard__image {
     display: block;
     width: 100%;
-    max-width: 320px;
+    max-width: 280px;
     aspect-ratio: 1 / 1;
   }
 
@@ -208,15 +220,16 @@ const sorted = entries.slice().sort((a, b) => {
     opacity: 0.4;
   }
 
-  /* Question : l'élément textuel principal de la carte. */
+  /* Question (= title court de la fiche) : l'élément textuel principal. */
   .qcard__question {
     font-family: var(--font-display);
-    font-style: italic;
-    font-size: clamp(1.05rem, 1vw + 0.9rem, 1.25rem);
-    line-height: 1.4;
+    font-weight: 600;
+    font-size: clamp(1rem, 0.5vw + 0.9rem, 1.15rem);
+    line-height: 1.3;
+    letter-spacing: -0.005em;
     color: var(--ink);
     text-align: center;
-    max-width: 30ch;
+    max-width: 28ch;
   }
 
   .qcard:hover .qcard__question,

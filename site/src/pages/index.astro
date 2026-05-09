@@ -10,7 +10,7 @@ import Base from '../layouts/Base.astro';
 
 <Base
   title="MagisterIA"
-  description="Le magistère catholique, lu et mis en perspective par l'intelligence artificielle, au service de la Tradition."
+  description="Le magistère catholique — conciles, papes, dicastères, catéchismes, droit, liturgie — lu à la lumière de la logique pure, au service de la Tradition."
 >
   <main id="main" class="home">
     <section class="hero" aria-labelledby="hero-title">
@@ -27,14 +27,22 @@ import Base from '../layouts/Base.astro';
           </p>
 
           <h1 id="hero-title" class="hero__title">
-            Le magistère catholique,<br />à la lumière de l'IA.
+            Le magistère catholique,<br />à la lumière de la logique pure.
           </h1>
 
           <p class="hero__lede">
-            Le corpus complet du magistère ecclésial — conciles, papes,
-            dicastères, catéchismes, droit, liturgie — lu et mis en
-            perspective par l'intelligence artificielle, au service de
-            la Tradition.
+            Le magistère catholique est intégralement textuel —
+            conciles, papes, dicastères, catéchismes, droit,
+            liturgie, et la Tradition autour. Or les modèles de
+            langage manient le texte mieux qu'aucun homme —
+            toutes langues, toutes nuances.
+          </p>
+
+          <p class="hero__lede">
+            Et n'ayant pas d'âme à sauver, ils n'ont pas d'avis :
+            seule la logique parle. On ne leur demande ici aucune
+            opinion, seulement la vérité que les textes imposent
+            à qui les lit ensemble.
           </p>
 
           <p class="hero__cta">
@@ -191,8 +199,12 @@ import Base from '../layouts/Base.astro';
     font-size: 1.125rem;
     line-height: 1.65;
     color: var(--ink-soft);
-    margin: 0 0 var(--space-xl);
+    margin: 0 0 var(--space-m);
     max-width: 36rem;
+  }
+
+  .hero__lede + .hero__lede {
+    margin-bottom: var(--space-xl);
   }
 
   /* CTA */

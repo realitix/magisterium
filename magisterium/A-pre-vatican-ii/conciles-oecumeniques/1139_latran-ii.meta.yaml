@@ -2,6 +2,7 @@ incipit: Latran II
 titre_fr: Concile de Latran II
 auteur: Innocent II
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '1139-04-04'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 0d986e3656927460b16f1f1c3079302f7e2c3220533a437c9998f3d5bab2885d
     source_url: https://www.documentacatholicaomnia.eu/03d/1139-1139,_Concilium_Lateranum_II,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 06a20a3623da3660e71e7c065c28487e1e4c7ea1605910d4651307ba2ebb5bf5
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 0d986e3656927460b16f1f1c3079302f7e2c3220533a437c9998f3d5bab2885d
+    translated_at: '2026-05-10T08:21:16.877462Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 7fac9fbfcb70bbbefd5946cae01dbd6502ebe5b3441094abac72badd147d4466
   la: 0d986e3656927460b16f1f1c3079302f7e2c3220533a437c9998f3d5bab2885d
+  fr: 06a20a3623da3660e71e7c065c28487e1e4c7ea1605910d4651307ba2ebb5bf5

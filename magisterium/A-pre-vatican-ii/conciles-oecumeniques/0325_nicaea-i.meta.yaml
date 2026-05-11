@@ -2,6 +2,7 @@ incipit: Nicée I
 titre_fr: Concile de Nicée I
 auteur: Sylvestre Ier
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0325-06-19'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 5ce2d91ffae8fcd650478420382881d18ebb826f07b3d7a4365814bfc5d420f4
     source_url: https://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 534af8cdf6396649eebb6d68834add58d5afa8609550aede2866cbe715a0c2c8
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 5ce2d91ffae8fcd650478420382881d18ebb826f07b3d7a4365814bfc5d420f4
+    translated_at: '2026-05-10T08:18:46.760341Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 3f1cac9cde67af0709c7fb6f2cd56e590050e027a93e1c01ab925e5f1d97d595
   la: 5ce2d91ffae8fcd650478420382881d18ebb826f07b3d7a4365814bfc5d420f4
+  fr: 534af8cdf6396649eebb6d68834add58d5afa8609550aede2866cbe715a0c2c8

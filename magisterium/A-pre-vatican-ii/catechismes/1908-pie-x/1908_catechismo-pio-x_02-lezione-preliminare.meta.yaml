@@ -2,6 +2,7 @@ incipit: Catechismo Maggiore di San Pio X — Lezione preliminare — Della Dott
 titre_fr: Catéchisme de saint Pie X — Lezione preliminare — Della Dottrina Cristiana
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 7ceebfcded11ffc32fd892ce313b8c10c77c848d61a47c27aefd74fe73644083
-    source_url: https://www.maranatha.it/catpiox/04text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 7ceebfcded11ffc32fd892ce313b8c10c77c848d61a47c27aefd74fe73644083
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 3
   partie_titre: Leçon préliminaire
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 7ceebfcded11ffc32fd892ce313b8c10c77c848d61a47c27aefd74fe73644083
+    source_url: https://www.maranatha.it/catpiox/04text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: e808af4b149bd78406201a1bf613b734de8f4f6c3ef2f3675b1f0bfa8a608dc0
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 7ceebfcded11ffc32fd892ce313b8c10c77c848d61a47c27aefd74fe73644083
+    translated_at: '2026-05-09T06:07:58.803629Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 7ceebfcded11ffc32fd892ce313b8c10c77c848d61a47c27aefd74fe73644083
+  fr: e808af4b149bd78406201a1bf613b734de8f4f6c3ef2f3675b1f0bfa8a608dc0

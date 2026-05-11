@@ -2,6 +2,7 @@ incipit: Constantinople I
 titre_fr: Concile de Constantinople I
 auteur: Damase Ier
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0381-05-01'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 5f7d0a3d7c0a2db931460ddc28d0a22f0b89256cc04695f0dfe783e47d6cdbcd
     source_url: https://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 017904a01c032e8b0926e033e8818282b54d63bc756e08eb0bedf7d5ff02da3b
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 5f7d0a3d7c0a2db931460ddc28d0a22f0b89256cc04695f0dfe783e47d6cdbcd
+    translated_at: '2026-05-10T08:18:51.498874Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 444f19a2386aaf1014e15f5fda8dc87353ee61347263d0585037a19930bf7c31
   la: 5f7d0a3d7c0a2db931460ddc28d0a22f0b89256cc04695f0dfe783e47d6cdbcd
+  fr: 017904a01c032e8b0926e033e8818282b54d63bc756e08eb0bedf7d5ff02da3b

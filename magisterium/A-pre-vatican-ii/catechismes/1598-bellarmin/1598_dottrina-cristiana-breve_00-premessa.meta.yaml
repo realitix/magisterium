@@ -2,6 +2,7 @@ incipit: Dottrina cristiana breve — Premessa all'uso del catechismo
 titre_fr: Catéchisme de saint Robert Bellarmin — Premessa all'uso del catechismo
 auteur: Robert Bellarmin
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1598-07-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -23,19 +24,28 @@ sources:
   site: archive.org
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: be658a40ec38fa0b98cb88cc6edfa8af8d010069de08e2edea770a917a415a41
-    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: be658a40ec38fa0b98cb88cc6edfa8af8d010069de08e2edea770a917a415a41
 ouvrage:
   slug: 1598_dottrina-cristiana-breve
   titre: Dottrina cristiana breve (saint Robert Bellarmin)
   partie_index: 1
   partie_titre: Premessa
   total_parties: 6
+traductions:
+  it:
+    kind: originale
+    sha256: be658a40ec38fa0b98cb88cc6edfa8af8d010069de08e2edea770a917a415a41
+    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: dbfa5201310d716dfd805a5c8dfb285316dc5b36c9e5b1ab324c958fcd2a6c27
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: be658a40ec38fa0b98cb88cc6edfa8af8d010069de08e2edea770a917a415a41
+    translated_at: '2026-05-09T06:05:19.650015Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: be658a40ec38fa0b98cb88cc6edfa8af8d010069de08e2edea770a917a415a41
+  fr: dbfa5201310d716dfd805a5c8dfb285316dc5b36c9e5b1ab324c958fcd2a6c27

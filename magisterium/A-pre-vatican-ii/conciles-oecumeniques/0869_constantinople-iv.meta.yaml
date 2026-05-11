@@ -2,6 +2,7 @@ incipit: Constantinople IV
 titre_fr: Concile de Constantinople IV
 auteur: Hadrien II
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0869-10-05'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 58631b6c37326514e77a24196373e24718cd08e36fc69030ad94662f2bc203d7
     source_url: https://www.documentacatholicaomnia.eu/03d/0869-0870,_Concilium_Constantinopolitanum_IV,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 7e95067ea564b371b730ee411dbd284b76a2e70207b4e2d0d115864c345d1d4e
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 58631b6c37326514e77a24196373e24718cd08e36fc69030ad94662f2bc203d7
+    translated_at: '2026-05-10T08:25:36.830584Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: a9d62717753e42a0b7f11d1887f3bef02996d2b63848a2a750e609f91827cb57
   la: 58631b6c37326514e77a24196373e24718cd08e36fc69030ad94662f2bc203d7
+  fr: 7e95067ea564b371b730ee411dbd284b76a2e70207b4e2d0d115864c345d1d4e

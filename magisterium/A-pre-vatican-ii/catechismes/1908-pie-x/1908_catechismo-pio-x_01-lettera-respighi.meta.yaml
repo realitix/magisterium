@@ -2,6 +2,7 @@ incipit: Catechismo Maggiore di San Pio X — Lettera di San Pio X al Cardinale 
 titre_fr: Catéchisme de saint Pie X — Lettera di San Pio X al Cardinale Respighi
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 2dc4094617fa78ab170f7d809c44e5286b9024adab902c5c1fb413fc23435c72
-    source_url: https://www.maranatha.it/catpiox/03text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 2dc4094617fa78ab170f7d809c44e5286b9024adab902c5c1fb413fc23435c72
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 2
   partie_titre: Lettre au cardinal Respighi
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 2dc4094617fa78ab170f7d809c44e5286b9024adab902c5c1fb413fc23435c72
+    source_url: https://www.maranatha.it/catpiox/03text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: dc4f91f3773362438cdb8e2744c00391e50be3a0bbb55a5351ae108592c95be1
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 2dc4094617fa78ab170f7d809c44e5286b9024adab902c5c1fb413fc23435c72
+    translated_at: '2026-05-09T06:07:30.758238Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 2dc4094617fa78ab170f7d809c44e5286b9024adab902c5c1fb413fc23435c72
+  fr: dc4f91f3773362438cdb8e2744c00391e50be3a0bbb55a5351ae108592c95be1

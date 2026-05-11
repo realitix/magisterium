@@ -2,6 +2,7 @@ incipit: Constance
 titre_fr: Concile de Constance
 auteur: Jean XXIII (antipape) / Martin V
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '1414-11-16'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 82e0fefa5618364876f67665f3f7d38225952dfca958b7ed49c5c5a4685a5030
     source_url: https://www.documentacatholicaomnia.eu/03d/1414-1414,_Concilium_Constantiense,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: b560103c5d7d2c91945812bce5b62ef418ff97e1f330f6ab4b2854effca59fd6
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 82e0fefa5618364876f67665f3f7d38225952dfca958b7ed49c5c5a4685a5030
+    translated_at: '2026-05-11T07:58:29.686322Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 4ef4cd9237975015c719deab15143ae27723dcec889a8d50a0f8703eaeeb0b28
   la: 82e0fefa5618364876f67665f3f7d38225952dfca958b7ed49c5c5a4685a5030
+  fr: b560103c5d7d2c91945812bce5b62ef418ff97e1f330f6ab4b2854effca59fd6

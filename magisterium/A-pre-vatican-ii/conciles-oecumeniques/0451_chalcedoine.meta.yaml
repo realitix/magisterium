@@ -2,6 +2,7 @@ incipit: Chalcédoine
 titre_fr: Concile de Chalcédoine
 auteur: Léon Ier
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0451-10-08'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 7514de29e339a29e27bfbc54320307ee6c7d3b351565139cea3d5053a5166b45
     source_url: https://www.documentacatholicaomnia.eu/03d/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 80de5a8e7a3506016ae9c99e8d18a5898e68d0fa55cf7ce3147c2e312d42ebb4
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 7514de29e339a29e27bfbc54320307ee6c7d3b351565139cea3d5053a5166b45
+    translated_at: '2026-05-10T08:24:46.759699Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 2c56955921a1f03f607e0ca80c82ca98a084fbb649c7ad81923c36d6dcbd8458
   la: 7514de29e339a29e27bfbc54320307ee6c7d3b351565139cea3d5053a5166b45
+  fr: 80de5a8e7a3506016ae9c99e8d18a5898e68d0fa55cf7ce3147c2e312d42ebb4

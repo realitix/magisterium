@@ -4,6 +4,7 @@ titre_fr: Catéchisme de saint Robert Bellarmin — Terza Classe — Dei Comanda
   Dio, delle virtù, dei sacramenti e del Rosario
 auteur: Robert Bellarmin
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1598-07-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -25,19 +26,28 @@ sources:
   site: archive.org
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 38524517305cf9c718d005e241ad76fa7b143d72b721416717485c901ed48a96
-    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 38524517305cf9c718d005e241ad76fa7b143d72b721416717485c901ed48a96
 ouvrage:
   slug: 1598_dottrina-cristiana-breve
   titre: Dottrina cristiana breve (saint Robert Bellarmin)
   partie_index: 4
   partie_titre: Terza classe — Commandements, Sacrements, Rosaire
   total_parties: 6
+traductions:
+  it:
+    kind: originale
+    sha256: 38524517305cf9c718d005e241ad76fa7b143d72b721416717485c901ed48a96
+    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 9db0dc49965358fd6e59683e3fa02151b9fa18d74fbfa8ec7c8121ef2c3d4ac5
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 38524517305cf9c718d005e241ad76fa7b143d72b721416717485c901ed48a96
+    translated_at: '2026-05-09T06:06:58.602109Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 38524517305cf9c718d005e241ad76fa7b143d72b721416717485c901ed48a96
+  fr: 9db0dc49965358fd6e59683e3fa02151b9fa18d74fbfa8ec7c8121ef2c3d4ac5

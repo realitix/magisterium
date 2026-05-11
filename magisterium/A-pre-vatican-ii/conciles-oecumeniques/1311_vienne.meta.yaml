@@ -2,6 +2,7 @@ incipit: Vienne
 titre_fr: Concile de Vienne
 auteur: Clément V
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '1311-10-16'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: aebeea7fe93483efc0c78f976acca8e336d7c1875699c7a618a51a256896cce4
     source_url: https://www.documentacatholicaomnia.eu/03d/1311-1312,_Concilium_Viennense,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 7934c310caaba728ffedcf694b257a80b9fbba1a262bf76eec478aec91f88171
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: aebeea7fe93483efc0c78f976acca8e336d7c1875699c7a618a51a256896cce4
+    translated_at: '2026-05-10T08:33:07.762717Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: afd618d0a77e5b31858c8c20209c180b6769ba77abcc8a68790e7c7fddc26a24
   la: aebeea7fe93483efc0c78f976acca8e336d7c1875699c7a618a51a256896cce4
+  fr: 7934c310caaba728ffedcf694b257a80b9fbba1a262bf76eec478aec91f88171

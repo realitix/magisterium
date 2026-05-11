@@ -2,6 +2,7 @@ incipit: Nicée II
 titre_fr: Concile de Nicée II
 auteur: Hadrien Ier
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0787-09-24'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 216f84e1e452f334942ff7a2f89dcc60bf849af006f071668797caf5613dd6bd
     source_url: https://www.documentacatholicaomnia.eu/03d/0787-0787,_Concilium_Nicaenum_II,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 9ccf2e3074fc7a44ec11be1ccb6b7c7b7ea905f7dbd87e7e814a5e46cfd5d14f
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 216f84e1e452f334942ff7a2f89dcc60bf849af006f071668797caf5613dd6bd
+    translated_at: '2026-05-10T08:21:12.034031Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: c61471ac55f120cf85009a2047cd97fd2c60fcd89d4f2fb910c93386f4d69932
   la: 216f84e1e452f334942ff7a2f89dcc60bf849af006f071668797caf5613dd6bd
+  fr: 9ccf2e3074fc7a44ec11be1ccb6b7c7b7ea905f7dbd87e7e814a5e46cfd5d14f

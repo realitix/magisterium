@@ -2,6 +2,7 @@ incipit: Catechismo Maggiore di San Pio X — Parte seconda — Dell'Orazione
 titre_fr: Catéchisme de saint Pie X — Parte seconda — Dell'Orazione
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 07e4e6604fefa6683a46a026242b73b3bc4549d4db8c3e0a8169ed1abf82be9b
-    source_url: https://www.maranatha.it/catpiox/06text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 07e4e6604fefa6683a46a026242b73b3bc4549d4db8c3e0a8169ed1abf82be9b
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 5
   partie_titre: Partie II — Oraison
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 07e4e6604fefa6683a46a026242b73b3bc4549d4db8c3e0a8169ed1abf82be9b
+    source_url: https://www.maranatha.it/catpiox/06text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 8b6818f9170d71dff752bac8c8459139f7fe616317ca5a5b59810ee7360854dd
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 07e4e6604fefa6683a46a026242b73b3bc4549d4db8c3e0a8169ed1abf82be9b
+    translated_at: '2026-05-09T06:10:23.139106Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 07e4e6604fefa6683a46a026242b73b3bc4549d4db8c3e0a8169ed1abf82be9b
+  fr: 8b6818f9170d71dff752bac8c8459139f7fe616317ca5a5b59810ee7360854dd

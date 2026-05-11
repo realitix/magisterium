@@ -4,6 +4,7 @@ titre_fr: Catéchisme de saint Pie X — Parte terza — Dei Comandamenti di Dio
   Chiesa
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -24,19 +25,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: e34bf22cbcc97c69a8176cadf60faf0c0055c401af8af0b0555b423e0fb7071a
-    source_url: https://www.maranatha.it/catpiox/07text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: e34bf22cbcc97c69a8176cadf60faf0c0055c401af8af0b0555b423e0fb7071a
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 6
   partie_titre: Partie III — Commandements
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: e34bf22cbcc97c69a8176cadf60faf0c0055c401af8af0b0555b423e0fb7071a
+    source_url: https://www.maranatha.it/catpiox/07text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 6292c0315d9cb471eef2c7e4db713d49f47a2f8e84aaa418db7f222ddc906a8f
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: e34bf22cbcc97c69a8176cadf60faf0c0055c401af8af0b0555b423e0fb7071a
+    translated_at: '2026-05-09T06:13:05.369366Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: e34bf22cbcc97c69a8176cadf60faf0c0055c401af8af0b0555b423e0fb7071a
+  fr: 6292c0315d9cb471eef2c7e4db713d49f47a2f8e84aaa418db7f222ddc906a8f

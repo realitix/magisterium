@@ -3,6 +3,7 @@ titre_fr: Catéchisme romain / Catéchisme du concile de Trente — Praxis Catec
   — concionatoria per Dominicas
 auteur: Pie V
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1566-09-24'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: archive.org
   langue: la
   fetch_method: djvu-ocr
-traductions:
-  la:
-    kind: originale
-    sha256: 06da73545793c8519c3dfa14f8d1ca4804899dff1cf40bcb8cc621fa7401d792
-    source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
-    fetch_method: djvu-ocr
-langues_disponibles:
-- la
-sha256:
-  la: 06da73545793c8519c3dfa14f8d1ca4804899dff1cf40bcb8cc621fa7401d792
 ouvrage:
   slug: 1566_catechismus-romanus
   titre: Catéchisme du concile de Trente
   partie_index: 6
   partie_titre: Praxis concionatoria (homilétique)
   total_parties: 6
+traductions:
+  la:
+    kind: originale
+    sha256: 06da73545793c8519c3dfa14f8d1ca4804899dff1cf40bcb8cc621fa7401d792
+    source_url: https://archive.org/download/gri_33125007759364/gri_33125007759364_djvu.txt
+    fetch_method: djvu-ocr
+  fr:
+    kind: ia
+    sha256: a70475fa65983f4e3f60ce6ef39529877f7769a46dcf05f05d87ebbddfa0cd9b
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 06da73545793c8519c3dfa14f8d1ca4804899dff1cf40bcb8cc621fa7401d792
+    translated_at: '2026-05-09T06:11:31.880975Z'
+langues_disponibles:
+- la
+- fr
+sha256:
+  la: 06da73545793c8519c3dfa14f8d1ca4804899dff1cf40bcb8cc621fa7401d792
+  fr: a70475fa65983f4e3f60ce6ef39529877f7769a46dcf05f05d87ebbddfa0cd9b

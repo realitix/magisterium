@@ -4,6 +4,7 @@ titre_fr: Catéchisme de saint Pie X — Istruzione sulle feste — parte II (Ve
   santi)
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -24,19 +25,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 6da46fd3b85b871c213977f1c7ba5a5cc2065c05a4d1ca3d50077c4301cf348e
-    source_url: https://www.maranatha.it/catpiox/11text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 6da46fd3b85b871c213977f1c7ba5a5cc2065c05a4d1ca3d50077c4301cf348e
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 10
   partie_titre: Fêtes II — de la Vierge et des Saints
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 6da46fd3b85b871c213977f1c7ba5a5cc2065c05a4d1ca3d50077c4301cf348e
+    source_url: https://www.maranatha.it/catpiox/11text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: e4638e2caaa8eeb1166399d5d1e0b93266fc710707a93e636c5f639cfe02c9c0
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 6da46fd3b85b871c213977f1c7ba5a5cc2065c05a4d1ca3d50077c4301cf348e
+    translated_at: '2026-05-09T06:13:58.601521Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 6da46fd3b85b871c213977f1c7ba5a5cc2065c05a4d1ca3d50077c4301cf348e
+  fr: e4638e2caaa8eeb1166399d5d1e0b93266fc710707a93e636c5f639cfe02c9c0

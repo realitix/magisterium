@@ -2,6 +2,7 @@ incipit: Florence
 titre_fr: Concile de Florence
 auteur: Eugène IV
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '1431-07-23'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 83ca58ec40d8aa1d38e1eadbb180e937513d5d35ac988ae400c229b792e66a65
     source_url: https://www.documentacatholicaomnia.eu/03d/1431-1431,_Concilium_Basiliense,_Documenta_Concilii_Basiliensis,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: b2dc6773051cdefd4ced5fc3d06ad98a054dd45d85bd7576257b5c7a4328fbd9
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 83ca58ec40d8aa1d38e1eadbb180e937513d5d35ac988ae400c229b792e66a65
+    translated_at: '2026-05-11T07:58:29.794015Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: fb0e349ebf9805164d562381d4c73593f15645e659312d8153da633a432d864c
   la: 83ca58ec40d8aa1d38e1eadbb180e937513d5d35ac988ae400c229b792e66a65
+  fr: b2dc6773051cdefd4ced5fc3d06ad98a054dd45d85bd7576257b5c7a4328fbd9

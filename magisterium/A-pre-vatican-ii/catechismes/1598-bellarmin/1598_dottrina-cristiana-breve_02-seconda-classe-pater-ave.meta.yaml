@@ -4,6 +4,7 @@ titre_fr: Catéchisme de saint Robert Bellarmin — Seconda Classe — Dichiaraz
   Pater noster e dell'Ave Maria
 auteur: Robert Bellarmin
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1598-07-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -25,19 +26,28 @@ sources:
   site: archive.org
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 2c72455c28c2a9ef8dbbb10422f0d24ddd2bf85e8f0754d466338123f2620a01
-    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 2c72455c28c2a9ef8dbbb10422f0d24ddd2bf85e8f0754d466338123f2620a01
 ouvrage:
   slug: 1598_dottrina-cristiana-breve
   titre: Dottrina cristiana breve (saint Robert Bellarmin)
   partie_index: 3
   partie_titre: Seconda classe — Pater, Ave Maria
   total_parties: 6
+traductions:
+  it:
+    kind: originale
+    sha256: 2c72455c28c2a9ef8dbbb10422f0d24ddd2bf85e8f0754d466338123f2620a01
+    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 97c51be0b0a0aa0140f4a8cc51a1cdd50d2744f5340d5aae44e776c206053f2d
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 2c72455c28c2a9ef8dbbb10422f0d24ddd2bf85e8f0754d466338123f2620a01
+    translated_at: '2026-05-09T06:05:24.237369Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 2c72455c28c2a9ef8dbbb10422f0d24ddd2bf85e8f0754d466338123f2620a01
+  fr: 97c51be0b0a0aa0140f4a8cc51a1cdd50d2744f5340d5aae44e776c206053f2d

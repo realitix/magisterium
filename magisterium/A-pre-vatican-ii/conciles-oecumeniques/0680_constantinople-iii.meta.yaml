@@ -2,6 +2,7 @@ incipit: Constantinople III
 titre_fr: Concile de Constantinople III
 auteur: Agathon
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0680-11-07'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: f0bfa28479dd6750b6253dc6d6a9470d3e361a80c38e5abf9cdaa8c258228348
     source_url: https://www.documentacatholicaomnia.eu/03d/0680-0680,_Concilium_Constantinopolitanum_III,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 096118d9334613adce48a380e166bbcadd1c01e981522d669e290153fb76ab13
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: f0bfa28479dd6750b6253dc6d6a9470d3e361a80c38e5abf9cdaa8c258228348
+    translated_at: '2026-05-10T08:18:04.887168Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: cdfe93db97104fd20bef40835408cf87682203f700914845fc2e76493da7eed1
   la: f0bfa28479dd6750b6253dc6d6a9470d3e361a80c38e5abf9cdaa8c258228348
+  fr: 096118d9334613adce48a380e166bbcadd1c01e981522d669e290153fb76ab13

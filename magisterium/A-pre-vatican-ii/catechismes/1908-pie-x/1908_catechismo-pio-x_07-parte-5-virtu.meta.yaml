@@ -2,6 +2,7 @@ incipit: Catechismo Maggiore di San Pio X — Parte quinta — Delle virtù prin
 titre_fr: Catéchisme de saint Pie X — Parte quinta — Delle virtù principali
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 2c38df51ecafa8ef328d4c489da8927d592ccd01951ee0e2124e3612fb59105b
-    source_url: https://www.maranatha.it/catpiox/09text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 2c38df51ecafa8ef328d4c489da8927d592ccd01951ee0e2124e3612fb59105b
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 8
   partie_titre: Partie V — Vertus et vices
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 2c38df51ecafa8ef328d4c489da8927d592ccd01951ee0e2124e3612fb59105b
+    source_url: https://www.maranatha.it/catpiox/09text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 1b7e65d1f6ad3c8e7b207655ec557da03440113a29f44b35f6f0926417153594
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 2c38df51ecafa8ef328d4c489da8927d592ccd01951ee0e2124e3612fb59105b
+    translated_at: '2026-05-09T06:12:22.164170Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 2c38df51ecafa8ef328d4c489da8927d592ccd01951ee0e2124e3612fb59105b
+  fr: 1b7e65d1f6ad3c8e7b207655ec557da03440113a29f44b35f6f0926417153594

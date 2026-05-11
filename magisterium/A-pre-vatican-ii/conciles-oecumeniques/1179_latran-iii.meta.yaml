@@ -2,6 +2,7 @@ incipit: Latran III
 titre_fr: Concile de Latran III
 auteur: Alexandre III
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '1179-03-05'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: a5a3235217c06515e9d8a73ba88fbe954c6f28da5c7db3b048908a6668156f6e
     source_url: https://www.documentacatholicaomnia.eu/03d/1179-1179,_Concilium_Lateranum_III,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 26b112e9ebf972006fffd44988918ffa862d69f5c0e2755874234ee46b307f4f
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: a5a3235217c06515e9d8a73ba88fbe954c6f28da5c7db3b048908a6668156f6e
+    translated_at: '2026-05-10T08:24:42.348095Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 33aaddf4502f9ad1621e4381a36134565a657f13eaae254137b4f8e064a322ee
   la: a5a3235217c06515e9d8a73ba88fbe954c6f28da5c7db3b048908a6668156f6e
+  fr: 26b112e9ebf972006fffd44988918ffa862d69f5c0e2755874234ee46b307f4f

@@ -4,6 +4,7 @@ titre_fr: Catéchisme de saint Pie X — Breve storia della religione — Princi
   fondamentali
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -24,19 +25,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 06bf7487e18d0853a9c3fb4606163031e3983ce644b9a66dce9c4cfeca5571ad
-    source_url: https://www.maranatha.it/catpiox/12text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 06bf7487e18d0853a9c3fb4606163031e3983ce644b9a66dce9c4cfeca5571ad
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 11
   partie_titre: Histoire — Principes
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 06bf7487e18d0853a9c3fb4606163031e3983ce644b9a66dce9c4cfeca5571ad
+    source_url: https://www.maranatha.it/catpiox/12text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 71259f02f81cb8a2bae7252f345a5ff488f87968027622ceabc2ebd6b97f1ae5
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 06bf7487e18d0853a9c3fb4606163031e3983ce644b9a66dce9c4cfeca5571ad
+    translated_at: '2026-05-09T06:12:49.703213Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 06bf7487e18d0853a9c3fb4606163031e3983ce644b9a66dce9c4cfeca5571ad
+  fr: 71259f02f81cb8a2bae7252f345a5ff488f87968027622ceabc2ebd6b97f1ae5

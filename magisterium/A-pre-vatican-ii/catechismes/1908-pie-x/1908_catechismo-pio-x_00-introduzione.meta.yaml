@@ -2,6 +2,7 @@ incipit: Catechismo Maggiore di San Pio X — Introduzione al Compendio
 titre_fr: Catéchisme de saint Pie X — Introduzione al Compendio
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 51c4dadf291e1a866cf77fa2dad5a5dc9b20d140472c2820618149564a3c7a25
-    source_url: https://www.maranatha.it/catpiox/02text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 51c4dadf291e1a866cf77fa2dad5a5dc9b20d140472c2820618149564a3c7a25
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 1
   partie_titre: Introduction
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 51c4dadf291e1a866cf77fa2dad5a5dc9b20d140472c2820618149564a3c7a25
+    source_url: https://www.maranatha.it/catpiox/02text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 4e1fae17968eb5e95e2de22ba60dafcfcbe9fcee6c177d1cd34f9024a3858ccd
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 51c4dadf291e1a866cf77fa2dad5a5dc9b20d140472c2820618149564a3c7a25
+    translated_at: '2026-05-09T06:07:30.655657Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 51c4dadf291e1a866cf77fa2dad5a5dc9b20d140472c2820618149564a3c7a25
+  fr: 4e1fae17968eb5e95e2de22ba60dafcfcbe9fcee6c177d1cd34f9024a3858ccd

@@ -2,6 +2,7 @@ incipit: Catechismo Maggiore di San Pio X — Parte quarta — Dei Sacramenti
 titre_fr: Catéchisme de saint Pie X — Parte quarta — Dei Sacramenti
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: 59b07e22aa6dc77466fba7962d7e6aa9e7bed0b2cbeb7e9ff4846c68f78866b7
-    source_url: https://www.maranatha.it/catpiox/08text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: 59b07e22aa6dc77466fba7962d7e6aa9e7bed0b2cbeb7e9ff4846c68f78866b7
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 7
   partie_titre: Partie IV — Sacrements
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: 59b07e22aa6dc77466fba7962d7e6aa9e7bed0b2cbeb7e9ff4846c68f78866b7
+    source_url: https://www.maranatha.it/catpiox/08text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: b80ff928e9a6af66a9a109b8e605a3e2cc005c6ed5fb8fee08c57f6505f6aa13
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: 59b07e22aa6dc77466fba7962d7e6aa9e7bed0b2cbeb7e9ff4846c68f78866b7
+    translated_at: '2026-05-09T10:02:32.187507Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: 59b07e22aa6dc77466fba7962d7e6aa9e7bed0b2cbeb7e9ff4846c68f78866b7
+  fr: b80ff928e9a6af66a9a109b8e605a3e2cc005c6ed5fb8fee08c57f6505f6aa13

@@ -3,6 +3,7 @@ incipit: Catechismo Maggiore di San Pio X — Parte prima — Del Simbolo degli 
 titre_fr: Catéchisme de saint Pie X — Parte prima — Del Simbolo degli Apostoli (Credo)
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -23,19 +24,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: cc9074cf90e7c9efb1fa88958ba4943d186c56d1fa90a5312eeac827820d071b
-    source_url: https://www.maranatha.it/catpiox/05text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: cc9074cf90e7c9efb1fa88958ba4943d186c56d1fa90a5312eeac827820d071b
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 4
   partie_titre: Partie I — Credo
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: cc9074cf90e7c9efb1fa88958ba4943d186c56d1fa90a5312eeac827820d071b
+    source_url: https://www.maranatha.it/catpiox/05text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: b2fb7b9f1a3cede31c447d698bcac243aa637d122c7eefb437fdb51206430f82
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: cc9074cf90e7c9efb1fa88958ba4943d186c56d1fa90a5312eeac827820d071b
+    translated_at: '2026-05-09T10:02:32.080501Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: cc9074cf90e7c9efb1fa88958ba4943d186c56d1fa90a5312eeac827820d071b
+  fr: b2fb7b9f1a3cede31c447d698bcac243aa637d122c7eefb437fdb51206430f82

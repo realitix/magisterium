@@ -2,6 +2,7 @@ incipit: Catechismo Maggiore di San Pio X — Breve storia — parte I (Antico T
 titre_fr: Catéchisme de saint Pie X — Breve storia — parte I (Antico Testamento)
 auteur: Pie X
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1908-06-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -22,19 +23,28 @@ sources:
   site: www.maranatha.it
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: a1670e9ee7af24a1e1497dc6b5120071cc21955dd5b6a302d5f39f48015dd68b
-    source_url: https://www.maranatha.it/catpiox/13text.htm
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: a1670e9ee7af24a1e1497dc6b5120071cc21955dd5b6a302d5f39f48015dd68b
 ouvrage:
   slug: 1908_catechismo-pio-x
   titre: Catéchisme de saint Pie X
   partie_index: 12
   partie_titre: Histoire I — Ancien Testament
   total_parties: 16
+traductions:
+  it:
+    kind: originale
+    sha256: a1670e9ee7af24a1e1497dc6b5120071cc21955dd5b6a302d5f39f48015dd68b
+    source_url: https://www.maranatha.it/catpiox/13text.htm
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 08dfe870e2836da4dd5f9e2cc9ab8ae24136b85acad7102b8c3d483809556adb
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: a1670e9ee7af24a1e1497dc6b5120071cc21955dd5b6a302d5f39f48015dd68b
+    translated_at: '2026-05-09T10:02:32.294458Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: a1670e9ee7af24a1e1497dc6b5120071cc21955dd5b6a302d5f39f48015dd68b
+  fr: 08dfe870e2836da4dd5f9e2cc9ab8ae24136b85acad7102b8c3d483809556adb

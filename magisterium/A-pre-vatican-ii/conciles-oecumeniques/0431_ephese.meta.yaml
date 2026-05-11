@@ -2,6 +2,7 @@ incipit: Éphèse
 titre_fr: Concile de Éphèse
 auteur: Célestin Ier
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0431-06-22'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: a41ec745577bb65ea51b0a95963655fc83922a1a644e825ce4a6995cb38d9f57
     source_url: https://www.documentacatholicaomnia.eu/03d/0431-0431,_Concilium_Ephesenum,_Documenta_Omnia,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 0ad81b6f8c490c3ac5d75371a37a589941d88af42e52dc878097456375ca73d2
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: a41ec745577bb65ea51b0a95963655fc83922a1a644e825ce4a6995cb38d9f57
+    translated_at: '2026-05-10T08:23:41.084685Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: b135e25f26a714093d8431e5d8d834d03923cc10b3171771253d78e1dd171c07
   la: a41ec745577bb65ea51b0a95963655fc83922a1a644e825ce4a6995cb38d9f57
+  fr: 0ad81b6f8c490c3ac5d75371a37a589941d88af42e52dc878097456375ca73d2

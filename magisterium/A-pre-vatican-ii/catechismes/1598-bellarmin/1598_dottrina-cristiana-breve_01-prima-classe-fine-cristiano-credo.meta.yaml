@@ -4,6 +4,7 @@ titre_fr: Catéchisme de saint Robert Bellarmin — Prima Classe — Del fine de
   del segno della croce e del Credo
 auteur: Robert Bellarmin
 periode: pre-vatican-ii
+categorie: magistere
 type: catechisme
 date: '1598-07-15'
 autorite_magisterielle: magistere-ordinaire-universel
@@ -25,19 +26,28 @@ sources:
   site: archive.org
   langue: it
   fetch_method: httpx
-traductions:
-  it:
-    kind: originale
-    sha256: d38515e4d00d500e372209e4c0a10153f9a0be5903368cb0368440d7ba3b0a14
-    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
-    fetch_method: httpx
-langues_disponibles:
-- it
-sha256:
-  it: d38515e4d00d500e372209e4c0a10153f9a0be5903368cb0368440d7ba3b0a14
 ouvrage:
   slug: 1598_dottrina-cristiana-breve
   titre: Dottrina cristiana breve (saint Robert Bellarmin)
   partie_index: 2
   partie_titre: Prima classe — Fin du chrétien, Credo
   total_parties: 6
+traductions:
+  it:
+    kind: originale
+    sha256: d38515e4d00d500e372209e4c0a10153f9a0be5903368cb0368440d7ba3b0a14
+    source_url: https://archive.org/download/bub_gb_KHZRwxilf7MC/bub_gb_KHZRwxilf7MC_djvu.txt
+    fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 19c8aa2d28c2530f638cae8da3548a4658ff27dd830efa2fa773c14bb1904916
+    model: claude-opus-4-7
+    translated_from: it
+    source_sha256: d38515e4d00d500e372209e4c0a10153f9a0be5903368cb0368440d7ba3b0a14
+    translated_at: '2026-05-09T06:05:30.396218Z'
+langues_disponibles:
+- it
+- fr
+sha256:
+  it: d38515e4d00d500e372209e4c0a10153f9a0be5903368cb0368440d7ba3b0a14
+  fr: 19c8aa2d28c2530f638cae8da3548a4658ff27dd830efa2fa773c14bb1904916

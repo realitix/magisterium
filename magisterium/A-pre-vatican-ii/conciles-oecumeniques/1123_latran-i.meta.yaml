@@ -2,6 +2,7 @@ incipit: Latran I
 titre_fr: Concile de Latran I
 auteur: Calixte II
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '1123-03-18'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: c2c94c08a8b1f8cb77800aadec5e78ca0c638c9947431761a9bee5025a18691f
     source_url: https://www.documentacatholicaomnia.eu/03d/1123-1123,_Concilium_Lateranum_I,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 117f5dfb6d29a9584250dc0c5b14d77fc68cd24698f49ded4343f4ed584aa733
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: c2c94c08a8b1f8cb77800aadec5e78ca0c638c9947431761a9bee5025a18691f
+    translated_at: '2026-05-10T08:19:39.167407Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 21338ce78ebf9631111393fbf5699abf9c2003e975d37edaebe39515838ac2d1
   la: c2c94c08a8b1f8cb77800aadec5e78ca0c638c9947431761a9bee5025a18691f
+  fr: 117f5dfb6d29a9584250dc0c5b14d77fc68cd24698f49ded4343f4ed584aa733

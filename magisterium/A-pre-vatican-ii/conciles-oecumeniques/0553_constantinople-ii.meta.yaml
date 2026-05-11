@@ -2,6 +2,7 @@ incipit: Constantinople II
 titre_fr: Concile de Constantinople II
 auteur: Vigile
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '0553-05-05'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 4de9f972ff2dc82b8e22bdeb55b9a72532eef326875df56410d17771478ba291
     source_url: https://www.documentacatholicaomnia.eu/03d/0553-0553,_Concilium_Constantinopolitanum_II,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 78673a36e99a46f2cc74d0f7b5c864308601e08318c35f8da0a78645b57894b7
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 4de9f972ff2dc82b8e22bdeb55b9a72532eef326875df56410d17771478ba291
+    translated_at: '2026-05-10T08:21:30.243345Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 5383af07d2815f3c41e65b64f68122b8594ae7e22e2df8a66b22023677e0852d
   la: 4de9f972ff2dc82b8e22bdeb55b9a72532eef326875df56410d17771478ba291
+  fr: 78673a36e99a46f2cc74d0f7b5c864308601e08318c35f8da0a78645b57894b7

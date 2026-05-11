@@ -2,6 +2,7 @@ incipit: Latran IV
 titre_fr: Concile de Latran IV
 auteur: Innocent III
 periode: pre-vatican-ii
+categorie: magistere
 type: concile-oecumenique
 date: '1215-11-11'
 autorite_magisterielle: magistere-extraordinaire-concile-oecumenique
@@ -32,9 +33,18 @@ traductions:
     sha256: 3e2733abcd17e64736dfde549a3a70f4377415b1863bbc3ebab2fcbc8345ba45
     source_url: https://www.documentacatholicaomnia.eu/03d/1215-1215,_Concilium_Lateranum_IIII,_Documenta,_LT.doc
     fetch_method: httpx
+  fr:
+    kind: ia
+    sha256: 5b9f944811f3f61503613451f427f2df41df1b9393d9c3f957e166a0e65e9ded
+    model: claude-opus-4-7
+    translated_from: la
+    source_sha256: 3e2733abcd17e64736dfde549a3a70f4377415b1863bbc3ebab2fcbc8345ba45
+    translated_at: '2026-05-10T08:27:50.748856Z'
 langues_disponibles:
 - en
 - la
+- fr
 sha256:
   en: 6fea090209db4c5b28cb41e562c8c042068de14ec313e8dd5ec2be1884208d1f
   la: 3e2733abcd17e64736dfde549a3a70f4377415b1863bbc3ebab2fcbc8345ba45
+  fr: 5b9f944811f3f61503613451f427f2df41df1b9393d9c3f957e166a0e65e9ded

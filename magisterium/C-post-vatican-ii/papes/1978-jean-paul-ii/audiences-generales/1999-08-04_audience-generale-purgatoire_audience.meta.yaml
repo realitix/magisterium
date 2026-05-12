@@ -1,0 +1,92 @@
+incipit: Audience générale — Purgatoire
+titre_fr: Le purgatoire, purification nécessaire
+auteur: Jean-Paul II
+periode: post-vatican-ii
+categorie: magistere
+type: audience-generale
+date: '1999-08-04'
+autorite_magisterielle: magistere-ordinaire
+langue_originale: it
+denzinger: []
+sujets:
+- fins-dernieres
+- purgatoire
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-paul-ii/it/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 52a5c01647daa5be116a3899c48892318a5793e5480a35cef46e563405e2788f
+    source_url: https://www.vatican.va/content/john-paul-ii/it/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+    fetched_at: '2026-05-11T08:26:11.499613Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: a3e09b3400ecdcd26681906b763325b5341c6fc1bc0e1639cd8917a519ca0d61
+    source_url: https://www.vatican.va/content/john-paul-ii/de/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+    fetched_at: '2026-05-11T08:26:19.487220Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: a23a6331818c501b6d919c70212c3999522dd4074bd995a6f539d25ce09a4344
+    source_url: https://www.vatican.va/content/john-paul-ii/en/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+    fetched_at: '2026-05-11T08:26:27.471133Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 28ebe8302edfbe0c7c7419ef9e732f30347c6cd176b7ffccbfcd4a4edff49828
+    source_url: https://www.vatican.va/content/john-paul-ii/es/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+    fetched_at: '2026-05-11T08:26:35.498338Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: eb59c784cb0649e22ff5709ed661c0f3c42064fe5e341bf1a38f98c5e7d50dd0
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+    fetched_at: '2026-05-11T08:26:43.520361Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: d7f6ce33c2c5b09a5e763e228134a2d32b036ad6cedf8b127c3f88a08de48ccd
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/audiences/1999/documents/hf_jp-ii_aud_04081999.html
+    fetched_at: '2026-05-11T08:26:51.499930Z'
+    fetch_method: httpx
+langues_disponibles:
+- it
+- de
+- en
+- es
+- fr
+- pt
+sha256:
+  it: 52a5c01647daa5be116a3899c48892318a5793e5480a35cef46e563405e2788f
+  de: a3e09b3400ecdcd26681906b763325b5341c6fc1bc0e1639cd8917a519ca0d61
+  en: a23a6331818c501b6d919c70212c3999522dd4074bd995a6f539d25ce09a4344
+  es: 28ebe8302edfbe0c7c7419ef9e732f30347c6cd176b7ffccbfcd4a4edff49828
+  fr: eb59c784cb0649e22ff5709ed661c0f3c42064fe5e341bf1a38f98c5e7d50dd0
+  pt: d7f6ce33c2c5b09a5e763e228134a2d32b036ad6cedf8b127c3f88a08de48ccd

@@ -180,6 +180,49 @@ EXTRA_SOLEMN: list[tuple[str, str, str, str | None, str, str, list[str]]] = [
         ["sacrements", "ordre", "matiere-forme", "ordinations",
          "rite-episcopal", "validite-sacramentelle", "reforme-liturgique"],
     ),
+    # Paul VI — exhortation apostolique programmatique sur l'évangélisation
+    (
+        "paul-vi", "1975-12-08", "Evangelii Nuntiandi",
+        "Sur l'évangélisation dans le monde moderne",
+        "hf_p-vi_exh_19751208_evangelii-nuntiandi", "exhortation-apostolique",
+        ["evangelisation", "mission", "dialogue", "salut-universel"],
+    ),
+    # François — exhortations apostoliques majeures
+    (
+        "francesco", "2013-11-24", "Evangelii Gaudium",
+        "Sur l'annonce de l'Évangile dans le monde d'aujourd'hui",
+        "papa-francesco_esortazione-ap_20131124_evangelii-gaudium",
+        "exhortation-apostolique",
+        ["evangelisation", "mission", "salut-universel", "doctrine-sociale"],
+    ),
+    (
+        "francesco", "2016-03-19", "Amoris Laetitia",
+        "Sur l'amour dans la famille",
+        "papa-francesco_esortazione-ap_20160319_amoris-laetitia",
+        "exhortation-apostolique",
+        ["mariage", "famille", "morale-sexuelle"],
+    ),
+    (
+        "francesco", "2018-03-19", "Gaudete et Exsultate",
+        "Sur l'appel à la sainteté dans le monde actuel",
+        "papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate",
+        "exhortation-apostolique",
+        ["saintete", "spiritualite", "morale"],
+    ),
+    (
+        "francesco", "2019-03-25", "Christus Vivit",
+        "Aux jeunes et à tout le peuple de Dieu",
+        "papa-francesco_esortazione-ap_20190325_christus-vivit",
+        "exhortation-apostolique",
+        ["jeunesse", "synode"],
+    ),
+    (
+        "francesco", "2020-02-02", "Querida Amazonia",
+        "Sur l'Amazonie",
+        "papa-francesco_esortazione-ap_20200202_querida-amazonia",
+        "exhortation-apostolique",
+        ["ecologie", "amazonie", "synode", "inculturation"],
+    ),
 ]
 
 

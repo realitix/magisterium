@@ -10,6 +10,7 @@ dist/
 build/
 .env
 .DS_Store
+.claude/scheduled_tasks.lock
 # chrome-mcp fallback HTML dumps (raw) — kept out of tree, parsed versions go in corpus
 _raw_html/
 magisterium/_metadata/errors.log

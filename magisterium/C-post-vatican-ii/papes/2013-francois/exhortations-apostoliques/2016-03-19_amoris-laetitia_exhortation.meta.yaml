@@ -1,0 +1,201 @@
+incipit: Amoris Laetitia
+titre_fr: Sur l'amour dans la famille
+auteur: François
+periode: post-vatican-ii
+categorie: magistere
+type: exhortation-apostolique
+date: '2016-03-19'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: la
+denzinger: []
+sujets:
+- mariage
+- famille
+- morale-sexuelle
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/francesco/la/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/be/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ru/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: ru
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: sl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/vi/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: vi
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: 5d3cc34a975cc9dea0b418f176aa8b5a33c26bccce9349cc688d32075ad2e371
+    source_url: https://www.vatican.va/content/francesco/la/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:26:13.327031Z'
+    fetch_method: httpx
+  ar:
+    kind: officielle
+    sha256: 433be78ccf23274d9583b3fc37c6263e66f68983276120a60cfaecf5d748e1e8
+    source_url: https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:26:25.415906Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: f583c2018fe4cddba422c7b0b5b5988f411ad4f1ce529a5a1107c369bc15ce8a
+    source_url: https://www.vatican.va/content/francesco/be/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:26:38.448907Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 622304603eede34c3df8c2c82c378fb02c87281908fae2957033648f4b877e97
+    source_url: https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:26:49.570787Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: c96b7112865db030adfc819befb7900e841eada55bd4f463941ac167d99e7f86
+    source_url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:27:00.629395Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 9f018872be34122918146f21c7b97dda9c45b1dfe718fedd22548e81d7866764
+    source_url: https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:27:13.639543Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 0c407c5149f3f7d8de7e6e88dc27b71bd80635a5a8270971361a40c070d25383
+    source_url: https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:27:25.573709Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 38a3f11a15e488b0721e3e1be69d4432e960276f5155d6fea83beecf737a2034
+    source_url: https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:27:38.062376Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: e6fbd3dd22fa4135d93a733e9bb7f82ec4e85a924fea39580b097eba1cf2c438
+    source_url: https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:27:49.565161Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 6a613b7c023dc7091187b74ff0ac3556356324099e44dfd0ad0a8813e9ceb6c7
+    source_url: https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:27:59.565379Z'
+    fetch_method: httpx
+  ru:
+    kind: officielle
+    sha256: 295c74d9b18fd2b4fdfa2581a4524f61f60645d01d6664593f94ebcb25de7bbf
+    source_url: https://www.vatican.va/content/francesco/ru/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:28:09.527053Z'
+    fetch_method: httpx
+  sl:
+    kind: officielle
+    sha256: 578dcbdf6c5f54c000f705a66715572543702810c0cba2646073812fdd261025
+    source_url: https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:28:19.483937Z'
+    fetch_method: httpx
+  vi:
+    kind: officielle
+    sha256: e116982636124be7c1da074a497709f6e5b1cae891a15dfe21c38a8b172c9a9d
+    source_url: https://www.vatican.va/content/francesco/vi/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:28:27.688677Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: 24b97621f4d0d0f7b4051af96e3c16e73a93bf6dabbc40c2d0fec2074a6a31ab
+    source_url: https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:28:32.697440Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: fa5a14e854e41ed44aee8ea803a0accde35dc52e75222bc695caf524c04a08ef
+    source_url: https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+    fetched_at: '2026-05-11T08:28:38.698740Z'
+    fetch_method: httpx
+langues_disponibles:
+- la
+- ar
+- be
+- de
+- en
+- es
+- fr
+- it
+- pl
+- pt
+- ru
+- sl
+- vi
+- zh_cn
+- zh_tw
+sha256:
+  la: 5d3cc34a975cc9dea0b418f176aa8b5a33c26bccce9349cc688d32075ad2e371
+  ar: 433be78ccf23274d9583b3fc37c6263e66f68983276120a60cfaecf5d748e1e8
+  be: f583c2018fe4cddba422c7b0b5b5988f411ad4f1ce529a5a1107c369bc15ce8a
+  de: 622304603eede34c3df8c2c82c378fb02c87281908fae2957033648f4b877e97
+  en: c96b7112865db030adfc819befb7900e841eada55bd4f463941ac167d99e7f86
+  es: 9f018872be34122918146f21c7b97dda9c45b1dfe718fedd22548e81d7866764
+  fr: 0c407c5149f3f7d8de7e6e88dc27b71bd80635a5a8270971361a40c070d25383
+  it: 38a3f11a15e488b0721e3e1be69d4432e960276f5155d6fea83beecf737a2034
+  pl: e6fbd3dd22fa4135d93a733e9bb7f82ec4e85a924fea39580b097eba1cf2c438
+  pt: 6a613b7c023dc7091187b74ff0ac3556356324099e44dfd0ad0a8813e9ceb6c7
+  ru: 295c74d9b18fd2b4fdfa2581a4524f61f60645d01d6664593f94ebcb25de7bbf
+  sl: 578dcbdf6c5f54c000f705a66715572543702810c0cba2646073812fdd261025
+  vi: e116982636124be7c1da074a497709f6e5b1cae891a15dfe21c38a8b172c9a9d
+  zh_cn: 24b97621f4d0d0f7b4051af96e3c16e73a93bf6dabbc40c2d0fec2074a6a31ab
+  zh_tw: fa5a14e854e41ed44aee8ea803a0accde35dc52e75222bc695caf524c04a08ef

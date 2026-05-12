@@ -88,10 +88,19 @@ html {
    On couvre aussi les `[id]` internes des documents scrapés — sur
    vatican.va les ancres sont souvent posées sur des `<strong>` / `<span>`
    inline et non sur des vrais `<h2>` (le sommaire renvoie alors à
-   l'intérieur d'un `<p>`). */
+   l'intérieur d'un `<p>`). Valeur calée sur la hauteur réelle du header
+   sticky (logo 112px + paddings → ~10rem desktop ; logo 64px → ~6rem
+   mobile). */
 :where(h1, h2, h3, h4, h5, h6)[id],
 :where(.prose) :where([id], [name]) {
-  scroll-margin-top: 5rem;
+  scroll-margin-top: 10rem;
+}
+
+@media (max-width: 640px) {
+  :where(h1, h2, h3, h4, h5, h6)[id],
+  :where(.prose) :where([id], [name]) {
+    scroll-margin-top: 6rem;
+  }
 }
 
 body {

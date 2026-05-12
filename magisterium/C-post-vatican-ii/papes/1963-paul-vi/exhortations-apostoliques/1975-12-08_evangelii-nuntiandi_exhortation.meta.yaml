@@ -1,0 +1,130 @@
+incipit: Evangelii Nuntiandi
+titre_fr: Sur l'évangélisation dans le monde moderne
+auteur: Paul VI
+periode: post-vatican-ii
+categorie: magistere
+type: exhortation-apostolique
+date: '1975-12-08'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: la
+denzinger: []
+sujets:
+- evangelisation
+- mission
+- dialogue
+- salut-universel
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: la
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/de/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/es/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/fr/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/hr/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: hr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/hu/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/paul-vi/pt/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+traductions:
+  la:
+    kind: originale
+    sha256: fce8e6f997c42175e4e4a2778bda0b57f47120efb88684b5b9663ac8c682230b
+    source_url: https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:26:08.788215Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: e9246fec4a1d7c9b9c60103e6c99245365de6e6691ef5b5021fc195bd6a22033
+    source_url: https://www.vatican.va/content/paul-vi/de/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:26:20.884488Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: bba2f930a63414c6d22410a6fdc7cd953d8e212ac3dd4ec0829906840f08afce
+    source_url: https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:26:32.848923Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 199f1c70703a17f5022043a2d40b480efcb8401f3c3e33f7b2bd8acc1dd64cf5
+    source_url: https://www.vatican.va/content/paul-vi/es/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:26:44.981286Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: bea078d834c4db15de4e37d5c6acd1685e809ec101772ea29f25fa22dcc7b186
+    source_url: https://www.vatican.va/content/paul-vi/fr/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:26:56.968290Z'
+    fetch_method: httpx
+  hr:
+    kind: officielle
+    sha256: ef5e6f648e7554e5181f0ee7d6407e3d0a6393c27a2b10ba033c03f9f34c8149
+    source_url: https://www.vatican.va/content/paul-vi/hr/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:27:08.984169Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 490247ce4e2939bb89bb1039366e1b22b3f84b3e28d1e762312426e42fee256c
+    source_url: https://www.vatican.va/content/paul-vi/hu/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:27:20.945435Z'
+    fetch_method: httpx
+  it:
+    kind: officielle
+    sha256: 3d860be8203dada6bd52df45da1d3a07fced6953cc8ee04a729aca4920f8ec82
+    source_url: https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:27:33.065254Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 6c5852b334d1805468b77af6a36b8eeb0fa9e3e9fd94633068286ee412193dce
+    source_url: https://www.vatican.va/content/paul-vi/pt/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html
+    fetched_at: '2026-05-11T08:27:45.035009Z'
+    fetch_method: httpx
+langues_disponibles:
+- la
+- de
+- en
+- es
+- fr
+- hr
+- hu
+- it
+- pt
+sha256:
+  la: fce8e6f997c42175e4e4a2778bda0b57f47120efb88684b5b9663ac8c682230b
+  de: e9246fec4a1d7c9b9c60103e6c99245365de6e6691ef5b5021fc195bd6a22033
+  en: bba2f930a63414c6d22410a6fdc7cd953d8e212ac3dd4ec0829906840f08afce
+  es: 199f1c70703a17f5022043a2d40b480efcb8401f3c3e33f7b2bd8acc1dd64cf5
+  fr: bea078d834c4db15de4e37d5c6acd1685e809ec101772ea29f25fa22dcc7b186
+  hr: ef5e6f648e7554e5181f0ee7d6407e3d0a6393c27a2b10ba033c03f9f34c8149
+  hu: 490247ce4e2939bb89bb1039366e1b22b3f84b3e28d1e762312426e42fee256c
+  it: 3d860be8203dada6bd52df45da1d3a07fced6953cc8ee04a729aca4920f8ec82
+  pt: 6c5852b334d1805468b77af6a36b8eeb0fa9e3e9fd94633068286ee412193dce

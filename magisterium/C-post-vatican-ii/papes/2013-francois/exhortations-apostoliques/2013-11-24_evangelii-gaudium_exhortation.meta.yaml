@@ -1,0 +1,202 @@
+incipit: Evangelii Gaudium
+titre_fr: Sur l'annonce de l'Évangile dans le monde d'aujourd'hui
+auteur: François
+periode: post-vatican-ii
+categorie: magistere
+type: exhortation-apostolique
+date: '2013-11-24'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: it
+denzinger: []
+sujets:
+- evangelisation
+- mission
+- salut-universel
+- doctrine-sociale
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/be/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: be
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/hu/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: hu
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/nl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: nl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ru/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: ru
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: sl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: d26cb863b833ff1e461e40a4deffc472acee36006723d72d57380cfad1d73541
+    source_url: https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:26:11.321893Z'
+    fetch_method: httpx
+  ar:
+    kind: officielle
+    sha256: d8513c4cdb437840d9d891c58b781442d3940528655ec4ccf96bda30d67e6406
+    source_url: https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:26:22.548122Z'
+    fetch_method: httpx
+  be:
+    kind: officielle
+    sha256: 919c4b1de7a7cef80bf78a2e6952cf05dd2b5685416f1f951fd63541279bae3c
+    source_url: https://www.vatican.va/content/francesco/be/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:26:35.440219Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 9c592609b980669938051f9652e8fb8dd408e9fe9c1e48b5a019817c14f2d2a1
+    source_url: https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:26:47.462496Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: 01a24b7c14995784bccb4c1c06cbd16fe9007d98073b48675daec6910eaed440
+    source_url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:26:59.401337Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: bbd359b001e57816abd85ea4fe2c11d1b4b737d0139b6ac28a9801a07b3f491e
+    source_url: https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:27:11.470740Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 05b77c7f108b6c07b4a30e24163799c7fc2ddbed60969d1b120de88e88d5779c
+    source_url: https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:27:23.480314Z'
+    fetch_method: httpx
+  hu:
+    kind: officielle
+    sha256: 36479c25afabf75860fcf7c630caf28ee36bd9a4c3f911a5f3dedb65fcd795fe
+    source_url: https://www.vatican.va/content/francesco/hu/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:27:35.392279Z'
+    fetch_method: httpx
+  nl:
+    kind: officielle
+    sha256: bcae22cebec786da2c6098c5cbc9a2ca2218c07b2ee9894d80b0c446c034fb39
+    source_url: https://www.vatican.va/content/francesco/nl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:27:47.233702Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: 501de2259cf21349cc7420cfd4382bc00c2e2cbc5f88b059f02c895a89a6e1ac
+    source_url: https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:27:57.419002Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 5b4afbb01c1defcd0d4be101dfd4120603d6ce4c21fe00716689a9a5830458c6
+    source_url: https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:28:07.490964Z'
+    fetch_method: httpx
+  ru:
+    kind: officielle
+    sha256: 876e7b7d39017cf1d8a09e86068580882db08be5fa8e0c88df18b1d940450b5c
+    source_url: https://www.vatican.va/content/francesco/ru/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:28:17.482802Z'
+    fetch_method: httpx
+  sl:
+    kind: officielle
+    sha256: ff1464de03acb573ed68bb5fcebc41961d150ed69d0a6cab9c2c673faed037d8
+    source_url: https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:28:25.370767Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: c431f2d68cae9d51f2b88e91b86310875e8bb6b67fb32dbfa1055d2ffff12e40
+    source_url: https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:28:31.232533Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: f43c22d4313969c194382fa444e86cc67d15ec46bed018e89ea4271e616252ac
+    source_url: https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
+    fetched_at: '2026-05-11T08:28:37.224072Z'
+    fetch_method: httpx
+langues_disponibles:
+- it
+- ar
+- be
+- de
+- en
+- es
+- fr
+- hu
+- nl
+- pl
+- pt
+- ru
+- sl
+- zh_cn
+- zh_tw
+sha256:
+  it: d26cb863b833ff1e461e40a4deffc472acee36006723d72d57380cfad1d73541
+  ar: d8513c4cdb437840d9d891c58b781442d3940528655ec4ccf96bda30d67e6406
+  be: 919c4b1de7a7cef80bf78a2e6952cf05dd2b5685416f1f951fd63541279bae3c
+  de: 9c592609b980669938051f9652e8fb8dd408e9fe9c1e48b5a019817c14f2d2a1
+  en: 01a24b7c14995784bccb4c1c06cbd16fe9007d98073b48675daec6910eaed440
+  es: bbd359b001e57816abd85ea4fe2c11d1b4b737d0139b6ac28a9801a07b3f491e
+  fr: 05b77c7f108b6c07b4a30e24163799c7fc2ddbed60969d1b120de88e88d5779c
+  hu: 36479c25afabf75860fcf7c630caf28ee36bd9a4c3f911a5f3dedb65fcd795fe
+  nl: bcae22cebec786da2c6098c5cbc9a2ca2218c07b2ee9894d80b0c446c034fb39
+  pl: 501de2259cf21349cc7420cfd4382bc00c2e2cbc5f88b059f02c895a89a6e1ac
+  pt: 5b4afbb01c1defcd0d4be101dfd4120603d6ce4c21fe00716689a9a5830458c6
+  ru: 876e7b7d39017cf1d8a09e86068580882db08be5fa8e0c88df18b1d940450b5c
+  sl: ff1464de03acb573ed68bb5fcebc41961d150ed69d0a6cab9c2c673faed037d8
+  zh_cn: c431f2d68cae9d51f2b88e91b86310875e8bb6b67fb32dbfa1055d2ffff12e40
+  zh_tw: f43c22d4313969c194382fa444e86cc67d15ec46bed018e89ea4271e616252ac

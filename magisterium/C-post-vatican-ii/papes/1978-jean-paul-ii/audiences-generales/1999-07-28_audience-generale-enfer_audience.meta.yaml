@@ -1,0 +1,92 @@
+incipit: Audience générale — Enfer
+titre_fr: L'enfer comme refus définitif de Dieu
+auteur: Jean-Paul II
+periode: post-vatican-ii
+categorie: magistere
+type: audience-generale
+date: '1999-07-28'
+autorite_magisterielle: magistere-ordinaire
+langue_originale: it
+denzinger: []
+sujets:
+- fins-dernieres
+- enfer
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/john-paul-ii/it/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/de/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/en/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/es/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/fr/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/john-paul-ii/pt/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 06938caf81be0d64c04fbfa50cb09cbb4c90a7ef105abf8dadc1605d2a2dbc1b
+    source_url: https://www.vatican.va/content/john-paul-ii/it/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+    fetched_at: '2026-05-11T08:26:09.463978Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 8d3e5a15b9ded5dee22c56703af46ba3ee456a3b09cb3e383218156d0d187f45
+    source_url: https://www.vatican.va/content/john-paul-ii/de/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+    fetched_at: '2026-05-11T08:26:17.476782Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: eb43db9561623757437f62c033d9d686300fb9dcfc412d8282ab26d91fd27a9d
+    source_url: https://www.vatican.va/content/john-paul-ii/en/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+    fetched_at: '2026-05-11T08:26:25.406598Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: eb28fa98216e83387286813114606b59658432acfd464b8a7f0089979692b86a
+    source_url: https://www.vatican.va/content/john-paul-ii/es/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+    fetched_at: '2026-05-11T08:26:33.478473Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: ad4b521ca42cde320fae9fa6eab26402518c6171816ef588cc591bbf674d40e8
+    source_url: https://www.vatican.va/content/john-paul-ii/fr/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+    fetched_at: '2026-05-11T08:26:41.511903Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 0d4782bb0e0570d69a97765cfac56d2d75c5958c8f80fad8707e7f3c288dd6b8
+    source_url: https://www.vatican.va/content/john-paul-ii/pt/audiences/1999/documents/hf_jp-ii_aud_28071999.html
+    fetched_at: '2026-05-11T08:26:49.441408Z'
+    fetch_method: httpx
+langues_disponibles:
+- it
+- de
+- en
+- es
+- fr
+- pt
+sha256:
+  it: 06938caf81be0d64c04fbfa50cb09cbb4c90a7ef105abf8dadc1605d2a2dbc1b
+  de: 8d3e5a15b9ded5dee22c56703af46ba3ee456a3b09cb3e383218156d0d187f45
+  en: eb43db9561623757437f62c033d9d686300fb9dcfc412d8282ab26d91fd27a9d
+  es: eb28fa98216e83387286813114606b59658432acfd464b8a7f0089979692b86a
+  fr: ad4b521ca42cde320fae9fa6eab26402518c6171816ef588cc591bbf674d40e8
+  pt: 0d4782bb0e0570d69a97765cfac56d2d75c5958c8f80fad8707e7f3c288dd6b8

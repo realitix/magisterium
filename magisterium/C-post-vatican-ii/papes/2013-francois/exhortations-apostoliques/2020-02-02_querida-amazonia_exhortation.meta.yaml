@@ -1,0 +1,154 @@
+incipit: Querida Amazonia
+titre_fr: Sur l'Amazonie
+auteur: François
+periode: post-vatican-ii
+categorie: magistere
+type: exhortation-apostolique
+date: '2020-02-02'
+autorite_magisterielle: magistere-ordinaire-universel
+langue_originale: it
+denzinger: []
+sujets:
+- ecologie
+- amazonie
+- synode
+- inculturation
+themes_doctrinaux: []
+references_anterieures: []
+references_posterieures: []
+sources:
+- url: https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: it
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: ar
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: de
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: en
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: es
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: fr
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: pl
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: pt
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/vi/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: vi
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: zh_cn
+  fetch_method: httpx
+- url: https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+  site: www.vatican.va
+  langue: zh_tw
+  fetch_method: httpx
+traductions:
+  it:
+    kind: originale
+    sha256: 301c5be9a12e762d47a4e99806e70ffc0286da64393853ff532a7d24f126fcc3
+    source_url: https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:26:18.871338Z'
+    fetch_method: httpx
+  ar:
+    kind: officielle
+    sha256: 10b3bcdb9bf447058fcf57131a26d6d4cd39c73d3c9859e2d1df55f9e0425297
+    source_url: https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:26:30.890048Z'
+    fetch_method: httpx
+  de:
+    kind: officielle
+    sha256: 7a0da05013f3f056da5a633ed0f06b2c531b72f7ef4e69b501e403eb1e08e21b
+    source_url: https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:26:42.981762Z'
+    fetch_method: httpx
+  en:
+    kind: officielle
+    sha256: e9923c6f245df6a6a108804c70c17708d3196dd84ad7116d2747ebaead8b5d46
+    source_url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:26:54.943882Z'
+    fetch_method: httpx
+  es:
+    kind: officielle
+    sha256: 7f9123cdf2cafc83b7b6d48a5f3abdb545d37d89eba7f507e61077fe6673bdd6
+    source_url: https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:27:06.979611Z'
+    fetch_method: httpx
+  fr:
+    kind: officielle
+    sha256: 4cb629345ff89f8d050e98f69cfd830b8f0d107228e54b023571cdeabe2a4948
+    source_url: https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:27:18.977991Z'
+    fetch_method: httpx
+  pl:
+    kind: officielle
+    sha256: db75bf6a0b8deb7ada464f631e0ac284c7bfaa34f3828c44fc4eea713c9f82eb
+    source_url: https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:27:30.986522Z'
+    fetch_method: httpx
+  pt:
+    kind: officielle
+    sha256: 24f80925a3c93c85be6c25fde9a87ccbfd9de99777fdc959b5fc15ff4d428c39
+    source_url: https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:27:42.963309Z'
+    fetch_method: httpx
+  vi:
+    kind: officielle
+    sha256: 657995ffe4dd9086f6868962d30328091f1e6702073cf19d1a3b269f6a2df3ff
+    source_url: https://www.vatican.va/content/francesco/vi/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:27:55.059720Z'
+    fetch_method: httpx
+  zh_cn:
+    kind: officielle
+    sha256: 9abf9bf41f0dc7eb36ca9d0bde392553c97c65444497cc2deaa7825fbb1ca852
+    source_url: https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:28:04.701114Z'
+    fetch_method: httpx
+  zh_tw:
+    kind: officielle
+    sha256: 7d8f29adb8f0d634a6b036796571b053b85057846df433be94619c988ddcb86a
+    source_url: https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html
+    fetched_at: '2026-05-11T08:28:14.689459Z'
+    fetch_method: httpx
+langues_disponibles:
+- it
+- ar
+- de
+- en
+- es
+- fr
+- pl
+- pt
+- vi
+- zh_cn
+- zh_tw
+sha256:
+  it: 301c5be9a12e762d47a4e99806e70ffc0286da64393853ff532a7d24f126fcc3
+  ar: 10b3bcdb9bf447058fcf57131a26d6d4cd39c73d3c9859e2d1df55f9e0425297
+  de: 7a0da05013f3f056da5a633ed0f06b2c531b72f7ef4e69b501e403eb1e08e21b
+  en: e9923c6f245df6a6a108804c70c17708d3196dd84ad7116d2747ebaead8b5d46
+  es: 7f9123cdf2cafc83b7b6d48a5f3abdb545d37d89eba7f507e61077fe6673bdd6
+  fr: 4cb629345ff89f8d050e98f69cfd830b8f0d107228e54b023571cdeabe2a4948
+  pl: db75bf6a0b8deb7ada464f631e0ac284c7bfaa34f3828c44fc4eea713c9f82eb
+  pt: 24f80925a3c93c85be6c25fde9a87ccbfd9de99777fdc959b5fc15ff4d428c39
+  vi: 657995ffe4dd9086f6868962d30328091f1e6702073cf19d1a3b269f6a2df3ff
+  zh_cn: 9abf9bf41f0dc7eb36ca9d0bde392553c97c65444497cc2deaa7825fbb1ca852
+  zh_tw: 7d8f29adb8f0d634a6b036796571b053b85057846df433be94619c988ddcb86a

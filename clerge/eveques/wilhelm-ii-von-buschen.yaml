@@ -1,0 +1,41 @@
+slug: wilhelm-ii-von-buschen
+nom: Wilhelm II. von Büschen
+nom_complet: Wilhelm von Büschen
+naissance: '1400'
+deces: '1402-04-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuschen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minden, Germany
+  du: '1398-11-26'
+  au: '1402-04-03'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1398-12-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2573373
+  catholic_hierarchy: bbuschen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:01:15+00:00'
+  completeness: 0.38

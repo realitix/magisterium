@@ -1,0 +1,48 @@
+slug: rene-breslay
+nom: René Breslay
+nom_complet: null
+naissance: '1557-05-01'
+deces: '1641-11-02'
+naissance_lieu: Angers
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1605-09-25'
+  consecrateur_principal: charles-miron
+  co_consecrateurs:
+  - jean-de-vieuxpont
+  - francois-de-donadieu-1505
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbreslay.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Breslay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troyes, France
+  du: '1605-07-18'
+  au: '1641-11-02'
+- titre: évêque diocésain
+  du: '1605-07-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20breslay%20eveque%2004408.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23816857
+  catholic_hierarchy: bbreslay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:50:57+00:00'
+  completeness: 0.88

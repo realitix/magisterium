@@ -1,0 +1,47 @@
+slug: ludwig-sebastian
+nom: Ludwig Sebastian
+nom_complet: null
+naissance: '1862-10-06'
+deces: '1943-05-20'
+naissance_lieu: Frankenstein
+deces_lieu: null
+rang: eveque
+nationalite: Q1206012
+tampon: ordo_validus
+sacre:
+  date: '1917-09-23'
+  consecrateur_principal: jakobus-von-hauck
+  co_consecrateurs:
+  - maximilian-von-lingg
+  - leo-von-mergel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseba.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: null
+  au: '1943-05-20'
+- titre: évêque de Spire
+  du: '1917-05-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Ludwig%20Sebastian%201917.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q87290
+  catholic_hierarchy: bseba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:07:02+00:00'
+  completeness: 1.0

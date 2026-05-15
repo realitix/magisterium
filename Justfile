@@ -59,6 +59,23 @@ validate:
 stats:
     uv run python -m tools.stats
 
+fetch-photos:
+    uv run python -m tools.clerge_fetch_photos
+
+fetch-photos-retry:
+    uv run python -m tools.clerge_fetch_photos --retry-failed
+
+# ---------- Phase 6 — prêtres tradi (sites officiels) ----------
+
+clerge-tradi:
+    uv run python -m scrapers.clerge.sources.tradi_official
+
+clerge-tradi-lpl:
+    uv run python -m scrapers.clerge.sources.tradi_official --only lpl
+
+clerge-tradi-refresh:
+    uv run python -m scrapers.clerge.sources.tradi_official --refresh
+
 # ---------- Site web ----------
 
 dev-site:

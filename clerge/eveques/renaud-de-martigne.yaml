@@ -1,0 +1,47 @@
+slug: renaud-de-martigne
+nom: Renaud de Martigné
+nom_complet: Raynaud de Martigné des Prés
+naissance: '1050'
+deces: '1138-01-13'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1102-01-12'
+  consecrateur_principal: raoul-d-rsquo-orleans
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartdp.html
+  - https://fr.wikipedia.org/wiki/Renaud_de_Martign%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: 1102&sup1;
+  au: null
+- titre: Archbishop of Reims, France
+  du: 1124&sup1;
+  au: '1138-01-13'
+- titre: archevêque catholique
+  du: '1128-10-01'
+  au: null
+- titre: évêque d'Angers
+  du: '1102-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17355489
+  catholic_hierarchy: bmartdp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:52+00:00'
+  completeness: 0.75

@@ -1,0 +1,49 @@
+slug: paul-akl
+nom: Paul Akl
+nom_complet: null
+naissance: '1883-01-07'
+deces: '1959-09-19'
+naissance_lieu: "\x8Aamat"
+deces_lieu: null
+rang: archeveque
+nationalite: LB
+tampon: ordo_validus
+sacre:
+  date: '1919-03-02'
+  consecrateur_principal: elias-hoyek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bakl.html
+  - https://gcatholic.org/p/15601
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Laodicea in Syria per i Maroniti
+  du: '1919-02-22'
+  au: '1959-09-19'
+- titre: Titular Archbishop
+  siege: Laodicea in Syria
+  du: '1919-02-22'
+  au: '1959-09-19'
+- titre: évêque titulaire
+  du: '1919-02-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735534
+  catholic_hierarchy: bakl
+  gcatholic: '15601'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:25:10+00:00'
+  completeness: 0.88
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:34+00:00'
+  completeness: 0.75

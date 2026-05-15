@@ -1,0 +1,47 @@
+slug: thomas-strong
+nom: Thomas Strong
+nom_complet: null
+naissance: null
+deces: '1601-01-20'
+naissance_lieu: null
+deces_lieu: Santiago de Compostela, Archdiocese of Santiago de Compostela
+rang: eveque
+nationalite: Q844250
+tampon: ordo_validus
+sacre:
+  date: '1582-05-13'
+  lieu: Santa Maria del Anima, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: nicolas-cardinal-de-pelleve
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstrong.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1582-03-28'
+  au: null
+- titre: Auxiliary Bishop of Santiago de Compostela, Spain
+  du: '1597-01-20'
+  au: 20 Jan 1601&sup3;
+- titre: évêque du diocèse d'Ossory
+  du: '1582-04-07'
+  au: null
+- titre: évêque auxiliaire de l'archidiocèse de Saint-Jacques de-Compostelle
+  du: '1597-01-20'
+  au: '1601-01-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762403
+  catholic_hierarchy: bstrong
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:41:18+00:00'
+  completeness: 0.75

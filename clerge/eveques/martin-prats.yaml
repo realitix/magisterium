@@ -1,0 +1,47 @@
+slug: martin-prats
+nom: Martin Prats
+nom_complet: null
+naissance: '1603'
+deces: '1671-10-07'
+naissance_lieu: Bruxelles
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1665-03-01'
+  consecrateur_principal: andreas-creusen
+  co_consecrateurs:
+  - robert-de-haynin
+  - karel-van-den-bosch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprats.html
+  - https://fr.wikipedia.org/wiki/Martin_Prats
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1664-11-10'
+  au: '1671-10-07'
+- titre: évêque d'Ypres
+  du: '1664-11-10'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29366798
+  catholic_hierarchy: bprats
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:12+00:00'
+  completeness: 0.88

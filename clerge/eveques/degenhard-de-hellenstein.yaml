@@ -1,0 +1,39 @@
+slug: degenhard-de-hellenstein
+nom: Degenhard de Hellenstein
+nom_complet: Degenhard von Hellenstein
+naissance: '1250'
+deces: '1307-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhellens.html
+  - https://fr.wikipedia.org/wiki/Degenhard_de_Hellenstein
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: 1303&sup2;
+  au: '1307-12-01'
+- titre: évêque d'Augsbourg
+  du: '1303-01-01'
+  au: '1307-12-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24251395
+  catholic_hierarchy: bhellens
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:19+00:00'
+  completeness: 0.38

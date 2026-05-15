@@ -1,0 +1,43 @@
+slug: adrien-d-amboise
+nom: Adrien d'Amboise
+nom_complet: Adrien d&rsquo;Amboise
+naissance: '1560'
+deces: '1616-07-29'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdamba.html
+  - https://fr.wikipedia.org/wiki/Adrien_d%27Amboise
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tréguier, France
+  du: '1604-08-02'
+  au: '1616-07-29'
+- titre: évêque diocésain
+  du: '1604-08-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Adrien%20d%27AMBOISE-%20Ev%C3%AAque%20deTr%C3%A9guier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q377322
+  catholic_hierarchy: bdamba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:24:47+00:00'
+  completeness: 0.38

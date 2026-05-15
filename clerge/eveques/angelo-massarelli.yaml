@@ -1,0 +1,47 @@
+slug: angelo-massarelli
+nom: Angelo Massarelli
+nom_complet: Angelus Massarellus
+naissance: '1510'
+deces: '1566-07-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1557-12-21'
+  consecrateur_principal: giovanni-giacomo-barba-o-s-a
+  co_consecrateurs:
+  - cesare-cibo-cybo
+  - ferdinando-pandolfini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmassarea.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Telese o Cerreto Sannita, Italy
+  du: '1557-12-15'
+  au: '1566-07-17'
+- titre: évêque diocésain
+  du: '1557-12-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Angelo%20Massarelli.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3617089
+  catholic_hierarchy: bmassarea
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:35:53+00:00'
+  completeness: 0.88

@@ -1,0 +1,51 @@
+slug: jean-pierre-camus
+nom: Jean-Pierre Camus
+nom_complet: null
+naissance: '1584-11-03'
+deces: '1652-04-26'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1609-08-30'
+  consecrateur_principal: francois-de-sales
+  co_consecrateurs:
+  - jean-fabre
+  - robert-berthelot-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcamusj.html
+  - https://fr.wikipedia.org/wiki/Jean-Pierre_Camus
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: '1609-05-25'
+  au: 1629&sup1;
+- titre: Bishop Emeritus of Belley, France
+  du: null
+  au: '1652-04-26'
+- titre: évêque diocésain
+  du: '1609-05-25'
+  au: '1629-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20bisschop%20Jean-Pierre%20Camus%2C%20Philippe%20de%20Champaigne%2C%201643%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201903-C.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2671778
+  catholic_hierarchy: bcamusj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:12:26+00:00'
+  completeness: 1.0

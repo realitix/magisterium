@@ -1,0 +1,48 @@
+slug: serafino-esquirro
+nom: Serafino Esquirro
+nom_complet: null
+naissance: '1620'
+deces: '1681'
+naissance_lieu: Cagliari, Archdiocese of Cagliari
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1678'
+  consecrateur_principal: diego-ventura-fernandez-de-angulo-o-f-m
+  co_consecrateurs:
+  - giovanni-battista-brunengo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/besquir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bosa, Italy
+  du: '1677-11-08'
+  au: null
+- titre: Bishop of Ales e Terralba, Italy
+  du: null
+  au: 1681&sup1;
+- titre: évêque d'Ales-Terralba
+  du: '1680-02-08'
+  au: null
+- titre: évêque de Bosa
+  du: '1677-11-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760946
+  catholic_hierarchy: besquir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:25:46+00:00'
+  completeness: 0.75

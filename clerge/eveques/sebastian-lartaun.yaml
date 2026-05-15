@@ -1,0 +1,44 @@
+slug: sebastian-lartaun
+nom: Sebastián Lartaún
+nom_complet: null
+naissance: '1501'
+deces: '1583-10-09'
+naissance_lieu: Vizcaya, Diocese of Calahorra y La Calzada, Spain
+deces_lieu: Lima, Archdiocese of Lima
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1571-08-12'
+  lieu: Church, Ovarzun, Spain
+  consecrateur_principal: diego-ramirez-sedeno-de-fuenleal
+  co_consecrateurs:
+  - alfonso-merchante-de-valeria
+  - gonzalo-herrera-olivares
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blart.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuzco, Peru
+  du: '1570-09-04'
+  au: '1583-10-09'
+- titre: évêque de Cuzco
+  du: '1570-09-14'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q6123039
+  catholic_hierarchy: blart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:34:27+00:00'
+  completeness: 0.88

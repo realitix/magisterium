@@ -1,0 +1,43 @@
+slug: giuseppe-bolognese
+nom: Giuseppe Bolognese
+nom_complet: null
+naissance: '1742-09-14'
+deces: '1803-03-17'
+naissance_lieu: Chieti
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1797-12-21'
+  consecrateur_principal: giulio-maria-della-somaglia
+  co_consecrateurs:
+  - ottavio-boni
+  - francesco-saverio-passari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbologg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marsi, Italy
+  du: null
+  au: '1803-03-17'
+- titre: évêque diocésain
+  du: '1797-10-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733080
+  catholic_hierarchy: bbologg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:35:25+00:00'
+  completeness: 1.0

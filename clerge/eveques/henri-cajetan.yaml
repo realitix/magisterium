@@ -1,0 +1,56 @@
+slug: henri-cajetan
+nom: Henri Cajetan
+nom_complet: Enrico Cardinal Caetani
+naissance: '1550-08-06'
+deces: '1599-12-13'
+naissance_lieu: Sermoneta, Italy
+deces_lieu: null
+rang: patriarche
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1585-08-11'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - massimiliano-palumbara-palombella
+  - annibale-de-capua
+  - guillaume-damase-van-linda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaete.html
+  - https://fr.wikipedia.org/wiki/Henri_Caietan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Patriarch of Alexandria {Alessandria}
+  du: '1585-07-29'
+  au: null
+- titre: Chamberlain (Camerlengo) of the Apostolic Chamber
+  du: '1587-10-26'
+  au: '1599-12-13'
+- titre: camerlingue de la Chambre apostolique
+  du: '1587-01-01'
+  au: '1599-01-01'
+- titre: cardinal
+  du: '1585-12-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20del%20Cardinale%20Enrico%20Caetani.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2517909
+  catholic_hierarchy: bcaete
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:05:57+00:00'
+  completeness: 1.0

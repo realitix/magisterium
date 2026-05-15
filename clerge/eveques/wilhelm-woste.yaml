@@ -1,0 +1,53 @@
+slug: wilhelm-woste
+nom: Wilhelm Wöste
+nom_complet: null
+naissance: '1911-10-03'
+deces: '1993-09-15'
+naissance_lieu: Löningen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1977-01-09'
+  lieu: Cathedral, Münster, Diocese of Münster
+  consecrateur_principal: heinrich-tenhumberg
+  co_consecrateurs:
+  - laurenz-boggering
+  - max-georg-von-twickel
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwoste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Münster, Germany
+  du: '1976-11-06'
+  au: null
+- titre: Titular Bishop of Thignica
+  du: '1976-11-06'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Münster, Germany
+  du: null
+  au: '1993-09-15'
+- titre: évêque auxiliaire
+  du: '1976-11-06'
+  au: '1986-12-20'
+- titre: évêque titulaire
+  du: '1976-11-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q113825
+  catholic_hierarchy: bwoste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:59:23+00:00'
+  completeness: 1.0

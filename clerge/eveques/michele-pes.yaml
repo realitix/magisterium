@@ -1,0 +1,40 @@
+slug: michele-pes
+nom: Michele Pes
+nom_complet: null
+naissance: '1714-01-14'
+deces: '1804'
+naissance_lieu: Tempio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1785-04-03'
+  consecrateur_principal: giovanni-battista-simon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpesm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ampurias e Civita, Italy
+  du: null
+  au: 1804&sup1;
+- titre: Roman Catholic Bishop of Tempio-Ampurias
+  du: '1784-10-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744787
+  catholic_hierarchy: bpesm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:25:37+00:00'
+  completeness: 0.62

@@ -1,0 +1,41 @@
+slug: odgisl-birgersson-o-p
+nom: Ödgisl Birgersson, O.P.
+nom_complet: Egislus Birgeri
+naissance: null
+deces: '1353'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbirgh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Västerås (Westeraes), Sweden
+  du: '1327-12-28'
+  au: null
+- titre: Bishop of Västerås (Westeraes), Sweden
+  du: '1329-05-15'
+  au: 1353&sup1;
+- titre: évêque diocésain
+  du: '1329-05-23'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q24035978
+  catholic_hierarchy: bbirgh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:28:23+00:00'
+  completeness: 0.25

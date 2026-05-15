@@ -1,0 +1,45 @@
+slug: pierre-de-monimo-o-p
+nom: Pierre de Monimo, O.P.
+nom_complet: Pierre de Monimo
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1500-12-11'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonimo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Auch, France
+  du: '1500-12-11'
+  au: null
+- titre: Titular Bishop of Berytus
+  du: '1500-12-11'
+  au: null
+- titre: évêque titulaire
+  du: '1500-12-11'
+  au: null
+- titre: évêque auxiliaire
+  du: '1500-12-21'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q68908541
+  catholic_hierarchy: bmonimo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:05:47+00:00'
+  completeness: 0.25

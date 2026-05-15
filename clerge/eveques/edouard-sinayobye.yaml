@@ -1,0 +1,45 @@
+slug: edouard-sinayobye
+nom: Edouard Sinayobye
+nom_complet: null
+naissance: '1966-04-20'
+deces: null
+naissance_lieu: Butare, Diocese of Butare
+deces_lieu: null
+rang: eveque
+nationalite: Q1037
+tampon: ordo_dubius
+sacre:
+  date: '2021-03-25'
+  lieu: Rusizi, Stadium, Cyangugu, Diocese of Cyangugu
+  consecrateur_principal: philippe-rukamba
+  co_consecrateurs:
+  - antoine-kambanda
+  - celestin-hazikimana
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsinay.html
+  - https://fr.wikipedia.org/wiki/Edouard_Sinayobye
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cyangugu, Rwanda
+  du: '2021-02-06'
+  au: null
+- titre: évêque diocésain
+  du: '2021-02-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q105335871
+  catholic_hierarchy: bsinay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:20:11+00:00'
+  completeness: 0.88

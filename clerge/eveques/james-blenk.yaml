@@ -1,0 +1,56 @@
+slug: james-blenk
+nom: James Blenk
+nom_complet: James Hubert Blenk, S.M.
+naissance: '1856-08-06'
+deces: '1917-04-20'
+naissance_lieu: Neustadt, Diocese of Speyer, Germany
+deces_lieu: New Orleans, Archdiocese of New Orleans, Louisiana
+rang: archeveque
+nationalite: Q154195
+tampon: ordo_validus
+sacre:
+  date: '1899-07-02'
+  lieu: Saint Louis, King of France, Cathedral, New Orleans, Archdiocese of New Orleans,
+    Louisiana
+  consecrateur_principal: placide-louis-chapelle
+  co_consecrateurs:
+  - gustave-augustin-rouxel
+  - theophile-meerschaert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblenk.html
+  - https://fr.wikipedia.org/wiki/James_Hubert_Blenk
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Puerto Rico (Porto Rico)
+  du: '1899-06-12'
+  au: null
+- titre: Archbishop of New Orleans, Louisiana, USA
+  du: '1906-04-20'
+  au: '1917-04-20'
+- titre: évêque de Porto Rico
+  du: '1899-06-12'
+  au: '1906-04-20'
+- titre: archevêque de la Nouvelle-Orléans
+  du: '1906-04-20'
+  au: null
+fraternite: maristes
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Erzbischof%20Blenk%201JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1679106
+  catholic_hierarchy: bblenk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:07+00:00'
+  completeness: 1.0

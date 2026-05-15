@@ -1,0 +1,44 @@
+slug: sabbatino-giani
+nom: Sabbatino Giani
+nom_complet: null
+naissance: '1858-03-05'
+deces: '1921-02-18'
+naissance_lieu: Ponte a Cappiano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1900-12-21'
+  lieu: Santa Francesca Romana, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - lorenzo-passerini
+  - amilcare-tonietti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Livorno, Italy
+  du: '1900-12-17'
+  au: '1921-02-18'
+- titre: évêque diocésain
+  du: '1900-12-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q13416709
+  catholic_hierarchy: bgiani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:21:27+00:00'
+  completeness: 1.0

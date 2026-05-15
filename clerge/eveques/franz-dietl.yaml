@@ -1,0 +1,57 @@
+slug: franz-dietl
+nom: Franz Dietl
+nom_complet: null
+naissance: '1934-03-20'
+deces: '2024-03-22'
+naissance_lieu: Moosburg, Archdiocese of München und Freising {Munich}
+deces_lieu: Gräfelfing, Archdiocese of München und Freising {Munich}
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1999-02-07'
+  lieu: Notre-Dame, Cathedral, München, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: friedrich-wetter
+  co_consecrateurs:
+  - franz-xaver-schwarzenbock
+  - engelbert-siebler
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdietl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of München und Freising {Munich}, Germany
+  du: '1998-12-22'
+  au: null
+- titre: Titular Bishop of Sebarga
+  du: '1998-12-22'
+  au: null
+- titre: Auxiliary Bishop Emeritus of München und Freising {Munich}, Germany
+  du: null
+  au: '2024-03-22'
+- titre: évêque auxiliaire
+  du: '1998-12-22'
+  au: '2010-01-05'
+- titre: évêque titulaire
+  du: '1998-12-22'
+  au: '2024-03-22'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/DIETL%20Franz%208649%20cropped.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q101444
+  catholic_hierarchy: bdietl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:45+00:00'
+  completeness: 1.0

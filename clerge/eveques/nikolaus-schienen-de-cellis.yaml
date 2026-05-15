@@ -1,0 +1,49 @@
+slug: nikolaus-schienen-de-cellis
+nom: Nikolaus Schienen de Cellis
+nom_complet: Nikolaus Schienen
+naissance: '1491'
+deces: '1556-08-31'
+naissance_lieu: Zell/Mosel
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1519-11-06'
+  lieu: Chapel of the Consecrator, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: vincenzo-de-andreis-o-p
+  co_consecrateurs:
+  - lorenzo-boschetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschienen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1519-10-26'
+  au: '1556-08-31'
+- titre: Titular Bishop of Azotus
+  du: '1519-10-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1519-11-05'
+  au: null
+- titre: évêque titulaire
+  du: '1519-11-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26763918
+  catholic_hierarchy: bschienen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:01:20+00:00'
+  completeness: 0.88

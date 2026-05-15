@@ -1,0 +1,50 @@
+slug: lelio-ruini
+nom: Lelio Ruini
+nom_complet: null
+naissance: null
+deces: '1621-12-31'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1613-03-17'
+  lieu: Kraków, Diocese of Kraków, Poland
+  consecrateur_principal: wojciech-baranowski-jastrzebiec
+  co_consecrateurs:
+  - andrzej-opalinski
+  - szymon-rudnicki
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bruinil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Nuncio to Poland
+  du: '1612-09-13'
+  au: Sep 1614&sup3;
+- titre: Bishop of Bagnoregio (Bagnorea), Italy
+  du: '1612-10-22'
+  au: '1621-12-31'
+- titre: nonce apostolique en Pologne
+  du: '1612-09-13'
+  au: '1614-09-01'
+- titre: évêque diocésain
+  du: '1612-10-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761889
+  catholic_hierarchy: bruinil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:35:42+00:00'
+  completeness: 0.88

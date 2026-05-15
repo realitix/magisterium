@@ -1,0 +1,48 @@
+slug: odard-hennequin
+nom: Odard Hennequin
+nom_complet: Oudart Hennequin
+naissance: null
+deces: '1544-11-13'
+naissance_lieu: Troyes, Diocese of Troyes
+deces_lieu: Troyes, Diocese of Troyes
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1528'
+  lieu: Paris, Diocese of Paris
+  consecrateur_principal: francois-poncher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhennou.html
+  - https://fr.wikipedia.org/wiki/Odard_Hennequin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: 1527&sup1;
+  au: null
+- titre: Bishop of Troyes, France
+  du: '1527-09-18'
+  au: '1544-11-13'
+- titre: évêque diocésain
+  du: '1527-09-28'
+  au: null
+- titre: évêque diocésain
+  du: '1527-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24938469
+  catholic_hierarchy: bhennou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:13+00:00'
+  completeness: 0.75

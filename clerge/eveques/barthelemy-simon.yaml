@@ -1,0 +1,49 @@
+slug: barthelemy-simon
+nom: Barthélemy Simon
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1531-05-25'
+  consecrateur_principal: louis-guillart
+  co_consecrateurs:
+  - non-indexe-1ff72246
+  - guy-de-montmiral-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsimonb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chartres, France
+  du: '1531-04-23'
+  au: 1541&sup1;
+- titre: Titular Bishop of Sebaste in Cilicia
+  du: '1531-04-23'
+  au: null
+- titre: évêque titulaire
+  du: '1531-04-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1531-05-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779843
+  catholic_hierarchy: bsimonb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:19:32+00:00'
+  completeness: 0.75

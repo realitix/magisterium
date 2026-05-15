@@ -1,0 +1,50 @@
+slug: john-hennessy
+nom: John Hennessy
+nom_complet: null
+naissance: '1825-08-29'
+deces: '1900-03-04'
+naissance_lieu: Bulgaden, Diocese of Limerick, Ireland
+deces_lieu: Dubuque, Archdiocese of Dubuque, Iowa
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1866-09-30'
+  lieu: St. Raphael, Cathedral, Dubuque, Diocese of Dubuque, Iowa
+  consecrateur_principal: peter-richard-kenrick
+  co_consecrateurs:
+  - john-henni
+  - james-duggan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dubuque, Iowa, USA
+  du: '1866-04-24'
+  au: null
+- titre: Archbishop of Dubuque, Iowa, USA
+  du: '1893-06-17'
+  au: '1900-03-04'
+- titre: Roman Catholic Bishop of Dubuque
+  du: '1866-04-24'
+  au: '1893-06-15'
+- titre: Roman Catholic Archbishop of Dubuque
+  du: '1893-06-17'
+  au: '1900-03-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15979078
+  catholic_hierarchy: bhenj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:53+00:00'
+  completeness: 1.0

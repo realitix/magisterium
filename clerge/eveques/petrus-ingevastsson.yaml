@@ -1,0 +1,38 @@
+slug: petrus-ingevastsson
+nom: Petrus Ingevastsson
+nom_complet: Petrus Ingevasti
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bingevast.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Västerås (Westeraes), Sweden
+  du: '1403-06-25'
+  au: 1414&sup1;
+- titre: évêque diocésain
+  du: '1403-07-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108451396
+  catholic_hierarchy: bingevast
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:53:32+00:00'
+  completeness: 0.25

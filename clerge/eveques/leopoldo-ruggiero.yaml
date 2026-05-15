@@ -1,0 +1,44 @@
+slug: leopoldo-ruggiero
+nom: Leopoldo Ruggiero
+nom_complet: null
+naissance: '1821-02-08'
+deces: '1886-03-11'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: Q180393
+tampon: ordo_validus
+sacre:
+  date: '1877-03-18'
+  lieu: San Carlo ai Catinari, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-maria-bilio
+  co_consecrateurs:
+  - alessandro-sanminiatelli-zabarella
+  - giovanni-felix-jacovacci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bruggl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Sorrento, Italy
+  du: '1877-03-12'
+  au: '1886-03-11'
+- titre: archevêque de Sorrento
+  du: '1877-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q14360831
+  catholic_hierarchy: bruggl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:35:30+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: gui-de-arvernia-bologne
+nom: Gui de Arvernia (Bologne)
+nom_complet: Gui de Arvernia
+naissance: null
+deces: '1336'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barvernia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1301-02-28'
+  au: null
+- titre: Bishop of Cambrai, France
+  du: '1324-03-28'
+  au: 1336&sup1;
+- titre: évêque diocésain
+  du: '1301-03-08'
+  au: null
+- titre: évêque diocésain
+  du: '1324-04-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448325
+  catholic_hierarchy: barvernia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.25

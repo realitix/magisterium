@@ -1,0 +1,42 @@
+slug: olry-de-blamont
+nom: Olry de Blâmont
+nom_complet: Udalric de Blamont
+naissance: '1425'
+deces: '1506-05-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblamont.html
+  - https://fr.wikipedia.org/wiki/Olry_de_Bl%C3%A2mont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toul, France
+  du: 1495&sup2;
+  au: '1506-05-04'
+- titre: évêque de Toul
+  du: '1495-01-01'
+  au: '1506-05-14'
+- titre: administrateur apostolique de Toul
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22807057
+  catholic_hierarchy: bblamont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:30:01+00:00'
+  completeness: 0.38

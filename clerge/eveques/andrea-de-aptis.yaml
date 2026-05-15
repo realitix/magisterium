@@ -1,0 +1,44 @@
+slug: andrea-de-aptis
+nom: Andrea de Aptis
+nom_complet: Andrea de Aptis, O.S.A.
+naissance: null
+deces: '1378'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baptis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Todi, Italy
+  du: '1356-04-01'
+  au: null
+- titre: Bishop of Brescia, Italy
+  du: '1373-03-30'
+  au: 1378&sup1;
+- titre: évêque diocésain
+  du: '1373-04-07'
+  au: null
+- titre: évêque diocésain
+  du: '1356-04-09'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q3616136
+  catholic_hierarchy: baptis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:12+00:00'
+  completeness: 0.25

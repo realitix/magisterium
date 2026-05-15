@@ -1,0 +1,47 @@
+slug: francois-charriere
+nom: François Charrière
+nom_complet: null
+naissance: '1893-09-01'
+deces: '1976-07-11'
+naissance_lieu: Cerniat
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1945-11-21'
+  consecrateur_principal: filippo-bernardini
+  co_consecrateurs:
+  - viktor-bieler
+  - marcel-olivier-maradan-o-f-m-cap
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchare.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Charri%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Genève et Fribourg (Freiburg), Switzerland
+  du: '1945-10-20'
+  au: null
+- titre: Bishop Emeritus of Lausanne, Genève et Fribourg (Freiburg), Switzerland
+  du: null
+  au: '1976-07-11'
+- titre: évêque de Lausanne, Genève et Fribourg
+  du: '1945-10-20'
+  au: '1970-12-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q122203
+  catholic_hierarchy: bchare
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:51+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: louis-du-moulinet
+nom: Louis du Moulinet
+nom_complet: null
+naissance: '1505'
+deces: '1601-03-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-04-24'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdmouli.html
+  - https://fr.wikipedia.org/wiki/Louis_du_Moulinet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1564-11-17'
+  au: '1600-10-23'
+- titre: Bishop Emeritus of Sées {Séez}, France
+  du: null
+  au: '1601-03-03'
+- titre: évêque diocésain
+  du: '1564-11-27'
+  au: '1600-10-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9es%2C%20Cath%C3%A9drale%20Notre-Dame%2C%20caveau%20des%20%C3%A9v%C3%AAques%201.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3263585
+  catholic_hierarchy: bdmouli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:57:31+00:00'
+  completeness: 0.5

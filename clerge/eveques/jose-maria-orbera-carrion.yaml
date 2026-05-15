@@ -1,0 +1,44 @@
+slug: jose-maria-orbera-carrion
+nom: José María Orberá Carrión
+nom_complet: José María Orberá y Carrión
+naissance: '1827-11-06'
+deces: '1886-11-23'
+naissance_lieu: Valencia, Archdiocese of Valencia
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1876-03-12'
+  lieu: San Isidro, Madrid, Archdiocese of Toledo
+  consecrateur_principal: juan-de-la-cruz-ignacio-moreno-y-maisanove
+  co_consecrateurs:
+  - pedro-jose-sanchez-carrascosa-y-carrion
+  - jose-oliver-y-hurtado
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boryca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Almería, Spain
+  du: null
+  au: '1886-11-23'
+- titre: évêque d'Almería
+  du: '1875-06-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1709464
+  catholic_hierarchy: boryca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:58:01+00:00'
+  completeness: 1.0

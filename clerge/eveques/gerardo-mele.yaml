@@ -1,0 +1,43 @@
+slug: gerardo-mele
+nom: Gerardo Mele
+nom_complet: null
+naissance: '1738-11-18'
+deces: '1817-02-06'
+naissance_lieu: San Gregorio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1798-02-02'
+  consecrateur_principal: giuseppe-maria-doria-pamphilj
+  co_consecrateurs:
+  - cesare-brancadoro
+  - camillo-campanelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmeleg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tropea, Italy
+  du: null
+  au: '1817-02-06'
+- titre: évêque de Tropea
+  du: '1797-10-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747203
+  catholic_hierarchy: bmeleg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:48:34+00:00'
+  completeness: 1.0

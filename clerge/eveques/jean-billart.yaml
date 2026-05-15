@@ -1,0 +1,39 @@
+slug: jean-billart
+nom: Jean Billart
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1476-03-18'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbillart.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Byblus
+  du: '1476-03-18'
+  au: null
+- titre: évêque titulaire
+  du: '1476-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68864127
+  catholic_hierarchy: bbillart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:27:21+00:00'
+  completeness: 0.25

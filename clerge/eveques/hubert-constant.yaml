@@ -1,0 +1,53 @@
+slug: hubert-constant
+nom: Hubert Constant
+nom_complet: Hubert Constant, O.M.I.
+naissance: '1931-09-18'
+deces: '2011-09-23'
+naissance_lieu: Camp-Perrin
+deces_lieu: null
+rang: archeveque
+nationalite: Q790
+tampon: ordo_dubius
+sacre:
+  date: '1991-04-07'
+  consecrateur_principal: francois-gayot
+  co_consecrateurs:
+  - jean-alix-verrier
+  - joseph-willy-romelus
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconstant.html
+  - https://fr.wikipedia.org/wiki/Hubert_Constant
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fort-Liberté, Haïti
+  du: '1991-01-31'
+  au: null
+- titre: Archbishop of Cap-Haïtien, Haïti
+  du: '2003-11-05'
+  au: null
+- titre: Archbishop Emeritus of Cap-Haïtien, Haïti
+  du: null
+  au: '2011-09-23'
+- titre: évêque diocésain
+  du: '1991-01-31'
+  au: null
+- titre: archevêque catholique
+  du: '2003-11-05'
+  au: '2008-03-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1411161
+  catholic_hierarchy: bconstant
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:49+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: pedro-de-villagomez
+nom: Pedro de Villagómez
+nom_complet: Pedro de Villagómez Vivanco
+naissance: '1589-10-08'
+deces: '1671-05-12'
+naissance_lieu: Castroverde del Campo, Spain
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1633-09-25'
+  lieu: Lima, Archdiocese of Lima
+  consecrateur_principal: fernando-arias-de-ugarte
+  co_consecrateurs:
+  - feliciano-de-vega-y-padilla
+  - melchor-maldonado-y-saavedra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvilp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lima, Peru
+  du: '1640-07-16'
+  au: '1671-05-12'
+- titre: archevêque de Lima
+  du: '1640-07-16'
+  au: null
+- titre: évêque d'Arequipa
+  du: '1632-01-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20Villagomez%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9057783
+  catholic_hierarchy: bvilp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:27+00:00'
+  completeness: 1.0

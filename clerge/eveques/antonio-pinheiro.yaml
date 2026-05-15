@@ -1,0 +1,46 @@
+slug: antonio-pinheiro
+nom: António Pinheiro
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Porto Mós
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '15'
+  lieu: Lisboa, Patriarchate of Lisboa {Lisbon}
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpinha.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Miranda (do Douro), Portugal
+  du: '1564-06-21'
+  au: null
+- titre: Bishop of Leiria, Portugal
+  du: '1579-11-27'
+  au: 1582-10
+- titre: Roman Catholic Bishop of Miranda do Douro
+  du: '1564-07-01'
+  au: null
+- titre: évêque de Leiria
+  du: '1579-12-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779444
+  catholic_hierarchy: bpinha
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:34:21+00:00'
+  completeness: 0.38

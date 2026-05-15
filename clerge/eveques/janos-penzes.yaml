@@ -1,0 +1,48 @@
+slug: janos-penzes
+nom: János Pénzes
+nom_complet: null
+naissance: '1943-08-10'
+deces: null
+naissance_lieu: Bajmok
+deces_lieu: null
+rang: eveque
+nationalite: Q36704
+tampon: ordo_dubius
+sacre:
+  date: '1989-06-18'
+  lieu: Ste Therèse, Cathedral, Subotica, Diocese of Subotica
+  consecrateur_principal: gabriel-montalvo-higuera
+  co_consecrateurs:
+  - franc-perko
+  - matija-zvekanovic
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpenzes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Subotica, Serbia
+  du: '1989-04-25'
+  au: null
+- titre: évêque de Subotica
+  du: '1989-04-25'
+  au: '2020-09-08'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Penzes%20Doroslovo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q586489
+  catholic_hierarchy: bpenzes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:19:28+00:00'
+  completeness: 0.88

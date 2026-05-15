@@ -1,0 +1,43 @@
+slug: rogerius-giacobetti
+nom: Rogerius Giacobetti
+nom_complet: null
+naissance: '1656-03-14'
+deces: '1716-05-03'
+naissance_lieu: Assisi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1715-06-16'
+  consecrateur_principal: fabrizio-paolucci-1651
+  co_consecrateurs:
+  - nicola-maria-tedeschi
+  - francesco-saverio-guicciardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiacob.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Assisi, Italy
+  du: '1715-05-29'
+  au: '1716-05-03'
+- titre: Roman Catholic Bishop of Assisi
+  du: '1715-05-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760683
+  catholic_hierarchy: bgiacob
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:56+00:00'
+  completeness: 1.0

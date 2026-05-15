@@ -1,0 +1,46 @@
+slug: girolamo-rustici
+nom: Girolamo Rustici
+nom_complet: null
+naissance: null
+deces: '1594-01-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-07-02'
+  consecrateur_principal: inigo-cardinal-avalos-de-aragon-o-s
+  co_consecrateurs:
+  - massimo-de-rsquo-massimi
+  - adriano-fuscone
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brustici.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tropea, Italy
+  du: '1570-06-26'
+  au: '1593-03-30'
+- titre: Bishop Emeritus of Tropea, Italy
+  du: null
+  au: '1594-01-02'
+- titre: évêque de Tropea
+  du: '1570-07-06'
+  au: '1593-03-30'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778474
+  catholic_hierarchy: brustici
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:37:23+00:00'
+  completeness: 0.88

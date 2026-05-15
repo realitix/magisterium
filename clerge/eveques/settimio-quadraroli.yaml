@@ -1,0 +1,43 @@
+slug: settimio-quadraroli
+nom: Settimio Quadraroli
+nom_complet: null
+naissance: '1871-11-01'
+deces: '1927-08-04'
+naissance_lieu: Belforte del Chienti
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1921-11-06'
+  consecrateur_principal: ettore-fronzi
+  co_consecrateurs:
+  - nicola-cola
+  - apollonio-maggio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teramo, Italy
+  du: '1921-08-26'
+  au: '1927-08-04'
+- titre: Roman Catholic Bishop of Teramo
+  du: '1921-08-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761984
+  catholic_hierarchy: bquad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:54:25+00:00'
+  completeness: 1.0

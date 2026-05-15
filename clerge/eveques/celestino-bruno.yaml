@@ -1,0 +1,44 @@
+slug: celestino-bruno
+nom: Celestino Bruno
+nom_complet: Celestino Bruni (Bruno), O.S.A.
+naissance: '1615'
+deces: '1664-05-31'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1653-09-07'
+  lieu: Sant'Agostino, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - ranuccio-scotti-douglas
+  - patrizio-donati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrunic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boiano, Italy
+  du: '1653-08-18'
+  au: '1664-05-31'
+- titre: Roman Catholic Bishop of Boiano
+  du: '1653-08-18'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q3664240
+  catholic_hierarchy: bbrunic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:55:28+00:00'
+  completeness: 0.88

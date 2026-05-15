@@ -1,0 +1,53 @@
+slug: reginald-cools-o-p
+nom: Réginald Cools, O.P.
+nom_complet: Reginaldus Cools
+naissance: '1618-01-28'
+deces: '1706-12-02'
+naissance_lieu: Antwerpen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1677-01-17'
+  consecrateur_principal: alphonse-de-berghes
+  co_consecrateurs:
+  - ignaas-august-schetz-van-grobbendonck
+  - francois-de-baillencourt
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcools.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roermond, Netherlands
+  du: '1676-11-16'
+  au: null
+- titre: Bishop of Antwerpen {Antwerp, Anvers}, Belgium
+  du: '1700-05-10'
+  au: '1706-12-02'
+- titre: évêque diocésain
+  du: '1676-11-16'
+  au: null
+- titre: Évêque de Ruremonde
+  du: '1676-11-16'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Reginaldus%20Cools%2C%20RP-P-OB-15.691.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3931868
+  catholic_hierarchy: bcools
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:17+00:00'
+  completeness: 1.0

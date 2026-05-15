@@ -1,0 +1,56 @@
+slug: nicolas-v-1397
+nom: Nicolas V
+nom_complet: Nicholas V
+naissance: '1397-11-15'
+deces: '1455-03-24'
+naissance_lieu: Sarzana
+deces_lieu: null
+rang: pape
+nationalite: Q170174
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: pablo-de-santafe
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bparen.html
+  - https://fr.wikipedia.org/wiki/Nicolas_V
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bologna, Italy
+  du: '1444-11-27'
+  au: null
+- titre: Cardinal-Priest of Santa Susanna
+  du: '1446-12-16'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1455-03-24'
+- titre: pape
+  du: '1447-03-15'
+  au: '1455-04-02'
+- titre: cardinal-prêtre
+  du: '1446-12-25'
+  au: '1447-03-15'
+- titre: évêque de Bologne
+  du: '1444-12-06'
+  au: '1447-03-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Paus%20Nicolaas%20V%20door%20Peter%20Paul%20Rubens.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q134588
+  catholic_hierarchy: bparen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:09:53+00:00'
+  completeness: 0.62

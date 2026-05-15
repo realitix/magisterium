@@ -1,0 +1,54 @@
+slug: richard-smith
+nom: Richard Smith
+nom_complet: null
+naissance: '1566'
+deces: '1655-03-18'
+naissance_lieu: Hanworth, Lincoln, Lincolnshire
+deces_lieu: Fosse Saint Victor, Paris, Diocese of Paris, France
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1625-01-12'
+  lieu: Paris, Diocese of Paris, France
+  consecrateur_principal: bernardino-cardinal-spada
+  co_consecrateurs:
+  - armand-jean-du-plessis-de-richelieu
+  - claude-de-rueil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsmir.html
+  - https://fr.wikipedia.org/wiki/Richard_Smith_(1568-1655)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of England (and Wales), Great Britain
+  du: '1624-11-29'
+  au: 1632&sup2;
+- titre: Titular Bishop of Chalcedon
+  du: '1624-11-29'
+  au: null
+- titre: Vicar Apostolic Emeritus of England (and Wales), Great Britain
+  du: null
+  au: '1655-03-18'
+- titre: évêque titulaire
+  du: '1624-11-29'
+  au: null
+- titre: Vicar Apostolic of England (and Wales)
+  du: '1624-11-29'
+  au: '1632-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7329107
+  catholic_hierarchy: bsmir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:23:59+00:00'
+  completeness: 0.88

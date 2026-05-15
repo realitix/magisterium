@@ -1,0 +1,44 @@
+slug: pavo-de-griffis
+nom: Pavo de Griffis
+nom_complet: null
+naissance: null
+deces: '1410'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgriffisp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Polignano (Polinianum), Italy
+  du: '1375-01-08'
+  au: null
+- titre: Bishop of Tropea, Italy
+  du: '1390-11-27'
+  au: 1410&sup1;
+- titre: Roman Catholic Bishop of Polignano
+  du: '1375-01-16'
+  au: null
+- titre: évêque de Tropea
+  du: '1390-12-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96475106
+  catholic_hierarchy: bgriffisp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:42:51+00:00'
+  completeness: 0.25

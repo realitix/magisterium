@@ -1,0 +1,48 @@
+slug: james-whyte
+nom: James Whyte
+nom_complet: null
+naissance: '1868-10-26'
+deces: '1957-12-26'
+naissance_lieu: Kilkenny, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q664
+tampon: ordo_validus
+sacre:
+  date: '1920-12-12'
+  lieu: Dunedin, Diocese of Dunedin
+  consecrateur_principal: francis-redwood
+  co_consecrateurs:
+  - john-joseph-carroll
+  - henry-cleary
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwhyte.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunedin, New Zealand
+  du: '1920-04-22'
+  au: '1957-12-26'
+- titre: évêque diocésain
+  du: '1920-04-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20James%20Whyte.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6145483
+  catholic_hierarchy: bwhyte
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:55:06+00:00'
+  completeness: 1.0

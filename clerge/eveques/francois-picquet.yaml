@@ -1,0 +1,54 @@
+slug: francois-picquet
+nom: François Picquet
+nom_complet: null
+naissance: '1626-04-12'
+deces: '1685-08-26'
+naissance_lieu: Lyon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1677-09-26'
+  consecrateur_principal: girolamo-jerome-cardinal-grimaldi-cavalleroni
+  co_consecrateurs:
+  - nicolas-de-valavoir-vallavoire
+  - jean-de-gaillard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpicquet.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Picquet_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Caesaropolis
+  du: '1677-05-05'
+  au: null
+- titre: Bishop of Baghdad, Iraq
+  du: '1683-04-26'
+  au: '1685-08-26'
+- titre: évêque titulaire de Caesaropolis
+  du: '1677-05-05'
+  au: null
+- titre: évêque de Bagdad
+  du: '1683-04-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francois%20Picquet.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3085564
+  catholic_hierarchy: bpicquet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:31:01+00:00'
+  completeness: 1.0

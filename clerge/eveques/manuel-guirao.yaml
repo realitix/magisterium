@@ -1,0 +1,52 @@
+slug: manuel-guirao
+nom: Manuel Guirao
+nom_complet: null
+naissance: '1919-06-04'
+deces: '2005-01-02'
+naissance_lieu: Rafael Obligado
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_dubius
+sacre:
+  date: '1970-12-08'
+  consecrateur_principal: eduardo-francisco-pironio
+  co_consecrateurs:
+  - alejo-benedicto-gilligan
+  - antonio-quarracino
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguirao.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orán, Argentina
+  du: '1970-10-31'
+  au: null
+- titre: Bishop of Santiago del Estero, Argentina
+  du: '1981-01-20'
+  au: null
+- titre: Bishop Emeritus of Santiago del Estero, Argentina
+  du: null
+  au: '2005-01-02'
+- titre: évêque de Santiago del Estero
+  du: '1981-01-20'
+  au: '1994-11-23'
+- titre: évêque d'Orán
+  du: '1970-10-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11767174
+  catholic_hierarchy: bguirao
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:51:15+00:00'
+  completeness: 1.0

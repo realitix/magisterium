@@ -1,0 +1,55 @@
+slug: desire-mercier
+nom: Désiré Mercier
+nom_complet: Désiré Felicien François Joseph Cardinal Mercier
+naissance: '1851-11-21'
+deces: '1926-01-23'
+naissance_lieu: Castegier, Château, Braine-l'Alleud, Archdiocese of Mechelen
+deces_lieu: Brussels, Archdiocese of Mechelen
+rang: cardinal
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1906-03-25'
+  lieu: Saint-Rombaut, Cathedral, Mechelen, Archdiocese of Mechelen
+  consecrateur_principal: antonio-vico
+  co_consecrateurs:
+  - antoine-stillemans
+  - gustave-waffelaert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmercierd.html
+  - https://fr.wikipedia.org/wiki/D%C3%A9sir%C3%A9-Joseph_Mercier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Mechelen, Belgium
+  du: '1906-02-21'
+  au: '1926-01-23'
+- titre: Cardinal-Priest of San Pietro in Vincoli
+  du: '1907-04-18'
+  au: null
+- titre: archevêque de Malines
+  du: '1906-02-21'
+  au: null
+- titre: cardinal
+  du: '1907-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cardinal%20Mercier.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q468097
+  catholic_hierarchy: bmercierd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:52:24+00:00'
+  completeness: 1.0

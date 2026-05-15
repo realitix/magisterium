@@ -1,0 +1,43 @@
+slug: gregorio-hermida-y-gamba
+nom: Gregorio Hermida y Gamba
+nom_complet: Gregorio Hermida y Gamba (Camba)
+naissance: '1755-01-20'
+deces: '1814-11-10'
+naissance_lieu: Santiago de Rubián
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1806-10-19'
+  consecrateur_principal: rafael-de-muzquiz-aldunate
+  co_consecrateurs:
+  - juan-garcia-benito
+  - andres-aguiar-caamano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhermida.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oviedo, Spain
+  du: '1806-08-26'
+  au: '1814-11-10'
+- titre: évêque d'Oviedo
+  du: '1806-08-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5885437
+  catholic_hierarchy: bhermida
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:40:49+00:00'
+  completeness: 1.0

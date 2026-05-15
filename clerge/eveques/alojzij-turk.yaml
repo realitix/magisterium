@@ -1,0 +1,47 @@
+slug: alojzij-turk
+nom: Alojzij Turk
+nom_complet: Alojz Turk
+naissance: '1909-11-21'
+deces: '1995-04-19'
+naissance_lieu: Precna
+deces_lieu: null
+rang: archeveque
+nationalite: Q191077
+tampon: ordo_dubius
+sacre:
+  date: '1980-04-20'
+  lieu: St Antoine de Padoue, Beograd, Archdiocese of Beograd (-Smederevo)
+  consecrateur_principal: michele-cecchini
+  co_consecrateurs:
+  - franjo-kuharic
+  - alojzij-sustar
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bturk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Beograd (-Smederevo), Serbia
+  du: '1980-03-04'
+  au: null
+- titre: Archbishop Emeritus of Beograd (-Smederevo), Serbia
+  du: null
+  au: '1995-04-19'
+- titre: archevêque de Belgrade
+  du: '1980-03-04'
+  au: '1986-12-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18488308
+  catholic_hierarchy: bturk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:38+00:00'
+  completeness: 1.0

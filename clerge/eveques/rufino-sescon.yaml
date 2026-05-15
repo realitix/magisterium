@@ -1,0 +1,51 @@
+slug: rufino-sescon
+nom: Rufino Sescon
+nom_complet: Rufino Coronel Sescon Jr.
+naissance: '1972-04-20'
+deces: null
+naissance_lieu: Manila, Archdiocese of Manila
+deces_lieu: null
+rang: eveque
+nationalite: Q928
+tampon: ordo_dubius
+sacre:
+  date: '2025-02-25'
+  lieu: Cathedral, Manila, Archdiocese of Manila
+  consecrateur_principal: socrates-buenaventura-villegas
+  co_consecrateurs:
+  - honesto-ongtioco
+  - ruperto-cruz-santos
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsescon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Balanga, Philippines
+  du: '2024-12-03'
+  au: null
+- titre: évêque de Balanga
+  du: '2025-03-01'
+  au: null
+- titre: curé
+  du: '2022-11-25'
+  au: '2025-03-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Jun%20Sescon%20at%20the%20Manila%20Cathedral%202025-02-25.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q131380215
+  catholic_hierarchy: bsescon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:29+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: tomas-vaquero
+nom: Tomás Vaquero
+nom_complet: null
+naissance: '1914-03-26'
+deces: '1992-08-02'
+naissance_lieu: Pirassununga, Archdiocese of Campinas, Sao Paulo
+deces_lieu: Campinas, Archdiocese of Campinas, Sao Paulo
+rang: eveque
+nationalite: Q155
+tampon: ordo_validus
+sacre:
+  date: '1963-08-15'
+  lieu: São José, Church, São Paulo, Archdiocese of São Paulo
+  consecrateur_principal: paulo-de-tarso-campos
+  co_consecrateurs:
+  - agnelo-rossi
+  - jose-varani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaquero.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of São João da Boa Vista, Sao Paulo, Brazil
+  du: '1963-07-02'
+  au: null
+- titre: Bishop Emeritus of São João da Boa Vista, Sao Paulo, Brazil
+  du: null
+  au: '1992-08-02'
+- titre: évêque diocésain
+  du: '1963-07-02'
+  au: '1991-01-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q10383129
+  catholic_hierarchy: bvaquero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:25:04+00:00'
+  completeness: 1.0

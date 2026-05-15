@@ -1,0 +1,44 @@
+slug: etienne-de-vilazel
+nom: Étienne de Vilazel
+nom_complet: Etienne de Vilazel (Virazel)
+naissance: null
+deces: '1641-06-01'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1632-02-01'
+  consecrateur_principal: jean-francois-de-gondi
+  co_consecrateurs:
+  - nicolas-sanguin
+  - henri-de-sponde
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvira.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_de_Vilazel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc, France
+  du: '1631-11-10'
+  au: '1641-06-01'
+- titre: évêque diocésain
+  du: '1631-11-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22249447
+  catholic_hierarchy: bvira
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:41:33+00:00'
+  completeness: 0.88

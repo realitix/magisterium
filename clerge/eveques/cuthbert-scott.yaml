@@ -1,0 +1,42 @@
+slug: cuthbert-scott
+nom: Cuthbert Scott
+nom_complet: null
+naissance: '1501'
+deces: '1564-10-09'
+naissance_lieu: null
+deces_lieu: Louvain, Belgium
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: nicholas-heath
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscottc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chester, England, Great Britain
+  du: '1556-07-06'
+  au: '1559-06-21'
+- titre: Bishop Emeritus of Chester, England, Great Britain
+  du: null
+  au: '1564-10-09'
+- titre: évêque de Chester
+  du: '1556-01-01'
+  au: '1559-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5196804
+  catholic_hierarchy: bscottc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:05:50+00:00'
+  completeness: 0.62

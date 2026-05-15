@@ -1,0 +1,39 @@
+slug: reginald-de-martigny
+nom: Réginald de Martigny
+nom_complet: Réginal de Martigny
+naissance: null
+deces: '1536-05-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarigny.html
+  - https://fr.wikipedia.org/wiki/R%C3%A9ginald_de_Martigny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vabres, France
+  du: '1519-03-14'
+  au: '1536-05-17'
+- titre: Évêque de Vabres
+  du: '1519-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3455484
+  catholic_hierarchy: bmarigny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:31+00:00'
+  completeness: 0.38

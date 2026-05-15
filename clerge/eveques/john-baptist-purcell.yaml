@@ -1,0 +1,55 @@
+slug: john-baptist-purcell
+nom: John Baptist Purcell
+nom_complet: null
+naissance: '1800-02-26'
+deces: '1883-07-04'
+naissance_lieu: Mallow, Diocese of Cloyne and Ross, Ireland
+deces_lieu: St. Martin, OH
+rang: archeveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1833-10-13'
+  lieu: Assumption, Cathedral, Baltimore, Archdiocese of Baltimore, Maryland
+  consecrateur_principal: james-whitfield
+  co_consecrateurs:
+  - jean-dubois-1764
+  - francis-patrick-kenrick
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpurcell.html
+  - https://fr.wikipedia.org/wiki/John_Baptist_Purcell
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cincinnati, Ohio, USA
+  du: '1833-03-08'
+  au: null
+- titre: Archbishop of Cincinnati, Ohio, USA
+  du: '1850-07-19'
+  au: '1883-07-04'
+- titre: évêque de Cincinnati
+  du: '1833-03-08'
+  au: '1850-07-19'
+- titre: archevêque de Cincinnati
+  du: '1850-07-19'
+  au: '1883-07-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Baptist%20Purcell%20photo%20black%20and%20white.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q172682
+  catholic_hierarchy: bpurcell
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:53:22+00:00'
+  completeness: 1.0

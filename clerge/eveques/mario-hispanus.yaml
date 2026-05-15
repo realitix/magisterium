@@ -1,0 +1,44 @@
+slug: mario-hispanus
+nom: Mario Hispanus
+nom_complet: null
+naissance: null
+deces: '1532'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1524-02-22'
+  lieu: S. Onuphre, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: vincenzo-de-andreis-o-p
+  co_consecrateurs:
+  - lorenzo-boschetti
+  - leonardo-buccuto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhisp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salpi (Salapia), Italy
+  du: '1523-03-16'
+  au: 1532&sup1;
+- titre: évêque diocésain
+  du: '1523-03-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q31459791
+  catholic_hierarchy: bhisp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:43:59+00:00'
+  completeness: 0.75

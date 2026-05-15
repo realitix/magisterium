@@ -1,0 +1,60 @@
+slug: gyorgy-girk
+nom: György Girk
+nom_complet: null
+naissance: '1793-04-22'
+deces: '1868-11-24'
+naissance_lieu: Baja
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1838-11-25'
+  lieu: Kalocsa, Archdiocese of Kalocsa
+  consecrateur_principal: josip-kukovi-263
+  co_consecrateurs:
+  - laszlo-barkoczy
+  - elek-jordanszky
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgirk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Kalocsa, Hungary
+  du: '1838-09-17'
+  au: null
+- titre: Titular Bishop of Adrasus
+  du: '1838-09-17'
+  au: null
+- titre: Bishop of Pécs, Hungary
+  du: null
+  au: '1868-11-24'
+- titre: évêque titulaire
+  du: '1838-09-17'
+  au: null
+- titre: évêque auxiliaire
+  du: '1838-09-17'
+  au: null
+- titre: évêque diocésain
+  du: '1852-09-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Girk%20Litho.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1010721
+  catholic_hierarchy: bgirk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:25:44+00:00'
+  completeness: 1.0

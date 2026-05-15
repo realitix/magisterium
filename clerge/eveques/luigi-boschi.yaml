@@ -1,0 +1,49 @@
+slug: luigi-boschi
+nom: Luigi Boschi
+nom_complet: null
+naissance: '1853-08-03'
+deces: '1924-01-20'
+naissance_lieu: Potenza Picena
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1902-06-11'
+  consecrateur_principal: francesco-di-paola-cassetta
+  co_consecrateurs:
+  - ernesto-fontana
+  - francesco-sogaro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboschl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ripatransone, Italy
+  du: '1902-06-09'
+  au: '1924-01-20'
+- titre: Apostolic Administrator of Montalto (delle Marche), Italy
+  du: '1910-07-25'
+  au: '1911-11-27'
+- titre: administrateur apostolique
+  du: '1910-07-25'
+  au: '1911-11-27'
+- titre: Roman Catholic Bishop of Ripatransone
+  du: '1902-06-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3839373
+  catholic_hierarchy: bboschl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:42:03+00:00'
+  completeness: 1.0

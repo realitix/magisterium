@@ -1,0 +1,44 @@
+slug: attilio-nostro
+nom: Attilio Nostro
+nom_complet: null
+naissance: '1966-08-06'
+deces: null
+naissance_lieu: Palmi, Diocese of Mileto
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2021-09-25'
+  lieu: San Giovanni in Laterano, Cathedral Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: angelo-de-donatis
+  co_consecrateurs:
+  - fortunato-morrone
+  - francesco-massara
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnostro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mileto-Nicotera-Tropea, Italy
+  du: '2021-08-19'
+  au: null
+- titre: évêque diocésain
+  du: '2021-08-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108152335
+  catholic_hierarchy: bnostro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:03+00:00'
+  completeness: 0.88

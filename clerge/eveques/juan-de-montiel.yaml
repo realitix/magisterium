@@ -1,0 +1,41 @@
+slug: juan-de-montiel
+nom: Juan de Montiel
+nom_complet: null
+naissance: null
+deces: '1657-12-23'
+naissance_lieu: Ocón, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1656-07-16'
+  lieu: Tepeaca
+  consecrateur_principal: francisco-diego-diaz-de-quintanilla-y-de-hevia-y-valdes-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontiel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Cuba
+  du: '1655-05-14'
+  au: '1657-12-23'
+- titre: évêque de Cuba
+  du: '1655-05-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30303548
+  catholic_hierarchy: bmontiel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:08:36+00:00'
+  completeness: 0.75

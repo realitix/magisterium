@@ -1,0 +1,50 @@
+slug: mateo-rinal
+nom: Mateo Rinal
+nom_complet: null
+naissance: null
+deces: '1259-10-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brinalm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salamanca, Spain
+  du: '1246-12-15'
+  au: null
+- titre: Bishop of Cuenca, Spain
+  du: '1247-08-28'
+  au: null
+- titre: Bishop of Burgos, Spain
+  du: '1257-12-18'
+  au: '1259-10-02'
+- titre: évêque diocésain
+  du: '1246-12-22'
+  au: null
+- titre: évêque diocésain
+  du: '1247-09-04'
+  au: null
+- titre: évêque diocésain
+  du: '1257-12-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446946
+  catholic_hierarchy: brinalm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:15:28+00:00'
+  completeness: 0.38

@@ -1,0 +1,43 @@
+slug: juan-izquierdo
+nom: Juan Izquierdo
+nom_complet: Juan de Izquierdo, O.F.M. Obs.
+naissance: '1542'
+deces: '1602-11-17'
+naissance_lieu: Huelva, Spain
+deces_lieu: Mérida, Diocese of Yucatán (Mérida)
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1590-04-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bizquj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Yucatán (Mérida), México
+  du: '1588-06-13'
+  au: '1602-11-17'
+- titre: évêque du Yucatán
+  du: '1588-06-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Obispo%20Juan%20Izquierdo%2001.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9015637
+  catholic_hierarchy: bizquj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:56:34+00:00'
+  completeness: 0.5

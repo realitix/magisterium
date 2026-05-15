@@ -1,0 +1,40 @@
+slug: diego-soria
+nom: Diego Soria
+nom_complet: Diego Soria, O.P.
+naissance: '1558-04-26'
+deces: '1613'
+naissance_lieu: Yébenes, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1603'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsorid.html
+  - https://fr.wikipedia.org/wiki/Diego_Soria
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nueva Segovia, Philippines
+  du: '1602-11-15'
+  au: 1613&sup2;
+- titre: évêque de Nueva Segovia
+  du: '1602-11-15'
+  au: '1613-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q15428364
+  catholic_hierarchy: bsorid
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:28:48+00:00'
+  completeness: 0.38

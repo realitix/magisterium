@@ -1,0 +1,50 @@
+slug: bruno-sciamanna
+nom: Bruno Sciamanna
+nom_complet: null
+naissance: '1600'
+deces: '1647'
+naissance_lieu: Terni, Diocese of Terni
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1637-10-04'
+  lieu: S. Andre della Valle, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: gaetano-cossa-c-r
+  co_consecrateurs:
+  - tommaso-carafa
+  - defendente-brusati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsciaman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lucera, Italy
+  du: '1637-08-17'
+  au: null
+- titre: Bishop of Caserta, Italy
+  du: '1642-03-10'
+  au: 1647&sup1;
+- titre: évêque diocésain
+  du: '1642-03-10'
+  au: null
+- titre: évêque diocésain
+  du: '1637-08-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752102
+  catholic_hierarchy: bsciaman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:05:03+00:00'
+  completeness: 0.75

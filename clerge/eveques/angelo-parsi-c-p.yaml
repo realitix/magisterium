@@ -1,0 +1,44 @@
+slug: angelo-parsi-c-p
+nom: Angelo Parsi, C.P.
+nom_complet: Angelo Parsi
+naissance: '1800-05-16'
+deces: '1863-02-24'
+naissance_lieu: Civitavecchia, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1847-09-19'
+  lieu: Santi Giovanni e Paolo al Celio, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - francesco-pichi
+  - orazio-bettacchini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bparsia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicopoli, Bulgaria
+  du: '1847-07-30'
+  au: '1863-02-24'
+- titre: évêque de Nicopolis
+  du: '1847-07-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9154556
+  catholic_hierarchy: bparsia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:11:04+00:00'
+  completeness: 1.0

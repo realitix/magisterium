@@ -1,0 +1,45 @@
+slug: bermond-cornut
+nom: Bermond Cornut
+nom_complet: null
+naissance: null
+deces: '1223-04-07'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcornutb.html
+  - https://fr.wikipedia.org/wiki/Bermond_Cornut
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fréjus, France
+  du: 1206&sup2;
+  au: null
+- titre: Archbishop of Aix, France
+  du: 1212&sup2;
+  au: '1223-04-07'
+- titre: archevêque catholique
+  du: '1212-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1206-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816574
+  catholic_hierarchy: bcornutb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:07:07+00:00'
+  completeness: 0.38

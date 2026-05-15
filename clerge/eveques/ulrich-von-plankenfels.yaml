@@ -1,0 +1,46 @@
+slug: ulrich-von-plankenfels
+nom: Ulrich von Plankenfels
+nom_complet: null
+naissance: '1500'
+deces: '1467'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1453-12-23'
+  consecrateur_principal: sigmund-von-volkersdorf
+  co_consecrateurs:
+  - friedrich-iii-von-plankenfels
+  - konrad-strober-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplank.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiemsee, Germany
+  du: '1453-10-23'
+  au: '1467-02-28'
+- titre: Roman Catholic Bishop of Chiemsee
+  du: '1453-11-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1732340
+  catholic_hierarchy: bplank
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:16+00:00'
+  completeness: 0.88

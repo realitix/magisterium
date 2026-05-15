@@ -1,0 +1,44 @@
+slug: flaminio-marcellino
+nom: Flaminio Marcellino
+nom_complet: null
+naissance: '1611'
+deces: '1677-03-14'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1655-05-17'
+  lieu: Santa Chiara, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: francesco-cardinal-barberini-sr
+  co_consecrateurs:
+  - francisco-suarez-de-villegas-o-carm
+  - giacinto-cordella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarcellf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cesena, Italy
+  du: '1655-04-21'
+  au: 14 Mar 1677&sup3;
+- titre: Roman Catholic Bishop of Cesena
+  du: '1655-04-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745785
+  catholic_hierarchy: bmarcellf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:29+00:00'
+  completeness: 0.88

@@ -1,0 +1,55 @@
+slug: remi-gaulin
+nom: Rémi Gaulin
+nom_complet: null
+naissance: '1787-06-30'
+deces: '1857-05-08'
+naissance_lieu: Québec City, Diocese of Québec
+deces_lieu: Crypt, St. Mary, Cathedral, Kingston, Diocese of Kingston, Ontario
+rang: eveque
+nationalite: Q1134180
+tampon: ordo_validus
+sacre:
+  date: '1833-10-20'
+  lieu: St-Jacques, Church, Montréal, Archdiocese of Québec
+  consecrateur_principal: jean-jacques-lartigue
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaulin.html
+  - https://fr.wikipedia.org/wiki/R%C3%A9mi_Gaulin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Kingston, Ontario, Canada
+  du: '1833-05-10'
+  au: null
+- titre: Titular Bishop of Thabraca
+  du: '1833-05-10'
+  au: null
+- titre: Bishop of Kingston, Ontario, Canada
+  du: null
+  au: '1857-05-08'
+- titre: évêque diocésain
+  du: '1840-01-14'
+  au: null
+- titre: évêque titulaire
+  du: '1833-05-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9mi%20Gaulin.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3456026
+  catholic_hierarchy: bgaulin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:02+00:00'
+  completeness: 0.88

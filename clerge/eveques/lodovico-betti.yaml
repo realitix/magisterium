@@ -1,0 +1,43 @@
+slug: lodovico-betti
+nom: Lodovico Betti
+nom_complet: null
+naissance: '1612'
+deces: '1655'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1652-07-07'
+  consecrateur_principal: alexandre-vii
+  co_consecrateurs:
+  - carlo-carafa-della-spina
+  - carlo-azzolini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbettil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osimo, Italy
+  du: '1652-07-01'
+  au: 1655&sup2;
+- titre: Roman Catholic Bishop of Osimo
+  du: '1652-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744939
+  catholic_hierarchy: bbettil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:20+00:00'
+  completeness: 0.75

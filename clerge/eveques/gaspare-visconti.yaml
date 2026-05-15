@@ -1,0 +1,54 @@
+slug: gaspare-visconti
+nom: Gaspare Visconti
+nom_complet: null
+naissance: '1538-01-15'
+deces: '1595-01-12'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Milano, Archdiocese of Milano {Milan}
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1584-12-13'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: tolomeo-gallio
+  co_consecrateurs:
+  - giovanni-d-amato
+  - paolo-odescalchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bviscg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Novara, Italy
+  du: '1584-11-05'
+  au: null
+- titre: Archbishop of Milano {Milan}, Italy
+  du: '1584-11-28'
+  au: '1595-01-12'
+- titre: archevêque de Milan
+  du: '1584-12-13'
+  au: null
+- titre: évêque diocésain
+  du: '1584-11-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gaspare%20Visconti.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3758677
+  catholic_hierarchy: bviscg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:42:01+00:00'
+  completeness: 0.88

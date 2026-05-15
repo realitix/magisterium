@@ -1,0 +1,48 @@
+slug: jean-antoine-de-robiano
+nom: Jean-Antoine de Robiano
+nom_complet: Jean Antoine de Robiano
+naissance: '1698-08-19'
+deces: '1769-05-28'
+naissance_lieu: Bruselles
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1746-06-12'
+  consecrateur_principal: girolamo-spinola
+  co_consecrateurs:
+  - franz-kaspar-von-francken-sierstorpff
+  - pierre-louis-jacquet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brobiano.html
+  - https://fr.wikipedia.org/wiki/Jean-Antoine_de_Robiano
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roermond, Netherlands
+  du: null
+  au: '1769-05-28'
+- titre: Évêque de Ruremonde
+  du: '1745-06-26'
+  au: '1769-06-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bisschop%20J.%20A.%20de%20Robiano.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4302162
+  catholic_hierarchy: brobiano
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:18:52+00:00'
+  completeness: 1.0

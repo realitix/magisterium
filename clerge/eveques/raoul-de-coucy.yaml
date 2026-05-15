@@ -1,0 +1,45 @@
+slug: raoul-de-coucy
+nom: Raoul de Coucy
+nom_complet: Raoul of Coucy
+naissance: '1400'
+deces: '1425-03-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoucyr.html
+  - https://fr.wikipedia.org/wiki/Raoul_de_Coucy_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: '1387-08-13'
+  au: null
+- titre: Bishop of Noyon, France
+  du: '1415-03-20'
+  au: '1425-03-17'
+- titre: évêque de Noyon
+  du: '1415-03-29'
+  au: null
+- titre: évêque de Metz
+  du: '1387-08-21'
+  au: '1415-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3419310
+  catholic_hierarchy: bcoucyr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:11:28+00:00'
+  completeness: 0.38

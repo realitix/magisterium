@@ -1,0 +1,67 @@
+slug: emile-barthes
+nom: Émile Barthès
+nom_complet: Emile Barthès
+naissance: '1883-01-16'
+deces: '1939-05-18'
+naissance_lieu: Castres
+deces_lieu: null
+rang: eveque
+nationalite: FR
+tampon: ordo_validus
+sacre:
+  date: '1932-10-15'
+  consecrateur_principal: pierre-celestin-cezerac
+  co_consecrateurs:
+  - joseph-giray
+  - charles-challiol
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarthes.html
+  - https://gcatholic.org/p/16482
+  - https://fr.wikipedia.org/wiki/%C3%89mile_Barth%C3%A8s
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Albi (-Castres-Lavaur), France
+  du: '1932-08-16'
+  au: '1939-05-18'
+- titre: Titular Bishop of Verbe
+  du: '1932-08-16'
+  au: null
+- titre: Titular Bishop
+  siege: Verbe
+  du: '1932-08-16'
+  au: '1939-05-18'
+- titre: Auxiliary Bishop
+  siege: Albi
+  du: '1932-08-16'
+  au: '1939-05-18'
+- titre: évêque titulaire
+  du: '1932-08-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1932-08-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monseigneur%20%C3%89mile%20Barth%C3%A8s.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q18636884
+  catholic_hierarchy: bbarthes
+  gcatholic: '16482'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:05:51+00:00'
+  completeness: 1.0
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:40+00:00'
+  completeness: 0.75

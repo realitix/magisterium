@@ -1,0 +1,44 @@
+slug: luigi-ricci
+nom: Luigi Ricci
+nom_complet: null
+naissance: '1791-06-17'
+deces: '1877-05-26'
+naissance_lieu: Cupi les Visco, Diocese of Norcia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1847-06-20'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - girolamo-d-andrea
+  - domenico-lucciardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/briccil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segni, Italy
+  du: '1847-06-14'
+  au: '1877-05-26'
+- titre: Roman Catholic Bishop of Segni
+  du: '1847-06-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64684056
+  catholic_hierarchy: briccil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:12:43+00:00'
+  completeness: 1.0

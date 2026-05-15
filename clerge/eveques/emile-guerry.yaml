@@ -1,0 +1,63 @@
+slug: emile-guerry
+nom: Émile Guerry
+nom_complet: Emile Maurice Guerry
+naissance: '1891-09-28'
+deces: '1969-03-11'
+naissance_lieu: Grenoble
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1940-07-25'
+  consecrateur_principal: alexandre-caillot
+  co_consecrateurs:
+  - jean-arthur-chollet
+  - pierre-marie-durieux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguer.html
+  - https://fr.wikipedia.org/wiki/%C3%89mile_Guerry
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Archbishop of Cambrai, France
+  du: '1940-05-31'
+  au: null
+- titre: Titular Archbishop of Achrida
+  du: '1940-05-31'
+  au: null
+- titre: Archbishop of Cambrai, France
+  du: null
+  au: '1952-12-02'
+- titre: Titular Archbishop of Octava
+  du: '1966-02-15'
+  au: null
+- titre: Archbishop Emeritus of Cambrai, France
+  du: null
+  au: '1969-03-11'
+- titre: archevêque catholique
+  du: '1952-12-02'
+  au: '1966-02-15'
+- titre: archevêque titulaire
+  du: '1966-02-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile-Maurice%20Guerry%20%281891-1969%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3588550
+  catholic_hierarchy: bguer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:10+00:00'
+  completeness: 1.0

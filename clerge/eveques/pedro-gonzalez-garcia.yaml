@@ -1,0 +1,47 @@
+slug: pedro-gonzalez-garcia
+nom: Pedro González García
+nom_complet: null
+naissance: '1683-11-25'
+deces: '1758-04-07'
+naissance_lieu: Torrelaguna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1739-05-17'
+  lieu: St. Genes, Church, Madrid, Archdiocese of Toledo
+  consecrateur_principal: alvaro-eugenio-de-mendoza-caamano-sotomayor
+  co_consecrateurs:
+  - juan-antonio-perez-arellano
+  - andres-nunez-monteagudo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgoga.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ávila, Spain
+  du: '1743-05-20'
+  au: '1758-04-07'
+- titre: évêque de Puebla-Tlaxcala
+  du: '1738-10-26'
+  au: null
+- titre: évêque d'Ávila
+  du: '1743-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734087
+  catholic_hierarchy: bgoga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:30:22+00:00'
+  completeness: 1.0

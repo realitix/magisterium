@@ -1,0 +1,41 @@
+slug: pierre-0
+nom: Pierre
+nom_complet: Saint Peter
+naissance: '0'
+deces: '65'
+naissance_lieu: null
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Pierre_(ap%C3%B4tre)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: apôtre
+  du: null
+  au: null
+- titre: patriarche d'Antioche
+  du: '0037-01-01'
+  au: '0054-01-01'
+- titre: pape
+  du: '0033-01-01'
+  au: '0067-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pope-peter%20pprubens.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q33923
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56

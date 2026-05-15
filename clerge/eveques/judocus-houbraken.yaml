@@ -1,0 +1,39 @@
+slug: judocus-houbraken
+nom: Judocus Houbraken
+nom_complet: null
+naissance: '1618'
+deces: '1681-05-20'
+naissance_lieu: Geldrop
+deces_lieu: null
+rang: eveque
+nationalite: Q1031430
+tampon: ordo_validus
+sacre:
+  date: '1666'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhoubr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of &rsquo;s-Hertogenbosch (Bois-le-Duc), Netherlands
+  du: '1666'
+  au: '1681-05-20'
+- titre: vicaire apostolique
+  du: '1666-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22671293
+  catholic_hierarchy: bhoubr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:47:41+00:00'
+  completeness: 0.38

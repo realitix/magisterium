@@ -1,0 +1,47 @@
+slug: ferdinando-de-roxas
+nom: Ferdinando de Roxas
+nom_complet: Ferdinando de Rojas (Roxas)
+naissance: '1650-04-15'
+deces: '1685-12-30'
+naissance_lieu: Curiel, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1683-12-27'
+  consecrateur_principal: alessandro-crescenzi
+  co_consecrateurs:
+  - pier-antonio-capobianco
+  - costanzo-zani-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broxas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vigevano, Italy
+  du: null
+  au: '1685-12-30'
+- titre: évêque diocésain
+  du: '1683-04-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monsignor%20Ferdinando%20De%20Roxas.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3742709
+  catholic_hierarchy: broxas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:32:50+00:00'
+  completeness: 1.0

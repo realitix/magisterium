@@ -1,0 +1,41 @@
+slug: renaud-de-nevers
+nom: Renaud de Nevers
+nom_complet: null
+naissance: null
+deces: '1230-07-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1223'
+  consecrateur_principal: gauthier-cornut
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnevers.html
+  - https://fr.wikipedia.org/wiki/Renaud_de_Nevers_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nevers, France
+  du: 1223&sup1;
+  au: '1230-07-28'
+- titre: évêque de Nevers
+  du: '1223-01-01'
+  au: '1230-08-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96475102
+  catholic_hierarchy: bnevers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:37+00:00'
+  completeness: 0.75

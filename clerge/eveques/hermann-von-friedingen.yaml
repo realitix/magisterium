@@ -1,0 +1,41 @@
+slug: hermann-von-friedingen
+nom: Hermann von Friedingen
+nom_complet: null
+naissance: '1200'
+deces: '1189'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfriedh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: 1183&sup2;
+  au: '1189-09-01'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1183-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1324105
+  catholic_hierarchy: bfriedh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:58:50+00:00'
+  completeness: 0.38

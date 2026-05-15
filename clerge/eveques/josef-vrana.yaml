@@ -1,0 +1,54 @@
+slug: josef-vrana
+nom: Josef Vrana
+nom_complet: null
+naissance: '1905-10-17'
+deces: '1987-11-30'
+naissance_lieu: Stribrnice
+deces_lieu: Olomouc, Archdiocese of Olomouc
+rang: eveque
+nationalite: Q33946
+tampon: ordo_dubius
+sacre:
+  date: '1973-03-04'
+  lieu: Olomouc, Archdiocese of Olomouc
+  consecrateur_principal: agostino-casaroli
+  co_consecrateurs:
+  - frantisek-tomasek
+  - stepan-trochta
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvrana.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Olomouc, Czechia
+  du: '1973-02-19'
+  au: '1987-11-30'
+- titre: Titular Bishop of Octabia
+  du: '1973-02-19'
+  au: null
+- titre: évêque titulaire
+  du: '1973-02-19'
+  au: null
+- titre: administrateur apostolique
+  du: '1973-02-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Vrana%20-%20tombstone.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1434337
+  catholic_hierarchy: bvrana
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:46:35+00:00'
+  completeness: 1.0

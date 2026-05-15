@@ -1,0 +1,50 @@
+slug: giacomo-daddi
+nom: Giacomo Daddi
+nom_complet: null
+naissance: '1827-12-21'
+deces: '1897'
+naissance_lieu: Palermo, Archdiocese of Palermo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1884-04-20'
+  lieu: Cathedral, Palermo, Archdiocese of Palermo
+  consecrateur_principal: michelangelo-celesia
+  co_consecrateurs:
+  - giuseppe-maria-maragioglio
+  - giovanni-cirino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaddig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Palermo, Italy
+  du: '1884-03-24'
+  au: 1897&sup1;
+- titre: Titular Bishop of Ionopolis
+  du: '1884-03-24'
+  au: null
+- titre: évêque titulaire
+  du: '1884-03-24'
+  au: null
+- titre: évêque auxiliaire
+  du: '1884-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744961
+  catholic_hierarchy: bdaddig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:21:51+00:00'
+  completeness: 0.88

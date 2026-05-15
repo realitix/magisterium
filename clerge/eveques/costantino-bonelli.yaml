@@ -1,0 +1,44 @@
+slug: costantino-bonelli
+nom: Costantino Bonelli
+nom_complet: null
+naissance: '1525'
+deces: '1572-04-04'
+naissance_lieu: San Marino, Diocese of Montefeltro
+deces_lieu: Sant'Agostino, Convent, Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: Q238
+tampon: ordo_validus
+sacre:
+  date: '1560-04-17'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-giacomo-barba-o-s-a
+  co_consecrateurs:
+  - antonio-bernardi
+  - pietro-contarini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonellic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Città di Castello, Italy
+  du: '1560-02-07'
+  au: '1572-04-04'
+- titre: évêque diocésain
+  du: '1560-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3695462
+  catholic_hierarchy: bbonellic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:37:19+00:00'
+  completeness: 0.88

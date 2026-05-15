@@ -1,0 +1,55 @@
+slug: paul-lanneau
+nom: Paul Lanneau
+nom_complet: null
+naissance: '1925-07-22'
+deces: '2017-01-26'
+naissance_lieu: Anderlecht
+deces_lieu: Brussels, Archdiocese of Mechelen-Brussel {Malines-Brussels}
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '1982-03-20'
+  lieu: St. Michel, Brussels, Archdiocese of Mechelen-Brussel {Malines-Brussels}
+  consecrateur_principal: godfried-danneels
+  co_consecrateurs:
+  - emile-joseph-de-smedt
+  - guillaume-marie-van-zuylen
+  - jean-huard
+  - paul-constant-schoenmaekers
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blanneau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mechelen-Brussel {Malines-Brussels}, Belgium
+  du: '1982-02-14'
+  au: null
+- titre: Titular Bishop of Tusuros
+  du: '1982-02-14'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Mechelen-Brussel {Malines-Brussels}, Belgium
+  du: null
+  au: '2017-01-26'
+- titre: évêque auxiliaire
+  du: '1982-02-14'
+  au: '2002-03-20'
+- titre: évêque titulaire
+  du: '1982-02-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2060839
+  catholic_hierarchy: blanneau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:32:35+00:00'
+  completeness: 1.0

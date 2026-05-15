@@ -1,0 +1,52 @@
+slug: jean-marie-bourchany
+nom: Jean-Marie Bourchany
+nom_complet: null
+naissance: '1855-03-22'
+deces: '1931-11-27'
+naissance_lieu: Saint Genest-Malifaux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1914-03-19'
+  consecrateur_principal: hector-irenee-sevin
+  co_consecrateurs:
+  - louis-dechelette
+  - pierre-chatelus
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon (-Vienne), France
+  du: '1914-01-13'
+  au: Oct 1924&sup3;
+- titre: Titular Bishop of Hadrumetum
+  du: '1914-01-13'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Lyon (-Vienne), France
+  du: null
+  au: '1931-11-27'
+- titre: évêque titulaire
+  du: '1914-01-13'
+  au: null
+- titre: évêque auxiliaire
+  du: '1914-01-13'
+  au: '1924-10-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745335
+  catholic_hierarchy: bbourc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:36+00:00'
+  completeness: 1.0

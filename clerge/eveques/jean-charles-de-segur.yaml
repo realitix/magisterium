@@ -1,0 +1,51 @@
+slug: jean-charles-de-segur
+nom: Jean-Charles de Ségur
+nom_complet: null
+naissance: '1695-12-28'
+deces: '1748-09-29'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1724-08-24'
+  consecrateur_principal: nicolas-de-malezieu
+  co_consecrateurs:
+  - charles-guillaume-de-maupeou
+  - francois-honore-lancelot-de-casaubon-de-maniban
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsegur.html
+  - https://fr.wikipedia.org/wiki/Jean-Charles_de_S%C3%A9gur
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Papoul, France
+  du: null
+  au: '1735-02-26'
+- titre: Bishop Emeritus of Saint-Papoul, France
+  du: null
+  au: '1748-09-29'
+- titre: évêque de Saint-Papoul
+  du: '1723-10-26'
+  au: '1735-02-26'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monseigneur%20Jean-Charles%20de%20S%C3%A9gur%2C%20%C3%A9v%C3%AAque%20de%20Saint-Papoul.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15967394
+  catholic_hierarchy: bsegur
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:21+00:00'
+  completeness: 1.0

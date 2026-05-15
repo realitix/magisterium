@@ -1,0 +1,47 @@
+slug: nicolaas-de-castro
+nom: Nicolaas de Castro
+nom_complet: Nicolaas van der Borcht
+naissance: '1503'
+deces: '1573-05-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1561-12-26'
+  consecrateur_principal: antoine-perrenot-de-granvelle
+  co_consecrateurs:
+  - martin-cuyper-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdborcht.html
+  - https://fr.wikipedia.org/wiki/Nicolaas_de_Castro
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Middelburg, Netherlands
+  du: '1561-03-10'
+  au: '1573-05-16'
+- titre: Roman Catholic Bishop of Middelburg
+  du: '1561-03-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaas%20de%20Castro%20%281503-1573%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q14853518
+  catholic_hierarchy: bvdborcht
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:28:27+00:00'
+  completeness: 0.88

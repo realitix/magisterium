@@ -1,0 +1,38 @@
+slug: arnold-of-bergen
+nom: Arnold of Bergen
+nom_complet: Arend Klementssøn
+naissance: null
+deces: '1434'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q20
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bklement.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bjørgvin (Bergen), Norway
+  du: 1430&sup1;
+  au: 1434&sup2;
+- titre: Roman Catholic Bishop of Bergen
+  du: '1430-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3623624
+  catholic_hierarchy: bklement
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:15:38+00:00'
+  completeness: 0.25

@@ -1,0 +1,44 @@
+slug: joseph-weyland
+nom: Joseph Weyland
+nom_complet: null
+naissance: '1826-03-13'
+deces: '1894-01-11'
+naissance_lieu: Hadamar, Diocese of Limburg
+deces_lieu: null
+rang: eveque
+nationalite: Q43287
+tampon: ordo_validus
+sacre:
+  date: '1888-01-25'
+  lieu: Fulda, Diocese of Fulda
+  consecrateur_principal: johannes-christian-roos
+  co_consecrateurs:
+  - karl-klein
+  - paul-leopold-haffner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweyland.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fulda, Germany
+  du: null
+  au: '1894-01-11'
+- titre: évêque de Fulda
+  du: '1887-11-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q101541
+  catholic_hierarchy: bweyland
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:39+00:00'
+  completeness: 1.0

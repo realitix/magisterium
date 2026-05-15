@@ -1,0 +1,49 @@
+slug: girolamo-fonda
+nom: Girolamo Fonda
+nom_complet: Gerolamo Fonda
+naissance: '1686-05-26'
+deces: '1754-11-30'
+naissance_lieu: Pirano
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1733-02-01'
+  consecrateur_principal: pietro-cardinal-ottoboni
+  co_consecrateurs:
+  - manuel-tercero-de-rozas
+  - apollonio-lupi-c-r-l
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfonda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nona (Nin), Croatia
+  du: '1733-01-19'
+  au: null
+- titre: Bishop of Trogir (Traù), Croatia
+  du: '1738-05-05'
+  au: '1754-11-30'
+- titre: Roman Catholic Bishop of Trogir (Traù)
+  du: '1738-05-05'
+  au: null
+- titre: Roman Catholic Bishop of Nin
+  du: '1733-01-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736242
+  catholic_hierarchy: bfonda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:50:29+00:00'
+  completeness: 1.0

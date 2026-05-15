@@ -1,0 +1,40 @@
+slug: giovanni-veneri
+nom: Giovanni Veneri
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1219'
+  consecrateur_principal: angelo-barozzi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvenerig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zadar (Zara), Croatia
+  du: 1218&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1218-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781231
+  catholic_hierarchy: bvenerig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:31:24+00:00'
+  completeness: 0.62

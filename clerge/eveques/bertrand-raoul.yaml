@@ -1,0 +1,39 @@
+slug: bertrand-raoul
+nom: Bertrand Raoul
+nom_complet: Bertrand Raoul, O.F.M.
+naissance: null
+deces: '1432-02-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/braoulb.html
+  - https://fr.wikipedia.org/wiki/Bertrand_Raoul
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: '1406-03-10'
+  au: '1432-02-26'
+- titre: évêque diocésain
+  du: '1406-03-19'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q2899659
+  catholic_hierarchy: braoulb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:02:56+00:00'
+  completeness: 0.38

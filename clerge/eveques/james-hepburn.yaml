@@ -1,0 +1,45 @@
+slug: james-hepburn
+nom: James Hepburn
+nom_complet: null
+naissance: '1401'
+deces: '1524'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhepburn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moray, Scotland, Great Britain
+  du: '1516-05-14'
+  au: 1524-11
+- titre: évêque diocésain
+  du: '1516-05-24'
+  au: null
+- titre: évêque de Moray
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/James%20Hepburn%20seal.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6135941
+  catholic_hierarchy: bhepburn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:43+00:00'
+  completeness: 0.25

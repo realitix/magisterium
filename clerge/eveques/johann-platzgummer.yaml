@@ -1,0 +1,44 @@
+slug: johann-platzgummer
+nom: Johann Platzgummer
+nom_complet: null
+naissance: '1505'
+deces: '1647-05-12'
+naissance_lieu: Castribelli, Diocese of Chur, Switzerland
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-02-24'
+  lieu: Brixen, Diocese of Brixen {Bressanone}
+  consecrateur_principal: anton-crosini-von-bonporto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplatz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: null
+  au: '1647-05-12'
+- titre: évêque de Brixen
+  du: '1641-06-13'
+  au: null
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q48914068
+  catholic_hierarchy: bplatz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:36+00:00'
+  completeness: 0.75

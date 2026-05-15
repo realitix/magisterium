@@ -1,0 +1,48 @@
+slug: pellegrino-bertacchi
+nom: Pellegrino Bertacchi
+nom_complet: null
+naissance: '1567-06-06'
+deces: '1627-08-22'
+naissance_lieu: Camporgiano, Diocese of Lucca
+deces_lieu: Modena, Diocese of Modena
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1610-03-28'
+  lieu: Santa Maria dell&rsquo;Anima, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: bonifazio-bevilacqua-aldobrandini
+  co_consecrateurs:
+  - galeazzo-sanvitale
+  - marco-antonio-salomone
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertacc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modena, Italy
+  du: '1610-03-22'
+  au: '1627-08-22'
+- titre: évêque diocésain
+  du: '1610-03-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pellegrino-Bertacchi.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3898921
+  catholic_hierarchy: bbertacc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:22:06+00:00'
+  completeness: 1.0

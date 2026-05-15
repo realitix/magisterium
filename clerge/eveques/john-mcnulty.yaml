@@ -1,0 +1,46 @@
+slug: john-mcnulty
+nom: John McNulty
+nom_complet: John Francis McNulty
+naissance: '1879-08-11'
+deces: '1943-06-08'
+naissance_lieu: Collyhurst, Manchester, Lancashire, Diocese of Salford, England
+deces_lieu: St. Andrew, Hospital, Dollis Hill, London, Archdiocese of Westminster,
+  England
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1932-06-11'
+  lieu: St. Barnabas, Cathedral, Nottingham, Nottinghamshire, Diocese of Nottingham,
+    England
+  consecrateur_principal: francis-bourne
+  co_consecrateurs:
+  - peter-amigo
+  - thomas-henshaw
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcnu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nottingham, England, Great Britain
+  du: '1932-05-13'
+  au: '1943-06-08'
+- titre: évêque diocésain
+  du: '1932-05-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15996131
+  catholic_hierarchy: bmcnu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:45:30+00:00'
+  completeness: 1.0

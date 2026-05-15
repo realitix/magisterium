@@ -1,0 +1,43 @@
+slug: alessandro-gallo
+nom: Alessandro Gallo
+nom_complet: null
+naissance: null
+deces: '1645-03-04'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1632-12-08'
+  consecrateur_principal: innocent-x
+  co_consecrateurs:
+  - tommaso-cellesi
+  - celso-zani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgalloa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Massa Lubrense, Italy
+  du: '1632-11-24'
+  au: '1645-03-04'
+- titre: évêque diocésain
+  du: '1632-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23612460
+  catholic_hierarchy: bgalloa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:06:19+00:00'
+  completeness: 0.88

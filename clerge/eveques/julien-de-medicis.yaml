@@ -1,0 +1,63 @@
+slug: julien-de-medicis
+nom: Julien de Médicis
+nom_complet: Giuliano de&rsquo; Medici
+naissance: '1520'
+deces: '1588-07-28'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1567-05-01'
+  consecrateur_principal: giovanni-battista-serbelloni
+  co_consecrateurs:
+  - ventura-buffalini
+  - gallois-de-regard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdmedgui.html
+  - https://fr.wikipedia.org/wiki/Julien_de_M%C3%A9dicis_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Béziers, France
+  du: '1561-04-14'
+  au: null
+- titre: Archbishop of Aix, France
+  du: '1574-05-29'
+  au: 1575&sup2;
+- titre: Archbishop (Personal Title) of Albi, France
+  du: '1576-03-28'
+  au: null
+- titre: Bishop of Albi, France
+  du: null
+  au: '1588-07-28'
+- titre: archevêque d'Aix
+  du: '1574-06-08'
+  au: '1575-01-01'
+- titre: évêque de Béziers
+  du: '1561-04-24'
+  au: null
+- titre: évêque d'Albi
+  du: '1576-04-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Giuliano%20de%27%20Medici%20%28page%2022%20crop%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q40577
+  catholic_hierarchy: bdmedgui
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:56:54+00:00'
+  completeness: 0.88

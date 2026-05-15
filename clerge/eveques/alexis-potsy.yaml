@@ -1,0 +1,40 @@
+slug: alexis-potsy
+nom: Alexis Pótsy
+nom_complet: Oleksiy Povchiy
+naissance: '1754-03-17'
+deces: '1831-07-11'
+naissance_lieu: Kokad
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1817-11-18'
+  consecrateur_principal: samuel-vulcan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpotsy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mukachevo (Munkács) (Ruthenian), Ukraine
+  du: null
+  au: '1831-07-11'
+- titre: évêque diocésain
+  du: '1816-03-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4555929
+  catholic_hierarchy: bpotsy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:15+00:00'
+  completeness: 0.88

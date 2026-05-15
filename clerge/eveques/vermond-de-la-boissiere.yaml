@@ -1,0 +1,39 @@
+slug: vermond-de-la-boissiere
+nom: Vermond de La Boissière
+nom_complet: Vermond de la Boissièr
+naissance: null
+deces: '1272'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaboissv.html
+  - https://fr.wikipedia.org/wiki/Vermond_de_La_Boissi%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Noyon, France
+  du: 1250&sup2;
+  au: 1272&sup2;
+- titre: évêque de Noyon
+  du: '1250-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3555929
+  catholic_hierarchy: blaboissv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:25:27+00:00'
+  completeness: 0.25

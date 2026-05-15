@@ -1,0 +1,53 @@
+slug: ippolito-capilupi
+nom: Ippolito Capilupi
+nom_complet: null
+naissance: '1511-07-08'
+deces: '1580-04-20'
+naissance_lieu: Mantova, Diocese of Mantova
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1560-06-20'
+  lieu: Roma, Diocese of Roma {Rome}
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcapilu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fano, Italy
+  du: '1560-01-21'
+  au: 1567&sup1;
+- titre: Apostolic Nuncio to Venice, Italy
+  du: '1561-03-01'
+  au: '1564-06-10'
+- titre: Bishop Emeritus of Fano, Italy
+  du: null
+  au: '1580-04-20'
+- titre: Roman Catholic Bishop of Fano
+  du: '1560-01-31'
+  au: '1567-01-01'
+- titre: Apostolic Nuncio to Venice
+  du: '1561-03-11'
+  au: '1564-06-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hippolytus%20Capilupus%2C%20PA07173.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3801730
+  catholic_hierarchy: bcapilu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:15:53+00:00'
+  completeness: 0.62

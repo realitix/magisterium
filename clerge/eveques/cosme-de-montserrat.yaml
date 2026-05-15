@@ -1,0 +1,48 @@
+slug: cosme-de-montserrat
+nom: Cosme de Montserrat
+nom_complet: Cosme de Monserrat
+naissance: '1500'
+deces: '1473'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q204920
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontserc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerona, Spain
+  du: '1458-06-30'
+  au: null
+- titre: Bishop of Vic, Spain
+  du: '1459-10-19'
+  au: 29 Jul 1473&sup3;
+- titre: évêque de Gérone
+  du: '1458-07-09'
+  au: null
+- titre: évêque de Vic
+  du: '1459-10-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/CosmeDeMontserrat.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11915806
+  catholic_hierarchy: bmontserc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:09:41+00:00'
+  completeness: 0.38

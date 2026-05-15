@@ -1,0 +1,45 @@
+slug: charles-h-colton
+nom: Charles H. Colton
+nom_complet: Charles Henry Colton
+naissance: '1848-10-15'
+deces: '1915-05-09'
+naissance_lieu: New York, Archdiocese of New York, New York
+deces_lieu: Buffao, Diocese of Buffalo, New York
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1903-08-24'
+  lieu: Saint Patrick, Cathedral, New York, Archdiocese of New York, New York
+  consecrateur_principal: john-murphy-farley
+  co_consecrateurs:
+  - bernard-john-mcquaid
+  - charles-edward-mcdonnell
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolton.html
+  - https://fr.wikipedia.org/wiki/Charles_H._Colton
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Buffalo, New York, USA
+  du: '1903-05-20'
+  au: '1915-05-09'
+- titre: évêque de Buffalo
+  du: '1903-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5078545
+  catholic_hierarchy: bcolton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:03+00:00'
+  completeness: 1.0

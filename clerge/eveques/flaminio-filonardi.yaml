@@ -1,0 +1,44 @@
+slug: flaminio-filonardi
+nom: Flaminio Filonardi
+nom_complet: null
+naissance: '1541-12-23'
+deces: '1608-09-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1579-12-08'
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - fabio-mirto-frangipani
+  - massimiliano-palumbara-palombella
+  - giovanni-battista-santorio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfilonfl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aquino, Italy
+  du: '1579-11-13'
+  au: '1608-09-12'
+- titre: Roman Catholic Bishop of Aquino
+  du: '1579-11-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23770485
+  catholic_hierarchy: bfilonfl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:44:59+00:00'
+  completeness: 0.88

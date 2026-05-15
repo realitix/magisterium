@@ -1,0 +1,41 @@
+slug: pedro-carranza
+nom: Pedro Carranza
+nom_complet: Pedro Carranza Salinas, O. Carm.
+naissance: '1567'
+deces: '1632-02-29'
+naissance_lieu: Sevilla, Archdiocese of Sevilla {Seville}, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1621-06-29'
+  lieu: Santiago del Estero
+  consecrateur_principal: julian-de-cortazar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarsa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Buenos Aires, Argentina
+  du: null
+  au: '1632-02-29'
+- titre: Bishop of the Port of Buenos Aires
+  du: '1620-03-30'
+  au: '1632-02-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6068428
+  catholic_hierarchy: bcarsa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:25:02+00:00'
+  completeness: 0.75

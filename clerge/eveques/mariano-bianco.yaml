@@ -1,0 +1,46 @@
+slug: mariano-bianco
+nom: Mariano Bianco
+nom_complet: null
+naissance: '1775-09-22'
+deces: '1851-09-18'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1827-04-16'
+  consecrateur_principal: pie-viii
+  co_consecrateurs:
+  - pietro-caprano
+  - francesco-tiberi-contigliano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbianm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop Emeritus of Amalfi, Italy
+  du: null
+  au: '1851-09-18'
+- titre: évêque de Nicotera-Tropea
+  du: '1827-01-31'
+  au: null
+- titre: Roman Catholic Archbishop of Amalfi
+  du: '1831-03-01'
+  au: '1848-11-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733314
+  catholic_hierarchy: bbianm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:25:48+00:00'
+  completeness: 1.0

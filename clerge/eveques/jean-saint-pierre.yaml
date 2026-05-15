@@ -1,0 +1,57 @@
+slug: jean-saint-pierre
+nom: Jean Saint-Pierre
+nom_complet: null
+naissance: '1884-05-28'
+deces: '1951-12-18'
+naissance_lieu: Villefranque, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1930-07-15'
+  consecrateur_principal: francois-xavier-marie-jules-gieure
+  co_consecrateurs:
+  - alexis-lemaitre
+  - christophe-louis-legasse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaint.html
+  - https://fr.wikipedia.org/wiki/Jean_Saint-Pierre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Carthage, Tunisia
+  du: '1930-05-28'
+  au: Aug 1937&sup3;
+- titre: Titular Bishop of Gordus
+  du: '1930-05-28'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Carthage, Tunisia
+  du: null
+  au: '1951-12-18'
+- titre: évêque auxiliaire
+  du: '1930-05-28'
+  au: '1937-08-01'
+- titre: évêque titulaire
+  du: '1930-05-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Saint-Pierre%20%28Anxuberro%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3174518
+  catholic_hierarchy: bsaint
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:42:05+00:00'
+  completeness: 1.0

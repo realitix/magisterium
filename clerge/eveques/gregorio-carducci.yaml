@@ -1,0 +1,43 @@
+slug: gregorio-carducci
+nom: Gregorio Carducci
+nom_complet: null
+naissance: '1617-03-10'
+deces: '1701-01-13'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1655-06-27'
+  consecrateur_principal: giulio-cesare-sacchetti
+  co_consecrateurs:
+  - giacinto-cordella
+  - giambattista-zeccadoro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcardu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valva e Sulmona, Italy
+  du: '1655-06-14'
+  au: 13 Jan 1701&sup3;
+- titre: évêque diocésain
+  du: '1655-06-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733093
+  catholic_hierarchy: bcardu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:21:40+00:00'
+  completeness: 1.0

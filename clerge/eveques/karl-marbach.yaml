@@ -1,0 +1,57 @@
+slug: karl-marbach
+nom: Karl Marbach
+nom_complet: Charles Marbach
+naissance: '1841-11-21'
+deces: '1916-10-17'
+naissance_lieu: Weissenburg, Diocese of Strasbourg
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1891-07-21'
+  lieu: Cathedral, Strasbourg, Diocese of Strasbourg
+  consecrateur_principal: francois-louis-fleck
+  co_consecrateurs:
+  - michael-felix-korum
+  - hermann-dingelstad
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarbach.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Strasbourg, France
+  du: '1891-06-04'
+  au: Sep 1901&sup3;
+- titre: Titular Bishop of Paphus
+  du: '1891-06-04'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Strasbourg, France
+  du: null
+  au: '1916-10-17'
+- titre: évêque auxiliaire de Strasbourg
+  du: '1891-06-04'
+  au: '1901-09-01'
+- titre: évêque titulaire
+  du: '1891-06-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Weihbischof%20Karl%20Marbach%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q992591
+  catholic_hierarchy: bmarbach
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:05+00:00'
+  completeness: 1.0

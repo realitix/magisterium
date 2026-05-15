@@ -1,0 +1,45 @@
+slug: jean-francois-de-la-marche
+nom: Jean-François de La Marche
+nom_complet: null
+naissance: '1729-07-04'
+deces: '1806-11-25'
+naissance_lieu: Ergué-Gabéric
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1772-09-27'
+  consecrateur_principal: christophe-de-beaumont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blamarch.html
+  - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_La_Marche
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: null
+  au: '1806-11-25'
+- titre: évêque diocésain
+  du: '1772-06-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Jean-Fran%C3%A7ois%20de%20La%20Marche.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3165963
+  catholic_hierarchy: blamarch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:13+00:00'
+  completeness: 0.88

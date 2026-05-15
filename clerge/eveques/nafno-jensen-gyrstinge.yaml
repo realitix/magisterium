@@ -1,0 +1,44 @@
+slug: nafno-jensen-gyrstinge
+nom: Nafno Jensen (Gyrstinge)
+nom_complet: Navne Jensen
+naissance: null
+deces: '1440'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjensenn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Västerås (Westeraes), Sweden
+  du: '1414-09-12'
+  au: null
+- titre: Bishop of Odense, Denmark
+  du: '1421-07-14'
+  au: 1440&sup2;
+- titre: évêque diocésain
+  du: '1414-09-21'
+  au: '1421-01-01'
+- titre: évêque diocésain
+  du: '1421-07-23'
+  au: '1440-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905154
+  catholic_hierarchy: bjensenn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:00:38+00:00'
+  completeness: 0.25

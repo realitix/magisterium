@@ -1,0 +1,44 @@
+slug: miguel-munoz
+nom: Miguel Muñoz
+nom_complet: null
+naissance: null
+deces: '1553-09-13'
+naissance_lieu: Poyatos, Diocese of Cuenca
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmunm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tuy, Spain
+  du: '1540-01-28'
+  au: null
+- titre: Bishop of Cuenca, Spain
+  du: '1547-04-12'
+  au: '1553-09-13'
+- titre: évêque de Tui
+  du: '1540-02-07'
+  au: null
+- titre: évêque de Cuenca
+  du: '1547-04-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27854142
+  catholic_hierarchy: bmunm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:19:53+00:00'
+  completeness: 0.38

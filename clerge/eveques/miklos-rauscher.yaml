@@ -1,0 +1,49 @@
+slug: miklos-rauscher
+nom: Miklós Rauscher
+nom_complet: Nikolaus Rauscher
+naissance: '1759-12-03'
+deces: '1815-03-13'
+naissance_lieu: Stompfa
+deces_lieu: Nagyszombat
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1808-05-08'
+  consecrateur_principal: sigismund-anton-von-hohenwart
+  co_consecrateurs:
+  - johann-dankesreither
+  - jean-lambert-de-hannotte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brausn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1808-03-16'
+  au: '1815-03-13'
+- titre: Titular Bishop of Evaria
+  du: '1808-03-16'
+  au: null
+- titre: évêque titulaire
+  du: '1808-03-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1808-03-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762516
+  catholic_hierarchy: brausn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:10+00:00'
+  completeness: 1.0

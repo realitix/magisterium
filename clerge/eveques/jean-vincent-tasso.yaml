@@ -1,0 +1,47 @@
+slug: jean-vincent-tasso
+nom: Jean-Vincent Tasso
+nom_complet: Giovanni Vincenzo Tasso, C.M.
+naissance: '1850-08-13'
+deces: '1919-08-24'
+naissance_lieu: Montiglio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1908-05-28'
+  consecrateur_principal: rafael-merry-del-val
+  co_consecrateurs:
+  - emilio-parodi-c-m
+  - gennaro-costagliola-c-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btasso.html
+  - https://fr.wikipedia.org/wiki/Jean-Vincent_Tasso
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aosta, Italy
+  du: '1908-03-30'
+  au: '1919-08-24'
+- titre: évêque d'Aoste
+  du: '1908-02-17'
+  au: '1919-08-24'
+- titre: évêque diocésain
+  du: '1908-03-30'
+  au: null
+fraternite: lazaristes
+photo: null
+qids:
+  wikidata: Q16027578
+  catholic_hierarchy: btasso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:51:43+00:00'
+  completeness: 1.0

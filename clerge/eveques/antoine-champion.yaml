@@ -1,0 +1,48 @@
+slug: antoine-champion
+nom: Antoine Champion
+nom_complet: null
+naissance: '1425'
+deces: '1495-07-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchmpn.html
+  - https://fr.wikipedia.org/wiki/Antoine_Champion
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mondovi, Italy
+  du: '1484-11-26'
+  au: null
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1490-11-05'
+  au: '1495-07-29'
+- titre: évêque de Genève
+  du: '1490-11-14'
+  au: '1495-08-07'
+- titre: évêque de Mondovi
+  du: '1484-12-05'
+  au: null
+- titre: chancelier de Savoie
+  du: '1483-01-01'
+  au: '1495-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q585837
+  catholic_hierarchy: bchmpn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:47:21+00:00'
+  completeness: 0.38

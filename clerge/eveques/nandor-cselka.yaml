@@ -1,0 +1,54 @@
+slug: nandor-cselka
+nom: Nándor Cselka
+nom_complet: Ferdinand Cselka
+naissance: '1834-07-10'
+deces: '1897-03-07'
+naissance_lieu: Vámos-Mikola, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1893-05-11'
+  lieu: Budapest
+  consecrateur_principal: kolos-ferenc-vaszary
+  co_consecrateurs:
+  - karoly-hornig
+  - sandor-dessewffy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcselka.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1893-01-19'
+  au: '1897-03-07'
+- titre: Titular Bishop of Carrhae
+  du: '1893-01-19'
+  au: null
+- titre: évêque auxiliaire
+  du: '1893-01-19'
+  au: null
+- titre: évêque titulaire
+  du: '1893-01-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/CselkaN%C3%A1ndor.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q871378
+  catholic_hierarchy: bcselka
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:16:57+00:00'
+  completeness: 1.0

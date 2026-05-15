@@ -1,0 +1,39 @@
+slug: charles-de-tournon
+nom: Charles de Tournon
+nom_complet: null
+naissance: null
+deces: '1504-09-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btournch.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Tournon_(mort_en_1504)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rodez, France
+  du: '1501-11-26'
+  au: 1504&sup2;
+- titre: évêque de Rodez
+  du: '1501-12-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28497097
+  catholic_hierarchy: btournch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:08:03+00:00'
+  completeness: 0.25

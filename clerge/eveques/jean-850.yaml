@@ -1,0 +1,31 @@
+slug: jean-850
+nom: Jean
+nom_complet: Iohannes
+naissance: '850'
+deces: '900'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Jean_(%C3%A9v%C3%AAque_d%27Arezzo)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque diocésain
+  du: '0868-01-01'
+  au: '0900-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18214983
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.44

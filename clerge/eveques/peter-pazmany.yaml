@@ -1,0 +1,52 @@
+slug: peter-pazmany
+nom: Péter Pázmány
+nom_complet: Péter Cardinal Pázmány, S.J.
+naissance: '1570-10-04'
+deces: '1637-03-19'
+naissance_lieu: Oradea Mare, Diocese of Oradea Mare {Gran Varadino, Nagyvárad}, Romania
+deces_lieu: null
+rang: cardinal
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1617-03-12'
+  lieu: Praha, Archdiocese of Praha {Prague}, Czechia
+  consecrateur_principal: melchior-klesl
+  co_consecrateurs:
+  - pal-almasy
+  - janos-telegdy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpazmany.html
+  - https://fr.wikipedia.org/wiki/P%C3%A9ter_P%C3%A1zm%C3%A1ny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Esztergom, Hungary
+  du: '1616-11-28'
+  au: '1637-03-19'
+- titre: archevêque catholique
+  du: '1617-03-12'
+  au: '1637-03-19'
+- titre: cardinal
+  du: '1629-11-19'
+  au: '1637-03-19'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pazmany%20Peter%20ismeretlen%20mester%20alkotasan.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q559828
+  catholic_hierarchy: bpazmany
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:15:11+00:00'
+  completeness: 1.0

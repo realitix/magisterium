@@ -1,0 +1,44 @@
+slug: augustus-john-schwertner
+nom: Augustus John Schwertner
+nom_complet: null
+naissance: '1870-12-23'
+deces: '1939-10-02'
+naissance_lieu: Canton, OH, Diocese of Cleveland, Ohio
+deces_lieu: Wichita, Diocese of Wichita, Kansas
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1921-06-08'
+  lieu: Saint Francis de Sales, Cathedral, Toledo, Diocese of Cleveland, Ohio
+  consecrateur_principal: joseph-schrembs
+  co_consecrateurs:
+  - michael-gallagher
+  - john-henry-tihen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wichita, Kansas, USA
+  du: '1921-03-10'
+  au: '1939-10-02'
+- titre: évêque diocésain
+  du: '1921-03-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4821466
+  catholic_hierarchy: bsch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:59:38+00:00'
+  completeness: 1.0

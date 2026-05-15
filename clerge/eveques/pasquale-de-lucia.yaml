@@ -1,0 +1,44 @@
+slug: pasquale-de-lucia
+nom: Pasquale de Lucia
+nom_complet: null
+naissance: '1802-11-10'
+deces: '1860-06-11'
+naissance_lieu: Catanzaro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1852-09-29'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - giovanni-francesco-cometti-rossi
+  - michael-o-connor-1810
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluciap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerace, Italy
+  du: null
+  au: '1860-06-11'
+- titre: évêque diocésain
+  du: '1852-07-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64684140
+  catholic_hierarchy: bluciap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:03:51+00:00'
+  completeness: 1.0

@@ -1,0 +1,49 @@
+slug: ignazio-danti
+nom: Ignazio Danti
+nom_complet: Ignazio (Pellegrino) Danti, O.P.
+naissance: '1536-05-10'
+deces: '1586-10-10'
+naissance_lieu: Perugia, Diocese of Perugia
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_validus
+sacre:
+  date: '1583-11-30'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: innocent-ix
+  co_consecrateurs:
+  - giovanni-battista-santorio
+  - gerolamo-mazzarelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdanii.html
+  - https://fr.wikipedia.org/wiki/Ignazio_Danti
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alatri, Italy
+  du: '1583-11-14'
+  au: '1586-10-10'
+- titre: évêque diocésain
+  du: '1583-11-14'
+  au: '1586-01-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/IgnazioDanti.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q948226
+  catholic_hierarchy: bdanii
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:26:38+00:00'
+  completeness: 0.88

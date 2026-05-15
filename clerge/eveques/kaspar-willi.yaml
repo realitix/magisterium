@@ -1,0 +1,57 @@
+slug: kaspar-willi
+nom: Kaspar Willi
+nom_complet: Kaspar (Balthasar) Willi, O.S.B.
+naissance: '1823-02-02'
+deces: '1879-04-17'
+naissance_lieu: Domat/Ems
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1869-03-07'
+  lieu: Maria Einsiedeln, Abbey, Einsideln
+  consecrateur_principal: eugene-lachat
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwillik.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chur, Switzerland
+  du: '1868-12-21'
+  au: null
+- titre: Titular Bishop of Antipatris
+  du: '1868-12-21'
+  au: null
+- titre: Bishop of Chur, Switzerland
+  du: null
+  au: '1879-04-17'
+- titre: évêque auxiliaire
+  du: '1868-12-21'
+  au: null
+- titre: évêque titulaire
+  du: '1868-12-21'
+  au: null
+- titre: évêque diocésain
+  du: '1877-01-10'
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Kaspar%20Willi%20OSB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15428731
+  catholic_hierarchy: bwillik
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:56:30+00:00'
+  completeness: 0.88

@@ -1,0 +1,38 @@
+slug: antonio-casini
+nom: Antonio Casini
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasinian.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Massa Marittima, Italy
+  du: '1425-12-10'
+  au: 1429&sup1;
+- titre: évêque diocésain
+  du: '1425-12-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449357
+  catholic_hierarchy: bcasinian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:27:54+00:00'
+  completeness: 0.25

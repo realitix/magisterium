@@ -1,0 +1,59 @@
+slug: john-ward
+nom: John Ward
+nom_complet: John James Ward
+naissance: '1920-09-28'
+deces: '2011-01-10'
+naissance_lieu: Los Angeles, Archdiocese of Los Angeles, California
+deces_lieu: Culver City, CA, Archdiocese of Los Angeles, California
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1963-12-12'
+  lieu: Saint Vibiana, Cathedral, Los Angeles, Archdiocese of Los Angeles, California
+  consecrateur_principal: james-francis-mcintyre
+  co_consecrateurs:
+  - joseph-thomas-mcgucken
+  - alden-john-bell
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bward.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Los Angeles, California, USA
+  du: '1963-10-16'
+  au: null
+- titre: Titular Bishop of Bria
+  du: '1963-10-16'
+  au: null
+- titre: Titular Bishop of California
+  du: '1996-06-15'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Los Angeles, California, USA
+  du: null
+  au: '2011-01-10'
+- titre: évêque titulaire
+  du: '1996-06-15'
+  au: null
+- titre: évêque auxiliaire
+  du: '1963-10-16'
+  au: '1996-05-07'
+- titre: évêque titulaire
+  du: '1963-10-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1029821
+  catholic_hierarchy: bward
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:50:59+00:00'
+  completeness: 1.0

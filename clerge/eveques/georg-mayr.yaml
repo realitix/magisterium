@@ -1,0 +1,44 @@
+slug: georg-mayr
+nom: Georg Mayr
+nom_complet: Georg Mayer
+naissance: '1768-07-11'
+deces: '1840-03-22'
+naissance_lieu: Treffen
+deces_lieu: null
+rang: eveque
+nationalite: Q131964
+tampon: ordo_validus
+sacre:
+  date: '1828-04-20'
+  lieu: Cathedral, Salzburg, Archdiocese of Salzburg
+  consecrateur_principal: augustin-johann-joseph-gruber
+  co_consecrateurs:
+  - gregor-thomas-ziegler
+  - roman-sebastian-zangerle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmayeg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: null
+  au: '1840-03-22'
+- titre: évêque de Gurk
+  du: '1827-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1505357
+  catholic_hierarchy: bmayeg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:40:14+00:00'
+  completeness: 1.0

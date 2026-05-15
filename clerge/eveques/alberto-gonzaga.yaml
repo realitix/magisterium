@@ -1,0 +1,38 @@
+slug: alberto-gonzaga
+nom: Alberto Gonzaga
+nom_complet: Alberto Gonzaga, O.F.M.
+naissance: '1260'
+deces: '1321'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgonzagaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ivrea, Italy
+  du: '1289-03-13'
+  au: 1322&sup2;
+- titre: évêque diocésain
+  du: '1289-03-20'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q3608346
+  catholic_hierarchy: bgonzagaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:34:30+00:00'
+  completeness: 0.25

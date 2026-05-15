@@ -1,0 +1,49 @@
+slug: etienne-faugier
+nom: Étienne Faugier
+nom_complet: Etienne Irénée Faugier
+naissance: '1859-07-12'
+deces: '1928-06-04'
+naissance_lieu: Rive-de-Gier
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1922-10-01'
+  consecrateur_principal: louis-joseph-maurin
+  co_consecrateurs:
+  - jean-marie-bourchany
+  - hyacinthe-jean-chassagnon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfaug.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon (-Vienne), France
+  du: '1922-05-19'
+  au: '1928-06-04'
+- titre: Titular Bishop of Abydus
+  du: '1922-05-19'
+  au: null
+- titre: évêque titulaire
+  du: '1922-05-19'
+  au: null
+- titre: évêque auxiliaire
+  du: '1922-05-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733043
+  catholic_hierarchy: bfaug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:23+00:00'
+  completeness: 1.0

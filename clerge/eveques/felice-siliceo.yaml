@@ -1,0 +1,43 @@
+slug: felice-siliceo
+nom: Felice Siliceo
+nom_complet: null
+naissance: '1568'
+deces: '1626'
+naissance_lieu: Troia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1623-12-27'
+  consecrateur_principal: antonio-caetani-cardinal-1621
+  co_consecrateurs:
+  - attilio-amalteo
+  - giuseppe-acquaviva
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsiliceo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troia, Italy
+  du: '1623-12-18'
+  au: 1626&sup1;
+- titre: évêque diocésain
+  du: '1623-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747830
+  catholic_hierarchy: bsiliceo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:18:04+00:00'
+  completeness: 0.75

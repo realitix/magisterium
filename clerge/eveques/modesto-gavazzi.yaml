@@ -1,0 +1,43 @@
+slug: modesto-gavazzi
+nom: Modesto Gavazzi
+nom_complet: Modesto Gavazzi, O.F.M. Conv.
+naissance: null
+deces: '1608-08-01'
+naissance_lieu: Ferrara, Archdiocese of Ferrara
+deces_lieu: Alife, Diocese of Alife
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1598-08-16'
+  lieu: San Francesco, Church, Ferrara, Archdiocese of Ferrara
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - fabio-biondi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgavazm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alife, Italy
+  du: '1598-08-07'
+  au: Aug 1608&sup3;
+- titre: évêque diocésain
+  du: '1598-08-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26997613
+  catholic_hierarchy: bgavazm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:27+00:00'
+  completeness: 0.75

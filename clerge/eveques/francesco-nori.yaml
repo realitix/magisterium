@@ -1,0 +1,47 @@
+slug: francesco-nori
+nom: Francesco Nori
+nom_complet: null
+naissance: '1565'
+deces: '1631-12-30'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-05-27'
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - alessandro-del-caccia
+  - tommaso-ximenes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnorif.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Miniato, Italy
+  du: '1624-03-11'
+  au: '1631-12-30'
+- titre: évêque diocésain
+  du: '1624-03-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Nori%20vescovo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q33129726
+  catholic_hierarchy: bnorif
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:26+00:00'
+  completeness: 0.88

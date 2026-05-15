@@ -1,0 +1,46 @@
+slug: rowland-lee
+nom: Rowland Lee
+nom_complet: null
+naissance: '1487'
+deces: '1543-01-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1534-04-19'
+  consecrateur_principal: thomas-cranmer
+  co_consecrateurs:
+  - john-longland
+  - christopher-lord-o-praem
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleero.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: 1534&sup1;
+  au: '1543-01-21'
+- titre: évêque de Coventry et Lichfield
+  du: '1534-01-01'
+  au: '1539-01-01'
+- titre: évêque anglican de Lichfield
+  du: '1539-01-01'
+  au: '1543-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7372157
+  catholic_hierarchy: bleero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:40:19+00:00'
+  completeness: 0.88

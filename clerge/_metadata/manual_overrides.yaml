@@ -1,0 +1,475 @@
+# Annotations manuelles qui supplantent les sources scrapées.
+# Lu en dernier par tools/clerge_reconcile.py et
+# tools/clerge_annotate_rite.py.
+#
+# Trois sections :
+# - `eveques`  : fiches évêques (override champ par champ si le slug existe
+#                déjà ; création complète from scratch sinon).
+# - `consecrations` : arêtes consacre→consecrateur (manquantes ou contestées).
+# - `ordinations`   : arêtes ordinateur→ordonné.
+
+eveques:
+  # ---------------------------------------------------------------------------
+  # FSSPX — sacres d'Écône (30 juin 1988)
+  # Wikidata n'enregistre pas ces consécrations ; on reconstruit les fiches.
+  # ---------------------------------------------------------------------------
+  bernard-tissier-de-mallerais:
+    nom: Bernard Tissier de Mallerais
+    nom_complet: Bernard Tissier de Mallerais
+    naissance: '1945-09-14'
+    deces: '2024-10-08'
+    naissance_lieu: Sallanches, Haute-Savoie, France
+    deces_lieu: Sion, Valais, Suisse
+    rang: eveque
+    nationalite: FR
+    sacre:
+      date: '1988-06-30'
+      lieu: Écône, Suisse
+      consecrateur_principal: marcel-lefebvre
+      co_consecrateurs:
+      - antonio-de-castro-mayer
+      source_urls:
+      - https://fr.wikipedia.org/wiki/Bernard_Tissier_de_Mallerais
+    obediences:
+    - { du: null, au: '1988-06-30', statut: rome }
+    - { du: '1988-06-30', au: null, statut: fsspx }
+    fonctions:
+    - { titre: évêque auxiliaire, institut: FSSPX, du: '1988-06-30', au: null }
+    fraternite: fsspx
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.9
+
+  alfonso-de-galarreta:
+    nom: Alfonso de Galarreta
+    nom_complet: Alfonso de Galarreta Genua
+    naissance: '1957-01-14'
+    deces: null
+    naissance_lieu: Torrelavega, Cantabrie, Espagne
+    deces_lieu: null
+    rang: eveque
+    nationalite: ES
+    sacre:
+      date: '1988-06-30'
+      lieu: Écône, Suisse
+      consecrateur_principal: marcel-lefebvre
+      co_consecrateurs:
+      - antonio-de-castro-mayer
+      source_urls:
+      - https://fr.wikipedia.org/wiki/Alfonso_de_Galarreta
+    obediences:
+    - { du: null, au: '1988-06-30', statut: rome }
+    - { du: '1988-06-30', au: null, statut: fsspx }
+    fonctions:
+    - { titre: évêque auxiliaire, institut: FSSPX, du: '1988-06-30', au: null }
+    - { titre: premier assistant du supérieur général, institut: FSSPX, du: '2018-07-01', au: null }
+    fraternite: fsspx
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.85
+
+  # ---------------------------------------------------------------------------
+  # Résistance / FSSPX-MC — sacres ultérieurs de Williamson
+  # Les fiches existent déjà côté reconcile (Wikidata) mais sont incomplètes.
+  # On enrichit lieu + obédiences + fraternite.
+  # ---------------------------------------------------------------------------
+  jean-michel-faure:
+    nom: Jean-Michel Faure
+    nom_complet: Jean-Michel Faure
+    naissance: '1941-09-01'
+    deces: null
+    naissance_lieu: France
+    rang: eveque
+    nationalite: FR
+    sacre:
+      date: '2015-03-19'
+      lieu: Monastère de Santa Cruz, Nova Friburgo, Brésil
+      consecrateur_principal: richard-williamson
+      source_urls:
+      - https://fr.wikipedia.org/wiki/Jean-Michel_Faure
+    fraternite: resistance
+
+  tomas-de-aquino-ferreira-da-costa:
+    nom: Tomás de Aquino Ferreira da Costa
+    nom_complet: Tomás de Aquino Ferreira da Costa
+    naissance: '1954'
+    deces: null
+    naissance_lieu: Brésil
+    rang: eveque
+    nationalite: BR
+    sacre:
+      date: '2016-03-19'
+      lieu: Monastère de Santa Cruz, Nova Friburgo, Brésil
+      consecrateur_principal: richard-williamson
+      source_urls:
+      - https://fr.wikipedia.org/wiki/Tom%C3%A1s_de_Aquino_Ferreira_da_Costa
+    fraternite: resistance
+
+  # ---------------------------------------------------------------------------
+  # Lignée Thuc — sacres 1976-1981 (sédévacantistes)
+  # ---------------------------------------------------------------------------
+  michel-louis-guerard-des-lauriers:
+    nom: Michel-Louis Guérard des Lauriers
+    nom_complet: Michel-Louis Guérard des Lauriers, O.P.
+    naissance: '1898-10-25'
+    deces: '1988-02-27'
+    naissance_lieu: Suresnes, France
+    deces_lieu: Cosne-sur-Loire, France
+    rang: eveque
+    nationalite: FR
+    sacre:
+      date: '1981-05-07'
+      lieu: Toulon, France
+      consecrateur_principal: pierre-martin-ngo-dinh-thuc
+      source_urls:
+      - https://fr.wikipedia.org/wiki/Michel-Louis_Gu%C3%A9rard_des_Lauriers
+    obediences:
+    - { du: null, au: '1981-05-07', statut: rome }
+    - { du: '1981-05-07', au: '1988-02-27', statut: sede-cassiciacum }
+    fonctions:
+    - { titre: dominicain, institut: O.P., du: '1926-09-22', au: '1988-02-27' }
+    - { titre: évêque, du: '1981-05-07', au: '1988-02-27' }
+    fraternite: sede-cassiciacum
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.9
+
+  moises-carmona-rivera:
+    nom: Moisés Carmona Rivera
+    nom_complet: Moisés Carmona Rivera
+    naissance: '1912-10-31'
+    deces: '1991-11-01'
+    naissance_lieu: Quechultenango, Guerrero, Mexique
+    deces_lieu: Mexique
+    rang: eveque
+    nationalite: MX
+    sacre:
+      date: '1981-10-17'
+      lieu: Toulon, France
+      consecrateur_principal: pierre-martin-ngo-dinh-thuc
+      source_urls:
+      - https://en.wikipedia.org/wiki/Mois%C3%A9s_Carmona
+    obediences:
+    - { du: null, au: '1981-10-17', statut: rome }
+    - { du: '1981-10-17', au: '1991-11-01', statut: sede-thuc-line }
+    fonctions:
+    - { titre: évêque, du: '1981-10-17', au: '1991-11-01' }
+    fraternite: sede-thuc-line
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.9
+
+  adolfo-zamora-hernandez:
+    nom: Adolfo Zamora Cruz
+    nom_complet: Adolfo Zamora Cruz
+    naissance: null
+    deces: null
+    naissance_lieu: Mexique
+    deces_lieu: null
+    rang: eveque
+    nationalite: MX
+    sacre:
+      date: '1981-10-17'
+      lieu: Toulon, France
+      consecrateur_principal: pierre-martin-ngo-dinh-thuc
+      source_urls:
+      - https://en.wikipedia.org/wiki/Mois%C3%A9s_Carmona
+    obediences:
+    - { du: null, au: '1981-10-17', statut: rome }
+    - { du: '1981-10-17', au: null, statut: sede-thuc-line }
+    fonctions:
+    - { titre: évêque, du: '1981-10-17', au: null }
+    fraternite: sede-thuc-line
+    notes: |
+      Nom complet selon Wikipedia : Adolfo Zamora Cruz (et non Hernández).
+      Dates de naissance/décès non documentées dans les sources accessibles.
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.5
+
+  clemente-dominguez-y-gomez:
+    nom: Clemente Domínguez y Gómez
+    nom_complet: Clemente Domínguez y Gómez (Pape Grégoire XVII de la secte du Palmar)
+    naissance: '1946-04-23'
+    deces: '2005-03-21'
+    naissance_lieu: Séville, Andalousie, Espagne
+    deces_lieu: El Palmar de Troya, Andalousie, Espagne
+    rang: eveque
+    nationalite: ES
+    sacre:
+      date: '1976-01-11'
+      lieu: Palmar de Troya, Espagne
+      consecrateur_principal: pierre-martin-ngo-dinh-thuc
+      source_urls:
+      - https://en.wikipedia.org/wiki/Clemente_Dom%C3%ADnguez_y_G%C3%B3mez
+    obediences:
+    - { du: null, au: '1976-01-11', statut: rome }
+    - { du: '1976-01-11', au: '2005-03-21', statut: palmar }
+    fonctions:
+    - { titre: évêque, du: '1976-01-11', au: '2005-03-21' }
+    fraternite: palmar
+    notes: |
+      Wikipedia donne 23 mai 1946 comme date de naissance ; Wikidata ailleurs 23 avril 1946.
+      Conservé 1946-04-23 sous réserve.
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.9
+
+  # ---------------------------------------------------------------------------
+  # Lignée Thuc-Carmona — sédévacantistes USA
+  # ---------------------------------------------------------------------------
+  george-joseph-musey:
+    nom: George Joseph Musey
+    nom_complet: George Joseph Musey
+    naissance: '1928'
+    deces: '1992'
+    naissance_lieu: États-Unis
+    deces_lieu: null
+    rang: eveque
+    nationalite: US
+    sacre:
+      date: '1982-04-01'
+      lieu: Acapulco, Mexique
+      consecrateur_principal: moises-carmona-rivera
+      source_urls:
+      - https://en.wikipedia.org/wiki/Mois%C3%A9s_Carmona
+    obediences:
+    - { du: null, au: '1982-04-01', statut: rome }
+    - { du: '1982-04-01', au: '1992', statut: sede-thuc-line }
+    fonctions:
+    - { titre: évêque, du: '1982-04-01', au: '1992' }
+    fraternite: sede-thuc-line
+    notes: |
+      Dates de naissance/décès non confirmées par Wikipedia accessible — valeurs
+      indicatives basées sur la littérature sédévacantiste (à raffiner).
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.5
+
+  robert-fidelis-mckenna:
+    nom: Robert Fidelis McKenna
+    nom_complet: Robert Fidelis McKenna, O.P.
+    naissance: '1927-07-08'
+    deces: '2015-12-16'
+    naissance_lieu: Danville, Illinois, États-Unis
+    deces_lieu: null
+    rang: eveque
+    nationalite: US
+    sacre:
+      date: '1986-08-22'
+      lieu: Raveau, France
+      consecrateur_principal: michel-louis-guerard-des-lauriers
+      source_urls:
+      - https://en.wikipedia.org/wiki/Robert_McKenna
+    obediences:
+    - { du: null, au: '1986-08-22', statut: rome }
+    - { du: '1986-08-22', au: '2015-12-16', statut: sede-thuc-line }
+    fonctions:
+    - { titre: dominicain, institut: O.P., du: null, au: '2015-12-16' }
+    - { titre: évêque (Orthodox Roman Catholic Movement), du: '1986-08-22', au: '2015-12-16' }
+    fraternite: sede-thuc-line
+    notes: |
+      Consacré par Guérard des Lauriers (lignée Thuc), non par Musey comme
+      parfois indiqué. Source : Wikipedia EN « Robert McKenna ».
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.9
+
+  mark-anthony-pivarunas:
+    nom: Mark Anthony Pivarunas
+    nom_complet: Mark Anthony Pivarunas, C.M.R.I.
+    naissance: '1958-10-31'
+    deces: null
+    naissance_lieu: Chicago, Illinois, États-Unis
+    deces_lieu: null
+    rang: eveque
+    nationalite: US
+    sacre:
+      date: '1991-09-24'
+      lieu: Mount Saint Michael, Spokane, Washington, États-Unis
+      consecrateur_principal: moises-carmona-rivera
+      source_urls:
+      - https://en.wikipedia.org/wiki/Mark_Pivarunas
+    obediences:
+    - { du: null, au: '1991-09-24', statut: rome }
+    - { du: '1991-09-24', au: null, statut: sede-cmri }
+    fonctions:
+    - { titre: supérieur général de la CMRI, du: '1995-01-01', au: null }
+    - { titre: évêque, du: '1991-09-24', au: null }
+    fraternite: sede-cmri
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.9
+
+  # Daniel Dolan : la fiche existe sous le slug `daniel-lytle-dolan`.
+  # On enrichit son sacre (par Pivarunas, 1993).
+  daniel-lytle-dolan:
+    nom: Daniel Lytle Dolan
+    nom_complet: Daniel Lytle Dolan
+    naissance: '1951-05-28'
+    deces: '2022-04-26'
+    naissance_lieu: États-Unis
+    rang: eveque
+    nationalite: US
+    sacre:
+      date: '1993-11-30'
+      lieu: Cincinnati, Ohio, États-Unis
+      consecrateur_principal: mark-anthony-pivarunas
+      source_urls:
+      - https://fr.wikipedia.org/wiki/Daniel_Dolan
+    obediences:
+    - { du: null, au: '1993-11-30', statut: rome }
+    - { du: '1993-11-30', au: '2022-04-26', statut: sede-sgg }
+    fonctions:
+    - { titre: évêque, du: '1993-11-30', au: '2022-04-26' }
+    fraternite: sede-sgg
+    notes: |
+      Consacré par Pivarunas (CMRI) en 1993 ; a fondé St. Gertrude the Great
+      (SGG) en 1995 à West Chester, Ohio.
+
+  donald-j-sanborn:
+    nom: Donald J. Sanborn
+    nom_complet: Donald Joseph Sanborn
+    naissance: '1950-02-19'
+    deces: null
+    naissance_lieu: Flushing, Queens, New York, États-Unis
+    deces_lieu: null
+    rang: eveque
+    nationalite: US
+    sacre:
+      date: '2002-06-19'
+      lieu: Detroit, Michigan, États-Unis
+      consecrateur_principal: robert-fidelis-mckenna
+      source_urls:
+      - https://en.wikipedia.org/wiki/Donald_Sanborn
+    obediences:
+    - { du: null, au: '2002-06-19', statut: rome }
+    - { du: '2002-06-19', au: null, statut: sede-cassiciacum }
+    fonctions:
+    - { titre: évêque, du: '2002-06-19', au: null }
+    - { titre: recteur du séminaire Most Holy Trinity, du: null, au: null }
+    fraternite: sede-cassiciacum
+    sources:
+    - source: wikipedia
+      fetched_at: '2026-05-13T00:00:00+00:00'
+      completeness: 0.9
+
+# Section `consecrations` : arêtes (consacre→consecrateur_principal) manquantes
+# ou contestées dans consecrations.jsonl. Le tools/clerge_annotate_rite.py les
+# applique en priorité absolue.
+consecrations:
+- consacre: bernard-fellay
+  consecrateur_principal: marcel-lefebvre
+  date: '1988-06-30'
+  rite: ancien
+  rite_source: manual
+  note: Sacres d'Écône 30 juin 1988 (ancien rite, pontifical romain de 1962).
+- consacre: richard-williamson
+  consecrateur_principal: marcel-lefebvre
+  date: '1988-06-30'
+  rite: ancien
+  rite_source: manual
+  note: Sacres d'Écône 30 juin 1988 (ancien rite, pontifical romain de 1962).
+- consacre: bernard-tissier-de-mallerais
+  consecrateur_principal: marcel-lefebvre
+  co_consecrateurs:
+  - antonio-de-castro-mayer
+  date: '1988-06-30'
+  rite: ancien
+  rite_source: manual
+  note: Sacres d'Écône 30 juin 1988 (ancien rite, pontifical romain de 1962).
+- consacre: alfonso-de-galarreta
+  consecrateur_principal: marcel-lefebvre
+  co_consecrateurs:
+  - antonio-de-castro-mayer
+  date: '1988-06-30'
+  rite: ancien
+  rite_source: manual
+  note: Sacres d'Écône 30 juin 1988 (ancien rite, pontifical romain de 1962).
+- consacre: jean-michel-faure
+  consecrateur_principal: richard-williamson
+  date: '2015-03-19'
+  rite: ancien
+  rite_source: manual
+  note: Sacré par Williamson au monastère de Santa Cruz (Brésil), Résistance, ancien
+    rite.
+- consacre: tomas-de-aquino-ferreira-da-costa
+  consecrateur_principal: richard-williamson
+  date: '2016-03-19'
+  rite: ancien
+  rite_source: manual
+  note: Sacré par Williamson au monastère de Santa Cruz (Brésil), ancien rite.
+- consacre: carlo-maria-vigano
+  consecrateur_principal: richard-williamson
+  date: '1992-04-26'
+  rite: nouveau
+  rite_source: manual
+  note: Donnée Wikidata erronée — Viganò sacré en 1992 par le card. Re, pas par Williamson.
+    Rite Paul VI maintenu.
+# Lignée Thuc (1976, 1981) — Thuc continuait d'employer le pontifical romain
+# de 1962. Le rite est ancien malgré une date post-1968.
+- consacre: clemente-dominguez-y-gomez
+  consecrateur_principal: pierre-martin-ngo-dinh-thuc
+  date: '1976-01-11'
+  rite: ancien
+  rite_source: manual
+  note: Thuc consacrant à El Palmar de Troya (ancien rite). Excommunié 1976.
+- consacre: michel-louis-guerard-des-lauriers
+  consecrateur_principal: pierre-martin-ngo-dinh-thuc
+  date: '1981-05-07'
+  rite: ancien
+  rite_source: manual
+  note: Sacre à Toulon (ancien rite, pontifical romain de 1962).
+- consacre: moises-carmona-rivera
+  consecrateur_principal: pierre-martin-ngo-dinh-thuc
+  date: '1981-10-17'
+  rite: ancien
+  rite_source: manual
+  note: Sacre à Toulon (ancien rite). Cf. Wikipedia EN « Moisés Carmona ».
+- consacre: adolfo-zamora-hernandez
+  consecrateur_principal: pierre-martin-ngo-dinh-thuc
+  date: '1981-10-17'
+  rite: ancien
+  rite_source: manual
+  note: Sacre à Toulon le même jour que Carmona (ancien rite).
+# Lignée Thuc-Carmona / Thuc-Guérard
+- consacre: george-joseph-musey
+  consecrateur_principal: moises-carmona-rivera
+  date: '1982-04-01'
+  rite: ancien
+  rite_source: manual
+  note: Sacré par Carmona (lignée Thuc) ; ancien rite.
+- consacre: robert-fidelis-mckenna
+  consecrateur_principal: michel-louis-guerard-des-lauriers
+  date: '1986-08-22'
+  rite: ancien
+  rite_source: manual
+  note: Sacré par Guérard des Lauriers à Raveau, France ; ancien rite.
+- consacre: mark-anthony-pivarunas
+  consecrateur_principal: moises-carmona-rivera
+  date: '1991-09-24'
+  rite: ancien
+  rite_source: manual
+  note: Sacré par Carmona à Mount Saint Michael, Spokane ; ancien rite (CMRI).
+- consacre: daniel-lytle-dolan
+  consecrateur_principal: mark-anthony-pivarunas
+  date: '1993-11-30'
+  rite: ancien
+  rite_source: manual
+  note: Sacré par Pivarunas (CMRI) ; ancien rite.
+- consacre: donald-j-sanborn
+  consecrateur_principal: robert-fidelis-mckenna
+  date: '2002-06-19'
+  rite: ancien
+  rite_source: manual
+  note: Sacré par McKenna à Detroit ; ancien rite (lignée Thuc-Guérard).
+ordinations: []

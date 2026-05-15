@@ -1,0 +1,51 @@
+slug: guillaume-bertrand
+nom: Guillaume Bertrand
+nom_complet: null
+naissance: null
+deces: '1356-05-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertrang.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Bertrand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Noyon, France
+  du: '1331-03-01'
+  au: null
+- titre: Bishop of Bayeux, France
+  du: '1338-01-23'
+  au: null
+- titre: Bishop of Beauvais, France
+  du: '1347-05-14'
+  au: 1355&sup1;
+- titre: évêque diocésain
+  du: '1338-01-31'
+  au: null
+- titre: évêque diocésain
+  du: '1347-05-22'
+  au: null
+- titre: évêque de Noyon
+  du: '1331-03-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2385460
+  catholic_hierarchy: bbertrang
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:13+00:00'
+  completeness: 0.25

@@ -1,0 +1,52 @@
+slug: otto-von-senheim
+nom: Otto von Senheim
+nom_complet: Otto (Johann Theodor) von Senheim, O.P.
+naissance: '1601-07-07'
+deces: '1662-11-11'
+naissance_lieu: Koblenz
+deces_lieu: Maria Laach
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '10'
+  lieu: Köln, Archdiocese of Köln {Cologne}
+  consecrateur_principal: philipp-christoph-von-sotern
+  co_consecrateurs:
+  - otto-gereon-von-gutmann-zu-sobernheim
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsenheim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1633-08-08'
+  au: '1662-11-11'
+- titre: Titular Bishop of Azotus
+  du: '1633-08-08'
+  au: null
+- titre: vicaire général
+  du: null
+  au: null
+- titre: évêque auxiliaire
+  du: '1633-08-08'
+  au: null
+- titre: évêque titulaire
+  du: '1633-08-08'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q55681255
+  catholic_hierarchy: bsenheim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:09:54+00:00'
+  completeness: 1.0

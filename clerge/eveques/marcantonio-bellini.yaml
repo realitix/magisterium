@@ -1,0 +1,44 @@
+slug: marcantonio-bellini
+nom: Marcantonio Bellini
+nom_complet: null
+naissance: '1556'
+deces: '1618-08-10'
+naissance_lieu: Oleggio Scarulfo, Diocese of Novara
+deces_lieu: Bobbio, Diocese of Bobbio
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1607-02-25'
+  lieu: Santa Maria in Trastevere, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: robert-bellarmine
+  co_consecrateurs:
+  - jorge-de-padilla-o-p
+  - alessandro-guidiccioni-1550
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbellinim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bobbio, Italy
+  du: '1607-02-12'
+  au: '1618-08-10'
+- titre: Roman Catholic Bishop of Bobbio
+  du: '1607-02-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68863352
+  catholic_hierarchy: bbellinim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:14:24+00:00'
+  completeness: 0.88

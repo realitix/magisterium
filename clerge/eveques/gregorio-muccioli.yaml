@@ -1,0 +1,43 @@
+slug: gregorio-muccioli
+nom: Gregorio Muccioli
+nom_complet: null
+naissance: '1773-11-16'
+deces: '1837'
+naissance_lieu: Roma, Diocese of Roma {Rome}, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1822-04-21'
+  consecrateur_principal: pierfrancesco-galleffi
+  co_consecrateurs:
+  - giovanni-francesco-falzacappa
+  - giuseppe-bartolomeo-menocchio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmucc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Agathopolis
+  du: '1822-04-19'
+  au: 1837&sup1;
+- titre: évêque titulaire
+  du: '1822-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60324366
+  catholic_hierarchy: bmucc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:17:36+00:00'
+  completeness: 0.88

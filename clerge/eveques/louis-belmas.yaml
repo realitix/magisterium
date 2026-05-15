@@ -1,0 +1,52 @@
+slug: louis-belmas
+nom: Louis Belmas
+nom_complet: null
+naissance: '1757-08-11'
+deces: '1841-07-21'
+naissance_lieu: Montréal, Diocese of Carcassonne
+deces_lieu: Cambrai, Diocese of Cambrai
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1800-10-26'
+  lieu: Cathedral, Carcassonne, Diocese of Carcassonne
+  consecrateur_principal: constitutional-bishop-antoine-pascal-hyacinthe-sermet
+  co_consecrateurs:
+  - constitutional-bishop-claude-debertier
+  - constitutional-bishop-dominique-paul-villa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbelmas.html
+  - https://fr.wikipedia.org/wiki/Louis_Belmas
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Aude (Constitutional), France]
+  du: null
+  au: '1801-01-06'
+- titre: Bishop of Cambrai, France
+  du: null
+  au: '1841-07-21'
+- titre: évêque diocésain
+  du: '1802-04-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Belmas.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3261211
+  catholic_hierarchy: bbelmas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:15:09+00:00'
+  completeness: 1.0

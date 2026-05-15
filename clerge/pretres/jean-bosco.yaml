@@ -1,0 +1,32 @@
+slug: jean-bosco
+nom: Jean Bosco
+nom_complet: Ioannes Bosco
+naissance: '1815-08-16'
+deces: '1888-01-31'
+rang: pretre
+tampon: ordo_incertus
+fraternite: null
+ordination:
+  date: null
+  ordinateur: null
+  ordinateur_slug: null
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Jean_Bosco
+fonctions:
+- titre: recteur majeur des Salésiens
+  du: '1874-01-01'
+  au: '1888-01-01'
+photo:
+  fichier: null
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/San%20Giovanni%20Bosco.jpg
+  licence: unknown
+qids:
+  wikidata: Q146183
+sources:
+- source: wikidata-pretres
+  fetched_at: '2026-05-13T16:12:42+00:00'
+  source_id: Q146183
+notes: Importé depuis Wikidata. Ordination presbytérale non documentée — l'évêque
+  ordinateur est inconnu.
+tampon_source: defaut

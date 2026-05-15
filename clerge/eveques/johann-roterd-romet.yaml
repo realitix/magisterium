@@ -1,0 +1,42 @@
+slug: johann-roterd-romet
+nom: Johann Roterd (Romet)
+nom_complet: Johann Roterd
+naissance: null
+deces: '1536'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1531'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broterd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Reval (Rewel), Estonia
+  du: '1531-08-30'
+  au: 1535&sup1;
+- titre: évêque de Reval
+  du: '1531-09-09'
+  au: '1535-01-01'
+- titre: évêque
+  du: '1531-01-01'
+  au: '1536-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12365377
+  catholic_hierarchy: broterd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:30:45+00:00'
+  completeness: 0.25

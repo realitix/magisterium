@@ -1,0 +1,53 @@
+slug: bernardin-de-corneillan
+nom: Bernardin de Corneillan
+nom_complet: Bernardin Corneillan
+naissance: '1577'
+deces: '1645-09-08'
+naissance_lieu: Orlhonac de la Rouquette
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1606'
+  consecrateur_principal: leonard-de-trappes
+  co_consecrateurs:
+  - bertrand-d-eschaud
+  - jean-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorneil.html
+  - https://fr.wikipedia.org/wiki/Bernardin_de_Corneillan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Rodez, France
+  du: '1605-08-03'
+  au: null
+- titre: Titular Bishop of Nicopolis
+  du: '1605-08-03'
+  au: null
+- titre: Bishop of Rodez, France
+  du: null
+  au: '1645-09-08'
+- titre: évêque de Rodez
+  du: '1614-09-13'
+  au: '1645-09-08'
+- titre: évêque titulaire
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816869
+  catholic_hierarchy: bcorneil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:06:30+00:00'
+  completeness: 0.88

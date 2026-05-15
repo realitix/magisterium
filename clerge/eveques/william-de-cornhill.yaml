@@ -1,0 +1,40 @@
+slug: william-de-cornhill
+nom: William de Cornhill
+nom_complet: William of Cornhill
+naissance: '1150'
+deces: '1223-08-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1215-01-25'
+  consecrateur_principal: stephen-cardinal-langton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcornhill.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1214-08-06'
+  au: '1223-08-19'
+- titre: évêque de Coventry et Lichfield
+  du: '1214-08-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8020780
+  catholic_hierarchy: bcornhill
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:06:52+00:00'
+  completeness: 0.75

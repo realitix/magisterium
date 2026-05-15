@@ -1,0 +1,44 @@
+slug: hans-rev
+nom: Hans Rev
+nom_complet: Jean Reff
+naissance: '1489'
+deces: '1545'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q20
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breff.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oslo, Norway
+  du: 1525&sup2;
+  au: 1537&sup2;
+- titre: Bishop Emeritus of Oslo, Norway
+  du: null
+  au: 1545&sup1;
+- titre: évêque catholique romain d'Oslo
+  du: '1525-01-01'
+  au: '1537-01-01'
+- titre: bishop of Oslo
+  du: '1541-01-01'
+  au: '1545-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1582010
+  catholic_hierarchy: breff
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:32+00:00'
+  completeness: 0.25

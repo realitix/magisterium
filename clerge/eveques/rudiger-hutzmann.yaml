@@ -1,0 +1,44 @@
+slug: rudiger-hutzmann
+nom: Rüdiger Hutzmann
+nom_complet: null
+naissance: '1100'
+deces: '1090'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '1076'
+  consecrateur_principal: udo-von-nellenburg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhutzm.html
+  - https://fr.wikipedia.org/wiki/R%C3%BCdiger_Hutzmann
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: 1073&sup1;
+  au: '1090-02-22'
+- titre: évêque de Spire
+  du: '1075-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q123125
+  catholic_hierarchy: bhutzm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:50:55+00:00'
+  completeness: 0.75

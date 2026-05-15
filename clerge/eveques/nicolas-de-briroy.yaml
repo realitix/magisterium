@@ -1,0 +1,45 @@
+slug: nicolas-de-briroy
+nom: Nicolas de Briroy
+nom_complet: null
+naissance: '1526'
+deces: '1620-03-22'
+naissance_lieu: Fierville, Manche
+deces_lieu: Coutances, Diocese of Coutances
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1597-12-07'
+  lieu: S. Germain des Pres, Paris, Diocese of Paris
+  consecrateur_principal: geoffroy-de-la-marthonie
+  co_consecrateurs:
+  - claude-coquelet
+  - rene-potier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbriroy.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Briroy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: null
+  au: '1620-03-22'
+- titre: évêque diocésain
+  du: '1589-04-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3340906
+  catholic_hierarchy: bbriroy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:52:40+00:00'
+  completeness: 0.88

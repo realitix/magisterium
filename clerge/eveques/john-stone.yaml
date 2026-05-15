@@ -1,0 +1,43 @@
+slug: john-stone
+nom: John Stone
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1444-11-01'
+  consecrateur_principal: john-stafford-5062bb
+  co_consecrateurs:
+  - robert-gilbert
+  - thomas-cardinal-bourchier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstone.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lisieux, France
+  du: 1444&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1444-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446103
+  catholic_hierarchy: bstone
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:39:56+00:00'
+  completeness: 0.75

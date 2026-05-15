@@ -1,0 +1,45 @@
+slug: pedro-castro-lemos
+nom: Pedro Castro Lemos
+nom_complet: null
+naissance: null
+deces: '1561-08-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: pedro-gonzalez-de-mendoza
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salamanca, Spain
+  du: '1545-02-20'
+  au: null
+- titre: Bishop of Cuenca, Spain
+  du: '1555-06-05'
+  au: '1561-08-01'
+- titre: évêque de Salamanque
+  du: '1545-03-02'
+  au: null
+- titre: évêque de Cuenca
+  du: '1555-06-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777054
+  catholic_hierarchy: bcasl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:27:57+00:00'
+  completeness: 0.5

@@ -1,0 +1,44 @@
+slug: lothar-anselm-von-gebsattel
+nom: Lothar Anselm von Gebsattel
+nom_complet: Lotharius Anselmus de Gebsattel
+naissance: '1761-01-20'
+deces: '1846-10-01'
+naissance_lieu: Würzburg
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1821-11-01'
+  consecrateur_principal: francesco-serra-cassano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgebs.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of München und Freising {Munich}, Germany
+  du: null
+  au: '1846-10-01'
+- titre: archevêque de Munich et Freising
+  du: '1821-11-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lothar%20Anselm%20von%20Gebsattel%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q324662
+  catholic_hierarchy: bgebs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:15:31+00:00'
+  completeness: 0.88

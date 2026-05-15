@@ -1,0 +1,55 @@
+slug: antal-fetser
+nom: Antal Fetser
+nom_complet: null
+naissance: '1862-01-14'
+deces: '1933-10-06'
+naissance_lieu: Nagy Karoly, Romania
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1906-04-01'
+  consecrateur_principal: koloman-belopotocky
+  co_consecrateurs:
+  - pal-szmrecsanyi
+  - demetriu-radu
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfetser.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Oradea Mare {Gran Varadino, Nagyvárad}, Romania
+  du: '1906-03-21'
+  au: null
+- titre: Titular Bishop of Palaeopolis in Asia
+  du: '1906-03-21'
+  au: null
+- titre: Bishop of Gy&#337;r (Raab), Hungary
+  du: '1915-01-22'
+  au: '1933-10-06'
+- titre: évêque de Győr
+  du: '1915-01-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '1906-03-21'
+  au: null
+- titre: évêque titulaire
+  du: '1906-03-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20478643
+  catholic_hierarchy: bfetser
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:42:01+00:00'
+  completeness: 1.0

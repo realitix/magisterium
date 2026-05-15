@@ -1,0 +1,44 @@
+slug: jeronimo-herrera-y-salazar
+nom: Jerónimo Herrera y Salazar
+nom_complet: Jerónimo Herrera Salazar
+naissance: '1557'
+deces: '1619-07-30'
+naissance_lieu: Almazán
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1618-04-22'
+  lieu: Cathedral, Burgos, Archdiocese of Burgos
+  consecrateur_principal: fernando-acevedo-gonzalez
+  co_consecrateurs:
+  - jose-gonzalez-diez-o-p
+  - melchor-rodriguez-de-torres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhersa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guadix, Spain
+  du: '1617-10-02'
+  au: '1619-07-30'
+- titre: évêque de Guadix
+  du: '1617-10-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68906885
+  catholic_hierarchy: bhersa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:41:40+00:00'
+  completeness: 0.88

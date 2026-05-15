@@ -1,0 +1,47 @@
+slug: luigi-rinaldi
+nom: Luigi Rinaldi
+nom_complet: null
+naissance: '1901-04-25'
+deces: '1977-10-21'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1956-04-22'
+  lieu: Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: marcello-mimmi
+  co_consecrateurs:
+  - alfonso-castaldo
+  - aurelio-marena
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brinaldil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Marco e Bisignano, Italy
+  du: '1956-02-22'
+  au: null
+- titre: Bishop Emeritus of San Marco e Bisignano, Italy
+  du: null
+  au: '1977-10-21'
+- titre: Roman Catholic Bishop of San Marco and Bisignano
+  du: '1956-02-22'
+  au: '1977-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762480
+  catholic_hierarchy: brinaldil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:15:24+00:00'
+  completeness: 1.0

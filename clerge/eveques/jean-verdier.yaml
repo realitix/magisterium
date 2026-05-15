@@ -1,0 +1,57 @@
+slug: jean-verdier
+nom: Jean Verdier
+nom_complet: Jean Cardinal Verdier, P.S.S.
+naissance: '1864-02-19'
+deces: '1940-04-09'
+naissance_lieu: Lacroix-Barrez, Diocese of Rodez
+deces_lieu: Paris, Archdiocese of Paris
+rang: cardinal
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1929-12-29'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - alfred-baudrillart
+  - emmanuel-chaptal
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bverdierj.html
+  - https://fr.wikipedia.org/wiki/Jean_Verdier_(cardinal)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Superior General of Society of Priests of Saint Sulpice
+  du: '1929-07-16'
+  au: null
+- titre: Archbishop of Paris, France
+  du: '1929-11-18'
+  au: '1940-04-09'
+- titre: Cardinal-Priest of Santa Balbina
+  du: '1929-12-19'
+  au: null
+- titre: cardinal-prêtre
+  du: '1929-12-16'
+  au: null
+- titre: archevêque de Paris
+  du: '1929-12-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cardinal%20Jean%20Verdier%20cropped.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q959492
+  catholic_hierarchy: bverdierj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:59+00:00'
+  completeness: 0.88

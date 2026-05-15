@@ -1,0 +1,49 @@
+slug: miguel-de-sanguesa-o-cist
+nom: Miguel de Sanguesa, O. Cist.
+nom_complet: Miguel de Sanguesa
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1537-05-03'
+  consecrateur_principal: juan-falco
+  co_consecrateurs:
+  - alfonso-oliva
+  - miguel-torcella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsangm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Tarazona, Spain
+  du: '1537-04-20'
+  au: 1548&sup1;
+- titre: Titular Bishop of Rhosus
+  du: '1537-04-20'
+  au: null
+- titre: évêque auxiliaire
+  du: '1537-04-30'
+  au: null
+- titre: évêque titulaire
+  du: '1537-04-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780468
+  catholic_hierarchy: bsangm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:49:09+00:00'
+  completeness: 0.75

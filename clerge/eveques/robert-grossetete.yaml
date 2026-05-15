@@ -1,0 +1,52 @@
+slug: robert-grossetete
+nom: Robert Grossetête
+nom_complet: Robert Grosteste
+naissance: '1168'
+deces: '1253-10-10'
+naissance_lieu: Stradbroke, Suffolk
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1235-06-17'
+  lieu: Reading
+  consecrateur_principal: edmund-rich
+  co_consecrateurs:
+  - roger-niger
+  - joceline-of-wells
+  - robert-de-bingham
+  - hugh-of-northwold
+  - ralph-of-maidstone-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrost.html
+  - https://fr.wikipedia.org/wiki/Robert_Grosset%C3%AAte
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1235-03-27'
+  au: '1253-10-10'
+- titre: évêque de Lincoln
+  du: '1235-01-01'
+  au: '1253-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Grosseteste.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q256541
+  catholic_hierarchy: bgrost
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:45:15+00:00'
+  completeness: 0.88

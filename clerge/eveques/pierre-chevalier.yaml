@@ -1,0 +1,39 @@
+slug: pierre-chevalier
+nom: Pierre Chevalier
+nom_complet: null
+naissance: null
+deces: '1583-10-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchevap.html
+  - https://fr.wikipedia.org/wiki/Pierre_Chevalier_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: '1561-09-19'
+  au: '1583-10-30'
+- titre: évêque diocésain
+  du: '1561-09-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28497178
+  catholic_hierarchy: bchevap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:45:09+00:00'
+  completeness: 0.38

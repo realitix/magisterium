@@ -1,0 +1,56 @@
+slug: adalbert-de-breme
+nom: Adalbert de Brême
+nom_complet: Adalbert von Bremen
+naissance: '1000'
+deces: '1072-03-16'
+naissance_lieu: Goseck
+deces_lieu: null
+rang: archeveque
+nationalite: Q175211
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-d439b381
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbremal.html
+  - https://fr.wikipedia.org/wiki/Adalbert_de_Br%C3%AAme
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Hamburg, Germany
+  du: '1043-07-15'
+  au: '1072-03-16'
+- titre: Archbishop (Personal Title) of Bremen, Germany
+  du: '1043-07-15'
+  au: null
+- titre: archevêque de Hambourg
+  du: '1043-07-21'
+  au: '1072-03-22'
+- titre: Roman Catholic Bishop of Bremen
+  du: '1043-07-21'
+  au: '1072-03-22'
+- titre: doyen du chapitre
+  du: '1035-01-01'
+  au: null
+- titre: sous-diacre
+  du: '1032-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20Adalbert%20Buecker.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q347852
+  catholic_hierarchy: bbremal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:50:23+00:00'
+  completeness: 0.5

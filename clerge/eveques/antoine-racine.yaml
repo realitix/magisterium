@@ -1,0 +1,49 @@
+slug: antoine-racine
+nom: Antoine Racine
+nom_complet: null
+naissance: '1822-01-26'
+deces: '1893-07-17'
+naissance_lieu: St-Ambroise, Jeune-Lorette, Archdiocese of Québec
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1874-10-18'
+  lieu: St. Jean, Québec, Archdiocese of Québec
+  consecrateur_principal: elzear-alexandre-taschereau
+  co_consecrateurs:
+  - charles-la-rocque
+  - jean-langevin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bracinea.html
+  - https://fr.wikipedia.org/wiki/Antoine_Racine
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sherbrooke, Québec, Canada
+  du: '1874-09-01'
+  au: '1893-07-17'
+- titre: évêque diocésain
+  du: '1874-09-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Racine.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2856657
+  catholic_hierarchy: bracinea
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:57:26+00:00'
+  completeness: 1.0

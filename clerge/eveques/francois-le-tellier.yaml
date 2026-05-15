@@ -1,0 +1,44 @@
+slug: francois-le-tellier
+nom: François le Tellier
+nom_complet: François Le Tellier
+naissance: '1630-11-04'
+deces: '1708-02-11'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1678-05-15'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - francois-de-pericard-1619
+  - charles-le-goux-de-la-berchere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bletelf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Le_Tellier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: null
+  au: '1708-02-11'
+- titre: évêque diocésain
+  du: '1677-10-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3086358
+  catholic_hierarchy: bletelf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:46:46+00:00'
+  completeness: 1.0

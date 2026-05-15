@@ -1,0 +1,45 @@
+slug: constantin-chauvin
+nom: Constantin Chauvin
+nom_complet: Constantin-Marie-Joseph Chauvin
+naissance: '1859-09-15'
+deces: '1930-03-17'
+naissance_lieu: Cossé-le-Vivien, Diocese of Laval
+deces_lieu: Vernon, Diocese of Évreux
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1920-10-28'
+  lieu: Sainte Trinité, Cathedral, Laval, Diocese of Laval
+  consecrateur_principal: eugene-grellier
+  co_consecrateurs:
+  - claude-bardel
+  - georges-grente
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchauvi.html
+  - https://fr.wikipedia.org/wiki/Constantin_Chauvin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: '1920-07-30'
+  au: '1930-03-17'
+- titre: évêque d'Évreux
+  du: '1920-07-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2994956
+  catholic_hierarchy: bchauvi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:43:25+00:00'
+  completeness: 1.0

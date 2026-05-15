@@ -1,0 +1,52 @@
+slug: corrado-lorefice
+nom: Corrado Lorefice
+nom_complet: Conradus Lorefice
+naissance: '1962-10-12'
+deces: null
+naissance_lieu: Ispica
+deces_lieu: null
+rang: archeveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2015-12-05'
+  lieu: Cathedral, Palermo, Archdiocese of Palermo
+  consecrateur_principal: paolo-romeo
+  co_consecrateurs:
+  - antonio-stagliano
+  - paolo-de-nicolo
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorefice.html
+  - https://fr.wikipedia.org/wiki/Corrado_Lorefice
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Palermo, Italy
+  du: '2015-10-27'
+  au: null
+- titre: métropolite
+  du: '2015-10-27'
+  au: null
+- titre: archevêque de Palerme
+  du: '2015-12-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Corrado%20Lorefice%20GMG%202016.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q21227549
+  catholic_hierarchy: blorefice
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:59:50+00:00'
+  completeness: 0.88

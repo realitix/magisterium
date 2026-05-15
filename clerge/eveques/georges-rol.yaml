@@ -1,0 +1,57 @@
+slug: georges-rol
+nom: Georges Rol
+nom_complet: null
+naissance: '1926-05-22'
+deces: '2017-04-13'
+naissance_lieu: Thiviers
+deces_lieu: "Isle d\x92Espagnac, Diocese of Angoulême"
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1973-05-01'
+  lieu: St. Pierre, Cathedral, Angoulême, Diocese of Angoulême
+  consecrateur_principal: jean-baptiste-brunon
+  co_consecrateurs:
+  - rene-kerautret
+  - anthyme-bayala
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brol.html
+  - https://fr.wikipedia.org/wiki/Georges_Rol
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Angoulême, France
+  du: '1973-02-27'
+  au: null
+- titre: Titular Bishop of Gabii
+  du: '1973-02-27'
+  au: null
+- titre: Bishop of Angoulême, France
+  du: null
+  au: '1993-12-22'
+- titre: Bishop Emeritus of Angoulême, France
+  du: null
+  au: '2017-04-13'
+- titre: évêque titulaire
+  du: '1973-02-27'
+  au: null
+- titre: évêque d'Angoulême
+  du: '1975-07-01'
+  au: '1993-12-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1509064
+  catholic_hierarchy: brol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:24:12+00:00'
+  completeness: 1.0

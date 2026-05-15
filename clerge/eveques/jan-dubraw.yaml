@@ -1,0 +1,45 @@
+slug: jan-dubraw
+nom: Jan Dubraw
+nom_complet: Jan Dubravius (Skála z Doubravky a Hradi&#353;t&#283;)
+naissance: '1486'
+deces: '1553-09-06'
+naissance_lieu: Plze&#328;
+deces_lieu: Krom&#277;&#345;í&#382;
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1542-01-02'
+  consecrateur_principal: dominik-malachowski-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bskala.html
+  - https://fr.wikipedia.org/wiki/Jan_Dubraw
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Olomouc (Olmütz), Czechia
+  du: '1541-06-27'
+  au: '1553-09-06'
+- titre: évêque d'Olmütz
+  du: '1541-07-07'
+  au: '1553-09-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Sk%C3%A1la%20z%20Doubravky.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q722649
+  catholic_hierarchy: bskala
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:22:05+00:00'
+  completeness: 0.75

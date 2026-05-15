@@ -1,0 +1,41 @@
+slug: arnold-von-berg
+nom: Arnold von Berg
+nom_complet: Arnold von Altena
+naissance: '1200'
+deces: '1191'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baltena.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osnabrück, Germany
+  du: 1173&sup1;
+  au: '1191-12-15'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque d'Osnabrück
+  du: '1173-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q696687
+  catholic_hierarchy: baltena
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:32:43+00:00'
+  completeness: 0.38

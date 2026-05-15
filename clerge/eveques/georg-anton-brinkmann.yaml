@@ -1,0 +1,50 @@
+slug: georg-anton-brinkmann
+nom: Georg Anton Brinkmann
+nom_complet: null
+naissance: '1796-10-15'
+deces: '1856-05-07'
+naissance_lieu: Billerbeck
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1852-05-16'
+  lieu: Cathedral, Münster, Diocese of Münster
+  consecrateur_principal: johann-georg-mueller
+  co_consecrateurs:
+  - franz-drepper
+  - anton-lupke
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrink.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Münster, Germany
+  du: '1852-03-15'
+  au: '1856-05-07'
+- titre: Titular Bishop of Oropus
+  du: '1852-03-15'
+  au: null
+- titre: évêque titulaire
+  du: '1852-03-15'
+  au: null
+- titre: évêque auxiliaire
+  du: '1852-03-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1288978
+  catholic_hierarchy: bbrink
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:52:31+00:00'
+  completeness: 1.0

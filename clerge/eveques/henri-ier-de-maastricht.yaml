@@ -1,0 +1,41 @@
+slug: henri-ier-de-maastricht
+nom: Henri Ier de Maastricht
+nom_complet: Heinrich von Maastricht
+naissance: '1200'
+deces: '1195'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaast.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: 4 Nov 1192&#8310;
+  au: '1195-12-23'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1192-11-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q100588
+  catholic_hierarchy: bmaast
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:07:39+00:00'
+  completeness: 0.38

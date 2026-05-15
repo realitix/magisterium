@@ -1,0 +1,57 @@
+slug: lucien-lacroix
+nom: Lucien Lacroix
+nom_complet: Guillaume-Lucien-Léon Lacroix
+naissance: '1855-01-08'
+deces: '1922-01-27'
+naissance_lieu: Reilhaguet
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1901-06-24'
+  consecrateur_principal: pierre-paul-servonnet
+  co_consecrateurs:
+  - charles-bonaventure-francois-theuret
+  - louis-eugene-francqueville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blacrg.html
+  - https://fr.wikipedia.org/wiki/Lucien_Lacroix
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarentaise, France
+  du: null
+  au: '1907-10-17'
+- titre: Titular Bishop of Vallis
+  du: '1921-12-09'
+  au: null
+- titre: Bishop Emeritus of Tarentaise, France
+  du: null
+  au: '1922-01-27'
+- titre: évêque de Tarentaise
+  du: '1901-04-05'
+  au: '1907-10-17'
+- titre: évêque titulaire
+  du: '1921-12-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lucien%20Lacroix.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3265576
+  catholic_hierarchy: blacrg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:26:44+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: lorenzo-cibo-cybo
+nom: Lorenzo Cibo (Cybo)
+nom_complet: Lorenzo Cibo
+naissance: '1618-04-23'
+deces: '1680-08-18'
+naissance_lieu: Genoa, Archdiocese of Genova
+deces_lieu: Jesi, Diocese of Jesi
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1672-01-03'
+  lieu: Santa Maria in Vallicella, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: alderano-cibo
+  co_consecrateurs:
+  - giacomo-altoviti
+  - carlo-de-rsquo-vecchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcibol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jesi, Italy
+  du: '1671-12-14'
+  au: '1680-08-18'
+- titre: évêque de Jesi
+  du: '1671-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777360
+  catholic_hierarchy: bcibol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:49:36+00:00'
+  completeness: 1.0

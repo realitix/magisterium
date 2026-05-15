@@ -1,0 +1,47 @@
+slug: giovanni-monetti
+nom: Giovanni Monetti
+nom_complet: null
+naissance: '1817-12-27'
+deces: '1877-02-15'
+naissance_lieu: Ponzano, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1860-04-15'
+  lieu: Sant&rsquo;Apollinare, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - antonio-ligi-bussi
+  - alessandro-franchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonetti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cervia, Italy
+  du: '1860-03-23'
+  au: '1877-02-15'
+- titre: Apostolic Delegate to Haiti
+  du: '1860-10-30'
+  au: 1861&sup1;
+- titre: évêque de Cervia
+  du: '1860-03-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735138
+  catholic_hierarchy: bmonetti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:05:26+00:00'
+  completeness: 1.0

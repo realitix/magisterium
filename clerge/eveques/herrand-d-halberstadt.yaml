@@ -1,0 +1,42 @@
+slug: herrand-d-halberstadt
+nom: Herrand d'Halberstadt
+nom_complet: Herrand von Halberstadt
+naissance: '1040'
+deces: '1102-10-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1094'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhalbeh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Halberstadt, Germany
+  du: 1089&sup2;
+  au: '1102-10-23'
+- titre: évêque d'Halberstadt
+  du: '1089-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18625602
+  catholic_hierarchy: bhalbeh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:10+00:00'
+  completeness: 0.5

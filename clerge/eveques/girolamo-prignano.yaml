@@ -1,0 +1,43 @@
+slug: girolamo-prignano
+nom: Girolamo Prignano
+nom_complet: null
+naissance: '1621-05-02'
+deces: '1697-08-02'
+naissance_lieu: Novi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1680-03-17'
+  consecrateur_principal: francesco-nerli-1636
+  co_consecrateurs:
+  - stefano-brancaccio
+  - lorenzo-trotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprign.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satriano e Campagna, Italy
+  du: '1680-03-11'
+  au: '1697-08-02'
+- titre: évêque diocésain
+  du: '1680-03-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734643
+  catholic_hierarchy: bprign
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:49:29+00:00'
+  completeness: 1.0

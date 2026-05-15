@@ -1,0 +1,57 @@
+slug: bertrand-de-maumont
+nom: Bertrand de Maumont
+nom_complet: null
+naissance: null
+deces: '1425-08-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaumont.html
+  - https://fr.wikipedia.org/wiki/Bertrand_de_Maumont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mirepoix, France
+  du: '1394-11-04'
+  au: null
+- titre: Bishop of Lavaur, France
+  du: '1405-02-09'
+  au: null
+- titre: Bishop of Béziers, France
+  du: '1408-03-10'
+  au: null
+- titre: Bishop of Tulle, France
+  du: '1422-01-12'
+  au: 1425&sup1;
+- titre: évêque de Mirepoix
+  du: '1394-11-12'
+  au: '1405-02-18'
+- titre: évêque de Lavaur
+  du: '1405-02-18'
+  au: '1408-03-19'
+- titre: évêque de Tulle
+  du: '1422-01-21'
+  au: '1425-08-03'
+- titre: évêque de Béziers
+  du: '1408-03-19'
+  au: '1422-01-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96587582
+  catholic_hierarchy: bmaumont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:16+00:00'
+  completeness: 0.25

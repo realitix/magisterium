@@ -1,0 +1,40 @@
+slug: john-of-oxford
+nom: John of Oxford
+nom_complet: null
+naissance: '1150'
+deces: '1200-06-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1175-12-14'
+  consecrateur_principal: richard-of-dover
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boxford.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1175-11-26'
+  au: '1200-06-02'
+- titre: évêque de Norwich
+  du: '1175-12-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16200057
+  catholic_hierarchy: boxford
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:00:35+00:00'
+  completeness: 0.75

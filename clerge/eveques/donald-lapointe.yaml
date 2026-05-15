@@ -1,0 +1,49 @@
+slug: donald-lapointe
+nom: Donald Lapointe
+nom_complet: null
+naissance: '1936-09-25'
+deces: null
+naissance_lieu: Disraéli
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2002-12-13'
+  consecrateur_principal: gilles-cazabon
+  co_consecrateurs:
+  - andre-gaumond
+  - vital-masse
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blapointe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Saint-Jérôme, Québec, Canada
+  du: '2002-10-26'
+  au: null
+- titre: Titular Bishop of Octabia
+  du: '2002-10-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '2002-10-26'
+  au: '2011-07-30'
+- titre: évêque titulaire
+  du: '2002-10-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1240050
+  catholic_hierarchy: blapointe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:33:26+00:00'
+  completeness: 0.88

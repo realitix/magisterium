@@ -1,0 +1,47 @@
+slug: silvio-padoin
+nom: Silvio Padoin
+nom_complet: null
+naissance: '1930-04-11'
+deces: '2019-10-31'
+naissance_lieu: Pieve di Soligo, Diocese of Ceneda
+deces_lieu: Ospedale Civile, Conegliano, Diocese of Vittorio Veneto
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '1993-06-26'
+  lieu: Monterusciello, Diocese of Pozzuoli
+  consecrateur_principal: bernardin-gantin
+  co_consecrateurs:
+  - salvatore-sorrentino
+  - eugenio-ravignani
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpadoin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pozzuoli, Italy
+  du: '1993-05-08'
+  au: null
+- titre: Bishop Emeritus of Pozzuoli, Italy
+  du: null
+  au: '2019-10-31'
+- titre: évêque de Pouzzoles
+  du: '1993-05-08'
+  au: '2005-09-02'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2547404
+  catholic_hierarchy: bpadoin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:02:05+00:00'
+  completeness: 1.0

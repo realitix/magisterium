@@ -1,0 +1,39 @@
+slug: robert-de-roye
+nom: Robert de Roye
+nom_complet: null
+naissance: null
+deces: '1203'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdroyer.html
+  - https://fr.wikipedia.org/wiki/Robert_de_Roye
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: 1201&sup1;
+  au: 1203&sup2;
+- titre: évêque diocésain
+  du: '1201-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3436714
+  catholic_hierarchy: bdroyer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:07:31+00:00'
+  completeness: 0.25

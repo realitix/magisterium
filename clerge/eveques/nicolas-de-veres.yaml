@@ -1,0 +1,39 @@
+slug: nicolas-de-veres
+nom: Nicolas de Veres
+nom_complet: Nicolas de Vères
+naissance: null
+deces: '1386-11-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdveres.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Veres
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1374-05-12'
+  au: '1386-11-08'
+- titre: évêque de Chalon-sur-Saône
+  du: '1374-05-20'
+  au: '1386-11-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108480262
+  catholic_hierarchy: bdveres
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:59+00:00'
+  completeness: 0.38

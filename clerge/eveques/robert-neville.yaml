@@ -1,0 +1,47 @@
+slug: robert-neville
+nom: Robert Neville
+nom_complet: Robert Nevill
+naissance: '1404'
+deces: '1457-07-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1427-10-26'
+  consecrateur_principal: henry-chicheley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnevilr.html
+  - https://fr.wikipedia.org/wiki/Robert_Neville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1427-07-09'
+  au: null
+- titre: Bishop of Durham, England, Great Britain
+  du: '1438-02-12'
+  au: '1457-07-08'
+- titre: évêque catholique de Durham
+  du: '1438-02-21'
+  au: null
+- titre: évêque diocésain
+  du: '1427-07-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6013428
+  catholic_hierarchy: bnevilr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:49+00:00'
+  completeness: 0.75

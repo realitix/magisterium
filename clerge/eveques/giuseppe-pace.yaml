@@ -1,0 +1,47 @@
+slug: giuseppe-pace
+nom: Giuseppe Pace
+nom_complet: Joseph Pace
+naissance: '1890-05-30'
+deces: '1972-03-31'
+naissance_lieu: Victoria
+deces_lieu: null
+rang: eveque
+nationalite: Q233
+tampon: ordo_validus
+sacre:
+  date: '1944-12-17'
+  consecrateur_principal: mikiel-gonzi
+  co_consecrateurs:
+  - emanuel-galea
+  - richard-joseph-fitzgerald
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpace.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gozo, Malta
+  du: '1944-11-01'
+  au: '1972-03-31'
+- titre: évêque de Gozo
+  du: '1944-11-01'
+  au: '1972-03-31'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Pace%20tomb%20Gozo%20Cathedral.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16067466
+  catholic_hierarchy: bpace
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:01:03+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: benedict-dotu-sekey
+nom: Benedict Dotu Sekey
+nom_complet: null
+naissance: '1940-08-10'
+deces: '2000-12-13'
+naissance_lieu: Accra, Ghana
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1987-01-06'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - eduardo-martinez-somalo
+  - jose-tomas-sanchez
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsekey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gbarnga, Liberia
+  du: '1986-11-17'
+  au: '2000-12-13'
+- titre: évêque diocésain
+  du: '1986-11-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11854056
+  catholic_hierarchy: bsekey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:49+00:00'
+  completeness: 0.88

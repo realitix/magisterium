@@ -1,0 +1,64 @@
+slug: john-cameron-1827
+nom: John Cameron
+nom_complet: null
+naissance: '1827-02-16'
+deces: '1910-04-06'
+naissance_lieu: St. Andrews, Middle South River, Vicariate Apostolic of Nova Scotia
+deces_lieu: Antigonish, Diocese of Antigonish, Nova Scotia
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1870-05-22'
+  lieu: College de la Propaganda, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: paul-cullen
+  co_consecrateurs:
+  - john-sweeny
+  - bernardino-trionfetti-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcameron.html
+  - https://fr.wikipedia.org/wiki/John_Cameron_(%C3%A9v%C3%AAque_canadien)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Arichat, Nova Scotia, Canada
+  du: '1870-03-11'
+  au: null
+- titre: Titular Bishop of Titiopolis
+  du: '1870-03-11'
+  au: null
+- titre: Bishop of Arichat, Nova Scotia, Canada
+  du: null
+  au: '1877-07-17'
+- titre: Bishop of Antigonish, Nova Scotia, Canada
+  du: '1886-08-23'
+  au: '1910-04-06'
+- titre: évêque titulaire
+  du: '1870-03-11'
+  au: null
+- titre: évêque d'Antigonish
+  du: '1877-07-17'
+  au: '1910-04-06'
+- titre: évêque diocésain
+  du: '1886-08-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Cameron.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6224910
+  catholic_hierarchy: bcameron
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:10:20+00:00'
+  completeness: 1.0

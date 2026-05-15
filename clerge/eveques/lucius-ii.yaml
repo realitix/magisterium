@@ -1,0 +1,52 @@
+slug: lucius-ii
+nom: Lucius II
+nom_complet: null
+naissance: '1050'
+deces: '1145-02-15'
+naissance_lieu: Bologna, Diocese of Bologna
+deces_lieu: null
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1144-03-12'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: non-indexe-c281ceb5
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaccian.html
+  - https://fr.wikipedia.org/wiki/Lucius_II
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Priest of Santa Croce in Gerusalemme
+  du: Dec 1122&sup3;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1145-02-15'
+- titre: pape
+  du: '1144-03-23'
+  au: '1145-02-22'
+- titre: cardinal
+  du: '1122-12-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/B%20Lucius%20II.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q170385
+  catholic_hierarchy: bcaccian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:04:47+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: giorgio-cattaneo
+nom: Giorgio Cattaneo
+nom_complet: null
+naissance: '1663-03-24'
+deces: '1730-11-07'
+naissance_lieu: Cavalesino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1712-04-03'
+  lieu: S. Maria in Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  co_consecrateurs:
+  - pier-marcellino-corradini
+  - domenico-de-zaoli-zaulis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcattgi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vigevano, Italy
+  du: '1712-03-02'
+  au: '1730-11-07'
+- titre: évêque diocésain
+  du: '1712-03-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3765349
+  catholic_hierarchy: bcattgi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:33:18+00:00'
+  completeness: 1.0

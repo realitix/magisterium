@@ -1,0 +1,44 @@
+slug: claude-d-aussonville
+nom: Claude d'Aussonville
+nom_complet: Claude d&rsquo;Aussonville, O.S.B.
+naissance: null
+deces: '1531-08-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1523-05-03'
+  consecrateur_principal: jean-ferrer
+  co_consecrateurs:
+  - francois-de-guiramand
+  - thomas-lascaris-de-tende
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bausson.html
+  - https://fr.wikipedia.org/wiki/Claude_d%27Aussonville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sisteron, France
+  du: '1523-03-11'
+  au: '1531-08-31'
+- titre: évêque de Sisteron
+  du: '1523-03-21'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q2978297
+  catholic_hierarchy: bausson
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:50:06+00:00'
+  completeness: 0.88

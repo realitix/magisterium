@@ -1,0 +1,47 @@
+slug: burchard-von-oberg
+nom: Burchard von Oberg
+nom_complet: Burchard Oberg
+naissance: '1500'
+deces: '1573-02-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1567'
+  consecrateur_principal: leonhard-de-sittard-zittardus-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boberg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: null
+  au: '1573-02-23'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1567-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Burchhard%20von%20Oberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1010356
+  catholic_hierarchy: boberg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:41:29+00:00'
+  completeness: 0.75

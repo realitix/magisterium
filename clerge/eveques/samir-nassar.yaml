@@ -1,0 +1,41 @@
+slug: samir-nassar
+nom: Samir Nassar
+nom_complet: null
+naissance: '1950-07-05'
+deces: null
+naissance_lieu: Nebay
+deces_lieu: null
+rang: archeveque
+nationalite: Q822
+tampon: ordo_dubius
+sacre:
+  date: '2006-11-26'
+  consecrateur_principal: nasrallah-boutros-sfeir
+  co_consecrateurs:
+  - paul-youssef-matar
+  - joseph-mahfouz
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnassa.html
+  - https://fr.wikipedia.org/wiki/Samir_Nassar
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: archevêque catholique
+  du: '2006-11-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1692592
+  catholic_hierarchy: bnassa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:26:12+00:00'
+  completeness: 0.75

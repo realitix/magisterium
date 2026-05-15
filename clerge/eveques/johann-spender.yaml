@@ -1,0 +1,49 @@
+slug: johann-spender
+nom: Johann Spender
+nom_complet: Johann Spenner (Spender), O.F.M.
+naissance: '1500'
+deces: '1503-12-05'
+naissance_lieu: Marburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '1482-11-18'
+  lieu: Santa Maria del Anima, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: stefan-teglatije-de-taleazis
+  co_consecrateurs:
+  - giuliano-maffei-matteis-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspend.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Köln {Cologne}, Germany
+  du: '1482-11-04'
+  au: '1503-12-05'
+- titre: Titular Bishop of Cyrene
+  du: '1482-11-04'
+  au: null
+- titre: évêque titulaire
+  du: '1482-11-13'
+  au: null
+- titre: évêque auxiliaire
+  du: '1482-11-13'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q1696267
+  catholic_hierarchy: bspend
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:32:02+00:00'
+  completeness: 0.88

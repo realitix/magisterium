@@ -1,0 +1,44 @@
+slug: jean-francois-marie-cart
+nom: Jean-François Marie Cart
+nom_complet: Jean-François-Marie Cart
+naissance: '1799-08-31'
+deces: '1855-08-13'
+naissance_lieu: Mouthe
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1838-04-22'
+  consecrateur_principal: cesaire-mathieu
+  co_consecrateurs:
+  - antoine-jacques-de-chamon
+  - benigne-urbain-jean-marie-du-trousset-d-hericourt
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcartjf.html
+  - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Marie_Cart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes, France
+  du: null
+  au: '1855-08-13'
+- titre: évêque de Nîmes
+  du: '1837-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3165402
+  catholic_hierarchy: bcartjf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:25:19+00:00'
+  completeness: 1.0

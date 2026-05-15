@@ -1,0 +1,52 @@
+slug: victor-ii
+nom: Victor II
+nom_complet: null
+naissance: http://www.wikidata.org/.well-known/genid/fdc3485644ef2bedfd843307a946b19f
+deces: '1057-07-28'
+naissance_lieu: null
+deces_lieu: null
+rang: pape
+nationalite: Q12548
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcalwg.html
+  - https://fr.wikipedia.org/wiki/Victor_II
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: Nov 1042&sup2;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1057-07-28'
+- titre: évêque diocésain
+  du: '1042-01-01'
+  au: null
+- titre: pape
+  du: '1055-04-25'
+  au: '1057-07-28'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gebhard%20I%20Bischof%20von%20Eichst%C3%A4tt%2C%20als%20Victor%20II%20Papst.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q58563
+  catholic_hierarchy: bcalwg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:09:17+00:00'
+  completeness: 0.38

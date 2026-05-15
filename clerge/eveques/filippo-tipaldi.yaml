@@ -1,0 +1,42 @@
+slug: filippo-tipaldi
+nom: Filippo Tipaldi
+nom_complet: null
+naissance: '1669-03-23'
+deces: '1748-02-20'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1717-06-20'
+  consecrateur_principal: le-pape-clement-xii-laurent-corsini
+  co_consecrateurs:
+  - simone-gritti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btipaldi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ariano, Italy
+  du: '1717-06-14'
+  au: '1748-02-20'
+- titre: Roman Catholic Bishop of Ariano
+  du: '1717-06-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761966
+  catholic_hierarchy: btipaldi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:00:44+00:00'
+  completeness: 1.0

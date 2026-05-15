@@ -1,0 +1,48 @@
+slug: sandor-bonnaz
+nom: Sándor Bonnaz
+nom_complet: null
+naissance: '1812-08-11'
+deces: '1889-08-09'
+naissance_lieu: Challex, France
+deces_lieu: null
+rang: eveque
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1860-11-04'
+  lieu: Kalocsa, Archdiocese of Kalocsa
+  consecrateur_principal: jozef-kunszt
+  co_consecrateurs:
+  - antal-jozsef-peitler
+  - janos-nehiba
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonnaz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: null
+  au: '1889-08-09'
+- titre: évêque de Csanád
+  du: '1860-06-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1889-33%20Bonnaz%20S%C3%A1ndor.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1523752
+  catholic_hierarchy: bbonnaz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:38:29+00:00'
+  completeness: 1.0

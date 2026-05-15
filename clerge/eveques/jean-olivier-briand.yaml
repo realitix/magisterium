@@ -1,0 +1,52 @@
+slug: jean-olivier-briand
+nom: Jean-Olivier Briand
+nom_complet: null
+naissance: '1715-01-23'
+deces: '1794-06-25'
+naissance_lieu: Saint-Éloi, Plérin, Diocese of Saint-Brieuc, France
+deces_lieu: Québec, Diocese of Québec
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1766-03-16'
+  lieu: Madame Mesny, Château, Suresnes, Archdiocese of Paris, France
+  consecrateur_principal: charles-gilbert-de-may-de-termont
+  co_consecrateurs:
+  - charles-de-grimaldi-d-antibes
+  - germain-chasteigner-de-la-chasteigneraye
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbriand.html
+  - https://fr.wikipedia.org/wiki/Jean-Olivier_Briand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Québec, Canada
+  du: '1766-01-21'
+  au: '1784-11-29'
+- titre: Bishop Emeritus of Québec, Canada
+  du: null
+  au: '1794-06-25'
+- titre: évêque de Québec
+  du: '1766-01-21'
+  au: '1784-11-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Olivier%20Briand.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3168278
+  catholic_hierarchy: bbriand
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:51:43+00:00'
+  completeness: 1.0

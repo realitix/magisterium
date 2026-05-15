@@ -1,0 +1,43 @@
+slug: odon-de-sully
+nom: Odon de Sully
+nom_complet: Odo de Sully
+naissance: '1166'
+deces: '1208-07-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsullyo.html
+  - https://fr.wikipedia.org/wiki/Odon_de_Sully
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: 1197&sup2;
+  au: '1208-07-13'
+- titre: évêque de Paris
+  du: '1197-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Odo.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1217684
+  catholic_hierarchy: bsullyo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:43:36+00:00'
+  completeness: 0.38

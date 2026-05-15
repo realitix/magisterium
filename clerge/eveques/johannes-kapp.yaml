@@ -1,0 +1,53 @@
+slug: johannes-kapp
+nom: Johannes Kapp
+nom_complet: null
+naissance: '1929-05-14'
+deces: '2018-09-22'
+naissance_lieu: Burguffeln
+deces_lieu: Kassel
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1976-09-12'
+  lieu: Cathedral, Fulda, Diocese of Fulda
+  consecrateur_principal: eduard-schick
+  co_consecrateurs:
+  - paul-josef-cordes
+  - heinrich-machens
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkapp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Fulda, Germany
+  du: '1976-07-08'
+  au: null
+- titre: Titular Bishop of Melzi
+  du: '1976-07-08'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Fulda, Germany
+  du: null
+  au: '2018-09-22'
+- titre: évêque titulaire
+  du: '1976-07-08'
+  au: '2004-07-13'
+- titre: évêque auxiliaire
+  du: '1976-07-08'
+  au: '2004-07-13'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q97492
+  catholic_hierarchy: bkapp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:07:54+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: basilio-gil-y-bueno
+nom: Basilio Gil y Bueno
+nom_complet: null
+naissance: '1811-06-14'
+deces: '1870-02-12'
+naissance_lieu: Palazuelos, Diocese of Sigüenza
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1862-04-27'
+  consecrateur_principal: manuel-garcia-gil
+  co_consecrateurs:
+  - pedro-cirilo-uriz
+  - cosme-marrodan-y-rubio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgilb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Huesca, Spain
+  du: null
+  au: '1870-02-12'
+- titre: évêque de Huesca
+  du: '1861-10-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64748018
+  catholic_hierarchy: bgilb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:22:46+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: ambrogio-salvio-o-p
+nom: Ambrogio Salvio, O.P.
+nom_complet: Ambrogio Salvio
+naissance: '1491'
+deces: '1577-02-09'
+naissance_lieu: Bagnoli Irpino
+deces_lieu: S. Tommaso d&rsquo;Aquino, Monastery, Napoli, Archdiocese of Napoli {Naples}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1569-10-04'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: otto-truchsess-von-waldburg
+  co_consecrateurs:
+  - pietro-antonio-di-capua
+  - umberto-locati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalvio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nardò, Italy
+  du: '1569-08-26'
+  au: '1577-02-09'
+- titre: évêque diocésain
+  du: '1569-09-05'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64746401
+  catholic_hierarchy: bsalvio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:46:06+00:00'
+  completeness: 0.88

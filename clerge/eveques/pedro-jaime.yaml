@@ -1,0 +1,50 @@
+slug: pedro-jaime
+nom: Pedro Jaime
+nom_complet: null
+naissance: null
+deces: '1601-01-29'
+naissance_lieu: Paracuellos de Jiloca, Archdiocese of Zaragoza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1587-11-08'
+  lieu: La Seo, Cathedral, Zaragoza, Archdiocese of Zaragoza
+  consecrateur_principal: andres-cabrera-bobadilla
+  co_consecrateurs:
+  - jaime-jimeno-de-lobera
+  - antonio-garcia-de-valtorres-o-cist
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjaime.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vic, Spain
+  du: '1587-08-07'
+  au: null
+- titre: Bishop of Albarracin, Spain
+  du: '1596-12-09'
+  au: '1601-01-29'
+- titre: évêque d'Albarracín
+  du: '1596-12-09'
+  au: null
+- titre: évêque de Vic
+  du: '1587-08-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763905
+  catholic_hierarchy: bjaime
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:45+00:00'
+  completeness: 0.88

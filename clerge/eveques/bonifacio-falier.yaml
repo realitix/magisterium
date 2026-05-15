@@ -1,0 +1,38 @@
+slug: bonifacio-falier
+nom: Bonifacio Falier
+nom_complet: null
+naissance: null
+deces: '1133'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfalierb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castello, Italy
+  du: '1120-12-18'
+  au: '1131'
+- titre: Roman Catholic Bishop of Castello
+  du: '1120-12-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3642129
+  catholic_hierarchy: bfalierb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:30:28+00:00'
+  completeness: 0.25

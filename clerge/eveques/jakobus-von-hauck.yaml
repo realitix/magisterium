@@ -1,0 +1,54 @@
+slug: jakobus-von-hauck
+nom: Jakobus von Hauck
+nom_complet: Johann Jakob von Hauck
+naissance: '1861-12-22'
+deces: '1943-01-20'
+naissance_lieu: Miltenberg
+deces_lieu: null
+rang: archeveque
+nationalite: Q1206012
+tampon: ordo_validus
+sacre:
+  date: '1912-07-25'
+  consecrateur_principal: ferdinand-von-schlor
+  co_consecrateurs:
+  - leo-von-mergel
+  - michael-von-faulhaber
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhauck.html
+  - https://fr.wikipedia.org/wiki/Johann_Jakob_von_Hauck
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Würzburg, Germany
+  du: '1920-06-07'
+  au: '1924-12-01'
+- titre: Archbishop of Bamberg, Germany
+  du: null
+  au: '1943-01-20'
+- titre: administrateur apostolique
+  du: '1920-06-07'
+  au: '1924-12-01'
+- titre: archevêque de Bamberg
+  du: '1912-07-25'
+  au: '1943-01-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/AdministratorJakobus%20von%20Hauck.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q98618
+  catholic_hierarchy: bhauck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:35:58+00:00'
+  completeness: 1.0

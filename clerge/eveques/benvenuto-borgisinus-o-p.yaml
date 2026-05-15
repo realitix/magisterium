@@ -1,0 +1,38 @@
+slug: benvenuto-borgisinus-o-p
+nom: Benvenuto Borgisinus, O.P.
+nom_complet: Benvenuto Borgisinus
+naissance: null
+deces: '1348'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborgisin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Adria, Italy
+  du: '1329-10-20'
+  au: 1348&sup1;
+- titre: évêque diocésain
+  du: '1329-10-28'
+  au: null
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q108436087
+  catholic_hierarchy: bborgisin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:40:33+00:00'
+  completeness: 0.25

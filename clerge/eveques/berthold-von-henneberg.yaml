@@ -1,0 +1,54 @@
+slug: berthold-von-henneberg
+nom: Berthold von Henneberg
+nom_complet: Berthold von Henneberg-Römhild
+naissance: '1442'
+deces: '1504-12-21'
+naissance_lieu: Hartenberg
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1485-03-13'
+  lieu: Cathedral, Mainz, Archdiocese of Mainz
+  consecrateur_principal: johann-von-dalberg
+  co_consecrateurs:
+  - ludwig-von-helmstatt
+  - berthold-von-oberg-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenro.html
+  - https://fr.wikipedia.org/wiki/Berthold_von_Henneberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Mainz, Germany
+  du: null
+  au: '1504-12-21'
+- titre: prince-électeur
+  du: '1484-01-01'
+  au: null
+- titre: archevêque catholique
+  du: '1485-03-22'
+  au: null
+- titre: archevêque de Mayence
+  du: '1484-01-01'
+  au: '1504-01-01'
+- titre: archichancelier
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q85348
+  catholic_hierarchy: bhenro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:30+00:00'
+  completeness: 0.88

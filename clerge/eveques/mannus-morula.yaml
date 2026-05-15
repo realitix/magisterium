@@ -1,0 +1,44 @@
+slug: mannus-morula
+nom: Mannus Morula
+nom_complet: null
+naissance: null
+deces: '1487-02-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorula.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Giovinazzo, Italy
+  du: '1462-10-01'
+  au: null
+- titre: Bishop of Sant&rsquo;Agata de&rsquo; Goti, Italy
+  du: '1472-06-05'
+  au: '1487-02-02'
+- titre: évêque de Sant'Agata de' Goti
+  du: '1472-06-14'
+  au: null
+- titre: Roman Catholic Bishop of Giovinazzo
+  du: '1462-10-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68908701
+  catholic_hierarchy: bmorula
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:27+00:00'
+  completeness: 0.38

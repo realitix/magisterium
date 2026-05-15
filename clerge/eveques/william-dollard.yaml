@@ -1,0 +1,52 @@
+slug: william-dollard
+nom: William Dollard
+nom_complet: William Dollard (Dullard)
+naissance: '1789-11-29'
+deces: '1851-08-29'
+naissance_lieu: Bathkyram (Ballytarina), Ireland
+deces_lieu: Fredericton, Diocese of Fredericton, New Brunswick
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1843-06-11'
+  lieu: Cathedral, Québec, Diocese of Québec
+  consecrateur_principal: pierre-flavien-turgeon
+  co_consecrateurs:
+  - joseph-signay
+  - ignace-bourget
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdollard.html
+  - https://fr.wikipedia.org/wiki/William_Dollard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of New Brunswick, Canada
+  du: '1842-09-30'
+  au: null
+- titre: Bishop of Fredericton, New Brunswick, Canada
+  du: null
+  au: '1851-08-29'
+- titre: évêque diocésain
+  du: '1842-09-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Dollard.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3568556
+  catholic_hierarchy: bdollard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:59:12+00:00'
+  completeness: 1.0

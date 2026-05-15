@@ -1,0 +1,46 @@
+slug: adam-de-heurtelou
+nom: Adam de Heurtelou
+nom_complet: null
+naissance: '1536'
+deces: '1609-06-26'
+naissance_lieu: Le Mans, Diocese of Le Mans
+deces_lieu: Mende, Diocese of Mende
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1586-06-11'
+  lieu: S. Victor, Abbey, Paris, Diocese of Paris
+  consecrateur_principal: pierre-de-gondi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bheurte.html
+  - https://fr.wikipedia.org/wiki/Adam_de_Heurtelou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: '1586-03-05'
+  au: '1609-06-26'
+- titre: évêque diocésain
+  du: '1586-03-05'
+  au: '1608-06-26'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20de%20heurteloup.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2824029
+  catholic_hierarchy: bheurte
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:16+00:00'
+  completeness: 0.75

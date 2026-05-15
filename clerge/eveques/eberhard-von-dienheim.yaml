@@ -1,0 +1,50 @@
+slug: eberhard-von-dienheim
+nom: Eberhard von Dienheim
+nom_complet: null
+naissance: '1540'
+deces: '1610-10-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1584'
+  consecrateur_principal: stephan-weber
+  co_consecrateurs:
+  - peter-binsfeld
+  - heinrich-fabricius
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdienh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: null
+  au: '1610-10-10'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Spire
+  du: '1581-12-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Eberhard%20von%20DienheimJS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1279567
+  catholic_hierarchy: bdienh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:24+00:00'
+  completeness: 0.88

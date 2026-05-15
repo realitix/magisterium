@@ -1,0 +1,44 @@
+slug: alexandre-de-bardis
+nom: Alexandre de Bardis
+nom_complet: Alexandre de Bardi
+naissance: null
+deces: '1591-09-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1567-09-28'
+  consecrateur_principal: benedetto-lomellini
+  co_consecrateurs:
+  - ippolito-capilupi
+  - giacomo-galletto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbardis.html
+  - https://fr.wikipedia.org/wiki/Alexandre_de_Bardis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Papoul, France
+  du: '1567-09-19'
+  au: 12 Sep 1591&sup3;
+- titre: évêque de Saint-Papoul
+  du: '1567-09-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27508184
+  catholic_hierarchy: bbardis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:02:33+00:00'
+  completeness: 0.88

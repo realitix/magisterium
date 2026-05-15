@@ -1,0 +1,47 @@
+slug: jerome-martin
+nom: Jérôme Martin
+nom_complet: Jérôme-Michel-Francis Martin, O.F.M. Cap.
+naissance: '1941-06-10'
+deces: '2009-12-04'
+naissance_lieu: La Chapelle, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1988-01-24'
+  consecrateur_principal: claude-feidt
+  co_consecrateurs:
+  - hubert-barbier
+  - edouard-mathos
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartinjm.html
+  - https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Martin_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Berbérati, Central African Republic
+  du: '1987-10-03'
+  au: '1991-06-17'
+- titre: Bishop Emeritus of Berbérati, Central African Republic
+  du: null
+  au: '2009-12-04'
+- titre: évêque diocésain
+  du: '1987-10-03'
+  au: '1991-06-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q201166
+  catholic_hierarchy: bmartinjm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:56+00:00'
+  completeness: 1.0

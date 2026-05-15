@@ -1,0 +1,44 @@
+slug: ludovico-michelio
+nom: Ludovico Michelio
+nom_complet: null
+naissance: null
+deces: '1590-04-27'
+naissance_lieu: Mantova, Diocese of Mantova
+deces_lieu: Alba, Diocese of Alba (Pompea)
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1584-06-24'
+  lieu: Duomo, Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: st-charles-cardinal-borromeo
+  co_consecrateurs:
+  - francesco-bossi-1525
+  - bernardino-bricennio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmichell.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alba (Pompea), Italy
+  du: '1583-12-19'
+  au: '1590-04-27'
+- titre: évêque d'Alba
+  du: '1583-12-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777840
+  catholic_hierarchy: bmichell
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:55:40+00:00'
+  completeness: 0.88

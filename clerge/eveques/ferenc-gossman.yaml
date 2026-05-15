@@ -1,0 +1,54 @@
+slug: ferenc-gossman
+nom: Ferenc Gossman
+nom_complet: null
+naissance: '1870'
+deces: '1931-10-11'
+naissance_lieu: Soroksar
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1913-10-05'
+  lieu: Vác, Diocese of Vác
+  consecrateur_principal: karoly-csaky
+  co_consecrateurs:
+  - lajos-balas
+  - janos-jung
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgossm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Vác, Hungary
+  du: '1913-07-01'
+  au: '1931-10-11'
+- titre: Titular Bishop of Castoria
+  du: '1913-07-01'
+  au: null
+- titre: évêque titulaire
+  du: '1913-07-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1913-07-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/VPKL%20Fototar%20VI%20Gossmann%200006.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q51101316
+  catholic_hierarchy: bgossm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:36:23+00:00'
+  completeness: 1.0

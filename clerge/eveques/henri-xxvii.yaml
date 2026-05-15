@@ -1,0 +1,48 @@
+slug: henri-xxvii
+nom: Henri XXVII
+nom_complet: Heinrich von Schwarzburg
+naissance: '1440-11-13'
+deces: '1496-12-24'
+naissance_lieu: Rudolstadt
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1463-11-29'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschwh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Bremen (and Hamburg), Germany
+  du: '1463-11-20'
+  au: null
+- titre: Bishop of Münster, Germany
+  du: null
+  au: '1496-12-24'
+- titre: administrateur diocésain
+  du: null
+  au: null
+- titre: évêque de Münster
+  du: '1466-04-10'
+  au: null
+- titre: administrateur apostolique
+  du: '1463-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1310831
+  catholic_hierarchy: bschwh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:04:52+00:00'
+  completeness: 0.5

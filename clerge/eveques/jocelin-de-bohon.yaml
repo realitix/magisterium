@@ -1,0 +1,51 @@
+slug: jocelin-de-bohon
+nom: Jocelin de Bohon
+nom_complet: Jocelin de Bohun (Bailleul)
+naissance: '1111'
+deces: '1184-11-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1141'
+  consecrateur_principal: non-indexe-05d03efe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbohun.html
+  - https://fr.wikipedia.org/wiki/Jocelin_de_Bohon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: 1141&sup1;
+  au: 1184&sup1;
+- titre: Bishop Emeritus of Salisbury, England, Great Britain
+  du: null
+  au: '1184-11-18'
+- titre: évêque de Salisbury
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1141-01-01'
+  au: '1184-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Salisburycathedraltombprobablyjocelindebohun.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4325239
+  catholic_hierarchy: bbohun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:34:15+00:00'
+  completeness: 0.75

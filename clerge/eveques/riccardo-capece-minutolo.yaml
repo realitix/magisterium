@@ -1,0 +1,43 @@
+slug: riccardo-capece-minutolo
+nom: Riccardo Capece Minutolo
+nom_complet: Riccardo Capece Minutolo, O.S.B.
+naissance: '1746-02-07'
+deces: '1801-09-03'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1797-12-21'
+  consecrateur_principal: giuseppe-maria-doria-pamphilj
+  co_consecrateurs:
+  - nicola-buschi
+  - camillo-campanelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bminu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gaeta, Italy
+  du: null
+  au: '1801-09-03'
+- titre: évêque de Gaète
+  du: '1797-10-24'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64734899
+  catholic_hierarchy: bminu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:59:11+00:00'
+  completeness: 1.0

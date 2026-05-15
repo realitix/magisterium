@@ -1,0 +1,51 @@
+slug: girolamo-diedo
+nom: Girolamo Diedo
+nom_complet: Hieronymus Diedus
+naissance: '1522'
+deces: '1585-06-10'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: Venezia, Patriarchate of Venezia {Venice}
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1581-04-09'
+  lieu: Santa Caterina, Church, Venezia, Patriarchate of Venezia {Venice}
+  consecrateur_principal: girolamo-vielmi
+  co_consecrateurs:
+  - federico-cornaro-seniore
+  - giovanni-dolfin-1529
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiedog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Crema, Italy
+  du: '1580-11-21'
+  au: '1584-05-28'
+- titre: Bishop Emeritus of Crema, Italy
+  du: null
+  au: '1585-06-10'
+- titre: évêque diocésain
+  du: '1580-12-01'
+  au: '1584-05-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Crema-vescovo-gerolamo-diedo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q68868026
+  catholic_hierarchy: bdiedog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:14+00:00'
+  completeness: 0.88

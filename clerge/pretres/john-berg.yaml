@@ -1,0 +1,29 @@
+slug: john-berg
+nom: John Berg
+naissance: '1970-02-01'
+deces: null
+tampon: ordo_dubius
+fraternite: fssp
+ordination:
+  date: null
+  rite: ancien
+  rite_source: inferred
+  ordinateur: James Timlin
+  source_urls:
+  - https://fr.wikipedia.org/wiki/John_Berg
+  ordinateur_slug: james-timlin
+qids:
+  wikidata: Q2578691
+sources:
+- source: wikipedia-fr
+  fetched_at: '2026-05-13T15:00:40+00:00'
+  url: https://fr.wikipedia.org/wiki/John_Berg
+- source: wikidata-pretres
+  fetched_at: '2026-05-13T16:15:10+00:00'
+  source_id: Q2578691
+tampon_source: ordinateur
+photo:
+  fichier: null
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Marcus%20Berg.jpg
+  licence: unknown

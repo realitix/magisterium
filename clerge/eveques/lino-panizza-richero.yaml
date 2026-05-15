@@ -1,0 +1,48 @@
+slug: lino-panizza-richero
+nom: Lino Panizza Richero
+nom_complet: Lino Panizza Richero, O.F.M. Cap.
+naissance: '1944-01-14'
+deces: null
+naissance_lieu: Balestrino, Diocese of Albenga, Italy
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '1997-02-02'
+  lieu: El Buen Pastor, Church, Sol de Oro, Los Olivos, Archdiocese of Lima
+  consecrateur_principal: augusto-vargas-alzamora
+  co_consecrateurs:
+  - fortunato-baldelli
+  - hector-miguel-cabrejos-vidarte
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpanric.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carabayllo, Peru
+  du: '1996-12-14'
+  au: null
+- titre: évêque diocésain
+  du: '1996-12-14'
+  au: '2022-04-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cono%20norte%20iglesia.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1645551
+  catholic_hierarchy: bpanric
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:07:50+00:00'
+  completeness: 0.88

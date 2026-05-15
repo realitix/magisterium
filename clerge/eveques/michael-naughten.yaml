@@ -1,0 +1,45 @@
+slug: michael-naughten
+nom: Michael Naughten
+nom_complet: null
+naissance: '1835-05-28'
+deces: '1900-07-04'
+naissance_lieu: Miden, Diocese of Meath, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1880-01-04'
+  lieu: Mullingar
+  consecrateur_principal: thomas-nulty
+  co_consecrateurs:
+  - bartholomew-woodlock
+  - bernard-o-rsquo-reilly-1824
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnaughten.html
+  - https://fr.wikipedia.org/wiki/Michael_Naughten
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roseau, Dominica, Antilles
+  du: '1879-09-02'
+  au: '1900-07-04'
+- titre: évêque diocésain
+  du: '1879-09-02'
+  au: '1900-07-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746505
+  catholic_hierarchy: bnaughten
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:26:45+00:00'
+  completeness: 1.0

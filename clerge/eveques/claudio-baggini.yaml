@@ -1,0 +1,52 @@
+slug: claudio-baggini
+nom: Claudio Baggini
+nom_complet: Claudius Baggini
+naissance: '1936-08-01'
+deces: '2015-09-25'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: Seminario Vescovile, Lodi, Diocese of Lodi
+rang: eveque
+nationalite: Q172579
+tampon: ordo_dubius
+sacre:
+  date: '2000-04-30'
+  lieu: Vergine Assunta, Cathedral Basilica, Lodi, Diocese of Lodi
+  consecrateur_principal: giacomo-capuzzi
+  co_consecrateurs:
+  - paolo-magnani
+  - giovanni-locatelli
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaggini.html
+  - https://fr.wikipedia.org/wiki/Claudio_Baggini
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vigevano, Italy
+  du: '2000-03-18'
+  au: '2011-03-12'
+- titre: Bishop Emeritus of Vigevano, Italy
+  du: null
+  au: '2015-09-25'
+- titre: évêque diocésain
+  du: '2000-03-18'
+  au: '2011-03-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BISHOP.claudio.baggini.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q739061
+  catholic_hierarchy: bbaggini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:55:26+00:00'
+  completeness: 1.0

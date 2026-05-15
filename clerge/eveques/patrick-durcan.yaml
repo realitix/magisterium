@@ -1,0 +1,43 @@
+slug: patrick-durcan
+nom: Patrick Durcan
+nom_complet: null
+naissance: '1790-02-05'
+deces: '1875-05-01'
+naissance_lieu: Kilmactigue
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1852-11-30'
+  consecrateur_principal: john-machale
+  co_consecrateurs:
+  - george-joseph-plunkett-browne
+  - tommaso-feeny
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdurcan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Achonry, Ireland
+  du: '1852-10-04'
+  au: '1875-05-01'
+- titre: évêque diocésain
+  du: '1852-10-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752331
+  catholic_hierarchy: bdurcan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:15:28+00:00'
+  completeness: 1.0

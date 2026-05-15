@@ -1,0 +1,45 @@
+slug: john-penny
+nom: John Penny
+nom_complet: John Penny, C.R.S.A.
+naissance: '1401'
+deces: '1520'
+naissance_lieu: null
+deces_lieu: Leicester, Abbey, Leicester, Diocese of Lincoln, England
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1505-08-31'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpenny.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bangor, Wales, Great Britain
+  du: '1505-08-30'
+  au: null
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1508-09-22'
+  au: 1521&sup1;
+- titre: Roman Catholic Bishop of Bangor
+  du: '1505-09-09'
+  au: '1508-01-01'
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1508-10-02'
+  au: '1520-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6252513
+  catholic_hierarchy: bpenny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:19:12+00:00'
+  completeness: 0.38

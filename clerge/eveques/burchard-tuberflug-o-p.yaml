@@ -1,0 +1,49 @@
+slug: burchard-tuberflug-o-p
+nom: Burchard Tuberflug, O.P.
+nom_complet: Burchard Tuberflug
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1471-09-22'
+  consecrateur_principal: 352-imun-vosi-263-vossich
+  co_consecrateurs:
+  - non-indexe-7f72869d
+  - non-indexe-6d844f5c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btuber.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Konstanz {Constance}, Germany
+  du: '1471-09-18'
+  au: null
+- titre: Titular Bishop of Sebaste in Palaestina
+  du: '1471-09-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1471-09-27'
+  au: null
+- titre: évêque titulaire
+  du: '1471-09-18'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q27656041
+  catholic_hierarchy: btuber
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:13:17+00:00'
+  completeness: 0.75

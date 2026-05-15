@@ -1,0 +1,51 @@
+slug: wolfgang-hausen
+nom: Wolfgang Hausen
+nom_complet: Wolfgang von Hausen
+naissance: '1553'
+deces: '1613-09-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1602-04-21'
+  consecrateur_principal: johann-baptist-pichlmair
+  co_consecrateurs:
+  - andreas-hofmann
+  - bartholomaus-scholl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaus.html
+  - https://fr.wikipedia.org/wiki/Wolfgang_von_Hausen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: null
+  au: '1613-09-03'
+- titre: évêque diocésain
+  du: '1600-12-19'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/GemaeldeHausen.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1752068
+  catholic_hierarchy: bhaus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:36:09+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: camillo-ragona
+nom: Camillo Ragona
+nom_complet: null
+naissance: '1604'
+deces: '1677-08-01'
+naissance_lieu: Tricarico
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1644-10-23'
+  consecrateur_principal: francesco-maria-cardinal-brancaccio
+  co_consecrateurs:
+  - tommaso-carafa
+  - luigi-pappacoda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bragona.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerno, Italy
+  du: '1644-10-17'
+  au: null
+- titre: Bishop of Capaccio, Italy
+  du: '1665-04-13'
+  au: '1677-08-01'
+- titre: Roman Catholic Bishop of Acerno
+  du: '1644-10-17'
+  au: null
+- titre: Roman Catholic Bishop of Capaccio
+  du: '1665-04-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28531137
+  catholic_hierarchy: bragona
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:59:08+00:00'
+  completeness: 0.88

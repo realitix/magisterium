@@ -1,0 +1,48 @@
+slug: laurence-sheil
+nom: Laurence Sheil
+nom_complet: Laurence Bonaventure Sheil, O.F.M. Ref.
+naissance: '1814-12-24'
+deces: '1872-03-01'
+naissance_lieu: Wexford, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1866-08-15'
+  lieu: St. Francis, Melbourne, Diocese of Melbourne
+  consecrateur_principal: james-alipius-goold
+  co_consecrateurs:
+  - daniel-murphy
+  - louis-elloy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bshiel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Adelaide, Australia
+  du: '1865-06-23'
+  au: '1872-03-01'
+- titre: évêque diocésain
+  du: '1865-06-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20Sheil%20c1872.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3135874
+  catholic_hierarchy: bshiel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:15:19+00:00'
+  completeness: 1.0

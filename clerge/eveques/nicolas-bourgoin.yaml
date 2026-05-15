@@ -1,0 +1,44 @@
+slug: nicolas-bourgoin
+nom: Nicolas Bourgoin
+nom_complet: Nicolas Bourgoing
+naissance: '1568'
+deces: '1625-04-19'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1623-07-09'
+  consecrateur_principal: francois-de-harlay-de-champvallon
+  co_consecrateurs:
+  - claude-de-rueil
+  - henri-boivin-de-pericard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgo.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Bourgoin_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: '1623-05-10'
+  au: '1625-04-19'
+- titre: évêque diocésain
+  du: '1623-05-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22248156
+  catholic_hierarchy: bbourgo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:53+00:00'
+  completeness: 0.88

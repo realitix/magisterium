@@ -1,0 +1,45 @@
+slug: lluis-mercader
+nom: Lluís Mercader
+nom_complet: Luis Mercader Escolano, O. Cart.
+naissance: '1444'
+deces: '1516-06-09'
+naissance_lieu: Murviedro
+deces_lieu: Buñol
+rang: eveque
+nationalite: Q204920
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmere.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tortosa, Spain
+  du: '1513-05-20'
+  au: '1516-06-09'
+- titre: Inquisiteur général d'Aragon
+  du: '1513-07-25'
+  au: '1516-06-11'
+- titre: évêque de Tortosa
+  du: '1513-05-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Mercader%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6700849
+  catholic_hierarchy: bmere
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:52:32+00:00'
+  completeness: 0.38

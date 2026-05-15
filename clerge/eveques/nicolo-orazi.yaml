@@ -1,0 +1,43 @@
+slug: nicolo-orazi
+nom: Nicolò Orazi
+nom_complet: null
+naissance: '1530'
+deces: '1607-07-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1582-03-04'
+  consecrateur_principal: gabriele-paleotti
+  co_consecrateurs:
+  - ercole-sacrati
+  - ludovico-bentivoglio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borazi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Catanzaro, Italy
+  du: '1582-01-31'
+  au: '1607-07-11'
+- titre: Roman Catholic Bishop of Catanzaro
+  du: '1582-02-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763634
+  catholic_hierarchy: borazi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:53:29+00:00'
+  completeness: 0.88

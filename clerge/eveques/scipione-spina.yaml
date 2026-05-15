@@ -1,0 +1,43 @@
+slug: scipione-spina
+nom: Scipione Spina
+nom_complet: null
+naissance: null
+deces: '1639-03-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1591-06-03'
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - flaminio-filonardi
+  - leonardo-abela
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspinas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lecce, Italy
+  du: '1591-05-10'
+  au: '1639-03-06'
+- titre: évêque de Lecce
+  du: '1591-05-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23770502
+  catholic_hierarchy: bspinas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:32:48+00:00'
+  completeness: 0.88

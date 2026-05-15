@@ -1,0 +1,41 @@
+slug: henry-sinclair
+nom: Henry Sinclair
+nom_complet: null
+naissance: '1508'
+deces: '1565-01-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsinclair.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ross (Rosemarkie, Fortrose), Scotland, Great Britain
+  du: '1561-06-02'
+  au: '1565-01-02'
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Ross
+  du: '1561-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5728359
+  catholic_hierarchy: bsinclair
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:20:14+00:00'
+  completeness: 0.38

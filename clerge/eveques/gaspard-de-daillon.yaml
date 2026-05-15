@@ -1,0 +1,54 @@
+slug: gaspard-de-daillon
+nom: Gaspard de Daillon
+nom_complet: Gaspard de Daillon du Lude
+naissance: '1603'
+deces: '1676-07-25'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1631-08-24'
+  consecrateur_principal: jean-francois-de-gondi
+  co_consecrateurs:
+  - gilles-de-souvre
+  - etienne-de-puget
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaill.html
+  - https://fr.wikipedia.org/wiki/Gaspard_de_Daillon_du_Lude
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: '1631-05-12'
+  au: null
+- titre: Bishop of Albi, France
+  du: null
+  au: '1676-07-25'
+- titre: évêque d'Albi
+  du: '1634-10-01'
+  au: null
+- titre: évêque d'Agen
+  du: '1631-05-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Gaspar%20de%20Daillon%20du%20Lude%2C%20RP-P-1884-A-7716.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3098816
+  catholic_hierarchy: bdaill
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:22:49+00:00'
+  completeness: 0.88

@@ -1,0 +1,41 @@
+slug: jean-du-beton
+nom: Jean du Beton
+nom_complet: Jean de Betton
+naissance: null
+deces: '1378-11-30'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1365-05-01'
+  consecrateur_principal: emeric-ii-de-quart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbetton.html
+  - https://fr.wikipedia.org/wiki/Jean_du_Beton
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Tarentaise (Moûtiers-en-Tarentaise), France
+  du: '1365-03-11'
+  au: '1378-11-30'
+- titre: archevêque de Tarentaise
+  du: '1365-05-09'
+  au: '1378-12-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762495
+  catholic_hierarchy: bbetton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:23+00:00'
+  completeness: 0.75

@@ -1,0 +1,54 @@
+slug: jusztinian-seredi
+nom: Jusztinián Serédi
+nom_complet: Jusztinián György Cardinal Serédi, O.S.B.
+naissance: '1884-04-23'
+deces: '1945-03-29'
+naissance_lieu: Deáki, Territorial Abbey of Pannonhalma
+deces_lieu: Esztergom, Archdiocese of Esztergom
+rang: cardinal
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1928-01-08'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - carlo-cremonesi
+  - agostino-zampini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseredi.html
+  - https://fr.wikipedia.org/wiki/Jusztini%C3%A1n_Ser%C3%A9di
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Esztergom, Hungary
+  du: '1927-11-30'
+  au: '1945-03-29'
+- titre: Cardinal-Priest of Santi Andrea e Gregorio al Monte Celio
+  du: '1927-12-22'
+  au: null
+- titre: cardinal
+  du: '1927-12-19'
+  au: null
+- titre: archevêque d'Esztergom
+  du: '1928-01-08'
+  au: '1945-03-29'
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ser%C3%A9di%20Jusztini%C3%A1n.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q740416
+  catholic_hierarchy: bseredi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:10:56+00:00'
+  completeness: 0.88

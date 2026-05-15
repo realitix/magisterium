@@ -1,0 +1,49 @@
+slug: victor-marechal
+nom: Victor Maréchal
+nom_complet: null
+naissance: '1838-10-07'
+deces: '1887-09-21'
+naissance_lieu: Conflans-en-Jarnissy
+deces_lieu: Laval, Diocese of Laval
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1887-07-25'
+  lieu: Cathedral, Versailles, Diocese of Versailles
+  consecrateur_principal: pierre-goux
+  co_consecrateurs:
+  - felix-arsene-billard
+  - alfred-francois-fleury-hottot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarev.html
+  - https://fr.wikipedia.org/wiki/Victor_Mar%C3%A9chal
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laval, France
+  du: null
+  au: '1887-09-21'
+- titre: évêque diocésain
+  du: '1887-05-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Victor%20Mar%C3%A9chal.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3557447
+  catholic_hierarchy: bmarev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:26:28+00:00'
+  completeness: 1.0

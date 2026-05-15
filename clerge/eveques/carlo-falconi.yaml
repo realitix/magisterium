@@ -1,0 +1,38 @@
+slug: carlo-falconi
+nom: Carlo Falconi
+nom_complet: null
+naissance: '1622'
+deces: '1677'
+naissance_lieu: Civitate Ducali
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfalconic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castellaneta, Italy
+  du: '1673-03-13'
+  au: Jan 1677&sup3;
+- titre: évêque diocésain
+  du: '1673-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q39074304
+  catholic_hierarchy: bfalconic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:30:06+00:00'
+  completeness: 0.25

@@ -1,0 +1,54 @@
+slug: oscar-joliet
+nom: Oscar Joliet
+nom_complet: Oscar Jozef Joliet
+naissance: '1878-09-13'
+deces: '1969-02-03'
+naissance_lieu: Gand, Diocese of Gent {Ghent, Gand}
+deces_lieu: Gand, Diocese of Gent {Ghent, Gand}
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1948-06-29'
+  lieu: Saint Bavo's, Cathedral, Gand, Diocese of Gent {Ghent, Gand}
+  consecrateur_principal: charles-justin-calewaert
+  co_consecrateurs:
+  - jean-marie-van-cauwenbergh
+  - leon-joseph-suenens
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjolie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1948-04-17'
+  au: '1969-02-03'
+- titre: Titular Bishop of Constantia in Arabia
+  du: '1948-04-17'
+  au: null
+- titre: évêque titulaire
+  du: '1948-04-17'
+  au: null
+- titre: évêque auxiliaire
+  du: '1948-04-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gent%20Bischop%20JOLIET.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2248814
+  catholic_hierarchy: bjolie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:02:36+00:00'
+  completeness: 1.0

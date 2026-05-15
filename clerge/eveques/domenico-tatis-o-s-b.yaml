@@ -1,0 +1,44 @@
+slug: domenico-tatis-o-s-b
+nom: Domenico Tatis, O.S.B.
+nom_complet: Domenico Tatis
+naissance: '1692-01-13'
+deces: '1765-10-29'
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1754-07-28'
+  lieu: Sant Ignazio, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giuseppe-maria-feroni
+  co_consecrateurs:
+  - giorgio-maria-lascaris
+  - nicolas-xavier-santamarie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btatis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugnato, Italy
+  du: '1754-07-22'
+  au: '1765-10-29'
+- titre: évêque diocésain
+  du: '1754-07-22'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64762452
+  catholic_hierarchy: btatis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:51:51+00:00'
+  completeness: 1.0

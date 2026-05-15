@@ -1,0 +1,41 @@
+slug: drogon
+nom: Drogon
+nom_complet: Drogo
+naissance: '0801-06-17'
+deces: '0855-12-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Drogon_de_Metz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: abbé
+  du: '0820-01-01'
+  au: '0855-01-01'
+- titre: abbé de Gorze
+  du: '0848-01-01'
+  au: '0855-01-01'
+- titre: évêque de Metz
+  du: '0823-01-01'
+  au: '0855-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/De%20H.%20Drogo%20tijdens%20de%20Drogo-ommegang.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q723791
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.78

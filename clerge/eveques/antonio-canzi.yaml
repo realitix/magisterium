@@ -1,0 +1,50 @@
+slug: antonio-canzi
+nom: Antonio Canzi
+nom_complet: null
+naissance: '1804-11-10'
+deces: '1878-07-28'
+naissance_lieu: Lodi, Diocese of Lodi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1868-01-12'
+  lieu: Ste Catherine de Sienne, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: filippo-maria-guidi
+  co_consecrateurs:
+  - giuseppe-berardi
+  - antonio-rossi-vaccari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanzi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bologna, Italy
+  du: '1867-12-20'
+  au: '1878-07-28'
+- titre: Titular Bishop of Cyrene
+  du: '1867-12-20'
+  au: null
+- titre: évêque titulaire
+  du: '1867-12-20'
+  au: null
+- titre: évêque auxiliaire
+  du: '1867-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64697638
+  catholic_hierarchy: bcanzi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:15:01+00:00'
+  completeness: 1.0

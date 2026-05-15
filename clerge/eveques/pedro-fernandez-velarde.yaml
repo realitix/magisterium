@@ -1,0 +1,44 @@
+slug: pedro-fernandez-velarde
+nom: Pedro Fernández Velarde
+nom_complet: null
+naissance: '1690-04-16'
+deces: '1757-10-11'
+naissance_lieu: Sierra Elsa
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1751-09-12'
+  lieu: Cathedral, Salamanca, Diocese of Salamanca
+  consecrateur_principal: jose-zorrilla-de-sanmartin
+  co_consecrateurs:
+  - jose-ignacio-rodriguez-cornejo
+  - pedro-gomez-de-la-torre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvernvel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segorbe, Spain
+  du: '1751-07-05'
+  au: '1757-10-11'
+- titre: évêque de Segorbe
+  du: '1751-07-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64738294
+  catholic_hierarchy: bvernvel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:33:51+00:00'
+  completeness: 1.0

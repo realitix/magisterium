@@ -1,0 +1,43 @@
+slug: heinrich-von-arbon
+nom: Heinrich von Arbon
+nom_complet: Heinrich II.
+naissance: '1150'
+deces: '1193-11-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1184-05-20'
+  consecrateur_principal: konrad-cardinal-de-wittelsbach
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barbonh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: 1180&sup1;
+  au: '1193-11-09'
+- titre: évêque diocésain
+  du: '1180-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597748
+  catholic_hierarchy: barbonh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:44:59+00:00'
+  completeness: 0.75

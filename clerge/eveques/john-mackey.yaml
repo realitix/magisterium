@@ -1,0 +1,46 @@
+slug: john-mackey
+nom: John Mackey
+nom_complet: null
+naissance: '1918-01-11'
+deces: '2014-01-20'
+naissance_lieu: Bray, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q664
+tampon: ordo_incertus
+sacre:
+  date: '1974-06-30'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - giovanni-benelli
+  - duraisamy-simon-lourdusamy
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmackey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auckland, New Zealand
+  du: '1974-04-25'
+  au: '1983-01-01'
+- titre: Bishop Emeritus of Auckland, New Zealand
+  du: null
+  au: '2014-01-20'
+- titre: évêque diocésain
+  du: '1974-04-25'
+  au: '1983-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q936981
+  catholic_hierarchy: bmackey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:10:17+00:00'
+  completeness: 0.88

@@ -1,0 +1,46 @@
+slug: leonhard-haller
+nom: Leonhard Haller
+nom_complet: null
+naissance: '1500'
+deces: '1570-03-25'
+naissance_lieu: Denkendorf
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1541-03-06'
+  consecrateur_principal: johann-laymann
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhalll.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eichstätt, Germany
+  du: '1540-11-05'
+  au: '1570-03-25'
+- titre: Titular Bishop of Philadelphia in Arabia
+  du: '1540-11-05'
+  au: null
+- titre: évêque auxiliaire
+  du: '1540-11-15'
+  au: null
+- titre: évêque titulaire
+  du: '1540-11-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1819214
+  catholic_hierarchy: bhalll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:34+00:00'
+  completeness: 0.75

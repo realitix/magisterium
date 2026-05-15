@@ -1,0 +1,44 @@
+slug: heinrich-hofstatter
+nom: Heinrich Hofstätter
+nom_complet: Heinrich von Hofstätter
+naissance: '1805-02-16'
+deces: '1875-05-12'
+naissance_lieu: Aindling, Archdiocese of München und Freising {Munich}
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1840-02-25'
+  lieu: Cathedral, Munich, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: lothar-anselm-von-gebsattel
+  co_consecrateurs:
+  - peter-richarz
+  - karl-august-von-reisach
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhofs.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: null
+  au: '1875-05-12'
+- titre: évêque de Passau
+  du: '1839-07-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1599557
+  catholic_hierarchy: bhofs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:01+00:00'
+  completeness: 1.0

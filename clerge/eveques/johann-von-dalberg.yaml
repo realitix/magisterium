@@ -1,0 +1,47 @@
+slug: johann-von-dalberg
+nom: Johann von Dalberg
+nom_complet: Ioannes Dalburgius
+naissance: '1455-08-14'
+deces: '1503-07-28'
+naissance_lieu: Oppenheim
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: berthold-von-henneberg
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdalbe.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Dalberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: '1482-10-09'
+  au: '1503-07-28'
+- titre: évêque diocésain
+  du: '1482-10-18'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20von%20Dalberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q102253
+  catholic_hierarchy: bdalbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:23:03+00:00'
+  completeness: 0.62

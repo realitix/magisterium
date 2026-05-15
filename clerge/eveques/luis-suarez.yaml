@@ -1,0 +1,31 @@
+slug: luis-suarez
+nom: Luis Suárez
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsual.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dragonara, Italy
+  du: '1554-10-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bsual
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:42:09+00:00'
+  completeness: 0.25

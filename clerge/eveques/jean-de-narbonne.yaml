@@ -1,0 +1,39 @@
+slug: jean-de-narbonne
+nom: Jean de Narbonne
+nom_complet: Jean de Narbonne, O.S.B.
+naissance: null
+deces: '1545-11-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnarbon.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Narbonne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Béziers, France
+  du: '1543-03-30'
+  au: '1545-11-17'
+- titre: évêque diocésain
+  du: '1543-04-09'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q61417112
+  catholic_hierarchy: bnarbon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:25:11+00:00'
+  completeness: 0.38

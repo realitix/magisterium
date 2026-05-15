@@ -1,0 +1,40 @@
+slug: adhemar-de-peirat
+nom: Adhémar de Peirat
+nom_complet: null
+naissance: null
+deces: '1198-08-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1198-04-07'
+  consecrateur_principal: non-indexe-ea17e01e
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpeirat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: 1198&sup2;
+  au: Aug 1198&sup2;
+- titre: évêque de Poitiers
+  du: '1198-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781036
+  catholic_hierarchy: bpeirat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:16:55+00:00'
+  completeness: 0.5

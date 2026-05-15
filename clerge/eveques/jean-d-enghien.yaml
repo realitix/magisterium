@@ -1,0 +1,48 @@
+slug: jean-d-enghien
+nom: Jean d'Enghien
+nom_complet: Jean d&rsquo;Enghien
+naissance: null
+deces: '1281-08-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/benghien.html
+  - https://fr.wikipedia.org/wiki/Jean_d%27Enghien
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: 1267&sup2;
+  au: null
+- titre: Bishop of Liège, Belgium
+  du: '1274-07-28'
+  au: '1281-08-24'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Liège
+  du: '1274-08-04'
+  au: null
+- titre: évêque de Tournai
+  du: '1267-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175191
+  catholic_hierarchy: benghien
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:22:22+00:00'
+  completeness: 0.38

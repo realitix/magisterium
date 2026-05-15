@@ -1,0 +1,50 @@
+slug: albert-daeger
+nom: Albert Daeger
+nom_complet: Albert Thomas Daeger, O.F.M.
+naissance: '1872-03-05'
+deces: '1932-12-02'
+naissance_lieu: Saint Ann, IN, Diocese of Vincennes, Indiana
+deces_lieu: Santa Fe, Archdiocese of Santa Fe, New Mexico
+rang: archeveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1919-05-07'
+  lieu: San Francisco de Assis, Cathedral, Santa Fe, Archdiocese of Santa Fe, New
+    Mexico
+  consecrateur_principal: john-baptist-pitaval
+  co_consecrateurs:
+  - john-henry-tihen
+  - anthony-joseph-schuler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaeger.html
+  - https://fr.wikipedia.org/wiki/Albert_Daeger
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Santa Fe, New Mexico, USA
+  du: '1919-03-10'
+  au: '1932-12-02'
+- titre: archevêque de Santa Fe
+  du: '1919-05-07'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Archbishop%20Albert%20Daeger.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4710002
+  catholic_hierarchy: bdaeger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:21:59+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: j-rgen-friis
+nom: Jørgen Friis
+nom_complet: null
+naissance: '1495'
+deces: '1547-05-26'
+naissance_lieu: null
+deces_lieu: Prison
+rang: eveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfriis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viborg, Denmark
+  du: '1521-01-07'
+  au: 1536&sup2;
+- titre: Bishop Emeritus of Viborg, Denmark
+  du: null
+  au: 26 May 1547&#8310;
+- titre: Roman Catholic Bishop of Viborg
+  du: '1521-01-17'
+  au: '1536-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B8rgen%20Andersen%20Friis%20-%20seal%2C%20c.%201523.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5744630
+  catholic_hierarchy: bfriis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:59:01+00:00'
+  completeness: 0.38

@@ -1,0 +1,44 @@
+slug: istvan-dolny
+nom: István Dolny
+nom_complet: null
+naissance: '1637'
+deces: '1707-06-02'
+naissance_lieu: Tardoskedd
+deces_lieu: null
+rang: eveque
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1703-07-29'
+  lieu: Wien, Diocese of Wien, Austria
+  consecrateur_principal: leopold-karl-von-kollonitsch
+  co_consecrateurs:
+  - ladislav-ma-357-a-353-ovsky
+  - agost-keresztely
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdolny.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: null
+  au: '1707-06-02'
+- titre: évêque de Csanád
+  du: '1699-06-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12814076
+  catholic_hierarchy: bdolny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:59:15+00:00'
+  completeness: 0.88

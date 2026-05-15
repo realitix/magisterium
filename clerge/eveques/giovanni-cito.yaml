@@ -1,0 +1,43 @@
+slug: giovanni-cito
+nom: Giovanni Cito
+nom_complet: null
+naissance: '1633-03-20'
+deces: '1708-10-15'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1698-12-28'
+  consecrateur_principal: pier-matteo-petrucci
+  co_consecrateurs:
+  - tommaso-guzzoni
+  - domenico-belisario-de-bellis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcito.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lettere (-Gragnano), Italy
+  du: '1698-12-22'
+  au: '1708-10-15'
+- titre: évêque diocésain
+  du: '1698-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29548689
+  catholic_hierarchy: bcito
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:52:20+00:00'
+  completeness: 1.0

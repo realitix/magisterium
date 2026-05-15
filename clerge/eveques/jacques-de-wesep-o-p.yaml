@@ -1,0 +1,42 @@
+slug: jacques-de-wesep-o-p
+nom: Jacques de Wesep, O.P.
+nom_complet: Jacques de Wesep
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1396-01-27'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwesep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Thérouanne, France
+  du: '1396-01-19'
+  au: 1422&sup1;
+- titre: Titular Bishop of Dschebail
+  du: '1396-01-19'
+  au: null
+- titre: évêque titulaire
+  du: '1396-01-27'
+  au: null
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q108445608
+  catholic_hierarchy: bwesep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:08+00:00'
+  completeness: 0.25

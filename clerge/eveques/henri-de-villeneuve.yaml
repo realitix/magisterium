@@ -1,0 +1,39 @@
+slug: henri-de-villeneuve
+nom: Henri de Villeneuve
+nom_complet: null
+naissance: null
+deces: '1234-01-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1220-09-20'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillenh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: 1220&sup1;
+  au: '1234-01-18'
+- titre: évêque d'Auxerre
+  du: '1220-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68912116
+  catholic_hierarchy: bvillenh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:39:56+00:00'
+  completeness: 0.5

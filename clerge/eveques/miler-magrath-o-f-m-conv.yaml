@@ -1,0 +1,51 @@
+slug: miler-magrath-o-f-m-conv
+nom: Miler Magrath, O.F.M. Conv.
+nom_complet: Miler Magrath
+naissance: '1522'
+deces: '1622-11-14'
+naissance_lieu: County Down, Diocese of Down and Connor
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1565-11-04'
+  lieu: Pauline, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francesco-pisani-4dd9e0
+  co_consecrateurs:
+  - nicolaus-bertholdi
+  - ascanio-albertini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagra.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Down and Connor, Ireland
+  du: '1565-10-12'
+  au: '1580-03-14'
+- titre: Bishop Emeritus of Down and Connor, Ireland
+  du: null
+  au: 1622&sup2;
+- titre: évêque de Down et Connor
+  du: '1565-10-22'
+  au: '1580-03-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%2C%20Miler%20McGrath%2C%20Bishop%20of%20Clogher%20Cathedral%20-%20geograph.org.uk%20-%205927858%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q532672
+  catholic_hierarchy: bmagra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:14:03+00:00'
+  completeness: 0.75

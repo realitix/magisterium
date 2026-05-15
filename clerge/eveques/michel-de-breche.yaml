@@ -1,0 +1,42 @@
+slug: michel-de-breche
+nom: Michel de Brêche
+nom_complet: Michel de Briche
+naissance: '1299'
+deces: '1366-06-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbriche.html
+  - https://fr.wikipedia.org/wiki/Michel_de_Br%C3%AAche
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Mans, France
+  du: '1355-07-31'
+  au: '1366-06-10'
+- titre: grand aumônier de France
+  du: null
+  au: null
+- titre: évêque du Mans
+  du: '1355-08-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3311150
+  catholic_hierarchy: bbriche
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:51:53+00:00'
+  completeness: 0.38

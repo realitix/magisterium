@@ -1,0 +1,49 @@
+slug: heinrich-bruck
+nom: Heinrich Brück
+nom_complet: Heinrich Brück (Brueck)
+naissance: '1831-10-25'
+deces: '1903-11-05'
+naissance_lieu: Bingen
+deces_lieu: null
+rang: eveque
+nationalite: Q20135
+tampon: ordo_validus
+sacre:
+  date: '1900-05-20'
+  lieu: Cathedral, Mainz, Diocese of Mainz
+  consecrateur_principal: thomas-norber
+  co_consecrateurs:
+  - adalbert-endert
+  - paul-wilhelm-keppler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbruck.html
+  - https://fr.wikipedia.org/wiki/Heinrich_Br%C3%BCck
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mainz, Germany
+  du: null
+  au: '1903-11-05'
+- titre: évêque de Mayence
+  du: '1899-12-21'
+  au: '1903-11-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Dr.%20Heinrich%20Br%C3%BCck%203%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q96973
+  catholic_hierarchy: bbruck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:54:46+00:00'
+  completeness: 1.0

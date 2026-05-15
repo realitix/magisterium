@@ -1,0 +1,43 @@
+slug: john-george-bennett
+nom: John George Bennett
+nom_complet: null
+naissance: '1891-01-20'
+deces: '1957-11-20'
+naissance_lieu: Dunnington
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1945-01-10'
+  consecrateur_principal: john-francis-noll
+  co_consecrateurs:
+  - francis-ridgley-cotton
+  - john-francis-o-hara
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbennettj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lafayette in Indiana, USA
+  du: '1944-11-11'
+  au: '1957-11-20'
+- titre: évêque diocésain
+  du: '1944-11-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2039923
+  catholic_hierarchy: bbennettj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:17:40+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: castrensis-scaja
+nom: Castrensis Scaja
+nom_complet: null
+naissance: '1698-10-06'
+deces: '1755-10-12'
+naissance_lieu: Marano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1746-11-30'
+  consecrateur_principal: joaquin-fernandez-portocarrero
+  co_consecrateurs:
+  - giovanni-andrea-tria
+  - alessandro-degli-abbati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscaja.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oria, Italy
+  du: '1746-11-28'
+  au: '1755-10-12'
+- titre: évêque diocésain
+  du: '1746-11-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751853
+  catholic_hierarchy: bscaja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:58:04+00:00'
+  completeness: 1.0

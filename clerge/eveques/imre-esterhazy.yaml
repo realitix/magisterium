@@ -1,0 +1,69 @@
+slug: imre-esterhazy
+nom: Imre Esterházy
+nom_complet: Imre Esterházy, O.S.P.P.E.
+naissance: '1665-07-20'
+deces: '1745-12-06'
+naissance_lieu: Vágújhely
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1708-03-04'
+  lieu: Pozsony/Pressburg
+  consecrateur_principal: agost-keresztely
+  co_consecrateurs:
+  - marton-brajkovi-263-s
+  - laszlo-adam-erd-337-dy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bestrhz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zagreb (Agram), Croatia
+  du: '1709-09-09'
+  au: null
+- titre: Archbishop of Esztergom, Hungary
+  du: null
+  au: '1745-12-06'
+- titre: évêque de Veszprém
+  du: '1723-01-17'
+  au: null
+- titre: Roman Catholic Bishop of Zagreb (Agram)
+  du: '1709-09-09'
+  au: null
+- titre: archevêque d'Esztergom
+  du: '1725-08-31'
+  au: null
+- titre: high chancellor of the Kingdom of Hungary
+  du: '1725-08-31'
+  au: null
+- titre: councilor of the governor's council
+  du: '1723-01-01'
+  au: '1747-01-01'
+- titre: évêque de Vác
+  du: '1706-12-23'
+  au: null
+- titre: Ban de Croatie
+  du: '1709-01-01'
+  au: '1710-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Esterh%C3%A1zy%20Imre.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q435111
+  catholic_hierarchy: bestrhz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:36+00:00'
+  completeness: 1.0

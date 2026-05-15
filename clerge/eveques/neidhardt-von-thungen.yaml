@@ -1,0 +1,48 @@
+slug: neidhardt-von-thungen
+nom: Neidhardt von Thüngen
+nom_complet: Neytard von Thüngen
+naissance: '1545-05-01'
+deces: '1598-12-26'
+naissance_lieu: Wüstensachsen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1597-11-11'
+  lieu: Cathedral, Bamberg, Diocese of Bamberg
+  consecrateur_principal: johann-ertlin
+  co_consecrateurs:
+  - lorenz-eiszepf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthung.html
+  - https://fr.wikipedia.org/wiki/Neidhardt_von_Th%C3%BCngen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1598-12-26'
+- titre: évêque diocésain
+  du: '1591-12-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/NeidhardtvThungen1.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1974656
+  catholic_hierarchy: bthung
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:59:01+00:00'
+  completeness: 1.0

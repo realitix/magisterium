@@ -1,0 +1,52 @@
+slug: jacques-laminne
+nom: Jacques Laminne
+nom_complet: null
+naissance: '1864-05-18'
+deces: '1924-10-23'
+naissance_lieu: Aerschot
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1919-03-25'
+  consecrateur_principal: martin-rutten
+  co_consecrateurs:
+  - thomas-louis-heylen
+  - louis-joseph-legraive
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blamin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Liège, Belgium
+  du: '1919-01-25'
+  au: null
+- titre: Titular Bishop of Usula
+  du: '1919-01-25'
+  au: null
+- titre: Auxiliary Bishop of Liège, Eupen et Malmédy, Belgium
+  du: null
+  au: '1924-10-23'
+- titre: évêque auxiliaire
+  du: '1919-01-25'
+  au: null
+- titre: évêque titulaire
+  du: '1919-01-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3161445
+  catholic_hierarchy: blamin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:56+00:00'
+  completeness: 1.0

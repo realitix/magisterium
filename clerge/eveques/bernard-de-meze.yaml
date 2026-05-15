@@ -1,0 +1,40 @@
+slug: bernard-de-meze
+nom: Bernard de Mèze
+nom_complet: Bernard de Meze
+naissance: null
+deces: '1230-12-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1216-07-09'
+  consecrateur_principal: arnaud-amalric-o-cist
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmeze.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Maguelonne, France
+  du: 1216&sup1;
+  au: '1230-12-25'
+- titre: évêque de Maguelone
+  du: '1216-01-01'
+  au: '1230-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108481308
+  catholic_hierarchy: bmeze
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:54:29+00:00'
+  completeness: 0.75

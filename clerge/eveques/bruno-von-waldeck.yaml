@@ -1,0 +1,46 @@
+slug: bruno-von-waldeck
+nom: Bruno von Waldeck
+nom_complet: null
+naissance: '1000'
+deces: '1055-02-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1037-05-29'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwaldecb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minden, Germany
+  du: '1037-05-05'
+  au: '1055-02-10'
+- titre: évêque diocésain
+  du: '1037-01-01'
+  au: '1055-02-16'
+- titre: évêque
+  du: '1037-05-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Bruno%20Grabstein.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q994008
+  catholic_hierarchy: bwaldecb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:48:43+00:00'
+  completeness: 0.5

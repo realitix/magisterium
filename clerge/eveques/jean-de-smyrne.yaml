@@ -1,0 +1,40 @@
+slug: jean-de-smyrne
+nom: Jean de Smyrne
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1755'
+  consecrateur_principal: mikael-petros-iii-kasparian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsmyrne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amida (Diarbekir) (Armenian), Turkey
+  du: 1755&sup1;
+  au: 1785&sup2;
+- titre: évêque diocésain
+  du: '1755-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779844
+  catholic_hierarchy: bsmyrne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:24:30+00:00'
+  completeness: 0.62

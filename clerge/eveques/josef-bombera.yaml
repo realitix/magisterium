@@ -1,0 +1,64 @@
+slug: josef-bombera
+nom: Josef Bombera
+nom_complet: null
+naissance: '1870-12-04'
+deces: '1927-01-02'
+naissance_lieu: Jesenec, Archdiocese of Olomouc
+deces_lieu: Praha, Archdiocese of Praha {Prague}
+rang: eveque
+nationalite: CZ
+tampon: ordo_validus
+sacre:
+  date: '1924-10-05'
+  lieu: Emauzy, Convent, Praha, Archdiocese of Praha {Prague}
+  consecrateur_principal: frantisek-kordac
+  co_consecrateurs:
+  - jan-sedlak
+  - antonin-podlaha
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbombera.html
+  - https://gcatholic.org/p/58106
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Czechoslovakia
+  du: '1924-06-13'
+  au: '1927-01-02'
+- titre: Titular Bishop of Hieropolis
+  du: '1924-06-13'
+  au: null
+- titre: Priest
+  siege: Olomouc
+  du: '1894-07-05'
+  au: '1924-06-13'
+- titre: Titular Bishop
+  siege: Hieropolis
+  du: '1924-06-13'
+  au: '1927-01-02'
+- titre: évêque titulaire
+  du: '1924-06-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Bombera%201870%201927.gif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23034348
+  catholic_hierarchy: bbombera
+  gcatholic: '58106'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:35:45+00:00'
+  completeness: 1.0
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:43+00:00'
+  completeness: 0.75

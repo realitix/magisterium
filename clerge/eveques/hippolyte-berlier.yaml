@@ -1,0 +1,46 @@
+slug: hippolyte-berlier
+nom: Hippolyte Berlier
+nom_complet: Marie-Jean-Baptiste-Hippolyte Berlier, C.SS.R.
+naissance: '1919-03-10'
+deces: '1992-09-22'
+naissance_lieu: Pélussin, Archdiocese of Lyon (-Vienne), France
+deces_lieu: Niamey, Diocese of Niamey
+rang: eveque
+nationalite: Q1032
+tampon: ordo_validus
+sacre:
+  date: '1961-05-21'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - fulton-sheen
+  - edoardo-mason
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberlier.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Niamey, Niger
+  du: '1961-03-21'
+  au: '1984-06-25'
+- titre: Bishop Emeritus of Niamey, Niger
+  du: null
+  au: '1992-09-22'
+- titre: évêque diocésain
+  du: '1961-03-21'
+  au: '1984-06-25'
+fraternite: redemptoristes
+photo: null
+qids:
+  wikidata: Q1620005
+  catholic_hierarchy: bberlier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:20:18+00:00'
+  completeness: 0.88

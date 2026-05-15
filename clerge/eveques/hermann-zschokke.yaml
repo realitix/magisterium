@@ -1,0 +1,56 @@
+slug: hermann-zschokke
+nom: Hermann Zschokke
+nom_complet: null
+naissance: '1838-06-16'
+deces: '1920-10-23'
+naissance_lieu: Böhmisch-Leipa
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1910-12-11'
+  consecrateur_principal: franz-xavier-nagl
+  co_consecrateurs:
+  - koloman-belopotocky
+  - godfried-marschall
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzsch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Wien {Vienna}, Austria
+  du: '1910-11-17'
+  au: '1920-10-23'
+- titre: Titular Bishop of Caesarea Philippi
+  du: '1910-11-17'
+  au: null
+- titre: membre de la chambre des seigneurs d'Autriche
+  du: '1901-01-01'
+  au: null
+- titre: évêque titulaire
+  du: '1910-11-17'
+  au: null
+- titre: évêque auxiliaire
+  du: '1910-11-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/WB%20Hermann%20Zschokke%20Wien.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1613154
+  catholic_hierarchy: bzsch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:11:48+00:00'
+  completeness: 1.0

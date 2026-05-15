@@ -1,0 +1,43 @@
+slug: luigi-noviello
+nom: Luigi Noviello
+nom_complet: null
+naissance: '1875-08-10'
+deces: '1947-09-20'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1930-08-31'
+  consecrateur_principal: alessio-ascalesi
+  co_consecrateurs:
+  - giuseppe-d-rsquo-alessio
+  - salvatore-meo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnovie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alife, Italy
+  du: '1930-07-29'
+  au: '1947-09-20'
+- titre: évêque d'Alife
+  du: '1930-07-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746117
+  catholic_hierarchy: bnovie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:49+00:00'
+  completeness: 1.0

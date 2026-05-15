@@ -1,0 +1,44 @@
+slug: alvaro-afonso
+nom: Álvaro Afonso
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bafonso.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Silves (Sylves), Portugal
+  du: '1453-08-24'
+  au: null
+- titre: Bishop of Évora, Portugal
+  du: '1468-02-08'
+  au: 1469&sup1;
+- titre: évêque de Silves
+  du: '1453-09-02'
+  au: null
+- titre: Roman Catholic Bishop of Évora
+  du: '1468-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68859074
+  catholic_hierarchy: bafonso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:21:55+00:00'
+  completeness: 0.25

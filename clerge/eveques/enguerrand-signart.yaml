@@ -1,0 +1,49 @@
+slug: enguerrand-signart
+nom: Enguerrand Signart
+nom_complet: Enguerrand Signard (Seignart), O.P.
+naissance: null
+deces: '1485-03-22'
+naissance_lieu: Condé sur Noireau
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1465-01-24'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsignard.html
+  - https://fr.wikipedia.org/wiki/Enguerrand_Signart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Selymbria
+  du: '1465-01-15'
+  au: null
+- titre: Bishop of Auxerre, France
+  du: '1476-03-15'
+  au: 1478&sup2;
+- titre: Bishop Emeritus of Auxerre, France
+  du: null
+  au: '1485-03-22'
+- titre: évêque d'Auxerre
+  du: '1476-03-24'
+  au: '1478-01-01'
+- titre: évêque titulaire
+  du: '1465-01-24'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3054337
+  catholic_hierarchy: bsignard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:17:27+00:00'
+  completeness: 0.38

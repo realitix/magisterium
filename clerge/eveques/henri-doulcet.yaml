@@ -1,0 +1,67 @@
+slug: henri-doulcet
+nom: Henri Doulcet
+nom_complet: Henri Doulcet, C.P.
+naissance: '1857-04-26'
+deces: '1916-07-27'
+naissance_lieu: Paris, Archdiocese of Paris, France
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1895-02-24'
+  lieu: Sts. John and Paul, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: franziskus-von-paula-schonborn
+  co_consecrateurs:
+  - edmund-stonor
+  - costantino-costa-c-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoul.html
+  - https://fr.wikipedia.org/wiki/Henri_Doulcet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicopoli, Bulgaria
+  du: '1895-01-07'
+  au: '1913-03-31'
+- titre: Titular Bishop of Ionopolis
+  du: '1913-06-03'
+  au: null
+- titre: Titular Archbishop of Doclea
+  du: '1914-03-17'
+  au: null
+- titre: Bishop Emeritus of Nicopoli, Bulgaria
+  du: null
+  au: '1916-07-27'
+- titre: archevêque catholique
+  du: '1914-03-17'
+  au: null
+- titre: archevêque titulaire
+  du: '1914-03-17'
+  au: null
+- titre: évêque de Nicopolis
+  du: '1895-01-07'
+  au: '1913-03-31'
+- titre: évêque titulaire
+  du: '1913-06-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Doulcet.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8326014
+  catholic_hierarchy: bdoul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:35+00:00'
+  completeness: 1.0

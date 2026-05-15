@@ -1,0 +1,41 @@
+slug: eugenio-cattaneo
+nom: Eugenio Cattaneo
+nom_complet: Eugenio Cattaneo, B.
+naissance: '1551'
+deces: '1608-09-29'
+naissance_lieu: Novi Ligure
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-02-24'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: mariano-pierbenedetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcatteu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Telese o Cerreto Sannita, Italy
+  du: '1606-02-13'
+  au: 1608&sup1;
+- titre: évêque diocésain
+  du: '1606-02-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3734307
+  catholic_hierarchy: bcatteu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:33:15+00:00'
+  completeness: 0.62

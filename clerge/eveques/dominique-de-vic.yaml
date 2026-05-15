@@ -1,0 +1,57 @@
+slug: dominique-de-vic
+nom: Dominique de Vic
+nom_complet: null
+naissance: '1588'
+deces: '1661-12-21'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1625-05-25'
+  consecrateur_principal: leonard-de-trappes
+  co_consecrateurs:
+  - salvat-ii-d-iharse
+  - jean-de-salette
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvicd.html
+  - https://fr.wikipedia.org/wiki/Dominique_de_Vic_(1588-1661)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Archbishop of Auch, France
+  du: '1625-01-27'
+  au: null
+- titre: Titular Archbishop of Corinthus
+  du: '1625-01-27'
+  au: null
+- titre: Archbishop of Auch, France
+  du: null
+  au: '1661-12-21'
+- titre: archevêque titulaire
+  du: '1625-01-27'
+  au: null
+- titre: archevêque catholique
+  du: '1629-10-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/%28Auch%29%20Tr%C3%A9sor%20de%20la%20cath%C3%A9drale%20-%20Dominique%20de%20Vic%2C%20archev%C3%AAque%20d%27Auch.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16027485
+  catholic_hierarchy: bvicd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:36:13+00:00'
+  completeness: 0.88

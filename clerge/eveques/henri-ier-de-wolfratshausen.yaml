@@ -1,0 +1,44 @@
+slug: henri-ier-de-wolfratshausen
+nom: Henri Ier de Wolfratshausen
+nom_complet: Heinrich von Wolfratshausen
+naissance: '1050'
+deces: '1155-05-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '17'
+  consecrateur_principal: konrad-von-abensberg
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwolfrat.html
+  - https://fr.wikipedia.org/wiki/Henri_Ier_de_Wolfratshausen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: 1132&sup1;
+  au: '1155-05-10'
+- titre: évêque diocésain
+  du: '1132-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1409008
+  catholic_hierarchy: bwolfrat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:58:36+00:00'
+  completeness: 0.75

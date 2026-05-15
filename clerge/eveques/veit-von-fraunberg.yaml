@@ -1,0 +1,48 @@
+slug: veit-von-fraunberg
+nom: Veit von Fraunberg
+nom_complet: null
+naissance: '1500'
+deces: '1567-01-21'
+naissance_lieu: Poxau
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1564-09-03'
+  lieu: Salzburg, Archdiocese of Salzburg, Austria
+  consecrateur_principal: johann-jakob-von-kuen-belasy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfraun.html
+  - https://fr.wikipedia.org/wiki/Guy_de_Fraunberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: null
+  au: '1567-01-21'
+- titre: évêque diocésain
+  du: '1564-01-08'
+  au: null
+- titre: évêque de Ratisbonne
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1496017
+  catholic_hierarchy: bfraun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:57:15+00:00'
+  completeness: 0.75

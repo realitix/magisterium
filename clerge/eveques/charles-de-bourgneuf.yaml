@@ -1,0 +1,46 @@
+slug: charles-de-bourgneuf
+nom: Charles de Bourgneuf
+nom_complet: Charles de Bourgneuf de Cucé
+naissance: '1650'
+deces: '1617'
+naissance_lieu: null
+deces_lieu: Chartres
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourg.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Bourgneuf
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Malo, France
+  du: '1586-12-06'
+  au: null
+- titre: Bishop of Nantes, France
+  du: '1598-08-31'
+  au: '1617-07-17'
+- titre: évêque de Nantes
+  du: '1598-08-31'
+  au: null
+- titre: évêque diocésain
+  du: '1586-12-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960531
+  catholic_hierarchy: bbourg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:43+00:00'
+  completeness: 0.38

@@ -1,0 +1,48 @@
+slug: albrecht-von-wertheim
+nom: Albrecht von Wertheim
+nom_complet: Albert of Wertheim, Bishop of Bamberg
+naissance: '1400'
+deces: '1421-05-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1400-02-09'
+  consecrateur_principal: johann-ii-von-heideck
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvwert.html
+  - https://fr.wikipedia.org/wiki/Albrecht_von_Wertheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1421-05-19'
+- titre: évêque diocésain
+  du: '1398-12-06'
+  au: '1421-05-28'
+- titre: évêque élu
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bamberg%20Fenster%20aus%20der%20Andreaskapelle.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1527505
+  catholic_hierarchy: bvwert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:47:49+00:00'
+  completeness: 0.62

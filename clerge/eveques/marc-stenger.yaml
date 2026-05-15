@@ -1,0 +1,49 @@
+slug: marc-stenger
+nom: Marc Stenger
+nom_complet: Marc Camille Michel Stenger
+naissance: '1946-08-27'
+deces: null
+naissance_lieu: Phalsbourg, Diocese of Metz
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1999-09-05'
+  lieu: Saints Pierre et Paul, Cathedral, Troyes, Diocese of Troyes
+  consecrateur_principal: gerard-daucourt
+  co_consecrateurs:
+  - pierre-raffin
+  - hermann-josef-spital
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstenger.html
+  - https://fr.wikipedia.org/wiki/Marc_Stenger
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troyes, France
+  du: '1999-04-30'
+  au: '2020-12-28'
+- titre: évêque de Troyes
+  du: '1999-04-30'
+  au: '2020-12-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Marc%20Stenger%20113e%20%C3%A9v%C3%AAque%20de%20Troyes%20par%20philcotof%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1892830
+  catholic_hierarchy: bstenger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:38:10+00:00'
+  completeness: 0.88

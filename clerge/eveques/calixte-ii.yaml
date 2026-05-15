@@ -1,0 +1,50 @@
+slug: calixte-ii
+nom: Calixte II
+nom_complet: Callistus II
+naissance: '1065'
+deces: '1124-12-13'
+naissance_lieu: null
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: thurstan-de-bayeux
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourggn.html
+  - https://fr.wikipedia.org/wiki/Calixte_II
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Vienne, France
+  du: 1088&sup2;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1124-12-13'
+- titre: pape
+  du: '1119-02-15'
+  au: '1124-12-20'
+- titre: archevêque catholique
+  du: '1088-01-01'
+  au: '1119-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Callistus%20II.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q170654
+  catholic_hierarchy: bbourggn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:50+00:00'
+  completeness: 0.5

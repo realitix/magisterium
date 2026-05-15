@@ -1,0 +1,43 @@
+slug: pedro-aguado
+nom: Pedro Aguado
+nom_complet: Pedro Aguado, C.R.M.
+naissance: '1648-01-24'
+deces: '1716-04-19'
+naissance_lieu: Madrid, Archdiocese of Toledo
+deces_lieu: null
+rang: eveque
+nationalite: Q217196
+tampon: ordo_validus
+sacre:
+  date: '1713-07-02'
+  consecrateur_principal: francesco-del-giudice
+  co_consecrateurs:
+  - andres-soto-de-la-fuente
+  - francisco-solis-hervas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baguado.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamplona, Spain
+  du: '1713-05-22'
+  au: '1716-04-19'
+- titre: évêque de Pampelune
+  du: '1713-05-22'
+  au: '1716-04-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q63106518
+  catholic_hierarchy: baguado
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:23:20+00:00'
+  completeness: 1.0

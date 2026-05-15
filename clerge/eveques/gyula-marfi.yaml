@@ -1,0 +1,60 @@
+slug: gyula-marfi
+nom: Gyula Márfi
+nom_complet: null
+naissance: '1943-12-17'
+deces: null
+naissance_lieu: Pördefölde
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1995-12-02'
+  lieu: Basilica, Eger, Archdiocese of Eger
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - istvan-seregely
+  - istvan-konkoly
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarfi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eger, Hungary
+  du: '1995-11-11'
+  au: null
+- titre: Titular Bishop of Amantia
+  du: '1995-11-11'
+  au: null
+- titre: Archbishop of Veszprém, Hungary
+  du: '1997-08-14'
+  au: null
+- titre: évêque titulaire
+  du: '1995-11-11'
+  au: null
+- titre: évêque auxiliaire
+  du: '1995-12-02'
+  au: null
+- titre: archevêque de Veszprém
+  du: '1997-08-14'
+  au: '2019-07-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/DrMarfiGyula.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q541395
+  catholic_hierarchy: bmarfi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:26:31+00:00'
+  completeness: 0.88

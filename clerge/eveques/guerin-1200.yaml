@@ -1,0 +1,38 @@
+slug: guerin-1200
+nom: Guérin
+nom_complet: Garinus
+naissance: '1200'
+deces: '1227-04-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Gu%C3%A9rin_(chancelier_de_France)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque diocésain
+  du: '1214-01-01'
+  au: null
+- titre: chancelier de France
+  du: '1223-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BOYER%201179%20-%20Mre%20Guerin%20chancelier%20de%20France%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q580954
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67

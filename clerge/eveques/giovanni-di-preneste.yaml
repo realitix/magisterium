@@ -1,0 +1,45 @@
+slug: giovanni-di-preneste
+nom: Giovanni di Preneste
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1306-01-26'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpreneste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Spoleto, Italy
+  du: '1303-12-23'
+  au: 1307&sup1;
+- titre: Administrator of Corinthus, Greece
+  du: '1306-01-18'
+  au: '1307-06-05'
+- titre: administrateur apostolique
+  du: '1306-01-26'
+  au: '1307-06-13'
+- titre: évêque diocésain
+  du: '1303-12-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447569
+  catholic_hierarchy: bpreneste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:51+00:00'
+  completeness: 0.25

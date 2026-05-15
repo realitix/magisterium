@@ -1,0 +1,52 @@
+slug: claude-marolles
+nom: Claude Marolles
+nom_complet: '[Constitutional Bishop Claude Eustache François Marolles]'
+naissance: '1753-04-04'
+deces: '1794-04-24'
+naissance_lieu: S. Quentin
+deces_lieu: Soissons
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-02-24'
+  lieu: Oratoire, Paris, Archdiocese of Paris
+  consecrateur_principal: charles-maurice-de-talleyrand-perigord
+  co_consecrateurs:
+  - jean-baptiste-gobel
+  - jean-baptiste-miroudot-du-bourg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarolle.html
+  - https://fr.wikipedia.org/wiki/Claude_Marolles
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Aisne (Constitutional), France]
+  du: null
+  au: '1794-04-24'
+- titre: député français
+  du: null
+  au: null
+- titre: évêque constitutionnel
+  du: '1790-02-24'
+  au: '1793-11-13'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Marolles%202.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2977778
+  catholic_hierarchy: bmarolle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:29:27+00:00'
+  completeness: 1.0

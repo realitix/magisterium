@@ -1,0 +1,50 @@
+slug: david-cremin
+nom: David Cremin
+nom_complet: null
+naissance: '1930-02-22'
+deces: null
+naissance_lieu: Ballydoorty, Diocese of Limerick, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '1974-01-19'
+  lieu: Cathedral, Sydney, Archdiocese of Sydney
+  consecrateur_principal: james-darcy-freeman
+  co_consecrateurs:
+  - james-robert-knox
+  - thomas-vincent-cahill
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcremin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Sydney, Australia
+  du: '1973-10-25'
+  au: null
+- titre: Titular Bishop of Cunga Féichin
+  du: '1973-10-25'
+  au: null
+- titre: évêque titulaire
+  du: '1973-10-25'
+  au: '2025-04-19'
+- titre: évêque auxiliaire
+  du: '1973-10-25'
+  au: '2005-02-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q525869
+  catholic_hierarchy: bcremin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:46+00:00'
+  completeness: 0.88

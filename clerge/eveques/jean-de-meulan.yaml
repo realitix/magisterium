@@ -1,0 +1,53 @@
+slug: jean-de-meulan
+nom: Jean de Meulan
+nom_complet: null
+naissance: '1283'
+deces: '1363-05-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1335-04-02'
+  consecrateur_principal: annibaldo-cardinal-di-ceccano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmeulan.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Meulan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1334-10-12'
+  au: null
+- titre: Bishop of Noyon, France
+  du: '1351-01-03'
+  au: null
+- titre: Bishop of Paris, France
+  du: '1352-02-08'
+  au: '1363-05-22'
+- titre: évêque de Meaux
+  du: '1334-10-20'
+  au: null
+- titre: évêque de Paris
+  du: '1352-02-16'
+  au: null
+- titre: évêque de Noyon
+  du: '1351-01-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175577
+  catholic_hierarchy: bmeulan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:54:10+00:00'
+  completeness: 0.75

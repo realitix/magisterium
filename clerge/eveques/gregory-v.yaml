@@ -1,0 +1,36 @@
+slug: gregory-v
+nom: Gregory V
+nom_complet: null
+naissance: null
+deces: '999'
+naissance_lieu: Germany
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '3'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: non-indexe-81531464
+  co_consecrateurs:
+  - non-indexe-cfc8ceb8
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkarnten.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: 4 Feb 999
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bkarnten
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:08:24+00:00'
+  completeness: 0.75

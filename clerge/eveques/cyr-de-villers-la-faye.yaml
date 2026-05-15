@@ -1,0 +1,44 @@
+slug: cyr-de-villers-la-faye
+nom: Cyr de Villers La Faye
+nom_complet: Cyr de Villers-la-Faye
+naissance: null
+deces: '1665-05-04'
+naissance_lieu: Bourgogne
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1653-08-31'
+  consecrateur_principal: henri-de-bethune
+  co_consecrateurs:
+  - henri-de-la-mothe-houdancourt
+  - henri-cauchon-de-maupas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillersl.html
+  - https://fr.wikipedia.org/wiki/Cyr_de_Villers_La_Faye
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: null
+  au: '1665-05-04'
+- titre: évêque diocésain
+  du: '1652-08-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816831
+  catholic_hierarchy: bvillersl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:05+00:00'
+  completeness: 0.88

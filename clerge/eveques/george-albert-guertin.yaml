@@ -1,0 +1,48 @@
+slug: george-albert-guertin
+nom: George Albert Guertin
+nom_complet: null
+naissance: '1869-02-17'
+deces: '1931-08-06'
+naissance_lieu: Nashua, NH, Diocese of Portland, Maine
+deces_lieu: Morristown, NJ
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1907-03-19'
+  lieu: Saint Joseph, Cathedral, Manchester, Diocese of Manchester, New Hampshire
+  consecrateur_principal: diomede-falconio
+  co_consecrateurs:
+  - matthew-harkins
+  - michael-tierney
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguertin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Manchester, New Hampshire, USA
+  du: '1907-01-02'
+  au: '1931-08-06'
+- titre: évêque diocésain
+  du: '1907-01-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Albert%20Guertin%20%281869%E2%80%931931%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5536124
+  catholic_hierarchy: bguertin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:52+00:00'
+  completeness: 1.0

@@ -1,0 +1,54 @@
+slug: bernhard-hoting
+nom: Bernhard Höting
+nom_complet: Johann Bernard Höting
+naissance: '1821-07-18'
+deces: '1898-10-21'
+naissance_lieu: Gronau, Diocese of Münster
+deces_lieu: Venezia, Patriarchate of Venezia {Venice}, Italy
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1882-05-03'
+  lieu: Osnabrück, Diocese of Osnabrück
+  consecrateur_principal: wilhelm-sommerwerck
+  co_consecrateurs:
+  - georg-von-kopp
+  - franz-adolf-namszanowski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhoting.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osnabrück, Germany
+  du: '1882-02-10'
+  au: '1898-10-21'
+- titre: Pro-Vicar Apostolic of North German Missions {Germania Settentrionale}
+  du: '1882-02-10'
+  au: null
+- titre: Apostolic Vicar of Northern Germany
+  du: '1882-02-10'
+  au: null
+- titre: évêque d'Osnabrück
+  du: '1882-05-03'
+  au: '1898-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bernhard%20H%C3%B6ting%20%281821-1898%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q825298
+  catholic_hierarchy: bhoting
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:47:36+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: guillaume-viole
+nom: Guillaume Viole
+nom_complet: null
+naissance: '1515'
+deces: '1568-05-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-03-18'
+  consecrateur_principal: bertrand-de-marillac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bviole.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Viole
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: '1564-06-21'
+  au: '1568-05-04'
+- titre: évêque de Paris
+  du: '1564-07-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Viole%2C%20Guillaume%20%28Chronologie%20coll%C3%A9e%2C%20in%20Les%20Belles%20Figures%20et%20drolleries%20de%20la%20Ligue%29%20-%20cropped.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5616077
+  catholic_hierarchy: bviole
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:41:24+00:00'
+  completeness: 0.62

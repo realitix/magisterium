@@ -1,0 +1,61 @@
+slug: urbain-marie-person
+nom: Urbain-Marie Person
+nom_complet: Urbain-Marie Person, O.F.M. Cap.
+naissance: '1906-02-04'
+deces: '1994-02-09'
+naissance_lieu: Lanarvily, France
+deces_lieu: null
+rang: eveque
+nationalite: Q986
+tampon: ordo_validus
+sacre:
+  date: '1955-08-28'
+  consecrateur_principal: eugene-tisserant-1884
+  co_consecrateurs:
+  - pietro-sigismondi
+  - giovanni-c-luigi-marinoni-o-f-m-cap
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperson.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prefect of Neghelli, Ethiopia
+  du: '1952-01-02'
+  au: null
+- titre: Prefect of Hosanna, Ethiopia
+  du: '1952-01-02'
+  au: '1973-02-16'
+- titre: Vicar Apostolic of Harar, Ethiopia
+  du: '1955-07-03'
+  au: null
+- titre: Titular Bishop of Cyme
+  du: '1955-07-03'
+  au: null
+- titre: Prefect of Awasa, Ethiopia
+  du: null
+  au: '1973-02-16'
+- titre: Vicar Apostolic Emeritus of Harar, Ethiopia
+  du: null
+  au: '1994-02-09'
+- titre: évêque titulaire
+  du: '1955-07-03'
+  au: null
+- titre: vicaire apostolique
+  du: '1955-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2500117
+  catholic_hierarchy: bperson
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:24:34+00:00'
+  completeness: 1.0

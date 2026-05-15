@@ -1,0 +1,53 @@
+slug: baldassare-mormile-c-r
+nom: Baldassare Mormile, C.R.
+nom_complet: Baldassare Mormile
+naissance: '1750-01-06'
+deces: '1826-07-26'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: Q173065
+tampon: ordo_validus
+sacre:
+  date: '1805-06-30'
+  consecrateur_principal: ferdinando-maria-saluzzo
+  co_consecrateurs:
+  - giovanni-coppola
+  - benedetto-fenaja
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Capua, Italy
+  du: null
+  au: '1826-07-26'
+- titre: archevêque catholique
+  du: null
+  au: null
+- titre: Archevêque de Bari
+  du: '1805-06-01'
+  au: null
+- titre: archevêque de Capoue
+  du: '1818-03-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Baldassarre%20Mormile.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64692781
+  catholic_hierarchy: bmorm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:13:04+00:00'
+  completeness: 1.0

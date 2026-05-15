@@ -1,0 +1,39 @@
+slug: julian-ramirez-o-s
+nom: Julián Ramirez, O.S.
+nom_complet: Julián Ramirez
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Convent, Ucles
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1575'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bramju.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guadix, Spain
+  du: '1574-12-15'
+  au: 1581&sup1;
+- titre: évêque de Guadix
+  du: '1574-12-25'
+  au: '1581-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910117
+  catholic_hierarchy: bramju
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:01:25+00:00'
+  completeness: 0.38

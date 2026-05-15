@@ -1,0 +1,44 @@
+slug: jakob-brand
+nom: Jakob Brand
+nom_complet: null
+naissance: '1776-06-20'
+deces: '1833-10-26'
+naissance_lieu: Mespelbrunn
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1827-10-21'
+  consecrateur_principal: johann-heinrich-milz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrandj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limburg, Germany
+  du: '1827-05-21'
+  au: '1833-10-26'
+- titre: évêque de Limbourg
+  du: '1827-01-01'
+  au: '1833-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Brand%201833.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1678930
+  catholic_hierarchy: bbrandj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:48:44+00:00'
+  completeness: 0.88

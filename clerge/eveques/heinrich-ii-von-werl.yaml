@@ -1,0 +1,45 @@
+slug: heinrich-ii-von-werl
+nom: Heinrich II. von Werl
+nom_complet: Heinrich von Werl
+naissance: '1050'
+deces: '1127-10-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwerl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paderborn, Germany
+  du: 1090&sup1;
+  au: '1127-10-14'
+- titre: évêque diocésain
+  du: '1090-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Heinrichwerl.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1597792
+  catholic_hierarchy: bwerl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:53:55+00:00'
+  completeness: 0.38

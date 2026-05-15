@@ -1,0 +1,44 @@
+slug: jean-de-cojordan
+nom: Jean de Cojordan
+nom_complet: null
+naissance: null
+deces: '1361-10-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcojord.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avignon, France
+  du: '1336-05-10'
+  au: null
+- titre: Bishop of Mirepoix, France
+  du: '1349-01-23'
+  au: '1361-10-09'
+- titre: évêque d'Avignon
+  du: '1336-05-18'
+  au: null
+- titre: évêque de Mirepoix
+  du: '1349-01-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68866368
+  catholic_hierarchy: bcojord
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:28+00:00'
+  completeness: 0.38

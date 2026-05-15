@@ -1,0 +1,49 @@
+slug: thomas-cooke
+nom: Thomas Cooke
+nom_complet: null
+naissance: '1792-02-09'
+deces: '1870-04-30'
+naissance_lieu: La Pointe-du-Lac
+deces_lieu: Trois-Rivières, Diocese of Trois-Rivières, Québec
+rang: eveque
+nationalite: Q1134180
+tampon: ordo_validus
+sacre:
+  date: '1852-10-18'
+  lieu: Church, Trois-Rivières, Diocese of Trois-Rivières, Québec
+  consecrateur_principal: pierre-flavien-turgeon
+  co_consecrateurs:
+  - charles-francois-baillargeon
+  - jean-charles-prince
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcooket.html
+  - https://fr.wikipedia.org/wiki/Thomas_Cooke
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trois-Rivières, Québec, Canada
+  du: '1852-06-08'
+  au: '1870-04-30'
+- titre: évêque de Trois-Rivières
+  du: '1852-06-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cooke.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3525004
+  catholic_hierarchy: bcooket
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:16+00:00'
+  completeness: 1.0

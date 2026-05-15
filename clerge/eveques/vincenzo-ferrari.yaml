@@ -1,0 +1,54 @@
+slug: vincenzo-ferrari
+nom: Vincenzo Ferrari
+nom_complet: Vincenzo Ferreri
+naissance: null
+deces: '1579'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1550'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferrav.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montepeloso, Italy
+  du: '1550-11-05'
+  au: 1561&sup1;
+- titre: Bishop of Umbriatico (Umbriaticum), Italy
+  du: '1578-06-02'
+  au: 1579&sup2;
+- titre: évêque diocésain
+  du: '1578-06-12'
+  au: '1561-01-01'
+- titre: évêque
+  du: '1550-01-01'
+  au: '1561-01-01'
+- titre: évêque
+  du: '1564-01-01'
+  au: '1578-01-01'
+- titre: évêque
+  du: '1578-01-01'
+  au: '1579-01-01'
+- titre: Roman Catholic Bishop of Umbriatico
+  du: '1578-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60768503
+  catholic_hierarchy: bferrav
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:40:06+00:00'
+  completeness: 0.25

@@ -1,0 +1,43 @@
+slug: richard-hill
+nom: Richard Hill
+nom_complet: null
+naissance: '1401'
+deces: '1496-02-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1489-11-15'
+  consecrateur_principal: john-cardinal-morton
+  co_consecrateurs:
+  - john-alcock
+  - edward-story
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhillr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: null
+  au: '1496-02-20'
+- titre: évêque de Londres
+  du: '1489-08-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7326453
+  catholic_hierarchy: bhillr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:43:12+00:00'
+  completeness: 0.88

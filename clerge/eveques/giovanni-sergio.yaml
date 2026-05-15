@@ -1,0 +1,43 @@
+slug: giovanni-sergio
+nom: Giovanni Sergio
+nom_complet: null
+naissance: '1766-10-04'
+deces: '1827-02-27'
+naissance_lieu: San Stefano di Camastra
+deces_lieu: null
+rang: eveque
+nationalite: Q3932079
+tampon: ordo_validus
+sacre:
+  date: '1814-12-27'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - tommasso-arezzo
+  - giovanni-francesco-guerrieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsergio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cefalù, Italy
+  du: null
+  au: '1827-02-27'
+- titre: Évêque de Cefalù
+  du: '1810-02-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q41667163
+  catholic_hierarchy: bsergio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:11:08+00:00'
+  completeness: 1.0

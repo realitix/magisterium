@@ -1,0 +1,41 @@
+slug: hermann-nortorp
+nom: Hermann Nortorp
+nom_complet: Hermann Nortorp, O.P.
+naissance: '1400'
+deces: '1467'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnortorp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bremen (and Hamburg), Germany
+  du: '1453-04-11'
+  au: '1467'
+- titre: Titular Bishop of Belvoir
+  du: '1453-04-11'
+  au: null
+- titre: évêque auxiliaire
+  du: '1453-04-20'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q27301900
+  catholic_hierarchy: bnortorp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:51+00:00'
+  completeness: 0.25

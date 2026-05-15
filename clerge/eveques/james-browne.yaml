@@ -1,0 +1,53 @@
+slug: james-browne
+nom: James Browne
+nom_complet: null
+naissance: null
+deces: '1865-04-11'
+naissance_lieu: Big Barn, Co. Wexford
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1827-06-10'
+  lieu: Maynooth
+  consecrateur_principal: patrick-curtis
+  co_consecrateurs:
+  - james-keating
+  - william-crolly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrowja.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Kilmore, Ireland
+  du: '1827-03-20'
+  au: null
+- titre: Titular Bishop of Magydus
+  du: '1827-03-20'
+  au: null
+- titre: Bishop of Kilmore, Ireland
+  du: null
+  au: '1865-04-11'
+- titre: évêque de Kilmore
+  du: '1829-04-30'
+  au: null
+- titre: évêque titulaire
+  du: '1827-03-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6130373
+  catholic_hierarchy: bbrowja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:54:12+00:00'
+  completeness: 0.88

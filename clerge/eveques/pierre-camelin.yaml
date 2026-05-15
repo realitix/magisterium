@@ -1,0 +1,53 @@
+slug: pierre-camelin
+nom: Pierre Camelin
+nom_complet: null
+naissance: '1579-11-22'
+deces: '1654-02-04'
+naissance_lieu: Fréjus
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1621-12-05'
+  consecrateur_principal: barthelemy-camelin
+  co_consecrateurs:
+  - octave-isnard
+  - louis-du-chaine
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcamelinp.html
+  - https://fr.wikipedia.org/wiki/Pierre_Camelin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Fréjus, France
+  du: '1621-06-21'
+  au: null
+- titre: Titular Bishop of Philadelphia in Arabia
+  du: '1621-06-21'
+  au: null
+- titre: Bishop of Fréjus, France
+  du: null
+  au: '1654-02-04'
+- titre: évêque titulaire
+  du: '1621-06-21'
+  au: null
+- titre: évêque diocésain
+  du: '1637-06-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22210063
+  catholic_hierarchy: bcamelinp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:10:12+00:00'
+  completeness: 1.0

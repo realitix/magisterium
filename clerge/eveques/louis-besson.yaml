@@ -1,0 +1,52 @@
+slug: louis-besson
+nom: Louis Besson
+nom_complet: François-Nicolas-Xavier-Louis Besson
+naissance: '1821-10-05'
+deces: '1888-11-18'
+naissance_lieu: Baume-les-Dames
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1875-11-14'
+  lieu: Cathedral, Besançon, Archdiocese of Besançon
+  consecrateur_principal: justin-paulinier
+  co_consecrateurs:
+  - louis-marie-caverot
+  - jean-jacques-guerrin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbesson.html
+  - https://fr.wikipedia.org/wiki/Louis_Besson_(pr%C3%A9lat)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes (-Uzès e Alès), France
+  du: null
+  au: '1888-11-18'
+- titre: évêque de Nîmes
+  du: '1875-08-14'
+  au: null
+- titre: président ou présidente
+  du: '1876-01-01'
+  au: '1905-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Besan%C3%A7on%20%2825%29%20Cath%C3%A9drale%20Saint-Jean%20-%20Int%C3%A9rieur%20-%20Buste%20de%20Mgr%20Besson%20-%2002.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3083592
+  catholic_hierarchy: bbesson
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:51+00:00'
+  completeness: 1.0

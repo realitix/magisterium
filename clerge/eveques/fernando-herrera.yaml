@@ -1,0 +1,38 @@
+slug: fernando-herrera
+nom: Fernando Herrera
+nom_complet: null
+naissance: null
+deces: '1518'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bher.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gaeta, Italy
+  du: '1506-11-04'
+  au: 1518&sup2;
+- titre: évêque de Gaète
+  du: '1506-11-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27841667
+  catholic_hierarchy: bher
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:48+00:00'
+  completeness: 0.25

@@ -1,0 +1,41 @@
+slug: eutizio-parsi
+nom: Eutizio Parsi
+nom_complet: null
+naissance: '1845-10-28'
+deces: '1906-04-13'
+naissance_lieu: Civitavecchia, Diocese of Civitavecchia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1896-07-05'
+  lieu: Sacro Cuore di Gesù a Castro Pretorio, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bparsi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bagnoregio (Bagnorea), Italy
+  du: '1896-06-22'
+  au: '1906-04-13'
+- titre: évêque diocésain
+  du: '1896-06-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64692288
+  catholic_hierarchy: bparsi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:11:03+00:00'
+  completeness: 0.88

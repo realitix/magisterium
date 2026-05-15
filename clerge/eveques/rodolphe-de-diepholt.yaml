@@ -1,0 +1,52 @@
+slug: rodolphe-de-diepholt
+nom: Rodolphe de Diepholt
+nom_complet: Rudolf von Diepholz
+naissance: '1400'
+deces: '1455-03-25'
+naissance_lieu: Hunte
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: Jan 1433&sup2;
+  consecrateur_principal: johann-iii-von-diepholz
+  co_consecrateurs:
+  - wilbrand-von-hallermunt
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiepr.html
+  - https://fr.wikipedia.org/wiki/Rodolphe_de_Diepholt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Osnabrück, Germany
+  du: '1454-08-30'
+  au: null
+- titre: Bishop of Utrecht, Netherlands
+  du: null
+  au: '1455-03-25'
+- titre: administrateur apostolique
+  du: '1454-09-08'
+  au: '1455-01-01'
+- titre: évêque d'Utrecht
+  du: '1432-01-01'
+  au: '1455-01-01'
+- titre: évêque élu
+  du: '1423-01-01'
+  au: '1432-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q86391
+  catholic_hierarchy: bdiepr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:32+00:00'
+  completeness: 0.88

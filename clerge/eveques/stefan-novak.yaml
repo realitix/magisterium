@@ -1,0 +1,51 @@
+slug: stefan-novak
+nom: Stefan Novák
+nom_complet: Štefan Novák
+naissance: '1879-12-04'
+deces: '1932-09-05'
+naissance_lieu: Ubla
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1914-01-11'
+  lieu: Uzhorod
+  consecrateur_principal: antal-papp
+  co_consecrateurs:
+  - augustin-fischer-colbrie
+  - jozsef-lanyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnovaks.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pre&#353;ov (Prja&#353;ev, Eperjes) (Slovak), Slovakia
+  du: '1913-11-20'
+  au: '1918-10-01'
+- titre: Bishop Emeritus of Pre&#353;ov (Prja&#353;ev, Eperjes) (Slovak), Slovakia
+  du: null
+  au: '1932-09-05'
+- titre: Bishop of the Eparchy of Prešov
+  du: '1913-11-20'
+  au: '1918-10-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Novak.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12781739
+  catholic_hierarchy: bnovaks
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:27+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: owen-oglethorpe
+nom: Owen Oglethorpe
+nom_complet: null
+naissance: '1503'
+deces: '1559-12-31'
+naissance_lieu: Newton Kyme, near Tadcaster
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1557-08-15'
+  lieu: Saint Nicholas, Church, Chiswick
+  consecrateur_principal: nicholas-heath
+  co_consecrateurs:
+  - thomas-thirlby
+  - william-glyn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bogle.html
+  - https://fr.wikipedia.org/wiki/Owen_Oglethorpe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1557-03-24'
+  au: null
+- titre: Bishop Emeritus of Carlisle, England, Great Britain
+  du: null
+  au: '1559-12-31'
+- titre: évêque diocésain
+  du: '1557-04-03'
+  au: '1560-01-10'
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1557-04-03'
+  au: '1559-07-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6023128
+  catholic_hierarchy: bogle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:47:03+00:00'
+  completeness: 0.88

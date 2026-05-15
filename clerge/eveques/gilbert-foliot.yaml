@@ -1,0 +1,53 @@
+slug: gilbert-foliot
+nom: Gilbert Foliot
+nom_complet: Gilbert Foliot, O.S.B.
+naissance: '1110'
+deces: '1187-02-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1148-09-05'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - non-indexe-e2f9117a
+  - non-indexe-88da17b6
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfoliotg.html
+  - https://fr.wikipedia.org/wiki/Gilbert_Foliot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1148-04-16'
+  au: null
+- titre: Bishop of London, England, Great Britain
+  du: '1163-03-24'
+  au: '1187-02-18'
+- titre: évêque de Londres
+  du: '1163-03-31'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Hereford
+  du: '1148-04-23'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q5560910
+  catholic_hierarchy: bfoliotg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:50:23+00:00'
+  completeness: 0.88

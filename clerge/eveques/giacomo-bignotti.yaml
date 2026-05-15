@@ -1,0 +1,44 @@
+slug: giacomo-bignotti
+nom: Giacomo Bignotti
+nom_complet: null
+naissance: '1791-10-09'
+deces: '1857-03-07'
+naissance_lieu: Romanore
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1853-05-22'
+  lieu: Mantova, Diocese of Mantova
+  consecrateur_principal: giovanni-corti
+  co_consecrateurs:
+  - antonio-novasconi
+  - gaetano-maria-cattani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbignj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Adria, Italy
+  du: '1852-09-27'
+  au: '1857-03-07'
+- titre: évêque diocésain
+  du: '1852-09-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736111
+  catholic_hierarchy: bbignj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:27:00+00:00'
+  completeness: 1.0

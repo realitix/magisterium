@@ -1,0 +1,39 @@
+slug: paolo-del-carretto
+nom: Paolo del Carretto
+nom_complet: null
+naissance: '1509'
+deces: '1553'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: ottaviano-guasco
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdcarrp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cahors, France
+  du: '1524-07-15'
+  au: 1553&sup1;
+- titre: évêque diocésain
+  du: '1524-07-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745431
+  catholic_hierarchy: bdcarrp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:33:56+00:00'
+  completeness: 0.38

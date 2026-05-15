@@ -1,0 +1,47 @@
+slug: peter-rascher
+nom: Peter Rascher
+nom_complet: Peter von Rascher
+naissance: '1549'
+deces: '1601-01-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1582-03-25'
+  consecrateur_principal: balthasar-wurer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brascher.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: '1581-11-06'
+  au: '1601-01-03'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1581-11-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PetervRascher.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15436450
+  catholic_hierarchy: brascher
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:03:17+00:00'
+  completeness: 0.75

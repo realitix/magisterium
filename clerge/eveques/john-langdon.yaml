@@ -1,0 +1,46 @@
+slug: john-langdon
+nom: John Langdon
+nom_complet: John Langdon, O.S.B.
+naissance: null
+deces: '1434-09-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1422-06-07'
+  consecrateur_principal: henry-chicheley
+  co_consecrateurs:
+  - philip-morgan
+  - john-curley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangdonj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1421-11-17'
+  au: '1434-09-30'
+- titre: évêque de Rochester
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1421-11-26'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q6243968
+  catholic_hierarchy: blangdonj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:50+00:00'
+  completeness: 0.88

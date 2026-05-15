@@ -1,0 +1,54 @@
+slug: andrew-carruthers
+nom: Andrew Carruthers
+nom_complet: null
+naissance: '1770-02-07'
+deces: '1852-05-24'
+naissance_lieu: Drumillan Miln, New Abbey, Kirkcudbrightshire
+deces_lieu: Bishop's House, Dundee, Vicariate Apostolic of Eastern District, England
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1833-01-13'
+  lieu: Edinburgh, Vicariate Apostolic of Eastern District, England
+  consecrateur_principal: thomas-penswick
+  co_consecrateurs:
+  - andrew-scott
+  - james-kyle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarru.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Eastern District, Scotland, Great Britain
+  du: '1832-09-28'
+  au: '1852-05-24'
+- titre: Titular Bishop of Ceramus
+  du: '1832-09-28'
+  au: null
+- titre: évêque titulaire
+  du: '1832-09-28'
+  au: null
+- titre: vicaire apostolique
+  du: '1832-09-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Andrew%20Carruthers%20%281770-1852%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4756563
+  catholic_hierarchy: bcarru
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:24:59+00:00'
+  completeness: 1.0

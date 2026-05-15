@@ -1,0 +1,39 @@
+slug: ramon-nogues
+nom: Ramón Nogués
+nom_complet: null
+naissance: '1692-07-12'
+deces: '1738-10-06'
+naissance_lieu: Albelda
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: tomas-crespo-aguero
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnogues.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaca, Spain
+  du: '1734-03-24'
+  au: '1738-10-06'
+- titre: évêque de Jaca
+  du: '1734-03-24'
+  au: '1738-10-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734070
+  catholic_hierarchy: bnogues
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:36:09+00:00'
+  completeness: 0.75

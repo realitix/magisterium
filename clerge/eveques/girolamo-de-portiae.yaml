@@ -1,0 +1,38 @@
+slug: girolamo-de-portiae
+nom: Girolamo de Portiae
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bportiae.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Torcello (Turris), Italy
+  du: '1514-04-05'
+  au: 1526&sup2;
+- titre: évêque de Torcello
+  du: '1514-04-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909955
+  catholic_hierarchy: bportiae
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:44:56+00:00'
+  completeness: 0.25

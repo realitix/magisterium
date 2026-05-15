@@ -1,0 +1,52 @@
+slug: xavier-malle
+nom: Xavier Malle
+nom_complet: Xavier Maurice Henri Malle, Comm. l'Emm.
+naissance: '1965-09-14'
+deces: null
+naissance_lieu: Valenciennes, Archdiocese of Cambrai
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2017-06-11'
+  lieu: Notre-Dame-et-Saint-Arnoux, Cathedral, Gap, Diocese of Gap-Embrun
+  consecrateur_principal: georges-pontier
+  co_consecrateurs:
+  - bernard-nicolas-aubertin
+  - guy-de-kerimel
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalle.html
+  - https://fr.wikipedia.org/wiki/Xavier_Malle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap (-Embrun), France
+  du: '2017-04-08'
+  au: null
+- titre: évêque de Gap et Embrun
+  du: '2017-04-08'
+  au: null
+- titre: évêque diocésain
+  du: '2017-04-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Xavier%20Malle%20par%20Claude%20Truong-Ngoc%20ao%C3%BBt%202017.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q29253262
+  catholic_hierarchy: bmalle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:17:45+00:00'
+  completeness: 0.88

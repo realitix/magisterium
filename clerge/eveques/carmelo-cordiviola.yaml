@@ -1,0 +1,43 @@
+slug: carmelo-cordiviola
+nom: Carmelo Cordiviola
+nom_complet: null
+naissance: '1774-10-19'
+deces: '1827-08-29'
+naissance_lieu: Catania
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1820-10-08'
+  consecrateur_principal: giulio-maria-della-somaglia
+  co_consecrateurs:
+  - michele-belli
+  - candido-maria-frattini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcordiv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albenga, Italy
+  du: null
+  au: '1827-08-29'
+- titre: évêque d'Albenga-Imperia
+  du: '1820-06-24'
+  au: '1827-08-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763919
+  catholic_hierarchy: bcordiv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:05:46+00:00'
+  completeness: 1.0

@@ -1,0 +1,42 @@
+slug: leonardo-levato
+nom: Leonardo Levato
+nom_complet: null
+naissance: null
+deces: '1533'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1519-03-21'
+  consecrateur_principal: vincenzo-de-andreis-o-p
+  co_consecrateurs:
+  - antonio-de-avila-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blevato.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belcastro, Italy
+  du: '1518-08-23'
+  au: 1533&sup1;
+- titre: évêque diocésain
+  du: '1518-09-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26763902
+  catholic_hierarchy: blevato
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:47:19+00:00'
+  completeness: 0.75

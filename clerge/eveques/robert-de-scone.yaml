@@ -1,0 +1,49 @@
+slug: robert-de-scone
+nom: Robert de Scone
+nom_complet: Robert of Scone, O.E.S.A.
+naissance: '1001'
+deces: '1159'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1127'
+  consecrateur_principal: thurstan-de-bayeux
+  co_consecrateurs:
+  - rainulf-flambard
+  - john-capellanus
+  - radulf-novell
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brbrts.html
+  - https://fr.wikipedia.org/wiki/Robert_de_Scone
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: 1122&sup2;
+  au: 1159&sup2;
+- titre: évêque de Saint Andrews
+  du: '1124-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20of%20Scone%20-%20seal%2C%20c%201150.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3436730
+  catholic_hierarchy: brbrts
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:05:10+00:00'
+  completeness: 0.75

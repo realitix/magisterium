@@ -1,0 +1,42 @@
+slug: robert-de-stretton
+nom: Robert de Stretton
+nom_complet: Robert Stretton
+naissance: '1301'
+deces: '1385-03-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1360-09-27'
+  consecrateur_principal: michael-de-northburgh
+  co_consecrateurs:
+  - john-sheppey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstret.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1360-04-22'
+  au: '1385-03-28'
+- titre: évêque de Coventry et Lichfield
+  du: '1360-04-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7351437
+  catholic_hierarchy: bstret
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:40:56+00:00'
+  completeness: 0.88

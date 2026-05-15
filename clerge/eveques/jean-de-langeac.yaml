@@ -1,0 +1,55 @@
+slug: jean-de-langeac
+nom: Jean de Langeac
+nom_complet: null
+naissance: '1500'
+deces: '1541-07-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangeac.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Langeac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avranches, France
+  du: '1526-10-22'
+  au: null
+- titre: Bishop of Limoges, France
+  du: '1532-04-17'
+  au: '1541-07-25'
+- titre: évêque de Limoges
+  du: '1533-01-01'
+  au: '1541-01-01'
+- titre: abbé commendataire
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1526-11-01'
+  au: null
+- titre: évêque diocésain
+  du: '1532-04-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Man%2C%20Possibly%20Jean%20de%20Langeac%20%28died%201541%29%2C%20Bishop%20of%20Limoges%20MET%20ep91.26.3.bw.R.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q18578100
+  catholic_hierarchy: blangeac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:52+00:00'
+  completeness: 0.38

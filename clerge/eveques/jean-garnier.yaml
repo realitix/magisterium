@@ -1,0 +1,40 @@
+slug: jean-garnier
+nom: Jean Garnier
+nom_complet: Jean Garnier, O.S.B.
+naissance: '1544'
+deces: '1607-09-15'
+naissance_lieu: Bourguignons
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1603'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarnj.html
+  - https://fr.wikipedia.org/wiki/Jean_Garnier_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montpellier, France
+  du: '1602-12-11'
+  au: '1607-09-15'
+- titre: évêque de Montpellier
+  du: '1602-12-11'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q25301444
+  catholic_hierarchy: bgarnj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:11:45+00:00'
+  completeness: 0.5

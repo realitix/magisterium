@@ -1,0 +1,57 @@
+slug: gregorij-rozman
+nom: Gregorij Rožman
+nom_complet: "Gregor Ro\x9Eman"
+naissance: '1883-03-09'
+deces: '1959-11-16'
+naissance_lieu: Smikel pri Pliberku
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1929-07-14'
+  consecrateur_principal: anton-bonaventura-jeglic
+  co_consecrateurs:
+  - andrej-karlin
+  - josip-srebrnic
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brozm.html
+  - https://fr.wikipedia.org/wiki/Gregorij_Ro%C5%BEman
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Ljubljana, Slovenia
+  du: '1929-03-17'
+  au: null
+- titre: Titular Bishop of Semta
+  du: '1929-03-17'
+  au: null
+- titre: Bishop of Ljubljana, Slovenia
+  du: null
+  au: '1959-11-16'
+- titre: bishop of Ljubljana
+  du: '1930-05-17'
+  au: null
+- titre: évêque titulaire
+  du: '1929-03-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gregorij%20Ro%C5%BEman.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q79126
+  catholic_hierarchy: brozm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:33:26+00:00'
+  completeness: 1.0

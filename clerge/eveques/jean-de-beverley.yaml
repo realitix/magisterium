@@ -1,0 +1,54 @@
+slug: jean-de-beverley
+nom: Jean de Beverley
+nom_complet: St. John of Beverly
+naissance: '700'
+deces: '721'
+naissance_lieu: Harpham
+deces_lieu: null
+rang: eveque
+nationalite: Q107299
+tampon: ordo_incertus
+sacre:
+  date: '25'
+  consecrateur_principal: st-theodore-of-tarsus
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbevrly.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Beverley
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hexham, England, Great Britain
+  du: 687&sup1;
+  au: null
+- titre: Bishop of York, England, Great Britain
+  du: 705&sup2;
+  au: 718&sup2;
+- titre: Bishop Emeritus of York, England, Great Britain
+  du: null
+  au: 7 May 721
+- titre: évêque de Hexham
+  du: null
+  au: null
+- titre: bishop of York
+  du: '0705-01-01'
+  au: '0718-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20-%20St%20John%20of%20Beverley%20on%20the%20Minster.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1702263
+  catholic_hierarchy: bbevrly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:35+00:00'
+  completeness: 0.75

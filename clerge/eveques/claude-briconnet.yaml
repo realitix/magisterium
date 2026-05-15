@@ -1,0 +1,51 @@
+slug: claude-briconnet
+nom: Claude Briçonnet
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbricoc.html
+  - https://fr.wikipedia.org/wiki/Claude_Bri%C3%A7onnet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes, France
+  du: '1554-08-03'
+  au: null
+- titre: Bishop of Lodève, France
+  du: '1561-06-13'
+  au: 1566&sup1;
+- titre: évêque de Nîmes
+  du: '1554-08-13'
+  au: null
+- titre: évêque diocésain
+  du: null
+  au: null
+- titre: évêque de Lodève
+  du: '1561-06-23'
+  au: '1566-01-01'
+- titre: abbé
+  du: '1554-01-01'
+  au: '1576-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19606865
+  catholic_hierarchy: bbricoc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:51:59+00:00'
+  completeness: 0.25

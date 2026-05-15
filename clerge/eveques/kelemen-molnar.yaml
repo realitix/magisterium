@@ -1,0 +1,38 @@
+slug: kelemen-molnar
+nom: Kelemen Molnár
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmolnar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gy&#337;r (Raab), Hungary
+  du: '1418-02-16'
+  au: 1438&sup2;
+- titre: évêque diocésain
+  du: '1418-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108463402
+  catholic_hierarchy: bmolnar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:04:01+00:00'
+  completeness: 0.25

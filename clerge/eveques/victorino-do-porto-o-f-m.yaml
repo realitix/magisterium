@@ -1,0 +1,46 @@
+slug: victorino-do-porto-o-f-m
+nom: Victorino do Porto, O.F.M.
+nom_complet: Victorino do Porto
+naissance: '1650'
+deces: '1705-01-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1687-09-14'
+  consecrateur_principal: verissimo-de-lencastre
+  co_consecrateurs:
+  - manoel-pereira-o-p
+  - manoel-da-ressurreicao-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoporto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Cabo Verde
+  du: '1687-05-12'
+  au: '1705-01-21'
+- titre: évêque de Santiago du Cap-Vert
+  du: '1687-05-12'
+  au: null
+- titre: Governor of Cape Verde
+  du: '1688-06-01'
+  au: '1690-03-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64764046
+  catholic_hierarchy: bdoporto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:01:39+00:00'
+  completeness: 0.88

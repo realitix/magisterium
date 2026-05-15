@@ -1,0 +1,42 @@
+slug: olivier-de-sutton
+nom: Olivier de Sutton
+nom_complet: Oliver Sutton
+naissance: '1219'
+deces: '1299-11-13'
+naissance_lieu: null
+deces_lieu: Nettleham
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1280-05-19'
+  lieu: Canterbury, Archdiocese of Canterbury, England
+  consecrateur_principal: john-peckham-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsuttono.html
+  - https://fr.wikipedia.org/wiki/Olivier_de_Sutton
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: null
+  au: '1299-11-13'
+- titre: évêque de Lincoln
+  du: '1280-02-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3351477
+  catholic_hierarchy: bsuttono
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:44:47+00:00'
+  completeness: 0.75

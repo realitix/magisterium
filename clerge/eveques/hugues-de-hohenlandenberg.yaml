@@ -1,0 +1,52 @@
+slug: hugues-de-hohenlandenberg
+nom: Hugues de Hohenlandenberg
+nom_complet: Hugo von Hohenladenburg
+naissance: '1457'
+deces: '1532-01-07'
+naissance_lieu: Hegi
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1496-12-18'
+  consecrateur_principal: berthold-von-henneberg
+  co_consecrateurs:
+  - heinrich-von-hewen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhohhu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: null
+  au: '1532-01-07'
+- titre: évêque diocésain
+  du: '1531-06-11'
+  au: '1529-01-15'
+- titre: évêque diocésain
+  du: '1496-05-16'
+  au: '1529-01-15'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20von%20Hohenlandenberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q102808
+  catholic_hierarchy: bhohhu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:28+00:00'
+  completeness: 0.88

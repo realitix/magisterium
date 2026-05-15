@@ -1,0 +1,44 @@
+slug: juan-bonilla
+nom: Juan Bonilla
+nom_complet: Juan Bonilla, O. Carm.
+naissance: '1636-04-19'
+deces: '1696-04-01'
+naissance_lieu: Valladolid, Diocese of Valladolid, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1689-03-06'
+  lieu: S. Maria Transpontina, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: galeazzo-marescotti
+  co_consecrateurs:
+  - alberto-mugiasca-o-p
+  - alberto-sebastiano-botti-blotto-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonella.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ariano, Italy
+  du: '1689-02-28'
+  au: Apr 1696&sup3;
+- titre: Roman Catholic Bishop of Ariano
+  du: '1689-02-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27824200
+  catholic_hierarchy: bbonella
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:37:17+00:00'
+  completeness: 0.88

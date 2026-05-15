@@ -1,0 +1,48 @@
+slug: fintan-gavin
+nom: Fintan Gavin
+nom_complet: null
+naissance: '1966'
+deces: null
+naissance_lieu: Marino, Dublin, Archdiocese of Dublin
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2019-06-30'
+  lieu: St. Mary and St. Anne, Cathedral, Cork, Diocese of Cork and Ross
+  consecrateur_principal: john-buckley
+  co_consecrateurs:
+  - kieran-o-reilly
+  - diarmuid-martin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgavinf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cork and Ross, Ireland
+  du: '2019-04-08'
+  au: null
+- titre: évêque de Cork et Ross
+  du: '2019-04-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fintan%20Gavin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q63030440
+  catholic_hierarchy: bgavinf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:35+00:00'
+  completeness: 0.88

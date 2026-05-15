@@ -1,0 +1,45 @@
+slug: rene-potier
+nom: René Potier
+nom_complet: null
+naissance: '1505'
+deces: '1616-10-04'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: Beauvais, Diocese of Beauvais
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1597-02-24'
+  lieu: Ste Genevieve, Paris, Diocese of Paris
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - geoffroy-de-la-marthonie
+  - charles-de-bourgneuf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpotie.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Potier_(%C3%A9v%C3%AAque_de_Beauvais)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Beauvais, France
+  du: '1596-09-23'
+  au: '1616-10-04'
+- titre: évêque diocésain
+  du: '1596-09-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027444
+  catholic_hierarchy: bpotie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:01+00:00'
+  completeness: 0.88

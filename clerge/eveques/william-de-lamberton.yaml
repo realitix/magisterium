@@ -1,0 +1,48 @@
+slug: william-de-lamberton
+nom: William de Lamberton
+nom_complet: null
+naissance: '1300'
+deces: '1328-05-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1298-06-01'
+  consecrateur_principal: matteo-d-acquasparta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blambertn.html
+  - https://fr.wikipedia.org/wiki/William_de_Lamberton
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: '1298-06-01'
+  au: 1328&sup2;
+- titre: gardien de l'Écosse
+  du: null
+  au: null
+- titre: évêque de Saint Andrews
+  du: '1298-06-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lamberton.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q981395
+  catholic_hierarchy: blambertn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:36+00:00'
+  completeness: 0.62

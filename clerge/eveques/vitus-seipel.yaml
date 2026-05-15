@@ -1,0 +1,51 @@
+slug: vitus-seipel
+nom: Vitus Seipel
+nom_complet: Vit Christophor Seipel, O. Praem.
+naissance: '1650-12-21'
+deces: '1711-03-09'
+naissance_lieu: Jihlava, Diocese of Olomouc (Olmütz)
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1701-02-24'
+  lieu: S. Guy, Cathedral, Praha, Archdiocese of Praha {Prague}
+  consecrateur_principal: johann-joseph-von-breuner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseipel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Praha {Prague}, Czechia
+  du: '1701-01-03'
+  au: '1711-03-09'
+- titre: Titular Bishop of Hierapolis in Isauria
+  du: '1701-01-03'
+  au: null
+- titre: évêque titulaire
+  du: '1701-01-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '1701-01-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Obispo.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q99834
+  catholic_hierarchy: bseipel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:39+00:00'
+  completeness: 0.88

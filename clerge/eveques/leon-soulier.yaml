@@ -1,0 +1,59 @@
+slug: leon-soulier
+nom: Léon Soulier
+nom_complet: Léon-Raymond Soulier
+naissance: '1924-01-13'
+deces: '2016-12-25'
+naissance_lieu: Villechailles
+deces_lieu: Chirac
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1971-09-12'
+  consecrateur_principal: rene-boudon
+  co_consecrateurs:
+  - roger-tort
+  - sabin-marie-saint-gaudens
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsoulier.html
+  - https://fr.wikipedia.org/wiki/L%C3%A9on_Soulier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers (-Couserans-Mirepoix), France
+  du: '1971-06-22'
+  au: null
+- titre: Coadjutor Bishop of Limoges, France
+  du: '1987-07-09'
+  au: null
+- titre: Bishop of Limoges, France
+  du: null
+  au: '1988-07-13'
+- titre: Bishop Emeritus of Limoges, France
+  du: null
+  au: '2016-12-25'
+- titre: évêque diocésain
+  du: '1971-06-22'
+  au: null
+- titre: évêque diocésain
+  du: '1988-07-13'
+  au: '2000-10-24'
+- titre: évêque de Limoges
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q514469
+  catholic_hierarchy: bsoulier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:30:11+00:00'
+  completeness: 1.0

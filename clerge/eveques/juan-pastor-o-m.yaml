@@ -1,0 +1,47 @@
+slug: juan-pastor-o-m
+nom: Juan Pastor, O.M.
+nom_complet: Juan Pastor
+naissance: '1550'
+deces: '1664'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1638-09-12'
+  consecrateur_principal: francesco-maria-cardinal-brancaccio
+  co_consecrateurs:
+  - tommaso-carafa
+  - giambattista-altieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpastor.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Crotone (Cotrone), Italy
+  du: '1638-08-30'
+  au: 1664&sup1;
+- titre: Roman Catholic Bishop of Crotone
+  du: '1638-08-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Fr.%20Juan%20Pastor%2C%20O.M..png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q28549778
+  catholic_hierarchy: bpastor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:12:50+00:00'
+  completeness: 0.75

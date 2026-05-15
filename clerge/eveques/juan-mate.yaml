@@ -1,0 +1,38 @@
+slug: juan-mate
+nom: Juan Maté
+nom_complet: null
+naissance: null
+deces: '1212-07-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmate.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Burgos, Spain
+  du: Nov 1211&sup3;
+  au: '1212-07-18'
+- titre: évêque diocésain
+  du: '1211-11-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108451641
+  catholic_hierarchy: bmate
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:37:18+00:00'
+  completeness: 0.38

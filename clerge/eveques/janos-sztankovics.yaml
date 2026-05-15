@@ -1,0 +1,44 @@
+slug: janos-sztankovics
+nom: János Sztankovics
+nom_complet: János Sztankovits
+naissance: '1781-06-02'
+deces: '1848-03-07'
+naissance_lieu: Léva, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1838-10-28'
+  lieu: Cathedral, Gy&#337;r, Diocese of Gy&#337;r (Raab)
+  consecrateur_principal: ferenc-nadasdy
+  co_consecrateurs:
+  - laszlo-barkoczy
+  - elek-jordanszky
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsztank.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gy&#337;r (Raab), Hungary
+  du: null
+  au: '1848-03-07'
+- titre: évêque de Győr
+  du: '1838-03-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24974260
+  catholic_hierarchy: bsztank
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:47:34+00:00'
+  completeness: 1.0

@@ -1,0 +1,35 @@
+slug: angelo-de-macerata
+nom: Angelo de Macerata
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmacerat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albania
+  du: '1494-10-01'
+  au: 1506&sup1;
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905952
+  catholic_hierarchy: bmacerat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.11
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:09:21+00:00'
+  completeness: 0.25

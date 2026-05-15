@@ -1,0 +1,58 @@
+slug: johannes-von-euch
+nom: Johannes von Euch
+nom_complet: Johannes Von Euch
+naissance: '1834-01-21'
+deces: '1922-03-17'
+naissance_lieu: Meppen, Germany
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1892-09-08'
+  lieu: Osnabrück, Diocese of Osnabrück, Germany
+  consecrateur_principal: bernhard-hoting
+  co_consecrateurs:
+  - hermann-dingelstad
+  - anton-hubert-fischer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvoneuch.html
+  - https://fr.wikipedia.org/wiki/Johannes_von_Euch
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prefect of Denmark
+  du: '1884-02-17'
+  au: null
+- titre: Vicar Apostolic of Denmark
+  du: '1892-03-15'
+  au: '1922-03-17'
+- titre: Titular Bishop of Anastasiopolis
+  du: '1892-03-15'
+  au: null
+- titre: vicaire apostolique
+  du: '1892-03-15'
+  au: '1922-03-17'
+- titre: évêque titulaire
+  du: '1892-03-15'
+  au: '1922-03-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20von%20Euch%201893.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q91095
+  catholic_hierarchy: bvoneuch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:45:56+00:00'
+  completeness: 1.0

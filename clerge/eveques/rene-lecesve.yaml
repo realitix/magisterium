@@ -1,0 +1,48 @@
+slug: rene-lecesve
+nom: René Lecesve
+nom_complet: '[Constitutional Bishop René Lecesve]'
+naissance: '1733-11-01'
+deces: '1791-04-22'
+naissance_lieu: Poitiers
+deces_lieu: Poitiers
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-03-27'
+  lieu: Notre-Dame, Paris, Archdiocese of Paris
+  consecrateur_principal: jean-baptiste-gobel
+  co_consecrateurs:
+  - jean-baptiste-miroudot-du-bourg
+  - jean-baptiste-pierre-saurine
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blecesve.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Lecesve
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Vienne (Constitutional), France]
+  du: null
+  au: '1791-04-22'
+- titre: député français
+  du: null
+  au: null
+- titre: évêque constitutionnel
+  du: '1791-02-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3426505
+  catholic_hierarchy: blecesve
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:34+00:00'
+  completeness: 0.88

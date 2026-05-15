@@ -1,0 +1,48 @@
+slug: hippolyte-de-bethune
+nom: Hippolyte de Béthune
+nom_complet: null
+naissance: '1643'
+deces: '1720-08-24'
+naissance_lieu: Bolainville
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1681-08-03'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - francois-de-clermont-tonnerre
+  - jean-d-rsquo-estrees
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbethune.html
+  - https://fr.wikipedia.org/wiki/Hippolyte_de_B%C3%A9thune_(1643-1720)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: null
+  au: '1720-08-24'
+- titre: évêque de Verdun
+  du: '1681-06-23'
+  au: '1720-08-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hippolyte%20de%20B%C3%A9thune.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3136149
+  catholic_hierarchy: bbethune
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:07+00:00'
+  completeness: 0.88

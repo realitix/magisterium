@@ -1,0 +1,44 @@
+slug: mario-de-luca
+nom: Mario De Luca
+nom_complet: null
+naissance: '1811-02-09'
+deces: '1855-03-24'
+naissance_lieu: Serracapriola
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1852-09-29'
+  lieu: Santi Vincenzo e Anastasio a Trevi, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - giovanni-francesco-cometti-rossi
+  - michael-o-connor-1810
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelucam.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gravina e Irsina (Montepeloso), Italy
+  du: null
+  au: '1855-03-24'
+- titre: évêque diocésain
+  du: '1852-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747515
+  catholic_hierarchy: bdelucam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:41:19+00:00'
+  completeness: 1.0

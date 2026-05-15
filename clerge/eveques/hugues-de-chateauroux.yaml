@@ -1,0 +1,38 @@
+slug: hugues-de-chateauroux
+nom: Hugues de Chateauroux
+nom_complet: Hugues de Cháteroux
+naissance: null
+deces: '1271-10-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdchateuh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: 1259&sup1;
+  au: '1271-10-14'
+- titre: évêque de Poitiers
+  du: '1259-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449618
+  catholic_hierarchy: bdchateuh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:34:30+00:00'
+  completeness: 0.38

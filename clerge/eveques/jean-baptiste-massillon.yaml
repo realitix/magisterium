@@ -1,0 +1,54 @@
+slug: jean-baptiste-massillon
+nom: Jean-Baptiste Massillon
+nom_complet: Jean-Baptiste Massillon, C.O.I.
+naissance: '1663-06-24'
+deces: '1742-09-28'
+naissance_lieu: Hières
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1718-12-21'
+  consecrateur_principal: andre-hercule-de-fleury
+  co_consecrateurs:
+  - louis-de-la-vergne-montenard-de-tressan-1670
+  - francois-lefebvre-de-caumartin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmassil.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Massillon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: null
+  au: '1742-09-28'
+- titre: fauteuil 4 de l'Académie française
+  du: '1718-12-29'
+  au: '1742-09-28'
+- titre: évêque de Clermont
+  du: '1717-11-12'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Massillon%20-%20Versailles%20MV%202967.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1381729
+  catholic_hierarchy: bmassil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:36:15+00:00'
+  completeness: 1.0

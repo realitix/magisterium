@@ -1,0 +1,44 @@
+slug: melchior-de-marconnay
+nom: Melchior de Marconnay
+nom_complet: Melchior de Marconnai
+naissance: null
+deces: '1618-03-07'
+naissance_lieu: Poitou
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1602-03-03'
+  consecrateur_principal: charles-de-balsac
+  co_consecrateurs:
+  - bertrand-d-eschaud
+  - claude-dormy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarconn.html
+  - https://fr.wikipedia.org/wiki/Melchior_de_Marconnay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc, France
+  du: '1601-11-19'
+  au: '1618-03-07'
+- titre: évêque diocésain
+  du: '1601-11-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22248851
+  catholic_hierarchy: bmarconn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:25:20+00:00'
+  completeness: 0.88

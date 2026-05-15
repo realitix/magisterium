@@ -1,0 +1,38 @@
+slug: nicholas-weston
+nom: Nicholas Weston
+nom_complet: null
+naissance: null
+deces: '1484-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweston.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Derry, Ireland
+  du: '1466-02-21'
+  au: Dec 1484&sup3;
+- titre: évêque diocésain
+  du: '1466-03-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68912518
+  catholic_hierarchy: bweston
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:26+00:00'
+  completeness: 0.25

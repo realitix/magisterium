@@ -1,0 +1,43 @@
+slug: francesco-voto
+nom: Francesco Voto
+nom_complet: null
+naissance: '1927-04-04'
+deces: '1982-12-21'
+naissance_lieu: Oriolo Calabro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1981-01-06'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - giovanni-canestri
+  - belchior-joaquim-da-silva-neto
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvoto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castellaneta, Italy
+  du: '1980-12-22'
+  au: '1982-12-21'
+- titre: évêque diocésain
+  du: '1980-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761958
+  catholic_hierarchy: bvoto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:46:17+00:00'
+  completeness: 0.88

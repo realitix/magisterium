@@ -1,0 +1,52 @@
+slug: henri-pinault
+nom: Henri Pinault
+nom_complet: Henri-Marie-Ernest-Désiré Pinault, M.E.P.
+naissance: '1904-09-07'
+deces: '1987-02-24'
+naissance_lieu: Trévérien, Archdiocese of Rennes (-Dol-Saint-Malo), France
+deces_lieu: Évran, Diocese of Saint-Brieuc (-Tréguier), France
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1949-09-21'
+  lieu: Chengtu, Diocese of Chengdu [Chengtu]
+  consecrateur_principal: louis-gabriel-xavier-jantzen
+  co_consecrateurs:
+  - rene-desire-romain-boisguerin
+  - paul-wang-wencheng
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpinault.html
+  - https://fr.wikipedia.org/wiki/Henri_Pinault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chengdu [Chengtu], China
+  du: '1949-07-14'
+  au: null
+- titre: Bishop Emeritus of Chengdu [Chengtu], China
+  du: null
+  au: '1987-02-24'
+- titre: évêque diocésain
+  du: '1949-07-14'
+  au: '1983-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Pinault%201945%20passport%20photo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3131792
+  catholic_hierarchy: bpinault
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:33:47+00:00'
+  completeness: 1.0

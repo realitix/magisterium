@@ -1,0 +1,42 @@
+slug: costanzo-fondulo
+nom: Costanzo Fondulo
+nom_complet: null
+naissance: '1350'
+deces: '1423'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: giacomo-balardi-arrigoni-o-p
+  co_consecrateurs:
+  - alessio-di-siregno-o-f-m
+  - pietro-grassi
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfondulo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cremona, Italy
+  du: '1412-03-28'
+  au: 1423&sup1;
+- titre: évêque diocésain
+  du: '1412-04-06'
+  au: '1423-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55979353
+  catholic_hierarchy: bfondulo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:50:32+00:00'
+  completeness: 0.62

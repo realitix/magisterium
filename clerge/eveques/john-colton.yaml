@@ -1,0 +1,36 @@
+slug: john-colton
+nom: John Colton
+nom_complet: null
+naissance: null
+deces: '1404-05-01'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1383-03-08'
+  consecrateur_principal: william-courtenay
+  co_consecrateurs:
+  - thomas-arundel
+  - john-gilbert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoltonj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Armagh, Ireland
+  du: 1381&sup1;
+  au: '1404-05-01'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bcoltonj
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:04+00:00'
+  completeness: 0.88

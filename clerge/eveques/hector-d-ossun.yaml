@@ -1,0 +1,48 @@
+slug: hector-d-ossun
+nom: Hector d'Ossun
+nom_complet: Hector d&rsquo;Ossun
+naissance: '1494'
+deces: '1574-09-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1550-07-27'
+  consecrateur_principal: benoit-de-rocha-o-carm
+  co_consecrateurs:
+  - pierre-de-bisqueres
+  - charles-antoine-de-vesc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdossun.html
+  - https://fr.wikipedia.org/wiki/Hector_d%27Ossun
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Lizier de) Couserans (or Conserans), France
+  du: '1549-03-13'
+  au: '1574-09-30'
+- titre: évêque diocésain
+  du: '1549-03-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hector%20d%27Ossun.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3129292
+  catholic_hierarchy: bdossun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:05+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: john-connolly
+nom: John Connolly
+nom_complet: John Connolly, O.P.
+naissance: '1751'
+deces: '1825-02-06'
+naissance_lieu: Monknewtown, Diocese of Meath, Ireland
+deces_lieu: New York, Diocese of New York, New York
+rang: eveque
+nationalite: Q27
+tampon: ordo_validus
+sacre:
+  date: '1814-11-06'
+  lieu: Ss. Domenico e Sisto, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: cesare-brancadoro
+  co_consecrateurs:
+  - giovanni-francesco-guerrieri
+  - giovanni-marchetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconnj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of New York, New York, USA
+  du: '1814-10-04'
+  au: '1825-02-06'
+- titre: évêque de New York
+  du: '1814-10-04'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Connolly.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6226899
+  catholic_hierarchy: bconnj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:18+00:00'
+  completeness: 0.88

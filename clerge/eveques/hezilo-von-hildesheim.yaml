@@ -1,0 +1,46 @@
+slug: hezilo-von-hildesheim
+nom: Hezilo von Hildesheim
+nom_complet: Hezel of Hildesheim
+naissance: '1020'
+deces: '1079-08-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhildh.html
+  - https://fr.wikipedia.org/wiki/Hezilo_de_Hildesheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: 1054&sup2;
+  au: '1079-08-05'
+- titre: évêque diocésain
+  du: '1054-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/17%20Hezilo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q122629
+  catholic_hierarchy: bhildh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:58+00:00'
+  completeness: 0.38

@@ -1,0 +1,53 @@
+slug: jean-de-bertier
+nom: Jean de Bertier
+nom_complet: Jean Bertier
+naissance: '1556'
+deces: '1620-07-15'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1603-04-06'
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - henri-de-gondi
+  - bertrand-d-eschaud
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertij.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Bertier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Rieux, France
+  du: '1602-02-25'
+  au: null
+- titre: Titular Bishop of Auzia
+  du: '1602-02-25'
+  au: null
+- titre: Bishop of Rieux, France
+  du: null
+  au: '1620-07-15'
+- titre: évêque diocésain
+  du: '1602-08-31'
+  au: null
+- titre: évêque titulaire
+  du: '1602-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21634619
+  catholic_hierarchy: bbertij
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:22:39+00:00'
+  completeness: 0.88

@@ -1,0 +1,38 @@
+slug: raimond-bot
+nom: Raimond Bot
+nom_complet: Raymond Bot
+naissance: null
+deces: '1303-08-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbotra.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1275-09-05'
+  au: 22 Aug 1303&sup3;
+- titre: évêque d'Apt
+  du: '1275-09-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q69125991
+  catholic_hierarchy: bbotra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:43:02+00:00'
+  completeness: 0.38

@@ -1,0 +1,54 @@
+slug: gyula-czapik
+nom: Gyula Czapik
+nom_complet: null
+naissance: '1887-12-03'
+deces: '1956-04-25'
+naissance_lieu: Szeged
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1939-08-27'
+  lieu: University, Church, Budapest
+  consecrateur_principal: jusztinian-seredi
+  co_consecrateurs:
+  - istvan-breyer
+  - istvan-madarasz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bczapik.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veszprém, Hungary
+  du: '1939-07-19'
+  au: null
+- titre: Archbishop of Eger, Hungary
+  du: '1943-05-07'
+  au: '1956-04-25'
+- titre: archevêque d'Eger
+  du: '1943-05-07'
+  au: null
+- titre: évêque de Veszprém
+  du: '1939-07-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Czapik%20Gyula%20%281887-1956%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q899876
+  catholic_hierarchy: bczapik
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:20:20+00:00'
+  completeness: 1.0

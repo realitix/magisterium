@@ -1,0 +1,48 @@
+slug: istvan-lipovniczky
+nom: István Lipovniczky
+nom_complet: "István (\x8Atefan) Lipovniczky"
+naissance: '1814-08-14'
+deces: '1885-08-12'
+naissance_lieu: Aranyosmarót, Archdiocese of Esztergom, Hungary
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1869-05-23'
+  lieu: Esztergom, Archdiocese of Esztergom, Hungary
+  consecrateur_principal: janos-simor
+  co_consecrateurs:
+  - janos-zalka
+  - jozsef-szabo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blipo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oradea Mare {Gran Varadino, Nagyvárad}, Romania
+  du: null
+  au: '1885-08-12'
+- titre: évêque d'Oradea Mare
+  du: '1868-11-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lipovniczky%20Istv%C3%A1n%201885%20Th.%20Mayerhofer.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15220632
+  catholic_hierarchy: blipo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:51:48+00:00'
+  completeness: 1.0

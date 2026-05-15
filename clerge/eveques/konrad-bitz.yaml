@@ -1,0 +1,39 @@
+slug: konrad-bitz
+nom: Konrad Bitz
+nom_complet: Conrad Bitz
+naissance: '1500'
+deces: '1489'
+naissance_lieu: null
+deces_lieu: Kustö
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  lieu: Siena, Archdiocese of Siena, Italy
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbitz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &Aring;bo, Finland
+  du: '1460-07-04'
+  au: '1489-03-13'
+- titre: Roman Catholic Bishop of Åbo
+  du: '1460-07-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1400577
+  catholic_hierarchy: bbitz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:14+00:00'
+  completeness: 0.38

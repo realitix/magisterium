@@ -1,0 +1,39 @@
+slug: durand-sapelli-o-f-m
+nom: Durand Sapelli, O.F.M.
+nom_complet: Durand Sapelli
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1450-11-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsapelli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Mauriana
+  du: '1450-11-06'
+  au: null
+- titre: évêque titulaire
+  du: '1450-11-06'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68910510
+  catholic_hierarchy: bsapelli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:52:53+00:00'
+  completeness: 0.25

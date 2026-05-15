@@ -1,0 +1,47 @@
+slug: benoit-ii
+nom: Benoît II
+nom_complet: Benedict II
+naissance: '635'
+deces: '685'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q12544
+tampon: ordo_incertus
+sacre:
+  date: '26'
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbenedii.html
+  - https://fr.wikipedia.org/wiki/Beno%C3%AEt_II
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Priest
+  du: 681&sup1;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: Jul 683&sup3;
+  au: 8 May 685
+- titre: pape
+  du: '0684-07-02'
+  au: '0685-05-08'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BenedictII.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q163787
+  catholic_hierarchy: bbenedii
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:16:33+00:00'
+  completeness: 0.5

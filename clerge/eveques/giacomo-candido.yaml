@@ -1,0 +1,43 @@
+slug: giacomo-candido
+nom: Giacomo Candido
+nom_complet: null
+naissance: '1566'
+deces: '1608-08-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-11-19'
+  consecrateur_principal: fabio-biondi
+  co_consecrateurs:
+  - metello-cardinal-bichi
+  - angelo-rocca
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcandidog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lacedonia, Italy
+  du: '1606-11-13'
+  au: 1608-08
+- titre: Roman Catholic Bishop of Lacedonia
+  du: '1606-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15812230
+  catholic_hierarchy: bcandidog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:13:10+00:00'
+  completeness: 0.75

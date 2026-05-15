@@ -1,0 +1,44 @@
+slug: egidio-bignamini
+nom: Egidio Bignamini
+nom_complet: null
+naissance: '1887-08-26'
+deces: '1966-12-21'
+naissance_lieu: Santa Cristina e Bissone, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1945-12-02'
+  lieu: Treviglio, Archdiocese of Milano {Milan}
+  consecrateur_principal: alfredo-ildefonso-schuster
+  co_consecrateurs:
+  - norberto-perini
+  - domenico-bernareggi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbign.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Ancona e Numana, Italy
+  du: '1945-11-18'
+  au: '1966-12-21'
+- titre: Archbishop of Ancona and Numana
+  du: '1945-12-02'
+  au: '1966-12-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60582289
+  catholic_hierarchy: bbign
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:26:58+00:00'
+  completeness: 1.0

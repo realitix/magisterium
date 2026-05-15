@@ -1,0 +1,51 @@
+slug: john-arundel-1435
+nom: John Arundel
+nom_complet: John Arundell
+naissance: '1435'
+deces: '1504-03-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1496-11-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barundelj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1496-08-03'
+  au: null
+- titre: Bishop of Exeter, England, Great Britain
+  du: '1502-04-08'
+  au: '1504-03-15'
+- titre: évêque d'Exeter
+  du: '1502-04-18'
+  au: null
+- titre: Canon of the First Stall
+  du: '1479-11-26'
+  au: '1496-01-01'
+- titre: évêque de Coventry et Lichfield
+  du: '1496-08-12'
+  au: null
+- titre: doyen d'Exeter
+  du: '1482-01-01'
+  au: '1496-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6219518
+  catholic_hierarchy: barundelj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.5

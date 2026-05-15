@@ -1,0 +1,42 @@
+slug: andreas-piperi
+nom: Andreas Piperi
+nom_complet: null
+naissance: null
+deces: '1473'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1468'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpiperi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dorpat (Tartu), Estonia
+  du: '1468-12-05'
+  au: 1473&sup1;
+- titre: évêque
+  du: '1468-01-01'
+  au: '1473-01-01'
+- titre: Roman Catholic Bishop of Dorpat
+  du: '1468-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909633
+  catholic_hierarchy: bpiperi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:35:30+00:00'
+  completeness: 0.25

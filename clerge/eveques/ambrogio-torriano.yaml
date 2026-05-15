@@ -1,0 +1,43 @@
+slug: ambrogio-torriano
+nom: Ambrogio Torriano
+nom_complet: null
+naissance: null
+deces: '1679-10-09'
+naissance_lieu: Indovero
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1666-12-21'
+  consecrateur_principal: innocent-xi
+  co_consecrateurs:
+  - giacomo-de-angelis
+  - marco-galli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btorriano.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Como, Italy
+  du: '1666-12-15'
+  au: '1679-10-09'
+- titre: évêque de Côme
+  du: '1666-12-15'
+  au: '1679-10-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56885712
+  catholic_hierarchy: btorriano
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:06:38+00:00'
+  completeness: 0.88

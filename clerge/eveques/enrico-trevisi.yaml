@@ -1,0 +1,48 @@
+slug: enrico-trevisi
+nom: Enrico Trevisi
+nom_complet: null
+naissance: '1963-08-05'
+deces: null
+naissance_lieu: Asola, Diocese of Mantova
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2023-03-25'
+  lieu: Cathedral, Cremona, Diocese of Cremona
+  consecrateur_principal: antonio-napolioni
+  co_consecrateurs:
+  - giampaolo-crepaldi
+  - dante-lafranconi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrevisi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trieste, Italy
+  du: '2023-02-02'
+  au: null
+- titre: évêque de Trieste
+  du: '2023-02-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Trevisi.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q116616882
+  catholic_hierarchy: btrevisi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:10:13+00:00'
+  completeness: 0.88

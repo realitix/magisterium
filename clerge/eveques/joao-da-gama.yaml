@@ -1,0 +1,39 @@
+slug: joao-da-gama
+nom: João da Gama
+nom_complet: null
+naissance: '1575'
+deces: '1617-03-28'
+naissance_lieu: Vidigneira
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-11-15'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdagam.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Miranda (do Douro), Portugal
+  du: '1615-05-18'
+  au: '1617-03-28'
+- titre: Roman Catholic Bishop of Miranda do Douro
+  du: '1615-05-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68866979
+  catholic_hierarchy: bdagam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:22:17+00:00'
+  completeness: 0.5

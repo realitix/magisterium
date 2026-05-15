@@ -1,0 +1,45 @@
+slug: janusz-tarnowa
+nom: Janusz Tarnowa
+nom_complet: null
+naissance: null
+deces: '1271-08-26'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1260-02-29'
+  consecrateur_principal: pawel-z-przemankowa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btarnowa.html
+  - https://fr.wikipedia.org/wiki/Janusz_Tarnowa
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Gniezno, Poland
+  du: null
+  au: '1271-08-26'
+- titre: archevêque de Gniezno
+  du: '1258-05-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Janusz.PNG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6156087
+  catholic_hierarchy: btarnowa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:51:13+00:00'
+  completeness: 0.62

@@ -1,0 +1,32 @@
+slug: laud-de-coutances
+nom: Laud de Coutances
+nom_complet: Laud of Coutances
+naissance: '401'
+deces: '501'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Laud_de_Coutances
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Courcy%20-%20Saint%20L%C3%B4%20gu%C3%A9rissant%20une%20femme%20aveugle.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3218578
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.44

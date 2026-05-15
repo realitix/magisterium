@@ -1,0 +1,50 @@
+slug: consalvo-caputo
+nom: Consalvo Caputo
+nom_complet: null
+naissance: '1598-03-12'
+deces: '1645-11-19'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1630-02-24'
+  lieu: Gesù, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-cardinal-caetani
+  co_consecrateurs:
+  - giulio-antonio-santoro
+  - antonio-ricciulli-1582
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaputoc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Marco (Argentano), Italy
+  du: '1630-02-18'
+  au: null
+- titre: Bishop of Catanzaro, Italy
+  du: '1633-08-08'
+  au: '1645-11-19'
+- titre: Roman Catholic Bishop of Catanzaro
+  du: '1633-08-08'
+  au: null
+- titre: Roman Catholic Bishop of San Marco (Argentano)
+  du: '1630-02-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21546866
+  catholic_hierarchy: bcaputoc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:17:53+00:00'
+  completeness: 1.0

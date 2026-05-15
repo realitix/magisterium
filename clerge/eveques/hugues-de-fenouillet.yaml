@@ -1,0 +1,44 @@
+slug: hugues-de-fenouillet
+nom: Hugues de Fenouillet
+nom_complet: Hugo de Fenollet
+naissance: null
+deces: '1356-06-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfeno.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vic, Spain
+  du: '1346-07-24'
+  au: null
+- titre: Bishop of Valencia, Spain
+  du: '1348-12-03'
+  au: '1356-06-21'
+- titre: évêque de Valence
+  du: '1348-12-11'
+  au: '1356-06-29'
+- titre: évêque de Vic
+  du: '1346-08-01'
+  au: '1348-12-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68903477
+  catholic_hierarchy: bfeno
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:36:09+00:00'
+  completeness: 0.38

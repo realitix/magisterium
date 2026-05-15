@@ -1,0 +1,45 @@
+slug: jean-danglars
+nom: Jean Danglars
+nom_complet: '[Constitutional Bishop Jean Danglars]'
+naissance: '1739-07-24'
+deces: '1814-09-15'
+naissance_lieu: Simeyrols
+deces_lieu: Cahors
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-04-03'
+  lieu: Tulle
+  consecrateur_principal: constitutional-bishop-jean-joseph-brival
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdanglars.html
+  - https://fr.wikipedia.org/wiki/Jean_Danglars
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Lot (Constitutional), France]
+  du: null
+  au: 1801&sup2;
+- titre: Bishop Emeritus of [Lot (Constitutional), France]
+  du: null
+  au: '1814-09-15'
+- titre: évêque constitutionnel
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24578777
+  catholic_hierarchy: bdanglars
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:26:22+00:00'
+  completeness: 0.88

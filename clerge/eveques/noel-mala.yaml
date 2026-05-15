@@ -1,0 +1,45 @@
+slug: noel-mala
+nom: Noël Mala
+nom_complet: null
+naissance: '1901-04-17'
+deces: '1964-07-31'
+naissance_lieu: Baudouinville, Vicariate Apostolic of Upper Congo {Congo Superiore}
+deces_lieu: Léopoldville, Archdiocese of Léopoldville
+rang: eveque
+nationalite: Q974
+tampon: ordo_validus
+sacre:
+  date: '1963-09-01'
+  lieu: Kasongo, Diocese of Kasongo
+  consecrateur_principal: vito-roberti
+  co_consecrateurs:
+  - aloysius-bigirumwami
+  - joseph-mikararanga-busimba
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmala.html
+  - https://fr.wikipedia.org/wiki/No%C3%ABl_Mala
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kasongo, Congo (Dem. Rep.)
+  du: '1963-04-05'
+  au: '1964-07-31'
+- titre: évêque diocésain
+  du: '1963-04-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17486084
+  catholic_hierarchy: bmala
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:16:04+00:00'
+  completeness: 1.0

@@ -1,0 +1,52 @@
+slug: gregorio-naro
+nom: Gregorio Naro
+nom_complet: Gregorio Cardinal Naro
+naissance: '1581-10-24'
+deces: '1634-08-07'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: cardinal
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1634-03-12'
+  lieu: Borghese Chapel, Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcello-lante
+  co_consecrateurs:
+  - tiberio-cenci
+  - lodovico-cinci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnarog.html
+  - https://fr.wikipedia.org/wiki/Gregorio_Naro
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rieti, Italy
+  du: '1634-02-06'
+  au: '1634-08-07'
+- titre: cardinal
+  du: '1629-11-19'
+  au: null
+- titre: évêque diocésain
+  du: '1634-02-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1629%20GREGORIUS%20NARUS%20-%20NARO%20GREGORIO.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3116333
+  catholic_hierarchy: bnarog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:25:47+00:00'
+  completeness: 1.0

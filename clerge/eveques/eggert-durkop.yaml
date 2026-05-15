@@ -1,0 +1,41 @@
+slug: eggert-durkop
+nom: Eggert Dürkop
+nom_complet: null
+naissance: '1450'
+deces: '1499-11-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdurkop.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Schleswig, Germany
+  du: '1489-04-08'
+  au: '1499-11-06'
+- titre: Roman Catholic Bishop of Schleswig
+  du: '1489-04-17'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20643813
+  catholic_hierarchy: bdurkop
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:15:57+00:00'
+  completeness: 0.38

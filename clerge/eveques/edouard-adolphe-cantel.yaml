@@ -1,0 +1,45 @@
+slug: edouard-adolphe-cantel
+nom: Édouard-Adolphe Cantel
+nom_complet: Edouard-Adolphe Cantel
+naissance: '1836-06-22'
+deces: '1910-12-10'
+naissance_lieu: Marseille, Diocese of Marseille, France
+deces_lieu: Oran, Diocese of Oran
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1899-02-24'
+  lieu: St Denis du S. Sacrament, Paris, Archdiocese of Paris, France
+  consecrateur_principal: francois-richard
+  co_consecrateurs:
+  - henri-pelge
+  - bon-arthur-gabriel-mollien
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcantel.html
+  - https://fr.wikipedia.org/wiki/%C3%89douard-Adolphe_Cantel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oran, Algeria
+  du: null
+  au: '1910-12-10'
+- titre: évêque d'Oran
+  du: '1898-07-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19606951
+  catholic_hierarchy: bcantel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:27+00:00'
+  completeness: 1.0

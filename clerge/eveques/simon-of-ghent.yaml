@@ -1,0 +1,43 @@
+slug: simon-of-ghent
+nom: Simon of Ghent
+nom_complet: null
+naissance: '1250'
+deces: '1315-03-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1297-10-20'
+  consecrateur_principal: robert-of-winchelsey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bghent.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: null
+  au: '1315-03-31'
+- titre: évêque de Salisbury
+  du: '1297-01-01'
+  au: '1315-01-01'
+- titre: évêque diocésain
+  du: '1297-06-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7520144
+  catholic_hierarchy: bghent
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:19:59+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: jean-scot-990
+nom: Jean Scot
+nom_complet: Johannes Scotus
+naissance: '990'
+deces: '1066-11-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1052'
+  consecrateur_principal: adalbert-de-breme
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscotus.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mecklenburg, Germany
+  du: 1052&sup2;
+  au: '1066-11-13'
+- titre: Roman Catholic Bishop of Schwerin
+  du: '1052-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6257133
+  catholic_hierarchy: bscotus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:06:07+00:00'
+  completeness: 0.75

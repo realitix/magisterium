@@ -1,0 +1,44 @@
+slug: juan-pilars
+nom: Juan Pilars
+nom_complet: null
+naissance: '1500'
+deces: '1521'
+naissance_lieu: Spain
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpilars.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sulcis, Italy
+  du: '1503-07-07'
+  au: null
+- titre: Archbishop of Cagliari, Italy
+  du: '1514-01-09'
+  au: 1521&sup2;
+- titre: archevêque de Cagliari
+  du: '1514-01-19'
+  au: '1521-01-01'
+- titre: Roman Catholic Bishop of Sulcis
+  du: '1503-07-17'
+  au: '1514-01-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1710620
+  catholic_hierarchy: bpilars
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:33:08+00:00'
+  completeness: 0.25

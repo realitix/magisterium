@@ -1,0 +1,57 @@
+slug: albert-descamps
+nom: Albert Descamps
+nom_complet: Albert Louis Descamps
+naissance: '1916-06-27'
+deces: '1980-10-15'
+naissance_lieu: Escanaffles
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1960-12-27'
+  consecrateur_principal: charles-marie-himmer
+  co_consecrateurs:
+  - honore-marie-louis-van-waeyenbergh
+  - andre-marie-charue
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdescamps.html
+  - https://fr.wikipedia.org/wiki/Albert_Descamps_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Tunes
+  du: '1960-11-03'
+  au: null
+- titre: Auxiliary Bishop of Tournai {Doornik}, Belgium
+  du: '1960-11-03'
+  au: 1964&sup2;
+- titre: Secretary of the Pontifical Biblical Commission
+  du: '1973-03-21'
+  au: '1980-10-15'
+- titre: évêque titulaire
+  du: '1960-11-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '1960-11-03'
+  au: '1964-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/DescampsCasimir1966.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2831109
+  catholic_hierarchy: bdescamps
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:44:41+00:00'
+  completeness: 1.0

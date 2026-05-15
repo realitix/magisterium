@@ -1,0 +1,39 @@
+slug: jacques-de-guerande
+nom: Jacques de Guérande
+nom_complet: null
+naissance: null
+deces: '1267-02-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Jan 1264&sup3;
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguerande.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nantes, France
+  du: 1263&sup1;
+  au: '1267-02-07'
+- titre: évêque de Nantes
+  du: '1263-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108485093
+  catholic_hierarchy: bguerande
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:12+00:00'
+  completeness: 0.5

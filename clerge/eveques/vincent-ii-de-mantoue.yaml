@@ -1,0 +1,43 @@
+slug: vincent-ii-de-mantoue
+nom: Vincent II de Mantoue
+nom_complet: Mister Vincenzo Gonzaga
+naissance: '1594-02-08'
+deces: '1627-12-26'
+naissance_lieu: Mantua
+deces_lieu: null
+rang: cardinal
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgnzgv.html
+  - https://fr.wikipedia.org/wiki/Vincent_II_de_Mantoue
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: duc du Montferrat
+  du: '1626-01-01'
+  au: '1627-01-01'
+- titre: cardinal
+  du: '1615-12-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Justus%20Sustermans%20-%20Portrait%20of%20Vincenzo%20II%20Gonzaga%20-%20WGA21973.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2142124
+  catholic_hierarchy: bgnzgv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:29:08+00:00'
+  completeness: 0.38

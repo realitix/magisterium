@@ -1,0 +1,44 @@
+slug: william-bateman
+nom: William Bateman
+nom_complet: null
+naissance: '1298'
+deces: '1355-01-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1344-05-23'
+  consecrateur_principal: non-indexe-155eff8b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbateman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1344-01-23'
+  au: '1355-01-06'
+- titre: évêque de Norwich
+  du: '1344-01-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Bateman%2C%20Bishop%20of%20Norwich%2C%20copper%20engraving%2C%20dated%201714.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8005183
+  catholic_hierarchy: bbateman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:07:44+00:00'
+  completeness: 0.62

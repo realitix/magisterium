@@ -1,0 +1,50 @@
+slug: peter-klobusiczky
+nom: Péter Klobusiczky
+nom_complet: null
+naissance: '1754-06-26'
+deces: '1843-07-02'
+naissance_lieu: Fejér-Gyarmat
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1808-02-21'
+  lieu: Eger, Archdiocese of Eger
+  consecrateur_principal: istvan-fischer-de-nagy
+  co_consecrateurs:
+  - ferenc-szanyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bklob.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Kalocsa, Hungary
+  du: null
+  au: '1843-07-02'
+- titre: évêque de Satu Mare
+  du: '1807-07-10'
+  au: '1821-12-21'
+- titre: archevêque de Kalocsa-Kecskemét
+  du: '1821-12-21'
+  au: '1843-07-02'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Klobusiczky.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1113967
+  catholic_hierarchy: bklob
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:15:50+00:00'
+  completeness: 1.0

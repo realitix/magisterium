@@ -1,0 +1,50 @@
+slug: enzo-dieci
+nom: Enzo Dieci
+nom_complet: null
+naissance: '1934-01-28'
+deces: null
+naissance_lieu: Sassuolo, Diocese of Reggio Emilia
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_incertus
+sacre:
+  date: '1992-04-26'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - franciszek-macharski
+  - angelo-sodano
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdieci.html
+  - https://fr.wikipedia.org/wiki/Enzo_Dieci
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Roma {Rome}, Italy
+  du: '1992-04-07'
+  au: null
+- titre: Titular Bishop of Maura
+  du: '1992-04-07'
+  au: null
+- titre: évêque titulaire
+  du: '1992-04-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '1992-04-07'
+  au: '2009-06-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q527962
+  catholic_hierarchy: bdieci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:11+00:00'
+  completeness: 0.75

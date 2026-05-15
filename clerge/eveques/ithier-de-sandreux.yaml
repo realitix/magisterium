@@ -1,0 +1,40 @@
+slug: ithier-de-sandreux
+nom: Ithier de Sandreux
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1341-12-03'
+  consecrateur_principal: annibaldo-cardinal-di-ceccano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsandreux.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarlat, France
+  du: '1341-10-01'
+  au: 1345&sup1;
+- titre: évêque de Sarlat
+  du: '1341-10-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779339
+  catholic_hierarchy: bsandreux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:48:34+00:00'
+  completeness: 0.62

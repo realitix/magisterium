@@ -1,0 +1,39 @@
+slug: joao-de-azevedo-1698
+nom: João de Azevedo
+nom_complet: null
+naissance: '1698-01-11'
+deces: '1765-11-11'
+naissance_lieu: Braga
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1748-11-03'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bazev.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Portalegre, Portugal
+  du: null
+  au: '1765-11-11'
+- titre: Bishop of Portalegre
+  du: '1748-05-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752573
+  catholic_hierarchy: bazev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:50+00:00'
+  completeness: 0.62

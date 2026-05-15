@@ -1,0 +1,42 @@
+slug: benedek-kisdy
+nom: Benedek Kisdy
+nom_complet: Benedict Kisdy
+naissance: '1598'
+deces: '1660'
+naissance_lieu: Szeisen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkisdy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eger, Hungary
+  du: '1652-04-08'
+  au: Jun 1660&sup2;
+- titre: évêque d'Eger
+  du: '1652-04-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BenedictusKisdy.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q25460279
+  catholic_hierarchy: bkisdy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:14:56+00:00'
+  completeness: 0.25

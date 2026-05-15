@@ -1,0 +1,48 @@
+slug: jacques-alexis-jacquemin
+nom: Jacques-Alexis Jacquemin
+nom_complet: null
+naissance: '1750-08-03'
+deces: '1832-06-15'
+naissance_lieu: Nancy
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1824-01-18'
+  consecrateur_principal: hyacinthe-louis-de-quelen
+  co_consecrateurs:
+  - jean-claude-leblanc-de-beaulieu
+  - guillaume-aubin-de-villele
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjacqj.html
+  - https://fr.wikipedia.org/wiki/Jacques-Alexis_Jacquemin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Saint-Dié, France
+  du: null
+  au: '1832-06-15'
+- titre: évêque de Saint-Dié
+  du: '1823-10-14'
+  au: '1830-06-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Jacquemin%2C%20%C3%A9v%C3%AAque%20de%20Saint-Di%C3%A9.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3157851
+  catholic_hierarchy: bjacqj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:14+00:00'
+  completeness: 1.0

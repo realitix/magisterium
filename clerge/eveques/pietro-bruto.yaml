@@ -1,0 +1,50 @@
+slug: pietro-bruto
+nom: Pietro Bruto
+nom_complet: Petrus de Brutis
+naissance: '1430'
+deces: '1493'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}, Italy
+deces_lieu: Vicenca, Diocese of Vicenza, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1469-04-23'
+  lieu: Corpus Domini, Church, Venezia, Patriarchate of Venezia {Venice}, Italy
+  consecrateur_principal: maffeo-gherardi
+  co_consecrateurs:
+  - nicolaus-protimus
+  - nicolas-degli-inversi-o-s-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrutis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Croja, Albania
+  du: '1468-08-26'
+  au: null
+- titre: Bishop of Kotor (Cattaro), Montenegro
+  du: 1474&sup1;
+  au: 1493&sup1;
+- titre: évêque de Kotor
+  du: '1471-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1468-09-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779403
+  catholic_hierarchy: bbrutis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:56:23+00:00'
+  completeness: 0.75

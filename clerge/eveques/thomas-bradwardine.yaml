@@ -1,0 +1,45 @@
+slug: thomas-bradwardine
+nom: Thomas Bradwardine
+nom_complet: Thomas Bradwardin
+naissance: '1290'
+deces: '1349-08-26'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1349-07-19'
+  consecrateur_principal: bertrand-de-deaux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbradw.html
+  - https://fr.wikipedia.org/wiki/Thomas_Bradwardine
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Canterbury, England, Great Britain
+  du: '1349-06-19'
+  au: '1349-08-26'
+- titre: archevêque de Cantorbéry
+  du: '1349-06-27'
+  au: '1349-09-03'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Geometria%20speculativa.%20Thomas%20Bradwardine.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q461116
+  catholic_hierarchy: bbradw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:47:03+00:00'
+  completeness: 0.75

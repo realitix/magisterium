@@ -1,0 +1,48 @@
+slug: folquet-de-marseille
+nom: Folquet de Marseille
+nom_complet: Foulques de Massilia (Rabastens), O. Cist.
+naissance: '1155'
+deces: '1231-12-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1205'
+  consecrateur_principal: michel-mourier-mouriez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmassilia.html
+  - https://fr.wikipedia.org/wiki/Folquet_de_Marseille
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toulouse, France
+  du: 1205&sup1;
+  au: '1231-12-25'
+- titre: abbé du Thoronet
+  du: null
+  au: null
+- titre: évêque de Toulouse
+  du: '1205-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BnF%20ms.%2012473%20fol.%2046%20-%20Folquet%20de%20Marseille%20%281%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5254
+  catholic_hierarchy: bmassilia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:36:16+00:00'
+  completeness: 0.75

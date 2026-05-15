@@ -1,0 +1,51 @@
+slug: michel-guibe
+nom: Michel Guibé
+nom_complet: null
+naissance: null
+deces: '1502'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguibem.html
+  - https://fr.wikipedia.org/wiki/Michel_Guib%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: '1477-01-24'
+  au: null
+- titre: Bishop of Dol, France
+  du: '1478-01-14'
+  au: null
+- titre: Bishop of Rennes, France
+  du: '1482-03-29'
+  au: 1502&sup2;
+- titre: évêque diocésain
+  du: '1478-01-23'
+  au: null
+- titre: évêque de Rennes
+  du: '1482-04-07'
+  au: null
+- titre: évêque de Léon
+  du: '1477-02-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3309835
+  catholic_hierarchy: bguibem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:49:26+00:00'
+  completeness: 0.25

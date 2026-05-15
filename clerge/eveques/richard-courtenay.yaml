@@ -1,0 +1,49 @@
+slug: richard-courtenay
+nom: Richard Courtenay
+nom_complet: null
+naissance: '1350'
+deces: '1415-09-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1413-09-17'
+  consecrateur_principal: thomas-arundel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcourtr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1413-06-28'
+  au: '1415-09-15'
+- titre: évêque de Norwich
+  du: '1413-07-07'
+  au: null
+- titre: doyen de Wells
+  du: '1410-01-01'
+  au: '1413-01-01'
+- titre: Master of the Jewel Office
+  du: '1415-01-01'
+  au: '1417-01-01'
+- titre: Dean of St Asaph
+  du: '1403-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7324930
+  catholic_hierarchy: bcourtr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:06+00:00'
+  completeness: 0.75

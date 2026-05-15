@@ -1,0 +1,49 @@
+slug: giovanni-gerini
+nom: Giovanni Gerini
+nom_complet: null
+naissance: null
+deces: '1656-05-18'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1650-10-09'
+  consecrateur_principal: giovanni-giacomo-cardinal-panciroli
+  co_consecrateurs:
+  - luca-torreggiani-torrigiani
+  - pedro-urbina-montoya-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgerini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Volterra, Italy
+  du: '1650-09-19'
+  au: null
+- titre: Bishop of Pistoia e Prato, Italy
+  du: '1653-09-22'
+  au: '1656-05-18'
+- titre: évêque de Volterra
+  du: '1650-09-19'
+  au: null
+- titre: évêque de Pistoie et Prato
+  du: '1653-09-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763132
+  catholic_hierarchy: bgerini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:18:37+00:00'
+  completeness: 0.88

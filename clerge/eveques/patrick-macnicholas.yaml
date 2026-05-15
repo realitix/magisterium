@@ -1,0 +1,44 @@
+slug: patrick-macnicholas
+nom: Patrick MacNicholas
+nom_complet: null
+naissance: '1779'
+deces: '1852-02-11'
+naissance_lieu: Killasser, Co. Mayo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1818-05-17'
+  lieu: Chapel, Maynooth
+  consecrateur_principal: john-troy
+  co_consecrateurs:
+  - daniel-murray
+  - thomas-coen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmnic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Achonry, Ireland
+  du: '1818-03-17'
+  au: '1852-02-11'
+- titre: évêque diocésain
+  du: '1818-03-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64764018
+  catholic_hierarchy: bmnic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:01:38+00:00'
+  completeness: 0.88

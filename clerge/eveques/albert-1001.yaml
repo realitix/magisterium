@@ -1,0 +1,34 @@
+slug: albert-1001
+nom: Albert
+nom_complet: Albertus
+naissance: '1001'
+deces: '1102'
+naissance_lieu: null
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Albert_(antipape)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: antipape
+  du: null
+  au: null
+- titre: cardinal
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q435314
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56

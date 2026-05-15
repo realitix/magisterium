@@ -1,0 +1,43 @@
+slug: pierre-francois-de-sales
+nom: Pierre-François de Sales
+nom_complet: Pierre François de Sales de Thorens
+naissance: '1704-04-09'
+deces: '1783-12-05'
+naissance_lieu: Thorens
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1741-04-23'
+  co_consecrateurs:
+  - celestino-galiano
+  - ferdinando-maria-de-rossi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthorens.html
+  - https://fr.wikipedia.org/wiki/Pierre-Fran%C3%A7ois_de_Sales
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aosta, Italy
+  du: null
+  au: '1783-12-05'
+- titre: évêque d'Aoste
+  du: '1741-02-22'
+  au: '1783-11-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027573
+  catholic_hierarchy: bthorens
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:58:29+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: luigi-vetta
+nom: Luigi Vetta
+nom_complet: null
+naissance: '1805-05-06'
+deces: '1873-02-10'
+naissance_lieu: Acquaviva Collecroce
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1849-06-10'
+  lieu: Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: sisto-riario-sforza
+  co_consecrateurs:
+  - gennaro-pasca
+  - raffaele-serena
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvetta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nardò, Italy
+  du: null
+  au: '1873-02-10'
+- titre: évêque diocésain
+  du: '1848-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64683356
+  catholic_hierarchy: bvetta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:34:53+00:00'
+  completeness: 1.0

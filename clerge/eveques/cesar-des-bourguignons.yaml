@@ -1,0 +1,39 @@
+slug: cesar-des-bourguignons
+nom: César des Bourguignons
+nom_complet: César des Bourguignons (Bourgogne)
+naissance: null
+deces: '1558'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgu.html
+  - https://fr.wikipedia.org/wiki/C%C3%A9sar_des_Bourguignons
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: '1547-10-26'
+  au: 1558&sup2;
+- titre: évêque diocésain
+  du: '1547-11-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60834013
+  catholic_hierarchy: bbourgu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:02+00:00'
+  completeness: 0.25

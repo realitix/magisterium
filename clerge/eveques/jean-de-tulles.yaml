@@ -1,0 +1,45 @@
+slug: jean-de-tulles
+nom: Jean de Tulles
+nom_complet: null
+naissance: '1505'
+deces: '1608-08-05'
+naissance_lieu: null
+deces_lieu: Caderousse
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1572-10-05'
+  lieu: Grand Chapel, Palace of the Popes, Avignon, Archdiocese of Avignon
+  consecrateur_principal: cristoforo-scotti
+  co_consecrateurs:
+  - giovanni-ambrosio-fieschi
+  - guillaume-le-blanc-1520
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btullesje.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Tulles
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orange, France
+  du: '1572-06-16'
+  au: '1608-08-05'
+- titre: évêque diocésain
+  du: '1572-06-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175740
+  catholic_hierarchy: btullesje
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:13:47+00:00'
+  completeness: 0.88

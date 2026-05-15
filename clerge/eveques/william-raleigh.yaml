@@ -1,0 +1,52 @@
+slug: william-raleigh
+nom: William Raleigh
+nom_complet: William de Raley
+naissance: '1200'
+deces: '1250-09-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1239-09-25'
+  consecrateur_principal: edmund-rich
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/braley.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: null
+  au: '1250-09-01'
+- titre: évêque de Norwich
+  du: '1239-04-17'
+  au: null
+- titre: évêque diocésain
+  du: '1242-09-08'
+  au: null
+- titre: évêque diocésain
+  du: '1239-04-17'
+  au: null
+- titre: juge en chef de la Cour des plaids-communs
+  du: '1233-01-01'
+  au: '1234-01-01'
+- titre: lord juge en chef
+  du: '1234-01-01'
+  au: '1239-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2580346
+  catholic_hierarchy: braley
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:00:32+00:00'
+  completeness: 0.75

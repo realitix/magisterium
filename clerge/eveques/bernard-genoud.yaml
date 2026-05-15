@@ -1,0 +1,44 @@
+slug: bernard-genoud
+nom: Bernard Genoud
+nom_complet: Bernardus Genoud
+naissance: '1942-02-22'
+deces: '2010-09-21'
+naissance_lieu: Châtel-Saint-Denis
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1999-05-24'
+  consecrateur_principal: amedee-grab
+  co_consecrateurs:
+  - pierre-burcher
+  - pierre-farine
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgenoudb.html
+  - https://fr.wikipedia.org/wiki/Bernard_Genoud
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Genève et Fribourg (Freiburg), Switzerland
+  du: '1999-03-18'
+  au: '2010-09-21'
+- titre: évêque de Lausanne, Genève et Fribourg
+  du: '1999-03-18'
+  au: '2010-09-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q116403
+  catholic_hierarchy: bgenoudb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:17:06+00:00'
+  completeness: 1.0

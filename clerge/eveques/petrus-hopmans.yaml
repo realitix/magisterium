@@ -1,0 +1,48 @@
+slug: petrus-hopmans
+nom: Petrus Hopmans
+nom_complet: Pieter Adriaan Willem Hopmans
+naissance: '1865-08-22'
+deces: '1951-02-18'
+naissance_lieu: Standdaarbuiten
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1914-11-01'
+  lieu: Sainte Barbe, Cathedral, Breda, Diocese of Breda
+  consecrateur_principal: henricus-van-de-wetering
+  co_consecrateurs:
+  - augustinus-callier
+  - laurentius-josephus-antonius-hubertus-schrijnen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhopm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Breda, Netherlands
+  du: '1914-09-08'
+  au: '1951-02-18'
+- titre: évêque de Breda
+  du: '1914-09-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Petrus%20Hopmans.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2321910
+  catholic_hierarchy: bhopm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:46:51+00:00'
+  completeness: 1.0

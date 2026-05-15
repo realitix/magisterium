@@ -1,0 +1,44 @@
+slug: gustave-vie
+nom: Gustave Vié
+nom_complet: null
+naissance: '1849-06-04'
+deces: '1918-07-10'
+naissance_lieu: Escrennes, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1916-07-25'
+  consecrateur_principal: stanislas-arthur-xavier-touchet
+  co_consecrateurs:
+  - henri-louis-chapon
+  - alfred-jules-melisson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvie.html
+  - https://fr.wikipedia.org/wiki/Gustave_Vi%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Monaco
+  du: '1916-05-08'
+  au: '1918-07-10'
+- titre: évêque de Monaco
+  du: '1916-05-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3779920
+  catholic_hierarchy: bvie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:37:01+00:00'
+  completeness: 1.0

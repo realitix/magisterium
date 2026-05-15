@@ -1,0 +1,45 @@
+slug: melchiorre-pelletta
+nom: Melchiorre Pelletta
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1588-03-09'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpelletta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Torino {Turin}, Italy
+  du: '1588-03-09'
+  au: 1591&sup1;
+- titre: Titular Bishop of Chrysopolis in Arabia
+  du: '1588-03-09'
+  au: null
+- titre: évêque titulaire
+  du: '1588-03-09'
+  au: null
+- titre: évêque auxiliaire
+  du: '1588-03-09'
+  au: '1591-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780904
+  catholic_hierarchy: bpelletta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:04+00:00'
+  completeness: 0.25

@@ -1,0 +1,43 @@
+slug: giovanni-emo
+nom: Giovanni Emo
+nom_complet: null
+naissance: '1565-05-04'
+deces: '1622-10-16'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1611-05-24'
+  consecrateur_principal: giovanni-cardinal-delfino
+  co_consecrateurs:
+  - marco-cornaro
+  - luca-stella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bemog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bergamo, Italy
+  du: '1611-04-18'
+  au: 16 Oct 1622&sup3;
+- titre: évêque diocésain
+  du: '1611-04-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735417
+  catholic_hierarchy: bemog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:21:55+00:00'
+  completeness: 1.0

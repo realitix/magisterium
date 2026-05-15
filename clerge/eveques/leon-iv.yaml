@@ -1,0 +1,38 @@
+slug: leon-iv
+nom: Léon IV
+nom_complet: Leo IV
+naissance: '790'
+deces: '0855-07-21'
+naissance_lieu: null
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/L%C3%A9on_IV_(pape)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: cardinal
+  du: '0844-01-01'
+  au: null
+- titre: pape
+  du: '0847-01-31'
+  au: '0855-07-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PopeLeoIV%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q228205
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67

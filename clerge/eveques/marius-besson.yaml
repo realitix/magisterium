@@ -1,0 +1,47 @@
+slug: marius-besson
+nom: Marius Besson
+nom_complet: null
+naissance: '1876-06-28'
+deces: '1945-02-22'
+naissance_lieu: Torino, Italy
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1920-06-13'
+  consecrateur_principal: gaetano-de-lai
+  co_consecrateurs:
+  - dominic-jaquet
+  - manuel-maria-polit-laso
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbess.html
+  - https://fr.wikipedia.org/wiki/Marius_Besson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne et Genève, Switzerland
+  du: '1920-05-07'
+  au: null
+- titre: Bishop of Lausanne, Genève et Fribourg (Freiburg), Switzerland
+  du: null
+  au: '1945-02-22'
+- titre: évêque de Lausanne, Genève et Fribourg
+  du: '1920-05-07'
+  au: '1945-02-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q122819
+  catholic_hierarchy: bbess
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:43+00:00'
+  completeness: 1.0

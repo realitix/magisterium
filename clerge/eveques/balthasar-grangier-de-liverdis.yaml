@@ -1,0 +1,48 @@
+slug: balthasar-grangier-de-liverdis
+nom: Balthasar Grangier de Liverdis
+nom_complet: null
+naissance: '1605'
+deces: '1679-02-02'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1646-11-18'
+  consecrateur_principal: dominique-seguier
+  co_consecrateurs:
+  - anthyme-denis-cohon
+  - jean-de-lingendes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrangi.html
+  - https://fr.wikipedia.org/wiki/Balthasar_Grangier_de_Liverdis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tréguier, France
+  du: null
+  au: '1679-02-02'
+- titre: Évêque de Tréguier
+  du: '1646-02-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Balthazar%20Grangier.gif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2881576
+  catholic_hierarchy: bgrangi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:43+00:00'
+  completeness: 0.88

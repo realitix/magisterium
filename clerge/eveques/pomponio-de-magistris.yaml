@@ -1,0 +1,48 @@
+slug: pomponio-de-magistris
+nom: Pomponio de Magistris
+nom_complet: null
+naissance: null
+deces: '1614'
+naissance_lieu: Sonnino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1608-02-10'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: mariano-pierbenedetti
+  co_consecrateurs:
+  - marco-cornaro
+  - metello-cardinal-bichi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagist.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Terracina, Priverno e Sezze, Italy
+  du: '1608-01-28'
+  au: 1614&sup1;
+- titre: évêque diocésain
+  du: '1608-01-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vescovo%20Pomponio%20De%20Magistris.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64781085
+  catholic_hierarchy: bmagist
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:09+00:00'
+  completeness: 0.75

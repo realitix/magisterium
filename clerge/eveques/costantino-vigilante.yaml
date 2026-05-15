@@ -1,0 +1,42 @@
+slug: costantino-vigilante
+nom: Costantino Vigilante
+nom_complet: null
+naissance: '1685-10-09'
+deces: '1754-04-27'
+naissance_lieu: Solofre
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1727-12-21'
+  co_consecrateurs:
+  - nicolas-xavier-santamarie
+  - bernard-antoine-pizzella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvigil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caiazzo, Italy
+  du: '1727-11-26'
+  au: '1754-04-27'
+- titre: évêque diocésain
+  du: '1727-11-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20056618
+  catholic_hierarchy: bvigil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:37:52+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: matthias-pollitzer
+nom: Matthias Pollitzer
+nom_complet: Mathias Pollitzer
+naissance: '1786-02-21'
+deces: '1850-09-12'
+naissance_lieu: Oblaß
+deces_lieu: null
+rang: eveque
+nationalite: Q131964
+tampon: ordo_validus
+sacre:
+  date: '1843-07-23'
+  consecrateur_principal: vincenz-eduard-milde
+  co_consecrateurs:
+  - johann-michael-leonhard
+  - anton-aloys-buchmayer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoll.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Wien {Vienna}, Austria
+  du: '1843-06-19'
+  au: '1850-09-12'
+- titre: Titular Bishop of Telmissus
+  du: '1843-06-19'
+  au: null
+- titre: évêque titulaire
+  du: '1843-06-19'
+  au: null
+- titre: évêque auxiliaire
+  du: '1843-06-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735202
+  catholic_hierarchy: bpoll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:41:37+00:00'
+  completeness: 1.0

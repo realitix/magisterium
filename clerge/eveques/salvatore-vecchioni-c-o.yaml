@@ -1,0 +1,43 @@
+slug: salvatore-vecchioni-c-o
+nom: Salvatore Vecchioni, C.O.
+nom_complet: Salvatore Vecchioni
+naissance: '1739-12-31'
+deces: '1818-10-28'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1778-12-20'
+  consecrateur_principal: innocenzo-conti
+  co_consecrateurs:
+  - marcantonio-conti
+  - andrea-ratti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bveccs.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Anglona-Tursi, Italy
+  du: '1778-12-14'
+  au: '1818-10-28'
+- titre: évêque diocésain
+  du: '1778-12-14'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64761020
+  catholic_hierarchy: bveccs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:29:27+00:00'
+  completeness: 1.0

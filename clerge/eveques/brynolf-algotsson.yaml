@@ -1,0 +1,43 @@
+slug: brynolf-algotsson
+nom: Brynolf Algotsson
+nom_complet: St. Brynolf Algotsson
+naissance: '1250'
+deces: '1317-02-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balgotsso.html
+  - https://fr.wikipedia.org/wiki/Brynolf_Algotsson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skara, Sweden
+  du: '1278-08-20'
+  au: '1317-02-06'
+- titre: évêque diocésain
+  du: '1278-08-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Brynolphus.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q332860
+  catholic_hierarchy: balgotsso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:30:13+00:00'
+  completeness: 0.38

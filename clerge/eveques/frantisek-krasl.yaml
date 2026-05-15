@@ -1,0 +1,54 @@
+slug: frantisek-krasl
+nom: František Krásl
+nom_complet: Frantisek Borgia Krásl
+naissance: '1844-12-23'
+deces: '1907-07-27'
+naissance_lieu: Králové Dvur
+deces_lieu: null
+rang: eveque
+nationalite: Q533534
+tampon: ordo_validus
+sacre:
+  date: '1901-09-08'
+  lieu: St. Guy, Cathedral, Praha, Archdiocese of Praha {Prague}
+  consecrateur_principal: lev-skrbensky-z-hriste
+  co_consecrateurs:
+  - emmanuel-johann-schobel
+  - martin-riha
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkrasl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Praha {Prague}, Czechia
+  du: '1901-07-27'
+  au: '1907-07-27'
+- titre: Titular Bishop of Eleutheropolis in Macedonia
+  du: '1901-07-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1901-07-27'
+  au: null
+- titre: évêque titulaire
+  du: '1901-07-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Franti%C5%A1ek%20Borgia%20Kr%C3%A1sl%20%281844-1907%29.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12016922
+  catholic_hierarchy: bkrasl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:20:57+00:00'
+  completeness: 1.0

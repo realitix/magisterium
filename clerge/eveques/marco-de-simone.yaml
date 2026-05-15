@@ -1,0 +1,43 @@
+slug: marco-de-simone
+nom: Marco de Simone
+nom_complet: null
+naissance: '1704-06-17'
+deces: '1777-02-24'
+naissance_lieu: S. Elpidio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1752-07-23'
+  consecrateur_principal: joaquin-fernandez-portocarrero
+  co_consecrateurs:
+  - giovanni-andrea-tria
+  - bernard-antoine-pizzella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdsimm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troia, Italy
+  du: '1752-07-17'
+  au: '1777-02-24'
+- titre: évêque diocésain
+  du: '1752-07-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q78763933
+  catholic_hierarchy: bdsimm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:08:58+00:00'
+  completeness: 1.0

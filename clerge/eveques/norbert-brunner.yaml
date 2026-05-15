@@ -1,0 +1,44 @@
+slug: norbert-brunner
+nom: Norbert Brunner
+nom_complet: null
+naissance: '1942-06-21'
+deces: null
+naissance_lieu: Naters
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1995-06-09'
+  consecrateur_principal: henri-schwery
+  co_consecrateurs:
+  - peter-zurbriggen
+  - henri-salina
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrunner.html
+  - https://fr.wikipedia.org/wiki/Norbert_Brunner
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sion {Sitten}, Switzerland
+  du: '1995-04-01'
+  au: '2014-07-08'
+- titre: évêque de Sion
+  du: '1995-04-01'
+  au: '2014-07-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q115975
+  catholic_hierarchy: bbrunner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:55:45+00:00'
+  completeness: 0.88

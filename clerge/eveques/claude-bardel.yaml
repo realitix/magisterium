@@ -1,0 +1,64 @@
+slug: claude-bardel
+nom: Claude Bardel
+nom_complet: null
+naissance: '1851-02-21'
+deces: '1926-02-16'
+naissance_lieu: Thiers
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1894-08-01'
+  lieu: Cathedral, Bourges, Archdiocese of Bourges
+  consecrateur_principal: jean-pierre-boyer
+  co_consecrateurs:
+  - pierre-alfred-grimardias
+  - firmin-leon-joseph-renouard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbardel.html
+  - https://fr.wikipedia.org/wiki/Claude_Bardel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bourges, France
+  du: '1894-05-18'
+  au: null
+- titre: Titular Bishop of Paros
+  du: '1894-05-18'
+  au: null
+- titre: Bishop of Sées {Séez}, France
+  du: null
+  au: '1926-02-16'
+- titre: évêque diocésain
+  du: '1897-04-14'
+  au: null
+- titre: évêque titulaire
+  du: '1894-05-18'
+  au: null
+- titre: évêque de Sées
+  du: null
+  au: null
+- titre: évêque auxiliaire de Bourges
+  du: '1894-05-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Bardel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q29473976
+  catholic_hierarchy: bbardel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:02:23+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: antoine-rose
+nom: Antoine Rose
+nom_complet: null
+naissance: '1575'
+deces: '1614-01-31'
+naissance_lieu: Chaumont, Haute Marne
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1601-11-25'
+  consecrateur_principal: arnaud-d-ossat
+  co_consecrateurs:
+  - giuseppe-ferrerio
+  - jerome-ii-centelles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosean.html
+  - https://fr.wikipedia.org/wiki/Antoine_Rose
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: '1601-11-12'
+  au: null
+- titre: Bishop of Clermont, France
+  du: '1610-03-01'
+  au: '1614-01-31'
+- titre: évêque de Clermont
+  du: '1610-03-01'
+  au: null
+- titre: évêque diocésain
+  du: '1601-11-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22249201
+  catholic_hierarchy: brosean
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:27:53+00:00'
+  completeness: 0.88

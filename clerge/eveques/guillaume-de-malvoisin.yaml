@@ -1,0 +1,51 @@
+slug: guillaume-de-malvoisin
+nom: Guillaume de Malvoisin
+nom_complet: William Malvoisine, O.F.M.
+naissance: '1100'
+deces: '1238-07-09'
+naissance_lieu: null
+deces_lieu: Inchemordauch
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1200-09-24'
+  lieu: Lyon, Archdiocese of Lyon, France
+  consecrateur_principal: reginald-de-forez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalvois.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glasgow, Scotland, Great Britain
+  du: 1200&sup2;
+  au: null
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: 20 Sep 1202&sup3;
+  au: '1238-07-09'
+- titre: évêque de Saint Andrews
+  du: '1202-01-01'
+  au: null
+- titre: évêque de Glasgow
+  du: '1200-01-01'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/William%20de%20Malveisin.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8020806
+  catholic_hierarchy: bmalvois
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:18:45+00:00'
+  completeness: 0.75

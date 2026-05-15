@@ -1,0 +1,45 @@
+slug: kilian-pfluger
+nom: Kilian Pflüger
+nom_complet: null
+naissance: '1450'
+deces: '1486'
+naissance_lieu: Windsheim
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1477'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpfluge.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eichstätt, Germany
+  du: '1476-11-20'
+  au: 1486&sup2;
+- titre: Titular Bishop of Microcomien
+  du: '1476-11-20'
+  au: null
+- titre: évêque auxiliaire
+  du: '1476-11-29'
+  au: null
+- titre: évêque titulaire
+  du: '1476-11-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61586367
+  catholic_hierarchy: bpfluge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:28:15+00:00'
+  completeness: 0.38

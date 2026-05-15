@@ -1,0 +1,40 @@
+slug: thomas-bitton
+nom: Thomas Bitton
+nom_complet: Thomas Button
+naissance: '1250'
+deces: '1307-09-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1292-03-16'
+  consecrateur_principal: john-peckham-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbutton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: '1291-11-30'
+  au: '1307-09-26'
+- titre: évêque d'Exeter
+  du: '1291-12-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7787656
+  catholic_hierarchy: bbutton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:02:34+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: hipolito-leopoldo-agudelo
+nom: Hipólito Leopoldo Agudelo
+nom_complet: null
+naissance: '1864-04-09'
+deces: '1933-05-23'
+naissance_lieu: Corrales, Archdiocese of Santafé en Nueva Granada
+deces_lieu: Pasto, Diocese of Pasto
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1931-01-06'
+  lieu: Cathedral, Bogotá, Archdiocese of Bogotá
+  consecrateur_principal: paolo-giobbe
+  co_consecrateurs:
+  - pedro-maria-rodriguez-andrade
+  - jose-ignacio-lopez-umana
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bagud.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pasto, Colombia
+  du: '1930-09-02'
+  au: '1933-05-23'
+- titre: Roman Catholic Bishop of Pasto
+  du: '1930-09-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777982
+  catholic_hierarchy: bagud
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:23:33+00:00'
+  completeness: 1.0

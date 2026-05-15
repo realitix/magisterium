@@ -1,0 +1,51 @@
+slug: philippe-de-bourgogne
+nom: Philippe de Bourgogne
+nom_complet: Philip of Burgundy
+naissance: '1464'
+deces: '1524-04-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1518-02-28'
+  consecrateur_principal: erhard-erardo-everard-cardinal-von-der-mark-de-la-marca-marck
+  co_consecrateurs:
+  - jacques-de-ridder-o-p
+  - jean-de-mayer-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgp.html
+  - https://fr.wikipedia.org/wiki/Philippe_de_Bourgogne_(%C3%A9v%C3%AAque_d%27Utrecht)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Utrecht, Netherlands
+  du: '1517-03-18'
+  au: '1524-04-07'
+- titre: évêque d'Utrecht
+  du: '1517-03-28'
+  au: '1524-04-17'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Boucq%20d%27apr%C3%A8s%20Gossart%20-%20Philippe%20de%20Bourgogne%20%28%C3%A9v%C3%AAque%20d%27Utrecht%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q434390
+  catholic_hierarchy: bbourgp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:00+00:00'
+  completeness: 0.88

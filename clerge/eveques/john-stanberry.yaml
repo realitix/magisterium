@@ -1,0 +1,53 @@
+slug: john-stanberry
+nom: John Stanberry
+nom_complet: John Stanberry (Stanbury), O. Carm.
+naissance: null
+deces: '1474-05-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1448-06-23'
+  consecrateur_principal: john-stafford-5062bb
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstanber.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bangor, Wales, Great Britain
+  du: '1448-03-04'
+  au: null
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1453-02-07'
+  au: '1474-05-11'
+- titre: évêque diocésain
+  du: '1448-03-13'
+  au: null
+- titre: évêque diocésain
+  du: '1453-02-16'
+  au: null
+- titre: évêque de Hereford
+  du: '1453-01-01'
+  au: '1474-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hereford%20cathedral%20033.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6258801
+  catholic_hierarchy: bstanber
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:07+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: filippo-soldani
+nom: Filippo Soldani
+nom_complet: null
+naissance: '1607'
+deces: '1674-08-13'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1670-09-07'
+  lieu: S. Marcel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: neri-corsini-cardinal-du-titre-des-saints-neree-et-achille
+  co_consecrateurs:
+  - giacomo-altoviti
+  - federico-baldeschi-colonna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsoldani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1670-09-01'
+  au: '1674-08-13'
+- titre: évêque diocésain
+  du: '1670-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745222
+  catholic_hierarchy: bsoldani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:26:49+00:00'
+  completeness: 0.88

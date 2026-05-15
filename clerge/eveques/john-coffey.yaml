@@ -1,0 +1,44 @@
+slug: john-coffey
+nom: John Coffey
+nom_complet: null
+naissance: '1836-01-10'
+deces: '1904-04-14'
+naissance_lieu: Kerry, Diocese of Kerry (o Ardfert) e Aghadoe
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1889-11-10'
+  lieu: Ste. Marie, Cathedral, Killarney
+  consecrateur_principal: thomas-croke
+  co_consecrateurs:
+  - thomas-alphonsus-o-callaghan
+  - bartholomew-woodlock
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoffeyj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kerry (o Ardfert) e Aghadoe, Ireland
+  du: '1889-08-27'
+  au: '1904-04-14'
+- titre: évêque de Kerry
+  du: '1889-08-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64697706
+  catholic_hierarchy: bcoffeyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:05+00:00'
+  completeness: 1.0

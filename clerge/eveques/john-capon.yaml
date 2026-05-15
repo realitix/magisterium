@@ -1,0 +1,43 @@
+slug: john-capon
+nom: John Capon
+nom_complet: John Salcot (Capon), O.S.B.
+naissance: null
+deces: '1557-10-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1534-04-19'
+  consecrateur_principal: thomas-cranmer
+  co_consecrateurs:
+  - john-longland
+  - christopher-lord-o-praem
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalcot.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1539-08-14'
+  au: '1557-10-06'
+- titre: Roman Catholic Bishop of Bangor
+  du: '1534-02-09'
+  au: '1539-08-24'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q6225083
+  catholic_hierarchy: bsalcot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:43:26+00:00'
+  completeness: 0.88

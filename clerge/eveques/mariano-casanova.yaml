@@ -1,0 +1,51 @@
+slug: mariano-casanova
+nom: Mariano Casanova
+nom_complet: Mariano Jaime Casanova Casanova
+naissance: '1833-07-25'
+deces: '1908-05-16'
+naissance_lieu: Santiago, Archdiocese of Santiago de Chile
+deces_lieu: Santiago, Archdiocese of Santiago de Chile
+rang: archeveque
+nationalite: Q298
+tampon: ordo_validus
+sacre:
+  date: '1887-01-30'
+  lieu: Cathedral, Santiago, Archdiocese of Santiago de Chile
+  consecrateur_principal: joaquin-larrain-gandarillas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcayca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Ecclesiastical Governor (Vicar General) of Valparaíso, Chile
+  du: '1872-11-02'
+  au: 1885&sup1;
+- titre: Archbishop of Santiago de Chile
+  du: '1886-12-03'
+  au: '1908-05-16'
+- titre: vicaire général
+  du: '1872-11-02'
+  au: null
+- titre: archevêque de Santiago
+  du: '1887-01-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Marianocasanova.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5838338
+  catholic_hierarchy: bcayca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:34:55+00:00'
+  completeness: 0.88

@@ -1,0 +1,51 @@
+slug: alberto-gori
+nom: Alberto Gori
+nom_complet: Alberto Gori, O.F.M.
+naissance: '1889-02-09'
+deces: '1970-11-25'
+naissance_lieu: San Pietro Agliana, Diocese of Pistoia e Prato, Italy
+deces_lieu: Tel Aviv, Patriarchate of Jerusalem {Gerusalemme}
+rang: patriarche
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1949-12-27'
+  lieu: San Antonio in Via Merulana, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: eugene-tisserant-1884
+  co_consecrateurs:
+  - luigi-cardinal-traglia
+  - igino-michelangelo-nuti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgori.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Patriarch of Jerusalem {Gerusalemme}, Palestine
+  du: '1949-11-21'
+  au: '1970-11-25'
+- titre: custode de Terre Sainte
+  du: '1937-01-01'
+  au: '1949-01-01'
+- titre: patriarche latin de Jérusalem
+  du: '1949-11-21'
+  au: '1970-11-25'
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alberto%20Gori.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2639370
+  catholic_hierarchy: bgori
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:35:42+00:00'
+  completeness: 1.0

@@ -1,0 +1,39 @@
+slug: baldo-ferratini
+nom: Baldo Ferratini
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1537-04-08'
+  consecrateur_principal: agostino-spinola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferratb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lipari, Italy
+  du: '1534-08-20'
+  au: null
+- titre: Bishop of Amelia, Italy
+  du: '1558-11-28'
+  au: '1562'
+- titre: Bishop Emeritus of Amelia, Italy
+  du: null
+  au: 1570&#8311;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bferratb
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:39:57+00:00'
+  completeness: 0.62

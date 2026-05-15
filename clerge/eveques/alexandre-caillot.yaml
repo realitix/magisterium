@@ -1,0 +1,47 @@
+slug: alexandre-caillot
+nom: Alexandre Caillot
+nom_complet: null
+naissance: '1861-06-21'
+deces: '1957-01-05'
+naissance_lieu: Doyet
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1917-05-29'
+  consecrateur_principal: jean-baptiste-penon
+  co_consecrateurs:
+  - thomas-francois-boutry
+  - desire-hyacinthe-berthoin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcail.html
+  - https://fr.wikipedia.org/wiki/Alexandre_Caillot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grenoble, France
+  du: '1917-03-22'
+  au: '1957-01-05'
+- titre: évêque diocésain
+  du: '1917-03-22'
+  au: null
+- titre: évêque de Grenoble
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2833514
+  catholic_hierarchy: bcail
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:06:51+00:00'
+  completeness: 1.0

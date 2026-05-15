@@ -1,0 +1,39 @@
+slug: silvester-jenks
+nom: Silvester Jenks
+nom_complet: null
+naissance: '1656'
+deces: '1714'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1713-09-20'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjenks.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Chariopolis
+  du: '1713-09-20'
+  au: 1714-12
+- titre: évêque titulaire
+  du: '1713-09-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7516909
+  catholic_hierarchy: bjenks
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:00:30+00:00'
+  completeness: 0.25

@@ -1,0 +1,45 @@
+slug: heinrich-ii-bochholt
+nom: Heinrich II. Bochholt
+nom_complet: Heinrich Bochholt
+naissance: '1300'
+deces: '1341-03-01'
+naissance_lieu: Lübeck
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1327'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbochholt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lübeck, Germany
+  du: Mar 1317&sup3;
+  au: '1341-03-01'
+- titre: prince-évêque de Lübeck
+  du: '1317-03-01'
+  au: null
+- titre: évêque élu
+  du: '1317-01-01'
+  au: '1327-01-01'
+- titre: évêque
+  du: '1327-01-01'
+  au: '1341-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597765
+  catholic_hierarchy: bbochholt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:32:53+00:00'
+  completeness: 0.38

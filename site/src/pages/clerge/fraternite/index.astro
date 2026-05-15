@@ -1,0 +1,88 @@
+---
+import Clerc from '../../../layouts/Clerc.astro';
+import { getAllClerics } from '../../../data/loadClerge';
+import { FRATERNITES } from '../../../data/fraternites';
+
+const all = getAllClerics();
+const counts = Object.fromEntries(
+  FRATERNITES.map((f) => [f.slug, all.filter((c) => c.fraternite && f.matches.includes(c.fraternite)).length]),
+);
+---
+
+<Clerc title="Fraternités — Clergé" description="Index des fraternités traditionalistes et sédévacantistes recensées dans le corpus.">
+  <header class="frat-idx-header">
+    <h1>Fraternités traditionalistes et sédévacantistes</h1>
+    <p class="frat-idx-intro">
+      Le corpus prosopographique distingue les évêques en pleine communion avec Rome
+      (la grande majorité) de ceux qui appartiennent à des fraternités, instituts ou
+      mouvances en situation canonique particulière. Cette page liste les fraternités
+      recensées. Pour les évêques diocésains romains, voir directement la
+      <a href="/clerge/">recherche générale</a>.
+    </p>
+  </header>
+
+  <ul class="frat-idx-list">
+    {FRATERNITES.map((f) => (
+      <li class="frat-idx-item">
+        <a href={`/clerge/fraternite/${f.slug}/`} class="frat-idx-link">
+          <div class="frat-idx-label">{f.label}</div>
+          <div class="frat-idx-name">{f.pleinNom}</div>
+          <div class="frat-idx-count">{counts[f.slug]} clerc{counts[f.slug] > 1 ? 's' : ''} recensé{counts[f.slug] > 1 ? 's' : ''}</div>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Clerc>
+
+<style>
+  .frat-idx-header {
+    margin-bottom: var(--space-xl);
+  }
+  .frat-idx-header h1 {
+    font-family: var(--font-display);
+    margin: 0 0 var(--space-m);
+  }
+  .frat-idx-intro {
+    line-height: 1.65;
+    color: var(--ink-soft);
+  }
+  .frat-idx-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: var(--space-m);
+  }
+  .frat-idx-item {
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--paper);
+    transition: background 0.15s, transform 0.15s;
+  }
+  .frat-idx-item:hover {
+    background: var(--paper-soft, #f5f1e8);
+    transform: translateY(-1px);
+  }
+  .frat-idx-link {
+    display: block;
+    padding: var(--space-m);
+    text-decoration: none;
+    color: inherit;
+  }
+  .frat-idx-label {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+  .frat-idx-name {
+    font-style: italic;
+    color: var(--ink-soft);
+    margin-top: 0.2em;
+  }
+  .frat-idx-count {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    margin-top: 0.6em;
+  }
+</style>

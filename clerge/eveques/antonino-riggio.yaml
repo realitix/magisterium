@@ -1,0 +1,40 @@
+slug: antonino-riggio
+nom: Antonino Riggio
+nom_complet: Antonino Reggio
+naissance: '1738-10-28'
+deces: '1806-12-14'
+naissance_lieu: Messina, Archdiocese of Messina
+deces_lieu: Lipari, Diocese of Lipari
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1804-12-30'
+  lieu: Messina, Archdiocese of Messina
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breggi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lipari, Italy
+  du: '1804-10-29'
+  au: '1806-12-14'
+- titre: évêque de Lipari
+  du: '1804-10-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910206
+  catholic_hierarchy: breggi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:43+00:00'
+  completeness: 0.62

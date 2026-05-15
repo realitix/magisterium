@@ -1,0 +1,44 @@
+slug: jean-baptiste-luc-bailly
+nom: Jean-Baptiste-Luc Bailly
+nom_complet: Luc-Jean-Baptiste Bailly
+naissance: '1763-03-10'
+deces: '1804-04-08'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-10-24'
+  consecrateur_principal: jean-baptiste-de-belloy
+  co_consecrateurs:
+  - louis-mathias-de-barral
+  - etienne-alexandre-bernier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbailll.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste-Luc_Bailly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: null
+  au: '1804-04-08'
+- titre: évêque diocésain
+  du: '1802-09-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22971002
+  catholic_hierarchy: bbailll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:56:20+00:00'
+  completeness: 1.0

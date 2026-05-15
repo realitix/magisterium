@@ -1,0 +1,39 @@
+slug: olivier-le-prestre
+nom: Olivier Le Prestre
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1506'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleprest.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Sidon
+  du: 1506&sup1;
+  au: null
+- titre: évêque titulaire
+  du: '1506-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905137
+  catholic_hierarchy: bleprest
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:45:27+00:00'
+  completeness: 0.25

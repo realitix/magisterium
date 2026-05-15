@@ -1,0 +1,44 @@
+slug: juan-leyva
+nom: Juan Leyva
+nom_complet: null
+naissance: '1630'
+deces: '1704-03-15'
+naissance_lieu: Castro del Río
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1701-10-16'
+  lieu: Granada, Archdiocese of Granada
+  consecrateur_principal: martin-de-ascargorta-ladron-de-guevara
+  co_consecrateurs:
+  - pedro-de-palacios-y-tenorio-o-p
+  - antonio-de-brizuela-y-salamanca
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleyva.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Almería, Spain
+  du: '1701-08-08'
+  au: '1704-03-15'
+- titre: évêque d'Almería
+  du: '1701-08-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761205
+  catholic_hierarchy: bleyva
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:16+00:00'
+  completeness: 0.88

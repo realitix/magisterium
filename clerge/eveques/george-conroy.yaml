@@ -1,0 +1,47 @@
+slug: george-conroy
+nom: George Conroy
+nom_complet: George Michael Conroy
+naissance: '1832-12-30'
+deces: '1878-08-04'
+naissance_lieu: Dundalk, County Louth, Archdiocese of Dublin
+deces_lieu: Saint John&rsquo;s, Diocese of Saint John&rsquo;s, Newfoundland, Canada
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-04-11'
+  lieu: St. Mel&rsquo;s, Cathedral, Longford, Diocese of Ardagh (and Clonmacnois)
+  consecrateur_principal: paul-cullen
+  co_consecrateurs:
+  - daniel-mcgettigan
+  - francis-kelly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ardagh (and Clonmacnois), Ireland
+  du: '1871-02-24'
+  au: '1878-08-04'
+- titre: Apostolic Delegate to Canada and Newfoundland
+  du: '1877-04-10'
+  au: null
+- titre: évêque d'Ardagh et Clonmacnois
+  du: '1871-02-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9267230
+  catholic_hierarchy: bconr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:28+00:00'
+  completeness: 1.0

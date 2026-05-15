@@ -1,0 +1,48 @@
+slug: winand-wigger
+nom: Winand Wigger
+nom_complet: Winand Michael Wigger
+naissance: '1841-12-09'
+deces: '1901-01-05'
+naissance_lieu: New York, NY, Diocese of New York, New York
+deces_lieu: South Orange, Diocese of Newark, New Jersey
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1881-10-18'
+  lieu: St. Patrick, Pro-Cathedral, Newark, Diocese of Newark, New Jersey
+  consecrateur_principal: michael-augustine-corrigan
+  co_consecrateurs:
+  - john-loughlin
+  - bernard-john-mcquaid
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwigger.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Newark, New Jersey, USA
+  du: '1881-08-02'
+  au: '1901-01-05'
+- titre: évêque diocésain
+  du: '1881-08-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Winand%20M%20Wigger.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8023680
+  catholic_hierarchy: bwigger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:55:52+00:00'
+  completeness: 1.0

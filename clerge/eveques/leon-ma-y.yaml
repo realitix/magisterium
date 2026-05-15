@@ -1,0 +1,54 @@
+slug: leon-ma-y
+nom: Leon Mały
+nom_complet: Leon Ma&#322;y
+naissance: '1958-08-17'
+deces: null
+naissance_lieu: Bar
+deces_lieu: null
+rang: eveque
+nationalite: Q212
+tampon: ordo_dubius
+sacre:
+  date: '2002-06-20'
+  lieu: Assomption, Cathedral, Lviv, Archdiocese of Lviv
+  consecrateur_principal: marian-jaworski
+  co_consecrateurs:
+  - nikola-eterovic
+  - stanis-aw-dziwisz
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalyl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lviv, Ukraine
+  du: '2002-05-04'
+  au: null
+- titre: Titular Bishop of Tabunia
+  du: '2002-05-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '2002-05-04'
+  au: null
+- titre: évêque titulaire
+  du: '2002-05-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biskupi%20lwowsy-2006.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1620036
+  catholic_hierarchy: bmalyl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:18:49+00:00'
+  completeness: 0.88

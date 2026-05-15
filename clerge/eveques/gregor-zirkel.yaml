@@ -1,0 +1,53 @@
+slug: gregor-zirkel
+nom: Gregor Zirkel
+nom_complet: Gregor von Zirkel
+naissance: '1762-07-28'
+deces: '1817-12-18'
+naissance_lieu: Sylbach
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1802-10-28'
+  consecrateur_principal: georg-karl-von-fechenbach
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzirkel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Würzburg, Germany
+  du: '1802-09-20'
+  au: '1817-12-18'
+- titre: Titular Bishop of Hippos
+  du: '1802-09-20'
+  au: null
+- titre: évêque auxiliaire
+  du: '1802-09-20'
+  au: '1817-01-01'
+- titre: évêque de Spire
+  du: '1817-10-25'
+  au: null
+- titre: évêque titulaire
+  du: '1802-09-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gregor%20von%20ZirkelJS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1545218
+  catholic_hierarchy: bzirkel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:10:23+00:00'
+  completeness: 0.88

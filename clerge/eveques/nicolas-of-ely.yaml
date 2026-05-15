@@ -1,0 +1,49 @@
+slug: nicolas-of-ely
+nom: Nicolas of Ely
+nom_complet: Nicholas of Ely
+naissance: '1250'
+deces: '1280-02-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1266-09-19'
+  consecrateur_principal: boniface-of-savoy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bely.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1268-02-24'
+  au: '1280-02-12'
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1266-01-01'
+  au: '1268-01-01'
+- titre: évêque diocésain
+  du: '1266-06-15'
+  au: null
+- titre: évêque diocésain
+  du: '1268-03-02'
+  au: null
+- titre: évêque de Winchester
+  du: '1268-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7026488
+  catholic_hierarchy: bely
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:21:33+00:00'
+  completeness: 0.75

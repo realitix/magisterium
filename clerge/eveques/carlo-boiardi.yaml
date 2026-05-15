@@ -1,0 +1,41 @@
+slug: carlo-boiardi
+nom: Carlo Boiardi
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboiardic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modena, Italy
+  du: '1414-04-30'
+  au: 1436&sup1;
+- titre: Bishop Emeritus of Modena, Italy
+  du: null
+  au: 1439&sup1;
+- titre: évêque diocésain
+  du: '1414-05-09'
+  au: '1436-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448762
+  catholic_hierarchy: bboiardic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:34:20+00:00'
+  completeness: 0.25

@@ -1,0 +1,55 @@
+slug: braccio-martelli
+nom: Braccio Martelli
+nom_complet: null
+naissance: '1501'
+deces: '1560-08-17'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1533-04-17'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: gabriele-mascioli-foschi-o-e-s-a
+  co_consecrateurs:
+  - pedro-flores
+  - rodolfo-cardinal-pio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartelb.html
+  - https://fr.wikipedia.org/wiki/Braccio_Martelli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1530-06-20'
+  au: null
+- titre: Bishop of Lecce, Italy
+  du: '1552-02-12'
+  au: '1560-08-17'
+- titre: évêque diocésain
+  du: '1530-06-30'
+  au: null
+- titre: évêque diocésain
+  du: '1552-02-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Braccio%20Martelli.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2923214
+  catholic_hierarchy: bmartelb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:59+00:00'
+  completeness: 0.88

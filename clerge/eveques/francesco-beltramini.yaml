@@ -1,0 +1,49 @@
+slug: francesco-beltramini
+nom: Francesco Beltramini
+nom_complet: null
+naissance: '1522'
+deces: '1575'
+naissance_lieu: Colle Val d'Elsa
+deces_lieu: Terracina, Diocese of Terracina, Priverno e Sezze
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-07-29'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: jean-suau
+  co_consecrateurs:
+  - ascanio-albertini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbltrmf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Terracina, Priverno e Sezze, Italy
+  du: '1564-06-21'
+  au: 1575&sup2;
+- titre: Apostolic Nuncio to France
+  du: Oct 1565&sup3;
+  au: '1566-03-25'
+- titre: nonce apostolique en France
+  du: '1565-10-01'
+  au: '1566-04-04'
+- titre: évêque diocésain
+  du: '1564-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56226067
+  catholic_hierarchy: bbltrmf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:38+00:00'
+  completeness: 0.75

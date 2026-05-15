@@ -1,0 +1,53 @@
+slug: karel-wisnar
+nom: Karel Wisnar
+nom_complet: null
+naissance: '1852-10-25'
+deces: '1926-04-18'
+naissance_lieu: Pribor
+deces_lieu: null
+rang: eveque
+nationalite: Q33946
+tampon: ordo_validus
+sacre:
+  date: '1904-12-18'
+  consecrateur_principal: frantisek-salesky-bauer
+  co_consecrateurs:
+  - josef-doubrava
+  - paul-huyn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwisnar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Olomouc, Czechia
+  du: '1904-11-14'
+  au: '1926-04-18'
+- titre: Titular Bishop of Callipolis
+  du: '1904-11-14'
+  au: null
+- titre: évêque auxiliaire
+  du: '1904-11-14'
+  au: null
+- titre: évêque titulaire
+  du: '1904-11-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Wisnar%20%281852-1926%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12028615
+  catholic_hierarchy: bwisnar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:57:33+00:00'
+  completeness: 1.0

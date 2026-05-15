@@ -1,0 +1,44 @@
+slug: gabriel-piguet
+nom: Gabriel Piguet
+nom_complet: Gabriel-Emmanuel-Joseph Piguet
+naissance: '1887-02-24'
+deces: '1952-07-03'
+naissance_lieu: Mâcon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1934-02-27'
+  consecrateur_principal: hyacinthe-jean-chassagnon
+  co_consecrateurs:
+  - augustin-gonon
+  - jean-marcel-rodie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpigu.html
+  - https://fr.wikipedia.org/wiki/Gabriel_Piguet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: '1933-12-07'
+  au: '1952-07-03'
+- titre: évêque de Clermont
+  du: '1933-12-07'
+  au: '1952-07-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q834697
+  catholic_hierarchy: bpigu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:32:59+00:00'
+  completeness: 1.0

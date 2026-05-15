@@ -1,0 +1,55 @@
+slug: georges-colomb
+nom: Georges Colomb
+nom_complet: Georges Colomb, M.E.P.
+naissance: '1953-06-15'
+deces: null
+naissance_lieu: Saint-Anthème, Diocese of Clermont
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2016-05-05'
+  lieu: Parc des expositions, La Rochelle, Diocese of La Rochelle (-Saintes)
+  consecrateur_principal: andre-vingt-trois
+  co_consecrateurs:
+  - pascal-wintzer
+  - olivier-schmitthaeusler
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolombg.html
+  - https://fr.wikipedia.org/wiki/Georges_Colomb_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Superior General of La Société des Missions Etrangères
+  du: '2010-07-09'
+  au: null
+- titre: Bishop of La Rochelle (-Saintes), France
+  du: '2016-03-09'
+  au: null
+- titre: évêque de La Rochelle et Saintes
+  du: '2016-03-09'
+  au: null
+- titre: supérieur général
+  du: '2010-09-07'
+  au: '2016-03-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Georges%20Colomb.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23017551
+  catholic_hierarchy: bcolombg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:59:16+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: servaas-de-quinckere
+nom: Servaas de Quinckere
+nom_complet: null
+naissance: '1569-04-07'
+deces: '1639-03-13'
+naissance_lieu: Brugge
+deces_lieu: null
+rang: eveque
+nationalite: Q6581823
+tampon: ordo_validus
+sacre:
+  date: '1630-06-16'
+  consecrateur_principal: jacques-boonen
+  co_consecrateurs:
+  - antoine-triest
+  - georges-chamberlain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquinck.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: null
+  au: '1639-03-13'
+- titre: évêque de Bruges
+  du: '1629-10-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Servaas%20de%20Quinckere%20%28Sanderus%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2191273
+  catholic_hierarchy: bquinck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:55:55+00:00'
+  completeness: 1.0

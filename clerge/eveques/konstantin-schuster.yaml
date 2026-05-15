@@ -1,0 +1,51 @@
+slug: konstantin-schuster
+nom: Konstantin Schuster
+nom_complet: "Kon\x9Atantín Schuster"
+naissance: '1817-07-31'
+deces: '1899-07-23'
+naissance_lieu: Szakolcza, Slovakia
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1877-09-23'
+  lieu: Kalocsa, Archdiocese of Kalocsa
+  consecrateur_principal: lajos-haynald
+  co_consecrateurs:
+  - juraj-schopper
+  - lorinc-schlauch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: null
+  au: '1899-07-23'
+- titre: évêque de Vác
+  du: '1886-11-13'
+  au: null
+- titre: Roman Catholic Bishop of Košice
+  du: '1877-05-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Schuster%20Konstantin%201877-29.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23938563
+  catholic_hierarchy: bschk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:01:47+00:00'
+  completeness: 1.0

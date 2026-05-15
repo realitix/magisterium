@@ -1,0 +1,42 @@
+slug: raimundo-torrelles
+nom: Raimundo Torrelles
+nom_complet: null
+naissance: '1213'
+deces: '1266-06-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1238-10-12'
+  consecrateur_principal: pedro-albalat-o-cist
+  co_consecrateurs:
+  - bernat-calbo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btorrll.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mallorca, Spain
+  du: '1238-10-12'
+  au: '1266-06-11'
+- titre: évêque de Majorque et Minorque
+  du: '1238-10-19'
+  au: '1266-06-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761885
+  catholic_hierarchy: btorrll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:06:46+00:00'
+  completeness: 0.88

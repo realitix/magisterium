@@ -1,0 +1,44 @@
+slug: gherardo-gherardi
+nom: Gherardo Gherardi
+nom_complet: null
+naissance: '1628-07-20'
+deces: '1690-01-16'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1679-04-16'
+  consecrateur_principal: gregoire-barbarigo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bghrrd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pistoia e Prato, Italy
+  du: '1679-04-10'
+  au: '1690-01-16'
+- titre: évêque de Pistoie et Prato
+  du: '1679-04-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gherardo%20Gherardi%20%28bishop%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64734660
+  catholic_hierarchy: bghrrd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:48+00:00'
+  completeness: 0.88

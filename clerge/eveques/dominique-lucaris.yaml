@@ -1,0 +1,39 @@
+slug: dominique-lucaris
+nom: Dominique Lucaris
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: gaucelme-de-jean
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blucaris.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Split (Spalato), Croatia
+  du: '1328-10-17'
+  au: Apr 1348&sup3;
+- titre: archevêque de Split
+  du: '1328-10-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12629978
+  catholic_hierarchy: blucaris
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:03:17+00:00'
+  completeness: 0.5

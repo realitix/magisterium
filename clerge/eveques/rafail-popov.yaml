@@ -1,0 +1,48 @@
+slug: rafail-popov
+nom: Rafail Popov
+nom_complet: Raphael Popov
+naissance: '1830-11-15'
+deces: '1876-03-06'
+naissance_lieu: Strelcha
+deces_lieu: null
+rang: eveque
+nationalite: Q12560
+tampon: ordo_validus
+sacre:
+  date: '1865-11-19'
+  lieu: S. Chrysostome, Constantinople
+  consecrateur_principal: joseph-sembratowicz
+  co_consecrateurs:
+  - emmanuele-staravero
+  - benjamin-dimitrios-eusevides
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpopovr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Bulgarian United Church (Constantinople) (Bulgarian)
+  du: '1865-03-28'
+  au: null
+- titre: Bishop of Bulgarian United Church (Constantinople) (Bulgarian)
+  du: '1865-08-04'
+  au: '1876-03-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Popov.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7294004
+  catholic_hierarchy: bpopovr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:43:52+00:00'
+  completeness: 1.0

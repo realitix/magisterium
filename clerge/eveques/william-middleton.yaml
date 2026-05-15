@@ -1,0 +1,44 @@
+slug: william-middleton
+nom: William Middleton
+nom_complet: null
+naissance: '1250'
+deces: '1288-09-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1278-05-29'
+  consecrateur_principal: robert-kilwardby
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmiddltn.html
+  - https://fr.wikipedia.org/wiki/William_Middleton_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1278-02-24'
+  au: '1288-09-01'
+- titre: archidiacre de Cantorbéry
+  du: '1275-01-01'
+  au: '1278-01-01'
+- titre: évêque de Norwich
+  du: '1278-03-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8015618
+  catholic_hierarchy: bmiddltn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:56:08+00:00'
+  completeness: 0.75

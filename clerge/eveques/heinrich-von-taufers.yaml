@@ -1,0 +1,49 @@
+slug: heinrich-von-taufers
+nom: Heinrich von Taufers
+nom_complet: null
+naissance: '1200'
+deces: '1239-11-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1228-03-19'
+  consecrateur_principal: eberhard-von-regensburg
+  co_consecrateurs:
+  - albrecht-de-kevenburg-kafernburg
+  - non-indexe-5feeea52
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btaufers.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: 1228&sup1;
+  au: '1239-11-18'
+- titre: évêque de Brixen
+  du: '1228-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque élu
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1599692
+  catholic_hierarchy: btaufers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:51:54+00:00'
+  completeness: 0.88

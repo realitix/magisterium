@@ -1,0 +1,52 @@
+slug: felix-de-las-cases
+nom: Félix de Las Cases
+nom_complet: Félix-Joseph-François-Barthélemy de Las Cases
+naissance: '1809-09-14'
+deces: '1880-10-01'
+naissance_lieu: Poudis, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1867-05-05'
+  lieu: Benedictines-rue Monsieur, Paris, Archdiocese of Paris, France
+  consecrateur_principal: charles-lavigerie
+  co_consecrateurs:
+  - henry-maret
+  - joseph-alfred-foulon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blascase.html
+  - https://fr.wikipedia.org/wiki/F%C3%A9lix_de_Las_Cases
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Constantine (-Hippone), Algeria
+  du: null
+  au: '1870-08-29'
+- titre: Bishop Emeritus of Constantine (-Hippone), Algeria
+  du: null
+  au: '1880-10-01'
+- titre: évêque diocésain
+  du: '1867-01-19'
+  au: '1870-08-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/De%20Las%20Cases%20F%C3%A9lix%20Ev%C3%AAque%201819-1880.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q26997542
+  catholic_hierarchy: blascase
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:34:42+00:00'
+  completeness: 1.0

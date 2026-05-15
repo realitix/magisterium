@@ -1,0 +1,39 @@
+slug: adalbert-von-froburg
+nom: Adalbert von Froburg
+nom_complet: Adalbero III of Basel
+naissance: '1050'
+deces: '1137-10-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1135-01-11'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfroburga.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: 1135&sup1;
+  au: 1137&sup1;
+- titre: évêque de Bâle
+  du: '1135-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15433800
+  catholic_hierarchy: bfroburga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:59:34+00:00'
+  completeness: 0.38

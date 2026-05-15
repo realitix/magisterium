@@ -1,0 +1,44 @@
+slug: francois-tristan-de-cambon
+nom: François Tristán de Cambón
+nom_complet: François-Tristan de Cambon
+naissance: '1716'
+deces: '1791-11-20'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1768-07-10'
+  consecrateur_principal: etienne-charles-de-lomenie-de-brienne
+  co_consecrateurs:
+  - jean-georges-lefranc-de-pompignan
+  - raymond-de-durfort
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcambon.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Trist%C3%A1n_de_Camb%C3%B3n
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mirepoix, France
+  du: null
+  au: '1791-11-20'
+- titre: évêque diocésain
+  du: '1768-04-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3085929
+  catholic_hierarchy: bcambon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:09:57+00:00'
+  completeness: 0.88

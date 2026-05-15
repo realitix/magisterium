@@ -1,0 +1,44 @@
+slug: bernardino-scannafora
+nom: Bernardino Scannafora
+nom_complet: null
+naissance: null
+deces: '1529'
+naissance_lieu: Brindisi, Archdiocese of Brindisi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscannb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavello, Italy
+  du: '1504-01-01'
+  au: null
+- titre: Bishop of Castro di Puglia, Italy
+  du: '1504-01-19'
+  au: 1529&sup1;
+- titre: évêque diocésain
+  du: '1504-01-11'
+  au: null
+- titre: évêque diocésain
+  du: '1504-01-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q31562366
+  catholic_hierarchy: bscannb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:58:34+00:00'
+  completeness: 0.25

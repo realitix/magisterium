@@ -1,0 +1,41 @@
+slug: bourcard-de-fenis
+nom: Bourcard de Fenis
+nom_complet: Burchard d&rsquo;Hasenberg
+naissance: '1040'
+deces: '1106-04-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1072'
+  consecrateur_principal: hugues-de-montfaucon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhasenb.html
+  - https://fr.wikipedia.org/wiki/Bourcard_de_Fenis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: 1072&sup1;
+  au: '1106-04-12'
+- titre: évêque de Bâle
+  du: '1072-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1016522
+  catholic_hierarchy: bhasenb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:35:31+00:00'
+  completeness: 0.75

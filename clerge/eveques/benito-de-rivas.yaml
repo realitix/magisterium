@@ -1,0 +1,43 @@
+slug: benito-de-rivas
+nom: Benito de Rivas
+nom_complet: Benito de Rivas, O.S.B.
+naissance: null
+deces: '1668-08-21'
+naissance_lieu: Madrid, Archdiocese of Toledo, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1664-02-24'
+  consecrateur_principal: georges-d-aubusson-de-la-feuillade
+  co_consecrateurs:
+  - antonio-del-buffalo-o-f-m
+  - luis-de-morales-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bderivas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Puerto Rico (Porto Rico)
+  du: null
+  au: '1668-08-21'
+- titre: évêque de Porto Rico
+  du: '1663-02-28'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q23621263
+  catholic_hierarchy: bderivas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:43:57+00:00'
+  completeness: 0.88

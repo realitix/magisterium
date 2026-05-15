@@ -1,0 +1,43 @@
+slug: cipriano-de-sao-jose
+nom: Cipriano de São José
+nom_complet: Cypriano de São José, O.F.M. Ref.
+naissance: '1743-11-12'
+deces: '1817-08-14'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1797-12-31'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - manuel-joaquim-da-silva
+  - marcelino-jose-da-silva
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsajo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mariana, Brazil
+  du: null
+  au: '1817-08-14'
+- titre: évêque diocésain
+  du: '1796-10-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17318114
+  catholic_hierarchy: bsajo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:42:18+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: joao-manuel-ferras
+nom: João Manuel Ferras
+nom_complet: null
+naissance: null
+deces: '1478'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmafer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ceuta, Spain
+  du: '1472-01-09'
+  au: null
+- titre: Bishop of Guarda, Portugal
+  du: '1477-03-17'
+  au: 1478&sup2;
+- titre: évêque diocésain
+  du: '1477-03-26'
+  au: null
+- titre: évêque de Ceuta
+  du: '1472-01-18'
+  au: '1477-03-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905988
+  catholic_hierarchy: bmafer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:11:55+00:00'
+  completeness: 0.25

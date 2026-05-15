@@ -1,0 +1,43 @@
+slug: francisco-gomes-de-avelar-c-o
+nom: Francisco Gomes de Avelar, C.O.
+nom_complet: Francisco Gomes de Avelar
+naissance: '1739-01-17'
+deces: '1816-12-15'
+naissance_lieu: Calhandriz
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1789-04-26'
+  consecrateur_principal: jose-maria-de-melo-c-o
+  co_consecrateurs:
+  - joao-teixeira-de-carvalho
+  - jose-antonio-pinto-de-mendonca-arrais
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgomav.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Faro {Algarve}, Portugal
+  du: null
+  au: '1816-12-15'
+- titre: évêque diocésain
+  du: '1789-02-03'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64735081
+  catholic_hierarchy: bgomav
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:31:10+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: sisto-diuzioli-c-r-l
+nom: Sisto Diuzioli, C.R.L.
+nom_complet: Sisto Diuzioli
+naissance: null
+deces: null
+naissance_lieu: Cremona, Diocese of Cremona
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1572-09-07'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: cornelio-musso
+  co_consecrateurs:
+  - umberto-locati
+  - lelio-giordano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiuz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carinola (Calina), Italy
+  du: '1572-06-02'
+  au: 1577&sup2;
+- titre: évêque diocésain
+  du: '1572-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779523
+  catholic_hierarchy: bdiuz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:53:21+00:00'
+  completeness: 0.75

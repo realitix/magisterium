@@ -1,0 +1,38 @@
+slug: catalano-trivulzio
+nom: Catalano Trivulzio
+nom_complet: null
+naissance: '1507'
+deces: '1559'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrivc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Piacenza, Italy
+  du: '1525-05-31'
+  au: 1559&sup2;
+- titre: Roman Catholic Bishop of Piacenza
+  du: '1525-06-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911708
+  catholic_hierarchy: btrivc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:11:12+00:00'
+  completeness: 0.25

@@ -1,0 +1,38 @@
+slug: gazon-de-savigny
+nom: Gazon de Savigny
+nom_complet: null
+naissance: null
+deces: '1307-04-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavignyg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laon, France
+  du: 1297&sup2;
+  au: '1307-04-04'
+- titre: évêque diocésain
+  du: '1297-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446647
+  catholic_hierarchy: bsavignyg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:40+00:00'
+  completeness: 0.38

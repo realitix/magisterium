@@ -1,0 +1,43 @@
+slug: alessandro-spagnuolo
+nom: Alessandro Spagnuolo
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1531-04-28'
+  consecrateur_principal: giambattista-boncianni
+  co_consecrateurs:
+  - francesco-cherigato
+  - octavio-de-cesi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspagnu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tricarico, Italy
+  du: '1529-02-15'
+  au: 1536&sup1;
+- titre: évêque diocésain
+  du: '1529-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780449
+  catholic_hierarchy: bspagnu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:30:59+00:00'
+  completeness: 0.75

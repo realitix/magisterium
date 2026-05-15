@@ -1,0 +1,44 @@
+slug: giovanni-rasini
+nom: Giovanni Rasini
+nom_complet: Giovanni Rasino
+naissance: '1630-02-03'
+deces: '1672-11-18'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1671-07-05'
+  lieu: S. Silvestre au Quirinal, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: federico-borromeo-1617
+  co_consecrateurs:
+  - giacomo-altoviti
+  - federico-baldeschi-colonna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brasino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vigevano, Italy
+  du: '1671-07-01'
+  au: '1672-11-18'
+- titre: évêque diocésain
+  du: '1671-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3768012
+  catholic_hierarchy: brasino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:03:22+00:00'
+  completeness: 1.0

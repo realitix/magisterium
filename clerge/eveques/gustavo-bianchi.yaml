@@ -1,0 +1,43 @@
+slug: gustavo-bianchi
+nom: Gustavo Bianchi
+nom_complet: null
+naissance: '1885-02-25'
+deces: '1951-08-12'
+naissance_lieu: Montepulciano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1941-05-25'
+  consecrateur_principal: emilio-giorgi
+  co_consecrateurs:
+  - giovanni-capobianco
+  - domenico-ettorre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbian.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Monopoli, Italy
+  du: '1941-03-28'
+  au: '1951-08-12'
+- titre: évêque diocésain
+  du: '1941-03-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762026
+  catholic_hierarchy: bbian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:25:19+00:00'
+  completeness: 1.0

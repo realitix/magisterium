@@ -1,0 +1,51 @@
+slug: jean-de-plas
+nom: Jean de Plas
+nom_complet: null
+naissance: '1450'
+deces: '1544'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdplasj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Plas
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: '1525-04-23'
+  au: null
+- titre: Bishop of Bazas, France
+  du: '1531-08-04'
+  au: 1544&sup1;
+- titre: évêque de Périgueux et Sarlat
+  du: '1525-05-03'
+  au: '1531-08-14'
+- titre: évêque diocésain
+  du: '1525-05-03'
+  au: null
+- titre: évêque de Bazas
+  du: '1531-08-14'
+  au: '1544-01-01'
+- titre: évêque diocésain
+  du: '1531-08-14'
+  au: '1544-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175643
+  catholic_hierarchy: bdplasj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:02+00:00'
+  completeness: 0.25

@@ -1,0 +1,45 @@
+slug: josep-gasch
+nom: Josep Gasch
+nom_complet: José Gasch (Casch), O.M.
+naissance: '1653-02-16'
+deces: '1729-06-11'
+naissance_lieu: Alcora, Spain
+deces_lieu: null
+rang: archeveque
+nationalite: Q204920
+tampon: ordo_validus
+sacre:
+  date: '1703-11-30'
+  lieu: S. Andre della Valle, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Palermo, Italy
+  du: '1703-11-26'
+  au: '1729-06-11'
+- titre: archevêque de Palerme
+  du: '1704-01-01'
+  au: '1729-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Gasch.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q55658238
+  catholic_hierarchy: bcasch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:27:08+00:00'
+  completeness: 0.88

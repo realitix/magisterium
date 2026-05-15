@@ -1,0 +1,49 @@
+slug: stephan-burger
+nom: Stephan Burger
+nom_complet: Stephanus Burger
+naissance: '1962-04-29'
+deces: null
+naissance_lieu: Freiburg im Breisgau, Archdiocese of Freiburg im Breisgau
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2014-06-29'
+  lieu: Cathedral, Freiburg im Breisgau, Archdiocese of Freiburg im Breisgau
+  consecrateur_principal: robert-zollitsch
+  co_consecrateurs:
+  - karl-lehmann
+  - gebhard-furst
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bburger.html
+  - https://fr.wikipedia.org/wiki/Stephan_Burger
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Freiburg im Breisgau, Germany
+  du: '2014-05-30'
+  au: null
+- titre: archevêque de Fribourg-en-Brisgau
+  du: '2014-05-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Stephan%20Burger.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q17018005
+  catholic_hierarchy: bburger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:00:07+00:00'
+  completeness: 0.88

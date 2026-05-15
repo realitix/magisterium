@@ -1,0 +1,47 @@
+slug: henry-brandeston
+nom: Henry Brandeston
+nom_complet: null
+naissance: null
+deces: '1288-02-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1287-06-01'
+  consecrateur_principal: john-peckham-o-f-m
+  co_consecrateurs:
+  - godfrey-giffard
+  - olivier-de-sutton
+  - thomas-ingoldsthorpe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrandest.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: null
+  au: '1288-02-11'
+- titre: évêque de Salisbury
+  du: '1287-01-01'
+  au: '1288-01-01'
+- titre: évêque diocésain
+  du: '1287-01-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5718541
+  catholic_hierarchy: bbrandest
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:48:37+00:00'
+  completeness: 0.88

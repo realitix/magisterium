@@ -1,0 +1,40 @@
+slug: henri-1250
+nom: Henri
+nom_complet: Heinrich von Porwalle, O.P.
+naissance: '1250'
+deces: '1350'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1321-02-18'
+  consecrateur_principal: berenger-fredol-le-jeune
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kyiv (Kijów), Ukraine
+  du: '1320-12-15'
+  au: 1334&sup1;
+- titre: évêque diocésain
+  du: '1320-12-23'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q9287894
+  catholic_hierarchy: bhenri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:21+00:00'
+  completeness: 0.62

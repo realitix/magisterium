@@ -1,0 +1,49 @@
+slug: karl-reth
+nom: Karl Reth
+nom_complet: null
+naissance: '1849-10-20'
+deces: '1933-03-02'
+naissance_lieu: Füssen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1916-06-11'
+  consecrateur_principal: maximilian-von-lingg
+  co_consecrateurs:
+  - johann-baptist-von-neudecker
+  - adam-senger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breth.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Augsburg, Germany
+  du: '1916-04-27'
+  au: '1933-03-02'
+- titre: Titular Bishop of Lete
+  du: '1916-04-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1916-04-27'
+  au: null
+- titre: évêque titulaire
+  du: '1916-04-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11870149
+  catholic_hierarchy: breth
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:09:40+00:00'
+  completeness: 1.0

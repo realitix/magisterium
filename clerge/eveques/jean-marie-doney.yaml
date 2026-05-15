@@ -1,0 +1,49 @@
+slug: jean-marie-doney
+nom: Jean-Marie Doney
+nom_complet: null
+naissance: '1794-11-25'
+deces: '1871-01-21'
+naissance_lieu: Epeugney
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1844-03-15'
+  lieu: Cathedral, Besançon, Archdiocese of Besançon
+  consecrateur_principal: cesaire-mathieu
+  co_consecrateurs:
+  - benigne-urbain-jean-marie-du-trousset-d-hericourt
+  - andre-raess
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoney.html
+  - https://fr.wikipedia.org/wiki/Jean-Marie_Doney
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montauban, France
+  du: null
+  au: '1871-01-21'
+- titre: évêque de Montauban
+  du: '1843-11-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Doney.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3167639
+  catholic_hierarchy: bdoney
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:00:48+00:00'
+  completeness: 1.0

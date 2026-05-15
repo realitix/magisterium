@@ -1,0 +1,57 @@
+slug: samuel-kleda
+nom: Samuel Kleda
+nom_complet: null
+naissance: '1959'
+deces: null
+naissance_lieu: Golompuy
+deces_lieu: null
+rang: archeveque
+nationalite: Q1009
+tampon: ordo_dubius
+sacre:
+  date: '2001-02-18'
+  consecrateur_principal: christian-wiyghan-tumi
+  co_consecrateurs:
+  - roger-pirenne
+  - felix-del-blanco-prieto
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkleda.html
+  - https://fr.wikipedia.org/wiki/Samuel_Kleda
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Batouri, Cameroon
+  du: '2000-10-23'
+  au: null
+- titre: Coadjutor Archbishop of Douala, Cameroon
+  du: '2007-11-03'
+  au: null
+- titre: Archbishop of Douala, Cameroon
+  du: null
+  au: '2009-11-17'
+- titre: évêque diocésain
+  du: '2000-10-23'
+  au: null
+- titre: archevêque catholique
+  du: '2009-11-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Kleda.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q450385
+  catholic_hierarchy: bkleda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:15:25+00:00'
+  completeness: 0.75

@@ -5,7 +5,10 @@ type Variant =
   | 'de_fide_definita'
   | 'traditio_constans'
   | 'disciplina'
-  | 'ad_mentem_pii_x';
+  | 'ad_mentem_pii_x'
+  | 'ordo_validus'
+  | 'ordo_dubius'
+  | 'ordo_incertus';
 
 interface Props {
   variant: Variant;
@@ -57,6 +60,26 @@ const SPECS: Record<Variant, VariantSpec> = {
     subtitle: 'Contre le modernisme',
     ink: 'black',
     rotate: -8,
+  },
+  ordo_validus: {
+    label: 'ORDO VALIDUS',
+    subtitle: 'Ordre certain',
+    ink: 'blue',
+    rotate: -5,
+    symbol: '†',
+  },
+  ordo_dubius: {
+    label: 'ORDO DUBIUS',
+    subtitle: 'Ordre douteux',
+    ink: 'red',
+    rotate: -7,
+    symbol: '?',
+  },
+  ordo_incertus: {
+    label: 'ORDO INCERTUS',
+    subtitle: 'Données manquantes',
+    ink: 'black',
+    rotate: -6,
   },
 };
 

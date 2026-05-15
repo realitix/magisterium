@@ -1,0 +1,52 @@
+slug: william-barrow
+nom: William Barrow
+nom_complet: null
+naissance: null
+deces: '1429-09-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1418-02-22'
+  consecrateur_principal: non-indexe-0f180d96
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarrow.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bangor, Wales, Great Britain
+  du: '1418-02-14'
+  au: null
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1423-04-19'
+  au: '1429-09-04'
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1423-04-28'
+  au: '1429-09-13'
+- titre: évêque diocésain
+  du: '1418-02-23'
+  au: null
+- titre: évêque diocésain
+  du: '1423-04-28'
+  au: null
+- titre: Roman Catholic Bishop of Bangor
+  du: '1418-01-01'
+  au: '1423-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8005127
+  catholic_hierarchy: bbarrow
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:05:20+00:00'
+  completeness: 0.62

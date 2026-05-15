@@ -1,0 +1,44 @@
+slug: ascanio-de-gasparis
+nom: Ascanio de Gasparis
+nom_complet: null
+naissance: '1609'
+deces: '1664-08-16'
+naissance_lieu: Veroli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1650-02-20'
+  lieu: Sant'Ambrogio della Massima, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: tiberio-cenci
+  co_consecrateurs:
+  - giovanni-francesco-fossati-o-s-b
+  - pier-francesco-filonardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgasperis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marsi, Italy
+  du: '1650-02-14'
+  au: '1664-08-16'
+- titre: évêque diocésain
+  du: '1650-02-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751194
+  catholic_hierarchy: bgasperis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:13:00+00:00'
+  completeness: 0.88

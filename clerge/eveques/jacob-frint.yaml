@@ -1,0 +1,43 @@
+slug: jacob-frint
+nom: Jacob Frint
+nom_complet: Jakob Frint
+naissance: '1766-12-04'
+deces: '1834-10-11'
+naissance_lieu: Böhmisch-Kamnitz, Czechia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1827-06-04'
+  consecrateur_principal: leopold-maximilian-von-firmian
+  co_consecrateurs:
+  - aristaces-azarian-c-m-vd
+  - matthias-paulus-steindl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrint.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sankt Pölten, Austria
+  du: null
+  au: '1834-10-11'
+- titre: évêque de Sankt Pölten
+  du: '1827-01-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q94343
+  catholic_hierarchy: bfrint
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:59:10+00:00'
+  completeness: 1.0

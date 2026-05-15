@@ -1,0 +1,51 @@
+slug: martin-von-schaumberg
+nom: Martin von Schaumberg
+nom_complet: null
+naissance: '1523'
+deces: '1590-06-28'
+naissance_lieu: Nassenfels
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1561-05-18'
+  lieu: Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: leonhard-haller
+  co_consecrateurs:
+  - michael-dornvogel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscham.html
+  - https://fr.wikipedia.org/wiki/Martin_von_Schaumberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: null
+  au: '1590-06-28'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1560-07-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20von%20Schaumberg%20Epitaph%20Eichst%C3%A4tt%20Dom-Kreuzgang.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q120817
+  catholic_hierarchy: bscham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:00:00+00:00'
+  completeness: 0.88

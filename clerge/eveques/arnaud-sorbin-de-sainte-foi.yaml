@@ -1,0 +1,45 @@
+slug: arnaud-sorbin-de-sainte-foi
+nom: Arnaud Sorbin de Sainte-Foi
+nom_complet: Arnaud Sorbin
+naissance: '1532-07-14'
+deces: '1606-03-01'
+naissance_lieu: Montech, Tarn et Garonne
+deces_lieu: Nevers, Diocese of Nevers
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1578-06-22'
+  lieu: Ste Genevieve, Paris, Diocese of Paris
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - jacques-amyot
+  - nicolas-fumee
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barna.html
+  - https://fr.wikipedia.org/wiki/Arnaud_Sorbin_de_Sainte-Foi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nevers, France
+  du: '1578-05-26'
+  au: '1606-03-01'
+- titre: évêque diocésain
+  du: '1578-06-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2863220
+  catholic_hierarchy: barna
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:45:58+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: cherubino-caietano
+nom: Cherubino Caietano
+nom_complet: Cherubino Gaetano
+naissance: '1501'
+deces: '1544-01-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1521-06-16'
+  consecrateur_principal: paride-grassi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaetanoc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satriano, Italy
+  du: '1521-03-20'
+  au: null
+- titre: Bishop of Satriano e Campagna, Italy
+  du: '1525-07-19'
+  au: 1545&sup1;
+- titre: évêque diocésain
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3667238
+  catholic_hierarchy: bgaetanoc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:03:20+00:00'
+  completeness: 0.62

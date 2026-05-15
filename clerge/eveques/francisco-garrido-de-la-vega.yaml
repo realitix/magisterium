@@ -1,0 +1,49 @@
+slug: francisco-garrido-de-la-vega
+nom: Francisco Garrido de la Vega
+nom_complet: null
+naissance: '1713-05-30'
+deces: '1776-01-20'
+naissance_lieu: San Martín de Berducido
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1763-09-18'
+  consecrateur_principal: manuel-quintano-bonifaz
+  co_consecrateurs:
+  - juan-manuel-arguelles
+  - francisco-fernandez-jativa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarrido.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mallorca, Spain
+  du: '1763-07-18'
+  au: null
+- titre: Bishop of Córdoba, Spain
+  du: '1772-03-30'
+  au: '1776-01-20'
+- titre: évêque de Majorque et Minorque
+  du: '1763-07-18'
+  au: '1772-03-30'
+- titre: évêque de Cordoue
+  du: '1772-03-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20001270
+  catholic_hierarchy: bgarrido
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:12:01+00:00'
+  completeness: 1.0

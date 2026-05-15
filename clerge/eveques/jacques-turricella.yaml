@@ -1,0 +1,41 @@
+slug: jacques-turricella
+nom: Jacques Turricella
+nom_complet: Jacques Turicella, O.F.M.
+naissance: '1505'
+deces: '1618-01-19'
+naissance_lieu: Etrurie
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1605-03-20'
+  consecrateur_principal: renaud-de-beaune
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bturic.html
+  - https://fr.wikipedia.org/wiki/Jacques_Turricella
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: '1605-01-19'
+  au: '1618-01-19'
+- titre: évêque diocésain
+  du: '1605-01-19'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q3160112
+  catholic_hierarchy: bturic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:35+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: ernesto-de-laurentiis
+nom: Ernesto de Laurentiis
+nom_complet: null
+naissance: '1879-09-21'
+deces: '1956-01-04'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1929-01-20'
+  lieu: Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: alessio-ascalesi
+  co_consecrateurs:
+  - giuseppe-d-rsquo-alessio
+  - salvatore-meo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdela.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ischia, Italy
+  du: '1928-11-10'
+  au: '1956-01-04'
+- titre: Évêque d'Ischia
+  du: '1928-11-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q77830340
+  catholic_hierarchy: bdela
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:38:25+00:00'
+  completeness: 1.0

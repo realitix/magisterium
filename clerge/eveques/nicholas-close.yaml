@@ -1,0 +1,48 @@
+slug: nicholas-close
+nom: Nicholas Close
+nom_complet: Nicholas Cloose (Close)
+naissance: null
+deces: '1452-10-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1450-03-15'
+  consecrateur_principal: john-cardinal-kempe
+  co_consecrateurs:
+  - thomas-kempe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclose.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1450-01-30'
+  au: null
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1452-08-30'
+  au: Oct 1452&sup3;
+- titre: évêque diocésain
+  du: '1450-02-08'
+  au: null
+- titre: évêque de Coventry et Lichfield
+  du: '1452-09-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7025222
+  catholic_hierarchy: bclose
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:52+00:00'
+  completeness: 0.75

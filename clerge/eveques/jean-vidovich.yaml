@@ -1,0 +1,43 @@
+slug: jean-vidovich
+nom: Jean Vidovich
+nom_complet: null
+naissance: '1652'
+deces: '1721-03-22'
+naissance_lieu: Sibenic
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1716-04-19'
+  consecrateur_principal: fabrizio-paolucci-1651
+  co_consecrateurs:
+  - alessandro-bonaventura-1643-ebdd45
+  - prospero-marefoschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvidovich.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trogir (Traù), Croatia
+  du: '1716-03-30'
+  au: '1721-03-22'
+- titre: évêque diocésain
+  du: '1716-03-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747821
+  catholic_hierarchy: bvidovich
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:36:58+00:00'
+  completeness: 0.88

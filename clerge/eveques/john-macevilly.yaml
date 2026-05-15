@@ -1,0 +1,66 @@
+slug: john-macevilly
+nom: John MacEvilly
+nom_complet: John McEvilly
+naissance: '1818-04-15'
+deces: '1902-11-26'
+naissance_lieu: Louisburgh
+deces_lieu: null
+rang: archeveque
+nationalite: Q27
+tampon: ordo_validus
+sacre:
+  date: '1857-03-22'
+  lieu: Cathedral, Tuam, Archdiocese of Tuam
+  consecrateur_principal: john-machale
+  co_consecrateurs:
+  - tommaso-feeny
+  - george-joseph-plunkett-browne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmacev.html
+  - https://fr.wikipedia.org/wiki/John_MacEvilly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Galway, Ireland
+  du: '1857-01-09'
+  au: null
+- titre: Apostolic Administrator of Kilmacduagh, Ireland
+  du: '1866-08-31'
+  au: null
+- titre: Apostolic Administrator of Kilfenora, Ireland
+  du: '1866-08-31'
+  au: null
+- titre: Coadjutor Archbishop of Tuam, Ireland
+  du: '1878-01-11'
+  au: null
+- titre: Archbishop of Tuam, Ireland
+  du: null
+  au: '1902-11-26'
+- titre: évêque diocésain
+  du: '1857-01-09'
+  au: '1881-11-07'
+- titre: archevêque de Tuam
+  du: '1881-11-07'
+  au: '1902-11-26'
+- titre: administrateur apostolique
+  du: '1866-08-31'
+  au: '1881-11-07'
+- titre: archevêque coadjuteur
+  du: '1878-01-11'
+  au: '1881-11-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6247730
+  catholic_hierarchy: bmacev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:09:25+00:00'
+  completeness: 1.0

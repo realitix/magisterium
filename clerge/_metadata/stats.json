@@ -1,0 +1,83 @@
+{
+  "total_eveques": 52978,
+  "par_fraternite": {
+    "non-renseigne": 46563,
+    "jesuites": 1721,
+    "franciscains": 1628,
+    "benedictins": 1096,
+    "dominicains": 654,
+    "augustins": 416,
+    "salesiens": 303,
+    "lazaristes": 258,
+    "redemptoristes": 124,
+    "oratoriens": 114,
+    "maristes": 72,
+    "trappistes": 15,
+    "sede-thuc-line": 4,
+    "resistance": 2,
+    "fsspx": 2,
+    "sede-cassiciacum": 2,
+    "sede-sgg": 1,
+    "spiritains": 1,
+    "palmar": 1,
+    "sede-cmri": 1
+  },
+  "par_siecle_naissance": {
+    "0": 1,
+    "1": 2,
+    "2": 5,
+    "3": 23,
+    "4": 38,
+    "5": 37,
+    "6": 48,
+    "7": 81,
+    "8": 69,
+    "9": 78,
+    "10": 165,
+    "11": 337,
+    "12": 638,
+    "13": 694,
+    "14": 728,
+    "15": 1288,
+    "16": 2757,
+    "17": 4124,
+    "18": 4610,
+    "19": 7593,
+    "20": 12442
+  },
+  "avec_photo": 10784,
+  "avec_consecrateur_connu": 32707,
+  "avec_date_sacre": 34290,
+  "cross_source_matches": 40631,
+  "anomalies": {
+    "weird_dates_normalized": 255,
+    "many_consec_no_principal": 0,
+    "consec_date_no_principal": 1981,
+    "skipped_no_name": 0,
+    "skipped_non_catholic": 149,
+    "manual_only_eveques": 10,
+    "manual_edges_added": 0
+  },
+  "raw_counts": {
+    "wikidata": 45644,
+    "catholic_hierarchy": 47929,
+    "gcatholic": 500
+  },
+  "bridge_counts": {
+    "wd_ch_explicit": 40615,
+    "wd_gc_heuristic": 321,
+    "ch_gc": 381
+  },
+  "par_rite": {
+    "ancien": 24028,
+    "nouveau": 8974,
+    "mixte": 0,
+    "inconnu": 3052
+  },
+  "par_tampon": {
+    "ordo_validus": 23174,
+    "ordo_dubius": 8991,
+    "ordo_incertus": 27879
+  },
+  "ecclesia_dei_review_count": 0
+}

@@ -1,0 +1,49 @@
+slug: martin-dieminger
+nom: Martin Dieminger
+nom_complet: null
+naissance: null
+deces: '1460-07-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1452'
+  consecrateur_principal: peter-von-schaumberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiemi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Augsburg, Germany
+  du: '1450-11-13'
+  au: '1460-07-18'
+- titre: Titular Bishop of Adramyttium
+  du: '1450-11-13'
+  au: null
+- titre: évêque auxiliaire
+  du: '1450-01-01'
+  au: '1460-01-01'
+- titre: évêque auxiliaire
+  du: '1450-11-22'
+  au: '1460-01-01'
+- titre: évêque titulaire
+  du: '1450-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763925
+  catholic_hierarchy: bdiemi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:22+00:00'
+  completeness: 0.75

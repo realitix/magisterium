@@ -1,0 +1,41 @@
+slug: pal-hoffmann
+nom: Pál Hoffmann
+nom_complet: null
+naissance: '1614'
+deces: '1659-06-24'
+naissance_lieu: Szúletett
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1656-01-25'
+  lieu: Tirnovo
+  consecrateur_principal: gyorgy-lippay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhffmnn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1655-08-03'
+  au: '1659-06-24'
+- titre: évêque de Pécs
+  du: '1655-08-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25468847
+  catholic_hierarchy: bhffmnn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:29+00:00'
+  completeness: 0.75

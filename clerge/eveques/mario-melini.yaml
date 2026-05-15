@@ -1,0 +1,44 @@
+slug: mario-melini
+nom: Mario Melini
+nom_complet: null
+naissance: '1798-11-13'
+deces: '1865-03-09'
+naissance_lieu: Montalcino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1853-12-26'
+  lieu: S. Jean des Florentins, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-maria-cagiano-de-azevedo
+  co_consecrateurs:
+  - giuseppe-maria-vespignani
+  - alberto-emanuele-marongiu-nurra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmelini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modigliana, Italy
+  du: '1853-12-19'
+  au: '1865-03-09'
+- titre: Roman Catholic Bishop of Modigliana
+  du: '1853-12-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744904
+  catholic_hierarchy: bmelini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:48:53+00:00'
+  completeness: 1.0

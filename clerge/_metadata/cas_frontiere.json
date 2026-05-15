@@ -1,0 +1,36 @@
+[
+  {
+    "slug": "alfredo-mendez-gonzalez",
+    "famille": "mendez-thuc",
+    "question": "Évêque catholique légitime ayant consacré R. F. McKenna en 1986 (lignée Thuc-Carmona). Jamais déclaré schismatique. Statut canonique de la consécration de McKenna ?",
+    "source": "https://fr.wikipedia.org/wiki/Alfredo_M%C3%A9ndez-Gonzalez"
+  },
+  {
+    "slug": "paul-morgan",
+    "famille": "fsspx",
+    "question": "Wikidata semble confondre un prêtre FSSPX (Paul Morgan, 1963-) avec un sacre épiscopal inexistant. À vérifier manuellement et probablement supprimer du corpus.",
+    "source": "https://en.wikipedia.org/wiki/Paul_Morgan_(priest)"
+  },
+  {
+    "slug": "carlo-maria-vigano",
+    "famille": "rupture-recente",
+    "question": "Rupture canonique 2024 — statut « rupture-canonique » ad hoc. Convient-il de créer une famille palmarienne/sédévacantiste ad hoc pour Viganò ?",
+    "source": "https://fr.wikipedia.org/wiki/Carlo_Maria_Vigan%C3%B2"
+  },
+  {
+    "slug": "licinio-rangel",
+    "famille": "rangel-campos",
+    "question": "Sacré 1991 par 3 évêques FSSPX (sans Lefebvre). Sacre validé par Jean-Paul II en 2002 (Administration apostolique de Campos). Comment classer ce sacre rétrospectivement validé ?",
+    "source": "https://fr.wikipedia.org/wiki/Licinio_Rangel"
+  },
+  {
+    "famille": "fsspx-non-corpus",
+    "question": "Sacres FSSPX de 1988 absents du corpus Wikidata : Bernard Tissier de Mallerais (Q323378), Alfonso de Galarreta (Q318527). À ré-injecter via un scraper Wikipedia.",
+    "source": "https://fr.wikipedia.org/wiki/Sacres_d%27%C3%89c%C3%B4ne"
+  },
+  {
+    "famille": "thuc-line-non-corpus",
+    "question": "Évêques de la lignée Thuc post-1981 absents du corpus : Guérard des Lauriers, Moisés Carmona Rivera, Adolfo Zamora, Clemente Domínguez (Palmar). Idem pour Robert Fidelis McKenna, Mark Pivarunas (CMRI), Daniel Dolan présent partiellement, Donald Sanborn. À compléter manuellement ou par scraping Wikipedia ciblé.",
+    "source": "https://fr.wikipedia.org/wiki/Pierre_Martin_Ng%C3%B4_%C4%90%C3%ACnh_Th%E1%BB%A5c"
+  }
+]

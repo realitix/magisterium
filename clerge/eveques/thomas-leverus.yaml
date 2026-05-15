@@ -1,0 +1,44 @@
+slug: thomas-leverus
+nom: Thomas Leverus
+nom_complet: null
+naissance: null
+deces: '1577'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleverus.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Leighlin, Ireland
+  du: '1541-11-24'
+  au: null
+- titre: Bishop of Kildare, Ireland
+  du: '1555-08-30'
+  au: 1577&sup2;
+- titre: évêque diocésain
+  du: '1555-09-09'
+  au: null
+- titre: évêque diocésain
+  du: '1541-12-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905169
+  catholic_hierarchy: bleverus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:47:29+00:00'
+  completeness: 0.25

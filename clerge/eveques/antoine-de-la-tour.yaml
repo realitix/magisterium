@@ -1,0 +1,48 @@
+slug: antoine-de-la-tour
+nom: Antoine de La Tour
+nom_complet: null
+naissance: null
+deces: '1595-09-08'
+naissance_lieu: null
+deces_lieu: Rocamadour, Lot
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1588-09-04'
+  lieu: Bordeaux, Archdiocese of Bordeaux
+  consecrateur_principal: arnaud-de-pontac
+  co_consecrateurs:
+  - jean-duchemin
+  - louis-ier-de-salignac-de-la-mothe-fenelon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bltourba.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_La_Tour
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: '1587-04-20'
+  au: '1594-09-10'
+- titre: Bishop Emeritus of Tulle, France
+  du: null
+  au: '1595-09-08'
+- titre: évêque de Tulle
+  du: '1587-04-20'
+  au: '1594-09-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24936361
+  catholic_hierarchy: bltourba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:41+00:00'
+  completeness: 0.88

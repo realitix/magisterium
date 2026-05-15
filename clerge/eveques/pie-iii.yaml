@@ -1,0 +1,85 @@
+slug: pie-iii
+nom: Pie III
+nom_complet: Pius III
+naissance: '1439-05-29'
+deces: '1503-10-18'
+naissance_lieu: Siena, Archdiocese of Siena
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1503-10-01'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: julius-ii
+  co_consecrateurs:
+  - aldello-piccolomini
+  - francesco-eroli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btopi.html
+  - https://fr.wikipedia.org/wiki/Pie_III
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Administrator of Siena, Italy
+  du: '1460-02-06'
+  au: null
+- titre: Cardinal-Deacon of Sant&rsquo;Eustachio
+  du: '1460-03-26'
+  au: null
+- titre: Administrator of Fermo, Italy
+  du: '1485-02-21'
+  au: '1494-05-26'
+- titre: Administrator of Pienza e Montalcino, Italy
+  du: '1495-10-31'
+  au: 1498-03
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1503-10-18'
+- titre: cardinal-diacre
+  du: '1460-04-04'
+  au: '1503-10-02'
+- titre: administrateur apostolique
+  du: '1496-01-01'
+  au: '1503-10-02'
+- titre: Roman Catholic Archbishop of Siena
+  du: '1460-02-15'
+  au: '1503-10-02'
+- titre: abbé
+  du: '1460-01-01'
+  au: '1503-01-01'
+- titre: administrateur apostolique
+  du: '1495-11-09'
+  au: '1498-03-23'
+- titre: cardinal protodiacre
+  du: '1471-09-08'
+  au: '1503-10-02'
+- titre: cardinal
+  du: '1460-03-14'
+  au: null
+- titre: pape
+  du: '1503-10-12'
+  au: '1503-10-18'
+- titre: administrateur apostolique
+  du: '1485-03-02'
+  au: '1494-06-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PiusIII.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q160030
+  catholic_hierarchy: btopi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:04:34+00:00'
+  completeness: 1.0

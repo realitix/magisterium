@@ -1,0 +1,47 @@
+slug: angelo-canopeo
+nom: Angelo Canopeo
+nom_complet: Angelo Canopei
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanopei.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chioggia, Italy
+  du: '1363-03-22'
+  au: null
+- titre: Bishop of Trieste, Italy
+  du: '1369-01-15'
+  au: 1382&sup2;
+- titre: évêque de Chioggia
+  du: '1363-03-30'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Trieste
+  du: '1369-01-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18920597
+  catholic_hierarchy: bcanopei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:11+00:00'
+  completeness: 0.25

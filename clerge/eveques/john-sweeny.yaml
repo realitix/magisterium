@@ -1,0 +1,49 @@
+slug: john-sweeny
+nom: John Sweeny
+nom_complet: null
+naissance: '1821-05-15'
+deces: '1901-03-25'
+naissance_lieu: Clones, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1860-04-15'
+  lieu: Cathedral, Saint John, New Brunswick, Diocese of Saint John in New Brunswick,
+    New Brunswick
+  consecrateur_principal: thomas-louis-connolly
+  co_consecrateurs:
+  - colin-francis-mackinnon
+  - john-bernard-fitzpatrick
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsweeny.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint John in New Brunswick, New Brunswick, Canada
+  du: '1859-11-29'
+  au: '1901-03-25'
+- titre: évêque diocésain
+  du: '1859-11-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Sweeny%20lithograph.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6259791
+  catholic_hierarchy: bsweeny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:45:31+00:00'
+  completeness: 1.0

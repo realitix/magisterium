@@ -1,0 +1,54 @@
+slug: john-tuigg
+nom: John Tuigg
+nom_complet: null
+naissance: '1821-02-19'
+deces: '1889-12-07'
+naissance_lieu: Donoughmore, Diocese of Cork, Ireland
+deces_lieu: Altoona, Diocese of Pittsburgh, Pennsylvania
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1876-03-19'
+  lieu: St. Paul, Cathedral, Pittsburg, Diocese of Pittsburgh, Pennsylvania
+  consecrateur_principal: james-frederick-bryan-wood
+  co_consecrateurs:
+  - michael-domenec
+  - tobias-mullen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btuigg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pittsburgh, Pennsylvania, USA
+  du: '1876-01-11'
+  au: '1889-12-07'
+- titre: Apostolic Administrator of Allegheny, Pennsylvania, USA
+  du: '1877-08-03'
+  au: null
+- titre: administrateur apostolique
+  du: '1877-08-03'
+  au: null
+- titre: évêque diocésain
+  du: '1876-01-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Tuigg%202.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6261382
+  catholic_hierarchy: btuigg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:13:37+00:00'
+  completeness: 1.0

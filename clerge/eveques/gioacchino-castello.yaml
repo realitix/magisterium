@@ -1,0 +1,43 @@
+slug: gioacchino-castello
+nom: Gioacchino Castello
+nom_complet: null
+naissance: '1708-07-01'
+deces: '1788-07-12'
+naissance_lieu: Palermo, Archdiocese of Palermo
+deces_lieu: null
+rang: eveque
+nationalite: Q644986
+tampon: ordo_validus
+sacre:
+  date: '1755-07-27'
+  consecrateur_principal: joaquin-fernandez-portocarrero
+  co_consecrateurs:
+  - giovanni-andrea-tria
+  - giorgio-maria-lascaris
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastelgi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cefalù, Italy
+  du: null
+  au: '1788-07-12'
+- titre: Évêque de Cefalù
+  du: '1755-06-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q42604759
+  catholic_hierarchy: bcastelgi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:30:07+00:00'
+  completeness: 1.0

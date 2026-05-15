@@ -1,0 +1,45 @@
+slug: jean-alphonse-blanchet
+nom: Jean-Alphonse Blanchet
+nom_complet: null
+naissance: '1829-11-19'
+deces: '1888-05-19'
+naissance_lieu: Châteauroux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1887-08-01'
+  lieu: Cathedral, Bourges, Archdiocese of Bourges
+  consecrateur_principal: jean-joseph-marchal
+  co_consecrateurs:
+  - jean-pierre-boyer
+  - henri-denechau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblanja.html
+  - https://fr.wikipedia.org/wiki/Jean-Alphonse_Blanchet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap, France
+  du: null
+  au: '1888-05-19'
+- titre: évêque diocésain
+  du: '1887-05-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733741
+  catholic_hierarchy: bblanja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:30:31+00:00'
+  completeness: 1.0

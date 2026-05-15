@@ -1,0 +1,49 @@
+slug: jean-jacques-guerrin
+nom: Jean-Jacques Guerrin
+nom_complet: Jean-Jacques-Marie-Antoine Guerrin
+naissance: '1793-12-31'
+deces: '1877-03-19'
+naissance_lieu: Vesoul
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1852-05-23'
+  lieu: Cathedral, Besançon, Archdiocese of Besançon
+  consecrateur_principal: cesaire-mathieu
+  co_consecrateurs:
+  - francois-victor-rivet
+  - louis-marie-caverot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguerj.html
+  - https://fr.wikipedia.org/wiki/Jean-Jacques_Guerrin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: null
+  au: '1877-03-19'
+- titre: évêque de Langres
+  du: '1851-01-01'
+  au: '1877-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Guerrin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q26210803
+  catholic_hierarchy: bguerj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:27+00:00'
+  completeness: 1.0

@@ -1,0 +1,41 @@
+slug: malachy-dulany
+nom: Malachy Dulany
+nom_complet: null
+naissance: null
+deces: '1731-05-07'
+naissance_lieu: Kilkenny
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1714-02-18'
+  lieu: Dublin, Archdiocese of Dublin
+  consecrateur_principal: edmund-byrne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdulany.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1713-09-15'
+  au: '1731-05-07'
+- titre: évêque du diocèse d'Ossory
+  du: '1713-09-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780132
+  catholic_hierarchy: bdulany
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:12:32+00:00'
+  completeness: 0.75

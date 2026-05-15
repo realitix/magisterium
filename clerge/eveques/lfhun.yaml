@@ -1,0 +1,35 @@
+slug: lfhun
+nom: Ælfhun
+nom_complet: null
+naissance: '750'
+deces: '798'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/%C3%86lfhun_(%C3%A9v%C3%AAque_de_Dunwich)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Dunwich
+  du: null
+  au: '0798-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Aelfhun%20Bishop%20of%20Dunwich%20-%20geograph.org.uk%20-%20674629.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8077298
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56

@@ -1,0 +1,39 @@
+slug: urban-vi
+nom: Urban VI
+nom_complet: null
+naissance: null
+deces: '1389-10-15'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1364-03-21'
+  consecrateur_principal: henrik-karlsson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprignano.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Acerenza e Matera, Italy
+  du: '1363-03-22'
+  au: null
+- titre: Archbishop of Bari (-Canosa), Italy
+  du: '1377-01-13'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1389-10-15'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bprignano
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:49:30+00:00'
+  completeness: 0.62

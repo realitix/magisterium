@@ -1,0 +1,38 @@
+slug: costantino-dei-medici-o-p
+nom: Costantino dei Medici, O.P.
+nom_complet: Costantino dei Medici
+naissance: null
+deces: '1256'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmedicic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orvieto, Italy
+  du: 1250&sup1;
+  au: 1257&sup2;
+- titre: évêque diocésain
+  du: '1250-01-01'
+  au: null
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q108463017
+  catholic_hierarchy: bmedicic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:46:42+00:00'
+  completeness: 0.25

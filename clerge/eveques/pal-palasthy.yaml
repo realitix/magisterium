@@ -1,0 +1,54 @@
+slug: pal-palasthy
+nom: Pál Palásthy
+nom_complet: null
+naissance: '1825-03-30'
+deces: '1899-09-24'
+naissance_lieu: Magyar-Izsép
+deces_lieu: null
+rang: eveque
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1886-05-09'
+  lieu: Esztergom, Archdiocese of Esztergom
+  consecrateur_principal: janos-simor
+  co_consecrateurs:
+  - juraj-schopper
+  - jozsef-boltizar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpalast.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1886-05-04'
+  au: '1899-09-24'
+- titre: Titular Bishop of Sarepta
+  du: '1886-05-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1886-05-04'
+  au: null
+- titre: évêque titulaire
+  du: '1886-05-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1sthy%20P%C3%A1l%20a%20Pal%C3%A1sthy%20c%C3%ADmerrel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1228706
+  catholic_hierarchy: bpalast
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:03:57+00:00'
+  completeness: 1.0

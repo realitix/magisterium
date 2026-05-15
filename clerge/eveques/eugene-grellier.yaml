@@ -1,0 +1,60 @@
+slug: eugene-grellier
+nom: Eugène Grellier
+nom_complet: Eugène-Jacques Grellier
+naissance: '1850-01-03'
+deces: '1939-02-23'
+naissance_lieu: Joué-Étiau, Diocese of Angers
+deces_lieu: Laval, Diocese of Laval
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-02-25'
+  lieu: Altar of the Chair, San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - louis-joseph-lucon
+  - emile-christophe-enard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrel.html
+  - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Grellier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laval, France
+  du: '1906-02-21'
+  au: null
+- titre: Titular Archbishop of Caesarea in Cappadocia
+  du: '1936-06-15'
+  au: null
+- titre: Bishop Emeritus of Laval, France
+  du: null
+  au: '1939-02-23'
+- titre: archevêque catholique
+  du: '1936-06-15'
+  au: null
+- titre: archevêque titulaire
+  du: '1936-06-15'
+  au: null
+- titre: évêque diocésain
+  du: '1906-02-21'
+  au: '1936-06-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Eug%C3%A8ne-Jacques%20Grellier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3059901
+  catholic_hierarchy: bgrel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:42:12+00:00'
+  completeness: 0.88

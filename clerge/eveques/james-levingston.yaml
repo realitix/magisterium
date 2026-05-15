@@ -1,0 +1,43 @@
+slug: james-levingston
+nom: James Levingston
+nom_complet: null
+naissance: null
+deces: '1483-08-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1476-06-30'
+  consecrateur_principal: john-hepburn
+  co_consecrateurs:
+  - thomas-lauder
+  - john-balfour
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blevingst.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunkeld, Scotland, Great Britain
+  du: '1475-10-02'
+  au: '1483-08-30'
+- titre: Roman Catholic Bishop of Dunkeld
+  du: '1475-10-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761029
+  catholic_hierarchy: blevingst
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:47:35+00:00'
+  completeness: 0.88

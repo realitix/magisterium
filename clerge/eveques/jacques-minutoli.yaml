@@ -1,0 +1,45 @@
+slug: jacques-minutoli
+nom: Jacques Minutoli
+nom_complet: Giacomo Minutoli
+naissance: null
+deces: '1485'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bminut.html
+  - https://fr.wikipedia.org/wiki/Jacques_Minutoli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nocera Umbra, Italy
+  du: '1472-10-12'
+  au: null
+- titre: Bishop of Agde, France
+  du: '1476-08-17'
+  au: 1485&sup1;
+- titre: évêque diocésain
+  du: '1476-08-26'
+  au: null
+- titre: évêque diocésain
+  du: '1472-10-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56277241
+  catholic_hierarchy: bminut
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:59:18+00:00'
+  completeness: 0.25

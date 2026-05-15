@@ -1,0 +1,56 @@
+slug: antoine-abed
+nom: Antoine Abed
+nom_complet: null
+naissance: '1896-10-26'
+deces: '1975-09-15'
+naissance_lieu: Tripoli
+deces_lieu: null
+rang: archeveque
+nationalite: Q822
+tampon: ordo_validus
+sacre:
+  date: '1933-05-07'
+  consecrateur_principal: antoine-boutros-arida
+  co_consecrateurs:
+  - paul-aouad-awad-auad
+  - chucrallah-khoury-m-l
+  - abdallah-khoury
+  - pierre-feghali
+  - elie-rischa-richa
+  - elie-chedid-scedid
+  - emmanuel-phares
+  - paul-akl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/babed.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Tripoli del Libano {Tarabulus} (Maronite)
+  du: '1965-09-05'
+  au: '1975-09-15'
+- titre: archevêque catholique
+  du: '1965-09-05'
+  au: null
+- titre: évêque diocésain
+  du: '1933-04-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Abed%20-%20Boutros%20el%20Khoury%20residence.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q585562
+  catholic_hierarchy: babed
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:53+00:00'
+  completeness: 1.0

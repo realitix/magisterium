@@ -1,0 +1,42 @@
+slug: carl-r-nnow
+nom: Carl Rønnow
+nom_complet: Karl Rønnow
+naissance: '1450'
+deces: '1501'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bronnow.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Odense, Denmark
+  du: '1475-03-03'
+  au: 1501&sup2;
+- titre: évêque diocésain
+  du: '1475-03-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20M%C3%BCller%20-%20Hans%20Tausen%20beskytter%20biskop%20R%C3%B8nnow%20mod%20de%20opbragte%20k%C3%B8benhavnske%20borgere%20-%201836.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12305367
+  catholic_hierarchy: bronnow
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:26:26+00:00'
+  completeness: 0.25

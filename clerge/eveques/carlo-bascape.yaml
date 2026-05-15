@@ -1,0 +1,49 @@
+slug: carlo-bascape
+nom: Carlo Bascapè
+nom_complet: Carlo Bescapè, B.
+naissance: '1550-10-25'
+deces: '1615-10-06'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1593-02-24'
+  lieu: S. Blaise de l'Anello, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ludovico-de-torres
+  co_consecrateurs:
+  - francesco-gonzaga-1546
+  - owen-lewis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbasc.html
+  - https://fr.wikipedia.org/wiki/Carlo_Bescap%C3%A8
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Novara, Italy
+  du: '1593-02-08'
+  au: '1615-10-06'
+- titre: évêque diocésain
+  du: '1593-02-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Carlo%20Bascap%C3%A8.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3659049
+  catholic_hierarchy: bbasc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:06:35+00:00'
+  completeness: 1.0

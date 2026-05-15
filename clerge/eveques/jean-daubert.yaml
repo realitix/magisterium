@@ -1,0 +1,45 @@
+slug: jean-daubert
+nom: Jean Daubert
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1514-09-01'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaubert.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Besançon, France
+  du: '1514-09-01'
+  au: null
+- titre: Titular Bishop of Salona
+  du: '1514-09-01'
+  au: null
+- titre: évêque titulaire
+  du: '1514-09-01'
+  au: null
+- titre: évêque auxiliaire de Besançon
+  du: '1514-09-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68867207
+  catholic_hierarchy: bdaubert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:30:02+00:00'
+  completeness: 0.25

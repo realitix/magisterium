@@ -1,0 +1,51 @@
+slug: guy-ii-de-mello
+nom: Guy II de Mello
+nom_complet: Guy de Mello
+naissance: '1212'
+deces: '1270-09-19'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmellog.html
+  - https://fr.wikipedia.org/wiki/Guy_de_Mello
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1245-08-21'
+  au: null
+- titre: Bishop of Auxerre, France
+  du: '1247-02-09'
+  au: null
+- titre: Archbishop of Lyon, France
+  du: '1267-12-30'
+  au: '1270-09-19'
+- titre: évêque d'Auxerre
+  du: '1247-02-16'
+  au: null
+- titre: archevêque de Lyon
+  du: null
+  au: null
+- titre: évêque de Verdun
+  du: '1245-01-01'
+  au: '1247-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3122273
+  catholic_hierarchy: bmellog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:49:16+00:00'
+  completeness: 0.38

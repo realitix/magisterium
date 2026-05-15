@@ -1,0 +1,40 @@
+slug: francois-de-saint-nectaire
+nom: François de Saint-Nectaire
+nom_complet: François de Saint-Nectaire Senneterre, O.S.B.
+naissance: null
+deces: '1567-09-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jean-de-lustrac
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsennet.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Saint-Nectaire_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarlat, France
+  du: '1545-07-03'
+  au: 1567-09
+- titre: évêque de Sarlat
+  du: '1545-07-13'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q16027461
+  catholic_hierarchy: bsennet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:10:08+00:00'
+  completeness: 0.38

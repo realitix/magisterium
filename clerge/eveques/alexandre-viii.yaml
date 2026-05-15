@@ -1,0 +1,76 @@
+slug: alexandre-viii
+nom: Alexandre VIII
+nom_complet: Alexander VIII
+naissance: '1610-04-22'
+deces: '1691-02-01'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: pape
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1654-12-27'
+  lieu: San Marco, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcantonio-bragadin
+  co_consecrateurs:
+  - girolamo-cardinal-farnese
+  - clement-ix
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/botto.html
+  - https://fr.wikipedia.org/wiki/Alexandre_VIII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brescia, Italy
+  du: '1654-12-07'
+  au: 9 Jun 1664&#8310;
+- titre: Cardinal-Priest of San Marco
+  du: '1660-11-15'
+  au: null
+- titre: Cardinal-Priest of Santa Maria in Trastevere
+  du: '1677-09-13'
+  au: null
+- titre: Cardinal-Priest of Santa Prassede
+  du: '1680-01-08'
+  au: null
+- titre: Cardinal-Bishop of Sabina
+  du: '1681-12-01'
+  au: null
+- titre: Cardinal-Bishop of Frascati
+  du: '1683-02-15'
+  au: null
+- titre: Cardinal-Bishop of Porto e Santa Rufina
+  du: '1687-11-10'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1691-02-01'
+- titre: évêque de Brescia
+  du: '1654-12-07'
+  au: '1664-06-09'
+- titre: pape
+  du: '1689-10-06'
+  au: '1691-02-01'
+- titre: cardinal
+  du: '1652-02-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Alexander%20VIII%20%E2%80%93%20Roman%20School%20of%2017th%20Century%20%E2%80%93%20%28unframed%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q101294
+  catholic_hierarchy: botto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:59:52+00:00'
+  completeness: 1.0

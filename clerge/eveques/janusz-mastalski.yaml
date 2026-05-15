@@ -1,0 +1,55 @@
+slug: janusz-mastalski
+nom: Janusz Mastalski
+nom_complet: Janusz Edward Mastalski
+naissance: '1964-05-04'
+deces: null
+naissance_lieu: Kraków, Archdiocese of Kraków {Cracow}
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_dubius
+sacre:
+  date: '2019-01-05'
+  lieu: Sts. Stanislaus and Wenceslaus, Wawel Hill, Cathedral Basilica, Kraków, Archdiocese
+    of Kraków {Cracow}
+  consecrateur_principal: marek-jedraszewski
+  co_consecrateurs:
+  - salvatore-pennacchio
+  - stanis-aw-dziwisz
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmasta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Kraków {Cracow}, Poland
+  du: '2018-12-03'
+  au: null
+- titre: Titular Bishop of Noba
+  du: '2018-12-03'
+  au: null
+- titre: évêque titulaire
+  du: '2018-12-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '2019-01-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Janusz%20Mastalski%20%282019%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20829436
+  catholic_hierarchy: bmasta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:36:39+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: egbert-de-treves
+nom: Egbert de Trèves
+nom_complet: Egbert von Holland
+naissance: '952'
+deces: '993'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: adalberon-ii-de-metz
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhollnd.html
+  - https://fr.wikipedia.org/wiki/Egbert_de_Tr%C3%A8ves
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Trier, Germany
+  du: 977&sup2;
+  au: 8 Dec 993
+- titre: archevêque
+  du: null
+  au: null
+- titre: archevêque de Trèves
+  du: '0977-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Egbert%20of%20Trier%20receives%20the%20Codex%20Egberti.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q66421
+  catholic_hierarchy: bhollnd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:53+00:00'
+  completeness: 0.5

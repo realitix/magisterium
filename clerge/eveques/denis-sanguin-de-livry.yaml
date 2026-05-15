@@ -1,0 +1,44 @@
+slug: denis-sanguin-de-livry
+nom: Denis Sanguin de Livry
+nom_complet: null
+naissance: '1621'
+deces: '1702-03-13'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1652-01-14'
+  consecrateur_principal: nicolas-sanguin
+  co_consecrateurs:
+  - jacques-danes
+  - jean-d-estrades
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanguin.html
+  - https://fr.wikipedia.org/wiki/Denis_Sanguin_de_Livry
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: null
+  au: '1702-03-13'
+- titre: évêque diocésain
+  du: '1651-06-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22249250
+  catholic_hierarchy: bsanguin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:49:23+00:00'
+  completeness: 0.88

@@ -1,0 +1,54 @@
+slug: jean-remond
+nom: Jean Rémond
+nom_complet: null
+naissance: '1922-07-09'
+deces: '2009-02-21'
+naissance_lieu: Charolles
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1975-06-14'
+  lieu: Sainte-Marguerite, Church, Fontenay-sous-Bois, Archdiocese of Paris
+  consecrateur_principal: francois-marty
+  co_consecrateurs:
+  - jacques-le-cordier
+  - marius-maziers
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bremond.html
+  - https://fr.wikipedia.org/wiki/Jean_R%C3%A9mond
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mission de France o Pontigny, France
+  du: '1975-05-06'
+  au: '1987-12-21'
+- titre: Titular Bishop of Utimma
+  du: '1975-05-06'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Mission de France o Pontigny, France
+  du: null
+  au: '2009-02-21'
+- titre: évêque auxiliaire
+  du: '1975-05-06'
+  au: '1987-12-21'
+- titre: évêque titulaire
+  du: '1975-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1685809
+  catholic_hierarchy: bremond
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:08:24+00:00'
+  completeness: 1.0

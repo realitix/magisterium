@@ -1,0 +1,41 @@
+slug: burkhard-von-serkem
+nom: Burkhard von Serkem
+nom_complet: null
+naissance: '1236'
+deces: '1317-03-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserkem.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lübeck, Germany
+  du: '1276-01-06'
+  au: '1317-03-13'
+- titre: évêque
+  du: null
+  au: null
+- titre: prince-évêque de Lübeck
+  du: '1276-01-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1016524
+  catholic_hierarchy: bserkem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:11:20+00:00'
+  completeness: 0.38

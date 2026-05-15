@@ -1,0 +1,44 @@
+slug: ercole-coppola
+nom: Ercole Coppola
+nom_complet: null
+naissance: '1603-02-15'
+deces: '1658'
+naissance_lieu: Gallipoli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1651-05-29'
+  lieu: Chiesa Nuova, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcantonio-cardinal-franciotti
+  co_consecrateurs:
+  - giambattista-spada
+  - ranuccio-scotti-douglas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoppolae.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicotera, Italy
+  du: '1651-05-22'
+  au: 1658&sup1;
+- titre: évêque diocésain
+  du: '1651-05-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q33093591
+  catholic_hierarchy: bcoppolae
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:46+00:00'
+  completeness: 0.88

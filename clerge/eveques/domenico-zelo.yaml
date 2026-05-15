@@ -1,0 +1,44 @@
+slug: domenico-zelo
+nom: Domenico Zelo
+nom_complet: null
+naissance: '1803-01-30'
+deces: '1885-10-11'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1855-03-25'
+  lieu: Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-d-andrea
+  co_consecrateurs:
+  - louis-de-sainte-therese-martini
+  - urban-nikola-bogdanovi-263-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzelo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aversa, Italy
+  du: null
+  au: '1885-10-11'
+- titre: évêque diocésain
+  du: '1855-02-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64708499
+  catholic_hierarchy: bzelo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:07:58+00:00'
+  completeness: 1.0

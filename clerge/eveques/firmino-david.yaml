@@ -1,0 +1,44 @@
+slug: firmino-david
+nom: Firmino David
+nom_complet: null
+naissance: '1962-04-13'
+deces: null
+naissance_lieu: Sasalakata, Diocese of Sá da Bandeira
+deces_lieu: null
+rang: eveque
+nationalite: Q916
+tampon: ordo_dubius
+sacre:
+  date: '2023-07-23'
+  lieu: Praça São João Paulo II, Huambo, Archdiocese of Huambo
+  consecrateur_principal: zeferino-zeca-martins
+  co_consecrateurs:
+  - filomeno-vieira-dias
+  - emilio-sumbelelo
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdavidfi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sumbe, Angola
+  du: '2023-05-04'
+  au: null
+- titre: évêque diocésain
+  du: '2023-05-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q118145019
+  catholic_hierarchy: bdavidfi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:31:15+00:00'
+  completeness: 0.88

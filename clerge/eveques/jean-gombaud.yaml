@@ -1,0 +1,43 @@
+slug: jean-gombaud
+nom: Jean Gombaud
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1435-02-13'
+  consecrateur_principal: antonius-de-romulis-o-p
+  co_consecrateurs:
+  - non-indexe-d68b432b
+  - gabriel-nielli-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgombaud.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toulon, France
+  du: '1434-10-25'
+  au: '1440-09-19'
+- titre: évêque diocésain
+  du: '1434-11-03'
+  au: '1440-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108480731
+  catholic_hierarchy: bgombaud
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:31:14+00:00'
+  completeness: 0.75

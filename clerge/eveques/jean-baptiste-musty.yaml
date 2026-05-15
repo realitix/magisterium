@@ -1,0 +1,53 @@
+slug: jean-baptiste-musty
+nom: Jean-Baptiste Musty
+nom_complet: null
+naissance: '1912-10-24'
+deces: '1992-12-09'
+naissance_lieu: Sélange, Diocese of Namur {Namen}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1957-11-30'
+  lieu: Saint-Aubain, Cathedral, Namur, Diocese of Namur {Namen}
+  consecrateur_principal: andre-marie-charue
+  co_consecrateurs:
+  - charles-marie-himmer
+  - leon-lommel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmusty.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Namur {Namen}, Belgium
+  du: '1957-10-04'
+  au: null
+- titre: Titular Bishop of Botriana
+  du: '1957-10-04'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Namur {Namen}, Belgium
+  du: null
+  au: '1992-12-09'
+- titre: évêque titulaire
+  du: '1957-10-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1957-10-04'
+  au: '1991-01-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734242
+  catholic_hierarchy: bmusty
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:22:27+00:00'
+  completeness: 1.0

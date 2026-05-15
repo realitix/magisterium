@@ -1,0 +1,43 @@
+slug: robert-travers
+nom: Robert Travers
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '14'
+  consecrateur_principal: non-indexe-e1bc8591
+  co_consecrateurs:
+  - non-indexe-6c19aeff
+  - non-indexe-9356eef5
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btravers.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killaloe, Ireland
+  du: 1217&sup1;
+  au: 1218&sup1;
+- titre: évêque diocésain
+  du: '1217-01-01'
+  au: '1218-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779597
+  catholic_hierarchy: btravers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:09:10+00:00'
+  completeness: 0.75

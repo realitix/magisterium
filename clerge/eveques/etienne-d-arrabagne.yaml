@@ -1,0 +1,40 @@
+slug: etienne-d-arrabagne
+nom: Étienne d'Arrabagne
+nom_complet: Étienne de Brioude
+naissance: '1150'
+deces: '1246'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-bad8609e
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrioude.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_d%27Arrabagne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: '1224-03-07'
+  au: null
+- titre: évêque diocésain
+  du: '1224-03-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3592396
+  catholic_hierarchy: bbrioude
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:52:38+00:00'
+  completeness: 0.38

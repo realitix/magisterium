@@ -1,0 +1,44 @@
+slug: antonio-lamberti
+nom: Antonio Lamberti
+nom_complet: null
+naissance: '1859-04-29'
+deces: '1917-08-12'
+naissance_lieu: Bari, Archdiocese of Bari (-Canosa)
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1897-05-16'
+  lieu: Cathedral, Bari, Archdiocese of Bari (-Canosa)
+  consecrateur_principal: casimiro-gennari
+  co_consecrateurs:
+  - tommaso-de-stefano-stefani
+  - orazio-mazzella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blamba.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Conversano, Italy
+  du: '1897-04-19'
+  au: '1917-08-12'
+- titre: Évêque de Conversano
+  du: '1897-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733194
+  catholic_hierarchy: blamba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:18+00:00'
+  completeness: 1.0

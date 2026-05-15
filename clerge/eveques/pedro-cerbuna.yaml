@@ -1,0 +1,48 @@
+slug: pedro-cerbuna
+nom: Pedro Cerbuna
+nom_complet: Pedro Cerbuna Negro, C.R.S.A.
+naissance: '1538-02-27'
+deces: '1597-03-05'
+naissance_lieu: Fonz, Diocese of Huesca
+deces_lieu: Calatayud
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: '1585-11-24'
+  lieu: Trinité, Convent, Monzon
+  consecrateur_principal: juan-dimas-lloris
+  co_consecrateurs:
+  - jaime-jimeno-de-lobera
+  - joan-baptista-cardona
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcerb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: '1585-09-09'
+  au: '1597-03-05'
+- titre: évêque de Tarazona
+  du: '1585-09-09'
+  au: '1597-03-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Cerbuna%20de%20Nicol%C3%A1s%20Ru%C3%ADz%20de%20Valdivia.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6068478
+  catholic_hierarchy: bcerb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:37:29+00:00'
+  completeness: 1.0

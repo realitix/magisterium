@@ -1,0 +1,52 @@
+slug: henri-v-de-knoringen
+nom: Henri V de Knöringen
+nom_complet: Heinrich von Knöringen
+naissance: '1570-02-05'
+deces: '1646-06-25'
+naissance_lieu: Nesselwang
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1599-06-13'
+  lieu: Holy Cross, Cathedral, Augsburg, Diocese of Augsburg
+  consecrateur_principal: sebastian-breuning
+  co_consecrateurs:
+  - bartholomaus-scholl
+  - lorenz-eiszepf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bknor.html
+  - https://fr.wikipedia.org/wiki/Henri_V_de_Kn%C3%B6ringen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1646-06-25'
+- titre: évêque d'Augsbourg
+  du: '1598-11-29'
+  au: null
+- titre: évêque
+  du: '1599-01-01'
+  au: '1646-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20von%20Kn%C3%B6ringen%2C%20Augsburg%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1255324
+  catholic_hierarchy: bknor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:16:25+00:00'
+  completeness: 1.0

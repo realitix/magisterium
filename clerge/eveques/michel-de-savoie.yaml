@@ -1,0 +1,51 @@
+slug: michel-de-savoie
+nom: Michel de Savoie
+nom_complet: null
+naissance: null
+deces: '1522-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavoiem.html
+  - https://fr.wikipedia.org/wiki/Michel_de_Savoie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sisteron, France
+  du: '1520-09-12'
+  au: null
+- titre: Bishop of Beauvais, France
+  du: '1521-10-02'
+  au: 1522&sup1;
+- titre: prieur de Romainmôtier
+  du: '1492-01-01'
+  au: '1521-11-25'
+- titre: évêque de Sisteron
+  du: '1520-09-22'
+  au: '1521-10-12'
+- titre: évêque de Beauvais
+  du: '1521-10-12'
+  au: '1521-12-01'
+- titre: protonotaire apostolique
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3311207
+  catholic_hierarchy: bsavoiem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:05+00:00'
+  completeness: 0.25

@@ -1,0 +1,44 @@
+slug: modeste-de-villeneuve-arcs
+nom: Modeste de Villeneuve-Arcs
+nom_complet: Modeste de Villeneuve des Arcs, O.F.M.
+naissance: '1600-10-12'
+deces: '1670-01-07'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1629-11-25'
+  consecrateur_principal: barthelemy-camelin
+  co_consecrateurs:
+  - louis-du-chaine
+  - pierre-camelin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvilldam.html
+  - https://fr.wikipedia.org/wiki/Modeste_de_Villeneuve-Arcs
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1629-08-20'
+  au: '1670-01-07'
+- titre: évêque d'Apt
+  du: '1629-08-20'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q17635238
+  catholic_hierarchy: bvilldam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:39:39+00:00'
+  completeness: 1.0

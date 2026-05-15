@@ -1,0 +1,59 @@
+slug: natale-serafino
+nom: Natale Serafino
+nom_complet: null
+naissance: '1861-01-17'
+deces: '1924-09-02'
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1913-05-30'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: mariano-rampolla-del-tindaro
+  co_consecrateurs:
+  - pietro-alfonso-jorio
+  - luigi-lazzareschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserafino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Biella, Italy
+  du: '1912-12-02'
+  au: null
+- titre: Bishop of Chiavari, Italy
+  du: '1917-03-22'
+  au: '1917-08-04'
+- titre: Titular Bishop of Tricca
+  du: '1917-08-04'
+  au: null
+- titre: Bishop Emeritus of Chiavari, Italy
+  du: null
+  au: '1924-09-02'
+- titre: évêque de Chiavari
+  du: '1917-03-22'
+  au: '1917-08-04'
+- titre: évêque titulaire
+  du: '1917-08-04'
+  au: null
+- titre: évêque diocésain
+  du: '1912-12-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64750958
+  catholic_hierarchy: bserafino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:10:41+00:00'
+  completeness: 1.0

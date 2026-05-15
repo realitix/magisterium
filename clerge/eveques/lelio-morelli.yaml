@@ -1,0 +1,44 @@
+slug: lelio-morelli
+nom: Lelio Morelli
+nom_complet: null
+naissance: null
+deces: '1609'
+naissance_lieu: Montalto delle Marche, Diocese of Fermo
+deces_lieu: Capaccio, Diocese of Capaccio
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1586-07-06'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-battista-cardinal-castrucci
+  co_consecrateurs:
+  - luca-antonio-resta
+  - francesco-rusticucci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorellil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Capaccio, Italy
+  du: '1586-06-16'
+  au: 1609&sup2;
+- titre: Roman Catholic Bishop of Capaccio
+  du: '1586-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780452
+  catholic_hierarchy: bmorellil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:11:41+00:00'
+  completeness: 0.75

@@ -1,0 +1,49 @@
+slug: pierre-le-breton
+nom: Pierre Le Breton
+nom_complet: Pierre-Marc Le Breton
+naissance: '1805-04-24'
+deces: '1886-05-20'
+naissance_lieu: Pléven
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1863-11-15'
+  lieu: Cathedral, Saint-Brieuc, Diocese of Saint-Brieuc
+  consecrateur_principal: louis-jacques-maurice-de-bonald
+  co_consecrateurs:
+  - jean-paul-francois-marie-felix-lyonnet
+  - louis-marie-epivent
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blebre.html
+  - https://fr.wikipedia.org/wiki/Pierre_Le_Breton
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Puy-en-Velay, France
+  du: null
+  au: '1886-05-20'
+- titre: évêque diocésain
+  du: '1863-05-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Puy-en-Velay%20-%20Cath%C3%A9drale%20Notre-Dame-de-l%27Annonciation%2009%20Tombeau%20Pierre%20Le%20Breton.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3385831
+  catholic_hierarchy: blebre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:22+00:00'
+  completeness: 1.0

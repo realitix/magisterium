@@ -1,0 +1,49 @@
+slug: archambaud-de-lautrec
+nom: Archambaud de Lautrec
+nom_complet: null
+naissance: '1325'
+deces: '1389-11-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blautreca.html
+  - https://fr.wikipedia.org/wiki/Archambaud_de_Lautrec
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavaur, France
+  du: '1348-11-14'
+  au: null
+- titre: Bishop of Chalons-sur-Marne, France
+  du: '1357-01-11'
+  au: '1389-11-10'
+- titre: évêque diocésain
+  du: '1357-01-19'
+  au: null
+- titre: évêque diocésain
+  du: '1348-11-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Archambaud%20de%20Lautrec.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q106077155
+  catholic_hierarchy: blautreca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:36:43+00:00'
+  completeness: 0.38

@@ -1,0 +1,43 @@
+slug: ludovicus-quemeneur
+nom: Ludovicus Quémeneur
+nom_complet: null
+naissance: '1644'
+deces: '1704-11-17'
+naissance_lieu: Brest
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1698-01-12'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - jacques-benigne-bossuet-1627
+  - paul-godet-des-marais
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquem.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Sura
+  du: '1697-08-13'
+  au: '1704-11-17'
+- titre: évêque titulaire
+  du: '1697-08-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751232
+  catholic_hierarchy: bquem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:55:05+00:00'
+  completeness: 0.88

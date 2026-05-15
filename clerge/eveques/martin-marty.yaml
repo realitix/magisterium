@@ -1,0 +1,66 @@
+slug: martin-marty
+nom: Martin Marty
+nom_complet: Martin Marty, O.S.B.
+naissance: '1834-01-11'
+deces: '1896-09-19'
+naissance_lieu: Schwyz, Diocese of Chur, Switzerland
+deces_lieu: Saint Cloud, Diocese of Saint Cloud, Minnesota
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1880-02-01'
+  lieu: St. Ferdinand, Ferdinand, Diocese of Vincennes, Indiana
+  consecrateur_principal: silas-chatard
+  co_consecrateurs:
+  - rupert-seidenbusch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarty.html
+  - https://fr.wikipedia.org/wiki/Martin_Marty
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Tiberias
+  du: '1879-08-08'
+  au: null
+- titre: Vicar Apostolic of Dakota, USA
+  du: '1879-08-12'
+  au: null
+- titre: Bishop of Sioux Falls, South Dakota, USA
+  du: '1889-11-26'
+  au: null
+- titre: Bishop of Saint Cloud, Minnesota, USA
+  du: '1895-01-21'
+  au: '1896-09-19'
+- titre: évêque titulaire de Tibériade
+  du: '1879-08-08'
+  au: null
+- titre: évêque de Saint Cloud
+  du: '1895-01-21'
+  au: null
+- titre: évêque diocésain
+  du: '1889-11-26'
+  au: null
+- titre: vicaire apostolique
+  du: '1879-08-12'
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Martin%20Marty%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6776130
+  catholic_hierarchy: bmarty
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:33:22+00:00'
+  completeness: 1.0

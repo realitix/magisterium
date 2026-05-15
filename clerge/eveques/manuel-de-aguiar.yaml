@@ -1,0 +1,43 @@
+slug: manuel-de-aguiar
+nom: Manuel de Aguiar
+nom_complet: null
+naissance: '1751-12-16'
+deces: '1815-03-19'
+naissance_lieu: Evora
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1790-08-15'
+  consecrateur_principal: antonio-cayetano-maciel-calheiros
+  co_consecrateurs:
+  - joao-teixeira-de-carvalho
+  - jose-antonio-pinto-de-mendonca-arrais
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baguia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Leiria, Portugal
+  du: null
+  au: '1815-03-19'
+- titre: évêque de Leiria
+  du: '1790-05-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734496
+  catholic_hierarchy: baguia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:23:40+00:00'
+  completeness: 1.0

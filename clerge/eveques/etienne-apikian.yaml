@@ -1,0 +1,39 @@
+slug: etienne-apikian
+nom: Etienne Apikian
+nom_complet: null
+naissance: '1844'
+deces: '1908'
+naissance_lieu: Constantinople
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1903-06-14'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bapikian.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trabzon (Trebisonda) (Armenian), Turkey
+  du: '1903-04-06'
+  au: 1908&sup1;
+- titre: évêque diocésain
+  du: '1903-04-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68862452
+  catholic_hierarchy: bapikian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:42:40+00:00'
+  completeness: 0.38

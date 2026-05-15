@@ -1,0 +1,44 @@
+slug: berardo-di-poggio
+nom: Berardo di Poggio
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoggiob.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ancona, Italy
+  du: '1286-08-27'
+  au: null
+- titre: Bishop of Rieti, Italy
+  du: '1296-02-04'
+  au: 1299&sup2;
+- titre: évêque diocésain
+  du: '1286-09-03'
+  au: null
+- titre: évêque diocésain
+  du: '1296-02-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447639
+  catholic_hierarchy: bpoggiob
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:16+00:00'
+  completeness: 0.25

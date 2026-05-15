@@ -1,0 +1,44 @@
+slug: tommaso-mesmer
+nom: Tommaso Mesmer
+nom_complet: null
+naissance: '1818-12-20'
+deces: '1892-12-12'
+naissance_lieu: Anagni, Diocese of Anagni
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1883-08-19'
+  lieu: St Marcel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - alessandro-sanminiatelli-zabarella
+  - vincenzo-vannutelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmesmer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Terracina, Priverno e Sezze, Italy
+  du: '1883-08-09'
+  au: '1892-12-12'
+- titre: évêque diocésain
+  du: '1883-08-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734059
+  catholic_hierarchy: bmesmer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:53:27+00:00'
+  completeness: 1.0

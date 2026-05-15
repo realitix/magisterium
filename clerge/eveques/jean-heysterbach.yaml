@@ -1,0 +1,49 @@
+slug: jean-heysterbach
+nom: Jean Heysterbach
+nom_complet: Jean Heysterbach, O.P.
+naissance: null
+deces: '1447'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1436-02-26'
+  consecrateur_principal: andres-dias-de-escobar
+  co_consecrateurs:
+  - laurent-de-cardi-o-p
+  - giovanni-da-serravalle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bheyst.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Augsburg, Germany
+  du: '1436-02-10'
+  au: 1447&sup1;
+- titre: Titular Bishop of Adramyttium
+  du: '1436-02-10'
+  au: null
+- titre: évêque auxiliaire
+  du: '1436-02-19'
+  au: null
+- titre: évêque titulaire
+  du: '1436-02-10'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q26222381
+  catholic_hierarchy: bheyst
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:27+00:00'
+  completeness: 0.75

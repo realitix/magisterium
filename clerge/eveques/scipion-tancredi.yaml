@@ -1,0 +1,49 @@
+slug: scipion-tancredi
+nom: Scipion Tancredi
+nom_complet: Scipione Tancredi
+naissance: '1590'
+deces: '1641-04-13'
+naissance_lieu: Sienne
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-01-21'
+  consecrateur_principal: guido-cardinal-bentivoglio-d-rsquo-aragona
+  co_consecrateurs:
+  - tommaso-ximenes
+  - girolamo-tantucci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btancreds.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sovana (Soana), Italy
+  du: '1624-01-15'
+  au: null
+- titre: Bishop of Montalcino, Italy
+  du: '1637-03-02'
+  au: '1641-04-13'
+- titre: Roman Catholic Bishop of Montalcino
+  du: '1637-03-02'
+  au: null
+- titre: évêque diocésain
+  du: '1624-01-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751813
+  catholic_hierarchy: btancreds
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:50:07+00:00'
+  completeness: 0.88

@@ -1,0 +1,40 @@
+slug: renaud-de-barre
+nom: Renaud de Barre
+nom_complet: null
+naissance: null
+deces: '1316-05-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Nov 1302&sup3;
+  consecrateur_principal: dieter-von-nassau-o-p
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdbarre.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: '1302-09-19'
+  au: '1316-05-04'
+- titre: évêque de Metz
+  du: '1302-09-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448524
+  catholic_hierarchy: bdbarre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:32:57+00:00'
+  completeness: 0.75

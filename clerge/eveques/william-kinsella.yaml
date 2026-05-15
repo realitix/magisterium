@@ -1,0 +1,44 @@
+slug: william-kinsella
+nom: William Kinsella
+nom_complet: null
+naissance: '1796-02-02'
+deces: '1845-12-12'
+naissance_lieu: Ballynunnery, Co. Carlow
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1829-07-26'
+  lieu: Kilkenny
+  consecrateur_principal: daniel-murray
+  co_consecrateurs:
+  - james-warren-doyle
+  - james-keating
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkins.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1829-05-15'
+  au: '1845-12-12'
+- titre: évêque du diocèse d'Ossory
+  du: '1829-05-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735653
+  catholic_hierarchy: bkins
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:14:26+00:00'
+  completeness: 1.0

@@ -1,0 +1,56 @@
+slug: jean-kockerols
+nom: Jean Kockerols
+nom_complet: null
+naissance: '1958-08-13'
+deces: null
+naissance_lieu: Brecht
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '2011-04-03'
+  lieu: "Sacré C\x9Cur de Koekelberg, Basilica, Brussel, Archdiocese of Mechelen-Brussel\
+    \ {Malines-Brussels}"
+  consecrateur_principal: andre-leonard
+  co_consecrateurs:
+  - godfried-danneels
+  - giacinto-berloco
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkocke.html
+  - https://fr.wikipedia.org/wiki/Jean_Kockerols
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mechelen-Brussel {Malines-Brussels}, Belgium
+  du: '2011-02-22'
+  au: null
+- titre: Titular Bishop of Ypres
+  du: '2011-02-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '2011-02-22'
+  au: null
+- titre: évêque titulaire
+  du: '2011-02-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Kockerols.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1343493
+  catholic_hierarchy: bkocke
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:16:48+00:00'
+  completeness: 0.88

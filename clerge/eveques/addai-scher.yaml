@@ -1,0 +1,47 @@
+slug: addai-scher
+nom: Addaï Scher
+nom_complet: Ibrahim Addai-Scher
+naissance: '1867-03-03'
+deces: '1915-06-21'
+naissance_lieu: Shaqlawa
+deces_lieu: null
+rang: eveque
+nationalite: Q12560
+tampon: ordo_validus
+sacre:
+  date: '1902-11-30'
+  consecrateur_principal: joseph-emmanuel-ii-toma
+  co_consecrateurs:
+  - gregoire-pierre-habra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baddai.html
+  - https://fr.wikipedia.org/wiki/Adda%C3%AF_Scher
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Seert (Chaldean), Turkey
+  du: '1902-08-18'
+  au: '1915-06-21'
+- titre: évêque diocésain
+  du: '1902-08-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Addai%20Scher%202.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q330913
+  catholic_hierarchy: baddai
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:20:43+00:00'
+  completeness: 1.0

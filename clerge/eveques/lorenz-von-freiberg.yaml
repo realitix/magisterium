@@ -1,0 +1,43 @@
+slug: lorenz-von-freiberg
+nom: Lorenz von Freiberg
+nom_complet: null
+naissance: '1500'
+deces: '1487'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1478-10-04'
+  consecrateur_principal: bernhard-von-rohr
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfreibe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: '1474-05-11'
+  au: '1487-08-15'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Gurk
+  du: '1474-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1113117
+  catholic_hierarchy: bfreibe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:57:49+00:00'
+  completeness: 0.75

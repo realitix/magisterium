@@ -1,0 +1,51 @@
+slug: albert-de-louvain
+nom: Albert de Louvain
+nom_complet: St. Albert Cardinal de Louvain
+naissance: '1166'
+deces: '1192-11-24'
+naissance_lieu: Louvain
+deces_lieu: null
+rang: cardinal
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1192-09-20'
+  consecrateur_principal: guillaume-cardinal-de-champagne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blouvaa.html
+  - https://fr.wikipedia.org/wiki/Albert_de_Louvain
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1191-09-08'
+  au: '1192-11-24'
+- titre: évêque
+  du: null
+  au: null
+- titre: cardinal
+  du: '1192-05-01'
+  au: null
+- titre: évêque de Liège
+  du: '1191-09-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Archduke%20Albert%20with%20Albert%20of%20Louvain.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1392380
+  catholic_hierarchy: blouvaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:19+00:00'
+  completeness: 0.75

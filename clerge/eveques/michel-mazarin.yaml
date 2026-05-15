@@ -1,0 +1,51 @@
+slug: michel-mazarin
+nom: Michel Mazarin
+nom_complet: Michel Cardinal Mazarin, O.P.
+naissance: '1605-09-01'
+deces: '1648-08-31'
+naissance_lieu: Pescina, Italy
+deces_lieu: null
+rang: cardinal
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1645-07-23'
+  consecrateur_principal: girolamo-jerome-cardinal-grimaldi-cavalleroni
+  co_consecrateurs:
+  - alfonso-sacrati
+  - ranuccio-scotti-douglas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmazar.html
+  - https://fr.wikipedia.org/wiki/Michel_Mazarin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Aix, France
+  du: null
+  au: '1648-08-31'
+- titre: cardinal
+  du: '1647-10-07'
+  au: null
+- titre: archevêque catholique
+  du: '1645-07-23'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Michele%20Mazzarino.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1361986
+  catholic_hierarchy: bmazar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:40:55+00:00'
+  completeness: 1.0

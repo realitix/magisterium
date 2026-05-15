@@ -1,0 +1,49 @@
+slug: bruno-forte
+nom: Bruno Forte
+nom_complet: null
+naissance: '1949-08-01'
+deces: null
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2004-09-08'
+  lieu: Maria Santissima Assunta, Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: benedict-xvi
+  co_consecrateurs:
+  - michele-giordano
+  - luigi-diligenza
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforteb.html
+  - https://fr.wikipedia.org/wiki/Bruno_Forte
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Chieti-Vasto, Italy
+  du: '2004-06-26'
+  au: null
+- titre: archevêque de Chieti-Vasto
+  du: '2004-09-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Rio%20de%20Janeiro%20-%20Mgr%20Bruno%20Forte%20-%202.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q684969
+  catholic_hierarchy: bforteb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:52:52+00:00'
+  completeness: 0.88

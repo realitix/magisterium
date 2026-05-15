@@ -1,0 +1,54 @@
+slug: girolamo-ghianderoni
+nom: Girolamo Ghianderoni
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1519-07-17'
+  consecrateur_principal: lorenzo-pucci-1458
+  co_consecrateurs:
+  - giambattista-boncianni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bghiander.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Amalfi, Italy
+  du: '1519-06-06'
+  au: null
+- titre: Bishop of Massa Marittima, Italy
+  du: '1530-10-21'
+  au: null
+- titre: Bishop of Ancona e Numana, Italy
+  du: '1538-11-12'
+  au: 1550&sup1;
+- titre: Roman Catholic Archbishop of Amalfi
+  du: '1519-06-16'
+  au: null
+- titre: évêque diocésain
+  du: '1538-11-22'
+  au: '1550-01-01'
+- titre: évêque diocésain
+  du: '1530-10-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779625
+  catholic_hierarchy: bghiander
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:15+00:00'
+  completeness: 0.75

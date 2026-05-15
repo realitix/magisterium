@@ -1,0 +1,44 @@
+slug: louis-ii-de-la-rochefoucauld
+nom: Louis II de La Rochefoucauld
+nom_complet: Louis de La Rochefoucauld
+naissance: '1615-12-23'
+deces: '1654-12-05'
+naissance_lieu: Poitiers
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1649-12-08'
+  consecrateur_principal: jacques-raoul-de-la-guibourgere
+  co_consecrateurs:
+  - francois-de-pericard-1619
+  - louis-de-bassompierre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blrocfl.html
+  - https://fr.wikipedia.org/wiki/Louis_de_La_Rochefoucauld
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lectoure, France
+  du: null
+  au: Dec 1654&sup3;
+- titre: évêque diocésain
+  du: '1646-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3262244
+  catholic_hierarchy: blrocfl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:14+00:00'
+  completeness: 0.88

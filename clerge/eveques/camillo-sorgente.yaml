@@ -1,0 +1,43 @@
+slug: camillo-sorgente
+nom: Camillo Sorgente
+nom_complet: null
+naissance: '1825-12-14'
+deces: '1911-10-02'
+naissance_lieu: Salerno, Archdiocese of Salerno (-Acerno)
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1874-05-17'
+  consecrateur_principal: alessandro-franchi
+  co_consecrateurs:
+  - pietro-de-villanova-castellacci
+  - james-alipius-goold
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsorg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Cosenza, Italy
+  du: '1874-05-04'
+  au: '1911-10-02'
+- titre: Roman Catholic Archbishop of Cosenza
+  du: '1874-05-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733181
+  catholic_hierarchy: bsorg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:28:36+00:00'
+  completeness: 1.0

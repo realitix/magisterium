@@ -1,0 +1,38 @@
+slug: niccolo-ubertini
+nom: Niccolò Ubertini
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bubertinn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Faenza, Italy
+  du: '1402-06-26'
+  au: '1406-06-15'
+- titre: évêque diocésain
+  du: '1402-07-05'
+  au: '1406-06-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446494
+  catholic_hierarchy: bubertinn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:16:14+00:00'
+  completeness: 0.25

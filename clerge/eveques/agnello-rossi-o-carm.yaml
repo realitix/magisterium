@@ -1,0 +1,43 @@
+slug: agnello-rossi-o-carm
+nom: Agnello Rossi, O. Carm.
+nom_complet: Agnello Rossi
+naissance: '1647-03-28'
+deces: '1707-04-30'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1695-05-08'
+  consecrateur_principal: ferdinando-d-adda
+  co_consecrateurs:
+  - domenico-folgori
+  - domenico-diez-de-aux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosagn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Potenza, Italy
+  du: '1695-05-02'
+  au: '1707-04-30'
+- titre: évêque diocésain
+  du: '1695-05-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736153
+  catholic_hierarchy: brosagn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:27:13+00:00'
+  completeness: 1.0

@@ -1,0 +1,42 @@
+slug: anselme-1210
+nom: Anselme
+nom_complet: Anselm of Meissen
+naissance: '1210'
+deces: '1278'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-3aca6909
+  co_consecrateurs:
+  - nicolas-de-fontaines
+  - jacques-de-dinant
+  - walter-crucius
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Anselme_(%C3%A9v%C3%AAque_de_Varmie)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Varmie
+  du: '1250-10-13'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque auxiliaire
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q316934
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67

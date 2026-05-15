@@ -1,0 +1,36 @@
+slug: richard-de-douvres
+nom: Richard de Douvres
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: hugues-de-boves-o-s-b
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdouvres.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayeux, France
+  du: 1108&sup1;
+  au: 1134&sup2;
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108451720
+  catholic_hierarchy: bdouvres
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.11
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:46+00:00'
+  completeness: 0.38

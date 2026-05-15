@@ -1,0 +1,40 @@
+slug: robert-bedford
+nom: Robert Bedford
+nom_complet: null
+naissance: null
+deces: '1222'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '17'
+  consecrateur_principal: donnchad-donat-o-rsquo-lonngargain-o-cist
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbedford.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lismore, Ireland
+  du: '1218-12-12'
+  au: 1222&sup2;
+- titre: évêque diocésain
+  du: '1218-12-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780436
+  catholic_hierarchy: bbedford
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:12:18+00:00'
+  completeness: 0.62

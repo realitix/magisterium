@@ -1,0 +1,44 @@
+slug: pierre-chatrousse
+nom: Pierre Chatrousse
+nom_complet: null
+naissance: '1795-07-02'
+deces: '1857-05-16'
+naissance_lieu: Voiron
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1840-09-21'
+  lieu: Saint Maurice, Cathedral, Vienne, Archdiocese of Lyon (-Vienne)
+  consecrateur_principal: philibert-de-bruillard
+  co_consecrateurs:
+  - alexandre-devie
+  - jean-marie-mioland
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchatr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence, France
+  du: null
+  au: '1857-05-16'
+- titre: évêque de Valence
+  du: '1840-06-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55671965
+  catholic_hierarchy: bchatr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:43:05+00:00'
+  completeness: 1.0

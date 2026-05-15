@@ -1,0 +1,55 @@
+slug: giacomo-marenco
+nom: Giacomo Marenco
+nom_complet: null
+naissance: '1577'
+deces: '1644-01-02'
+naissance_lieu: Mondovì
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1627-09-08'
+  consecrateur_principal: cosimo-de-torres
+  co_consecrateurs:
+  - giuseppe-acquaviva
+  - francesco-nappi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmareg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saluzzo, Italy
+  du: '1627-08-30'
+  au: null
+- titre: Bishop of Nice, France
+  du: '1634-12-17'
+  au: '1644-01-02'
+- titre: évêque de Saluces
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1634-12-17'
+  au: null
+- titre: évêque de Nice
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1627-08-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745046
+  catholic_hierarchy: bmareg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:25:56+00:00'
+  completeness: 0.88

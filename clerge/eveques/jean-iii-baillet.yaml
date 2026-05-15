@@ -1,0 +1,41 @@
+slug: jean-iii-baillet
+nom: Jean III Baillet
+nom_complet: Jean Baillet
+naissance: '1450'
+deces: '1513-11-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1478-09-13'
+  consecrateur_principal: tristan-de-salazar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbailletj.html
+  - https://fr.wikipedia.org/wiki/Jean_III_Baillet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: '1478-05-04'
+  au: '1513-11-10'
+- titre: évêque d'Auxerre
+  du: '1478-05-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3172603
+  catholic_hierarchy: bbailletj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:56:19+00:00'
+  completeness: 0.75

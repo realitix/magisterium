@@ -1,0 +1,52 @@
+slug: emile-eid
+nom: Émile Eid
+nom_complet: Emile Eid
+naissance: '1925-03-15'
+deces: '2009-11-30'
+naissance_lieu: Mazraat-el-Dahre
+deces_lieu: null
+rang: eveque
+nationalite: Q822
+tampon: ordo_dubius
+sacre:
+  date: '1983-01-23'
+  lieu: Bkerké
+  consecrateur_principal: antoine-khoraiche
+  co_consecrateurs:
+  - nasrallah-boutros-sfeir
+  - ibrahim-helou
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beide.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vice President of the Pontifical Commission for the Revision of the Code
+    of Oriental Canon Law
+  du: '1982-12-20'
+  au: '1990-10-18'
+- titre: Titular Bishop of Sarepta dei Maroniti
+  du: '1982-12-20'
+  au: null
+- titre: Vice President Emeritus of the Pontifical Commission for the Revision of
+    the Code of Oriental Canon Law
+  du: null
+  au: '2009-11-30'
+- titre: évêque titulaire
+  du: '1982-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q275067
+  catholic_hierarchy: beide
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:20:00+00:00'
+  completeness: 1.0

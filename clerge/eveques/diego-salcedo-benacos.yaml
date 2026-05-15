@@ -1,0 +1,38 @@
+slug: diego-salcedo-benacos
+nom: Diego Salcedo Benacos
+nom_complet: Diego Salcedo
+naissance: '1575-05-30'
+deces: '1644-03-28'
+naissance_lieu: Huete
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalbe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Astorga, Spain
+  du: null
+  au: '1644-03-28'
+- titre: évêque d'Astorga
+  du: '1638-10-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5274807
+  catholic_hierarchy: bsalbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:43:18+00:00'
+  completeness: 0.5

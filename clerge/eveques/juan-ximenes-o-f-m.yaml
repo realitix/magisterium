@@ -1,0 +1,43 @@
+slug: juan-ximenes-o-f-m
+nom: Juan Ximenes, O.F.M.
+nom_complet: Juan Ximenes
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1418-10-16'
+  consecrateur_principal: costantino-di-pergola
+  co_consecrateurs:
+  - bernardo-bartolomei-o-s-m
+  - andreu-andres-de-bertran
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bximenes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Malta
+  du: '1418-03-16'
+  au: 1419&sup1;
+- titre: évêque diocésain
+  du: '1418-03-25'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64779572
+  catholic_hierarchy: bximenes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:00:52+00:00'
+  completeness: 0.75

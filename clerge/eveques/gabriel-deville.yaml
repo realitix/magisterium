@@ -1,0 +1,48 @@
+slug: gabriel-deville
+nom: Gabriel Deville
+nom_complet: '[Constitutional Bishop Gabriel Deville]'
+naissance: '1751-05-07'
+deces: '1796-05-17'
+naissance_lieu: Latour de France
+deces_lieu: Latour de France
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-04-26'
+  lieu: Notre-Dame, Paris, Archdiocese of Paris
+  consecrateur_principal: jean-baptiste-gobel
+  co_consecrateurs:
+  - jean-baptiste-miroudot-du-bourg
+  - constitutional-bishop-jean-baptiste-dumouchel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeville.html
+  - https://fr.wikipedia.org/wiki/Gabriel_Deville_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Pyrénées-Orientales (Constitutional), France]
+  du: null
+  au: '1793-11-27'
+- titre: Bishop Emeritus of [Pyrénées-Orientales (Constitutional), France]
+  du: null
+  au: '1796-05-17'
+- titre: évêque constitutionnel
+  du: '1791-04-26'
+  au: '1793-11-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23000859
+  catholic_hierarchy: bdeville
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:04+00:00'
+  completeness: 0.88

@@ -1,0 +1,57 @@
+slug: francesc-robuster-i-sala
+nom: Francesc Robuster i Sala
+nom_complet: Francisco Robuster Sala
+naissance: '1544-09-01'
+deces: '1607-04-27'
+naissance_lieu: Reus, Archdiocese of Tarragona
+deces_lieu: Vic, Diocese of Vic
+rang: eveque
+nationalite: Q204920
+tampon: ordo_incertus
+sacre:
+  date: '1591-04-21'
+  lieu: Cathedral, Barcelona, Diocese of Barcelona
+  consecrateur_principal: juan-dimas-lloris
+  co_consecrateurs:
+  - jaime-casador
+  - andreu-capella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brobsa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elne, France
+  du: '1591-01-07'
+  au: null
+- titre: Bishop of Vic, Spain
+  du: '1598-05-05'
+  au: '1607-04-27'
+- titre: évêque de Vic
+  du: '1598-05-05'
+  au: null
+- titre: évêque d'Elne
+  du: '1591-01-07'
+  au: null
+- titre: recteur de l'université de Barcelone
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francesc%20Robuster%20i%20Sala.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q17300658
+  catholic_hierarchy: brobsa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:19:13+00:00'
+  completeness: 0.88

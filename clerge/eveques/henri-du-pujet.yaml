@@ -1,0 +1,44 @@
+slug: henri-du-pujet
+nom: Henri du Pujet
+nom_complet: Henri du Puget
+naissance: '1655'
+deces: '1728-01-22'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1710-03-09'
+  consecrateur_principal: charles-le-goux-de-la-berchere
+  co_consecrateurs:
+  - david-nicolas-bertier
+  - jean-de-catellan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupuget.html
+  - https://fr.wikipedia.org/wiki/Henri_du_Pujet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: null
+  au: '1728-01-22'
+- titre: évêque de Digne
+  du: '1708-04-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3132413
+  catholic_hierarchy: bdupuget
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:19+00:00'
+  completeness: 0.88

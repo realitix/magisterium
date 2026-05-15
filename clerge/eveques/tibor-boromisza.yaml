@@ -1,0 +1,47 @@
+slug: tibor-boromisza
+nom: Tibor Boromisza
+nom_complet: null
+naissance: '1840-07-18'
+deces: '1928-07-09'
+naissance_lieu: Kalocsa
+deces_lieu: null
+rang: eveque
+nationalite: Q28513
+tampon: ordo_validus
+sacre:
+  date: '1906-09-30'
+  consecrateur_principal: jozsef-samassa
+  co_consecrateurs:
+  - sandor-parvy
+  - lajos-szmrecsanyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborom.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satu Mare {Szatmár}, Romania
+  du: '1906-08-03'
+  au: '1928-07-09'
+- titre: évêque de Satu Mare
+  du: '1906-08-03'
+  au: '1928-07-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Tibor%20Boromisza.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2431495
+  catholic_hierarchy: bborom
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:08+00:00'
+  completeness: 1.0

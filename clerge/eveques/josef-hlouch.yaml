@@ -1,0 +1,47 @@
+slug: josef-hlouch
+nom: Josef Hlouch
+nom_complet: Joseph Hlouch
+naissance: '1902-03-26'
+deces: '1972-06-10'
+naissance_lieu: Lipnik
+deces_lieu: null
+rang: eveque
+nationalite: Q33946
+tampon: ordo_validus
+sacre:
+  date: '1947-08-15'
+  consecrateur_principal: saverio-ritter
+  co_consecrateurs:
+  - josef-beran
+  - stanislav-zela
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhlou.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &#268;eské Bud&#277;jovice {Budweis}, Czechia
+  du: '1947-06-25'
+  au: '1972-06-10'
+- titre: Bishop of the Roman Catholic Diocese of České Budějovice
+  du: '1947-06-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hlouch%20episk%20CZ.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1704810
+  catholic_hierarchy: bhlou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:44:09+00:00'
+  completeness: 1.0

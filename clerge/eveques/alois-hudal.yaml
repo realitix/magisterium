@@ -1,0 +1,52 @@
+slug: alois-hudal
+nom: Alois Hudal
+nom_complet: Alois Karl Hudal
+naissance: '1885-05-30'
+deces: '1963-05-13'
+naissance_lieu: Graz, Diocese of Seckau, Austria
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1933-06-18'
+  lieu: Santa Maria dell&rsquo;Anima, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: pie-xii
+  co_consecrateurs:
+  - giuseppe-pizzardo
+  - ferdinand-pawlikowski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhudal.html
+  - https://fr.wikipedia.org/wiki/Alois_Hudal
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Rector
+  du: 1923&sup2;
+  au: null
+- titre: Titular Bishop of Aela
+  du: '1933-06-01'
+  au: '1963-05-13'
+- titre: évêque titulaire
+  du: '1933-06-01'
+  au: '1963-05-13'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hudalkurtefinished.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q94526
+  catholic_hierarchy: bhudal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:49:07+00:00'
+  completeness: 1.0

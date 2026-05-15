@@ -1,0 +1,49 @@
+slug: antonio-de-pago
+nom: Antonio de Pago
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1451-01-20'
+  consecrateur_principal: non-indexe-3378c5df
+  co_consecrateurs:
+  - bartolomeo-lopaci
+  - antonio-scorbillo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpago.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossero (Osor), Croatia
+  du: '1451-01-12'
+  au: null
+- titre: Bishop of Kotor (Cattaro), Montenegro
+  du: '1471-03-29'
+  au: null
+- titre: évêque diocésain
+  du: '1471-04-07'
+  au: null
+- titre: évêque diocésain
+  du: '1451-01-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779968
+  catholic_hierarchy: bpago
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:03:11+00:00'
+  completeness: 0.75

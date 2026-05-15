@@ -1,0 +1,76 @@
+slug: pompeio-aldrovandi
+nom: Pompeio Aldrovandi
+nom_complet: Pompeio Cardinal Aldrovandi
+naissance: '1668-09-23'
+deces: '1752-01-06'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: Montefiascone, Diocese of Corneto (Tarquinia) e Montefiascone
+rang: patriarche
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1716-10-11'
+  lieu: S. Ignazio, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  co_consecrateurs:
+  - prospero-marefoschi
+  - agostino-nicola-degl-abbati-olivieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baldr.html
+  - https://fr.wikipedia.org/wiki/Pompeo_Aldrovandi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Neocaesarea in Ponto
+  du: '1716-10-05'
+  au: null
+- titre: Apostolic Nuncio to Spain
+  du: '1717-01-02'
+  au: '1718-07-07'
+- titre: Titular Patriarch of Jerusalem {Gerusalemme}, Palestine
+  du: '1729-03-23'
+  au: null
+- titre: Archbishop (Personal Title) of Corneto (Tarquinia) e Montefiascone, Italy
+  du: '1734-07-09'
+  au: null
+- titre: Bishop of Corneto (Tarquinia) e Montefiascone, Italy
+  du: null
+  au: '1752-01-06'
+- titre: Roman Catholic Bishop of Montefiascone
+  du: '1734-07-09'
+  au: '1752-01-06'
+- titre: archevêque titulaire
+  du: '1716-10-05'
+  au: '1729-03-23'
+- titre: archevêque catholique
+  du: '1716-10-11'
+  au: null
+- titre: patriarche latin de Jérusalem
+  du: '1729-03-23'
+  au: '1734-04-12'
+- titre: nonce apostolique en Espagne
+  du: '1717-01-02'
+  au: '1718-07-07'
+- titre: cardinal
+  du: '1734-03-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1734%20Aldrovandi%20montefiascone.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q531893
+  catholic_hierarchy: baldr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:28:41+00:00'
+  completeness: 1.0

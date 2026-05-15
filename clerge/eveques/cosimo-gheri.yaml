@@ -1,0 +1,35 @@
+slug: cosimo-gheri
+nom: Cosimo Gheri
+nom_complet: null
+naissance: '1513-08-01'
+deces: '1537-09-22'
+naissance_lieu: Pistoia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgheric.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Administrator of Fano, Italy
+  du: '1530-01-24'
+  au: '1537-09-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3695117
+  catholic_hierarchy: bgheric
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:10+00:00'
+  completeness: 0.5

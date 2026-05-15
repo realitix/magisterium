@@ -1,0 +1,49 @@
+slug: johann-neuhausler
+nom: Johann Neuhäusler
+nom_complet: Johannes Baptist Neuhäusler
+naissance: '1888-01-27'
+deces: '1973-12-14'
+naissance_lieu: Eisenhofen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1947-04-20'
+  consecrateur_principal: michael-von-faulhaber
+  co_consecrateurs:
+  - aloisius-joseph-muench
+  - johann-evangelist-muller
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneuh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of München und Freising {Munich}, Germany
+  du: '1947-02-08'
+  au: '1973-12-14'
+- titre: Titular Bishop of Calydon
+  du: '1947-02-08'
+  au: null
+- titre: évêque titulaire
+  du: '1947-02-08'
+  au: null
+- titre: évêque auxiliaire
+  du: '1947-02-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1555329
+  catholic_hierarchy: bneuh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:19+00:00'
+  completeness: 1.0

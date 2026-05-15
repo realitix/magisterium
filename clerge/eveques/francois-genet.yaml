@@ -1,0 +1,44 @@
+slug: francois-genet
+nom: François Genet
+nom_complet: null
+naissance: '1640-10-16'
+deces: '1702-10-17'
+naissance_lieu: Avignon, Archdiocese of Avignon
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1686-03-25'
+  consecrateur_principal: alessandro-crescenzi
+  co_consecrateurs:
+  - giuseppe-eusanio-o-s-a
+  - pier-antonio-capobianco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgenet.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Genet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vaison, France
+  du: '1686-03-18'
+  au: '1702-10-17'
+- titre: évêque diocésain
+  du: '1686-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q38006092
+  catholic_hierarchy: bgenet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:16:39+00:00'
+  completeness: 1.0

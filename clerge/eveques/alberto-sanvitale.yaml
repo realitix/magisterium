@@ -1,0 +1,38 @@
+slug: alberto-sanvitale
+nom: Alberto Sanvitale
+nom_complet: null
+naissance: null
+deces: '1257-05-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanval.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Parma, Italy
+  du: 1243&sup2;
+  au: '1257-05-06'
+- titre: évêque diocésain
+  du: '1243-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q52419339
+  catholic_hierarchy: bsanval
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:52:23+00:00'
+  completeness: 0.38

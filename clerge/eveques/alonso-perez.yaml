@@ -1,0 +1,47 @@
+slug: alonso-perez
+nom: Alonso Pérez
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Abbey, Cluny
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1130'
+  lieu: San Zoilo de Carrión de los Condes, Monastery, Palencia, Diocese of Palencia
+  consecrateur_principal: diego-gelmirez
+  co_consecrateurs:
+  - nuno-alfonso-63b05d
+  - non-indexe-8f78735c
+  - pedro-sanchez-zarraquines
+  - non-indexe-e1ebb732
+  - non-indexe-8b858f4c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperezaln.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salamanca, Spain
+  du: 1130&sup1;
+  au: Nov 1131&sup2;
+- titre: évêque de Salamanque
+  du: '1130-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780127
+  catholic_hierarchy: bperezaln
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:21:18+00:00'
+  completeness: 0.75

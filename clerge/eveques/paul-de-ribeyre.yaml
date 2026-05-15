@@ -1,0 +1,45 @@
+slug: paul-de-ribeyre
+nom: Paul de Ribeyre
+nom_complet: null
+naissance: '1691-12-02'
+deces: '1776-06-10'
+naissance_lieu: Clermont
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1742-08-12'
+  consecrateur_principal: jean-baptiste-massillon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bribeyre.html
+  - https://fr.wikipedia.org/wiki/Paul_de_Ribeyre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Flour, France
+  du: null
+  au: '1776-06-10'
+- titre: évêque diocésain
+  du: '1742-04-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BOYER%202238%20-%20-Paul%20de%20Ribeyre-%20%28cropped%29.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1145212
+  catholic_hierarchy: bribeyre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:11:40+00:00'
+  completeness: 0.88

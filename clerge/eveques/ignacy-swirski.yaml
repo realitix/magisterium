@@ -1,0 +1,44 @@
+slug: ignacy-swirski
+nom: Ignacy Świrski
+nom_complet: Ignacy Swirski
+naissance: '1885-09-20'
+deces: '1968-03-25'
+naissance_lieu: Ellerno, Archdiocese of Mohilev, Belarus
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1946-06-30'
+  lieu: Pro-Cathedral, Bia&#322;ystok, Archdiocese of Vilnius, Lithuania
+  consecrateur_principal: august-hlond
+  co_consecrateurs:
+  - romuald-ja-brzykowski
+  - stanis-322-aw-kostka-321-ukomski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bswir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Siedlce, Poland
+  du: '1946-04-12'
+  au: '1968-03-25'
+- titre: évêque diocésain
+  du: '1946-04-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11711395
+  catholic_hierarchy: bswir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:45:45+00:00'
+  completeness: 1.0

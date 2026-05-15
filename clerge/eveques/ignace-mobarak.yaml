@@ -1,0 +1,49 @@
+slug: ignace-mobarak
+nom: Ignace Mobarak
+nom_complet: null
+naissance: '1876-09-26'
+deces: '1958-05-19'
+naissance_lieu: Rismayya
+deces_lieu: null
+rang: archeveque
+nationalite: Q822
+tampon: ordo_validus
+sacre:
+  date: '1919-03-02'
+  consecrateur_principal: elias-hoyek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoba.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Beirut {Bairut} (Maronite), Lebanon
+  du: '1919-02-23'
+  au: null
+- titre: Titular Archbishop of Gabala
+  du: '1952-01-20'
+  au: null
+- titre: Archbishop Emeritus of Beirut {Bairut} (Maronite), Lebanon
+  du: null
+  au: '1958-05-19'
+- titre: archevêque catholique
+  du: '1919-03-02'
+  au: '1952-01-20'
+- titre: archevêque titulaire
+  du: '1952-01-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1657602
+  catholic_hierarchy: bmoba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:01:56+00:00'
+  completeness: 0.88

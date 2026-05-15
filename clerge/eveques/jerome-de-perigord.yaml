@@ -1,0 +1,55 @@
+slug: jerome-de-perigord
+nom: Jérôme de Périgord
+nom_complet: Jerónimo de Perigord, O.S.B.
+naissance: '1060'
+deces: '1120-06-30'
+naissance_lieu: Périgueux, Diocese of Périgueux (Vesuna), France
+deces_lieu: Salamanca, Diocese of Salamanca
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1098'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: non-indexe-cea64d94
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperigorj.html
+  - https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_de_P%C3%A9rigord
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valencia, Spain
+  du: 1097&sup1;
+  au: null
+- titre: Bishop of Salamanca, Spain
+  du: 1102&sup2;
+  au: '1120-06-30'
+- titre: évêque de Valence
+  du: '1097-01-01'
+  au: '1102-01-01'
+- titre: administrateur apostolique
+  du: null
+  au: null
+- titre: évêque de Salamanque
+  du: '1102-01-01'
+  au: '1120-07-07'
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jeronimo-de-perigord.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5929661
+  catholic_hierarchy: bperigorj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:22:41+00:00'
+  completeness: 0.62

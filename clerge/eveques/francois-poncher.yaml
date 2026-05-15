@@ -1,0 +1,41 @@
+slug: francois-poncher
+nom: François Poncher
+nom_complet: null
+naissance: '1480'
+deces: '1532-09-01'
+naissance_lieu: Tours, Archdiocese of Tours
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  date: '1519-05-08'
+  consecrateur_principal: etienne-poncher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bponchf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Poncher
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: '1519-03-14'
+  au: '1532-09-01'
+- titre: évêque de Paris
+  du: '1519-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3085597
+  catholic_hierarchy: bponchf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:35+00:00'
+  completeness: 0.75

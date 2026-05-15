@@ -1,0 +1,44 @@
+slug: pierre-francois-bienayme
+nom: Pierre-François Bienaymé
+nom_complet: Pierre François Bienaymé
+naissance: '1737-10-26'
+deces: '1806-02-09'
+naissance_lieu: Montbard
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-05-09'
+  consecrateur_principal: etienne-hubert-de-cambaceres
+  co_consecrateurs:
+  - louis-mathias-de-barral
+  - charles-antoine-henri-du-valk-de-dampierre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbien.html
+  - https://fr.wikipedia.org/wiki/Pierre-Fran%C3%A7ois_Bienaym%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: null
+  au: '1806-02-09'
+- titre: évêque de Metz
+  du: '1802-04-11'
+  au: '1806-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2093006
+  catholic_hierarchy: bbien
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:26:32+00:00'
+  completeness: 1.0

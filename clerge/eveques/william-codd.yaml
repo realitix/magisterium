@@ -1,0 +1,43 @@
+slug: william-codd
+nom: William Codd
+nom_complet: null
+naissance: '1864-07-06'
+deces: '1938-03-12'
+naissance_lieu: Wexford
+deces_lieu: null
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1918-02-25'
+  consecrateur_principal: patrick-foley
+  co_consecrateurs:
+  - daniel-cohalan-1858
+  - bernard-hackett-c-ss-r
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcodd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ferns, Ireland
+  du: '1917-12-07'
+  au: '1938-03-12'
+- titre: évêque diocésain
+  du: '1917-12-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733570
+  catholic_hierarchy: bcodd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:56:24+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: lucio-maranta
+nom: Lucio Maranta
+nom_complet: null
+naissance: null
+deces: '1592'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarantal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavello, Italy
+  du: '1561-01-31'
+  au: null
+- titre: Bishop of Montepeloso, Italy
+  du: '1578-06-02'
+  au: 1592&sup2;
+- titre: évêque diocésain
+  du: '1561-02-10'
+  au: null
+- titre: évêque diocésain
+  du: '1578-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21547216
+  catholic_hierarchy: bmarantal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:23:57+00:00'
+  completeness: 0.25

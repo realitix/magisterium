@@ -1,0 +1,58 @@
+slug: henri-dupont
+nom: Henri Dupont
+nom_complet: Henri-Charles Dupont
+naissance: '1896-09-14'
+deces: '1972-12-06'
+naissance_lieu: Lille, Diocese of Lille
+deces_lieu: Lille, Diocese of Lille
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1951-09-29'
+  lieu: Church, Merville, Diocese of Lille
+  consecrateur_principal: achille-lienart
+  co_consecrateurs:
+  - andre-dupont
+  - andre-maurice-parenty
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduponth.html
+  - https://fr.wikipedia.org/wiki/Henri_Dupont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lille, France
+  du: '1951-07-24'
+  au: '1972-12-06'
+- titre: Titular Bishop of Dorylaëum
+  du: '1951-07-24'
+  au: null
+- titre: président du Comité flamand de France
+  du: '1956-01-01'
+  au: '1972-01-01'
+- titre: évêque auxiliaire
+  du: '1951-07-24'
+  au: null
+- titre: évêque titulaire
+  du: '1951-07-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/19511221%20Consecration%20Episcopale%20Mgr%20Emile%20Verhille%20Orchies.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q59140127
+  catholic_hierarchy: bduponth
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:07+00:00'
+  completeness: 1.0

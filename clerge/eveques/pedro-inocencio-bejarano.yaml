@@ -1,0 +1,50 @@
+slug: pedro-inocencio-bejarano
+nom: Pedro Inocencio Bejarano
+nom_complet: null
+naissance: '1750-07-28'
+deces: '1818-12-13'
+naissance_lieu: Granada
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1798-06-17'
+  lieu: S. Isidro, Madrid, Archdiocese of Toledo
+  consecrateur_principal: jose-saenz-de-santa-maria-y-martinez-de-tejada
+  co_consecrateurs:
+  - francisco-de-cuerda
+  - atanasio-puyal-y-poveda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbejar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sigüenza, Spain
+  du: '1801-02-23'
+  au: '1818-12-13'
+- titre: député
+  du: null
+  au: null
+- titre: évêque de Sigüenza
+  du: '1801-02-23'
+  au: null
+- titre: Bishop of the Port of Buenos Aires
+  du: '1797-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12199269
+  catholic_hierarchy: bbejar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:12:59+00:00'
+  completeness: 1.0

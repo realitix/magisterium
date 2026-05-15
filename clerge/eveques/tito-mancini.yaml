@@ -1,0 +1,56 @@
+slug: tito-mancini
+nom: Tito Mancini
+nom_complet: null
+naissance: '1901-11-24'
+deces: '1969-05-04'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: Sutri, Diocese of Nepi e Sutri
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1961-01-29'
+  lieu: La Storta, Suburbicarian See of Porto e Santa Rufina
+  consecrateur_principal: eugene-tisserant-1884
+  co_consecrateurs:
+  - ilario-alcini
+  - arrigo-pintonello
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Ostia, Italy
+  du: '1960-12-22'
+  au: '1966'
+- titre: Titular Bishop of Vartana
+  du: '1960-12-22'
+  au: null
+- titre: Apostolic Administrator of Nepi e Sutri, Italy
+  du: 1967&sup2;
+  au: null
+- titre: Auxiliary Bishop Emeritus of Ostia, Italy
+  du: null
+  au: '1969-05-04'
+- titre: évêque titulaire
+  du: '1960-12-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '1960-12-22'
+  au: '1966-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733146
+  catholic_hierarchy: bman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:19:11+00:00'
+  completeness: 1.0

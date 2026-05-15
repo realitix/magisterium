@@ -1,0 +1,44 @@
+slug: george-dodo
+nom: George Dodo
+nom_complet: George Jonathan Dodo
+naissance: '1956-04-17'
+deces: '2022-07-08'
+naissance_lieu: Zuturung Mago
+deces_lieu: null
+rang: eveque
+nationalite: Q1033
+tampon: ordo_dubius
+sacre:
+  date: '2001-03-03'
+  lieu: Saint Joseph's, Seminary, Zaria, Diocese of Zaria
+  consecrateur_principal: osvaldo-padilla
+  co_consecrateurs:
+  - peter-yariyok-jatau
+  - ignatius-ayau-kaigama
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdodog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zaria, Nigeria
+  du: '2000-12-05'
+  au: '2022-07-08'
+- titre: évêque diocésain
+  du: '2000-12-05'
+  au: '2022-07-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1507230
+  catholic_hierarchy: bdodog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:58:27+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: louis-de-baradat
+nom: Louis de Baradat
+nom_complet: Daniel-Louis de Baradat
+naissance: '1640-01-05'
+deces: '1710-03-17'
+naissance_lieu: Champagne
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1673-12-31'
+  consecrateur_principal: denis-de-la-barde
+  co_consecrateurs:
+  - sebastien-de-guemadeuc
+  - pierre-le-neboux-de-la-brousse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaradat.html
+  - https://fr.wikipedia.org/wiki/Louis_de_Baradat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vabres, France
+  du: null
+  au: '1710-03-17'
+- titre: Évêque de Vabres
+  du: '1673-01-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3263371
+  catholic_hierarchy: bbaradat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:00:33+00:00'
+  completeness: 1.0

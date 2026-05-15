@@ -1,0 +1,44 @@
+slug: nicolas-ap-gurgant
+nom: Nicolas ap Gurgant
+nom_complet: null
+naissance: null
+deces: '1183-07-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1148-03-14'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - non-indexe-eb14e836
+  - robert-warelwast-0a4b75
+  - non-indexe-e4db33b5
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bapgurg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: 1148&sup1;
+  au: '1183-07-06'
+- titre: évêque diocésain
+  du: '1148-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763981
+  catholic_hierarchy: bapgurg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:42:36+00:00'
+  completeness: 0.88

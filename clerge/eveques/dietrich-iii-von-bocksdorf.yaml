@@ -1,0 +1,50 @@
+slug: dietrich-iii-von-bocksdorf
+nom: Dietrich III von Bocksdorf
+nom_complet: Dietrich von Bocksdorf
+naissance: '1400'
+deces: '1466-03-09'
+naissance_lieu: Zinnitz
+deces_lieu: Zeitz
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1464-08-26'
+  lieu: Zeitz
+  consecrateur_principal: friedrich-von-beichlingen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbocksd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: null
+  au: '1466-03-09'
+- titre: évêque diocésain
+  du: '1464-06-03'
+  au: null
+- titre: Provost of the Cathedral Chapter Naumburg
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: Canon of the Cathedral Chapter Naumburg
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1223837
+  catholic_hierarchy: bbocksd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:32:57+00:00'
+  completeness: 0.75

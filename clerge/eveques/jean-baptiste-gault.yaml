@@ -1,0 +1,48 @@
+slug: jean-baptiste-gault
+nom: Jean-Baptiste Gault
+nom_complet: Jean-Baptiste Gault, C.O.
+naissance: '1595-12-29'
+deces: '1643-05-23'
+naissance_lieu: Tours, Archdiocese of Tours
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-10-05'
+  consecrateur_principal: victor-le-bouthilier
+  co_consecrateurs:
+  - sebastien-de-rosmadec
+  - jean-d-rsquo-olce
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaultj.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Gault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: null
+  au: '1643-05-23'
+- titre: évêque de Marseille
+  du: '1640-05-10'
+  au: null
+fraternite: oratoriens
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Gault.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3164102
+  catholic_hierarchy: bgaultj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:04+00:00'
+  completeness: 0.88

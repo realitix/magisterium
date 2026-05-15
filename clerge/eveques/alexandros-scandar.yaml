@@ -1,0 +1,44 @@
+slug: alexandros-scandar
+nom: Alexandros Scandar
+nom_complet: null
+naissance: '1895-03-13'
+deces: '1964-12-29'
+naissance_lieu: Cairo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1947-12-14'
+  lieu: Assiut, Eparchy of Assiut {Lycopolis} (Coptic)
+  consecrateur_principal: markos-ii-khouzam
+  co_consecrateurs:
+  - clement-michel-bakhache
+  - jacques-nessimian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Assiut {Lycopolis} (Coptic), Egypt
+  du: '1947-08-09'
+  au: '1964-12-29'
+- titre: évêque diocésain
+  du: '1947-08-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745185
+  catholic_hierarchy: bscan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:58:21+00:00'
+  completeness: 1.0

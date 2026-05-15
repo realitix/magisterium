@@ -1,0 +1,39 @@
+slug: pedro-de-cordoba-o-p
+nom: Pedro de Córdoba, O.P.
+nom_complet: Pedro de Córdoba
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1521-09-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcordp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Rheon
+  du: '1521-09-13'
+  au: 1523&sup2;
+- titre: évêque titulaire
+  du: '1521-09-13'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q68866508
+  catholic_hierarchy: bcordp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:05:50+00:00'
+  completeness: 0.25

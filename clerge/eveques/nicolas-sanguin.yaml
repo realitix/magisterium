@@ -1,0 +1,46 @@
+slug: nicolas-sanguin
+nom: Nicolas Sanguin
+nom_complet: null
+naissance: '1580'
+deces: '1653-07-15'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1623-02-12'
+  consecrateur_principal: francois-d-escoubleau-de-sourdis
+  co_consecrateurs:
+  - leonor-d-rsquo-estampes-de-valancay-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsangn.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Sanguin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: null
+  au: 1651&sup1;
+- titre: Bishop Emeritus of Senlis, France
+  du: null
+  au: '1653-07-15'
+- titre: évêque diocésain
+  du: '1622-03-10'
+  au: '1651-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22249251
+  catholic_hierarchy: bsangn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:49:11+00:00'
+  completeness: 0.88

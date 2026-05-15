@@ -1,0 +1,48 @@
+slug: john-henry-norton
+nom: John Henry Norton
+nom_complet: null
+naissance: '1855-12-31'
+deces: '1923-03-22'
+naissance_lieu: Ballarat, Diocese of Melbourne
+deces_lieu: null
+rang: eveque
+nationalite: Q408
+tampon: ordo_validus
+sacre:
+  date: '1906-12-09'
+  lieu: Cathedral, Adelaide, Archdiocese of Adelaide
+  consecrateur_principal: michael-kelly
+  co_consecrateurs:
+  - john-dunne-1846
+  - patrick-vincent-dwyer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnortonj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Port Augusta, Australia
+  du: '1906-08-18'
+  au: '1923-03-22'
+- titre: évêque diocésain
+  du: '1906-08-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Henry%20Norton%20%281855%E2%80%931923%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16031598
+  catholic_hierarchy: bnortonj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:49+00:00'
+  completeness: 1.0

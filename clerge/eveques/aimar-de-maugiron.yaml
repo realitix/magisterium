@@ -1,0 +1,42 @@
+slug: aimar-de-maugiron
+nom: Aimar de Maugiron
+nom_complet: Aymar de Maugiron
+naissance: '1522'
+deces: '1564-04-28'
+naissance_lieu: Vienne
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaugir.html
+  - https://fr.wikipedia.org/wiki/Aimar_de_Maugiron
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: '1545-07-03'
+  au: '1564-04-28'
+- titre: évêque de Glandèves
+  du: '1545-07-13'
+  au: null
+- titre: abbé de Montmajour
+  du: '1547-01-01'
+  au: '1564-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q405484
+  catholic_hierarchy: bmaugir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:12+00:00'
+  completeness: 0.38

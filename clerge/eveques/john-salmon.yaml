@@ -1,0 +1,40 @@
+slug: john-salmon
+nom: John Salmon
+nom_complet: John Salmon, O.S.B.
+naissance: '1250'
+deces: '1325-07-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_incertus
+sacre:
+  date: '1299-11-15'
+  consecrateur_principal: robert-of-winchelsey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalmonj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1299-07-15'
+  au: '1325-07-06'
+- titre: évêque de Norwich
+  du: '1299-07-22'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q6256526
+  catholic_hierarchy: bsalmonj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:44:52+00:00'
+  completeness: 0.75

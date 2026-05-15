@@ -1,0 +1,44 @@
+slug: cristoforo-maiello
+nom: Cristoforo Maiello
+nom_complet: null
+naissance: '1862-02-15'
+deces: '1906-03-08'
+naissance_lieu: Aprano, Diocese of Aversa
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1899-12-17'
+  lieu: St. Martin au Mont, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: francesco-di-paola-cassetta
+  co_consecrateurs:
+  - carlo-caputo
+  - luigi-lazzareschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gravina e Irsina (Montepeloso), Italy
+  du: '1899-12-14'
+  au: '1906-03-08'
+- titre: évêque diocésain
+  du: '1899-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733385
+  catholic_hierarchy: bmaie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:14:52+00:00'
+  completeness: 1.0

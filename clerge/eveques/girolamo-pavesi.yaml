@@ -1,0 +1,43 @@
+slug: girolamo-pavesi
+nom: Girolamo Pavesi
+nom_complet: null
+naissance: '1739-08-01'
+deces: '1820-07-25'
+naissance_lieu: Pontremoli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1797-07-25'
+  consecrateur_principal: giulio-maria-della-somaglia
+  co_consecrateurs:
+  - francesco-saverio-passari
+  - ottavio-boni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpavesi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pontremoli, Italy
+  du: '1797-07-24'
+  au: '1820-07-25'
+- titre: évêque diocésain
+  du: '1797-07-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733653
+  catholic_hierarchy: bpavesi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:14:28+00:00'
+  completeness: 1.0

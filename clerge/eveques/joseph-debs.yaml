@@ -1,0 +1,45 @@
+slug: joseph-debs
+nom: Joseph Debs
+nom_complet: null
+naissance: '1833-10-08'
+deces: '1907-10-04'
+naissance_lieu: Raschiva
+deces_lieu: null
+rang: archeveque
+nationalite: Q12560
+tampon: ordo_validus
+sacre:
+  date: '1872-02-11'
+  consecrateur_principal: paul-peter-massad
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeb.html
+  - https://fr.wikipedia.org/wiki/Joseph_Debs
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Beirut {Bairut} (Maronite), Lebanon
+  du: '1872-02-11'
+  au: '1907-10-04'
+- titre: archevêque catholique
+  du: '1872-02-11'
+  au: '1907-10-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Yusuf%20Al-Dibs.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1528279
+  catholic_hierarchy: bdeb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:36:11+00:00'
+  completeness: 0.88

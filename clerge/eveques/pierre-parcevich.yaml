@@ -1,0 +1,47 @@
+slug: pierre-parcevich
+nom: Pierre Parcevich
+nom_complet: null
+naissance: '1608'
+deces: '1674-07-23'
+naissance_lieu: Chiprovatz
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1656-03-25'
+  lieu: St. Silvestre in capite, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: marcantonio-cardinal-franciotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bparcev.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Moldavia
+  du: '1656-03-06'
+  au: '1674-07-23'
+- titre: Titular Bishop of Marcianopolis
+  du: '1656-03-06'
+  au: null
+- titre: évêque titulaire
+  du: '1656-03-06'
+  au: '1674-07-23'
+- titre: vicaire apostolique
+  du: '1656-03-06'
+  au: '1674-07-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q46765681
+  catholic_hierarchy: bparcev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:09:22+00:00'
+  completeness: 0.75

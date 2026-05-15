@@ -1,0 +1,61 @@
+slug: laurent-yapi
+nom: Laurent Yapi
+nom_complet: null
+naissance: '1937-09-24'
+deces: '1980-08-17'
+naissance_lieu: Memni
+deces_lieu: null
+rang: eveque
+nationalite: Q1008
+tampon: ordo_dubius
+sacre:
+  date: '1970-10-25'
+  lieu: Notre-Dame, Church, Treicheville, Archdiocese of Abidjan
+  consecrateur_principal: bernard-yago
+  co_consecrateurs:
+  - bernard-agre
+  - emile-durrheimer
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/byapi.html
+  - https://fr.wikipedia.org/wiki/Laurent_Yapi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Abidjan, Côte d&rsquo;Ivoire
+  du: '1970-09-21'
+  au: null
+- titre: Titular Bishop of Capsus
+  du: '1970-09-21'
+  au: null
+- titre: Bishop of Abengourou, Côte d&rsquo;Ivoire
+  du: '1979-01-12'
+  au: '1980-08-17'
+- titre: évêque auxiliaire
+  du: '1970-09-21'
+  au: '1979-01-12'
+- titre: évêque titulaire
+  du: '1970-09-21'
+  au: '1979-01-12'
+- titre: évêque diocésain
+  du: '1979-01-12'
+  au: '1980-08-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr.%20Laurent%20Yapi.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q13420310
+  catholic_hierarchy: byapi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:01:41+00:00'
+  completeness: 1.0

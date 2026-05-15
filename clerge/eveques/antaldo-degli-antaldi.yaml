@@ -1,0 +1,41 @@
+slug: antaldo-degli-antaldi
+nom: Antaldo degli Antaldi
+nom_complet: null
+naissance: null
+deces: '1625-01-09'
+naissance_lieu: Urbino, Diocese of Urbino
+deces_lieu: Rocca Contrada, Acervia, Diocese of Senigallia
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1601-11-30'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: paolo-emilio-cardinal-zacchia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdantal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senigallia, Italy
+  du: '1601-11-26'
+  au: '1625-01-09'
+- titre: évêque diocésain
+  du: '1601-11-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68867172
+  catholic_hierarchy: bdantal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:26:57+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: bernardino-pecci
+nom: Bernardino Pecci
+nom_complet: null
+naissance: '1671-05-10'
+deces: '1736-06-01'
+naissance_lieu: Siena, Archdiocese of Siena
+deces_lieu: null
+rang: eveque
+nationalite: Q154849
+tampon: ordo_validus
+sacre:
+  date: '1710-12-28'
+  consecrateur_principal: ferdinando-d-adda
+  co_consecrateurs:
+  - ferdinando-nuzzi
+  - giuseppe-olgiati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpeccib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grosseto, Italy
+  du: '1710-12-15'
+  au: '1736-06-01'
+- titre: évêque de Grosseto
+  du: '1710-12-15'
+  au: '1736-06-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q48812802
+  catholic_hierarchy: bpeccib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:15:52+00:00'
+  completeness: 1.0

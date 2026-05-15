@@ -1,0 +1,50 @@
+slug: nicolas-ii-990
+nom: Nicolas II
+nom_complet: Nicholas II
+naissance: '990'
+deces: '1061-07-27'
+naissance_lieu: Chevron
+deces_lieu: null
+rang: pape
+nationalite: Q3271735
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: gerard-chevrier
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgge.html
+  - https://fr.wikipedia.org/wiki/Nicolas_II_(pape)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Firenze, Italy
+  du: Jan 1045&sup3;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1061-07-27'
+- titre: pape
+  du: '1059-02-05'
+  au: '1061-07-27'
+- titre: évêque de Florence
+  du: '1045-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Guiscard%20claimed%20as%20a%20Duke%20%28Detail%20of%20Nicholas%20II%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q117840
+  catholic_hierarchy: bbourgge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:49+00:00'
+  completeness: 0.5

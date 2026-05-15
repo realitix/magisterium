@@ -1,0 +1,60 @@
+slug: otto-wust
+nom: Otto Wüst
+nom_complet: null
+naissance: '1926-05-26'
+deces: '2002-08-19'
+naissance_lieu: Sursee, Diocese of Basel e Lugano
+deces_lieu: Sursee
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1976-02-01'
+  lieu: St. Ursus, Cathedral, Solothurn, Diocese of Basel {Bâle, Basilea}
+  consecrateur_principal: anton-hanggi
+  co_consecrateurs:
+  - francois-nestor-adam
+  - joseph-hasler
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwust.html
+  - https://fr.wikipedia.org/wiki/Otto_W%C3%BCst
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Basel {Bâle, Basilea}, Switzerland
+  du: '1975-11-27'
+  au: null
+- titre: Titular Bishop of Tubia
+  du: '1975-11-27'
+  au: null
+- titre: Bishop of Basel {Bâle, Basilea}, Switzerland
+  du: null
+  au: '1993-10-26'
+- titre: Bishop Emeritus of Basel {Bâle, Basilea}, Switzerland
+  du: null
+  au: '2002-08-19'
+- titre: évêque titulaire de Tubia en Maurétanie
+  du: '1975-11-27'
+  au: '1982-09-21'
+- titre: évêque auxiliaire de Bâle
+  du: '1975-11-27'
+  au: '1982-09-21'
+- titre: évêque de Bâle
+  du: '1982-09-02'
+  au: '1993-10-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1276179
+  catholic_hierarchy: bwust
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:00:00+00:00'
+  completeness: 1.0

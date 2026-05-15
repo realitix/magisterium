@@ -1,0 +1,38 @@
+slug: job-zach
+nom: Jób Zách
+nom_complet: Job Záh
+naissance: null
+deces: '1280'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzachj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: 1254&sup1;
+  au: 1279&sup1;
+- titre: évêque diocésain
+  du: '1254-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6206724
+  catholic_hierarchy: bzachj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:03:41+00:00'
+  completeness: 0.25

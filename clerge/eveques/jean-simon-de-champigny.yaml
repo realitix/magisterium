@@ -1,0 +1,42 @@
+slug: jean-simon-de-champigny
+nom: Jean Simon de Champigny
+nom_complet: null
+naissance: '1450'
+deces: '1502-12-23'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: Paris, Diocese of Paris
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1493-09-22'
+  lieu: Sens, Archdiocese of Sens
+  consecrateur_principal: tristan-de-salazar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsimondc.html
+  - https://fr.wikipedia.org/wiki/Jean_Simon_de_Champigny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: '1492-10-29'
+  au: '1502-12-23'
+- titre: évêque de Paris
+  du: '1492-11-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3170004
+  catholic_hierarchy: bsimondc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:19:36+00:00'
+  completeness: 0.75

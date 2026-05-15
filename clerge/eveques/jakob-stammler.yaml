@@ -1,0 +1,45 @@
+slug: jakob-stammler
+nom: Jakob Stammler
+nom_complet: Jakobus von Stammler
+naissance: '1840-06-02'
+deces: '1925-04-13'
+naissance_lieu: Bremgarten
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1906-09-30'
+  lieu: Cathedral, Soleure
+  consecrateur_principal: johannes-fidelis-battaglia
+  co_consecrateurs:
+  - ferdinand-ruegg
+  - alfredo-peri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstam.html
+  - https://fr.wikipedia.org/wiki/Jakob_Stammler
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel e Lugano, Switzerland
+  du: null
+  au: '1925-04-13'
+- titre: évêque de Bâle
+  du: '1906-07-04'
+  au: '1925-04-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1520142
+  catholic_hierarchy: bstam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:35:53+00:00'
+  completeness: 1.0

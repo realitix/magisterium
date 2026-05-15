@@ -1,0 +1,58 @@
+slug: pierre-de-gondi
+nom: Pierre de Gondi
+nom_complet: Pierre Cardinal de Gondi
+naissance: '1533'
+deces: '1616-02-17'
+naissance_lieu: Lyon, Archdiocese of Lyon
+deces_lieu: null
+rang: cardinal
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1566-05-19'
+  lieu: Ss. Cosmo e Damiano, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: prosper-de-sainte-croix
+  co_consecrateurs:
+  - girolamo-garimberti
+  - vincenzo-lauro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgondp.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Gondi_(%C3%A9v%C3%AAque_de_Paris)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: null
+  au: '1597-06-16'
+- titre: Bishop Emeritus of Paris, France
+  du: null
+  au: '1616-02-17'
+- titre: évêque de Paris
+  du: '1568-05-18'
+  au: '1597-06-16'
+- titre: évêque de Langres
+  du: '1566-01-01'
+  au: null
+- titre: cardinal-prêtre de San Silvestro in Capite
+  du: '1588-05-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Duflos%20after%20Pezey%20-%20Pierre%20de%20Gondi%2C%20Cardinal%2C%20Bishop%20of%20Paris.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q964348
+  catholic_hierarchy: bgondp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:33:27+00:00'
+  completeness: 0.88

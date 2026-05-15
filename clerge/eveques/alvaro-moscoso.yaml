@@ -1,0 +1,44 @@
+slug: alvaro-moscoso
+nom: Alvaro Moscoso
+nom_complet: null
+naissance: '1493'
+deces: '1564'
+naissance_lieu: Cáceres, Diocese of Coria
+deces_lieu: Zamora, Diocese of Zamora
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmosco.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamplona, Spain
+  du: '1550-06-27'
+  au: null
+- titre: Bishop of Zamora, Spain
+  du: '1561-06-02'
+  au: 1564&sup2;
+- titre: évêque de Pampelune
+  du: '1550-07-07'
+  au: null
+- titre: évêque de Zamora
+  du: '1561-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26763911
+  catholic_hierarchy: bmosco
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:48+00:00'
+  completeness: 0.25

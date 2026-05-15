@@ -1,0 +1,49 @@
+slug: heinrich-von-berg
+nom: Heinrich von Berg
+nom_complet: null
+naissance: '1200'
+deces: '1197'
+naissance_lieu: null
+deces_lieu: Würzburg, Diocese of Würzburg
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1192'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberghei.html
+  - https://fr.wikipedia.org/wiki/Heinrich_von_Berg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: '1169-08-04'
+  au: 1172&sup1;
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1197-04-14'
+- titre: évêque de Wurtzbourg
+  du: '1191-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Passau
+  du: '1169-08-11'
+  au: '1172-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1599468
+  catholic_hierarchy: bberghei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:39+00:00'
+  completeness: 0.5

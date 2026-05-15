@@ -1,0 +1,44 @@
+slug: guillaume-de-cun
+nom: Guillaume de Cun
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcun.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bazas, France
+  du: '1319-09-10'
+  au: null
+- titre: Bishop of (Saint-Bertrand de) Comminges, France
+  du: '1325-06-12'
+  au: 1331&sup1;
+- titre: évêque diocésain
+  du: '1325-06-20'
+  au: null
+- titre: évêque diocésain
+  du: '1319-09-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108485351
+  catholic_hierarchy: bcun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:18:23+00:00'
+  completeness: 0.25

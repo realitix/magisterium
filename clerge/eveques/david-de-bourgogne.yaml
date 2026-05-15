@@ -1,0 +1,52 @@
+slug: david-de-bourgogne
+nom: David de Bourgogne
+nom_complet: David of Burgundy
+naissance: '1427'
+deces: '1494-04-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1451-09-13'
+  co_consecrateurs:
+  - jean-de-bousies-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgd.html
+  - https://fr.wikipedia.org/wiki/David_de_Bourgogne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Thérouanne, France
+  du: '1451-09-13'
+  au: null
+- titre: Bishop of Utrecht, Netherlands
+  du: '1457-09-12'
+  au: '1494-04-16'
+- titre: évêque d'Utrecht
+  du: '1457-09-21'
+  au: '1496-01-01'
+- titre: évêque de Thérouanne
+  du: '1451-09-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/David%20van%20Bourgondi%C3%AB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q434406
+  catholic_hierarchy: bbourgd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:45+00:00'
+  completeness: 0.62

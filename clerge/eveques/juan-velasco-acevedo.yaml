@@ -1,0 +1,44 @@
+slug: juan-velasco-acevedo
+nom: Juan Velasco Acevedo
+nom_complet: null
+naissance: '1586-03-20'
+deces: '1642-02-08'
+naissance_lieu: Torre de Mormojón, Diocese of Palencia
+deces_lieu: Orense, Diocese of Orense
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1637-05-24'
+  lieu: St. Placide, Madrid, Archdiocese of Toledo
+  consecrateur_principal: francisco-de-manso-zuniga-y-sola
+  co_consecrateurs:
+  - miguel-avellan-o-f-m-obs
+  - timoteo-perez-vargas-o-c-d
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvelac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orense, Spain
+  du: '1637-03-02'
+  au: '1642-02-08'
+- titre: évêque d'Orense
+  du: '1637-03-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64732331
+  catholic_hierarchy: bvelac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:30:09+00:00'
+  completeness: 1.0

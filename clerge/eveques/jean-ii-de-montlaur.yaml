@@ -1,0 +1,39 @@
+slug: jean-ii-de-montlaur
+nom: Jean II de Montlaur
+nom_complet: Jean de Montlaur
+naissance: null
+deces: '1247-05-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: paul-ameil
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontlaur.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Maguelonne, France
+  du: '1234-08-01'
+  au: '1247-05-07'
+- titre: évêque de Maguelone
+  du: '1231-01-01'
+  au: '1247-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763485
+  catholic_hierarchy: bmontlaur
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:09:02+00:00'
+  completeness: 0.62

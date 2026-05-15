@@ -1,0 +1,43 @@
+slug: diego-de-yepes
+nom: Diego de Yepes
+nom_complet: Diego de Chaves y de las Casas, O.S.H.
+naissance: '1529-11-25'
+deces: '1613-05-07'
+naissance_lieu: Yepes
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1600-01-02'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: '1599-09-27'
+  au: '1613-05-07'
+- titre: évêque de Tarazona
+  du: '1599-09-27'
+  au: '1613-05-07'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20de%20Yepes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5806851
+  catholic_hierarchy: bchca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:43:46+00:00'
+  completeness: 0.62

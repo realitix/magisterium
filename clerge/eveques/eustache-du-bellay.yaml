@@ -1,0 +1,44 @@
+slug: eustache-du-bellay
+nom: Eustache du Bellay
+nom_complet: null
+naissance: '1505'
+deces: '1565-09-04'
+naissance_lieu: Angers, Diocese of Angers
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1551-11-15'
+  lieu: Saint-Jean-le-Rond, Church, Paris, Diocese of Paris
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbellaye.html
+  - https://fr.wikipedia.org/wiki/Eustache_du_Bellay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: '1551-03-16'
+  au: 1564&sup1;
+- titre: Bishop Emeritus of Paris, France
+  du: null
+  au: '1565-09-04'
+- titre: évêque de Paris
+  du: '1551-03-26'
+  au: '1564-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3061075
+  catholic_hierarchy: bbellaye
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:48+00:00'
+  completeness: 0.5

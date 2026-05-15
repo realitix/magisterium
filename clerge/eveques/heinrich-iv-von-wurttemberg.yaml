@@ -1,0 +1,42 @@
+slug: heinrich-iv-von-wurttemberg
+nom: Heinrich IV. von Württemberg
+nom_complet: Heinrich von Württemberg
+naissance: '1250'
+deces: '1259-05-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwurtt.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Wurtemberg_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: 1246&sup2;
+  au: '1259-05-13'
+- titre: évêque diocésain
+  du: '1246-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597838
+  catholic_hierarchy: bwurtt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:59:55+00:00'
+  completeness: 0.38

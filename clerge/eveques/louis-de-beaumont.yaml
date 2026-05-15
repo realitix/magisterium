@@ -1,0 +1,41 @@
+slug: louis-de-beaumont
+nom: Louis de Beaumont
+nom_complet: Lewis de Beaumont
+naissance: '1270'
+deces: '1333-09-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1317-02-26'
+  consecrateur_principal: john-sandale
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeauml.html
+  - https://fr.wikipedia.org/wiki/Louis_de_Beaumont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Durham, England, Great Britain
+  du: '1317-02-09'
+  au: '1333-09-24'
+- titre: évêque catholique de Durham
+  du: '1317-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6537248
+  catholic_hierarchy: bbeauml
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:10:59+00:00'
+  completeness: 0.75

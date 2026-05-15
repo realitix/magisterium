@@ -1,0 +1,47 @@
+slug: john-stowe
+nom: John Stowe
+nom_complet: John Eric Stowe, O.F.M. Conv.
+naissance: '1966-04-15'
+deces: null
+naissance_lieu: Amherst, OH, Diocese of Cleveland, Ohio
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '2015-05-05'
+  lieu: Christ the King, Cathedral, Lexington, Diocese of Lexington, Kentucky
+  consecrateur_principal: joseph-edward-kurtz
+  co_consecrateurs:
+  - armando-xavier-ochoa
+  - gabriel-enrique-montero-umana
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstowe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lexington, Kentucky, USA
+  du: '2015-03-12'
+  au: null
+- titre: vicaire général
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '2015-03-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19570170
+  catholic_hierarchy: bstowe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:40:09+00:00'
+  completeness: 0.88

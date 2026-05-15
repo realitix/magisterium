@@ -1,0 +1,42 @@
+slug: guy-de-faye
+nom: Guy de Faye
+nom_complet: Guy de Faye, C.R.S.A.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfayeg.html
+  - https://fr.wikipedia.org/wiki/Guy_de_Faye_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: '1354-11-21'
+  au: null
+- titre: Bishop of Maillezais, France
+  du: '1359-02-20'
+  au: 1380&sup1;
+- titre: évêque diocésain
+  du: '1354-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19544590
+  catholic_hierarchy: bfayeg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:55+00:00'
+  completeness: 0.25

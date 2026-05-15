@@ -1,0 +1,44 @@
+slug: paul-aroutin
+nom: Paul Aroutin
+nom_complet: null
+naissance: '1788-12-18'
+deces: '1851-04-21'
+naissance_lieu: Aleppo
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1829-05-03'
+  lieu: Bkerki
+  consecrateur_principal: youssef-boutros-hobaish-habaisci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baroutinp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alep [Beroea, Halab] (Maronite), Syria
+  du: 1829&sup2;
+  au: '1851-04-21'
+- titre: archevêque d'Alep des Maronites
+  du: '1829-01-01'
+  au: '1851-04-21'
+- titre: évêque diocésain
+  du: '1829-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64748042
+  catholic_hierarchy: baroutinp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.88

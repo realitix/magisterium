@@ -1,0 +1,41 @@
+slug: hugues-de-montaigu
+nom: Hugues de Montaigu
+nom_complet: St. Hugues de Montaigut
+naissance: null
+deces: '1136-08-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1116-03-05'
+  consecrateur_principal: pascal-ii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontaigt.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Montaigu
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: 1116&sup1;
+  au: '1136-08-10'
+- titre: évêque d'Auxerre
+  du: '1116-01-01'
+  au: '1136-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28495354
+  catholic_hierarchy: bmontaigt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:06:33+00:00'
+  completeness: 0.62

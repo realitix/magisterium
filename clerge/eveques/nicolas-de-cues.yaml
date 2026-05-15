@@ -1,0 +1,58 @@
+slug: nicolas-de-cues
+nom: Nicolas de Cues
+nom_complet: Nikolaus Cardinal von Cusa
+naissance: '1401'
+deces: '1464-08-12'
+naissance_lieu: Cues, Archdiocese of Trier, Germany
+deces_lieu: Todi, Diocese of Todi
+rang: cardinal
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1450-04-26'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: nicolas-v-1397
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcusa.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Cues
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Priest of San Pietro in Vincoli
+  du: '1449-01-03'
+  au: null
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: '1450-03-23'
+  au: '1464-08-12'
+- titre: cardinal
+  du: '1448-12-29'
+  au: null
+- titre: camerlingue du Sacré Collège
+  du: '1463-01-01'
+  au: '1464-02-06'
+- titre: cardinal-prêtre de Saint-Pierre-aux-Liens
+  du: '1449-01-12'
+  au: '1464-08-20'
+- titre: évêque de Brixen
+  du: '1450-04-01'
+  au: '1464-08-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas%20of%20Cusa.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q154751
+  catholic_hierarchy: bcusa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:19:34+00:00'
+  completeness: 0.62

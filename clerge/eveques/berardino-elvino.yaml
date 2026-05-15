@@ -1,0 +1,51 @@
+slug: berardino-elvino
+nom: Berardino Elvino
+nom_complet: Bernardino Elvino
+naissance: '1504-05-20'
+deces: '1548-07-11'
+naissance_lieu: Alvito
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1545-11-25'
+  lieu: Chapel of the Consecrator, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: filippo-archinto-1500
+  co_consecrateurs:
+  - luigi-magnasco-di-santa-fiora
+  - costantino-giustianiani-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/belvino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Anglona, Italy
+  du: '1542-12-20'
+  au: null
+- titre: Bishop of Anglona-Tursi, Italy
+  du: '1545-08-08'
+  au: '1548-07-11'
+- titre: évêque diocésain
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Guglielmo%20della%20porta%2C%20monumento%20a%20bernardino%20elvino%2C%20m.%201548.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3638468
+  catholic_hierarchy: belvino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:21:31+00:00'
+  completeness: 1.0

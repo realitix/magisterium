@@ -1,0 +1,40 @@
+slug: pietro-carpegna
+nom: Pietro Carpegna
+nom_complet: null
+naissance: '1592'
+deces: '1630-06-19'
+naissance_lieu: Scaolini
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1629-01-06'
+  consecrateur_principal: antonio-barberini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarpp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gubbio, Italy
+  du: '1628-12-11'
+  au: '1630-06-19'
+- titre: évêque diocésain
+  du: '1628-12-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21547326
+  catholic_hierarchy: bcarpp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:23:59+00:00'
+  completeness: 0.75

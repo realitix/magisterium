@@ -1,0 +1,49 @@
+slug: bernardo-florio
+nom: Bernardo Florio
+nom_complet: Bernardo Florio, O.S.C.
+naissance: '1587'
+deces: '1656-02-14'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}, Italy
+deces_lieu: null
+rang: archeveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1621-06-13'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - paolo-de-curtis
+  - girolamo-ricciulli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflorio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Canea (Cydonia, Egée), Greece
+  du: '1621-06-07'
+  au: null
+- titre: Archbishop of Zadar (Zara), Croatia
+  du: '1642-04-28'
+  au: '1656-02-14'
+- titre: évêque diocésain
+  du: '1621-06-07'
+  au: null
+- titre: archevêque catholique
+  du: '1642-04-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27947853
+  catholic_hierarchy: bflorio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:48:57+00:00'
+  completeness: 0.88

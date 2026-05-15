@@ -1,0 +1,49 @@
+slug: vilmos-apor
+nom: Vilmos Apor
+nom_complet: Bl. Vilmos Apor
+naissance: '1892-02-29'
+deces: '1945-04-02'
+naissance_lieu: Segesvár, Diocese of Alba Iulia, Romania
+deces_lieu: Gy&#337;r, Diocese of Gy&#337;r (Raab)
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1941-02-24'
+  lieu: Church, Gyula
+  consecrateur_principal: jusztinian-seredi
+  co_consecrateurs:
+  - gyula-glattfelder
+  - gyula-czapik
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bapor.html
+  - https://fr.wikipedia.org/wiki/Vilmos_Apor
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gy&#337;r (Raab), Hungary
+  du: '1941-01-21'
+  au: '1945-04-02'
+- titre: évêque de Győr
+  du: '1941-02-24'
+  au: '1945-04-02'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Apor%20Vilmos.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q658853
+  catholic_hierarchy: bapor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:42:50+00:00'
+  completeness: 1.0

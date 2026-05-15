@@ -1,0 +1,47 @@
+slug: luciano-pacomio
+nom: Luciano Pacomio
+nom_complet: Lucianus Pacomio
+naissance: '1941-11-04'
+deces: null
+naissance_lieu: Villanova Monferrato, Diocese of Casale Monferrato
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_incertus
+sacre:
+  date: '1997-01-06'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - giovanni-battista-re
+  - miroslav-stefan-marusyn
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpacomio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mondovi, Italy
+  du: '1996-12-03'
+  au: null
+- titre: évêque de Mondovi
+  du: '1996-12-03'
+  au: '2017-09-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Luciano%20Pacomio.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q339272
+  catholic_hierarchy: bpacomio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:01:35+00:00'
+  completeness: 0.75

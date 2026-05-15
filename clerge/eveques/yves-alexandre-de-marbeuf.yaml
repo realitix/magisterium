@@ -1,0 +1,54 @@
+slug: yves-alexandre-de-marbeuf
+nom: Yves Alexandre de Marbeuf
+nom_complet: Yves-Alexandre de Marbeuf
+naissance: '1734-05-17'
+deces: '1799-04-15'
+naissance_lieu: Rennes
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1767-07-12'
+  consecrateur_principal: antoine-de-malvin-de-montazet
+  co_consecrateurs:
+  - louis-henri-de-rochefort-d-ally
+  - gabriel-francois-moreau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarbe.html
+  - https://fr.wikipedia.org/wiki/Yves_Alexandre_de_Marbeuf
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Autun, France
+  du: null
+  au: '1788-09-12'
+- titre: Archbishop of Lyon, France
+  du: null
+  au: '1799-04-15'
+- titre: archevêque catholique
+  du: '1788-05-12'
+  au: null
+- titre: évêque diocésain
+  du: '1767-04-19'
+  au: '1788-09-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Alexandre%20de%20Marbeuf.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3573447
+  catholic_hierarchy: bmarbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:06+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: etienne-gardiner
+nom: Étienne Gardiner
+nom_complet: Stephen Gardiner
+naissance: '1483'
+deces: '1555-11-12'
+naissance_lieu: Bury St. Edmunds
+deces_lieu: null
+rang: eveque
+nationalite: Q21
+tampon: ordo_validus
+sacre:
+  date: '1531-12-03'
+  consecrateur_principal: edmund-bonner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgardiner.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_Gardiner
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1531-10-20'
+  au: '1555-11-12'
+- titre: évêque de Winchester
+  du: '1553-01-01'
+  au: '1555-01-01'
+- titre: ambassadeur du royaume d'Angleterre auprès du royaume d'Espagne
+  du: null
+  au: null
+- titre: évêque de Winchester
+  du: '1531-10-30'
+  au: '1550-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Gardiner.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q719423
+  catholic_hierarchy: bgardiner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:10:37+00:00'
+  completeness: 0.62

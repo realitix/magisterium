@@ -1,0 +1,45 @@
+slug: clet-feliho
+nom: Clet Feliho
+nom_complet: null
+naissance: '1954-02-14'
+deces: null
+naissance_lieu: Conakry, Vicariate Apostolic of Conakry, Guinea
+deces_lieu: null
+rang: eveque
+nationalite: Q1006
+tampon: ordo_dubius
+sacre:
+  date: '2000-06-10'
+  lieu: Cathedral, Parakou, Archdiocese of Parakou
+  consecrateur_principal: bernardin-gantin
+  co_consecrateurs:
+  - nestor-assogba
+  - felix-alaba-job
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfeliho.html
+  - https://fr.wikipedia.org/wiki/Clet_F%C3%A8liho
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kandi, Benin
+  du: '2000-01-29'
+  au: null
+- titre: évêque diocésain
+  du: '2000-01-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1100642
+  catholic_hierarchy: bfeliho
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:41+00:00'
+  completeness: 0.88

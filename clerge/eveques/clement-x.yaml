@@ -1,0 +1,61 @@
+slug: clement-x
+nom: Clément X
+nom_complet: Clement X
+naissance: '1590-07-13'
+deces: '1676-07-22'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1627-11-30'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: scipion-caffarelli-borghese
+  co_consecrateurs:
+  - giambattista-altieri
+  - giovanni-battista-lancellotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balti.html
+  - https://fr.wikipedia.org/wiki/Cl%C3%A9ment_X
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Camerino, Italy
+  du: '1627-11-29'
+  au: '1666-06-07'
+- titre: Apostolic Nuncio to Naples, Italy
+  du: '1644-12-25'
+  au: '1652-10-29'
+- titre: Secretary of the Congregation of Bishops and Regulars
+  du: 1657&sup2;
+  au: 1667&sup2;
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1676-07-22'
+- titre: Roman Catholic Bishop of Camerino
+  du: '1627-11-29'
+  au: '1666-06-07'
+- titre: pape
+  du: '1670-04-29'
+  au: '1676-07-22'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Clement%20X%2C%20by%20Giovanni%20Battista%20Gaulli%20%28Baciccio%29%20-%20Metropolitan%20Museum%20of%20Art.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q155956
+  catholic_hierarchy: balti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:32:50+00:00'
+  completeness: 1.0

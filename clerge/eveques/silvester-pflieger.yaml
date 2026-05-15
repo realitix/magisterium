@@ -1,0 +1,43 @@
+slug: silvester-pflieger
+nom: Silvester Pflieger
+nom_complet: null
+naissance: '1400'
+deces: '1453-10-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1438-03-02'
+  consecrateur_principal: johann-von-reisberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpfli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiemsee, Germany
+  du: '1438-02-24'
+  au: '1453-10-21'
+- titre: Roman Catholic Bishop of Chiemsee
+  du: '1438-03-05'
+  au: null
+- titre: Roman Catholic Bishop of Chiemsee
+  du: '1438-01-01'
+  au: '1453-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2286610
+  catholic_hierarchy: bpfli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:28:12+00:00'
+  completeness: 0.75

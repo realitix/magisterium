@@ -1,0 +1,45 @@
+slug: lucien-fruchaud
+nom: Lucien Fruchaud
+nom_complet: null
+naissance: '1934-10-23'
+deces: null
+naissance_lieu: Le Loroux-Bottereau
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1992-09-19'
+  lieu: Cathedral, Saint-Brieuc, Diocese of Saint-Brieuc (-Tréguier)
+  consecrateur_principal: emile-marcus
+  co_consecrateurs:
+  - jacques-jullien
+  - michel-moutel
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfruchaud.html
+  - https://fr.wikipedia.org/wiki/Lucien_Fruchaud
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc (-Tréguier), France
+  du: '1992-07-17'
+  au: null
+- titre: évêque de Saint-Brieuc et Tréguier
+  du: '1992-07-17'
+  au: '2010-08-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1320155
+  catholic_hierarchy: bfruchaud
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:00:00+00:00'
+  completeness: 0.88

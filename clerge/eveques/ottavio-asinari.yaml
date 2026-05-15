@@ -1,0 +1,43 @@
+slug: ottavio-asinari
+nom: Ottavio Asinari
+nom_complet: Octavio Asinari, B.
+naissance: '1594-08-01'
+deces: '1656-10-20'
+naissance_lieu: Asten
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1634-12-21'
+  consecrateur_principal: antonio-santacroce
+  co_consecrateurs:
+  - giambattista-altieri
+  - ivan-tomko-mrnavic
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/basinari.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ivrea, Italy
+  du: '1634-11-20'
+  au: 1658&sup2;
+- titre: évêque d'Ivrée
+  du: '1634-01-01'
+  au: '1656-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55225173
+  catholic_hierarchy: basinari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:46:30+00:00'
+  completeness: 0.75

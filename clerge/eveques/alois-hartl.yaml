@@ -1,0 +1,54 @@
+slug: alois-hartl
+nom: Alois Hartl
+nom_complet: null
+naissance: '1845-09-01'
+deces: '1923-07-22'
+naissance_lieu: Nassenhausen, Archdiocese of München und Freising {Munich}
+deces_lieu: Teisendorf
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1921-09-04'
+  lieu: Cathedral, München, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: michael-von-faulhaber
+  co_consecrateurs:
+  - johann-baptist-hierl
+  - karl-reth
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhartla.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of München und Freising {Munich}, Germany
+  du: '1921-06-13'
+  au: '1923-07-22'
+- titre: Titular Bishop of Germaniciana
+  du: '1921-06-13'
+  au: null
+- titre: évêque auxiliaire
+  du: '1921-06-13'
+  au: null
+- titre: évêque titulaire
+  du: '1921-06-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alois%20Hartl.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1657186
+  catholic_hierarchy: bhartla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:35:07+00:00'
+  completeness: 1.0

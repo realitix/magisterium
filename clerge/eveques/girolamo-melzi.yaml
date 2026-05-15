@@ -1,0 +1,44 @@
+slug: girolamo-melzi
+nom: Girolamo Melzi
+nom_complet: null
+naissance: '1599'
+deces: '1672-09-29'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Pavia, Diocese of Pavia
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1659-11-16'
+  lieu: San Carlo al Corso, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giacomo-corradi
+  co_consecrateurs:
+  - marco-antonio-tomati
+  - marcantonio-oddi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmelzig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pavia, Italy
+  du: '1659-09-22'
+  au: '1672-09-29'
+- titre: évêque diocésain
+  du: '1659-09-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60895643
+  catholic_hierarchy: bmelzig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:49:45+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: pierre-nommesch
+nom: Pierre Nommesch
+nom_complet: null
+naissance: '1864-12-16'
+deces: '1935-10-09'
+naissance_lieu: Greiveldange [Greiweldingen]
+deces_lieu: null
+rang: eveque
+nationalite: Q32
+tampon: ordo_validus
+sacre:
+  date: '1920-03-25'
+  lieu: Notre Dame, Cathedral, Luxembourg, Diocese of Luxembourg
+  consecrateur_principal: sebastiano-nicotra
+  co_consecrateurs:
+  - thomas-louis-heylen
+  - alphonse-dewachter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnomm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luxembourg
+  du: '1920-03-08'
+  au: '1935-10-09'
+- titre: évêque de Luxembourg
+  du: '1920-03-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2093738
+  catholic_hierarchy: bnomm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:36:26+00:00'
+  completeness: 1.0

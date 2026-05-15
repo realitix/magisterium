@@ -1,0 +1,40 @@
+slug: ricomanni-buffalini
+nom: Ricomanni Buffalini
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1522-06-15'
+  consecrateur_principal: paride-grassi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuffr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Venafro, Italy
+  du: '1504-10-02'
+  au: 1528&sup1;
+- titre: évêque diocésain
+  du: '1504-10-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779329
+  catholic_hierarchy: bbuffr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:58:15+00:00'
+  completeness: 0.62

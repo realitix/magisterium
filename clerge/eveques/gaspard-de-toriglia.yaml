@@ -1,0 +1,43 @@
+slug: gaspard-de-toriglia
+nom: Gaspard de Toriglia
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1494-09-28'
+  consecrateur_principal: leonardo-carmini
+  co_consecrateurs:
+  - antonio-da-san-gimignano
+  - francesco-quirini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btorigl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santa Giusta (Othoca), Italy
+  du: '1494-01-08'
+  au: 1512&sup1;
+- titre: évêque diocésain
+  du: '1494-01-17'
+  au: '1512-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779505
+  catholic_hierarchy: btorigl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:05:21+00:00'
+  completeness: 0.75

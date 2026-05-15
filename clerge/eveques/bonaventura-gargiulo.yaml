@@ -1,0 +1,44 @@
+slug: bonaventura-gargiulo
+nom: Bonaventura Gargiulo
+nom_complet: Bonaventura Gargiulo, O.F.M. Cap.
+naissance: '1843-03-26'
+deces: '1904-05-09'
+naissance_lieu: Maiano, Archdiocese of Sorrento
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1895-03-24'
+  lieu: Tor dei Spechi, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - luigi-maria-canestrari
+  - angelo-rossi-1825
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgargi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Severo, Italy
+  du: '1895-03-18'
+  au: '1904-05-09'
+- titre: évêque diocésain
+  du: '1895-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16030976
+  catholic_hierarchy: bgargi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:10:52+00:00'
+  completeness: 1.0

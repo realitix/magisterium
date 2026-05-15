@@ -1,0 +1,43 @@
+slug: jose-laplana-y-castellon
+nom: José Laplana y Castellón
+nom_complet: null
+naissance: '1717-06-16'
+deces: '1795-05-08'
+naissance_lieu: Benabarre
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1766-11-16'
+  consecrateur_principal: manuel-quintano-bonifaz
+  co_consecrateurs:
+  - basilio-tomas-sancho-y-hernando-de-santas-justa-y-rufina-sch-p
+  - juan-manuel-arguelles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaplan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: '1766-09-26'
+  au: '1795-05-08'
+- titre: évêque de Tarazona
+  du: '1766-09-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736032
+  catholic_hierarchy: blaplan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:33:23+00:00'
+  completeness: 1.0

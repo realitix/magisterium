@@ -1,0 +1,51 @@
+slug: jacques-de-viterbe
+nom: Jacques de Viterbe
+nom_complet: Bl. Giacomo da Viterbo, O.E.S.A.
+naissance: '1255'
+deces: '1308'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1302-09-02'
+  consecrateur_principal: teodorico-ranieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bviterbog.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Viterbe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Benevento, Italy
+  du: '1302-09-03'
+  au: null
+- titre: Archbishop of Napoli {Naples}, Italy
+  du: '1302-12-12'
+  au: 1307&sup2;
+- titre: archevêque de Bénévent
+  du: '1302-09-11'
+  au: null
+- titre: archevêque de Naples
+  du: '1302-12-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/GiacomoDaVt.Trin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q352625
+  catholic_hierarchy: bviterbog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:43:10+00:00'
+  completeness: 0.62

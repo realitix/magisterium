@@ -1,0 +1,50 @@
+slug: james-misko
+nom: James Misko
+nom_complet: James Albert Misko
+naissance: '1970-06-18'
+deces: null
+naissance_lieu: Los Angeles, Archdiocese of Los Angeles, California
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '2026-02-20'
+  lieu: St. Augustine, Cathedral, Tucson, Diocese of Tucson, Arizona
+  consecrateur_principal: john-charles-wester
+  co_consecrateurs:
+  - joe-steve-vasquez
+  - daniel-elias-garcia
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmisko.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Administrator of Austin, Texas, USA
+  du: null
+  au: '2025-09-18'
+- titre: Bishop of Tucson, Arizona, USA
+  du: '2025-12-22'
+  au: null
+- titre: évêque diocésain
+  du: 20235-12-2
+  au: null
+- titre: administrateur diocésain
+  du: '2025-03-25'
+  au: '2025-09-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q137536773
+  catholic_hierarchy: bmisko
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:00:37+00:00'
+  completeness: 0.88

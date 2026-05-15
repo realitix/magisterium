@@ -1,0 +1,44 @@
+slug: francesc-dou
+nom: Francesc Dou
+nom_complet: Alonso Francisco Dou
+naissance: http://www.wikidata.org/.well-known/genid/91bc7b078f6e69960d09d7bca5c22b5e
+deces: '1673-04-15'
+naissance_lieu: Bas
+deces_lieu: null
+rang: eveque
+nationalite: Q204920
+tampon: ordo_validus
+sacre:
+  date: '1668-12-02'
+  lieu: Tarragona, Archdiocese of Tarragona
+  consecrateur_principal: juan-emanuel-de-espinosa-o-s-b
+  co_consecrateurs:
+  - jaume-de-copons-i-de-tamarit
+  - josep-fageda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdonf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerona, Spain
+  du: '1668-09-03'
+  au: '1673-04-15'
+- titre: évêque de Gérone
+  du: '1668-09-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19290848
+  catholic_hierarchy: bdonf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:00:49+00:00'
+  completeness: 0.88

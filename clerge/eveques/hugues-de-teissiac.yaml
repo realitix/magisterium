@@ -1,0 +1,42 @@
+slug: hugues-de-teissiac
+nom: Hugues de Teissiac
+nom_complet: Hugues de Theissiac
+naissance: null
+deces: '1445'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btheissia.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Teissiac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vaison, France
+  du: '1409-08-12'
+  au: 1445&sup2;
+- titre: Administrator of Saint-Paul-Trois-Châteaux, France
+  du: '1411-02-18'
+  au: null
+- titre: évêque diocésain
+  du: '1409-08-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3142748
+  catholic_hierarchy: btheissia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:56:57+00:00'
+  completeness: 0.25

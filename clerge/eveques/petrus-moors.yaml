@@ -1,0 +1,57 @@
+slug: petrus-moors
+nom: Petrus Moors
+nom_complet: Pieter Jan Antoon Moors
+naissance: '1906-08-25'
+deces: '1980-09-16'
+naissance_lieu: Weert, Diocese of Roermond
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1959-03-17'
+  lieu: Saint Christophe, Cathedral, Roermond, Diocese of Roermond
+  consecrateur_principal: bernard-jan-alfrink
+  co_consecrateurs:
+  - wilhelmus-mutsaerts
+  - joseph-baeten
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoorsp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roermond, Netherlands
+  du: '1959-01-26'
+  au: '1970-12-29'
+- titre: Titular Bishop of Traiectum ad Mosam
+  du: '1970-12-29'
+  au: null
+- titre: Bishop Emeritus of Roermond, Netherlands
+  du: null
+  au: '1980-09-16'
+- titre: évêque titulaire
+  du: '1970-12-29'
+  au: null
+- titre: Évêque de Ruremonde
+  du: '1959-01-26'
+  au: '1970-12-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Petrus%20Moors%20%281970%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2627490
+  catholic_hierarchy: bmoorsp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:10:11+00:00'
+  completeness: 1.0

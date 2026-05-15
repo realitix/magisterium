@@ -1,0 +1,50 @@
+slug: william-grey
+nom: William Grey
+nom_complet: null
+naissance: null
+deces: '1478-08-04'
+naissance_lieu: null
+deces_lieu: Downham
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1454-09-08'
+  lieu: Mortlake
+  consecrateur_principal: thomas-cardinal-bourchier
+  co_consecrateurs:
+  - john-carpenter-1399
+  - richard-clerk
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: 23 Dec 1450&#8312;
+  au: null
+- titre: Bishop of Ely, England, Great Britain
+  du: '1454-06-21'
+  au: '1478-08-04'
+- titre: évêque de Lincoln
+  du: '1451-01-01'
+  au: null
+- titre: évêque d'Ely
+  du: '1454-06-30'
+  au: '1478-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8010207
+  catholic_hierarchy: bgrey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:42:30+00:00'
+  completeness: 0.88

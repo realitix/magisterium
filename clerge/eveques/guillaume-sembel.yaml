@@ -1,0 +1,44 @@
+slug: guillaume-sembel
+nom: Guillaume Sembel
+nom_complet: Guillaume-Marius Sembel
+naissance: '1883-11-28'
+deces: '1964-04-11'
+naissance_lieu: Clermont-Ferrand
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1937-06-01'
+  consecrateur_principal: gabriel-piguet
+  co_consecrateurs:
+  - augustin-gonon
+  - georges-auguste-louis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsemb.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Sembel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dijon, France
+  du: '1937-03-15'
+  au: '1964-04-11'
+- titre: évêque de Dijon
+  du: '1937-03-15'
+  au: '1964-04-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027466
+  catholic_hierarchy: bsemb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:09:17+00:00'
+  completeness: 1.0

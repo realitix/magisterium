@@ -1,0 +1,39 @@
+slug: karl-magnusson
+nom: Karl Magnusson
+nom_complet: null
+naissance: null
+deces: '1220-08-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q34
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagnussk.html
+  - https://fr.wikipedia.org/wiki/Karl_Magnusson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Linköping, Sweden
+  du: 1217&sup1;
+  au: '1220-08-08'
+- titre: évêque de Linköping
+  du: '1217-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3742085
+  catholic_hierarchy: bmagnussk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:49+00:00'
+  completeness: 0.38

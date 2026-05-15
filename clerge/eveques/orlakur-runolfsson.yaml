@@ -1,0 +1,41 @@
+slug: orlakur-runolfsson
+nom: Þorlákur Runólfsson
+nom_complet: '&THORN;orlákur Runólfsson'
+naissance: '1086'
+deces: '1133-01-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q189
+tampon: ordo_validus
+sacre:
+  date: '1118-04-28'
+  consecrateur_principal: asser-de-lund
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brunolf.html
+  - https://fr.wikipedia.org/wiki/%C3%9Eorl%C3%A1kur_Run%C3%B3lfsson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skálholt, Iceland
+  du: 1118&sup1;
+  au: '1133-01-31'
+- titre: évêque diocésain
+  du: '1118-05-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q335582
+  catholic_hierarchy: brunolf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:36:21+00:00'
+  completeness: 0.75

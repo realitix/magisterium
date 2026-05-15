@@ -1,0 +1,44 @@
+slug: john-dunowe
+nom: John Dunowe
+nom_complet: null
+naissance: null
+deces: '1489-04-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdunowe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limerick, Ireland
+  du: '1486-11-20'
+  au: Apr 1489&sup3;
+- titre: Auxiliary Bishop of Exeter, England, Great Britain
+  du: 1489&sup2;
+  au: null
+- titre: évêque auxiliaire
+  du: '1489-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1486-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68903291
+  catholic_hierarchy: bdunowe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:38+00:00'
+  completeness: 0.25

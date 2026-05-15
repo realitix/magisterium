@@ -1,0 +1,43 @@
+slug: reinhard-of-blankenburg
+nom: Reinhard of Blankenburg
+nom_complet: Reinhard von Blankenburg
+naissance: '1001'
+deces: '1123-03-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '1'
+  consecrateur_principal: non-indexe-211c2234
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblankr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Halberstadt, Germany
+  du: '1106-03-31'
+  au: '1123-03-02'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque d'Halberstadt
+  du: '1106-04-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1291149
+  catholic_hierarchy: bblankr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:30:35+00:00'
+  completeness: 0.75

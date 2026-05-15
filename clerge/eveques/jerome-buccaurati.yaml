@@ -1,0 +1,44 @@
+slug: jerome-buccaurati
+nom: Jérome Buccaurati
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1545-11-21'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: girolamo-maccabei-de-toscanella
+  co_consecrateurs:
+  - baldo-ferratini
+  - zaccaria-rondariis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuccau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acci (Accia), France
+  du: '1545-08-26'
+  au: 1547&sup1;
+- titre: Évêque d'Accia
+  du: '1545-09-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780876
+  catholic_hierarchy: bbuccau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:56:52+00:00'
+  completeness: 0.75

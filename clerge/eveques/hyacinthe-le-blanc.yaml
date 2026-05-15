@@ -1,0 +1,43 @@
+slug: hyacinthe-le-blanc
+nom: Hyacinthe Le blanc
+nom_complet: Hyacinthe Le Blanc, O.S.A.
+naissance: '1696-05-05'
+deces: '1755-04-26'
+naissance_lieu: Aix en Provence
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1728-04-18'
+  consecrateur_principal: melchior-de-polignac
+  co_consecrateurs:
+  - joseph-de-guyon-de-crochans
+  - manuel-tercero-de-rozas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleblanch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Ioppe
+  du: '1728-04-12'
+  au: '1755-04-26'
+- titre: évêque titulaire de Joppe
+  du: '1728-04-12'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64708033
+  catholic_hierarchy: bleblanch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:04+00:00'
+  completeness: 1.0

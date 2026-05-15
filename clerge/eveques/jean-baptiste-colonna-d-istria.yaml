@@ -1,0 +1,51 @@
+slug: jean-baptiste-colonna-d-istria
+nom: Jean-Baptiste Colonna d'Istria
+nom_complet: Jean-Baptiste Colonna d&rsquo;Istria
+naissance: '1758-09-03'
+deces: '1835-05-01'
+naissance_lieu: Petreto-Bicchisano
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-07-11'
+  consecrateur_principal: antoine-xavier-mayneaud-de-pancemont
+  co_consecrateurs:
+  - louis-sebastiani-de-la-porta
+  - hilarion-francois-de-chevigne-de-boischollet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcodis.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Colonna_d%27Istria
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Nice, France
+  du: null
+  au: '1835-05-01'
+- titre: évêque diocésain
+  du: '1802-04-10'
+  au: '1833-09-29'
+- titre: évêque de Nice
+  du: '1802-01-01'
+  au: '1833-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Jean-Baptiste%20Colonna%20d%27Istria.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q54935280
+  catholic_hierarchy: bcodis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:56:32+00:00'
+  completeness: 1.0

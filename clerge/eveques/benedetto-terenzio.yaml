@@ -1,0 +1,40 @@
+slug: benedetto-terenzio
+nom: Benedetto Terenzio
+nom_complet: null
+naissance: '1786-01-12'
+deces: '1854-01-27'
+naissance_lieu: Fondi nel Lazio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1837-06-04'
+  consecrateur_principal: gabriele-ferretti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btere.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trivento, Italy
+  du: null
+  au: '1854-01-27'
+- titre: évêque diocésain
+  du: '1837-03-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736056
+  catholic_hierarchy: btere
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:54:56+00:00'
+  completeness: 0.88

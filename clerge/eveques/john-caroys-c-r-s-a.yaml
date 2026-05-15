@@ -1,0 +1,38 @@
+slug: john-caroys-c-r-s-a
+nom: John Caroys, C.R.S.A.
+nom_complet: John Caroys
+naissance: null
+deces: '1484'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaroys.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Leighlin, Ireland
+  du: '1483-10-10'
+  au: 1484&sup1;
+- titre: évêque diocésain
+  du: '1483-10-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68865366
+  catholic_hierarchy: bcaroys
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:23:44+00:00'
+  completeness: 0.25

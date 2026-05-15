@@ -1,0 +1,38 @@
+slug: manuel-redondo-y-gomez
+nom: Manuel Redondo y Gómez
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brego.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santa Marta, Colombia
+  du: '1811-04-19'
+  au: '1813'
+- titre: évêque de Santa Marta
+  du: '1811-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910231
+  catholic_hierarchy: brego
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:10+00:00'
+  completeness: 0.25

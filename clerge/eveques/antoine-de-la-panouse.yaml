@@ -1,0 +1,44 @@
+slug: antoine-de-la-panouse
+nom: Antoine de La Panouse
+nom_complet: null
+naissance: '1450'
+deces: '1473-06-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1467-12-08'
+  consecrateur_principal: jean-de-levis
+  co_consecrateurs:
+  - non-indexe-7f72869d
+  - non-indexe-9717c926
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blapano.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_La_Panouse_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: '1467-11-20'
+  au: '1473-06-28'
+- titre: évêque diocésain
+  du: '1467-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2856885
+  catholic_hierarchy: blapano
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:33:09+00:00'
+  completeness: 0.88

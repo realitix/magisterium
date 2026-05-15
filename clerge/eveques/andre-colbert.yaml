@@ -1,0 +1,44 @@
+slug: andre-colbert
+nom: André Colbert
+nom_complet: null
+naissance: '1647'
+deces: '1704-07-19'
+naissance_lieu: Reims
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1678-07-24'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - pierre-du-cambout-de-coislin
+  - jean-baptiste-michel-colbert-de-saint-pouange
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolba.html
+  - https://fr.wikipedia.org/wiki/Andr%C3%A9_Colbert
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: null
+  au: '1704-07-19'
+- titre: évêque d'Auxerre
+  du: '1676-09-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2847542
+  catholic_hierarchy: bcolba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:44+00:00'
+  completeness: 0.88

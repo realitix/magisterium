@@ -1,0 +1,58 @@
+slug: patrick-lennon
+nom: Patrick Lennon
+nom_complet: null
+naissance: '1914-06-22'
+deces: '1990-01-12'
+naissance_lieu: Borris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1966-07-03'
+  consecrateur_principal: giuseppe-maria-sensi
+  co_consecrateurs:
+  - peter-birch
+  - donal-herlihy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blennonp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Kildare and Leighlin, Ireland
+  du: '1966-05-14'
+  au: null
+- titre: Titular Bishop of Vina
+  du: '1966-05-14'
+  au: null
+- titre: Bishop of Kildare and Leighlin, Ireland
+  du: '1967-09-25'
+  au: '1987-12-10'
+- titre: Bishop Emeritus of Kildare and Leighlin, Ireland
+  du: null
+  au: '1990-01-12'
+- titre: évêque diocésain
+  du: '1967-09-25'
+  au: '1987-12-10'
+- titre: évêque titulaire
+  du: '1966-05-14'
+  au: null
+- titre: évêque auxiliaire
+  du: '1966-05-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7147006
+  catholic_hierarchy: blennonp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:43:33+00:00'
+  completeness: 1.0

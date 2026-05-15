@@ -1,0 +1,55 @@
+slug: matthias-konig
+nom: Matthias König
+nom_complet: null
+naissance: '1959-11-03'
+deces: null
+naissance_lieu: Dortmund
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2004-12-05'
+  lieu: Cathedral, Paderborn, Archdiocese of Paderborn
+  consecrateur_principal: hans-josef-becker
+  co_consecrateurs:
+  - karl-heinz-wiesemann
+  - paul-consbruch
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkonigm.html
+  - https://fr.wikipedia.org/wiki/Matthias_K%C3%B6nig
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paderborn, Germany
+  du: '2004-10-14'
+  au: null
+- titre: Titular Bishop of Elicroca
+  du: '2004-10-14'
+  au: null
+- titre: évêque titulaire
+  du: '2004-10-14'
+  au: null
+- titre: évêque auxiliaire
+  du: '2004-10-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Weihbischof%20Matthias%20Koenig%20Paderborn%20100529.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q95503
+  catholic_hierarchy: bkonigm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:18:09+00:00'
+  completeness: 0.88

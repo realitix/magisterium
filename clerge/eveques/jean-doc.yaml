@@ -1,0 +1,40 @@
+slug: jean-doc
+nom: Jean Doc
+nom_complet: Jean Doc, O.S.B.
+naissance: null
+deces: '1560-07-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1552-05-01'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoc.html
+  - https://fr.wikipedia.org/wiki/Jean_Doc
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laon, France
+  du: '1552-03-23'
+  au: '1560-07-01'
+- titre: évêque diocésain
+  du: '1552-04-02'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3171760
+  catholic_hierarchy: bdoc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:58:15+00:00'
+  completeness: 0.5

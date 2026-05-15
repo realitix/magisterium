@@ -1,0 +1,49 @@
+slug: john-low
+nom: John Low
+nom_complet: John Low (Lobbe)
+naissance: '1385'
+deces: '1467-11-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1433-11-01'
+  consecrateur_principal: henry-cardinal-beaufort
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blow.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Asaph, Wales, Great Britain
+  du: '1433-08-17'
+  au: null
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1444-04-22'
+  au: '1467-11-21'
+- titre: évêque diocésain
+  du: '1444-05-01'
+  au: null
+- titre: évêque de Rochester
+  du: '1444-05-01'
+  au: null
+- titre: évêque diocésain
+  du: '1433-08-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6245396
+  catholic_hierarchy: blow
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:35+00:00'
+  completeness: 0.75

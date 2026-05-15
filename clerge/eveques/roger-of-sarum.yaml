@@ -1,0 +1,40 @@
+slug: roger-of-sarum
+nom: Roger of Sarum
+nom_complet: Roger of Salisbury
+naissance: null
+deces: '1247-12-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1244-09-11'
+  consecrateur_principal: william-raleigh
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsarum.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bath and Wells, England, Great Britain
+  du: '1244-05-10'
+  au: '1247-12-21'
+- titre: évêque de Bath et Wells
+  du: '1244-05-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7359224
+  catholic_hierarchy: bsarum
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:54:58+00:00'
+  completeness: 0.75

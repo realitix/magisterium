@@ -1,0 +1,50 @@
+slug: gastone-simoni
+nom: Gastone Simoni
+nom_complet: null
+naissance: '1937-04-09'
+deces: '2022-08-28'
+naissance_lieu: Castelfranco di Sopra, Diocese of Fiesole
+deces_lieu: Casa di Cura, Villa Torrigiani, Diocese of Fiesole
+rang: eveque
+nationalite: Q38
+tampon: ordo_incertus
+sacre:
+  date: '1992-01-06'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - giovanni-battista-re
+  - josip-uhac
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsimonig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Prato, Italy
+  du: '1991-12-07'
+  au: null
+- titre: Bishop Emeritus of Prato, Italy
+  du: null
+  au: '2022-08-28'
+- titre: Roman Catholic Bishop of Prato
+  du: '1991-12-07'
+  au: '2012-09-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ostensione%20della%20sacra%20cintola%20%28cropped%29%20-%20Gastone%20Simoni.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q246822
+  catholic_hierarchy: bsimonig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:19:50+00:00'
+  completeness: 0.88

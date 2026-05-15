@@ -1,0 +1,45 @@
+slug: rudolphe-ii
+nom: Rudolphe II
+nom_complet: Rudolf von Habsburg-Laufenburg
+naissance: '1300'
+deces: '1293'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-e80ee41a
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhablau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: '1274-08-01'
+  au: '1293-04-03'
+- titre: évêque diocésain
+  du: '1274-08-08'
+  au: null
+- titre: régent
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1749656
+  catholic_hierarchy: bhablau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:30:35+00:00'
+  completeness: 0.5

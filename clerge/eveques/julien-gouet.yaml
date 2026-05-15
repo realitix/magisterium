@@ -1,0 +1,53 @@
+slug: julien-gouet
+nom: Julien Gouet
+nom_complet: Victor-Julien-André Gouet
+naissance: '1910-10-21'
+deces: '1988-12-15'
+naissance_lieu: Fillé-sur-Sarthe
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1967-02-27'
+  consecrateur_principal: pierre-veuillot
+  co_consecrateurs:
+  - marcel-marie-dubois
+  - paul-chevalier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgouet.html
+  - https://fr.wikipedia.org/wiki/Julien_Gouet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paris, France
+  du: '1966-12-30'
+  au: '1982-11-30'
+- titre: Titular Bishop of Augurus
+  du: '1966-12-30'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Paris, France
+  du: null
+  au: '1988-12-15'
+- titre: évêque titulaire
+  du: '1966-12-30'
+  au: null
+- titre: évêque auxiliaire de Paris
+  du: '1966-12-30'
+  au: '1982-11-30'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734026
+  catholic_hierarchy: bgouet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:36:53+00:00'
+  completeness: 1.0

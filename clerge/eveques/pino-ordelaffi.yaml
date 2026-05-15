@@ -1,0 +1,54 @@
+slug: pino-ordelaffi
+nom: Pino Ordelaffi
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1390-03-26'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bordelaf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paphos, Cyprus
+  du: 1386&#8310;
+  au: null
+- titre: Administrator of Montefeltro, Italy
+  du: '1386-12-12'
+  au: null
+- titre: Administrator of Corfù, Greece
+  du: '1390-03-18'
+  au: 1 Dec 1390&sup3;
+- titre: Bishop of Cervia, Italy
+  du: '1394-03-09'
+  au: 1402&sup2;
+- titre: administrateur apostolique
+  du: '1390-03-26'
+  au: '1390-12-01'
+- titre: évêque diocésain
+  du: '1394-03-17'
+  au: null
+- titre: Évêque de Paphos
+  du: '1386-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108482964
+  catholic_hierarchy: bordelaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:53:45+00:00'
+  completeness: 0.25

@@ -1,0 +1,41 @@
+slug: pierre-de-sacierges
+nom: Pierre de Sacierges
+nom_complet: null
+naissance: null
+deces: '1514-09-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsacier.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: '1491-01-31'
+  au: '1514-09-09'
+- titre: Grand Chancellor of Duchy of Milan
+  du: '1499-01-01'
+  au: '1507-01-01'
+- titre: évêque diocésain
+  du: '1491-02-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763199
+  catholic_hierarchy: bsacier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:40:17+00:00'
+  completeness: 0.38

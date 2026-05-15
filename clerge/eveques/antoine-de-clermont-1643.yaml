@@ -1,0 +1,44 @@
+slug: antoine-de-clermont-1643
+nom: Antoine de Clermont
+nom_complet: Antoine-Benoît de Clermont-Tonnerre
+naissance: '1643'
+deces: '1678-08-24'
+naissance_lieu: Lingonen
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1676-04-26'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - jean-armand-de-rotondis-de-biscarras
+  - louis-armand-de-simiane-de-gordes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcleton.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Clermont_(%C3%A9v%C3%AAque_de_Fr%C3%A9jus)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fréjus, France
+  du: null
+  au: '1678-08-24'
+- titre: évêque de Fréjus
+  du: '1674-11-22'
+  au: '1678-08-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15967097
+  catholic_hierarchy: bcleton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:20+00:00'
+  completeness: 0.88

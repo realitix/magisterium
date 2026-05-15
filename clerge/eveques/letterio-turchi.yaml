@@ -1,0 +1,50 @@
+slug: letterio-turchi
+nom: Letterio Turchi
+nom_complet: null
+naissance: '1789-06-02'
+deces: '1861-11-08'
+naissance_lieu: Apiro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1843-04-18'
+  lieu: St. Pierre aux liens, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-lambruschini
+  co_consecrateurs:
+  - fabio-maria-asquini
+  - giuseppe-maria-castellani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bturchil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norcia, Italy
+  du: '1843-04-03'
+  au: null
+- titre: Bishop of Città di Castello, Italy
+  du: '1850-05-20'
+  au: '1861-11-08'
+- titre: évêque diocésain
+  du: '1843-04-03'
+  au: null
+- titre: évêque diocésain
+  du: '1850-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760823
+  catholic_hierarchy: bturchil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:21+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: emiddio-lenti
+nom: Emiddio Lenti
+nom_complet: null
+naissance: '1628-12-02'
+deces: '1691-01-10'
+naissance_lieu: Ascoli Satriano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1685-04-23'
+  consecrateur_principal: alessandro-crescenzi
+  co_consecrateurs:
+  - diego-petra
+  - pier-antonio-capobianco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blentie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nocera de&rsquo; Pagani, Italy
+  du: '1685-04-09'
+  au: '1691-01-10'
+- titre: Roman Catholic Bishop of Nocera dei Pagani
+  du: '1685-04-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26702388
+  catholic_hierarchy: blentie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:43:42+00:00'
+  completeness: 1.0

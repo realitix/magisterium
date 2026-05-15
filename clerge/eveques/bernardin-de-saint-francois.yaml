@@ -1,0 +1,43 @@
+slug: bernardin-de-saint-francois
+nom: Bernardin de Saint-François
+nom_complet: null
+naissance: '1529'
+deces: '1582-07-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsfranb.html
+  - https://fr.wikipedia.org/wiki/Bernardin_de_Saint-Fran%C3%A7ois
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayeux, France
+  du: '1573-08-12'
+  au: '1582-07-14'
+- titre: évêque diocésain
+  du: '1573-08-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1572%20-%20Bernardin%20de%20Saint-Fran%C3%A7ois.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2898886
+  catholic_hierarchy: bsfranb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:13:48+00:00'
+  completeness: 0.38

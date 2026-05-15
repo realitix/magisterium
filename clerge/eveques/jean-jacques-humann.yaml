@@ -1,0 +1,47 @@
+slug: jean-jacques-humann
+nom: Jean-Jacques Humann
+nom_complet: Johann Jakob Humann
+naissance: '1771-05-08'
+deces: '1834-08-19'
+naissance_lieu: Strasbourg, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1834-06-11'
+  consecrateur_principal: johann-leonhard-pfaff
+  co_consecrateurs:
+  - johann-baptist-von-keller
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhumann.html
+  - https://fr.wikipedia.org/wiki/Jean-Jacques_Humann
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mainz, Germany
+  du: null
+  au: '1834-08-19'
+- titre: évêque de Mayence
+  du: '1834-01-01'
+  au: '1834-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Jakob%20Humann%20Stich%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1694892
+  catholic_hierarchy: bhumann
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:49:52+00:00'
+  completeness: 1.0

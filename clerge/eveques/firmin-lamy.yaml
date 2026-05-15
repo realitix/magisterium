@@ -1,0 +1,43 @@
+slug: firmin-lamy
+nom: Firmin Lamy
+nom_complet: null
+naissance: '1888-10-24'
+deces: '1939-06-05'
+naissance_lieu: Moulins
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1938-09-21'
+  consecrateur_principal: augustin-gonon
+  co_consecrateurs:
+  - alexandre-caillot
+  - jean-baptiste-megnin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blamyl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: '1938-07-27'
+  au: '1939-06-05'
+- titre: évêque de Langres
+  du: '1938-07-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745029
+  catholic_hierarchy: blamyl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:30:19+00:00'
+  completeness: 1.0

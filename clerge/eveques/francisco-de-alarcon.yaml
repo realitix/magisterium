@@ -1,0 +1,58 @@
+slug: francisco-de-alarcon
+nom: Francisco de Alarcón
+nom_complet: Francisco Diego Alarcón y Covarrubias
+naissance: '1589-03-29'
+deces: '1675-05-18'
+naissance_lieu: Valladolid, Diocese of Palencia
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1639-09-18'
+  consecrateur_principal: diego-de-castejon-y-fonseca
+  co_consecrateurs:
+  - juan-alonso-y-ocon
+  - timoteo-perez-vargas-o-c-d
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ciudad Rodrigo, Spain
+  du: '1639-04-11'
+  au: null
+- titre: Bishop of Salamanca, Spain
+  du: '1645-10-18'
+  au: null
+- titre: Bishop of Córdoba, Spain
+  du: '1657-09-24'
+  au: '1675-05-18'
+- titre: évêque de Cordoue
+  du: '1657-09-24'
+  au: null
+- titre: évêque de Pampelune
+  du: '1648-03-01'
+  au: null
+- titre: évêque de Ciudad Rodrigo
+  du: '1639-04-11'
+  au: null
+- titre: évêque de Salamanque
+  du: '1645-10-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26222307
+  catholic_hierarchy: bdiac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:48:49+00:00'
+  completeness: 1.0

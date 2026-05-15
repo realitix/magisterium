@@ -1,0 +1,44 @@
+slug: charles-d-espinay
+nom: Charles d'Espinay
+nom_complet: Charles d&rsquo;Espinay
+naissance: '1531'
+deces: '1591-09-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1565-09-16'
+  consecrateur_principal: antoine-le-cirier
+  co_consecrateurs:
+  - etienne-bouchier
+  - roland-de-neufville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bespinc.html
+  - https://fr.wikipedia.org/wiki/Charles_d%27Espinay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dol, France
+  du: '1560-05-29'
+  au: '1591-09-12'
+- titre: évêque diocésain
+  du: '1560-06-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960504
+  catholic_hierarchy: bespinc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:25:28+00:00'
+  completeness: 0.88

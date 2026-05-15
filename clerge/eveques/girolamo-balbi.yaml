@@ -1,0 +1,47 @@
+slug: girolamo-balbi
+nom: Girolamo Balbi
+nom_complet: Jérome Balbi
+naissance: '1460'
+deces: '1526-06-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1523-03-25'
+  consecrateur_principal: lorenzo-pucci-1458
+  co_consecrateurs:
+  - giambattista-boncianni
+  - antonio-pucci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalbj.html
+  - https://fr.wikipedia.org/wiki/Girolamo_Balbi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: '1523-02-23'
+  au: '1526-06-25'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Gurk
+  du: '1523-03-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q673596
+  catholic_hierarchy: bbalbj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:57:27+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: thomas-mcgovern
+nom: Thomas McGovern
+nom_complet: null
+naissance: '1832-04-10'
+deces: '1898-07-25'
+naissance_lieu: Swanlinbar, Diocese of Kilmore, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1888-03-11'
+  lieu: Cathedral, Harrisburg, Diocese of Harrisburg, Pennsylvania
+  consecrateur_principal: william-o-hara
+  co_consecrateurs:
+  - richard-gilmour
+  - john-ambrose-watterson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcgot.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Harrisburg, Pennsylvania, USA
+  du: '1888-01-09'
+  au: '1898-07-25'
+- titre: évêque diocésain
+  du: '1888-01-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Thomas%20McGovern.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7792303
+  catholic_hierarchy: bmcgot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:44:15+00:00'
+  completeness: 1.0

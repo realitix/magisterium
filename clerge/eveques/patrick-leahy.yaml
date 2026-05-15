@@ -1,0 +1,48 @@
+slug: patrick-leahy
+nom: Patrick Leahy
+nom_complet: null
+naissance: '1806-05-31'
+deces: '1875-01-26'
+naissance_lieu: Gortnahoe, Archdiocese of Cashel (-Emly)
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1857-06-29'
+  lieu: Thurles, Archdiocese of Cashel (-Emly)
+  consecrateur_principal: paul-cullen
+  co_consecrateurs:
+  - john-ryan
+  - william-delany
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleahy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Cashel (-Emly), Ireland
+  du: '1857-05-15'
+  au: '1875-01-26'
+- titre: archevêque catholique
+  du: '1857-06-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Thurles%20Cathedral%20Statue%20of%20Archbishop%20Patrick%20Leahy%202012%2009%2006.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7146993
+  catholic_hierarchy: bleahy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:38:34+00:00'
+  completeness: 1.0

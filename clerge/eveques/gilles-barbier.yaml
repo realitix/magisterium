@@ -1,0 +1,50 @@
+slug: gilles-barbier
+nom: Gilles Barbier
+nom_complet: null
+naissance: null
+deces: '1494-04-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: BE
+tampon: ordo_incertus
+sacre:
+  date: '1476-04-12'
+  consecrateur_principal: thomas-vaus
+  co_consecrateurs:
+  - godefroid-greveray
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://gcatholic.org/p/58703
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop
+  siege: Sarepta
+  du: '1476-04-03'
+  au: '1494-03-28'
+- titre: Auxiliary Bishop
+  siege: Tournai
+  du: '1476-04-03'
+  au: '1494-03-28'
+- titre: évêque auxiliaire
+  du: '1476-04-12'
+  au: null
+- titre: évêque titulaire
+  du: '1476-04-12'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64777355
+  gcatholic: '58703'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:40+00:00'
+  completeness: 0.75

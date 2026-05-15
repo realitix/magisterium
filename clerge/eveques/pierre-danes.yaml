@@ -1,0 +1,48 @@
+slug: pierre-danes
+nom: Pierre Danes
+nom_complet: Pierre Danès
+naissance: '1497'
+deces: '1577-04-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1557-11-14'
+  consecrateur_principal: louis-guillart
+  co_consecrateurs:
+  - claude-dodieu
+  - francois-de-faucon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdanes.html
+  - https://fr.wikipedia.org/wiki/Pierre_Danes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavaur, France
+  du: '1557-08-09'
+  au: '1577-04-23'
+- titre: évêque diocésain
+  du: '1557-08-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dan%C3%A8s%20Pierre%20Paris%20College%20de%20France%20Rue%20Saint-Jacques%20wiki.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3384615
+  catholic_hierarchy: bdanes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:26:02+00:00'
+  completeness: 0.88

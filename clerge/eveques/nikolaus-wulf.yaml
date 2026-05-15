@@ -1,0 +1,41 @@
+slug: nikolaus-wulf
+nom: Nikolaus Wulf
+nom_complet: null
+naissance: '1350'
+deces: '1481-01-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwulf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Schleswig, Germany
+  du: '1429-01-31'
+  au: Apr 1474&sup3;
+- titre: Bishop Emeritus of Schleswig, Germany
+  du: null
+  au: '1481-01-27'
+- titre: Roman Catholic Bishop of Schleswig
+  du: '1429-02-09'
+  au: '1474-04-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28788979
+  catholic_hierarchy: bwulf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:59:45+00:00'
+  completeness: 0.38

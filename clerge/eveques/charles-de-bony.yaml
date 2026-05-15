@@ -1,0 +1,44 @@
+slug: charles-de-bony
+nom: Charles de Bony
+nom_complet: null
+naissance: null
+deces: '1603-12-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1574-08-22'
+  consecrateur_principal: simon-vigor
+  co_consecrateurs:
+  - antoine-senneterre
+  - aymar-hennequin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbony.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Bony
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: '1567-06-04'
+  au: '1603-12-14'
+- titre: évêque d'Angoulême
+  du: '1567-06-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22970541
+  catholic_hierarchy: bbony
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:39:18+00:00'
+  completeness: 0.88

@@ -1,0 +1,52 @@
+slug: jacques-amyot
+nom: Jacques Amyot
+nom_complet: Iacobus Amyot
+naissance: '1513-10-15'
+deces: '1593-02-06'
+naissance_lieu: Mélun
+deces_lieu: Auxerre, Diocese of Auxerre
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1571-04-29'
+  lieu: S. Denis du Pas, Paris, Diocese of Paris
+  consecrateur_principal: pierre-de-gondi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bamyot.html
+  - https://fr.wikipedia.org/wiki/Jacques_Amyot_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: '1570-12-11'
+  au: '1593-02-06'
+- titre: évêque d'Auxerre
+  du: '1570-12-21'
+  au: null
+- titre: maître de la Librairie du Roi
+  du: '1567-01-01'
+  au: '1593-01-01'
+- titre: grand aumônier de France
+  du: '1560-01-01'
+  au: '1591-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Amyot.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q462371
+  catholic_hierarchy: bamyot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:36:48+00:00'
+  completeness: 0.88

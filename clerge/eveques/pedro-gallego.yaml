@@ -1,0 +1,40 @@
+slug: pedro-gallego
+nom: Pedro Gallego
+nom_complet: Pedro Gallego, O.F.M.
+naissance: '1197'
+deces: '1267-11-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1250-07-31'
+  consecrateur_principal: non-indexe-669f9354
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgallegp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cartagena (en España)
+  du: 1241&sup2;
+  au: 1267&sup2;
+- titre: évêque de Carthagène
+  du: '1248-01-01'
+  au: '1267-11-26'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64752119
+  catholic_hierarchy: bgallegp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:05:45+00:00'
+  completeness: 0.5

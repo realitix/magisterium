@@ -1,0 +1,41 @@
+slug: thomas-clerke
+nom: Thomas Clerke
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclerke.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killala, Ireland
+  du: '1500-06-03'
+  au: 1505&sup2;
+- titre: Bishop Emeritus of Killala, Ireland
+  du: null
+  au: 1508&sup2;
+- titre: évêque diocésain
+  du: '1500-06-13'
+  au: '1505-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68866326
+  catholic_hierarchy: bclerke
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:08+00:00'
+  completeness: 0.25

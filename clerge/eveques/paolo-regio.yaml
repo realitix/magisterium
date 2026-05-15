@@ -1,0 +1,39 @@
+slug: paolo-regio
+nom: Paolo Regio
+nom_complet: null
+naissance: '1545'
+deces: '1607'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1583-02-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bregio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vico Equense, Italy
+  du: '1583-01-10'
+  au: 1607&sup2;
+- titre: Roman Catholic Bishop of Vico Equense
+  du: '1583-01-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25999351
+  catholic_hierarchy: bregio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:55+00:00'
+  completeness: 0.38

@@ -1,0 +1,44 @@
+slug: jean-de-lustrac
+nom: Jean de Lustrac
+nom_complet: null
+naissance: null
+deces: '1550-07-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1549-01-27'
+  consecrateur_principal: francois-de-saint-nectaire
+  co_consecrateurs:
+  - jean-valere-vallier
+  - pierre-de-bisqueres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blustr.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Lustrac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: null
+  au: 18 Jul 1550&sup3;
+- titre: évêque diocésain
+  du: '1548-07-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175542
+  catholic_hierarchy: blustr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:06:11+00:00'
+  completeness: 0.88

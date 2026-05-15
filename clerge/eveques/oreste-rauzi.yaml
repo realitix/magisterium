@@ -1,0 +1,49 @@
+slug: oreste-rauzi
+nom: Oreste Rauzi
+nom_complet: null
+naissance: '1888-01-10'
+deces: '1973-02-02'
+naissance_lieu: Brez
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1939-07-30'
+  consecrateur_principal: giuseppe-pizzardo
+  co_consecrateurs:
+  - giuseppe-migone
+  - luca-ermenegildo-pasetto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brauzi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trento, Italy
+  du: '1939-06-17'
+  au: '1973-02-02'
+- titre: Titular Bishop of Argos
+  du: '1939-06-17'
+  au: null
+- titre: évêque auxiliaire
+  du: '1939-06-17'
+  au: null
+- titre: évêque titulaire
+  du: '1939-06-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746460
+  catholic_hierarchy: brauzi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:12+00:00'
+  completeness: 1.0

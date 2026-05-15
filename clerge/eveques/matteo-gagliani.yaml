@@ -1,0 +1,49 @@
+slug: matteo-gagliani
+nom: Matteo Gagliani
+nom_complet: null
+naissance: '1655-10-09'
+deces: '1717-09-01'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1693-08-02'
+  consecrateur_principal: galeazzo-marescotti
+  co_consecrateurs:
+  - prospero-bottini
+  - giovanni-battista-visconti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaglm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fondi (Fundi), Italy
+  du: '1693-07-20'
+  au: null
+- titre: Bishop of Sora, Italy
+  du: '1703-01-15'
+  au: Sep 1717&sup3;
+- titre: Roman Catholic Bishop of Sora
+  du: '1703-01-15'
+  au: null
+- titre: Roman Catholic Bishop of Fondi
+  du: '1693-07-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29042829
+  catholic_hierarchy: bgaglm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:03:43+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: claude-sozomene
+nom: Claude Sozomene
+nom_complet: Claudius Sozomenus
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1583-04-17'
+  consecrateur_principal: girolamo-rusticucci
+  co_consecrateurs:
+  - girolamo-matteucci
+  - gerolamo-mazzarelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsozom.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pula (Pola), Croatia
+  du: '1583-02-07'
+  au: 1605&sup1;
+- titre: Auxiliary Bishop of Salzburg, Austria
+  du: '1605'
+  au: '1614'
+- titre: évêque auxiliaire
+  du: '1605-01-01'
+  au: null
+- titre: Roman Catholic Bishop of Pula
+  du: '1583-02-17'
+  au: '1605-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781221
+  catholic_hierarchy: bsozom
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:30:39+00:00'
+  completeness: 0.75

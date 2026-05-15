@@ -1,0 +1,48 @@
+slug: roger-bourrat
+nom: Roger Bourrat
+nom_complet: Roger Joseph Bourrat
+naissance: '1925-02-17'
+deces: '1991-06-27'
+naissance_lieu: Saint-Martin-en-Haut
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1974-07-06'
+  lieu: Saint-Etienne, Diocese of Saint-Etienne
+  consecrateur_principal: marius-maziers
+  co_consecrateurs:
+  - paul-marie-rousset
+  - rene-boudon
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourrat.html
+  - https://fr.wikipedia.org/wiki/Roger_Bourrat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rodez (-Vabres), France
+  du: '1974-05-30'
+  au: '1991-06-01'
+- titre: Bishop Emeritus of Rodez (-Vabres), France
+  du: null
+  au: '1991-06-27'
+- titre: évêque de Rodez et Vabres
+  du: '1974-05-30'
+  au: '1991-06-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16596928
+  catholic_hierarchy: bbourrat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:12+00:00'
+  completeness: 1.0

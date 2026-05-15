@@ -1,0 +1,43 @@
+slug: luigi-bignami
+nom: Luigi Bignami
+nom_complet: null
+naissance: '1862-06-28'
+deces: '1919-12-27'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1906-01-14'
+  consecrateur_principal: andrea-carlo-ferrari
+  co_consecrateurs:
+  - carlo-castelli-obl-s-c
+  - giovanni-di-dio-mauri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Siracusa, Italy
+  du: '1905-12-11'
+  au: '1919-12-27'
+- titre: archevêque de Syracuse
+  du: '1906-01-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3839339
+  catholic_hierarchy: bbig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:26:46+00:00'
+  completeness: 1.0

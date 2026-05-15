@@ -1,0 +1,51 @@
+slug: francois-ignace-de-baglion
+nom: François-Ignace de Baglion
+nom_complet: François-Ignace de Baglion du Saillant, C.O.
+naissance: '1632-08-01'
+deces: '1698-01-26'
+naissance_lieu: Lyon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1679-07-23'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - sebastien-de-guemadeuc
+  - louis-antoine-de-noailles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbagds.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ignace_de_Baglion
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: null
+  au: '1698-01-26'
+- titre: évêque de Poitiers
+  du: '1686-04-26'
+  au: null
+- titre: Évêque de Tréguier
+  du: '1679-02-24'
+  au: null
+fraternite: oratoriens
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Fran%C3%A7ois%20de%20Baglion%20de%20Saillant.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3083401
+  catholic_hierarchy: bbagds
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:55:23+00:00'
+  completeness: 0.88

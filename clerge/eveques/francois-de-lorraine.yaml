@@ -1,0 +1,45 @@
+slug: francois-de-lorraine
+nom: François de Lorraine
+nom_complet: François de Lorraine-Chaligny
+naissance: '1599-01-13'
+deces: '1671-06-10'
+naissance_lieu: Fougères
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorrf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Lorraine_(1599-1672)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1623'
+  au: null
+- titre: Bishop-Elect of Verdun, France
+  du: null
+  au: '1661-07-11'
+- titre: Former Bishop-Elect of Verdun, France
+  du: null
+  au: '1671-06-10'
+- titre: évêque de Verdun
+  du: '1623-01-01'
+  au: '1661-07-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3086242
+  catholic_hierarchy: blorrf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:21+00:00'
+  completeness: 0.5

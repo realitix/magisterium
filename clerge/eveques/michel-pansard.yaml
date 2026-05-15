@@ -1,0 +1,55 @@
+slug: michel-pansard
+nom: Michel Pansard
+nom_complet: Michel Armand Alexis Jean Pansard
+naissance: '1955-07-16'
+deces: null
+naissance_lieu: Rennes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2006-02-05'
+  lieu: Notre-Dame, Cathedral, Chartres, Diocese of Chartres
+  consecrateur_principal: bernard-nicolas-aubertin
+  co_consecrateurs:
+  - gerard-daucourt
+  - francis-deniau
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpans.html
+  - https://fr.wikipedia.org/wiki/Michel_Pansard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: '2005-12-21'
+  au: null
+- titre: Bishop of Evry-Corbeil-Essonnes, France
+  du: '2017-08-01'
+  au: null
+- titre: évêque diocésain
+  du: '2017-08-01'
+  au: null
+- titre: évêque diocésain
+  du: '2005-12-21'
+  au: '2017-08-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Pansard.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1930638
+  catholic_hierarchy: bpans
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:07:51+00:00'
+  completeness: 0.88

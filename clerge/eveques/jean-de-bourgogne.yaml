@@ -1,0 +1,44 @@
+slug: jean-de-bourgogne
+nom: Jean de Bourgogne
+nom_complet: null
+naissance: null
+deces: '1479-04-14'
+naissance_lieu: null
+deces_lieu: Malines
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1440-05-05'
+  lieu: Chapel, Château, Hesdin
+  consecrateur_principal: quentin-menard
+  co_consecrateurs:
+  - jean-chevrot
+  - guillaume-ier-filastre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cambrai, France
+  du: '1439-05-11'
+  au: '1479-04-14'
+- titre: évêque diocésain
+  du: '1439-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763802
+  catholic_hierarchy: bbourgog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:54+00:00'
+  completeness: 0.88

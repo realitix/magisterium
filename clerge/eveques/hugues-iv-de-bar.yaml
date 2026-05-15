@@ -1,0 +1,54 @@
+slug: hugues-iv-de-bar
+nom: Hugues IV de Bar
+nom_complet: Hugues de Bar
+naissance: '1632'
+deces: '1691-12-22'
+naissance_lieu: Lubersac
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1667-04-10'
+  consecrateur_principal: daniel-de-cosnac
+  co_consecrateurs:
+  - bernard-de-sariac
+  - mathieu-thoreau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdebar.html
+  - https://fr.wikipedia.org/wiki/Hugues_IV_de_Bar
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acqs (Dax), France
+  du: null
+  au: '1671'
+- titre: Bishop of Lectoure, France
+  du: null
+  au: '1691-12-22'
+- titre: Évêque de Dax
+  du: '1666-05-12'
+  au: '1671-01-01'
+- titre: évêque diocésain
+  du: '1671-01-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/HuguesDeBar.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3142589
+  catholic_hierarchy: bdebar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:36:12+00:00'
+  completeness: 0.88

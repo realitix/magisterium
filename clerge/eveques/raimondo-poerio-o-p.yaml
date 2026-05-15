@@ -1,0 +1,38 @@
+slug: raimondo-poerio-o-p
+nom: Raimondo Poerio, O.P.
+nom_complet: Raimondo Poerio
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoerior.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belcastro, Italy
+  du: Sep 1474&sup3;
+  au: 1512&sup1;
+- titre: évêque diocésain
+  du: '1474-09-01'
+  au: '1512-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q27657066
+  catholic_hierarchy: bpoerior
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:03+00:00'
+  completeness: 0.25

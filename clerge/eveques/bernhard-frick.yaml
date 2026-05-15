@@ -1,0 +1,50 @@
+slug: bernhard-frick
+nom: Bernhard Frick
+nom_complet: null
+naissance: '1600'
+deces: '1655-03-13'
+naissance_lieu: Heck
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1645-04-02'
+  lieu: Münster, Diocese of Münster
+  consecrateur_principal: franz-wilhelm-von-wartenberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrick.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paderborn, Germany
+  du: '1644-11-14'
+  au: '1655-03-13'
+- titre: Titular Bishop of Cardicium
+  du: '1644-11-14'
+  au: null
+- titre: évêque auxiliaire
+  du: '1644-11-14'
+  au: null
+- titre: vicaire général
+  du: null
+  au: null
+- titre: évêque titulaire
+  du: '1644-11-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q825030
+  catholic_hierarchy: bfrick
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:58:47+00:00'
+  completeness: 0.75

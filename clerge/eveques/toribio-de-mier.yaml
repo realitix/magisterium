@@ -1,0 +1,44 @@
+slug: toribio-de-mier
+nom: Toribio de Mier
+nom_complet: null
+naissance: '1632'
+deces: '1698-12-08'
+naissance_lieu: Santa María de Collada
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1693-04-05'
+  lieu: Chapel of the Consecrator, Madrid, Archdiocese of Toledo
+  consecrateur_principal: luis-manuel-fernandez-de-portocarrero-bocanegra-y-moscoso-osorio
+  co_consecrateurs:
+  - francisco-zapata-vera-y-morales
+  - luis-de-lemos-y-usategui-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmiert.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamplona, Spain
+  du: '1693-01-02'
+  au: '1698-12-08'
+- titre: évêque de Pampelune
+  du: '1693-01-02'
+  au: '1698-12-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745397
+  catholic_hierarchy: bmiert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:56:19+00:00'
+  completeness: 0.88

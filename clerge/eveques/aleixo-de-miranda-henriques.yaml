@@ -1,0 +1,50 @@
+slug: aleixo-de-miranda-henriques
+nom: Aleixo de Miranda Henriques
+nom_complet: Aleixo de Miranda Henriques, O.P.
+naissance: '1692-08-12'
+deces: '1771-05-13'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1758-08-24'
+  consecrateur_principal: filippo-acciajuoli
+  co_consecrateurs:
+  - jose-dantas-barbosa
+  - antonio-caetano-da-rocha
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmirhe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Porto, Portugal
+  du: null
+  au: '1771-05-13'
+- titre: évêque de Porto
+  du: '1770-03-05'
+  au: null
+- titre: Roman Catholic Bishop of Miranda do Douro
+  du: '1757-10-15'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20Frei%20Aleixo%20de%20Miranda%20Henriques.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9600924
+  catholic_hierarchy: bmirhe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:00:08+00:00'
+  completeness: 1.0

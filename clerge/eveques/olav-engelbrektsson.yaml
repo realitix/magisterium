@@ -1,0 +1,41 @@
+slug: olav-engelbrektsson
+nom: Olav Engelbrektsson
+nom_complet: null
+naissance: '1480'
+deces: '1538-02-07'
+naissance_lieu: Trondenes, Archdiocese of Nidaros (Trondheim)
+deces_lieu: Lier
+rang: archeveque
+nationalite: Q20
+tampon: ordo_incertus
+sacre:
+  date: '9'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: non-indexe-33df40da
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bengelbg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Nidaros (Trondheim), Norway
+  du: '1523-12-09'
+  au: '1538-02-07'
+- titre: Roman Catholic Archbishop of Nidaros
+  du: '1523-12-19'
+  au: '1538-02-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2007127
+  catholic_hierarchy: bengelbg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:22:18+00:00'
+  completeness: 0.62

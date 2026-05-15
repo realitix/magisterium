@@ -1,0 +1,43 @@
+slug: georges-baraka
+nom: Georges Baraka
+nom_complet: null
+naissance: '1888-05-10'
+deces: '1946-12-09'
+naissance_lieu: Tahtah
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1938-10-16'
+  consecrateur_principal: markos-ii-khouzam
+  co_consecrateurs:
+  - jules-girard
+  - ange-marie-hiral
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaraka.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minya {Ermopoli Maggiore; Minieh} (Coptic), Egypt
+  du: '1938-07-08'
+  au: '1946-12-09'
+- titre: évêque diocésain
+  du: '1938-07-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747118
+  catholic_hierarchy: bbaraka
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:00:43+00:00'
+  completeness: 1.0

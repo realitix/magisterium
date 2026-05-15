@@ -1,0 +1,44 @@
+slug: bruno-maria-tedeschi
+nom: Bruno Maria Tedeschi
+nom_complet: null
+naissance: '1779-04-05'
+deces: '1843-01-19'
+naissance_lieu: Serra San Bruno, Diocese of Gerace
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1835-04-20'
+  lieu: S. Maria degli Angeli, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: emmanuele-de-gregorio
+  co_consecrateurs:
+  - antonio-luigi-piatti
+  - pier-grisologo-basetti-bassetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btedesc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Rossano, Italy
+  du: null
+  au: '1843-01-19'
+- titre: Roman Catholic Archbishop of Rossano
+  du: '1834-11-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733473
+  catholic_hierarchy: btedesc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:53:21+00:00'
+  completeness: 1.0

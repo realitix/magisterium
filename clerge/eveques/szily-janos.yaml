@@ -1,0 +1,57 @@
+slug: szily-janos
+nom: Szily János
+nom_complet: János Szily
+naissance: '1735-08-30'
+deces: '1799-01-02'
+naissance_lieu: Ujkerien
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1775-05-28'
+  lieu: Cathedral, Gy&#337;r, Diocese of Gy&#337;r (Raab)
+  consecrateur_principal: ferenc-zichy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bszily.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Gy&#337;r (Raab), Hungary
+  du: '1775-04-24'
+  au: null
+- titre: Bishop of Knin (Tinin), Croatia
+  du: '1775-04-24'
+  au: null
+- titre: Bishop of Szombathely, Hungary
+  du: null
+  au: '1799-01-02'
+- titre: évêque diocésain
+  du: '1777-02-17'
+  au: null
+- titre: évêque diocésain
+  du: '1775-04-24'
+  au: null
+- titre: évêque auxiliaire
+  du: '1775-04-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Szily%20J%C3%A1nos.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q250606
+  catholic_hierarchy: bszily
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:47:14+00:00'
+  completeness: 0.88

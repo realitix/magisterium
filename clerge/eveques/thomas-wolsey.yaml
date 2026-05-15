@@ -1,0 +1,89 @@
+slug: thomas-wolsey
+nom: Thomas Wolsey
+nom_complet: Thomas Cardinal Wolsey
+naissance: '1473'
+deces: '1530-11-29'
+naissance_lieu: Ipswitch
+deces_lieu: Leicester, Abbey
+rang: cardinal
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1514-03-26'
+  lieu: Lambeth
+  consecrateur_principal: william-warham
+  co_consecrateurs:
+  - richard-fitzjames
+  - richard-fox
+  - richard-nykke
+  - hugh-oldham
+  - raymond-edmund-birkhead-o-f-m
+  - miles-saley-salley-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwolsey.html
+  - https://fr.wikipedia.org/wiki/Thomas_Wolsey
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1514-02-06'
+  au: null
+- titre: Archbishop of York, England, Great Britain
+  du: '1514-09-15'
+  au: '1530-11-29'
+- titre: Cardinal-Priest of Santa Cecilia
+  du: '1515-09-10'
+  au: null
+- titre: Administrator of Bath and Wells, England, Great Britain
+  du: '1518-07-30'
+  au: null
+- titre: Administrator of Durham, England, Great Britain
+  du: '1523-03-26'
+  au: '1530-02-21'
+- titre: Administrator of Winchester, England, Great Britain
+  du: '1529-02-08'
+  au: null
+- titre: cardinal
+  du: '1515-09-10'
+  au: null
+- titre: évêque de Lincoln
+  du: '1514-02-16'
+  au: null
+- titre: administrateur apostolique
+  du: '1518-08-09'
+  au: null
+- titre: lord chancelier
+  du: '1515-01-01'
+  au: '1529-01-01'
+- titre: administrateur apostolique
+  du: null
+  au: null
+- titre: archevêque d'York
+  du: '1514-09-25'
+  au: null
+- titre: administrateur apostolique
+  du: '1529-02-18'
+  au: null
+- titre: évêque catholique de Durham
+  du: '1523-01-01'
+  au: '1529-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Wolsey%20%281473-1530%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q206512
+  catholic_hierarchy: bwolsey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:59:02+00:00'
+  completeness: 0.88

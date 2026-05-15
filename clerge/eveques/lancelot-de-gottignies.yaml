@@ -1,0 +1,44 @@
+slug: lancelot-de-gottignies
+nom: Lancelot de Gottignies
+nom_complet: null
+naissance: '1620-05-26'
+deces: '1673-08-25'
+naissance_lieu: Bruxelles
+deces_lieu: null
+rang: eveque
+nationalite: Q6581823
+tampon: ordo_validus
+sacre:
+  date: '1672-10-16'
+  consecrateur_principal: alphonse-de-berghes
+  co_consecrateurs:
+  - francois-de-baillencourt
+  - ignaas-august-schetz-van-grobbendonck
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgottig.html
+  - https://fr.wikipedia.org/wiki/Lancelot_de_Gottignies
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roermond, Netherlands
+  du: null
+  au: '1673-08-25'
+- titre: Évêque de Ruremonde
+  du: '1669-09-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2966301
+  catholic_hierarchy: bgottig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:36:41+00:00'
+  completeness: 1.0

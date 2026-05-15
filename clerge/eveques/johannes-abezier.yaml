@@ -1,0 +1,39 @@
+slug: johannes-abezier
+nom: Johannes Abezier
+nom_complet: Johann Abezier
+naissance: '1375'
+deces: '1424-02-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jean-de-wallenrode
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/babez.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Warmia (Ermland), Poland
+  du: '1417-12-01'
+  au: '1424-02-11'
+- titre: évêque de Varmie
+  du: '1417-12-10'
+  au: '1424-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q95771
+  catholic_hierarchy: babez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:53+00:00'
+  completeness: 0.62

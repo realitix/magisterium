@@ -1,0 +1,45 @@
+slug: dietrich-von-marburg
+nom: Dietrich von Marburg
+nom_complet: null
+naissance: '1200'
+deces: '1278-11-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1256'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarburg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: Oct 1253&sup2;
+  au: '1278-11-10'
+- titre: évêque diocésain
+  du: '1253-01-01'
+  au: null
+- titre: évêque
+  du: '1256-01-01'
+  au: '1278-01-01'
+- titre: évêque élu
+  du: '1253-01-01'
+  au: '1256-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1224181
+  catholic_hierarchy: bmarburg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:10+00:00'
+  completeness: 0.38

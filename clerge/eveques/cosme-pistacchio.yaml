@@ -1,0 +1,38 @@
+slug: cosme-pistacchio
+nom: Cosme Pistacchio
+nom_complet: null
+naissance: '1491'
+deces: '1528'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpistaco.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bitetto, Italy
+  du: '1518-06-19'
+  au: 1528&sup2;
+- titre: Roman Catholic Bishop of Bitetto
+  du: '1518-06-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909715
+  catholic_hierarchy: bpistaco
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:37:14+00:00'
+  completeness: 0.25

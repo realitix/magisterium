@@ -1,0 +1,40 @@
+slug: juan-garcilaso-de-la-vega
+nom: Juan Garcilaso de la Vega
+nom_complet: null
+naissance: null
+deces: '1654-05-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1653-09-07'
+  consecrateur_principal: marcelo-lopez-de-azcona
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarcdlv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Guatemala
+  du: '1651-10-28'
+  au: '1654-05-05'
+- titre: évêque de Santiago de Guatemala
+  du: '1651-10-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64765186
+  catholic_hierarchy: bgarcdlv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:09:10+00:00'
+  completeness: 0.75

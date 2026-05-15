@@ -1,0 +1,46 @@
+slug: macario-tinti
+nom: Macario Tinti
+nom_complet: null
+naissance: '1900-04-30'
+deces: '2000-11-30'
+naissance_lieu: Montemarciano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1960-06-29'
+  consecrateur_principal: umberto-ravetta
+  co_consecrateurs:
+  - guglielmo-motolese
+  - domenico-brizi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btintim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fabriano e Matelica, Italy
+  du: '1960-05-17'
+  au: null
+- titre: Bishop Emeritus of Fabriano e Matelica, Italy
+  du: null
+  au: '2000-11-30'
+- titre: évêque diocésain
+  du: '1960-05-17'
+  au: '1978-05-31'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11880476
+  catholic_hierarchy: btintim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:00:39+00:00'
+  completeness: 1.0

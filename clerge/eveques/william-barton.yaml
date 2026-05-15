@@ -1,0 +1,45 @@
+slug: william-barton
+nom: William Barton
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1508-09-26'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwillams.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Salisbury, England, Great Britain
+  du: '1508-09-26'
+  au: 1517&sup1;
+- titre: Titular Bishop of Salona
+  du: '1508-09-26'
+  au: null
+- titre: évêque titulaire
+  du: '1508-09-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1508-10-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68912585
+  catholic_hierarchy: bwillams
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:56:22+00:00'
+  completeness: 0.25

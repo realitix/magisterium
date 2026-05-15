@@ -1,0 +1,52 @@
+slug: stefan-he-e
+nom: Stefan Heße
+nom_complet: Stefan Heße (Hesse)
+naissance: '1966-08-07'
+deces: null
+naissance_lieu: Köln, Archdiocese of Köln {Cologne}
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2015-03-14'
+  lieu: Cathedral, Hamburg, Archdiocese of Hamburg
+  consecrateur_principal: franz-josef-bode
+  co_consecrateurs:
+  - rainer-woelki
+  - norbert-werbs
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhebes.html
+  - https://fr.wikipedia.org/wiki/Stefan_He%C3%9Fe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Administrator of Köln {Cologne}, Germany
+  du: '2014-02-28'
+  au: '2014-09-20'
+- titre: Archbishop of Hamburg, Germany
+  du: '2015-01-26'
+  au: null
+- titre: archevêque de Hambourg
+  du: '2015-03-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pressekonferenz%20zur%20Ernennung%20von%20Kardinal%20Woelki%20zum%20Erzbischof%20von%20K%C3%B6ln-2970.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15848996
+  catholic_hierarchy: bhebes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:37:16+00:00'
+  completeness: 0.88

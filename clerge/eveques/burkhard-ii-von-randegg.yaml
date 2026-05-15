@@ -1,0 +1,43 @@
+slug: burkhard-ii-von-randegg
+nom: Burkhard II. von Randegg
+nom_complet: Burkhard von Randegg
+naissance: '1500'
+deces: '1466'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1463-07-02'
+  consecrateur_principal: johannes-venningen
+  co_consecrateurs:
+  - thomas-weldner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brandegg.html
+  - https://fr.wikipedia.org/wiki/Burkhard_von_Randegg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: null
+  au: '1466-04-13'
+- titre: évêque diocésain
+  du: '1462-12-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1016449
+  catholic_hierarchy: brandegg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:02:11+00:00'
+  completeness: 0.88

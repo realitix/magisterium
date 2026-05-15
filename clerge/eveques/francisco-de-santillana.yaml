@@ -1,0 +1,38 @@
+slug: francisco-de-santillana
+nom: Francisco de Santillana
+nom_complet: null
+naissance: null
+deces: '1478'
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsantillf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osma, Spain
+  du: '1475-04-05'
+  au: 1478&sup2;
+- titre: évêque d'Osma
+  du: '1475-04-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910467
+  catholic_hierarchy: bsantillf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:51:26+00:00'
+  completeness: 0.25

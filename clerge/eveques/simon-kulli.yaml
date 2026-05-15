@@ -1,0 +1,44 @@
+slug: simon-kulli
+nom: Simon Kulli
+nom_complet: null
+naissance: '1973-02-14'
+deces: '2025-11-29'
+naissance_lieu: Pistull, Diocese of Sapë
+deces_lieu: Vau i Dejës, Diocese of Error [Vau]
+rang: eveque
+nationalite: Q222
+tampon: ordo_dubius
+sacre:
+  date: '2017-09-14'
+  lieu: Nënë Tereza, Cathedral, Vau i Dejës, Diocese of Sapë
+  consecrateur_principal: charles-john-brown
+  co_consecrateurs:
+  - angelo-massafra
+  - dode-gjergji
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkulli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sapë, Albania
+  du: '2017-06-15'
+  au: '2025-11-29'
+- titre: évêque de Sapë
+  du: '2017-06-15'
+  au: '2025-11-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30302516
+  catholic_hierarchy: bkulli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:23:14+00:00'
+  completeness: 1.0

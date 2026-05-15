@@ -1,0 +1,51 @@
+slug: pierre-artaudi
+nom: Pierre Artaudi
+nom_complet: Pierre Artaudi, O.P.
+naissance: '1350'
+deces: '1360'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bartaudi.html
+  - https://fr.wikipedia.org/wiki/Pierre_Artaudi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alba (Pompea), Italy
+  du: '1334-02-07'
+  au: null
+- titre: Bishop of Sisteron, France
+  du: '1349-01-28'
+  au: null
+- titre: Bishop of Fréjus, France
+  du: 1360&sup2;
+  au: 1360&sup2;
+- titre: évêque de Sisteron
+  du: '1349-02-05'
+  au: null
+- titre: évêque de Fréjus
+  du: '1360-01-01'
+  au: null
+- titre: évêque d'Alba
+  du: '1334-02-15'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3383776
+  catholic_hierarchy: bartaudi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.25

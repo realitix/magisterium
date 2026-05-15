@@ -1,0 +1,48 @@
+slug: john-toner
+nom: John Toner
+nom_complet: null
+naissance: '1857-03-14'
+deces: '1949-05-31'
+naissance_lieu: Calton, Glasgow, Vicariate Apostolic of Western District, Scotland
+deces_lieu: Bishop's House (Roseangle), Dundee, Tayside, Diocese of Dunkeld, Scotland
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1914-10-15'
+  lieu: St. Andrew, Cathedral, Dundee, Tayside, Diocese of Dunkeld, Scotland
+  consecrateur_principal: james-smith-1841
+  co_consecrateurs:
+  - donald-aloysius-mackintosh
+  - james-mccarthy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bturnj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunkeld, Scotland, Great Britain
+  du: '1914-09-08'
+  au: '1949-05-31'
+- titre: évêque de Dunkeld
+  du: '1914-09-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Toner.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15997869
+  catholic_hierarchy: bturnj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:46+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: gabriel-de-roquette
+nom: Gabriel de Roquette
+nom_complet: null
+naissance: '1624'
+deces: '1707-02-22'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1667-04-10'
+  consecrateur_principal: louis-henri-de-pardaillan-de-gondrin
+  co_consecrateurs:
+  - jean-de-maupeou
+  - michel-colbert-de-saint-pouange
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broquet.html
+  - https://fr.wikipedia.org/wiki/Gabriel_de_Roquette
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Autun, France
+  du: null
+  au: '1702-07-22'
+- titre: Bishop Emeritus of Autun, France
+  du: null
+  au: '1707-02-22'
+- titre: évêque diocésain
+  du: '1666-05-01'
+  au: '1702-07-22'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Chasteau%20-%20Gabriel%20de%20Roquette.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3094026
+  catholic_hierarchy: broquet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:26:54+00:00'
+  completeness: 0.88

@@ -1,0 +1,61 @@
+slug: gaspar-de-quiroga-y-vela
+nom: Gaspar de Quiroga y Vela
+nom_complet: Gaspar Cardinal de Quiroga y Vela
+naissance: '1512-01-13'
+deces: '1594-11-12'
+naissance_lieu: Madrigal de las Altas Torres, Diocese of Ávila
+deces_lieu: Madrid, Archdiocese of Toledo
+rang: cardinal
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1572-04-15'
+  lieu: Santa María de las Cuevas, Convent, Madrid, Archdiocese of Toledo
+  consecrateur_principal: diego-espinosa-arevalo
+  co_consecrateurs:
+  - juan-beltran-de-guevara
+  - francisco-soto-salazar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquve.html
+  - https://fr.wikipedia.org/wiki/Gaspar_de_Quiroga_y_Vela
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuenca, Spain
+  du: '1571-12-17'
+  au: null
+- titre: Archbishop of Toledo, Spain
+  du: '1577-09-06'
+  au: '1594-11-12'
+- titre: cardinal-prêtre
+  du: '1578-12-25'
+  au: null
+- titre: archevêque de Tolède
+  du: '1577-09-16'
+  au: '1594-11-12'
+- titre: grand inquisiteur d'Espagne
+  du: null
+  au: null
+- titre: évêque de Cuenca
+  du: '1571-12-27'
+  au: '1577-09-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/El%20cardenal%20Gaspar%20Quiroga%20%28Museo%20del%20Prado%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q430582
+  catholic_hierarchy: bquve
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:56:50+00:00'
+  completeness: 1.0

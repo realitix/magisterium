@@ -1,0 +1,46 @@
+slug: francisco-de-cuerda
+nom: Francisco de Cuerda
+nom_complet: null
+naissance: '1747-04-12'
+deces: '1815'
+naissance_lieu: Mora, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1790-07-11'
+  consecrateur_principal: agustin-rubin-cevallos
+  co_consecrateurs:
+  - manuel-abad-y-lasierra
+  - agustin-benito-torres-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdecuerda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Puerto Rico (Porto Rico)
+  du: '1790-03-29'
+  au: '1795-05-28'
+- titre: Bishop Emeritus of Puerto Rico (Porto Rico)
+  du: null
+  au: 1815&sup2;
+- titre: évêque de Porto Rico
+  du: '1790-03-29'
+  au: '1795-05-28'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64741636
+  catholic_hierarchy: bdecuerda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:37:09+00:00'
+  completeness: 0.88

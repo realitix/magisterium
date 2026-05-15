@@ -1,0 +1,48 @@
+slug: jacques-benigne-bossuet-1664
+nom: Jacques Bénigne Bossuet
+nom_complet: Jacques-Bénigne Bossuet
+naissance: '1664-12-11'
+deces: '1743-07-12'
+naissance_lieu: Dijon
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1718-07-31'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - charles-de-caylus
+  - roland-francois-de-kerhoen-de-coetanfao
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbossue.html
+  - https://fr.wikipedia.org/wiki/Jacques_B%C3%A9nigne_Bossuet_(%C3%A9v%C3%AAque_de_Troyes)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Troyes, France
+  du: null
+  au: '1743-07-12'
+- titre: évêque diocésain
+  du: '1716-03-02'
+  au: '1742-03-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bossuet%20de%20Savigny.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3158442
+  catholic_hierarchy: bbossue
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:42:45+00:00'
+  completeness: 1.0

@@ -1,0 +1,38 @@
+slug: gyorgy-tompa
+nom: György Tompa
+nom_complet: null
+naissance: null
+deces: '1552-03-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btompa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1550-07-04'
+  au: Mar 1552&sup3;
+- titre: évêque diocésain
+  du: '1550-07-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911550
+  catholic_hierarchy: btompa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:03:57+00:00'
+  completeness: 0.25

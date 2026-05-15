@@ -1,0 +1,52 @@
+slug: lorenz-von-bibra
+nom: Lorenz von Bibra
+nom_complet: null
+naissance: '1459'
+deces: '1519-02-06'
+naissance_lieu: Mellrichstadt
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1495-10-11'
+  lieu: Würzburg, Diocese of Würzburg
+  consecrateur_principal: heinrich-iii-gro-von-trockau
+  co_consecrateurs:
+  - jerome-von-reitzenstein-o-cist
+  - georg-antworter-1430
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbibr.html
+  - https://fr.wikipedia.org/wiki/Lorenz_von_Bibra
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1519-02-06'
+- titre: évêque de Wurtzbourg
+  du: '1495-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/LorenzvB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q108961
+  catholic_hierarchy: bbibr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:26:01+00:00'
+  completeness: 0.88

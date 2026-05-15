@@ -1,0 +1,44 @@
+slug: jean-de-vernois-o-p
+nom: Jean de Vernois, O.P.
+nom_complet: Jean de Vernois
+naissance: '1540'
+deces: '1599-01-06'
+naissance_lieu: Poligny, Jura
+deces_lieu: Saint-Omer, Diocese of Saint-Omer
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1591-10-27'
+  lieu: Ste Gudule, Bruxelles
+  consecrateur_principal: ottavio-mirto-frangipani
+  co_consecrateurs:
+  - lievin-van-der-beken
+  - jan-van-strijen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvernois.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Omer, France
+  du: '1591-06-21'
+  au: '1599-01-06'
+- titre: évêque diocésain
+  du: '1591-06-21'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64752649
+  catholic_hierarchy: bvernois
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:33:48+00:00'
+  completeness: 0.88

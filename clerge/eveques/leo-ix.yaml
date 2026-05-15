@@ -1,0 +1,37 @@
+slug: leo-ix
+nom: Leo IX
+nom_complet: null
+naissance: '1002-06-21'
+deces: '1054-04-19'
+naissance_lieu: Eguisheim
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1027-09-09'
+  lieu: Worms, Diocese of Worms, Germany
+  consecrateur_principal: poppo-von-babenberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/begis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toul, France
+  du: May 1026&sup3;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1054-04-19'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: begis
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:19:31+00:00'
+  completeness: 0.88

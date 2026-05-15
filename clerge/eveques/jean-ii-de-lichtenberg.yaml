@@ -1,0 +1,53 @@
+slug: jean-ii-de-lichtenberg
+nom: Jean II de Lichtenberg
+nom_complet: Jean de Lichtenberg
+naissance: '1315'
+deces: '1365-09-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1354-03-09'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blichtj.html
+  - https://fr.wikipedia.org/wiki/Jean_II_de_Lichtenberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strasbourg, France
+  du: '1354-01-15'
+  au: '1365-09-14'
+- titre: prévôt du chapitre cathédral de Strasbourg
+  du: null
+  au: http://www.wikidata.org/.well-known/genid/0aa59d3e3253bb5322ceca2cbab3ef79
+- titre: doyen du chapitre cathédral de Strasbourg
+  du: null
+  au: http://www.wikidata.org/.well-known/genid/77c9738f1b67e2dba95b00df82b0f2a6
+- titre: vicaire général du diocèse de Trèves
+  du: '1349-01-01'
+  au: http://www.wikidata.org/.well-known/genid/359cd10ef404ac5c7f35773bfd7b6441
+- titre: évêque de Strasbourg
+  du: '1353-12-10'
+  au: '1365-09-21'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20II%20de%20Lichtenberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1696816
+  catholic_hierarchy: blichtj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:49:31+00:00'
+  completeness: 0.5

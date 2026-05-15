@@ -1,0 +1,53 @@
+slug: camillo-alleva
+nom: Camillo Alleva
+nom_complet: null
+naissance: '1770-03-12'
+deces: '1829-10-30'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1818-06-28'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - giovanni-francesco-guerrieri
+  - carlo-zen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balleva.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ugento, Italy
+  du: null
+  au: '1824-12-13'
+- titre: Archbishop of Salerno (-Acerno), Italy
+  du: null
+  au: '1829-10-30'
+- titre: évêque diocésain
+  du: '1818-05-08'
+  au: '1824-12-13'
+- titre: archevêque de Salerne
+  du: '1825-11-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mons.%20Alleva.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3651444
+  catholic_hierarchy: balleva
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:31:06+00:00'
+  completeness: 1.0

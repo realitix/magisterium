@@ -1,0 +1,44 @@
+slug: francois-de-fuste
+nom: François de Fuste
+nom_complet: François de Fuste, O.F.M.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Lausanne, Diocese of Lausanne
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfuste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lausanne, Switzerland
+  du: 1451&sup2;
+  au: 1461&sup2;
+- titre: Titular Bishop of Granada, Spain
+  du: 1451&sup2;
+  au: null
+- titre: évêque titulaire de Grenade
+  du: '1451-01-01'
+  au: '1461-01-01'
+- titre: évêque auxiliaire
+  du: '1451-01-01'
+  au: '1461-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68903869
+  catholic_hierarchy: bfuste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:01:46+00:00'
+  completeness: 0.25

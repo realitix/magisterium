@@ -1,0 +1,44 @@
+slug: basilio-lopez
+nom: Basilio López
+nom_complet: null
+naissance: '1779'
+deces: '1859-01-16'
+naissance_lieu: Recoleta
+deces_lieu: null
+rang: eveque
+nationalite: Q733
+tampon: ordo_validus
+sacre:
+  date: '1845-08-31'
+  consecrateur_principal: jose-antonio-dos-reis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blopezba.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paraguay (o Ssma Assunzione)
+  du: '1844-07-22'
+  au: '1859-01-16'
+- titre: évêque d'Asunción
+  du: '1844-07-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Basilio%20L%C3%B3pez.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64742406
+  catholic_hierarchy: blopezba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:58:32+00:00'
+  completeness: 0.75

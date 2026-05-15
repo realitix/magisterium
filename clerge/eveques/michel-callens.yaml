@@ -1,0 +1,53 @@
+slug: michel-callens
+nom: Michel Callens
+nom_complet: Michel Callens, M. Afr.
+naissance: '1918-02-18'
+deces: '1990-08-19'
+naissance_lieu: Paris, Archdiocese of Paris, France
+deces_lieu: Tunis, Territorial Prelature of Tunis
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1965-04-11'
+  lieu: Domus Mariae, Via Aurelia 481, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: leon-etienne-duval
+  co_consecrateurs:
+  - maurice-perrin
+  - emile-joseph-socquet-m-afr
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcallens.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prelate of Tunis, Tunisia
+  du: '1965-01-09'
+  au: '1990-08-19'
+- titre: Titular Archbishop of Moxori
+  du: '1965-01-09'
+  au: null
+- titre: archevêque titulaire
+  du: '1965-01-09'
+  au: null
+- titre: archevêque catholique
+  du: '1965-04-11'
+  au: null
+- titre: prélat territorial de Tunis
+  du: '1965-01-09'
+  au: '1990-08-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747816
+  catholic_hierarchy: bcallens
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:08:28+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: bompar-virgili
+nom: Bompar Virgili
+nom_complet: null
+naissance: null
+deces: '1375-07-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbompar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Uzés, France
+  du: '1366-08-11'
+  au: null
+- titre: Bishop of Mende, France
+  du: '1371-06-16'
+  au: '1375-07-31'
+- titre: évêque diocésain
+  du: '1371-06-24'
+  au: null
+- titre: évêque diocésain
+  du: '1366-08-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108480724
+  catholic_hierarchy: bbompar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:35:53+00:00'
+  completeness: 0.38

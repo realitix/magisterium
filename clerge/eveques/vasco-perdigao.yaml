@@ -1,0 +1,38 @@
+slug: vasco-perdigao
+nom: Vasco Perdigão
+nom_complet: null
+naissance: null
+deces: '1463-02-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperdig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évora, Portugal
+  du: '1442-02-23'
+  au: '1463-02-27'
+- titre: Roman Catholic Bishop of Évora
+  du: '1442-03-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909205
+  catholic_hierarchy: bperdig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:20:21+00:00'
+  completeness: 0.38

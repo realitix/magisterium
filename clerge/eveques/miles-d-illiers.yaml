@@ -1,0 +1,47 @@
+slug: miles-d-illiers
+nom: Miles d'Illiers
+nom_complet: Miles d&rsquo;Illiers
+naissance: '1410'
+deces: '1493-09-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1459-09-08'
+  consecrateur_principal: guillaume-cardinal-d-rsquo-estouteville-o-s-b
+  co_consecrateurs:
+  - tristan-d-aure
+  - isnard-de-grasse-du-bar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdillim.html
+  - https://fr.wikipedia.org/wiki/Miles_d%27Illiers
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: '1459-08-31'
+  au: '1492-12-03'
+- titre: Bishop Emeritus of Chartres, France
+  du: null
+  au: '1493-09-27'
+- titre: évêque diocésain
+  du: '1459-09-09'
+  au: '1492-12-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3314087
+  catholic_hierarchy: bdillim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:51:29+00:00'
+  completeness: 0.88

@@ -1,0 +1,63 @@
+slug: john-healy
+nom: John Healy
+nom_complet: null
+naissance: '1841-11-14'
+deces: '1918-03-16'
+naissance_lieu: Ballinafad, Diocese of Elphin
+deces_lieu: Cathedral, Tuam, Archdiocese of Tuam
+rang: archeveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1884-08-31'
+  lieu: Cathedral, Sligo, Diocese of Elphin
+  consecrateur_principal: john-macevilly
+  co_consecrateurs:
+  - laurence-gillooly-c-m
+  - francis-mccormack
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhealyj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Clonfert, Ireland
+  du: '1884-06-27'
+  au: null
+- titre: Titular Bishop of Macri
+  du: '1884-06-27'
+  au: null
+- titre: Bishop of Clonfert, Ireland
+  du: null
+  au: '1896-08-02'
+- titre: Archbishop of Tuam, Ireland
+  du: '1903-02-13'
+  au: '1918-03-16'
+- titre: évêque diocésain
+  du: '1896-08-02'
+  au: null
+- titre: évêque titulaire
+  du: '1884-06-27'
+  au: null
+- titre: archevêque de Tuam
+  du: '1903-02-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Healy%20%28Irish%20essays%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15437371
+  catholic_hierarchy: bhealyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:37:01+00:00'
+  completeness: 1.0

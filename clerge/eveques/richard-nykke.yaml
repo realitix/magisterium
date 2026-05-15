@@ -1,0 +1,39 @@
+slug: richard-nykke
+nom: Richard Nykke
+nom_complet: Richard Nykke (Nix)
+naissance: '1469-06-06'
+deces: '1536-01-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1501-04-18'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnykke.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1501-02-26'
+  au: '1536-01-14'
+- titre: évêque de Norwich
+  du: '1501-03-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7328116
+  catholic_hierarchy: bnykke
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:40:54+00:00'
+  completeness: 0.62

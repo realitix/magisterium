@@ -1,0 +1,43 @@
+slug: guido-orselli
+nom: Guido Orselli
+nom_complet: null
+naissance: '1685-09-01'
+deces: '1763-03-18'
+naissance_lieu: Forlì, Diocese of Forli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1734-11-28'
+  consecrateur_principal: leandro-di-porzia
+  co_consecrateurs:
+  - giuseppe-spinelli-1694
+  - carlo-alberto-guidoboni-cavalchini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borselli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cesena, Italy
+  du: '1734-11-17'
+  au: '1763-03-18'
+- titre: Roman Catholic Bishop of Cesena
+  du: '1734-11-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736277
+  catholic_hierarchy: borselli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:55:50+00:00'
+  completeness: 1.0

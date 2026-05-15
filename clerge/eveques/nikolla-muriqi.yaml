@@ -1,0 +1,40 @@
+slug: nikolla-muriqi
+nom: Nikolla Muriqi
+nom_complet: null
+naissance: null
+deces: '1824-02-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1818-04-26'
+  consecrateur_principal: nikolla-malci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmuriqi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Shkodr&euml; (Scutari), Albania
+  du: '1817-07-04'
+  au: '1824-02-14'
+- titre: évêque de Shkodrë (Scutari)
+  du: '1817-07-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777925
+  catholic_hierarchy: bmuriqi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:57+00:00'
+  completeness: 0.75

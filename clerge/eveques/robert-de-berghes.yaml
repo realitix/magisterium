@@ -1,0 +1,57 @@
+slug: robert-de-berghes
+nom: Robert de Berghes
+nom_complet: Robert van Bergen
+naissance: '1529'
+deces: '1585-01-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1557-11-28'
+  consecrateur_principal: antoine-perrenot-de-granvelle
+  co_consecrateurs:
+  - charles-de-croy
+  - georg-joris-van-egmond
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberghesr.html
+  - https://fr.wikipedia.org/wiki/Robert_de_Berghes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Liège, Belgium
+  du: '1554-06-25'
+  au: null
+- titre: Bishop of Liège, Belgium
+  du: null
+  au: '1563-07-22'
+- titre: Bishop Emeritus of Liège, Belgium
+  du: null
+  au: '1585-01-26'
+- titre: évêque de Liège
+  du: '1557-05-15'
+  au: '1563-08-01'
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20de%20Berghes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2043219
+  catholic_hierarchy: bberghesr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:41+00:00'
+  completeness: 0.88

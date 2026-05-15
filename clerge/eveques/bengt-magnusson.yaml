@@ -1,0 +1,38 @@
+slug: bengt-magnusson
+nom: Bengt Magnusson
+nom_complet: null
+naissance: '1150'
+deces: '1237'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q34
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagnusso.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Linköping, Sweden
+  du: 1221&sup1;
+  au: 1232&sup2;
+- titre: évêque de Linköping
+  du: '1221-01-01'
+  au: '1232-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5569987
+  catholic_hierarchy: bmagnusso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:50+00:00'
+  completeness: 0.25

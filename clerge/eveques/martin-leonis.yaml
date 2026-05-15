@@ -1,0 +1,42 @@
+slug: martin-leonis
+nom: Martin Leonis
+nom_complet: Martin Lewitz
+naissance: null
+deces: '1500-01-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1473-07-18'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleonism.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Curland, Latvia
+  du: '1473-07-09'
+  au: '1500-01-31'
+- titre: Roman Catholic Bishop of Curland
+  du: '1473-07-18'
+  au: null
+- titre: évêque
+  du: '1473-01-01'
+  au: '1500-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16407613
+  catholic_hierarchy: bleonism
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:44:46+00:00'
+  completeness: 0.5

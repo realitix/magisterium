@@ -1,0 +1,44 @@
+slug: ogier-d-anglure
+nom: Ogier d'Anglure
+nom_complet: Ogier d&rsquo;Anglure
+naissance: '1450'
+deces: '1506-04-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1497-02-26'
+  consecrateur_principal: philippe-herbert-d-rsquo-ossonvilliers
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdanglo.html
+  - https://fr.wikipedia.org/wiki/Ogier_d%27Anglure
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: '1496-11-16'
+  au: '1506-04-27'
+- titre: abbé de Saint-Victor de Marseille
+  du: null
+  au: null
+- titre: évêque de Marseille
+  du: '1496-11-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3349791
+  catholic_hierarchy: bdanglo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:26:23+00:00'
+  completeness: 0.75

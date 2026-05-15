@@ -1,0 +1,49 @@
+slug: jorge-novak
+nom: Jorge Novak
+nom_complet: Jorge Novak, S.V.D.
+naissance: '1928-01-29'
+deces: '2001-07-09'
+naissance_lieu: San Miguel Arcángel
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_dubius
+sacre:
+  date: '1976-09-19'
+  lieu: Immaculate Conception, Cathedral, Quilmes, Diocese of Quilmes
+  consecrateur_principal: pio-laghi
+  co_consecrateurs:
+  - antonio-quarracino
+  - jorge-kemerer
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnovakj.html
+  - https://fr.wikipedia.org/wiki/Jorge_Novak
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quilmes, Argentina
+  du: '1976-08-07'
+  au: '2001-07-09'
+- titre: évêque diocésain
+  du: '1976-08-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Novak%20%281928-2001%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9012852
+  catholic_hierarchy: bnovakj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:25+00:00'
+  completeness: 1.0

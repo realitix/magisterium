@@ -1,0 +1,43 @@
+slug: pellegrino-ferri
+nom: Pellegrino Ferri
+nom_complet: null
+naissance: '1699-11-29'
+deces: '1757-09-30'
+naissance_lieu: Patavin
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1750-11-22'
+  consecrateur_principal: clement-xiii
+  co_consecrateurs:
+  - ferdinando-maria-de-rossi
+  - giovanni-andrea-tria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferrip.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Adria, Italy
+  du: '1750-11-16'
+  au: '1757-09-30'
+- titre: évêque diocésain
+  du: '1750-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751545
+  catholic_hierarchy: bferrip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:41:02+00:00'
+  completeness: 1.0

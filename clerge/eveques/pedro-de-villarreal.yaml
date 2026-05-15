@@ -1,0 +1,41 @@
+slug: pedro-de-villarreal
+nom: Pedro de Villarreal
+nom_complet: null
+naissance: '1501'
+deces: '1619'
+naissance_lieu: Andújar, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1604-01-31'
+  lieu: Granada, Archdiocese of Granada, Spain
+  consecrateur_principal: pedro-castro-quinones
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicaragua
+  du: '1603-10-22'
+  au: 1619&sup1;
+- titre: évêque du Nicaragua
+  du: '1603-10-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23620697
+  catholic_hierarchy: bvillp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:21+00:00'
+  completeness: 0.62

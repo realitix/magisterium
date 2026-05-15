@@ -1,0 +1,43 @@
+slug: leone-leonici
+nom: Leone Leonici
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1530-06-06'
+  consecrateur_principal: gabriele-mascioli-foschi-o-e-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleonici.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castro [del Lazio], Italy
+  du: '1529-08-20'
+  au: 1532&sup1;
+- titre: Bishop Emeritus of Castro [del Lazio], Italy
+  du: null
+  au: 1555&sup2;
+- titre: évêque diocésain
+  du: '1529-08-30'
+  au: '1532-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779554
+  catholic_hierarchy: bleonici
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:44:40+00:00'
+  completeness: 0.62

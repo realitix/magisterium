@@ -1,0 +1,42 @@
+slug: gislebert-de-norwich
+nom: Gislebert de Norwich
+nom_complet: null
+naissance: null
+deces: '1287-10-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1263-03-04'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnorwich.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hamar, Norway
+  du: 1263&sup1;
+  au: 1275&sup1;
+- titre: Bishop Emeritus of Hamar, Norway
+  du: null
+  au: '1287-10-09'
+- titre: évêque diocésain
+  du: '1263-01-01'
+  au: '1275-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108511094
+  catholic_hierarchy: bnorwich
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:53+00:00'
+  completeness: 0.5

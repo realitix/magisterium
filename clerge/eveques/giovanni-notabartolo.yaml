@@ -1,0 +1,40 @@
+slug: giovanni-notabartolo
+nom: Giovanni Notabartolo
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1436-07-01'
+  consecrateur_principal: cristoforo-di-san-marcello
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnotarb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Patti, Italy
+  du: '1435-10-03'
+  au: 1437&sup1;
+- titre: évêque de Patti
+  du: '1435-10-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68908916
+  catholic_hierarchy: bnotarb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:05+00:00'
+  completeness: 0.62

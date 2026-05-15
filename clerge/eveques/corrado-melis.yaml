@@ -1,0 +1,48 @@
+slug: corrado-melis
+nom: Corrado Melis
+nom_complet: null
+naissance: '1963-03-11'
+deces: null
+naissance_lieu: Sardara, Diocese of Ales e Terralba
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2015-09-13'
+  lieu: Piazza Garibaldi, Ozieri, Diocese of Ozieri
+  consecrateur_principal: giovanni-angelo-becciu
+  co_consecrateurs:
+  - sebastiano-sanguinetti
+  - giovanni-dettori
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmelisc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ozieri, Italy
+  du: '2015-07-18'
+  au: null
+- titre: évêque d'Ozieri
+  du: '2015-07-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Corrado%20melis.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20679788
+  catholic_hierarchy: bmelisc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:48:55+00:00'
+  completeness: 0.88

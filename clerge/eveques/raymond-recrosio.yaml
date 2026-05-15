@@ -1,0 +1,44 @@
+slug: raymond-recrosio
+nom: Raymond Recrosio
+nom_complet: Raymond Recrosio, B.
+naissance: '1657-10-18'
+deces: '1732-05-21'
+naissance_lieu: Verceil
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1727-09-21'
+  consecrateur_principal: pierre-guerin-de-tencin
+  co_consecrateurs:
+  - dominique-laurent-de-balbe-de-berton-de-crillon
+  - charles-leonce-octavien-d-antelmy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brecrosio.html
+  - https://fr.wikipedia.org/wiki/Raymond_Recrosio
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nice, France
+  du: null
+  au: '1732-05-21'
+- titre: évêque diocésain
+  du: '1727-06-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24935258
+  catholic_hierarchy: brecrosio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:00+00:00'
+  completeness: 1.0

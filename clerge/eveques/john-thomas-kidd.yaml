@@ -1,0 +1,49 @@
+slug: john-thomas-kidd
+nom: John Thomas Kidd
+nom_complet: null
+naissance: '1868-08-28'
+deces: '1950-06-02'
+naissance_lieu: Athlone
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1925-05-06'
+  consecrateur_principal: pietro-di-maria
+  co_consecrateurs:
+  - neil-mcneil
+  - joseph-medard-emard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkidd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Calgary, Alberta, Canada
+  du: '1925-02-06'
+  au: null
+- titre: Bishop of London, Ontario, Canada
+  du: '1931-07-03'
+  au: '1950-06-02'
+- titre: évêque de Calgary
+  du: '1925-02-06'
+  au: null
+- titre: évêque de London
+  du: '1931-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q59137393
+  catholic_hierarchy: bkidd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:13:17+00:00'
+  completeness: 1.0

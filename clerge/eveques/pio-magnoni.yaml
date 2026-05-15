@@ -1,0 +1,49 @@
+slug: pio-magnoni
+nom: Pio Magnoni
+nom_complet: null
+naissance: '1682-07-11'
+deces: '1755-10-04'
+naissance_lieu: Siena, Archdiocese of Siena
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1736-07-15'
+  consecrateur_principal: antonfelice-zondadari
+  co_consecrateurs:
+  - joaquin-fernandez-portocarrero
+  - tommaso-cervini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagnop.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiusi, Italy
+  du: '1736-07-09'
+  au: null
+- titre: Bishop of Montepulciano, Italy
+  du: '1747-09-04'
+  au: '1755-10-04'
+- titre: Roman Catholic Bishop of Montepulciano
+  du: '1747-09-04'
+  au: null
+- titre: Roman Catholic Bishop of Chiusi
+  du: '1736-07-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64732842
+  catholic_hierarchy: bmagnop
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:44+00:00'
+  completeness: 1.0

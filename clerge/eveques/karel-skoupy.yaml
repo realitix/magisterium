@@ -1,0 +1,48 @@
+slug: karel-skoupy
+nom: Karel Skoupý
+nom_complet: Karel Skoup&yacute;
+naissance: '1886-12-30'
+deces: '1972-02-22'
+naissance_lieu: Lip&#367;vka, Diocese of Brno
+deces_lieu: Brno, Diocese of Brno
+rang: eveque
+nationalite: Q33946
+tampon: ordo_validus
+sacre:
+  date: '1946-06-30'
+  lieu: Brno, Diocese of Brno
+  consecrateur_principal: moric-picha
+  co_consecrateurs:
+  - stanislav-zela
+  - eduard-necsey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bskou.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brno, Czechia
+  du: '1946-04-03'
+  au: '1972-02-22'
+- titre: évêque de Brno
+  du: '1946-04-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biskup%20Karel%20Skoup%C3%BD.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1729194
+  catholic_hierarchy: bskou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:22:28+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: stephan-nebelmair
+nom: Stephan Nebelmair
+nom_complet: null
+naissance: null
+deces: '1618-12-03'
+naissance_lieu: München
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-07-02'
+  lieu: Regensburg, Diocese of Regensburg
+  consecrateur_principal: wolfgang-hausen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnebel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Regensburg, Germany
+  du: '1606-02-27'
+  au: '1618-12-03'
+- titre: Titular Bishop of Halmiros
+  du: '1606-02-27'
+  au: null
+- titre: évêque titulaire
+  du: '1606-02-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1606-02-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763960
+  catholic_hierarchy: bnebel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:28:12+00:00'
+  completeness: 0.75

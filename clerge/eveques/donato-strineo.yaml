@@ -1,0 +1,44 @@
+slug: donato-strineo
+nom: Donato Strineo
+nom_complet: null
+naissance: null
+deces: '1534'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstrineo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castro di Puglia, Italy
+  du: '1503-07-21'
+  au: null
+- titre: Bishop of Ischia, Italy
+  du: '1504-01-08'
+  au: 1534&sup2;
+- titre: Évêque d'Ischia
+  du: '1504-01-18'
+  au: null
+- titre: évêque diocésain
+  du: '1503-07-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911653
+  catholic_hierarchy: bstrineo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:41:03+00:00'
+  completeness: 0.25

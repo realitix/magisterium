@@ -1,0 +1,65 @@
+slug: antal-majnek
+nom: Antal Majnek
+nom_complet: Antal Majnek, O.F.M.
+naissance: '1951-11-18'
+deces: null
+naissance_lieu: Budapest
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_incertus
+sacre:
+  date: '1996-01-06'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - giovanni-battista-re
+  - jorge-maria-mejia
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmajnek.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Zakarpattia, Ukraine
+  du: '1995-12-09'
+  au: null
+- titre: Titular Bishop of Febiana
+  du: '1995-12-09'
+  au: null
+- titre: Apostolic Administrator of Zakarpattia, Ukraine
+  du: '1997-10-07'
+  au: null
+- titre: Bishop of Mukachevo (Munkács), Ukraine
+  du: '2002-03-27'
+  au: '2022-01-28'
+- titre: évêque diocésain
+  du: '2002-03-27'
+  au: '2022-01-28'
+- titre: évêque titulaire
+  du: '1995-12-09'
+  au: '2002-03-27'
+- titre: évêque auxiliaire
+  du: '1995-12-09'
+  au: '2002-03-27'
+- titre: administrateur apostolique
+  du: '1997-10-07'
+  au: '2002-03-27'
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/MajnekAntalFotoThalerTamas.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q570777
+  catholic_hierarchy: bmajnek
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:15:42+00:00'
+  completeness: 0.75

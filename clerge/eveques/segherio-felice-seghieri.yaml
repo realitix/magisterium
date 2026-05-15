@@ -1,0 +1,43 @@
+slug: segherio-felice-seghieri
+nom: Segherio Felice Seghieri
+nom_complet: null
+naissance: '1721-03-29'
+deces: '1758-07-27'
+naissance_lieu: Montecarlo Pescia
+deces_lieu: null
+rang: eveque
+nationalite: Q1235720
+tampon: ordo_validus
+sacre:
+  date: '1751-07-25'
+  consecrateur_principal: giovanni-antonio-guadagni
+  co_consecrateurs:
+  - giuseppe-maria-feroni
+  - giovanni-andrea-tria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseghieri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sovana (Soana), Italy
+  du: '1751-07-19'
+  au: '1758-07-27'
+- titre: évêque diocésain
+  du: '1751-07-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760818
+  catholic_hierarchy: bseghieri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:07:56+00:00'
+  completeness: 1.0

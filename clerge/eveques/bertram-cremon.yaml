@@ -1,0 +1,41 @@
+slug: bertram-cremon
+nom: Bertram Cremon
+nom_complet: null
+naissance: '1300'
+deces: '1377-01-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcremon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lübeck, Germany
+  du: '1350-11-30'
+  au: '1377-01-06'
+- titre: prince-évêque de Lübeck
+  du: '1350-12-08'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q828440
+  catholic_hierarchy: bcremon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:48+00:00'
+  completeness: 0.38

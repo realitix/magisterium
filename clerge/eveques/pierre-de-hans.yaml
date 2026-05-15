@@ -1,0 +1,43 @@
+slug: pierre-de-hans
+nom: Pierre de Hans
+nom_complet: Pierre of Hans
+naissance: null
+deces: '1261-11-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhansp.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Hans
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Marne, France
+  du: '1248-02-15'
+  au: '1261-11-16'
+- titre: évêque diocésain
+  du: '1248-02-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Hans%20baie%2017.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q108452457
+  catholic_hierarchy: bhansp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:33:56+00:00'
+  completeness: 0.38

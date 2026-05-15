@@ -1,0 +1,44 @@
+slug: pierre-dupont-de-poursat
+nom: Pierre Dupont de Poursat
+nom_complet: null
+naissance: '1761-06-03'
+deces: '1835-09-17'
+naissance_lieu: Chabanais
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1808-01-06'
+  consecrateur_principal: claude-francois-marie-primat
+  co_consecrateurs:
+  - claude-andre
+  - fabien-sebastien-imberties
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupou.html
+  - https://fr.wikipedia.org/wiki/Pierre_Dupont_de_Poursat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: null
+  au: '1835-09-17'
+- titre: évêque diocésain
+  du: '1807-05-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3384864
+  catholic_hierarchy: bdupou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:10+00:00'
+  completeness: 1.0

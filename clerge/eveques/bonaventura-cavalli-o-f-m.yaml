@@ -1,0 +1,44 @@
+slug: bonaventura-cavalli-o-f-m
+nom: Bonaventura Cavalli, O.F.M.
+nom_complet: Bonaventura Cavalli
+naissance: null
+deces: '1689-06-10'
+naissance_lieu: Amantea
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1668-12-23'
+  lieu: In Ara coeli, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: celio-cardinal-piccolomini
+  co_consecrateurs:
+  - stefano-brancaccio
+  - matteo-di-gennaro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcavallib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caserta, Italy
+  du: '1668-12-10'
+  au: '1689-06-10'
+- titre: évêque diocésain
+  du: '1668-12-10'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64762345
+  catholic_hierarchy: bcavallib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:34:16+00:00'
+  completeness: 0.88

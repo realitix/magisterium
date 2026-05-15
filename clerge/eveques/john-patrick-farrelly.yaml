@@ -1,0 +1,48 @@
+slug: john-patrick-farrelly
+nom: John Patrick Farrelly
+nom_complet: null
+naissance: '1856-03-15'
+deces: '1921-02-12'
+naissance_lieu: Memphis, Diocese of Nashville, Tennessee
+deces_lieu: Cleveland, Diocese of Cleveland, Ohio
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1909-05-01'
+  lieu: North American College, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: girolamo-maria-gotti
+  co_consecrateurs:
+  - john-baptist-morris
+  - thomas-francis-kennedy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfarrelly.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cleveland, Ohio, USA
+  du: '1909-03-18'
+  au: '1921-02-12'
+- titre: évêque diocésain
+  du: '1909-03-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Rt%20Rev%20John%20Patrick%20Farrelly%20D%20D%204th%20Bishop%20of%20the%20Diocese%20of%20Cleveland.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16037716
+  catholic_hierarchy: bfarrelly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:32:48+00:00'
+  completeness: 1.0

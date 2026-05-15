@@ -1,0 +1,50 @@
+slug: jan-pac
+nom: Jan Pac
+nom_complet: null
+naissance: null
+deces: '1650'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q172107
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpacj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wenden (Windau), Poland
+  du: '1647-09-16'
+  au: null
+- titre: Bishop-Elect of Wenden (Windau), Poland
+  du: null
+  au: 1649&sup1;
+- titre: Former Bishop-Elect of Wenden (Windau), Poland
+  du: null
+  au: 1650&sup1;
+- titre: secrétaire du roi à la Cour de Pologne
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Inflanty
+  du: '1647-09-16'
+  au: '1649-01-01'
+- titre: Q112963346
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11718607
+  catholic_hierarchy: bpacj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:01:30+00:00'
+  completeness: 0.25

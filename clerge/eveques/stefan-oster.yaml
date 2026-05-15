@@ -1,0 +1,49 @@
+slug: stefan-oster
+nom: Stefan Oster
+nom_complet: Stefan Oster, S.D.B.
+naissance: '1965-06-03'
+deces: null
+naissance_lieu: Amberg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2014-05-24'
+  lieu: Sankt Stephan, Cathedral, Passau, Diocese of Passau
+  consecrateur_principal: reinhard-cardinal-marx
+  co_consecrateurs:
+  - wilhelm-schraml
+  - alois-kothgasser
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bosters.html
+  - https://fr.wikipedia.org/wiki/Stefan_Oster
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: '2014-04-04'
+  au: null
+- titre: évêque de Passau
+  du: '2014-05-24'
+  au: null
+fraternite: salesiens
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/2014-06-16%20pbp%20Bischof%20Stefan%20Oster-Portrait%281%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15867843
+  catholic_hierarchy: bosters
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:59:08+00:00'
+  completeness: 0.88

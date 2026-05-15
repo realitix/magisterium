@@ -1,0 +1,48 @@
+slug: eduard-jakob-wedekin
+nom: Eduard Jakob Wedekin
+nom_complet: null
+naissance: '1796-12-30'
+deces: '1870-12-25'
+naissance_lieu: Groß-Düngen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1850-11-24'
+  lieu: Cathedral, Hildesheim, Diocese of Hildesheim
+  consecrateur_principal: johannes-von-geissel
+  co_consecrateurs:
+  - johann-georg-mueller
+  - franz-drepper
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwedekin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: null
+  au: '1870-12-25'
+- titre: évêque diocésain
+  du: '1850-01-01'
+  au: '1870-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20Jakob%20Wedekin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2691123
+  catholic_hierarchy: bwedekin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:31+00:00'
+  completeness: 1.0

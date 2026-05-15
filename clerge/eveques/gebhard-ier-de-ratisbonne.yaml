@@ -1,0 +1,39 @@
+slug: gebhard-ier-de-ratisbonne
+nom: Gebhard Ier de Ratisbonne
+nom_complet: Gebhard von Svevia
+naissance: '1000'
+deces: '1023-03-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsvevig.html
+  - https://fr.wikipedia.org/wiki/Gebhard_Ier_de_Ratisbonne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: 994&sup1;
+  au: '1023-03-27'
+- titre: évêque de Ratisbonne
+  du: '0994-01-01'
+  au: '1023-04-02'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1496901
+  catholic_hierarchy: bsvevig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:45:03+00:00'
+  completeness: 0.38

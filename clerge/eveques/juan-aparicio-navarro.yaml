@@ -1,0 +1,50 @@
+slug: juan-aparicio-navarro
+nom: Juan Aparicio Navarro
+nom_complet: null
+naissance: '1624-01-08'
+deces: '1696-11-06'
+naissance_lieu: Brías
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1674-06-03'
+  lieu: Compostela, Archdiocese of Santiago de Compostela
+  consecrateur_principal: andres-giron
+  co_consecrateurs:
+  - sebastian-de-arevalo
+  - diego-ros-de-medrano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bapna.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lugo, Spain
+  du: '1673-11-27'
+  au: null
+- titre: Bishop of León, Spain
+  du: '1680-10-07'
+  au: '1696-11-06'
+- titre: évêque de Lugo
+  du: '1673-11-27'
+  au: null
+- titre: évêque de León
+  du: '1680-10-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762962
+  catholic_hierarchy: bapna
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:42:43+00:00'
+  completeness: 1.0

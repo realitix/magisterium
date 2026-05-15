@@ -1,0 +1,44 @@
+slug: henri-van-halmaele
+nom: Henri Van Halmaele
+nom_complet: null
+naissance: '1625-02-28'
+deces: '1675-04-19'
+naissance_lieu: Anvers
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1672-10-28'
+  consecrateur_principal: alphonse-de-berghes
+  co_consecrateurs:
+  - ambroise-capello
+  - ignaas-august-schetz-van-grobbendonck
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvhalm.html
+  - https://fr.wikipedia.org/wiki/Henri_Van_Halmaele
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: null
+  au: '1675-04-19'
+- titre: évêque d'Ypres
+  du: '1671-11-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28950214
+  catholic_hierarchy: bvhalm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:23+00:00'
+  completeness: 1.0

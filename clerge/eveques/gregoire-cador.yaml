@@ -1,0 +1,48 @@
+slug: gregoire-cador
+nom: Grégoire Cador
+nom_complet: Grégoire Marie Cador
+naissance: '1961-03-11'
+deces: null
+naissance_lieu: Solesmes, Diocese of Le Mans
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2023-10-15'
+  lieu: Notre-Dame, Cathedral, Coutances, Diocese of Coutances (-Avranches)
+  consecrateur_principal: dominique-lebrun
+  co_consecrateurs:
+  - celestino-migliore
+  - samuel-kleda
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcador.html
+  - https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Cador
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances (-Avranches), France
+  du: '2023-08-05'
+  au: null
+- titre: vicaire général du Mans
+  du: '2020-01-01'
+  au: null
+- titre: évêque de Coutances et Avranches
+  du: '2023-08-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q117202457
+  catholic_hierarchy: bcador
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:05:33+00:00'
+  completeness: 0.88

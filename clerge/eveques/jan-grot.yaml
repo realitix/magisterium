@@ -1,0 +1,44 @@
+slug: jan-grot
+nom: Jan Grot
+nom_complet: Jan Grotowic
+naissance: '1250'
+deces: '1347-08-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1327-06-18'
+  consecrateur_principal: jan-janis-322-aw
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrotow.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kraków, Poland
+  du: '1326-10-01'
+  au: '1347-08-05'
+- titre: évêque de Cracovie
+  du: '1326-10-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20II%20Grot%20-%20seal%2C%201334.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11717598
+  catholic_hierarchy: bgrotow
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:45:21+00:00'
+  completeness: 0.75

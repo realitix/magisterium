@@ -1,0 +1,50 @@
+slug: ludwig-ebmer
+nom: Ludwig Ebmer
+nom_complet: Ludwig Ebmer (Ebner)
+naissance: '1500'
+deces: '1516-12-04'
+naissance_lieu: Wasserburg am Inn
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1495-07-26'
+  lieu: Cathedral, Salzburg, Archdiocese of Salzburg, Austria
+  consecrateur_principal: ulrich-pramberger
+  co_consecrateurs:
+  - christoph-von-schachner
+  - melchior-von-meckau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bebmer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiemsee, Germany
+  du: '1495-05-04'
+  au: '1502-07-27'
+- titre: Bishop Emeritus of Chiemsee, Germany
+  du: null
+  au: '1516-12-04'
+- titre: Roman Catholic Bishop of Chiemsee
+  du: '1495-05-13'
+  au: '1502-08-06'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1547445
+  catholic_hierarchy: bebmer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:18:22+00:00'
+  completeness: 0.88

@@ -1,0 +1,41 @@
+slug: jean-du-doucet
+nom: Jean du Doucet
+nom_complet: Jean du Dousset (Doucet)
+naissance: '1665-10-03'
+deces: '1745-02-04'
+naissance_lieu: Cussac
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1712-12-11'
+  consecrateur_principal: louis-antoine-de-noailles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoucet.html
+  - https://fr.wikipedia.org/wiki/Jean_du_Doucet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: '1712-10-05'
+  au: '1745-02-04'
+- titre: évêque diocésain
+  du: '1712-10-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22970647
+  catholic_hierarchy: bdoucet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:20+00:00'
+  completeness: 0.88

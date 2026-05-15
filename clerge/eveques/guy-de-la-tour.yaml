@@ -1,0 +1,44 @@
+slug: guy-de-la-tour
+nom: Guy de la Tour
+nom_complet: Guy de La Tour-du-Pin, O.P.
+naissance: null
+deces: '1286-02-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1250'
+  consecrateur_principal: pierre-cardinal-de-colmieu
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bltdpg.html
+  - https://fr.wikipedia.org/wiki/Guy_de_la_Tour
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: 1250&sup1;
+  au: '1286-02-28'
+- titre: évêque de Clermont
+  du: '1250-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1250-01-01'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64777889
+  catholic_hierarchy: bltdpg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:35+00:00'
+  completeness: 0.75

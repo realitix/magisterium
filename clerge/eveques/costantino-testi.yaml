@@ -1,0 +1,41 @@
+slug: costantino-testi
+nom: Costantino Testi
+nom_complet: Costantino Testa, O.P.
+naissance: '1584'
+deces: '1637-01-30'
+naissance_lieu: Modena, Diocese of Modena
+deces_lieu: Sant&rsquo;Angelo Le Fratte, Diocese of Satriano e Campagna
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1628-02-06'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: guido-cardinal-bentivoglio-d-rsquo-aragona
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btesti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satriano e Campagna, Italy
+  du: '1628-01-24'
+  au: Feb 1637&sup3;
+- titre: évêque diocésain
+  du: '1628-01-24'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3695561
+  catholic_hierarchy: btesti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:56:07+00:00'
+  completeness: 0.62

@@ -1,0 +1,55 @@
+slug: andre-marceau
+nom: André Marceau
+nom_complet: Andreas Marceau
+naissance: '1946-05-05'
+deces: null
+naissance_lieu: Cérons (Gironde)
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2004-03-07'
+  lieu: Saint Jean Baptiste, Cathedral, Perpignan, Diocese of Perpignan-Elne
+  consecrateur_principal: jean-pierre-ricard
+  co_consecrateurs:
+  - guy-thomazeau
+  - andre-fort
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarceau.html
+  - https://fr.wikipedia.org/wiki/Andr%C3%A9_Marceau_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Perpignan-Elne, France
+  du: '2004-01-13'
+  au: null
+- titre: Bishop of Nice, France
+  du: '2014-03-06'
+  au: null
+- titre: évêque de Perpignan-Elne
+  du: '2004-01-13'
+  au: '2014-03-06'
+- titre: évêque de Nice
+  du: '2014-03-06'
+  au: '2022-03-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Andr%C3%A9%20Marceau%20in%20September%202016%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q521370
+  catholic_hierarchy: bmarceau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:23+00:00'
+  completeness: 0.88

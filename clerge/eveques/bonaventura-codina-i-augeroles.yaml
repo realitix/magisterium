@@ -1,0 +1,48 @@
+slug: bonaventura-codina-i-augeroles
+nom: Bonaventura Codina i Augeroles
+nom_complet: Buenaventura Codina Augerolas, C.M.
+naissance: '1788-06-03'
+deces: '1857-11-18'
+naissance_lieu: Hostabrich
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1848-02-20'
+  lieu: San Isidro, Madrid, Archdiocese of Toledo
+  consecrateur_principal: giovanni-brunelli
+  co_consecrateurs:
+  - juan-jose-bonel-y-orbe
+  - ramon-montero
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcodina.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Islas Canarias {Canary Islands}, Spain
+  du: null
+  au: '1857-11-18'
+- titre: évêque des Canaries
+  du: '1846-09-16'
+  au: null
+fraternite: lazaristes
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BonaventuraCodina.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3819211
+  catholic_hierarchy: bcodina
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:56:31+00:00'
+  completeness: 1.0

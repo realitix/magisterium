@@ -1,0 +1,43 @@
+slug: salvatore-di-aloisio
+nom: Salvatore di Aloisio
+nom_complet: null
+naissance: '1667-01-12'
+deces: '1729-08-01'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1719-05-21'
+  consecrateur_principal: camillo-cibo
+  co_consecrateurs:
+  - raffaele-tosti-1672
+  - muzio-de-vecchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaloi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Termoli, Italy
+  du: '1719-05-15'
+  au: Aug 1729&sup3;
+- titre: évêque diocésain
+  du: '1719-05-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763471
+  catholic_hierarchy: bdaloi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:24:16+00:00'
+  completeness: 0.88

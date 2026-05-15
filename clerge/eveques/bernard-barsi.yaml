@@ -1,0 +1,48 @@
+slug: bernard-barsi
+nom: Bernard Barsi
+nom_complet: Bernard César Augustin Barsi
+naissance: '1942-08-04'
+deces: '2022-12-28'
+naissance_lieu: Nice, Diocese of Nice, France
+deces_lieu: Nice, Diocese of Nice, France
+rang: archeveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2000-10-08'
+  lieu: Grimaldi Forum, Espace Ravel, Monte Carlo, Archdiocese of Monaco
+  consecrateur_principal: jean-bonfils
+  co_consecrateurs:
+  - francois-saint-macary
+  - joseph-sardou
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarsi.html
+  - https://fr.wikipedia.org/wiki/Bernard_Barsi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Monaco
+  du: '2000-05-16'
+  au: null
+- titre: Archbishop Emeritus of Monaco
+  du: null
+  au: '2022-12-28'
+- titre: archevêque de Monaco
+  du: '2000-05-16'
+  au: '2020-01-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q822291
+  catholic_hierarchy: bbarsi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:05:36+00:00'
+  completeness: 1.0

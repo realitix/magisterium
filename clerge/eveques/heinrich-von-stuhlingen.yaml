@@ -1,0 +1,44 @@
+slug: heinrich-von-stuhlingen
+nom: Heinrich von Stühlingen
+nom_complet: null
+naissance: '1100'
+deces: '1165-04-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1159-10-05'
+  consecrateur_principal: arnold-von-selenhofen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstuhl.html
+  - https://fr.wikipedia.org/wiki/Heinrich_von_St%C3%BChlingen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '1159-07-14'
+  au: '1165-04-14'
+- titre: évêque diocésain
+  du: '1159-07-21'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597788
+  catholic_hierarchy: bstuhl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:41:51+00:00'
+  completeness: 0.75

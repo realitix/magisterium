@@ -1,0 +1,49 @@
+slug: pedro-copons-copons
+nom: Pedro Copóns Copóns
+nom_complet: null
+naissance: '1679-09-30'
+deces: '1753-04-19'
+naissance_lieu: Villafranca del Penedés
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1726-12-01'
+  consecrateur_principal: bernardo-jimenez-cascante
+  co_consecrateurs:
+  - simeon-de-guinda-apeztegui
+  - tomas-broto-y-perez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcopons.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerona, Spain
+  du: '1726-09-11'
+  au: null
+- titre: Archbishop of Tarragona, Spain
+  du: '1728-12-15'
+  au: '1753-04-19'
+- titre: archevêque de Tarragone
+  du: '1728-12-15'
+  au: null
+- titre: évêque de Gérone
+  du: '1726-09-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736770
+  catholic_hierarchy: bcopons
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:32+00:00'
+  completeness: 1.0

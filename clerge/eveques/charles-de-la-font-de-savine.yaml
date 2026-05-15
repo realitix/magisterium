@@ -1,0 +1,54 @@
+slug: charles-de-la-font-de-savine
+nom: Charles de La Font de Savine
+nom_complet: Charles de La Font de Savines
+naissance: '1742-02-17'
+deces: '1814-09-01'
+naissance_lieu: Embrun
+deces_lieu: Embrun
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1778-07-26'
+  lieu: Aisne
+  consecrateur_principal: louis-hector-honore-maxime-de-sabran
+  co_consecrateurs:
+  - guillaume-louis-du-tillet
+  - alexandre-de-lauzieres-themines
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blfds.html
+  - https://fr.wikipedia.org/wiki/Charles_de_La_Font_de_Savine
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Ardèche (Constitutional), France]
+  du: null
+  au: '1793-12-01'
+- titre: Bishop of Viviers (Aps), France
+  du: null
+  au: '1805-09-28'
+- titre: Bishop Emeritus of Viviers (Aps), France
+  du: null
+  au: '1814-09-01'
+- titre: évêque constitutionnel
+  du: null
+  au: null
+- titre: évêque de Viviers
+  du: '1778-04-21'
+  au: '1805-09-28'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960595
+  catholic_hierarchy: blfds
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:31+00:00'
+  completeness: 1.0

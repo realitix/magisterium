@@ -1,0 +1,47 @@
+slug: ciril-kos
+nom: Ćiril Kos
+nom_complet: '&#262;iril Kos'
+naissance: '1919-11-19'
+deces: '2003-07-06'
+naissance_lieu: Ribic Brijeg
+deces_lieu: null
+rang: eveque
+nationalite: Q224
+tampon: ordo_dubius
+sacre:
+  date: '1974-03-17'
+  lieu: St. Peter, Cathedral, Djakovo, Diocese of Djakovo o Bosna i Srijem
+  consecrateur_principal: mario-cagna
+  co_consecrateurs:
+  - franjo-kuharic
+  - smiljan-franjo-cekada
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Djakovo o Bosna i Srijem, Croatia
+  du: '1974-02-06'
+  au: null
+- titre: Bishop Emeritus of Djakovo o Bosna i Srijem, Croatia
+  du: null
+  au: '2003-07-06'
+- titre: Bishop of Djakovo o Bosna i Srijem
+  du: '1974-02-06'
+  au: '1997-02-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q336367
+  catholic_hierarchy: bkos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:19:06+00:00'
+  completeness: 1.0

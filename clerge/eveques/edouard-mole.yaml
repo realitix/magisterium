@@ -1,0 +1,44 @@
+slug: edouard-mole
+nom: Édouard Molé
+nom_complet: null
+naissance: '1609'
+deces: '1652-04-06'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1649-02-14'
+  consecrateur_principal: charles-de-montchal
+  co_consecrateurs:
+  - jean-de-lingendes
+  - louis-de-bassompierre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmolee.html
+  - https://fr.wikipedia.org/wiki/%C3%89douard_Mol%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayeux, France
+  du: '1648-11-23'
+  au: '1652-04-06'
+- titre: évêque diocésain
+  du: '1648-11-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3579964
+  catholic_hierarchy: bmolee
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:23+00:00'
+  completeness: 0.88

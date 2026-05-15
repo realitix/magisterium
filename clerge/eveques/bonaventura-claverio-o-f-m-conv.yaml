@@ -1,0 +1,44 @@
+slug: bonaventura-claverio-o-f-m-conv
+nom: Bonaventura Claverio, O.F.M. Conv.
+nom_complet: Bonaventura Claverio
+naissance: '1606'
+deces: '1671'
+naissance_lieu: Vigevano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1646-07-22'
+  lieu: Borghese Chapel, Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcello-lante
+  co_consecrateurs:
+  - alfonso-sacrati
+  - ranuccio-scotti-douglas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclaverio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Potenza, Italy
+  du: null
+  au: 1671&sup1;
+- titre: évêque diocésain
+  du: '1646-05-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23583967
+  catholic_hierarchy: bclaverio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:34+00:00'
+  completeness: 0.75

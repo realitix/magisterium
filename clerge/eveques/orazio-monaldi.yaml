@@ -1,0 +1,49 @@
+slug: orazio-monaldi
+nom: Orazio Monaldi
+nom_complet: null
+naissance: '1598'
+deces: '1656-12-01'
+naissance_lieu: Perugia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1639-05-15'
+  consecrateur_principal: ulderico-carpegna
+  co_consecrateurs:
+  - tommaso-carafa
+  - lorenzo-della-robbia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonaldi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gubbio, Italy
+  du: '1639-05-02'
+  au: null
+- titre: Bishop of Perugia, Italy
+  du: '1643-12-14'
+  au: Dec 1656&sup3;
+- titre: évêque de Pérouse
+  du: '1643-12-14'
+  au: null
+- titre: évêque de Gubbio
+  du: '1639-05-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762596
+  catholic_hierarchy: bmonaldi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:04:35+00:00'
+  completeness: 0.75

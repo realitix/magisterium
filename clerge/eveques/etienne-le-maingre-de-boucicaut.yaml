@@ -1,0 +1,44 @@
+slug: etienne-le-maingre-de-boucicaut
+nom: Étienne Le Maingre de Boucicaut
+nom_complet: Étienne Le Maingre de Boucicault, O.F.M.
+naissance: null
+deces: '1624-04-17'
+naissance_lieu: Arles
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1604-05-30'
+  consecrateur_principal: francois-martinengo
+  co_consecrateurs:
+  - jacques-martin
+  - pierre-du-vair
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blmadbo.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_Le_Maingre_de_Boucicaut
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grasse, France
+  du: '1604-03-24'
+  au: '1624-04-17'
+- titre: évêque diocésain
+  du: '1604-03-24'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q22271471
+  catholic_hierarchy: blmadbo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:54:24+00:00'
+  completeness: 0.88

@@ -1,0 +1,46 @@
+slug: joseph-kostner
+nom: Joseph Köstner
+nom_complet: Josef Köstner
+naissance: '1906-03-09'
+deces: '1982'
+naissance_lieu: Klagenfurt
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1945-08-05'
+  consecrateur_principal: andreas-rohracher
+  co_consecrateurs:
+  - adam-hefter
+  - ivan-saric
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkostner.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: '1945-06-25'
+  au: null
+- titre: Bishop Emeritus of Gurk, Austria
+  du: null
+  au: '1982-01-01'
+- titre: évêque de Gurk
+  du: '1945-06-25'
+  au: '1981-04-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1707446
+  catholic_hierarchy: bkostner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:19:25+00:00'
+  completeness: 1.0

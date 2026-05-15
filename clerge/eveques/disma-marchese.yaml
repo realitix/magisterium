@@ -1,0 +1,44 @@
+slug: disma-marchese
+nom: Disma Marchese
+nom_complet: null
+naissance: '1844-12-12'
+deces: '1925-11-26'
+naissance_lieu: Camogli, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1901-06-23'
+  lieu: San Lorenzo, Cathedral, Genova, Archdiocese of Genova
+  consecrateur_principal: thomas-reggio
+  co_consecrateurs:
+  - pietro-balestra
+  - giuseppe-capecci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarcd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acqui, Italy
+  du: '1901-04-15'
+  au: '1925-11-26'
+- titre: évêque diocésain
+  du: '1901-04-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735193
+  catholic_hierarchy: bmarcd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:21+00:00'
+  completeness: 1.0

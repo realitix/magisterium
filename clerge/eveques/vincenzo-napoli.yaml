@@ -1,0 +1,43 @@
+slug: vincenzo-napoli
+nom: Vincenzo Napoli
+nom_complet: null
+naissance: '1574'
+deces: '1648-08-23'
+naissance_lieu: Trani
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1609-12-06'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - lucio-de-morra
+  - antonio-albergati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Patti, Italy
+  du: '1609-12-02'
+  au: 23 Aug 1648&sup3;
+- titre: évêque de Patti
+  du: '1609-12-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4013424
+  catholic_hierarchy: bnap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:24:43+00:00'
+  completeness: 0.88

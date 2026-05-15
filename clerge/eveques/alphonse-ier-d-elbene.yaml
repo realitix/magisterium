@@ -1,0 +1,42 @@
+slug: alphonse-ier-d-elbene
+nom: Alphonse Ier d'Elbène
+nom_complet: Alphonse d&rsquo;Elbène
+naissance: '1538'
+deces: '1608-02-08'
+naissance_lieu: Lyon, Archdiocese of Lyon
+deces_lieu: Albi, Diocese of Albi
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1589-11-05'
+  lieu: Abbey, Hautecombe
+  consecrateur_principal: claude-de-granier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelba.html
+  - https://fr.wikipedia.org/wiki/Alphonse_Ier_d%27Elb%C3%A8ne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albi, France
+  du: '1589-09-25'
+  au: '1608-02-08'
+- titre: évêque d'Albi
+  du: '1589-09-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2840001
+  catholic_hierarchy: bdelba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:39:02+00:00'
+  completeness: 0.75

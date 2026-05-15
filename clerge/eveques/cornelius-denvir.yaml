@@ -1,0 +1,47 @@
+slug: cornelius-denvir
+nom: Cornelius Denvir
+nom_complet: null
+naissance: '1791-08-13'
+deces: '1866-07-10'
+naissance_lieu: Ballywalter, Co. Down, Diocese of Down and Connor
+deces_lieu: Bishop's Residence, Diocese of Down and Connor
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1835-11-22'
+  lieu: St. Patrick, Church, Belfast, Diocese of Down and Connor
+  consecrateur_principal: william-crolly
+  co_consecrateurs:
+  - james-browne
+  - john-cantwell-1792
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdenvir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Down and Connor, Ireland
+  du: '1835-09-22'
+  au: '1865-05-04'
+- titre: Bishop Emeritus of Down and Connor, Ireland
+  du: null
+  au: '1866-07-10'
+- titre: évêque de Down et Connor
+  du: '1835-09-22'
+  au: '1865-05-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5171352
+  catholic_hierarchy: bdenvir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:54+00:00'
+  completeness: 1.0

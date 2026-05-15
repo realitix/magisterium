@@ -1,0 +1,40 @@
+slug: arni-orlaksson
+nom: Árni Þorláksson
+nom_complet: Árni &THORN;orláksson
+naissance: '1237'
+deces: '1298-04-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q189
+tampon: ordo_incertus
+sacre:
+  date: '1269-05-30'
+  consecrateur_principal: jorundur-orsteinsson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthorla.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skálholt, Iceland
+  du: 1269&sup1;
+  au: '1298-04-21'
+- titre: évêque diocésain
+  du: '1269-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q252282
+  catholic_hierarchy: bthorla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:58:36+00:00'
+  completeness: 0.75

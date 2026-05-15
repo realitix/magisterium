@@ -1,0 +1,40 @@
+slug: leo-x
+nom: Leo X
+nom_complet: null
+naissance: '1475-12-11'
+deces: '1521-12-01'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1513-03-17'
+  lieu: Lateran Palace, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: raffaele-cardinal-sansoni-riario
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeme.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Santa Maria in Domnica
+  du: '1489-03-23'
+  au: null
+- titre: Administrator of Amalfi, Italy
+  du: '1510-12-09'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1521-12-01'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bdeme
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:41:50+00:00'
+  completeness: 0.88

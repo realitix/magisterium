@@ -1,0 +1,53 @@
+slug: jean-de-maillac
+nom: Jean de Maillac
+nom_complet: Jean de Maillac (Mailhaco), O.F.M.
+naissance: null
+deces: '1396-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Jul 1348&sup3;
+  consecrateur_principal: betrand-cardinal-du-pouget
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaillac.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Maillac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guardialfiera (Guardia), Italy
+  du: 1348&sup1;
+  au: null
+- titre: Bishop of Gubbio, Italy
+  du: '1350-11-19'
+  au: null
+- titre: Bishop of Riez, France
+  du: '1370-03-27'
+  au: 1396&sup2;
+- titre: évêque de Guardialfiera
+  du: '1348-01-01'
+  au: null
+- titre: évêque de Gubbio
+  du: '1350-11-27'
+  au: null
+- titre: évêque de Riez
+  du: '1370-04-04'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64781150
+  catholic_hierarchy: bmaillac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:15:03+00:00'
+  completeness: 0.62

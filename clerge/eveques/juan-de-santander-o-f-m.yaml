@@ -1,0 +1,41 @@
+slug: juan-de-santander-o-f-m
+nom: Juan de Santander, O.F.M.
+nom_complet: Juan de Santander
+naissance: '1600'
+deces: '1644-01-24'
+naissance_lieu: Castro Urdiales
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsantj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mallorca, Spain
+  du: null
+  au: '1644-01-24'
+- titre: évêque de Majorque et Minorque
+  du: '1630-10-30'
+  au: '1644-01-24'
+- titre: vice-roi de Majorque
+  du: '1637-01-01'
+  au: '1637-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68910471
+  catholic_hierarchy: bsantj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:51:36+00:00'
+  completeness: 0.38

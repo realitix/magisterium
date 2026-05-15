@@ -1,0 +1,52 @@
+slug: flavien-hugonin
+nom: Flavien Hugonin
+nom_complet: Flavien-Abel-Antoinin Hugonin
+naissance: '1823-07-04'
+deces: '1898-05-02'
+naissance_lieu: Thodure
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1867-05-01'
+  lieu: Ste Genevieve, Paris, Archdiocese of Paris
+  consecrateur_principal: felix-antoine-philibert-dupanloup
+  co_consecrateurs:
+  - jean-sebastien-devoucoux
+  - henry-maret
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhugon.html
+  - https://fr.wikipedia.org/wiki/Flavien_Hugonin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayeux (-Lisieux), France
+  du: null
+  au: '1898-05-02'
+- titre: évêque de Bayeux et Lisieux
+  du: '1867-01-01'
+  au: '1898-01-01'
+- titre: évêque diocésain
+  du: '1866-07-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9r%C3%A8se%20Martin-Histoire%20d%27une%20%C3%A2me-A13.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1427473
+  catholic_hierarchy: bhugon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:49:31+00:00'
+  completeness: 1.0

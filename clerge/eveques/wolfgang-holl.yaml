@@ -1,0 +1,50 @@
+slug: wolfgang-holl
+nom: Wolfgang Holl
+nom_complet: null
+naissance: '1505'
+deces: '1590-09-04'
+naissance_lieu: Schwäbisch Hall
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-11-05'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: otto-truchsess-von-waldburg
+  co_consecrateurs:
+  - antonio-elio
+  - gallois-de-regard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bholl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eichstätt, Germany
+  du: '1570-08-23'
+  au: '1590-09-04'
+- titre: Titular Bishop of Philadelphia in Arabia
+  du: '1570-08-23'
+  au: null
+- titre: évêque titulaire
+  du: '1570-08-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1570-09-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61509085
+  catholic_hierarchy: bholl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:41+00:00'
+  completeness: 0.88

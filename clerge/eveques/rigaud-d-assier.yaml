@@ -1,0 +1,46 @@
+slug: rigaud-d-assier
+nom: Rigaud d'Assier
+nom_complet: Rigaud Asser
+naissance: '1250'
+deces: '1323-04-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1320-11-16'
+  consecrateur_principal: stephen-gravesend
+  co_consecrateurs:
+  - john-hotham
+  - hamo-hethe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/basser.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1320-04-17'
+  au: '1323-04-12'
+- titre: évêque de Winchester
+  du: '1319-01-01'
+  au: '1323-01-01'
+- titre: évêque diocésain
+  du: '1320-04-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7333368
+  catholic_hierarchy: basser
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:47:05+00:00'
+  completeness: 0.88

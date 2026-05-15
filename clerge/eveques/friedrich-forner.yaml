@@ -1,0 +1,49 @@
+slug: friedrich-forner
+nom: Friedrich Förner
+nom_complet: null
+naissance: '1570'
+deces: '1630-12-05'
+naissance_lieu: Weismain
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1612-10-07'
+  lieu: Bamberg, Diocese of Bamberg
+  consecrateur_principal: johann-gottfried-von-aschhausen
+  co_consecrateurs:
+  - eucharius-sang
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforner.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bamberg, Germany
+  du: '1612-09-03'
+  au: '1630-12-05'
+- titre: Titular Bishop of Hebron
+  du: '1612-09-03'
+  au: null
+- titre: évêque titulaire
+  du: '1612-09-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '1612-09-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1459183
+  catholic_hierarchy: bforner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:52:32+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: johann-von-eych
+nom: Johann von Eych
+nom_complet: Johann Cardinal von Eych
+naissance: '1404'
+deces: '1464'
+naissance_lieu: Thüringen
+deces_lieu: null
+rang: cardinal
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1446-03-13'
+  consecrateur_principal: peter-von-schaumberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beych.html
+  - https://fr.wikipedia.org/wiki/Johann_von_Eych
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: '1445-10-01'
+  au: '1464-01-01'
+- titre: cardinal
+  du: '1462-06-09'
+  au: null
+- titre: Q113323165
+  du: '1445-10-10'
+  au: '1464-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20III%20von%20Eych%20Bischof%20von%20Eichst%C3%A4tt%20im%20Gundekarianum.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q72193
+  catholic_hierarchy: beych
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:46+00:00'
+  completeness: 0.75

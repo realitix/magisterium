@@ -1,0 +1,58 @@
+slug: john-walsh
+nom: John Walsh
+nom_complet: null
+naissance: '1830-05-23'
+deces: '1898-07-31'
+naissance_lieu: Mooncoin, Diocese of Ossory, Ireland
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1867-11-10'
+  lieu: Toronto, Diocese of Toronto, Ontario
+  consecrateur_principal: charles-francois-baillargeon
+  co_consecrateurs:
+  - ignace-bourget
+  - john-joseph-lynch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwalshj.html
+  - https://fr.wikipedia.org/wiki/John_Walsh_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sandwich, Ontario, Canada
+  du: '1867-06-04'
+  au: null
+- titre: Bishop of London, Ontario, Canada
+  du: '1869-10-03'
+  au: null
+- titre: Archbishop of Toronto, Ontario, Canada
+  du: '1889-08-13'
+  au: '1898-07-31'
+- titre: archevêque de Toronto
+  du: '1889-08-13'
+  au: null
+- titre: évêque de London
+  du: '1869-10-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Walsh.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6262880
+  catholic_hierarchy: bwalshj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:49:47+00:00'
+  completeness: 1.0

@@ -1,0 +1,40 @@
+slug: fortuno-bergua
+nom: Fortuño Bergua
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1282'
+  consecrateur_principal: amanevo-d-rsquo-armagnac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbergua.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zaragoza, Spain
+  du: 1282&sup1;
+  au: 1289&sup1;
+- titre: évêque de Saragosse
+  du: '1282-01-01'
+  au: '1289-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780389
+  catholic_hierarchy: bbergua
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:58+00:00'
+  completeness: 0.62

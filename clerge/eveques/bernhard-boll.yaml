@@ -1,0 +1,47 @@
+slug: bernhard-boll
+nom: Bernhard Boll
+nom_complet: Bernhard Boll, O. Cist.
+naissance: '1756-06-07'
+deces: '1836-03-06'
+naissance_lieu: Stuttgart
+deces_lieu: null
+rang: archeveque
+nationalite: Q186320
+tampon: ordo_validus
+sacre:
+  date: '1827-10-21'
+  consecrateur_principal: ferdinand-august-von-spiegel
+  co_consecrateurs:
+  - johann-baptist-von-keller
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboll.html
+  - https://fr.wikipedia.org/wiki/Bernhard_Boll
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Freiburg im Breisgau, Germany
+  du: null
+  au: '1836-03-06'
+- titre: archevêque de Fribourg-en-Brisgau
+  du: '1827-10-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Boll%20Bernhard%202.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q98487
+  catholic_hierarchy: bboll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:35:09+00:00'
+  completeness: 1.0

@@ -1,0 +1,54 @@
+slug: alexander-king-sample
+nom: Alexander King Sample
+nom_complet: null
+naissance: '1960-11-07'
+deces: null
+naissance_lieu: Kalispell, MT, Diocese of Helena, Montana
+deces_lieu: null
+rang: archeveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '2006-01-25'
+  lieu: Saint Peter, Cathedral, Marquette, Diocese of Marquette, Michigan
+  consecrateur_principal: adam-joseph-maida
+  co_consecrateurs:
+  - james-henry-garland
+  - mark-francis-schmitt
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsample.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marquette, Michigan, USA
+  du: '2005-12-13'
+  au: null
+- titre: Archbishop of Portland in Oregon, USA
+  du: '2013-01-29'
+  au: null
+- titre: archevêque de Portland (Oregon)
+  du: '2013-01-29'
+  au: null
+- titre: évêque de Marquette
+  du: '2005-12-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20K.%20Sample.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q554725
+  catholic_hierarchy: bsample
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:46:54+00:00'
+  completeness: 0.88

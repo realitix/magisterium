@@ -1,0 +1,40 @@
+slug: serafino-corio-c-r
+nom: Serafino Corio, C.R.
+nom_complet: Serafino Corio
+naissance: '1628-01-16'
+deces: '1671-04-21'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1669-07-19'
+  consecrateur_principal: clement-ix
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorios.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodi, Italy
+  du: '1669-07-15'
+  au: '1671-04-21'
+- titre: évêque diocésain
+  du: '1669-07-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q62121569
+  catholic_hierarchy: bcorios
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:06:04+00:00'
+  completeness: 0.75

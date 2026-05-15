@@ -1,0 +1,49 @@
+slug: jakob-weinbacher
+nom: Jakob Weinbacher
+nom_complet: null
+naissance: '1901-12-20'
+deces: '1985-06-15'
+naissance_lieu: Wien
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1962-07-01'
+  consecrateur_principal: franz-konig
+  co_consecrateurs:
+  - franz-jachym
+  - josef-schoiswohl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweinb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Wien {Vienna}, Austria
+  du: '1962-06-04'
+  au: '1985-06-15'
+- titre: Titular Bishop of Thala
+  du: '1962-06-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1962-06-04'
+  au: null
+- titre: évêque titulaire
+  du: '1962-06-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1679401
+  catholic_hierarchy: bweinb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:52+00:00'
+  completeness: 1.0

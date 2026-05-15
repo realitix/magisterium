@@ -1,0 +1,38 @@
+slug: thomas-stanley
+nom: Thomas Stanley
+nom_complet: null
+naissance: null
+deces: '1568'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstant.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of The Isles (Sodor), Scotland, Great Britain
+  du: '1555-06-21'
+  au: 1568&sup1;
+- titre: évêque des Îles
+  du: '1555-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911454
+  catholic_hierarchy: bstant
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:25+00:00'
+  completeness: 0.25

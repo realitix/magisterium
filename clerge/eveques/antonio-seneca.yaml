@@ -1,0 +1,44 @@
+slug: antonio-seneca
+nom: Antonio Seneca
+nom_complet: null
+naissance: null
+deces: '1626-08-11'
+naissance_lieu: Norcia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1607-07-02'
+  lieu: Santa Maria degli Angeli in Thermis, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ludovico-de-torres
+  co_consecrateurs:
+  - girolamo-porcia
+  - claudio-rangoni-1559
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseneca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Anagni, Italy
+  du: '1607-06-25'
+  au: '1626-08-11'
+- titre: évêque diocésain
+  du: '1607-06-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q33840342
+  catholic_hierarchy: bseneca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:09:48+00:00'
+  completeness: 0.88

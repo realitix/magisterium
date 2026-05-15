@@ -1,0 +1,44 @@
+slug: jose-escolano-y-fenoy
+nom: José Escolano y Fenoy
+nom_complet: José Escolano y Fenoi
+naissance: '1805-02-04'
+deces: '1854-07-21'
+naissance_lieu: Granada, Archdiocese of Granada
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1848-04-23'
+  lieu: San Isidro, Madrid, Archdiocese of Toledo
+  consecrateur_principal: manuel-joaquin-tarancon-y-moron
+  co_consecrateurs:
+  - pablo-garcia-abella-c-o
+  - domingo-canubio-alberto-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bescol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaén, Spain
+  du: null
+  au: '1854-07-21'
+- titre: évêque de Jaén
+  du: '1847-09-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5939480
+  catholic_hierarchy: bescol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:24:40+00:00'
+  completeness: 1.0

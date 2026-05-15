@@ -1,0 +1,39 @@
+slug: jean-de-rossillon
+nom: Jean de Rossillon
+nom_complet: Jean d&rsquo;Arcillon
+naissance: '1250'
+deces: '1341-02-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barcillon.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Rossillon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1323-10-26'
+  au: '1341-02-15'
+- titre: évêque de Lausanne
+  du: '1323-11-03'
+  au: '1341-02-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1685951
+  catholic_hierarchy: barcillon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.38

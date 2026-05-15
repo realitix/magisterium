@@ -1,0 +1,52 @@
+slug: jean-de-wallenrode
+nom: Jean de Wallenrode
+nom_complet: Johann Walenrode
+naissance: '1370'
+deces: '1419-05-28'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: johannes-abezier
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwalenr.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Wallenrode
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Riga, Latvia
+  du: '1393-09-27'
+  au: null
+- titre: Archbishop (Personal Title) of Liège, Belgium
+  du: '1418-05-30'
+  au: null
+- titre: Bishop of Liège, Belgium
+  du: null
+  au: '1419-05-28'
+- titre: archevêque de Riga
+  du: '1393-01-01'
+  au: '1418-01-01'
+- titre: prince-évêque
+  du: '1418-01-01'
+  au: '1419-01-01'
+- titre: évêque de Liège
+  du: '1418-06-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q78053
+  catholic_hierarchy: bwalenr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:49:05+00:00'
+  completeness: 0.5

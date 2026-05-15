@@ -1,0 +1,49 @@
+slug: geronimo-castillon-y-salas
+nom: Gerónimo Castillón y Salas
+nom_complet: Jerónimo Castellón y Salas
+naissance: '1756-09-30'
+deces: '1835-04-20'
+naissance_lieu: Ponzano
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1816-06-09'
+  consecrateur_principal: juan-nepomuceno-de-lera-y-cano
+  co_consecrateurs:
+  - eduardo-maria-saenz-la-guardia
+  - manuel-del-villar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasts.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: '1815-07-10'
+  au: '1835-04-20'
+- titre: grand inquisiteur d'Espagne
+  du: '1818-01-01'
+  au: '1820-01-01'
+- titre: député
+  du: null
+  au: null
+- titre: évêque de Tarazona
+  du: '1815-07-10'
+  au: '1835-04-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760924
+  catholic_hierarchy: bcasts
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:32:04+00:00'
+  completeness: 1.0

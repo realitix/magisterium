@@ -1,0 +1,40 @@
+slug: michel-el-khazen
+nom: Michel El-Khazen
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1767-11-15'
+  consecrateur_principal: joseph-vi-estephan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/belkhm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Caesarea in Palaestina
+  du: 1767&sup2;
+  au: 1786&sup2;
+- titre: évêque titulaire
+  du: '1767-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780941
+  catholic_hierarchy: belkhm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:21:06+00:00'
+  completeness: 0.62

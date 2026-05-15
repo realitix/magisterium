@@ -1,0 +1,43 @@
+slug: juan-capistrano-tissera
+nom: Juan Capistrano Tissera
+nom_complet: Juan José Blas Tissera, O.F.M. Obs.
+naissance: '1825-03-03'
+deces: '1886-09-20'
+naissance_lieu: Anejos Sur, Diocese of Córdoba (Tucumán)
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_validus
+sacre:
+  date: '1884-09-21'
+  lieu: Córdoba, Diocese of Córdoba (Tucumán)
+  consecrateur_principal: luigi-matera
+  co_consecrateurs:
+  - wenceslao-achaval
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btissera.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Córdoba (Tucumán), Argentina
+  du: '1884-03-27'
+  au: '1886-09-20'
+- titre: évêque de Tucumán
+  du: '1884-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21059961
+  catholic_hierarchy: btissera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:01:14+00:00'
+  completeness: 1.0

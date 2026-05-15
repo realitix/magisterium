@@ -1,0 +1,44 @@
+slug: ogmundur-palsson
+nom: Ögmundur Pálsson
+nom_complet: null
+naissance: '1475'
+deces: '1542-07-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1521-10-28'
+  consecrateur_principal: hoskuld-hoskuldsson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaulie.html
+  - https://fr.wikipedia.org/wiki/%C3%96gmundur_P%C3%A1lsson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skálholt, Iceland
+  du: 1521&sup1;
+  au: Jul 1542&sup3;
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1521-01-01'
+  au: '1542-07-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16420346
+  catholic_hierarchy: bpaulie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:14:04+00:00'
+  completeness: 0.62

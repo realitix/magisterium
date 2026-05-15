@@ -1,0 +1,44 @@
+slug: rocco-caliandro
+nom: Rocco Caliandro
+nom_complet: null
+naissance: '1872-01-22'
+deces: '1924-03-14'
+naissance_lieu: Ceglie Messapica
+deces_lieu: Termoli, Diocese of Termoli
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1912-04-21'
+  lieu: Saint Joachim, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: diomede-falconio
+  co_consecrateurs:
+  - carlo-pietropaoli
+  - antonio-di-tommaso
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcalia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Termoli, Italy
+  du: '1912-03-28'
+  au: '1924-03-14'
+- titre: Roman Catholic Bishop of Termoli
+  du: '1912-03-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735707
+  catholic_hierarchy: bcalia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:08:14+00:00'
+  completeness: 1.0

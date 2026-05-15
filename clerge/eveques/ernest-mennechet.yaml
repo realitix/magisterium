@@ -1,0 +1,48 @@
+slug: ernest-mennechet
+nom: Ernest Mennechet
+nom_complet: Ernest-Victor Mennechet
+naissance: '1877-06-09'
+deces: '1946-06-02'
+naissance_lieu: Marle
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1928-05-01'
+  consecrateur_principal: henri-binet
+  co_consecrateurs:
+  - alfred-baudrillart
+  - ernest-neveux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmenne.html
+  - https://fr.wikipedia.org/wiki/Ernest_Mennechet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Soissons (-Laon-Saint-Quentin), France
+  du: '1928-03-02'
+  au: '1946-06-02'
+- titre: évêque diocésain
+  du: '1928-03-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Ernest%20Mennechet.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64735154
+  catholic_hierarchy: bmenne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:51:33+00:00'
+  completeness: 1.0

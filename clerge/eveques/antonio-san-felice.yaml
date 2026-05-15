@@ -1,0 +1,41 @@
+slug: antonio-san-felice
+nom: Antonio San Felice
+nom_complet: null
+naissance: '1659-07-02'
+deces: '1736'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1707-12-04'
+  lieu: Chiesa Nova, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsfel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nardò, Italy
+  du: '1707-11-28'
+  au: '1736-01-01'
+- titre: évêque diocésain
+  du: '1707-11-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733156
+  catholic_hierarchy: bsfel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:13:27+00:00'
+  completeness: 0.88

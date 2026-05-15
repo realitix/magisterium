@@ -1,0 +1,48 @@
+slug: elias-chacour
+nom: Elias Chacour
+nom_complet: null
+naissance: '1939-11-29'
+deces: null
+naissance_lieu: Biram
+deces_lieu: null
+rang: archeveque
+nationalite: Q801
+tampon: ordo_dubius
+sacre:
+  date: '2006-02-25'
+  consecrateur_principal: georges-el-murr
+  co_consecrateurs:
+  - boutros-mouallem
+  - isidore-battikha
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Akka [San Giovanni d&rsquo;Acri; Tolemaide] (Melkite Greek),
+    Israel
+  du: null
+  au: '2014-01-27'
+- titre: archevêque catholique
+  du: '2006-02-25'
+  au: '2014-01-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Elias%20Chacour%20in%202015.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q563537
+  catholic_hierarchy: bchac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:39:45+00:00'
+  completeness: 0.88

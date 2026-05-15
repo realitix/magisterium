@@ -1,0 +1,41 @@
+slug: hugues-de-montreal
+nom: Hugues de Montréal
+nom_complet: Hugues de Montreal
+naissance: null
+deces: '1232-03-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1219'
+  consecrateur_principal: non-indexe-bad8609e
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontreah.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Montr%C3%A9al_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: 1219&sup2;
+  au: 1232&sup1;
+- titre: évêque de Langres
+  du: '1219-01-01'
+  au: '1232-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779631
+  catholic_hierarchy: bmontreah
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:09:30+00:00'
+  completeness: 0.5

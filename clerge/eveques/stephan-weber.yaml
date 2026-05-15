@@ -1,0 +1,46 @@
+slug: stephan-weber
+nom: Stephan Weber
+nom_complet: null
+naissance: '1539-02-13'
+deces: '1622-08-07'
+naissance_lieu: Erfurt
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-08-03'
+  consecrateur_principal: daniel-brendel-von-homburg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwebes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mainz, Germany
+  du: '1570-02-28'
+  au: '1622-08-07'
+- titre: Titular Bishop of Missene (Mysia)
+  du: '1570-02-28'
+  au: null
+- titre: évêque titulaire
+  du: '1570-03-10'
+  au: null
+- titre: évêque auxiliaire
+  du: '1570-03-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64737296
+  catholic_hierarchy: bwebes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:21+00:00'
+  completeness: 0.88

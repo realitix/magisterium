@@ -1,0 +1,45 @@
+slug: rene-lucien-picandet
+nom: René-Lucien Picandet
+nom_complet: René Lucien Picandet
+naissance: '1931-12-14'
+deces: '1997-10-20'
+naissance_lieu: Durdat-Larequille
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1981-06-28'
+  lieu: Ste Croix, Cathedral, Orléans, Diocese of Orléans
+  consecrateur_principal: jean-marie-lustiger
+  co_consecrateurs:
+  - eugene-marie-ernoult
+  - andre-quelen
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpicandet.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9-Lucien_Picandet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orléans, France
+  du: '1981-06-13'
+  au: '1997-10-20'
+- titre: évêque diocésain
+  du: '1981-06-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3425707
+  catholic_hierarchy: bpicandet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:29:45+00:00'
+  completeness: 1.0

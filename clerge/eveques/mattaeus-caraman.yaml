@@ -1,0 +1,49 @@
+slug: mattaeus-caraman
+nom: Mattaeus Caraman
+nom_complet: Matej Karaman
+naissance: '1700-06-06'
+deces: '1771-05-07'
+naissance_lieu: Split
+deces_lieu: null
+rang: archeveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1742-07-15'
+  consecrateur_principal: giovanni-antonio-guadagni
+  co_consecrateurs:
+  - vincenzo-antonio-maria-muscettola
+  - luigi-antonio-valdina-cremona
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaraman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossero (Osor), Croatia
+  du: '1742-07-09'
+  au: null
+- titre: Archbishop of Zadar (Zara), Croatia
+  du: '1745-11-22'
+  au: '1771-05-07'
+- titre: évêque diocésain
+  du: '1742-07-09'
+  au: null
+- titre: archevêque catholique
+  du: '1745-11-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4213981
+  catholic_hierarchy: bcaraman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:19:42+00:00'
+  completeness: 1.0

@@ -1,0 +1,41 @@
+slug: thomas-d-aunou
+nom: Thomas d'Aunou
+nom_complet: Thomas d&rsquo;Aulon
+naissance: null
+deces: '1278-06-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1258-12-20'
+  consecrateur_principal: eudes-rigaud-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baulon.html
+  - https://fr.wikipedia.org/wiki/Thomas_d%27Aunou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: 1258&sup1;
+  au: '1278-06-15'
+- titre: évêque diocésain
+  du: '1258-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2421788
+  catholic_hierarchy: baulon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:44+00:00'
+  completeness: 0.75

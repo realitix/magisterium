@@ -1,0 +1,48 @@
+slug: maurice-landrieux
+nom: Maurice Landrieux
+nom_complet: null
+naissance: '1857-10-01'
+deces: '1926-12-11'
+naissance_lieu: Trigny
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1916-02-02'
+  consecrateur_principal: louis-joseph-lucon
+  co_consecrateurs:
+  - pierre-louis-pechenard
+  - maurice-riviere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blandm.html
+  - https://fr.wikipedia.org/wiki/Maurice_Landrieux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dijon, France
+  du: '1915-12-06'
+  au: '1926-12-11'
+- titre: évêque de Dijon
+  du: '1915-12-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monseigneur%20Landrieux%2C%201921%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15970325
+  catholic_hierarchy: blandm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:10+00:00'
+  completeness: 1.0

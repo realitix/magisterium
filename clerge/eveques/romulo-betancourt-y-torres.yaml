@@ -1,0 +1,44 @@
+slug: romulo-betancourt-y-torres
+nom: Rómulo Betancourt y Torres
+nom_complet: null
+naissance: '1858-02-16'
+deces: '1901-10-21'
+naissance_lieu: Irapuato
+deces_lieu: Merida
+rang: eveque
+nationalite: Q96
+tampon: ordo_validus
+sacre:
+  date: '1900-11-30'
+  lieu: Morelia, Archdiocese of Michoacán
+  consecrateur_principal: atenogenes-silva
+  co_consecrateurs:
+  - rafael-sabas-camacho-y-garcia
+  - francisco-plancarte-y-navarrete
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Campeche, México
+  du: '1900-08-31'
+  au: '1901-10-21'
+- titre: évêque de Campeche
+  du: '1900-08-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19299552
+  catholic_hierarchy: bbeto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:11+00:00'
+  completeness: 1.0

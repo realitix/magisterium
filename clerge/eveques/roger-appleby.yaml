@@ -1,0 +1,55 @@
+slug: roger-appleby
+nom: Roger Appleby
+nom_complet: null
+naissance: null
+deces: '1404'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1401-01-02'
+  consecrateur_principal: guy-mone-de-mona
+  co_consecrateurs:
+  - willem-guillaume-van-coudenberghes-cordemberghe
+  - non-indexe-42008d63
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bapple.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1400-09-26'
+  au: null
+- titre: Bishop of Dromore, Ireland
+  du: '1402-10-09'
+  au: null
+- titre: Bishop of Waterford and Lismore, Ireland
+  du: 1406&sup1;
+  au: 1409&sup1;
+- titre: évêque diocésain
+  du: '1402-10-18'
+  au: null
+- titre: évêque diocésain
+  du: '1406-01-01'
+  au: null
+- titre: évêque du diocèse d'Ossory
+  du: '1400-10-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780760
+  catholic_hierarchy: bapple
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:01+00:00'
+  completeness: 0.75

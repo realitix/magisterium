@@ -1,0 +1,44 @@
+slug: juan-de-saavedra
+nom: Juan de Saavedra
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaavedra.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Plasencia, Spain
+  du: '1329-07-01'
+  au: null
+- titre: Bishop of Palencia, Spain
+  du: '1330-10-26'
+  au: 1342&sup2;
+- titre: évêque de Plasencia
+  du: '1329-07-09'
+  au: null
+- titre: évêque de Palencia
+  du: '1330-11-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108450624
+  catholic_hierarchy: bsaavedra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:39:00+00:00'
+  completeness: 0.25

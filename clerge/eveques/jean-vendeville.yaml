@@ -1,0 +1,48 @@
+slug: jean-vendeville
+nom: Jean Vendeville
+nom_complet: null
+naissance: '1527-06-27'
+deces: '1592-10-15'
+naissance_lieu: Sainghin in Melantois, France
+deces_lieu: Tournai, Diocese of Tournai {Doornik}
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1588-05-29'
+  lieu: S. Martin, Abbey, Tournai, Diocese of Tournai {Doornik}
+  consecrateur_principal: louis-de-berlaymont
+  co_consecrateurs:
+  - mathieu-moulart
+  - francois-petrart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvendev.html
+  - https://fr.wikipedia.org/wiki/Jean_Vendeville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1588-01-15'
+  au: '1592-10-15'
+- titre: évêque de Tournai
+  du: '1586-01-01'
+  au: '1592-10-15'
+- titre: évêque diocésain
+  du: '1588-01-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3174996
+  catholic_hierarchy: bvendev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:31:11+00:00'
+  completeness: 1.0

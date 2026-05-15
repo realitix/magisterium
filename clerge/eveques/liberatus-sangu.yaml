@@ -1,0 +1,48 @@
+slug: liberatus-sangu
+nom: Liberatus Sangu
+nom_complet: null
+naissance: '1963-02-19'
+deces: null
+naissance_lieu: Mwazye
+deces_lieu: null
+rang: eveque
+nationalite: Q924
+tampon: ordo_dubius
+sacre:
+  date: '2015-04-12'
+  lieu: In Front of, Cathedral, Shinyanga, Diocese of Shinyanga
+  consecrateur_principal: polycarp-pengo
+  co_consecrateurs:
+  - jude-thadaeus-ruwa-ichi
+  - protase-rugambwa
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsangul.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Shinyanga, Tanzania
+  du: '2015-02-02'
+  au: null
+- titre: évêque diocésain
+  du: '2015-02-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Liberatus%20Sangu%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19289164
+  catholic_hierarchy: bsangul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:49:24+00:00'
+  completeness: 0.88

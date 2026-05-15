@@ -1,0 +1,44 @@
+slug: hamo-hethe
+nom: Hamo Hethe
+nom_complet: Haymo Hethe, O.S.B.
+naissance: '1275'
+deces: '1352-05-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1319-08-26'
+  consecrateur_principal: niccolo-alberti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhethe.html
+  - https://fr.wikipedia.org/wiki/Hamo_Hethe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: null
+  au: '1352-05-04'
+- titre: évêque de Rochester
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1317-03-26'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q5645920
+  catholic_hierarchy: bhethe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:10+00:00'
+  completeness: 0.75

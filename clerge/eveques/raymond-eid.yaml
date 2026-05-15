@@ -1,0 +1,46 @@
+slug: raymond-eid
+nom: Raymond Eid
+nom_complet: null
+naissance: '1930-08-06'
+deces: '2012-06-11'
+naissance_lieu: Mazraat-el-Dahre
+deces_lieu: null
+rang: archeveque
+nationalite: Q822
+tampon: ordo_dubius
+sacre:
+  date: '1999-11-20'
+  consecrateur_principal: nasrallah-boutros-sfeir
+  co_consecrateurs:
+  - tanios-el-khoury
+  - emile-eid
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beid.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Damas (Maronite), Syria
+  du: '1999-06-05'
+  au: null
+- titre: Archbishop Emeritus of Damas (Maronite), Syria
+  du: null
+  au: '2012-06-11'
+- titre: archevêque catholique
+  du: '1999-11-20'
+  au: '2005-09-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1303033
+  catholic_hierarchy: beid
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:19:59+00:00'
+  completeness: 1.0

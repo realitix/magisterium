@@ -1,0 +1,44 @@
+slug: pierre-van-den-perre
+nom: Pierre Van Den Perre
+nom_complet: Pierre van den Perre
+naissance: '1619-05-10'
+deces: '1695-09-07'
+naissance_lieu: Louvain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1681-01-05'
+  consecrateur_principal: alphonse-de-berghes
+  co_consecrateurs:
+  - francois-de-baillencourt
+  - jean-ferdinand-van-beughem
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdperre.html
+  - https://fr.wikipedia.org/wiki/Pierre_Van_Den_Perre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: null
+  au: '1695-09-07'
+- titre: évêque de Namur
+  du: '1680-03-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3387231
+  catholic_hierarchy: bvdperre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:28:57+00:00'
+  completeness: 1.0

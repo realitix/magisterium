@@ -1,0 +1,54 @@
+slug: jan-dekert
+nom: Jan Dekert
+nom_complet: null
+naissance: '1786-11-06'
+deces: '1861-11-19'
+naissance_lieu: Warszawa, Archdiocese of Warszawa {Warsaw}
+deces_lieu: null
+rang: eveque
+nationalite: Q172107
+tampon: ordo_validus
+sacre:
+  date: '1859-01-16'
+  lieu: Cathedral, Warszawa, Archdiocese of Warszawa {Warsaw}
+  consecrateur_principal: antoni-melchior-fija-kowski
+  co_consecrateurs:
+  - jan-micha-marszewski
+  - piotr-pawel-beniamin-szyma-324-ski-o-f-m-cap
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdekert.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Warszawa {Warsaw}, Poland
+  du: '1858-09-27'
+  au: '1861-11-19'
+- titre: Titular Bishop of Halicarnassus
+  du: '1858-09-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1858-09-27'
+  au: '1861-11-19'
+- titre: évêque titulaire
+  du: '1858-09-27'
+  au: '1861-11-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Deckert.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8861033
+  catholic_hierarchy: bdekert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:38:16+00:00'
+  completeness: 1.0

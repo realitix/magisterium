@@ -1,0 +1,40 @@
+slug: jean-milet
+nom: Jean Milet
+nom_complet: null
+naissance: '1443'
+deces: '1503-04-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: denis-du-moulin
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmiletj.html
+  - https://fr.wikipedia.org/wiki/Jean_Milet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Soissons, France
+  du: '1443-02-15'
+  au: '1503-04-01'
+- titre: évêque de Soissons
+  du: '1443-02-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3173528
+  catholic_hierarchy: bmiletj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:48+00:00'
+  completeness: 0.62

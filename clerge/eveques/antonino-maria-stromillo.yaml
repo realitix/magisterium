@@ -1,0 +1,48 @@
+slug: antonino-maria-stromillo
+nom: Antonino Maria Stromillo
+nom_complet: Antonio Maria Stromillo, C.R.
+naissance: '1789-07-11'
+deces: '1858-01-07'
+naissance_lieu: Gorga, Diocese of Capaccio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1845-02-16'
+  lieu: St. Andre della Valle, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: gabriele-ferretti
+  co_consecrateurs:
+  - giovanni-francesco-cometti-rossi
+  - stefano-scerra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstrom.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caltanissetta, Italy
+  du: null
+  au: '1858-01-07'
+- titre: évêque diocésain
+  du: '1844-11-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mons.Stromillo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3619089
+  catholic_hierarchy: bstrom
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:41:16+00:00'
+  completeness: 1.0

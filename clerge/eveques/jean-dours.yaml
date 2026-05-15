@@ -1,0 +1,52 @@
+slug: jean-dours
+nom: Jean Dours
+nom_complet: Jean-Pierre-Jules Dours
+naissance: '1809-02-06'
+deces: '1877-12-12'
+naissance_lieu: Alzonne
+deces_lieu: Bagnères-de-Bigorre
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1864-03-13'
+  lieu: Cathedral, Laon, Diocese of Soissons (-Laon)
+  consecrateur_principal: thomas-gousset
+  co_consecrateurs:
+  - rene-francois-regnier
+  - joseph-armand-gignoux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdours.html
+  - https://fr.wikipedia.org/wiki/Jean_Dours
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Soissons (-Laon), France
+  du: null
+  au: '1876-02-20'
+- titre: Bishop Emeritus of Soissons (-Laon), France
+  du: null
+  au: '1877-12-12'
+- titre: évêque diocésain
+  du: '1863-10-16'
+  au: '1876-02-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Dours%20bishop%20of%20Soissons.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3171798
+  catholic_hierarchy: bdours
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:40+00:00'
+  completeness: 1.0

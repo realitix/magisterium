@@ -1,0 +1,52 @@
+slug: alois-stoger
+nom: Alois Stöger
+nom_complet: null
+naissance: '1904-04-12'
+deces: '1999-12-12'
+naissance_lieu: Kautzen
+deces_lieu: Hainstette
+rang: eveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1967-08-15'
+  consecrateur_principal: franz-zak
+  co_consecrateurs:
+  - rudolf-graber
+  - jakob-weinbacher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstoger.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Sankt Pölten, Austria
+  du: '1967-07-03'
+  au: null
+- titre: Titular Bishop of Aptuca
+  du: '1967-07-03'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Sankt Pölten, Austria
+  du: null
+  au: '1999-12-12'
+- titre: évêque titulaire
+  du: '1967-07-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '1967-07-03'
+  au: '1986-11-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q89201
+  catholic_hierarchy: bstoger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:39:38+00:00'
+  completeness: 1.0

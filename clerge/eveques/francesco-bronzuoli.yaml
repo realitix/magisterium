@@ -1,0 +1,44 @@
+slug: francesco-bronzuoli
+nom: Francesco Bronzuoli
+nom_complet: null
+naissance: '1795-04-06'
+deces: '1856-03-01'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1848-09-21'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - girolamo-d-andrea
+  - domenico-lucciardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbronzu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1848-09-11'
+  au: '1856-03-01'
+- titre: évêque diocésain
+  du: '1848-09-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64692828
+  catholic_hierarchy: bbronzu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:53:47+00:00'
+  completeness: 1.0

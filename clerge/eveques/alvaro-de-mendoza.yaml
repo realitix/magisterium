@@ -1,0 +1,49 @@
+slug: alvaro-de-mendoza
+nom: Álvaro de Mendoza
+nom_complet: Alvaro Mendoza, O.F.M.
+naissance: null
+deces: '1631'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1622-11-20'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - benedetto-bragadin-o-f-m-obs
+  - cesare-ventimiglia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmenda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of L&rsquo;Aquila, Italy
+  du: '1622-11-14'
+  au: null
+- titre: Bishop of Jaca, Spain
+  du: '1628-05-29'
+  au: 1631&sup2;
+- titre: évêque de L'Aquila
+  du: '1622-11-14'
+  au: null
+- titre: évêque de Jaca
+  du: '1628-05-29'
+  au: '1631-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q27942230
+  catholic_hierarchy: bmenda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:50:13+00:00'
+  completeness: 0.75

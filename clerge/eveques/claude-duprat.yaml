@@ -1,0 +1,48 @@
+slug: claude-duprat
+nom: Claude Duprat
+nom_complet: Claude Prato (du Prat), O.S.B.
+naissance: '1475'
+deces: '1532'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1527-06-15'
+  consecrateur_principal: jean-cardinal-le-veneur
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprato.html
+  - https://fr.wikipedia.org/wiki/Claude_Duprat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: '1524-12-14'
+  au: 1532&sup2;
+- titre: évêque diocésain
+  du: '1524-12-24'
+  au: '1532-01-01'
+- titre: abbé commendataire
+  du: '1516-01-01'
+  au: '1524-01-01'
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20duprat.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2977331
+  catholic_hierarchy: bprato
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:08+00:00'
+  completeness: 0.62

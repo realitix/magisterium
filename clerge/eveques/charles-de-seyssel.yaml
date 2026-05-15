@@ -1,0 +1,39 @@
+slug: charles-de-seyssel
+nom: Charles de Seyssel
+nom_complet: null
+naissance: '1500'
+deces: '1513-04-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseyss.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Seyssel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1509-11-05'
+  au: '1513-04-12'
+- titre: évêque de Genève
+  du: '1509-11-15'
+  au: '1513-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15621767
+  catholic_hierarchy: bseyss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:13:21+00:00'
+  completeness: 0.38

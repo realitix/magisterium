@@ -1,0 +1,40 @@
+slug: william-of-bitton-ii
+nom: William of Bitton II
+nom_complet: William Button
+naissance: '1250'
+deces: '1274-12-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1267-04-17'
+  consecrateur_principal: nicolas-of-ely
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuttonw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bath and Wells, England, Great Britain
+  du: null
+  au: '1274-12-04'
+- titre: évêque de Bath et Wells
+  du: '1267-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8020860
+  catholic_hierarchy: bbuttonw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:02:35+00:00'
+  completeness: 0.75

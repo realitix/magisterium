@@ -1,0 +1,44 @@
+slug: eticho
+nom: Eticho
+nom_complet: Eticho der Welfe
+naissance: '944'
+deces: '988'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '982'
+  consecrateur_principal: non-indexe-cfc8ceb8
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwelfe.html
+  - https://fr.wikipedia.org/wiki/Etichon_d%27Augsbourg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: 982&sup1;
+  au: 24 Jun 988
+- titre: évêque d'Augsbourg
+  du: '0982-01-01'
+  au: null
+- titre: évêque
+  du: '0982-01-01'
+  au: '0988-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1371507
+  catholic_hierarchy: bwelfe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:53:17+00:00'
+  completeness: 0.75

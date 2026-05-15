@@ -1,0 +1,40 @@
+slug: robert-de-limesey
+nom: Robert de Limesey
+nom_complet: Robert of Limesy
+naissance: '1050'
+deces: '1117-08-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1086'
+  consecrateur_principal: non-indexe-368e23b4
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blimesy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lichfield, England, Great Britain
+  du: '1085-12-25'
+  au: '1117-08-30'
+- titre: évêque de Coventry et Lichfield
+  du: '1085-12-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7351412
+  catholic_hierarchy: blimesy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:50:39+00:00'
+  completeness: 0.75

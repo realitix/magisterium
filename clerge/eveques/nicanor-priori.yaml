@@ -1,0 +1,44 @@
+slug: nicanor-priori
+nom: Nicanor Priori
+nom_complet: null
+naissance: '1839-09-13'
+deces: '1895-12-15'
+naissance_lieu: Cagli, Diocese of Cagli e Pergola
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1890-01-06'
+  lieu: St. Apollinaire, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - domenico-maria-jacobini
+  - cesare-sambucetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpriori.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Assisi, Italy
+  du: '1889-12-30'
+  au: '1895-12-15'
+- titre: Roman Catholic Bishop of Assisi
+  du: '1889-12-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64739886
+  catholic_hierarchy: bpriori
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:49:51+00:00'
+  completeness: 1.0

@@ -1,0 +1,41 @@
+slug: pedro-de-agurto
+nom: Pedro de Agurto
+nom_complet: Pedro de Agurto, O.S.A.
+naissance: '1544'
+deces: '1608-10-15'
+naissance_lieu: Mexico City, Archdiocese of México, Federal District
+deces_lieu: null
+rang: eveque
+nationalite: Q80702
+tampon: ordo_validus
+sacre:
+  date: '1597-08-03'
+  lieu: San Agustin, Church, Mexico City, Archdiocese of México, Federal District
+  consecrateur_principal: diego-de-romano-y-govea-vitoria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bagurto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cebu, Philippines
+  du: '1595-08-30'
+  au: '1608-10-15'
+- titre: bishop of Cebu
+  du: '1595-08-30'
+  au: '1608-10-15'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q3898721
+  catholic_hierarchy: bagurto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:24:03+00:00'
+  completeness: 0.75

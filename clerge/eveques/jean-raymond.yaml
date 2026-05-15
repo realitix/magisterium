@@ -1,0 +1,44 @@
+slug: jean-raymond
+nom: Jean Raymond
+nom_complet: null
+naissance: null
+deces: '1604-11-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1602-10-13'
+  consecrateur_principal: francois-cardinal-de-joyeuse
+  co_consecrateurs:
+  - pierre-bonsom-de-donnaud
+  - jean-daffis-1554
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/braymondj.html
+  - https://fr.wikipedia.org/wiki/Jean_Raymond_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Papoul, France
+  du: '1601-05-28'
+  au: '1604-11-15'
+- titre: évêque de Saint-Papoul
+  du: '1601-05-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816893
+  catholic_hierarchy: braymondj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:49+00:00'
+  completeness: 0.88

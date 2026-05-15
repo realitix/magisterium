@@ -1,0 +1,43 @@
+slug: simon-von-der-borch
+nom: Simon von der Borch
+nom_complet: Simon van den Borch
+naissance: '1500'
+deces: '1492'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1477-08-24'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdbor.html
+  - https://fr.wikipedia.org/wiki/Simon_von_der_Borch
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Reval (Rewel), Estonia
+  du: '1477-06-16'
+  au: '1492-10-22'
+- titre: évêque de Reval
+  du: '1477-06-25'
+  au: null
+- titre: évêque
+  du: '1477-01-01'
+  au: '1492-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96355
+  catholic_hierarchy: bvdbor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:28:26+00:00'
+  completeness: 0.5

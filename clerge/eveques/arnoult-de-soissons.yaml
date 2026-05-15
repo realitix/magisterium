@@ -1,0 +1,36 @@
+slug: arnoult-de-soissons
+nom: Arnoult de Soissons
+nom_complet: Arnold of Soissons
+naissance: '1040'
+deces: '1087'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: hugues-de-die
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Arnoult_de_Soissons
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Soissons
+  du: '1081-01-01'
+  au: '1084-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/St.Arnoldus.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2158782
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78

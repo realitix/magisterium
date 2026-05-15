@@ -1,0 +1,47 @@
+slug: alessandro-de-franceschi
+nom: Alessandro de' Franceschi
+nom_complet: Alessandro de Franceschi, O.P.
+naissance: '1543'
+deces: '1601-01-10'
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1594-05-08'
+  lieu: La Minerve, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: michele-bonelli
+  co_consecrateurs:
+  - ludovico-de-torres
+  - owen-lewis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrancesa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Forli, Italy
+  du: '1594-05-04'
+  au: 1599&sup1;
+- titre: Bishop Emeritus of Forli, Italy
+  du: null
+  au: '1601-01-10'
+- titre: évêque diocésain
+  du: '1594-05-04'
+  au: '1599-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3610397
+  catholic_hierarchy: bfrancesa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:55:15+00:00'
+  completeness: 0.88

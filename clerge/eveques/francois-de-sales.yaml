@@ -1,0 +1,60 @@
+slug: francois-de-sales
+nom: François de Sales
+nom_complet: St. François de Sales
+naissance: '1567-08-21'
+deces: '1622-12-28'
+naissance_lieu: Thorens
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1602-12-08'
+  consecrateur_principal: vespasien-gribaldi
+  co_consecrateurs:
+  - thomas-pobel
+  - jacques-maistret-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdsales.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Sales
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Genève {Geneva}, Switzerland
+  du: '1602-07-15'
+  au: null
+- titre: Titular Bishop of Nicopolis
+  du: '1602-07-15'
+  au: null
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: null
+  au: '1622-12-28'
+- titre: évêque de Genève
+  du: '1602-09-17'
+  au: '1622-12-28'
+- titre: évêque coadjuteur
+  du: '1602-07-15'
+  au: '1602-09-17'
+- titre: évêque titulaire
+  du: '1602-07-15'
+  au: '1602-09-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Bussy-Rabutin%20-%20Saint%20Fran%C3%A7ois%20de%20Sales%2C%20%C3%A9v%C3%AAque%20de%20Gen%C3%A8ve%20%28bgw19%200375%29%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q231256
+  catholic_hierarchy: bdsales
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:07:57+00:00'
+  completeness: 1.0

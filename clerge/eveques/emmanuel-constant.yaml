@@ -1,0 +1,47 @@
+slug: emmanuel-constant
+nom: Emmanuel Constant
+nom_complet: null
+naissance: '1928-01-05'
+deces: '2009-06-16'
+naissance_lieu: Port-au-Prince, Archdiocese of Port-au-Prince
+deces_lieu: Sacré-Coeur, Hospital, Port-au-Prince, Archdiocese of Port-au-Prince
+rang: eveque
+nationalite: Q790
+tampon: ordo_validus
+sacre:
+  date: '1966-10-28'
+  lieu: Cathedral, Port-au-Prince, Archdiocese of Port-au-Prince
+  consecrateur_principal: antonio-samore
+  co_consecrateurs:
+  - albert-francois-cousineau
+  - remy-augustin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconse.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Les Gonaïves, Haïti
+  du: '1966-08-20'
+  au: null
+- titre: Bishop Emeritus of Les Gonaïves, Haïti
+  du: null
+  au: '2009-06-16'
+- titre: évêque diocésain
+  du: '1966-08-20'
+  au: '2003-07-30'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5160141
+  catholic_hierarchy: bconse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:38+00:00'
+  completeness: 1.0

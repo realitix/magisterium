@@ -1,0 +1,46 @@
+slug: george-john-smith
+nom: George John Smith
+nom_complet: null
+naissance: '1840-01-24'
+deces: '1918-01-18'
+naissance_lieu: Cuttlebrae, Buckie, Moray, Vicariate Apostolic of Northern District,
+  Scotland
+deces_lieu: Bishop's House (Esplanade), Oban, Argyll, Diocese of Argyll and The Isles,
+  Scotland
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1893-04-25'
+  lieu: St. Columba, Cathedral, Oban, Argyll, Diocese of Argyll and The Isles, Scotland
+  consecrateur_principal: angus-macdonald
+  co_consecrateurs:
+  - hugh-macdonald-c-ss-r
+  - james-smith-1841
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsmitg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Argyll and The Isles, Scotland, Great Britain
+  du: '1892-12-31'
+  au: '1918-01-18'
+- titre: évêque d'Argyll et des Îles
+  du: '1892-12-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5541120
+  catholic_hierarchy: bsmitg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:24:03+00:00'
+  completeness: 1.0

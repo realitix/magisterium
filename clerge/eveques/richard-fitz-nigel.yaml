@@ -1,0 +1,48 @@
+slug: richard-fitz-nigel
+nom: Richard fitz Nigel
+nom_complet: Richard FitzNeal
+naissance: '1130'
+deces: '1198-09-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1189-12-31'
+  consecrateur_principal: non-indexe-f8e3b0da
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfitzneal.html
+  - https://fr.wikipedia.org/wiki/Richard_fitz_Nigel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: '1189-09-15'
+  au: '1198-09-10'
+- titre: évêque de Londres
+  du: '1189-09-22'
+  au: null
+- titre: lord trésorier
+  du: '1158-01-01'
+  au: '1189-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20FitzNeal%20-seal%2C%201189-1198.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3431390
+  catholic_hierarchy: bfitzneal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:47:04+00:00'
+  completeness: 0.75

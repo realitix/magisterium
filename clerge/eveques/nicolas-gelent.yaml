@@ -1,0 +1,43 @@
+slug: nicolas-gelent
+nom: Nicolas Gelent
+nom_complet: Nicolas Gellent (Geslant)
+naissance: null
+deces: '1290-01-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgellent.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Gelent
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: 1261&sup2;
+  au: '1290-01-29'
+- titre: évêque d'Angers
+  du: '1260-02-19'
+  au: '1291-02-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sceau%20de%20Nicolas%20Gelent%2C%20%C3%A9v%C3%AAque%20d%27Angers.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q108452505
+  catholic_hierarchy: bgellent
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:16:04+00:00'
+  completeness: 0.38

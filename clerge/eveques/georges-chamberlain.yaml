@@ -1,0 +1,44 @@
+slug: georges-chamberlain
+nom: Georges Chamberlain
+nom_complet: null
+naissance: '1576-11-02'
+deces: '1634-12-19'
+naissance_lieu: Gand
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1628-11-05'
+  consecrateur_principal: jacques-boonen
+  co_consecrateurs:
+  - antoine-triest
+  - denis-stoffels
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchambe.html
+  - https://fr.wikipedia.org/wiki/Georges_Chamberlain
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1628-05-29'
+  au: '1634-12-19'
+- titre: évêque d'Ypres
+  du: '1628-05-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28890049
+  catholic_hierarchy: bchambe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:32+00:00'
+  completeness: 1.0

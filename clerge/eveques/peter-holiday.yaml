@@ -1,0 +1,44 @@
+slug: peter-holiday
+nom: Peter Holiday
+nom_complet: Peter John Holiday
+naissance: '1952-01-11'
+deces: null
+naissance_lieu: Durban
+deces_lieu: null
+rang: eveque
+nationalite: Q258
+tampon: ordo_dubius
+sacre:
+  date: '2011-06-25'
+  lieu: Notre Dame Sisters Convent School, Kroonstad, Diocese of Kroonstad
+  consecrateur_principal: jabulani-adatus-nxumalo
+  co_consecrateurs:
+  - stephen-brislin
+  - buti-joseph-tlhagale
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bholiday.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kroonstad, South Africa
+  du: '2011-04-01'
+  au: '2022-12-12'
+- titre: évêque diocésain
+  du: '2011-04-01'
+  au: '2022-12-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1307830
+  catholic_hierarchy: bholiday
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:39+00:00'
+  completeness: 0.88

@@ -1,0 +1,41 @@
+slug: jean-de-vasse
+nom: Jean de Vassé
+nom_complet: null
+naissance: null
+deces: '1583-03-16'
+naissance_lieu: Diocese of Le Mans
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Mar 1580&sup3;
+  lieu: Paris, Diocese of Paris
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvasse.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Vass%C3%A9_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lisieux, France
+  du: '1579-11-04'
+  au: '1583-03-16'
+- titre: évêque diocésain
+  du: '1580-03-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175746
+  catholic_hierarchy: bvasse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:26:45+00:00'
+  completeness: 0.5

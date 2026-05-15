@@ -1,0 +1,44 @@
+slug: anastasio-laterza-o-carm
+nom: Anastasio Laterza, O. Carm.
+nom_complet: Anastasio Laterza
+naissance: '1820-10-30'
+deces: '1879-03-19'
+naissance_lieu: Putignano, Diocese of Conversano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-12-27'
+  lieu: St. Alphonse, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: carlo-sacconi
+  co_consecrateurs:
+  - alessandro-franchi
+  - giuseppe-cardoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaterza.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boiano, Italy
+  du: '1871-12-22'
+  au: '1879-03-19'
+- titre: Roman Catholic Bishop of Boiano
+  du: '1871-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64682795
+  catholic_hierarchy: blaterza
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:35:27+00:00'
+  completeness: 1.0

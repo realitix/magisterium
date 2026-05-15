@@ -1,0 +1,41 @@
+slug: pierre-de-ranchicourt
+nom: Pierre de Ranchicourt
+nom_complet: null
+naissance: null
+deces: '1499-08-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1472'
+  consecrateur_principal: ferry-cardinal-de-clugny
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/branchic.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Ranchicourt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: '1463-04-17'
+  au: '1499-08-26'
+- titre: évêque d'Arras
+  du: '1463-04-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3387675
+  catholic_hierarchy: branchic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:02:05+00:00'
+  completeness: 0.62

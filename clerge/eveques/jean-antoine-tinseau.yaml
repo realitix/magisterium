@@ -1,0 +1,50 @@
+slug: jean-antoine-tinseau
+nom: Jean-Antoine Tinseau
+nom_complet: Jean-Antoine de Tinseau
+naissance: '1697-04-20'
+deces: '1782-09-24'
+naissance_lieu: Besançon
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1745-09-12'
+  consecrateur_principal: antoine-pierre-ii-de-grammont
+  co_consecrateurs:
+  - gilbert-gaspard-de-montmorin-de-saint-herem
+  - claude-bouhier-de-lantenay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btins.html
+  - https://fr.wikipedia.org/wiki/Jean-Antoine_Tinseau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: null
+  au: '1751-07-02'
+- titre: Bishop of Nevers, France
+  du: null
+  au: '1782-09-24'
+- titre: évêque diocésain
+  du: '1751-04-04'
+  au: null
+- titre: évêque diocésain
+  du: '1745-04-20'
+  au: '1751-07-02'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3163724
+  catholic_hierarchy: btins
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:00:37+00:00'
+  completeness: 1.0

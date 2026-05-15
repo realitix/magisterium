@@ -1,0 +1,41 @@
+slug: fulcran-de-barres
+nom: Fulcran de Barrès
+nom_complet: null
+naissance: '1574'
+deces: '1643-03-10'
+naissance_lieu: Pouzolles
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1631-02-02'
+  consecrateur_principal: claude-de-rebe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarresf.html
+  - https://fr.wikipedia.org/wiki/Fulcran_de_Barr%C3%A8s
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agde, France
+  du: '1629-11-19'
+  au: Mar 1643&sup3;
+- titre: évêque d'Agde
+  du: '1629-11-19'
+  au: '1643-03-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816482
+  catholic_hierarchy: bbarresf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:04:51+00:00'
+  completeness: 0.62

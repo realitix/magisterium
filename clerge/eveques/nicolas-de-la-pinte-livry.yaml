@@ -1,0 +1,52 @@
+slug: nicolas-de-la-pinte-livry
+nom: Nicolas de La Pinte Livry
+nom_complet: Nicolas de La Pinte de Livry, O. Praem.
+naissance: '1715'
+deces: '1795-01-07'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1758-01-29'
+  consecrateur_principal: gabriel-cortois-de-quincey
+  co_consecrateurs:
+  - jean-de-bonneguise
+  - jacques-de-grasse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blpl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Callinicum
+  du: '1757-12-19'
+  au: null
+- titre: Auxiliary Bishop of Mâcon, France
+  du: '1759-01-16'
+  au: 1764&sup1;
+- titre: Auxiliary Bishop Emeritus of Mâcon, France
+  du: null
+  au: '1795-01-07'
+- titre: évêque titulaire
+  du: '1757-12-19'
+  au: null
+- titre: évêque auxiliaire de Mâcon
+  du: '1759-01-16'
+  au: '1764-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745218
+  catholic_hierarchy: blpl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:59+00:00'
+  completeness: 0.88

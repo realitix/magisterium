@@ -1,0 +1,39 @@
+slug: pedro-pitoes
+nom: Pedro Pitoes
+nom_complet: null
+naissance: null
+deces: '1152'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: joao-peculiar
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpitoes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Porto, Portugal
+  du: '1146-07-01'
+  au: 1152&sup1;
+- titre: évêque de Porto
+  du: '1146-07-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779771
+  catholic_hierarchy: bpitoes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:37:27+00:00'
+  completeness: 0.5

@@ -1,0 +1,44 @@
+slug: antonio-bottis-c-r-s
+nom: Antonio Bottis, C.R.S.
+nom_complet: Antonio Bottis
+naissance: '1618-01-17'
+deces: '1679'
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1670-11-23'
+  lieu: S. Nicolas de Tolentino, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcello-santacroce
+  co_consecrateurs:
+  - alessandro-crescenzi
+  - ulisse-orsini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbottis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minori, Italy
+  du: '1670-11-17'
+  au: 1679&sup1;
+- titre: Roman Catholic Bishop of Minori
+  du: '1670-11-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26702399
+  catholic_hierarchy: bbottis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:43:21+00:00'
+  completeness: 0.88

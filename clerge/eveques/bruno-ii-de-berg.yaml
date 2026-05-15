@@ -1,0 +1,43 @@
+slug: bruno-ii-de-berg
+nom: Bruno II de Berg
+nom_complet: Bruno von Berg
+naissance: '1102'
+deces: '1137-05-30'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1132-12-25'
+  consecrateur_principal: non-indexe-cb0c99bc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvbergb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Köln {Cologne}, Germany
+  du: '1131-12-25'
+  au: '1137-05-30'
+- titre: archevêque
+  du: null
+  au: null
+- titre: archevêque de Cologne
+  du: '1132-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q87983
+  catholic_hierarchy: bvbergb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:27:45+00:00'
+  completeness: 0.75

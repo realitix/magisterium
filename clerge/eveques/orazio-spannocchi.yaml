@@ -1,0 +1,41 @@
+slug: orazio-spannocchi
+nom: Orazio Spannocchi
+nom_complet: null
+naissance: '1553'
+deces: '1620-09-05'
+naissance_lieu: Sienne
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1609-01-18'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: urbain-viii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspannoc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiusi, Italy
+  du: '1609-01-12'
+  au: '1620-09-05'
+- titre: Roman Catholic Bishop of Chiusi
+  du: '1609-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746524
+  catholic_hierarchy: bspannoc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:31:20+00:00'
+  completeness: 0.75

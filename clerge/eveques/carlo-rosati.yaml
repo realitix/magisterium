@@ -1,0 +1,43 @@
+slug: carlo-rosati
+nom: Carlo Rosati
+nom_complet: null
+naissance: '1706-08-23'
+deces: '1753-02-17'
+naissance_lieu: Troia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1752-03-25'
+  consecrateur_principal: giuseppe-spinelli-1694
+  co_consecrateurs:
+  - bernard-antoine-pizzella
+  - nicolas-xavier-santamarie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alife, Italy
+  du: '1752-03-20'
+  au: '1753-02-17'
+- titre: évêque diocésain
+  du: '1752-03-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760568
+  catholic_hierarchy: brosac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:27:06+00:00'
+  completeness: 1.0

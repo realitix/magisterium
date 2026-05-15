@@ -1,0 +1,53 @@
+slug: alfred-ancel
+nom: Alfred Ancel
+nom_complet: Alfred-Jean-Félix Ancel, Ist. del Prado
+naissance: '1898-10-22'
+deces: '1984-09-11'
+naissance_lieu: Lyon, Archdiocese of Lyon (-Vienne)
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1947-03-25'
+  consecrateur_principal: pierre-gerlier
+  co_consecrateurs:
+  - etienne-bornet
+  - lucien-sidroine-lebrun
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bancel.html
+  - https://fr.wikipedia.org/wiki/Alfred_Ancel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon (-Vienne), France
+  du: '1947-02-17'
+  au: null
+- titre: Titular Bishop of Myrina
+  du: '1947-02-17'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Lyon (-Vienne), France
+  du: null
+  au: '1984-09-11'
+- titre: évêque titulaire
+  du: '1947-02-17'
+  au: null
+- titre: évêque auxiliaire
+  du: '1947-02-17'
+  au: '1973-10-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28537426
+  catholic_hierarchy: bancel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:37:14+00:00'
+  completeness: 1.0

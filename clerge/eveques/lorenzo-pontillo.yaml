@@ -1,0 +1,43 @@
+slug: lorenzo-pontillo
+nom: Lorenzo Pontillo
+nom_complet: null
+naissance: '1792-04-21'
+deces: '1873-11-10'
+naissance_lieu: Casanova
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1834-01-26'
+  consecrateur_principal: carlo-odescalchi
+  co_consecrateurs:
+  - costantino-patrizi-naro
+  - domenico-genovesi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bponti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Cosenza, Italy
+  du: null
+  au: '1873-11-10'
+- titre: archevêque catholique
+  du: '1834-01-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735372
+  catholic_hierarchy: bponti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:43:13+00:00'
+  completeness: 1.0

@@ -1,0 +1,54 @@
+slug: jeronimo-osorio
+nom: Jerónimo Osório
+nom_complet: Hieronymus Osorius
+naissance: '1506'
+deces: '1580-08-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_incertus
+sacre:
+  date: '1564-10-22'
+  consecrateur_principal: juliao-de-alva
+  co_consecrateurs:
+  - jorge-de-lemos-o-p
+  - antonio-pinheiro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bosorioj.html
+  - https://fr.wikipedia.org/wiki/Jer%C3%B3nimo_Os%C3%B3rio
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Silves (Sylves), Portugal
+  du: '1564-06-21'
+  au: null
+- titre: Bishop of Faro {Algarve}, Portugal
+  du: null
+  au: '1580-08-20'
+- titre: évêque de Faro
+  du: '1577-04-09'
+  au: '1580-08-30'
+- titre: évêque de Silves
+  du: '1564-07-01'
+  au: '1577-04-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Osorius%2C%20Sylvensis%20Episcopus.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6185660
+  catholic_hierarchy: bosorioj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:58:40+00:00'
+  completeness: 0.88

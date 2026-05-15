@@ -1,0 +1,45 @@
+slug: mario-farci
+nom: Mario Farci
+nom_complet: null
+naissance: '1967-05-09'
+deces: null
+naissance_lieu: "Quartu Sant\x92Elena, Archdiocese of Cagliari"
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2025-02-09'
+  lieu: "Sant'Elena Imperatrice, Basilica, Quartu Sant\x92Elena, Archdiocese of Cagliari"
+  consecrateur_principal: giuseppe-baturi
+  co_consecrateurs:
+  - arrigo-miglio
+  - giuseppe-mani
+  - giovanni-paolo-zedda
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfarci.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Iglesias, Italy
+  du: '2024-11-30'
+  au: null
+- titre: évêque d'Iglesias
+  du: '2024-11-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q131362935
+  catholic_hierarchy: bfarci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:31:52+00:00'
+  completeness: 0.88

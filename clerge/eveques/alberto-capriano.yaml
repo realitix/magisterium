@@ -1,0 +1,40 @@
+slug: alberto-capriano
+nom: Alberto Capriano
+nom_complet: null
+naissance: null
+deces: '1595-01-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1590-09-16'
+  consecrateur_principal: alessandro-andreasi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcapria.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alba (Pompea), Italy
+  du: '1590-07-30'
+  au: '1595-01-23'
+- titre: évêque d'Alba
+  du: '1590-07-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64764048
+  catholic_hierarchy: bcapria
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:17:12+00:00'
+  completeness: 0.75

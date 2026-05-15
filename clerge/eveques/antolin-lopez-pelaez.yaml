@@ -1,0 +1,53 @@
+slug: antolin-lopez-pelaez
+nom: Antolín López Peláez
+nom_complet: Antolín López y Peláez
+naissance: '1866-07-30'
+deces: '1918-12-23'
+naissance_lieu: Manzanal del Puerto
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1905-04-04'
+  consecrateur_principal: gregorio-maria-aguirre-y-garcia
+  co_consecrateurs:
+  - enrique-almaraz-y-santos
+  - jose-maria-garcia-escudero-y-ubago
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blopp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaca, Spain
+  du: '1904-11-14'
+  au: null
+- titre: Archbishop of Tarragona, Spain
+  du: '1913-07-18'
+  au: '1918-12-23'
+- titre: archevêque de Tarragone
+  du: '1913-07-18'
+  au: '1918-12-23'
+- titre: évêque de Jaca
+  du: '1904-11-14'
+  au: '1913-07-18'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antol%C3%ADn%20L%C3%B3pez%20Pel%C3%A1ez.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20533673
+  catholic_hierarchy: blopp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:59:27+00:00'
+  completeness: 1.0

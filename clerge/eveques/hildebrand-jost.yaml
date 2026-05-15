@@ -1,0 +1,46 @@
+slug: hildebrand-jost
+nom: Hildebrand Jost
+nom_complet: null
+naissance: '1585-11-21'
+deces: '1638-05-16'
+naissance_lieu: Sion, Diocese of Sion {Sitten}
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1614-12-07'
+  lieu: Cathedral, Sion, Diocese of Sion {Sitten}
+  consecrateur_principal: vespasien-gribaldi
+  co_consecrateurs:
+  - francois-de-sales
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjost.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sion {Sitten}, Switzerland
+  du: null
+  au: 16 May 1638&sup3;
+- titre: évêque de Sion
+  du: '1613-10-15'
+  au: null
+- titre: évêque
+  du: '1613-10-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733366
+  catholic_hierarchy: bjost
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:03:34+00:00'
+  completeness: 1.0

@@ -1,0 +1,38 @@
+slug: lutho-von-baldersheim
+nom: Lutho von Baldersheim
+nom_complet: null
+naissance: null
+deces: '1321-08-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaldersh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pomesania (Pomezania), Poland
+  du: '1319-12-03'
+  au: '1321-08-28'
+- titre: évêque diocésain
+  du: '1319-12-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448438
+  catholic_hierarchy: bbaldersh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:57:43+00:00'
+  completeness: 0.38

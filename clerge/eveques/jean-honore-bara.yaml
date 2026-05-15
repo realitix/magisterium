@@ -1,0 +1,51 @@
+slug: jean-honore-bara
+nom: Jean-Honoré Bara
+nom_complet: null
+naissance: '1798-06-04'
+deces: '1864-07-11'
+naissance_lieu: Sainte-Vaubourg
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1856-07-20'
+  lieu: Cathedral, Reims, Archdiocese of Reims
+  consecrateur_principal: thomas-gousset
+  co_consecrateurs:
+  - joseph-armand-gignoux
+  - jean-nicaise-gros
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaraj.html
+  - https://fr.wikipedia.org/wiki/Jean-Honor%C3%A9_Bara
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Medea
+  du: '1856-06-16'
+  au: null
+- titre: Bishop of Châlons, France
+  du: null
+  au: '1864-07-11'
+- titre: évêque diocésain
+  du: '1860-01-01'
+  au: null
+- titre: évêque titulaire
+  du: '1856-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16164315
+  catholic_hierarchy: bbaraj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:00:41+00:00'
+  completeness: 1.0

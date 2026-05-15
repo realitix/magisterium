@@ -1,0 +1,43 @@
+slug: antonio-perchiacca
+nom: Antonio Perchiacca
+nom_complet: null
+naissance: '1777-03-29'
+deces: '1836-11-26'
+naissance_lieu: Capua
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1832-07-08'
+  consecrateur_principal: emmanuele-de-gregorio
+  co_consecrateurs:
+  - antonio-luigi-piatti
+  - pietro-ostini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trivento, Italy
+  du: null
+  au: '1836-11-26'
+- titre: évêque diocésain
+  du: '1832-03-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763504
+  catholic_hierarchy: bperc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:20:03+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: joseph-dao
+nom: Joseph Dao
+nom_complet: null
+naissance: '1936-06-08'
+deces: '2011-10-23'
+naissance_lieu: Bobo-Dioulasso
+deces_lieu: null
+rang: eveque
+nationalite: Q912
+tampon: ordo_dubius
+sacre:
+  date: '1979-01-27'
+  lieu: St. Peter Claver, Cathedral, Kayes, Diocese of Kayes
+  consecrateur_principal: luc-auguste-sangare
+  co_consecrateurs:
+  - jean-baptiste-maria-cisse
+  - anselme-titianma-sanon
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaojo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kayes, Mali
+  du: '1978-09-12'
+  au: null
+- titre: Bishop Emeritus of Kayes, Mali
+  du: null
+  au: '2011-10-23'
+- titre: évêque diocésain
+  du: '1978-09-12'
+  au: '2011-06-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1706828
+  catholic_hierarchy: bdaojo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:27:17+00:00'
+  completeness: 1.0

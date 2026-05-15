@@ -1,0 +1,43 @@
+slug: luis-crespi-y-borja-c-o
+nom: Luis Crespi y Borja, C.O.
+nom_complet: Luis Crespi y Borja
+naissance: '1607-05-02'
+deces: '1663-04-19'
+naissance_lieu: Valencia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1652'
+  consecrateur_principal: pedro-urbina-montoya-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrespi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Plasencia, Spain
+  du: null
+  au: '1663-04-19'
+- titre: évêque d'Orihuela
+  du: '1651-05-08'
+  au: '1658-05-26'
+- titre: évêque de Plasencia
+  du: '1658-05-26'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64734298
+  catholic_hierarchy: bcrespi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:14:09+00:00'
+  completeness: 0.88

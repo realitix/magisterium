@@ -1,0 +1,39 @@
+slug: sandor-bodonyi
+nom: Sandor Bodonyi
+nom_complet: null
+naissance: '1736-08-06'
+deces: '1812'
+naissance_lieu: Berki
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1807'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbodo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Beograd (-Smederevo), Serbia
+  du: null
+  au: 1812&sup1;
+- titre: Roman Catholic Bishop of Beograd (-Smederevo)
+  du: '1806-08-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68864251
+  catholic_hierarchy: bbodo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:33:15+00:00'
+  completeness: 0.5

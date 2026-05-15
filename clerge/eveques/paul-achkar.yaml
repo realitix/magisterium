@@ -1,0 +1,44 @@
+slug: paul-achkar
+nom: Paul Achkar
+nom_complet: null
+naissance: '1893-02-03'
+deces: '1982-04-23'
+naissance_lieu: Damas, Archdiocese of Damas (Melkite Greek)
+deces_lieu: Marmarita
+rang: archeveque
+nationalite: Q858
+tampon: ordo_validus
+sacre:
+  date: '1961-12-17'
+  lieu: Melkite, Cathedral, Damas, Archdiocese of Damas (Melkite Greek)
+  consecrateur_principal: maxime-iv-sayegh
+  co_consecrateurs:
+  - athanase-toutounji
+  - joseph-tawil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bachkar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop Emeritus of Lattaquié {Laodicea} (Melkite Greek), Syria
+  du: null
+  au: '1982-04-23'
+- titre: archevêque catholique
+  du: '1961-12-17'
+  au: '1981-08-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2058619
+  catholic_hierarchy: bachkar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 1.0

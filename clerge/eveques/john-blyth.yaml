@@ -1,0 +1,41 @@
+slug: john-blyth
+nom: John Blyth
+nom_complet: John Blythe
+naissance: '1450'
+deces: '1499-08-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1494-02-23'
+  consecrateur_principal: john-cardinal-morton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblythe.html
+  - https://fr.wikipedia.org/wiki/John_Blyth
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1493-11-13'
+  au: '1499-08-23'
+- titre: évêque de Salisbury
+  du: '1493-11-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6222297
+  catholic_hierarchy: bblythe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:52+00:00'
+  completeness: 0.75

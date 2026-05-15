@@ -1,0 +1,45 @@
+slug: jacques-delarue
+nom: Jacques Delarue
+nom_complet: Jacques Marie Delarue
+naissance: '1914-08-30'
+deces: '1982-08-23'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Nanterre, Diocese of Nanterre
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1966-11-20'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: pierre-veuillot
+  co_consecrateurs:
+  - emile-blanchet
+  - alexandre-renard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelarue.html
+  - https://fr.wikipedia.org/wiki/Jacques_Delarue_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nanterre, France
+  du: '1966-10-09'
+  au: '1982-08-23'
+- titre: évêque de Nanterre
+  du: '1966-10-09'
+  au: '1982-08-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3158676
+  catholic_hierarchy: bdelarue
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:38:50+00:00'
+  completeness: 1.0

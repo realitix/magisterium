@@ -1,0 +1,57 @@
+slug: charles-maigrot
+nom: Charles Maigrot
+nom_complet: Charles Maigrot, M.E.P.
+naissance: '1652'
+deces: '1730-02-28'
+naissance_lieu: Paris, Archdiocese of Paris, France
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1700-03-14'
+  lieu: Kiashin
+  consecrateur_principal: bernardino-della-chiesa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaig.html
+  - https://fr.wikipedia.org/wiki/Charles_Maigrot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Fukien (Kuiceu), China
+  du: '1687-02-05'
+  au: '1708-05-04'
+- titre: Titular Bishop of Comana Armeniae
+  du: '1687-02-05'
+  au: null
+- titre: Titular Bishop of Conana
+  du: '1696-10-22'
+  au: null
+- titre: Vicar Apostolic Emeritus of Fukien (Kuiceu), China
+  du: null
+  au: '1730-02-28'
+- titre: évêque titulaire
+  du: '1687-02-05'
+  au: null
+- titre: vicaire apostolique
+  du: '1687-02-05'
+  au: null
+- titre: évêque titulaire
+  du: '1696-10-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5972533
+  catholic_hierarchy: bmaig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:14:54+00:00'
+  completeness: 0.75

@@ -1,0 +1,48 @@
+slug: jean-ii-de-bade
+nom: Jean II de Bade
+nom_complet: Johann von Baden
+naissance: '1434'
+deces: '1502-02-09'
+naissance_lieu: Baden-Baden
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: Apr 1465&sup3;
+  lieu: Château, Sarrebruck
+  consecrateur_principal: georges-ier-de-bade
+  co_consecrateurs:
+  - reinhard-von-sickingen
+  - hubert-yffz-de-rommersdorf-o-praem
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbadenj.html
+  - https://fr.wikipedia.org/wiki/Jean_II_de_Bade
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Trier, Germany
+  du: null
+  au: '1502-02-09'
+- titre: archevêque de Trèves
+  du: '1465-04-01'
+  au: null
+- titre: prince-électeur
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q104806
+  catholic_hierarchy: bbadenj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:54:50+00:00'
+  completeness: 0.88

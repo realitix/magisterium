@@ -1,0 +1,40 @@
+slug: francisco-genoves-o-p
+nom: Francisco Genovés, O.P.
+nom_complet: Francisco Genovés
+naissance: '1765-11-29'
+deces: '1827-08-01'
+naissance_lieu: Valencia, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1826-07-02'
+  consecrateur_principal: francisco-alban-barreiro-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgenoves.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cebu, Philippines
+  du: null
+  au: '1827-08-01'
+- titre: bishop of Cebu
+  du: '1824-10-21'
+  au: '1827-08-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64735133
+  catholic_hierarchy: bgenoves
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:17:10+00:00'
+  completeness: 0.88

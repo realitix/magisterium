@@ -1,0 +1,50 @@
+slug: simon-de-maille
+nom: Simon de Maillé
+nom_complet: Simon de Maillé de Brézé
+naissance: '1515'
+deces: '1597-01-11'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: charles-miron
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmadbr.html
+  - https://fr.wikipedia.org/wiki/Simon_de_Maill%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viviers (Aps), France
+  du: '1550-09-01'
+  au: null
+- titre: Archbishop of Tours, France
+  du: '1554-06-25'
+  au: '1597-01-11'
+- titre: évêque de Viviers
+  du: '1550-09-11'
+  au: '1554-07-05'
+- titre: archevêque de Tours
+  du: '1554-07-05'
+  au: '1597-01-11'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20de%20Maill%C3%A9-Br%C3%A9z%C3%A9%20%281515-1597%29%2C%20archev%C3%AAque%20de%20Tours%20en%201554.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3484494
+  catholic_hierarchy: bmadbr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:11:08+00:00'
+  completeness: 0.5

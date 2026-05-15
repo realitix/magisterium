@@ -1,0 +1,50 @@
+slug: salvatore-leziroli
+nom: Salvatore Leziroli
+nom_complet: null
+naissance: '1800-04-01'
+deces: '1860-10-01'
+naissance_lieu: Imola, Diocese of Imola
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1842-07-31'
+  lieu: SS. Pierre et Marcellin, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giacomo-giustiniani
+  co_consecrateurs:
+  - ignazio-giovanni-cadolini
+  - gioacchino-tamburini-tamberini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blezi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montefeltro, Italy
+  du: '1842-07-22'
+  au: null
+- titre: Bishop of Rimini, Italy
+  du: '1845-01-20'
+  au: '1860-10-01'
+- titre: évêque de Rimini
+  du: '1845-01-20'
+  au: null
+- titre: évêque de Saint-Marin-Montefeltro
+  du: '1842-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744957
+  catholic_hierarchy: blezi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:22+00:00'
+  completeness: 1.0

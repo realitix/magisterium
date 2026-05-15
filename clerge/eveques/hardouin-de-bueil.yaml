@@ -1,0 +1,44 @@
+slug: hardouin-de-bueil
+nom: Hardouin de Bueil
+nom_complet: null
+naissance: '1347'
+deces: '1439-01-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1375-01-14'
+  consecrateur_principal: guillaume-de-meleduno
+  co_consecrateurs:
+  - aymeric-de-magnac
+  - jean-royer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbueilh.html
+  - https://fr.wikipedia.org/wiki/Hardouin_de_Bueil
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: '1374-06-16'
+  au: '1439-01-18'
+- titre: évêque d'Angers
+  du: '1374-06-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3127393
+  catholic_hierarchy: bbueilh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:57:58+00:00'
+  completeness: 0.88

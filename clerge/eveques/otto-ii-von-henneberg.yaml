@@ -1,0 +1,41 @@
+slug: otto-ii-von-henneberg
+nom: Otto II von Henneberg
+nom_complet: Otto von Henneberg
+naissance: '1200'
+deces: '1200-03-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenno.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: 23 Mar 1188&#8310;
+  au: '1200-03-03'
+- titre: évêque de Spire
+  du: '1188-03-30'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2039323
+  catholic_hierarchy: bhenno
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:12+00:00'
+  completeness: 0.38

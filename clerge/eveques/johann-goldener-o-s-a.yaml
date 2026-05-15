@@ -1,0 +1,53 @@
+slug: johann-goldener-o-s-a
+nom: Johann Goldener, O.S.A.
+nom_complet: Johann Goldener
+naissance: '1400'
+deces: '1475-04-25'
+naissance_lieu: Nürnberg
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1451-02-21'
+  lieu: Santa Maria in Aquiro, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: non-indexe-3378c5df
+  co_consecrateurs:
+  - andrea-veroli
+  - giovanni-cossa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgolde.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bamberg, Germany
+  du: '1451-01-14'
+  au: '1474'
+- titre: Titular Bishop of Acre (or Ptolomais)
+  du: '1451-01-14'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Bamberg, Germany
+  du: null
+  au: '1475-04-25'
+- titre: évêque titulaire
+  du: '1451-01-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1451-01-23'
+  au: '1474-01-01'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64751326
+  catholic_hierarchy: bgolde
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:30:45+00:00'
+  completeness: 0.88

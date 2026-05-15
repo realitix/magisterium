@@ -1,0 +1,39 @@
+slug: jean-de-iton-o-p
+nom: Jean de Iton, O.P.
+nom_complet: Jean de Iton
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1476-05-24'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/biton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Dionysias
+  du: '1476-05-24'
+  au: null
+- titre: évêque titulaire
+  du: '1476-05-24'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q68905056
+  catholic_hierarchy: biton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:58+00:00'
+  completeness: 0.25

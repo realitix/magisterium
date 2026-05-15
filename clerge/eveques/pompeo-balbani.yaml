@@ -1,0 +1,41 @@
+slug: pompeo-balbani
+nom: Pompeo Balbani
+nom_complet: null
+naissance: null
+deces: '1639'
+naissance_lieu: Lucca
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1632-01-25'
+  lieu: Santa Croce e San Bonaventura alla Pilotta, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-cardinal-caetani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalbanip.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castro [del Lazio], Italy
+  du: '1632-01-19'
+  au: 1639&sup1;
+- titre: évêque diocésain
+  du: '1632-01-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28154956
+  catholic_hierarchy: bbalbanip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:57:20+00:00'
+  completeness: 0.62

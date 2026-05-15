@@ -1,0 +1,43 @@
+slug: jean-kurio
+nom: Jean Kurio
+nom_complet: null
+naissance: '1875-04-15'
+deces: '1946-04-24'
+naissance_lieu: Alquosh
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1942-02-01'
+  consecrateur_principal: joseph-emmanuel-ii-toma
+  co_consecrateurs:
+  - jean-nissan
+  - hormisdas-etienne-djibri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkurio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amadiyah (Chaldean), Iraq
+  du: '1941-11-24'
+  au: '1946-04-24'
+- titre: évêque diocésain
+  du: '1941-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778039
+  catholic_hierarchy: bkurio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:24:01+00:00'
+  completeness: 1.0

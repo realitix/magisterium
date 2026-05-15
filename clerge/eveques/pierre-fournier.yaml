@@ -1,0 +1,42 @@
+slug: pierre-fournier
+nom: Pierre Fournier
+nom_complet: null
+naissance: null
+deces: '1575-07-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfourpi.html
+  - https://fr.wikipedia.org/wiki/Pierre_Fournier_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: '1561-01-31'
+  au: '1575-07-14'
+- titre: évêque diocésain
+  du: '1561-02-10'
+  au: null
+- titre: évêque de Périgueux et Sarlat
+  du: '1561-02-10'
+  au: '1575-07-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60543930
+  catholic_hierarchy: bfourpi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:54:21+00:00'
+  completeness: 0.38

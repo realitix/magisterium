@@ -1,0 +1,44 @@
+slug: calogero-licata
+nom: Calogero Licata
+nom_complet: null
+naissance: '1872-10-20'
+deces: '1924-08-25'
+naissance_lieu: Aragona
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1916-06-29'
+  lieu: Ste Agnes de la Place Navone, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: vincenzo-vannutelli
+  co_consecrateurs:
+  - bartolomeo-lagumina
+  - adolfo-turchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blicata.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Calvi e Teano, Italy
+  du: '1916-04-14'
+  au: '1924-08-25'
+- titre: Roman Catholic Bishop of Calvi and Teano
+  du: '1916-04-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30951438
+  catholic_hierarchy: blicata
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:49:19+00:00'
+  completeness: 1.0

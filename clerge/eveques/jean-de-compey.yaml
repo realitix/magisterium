@@ -1,0 +1,60 @@
+slug: jean-de-compey
+nom: Jean de Compey
+nom_complet: Giovanni de Compesio (Compeys)
+naissance: '1450'
+deces: '1492-06-28'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1469-12-10'
+  consecrateur_principal: francois-de-prez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcampesig.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Compey
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Torino, Italy
+  du: '1469-11-21'
+  au: null
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1482-07-24'
+  au: null
+- titre: Archbishop of Tarentaise (Moûtiers-en-Tarentaise), France
+  du: '1484-06-14'
+  au: '1492-06-28'
+- titre: chancelier de Savoie
+  du: '1462-01-01'
+  au: '1464-01-01'
+- titre: archevêque de Tarentaise
+  du: '1484-06-23'
+  au: '1492-07-07'
+- titre: évêque de Genève
+  du: '1482-07-01'
+  au: '1484-01-01'
+- titre: évêque de Turin
+  du: '1469-11-30'
+  au: '1482-08-02'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20Compey%2C%20bishop%20of%20Geneva%20-%20seal%2C%201483.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q684177
+  catholic_hierarchy: bcampesig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:11:39+00:00'
+  completeness: 0.75

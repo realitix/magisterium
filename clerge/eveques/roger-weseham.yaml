@@ -1,0 +1,43 @@
+slug: roger-weseham
+nom: Roger Weseham
+nom_complet: null
+naissance: '1250'
+deces: '1257-05-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '19'
+  consecrateur_principal: non-indexe-669f9354
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweseham.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: 1245&sup1;
+  au: '1256-12-04'
+- titre: Bishop Emeritus of Coventry and Lichfield, England, Great Britain
+  du: null
+  au: '1257-05-20'
+- titre: évêque de Coventry et Lichfield
+  du: '1245-01-01'
+  au: '1256-12-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7359096
+  catholic_hierarchy: bweseham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:07+00:00'
+  completeness: 0.62

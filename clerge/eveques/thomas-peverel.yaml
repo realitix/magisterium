@@ -1,0 +1,50 @@
+slug: thomas-peverel
+nom: Thomas Peverel
+nom_complet: Thomas Peverel, O. Carm.
+naissance: null
+deces: '1419-03-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpever.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1395-11-03'
+  au: null
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: '1398-07-12'
+  au: null
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1407-07-04'
+  au: '1419-03-02'
+- titre: évêque du diocèse d'Ossory
+  du: '1395-11-11'
+  au: null
+- titre: évêque catholique de Llandaff
+  du: '1398-07-20'
+  au: null
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1407-07-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7793136
+  catholic_hierarchy: bpever
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:27:42+00:00'
+  completeness: 0.38

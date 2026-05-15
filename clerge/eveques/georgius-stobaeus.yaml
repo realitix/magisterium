@@ -1,0 +1,50 @@
+slug: georgius-stobaeus
+nom: Georgius Stobaeus
+nom_complet: Georg Stobäus von Palmburg
+naissance: '1532'
+deces: '1618-10-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1585-05-05'
+  consecrateur_principal: christoph-schlattl
+  co_consecrateurs:
+  - hector-wegmann
+  - bartholomaus-scholl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstobaus.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavant, Slovenia
+  du: '1584-10-19'
+  au: '1618-10-23'
+- titre: évêque de Lavant
+  du: '1584-10-19'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Georgius%20Stobaeus%20Lavant.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1506134
+  catholic_hierarchy: bstobaus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:39:26+00:00'
+  completeness: 0.88

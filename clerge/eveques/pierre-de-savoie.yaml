@@ -1,0 +1,42 @@
+slug: pierre-de-savoie
+nom: Pierre de Savoie
+nom_complet: null
+naissance: '1440'
+deces: '1458-08-21'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavoiep.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Savoie_(archev%C3%AAque_de_Tarentaise)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Administrator of Genève {Geneva}, Switzerland
+  du: '1451-01-09'
+  au: '1458-08-21'
+- titre: archevêque de Tarentaise
+  du: '1454-12-10'
+  au: '1456-04-10'
+- titre: administrateur du diocèse de Genève
+  du: '1451-01-18'
+  au: '1458-08-30'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3387701
+  catholic_hierarchy: bsavoiep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:06+00:00'
+  completeness: 0.38

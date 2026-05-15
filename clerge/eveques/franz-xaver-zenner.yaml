@@ -1,0 +1,54 @@
+slug: franz-xaver-zenner
+nom: Franz Xaver Zenner
+nom_complet: null
+naissance: '1794-11-11'
+deces: '1861-10-29'
+naissance_lieu: Wien
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1851-03-30'
+  lieu: Sankt Stefan, Cathedral, Vienna, Archdiocese of Wien {Vienna}
+  consecrateur_principal: vincenz-eduard-milde
+  co_consecrateurs:
+  - johann-michael-leonhard
+  - joseph-othmar-von-rauscher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzenner.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Wien {Vienna}, Austria
+  du: '1851-02-17'
+  au: '1861-10-29'
+- titre: Titular Bishop of Sarepta
+  du: '1851-02-17'
+  au: null
+- titre: évêque titulaire
+  du: '1851-02-17'
+  au: null
+- titre: évêque auxiliaire
+  du: '1851-02-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Xaver%20Zenner%20Titelblatt.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1449765
+  catholic_hierarchy: bzenner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:08:12+00:00'
+  completeness: 1.0

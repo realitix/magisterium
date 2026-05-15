@@ -1,0 +1,44 @@
+slug: francois-verjus
+nom: François Verjus
+nom_complet: null
+naissance: '1633'
+deces: '1710-12-17'
+naissance_lieu: Sens
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1692-12-07'
+  consecrateur_principal: charles-maurice-le-tellier
+  co_consecrateurs:
+  - charles-gaspard-guillaume-de-vintimille-du-luc
+  - francois-d-argouges
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bverjusf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Verjus
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grasse, France
+  du: null
+  au: '1710-12-17'
+- titre: évêque diocésain
+  du: '1684-05-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1339737
+  catholic_hierarchy: bverjusf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:33:39+00:00'
+  completeness: 0.88

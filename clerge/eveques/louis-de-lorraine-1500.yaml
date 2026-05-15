@@ -1,0 +1,49 @@
+slug: louis-de-lorraine-1500
+nom: Louis de Lorraine
+nom_complet: Louis, Count of Vaudémont
+naissance: '1500-05-07'
+deces: '1528-09-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorrl.html
+  - https://fr.wikipedia.org/wiki/Louis_de_Lorraine_(1500-1528)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1508-09-18'
+  au: null
+- titre: Bishop-Elect of Verdun, France
+  du: null
+  au: 1523&sup1;
+- titre: Former Bishop-Elect of Verdun, France
+  du: null
+  au: 1528&sup2;
+- titre: évêque de Verdun
+  du: '1508-01-01'
+  au: '1522-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20de%20Lorraine%2C%20comte%20de%20Vaud%C3%A9mont.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1993565
+  catholic_hierarchy: blorrl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:26+00:00'
+  completeness: 0.25

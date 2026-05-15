@@ -1,0 +1,52 @@
+slug: thomas-polton
+nom: Thomas Polton
+nom_complet: null
+naissance: null
+deces: '1433-08-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1420-07-21'
+  consecrateur_principal: richard-belmer-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpolton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1420-07-15'
+  au: null
+- titre: Bishop of Chichester, England, Great Britain
+  du: '1421-11-17'
+  au: null
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1426-02-27'
+  au: '1433-08-23'
+- titre: Roman Catholic Bishop of Chichester
+  du: '1421-11-26'
+  au: null
+- titre: évêque de Hereford
+  du: '1420-07-24'
+  au: null
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1426-03-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7793205
+  catholic_hierarchy: bpolton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:41:57+00:00'
+  completeness: 0.62

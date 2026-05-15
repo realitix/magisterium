@@ -1,0 +1,50 @@
+slug: franciszek-jaczewski
+nom: Franciszek Jaczewski
+nom_complet: null
+naissance: '1832-05-09'
+deces: '1914-07-23'
+naissance_lieu: Górki Grubaki
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1890-05-18'
+  lieu: Ste Catherine, St. Petersbourg
+  consecrateur_principal: aleksander-kazimierz-beresniewicz
+  co_consecrateurs:
+  - anton-johann-zerr
+  - antanas-baranauskas
+  - antoni-franciszek-audziewicz
+  - micha-322-nowodworski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjacz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lublin and Janów Podlaski (Podlaska o Janów), Poland
+  du: '1889-12-30'
+  au: '1914-07-23'
+- titre: Roman Catholic Bishop of Lublin and Janów Podlaski
+  du: '1889-12-30'
+  au: '1914-07-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20Jaczewski.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11698631
+  catholic_hierarchy: bjacz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:27+00:00'
+  completeness: 1.0

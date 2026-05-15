@@ -1,0 +1,44 @@
+slug: michel-colbert-de-saint-pouange
+nom: Michel Colbert de Saint-Pouange
+nom_complet: null
+naissance: '1619'
+deces: '1676-11-28'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1666-12-12'
+  consecrateur_principal: ferdinand-de-neufville-de-villeroy
+  co_consecrateurs:
+  - dominique-de-ligny
+  - jean-de-maupeou
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcdsp.html
+  - https://fr.wikipedia.org/wiki/Michel_Colbert_de_Saint-Pouange
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mâcon, France
+  du: '1666-10-11'
+  au: '1676-11-28'
+- titre: évêque de Mâcon
+  du: '1666-10-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15967096
+  catholic_hierarchy: bcdsp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:35:29+00:00'
+  completeness: 0.88

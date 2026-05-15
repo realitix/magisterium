@@ -1,0 +1,47 @@
+slug: charles-de-saint-paul
+nom: Charles de Saint-Paul
+nom_complet: Charles Vialart de Saint-Paul, O.S.B.
+naissance: '1592'
+deces: '1644-09-15'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1642-07-06'
+  consecrateur_principal: leonor-d-rsquo-estampes-de-valancay-o-s-b
+  co_consecrateurs:
+  - nicolas-sanguin
+  - richard-smith
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bviadsp.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Saint-Paul
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avranches, France
+  du: null
+  au: '1644-09-15'
+- titre: évêque diocésain
+  du: '1640-05-18'
+  au: null
+- titre: supérieur général
+  du: null
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q2960695
+  catholic_hierarchy: bviadsp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:40+00:00'
+  completeness: 0.88

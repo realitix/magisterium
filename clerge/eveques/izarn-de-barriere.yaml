@@ -1,0 +1,45 @@
+slug: izarn-de-barriere
+nom: Izarn de Barrière
+nom_complet: null
+naissance: null
+deces: '1498-04-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1491'
+  consecrateur_principal: francois-halle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarriz.html
+  - https://fr.wikipedia.org/wiki/Izarn_de_Barri%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Maguelonne, France
+  du: '1490-11-05'
+  au: '1498-04-19'
+- titre: évêque de Maguelone
+  du: '1490-11-14'
+  au: '1498-04-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cath%C3%A9drale%20de%20Maguelone-PM34001498.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q60834301
+  catholic_hierarchy: bbarriz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:05:11+00:00'
+  completeness: 0.75

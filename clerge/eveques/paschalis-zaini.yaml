@@ -1,0 +1,43 @@
+slug: paschalis-zaini
+nom: Paschalis Zaini
+nom_complet: null
+naissance: '1692-05-03'
+deces: '1756-02-15'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1735-03-13'
+  consecrateur_principal: annibale-albani
+  co_consecrateurs:
+  - camillo-olivieri
+  - fabio-troyli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzaini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guardialfiera (Guardia), Italy
+  du: '1735-01-26'
+  au: '1756-02-15'
+- titre: évêque de Guardialfiera
+  du: '1735-01-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744826
+  catholic_hierarchy: bzaini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:04:17+00:00'
+  completeness: 1.0

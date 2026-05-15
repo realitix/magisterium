@@ -1,0 +1,43 @@
+slug: giacomo-lieto
+nom: Giacomo Lieto
+nom_complet: null
+naissance: '1711-07-24'
+deces: '1769-02-05'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1754-05-23'
+  consecrateur_principal: ferdinando-maria-de-rossi
+  co_consecrateurs:
+  - simone-gritti
+  - callisto-maria-palombella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bletog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lanciano, Italy
+  du: null
+  au: '1769-02-05'
+- titre: archevêque catholique
+  du: '1754-05-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733535
+  catholic_hierarchy: bletog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:46:56+00:00'
+  completeness: 1.0

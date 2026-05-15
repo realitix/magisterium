@@ -1,0 +1,56 @@
+slug: luc-d-aquin
+nom: Luc d'Aquin
+nom_complet: Luc d&rsquo;Acquin
+naissance: '1640'
+deces: '1718-03-02'
+naissance_lieu: Avignon, Archdiocese of Avignon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1674-08-12'
+  consecrateur_principal: jean-baptiste-adhemar-de-monteil-de-grignan
+  co_consecrateurs:
+  - edouard-vallot
+  - rene-le-sauvage
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baquin.html
+  - https://fr.wikipedia.org/wiki/Luc_d%27Aquin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fréjus, France
+  du: '1681-03-17'
+  au: 1697&sup2;
+- titre: Bishop Emeritus of Fréjus, France
+  du: null
+  au: '1718-03-02'
+- titre: évêque de Fréjus
+  du: '1681-03-17'
+  au: '1697-01-01'
+- titre: évêque de Saint-Paul-Trois-Châteaux
+  du: '1674-06-06'
+  au: null
+- titre: évêque de Fréjus
+  du: '1681-05-11'
+  au: '1697-01-01'
+- titre: doyen
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2365483
+  catholic_hierarchy: baquin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:29+00:00'
+  completeness: 0.88

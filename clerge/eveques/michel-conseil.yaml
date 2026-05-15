@@ -1,0 +1,45 @@
+slug: michel-conseil
+nom: Michel Conseil
+nom_complet: null
+naissance: '1716-03-19'
+deces: '1793-09-27'
+naissance_lieu: Megève, Diocese of Genève {Geneva}, Switzerland
+deces_lieu: Chambéry, Diocese of Chambéry
+rang: eveque
+nationalite: Q2577303
+tampon: ordo_validus
+sacre:
+  date: '1780-04-30'
+  lieu: Santi Martiri, Church, Torino, Archdiocese of Torino {Turin}, Italy
+  consecrateur_principal: vittorio-maria-baldassare-gaetano-costa-d-arignano
+  co_consecrateurs:
+  - giacinto-amedeo-vagnone
+  - charles-joseph-compans-de-brichanteau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcon.html
+  - https://fr.wikipedia.org/wiki/Michel_Conseil
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chambéry, France
+  du: null
+  au: '1793-09-27'
+- titre: évêque de Chambéry
+  du: '1780-01-26'
+  au: '1793-09-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22055477
+  catholic_hierarchy: bcon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:01:08+00:00'
+  completeness: 1.0

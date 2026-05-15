@@ -1,0 +1,42 @@
+slug: antoine-de-la-chambre
+nom: Antoine de La Chambre
+nom_complet: null
+naissance: null
+deces: '1575-02-01'
+naissance_lieu: null
+deces_lieu: Belley, Diocese of Belley
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdlcan.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_La_Chambre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: '1538-05-24'
+  au: 1575&sup1;
+- titre: évêque de Belley
+  du: '1538-01-01'
+  au: '1575-01-01'
+- titre: évêque diocésain
+  du: '1538-06-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23770616
+  catholic_hierarchy: bdlcan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:54:03+00:00'
+  completeness: 0.25

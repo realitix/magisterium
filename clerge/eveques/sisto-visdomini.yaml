@@ -1,0 +1,41 @@
+slug: sisto-visdomini
+nom: Sisto Visdomini
+nom_complet: Sisto Visdomini (Vicedomini), O.P.
+naissance: null
+deces: '1590-09-27'
+naissance_lieu: Como, Diocese of Como
+deces_lieu: Modena, Diocese of Modena
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1571-12-16'
+  lieu: Ferrara, Diocese of Ferrara
+  consecrateur_principal: alfonso-rossetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvisdomin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modena, Italy
+  du: '1571-11-16'
+  au: '1590-09-27'
+- titre: évêque diocésain
+  du: '1571-11-26'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64761683
+  catholic_hierarchy: bvisdomin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:42:32+00:00'
+  completeness: 0.75

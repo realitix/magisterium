@@ -1,0 +1,75 @@
+slug: jean-delay
+nom: Jean Delay
+nom_complet: null
+naissance: '1879-12-19'
+deces: '1966-12-06'
+naissance_lieu: Lorette
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1928-10-29'
+  consecrateur_principal: louis-joseph-maurin
+  co_consecrateurs:
+  - jean-marie-bourchany
+  - francisque-marnas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelay.html
+  - https://fr.wikipedia.org/wiki/Jean_Delay_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon (-Vienne), France
+  du: '1928-08-10'
+  au: null
+- titre: Titular Bishop of Leptis Magna
+  du: '1928-08-10'
+  au: null
+- titre: Bishop of Marseille, France
+  du: '1937-08-14'
+  au: null
+- titre: Archbishop of Marseille, France
+  du: '1948-01-31'
+  au: null
+- titre: Titular Archbishop of Pompeiopolis in Paphlagonia
+  du: '1956-09-05'
+  au: null
+- titre: Archbishop Emeritus of Marseille, France
+  du: null
+  au: '1966-12-06'
+- titre: évêque titulaire
+  du: '1928-08-10'
+  au: null
+- titre: archevêque titulaire
+  du: '1956-09-05'
+  au: null
+- titre: évêque auxiliaire
+  du: '1928-08-10'
+  au: null
+- titre: archevêque de Marseille
+  du: '1948-01-31'
+  au: '1956-09-05'
+- titre: évêque de Marseille
+  du: '1937-08-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Delay%20archev%C3%AAque%20de%20Marseille.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3171633
+  catholic_hierarchy: bdelay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:38:59+00:00'
+  completeness: 1.0

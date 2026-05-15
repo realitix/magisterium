@@ -1,0 +1,44 @@
+slug: gaspard-dinet
+nom: Gaspard Dinet
+nom_complet: null
+naissance: '1569-01-06'
+deces: '1619-11-30'
+naissance_lieu: Moulins
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1600-01-06'
+  consecrateur_principal: francois-cardinal-de-joyeuse
+  co_consecrateurs:
+  - arnaud-sorbin-de-sainte-foi
+  - francois-de-pericard-1505
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdinet.html
+  - https://fr.wikipedia.org/wiki/Gaspard_Dinet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mâcon, France
+  du: '1599-08-02'
+  au: '1619-11-30'
+- titre: évêque de Mâcon
+  du: '1599-08-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15967028
+  catholic_hierarchy: bdinet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:52:05+00:00'
+  completeness: 1.0

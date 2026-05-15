@@ -1,0 +1,56 @@
+slug: bernard-brion
+nom: Bernard Brion
+nom_complet: Bernard Lebrun
+naissance: null
+deces: '1349-10-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1327-10-18'
+  consecrateur_principal: aymar-de-la-voulte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blebrunb.html
+  - https://fr.wikipedia.org/wiki/Bernard_Brion
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Puy-en-Velay, France
+  du: '1327-02-10'
+  au: null
+- titre: Bishop of Noyon, France
+  du: '1342-09-25'
+  au: null
+- titre: Bishop of Auxerre, France
+  du: '1347-05-14'
+  au: '1349-10-29'
+- titre: évêque du Puy
+  du: '1327-01-01'
+  au: '1342-01-01'
+- titre: évêque de Noyon
+  du: '1342-10-03'
+  au: '1347-01-01'
+- titre: évêque d'Auxerre
+  du: '1347-05-22'
+  au: '1349-01-01'
+- titre: évêque diocésain
+  du: '1327-02-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2897597
+  catholic_hierarchy: blebrunb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:26+00:00'
+  completeness: 0.75

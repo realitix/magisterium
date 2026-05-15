@@ -1,0 +1,51 @@
+slug: gabor-mariassy
+nom: Gábor Máriássy
+nom_complet: null
+naissance: '1807-06-03'
+deces: '1871-10-26'
+naissance_lieu: Igló, Diocese of Spi&#353;, Slovakia
+deces_lieu: Eger, Archdiocese of Eger
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1865-05-14'
+  lieu: Cathedral, Eger, Archdiocese of Eger
+  consecrateur_principal: bela-bartakovics
+  co_consecrateurs:
+  - ignac-fabry
+  - antal-jozsef-peitler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmariass.html
+  - https://fr.wikipedia.org/wiki/G%C3%A1bor_M%C3%A1ri%C3%A1ssy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eger, Hungary
+  du: '1865-03-27'
+  au: '1871-10-26'
+- titre: Titular Bishop of Palaeopolis in Asia
+  du: '1865-03-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1865-03-27'
+  au: null
+- titre: évêque titulaire
+  du: '1865-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20437491
+  catholic_hierarchy: bmariass
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:16+00:00'
+  completeness: 1.0

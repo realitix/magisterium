@@ -1,0 +1,44 @@
+slug: luis-juan-tome
+nom: Luis Juan Tomé
+nom_complet: null
+naissance: '1914-07-19'
+deces: '1981-09-25'
+naissance_lieu: Buenos Aires, Archdiocese of Buenos Aires
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1963-09-15'
+  lieu: Inmaculada Concepción, Church, Buenos Aires, Archdiocese of Buenos Aires
+  consecrateur_principal: antonio-caggiano
+  co_consecrateurs:
+  - juan-carlos-aramburu
+  - guillermo-bolatti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btome.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mercedes, Argentina
+  du: '1963-07-26'
+  au: '1981-09-25'
+- titre: évêque diocésain
+  du: '1963-07-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16009748
+  catholic_hierarchy: btome
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:03:33+00:00'
+  completeness: 1.0

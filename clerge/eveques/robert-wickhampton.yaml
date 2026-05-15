@@ -1,0 +1,45 @@
+slug: robert-wickhampton
+nom: Robert Wickhampton
+nom_complet: null
+naissance: '1250'
+deces: '1284-04-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1274-05-13'
+  consecrateur_principal: robert-kilwardby
+  co_consecrateurs:
+  - laurence-of-saint-martin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwickh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: null
+  au: '1284-04-24'
+- titre: évêque de Salisbury
+  du: '1271-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1271-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7351036
+  catholic_hierarchy: bwickh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:55:12+00:00'
+  completeness: 0.88

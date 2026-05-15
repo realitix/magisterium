@@ -1,0 +1,43 @@
+slug: john-brett
+nom: John Brett
+nom_complet: John Brett, O.P.
+naissance: null
+deces: '1756-06-22'
+naissance_lieu: Ballymore, Co. Sligo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1743-09-08'
+  consecrateur_principal: antonio-saverio-gentili
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrett.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elphin, Ireland
+  du: '1748-08-28'
+  au: '1756-06-22'
+- titre: évêque diocésain
+  du: '1743-07-08'
+  au: null
+- titre: évêque diocésain
+  du: '1748-08-28'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q6223093
+  catholic_hierarchy: bbrett
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:51:13+00:00'
+  completeness: 0.75

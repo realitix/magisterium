@@ -1,0 +1,52 @@
+slug: pedro-de-godoy
+nom: Pedro de Godoy
+nom_complet: Pedro de Godoy, O.P.
+naissance: '1608-04-30'
+deces: '1677-01-25'
+naissance_lieu: Aldeanueva de la Vera
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1664-08-17'
+  lieu: Bejar
+  consecrateur_principal: alonso-henriquez-de-santo-tomas
+  co_consecrateurs:
+  - gabriel-esparza
+  - antonio-rodriguez-castanon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgodoyp.html
+  - https://fr.wikipedia.org/wiki/Pedro_de_Godoy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sigüenza, Spain
+  du: null
+  au: '1677-01-25'
+- titre: évêque de Sigüenza
+  du: '1672-05-06'
+  au: '1677-01-25'
+- titre: évêque d'Osma
+  du: '1664-03-31'
+  au: '1672-05-16'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20Godoy%2C%20obispo%20de%20Osma%20y%20Sig%C3%BCenza%20%28Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Fernando%29.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6070485
+  catholic_hierarchy: bgodoyp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:30:04+00:00'
+  completeness: 0.88

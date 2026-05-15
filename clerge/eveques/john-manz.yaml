@@ -1,0 +1,53 @@
+slug: john-manz
+nom: John Manz
+nom_complet: John Raymond Manz
+naissance: '1945-11-14'
+deces: '2023-07-14'
+naissance_lieu: Chicago, Archdiocese of Chicago, Illinois
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '1996-03-05'
+  lieu: Holy Name, Cathedral, Chicago, Archdiocese of Chicago, Illinois
+  consecrateur_principal: joseph-bernardin
+  co_consecrateurs:
+  - wilton-daniel-gregory
+  - placido-rodriguez
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chicago, Illinois, USA
+  du: '1996-01-23'
+  au: null
+- titre: Titular Bishop of Mulia
+  du: '1996-01-23'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Chicago, Illinois, USA
+  du: null
+  au: '2023-07-14'
+- titre: évêque titulaire
+  du: '1996-01-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1996-01-23'
+  au: '2021-07-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1382148
+  catholic_hierarchy: bmanz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:22:57+00:00'
+  completeness: 1.0

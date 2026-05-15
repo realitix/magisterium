@@ -1,0 +1,39 @@
+slug: jean-de-buz
+nom: Jean de Buz
+nom_complet: null
+naissance: null
+deces: '1552-10-09'
+naissance_lieu: null
+deces_lieu: Château, Villemareuil
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuz.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Buz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1535-08-13'
+  au: '1552-10-09'
+- titre: évêque de Meaux
+  du: '1535-08-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28841970
+  catholic_hierarchy: bbuz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:02:49+00:00'
+  completeness: 0.38

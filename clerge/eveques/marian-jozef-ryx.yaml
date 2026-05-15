@@ -1,0 +1,47 @@
+slug: marian-jozef-ryx
+nom: Marian Józef Ryx
+nom_complet: null
+naissance: '1853-12-10'
+deces: '1930-06-01'
+naissance_lieu: Warszawa, Archdiocese of Warszawa {Warsaw}
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1910-06-19'
+  consecrateur_principal: wincenty-kluczynski
+  co_consecrateurs:
+  - stefan-antoni-denisewicz
+  - augustyn-osinski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bryx.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sandomierz, Poland
+  du: '1910-04-07'
+  au: '1930-06-01'
+- titre: évêque diocésain
+  du: '1910-04-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Marian%20Jozef%20Ryx%20%2878841061%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1896662
+  catholic_hierarchy: bryx
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:38:34+00:00'
+  completeness: 1.0

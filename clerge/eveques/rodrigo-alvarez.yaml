@@ -1,0 +1,38 @@
+slug: rodrigo-alvarez
+nom: Rodrigo Álvarez
+nom_complet: null
+naissance: null
+deces: '1232-03-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balvarzrg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of León, Spain
+  du: Jul 1209&sup3;
+  au: '1232-03-08'
+- titre: évêque de León
+  du: '1209-07-01'
+  au: '1232-03-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447940
+  catholic_hierarchy: balvarzrg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:33:34+00:00'
+  completeness: 0.38

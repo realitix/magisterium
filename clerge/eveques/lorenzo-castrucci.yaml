@@ -1,0 +1,43 @@
+slug: lorenzo-castrucci
+nom: Lorenzo Castrucci
+nom_complet: null
+naissance: '1572'
+deces: '1655'
+naissance_lieu: Lucca
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1617-07-30'
+  consecrateur_principal: urbain-viii
+  co_consecrateurs:
+  - attilio-amalteo
+  - alessandro-guidiccioni-1550
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastrul.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Spoleto, Italy
+  du: '1617-07-17'
+  au: 1655&sup1;
+- titre: évêque diocésain
+  du: '1617-07-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745942
+  catholic_hierarchy: bcastrul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:32:03+00:00'
+  completeness: 0.75

@@ -1,0 +1,38 @@
+slug: cesare-lambertini
+nom: Cesare Lambertini
+nom_complet: Caesar Lambertinus
+naissance: '1475'
+deces: '1550'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blambrtc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Isola, Italy
+  du: '1508-09-22'
+  au: '1545-06-08'
+- titre: Roman Catholic Bishop of Isola
+  du: '1508-10-02'
+  au: '1545-06-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905747
+  catholic_hierarchy: blambrtc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:47+00:00'
+  completeness: 0.25

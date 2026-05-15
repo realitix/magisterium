@@ -1,0 +1,61 @@
+slug: pierre-warin
+nom: Pierre Warin
+nom_complet: null
+naissance: '1948-06-15'
+deces: null
+naissance_lieu: Rocourt
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '2004-09-26'
+  lieu: Saint-Aubain, Cathedral, Namur, Diocese of Namur {Namen}
+  consecrateur_principal: andre-leonard
+  co_consecrateurs:
+  - aloys-jousten
+  - guy-harpigny
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwarin.html
+  - https://fr.wikipedia.org/wiki/Pierre_Warin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Namur {Namen}, Belgium
+  du: '2004-07-08'
+  au: null
+- titre: Titular Bishop of Tongres
+  du: '2004-07-08'
+  au: null
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '2019-06-05'
+  au: null
+- titre: évêque auxiliaire
+  du: '2004-07-08'
+  au: '2019-06-05'
+- titre: évêque de Namur
+  du: '2019-06-05'
+  au: '2025-10-06'
+- titre: évêque titulaire
+  du: '2004-07-08'
+  au: '2019-06-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monseigneur%20Warin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q561275
+  catholic_hierarchy: bwarin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:51:19+00:00'
+  completeness: 0.88

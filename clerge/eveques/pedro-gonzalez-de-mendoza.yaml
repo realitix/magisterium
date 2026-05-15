@@ -1,0 +1,43 @@
+slug: pedro-gonzalez-de-mendoza
+nom: Pedro González de Mendoza
+nom_complet: Pedro González Mendoza
+naissance: '1518'
+deces: '1574-09-10'
+naissance_lieu: Guadalajara, Archdiocese of Toledo
+deces_lieu: Guadalajara, Archdiocese of Toledo
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: '1560-09-29'
+  lieu: Guadalajara, Archdiocese of Toledo
+  consecrateur_principal: pedro-castro-lemos
+  co_consecrateurs:
+  - francisco-manrique-de-lara
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgonmen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salamanca, Spain
+  du: '1560-06-26'
+  au: '1574-09-10'
+- titre: évêque de Salamanque
+  du: '1560-07-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777966
+  catholic_hierarchy: bgonmen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:33:54+00:00'
+  completeness: 0.88

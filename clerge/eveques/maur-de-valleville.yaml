@@ -1,0 +1,44 @@
+slug: maur-de-valleville
+nom: Maur de Valleville
+nom_complet: Maur de Valleville (Malleville)
+naissance: null
+deces: '1472-02-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '11'
+  consecrateur_principal: louis-d-harcourt
+  co_consecrateurs:
+  - etienne-roupy-de-cambrai
+  - pierre-bureau
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvallev.html
+  - https://fr.wikipedia.org/wiki/Maur_de_Valleville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Maguelonne, France
+  du: '1453-12-19'
+  au: '1472-02-28'
+- titre: évêque de Maguelone
+  du: '1453-12-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60834304
+  catholic_hierarchy: bvallev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:22:53+00:00'
+  completeness: 0.88

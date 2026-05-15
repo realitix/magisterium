@@ -1,0 +1,41 @@
+slug: placido-pozzi
+nom: Placido Pozzi
+nom_complet: null
+naissance: '1819-09-17'
+deces: '1897-01-17'
+naissance_lieu: Villanova, Diocese of Mondovi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1873-08-03'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpozzip.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mondovi, Italy
+  du: '1873-07-25'
+  au: '1897-01-17'
+- titre: évêque diocésain
+  du: '1873-07-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733425
+  catholic_hierarchy: bpozzip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:47:17+00:00'
+  completeness: 0.88

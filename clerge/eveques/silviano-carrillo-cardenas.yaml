@@ -1,0 +1,44 @@
+slug: silviano-carrillo-cardenas
+nom: Silviano Carrillo Cárdenas
+nom_complet: Silviano Carrillo y Cárdenas
+naissance: '1861-05-04'
+deces: '1921-09-10'
+naissance_lieu: Pátzcuaro
+deces_lieu: Culiacán, Diocese of Sinaloa
+rang: eveque
+nationalite: Q96
+tampon: ordo_validus
+sacre:
+  date: '1921-02-24'
+  lieu: Cathedral, Guadalajara, Archdiocese of Guadalajara, Jalisco
+  consecrateur_principal: jose-francisco-orozco-y-jimenez
+  co_consecrateurs:
+  - jose-othon-nunez-y-zarate
+  - francisco-uranga-y-saenz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarcar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sinaloa, México
+  du: '1920-07-30'
+  au: '1921-09-10'
+- titre: Bishop of the Roman Catholic Diocese of Culiacán
+  du: '1920-07-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19309152
+  catholic_hierarchy: bcarcar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:20:25+00:00'
+  completeness: 1.0

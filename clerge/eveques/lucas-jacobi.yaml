@@ -1,0 +1,45 @@
+slug: lucas-jacobi
+nom: Lucas Jacobi
+nom_complet: null
+naissance: null
+deces: '1574-10-26'
+naissance_lieu: Termonde, Diocese of Gent {Ghent, Gand}
+deces_lieu: Tournai, Diocese of Tournai {Doornik}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1561-03-20'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjacobil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Tournai {Doornik}, Belgium
+  du: '1561-03-10'
+  au: '1574-10-26'
+- titre: Titular Bishop of Sarepta
+  du: '1561-03-10'
+  au: null
+- titre: évêque titulaire
+  du: '1561-03-20'
+  au: null
+- titre: évêque auxiliaire
+  du: '1561-03-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761008
+  catholic_hierarchy: bjacobil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:56:55+00:00'
+  completeness: 0.38

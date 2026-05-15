@@ -1,0 +1,46 @@
+slug: william-de-york
+nom: William de York
+nom_complet: William of York
+naissance: '1200'
+deces: '1256-01-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1247-07-14'
+  consecrateur_principal: fulk-bassett
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/byorkw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1246-12-10'
+  au: '1256-01-31'
+- titre: évêque diocésain
+  du: '1246-12-17'
+  au: null
+- titre: évêque de Salisbury
+  du: '1246-01-01'
+  au: '1256-01-01'
+- titre: lord juge en chef
+  du: '1241-01-01'
+  au: '1247-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8020842
+  catholic_hierarchy: byorkw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:02:28+00:00'
+  completeness: 0.75

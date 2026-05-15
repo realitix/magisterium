@@ -1,0 +1,40 @@
+slug: nicolas-mele
+nom: Nicolas Mele
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Oct 1366&sup2;
+  consecrateur_principal: carlo-urso
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmelen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerace, Italy
+  du: '1366-08-03'
+  au: null
+- titre: évêque diocésain
+  du: '1366-08-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108463339
+  catholic_hierarchy: bmelen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:48:36+00:00'
+  completeness: 0.62

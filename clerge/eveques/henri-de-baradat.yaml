@@ -1,0 +1,44 @@
+slug: henri-de-baradat
+nom: Henri de Baradat
+nom_complet: null
+naissance: '1598'
+deces: '1660-08-25'
+naissance_lieu: Damery
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1626-08-02'
+  consecrateur_principal: jean-francois-de-gondi
+  co_consecrateurs:
+  - claude-de-gelas
+  - gilles-de-souvre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaradath.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Baradat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Noyon, France
+  du: null
+  au: '1660-08-25'
+- titre: évêque de Noyon
+  du: '1625-12-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3132215
+  catholic_hierarchy: bbaradath
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:00:34+00:00'
+  completeness: 0.88

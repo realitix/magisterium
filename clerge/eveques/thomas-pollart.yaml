@@ -1,0 +1,43 @@
+slug: thomas-pollart
+nom: Thomas Pollart
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1447-08-27'
+  consecrateur_principal: natale-bencesi-da-venezia-o-carm
+  co_consecrateurs:
+  - stefano-carrara
+  - andrew-macbradaigh
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpollart.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Down and Connor, Ireland
+  du: '1447-06-21'
+  au: 1451&sup1;
+- titre: évêque de Down et Connor
+  du: '1447-06-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447652
+  catholic_hierarchy: bpollart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:41:39+00:00'
+  completeness: 0.75

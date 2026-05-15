@@ -1,0 +1,44 @@
+slug: marco-saracini
+nom: Marco Saracini
+nom_complet: null
+naissance: '1535'
+deces: '1574-09-21'
+naissance_lieu: Arezzo, Diocese of Arezzo
+deces_lieu: Volterra, Diocese of Volterra
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1574-01-24'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: sixte-v
+  co_consecrateurs:
+  - giacomo-lomellino-del-canto
+  - adriano-fuscone
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaracini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Volterra, Italy
+  du: '1574-01-15'
+  au: '1574-09-21'
+- titre: évêque diocésain
+  du: '1574-01-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29937433
+  catholic_hierarchy: bsaracini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:53:20+00:00'
+  completeness: 0.88

@@ -1,0 +1,55 @@
+slug: ciril-banic
+nom: Ćiril Banić
+nom_complet: Ciril Banic
+naissance: '1890-08-06'
+deces: '1961-02-03'
+naissance_lieu: Dolac Donji
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1951-05-27'
+  lieu: '&Scaron;ibenik'
+  consecrateur_principal: quirinus-clement-bonefacic
+  co_consecrateurs:
+  - frane-franic
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbanic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of &#352;ibenik (Knin), Croatia
+  du: '1951-03-28'
+  au: null
+- titre: Titular Bishop of Corone
+  du: '1951-03-28'
+  au: null
+- titre: Bishop of &#352;ibenik (Knin), Croatia
+  du: '1960-12-24'
+  au: '1961-02-03'
+- titre: évêque titulaire
+  du: '1951-03-28'
+  au: null
+- titre: évêque de Šibenik
+  du: '1960-12-24'
+  au: null
+- titre: administrateur apostolique
+  du: '1951-03-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25501092
+  catholic_hierarchy: bbanic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:00:03+00:00'
+  completeness: 1.0

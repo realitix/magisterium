@@ -1,0 +1,44 @@
+slug: camille-de-polignac
+nom: Camille de Polignac
+nom_complet: Camille-Louis-Apollinaire de Polignac
+naissance: '1745-08-31'
+deces: '1821-10-27'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1779-08-08'
+  consecrateur_principal: christophe-de-beaumont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpolign.html
+  - https://fr.wikipedia.org/wiki/Camille_de_Polignac_(1745-1821)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: null
+  au: '1801-11-10'
+- titre: Bishop Emeritus of Meaux, France
+  du: null
+  au: '1821-10-27'
+- titre: évêque de Meaux
+  du: '1779-02-28'
+  au: '1801-11-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2935108
+  catholic_hierarchy: bpolign
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:41:26+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: antolin-garcia-lozano
+nom: Antolín García Lozano
+nom_complet: null
+naissance: '1779-09-02'
+deces: '1852-05-15'
+naissance_lieu: Atienza, Diocese of Sigüenza
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1851-11-16'
+  lieu: San Isidro, Madrid, Archdiocese of Toledo
+  consecrateur_principal: juan-jose-bonel-y-orbe
+  co_consecrateurs:
+  - tomas-iglesias-y-barcones
+  - nicolas-luis-lezo-y-garro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarcial.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salamanca, Spain
+  du: null
+  au: '1852-05-15'
+- titre: évêque de Salamanque
+  du: '1851-05-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733334
+  catholic_hierarchy: bgarcial
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:09:48+00:00'
+  completeness: 1.0

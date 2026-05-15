@@ -1,0 +1,45 @@
+slug: gonzalo-de-campo
+nom: Gonzalo de Campo
+nom_complet: Gonzalo del Campo (López de Ocampo)
+naissance: '1572'
+deces: '1627-10-15'
+naissance_lieu: Madrid, Archdiocese of Toledo, Spain
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1624-03-10'
+  lieu: Madrid, Archdiocese of Toledo, Spain
+  consecrateur_principal: luis-fernandez-de-cordoba
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeocampo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lima, Peru
+  du: '1623-10-02'
+  au: '1627-10-15'
+- titre: archevêque de Lima
+  du: '1623-10-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gonzalo%20de%20Campo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9274497
+  catholic_hierarchy: bdeocampo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:56+00:00'
+  completeness: 0.75

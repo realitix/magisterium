@@ -1,0 +1,48 @@
+slug: wilhelm-arnoldi
+nom: Wilhelm Arnoldi
+nom_complet: null
+naissance: '1798-01-04'
+deces: '1864-01-07'
+naissance_lieu: Baden
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1842-09-18'
+  lieu: Cathedral, Trier, Diocese of Trier
+  consecrateur_principal: johannes-von-geissel
+  co_consecrateurs:
+  - wilhelm-arnold-gunther
+  - franz-arnold-melchers
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barnoldi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trier, Germany
+  du: null
+  au: '1864-01-07'
+- titre: évêque de Trèves
+  du: '1842-06-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Arnoldi%20-%20Bischof.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q90087
+  catholic_hierarchy: barnoldi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 1.0

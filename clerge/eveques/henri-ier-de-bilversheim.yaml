@@ -1,0 +1,48 @@
+slug: henri-ier-de-bilversheim
+nom: Henri Ier de Bilversheim
+nom_complet: Heinrich von Bilversheim, O.S.B.
+naissance: '1200'
+deces: '1257-09-17'
+naissance_lieu: null
+deces_lieu: Wolfsberg
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1245-10-01'
+  lieu: Lyon, Archdiocese of Lyon, France
+  consecrateur_principal: non-indexe-669f9354
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbilver.html
+  - https://fr.wikipedia.org/wiki/Heinrich_von_Bilversheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Chiemsee, Germany
+  du: '1247-10-19'
+  au: 1252&sup2;
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1257-09-17'
+- titre: administrateur apostolique
+  du: '1247-10-26'
+  au: null
+- titre: évêque de Bamberg
+  du: '1242-06-12'
+  au: '1257-09-24'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q1597727
+  catholic_hierarchy: bbilver
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:27:39+00:00'
+  completeness: 0.62

@@ -1,0 +1,44 @@
+slug: matteo-concini
+nom: Matteo Concini
+nom_complet: null
+naissance: '1501'
+deces: '1573-02-01'
+naissance_lieu: Penna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1560-07-14'
+  lieu: Santa Maria del Portico, Church, Firenze, Archdiocese of Firenze {Florence}
+  consecrateur_principal: alessandro-strozzi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconcini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cortona, Italy
+  du: '1560-02-14'
+  au: '1562-12-16'
+- titre: Bishop Emeritus of Cortona, Italy
+  du: null
+  au: Feb 1573&sup3;
+- titre: évêque diocésain
+  du: '1560-02-24'
+  au: '1562-12-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752175
+  catholic_hierarchy: bconcini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:01:25+00:00'
+  completeness: 0.5

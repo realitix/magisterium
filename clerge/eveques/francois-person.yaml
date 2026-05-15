@@ -1,0 +1,50 @@
+slug: francois-person
+nom: François Person
+nom_complet: François Person, S.M.A.
+naissance: '1890-09-19'
+deces: '1938-07-08'
+naissance_lieu: Plouharnel, Diocese of Vannes, France
+deces_lieu: Abidjan, Vicariate Apostolic of Costa d&rsquo;Avorio
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1936-05-10'
+  lieu: Abidjan, Vicariate Apostolic of Costa d&rsquo;Avorio
+  consecrateur_principal: augustin-hermann-herman-s-m-a
+  co_consecrateurs:
+  - hubert-joseph-paulissen
+  - louis-parisot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpersf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Costa d&rsquo;Avorio
+  du: '1935-12-09'
+  au: '1938-07-08'
+- titre: Titular Bishop of Paraetonium
+  du: '1935-12-09'
+  au: null
+- titre: évêque titulaire
+  du: '1935-12-09'
+  au: null
+- titre: vicaire apostolique
+  du: '1935-12-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11859996
+  catholic_hierarchy: bpersf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:24:22+00:00'
+  completeness: 1.0

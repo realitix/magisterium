@@ -1,0 +1,44 @@
+slug: pietro-colli
+nom: Pietro Colli
+nom_complet: null
+naissance: '1805-07-22'
+deces: '1868-10-30'
+naissance_lieu: Adria, Diocese of Adria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1867-07-02'
+  lieu: Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabio-maria-asquini
+  co_consecrateurs:
+  - nicolo-frangipane-1804
+  - salvatore-angelo-de-martis-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcollip.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Adria, Italy
+  du: '1867-03-27'
+  au: '1868-10-30'
+- titre: évêque diocésain
+  du: '1867-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707871
+  catholic_hierarchy: bcollip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:58:48+00:00'
+  completeness: 1.0

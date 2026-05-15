@@ -1,0 +1,44 @@
+slug: hartwig-ier-de-spanheim
+nom: Hartwig Ier de Spanheim
+nom_complet: Hartwig von Spanheim
+naissance: '1100'
+deces: '1126-03-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1106'
+  consecrateur_principal: heinrich-von-assel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspanhe.html
+  - https://fr.wikipedia.org/wiki/Hartwig_Ier_de_Spanheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: 1106&sup1;
+  au: '1126-03-03'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1106-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1587749
+  catholic_hierarchy: bspanhe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:31:16+00:00'
+  completeness: 0.75

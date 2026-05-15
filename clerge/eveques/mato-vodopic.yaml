@@ -1,0 +1,48 @@
+slug: mato-vodopic
+nom: Mato Vodopić
+nom_complet: Mato Vodopi&#263;
+naissance: '1816-12-13'
+deces: '1893-03-13'
+naissance_lieu: Ragusa, Diocese of Dubrovnik (Ragusa)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-09-03'
+  lieu: Srs. Heimmeul Renwez, Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: serafino-vannutelli
+  co_consecrateurs:
+  - jakub-bosagi
+  - eduard-angerer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvodopic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dubrovnik (Ragusa), Croatia
+  du: null
+  au: '1893-03-13'
+- titre: évêque de Dubrovnik
+  du: '1882-03-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mato%20Vodopi%C4%87.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3512112
+  catholic_hierarchy: bvodopic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:45:01+00:00'
+  completeness: 1.0

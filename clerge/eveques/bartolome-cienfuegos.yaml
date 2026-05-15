@@ -1,0 +1,43 @@
+slug: bartolome-cienfuegos
+nom: Bartolomé Cienfuegos
+nom_complet: null
+naissance: '1755-08-10'
+deces: '1827-01-22'
+naissance_lieu: San Martín de Leiguarda
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1816-11-03'
+  consecrateur_principal: rafael-de-muzquiz-aldunate
+  co_consecrateurs:
+  - juan-garcia-benito
+  - jose-antonio-de-azpeytia-y-saenz-de-santa-maria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcieb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mondoñedo, Spain
+  du: '1816-07-22'
+  au: '1827-01-22'
+- titre: évêque de Mondoñedo
+  du: '1816-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64697683
+  catholic_hierarchy: bcieb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:50:13+00:00'
+  completeness: 1.0

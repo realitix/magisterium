@@ -1,0 +1,43 @@
+slug: walter-mauclerc
+nom: Walter Mauclerc
+nom_complet: null
+naissance: null
+deces: '1248-10-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1224-12-07'
+  consecrateur_principal: walter-de-gray
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmauclerc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1223-10-28'
+  au: '1246-07-13'
+- titre: Bishop Emeritus of Carlisle, England, Great Britain
+  du: null
+  au: '1248-10-28'
+- titre: évêque diocésain
+  du: '1223-11-04'
+  au: '1246-07-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762259
+  catholic_hierarchy: bmauclerc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:05+00:00'
+  completeness: 0.75

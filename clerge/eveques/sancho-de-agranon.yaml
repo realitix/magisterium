@@ -1,0 +1,41 @@
+slug: sancho-de-agranon
+nom: Sancho de Agrañón
+nom_complet: null
+naissance: null
+deces: '1116-08-03'
+naissance_lieu: null
+deces_lieu: Calahorra, Diocese of Calahorra
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1109'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: pascal-ii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgranon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Calahorra, Spain
+  du: 1109&sup2;
+  au: '1116-08-03'
+- titre: évêque de Calahorra
+  du: '1109-01-01'
+  au: '1116-08-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763803
+  catholic_hierarchy: bgranon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:55+00:00'
+  completeness: 0.62

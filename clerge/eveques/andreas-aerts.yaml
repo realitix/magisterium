@@ -1,0 +1,39 @@
+slug: andreas-aerts
+nom: Andreas Aerts
+nom_complet: null
+naissance: '1715-11-10'
+deces: '1790-08-13'
+naissance_lieu: Lommel
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1763'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baertsa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of &rsquo;s-Hertogenbosch (Bois-le-Duc), Netherlands
+  du: '1763'
+  au: '1790-08-13'
+- titre: vicaire apostolique
+  du: '1763-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4358183
+  catholic_hierarchy: baertsa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:21:38+00:00'
+  completeness: 0.5

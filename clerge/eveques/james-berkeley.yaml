@@ -1,0 +1,43 @@
+slug: james-berkeley
+nom: James Berkeley
+nom_complet: null
+naissance: '1250'
+deces: '1327-06-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1327-03-22'
+  consecrateur_principal: walter-reynolds
+  co_consecrateurs:
+  - john-langton-1300
+  - hamo-hethe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberkel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: null
+  au: '1327-06-24'
+- titre: évêque d'Exeter
+  du: '1326-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6129709
+  catholic_hierarchy: bberkel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:20:08+00:00'
+  completeness: 0.88

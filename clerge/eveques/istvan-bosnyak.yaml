@@ -1,0 +1,44 @@
+slug: istvan-bosnyak
+nom: István Bosnyák
+nom_complet: null
+naissance: '1606'
+deces: '1644-09-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q171150
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbosny.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1640-04-30'
+  au: '1644-09-23'
+- titre: évêque de Pécs
+  du: '1640-04-30'
+  au: null
+- titre: évêque de Veszprém
+  du: '1642-11-21'
+  au: null
+- titre: évêque de Vác
+  du: '1644-09-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20477916
+  catholic_hierarchy: bbosny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:42:24+00:00'
+  completeness: 0.38

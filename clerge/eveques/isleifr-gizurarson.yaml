@@ -1,0 +1,41 @@
+slug: isleifr-gizurarson
+nom: Ísleifr Gizurarson
+nom_complet: Ísleifur Gissurarson
+naissance: '1006'
+deces: '1080-07-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q189
+tampon: ordo_validus
+sacre:
+  date: '1055-06-04'
+  consecrateur_principal: adalbert-de-breme
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgissur.html
+  - https://fr.wikipedia.org/wiki/%C3%8Dsleifr_Gizurarson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skálholt, Iceland
+  du: 1055&sup1;
+  au: '1080-07-05'
+- titre: évêque diocésain
+  du: '1055-06-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q291836
+  catholic_hierarchy: bgissur
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:26:06+00:00'
+  completeness: 0.75

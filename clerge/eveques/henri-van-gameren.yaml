@@ -1,0 +1,43 @@
+slug: henri-van-gameren
+nom: Henri Van Gameren
+nom_complet: Henri-Gabriel van Gameren
+naissance: '1700-05-28'
+deces: '1775-01-26'
+naissance_lieu: Sanventheim
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1759-09-09'
+  consecrateur_principal: guillaume-delvaux
+  co_consecrateurs:
+  - maximilien-antoine-van-der-noot
+  - jean-robert-caimo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvgameren.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antwerpen {Antwerp, Anvers}, Belgium
+  du: null
+  au: '1775-01-26'
+- titre: évêque diocésain
+  du: '1758-11-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734339
+  catholic_hierarchy: bvgameren
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:16+00:00'
+  completeness: 1.0

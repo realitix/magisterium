@@ -1,0 +1,44 @@
+slug: achille-sergardi
+nom: Achille Sergardi
+nom_complet: null
+naissance: null
+deces: '1601'
+naissance_lieu: null
+deces_lieu: Siena, Archdiocese of Siena
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1587-10-04'
+  lieu: S. Laurent in Lucina, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: gabriele-paleotti
+  co_consecrateurs:
+  - vincenzo-casali
+  - francois-panigarole
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsergrda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Massa Marittima, Italy
+  du: '1587-09-28'
+  au: 1601&sup2;
+- titre: évêque diocésain
+  du: '1587-09-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28669751
+  catholic_hierarchy: bsergrda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:11:10+00:00'
+  completeness: 0.75

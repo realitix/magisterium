@@ -1,0 +1,39 @@
+slug: sigewin-von-are
+nom: Sigewin von Are
+nom_complet: Sigwin von Are
+naissance: '1100'
+deces: '1089'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvare.html
+  - https://fr.wikipedia.org/wiki/Sigewin_von_Are
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Köln {Cologne}, Germany
+  du: 1078&sup2;
+  au: '1089-05-31'
+- titre: archevêque de Cologne
+  du: '1078-01-01'
+  au: '1089-06-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q896369
+  catholic_hierarchy: bvare
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:25:24+00:00'
+  completeness: 0.38

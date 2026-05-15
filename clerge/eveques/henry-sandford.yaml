@@ -1,0 +1,49 @@
+slug: henry-sandford
+nom: Henry Sandford
+nom_complet: null
+naissance: '1150'
+deces: '1235-02-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1227-05-09'
+  consecrateur_principal: stephen-cardinal-langton
+  co_consecrateurs:
+  - pierre-des-roches
+  - william-briwere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsandford.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1226-12-26'
+  au: '1235-02-24'
+- titre: évêque diocésain
+  du: '1226-12-26'
+  au: null
+- titre: archidiacre de Cantorbéry
+  du: '1213-01-01'
+  au: '1227-01-01'
+- titre: évêque de Rochester
+  du: '1227-01-01'
+  au: '1235-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5727987
+  catholic_hierarchy: bsandford
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:48:18+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: nicolas-de-myre
+nom: Nicolas de Myre
+nom_complet: St. Nicholas of Myra
+naissance: '250'
+deces: '343'
+naissance_lieu: Patara
+deces_lieu: null
+rang: eveque
+nationalite: Q1747689
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmyran.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Myre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Myra
+  du: null
+  au: 6 Dec 343
+- titre: évêque diocésain
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/St%20Nicholas%20Icon%20Sinai%2013th%20century.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q44269
+  catholic_hierarchy: bmyran
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:23:24+00:00'
+  completeness: 0.38

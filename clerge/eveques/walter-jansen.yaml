@@ -1,0 +1,53 @@
+slug: walter-jansen
+nom: Walter Jansen
+nom_complet: Walter Theodor Jansen
+naissance: '1923-06-15'
+deces: '2004-01-29'
+naissance_lieu: Neuss
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1983-06-19'
+  lieu: St. Peter, Cathedral, Köln, Archdiocese of Köln {Cologne}
+  consecrateur_principal: joseph-hoffner
+  co_consecrateurs:
+  - augustinus-frotz
+  - heinrich-maria-janssen
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjansen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Köln {Cologne}, Germany
+  du: '1983-05-19'
+  au: null
+- titre: Titular Bishop of Barica
+  du: '1983-05-19'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Köln {Cologne}, Germany
+  du: null
+  au: '2004-01-29'
+- titre: évêque titulaire
+  du: '1983-05-19'
+  au: '2004-01-29'
+- titre: évêque auxiliaire
+  du: '1983-05-19'
+  au: '1994-06-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2544923
+  catholic_hierarchy: bjansen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:58:34+00:00'
+  completeness: 1.0

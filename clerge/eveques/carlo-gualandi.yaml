@@ -1,0 +1,38 @@
+slug: carlo-gualandi
+nom: Carlo Gualandi
+nom_complet: null
+naissance: null
+deces: '1498'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgualandc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ostuni, Italy
+  du: '1484-07-05'
+  au: 1498&sup1;
+- titre: évêque diocésain
+  du: '1484-07-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68904302
+  catholic_hierarchy: bgualandc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:46:25+00:00'
+  completeness: 0.25

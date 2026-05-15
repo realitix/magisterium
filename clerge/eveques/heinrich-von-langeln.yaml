@@ -1,0 +1,41 @@
+slug: heinrich-von-langeln
+nom: Heinrich von Langeln
+nom_complet: null
+naissance: null
+deces: '1381-01-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangeln.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verden, Germany
+  du: '1369-01-08'
+  au: '1381-01-23'
+- titre: évêque de Verden
+  du: '1369-01-16'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905809
+  catholic_hierarchy: blangeln
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:55+00:00'
+  completeness: 0.38

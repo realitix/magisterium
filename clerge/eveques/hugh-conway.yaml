@@ -1,0 +1,53 @@
+slug: hugh-conway
+nom: Hugh Conway
+nom_complet: null
+naissance: '1819-02-02'
+deces: '1893-04-23'
+naissance_lieu: Ballycroy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1872-02-04'
+  lieu: Ballina, Diocese of Killala
+  consecrateur_principal: john-macevilly
+  co_consecrateurs:
+  - laurence-gillooly-c-m
+  - george-conroy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconwh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Killala, Ireland
+  du: '1871-11-21'
+  au: null
+- titre: Titular Bishop of Achantus
+  du: '1871-11-21'
+  au: null
+- titre: Bishop of Killala, Ireland
+  du: null
+  au: '1893-04-23'
+- titre: évêque titulaire
+  du: '1871-11-21'
+  au: null
+- titre: évêque diocésain
+  du: '1873-06-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762415
+  catholic_hierarchy: bconwh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:11+00:00'
+  completeness: 1.0

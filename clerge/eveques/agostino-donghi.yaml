@@ -1,0 +1,45 @@
+slug: agostino-donghi
+nom: Agostino Donghi
+nom_complet: Augustin Donghi, C.R.
+naissance: '1610'
+deces: '1648-01-28'
+naissance_lieu: Genova, Archdiocese of Genova, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1644-05-15'
+  lieu: Sant'Andrea della Valle, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giandomenico-spinola
+  co_consecrateurs:
+  - ottavio-rivarola
+  - francesco-maria-spinola-c-r
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdonghia.html
+  - https://fr.wikipedia.org/wiki/Agostino_Donghi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aleria, France
+  du: '1644-04-18'
+  au: 28 Jan 1648&sup3;
+- titre: évêque diocésain
+  du: '1644-04-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18398366
+  catholic_hierarchy: bdonghia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:00:54+00:00'
+  completeness: 0.88

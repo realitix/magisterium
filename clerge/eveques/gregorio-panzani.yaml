@@ -1,0 +1,43 @@
+slug: gregorio-panzani
+nom: Gregorio Panzani
+nom_complet: Gregorio Panzani, C.O.
+naissance: '1592-10-16'
+deces: '1660-06-25'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1640-09-02'
+  consecrateur_principal: giulio-cesare-sacchetti
+  co_consecrateurs:
+  - pietro-antonio-spinelli
+  - gaetano-cossa-c-r
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpanzani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mileto, Italy
+  du: '1640-08-13'
+  au: '1660-06-25'
+- titre: évêque de Mileto
+  du: '1640-08-13'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q5606735
+  catholic_hierarchy: bpanzani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:08:02+00:00'
+  completeness: 1.0

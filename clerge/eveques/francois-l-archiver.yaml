@@ -1,0 +1,44 @@
+slug: francois-l-archiver
+nom: François L'Archiver
+nom_complet: François L&rsquo;Archiver
+naissance: '1570'
+deces: '1619-02-22'
+naissance_lieu: Plouezoch, Finistère
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1602-06-24'
+  consecrateur_principal: arnaud-d-ossat
+  co_consecrateurs:
+  - giuseppe-ferrerio
+  - jerome-ii-centelles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blarchvr.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_L%27Archiver
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rennes, France
+  du: '1602-06-17'
+  au: '1619-02-22'
+- titre: évêque de Rennes
+  du: '1602-06-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3085043
+  catholic_hierarchy: blarchvr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:33:40+00:00'
+  completeness: 0.88

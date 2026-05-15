@@ -1,0 +1,54 @@
+slug: wac-322-aw-majewski
+nom: Wac&#322;aw Majewski
+nom_complet: Waclaw Majewski
+naissance: '1891-09-09'
+deces: '1983-01-14'
+naissance_lieu: Warszawa, Archdiocese of Warszawa {Warsaw}
+deces_lieu: Warszawa, Archdiocese of Warszawa {Warsaw}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1946-06-29'
+  lieu: Pro-Cathedral, Warszawa, Archdiocese of Warszawa {Warsaw}
+  consecrateur_principal: august-hlond
+  co_consecrateurs:
+  - kazimierz-tomczak
+  - antoni-wladyslaw-szlagowski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmajewski.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Warszawa {Warsaw}, Poland
+  du: '1946-05-07'
+  au: '1983-01-14'
+- titre: Titular Bishop of Docimium
+  du: '1946-05-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '1946-05-07'
+  au: null
+- titre: évêque titulaire
+  du: '1946-05-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BpWMajewski.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8863147
+  catholic_hierarchy: bmajewski
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:15:37+00:00'
+  completeness: 1.0

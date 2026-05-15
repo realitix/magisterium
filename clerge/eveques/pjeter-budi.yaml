@@ -1,0 +1,47 @@
+slug: pjeter-budi
+nom: Pjetër Budi
+nom_complet: Pietro Budi
+naissance: '1566'
+deces: '1622'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q222
+tampon: ordo_validus
+sacre:
+  date: '1621-08-22'
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - luc-alamanni
+  - giovanni-antonio-santorio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbudi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sapë, Albania
+  du: '1621-07-21'
+  au: Dec 1622&sup3;
+- titre: évêque de Sapë
+  du: '1621-07-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Burrel%2C%20Albania%202017-04%20Pjet%C3%ABr%20Budi%20Bust.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q980377
+  catholic_hierarchy: bbudi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:57:47+00:00'
+  completeness: 0.75

@@ -1,0 +1,52 @@
+slug: claude-de-seyssel
+nom: Claude de Seyssel
+nom_complet: Claudius de Seysello
+naissance: '1450'
+deces: '1520-06-01'
+naissance_lieu: Aix-les-Bains
+deces_lieu: null
+rang: archeveque
+nationalite: Q3591895
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseys.html
+  - https://fr.wikipedia.org/wiki/Claude_de_Seyssel_(archev%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: '1511-12-03'
+  au: null
+- titre: Archbishop of Torino {Turin}, Italy
+  du: '1517-05-11'
+  au: '1520-06-01'
+- titre: abbé de Saint-Pons de Nice
+  du: '1507-01-01'
+  au: '1520-01-01'
+- titre: archevêque de Turin
+  du: '1517-05-21'
+  au: null
+- titre: évêque de Marseille
+  du: '1511-12-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Seyssel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q348597
+  catholic_hierarchy: bseys
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:13:19+00:00'
+  completeness: 0.38

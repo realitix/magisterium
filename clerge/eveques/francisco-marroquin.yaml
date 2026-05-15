@@ -1,0 +1,48 @@
+slug: francisco-marroquin
+nom: Francisco Marroquín
+nom_complet: Francisco Marroquín Hurtado
+naissance: '1499'
+deces: '1563-04-19'
+naissance_lieu: Santander, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1537-04-08'
+  lieu: Cathedral, Mexico, Diocese of México, Federal District
+  consecrateur_principal: juan-de-zumarraga
+  co_consecrateurs:
+  - juan-lopez-de-zarate
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarhu.html
+  - https://fr.wikipedia.org/wiki/Francisco_Marroqu%C3%ADn
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Guatemala
+  du: '1534-12-18'
+  au: '1563-04-19'
+- titre: évêque de Santiago de Guatemala
+  du: '1534-12-28'
+  au: '1563-04-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Marroquinmur1894.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1373530
+  catholic_hierarchy: bmarhu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:01+00:00'
+  completeness: 0.88

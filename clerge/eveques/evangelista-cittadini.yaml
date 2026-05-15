@@ -1,0 +1,47 @@
+slug: evangelista-cittadini
+nom: Evangelista Cittadini
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Milano, Archdiocese of Milano {Milan}
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1544-12-28'
+  lieu: San Pietro in Vincoli, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: taddeo-pepoli-o-s-b
+  co_consecrateurs:
+  - antonio-numai
+  - ludovico-cardinal-simonetta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcittade.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alessano, Italy
+  du: '1542-04-26'
+  au: 1548&sup1;
+- titre: Bishop Emeritus of Alessano, Italy
+  du: null
+  au: 1559&sup2;
+- titre: évêque diocésain
+  du: '1542-05-06'
+  au: '1549-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24962979
+  catholic_hierarchy: bcittade
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:52:25+00:00'
+  completeness: 0.75

@@ -1,0 +1,45 @@
+slug: richard-de-sade
+nom: Richard de Sade
+nom_complet: null
+naissance: '1650'
+deces: '1663-06-27'
+naissance_lieu: Mazan, Vaucluse
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1660-03-07'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francesco-cardinal-barberini-sr
+  co_consecrateurs:
+  - persio-caracci
+  - giacinto-cordella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsader.html
+  - https://fr.wikipedia.org/wiki/Richard_de_Sade
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cavaillon, France
+  du: '1660-02-16'
+  au: '1663-06-27'
+- titre: évêque de Cavaillon
+  du: '1660-02-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2150996
+  catholic_hierarchy: bsader
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:40:44+00:00'
+  completeness: 0.88

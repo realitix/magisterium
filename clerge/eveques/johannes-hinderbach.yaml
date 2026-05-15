@@ -1,0 +1,48 @@
+slug: johannes-hinderbach
+nom: Johannes Hinderbach
+nom_complet: Johann Hinderbach
+naissance: '1418-08-24'
+deces: '1486-09-21'
+naissance_lieu: Assia
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1466-07-20'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: domenico-de-dominici
+  co_consecrateurs:
+  - johann-goldener-o-s-a
+  - athanase-chalkeopoulos-calceofilo-o-cist
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhindg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trento, Italy
+  du: '1466-05-12'
+  au: '1486-09-21'
+- titre: évêque de Trente
+  du: '1466-05-21'
+  au: '1486-09-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Castello%20del%20Buonconsiglio%2C%20sala%20vescovi%20-%20Fogolino%20-%2032%20Giovanni%20Hinderbach.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1697690
+  catholic_hierarchy: bhindg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:43:23+00:00'
+  completeness: 0.88

@@ -1,0 +1,40 @@
+slug: gabriel-bouvery
+nom: Gabriel Bouvery
+nom_complet: Gabriel de Bouvery
+naissance: null
+deces: '1572-02-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: francois-du-bourg
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbouver.html
+  - https://fr.wikipedia.org/wiki/Gabriel_Bouvery
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: '1540-04-30'
+  au: '1572-02-10'
+- titre: évêque d'Angers
+  du: '1540-05-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3093649
+  catholic_hierarchy: bbouver
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:39+00:00'
+  completeness: 0.5

@@ -1,0 +1,44 @@
+slug: agostino-cattaneo
+nom: Agostino Cattaneo
+nom_complet: null
+naissance: '1853-01-24'
+deces: '1923-04-09'
+naissance_lieu: Crema, Diocese of Crema
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1910-04-10'
+  lieu: Crema, Diocese of Crema
+  consecrateur_principal: ernesto-fontana
+  co_consecrateurs:
+  - giovanni-battista-rota
+  - antonio-padovani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guastalla, Italy
+  du: '1910-03-15'
+  au: '1923-04-09'
+- titre: Roman Catholic Bishop of Guastalla
+  du: '1910-03-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733641
+  catholic_hierarchy: bcat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:32:18+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: ernest-sambou
+nom: Ernest Sambou
+nom_complet: null
+naissance: '1947-12-22'
+deces: null
+naissance_lieu: Cadjinol, Prefecture Apostolic of Ziguinchor
+deces_lieu: null
+rang: eveque
+nationalite: Q1041
+tampon: ordo_dubius
+sacre:
+  date: '2003-06-29'
+  lieu: Me Babacar Sèye, Stadium, Saint-Louis, Diocese of Saint-Louis du Sénégal
+  consecrateur_principal: pierre-sagna
+  co_consecrateurs:
+  - theodore-adrien-sarr
+  - laurent-akran-mandjo
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsamb.html
+  - https://fr.wikipedia.org/wiki/Ernest_Sambou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Louis du Sénégal
+  du: '2003-02-22'
+  au: null
+- titre: évêque diocésain
+  du: '2003-02-22'
+  au: '2023-01-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1356514
+  catholic_hierarchy: bsamb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:46:27+00:00'
+  completeness: 0.88

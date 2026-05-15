@@ -1,0 +1,49 @@
+slug: ignac-fabry
+nom: Ignác Fábry
+nom_complet: null
+naissance: '1792-07-24'
+deces: '1867-06-24'
+naissance_lieu: Sátoraljaujhelyi, Diocese of Ko&#353;ice
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1852-11-30'
+  lieu: Ko&#353;ice, Diocese of Ko&#353;ice
+  consecrateur_principal: bela-bartakovics
+  co_consecrateurs:
+  - jozef-gaganecz
+  - istvan-kollarcsik
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfabry.html
+  - https://fr.wikipedia.org/wiki/Ign%C3%A1c_F%C3%A1bry
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ko&#353;ice, Slovakia
+  du: null
+  au: '1867-06-24'
+- titre: Roman Catholic Bishop of Košice
+  du: '1852-02-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ignaz%20Fabry%20Litho.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1004521
+  catholic_hierarchy: bfabry
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:28:56+00:00'
+  completeness: 1.0

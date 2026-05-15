@@ -1,0 +1,50 @@
+slug: gomez-zapata
+nom: Gómez Zapata
+nom_complet: null
+naissance: '1550'
+deces: '1587-02-01'
+naissance_lieu: Madrid, Archdiocese of Toledo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cartagena (en España)
+  du: '1576-04-11'
+  au: null
+- titre: Bishop of Cuenca, Spain
+  du: '1582-11-08'
+  au: '1587-02-01'
+- titre: évêque de Carthagène
+  du: '1576-04-21'
+  au: null
+- titre: évêque de Cuenca
+  du: '1582-11-18'
+  au: null
+- titre: Archdeacon of Madrid
+  du: null
+  au: '1576-04-21'
+- titre: Canon of the Toledo Cathedral
+  du: null
+  au: '1576-04-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5890434
+  catholic_hierarchy: bzap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:06:20+00:00'
+  completeness: 0.38

@@ -1,0 +1,54 @@
+slug: peter-courtenay
+nom: Peter Courtenay
+nom_complet: null
+naissance: '1432'
+deces: '1492-09-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1478-11-08'
+  consecrateur_principal: thomas-kempe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcourtny.html
+  - https://fr.wikipedia.org/wiki/Peter_Courtenay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1487-01-29'
+  au: '1492-09-22'
+- titre: lord du Sceau privé
+  du: '1485-01-01'
+  au: '1487-01-01'
+- titre: évêque de Winchester
+  du: '1487-02-07'
+  au: '1492-10-01'
+- titre: doyen d'Exeter
+  du: '1477-01-01'
+  au: '1478-01-01'
+- titre: évêque d'Exeter
+  du: '1478-09-18'
+  au: '1487-02-07'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20PeterCourtenay%20Chimneypiece%20c1486%20ExeterPalace%20SeeImpalingCourtenay.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7173413
+  catholic_hierarchy: bcourtny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:03+00:00'
+  completeness: 0.75

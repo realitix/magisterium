@@ -1,0 +1,48 @@
+slug: michel-aoun
+nom: Michel Aoun
+nom_complet: null
+naissance: '1959-06-02'
+deces: null
+naissance_lieu: Dammour
+deces_lieu: null
+rang: eveque
+nationalite: Q822
+tampon: ordo_dubius
+sacre:
+  date: '2012-02-25'
+  lieu: Church, Bkerké
+  consecrateur_principal: bechara-boutros-rahi
+  co_consecrateurs:
+  - paul-youssef-matar
+  - samir-mazloum
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baoun.html
+  - https://fr.wikipedia.org/wiki/Michel_Aoun_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Visitor (Visitator)
+  du: '2018-10-11'
+  au: null
+- titre: évêque diocésain
+  du: '2011-06-05'
+  au: null
+- titre: visiteur apostolique
+  du: '2018-10-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3308880
+  catholic_hierarchy: baoun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:42:23+00:00'
+  completeness: 0.88

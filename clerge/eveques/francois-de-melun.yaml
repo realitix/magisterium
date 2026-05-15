@@ -1,0 +1,46 @@
+slug: francois-de-melun
+nom: François de Melun
+nom_complet: null
+naissance: null
+deces: '1521-11-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: adrien-aernoult-o-carm
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmelun.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Melun
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: '1510-07-15'
+  au: null
+- titre: Bishop of Thérouanne, France
+  du: '1516-11-26'
+  au: '1521-11-22'
+- titre: évêque de Thérouanne
+  du: '1516-12-06'
+  au: null
+- titre: évêque d'Arras
+  du: '1510-07-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3086258
+  catholic_hierarchy: bmelun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:49:33+00:00'
+  completeness: 0.5

@@ -1,0 +1,43 @@
+slug: girolamo-cardinale
+nom: Girolamo Cardinale
+nom_complet: null
+naissance: '1875-02-13'
+deces: '1954-12-26'
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1923-07-15'
+  consecrateur_principal: giosue-signori
+  co_consecrateurs:
+  - giordano-corsini
+  - giuseppe-signore
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcardi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verona, Italy
+  du: '1923-05-25'
+  au: '1954-12-26'
+- titre: évêque de Vérone
+  du: '1923-05-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12789905
+  catholic_hierarchy: bcardi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:21:02+00:00'
+  completeness: 1.0

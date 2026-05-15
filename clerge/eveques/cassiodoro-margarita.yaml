@@ -1,0 +1,43 @@
+slug: cassiodoro-margarita
+nom: Cassiodoro Margarita
+nom_complet: null
+naissance: '1774-07-02'
+deces: '1850-09-01'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: Q173065
+tampon: ordo_validus
+sacre:
+  date: '1818-12-27'
+  consecrateur_principal: alessandro-mattei
+  co_consecrateurs:
+  - francesco-cardinal-bertazzoli
+  - geraldo-macioti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmargca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gravina e Irsina (Montepeloso), Italy
+  du: null
+  au: '1850-09-01'
+- titre: évêque diocésain
+  du: '1818-11-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733235
+  catholic_hierarchy: bmargca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:26:45+00:00'
+  completeness: 1.0

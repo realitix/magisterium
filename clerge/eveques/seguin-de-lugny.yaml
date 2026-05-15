@@ -1,0 +1,39 @@
+slug: seguin-de-lugny
+nom: Seguin de Lugny
+nom_complet: null
+naissance: null
+deces: '1262'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blugny.html
+  - https://fr.wikipedia.org/wiki/Seguin_de_Lugny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mâcon, France
+  du: 1242&sup2;
+  au: May 1262&sup3;
+- titre: évêque de Mâcon
+  du: '1242-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108483139
+  catholic_hierarchy: blugny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:04:32+00:00'
+  completeness: 0.25

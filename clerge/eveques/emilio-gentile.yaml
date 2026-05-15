@@ -1,0 +1,43 @@
+slug: emilio-gentile
+nom: Emilio Gentile
+nom_complet: null
+naissance: '1733-03-12'
+deces: '1822-02-24'
+naissance_lieu: Biccari
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1776-07-21'
+  consecrateur_principal: innocenzo-conti
+  co_consecrateurs:
+  - marcantonio-conti
+  - joseph-de-vignoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgentile.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alife, Italy
+  du: '1776-07-15'
+  au: '1822-02-24'
+- titre: évêque diocésain
+  du: '1776-07-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64728135
+  catholic_hierarchy: bgentile
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:17:25+00:00'
+  completeness: 1.0

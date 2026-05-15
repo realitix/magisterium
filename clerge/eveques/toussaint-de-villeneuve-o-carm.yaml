@@ -1,0 +1,40 @@
+slug: toussaint-de-villeneuve-o-carm
+nom: Toussaint de Villeneuve, O. Carm.
+nom_complet: Toussaint de Villeneuve
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1467-02-22'
+  consecrateur_principal: jean-bayle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillent.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cavaillon, France
+  du: '1467-02-09'
+  au: 1496&sup1;
+- titre: évêque de Cavaillon
+  du: '1467-02-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21547391
+  catholic_hierarchy: bvillent
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:00+00:00'
+  completeness: 0.62

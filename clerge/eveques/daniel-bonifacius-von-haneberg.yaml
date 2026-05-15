@@ -1,0 +1,52 @@
+slug: daniel-bonifacius-von-haneberg
+nom: Daniel Bonifacius von Haneberg
+nom_complet: Bonifaz (Daniel) von Haneberg, O.S.B.
+naissance: '1816-06-16'
+deces: '1876-05-31'
+naissance_lieu: Tannen farm, Lenzfried, Diocese of Augsburg
+deces_lieu: Speyer, Diocese of Speyer
+rang: eveque
+nationalite: Q154195
+tampon: ordo_validus
+sacre:
+  date: '1872-08-25'
+  lieu: Cathedral, München, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: gregor-von-scherr
+  co_consecrateurs:
+  - pancrace-de-dinkel
+  - franz-leopold-von-leonrod
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaneberg.html
+  - https://fr.wikipedia.org/wiki/Daniel_Bonifaz_von_Haneberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: null
+  au: '1876-05-31'
+- titre: abbé
+  du: '1854-01-01'
+  au: '1872-01-01'
+- titre: évêque de Spire
+  du: '1872-05-23'
+  au: '1876-05-31'
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20von%20Haneberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q97302
+  catholic_hierarchy: bhaneberg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:33:17+00:00'
+  completeness: 1.0

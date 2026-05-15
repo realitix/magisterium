@@ -1,0 +1,52 @@
+slug: ottokar-prohaszka
+nom: Ottokár Prohászka
+nom_complet: null
+naissance: '1858-10-10'
+deces: '1927-04-02'
+naissance_lieu: Nitria, Slovakia
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1905-12-21'
+  co_consecrateurs:
+  - gyula-varosy
+  - gusztav-karoly-majlath
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bproh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Székesfehérvár (Albareale), Hungary
+  du: null
+  au: '1927-04-02'
+- titre: évêque de Székesfehérvár
+  du: '1905-10-17'
+  au: '1927-04-02'
+- titre: représentant de la chambre haute
+  du: '1927-01-01'
+  au: '1927-04-02'
+- titre: député de l'Assemblée nationale de Hongrie
+  du: '1920-01-01'
+  au: '1922-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Proh%C3%A1szka%20Ottok%C3%A1r%20p%C3%BCsp%C3%B6k.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q714888
+  catholic_hierarchy: bproh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:50:26+00:00'
+  completeness: 0.88

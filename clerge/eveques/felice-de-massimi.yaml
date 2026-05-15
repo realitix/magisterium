@@ -1,0 +1,43 @@
+slug: felice-de-massimi
+nom: Felice de Massimi
+nom_complet: null
+naissance: '1501'
+deces: '1573'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1531-08-27'
+  consecrateur_principal: willem-van-enckenvoirt
+  co_consecrateurs:
+  - bernardo-ruggieri
+  - bernardino-fumarelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmassimif.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Città Ducale, Italy
+  du: '1525-04-07'
+  au: '1573'
+- titre: Roman Catholic Bishop of Città Ducale
+  du: '1525-04-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55420227
+  catholic_hierarchy: bmassimif
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:36:18+00:00'
+  completeness: 0.75

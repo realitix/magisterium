@@ -1,0 +1,44 @@
+slug: giuseppe-iannuzzi
+nom: Giuseppe Iannuzzi
+nom_complet: null
+naissance: '1801-01-10'
+deces: '1871-08-21'
+naissance_lieu: Andria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1843-06-25'
+  lieu: San Agostino, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: gabriele-ferretti
+  co_consecrateurs:
+  - giuseppe-cosenza
+  - giuseppe-maria-castellani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjannu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lucera, Italy
+  du: null
+  au: '1871-08-21'
+- titre: évêque diocésain
+  du: '1843-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64776819
+  catholic_hierarchy: bjannu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:58:28+00:00'
+  completeness: 1.0

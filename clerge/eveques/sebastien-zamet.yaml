@@ -1,0 +1,45 @@
+slug: sebastien-zamet
+nom: Sébastien Zamet
+nom_complet: null
+naissance: '1588'
+deces: '1655-02-02'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1615-06-18'
+  consecrateur_principal: jacques-davy-du-perron
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzamet.html
+  - https://fr.wikipedia.org/wiki/S%C3%A9bastien_Zamet_(1588-1655)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: '1615-04-06'
+  au: '1655-02-02'
+- titre: évêque de Langres
+  du: '1615-04-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9bastien%20Zamet%20%281588-1655%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16027490
+  catholic_hierarchy: bzamet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:05:24+00:00'
+  completeness: 0.75

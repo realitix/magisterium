@@ -1,0 +1,38 @@
+slug: brendon-magoday
+nom: Brendon Magoday
+nom_complet: null
+naissance: null
+deces: '1255'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagoday.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ardagh (and Clonmacnois), Ireland
+  du: 1238&sup2;
+  au: 1255&sup2;
+- titre: Roman Catholic Bishop of Ardagh
+  du: '1238-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108480870
+  catholic_hierarchy: bmagoday
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:54+00:00'
+  completeness: 0.25

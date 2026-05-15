@@ -1,0 +1,45 @@
+slug: henrik-stangeberg
+nom: Henrik Stangeberg
+nom_complet: null
+naissance: null
+deces: '1465-04-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstange.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ribe, Denmark
+  du: '1454-09-13'
+  au: 1464&sup2;
+- titre: Bishop Emeritus of Ribe, Denmark
+  du: null
+  au: '1465-04-25'
+- titre: évêque diocésain
+  du: '1454-09-22'
+  au: '1464-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Stangeberg%20-%20seal%2C%201455.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q68911447
+  catholic_hierarchy: bstange
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:12+00:00'
+  completeness: 0.38

@@ -1,0 +1,47 @@
+slug: guillaume-iii-le-maire
+nom: Guillaume III Le Maire
+nom_complet: Guillaume le Maire
+naissance: null
+deces: '1314-05-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1291-06-03'
+  consecrateur_principal: guillaume-de-la-roche-tanguy
+  co_consecrateurs:
+  - thibaud-ier-de-pouance
+  - henri-tore
+  - robert-du-pont
+  - alain-morel-rivelen
+  - non-indexe-6ea4c42a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blemaireg.html
+  - https://fr.wikipedia.org/wiki/Guillaume_III_Le_Maire_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: 1291&sup2;
+  au: '1314-05-13'
+- titre: évêque d'Angers
+  du: '1291-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3119909
+  catholic_hierarchy: blemaireg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:42:20+00:00'
+  completeness: 0.88

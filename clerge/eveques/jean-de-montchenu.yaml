@@ -1,0 +1,45 @@
+slug: jean-de-montchenu
+nom: Jean de Montchenu
+nom_complet: null
+naissance: '1460'
+deces: '1507-01-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontchnu.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Montchenu
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: 1478&sup1;
+  au: null
+- titre: Bishop of Viviers (Aps), France
+  du: '1478-07-03'
+  au: 1496&sup1;
+- titre: évêque diocésain
+  du: '1478-07-12'
+  au: null
+- titre: évêque diocésain
+  du: '1478-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18414376
+  catholic_hierarchy: bmontchnu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:09+00:00'
+  completeness: 0.25

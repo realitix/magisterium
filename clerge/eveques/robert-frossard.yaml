@@ -1,0 +1,50 @@
+slug: robert-frossard
+nom: Robert Frossard
+nom_complet: Robert-Jacques-Victor Frossard
+naissance: '1909-04-14'
+deces: '1988-02-13'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1968-01-06'
+  lieu: Notre-Dame, Cathedral Basilica, Paris, Archdiocese of Paris
+  consecrateur_principal: paolo-bertoli
+  co_consecrateurs:
+  - jacques-le-cordier
+  - robert-de-provencheres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrossard.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paris, France
+  du: '1967-09-30'
+  au: '1988-02-13'
+- titre: Titular Bishop of Tingaria
+  du: '1967-09-30'
+  au: null
+- titre: évêque titulaire
+  du: '1967-09-30'
+  au: null
+- titre: évêque auxiliaire de Paris
+  du: '1967-09-30'
+  au: '1984-03-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745962
+  catholic_hierarchy: bfrossard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:59:48+00:00'
+  completeness: 1.0

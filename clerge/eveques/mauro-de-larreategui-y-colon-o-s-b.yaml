@@ -1,0 +1,44 @@
+slug: mauro-de-larreategui-y-colon-o-s-b
+nom: Mauro de Larreátegui y Colón, O.S.B.
+nom_complet: Mauro de Larreátegui y Colón
+naissance: '1650'
+deces: '1711-11-30'
+naissance_lieu: Madrid, Archdiocese of Toledo, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1703-11-18'
+  lieu: Valladiego, Archdiocese of Burgos, Spain
+  consecrateur_principal: fernando-manuel-de-mejia
+  co_consecrateurs:
+  - alfonso-lorenzo-de-pedraza-o-m
+  - ildefonso-de-mena-y-borja
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blarcol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Guatemala
+  du: '1703-09-17'
+  au: '1711-11-30'
+- titre: évêque de Santiago de Guatemala
+  du: '1703-09-17'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64745361
+  catholic_hierarchy: blarcol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:33:41+00:00'
+  completeness: 0.88

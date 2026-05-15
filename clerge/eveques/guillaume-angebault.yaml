@@ -1,0 +1,49 @@
+slug: guillaume-angebault
+nom: Guillaume Angebault
+nom_complet: Guillaume-Laurent-Louis Angebault
+naissance: '1790-06-17'
+deces: '1869-10-02'
+naissance_lieu: Rennes, Diocese of Rennes
+deces_lieu: Angers, Diocese of Angers
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1842-08-10'
+  lieu: Cathedral, Angers, Diocese of Angers
+  consecrateur_principal: jean-francois-de-herce
+  co_consecrateurs:
+  - rene-francois-soyer
+  - jean-baptiste-bouvier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bangeb.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Angebault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: null
+  au: '1869-10-02'
+- titre: évêque d'Angers
+  du: '1842-03-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Angers%20%2849%29%20Cath%C3%A9drale%20Saint-Maurice%20Monument%20fun%C3%A9raire%20de%20Mgr%20Angebault%2002.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3119643
+  catholic_hierarchy: bangeb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:39:06+00:00'
+  completeness: 1.0

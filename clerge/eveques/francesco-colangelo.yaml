@@ -1,0 +1,44 @@
+slug: francesco-colangelo
+nom: Francesco Colangelo
+nom_complet: Francesco Colangelo, C.O.
+naissance: '1769-11-26'
+deces: '1836-01-15'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1821-06-29'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - giovanni-francesco-guerrieri
+  - pietro-caprano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolanf.html
+  - https://fr.wikipedia.org/wiki/Francesco_Colangelo
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castellammare di Stabia, Italy
+  du: null
+  au: '1836-01-15'
+- titre: Roman Catholic Bishop of Castellammare di Stabia
+  du: '1820-07-03'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64708025
+  catholic_hierarchy: bcolanf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:40+00:00'
+  completeness: 1.0

@@ -1,0 +1,46 @@
+slug: gilles-gaude
+nom: Gilles Gaude
+nom_complet: Gilles Gaude (Gardz, Gundz), O.P.
+naissance: null
+deces: '1563-05-07'
+naissance_lieu: null
+deces_lieu: Loguivy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1544-04-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaudeg.html
+  - https://fr.wikipedia.org/wiki/Gilles_Gaude
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Nantes, France
+  du: '1544-04-02'
+  au: '1563-05-07'
+- titre: Titular Bishop of Raphanea
+  du: '1544-04-02'
+  au: null
+- titre: évêque titulaire
+  du: '1544-04-12'
+  au: '1563-05-17'
+- titre: évêque auxiliaire
+  du: '1544-04-12'
+  au: '1563-05-17'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64775591
+  catholic_hierarchy: bgaudeg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:13:49+00:00'
+  completeness: 0.38

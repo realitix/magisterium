@@ -1,0 +1,45 @@
+slug: guillaume-de-roussillon
+nom: Guillaume de Roussillon
+nom_complet: null
+naissance: null
+deces: '1331'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broussilg.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Roussillon_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence and Die, France
+  du: 1298&sup1;
+  au: 1331&sup2;
+- titre: chanoine de Lyon
+  du: '1296-01-01'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Valence et de Die
+  du: '1298-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446782
+  catholic_hierarchy: broussilg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:32:00+00:00'
+  completeness: 0.25

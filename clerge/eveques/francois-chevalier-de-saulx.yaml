@@ -1,0 +1,44 @@
+slug: francois-chevalier-de-saulx
+nom: François Chevalier de Saulx
+nom_complet: null
+naissance: '1643'
+deces: '1712-10-28'
+naissance_lieu: Poitou
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1694-08-29'
+  consecrateur_principal: pierre-de-bonzi
+  co_consecrateurs:
+  - michel-ii
+  - jacques-antoine-phelypeaux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchds.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Chevalier_de_Saulx
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alès (Alais), France
+  du: null
+  au: '1712-10-28'
+- titre: évêque d'Alais
+  du: '1687-08-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3084244
+  catholic_hierarchy: bchds
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:43:52+00:00'
+  completeness: 0.88

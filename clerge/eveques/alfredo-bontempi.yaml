@@ -1,0 +1,59 @@
+slug: alfredo-bontempi
+nom: Alfredo Bontempi
+nom_complet: null
+naissance: '1894-08-02'
+deces: '1963-02-20'
+naissance_lieu: Castelfidardo, Diocese of Recanati, Italy
+deces_lieu: Ancona, Archdiocese of Ancona e Numana, Italy
+rang: eveque
+nationalite: IT
+tampon: ordo_validus
+sacre:
+  date: '1962-05-31'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: carlo-confalonieri
+  co_consecrateurs:
+  - alberto-castelli
+  - emilio-baroncelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbontem.html
+  - https://gcatholic.org/p/14574
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Rector
+  du: 1950&sup2;
+  au: '1963-02-20'
+- titre: Titular Bishop of Palmyra
+  du: '1962-03-19'
+  au: null
+- titre: Titular Bishop
+  siege: Palmyra
+  du: '1962-03-19'
+  au: '1963-02-20'
+- titre: recteur
+  du: '1950-01-01'
+  au: '1963-01-01'
+- titre: évêque titulaire
+  du: '1962-03-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751300
+  catholic_hierarchy: bbontem
+  gcatholic: '14574'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:39:13+00:00'
+  completeness: 1.0
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:43+00:00'
+  completeness: 0.75

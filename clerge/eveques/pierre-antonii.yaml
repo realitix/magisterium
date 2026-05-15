@@ -1,0 +1,38 @@
+slug: pierre-antonii
+nom: Pierre Antonii
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bantonii.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Lydda
+  du: '1511-07-18'
+  au: 1515&sup1;
+- titre: évêque titulaire de Lydda
+  du: '1511-07-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68862443
+  catholic_hierarchy: bantonii
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:41:46+00:00'
+  completeness: 0.25

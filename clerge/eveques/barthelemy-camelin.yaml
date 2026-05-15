@@ -1,0 +1,44 @@
+slug: barthelemy-camelin
+nom: Barthélemy Camelin
+nom_complet: Barthélémy Camelin
+naissance: null
+deces: '1637-06-15'
+naissance_lieu: Fréjus
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1600-01-30'
+  consecrateur_principal: guillaume-le-blanc-1561
+  co_consecrateurs:
+  - clement-isnard
+  - gilles-de-seytres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcamelinb.html
+  - https://fr.wikipedia.org/wiki/Barth%C3%A9lemy_Camelin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fréjus, France
+  du: null
+  au: '1637-06-15'
+- titre: évêque diocésain
+  du: '1594-08-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22248179
+  catholic_hierarchy: bcamelinb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:10:11+00:00'
+  completeness: 0.88

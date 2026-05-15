@@ -1,0 +1,51 @@
+slug: anton-wolfradt
+nom: Anton Wolfradt
+nom_complet: Antonius Wolfradt
+naissance: '1581-07-09'
+deces: '1639-04-01'
+naissance_lieu: Köln, Archdiocese of Köln {Cologne}, Germany
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1631-08-03'
+  lieu: Cathedral, Wien, Diocese of Wien
+  consecrateur_principal: francois-seraphin-de-dietrichstein-cardinal-eveque-d-olomouc
+  co_consecrateurs:
+  - sebastian-von-lodron
+  - istvan-sennyey-1580
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwolfradt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wien, Austria
+  du: null
+  au: '1639-04-01'
+- titre: Roman Catholic Bishop of Vienna
+  du: '1631-02-15'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Franz%20Wolfradt%2C%20Wien%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q595762
+  catholic_hierarchy: bwolfradt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:58:35+00:00'
+  completeness: 1.0

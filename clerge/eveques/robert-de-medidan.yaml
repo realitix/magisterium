@@ -1,0 +1,38 @@
+slug: robert-de-medidan
+nom: Robert de Médidan
+nom_complet: null
+naissance: null
+deces: '1271-09-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmedidan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1255-10-05'
+  au: '1271-09-07'
+- titre: évêque de Verdun
+  du: '1255-10-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108480761
+  catholic_hierarchy: bmedidan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:46:47+00:00'
+  completeness: 0.38

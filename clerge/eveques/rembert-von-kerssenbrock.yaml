@@ -1,0 +1,48 @@
+slug: rembert-von-kerssenbrock
+nom: Rembert von Kerssenbrock
+nom_complet: null
+naissance: '1474'
+deces: '1568-02-12'
+naissance_lieu: Bruch
+deces_lieu: Dringenberg
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1548-05-22'
+  lieu: Dalheim
+  consecrateur_principal: johann-nopel-sr
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkerss.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paderborn, Germany
+  du: null
+  au: '1568-02-12'
+- titre: évêque de Paderborn
+  du: '1547-04-05'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Kerssenbrock%2C%20Rembert%20von-2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1288151
+  catholic_hierarchy: bkerss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:11:46+00:00'
+  completeness: 0.75

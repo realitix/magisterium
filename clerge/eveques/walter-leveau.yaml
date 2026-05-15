@@ -1,0 +1,40 @@
+slug: walter-leveau
+nom: Walter Leveau
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1300'
+  consecrateur_principal: richard-ferrings
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleveau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kildare, Ireland
+  du: 1300&sup2;
+  au: Nov 1332&sup3;
+- titre: évêque diocésain
+  du: '1300-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781100
+  catholic_hierarchy: bleveau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:47:23+00:00'
+  completeness: 0.62

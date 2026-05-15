@@ -1,0 +1,50 @@
+slug: ernest-neveux
+nom: Ernest Neveux
+nom_complet: Ernest Auguste Neveux
+naissance: '1859-01-18'
+deces: '1938-09-07'
+naissance_lieu: La Grandville, Archdiocese of Reims
+deces_lieu: Reims, Archdiocese of Reims
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1915-06-29'
+  lieu: Épernay, Diocese of Châlons
+  consecrateur_principal: louis-joseph-lucon
+  co_consecrateurs:
+  - pierre-louis-pechenard
+  - joseph-tissier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneveux.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Reims, France
+  du: '1914-07-16'
+  au: '1938-09-07'
+- titre: Titular Bishop of Arsinoë in Arcadia
+  du: '1914-07-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1914-07-16'
+  au: null
+- titre: évêque titulaire
+  du: '1914-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64759868
+  catholic_hierarchy: bneveux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:41+00:00'
+  completeness: 1.0

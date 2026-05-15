@@ -1,0 +1,44 @@
+slug: michel-ii
+nom: Michel II
+nom_complet: Michel Poncet de la Rivière
+naissance: '1638'
+deces: '1728-11-18'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1678-05-08'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - francois-de-pericard-1619
+  - jean-baptiste-michel-colbert-de-saint-pouange
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpodlr.html
+  - https://fr.wikipedia.org/wiki/Michel_Poncet_de_La_Rivi%C3%A8re_(mort_en_1728)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Uzés, France
+  du: null
+  au: '1728-11-18'
+- titre: évêque d'Uzès
+  du: '1677-06-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3309936
+  catholic_hierarchy: bpodlr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:39:53+00:00'
+  completeness: 0.88

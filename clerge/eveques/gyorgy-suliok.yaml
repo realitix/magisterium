@@ -1,0 +1,38 @@
+slug: gyorgy-suliok
+nom: Gyorgy Suliok
+nom_complet: null
+naissance: '1450'
+deces: '1537'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsuliok.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1528-01-01'
+  au: 1537&sup1;
+- titre: évêque diocésain
+  du: '1528-01-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1292332
+  catholic_hierarchy: bsuliok
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:43:21+00:00'
+  completeness: 0.25

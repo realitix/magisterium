@@ -1,0 +1,49 @@
+slug: tobia-aun
+nom: Tobia Aun
+nom_complet: null
+naissance: '1803-12-01'
+deces: '1871-04-05'
+naissance_lieu: Mallaca
+deces_lieu: null
+rang: archeveque
+nationalite: Q822
+tampon: ordo_validus
+sacre:
+  date: '1841-03-19'
+  consecrateur_principal: youssef-boutros-hobaish-habaisci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baunt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop
+  du: '1841-03-13'
+  au: null
+- titre: Apostolic Administrator of Beirut {Bairut} (Maronite), Lebanon
+  du: 1844&sup2;
+  au: null
+- titre: Archbishop of Beirut {Bairut} (Maronite), Lebanon
+  du: '1847-06-10'
+  au: '1871-04-05'
+- titre: administrateur apostolique
+  du: '1844-01-01'
+  au: '1847-01-01'
+- titre: archevêque catholique
+  du: '1847-06-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1665497
+  catholic_hierarchy: baunt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:49+00:00'
+  completeness: 0.75

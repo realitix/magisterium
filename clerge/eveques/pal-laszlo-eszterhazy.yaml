@@ -1,0 +1,60 @@
+slug: pal-laszlo-eszterhazy
+nom: Pál László Eszterházy
+nom_complet: Pál László Esterházy
+naissance: '1730-05-29'
+deces: '1799-11-07'
+naissance_lieu: Felsopaty
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1776-10-28'
+  lieu: Halosch
+  consecrateur_principal: christoph-bartholomaus-anton-migazzi
+  co_consecrateurs:
+  - adam-patachich
+  - andras-orszag
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beszterh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Vác, Hungary
+  du: '1776-09-16'
+  au: null
+- titre: Titular Bishop of Sebastopolis in Armenia
+  du: '1776-09-16'
+  au: null
+- titre: Bishop of Pécs, Hungary
+  du: null
+  au: '1799-11-07'
+- titre: évêque titulaire
+  du: '1776-09-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1776-09-16'
+  au: null
+- titre: évêque diocésain
+  du: '1781-02-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Esterh%C3%A1zy%20L%C3%A1szl%C3%B3%20P%C3%A1l.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q991520
+  catholic_hierarchy: beszterh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:45+00:00'
+  completeness: 1.0

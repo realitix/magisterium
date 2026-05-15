@@ -1,0 +1,34 @@
+slug: frotaire
+nom: Frotaire
+nom_complet: Frotaire Ier
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Frotaire_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Nîmes
+  du: '0987-01-01'
+  au: '1016-01-01'
+- titre: évêque d'Albi
+  du: '0972-01-01'
+  au: '0987-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19955950
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33

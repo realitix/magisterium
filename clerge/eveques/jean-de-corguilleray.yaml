@@ -1,0 +1,42 @@
+slug: jean-de-corguilleray
+nom: Jean de Corguilleray
+nom_complet: null
+naissance: null
+deces: '1488'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorguil.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Corguilleray
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodève, France
+  du: '1462-04-27'
+  au: 1488&sup2;
+- titre: évêque diocésain
+  du: '1462-05-06'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175369
+  catholic_hierarchy: bcorguil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:05:59+00:00'
+  completeness: 0.25

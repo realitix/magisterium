@@ -1,0 +1,51 @@
+slug: berthold-purstinger
+nom: Berthold Pürstinger
+nom_complet: Bertoldus Pürstinger
+naissance: '1465'
+deces: '1543-07-19'
+naissance_lieu: Salzburg, Archdiocese of Salzburg, Austria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1508-07-09'
+  lieu: Cathedral, Salzburg, Archdiocese of Salzburg, Austria
+  consecrateur_principal: leonhard-von-keutschach-c-r-s-a
+  co_consecrateurs:
+  - nikolaus-kaps
+  - bernhard-meurl-von-leombach
+  - mathias-schach-o-cart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpurs.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiemsee, Germany
+  du: '1508-05-08'
+  au: '1526-05-06'
+- titre: Bishop Emeritus of Chiemsee, Germany
+  du: null
+  au: '1543-07-19'
+- titre: Roman Catholic Bishop of Chiemsee
+  du: '1508-05-18'
+  au: '1526-05-16'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q828019
+  catholic_hierarchy: bpurs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:53:29+00:00'
+  completeness: 0.88

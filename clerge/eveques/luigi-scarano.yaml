@@ -1,0 +1,43 @@
+slug: luigi-scarano
+nom: Luigi Scarano
+nom_complet: null
+naissance: '1867-10-27'
+deces: '1931-12-25'
+naissance_lieu: Trivento
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1917-05-01'
+  consecrateur_principal: gennaro-granito-pignatelli-di-belmonte
+  co_consecrateurs:
+  - vincenzo-sardi-di-rivisondoli
+  - antonio-lega
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscarano.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tivoli, Italy
+  du: '1917-03-22'
+  au: '1931-12-25'
+- titre: Évêque de Tivoli
+  du: '1917-03-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734347
+  catholic_hierarchy: bscarano
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:58:55+00:00'
+  completeness: 1.0

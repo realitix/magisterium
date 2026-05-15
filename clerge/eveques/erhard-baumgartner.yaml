@@ -1,0 +1,43 @@
+slug: erhard-baumgartner
+nom: Erhard Baumgartner
+nom_complet: null
+naissance: null
+deces: '1508-08-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1488-03-23'
+  consecrateur_principal: antonio-saracco
+  co_consecrateurs:
+  - bartolomeo-averoldi-o-s-b
+  - antonio-zio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaumge.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavant, Slovenia
+  du: '1487-01-05'
+  au: '1508-08-16'
+- titre: évêque de Lavant
+  du: '1487-01-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780823
+  catholic_hierarchy: bbaumge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:08:57+00:00'
+  completeness: 0.88

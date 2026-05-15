@@ -1,0 +1,43 @@
+slug: feliciano-de-nossa-senhora
+nom: Feliciano de Nossa Senhora
+nom_complet: null
+naissance: '1684-11-08'
+deces: '1771-04-15'
+naissance_lieu: Obidos
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1743-01-13'
+  consecrateur_principal: tomas-de-almeida
+  co_consecrateurs:
+  - jose-ribeiro-da-fonseca
+  - julio-francisco-de-oliveira-c-o
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnose.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lamego, Portugal
+  du: null
+  au: '1771-04-15'
+- titre: évêque diocésain
+  du: '1742-09-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734820
+  catholic_hierarchy: bnose
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:56+00:00'
+  completeness: 1.0

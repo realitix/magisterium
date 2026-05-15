@@ -1,0 +1,50 @@
+slug: vicente-de-peraza-pirez-o-p
+nom: Vicente de Peraza (Pirez), O.P.
+nom_complet: Vicente de Peraza
+naissance: '1489'
+deces: '1553'
+naissance_lieu: Sevilla, Archdiocese of Sevilla {Seville}, Spain
+deces_lieu: Barcelona, Diocese of Barcelona, Spain
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1521-04-01'
+  lieu: S. Antoine des Espagnols, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francisco-de-bobadilla
+  co_consecrateurs:
+  - paride-grassi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeparaza.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Panamá
+  du: '1520-12-05'
+  au: '1526'
+- titre: Bishop Emeritus of Panamá
+  du: null
+  au: 1553&sup2;
+- titre: évêque de Panama
+  du: '1520-12-15'
+  au: '1526-01-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Vicente%20de%20Peraza%20O.P.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23619612
+  catholic_hierarchy: bdeparaza
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:43:14+00:00'
+  completeness: 0.75

@@ -1,0 +1,48 @@
+slug: john-le-breton
+nom: John le Breton
+nom_complet: John Breton
+naissance: '1250'
+deces: '1275-05-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1269-06-02'
+  consecrateur_principal: nicolas-of-ely
+  co_consecrateurs:
+  - godfrey-giffard
+  - richard-carew
+  - william-of-bitton-ii
+  - william-de-braose
+  - walter-bronscombe
+  - walter-de-la-wyle
+  - roger-de-meyland
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbretonj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1269-01-12'
+  au: '1275-05-12'
+- titre: évêque de Hereford
+  du: '1269-01-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6265502
+  catholic_hierarchy: bbretonj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:51:11+00:00'
+  completeness: 0.88

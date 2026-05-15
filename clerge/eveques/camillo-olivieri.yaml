@@ -1,0 +1,43 @@
+slug: camillo-olivieri
+nom: Camillo Olivieri
+nom_complet: null
+naissance: '1680-12-31'
+deces: '1758-08-21'
+naissance_lieu: Cutri
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1731-03-11'
+  consecrateur_principal: alvaro-cienfuegos
+  co_consecrateurs:
+  - sinibaldo-doria
+  - nicola-saverio-albini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bolivic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gravina (di Puglia), Italy
+  du: '1731-03-05'
+  au: '1758-08-21'
+- titre: évêque diocésain
+  du: '1731-03-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q62271277
+  catholic_hierarchy: bolivic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:50:48+00:00'
+  completeness: 1.0

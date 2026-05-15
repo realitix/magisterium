@@ -1,0 +1,44 @@
+slug: mansour-hobeika
+nom: Mansour Hobeika
+nom_complet: null
+naissance: '1941-12-20'
+deces: '2014-10-28'
+naissance_lieu: Hadeth-Baalbek (Béqaa)
+deces_lieu: null
+rang: eveque
+nationalite: Q822
+tampon: ordo_dubius
+sacre:
+  date: '2002-10-26'
+  consecrateur_principal: nasrallah-boutros-sfeir
+  co_consecrateurs:
+  - roland-aboujaoude
+  - chucrallah-harb
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhobeika.html
+  - https://fr.wikipedia.org/wiki/Mansour_Hobeika
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zahleh (Maronite), Lebanon
+  du: '2002-09-12'
+  au: '2014-10-28'
+- titre: évêque diocésain
+  du: '2002-09-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1891158
+  catholic_hierarchy: bhobeika
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:44:23+00:00'
+  completeness: 1.0

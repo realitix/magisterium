@@ -1,0 +1,43 @@
+slug: bartol-kacic
+nom: Bartol Kačić
+nom_complet: Bartol Ka&#269;i&#263;, O.F.M.
+naissance: '1578'
+deces: '1645'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-07-26'
+  consecrateur_principal: alessandro-della-torre-c-r-l
+  co_consecrateurs:
+  - girolamo-rusca-o-p
+  - fausto-veranzio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkacicb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Makarska, Croatia
+  du: '1615-06-15'
+  au: 1645&sup2;
+- titre: évêque diocésain
+  du: '1615-06-15'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64763000
+  catholic_hierarchy: bkacicb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:05:51+00:00'
+  completeness: 0.75

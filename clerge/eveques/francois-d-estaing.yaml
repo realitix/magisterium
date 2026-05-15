@@ -1,0 +1,48 @@
+slug: francois-d-estaing
+nom: François d'Estaing
+nom_complet: François d&rsquo;Estaing
+naissance: '1462-01-24'
+deces: '1529-11-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '31'
+  consecrateur_principal: guillaume-de-cambrai-cambray
+  co_consecrateurs:
+  - pierre-de-sacierges
+  - pierre-de-rochechouart
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdestf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_d%27Estaing
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rodez, France
+  du: '1504-10-31'
+  au: '1529-11-01'
+- titre: évêque de Rodez
+  du: '1504-11-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francois%20D%20Estaing.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3086092
+  catholic_hierarchy: bdestf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:46:07+00:00'
+  completeness: 0.88

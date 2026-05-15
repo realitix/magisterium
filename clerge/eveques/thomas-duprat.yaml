@@ -1,0 +1,44 @@
+slug: thomas-duprat
+nom: Thomas Duprat
+nom_complet: Thomas Du Prat
+naissance: '1488'
+deces: '1528-11-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1517-12-06'
+  consecrateur_principal: jean-cardinal-le-veneur
+  co_consecrateurs:
+  - antoine-d-estaing
+  - pierre-de-martigny
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupratt.html
+  - https://fr.wikipedia.org/wiki/Thomas_Duprat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: '1517-06-03'
+  au: '1528-11-19'
+- titre: évêque de Clermont
+  du: '1517-06-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22248355
+  catholic_hierarchy: bdupratt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:14+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: olivier-de-martreuil
+nom: Olivier de Martreuil
+nom_complet: Olivier de Matreuil
+naissance: null
+deces: '1405-03-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmatreuil.html
+  - https://fr.wikipedia.org/wiki/Olivier_de_Martreuil
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viviers (Aps), France
+  du: '1385-08-16'
+  au: null
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1387-01-29'
+  au: 1405&sup1;
+- titre: évêque de Chalon-sur-Saône
+  du: '1387-02-06'
+  au: '1405-03-24'
+- titre: évêque de Viviers
+  du: '1385-08-24'
+  au: '1387-02-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sceau%20d%27Olivier%20de%20Martreuil.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q108478778
+  catholic_hierarchy: bmatreuil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:38:05+00:00'
+  completeness: 0.25

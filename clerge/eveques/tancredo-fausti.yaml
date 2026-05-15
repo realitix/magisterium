@@ -1,0 +1,48 @@
+slug: tancredo-fausti
+nom: Tancredo Fausti
+nom_complet: null
+naissance: '1831-01-08'
+deces: '1895-09-23'
+naissance_lieu: Roma, Diocese of Roma {Rome}, Italy
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1889-02-24'
+  lieu: San Giovanni in Laterano, Cathedral Basilica, Roma, Diocese of Roma {Rome},
+    Italy
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - elia-bianchi
+  - francesco-satolli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfausti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Seleucia in Isauria
+  du: '1889-02-11'
+  au: '1895-09-23'
+- titre: archevêque titulaire
+  du: '1889-02-11'
+  au: null
+- titre: archevêque catholique
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746381
+  catholic_hierarchy: bfausti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:32+00:00'
+  completeness: 1.0

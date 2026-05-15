@@ -1,0 +1,44 @@
+slug: brendan-leahy
+nom: Brendan Leahy
+nom_complet: null
+naissance: '1960-03-28'
+deces: null
+naissance_lieu: Dublin, Archdiocese of Dublin
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '2013-04-14'
+  lieu: Saint John, Cathedral, Limerick, Diocese of Limerick
+  consecrateur_principal: dermot-clifford
+  co_consecrateurs:
+  - charles-john-brown
+  - diarmuid-martin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleahyb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limerick, Ireland
+  du: '2013-01-10'
+  au: null
+- titre: évêque diocésain
+  du: '2013-01-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2855006
+  catholic_hierarchy: bleahyb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:38:35+00:00'
+  completeness: 0.88

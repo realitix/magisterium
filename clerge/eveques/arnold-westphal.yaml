@@ -1,0 +1,38 @@
+slug: arnold-westphal
+nom: Arnold Westphal
+nom_complet: Arnold Westphal (Westfal)
+naissance: '1399'
+deces: '1466-01-31'
+naissance_lieu: Lübeck, Diocese of Lübeck
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwestfa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lübeck, Germany
+  du: null
+  au: '1466-01-31'
+- titre: prince-évêque de Lübeck
+  du: '1449-11-07'
+  au: '1466-02-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q696521
+  catholic_hierarchy: bwestfa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:19+00:00'
+  completeness: 0.38

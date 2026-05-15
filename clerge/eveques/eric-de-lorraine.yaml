@@ -1,0 +1,47 @@
+slug: eric-de-lorraine
+nom: Éric de Lorraine
+nom_complet: Éric de Lorraine, O.F.M. Cap.
+naissance: '1576-03-14'
+deces: '1623-04-27'
+naissance_lieu: Vandémont
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1602-09-01'
+  consecrateur_principal: lothar-von-metternich
+  co_consecrateurs:
+  - come-clausse-de-marchaumont
+  - christophe-de-la-vallee
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorre.html
+  - https://fr.wikipedia.org/wiki/%C3%89ric_de_Lorraine
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1593-06-09'
+  au: 1610&sup1;
+- titre: Bishop Emeritus of Verdun, France
+  du: null
+  au: '1623-04-27'
+- titre: évêque de Verdun
+  du: '1593-06-09'
+  au: '1610-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3591417
+  catholic_hierarchy: blorre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:20+00:00'
+  completeness: 1.0

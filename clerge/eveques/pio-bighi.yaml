@@ -1,0 +1,66 @@
+slug: pio-bighi
+nom: Pio Bighi
+nom_complet: null
+naissance: '1780-09-05'
+deces: '1854-08-31'
+naissance_lieu: Roma, Diocese of Roma {Rome}, Italy
+deces_lieu: null
+rang: archeveque
+nationalite: IT
+tampon: ordo_validus
+sacre:
+  date: '1847-10-10'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - giovanni-domenico-stefanelli-o-p
+  - mariano-venturi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbighi.html
+  - https://gcatholic.org/p/58080
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Lystra
+  du: '1847-10-04'
+  au: null
+- titre: Titular Archbishop of Philippi
+  du: '1853-08-23'
+  au: '1854-08-31'
+- titre: Rector
+  du: '1824'
+  au: '1840'
+- titre: Titular Bishop
+  siege: Lystra
+  du: '1847-10-04'
+  au: '1853-08-23'
+- titre: Titular Archbishop
+  siege: Philippi
+  du: '1853-08-23'
+  au: '1854-08-31'
+- titre: évêque titulaire
+  du: '1847-10-04'
+  au: null
+- titre: archevêque titulaire
+  du: '1853-08-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60322591
+  catholic_hierarchy: bbighi
+  gcatholic: '58080'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:26:52+00:00'
+  completeness: 1.0
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:42+00:00'
+  completeness: 0.75

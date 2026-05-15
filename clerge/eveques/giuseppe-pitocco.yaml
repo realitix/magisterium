@@ -1,0 +1,43 @@
+slug: giuseppe-pitocco
+nom: Giuseppe Pitocco
+nom_complet: null
+naissance: '1721-10-16'
+deces: '1771-05-30'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1756-07-25'
+  consecrateur_principal: giuseppe-spinelli-1694
+  co_consecrateurs:
+  - domenico-giordani-1700
+  - giambattista-bortoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpitocco.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trivento, Italy
+  du: '1756-07-19'
+  au: '1771-05-30'
+- titre: évêque diocésain
+  du: '1756-07-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762565
+  catholic_hierarchy: bpitocco
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:37:26+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: marco-cobello
+nom: Marco Cobello
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1437-12-15'
+  consecrateur_principal: valentin-narnia
+  co_consecrateurs:
+  - non-indexe-bb963cea
+  - marco-de-teramo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcobello.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castro [del Lazio], Italy
+  du: '1437-12-11'
+  au: 1463&sup1;
+- titre: évêque diocésain
+  du: '1437-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779769
+  catholic_hierarchy: bcobello
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:55:45+00:00'
+  completeness: 0.75

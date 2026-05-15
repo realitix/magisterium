@@ -1,0 +1,45 @@
+slug: jean-baptiste-volfius
+nom: Jean-Baptiste Volfius
+nom_complet: '[Constitutional Bishop Jean-Baptiste Volfius]'
+naissance: '1734-04-07'
+deces: '1822-02-08'
+naissance_lieu: Dijon
+deces_lieu: Dijon
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-03-13'
+  lieu: Oratoire, Paris, Archdiocese of Paris
+  consecrateur_principal: jean-baptiste-gobel
+  co_consecrateurs:
+  - constitutional-bishop-jean-baptiste-massieu
+  - constitutional-bishop-jean-baptiste-aubry
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvolfius.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Volfius
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Côte-d'Or (Constitutional), France]
+  du: null
+  au: '1801-10-14'
+- titre: Bishop Emeritus of [Côte-d'Or (Constitutional), France]
+  du: null
+  au: '1822-02-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15407254
+  catholic_hierarchy: bvolfius
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:45:22+00:00'
+  completeness: 1.0

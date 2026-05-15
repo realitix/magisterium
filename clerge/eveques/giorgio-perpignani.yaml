@@ -1,0 +1,53 @@
+slug: giorgio-perpignani
+nom: Giorgio Perpignani
+nom_complet: Georgius Perpignani
+naissance: '1555'
+deces: '1621'
+naissance_lieu: Creten
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1594-11-20'
+  lieu: S.Silvestre au Quirinal, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giovanni-francesco-morosini
+  co_consecrateurs:
+  - flaminio-filonardi
+  - leonardo-abela
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperpig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tinos and Mykonos, Greece
+  du: '1594-11-14'
+  au: null
+- titre: Administrator of Andros, Greece
+  du: '1611-05-13'
+  au: '1616-08-03'
+- titre: Bishop of Canea (Cydonia, Egée), Greece
+  du: '1619-07-15'
+  au: 1621&sup1;
+- titre: évêque diocésain
+  du: '1619-07-15'
+  au: null
+- titre: Roman Catholic Bishop of Tinos and Mykonos
+  du: '1594-11-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23900827
+  catholic_hierarchy: bperpig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:23:39+00:00'
+  completeness: 0.75

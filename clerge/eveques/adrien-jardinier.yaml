@@ -1,0 +1,45 @@
+slug: adrien-jardinier
+nom: Adrien Jardinier
+nom_complet: Adrian Jardinier
+naissance: '1808-04-15'
+deces: '1901-02-26'
+naissance_lieu: Monthey
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1875-12-05'
+  lieu: Cathedral, Sion, Diocese of Sion {Sitten}
+  consecrateur_principal: etienne-marilley
+  co_consecrateurs:
+  - eugene-lachat
+  - etienne-barthelemy-bagnoud
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjard.html
+  - https://fr.wikipedia.org/wiki/Adrien_Jardinier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sion {Sitten}, Switzerland
+  du: null
+  au: '1901-02-26'
+- titre: évêque de Sion
+  du: '1875-08-19'
+  au: '1901-02-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15621566
+  catholic_hierarchy: bjard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:59:01+00:00'
+  completeness: 1.0

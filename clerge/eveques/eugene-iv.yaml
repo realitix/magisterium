@@ -1,0 +1,61 @@
+slug: eugene-iv
+nom: Eugène IV
+nom_complet: Eugene IV
+naissance: '1383'
+deces: '1447-02-23'
+naissance_lieu: Venezia, Diocese of Castello
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1408'
+  lieu: Siena, Diocese of Siena
+  consecrateur_principal: non-indexe-220df567
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcondu.html
+  - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_IV
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Siena, Italy
+  du: '1407-12-30'
+  au: '1408-05-09'
+- titre: Cardinal-Priest of San Clemente
+  du: '1408-05-09'
+  au: null
+- titre: Cardinal-Priest of Santa Maria in Trastevere
+  du: '1426'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1447-02-23'
+- titre: évêque de Sienne
+  du: '1408-01-08'
+  au: '1408-05-18'
+- titre: pape
+  du: '1431-03-21'
+  au: '1447-02-23'
+- titre: cardinal
+  du: '1408-05-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PapstEugen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q167561
+  catholic_hierarchy: bcondu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:01:36+00:00'
+  completeness: 0.62

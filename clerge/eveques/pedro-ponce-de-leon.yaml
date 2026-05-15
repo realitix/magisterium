@@ -1,0 +1,52 @@
+slug: pedro-ponce-de-leon
+nom: Pedro Ponce de León
+nom_complet: Pedro Ponce de Léon
+naissance: '1510'
+deces: '1573-01-17'
+naissance_lieu: Córdoba, Diocese of Córdoba
+deces_lieu: Jaraicejo, Diocese of Coria
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpodl.html
+  - https://fr.wikipedia.org/wiki/Pedro_Ponce_de_Le%C3%B3n_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ciudad Rodrigo, Spain
+  du: '1550-06-27'
+  au: null
+- titre: Bishop of Plasencia, Spain
+  du: '1560-01-26'
+  au: '1573-01-17'
+- titre: évêque de Plasencia
+  du: '1560-02-05'
+  au: '1573-01-27'
+- titre: évêque de Ciudad Rodrigo
+  du: '1550-07-07'
+  au: '1560-02-05'
+- titre: grand inquisiteur d'Espagne
+  du: '1572-12-12'
+  au: '1573-01-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PedroPoncedeLeon.gif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3374114
+  catholic_hierarchy: bpodl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:39:52+00:00'
+  completeness: 0.38

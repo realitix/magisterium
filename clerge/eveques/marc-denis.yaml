@@ -1,0 +1,39 @@
+slug: marc-denis
+nom: Marc Denis
+nom_complet: null
+naissance: '1502'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1526-11-17'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdenism.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Coronea
+  du: '1526-11-07'
+  au: null
+- titre: évêque titulaire
+  du: '1526-11-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68867946
+  catholic_hierarchy: bdenism
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:40+00:00'
+  completeness: 0.25

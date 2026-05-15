@@ -1,0 +1,39 @@
+slug: ptolemee-de-lucques
+nom: Ptolémée de Lucques
+nom_complet: Tolomeo da Lucca, O.P.
+naissance: '1240'
+deces: '1327'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q1235720
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluccat.html
+  - https://fr.wikipedia.org/wiki/Ptol%C3%A9m%C3%A9e_de_Lucques
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Torcello (Turris), Italy
+  du: '1318-03-15'
+  au: 1327&sup1;
+- titre: évêque de Torcello
+  du: '1318-03-23'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3410332
+  catholic_hierarchy: bluccat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:03:25+00:00'
+  completeness: 0.25

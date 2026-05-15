@@ -1,0 +1,44 @@
+slug: louis-barbier-de-la-riviere
+nom: Louis Barbier de La Rivière
+nom_complet: Louis Barbier
+naissance: '1593'
+deces: '1670-01-30'
+naissance_lieu: Vandelicourt
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1656-01-02'
+  consecrateur_principal: anne-de-levis-ventadour
+  co_consecrateurs:
+  - jean-de-lingendes
+  - francois-ier-faure
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarbdlr.html
+  - https://fr.wikipedia.org/wiki/Louis_Barbier_de_La_Rivi%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: '1655-11-15'
+  au: '1670-01-30'
+- titre: évêque de Langres
+  du: '1655-11-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3261176
+  catholic_hierarchy: bbarbdlr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:01:16+00:00'
+  completeness: 0.88

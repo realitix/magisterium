@@ -1,0 +1,43 @@
+slug: bartolomeo-siringi
+nom: Bartolomeo Siringi
+nom_complet: null
+naissance: '1524'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1550-12-31'
+  consecrateur_principal: giovanni-rota
+  co_consecrateurs:
+  - marco-malipiero
+  - tito-candiano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsirigo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castellaneta, Italy
+  du: '1544-03-17'
+  au: 1577&sup1;
+- titre: évêque diocésain
+  du: '1544-03-27'
+  au: '1577-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747337
+  catholic_hierarchy: bsirigo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:21:05+00:00'
+  completeness: 0.75

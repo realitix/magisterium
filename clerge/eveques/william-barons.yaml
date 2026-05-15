@@ -1,0 +1,44 @@
+slug: william-barons
+nom: William Barons
+nom_complet: William Barons (Barnes)
+naissance: '1401'
+deces: '1505-10-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1504-11-24'
+  consecrateur_principal: william-warham
+  co_consecrateurs:
+  - richard-nykke
+  - william-smyth
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarons.html
+  - https://fr.wikipedia.org/wiki/William_Barons
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: '1504-08-02'
+  au: '1505-10-10'
+- titre: évêque de Londres
+  du: '1504-08-12'
+  au: '1505-10-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8005100
+  catholic_hierarchy: bbarons
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:04:15+00:00'
+  completeness: 0.88

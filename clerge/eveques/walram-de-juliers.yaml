@@ -1,0 +1,43 @@
+slug: walram-de-juliers
+nom: Walram de Juliers
+nom_complet: Walram von Jülich
+naissance: '1304'
+deces: '1349-08-14'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjulich.html
+  - https://fr.wikipedia.org/wiki/Walram_de_Juliers_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Köln {Cologne}, Germany
+  du: '1332-01-27'
+  au: '1349-08-14'
+- titre: archevêque de Cologne
+  du: '1332-02-04'
+  au: '1349-08-22'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Grabmal%20des%20Erzbischofs%20Walram%20von%20J%C3%BClich%201332-1349.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q95402
+  catholic_hierarchy: bjulich
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:04:49+00:00'
+  completeness: 0.38

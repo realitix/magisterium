@@ -1,0 +1,50 @@
+slug: georg-flach
+nom: Georg Flach
+nom_complet: Georg Flach, O.S.B.
+naissance: '1505'
+deces: '1564-12-15'
+naissance_lieu: Großheppach
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1544-07-20'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: nicolaus-bogantius
+  co_consecrateurs:
+  - marco-malipiero
+  - francesco-cardinal-sfondrati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflachg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Würzburg, Germany
+  du: '1544-06-04'
+  au: '1564-12-15'
+- titre: Titular Bishop of Salona
+  du: '1544-06-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1544-06-04'
+  au: null
+- titre: évêque titulaire
+  du: '1544-06-04'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q1504219
+  catholic_hierarchy: bflachg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:47:25+00:00'
+  completeness: 0.88

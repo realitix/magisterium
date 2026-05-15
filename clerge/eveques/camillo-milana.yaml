@@ -1,0 +1,44 @@
+slug: camillo-milana
+nom: Camillo Milana
+nom_complet: null
+naissance: '1782-09-03'
+deces: '1858-09-06'
+naissance_lieu: Palermo, Archdiocese of Palermo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1851-04-21'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - antonio-benedetto-antonucci
+  - antonio-ligi-bussi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmilana.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicosia, Italy
+  du: null
+  au: '1858-09-06'
+- titre: Roman Catholic Bishop of Nicosia
+  du: '1850-09-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56793879
+  catholic_hierarchy: bmilana
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:18+00:00'
+  completeness: 1.0

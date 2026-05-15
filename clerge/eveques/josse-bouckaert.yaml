@@ -1,0 +1,44 @@
+slug: josse-bouckaert
+nom: Josse Bouckaert
+nom_complet: null
+naissance: '1583'
+deces: '1646-11-01'
+naissance_lieu: Iveghem
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-01-19'
+  consecrateur_principal: antoine-triest
+  co_consecrateurs:
+  - gaspard-dubois-van-den-bosch-nemius
+  - joseph-bergaigne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboucj.html
+  - https://fr.wikipedia.org/wiki/Josse_Bouckaert
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1641-09-16'
+  au: '1646-11-01'
+- titre: évêque d'Ypres
+  du: '1641-09-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29741334
+  catholic_hierarchy: bboucj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:43:46+00:00'
+  completeness: 0.88

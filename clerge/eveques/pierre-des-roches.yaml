@@ -1,0 +1,48 @@
+slug: pierre-des-roches
+nom: Pierre des Roches
+nom_complet: Peter des Roches
+naissance: '1200'
+deces: '1238-06-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1205-09-25'
+  consecrateur_principal: non-indexe-ea17e01e
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdroches.html
+  - https://fr.wikipedia.org/wiki/Pierre_des_Roches
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: 1205&sup1;
+  au: '1238-06-09'
+- titre: évêque diocésain
+  du: '1205-01-01'
+  au: null
+- titre: évêque de Winchester
+  du: '1205-01-01'
+  au: '1238-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Peterdesrochesheadontombwinchestercathedral.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1648032
+  catholic_hierarchy: bdroches
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:47+00:00'
+  completeness: 0.62

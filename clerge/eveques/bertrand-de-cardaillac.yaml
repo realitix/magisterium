@@ -1,0 +1,38 @@
+slug: bertrand-de-cardaillac
+nom: Bertrand de Cardaillac
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcardaib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montauban, France
+  du: '1357-08-21'
+  au: 1361&sup1;
+- titre: évêque diocésain
+  du: '1357-08-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449280
+  catholic_hierarchy: bcardaib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:20:41+00:00'
+  completeness: 0.25

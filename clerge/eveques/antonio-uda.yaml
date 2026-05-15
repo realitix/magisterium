@@ -1,0 +1,44 @@
+slug: antonio-uda
+nom: Antonio Uda
+nom_complet: null
+naissance: '1775-09-17'
+deces: '1845-12-02'
+naissance_lieu: Milis, Archdiocese of Oristano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1845-04-20'
+  lieu: Cathedral, Oristano, Archdiocese of Oristano
+  consecrateur_principal: giovanni-saba
+  co_consecrateurs:
+  - pietro-vargiu
+  - giovanni-battista-montixi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/buda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bosa, Italy
+  du: null
+  au: '1845-12-02'
+- titre: évêque diocésain
+  du: '1844-05-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735409
+  catholic_hierarchy: buda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:16:22+00:00'
+  completeness: 1.0

@@ -1,0 +1,41 @@
+slug: francois-du-verdier
+nom: François du Verdier
+nom_complet: null
+naissance: '1678'
+deces: '1753-09-21'
+naissance_lieu: Limoges, Diocese of Limoges
+deces_lieu: Angoulême, Diocese of Angoulême
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1738-03-09'
+  lieu: Paris, Archdiocese of Paris
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduverd.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_du_Verdier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: null
+  au: '1753-09-21'
+- titre: évêque d'Angoulême
+  du: '1737-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22978390
+  catholic_hierarchy: bduverd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:37+00:00'
+  completeness: 0.5

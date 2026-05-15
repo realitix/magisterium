@@ -1,0 +1,43 @@
+slug: antal-juranitz
+nom: Antal Juranitz
+nom_complet: Antal Juranics
+naissance: '1768-05-26'
+deces: '1837-08-26'
+naissance_lieu: Kaposvár
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1825-08-15'
+  consecrateur_principal: ferenc-nadasdy
+  co_consecrateurs:
+  - janos-benyovszky
+  - peter-de-urmenyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjurani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gy&#337;r (Raab), Hungary
+  du: null
+  au: '1837-08-26'
+- titre: évêque de Győr
+  du: '1825-03-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21007303
+  catholic_hierarchy: bjurani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:05:15+00:00'
+  completeness: 1.0

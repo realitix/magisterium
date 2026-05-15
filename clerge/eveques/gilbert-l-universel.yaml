@@ -1,0 +1,44 @@
+slug: gilbert-l-universel
+nom: Gilbert l'Universel
+nom_complet: Gilbert the Universal
+naissance: '1200'
+deces: '1134'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1128-01-22'
+  consecrateur_principal: william-of-corbeuil-c-r-s-a
+  co_consecrateurs:
+  - seffrid-pelochin
+  - non-indexe-e066e469
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/buniversl.html
+  - https://fr.wikipedia.org/wiki/Gilbert_l%27Universel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: 1127&sup1;
+  au: '1134-08-10'
+- titre: évêque de Londres
+  du: '1127-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1851832
+  catholic_hierarchy: buniversl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:17:41+00:00'
+  completeness: 0.88

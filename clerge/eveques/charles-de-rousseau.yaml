@@ -1,0 +1,49 @@
+slug: charles-de-rousseau
+nom: Charles de Rousseau
+nom_complet: null
+naissance: '1505'
+deces: '1623-11-04'
+naissance_lieu: Le Mans
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-12-04'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdrousc.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Rousseau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Mende, France
+  du: '1606-12-04'
+  au: null
+- titre: Titular Bishop of Metropolis in Asia
+  du: '1606-12-04'
+  au: null
+- titre: Bishop of Mende, France
+  du: null
+  au: '1623-11-04'
+- titre: évêque diocésain
+  du: '1608-06-26'
+  au: null
+- titre: évêque titulaire
+  du: '1606-12-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960693
+  catholic_hierarchy: bdrousc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:07:19+00:00'
+  completeness: 0.38

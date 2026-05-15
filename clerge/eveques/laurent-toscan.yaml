@@ -1,0 +1,40 @@
+slug: laurent-toscan
+nom: Laurent Toscan
+nom_complet: Laurent Toscani
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-33df40da
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btoscan.html
+  - https://fr.wikipedia.org/wiki/Laurent_Toscan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodève, France
+  du: '1528-02-07'
+  au: 1529&sup1;
+- titre: évêque diocésain
+  du: '1528-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q65158965
+  catholic_hierarchy: btoscan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:07:17+00:00'
+  completeness: 0.38

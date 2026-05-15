@@ -1,0 +1,41 @@
+slug: heinrich-von-see
+nom: Heinrich von See
+nom_complet: null
+naissance: '1428'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvsee.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Schleswig, Germany
+  du: '1421-12-17'
+  au: 1428&sup1;
+- titre: Roman Catholic Bishop of Schleswig
+  du: '1421-12-26'
+  au: '1428-01-01'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28731150
+  catholic_hierarchy: bvsee
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:47:02+00:00'
+  completeness: 0.25

@@ -1,0 +1,43 @@
+slug: salomon-waldpot
+nom: Salomon Waldpot
+nom_complet: Saloman Cleman Waldbot
+naissance: '1299'
+deces: '1359-05-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1332'
+  consecrateur_principal: benoit-xii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclewal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: '1329-06-21'
+  au: '1359-05-15'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1329-06-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1525828
+  catholic_hierarchy: bclewal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:26+00:00'
+  completeness: 0.75

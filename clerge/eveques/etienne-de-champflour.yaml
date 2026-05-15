@@ -1,0 +1,48 @@
+slug: etienne-de-champflour
+nom: Étienne de Champflour
+nom_complet: null
+naissance: '1646-05-17'
+deces: '1724-11-26'
+naissance_lieu: Clermont d'Auvergne
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1703-06-10'
+  consecrateur_principal: paul-godet-des-marais
+  co_consecrateurs:
+  - david-nicolas-bertier
+  - claude-maur-d-aubigne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchampe.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_de_Champflour
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of La Rochelle, France
+  du: null
+  au: '1724-11-26'
+- titre: évêque de La Rochelle
+  du: '1702-12-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Mgr%20Etienne%20de%20Champflour.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3592409
+  catholic_hierarchy: bchampe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:54+00:00'
+  completeness: 1.0

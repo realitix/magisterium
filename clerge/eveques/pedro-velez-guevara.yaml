@@ -1,0 +1,40 @@
+slug: pedro-velez-guevara
+nom: Pedro Vélez Guevara
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1584-04-16'
+  consecrateur_principal: jeronimo-manrique-de-lara-1530
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bveleg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ciudad Rodrigo, Spain
+  du: '1584-01-09'
+  au: 1585&sup2;
+- titre: évêque de Ciudad Rodrigo
+  du: '1584-01-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780732
+  catholic_hierarchy: bveleg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:30:32+00:00'
+  completeness: 0.62

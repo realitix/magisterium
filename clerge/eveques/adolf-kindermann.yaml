@@ -1,0 +1,49 @@
+slug: adolf-kindermann
+nom: Adolf Kindermann
+nom_complet: null
+naissance: '1899-08-08'
+deces: '1974-10-23'
+naissance_lieu: Neugrafenwalde
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1966-09-08'
+  consecrateur_principal: heinrich-maria-janssen
+  co_consecrateurs:
+  - wilhelm-kempf
+  - pranas-brazys
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkind.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Hildesheim, Germany
+  du: '1966-07-11'
+  au: '1974-10-23'
+- titre: Titular Bishop of Utimmira
+  du: '1966-07-11'
+  au: null
+- titre: évêque auxiliaire
+  du: '1966-07-11'
+  au: null
+- titre: évêque titulaire
+  du: '1966-07-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q362933
+  catholic_hierarchy: bkind
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:14:13+00:00'
+  completeness: 1.0

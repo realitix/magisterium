@@ -1,0 +1,54 @@
+slug: luigi-negri
+nom: Luigi Negri
+nom_complet: Aloisius Negri
+naissance: '1941-11-26'
+deces: '2021-12-31'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Casa Sacra Famiglia, Cesano Boscone, Archdiocese of Milano {Milan}
+rang: archeveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2005-05-07'
+  lieu: Duomo, Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: dionigi-tettamanzi
+  co_consecrateurs:
+  - carlo-caffarra
+  - paolo-romeo
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnegr.html
+  - https://fr.wikipedia.org/wiki/Luigi_Negri_(archev%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Marino-Montefeltro, Italy
+  du: '2005-03-17'
+  au: null
+- titre: Archbishop of Ferrara-Comacchio, Italy
+  du: '2012-12-01'
+  au: null
+- titre: Archbishop Emeritus of Ferrara-Comacchio, Italy
+  du: null
+  au: '2021-12-31'
+- titre: évêque de Saint-Marin-Montefeltro
+  du: '2005-03-17'
+  au: null
+- titre: archevêque de Ferrara-Comacchio
+  du: '2012-12-01'
+  au: '2017-02-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1876234
+  catholic_hierarchy: bnegr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:28:29+00:00'
+  completeness: 1.0

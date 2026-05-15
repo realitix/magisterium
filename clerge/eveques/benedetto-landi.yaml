@@ -1,0 +1,47 @@
+slug: benedetto-landi
+nom: Benedetto Landi
+nom_complet: null
+naissance: '1578'
+deces: '1638'
+naissance_lieu: Velletri
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1628-06-13'
+  lieu: Quirinal Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-barberini
+  co_consecrateurs:
+  - lorenzo-azzolini
+  - tiberio-cenci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blandib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fossombrone, Italy
+  du: '1628-06-05'
+  au: '1632-11-15'
+- titre: Bishop Emeritus of Fossombrone, Italy
+  du: null
+  au: 1638&sup1;
+- titre: évêque diocésain
+  du: '1628-06-05'
+  au: '1632-11-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11854053
+  catholic_hierarchy: blandib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:30:55+00:00'
+  completeness: 0.75

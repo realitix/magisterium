@@ -1,0 +1,45 @@
+slug: jean-raphanel-o-f-m
+nom: Jean Raphanel, O.F.M.
+nom_complet: Jean Raphanel
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: simon-bonnet
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/braphanel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aulon, Greece
+  du: '1425-09-05'
+  au: null
+- titre: Bishop of Senlis, France
+  du: '1434-09-06'
+  au: 1448&sup1;
+- titre: évêque diocésain
+  du: '1425-09-14'
+  au: null
+- titre: évêque diocésain
+  du: '1434-09-15'
+  au: '1448-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q108447473
+  catholic_hierarchy: braphanel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:03:04+00:00'
+  completeness: 0.38

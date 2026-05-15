@@ -1,0 +1,61 @@
+slug: georges-chalandon
+nom: Georges Chalandon
+nom_complet: Georges-Claude-Louis-Pie Chalandon
+naissance: '1804-02-15'
+deces: '1873-02-28'
+naissance_lieu: Lyon
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1851-01-12'
+  lieu: Cathedral, Belley, Diocese of Belley
+  consecrateur_principal: alexandre-devie
+  co_consecrateurs:
+  - pierre-chatrousse
+  - joseph-hippolyte-guibert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchala.html
+  - https://fr.wikipedia.org/wiki/Georges_Chalandon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Thaumacus
+  du: '1850-10-03'
+  au: null
+- titre: Bishop of Belley, France
+  du: null
+  au: '1852-07-25'
+- titre: Archbishop of Aix (-Arles-Embrun), France
+  du: null
+  au: '1873-02-28'
+- titre: évêque diocésain
+  du: '1852-07-25'
+  au: null
+- titre: archevêque catholique
+  du: '1857-02-14'
+  au: null
+- titre: évêque titulaire
+  du: '1850-10-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Chalandon%20-%20Erzbischof%20von%20Aix-en-Provence.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3102448
+  catholic_hierarchy: bchala
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:13+00:00'
+  completeness: 1.0

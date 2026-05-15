@@ -1,0 +1,42 @@
+slug: diego-aduarte
+nom: Diego Aduarte
+nom_complet: Diego Aduarte, O.P.
+naissance: '1569'
+deces: '1636'
+naissance_lieu: Zaragoza, Archdiocese of Zaragoza, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1635'
+  lieu: Dominican, Church, Manila, Archdiocese of Manila
+  consecrateur_principal: hernando-guerrero-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/badua.html
+  - https://fr.wikipedia.org/wiki/Diego_Aduarte
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nueva Segovia, Philippines
+  du: '1634-01-23'
+  au: 1636&sup2;
+- titre: évêque de Nueva Segovia
+  du: '1634-01-23'
+  au: '1636-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3707182
+  catholic_hierarchy: badua
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:21:28+00:00'
+  completeness: 0.62

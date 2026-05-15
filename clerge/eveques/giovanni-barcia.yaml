@@ -1,0 +1,60 @@
+slug: giovanni-barcia
+nom: Giovanni Barcia
+nom_complet: null
+naissance: '1829-04-08'
+deces: '1912-12-02'
+naissance_lieu: Palazzo Adriano, Archdiocese of Monreale, Italy
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}, Italy
+rang: eveque
+nationalite: IT
+tampon: ordo_validus
+sacre:
+  date: '1902-06-24'
+  consecrateur_principal: vincenzo-vannutelli
+  co_consecrateurs:
+  - giustino-adami
+  - ladislas-michel-zaleski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarci.html
+  - https://gcatholic.org/p/51618
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Croae
+  du: '1902-04-24'
+  au: '1912-12-02'
+- titre: Titular Bishop
+  siege: Croia
+  du: '1902-04-20'
+  au: '1912-12-02'
+- titre: Ordinary
+  siege: Italia continentale
+  du: '1902-04-24'
+  au: '1912-12-02'
+- titre: Ordinary
+  siege: Silicia
+  du: '1902-04-24'
+  au: '1912-12-02'
+- titre: évêque titulaire
+  du: '1902-04-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746068
+  catholic_hierarchy: bbarci
+  gcatholic: '51618'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:02:13+00:00'
+  completeness: 1.0
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:40+00:00'
+  completeness: 0.75

@@ -1,0 +1,49 @@
+slug: joaquin-briz
+nom: Joaquín Briz
+nom_complet: Joaquín Briz, O.P.
+naissance: '1778-10-25'
+deces: '1837-01-23'
+naissance_lieu: Zaragoza, Archdiocese of Zaragoza
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1832-06-03'
+  consecrateur_principal: bernardo-frances-caballero
+  co_consecrateurs:
+  - ramon-maria-de-azpeitia-y-saenz-de-santamaria
+  - jose-asensio-de-ocon-y-toledo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbriz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Master General of Order of Friars Preachers
+  du: '1825'
+  au: '1831'
+- titre: Bishop of Segovia, Spain
+  du: null
+  au: '1837-01-23'
+- titre: évêque de Ségovie
+  du: '1831-10-25'
+  au: '1837-01-23'
+- titre: maître de l'ordre des Prêcheurs
+  du: '1825-01-01'
+  au: '1831-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q9012213
+  catholic_hierarchy: bbriz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:52:58+00:00'
+  completeness: 1.0

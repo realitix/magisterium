@@ -1,0 +1,45 @@
+slug: jean-du-tillet
+nom: Jean du Tillet
+nom_complet: null
+naissance: '1500-03-01'
+deces: '1570-12-28'
+naissance_lieu: Great Britain
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btillet.html
+  - https://fr.wikipedia.org/wiki/Jean_du_Tillet_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc, France
+  du: '1553-09-18'
+  au: null
+- titre: Bishop of Meaux, France
+  du: '1564-08-05'
+  au: Dec 1570&sup3;
+- titre: évêque de Meaux
+  du: '1564-08-15'
+  au: null
+- titre: évêque diocésain
+  du: '1553-09-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175826
+  catholic_hierarchy: btillet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:00:16+00:00'
+  completeness: 0.25

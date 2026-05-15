@@ -1,0 +1,49 @@
+slug: hippolyte-trehiou
+nom: Hippolyte Tréhiou
+nom_complet: null
+naissance: '1880-11-22'
+deces: '1941-01-09'
+naissance_lieu: Tréssignaux, Diocese of Saint-Brieuc (-Tréguier)
+deces_lieu: Vannes, Diocese of Vannes
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1929-06-24'
+  lieu: Cathedral, Saint-Brieuc, Diocese of Saint-Brieuc (-Tréguier)
+  consecrateur_principal: francois-jean-marie-serrand
+  co_consecrateurs:
+  - adolphe-duparc
+  - florent-du-bois-de-la-villerabel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btreh.html
+  - https://fr.wikipedia.org/wiki/Hippolyte_Tr%C3%A9hiou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vannes, France
+  du: '1929-04-15'
+  au: '1941-01-09'
+- titre: évêque diocésain
+  du: '1929-04-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vannes%20-%20cath%C3%A9drale%2C%20gisant%20de%20Mgr%20Tr%C3%A9hiou.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3136131
+  catholic_hierarchy: btreh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:09:33+00:00'
+  completeness: 1.0

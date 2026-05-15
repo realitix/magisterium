@@ -1,0 +1,44 @@
+slug: clement-mikaelian
+nom: Clément Mikaelian
+nom_complet: null
+naissance: '1820-05-17'
+deces: '1890'
+naissance_lieu: Marasc
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1877-09-23'
+  lieu: Ste Marie, Cathedral, Constantinople
+  consecrateur_principal: antoine-pierre-ix-hassoun
+  co_consecrateurs:
+  - gregoire-krikor-balitian
+  - pierre-tilkian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmick.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marasc (Armenian), Turkey
+  du: '1877-08-14'
+  au: 1890&sup1;
+- titre: évêque diocésain
+  du: '1877-08-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763509
+  catholic_hierarchy: bmick
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:56:01+00:00'
+  completeness: 0.88

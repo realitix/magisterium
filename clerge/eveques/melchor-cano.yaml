@@ -1,0 +1,55 @@
+slug: melchor-cano
+nom: Melchor Cano
+nom_complet: Melchor Cano, O.P.
+naissance: '1509-01-16'
+deces: '1560-09-30'
+naissance_lieu: Tarancón, Diocese of Cuenca
+deces_lieu: San Pedro Martir, Convent, Toledo, Archdiocese of Toledo
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: '1553-07-30'
+  lieu: Cathedral, Segovia, Diocese of Segovia
+  consecrateur_principal: gaspar-cardinal-zuniga-y-avellaneda
+  co_consecrateurs:
+  - francisco-lerma
+  - rodrigo-vazquez-f90a91
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanom.html
+  - https://fr.wikipedia.org/wiki/Melchor_Cano
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Islas Canarias {Canary Islands}, Spain
+  du: '1552-09-12'
+  au: 1554&sup1;
+- titre: Bishop Emeritus of Islas Canarias {Canary Islands}, Spain
+  du: null
+  au: '1560-09-30'
+- titre: professeur titulaire
+  du: null
+  au: null
+- titre: évêque des Canaries
+  du: '1552-09-22'
+  au: '1554-01-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Melchor%20Cano%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q644162
+  catholic_hierarchy: bcanom
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:06+00:00'
+  completeness: 0.88

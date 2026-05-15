@@ -1,0 +1,39 @@
+slug: guillaume-de-rance
+nom: Guillaume de Rancé
+nom_complet: Guillaume de Rance, O.P.
+naissance: '1350'
+deces: '1378'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brance.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Ranc%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1363-05-05'
+  au: 1379&sup2;
+- titre: évêque diocésain
+  du: '1363-05-13'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3120426
+  catholic_hierarchy: brance
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:02:04+00:00'
+  completeness: 0.25

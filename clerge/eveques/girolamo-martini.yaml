@@ -1,0 +1,44 @@
+slug: girolamo-martini
+nom: Girolamo Martini
+nom_complet: null
+naissance: '1587'
+deces: '1648'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1637-04-26'
+  lieu: S. Laurent in Lucina, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-cardinal-caetani
+  co_consecrateurs:
+  - alessandro-gallo
+  - antonio-tornielli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartingi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ugento, Italy
+  du: null
+  au: 1648&sup1;
+- titre: évêque diocésain
+  du: '1636-10-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23616435
+  catholic_hierarchy: bmartingi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:43+00:00'
+  completeness: 0.75

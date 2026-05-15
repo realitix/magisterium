@@ -1,0 +1,53 @@
+slug: jakob-kraft
+nom: Jakob Kraft
+nom_complet: Johann Jakob Kraft
+naissance: '1806-03-18'
+deces: '1884-06-09'
+naissance_lieu: Ochtendung, Diocese of Trier
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1868-11-22'
+  lieu: Cathedral, Trier, Diocese of Trier
+  consecrateur_principal: matthias-eberhard
+  co_consecrateurs:
+  - nikolaus-adames
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkraft.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1868-09-24'
+  au: '1884-06-09'
+- titre: Titular Bishop of Castoria
+  du: '1868-09-24'
+  au: null
+- titre: évêque titulaire
+  du: '1868-09-24'
+  au: null
+- titre: évêque auxiliaire
+  du: '1868-09-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Kraft%20Trier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1694901
+  catholic_hierarchy: bkraft
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:20:26+00:00'
+  completeness: 1.0

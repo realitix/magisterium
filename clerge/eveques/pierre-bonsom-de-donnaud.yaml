@@ -1,0 +1,45 @@
+slug: pierre-bonsom-de-donnaud
+nom: Pierre Bonsom de Donnaud
+nom_complet: Pierre de Donnauld, O.S.B.
+naissance: '1563-04-09'
+deces: '1630-07-03'
+naissance_lieu: S. Ybars
+deces_lieu: Mirepoix, Diocese of Mirepoix
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1587-09-27'
+  lieu: S. Louis des Français, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francois-cardinal-de-joyeuse
+  co_consecrateurs:
+  - giovanni-battista-albani
+  - giovanni-evangelista-cardinal-pallotta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdonnaud.html
+  - https://fr.wikipedia.org/wiki/Pierre_Bonsom_de_Donnaud
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mirepoix, France
+  du: '1587-09-11'
+  au: '1630-07-03'
+- titre: évêque diocésain
+  du: '1587-09-11'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3384074
+  catholic_hierarchy: bdonnaud
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:01:03+00:00'
+  completeness: 1.0

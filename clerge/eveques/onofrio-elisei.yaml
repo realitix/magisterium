@@ -1,0 +1,47 @@
+slug: onofrio-elisei
+nom: Onofrio Elisei
+nom_complet: null
+naissance: '1668-01-22'
+deces: '1733-11-27'
+naissance_lieu: Foligno, Diocese of Foligno
+deces_lieu: Orvieto, Diocese of Orvieto
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '21'
+  lieu: Santa Maria in Vallicella, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/belisei.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bagnoregio (Bagnorea), Italy
+  du: '1705-06-08'
+  au: null
+- titre: Bishop of Orvieto, Italy
+  du: '1721-09-10'
+  au: '1733-11-27'
+- titre: évêque diocésain
+  du: '1705-06-08'
+  au: null
+- titre: évêque diocésain
+  du: '1721-09-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747023
+  catholic_hierarchy: belisei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:20:55+00:00'
+  completeness: 0.88

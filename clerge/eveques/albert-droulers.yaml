@@ -1,0 +1,48 @@
+slug: albert-droulers
+nom: Albert Droulers
+nom_complet: Albert-Paul Droulers
+naissance: '1887-12-21'
+deces: '1950-06-03'
+naissance_lieu: Tourcoing
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1947-05-06'
+  consecrateur_principal: achille-lienart
+  co_consecrateurs:
+  - maurice-feltin
+  - frederic-lamy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdrou.html
+  - https://fr.wikipedia.org/wiki/Albert_Droulers
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: '1947-02-17'
+  au: '1950-06-03'
+- titre: évêque d'Amiens
+  du: '1947-02-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Droulers%2C%20%C3%A9v%C3%AAque%20d%27Amiens%2001.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q60240244
+  catholic_hierarchy: bdrou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:07:17+00:00'
+  completeness: 1.0

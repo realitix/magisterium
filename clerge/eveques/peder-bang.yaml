@@ -1,0 +1,42 @@
+slug: peder-bang
+nom: Peder Bang
+nom_complet: null
+naissance: '1300'
+deces: '1277'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbangp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roskilde (Roeskilde), Denmark
+  du: 1253&sup2;
+  au: '1277-06-23'
+- titre: évêque de Roskilde
+  du: '1253-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Peder%20Bang%2C%20bishop%20of%20Roskilde%20-%20seal%2C%201258.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2066201
+  catholic_hierarchy: bbangp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:00:01+00:00'
+  completeness: 0.38

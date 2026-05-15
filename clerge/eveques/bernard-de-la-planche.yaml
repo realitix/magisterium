@@ -1,0 +1,42 @@
+slug: bernard-de-la-planche
+nom: Bernard de La Planche
+nom_complet: Bernard de La Planche, O.S.B.
+naissance: '1380'
+deces: '1448'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blplanche.html
+  - https://fr.wikipedia.org/wiki/Bernard_de_La_Planche
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acqs (Dax), France
+  du: '1427-02-26'
+  au: null
+- titre: Bishop Emeritus of Acqs (Dax), France
+  du: null
+  au: 1448&sup2;
+- titre: évêque diocésain
+  du: '1427-03-07'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q531308
+  catholic_hierarchy: blplanche
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:00+00:00'
+  completeness: 0.25

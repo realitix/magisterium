@@ -1,0 +1,38 @@
+slug: arnaud-de-verdale
+nom: Arnaud de Verdale
+nom_complet: null
+naissance: null
+deces: '1352-12-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bverdale.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Maguelonne, France
+  du: '1339-03-15'
+  au: '1352-12-23'
+- titre: évêque de Maguelone
+  du: '1339-03-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108445766
+  catholic_hierarchy: bverdale
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:49+00:00'
+  completeness: 0.38

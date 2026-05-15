@@ -1,0 +1,40 @@
+slug: john-li-congzhe
+nom: John Li Congzhe
+nom_complet: Joseph Li Congzhe
+naissance: '1915-12-25'
+deces: '2002-06-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1984-07-27'
+  consecrateur_principal: julius-jia-zhiguo
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blicong.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hohhot [Suiyüan], China
+  du: null
+  au: '2002-06-20'
+- titre: évêque diocésain
+  du: '1984-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11979006
+  catholic_hierarchy: blicong
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:49:34+00:00'
+  completeness: 0.88

@@ -1,0 +1,40 @@
+slug: bonajunta-de-boscolis
+nom: Bonajunta de Boscolis
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1333-07-31'
+  consecrateur_principal: pierre-des-pres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboscolis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Polignano (Polinianum), Italy
+  du: '1333-03-15'
+  au: null
+- titre: Roman Catholic Bishop of Polignano
+  du: '1333-03-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779877
+  catholic_hierarchy: bboscolis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:42:09+00:00'
+  completeness: 0.62

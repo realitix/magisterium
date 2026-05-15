@@ -1,0 +1,49 @@
+slug: mathurin-de-savonnieres
+nom: Mathurin de Savonnières
+nom_complet: Mathurin de Savonnières, O.S.A.
+naissance: null
+deces: '1586-06-11'
+naissance_lieu: Angers
+deces_lieu: Paris, Diocese of Paris
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1583-08-28'
+  lieu: S. Germain des Pres, Paris, Diocese of Paris
+  consecrateur_principal: louis-de-breze
+  co_consecrateurs:
+  - nicolas-fumee
+  - antoine-de-couppe-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavonn.html
+  - https://fr.wikipedia.org/wiki/Mathurin_de_Savonni%C3%A8res
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayeux, France
+  du: '1583-03-09'
+  au: '1586-06-11'
+- titre: évêque diocésain
+  du: '1583-03-19'
+  au: null
+fraternite: augustins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1583%20-%20Mathurin%20de%20Savonni%C3%A8res.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3299040
+  catholic_hierarchy: bsavonn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:10+00:00'
+  completeness: 0.88

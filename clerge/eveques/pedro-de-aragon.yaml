@@ -1,0 +1,50 @@
+slug: pedro-de-aragon
+nom: Pedro de Aragón
+nom_complet: null
+naissance: '1527'
+deces: '1597-12-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baragp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vic, Spain
+  du: '1577-01-14'
+  au: null
+- titre: Bishop of Jaca, Spain
+  du: '1584-05-04'
+  au: null
+- titre: Bishop of Lérida, Spain
+  du: '1592-04-15'
+  au: '1597-12-21'
+- titre: évêque de Vic
+  du: '1577-01-24'
+  au: '1584-05-04'
+- titre: évêque de Jaca
+  du: '1584-05-04'
+  au: '1592-04-15'
+- titre: évêque de Lérida
+  du: '1592-04-15'
+  au: '1597-12-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68862472
+  catholic_hierarchy: baragp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:57+00:00'
+  completeness: 0.38

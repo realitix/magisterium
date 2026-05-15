@@ -1,0 +1,39 @@
+slug: benoit-malvitius
+nom: Benoit Malvitius
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1536-04-19'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalvit.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Salona
+  du: '1536-04-19'
+  au: null
+- titre: évêque titulaire
+  du: '1536-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68906163
+  catholic_hierarchy: bmalvit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:18:42+00:00'
+  completeness: 0.25

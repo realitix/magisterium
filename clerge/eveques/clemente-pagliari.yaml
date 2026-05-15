@@ -1,0 +1,44 @@
+slug: clemente-pagliari
+nom: Clemente Pagliari
+nom_complet: Clemente Pagliaro
+naissance: '1807-03-21'
+deces: '1875-03-09'
+naissance_lieu: Acqualagna, Archdiocese of Urbino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1858-01-03'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-maria-cagiano-de-azevedo
+  co_consecrateurs:
+  - mariano-falcinelli-antoniacci
+  - gustave-adolphe-de-hohenlohe-schillingsfurst
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaglc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Anagni, Italy
+  du: '1857-12-21'
+  au: '1875-03-09'
+- titre: évêque diocésain
+  du: '1857-12-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64657707
+  catholic_hierarchy: bpaglc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:02:59+00:00'
+  completeness: 1.0

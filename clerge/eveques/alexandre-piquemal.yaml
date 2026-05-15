@@ -1,0 +1,49 @@
+slug: alexandre-piquemal
+nom: Alexandre Piquemal
+nom_complet: null
+naissance: '1852-03-18'
+deces: '1920-06-04'
+naissance_lieu: Mirepoix, France
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1909-03-25'
+  consecrateur_principal: clement-combes
+  co_consecrateurs:
+  - jean-joseph-tournier
+  - spiridion-polomeni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpiqu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Alger, Algeria
+  du: '1909-02-26'
+  au: '1920-06-04'
+- titre: Titular Bishop of Thagora
+  du: '1909-02-26'
+  au: null
+- titre: évêque titulaire
+  du: '1909-02-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1909-02-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736169
+  catholic_hierarchy: bpiqu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:35:40+00:00'
+  completeness: 1.0

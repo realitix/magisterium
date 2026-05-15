@@ -1,0 +1,45 @@
+slug: roderick-maclean
+nom: Roderick MacLean
+nom_complet: null
+naissance: '1500'
+deces: '1553'
+naissance_lieu: near Loch Ness
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1552'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmacler.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clonmacnoise, Ireland
+  du: '1549-08-30'
+  au: null
+- titre: Bishop of The Isles (Sodor), Scotland, Great Britain
+  du: '1550-03-05'
+  au: 1553&sup2;
+- titre: évêque des Îles
+  du: '1550-03-15'
+  au: null
+- titre: bishop of the Roman Catholic Diocese of Clonmacnoise
+  du: '1549-09-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905972
+  catholic_hierarchy: bmacler
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:10:23+00:00'
+  completeness: 0.38

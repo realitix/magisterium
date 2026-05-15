@@ -1,0 +1,44 @@
+slug: manuel-ceron
+nom: Manuel Cerón
+nom_complet: null
+naissance: '1825'
+deces: '1880-05-09'
+naissance_lieu: Iza, Archdiocese of Santafé en Nueva Granada
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1879-08-17'
+  lieu: Cathedral, Bogota, Archdiocese of Santafé en Nueva Granada
+  consecrateur_principal: vicente-arbelaez-gomez
+  co_consecrateurs:
+  - bonifacio-antonio-toscano
+  - ignacio-antonio-parra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bceron.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cartagena, Colombia
+  du: '1879-02-28'
+  au: '1880-05-09'
+- titre: évêque de Carthagène des Indes
+  du: '1879-02-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11880810
+  catholic_hierarchy: bceron
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:37:59+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: bartolomeo-mollo
+nom: Bartolomeo Mollo
+nom_complet: null
+naissance: '1696-08-24'
+deces: '1761-07-20'
+naissance_lieu: Lusciano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1739-12-08'
+  consecrateur_principal: giovanni-antonio-guadagni
+  co_consecrateurs:
+  - ferdinando-maria-de-rossi
+  - giovanni-andrea-tria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmollo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Severo, Italy
+  du: '1739-11-16'
+  au: '1761-07-20'
+- titre: évêque diocésain
+  du: '1739-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734275
+  catholic_hierarchy: bmollo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:57+00:00'
+  completeness: 1.0

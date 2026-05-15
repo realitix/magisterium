@@ -1,0 +1,44 @@
+slug: jacques-marie-sala
+nom: Jacques Marie Sala
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Bologna, Diocese of Bologna, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1557-03-28'
+  lieu: Apostolic Palace, Avignon, Archdiocese of Avignon
+  consecrateur_principal: paolo-sadoleto
+  co_consecrateurs:
+  - jean-de-saint-chamond
+  - pierre-de-bisqueres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalajm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viviers (Aps), France
+  du: '1554-11-12'
+  au: 1564&sup1;
+- titre: évêque diocésain
+  du: '1554-11-22'
+  au: '1564-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780421
+  catholic_hierarchy: bsalajm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:42:47+00:00'
+  completeness: 0.75

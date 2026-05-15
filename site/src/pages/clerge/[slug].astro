@@ -1,0 +1,680 @@
+---
+import Clerc from '../../layouts/Clerc.astro';
+import Tampon from '../../components/Tampon.astro';
+import LineageSvg from '../../components/LineageSvg.astro';
+import {
+  getAllClerics,
+  getClericBySlug,
+  getClericIndex,
+  getConsecrationOf,
+  getDescendants,
+  getDocumentsByCleric,
+  getLineage,
+  inferRite,
+  type Rite,
+} from '../../data/loadClerge.ts';
+
+export async function getStaticPaths() {
+  const clerics = getAllClerics();
+  return clerics.map((c) => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const cleric = getClericBySlug(slug as string);
+const idx = getClericIndex(slug as string);
+
+if (cleric === null && idx === null) {
+  return Astro.redirect('/404');
+}
+
+const nom = cleric?.nom ?? idx?.nom ?? (slug as string);
+const nomComplet = cleric?.nom_complet ?? null;
+const naissance = cleric?.naissance ?? null;
+const deces = cleric?.deces ?? null;
+const naissanceAnnee = idx?.naissance_annee ?? null;
+const decesAnnee = idx?.deces_annee ?? null;
+const rang = cleric?.rang ?? idx?.rang ?? null;
+const fraternite = cleric?.fraternite ?? idx?.fraternite ?? null;
+const sacre = cleric?.sacre ?? null;
+const ordination = cleric?.ordination ?? null;
+const isPretre = rang === 'pretre' || rang === 'diacre';
+const photo = cleric?.photo ?? null;
+
+const consecration = getConsecrationOf(slug as string);
+const consecRite: Rite = inferRite(consecration);
+const lineage = getLineage(slug as string);
+// Pour un prêtre, le tampon vient du YAML (calculé par finalize_pretres = tampon de l'ordinateur)
+// Pour un évêque, il vient des lignées précalculées (annotate_rite).
+const tampon = cleric?.tampon ?? lineage?.tampon ?? 'ordo_incertus';
+
+// Pour un prêtre, on a besoin du slug de l'ordinateur et de son tampon
+const ordinateurSlugForPretre = ordination?.ordinateur_slug ?? null;
+const ordinateurRef = isPretre ? makeRef(ordinateurSlugForPretre) : null;
+const ordinateurLineage = ordinateurSlugForPretre ? getLineage(ordinateurSlugForPretre) : null;
+
+const descendantsAll = getDescendants(slug as string);
+const descendantsLimit = 100;
+const descendants = descendantsAll.slice(0, descendantsLimit);
+
+// Liens vers consécrateur / co-consécrateurs : on vérifie l'existence dans l'index.
+function makeRef(s: string | null | undefined): { slug: string; nom: string; exists: boolean } | null {
+  if (s === null || s === undefined || s.length === 0) return null;
+  if (s.startsWith('non-indexe-')) return { slug: s, nom: 'évêque non identifié', exists: false };
+  const i = getClericIndex(s);
+  return { slug: s, nom: i?.nom ?? s, exists: i !== null };
+}
+
+const consecrateurPrincipal = makeRef(sacre?.consecrateur_principal ?? consecration?.consecrateur_principal ?? null);
+const coConsecRaw = sacre?.co_consecrateurs ?? consecration?.co_consecrateurs ?? [];
+const coConsecrateurs = coConsecRaw.map(makeRef).filter((r) => r !== null) as Array<{ slug: string; nom: string; exists: boolean }>;
+
+const sacreDate = sacre?.date ?? consecration?.date ?? null;
+const sacreLieu = sacre?.lieu ?? consecration?.lieu ?? null;
+
+const RITE_LABEL: Record<Rite, string> = {
+  ancien: 'rite ancien',
+  nouveau: 'rite nouveau (1968+)',
+  mixte: 'rite mixte',
+  inconnu: 'rite inconnu',
+};
+const RITE_CLASS: Record<Rite, string> = {
+  ancien: 'rite-ancien',
+  nouveau: 'rite-nouveau',
+  mixte: 'rite-mixte',
+  inconnu: 'rite-inconnu',
+};
+
+// Sources externes
+const qids = cleric?.qids ?? {};
+const externalLinks: Array<{ label: string; url: string }> = [];
+if (qids.wikidata !== undefined) externalLinks.push({ label: 'Wikidata', url: `https://www.wikidata.org/wiki/${qids.wikidata}` });
+if (qids.catholic_hierarchy !== undefined) externalLinks.push({ label: 'catholic-hierarchy.org', url: `https://www.catholic-hierarchy.org/bishop/${qids.catholic_hierarchy}.html` });
+if (qids.gcatholic !== undefined) externalLinks.push({ label: 'gcatholic.org', url: `https://gcatholic.org/hierarchy/data/B-${qids.gcatholic}.htm` });
+
+// Image
+const photoUrl = photo?.source_url ?? null;
+
+const datesText =
+  naissanceAnnee !== null && decesAnnee !== null
+    ? `${naissanceAnnee} – ${decesAnnee}`
+    : naissanceAnnee !== null
+      ? `né en ${naissanceAnnee}`
+      : decesAnnee !== null
+        ? `† ${decesAnnee}`
+        : '';
+
+const obediences = cleric?.obediences ?? [];
+const fonctions = (cleric?.fonctions ?? []).filter((f) => f.titre !== null && f.titre !== undefined);
+
+// Documents signés / écrits / promulgués par ce clerc (cf. tools/clerge_link_documents.py).
+const associatedDocs = getDocumentsByCleric(slug as string);
+const ASSOC_LIMIT = 10;
+const FRENCH_MONTHS: readonly string[] = [
+  'janvier', 'février', 'mars', 'avril', 'mai', 'juin',
+  'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre',
+];
+function formatFrenchDate(iso: string | null | undefined): string | null {
+  if (iso === null || iso === undefined || iso.trim().length === 0) return null;
+  const m = /^(\d{1,4})(?:-(\d{2}))?(?:-(\d{2}))?/.exec(iso);
+  if (m === null) return iso;
+  const year = Number.parseInt(m[1], 10);
+  const monthIdx = m[2] !== undefined ? Number.parseInt(m[2], 10) - 1 : null;
+  const day = m[3] !== undefined ? Number.parseInt(m[3], 10) : null;
+  if (day !== null && monthIdx !== null && monthIdx >= 0 && monthIdx < 12) {
+    return `${day} ${FRENCH_MONTHS[monthIdx]} ${year}`;
+  }
+  if (monthIdx !== null && monthIdx >= 0 && monthIdx < 12) {
+    return `${FRENCH_MONTHS[monthIdx]} ${year}`;
+  }
+  return String(year);
+}
+---
+
+<Clerc title={nom} description={`${nom}${datesText !== '' ? ` (${datesText})` : ''} — fiche prosopographique.`}>
+  <header class="cl-header">
+    <div class="cl-header__photo">
+      {photoUrl !== null ? (
+        <img src={photoUrl} alt={`Portrait de ${nom}`} loading="lazy" />
+      ) : (
+        <div class="cl-header__photo-placeholder" aria-hidden="true">✠</div>
+      )}
+    </div>
+    <div class="cl-header__body">
+      <p class="cl-header__eyebrow">{rang ?? 'évêque'}{fraternite !== null && fraternite !== 'non-renseigne' ? ` · ${fraternite}` : ''}</p>
+      <h1 class="cl-header__title">{nom}</h1>
+      {nomComplet !== null && nomComplet !== nom && (
+        <p class="cl-header__subtitle">{nomComplet}</p>
+      )}
+      <p class="cl-header__dates">{datesText}</p>
+    </div>
+    <div class="cl-header__tampon">
+      <Tampon variant={tampon} />
+    </div>
+  </header>
+
+  {isPretre ? (
+    <section class="cl-section" aria-labelledby="sacre-title">
+      <h2 id="sacre-title" class="cl-section__title">Ordination presbytérale</h2>
+      <p class="cl-pretre-explain">
+        Le tampon d'un prêtre est hérité de l'évêque qui l'a ordonné — c'est la chaîne
+        sacramentelle de l'<strong>ordinateur</strong> qui détermine la validité, conformément
+        à la doctrine traditionnelle : un prêtre validement ordonné suppose un évêque
+        validement consacré.
+      </p>
+      <dl class="cl-meta">
+        <dt>Date</dt>
+        <dd>{ordination?.date ?? '—'}</dd>
+        <dt>Lieu</dt>
+        <dd>{ordination?.lieu ?? '—'}</dd>
+        <dt>Rite presbytéral</dt>
+        <dd>
+          {ordination?.rite ? (
+            <span class={`cl-rite cl-rite--${RITE_CLASS[ordination.rite]}`}>
+              {RITE_LABEL[ordination.rite]}
+            </span>
+          ) : (
+            <span class="cl-muted">non renseigné</span>
+          )}
+        </dd>
+        <dt>Ordinateur</dt>
+        <dd>
+          {ordinateurRef === null ? (
+            <span class="cl-muted">{ordination?.ordinateur ?? 'non renseigné'}</span>
+          ) : ordinateurRef.exists ? (
+            <>
+              <a href={`/clerge/${ordinateurRef.slug}/`}>{ordinateurRef.nom}</a>
+              {ordinateurLineage !== null && (
+                <span class="cl-muted"> · tampon {ordinateurLineage.tampon}</span>
+              )}
+            </>
+          ) : (
+            <span class="cl-muted">{ordinateurRef.nom}</span>
+          )}
+        </dd>
+      </dl>
+    </section>
+  ) : (
+  <section class="cl-section" aria-labelledby="sacre-title">
+    <h2 id="sacre-title" class="cl-section__title">Consécration épiscopale</h2>
+    <dl class="cl-meta">
+      <dt>Date</dt>
+      <dd>{sacreDate ?? '—'}</dd>
+      <dt>Lieu</dt>
+      <dd>{sacreLieu ?? '—'}</dd>
+      <dt>Rite</dt>
+      <dd>
+        <span class={`cl-rite cl-rite--${RITE_CLASS[consecRite]}`}>{RITE_LABEL[consecRite]}</span>
+      </dd>
+      <dt>Consécrateur principal</dt>
+      <dd>
+        {consecrateurPrincipal === null ? (
+          <span class="cl-muted">non renseigné</span>
+        ) : consecrateurPrincipal.exists ? (
+          <a href={`/clerge/${consecrateurPrincipal.slug}/`}>{consecrateurPrincipal.nom}</a>
+        ) : (
+          <span class="cl-muted">{consecrateurPrincipal.nom}</span>
+        )}
+      </dd>
+      {coConsecrateurs.length > 0 && (
+        <>
+          <dt>Co-consécrateurs</dt>
+          <dd>
+            <ul class="cl-coconsec">
+              {coConsecrateurs.map((co) => (
+                <li>
+                  {co.exists ? (
+                    <a href={`/clerge/${co.slug}/`}>{co.nom}</a>
+                  ) : (
+                    <span class="cl-muted">{co.nom}</span>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </dd>
+        </>
+      )}
+    </dl>
+  </section>
+  )}
+
+  {/* Pour un prêtre : afficher la lignée de son ordinateur épiscopal */}
+  {isPretre && ordinateurLineage !== null && ordinateurLineage.ancestors.length > 1 && (
+    <section class="cl-section" aria-labelledby="ordlineage-title">
+      <h2 id="ordlineage-title" class="cl-section__title">Lignée sacramentelle de l'ordinateur</h2>
+      <p class="cl-lineage__summary">
+        Lignée épiscopale de <strong>{ordinateurRef?.nom ?? ordinateurSlugForPretre}</strong>{' '}
+        — c'est elle qui détermine la validité de l'ordination de ce prêtre.
+        <br />
+        <strong>{ordinateurLineage.count_nouveau}</strong> consécration{ordinateurLineage.count_nouveau !== 1 ? 's' : ''} en rite nouveau ·
+        <strong>{ordinateurLineage.count_inconnu}</strong> en rite inconnu ·
+        <strong>{ordinateurLineage.count_ancien}</strong> en rite ancien.
+      </p>
+      <LineageSvg ancestors={ordinateurLineage.ancestors} />
+    </section>
+  )}
+
+  {!isPretre && lineage !== null && lineage.ancestors.length > 1 && (
+    <section class="cl-section" aria-labelledby="lineage-title">
+      <h2 id="lineage-title" class="cl-section__title">Lignée ascendante</h2>
+      <p class="cl-lineage__summary">
+        <strong>{lineage.count_nouveau}</strong> consécration{lineage.count_nouveau !== 1 ? 's' : ''} en rite nouveau ·
+        <strong>{lineage.count_inconnu}</strong> en rite inconnu ·
+        <strong>{lineage.count_ancien}</strong> en rite ancien.
+        {lineage.oldest_anchor !== null && lineage.oldest_anchor !== undefined && (
+          <> Lignée remontée jusqu'à <code>{lineage.oldest_anchor}</code>.</>
+        )}
+      </p>
+      <LineageSvg ancestors={lineage.ancestors} />
+    </section>
+  )}
+
+  {!isPretre && descendants.length > 0 && (
+    <section class="cl-section" aria-labelledby="desc-title">
+      <h2 id="desc-title" class="cl-section__title">
+        Descendance ({descendantsAll.length} évêque{descendantsAll.length > 1 ? 's' : ''} consacré{descendantsAll.length > 1 ? 's' : ''})
+      </h2>
+      <details>
+        <summary>Afficher la liste{descendantsAll.length > descendantsLimit ? ` (premiers ${descendantsLimit})` : ''}</summary>
+        <ul class="cl-desc">
+          {descendants.map((d) => {
+            const di = getClericIndex(d);
+            return (
+              <li>
+                <a href={`/clerge/${d}/`}>{di?.nom ?? d}</a>
+                {di?.naissance_annee !== null && di?.naissance_annee !== undefined && (
+                  <span class="cl-muted"> · {di.naissance_annee}{di.deces_annee !== null && di.deces_annee !== undefined ? ` – ${di.deces_annee}` : ''}</span>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+      </details>
+    </section>
+  )}
+
+  {obediences.length > 0 && (
+    <section class="cl-section" aria-labelledby="ob-title">
+      <h2 id="ob-title" class="cl-section__title">Obédiences</h2>
+      <ol class="cl-frise">
+        {obediences.map((o) => (
+          <li>
+            <span class="cl-frise__statut">{o.statut ?? '—'}</span>
+            <span class="cl-muted"> ({o.du ?? '?'} → {o.au ?? '?'})</span>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+
+  {fonctions.length > 0 && (
+    <section class="cl-section" aria-labelledby="fct-title">
+      <h2 id="fct-title" class="cl-section__title">Fonctions</h2>
+      <table class="cl-table">
+        <thead>
+          <tr>
+            <th>Titre</th>
+            <th>Lieu / institut</th>
+            <th>Période</th>
+          </tr>
+        </thead>
+        <tbody>
+          {fonctions.map((f) => (
+            <tr>
+              <td>{f.titre}</td>
+              <td>{f.siege ?? f.institut ?? '—'}</td>
+              <td>{f.du ?? '?'} → {f.au ?? '?'}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  {externalLinks.length > 0 && (
+    <section class="cl-section" aria-labelledby="src-title">
+      <h2 id="src-title" class="cl-section__title">Sources externes</h2>
+      <ul class="cl-sources">
+        {externalLinks.map((l) => (
+          <li><a href={l.url} rel="noreferrer noopener nofollow" target="_blank">{l.label}</a></li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {associatedDocs.length > 0 && (
+    <section class="cl-section" aria-labelledby="docs-title">
+      <h2 id="docs-title" class="cl-section__title">
+        Documents associés ({associatedDocs.length})
+      </h2>
+      <p class="cl-docs__intro">
+        Textes signés, promulgués ou écrits par ce clerc, présents dans le corpus.
+      </p>
+      {associatedDocs.length <= ASSOC_LIMIT ? (
+        <ul class="cl-docs">
+          {associatedDocs.map((d) => {
+            const dateFr = formatFrenchDate(d.date);
+            const title = d.titre_fr ?? d.incipit ?? d.slug;
+            return (
+              <li class="cl-doc">
+                <a class="cl-doc__title" href={`/documents/${d.slug}/${d.langue_originale}/`}>{title}</a>
+                <span class="cl-doc__meta">
+                  <span class="cl-doc__type">{d.type}</span>
+                  {dateFr !== null && <span class="cl-muted"> · {dateFr}</span>}
+                </span>
+              </li>
+            );
+          })}
+        </ul>
+      ) : (
+        <details>
+          <summary>Afficher la liste ({associatedDocs.length} documents)</summary>
+          <ul class="cl-docs">
+            {associatedDocs.map((d) => {
+              const dateFr = formatFrenchDate(d.date);
+              const title = d.titre_fr ?? d.incipit ?? d.slug;
+              return (
+                <li class="cl-doc">
+                  <a class="cl-doc__title" href={`/documents/${d.slug}/${d.langue_originale}/`}>{title}</a>
+                  <span class="cl-doc__meta">
+                    <span class="cl-doc__type">{d.type}</span>
+                    {dateFr !== null && <span class="cl-muted"> · {dateFr}</span>}
+                  </span>
+                </li>
+              );
+            })}
+          </ul>
+        </details>
+      )}
+    </section>
+  )}
+
+  <section class="cl-section cl-section--renvoi" aria-labelledby="renvoi-title">
+    <h2 id="renvoi-title" class="cl-section__title">Pour approfondir</h2>
+    <p>
+      Pour comprendre le sens du tampon affiché ci-dessus, voir la fiche doctrinale
+      <a href="/questions/validite-rite-episcopal-1968/">
+        « Validité du rite de consécration épiscopale promulgué en 1968 »</a>.
+    </p>
+  </section>
+</Clerc>
+
+<style>
+  .cl-header {
+    display: grid;
+    grid-template-columns: 120px 1fr auto;
+    gap: var(--space-m);
+    align-items: center;
+    padding-bottom: var(--space-m);
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: var(--space-l);
+  }
+  .cl-header__photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid var(--rule);
+    background: var(--paper-dim);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .cl-header__photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .cl-header__photo-placeholder {
+    font-family: var(--font-display);
+    font-size: 3rem;
+    color: var(--gold);
+  }
+  .cl-header__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin: 0 0 var(--space-2xs);
+  }
+  .cl-header__title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+    color: var(--ink);
+    margin: 0 0 var(--space-2xs);
+    letter-spacing: -0.01em;
+  }
+  .cl-header__subtitle {
+    font-family: var(--font-serif);
+    font-style: italic;
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-2xs);
+  }
+  .cl-header__dates {
+    font-family: var(--font-serif);
+    color: var(--muted);
+    margin: 0;
+  }
+  .cl-header__tampon {
+    align-self: start;
+    padding-top: 0.5em;
+  }
+  @media (max-width: 640px) {
+    .cl-header {
+      grid-template-columns: 80px 1fr;
+    }
+    .cl-header__photo {
+      width: 80px;
+      height: 80px;
+    }
+    .cl-header__tampon {
+      grid-column: 1 / -1;
+      justify-self: start;
+    }
+  }
+
+  .cl-section {
+    margin: var(--space-l) 0;
+  }
+  .cl-section__title {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--ink);
+    margin: 0 0 var(--space-s);
+    padding-bottom: var(--space-2xs);
+    border-bottom: 1px solid var(--rule);
+  }
+  .cl-section--renvoi {
+    background: var(--paper-dim);
+    border: 1px solid var(--rule);
+    padding: var(--space-m);
+    border-radius: 4px;
+  }
+  .cl-section--renvoi a {
+    color: var(--rubric);
+    font-weight: 600;
+  }
+
+  .cl-meta {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: var(--space-xs) var(--space-m);
+    margin: 0;
+  }
+  .cl-meta dt {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    padding-top: 0.25em;
+  }
+  .cl-meta dd {
+    margin: 0;
+    color: var(--ink-soft);
+  }
+  .cl-coconsec {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em 0.6em;
+  }
+  .cl-rite {
+    display: inline-block;
+    padding: 0.15em 0.55em;
+    border-radius: 2px;
+    border: 1px solid currentColor;
+    font-family: var(--font-display);
+    font-size: 0.82rem;
+    letter-spacing: 0.04em;
+  }
+  .cl-rite--rite-ancien { color: #2f7a3a; }
+  .cl-rite--rite-nouveau { color: #8b1a1a; }
+  .cl-rite--rite-mixte { color: #b08a3e; }
+  .cl-rite--rite-inconnu { color: #6b6158; }
+
+  .cl-muted {
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .cl-lineage__summary {
+    font-family: var(--font-serif);
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-s);
+  }
+  .cl-pretre-explain {
+    font-family: var(--font-serif);
+    color: var(--ink-soft);
+    background: var(--paper-soft, #f5f1e8);
+    border-left: 3px solid var(--ink-soft);
+    padding: 0.6em 0.9em;
+    margin: 0 0 var(--space-m);
+    line-height: 1.55;
+    font-size: 0.92rem;
+  }
+  .cl-lineage__summary code {
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+    background: var(--paper-dim);
+    padding: 0.1em 0.35em;
+    border-radius: 2px;
+  }
+
+  .cl-desc {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-s) 0 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: var(--space-2xs);
+  }
+  .cl-desc li {
+    padding: var(--space-2xs);
+    background: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    font-size: 0.95rem;
+  }
+  details > summary {
+    cursor: pointer;
+    font-family: var(--font-display);
+    color: var(--rubric);
+    padding: var(--space-2xs) 0;
+  }
+
+  .cl-frise {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-s);
+  }
+  .cl-frise__statut {
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .cl-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+  .cl-table th,
+  .cl-table td {
+    padding: var(--space-2xs) var(--space-xs);
+    text-align: left;
+    border-bottom: 1px solid var(--rule);
+  }
+  .cl-table th {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.72rem;
+    color: var(--muted);
+  }
+
+  .cl-sources {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+  .cl-sources a {
+    color: var(--rubric);
+  }
+
+  .cl-docs__intro {
+    font-family: var(--font-serif);
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-s);
+    font-size: 0.95rem;
+  }
+  .cl-docs {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-2xs);
+  }
+  .cl-doc {
+    padding: var(--space-2xs) var(--space-s);
+    background: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    border-left: 3px solid var(--gold);
+    display: flex;
+    flex-direction: column;
+    gap: 0.1em;
+  }
+  .cl-doc__title {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    color: var(--ink);
+    text-decoration: none;
+    line-height: 1.3;
+  }
+  .cl-doc__title:hover,
+  .cl-doc__title:focus-visible {
+    color: var(--rubric);
+    text-decoration: underline;
+  }
+  .cl-doc__meta {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 0.72rem;
+    color: var(--muted);
+  }
+  .cl-doc__type {
+    color: var(--ink-soft);
+  }
+</style>

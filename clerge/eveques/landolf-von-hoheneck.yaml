@@ -1,0 +1,43 @@
+slug: landolf-von-hoheneck
+nom: Landolf von Hoheneck
+nom_complet: null
+naissance: '1200'
+deces: '1247-06-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1236-05-01'
+  consecrateur_principal: siegfried-von-eppenstein-ced23f
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhohenl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: '1234-11-01'
+  au: '1247-06-08'
+- titre: évêque diocésain
+  du: '1234-11-08'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1803656
+  catholic_hierarchy: bhohenl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:19+00:00'
+  completeness: 0.75

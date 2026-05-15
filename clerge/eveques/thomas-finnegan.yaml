@@ -1,0 +1,47 @@
+slug: thomas-finnegan
+nom: Thomas Finnegan
+nom_complet: Thomas Anthony Finnegan
+naissance: '1925-08-26'
+deces: '2011-12-25'
+naissance_lieu: Castlerea
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '1987-07-12'
+  lieu: S. Muredach, Cathedral, Ballina, Diocese of Killala
+  consecrateur_principal: gaetano-alibrandi
+  co_consecrateurs:
+  - joseph-cunnane
+  - thomas-mcdonnell
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfinnegan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killala, Ireland
+  du: '1987-05-03'
+  au: null
+- titre: Bishop Emeritus of Killala, Ireland
+  du: null
+  au: '2011-12-25'
+- titre: évêque diocésain
+  du: '1987-05-03'
+  au: '2002-02-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2423881
+  catholic_hierarchy: bfinnegan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:45:14+00:00'
+  completeness: 1.0

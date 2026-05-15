@@ -1,0 +1,43 @@
+slug: alfonso-cingari
+nom: Alfonso Cingari
+nom_complet: null
+naissance: '1748-10-17'
+deces: '1817-06-14'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1806-04-07'
+  consecrateur_principal: leonardo-antonelli
+  co_consecrateurs:
+  - ottavio-boni
+  - giovanni-coppola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcing.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cagli, Italy
+  du: '1806-03-31'
+  au: '1817-06-14'
+- titre: évêque diocésain
+  du: '1806-03-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61474816
+  catholic_hierarchy: bcing
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:51:07+00:00'
+  completeness: 1.0

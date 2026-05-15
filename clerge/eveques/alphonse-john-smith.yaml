@@ -1,0 +1,44 @@
+slug: alphonse-john-smith
+nom: Alphonse John Smith
+nom_complet: null
+naissance: '1883-11-14'
+deces: '1935-12-16'
+naissance_lieu: Madison, IN, Diocese of Vincennes, Indiana
+deces_lieu: St. Thomas, Hospital, Nashville, Diocese of Nashville, Tennessee
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1924-03-25'
+  lieu: Saints Peter and Paul, Cathedral, Indianapolis, Diocese of Indianapolis, Indiana
+  consecrateur_principal: joseph-chartrand
+  co_consecrateurs:
+  - emmanuel-boleslaus-ledvina
+  - samuel-alphonsus-stritch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsmitha.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nashville, Tennessee, USA
+  du: '1923-12-23'
+  au: '1935-12-16'
+- titre: évêque diocésain
+  du: '1923-12-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4735372
+  catholic_hierarchy: bsmitha
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:24:05+00:00'
+  completeness: 1.0

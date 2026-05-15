@@ -1,0 +1,48 @@
+slug: alphonse-iii-d-elbene
+nom: Alphonse III d'Elbène
+nom_complet: Alphonse d&rsquo;Elbène
+naissance: '1600'
+deces: '1665-05-20'
+naissance_lieu: Sens
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1647-05-27'
+  consecrateur_principal: nicolo-cardinal-guidi-di-bagno
+  co_consecrateurs:
+  - rene-de-rieux
+  - antoine-godeau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelbeal.html
+  - https://fr.wikipedia.org/wiki/Alphonse_III_d%27Elb%C3%A8ne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orléans, France
+  du: '1647-01-21'
+  au: '1665-05-20'
+- titre: évêque diocésain
+  du: '1647-01-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20III%20Delb%C3%A8ne%2C%20Bishop%20of%20Orl%C3%A9ans%20MET%20DP822464.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2840000
+  catholic_hierarchy: bdelbeal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:39:06+00:00'
+  completeness: 0.88

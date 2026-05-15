@@ -1,0 +1,44 @@
+slug: vincenzo-bisceglia
+nom: Vincenzo Bisceglia
+nom_complet: null
+naissance: '1803-06-06'
+deces: '1889-02-12'
+naissance_lieu: Cerignola
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1851-10-05'
+  lieu: Lazaristes au Montecitorio, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - jean-marie-odin
+  - rosendo-salvado
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbisc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Termoli, Italy
+  du: null
+  au: '1889-02-12'
+- titre: Roman Catholic Bishop of Termoli
+  du: '1851-08-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734246
+  catholic_hierarchy: bbisc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:28:40+00:00'
+  completeness: 1.0

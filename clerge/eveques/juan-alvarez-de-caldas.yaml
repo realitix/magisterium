@@ -1,0 +1,47 @@
+slug: juan-alvarez-de-caldas
+nom: Juan Álvarez de Caldas
+nom_complet: Juan Alvarez de Caldas
+naissance: '1542'
+deces: '1615-11-30'
+naissance_lieu: Caldas, Diocese of Oviedo
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1605-05-29'
+  lieu: Valladolid, Diocese of Palencia
+  consecrateur_principal: juan-bautista-acevedo-munoz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balvca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oviedo, Spain
+  du: '1605-01-12'
+  au: null
+- titre: Bishop of Ávila, Spain
+  du: '1612-05-14'
+  au: '1615-11-30'
+- titre: évêque d'Ávila
+  du: '1612-05-14'
+  au: null
+- titre: évêque d'Oviedo
+  du: '1605-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9016191
+  catholic_hierarchy: balvca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:33:40+00:00'
+  completeness: 0.75

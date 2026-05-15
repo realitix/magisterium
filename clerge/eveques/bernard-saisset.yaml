@@ -1,0 +1,43 @@
+slug: bernard-saisset
+nom: Bernard Saisset
+nom_complet: Bernard Saisset, O.S.B.
+naissance: '1232'
+deces: '1314'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaisset.html
+  - https://fr.wikipedia.org/wiki/Bernard_Saisset
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers, France
+  du: '1295-07-23'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Papal%20Legate%20-%20Project%20Gutenberg%20eText%2016531.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q822689
+  catholic_hierarchy: bsaisset
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:42:09+00:00'
+  completeness: 0.25

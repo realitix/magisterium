@@ -1,0 +1,39 @@
+slug: bertrand-de-polignac
+nom: Bertrand de Polignac
+nom_complet: null
+naissance: null
+deces: '1501-11-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoligb.html
+  - https://fr.wikipedia.org/wiki/Bertrand_de_Polignac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rodez, France
+  du: '1494-06-02'
+  au: '1501-11-02'
+- titre: évêque de Rodez
+  du: '1494-06-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28495634
+  catholic_hierarchy: bpoligb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:41:25+00:00'
+  completeness: 0.38

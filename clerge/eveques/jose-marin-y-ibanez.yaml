@@ -1,0 +1,44 @@
+slug: jose-marin-y-ibanez
+nom: José Marín y Ibáñez
+nom_complet: null
+naissance: '1680-01-29'
+deces: '1734-01-08'
+naissance_lieu: Santa Coloma
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1731-02-18'
+  lieu: St. Martin, Madrid, Archdiocese of Toledo
+  consecrateur_principal: juan-de-camargo-y-angulo
+  co_consecrateurs:
+  - benito-madueno-y-ramos
+  - dionisio-francisco-mellado-eguiluz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bibanez.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Almería, Spain
+  du: '1730-11-22'
+  au: '1734-01-08'
+- titre: évêque d'Almería
+  du: '1730-11-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q78775951
+  catholic_hierarchy: bibanez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:51:38+00:00'
+  completeness: 1.0

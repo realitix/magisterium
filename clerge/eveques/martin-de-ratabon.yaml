@@ -1,0 +1,56 @@
+slug: martin-de-ratabon
+nom: Martin de Ratabon
+nom_complet: null
+naissance: '1654'
+deces: '1728-06-08'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1693-12-06'
+  consecrateur_principal: guillaume-egon-de-furstenberg
+  co_consecrateurs:
+  - francois-de-caillebot-de-la-salle
+  - jean-balthazar-de-cabanes-de-viens
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bratab.html
+  - https://fr.wikipedia.org/wiki/Martin_de_Ratabon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: null
+  au: '1713-01-05'
+- titre: Bishop of Viviers (Aps), France
+  du: null
+  au: '1723-02-20'
+- titre: Bishop Emeritus of Viviers (Aps), France
+  du: null
+  au: '1728-06-08'
+- titre: évêque d'Ypres
+  du: '1689-05-28'
+  au: '1713-01-05'
+- titre: vicaire général de Strasbourg
+  du: null
+  au: null
+- titre: évêque de Viviers
+  du: '1713-04-22'
+  au: '1723-02-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3295686
+  catholic_hierarchy: bratab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:03:37+00:00'
+  completeness: 0.88

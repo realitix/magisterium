@@ -1,0 +1,44 @@
+slug: agapitos-malouf-b-c
+nom: Agapitos Malouf, B.C.
+nom_complet: Agapitos Malouf
+naissance: '1847-05-04'
+deces: '1922-02-12'
+naissance_lieu: Wadi-el-Karm
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1896-03-29'
+  lieu: Beirut, Archdiocese of Beirut and Jbeil {Bairut e Gibail} (Melkite Greek)
+  consecrateur_principal: gregory-ii-youssef
+  co_consecrateurs:
+  - gaudenzio-bonfigli
+  - melezio-melece-fakkak
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalouf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Baalbek (Melkite Greek), Lebanon
+  du: '1896-03-29'
+  au: '1922-02-12'
+- titre: évêque diocésain
+  du: '1896-03-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734721
+  catholic_hierarchy: bmalouf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:18:17+00:00'
+  completeness: 1.0

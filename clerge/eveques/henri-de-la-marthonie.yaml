@@ -1,0 +1,45 @@
+slug: henri-de-la-marthonie
+nom: Henri de La Marthonie
+nom_complet: null
+naissance: '1539'
+deces: '1618-10-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1588-01-31'
+  consecrateur_principal: geoffroy-de-la-marthonie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blmarth.html
+  - https://fr.wikipedia.org/wiki/Henri_de_La_Marthonie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: '1587-07-13'
+  au: '1618-10-07'
+- titre: évêque diocésain
+  du: '1587-07-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20La%20Marthonie%20%28%C3%A9v%C3%AAque%20de%20Limoges%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23816860
+  catholic_hierarchy: blmarth
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:54:28+00:00'
+  completeness: 0.75

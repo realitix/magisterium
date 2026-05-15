@@ -1,0 +1,47 @@
+slug: biagio-gambaro
+nom: Biagio Gambaro
+nom_complet: null
+naissance: '1650-02-02'
+deces: '1721-10-16'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1693-12-27'
+  consecrateur_principal: galeazzo-marescotti
+  co_consecrateurs:
+  - filippo-tani-o-s-b
+  - giovanni-battista-visconti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgambaro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Telese o Cerreto Sannita, Italy
+  du: '1693-12-22'
+  au: Oct 1721&sup3;
+- titre: évêque diocésain
+  du: '1693-12-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cortile%20del%20palazzo%20vescovile%20di%20Cerreto%20Sannita.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3639337
+  catholic_hierarchy: bgambaro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:07:29+00:00'
+  completeness: 0.88

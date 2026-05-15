@@ -1,0 +1,43 @@
+slug: odon-ozic-o-s-a
+nom: Odon Ozic, O.S.A.
+nom_complet: Odon Ozic
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1482-10-20'
+  consecrateur_principal: giuliano-maffei-matteis-o-f-m
+  co_consecrateurs:
+  - non-indexe-2b77115a
+  - alfonso-de-paradinas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bozic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vaison, France
+  du: '1482-06-17'
+  au: 1483&sup1;
+- titre: évêque diocésain
+  du: '1482-06-26'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64781094
+  catholic_hierarchy: bozic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:00:42+00:00'
+  completeness: 0.75

@@ -1,0 +1,45 @@
+slug: henry-burghersh
+nom: Henry Burghersh
+nom_complet: null
+naissance: '1292'
+deces: '1340-12-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1320-07-20'
+  consecrateur_principal: john-salmon
+  co_consecrateurs:
+  - walter-de-stapledon
+  - adam-orleton
+  - ingerand-de-crequi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bburghe.html
+  - https://fr.wikipedia.org/wiki/Henry_Burghersh
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1320-05-27'
+  au: '1340-12-04'
+- titre: évêque de Lincoln
+  du: '1320-06-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q258047
+  catholic_hierarchy: bburghe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:00:13+00:00'
+  completeness: 0.88

@@ -1,0 +1,50 @@
+slug: miguel-espinosa
+nom: Miguel Espinosa
+nom_complet: null
+naissance: null
+deces: '1601-10-07'
+naissance_lieu: Sevilla, Archdiocese of Sevilla {Seville}
+deces_lieu: Valencia, Archdiocese of Valencia
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1580-05-29'
+  lieu: La Seo, Cathedral, Zaragoza, Archdiocese of Zaragoza
+  consecrateur_principal: andres-santos-quintana-de-sampedro
+  co_consecrateurs:
+  - antonio-garcia-de-valtorres-o-cist
+  - alfonso-merchante-de-valeria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bespim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Valencia, Spain
+  du: '1579-10-26'
+  au: '1601-10-07'
+- titre: Titular Bishop of Marocco o Marruecos, Titular Sees
+  du: '1579-10-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1579-11-05'
+  au: null
+- titre: évêque titulaire
+  du: '1579-10-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763469
+  catholic_hierarchy: bespim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:25:22+00:00'
+  completeness: 0.88

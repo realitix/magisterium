@@ -1,0 +1,44 @@
+slug: cristoforo-tramonto
+nom: Cristoforo Tramonto
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btramonto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Umbriatico (Umbriaticum), Italy
+  du: '1333-10-30'
+  au: null
+- titre: Bishop of Bisignano, Italy
+  du: '1347-02-19'
+  au: 1353&sup1;
+- titre: Roman Catholic Bishop of Bisignano
+  du: '1347-02-27'
+  au: null
+- titre: Roman Catholic Bishop of Umbriatico
+  du: '1333-11-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446530
+  catholic_hierarchy: btramonto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:08:42+00:00'
+  completeness: 0.25

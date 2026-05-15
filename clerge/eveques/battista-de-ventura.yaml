@@ -1,0 +1,44 @@
+slug: battista-de-ventura
+nom: Battista de Ventura
+nom_complet: null
+naissance: null
+deces: '1492'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bventub.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Frigento, Italy
+  du: '1455-09-12'
+  au: null
+- titre: Bishop of Avellino e Frigento, Italy
+  du: '1465-05-20'
+  au: 1492&sup1;
+- titre: évêque diocésain
+  du: '1455-09-21'
+  au: null
+- titre: évêque d'Avellino
+  du: '1465-05-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27493867
+  catholic_hierarchy: bventub
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:12+00:00'
+  completeness: 0.25

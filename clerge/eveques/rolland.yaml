@@ -1,0 +1,35 @@
+slug: rolland
+nom: Rolland
+nom_complet: Rolando
+naissance: '1200'
+deces: '1188'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-cdd3fb69
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Rolland_(cardinal,_1185)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Dol
+  du: '1177-01-01'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1710707
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67

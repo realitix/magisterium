@@ -1,0 +1,47 @@
+slug: nicolas-zoes-zoesius
+nom: Nicolas Zoes (Zoesius)
+nom_complet: Nicolaas Zoesius
+naissance: '1564-08-05'
+deces: '1625-08-22'
+naissance_lieu: Amersfoort
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-05-10'
+  consecrateur_principal: matthias-van-den-hove-hovius
+  co_consecrateurs:
+  - jean-van-malderen
+  - jacques-van-den-borgh
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzoesius.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &rsquo;s-Hertogenbosch (Bois-le-Duc), Netherlands
+  du: '1615-03-30'
+  au: '1625-08-22'
+- titre: évêque diocésain
+  du: '1615-03-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Nicolaas%20Zoesius%2C%20RP-P-1912-776.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2786791
+  catholic_hierarchy: bzoesius
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:10:49+00:00'
+  completeness: 1.0

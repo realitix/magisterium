@@ -1,0 +1,40 @@
+slug: pierre-de-insula
+nom: Pierre de Insula
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1476-03-31'
+  consecrateur_principal: non-indexe-7f72869d
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/binsula.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moldovita (Moldawitza, Suczawa), Romania
+  du: '1476-03-29'
+  au: 1484&sup1;
+- titre: évêque diocésain
+  du: '1476-04-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779559
+  catholic_hierarchy: binsula
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:53:55+00:00'
+  completeness: 0.62

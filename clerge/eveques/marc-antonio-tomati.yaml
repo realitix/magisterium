@@ -1,0 +1,40 @@
+slug: marc-antonio-tomati
+nom: Marc'Antonio Tomati
+nom_complet: Marco Antonio Tomati
+naissance: '1583-01-05'
+deces: '1693-01-07'
+naissance_lieu: Caravonica, Diocese of Albenga
+deces_lieu: Govone, Diocese of Asti
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1666-01-17'
+  lieu: Roma, Diocese of Roma {Rome}
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btomatim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Asti, Italy
+  du: '1666-01-11'
+  au: '1693-01-07'
+- titre: évêque diocésain
+  du: '1666-01-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27980775
+  catholic_hierarchy: btomatim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:03:26+00:00'
+  completeness: 0.62

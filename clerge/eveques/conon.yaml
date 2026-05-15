@@ -1,0 +1,31 @@
+slug: conon
+nom: Conon
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Conon_(%C3%A9v%C3%AAque_de_Sion)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Sion
+  du: '1179-01-01'
+  au: '1184-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q97727421
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22

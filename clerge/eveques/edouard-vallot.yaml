@@ -1,0 +1,47 @@
+slug: edouard-vallot
+nom: Édouard Vallot
+nom_complet: Édouard Valot
+naissance: '1637'
+deces: '1705-09-03'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1667-08-28'
+  consecrateur_principal: louis-henri-de-pardaillan-de-gondrin
+  co_consecrateurs:
+  - pierre-de-broc
+  - jean-de-maupeou
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalot.html
+  - https://fr.wikipedia.org/wiki/%C3%89douard_Vallot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nevers, France
+  du: null
+  au: Feb 1705&sup3;
+- titre: Bishop Emeritus of Nevers, France
+  du: null
+  au: '1705-09-03'
+- titre: évêque diocésain
+  du: '1664-09-26'
+  au: '1705-02-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3580055
+  catholic_hierarchy: bvalot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:23:09+00:00'
+  completeness: 0.88

@@ -1,0 +1,52 @@
+slug: thomas-brunce
+nom: Thomas Brunce
+nom_complet: Thomas Brown
+naissance: '1388'
+deces: '1445-12-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1435-05-01'
+  consecrateur_principal: henry-chicheley
+  co_consecrateurs:
+  - simon-sydenham
+  - richard-clerk
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrwnt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1435-02-21'
+  au: null
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1436-09-19'
+  au: '1445-12-06'
+- titre: évêque de Norwich
+  du: '1436-09-28'
+  au: null
+- titre: évêque diocésain
+  du: '1435-03-02'
+  au: null
+- titre: évêque diocésain
+  du: '1436-09-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7787983
+  catholic_hierarchy: bbrwnt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:56:29+00:00'
+  completeness: 0.88

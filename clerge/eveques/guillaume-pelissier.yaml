@@ -1,0 +1,44 @@
+slug: guillaume-pelissier
+nom: Guillaume Pélissier
+nom_complet: Guillaume de Pélissier, O.S.A.
+naissance: '1450'
+deces: '1532-11-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '16'
+  consecrateur_principal: giovanni-ferrer
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpelisg.html
+  - https://fr.wikipedia.org/wiki/Guillaume_P%C3%A9lissier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orange, France
+  du: null
+  au: 1522&sup1;
+- titre: Bishop Emeritus of Orange, France
+  du: null
+  au: '1532-11-19'
+- titre: évêque diocésain
+  du: '1510-01-01'
+  au: '1522-01-01'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q3120140
+  catholic_hierarchy: bpelisg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:17:29+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: jean-d-amoncourt
+nom: Jean d'Amoncourt
+nom_complet: Jean d&rsquo;Amoncourt
+naissance: null
+deces: '1559'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1551-10-04'
+  consecrateur_principal: claude-de-longwy-de-givry
+  co_consecrateurs:
+  - antoine-de-vienne
+  - philibert-beaujeu-le-doux-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdamonc.html
+  - https://fr.wikipedia.org/wiki/Jean_d%27Amoncourt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: '1551-01-30'
+  au: null
+- titre: évêque de Poitiers
+  du: '1551-02-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27508188
+  catholic_hierarchy: bdamonc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:25:22+00:00'
+  completeness: 0.75

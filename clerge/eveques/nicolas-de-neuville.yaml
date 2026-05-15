@@ -1,0 +1,43 @@
+slug: nicolas-de-neuville
+nom: Nicolas de Neuville
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneuviln.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Neuville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1310-08-27'
+  au: 1312&sup1;
+- titre: évêque de Verdun
+  du: '1305-01-01'
+  au: '1312-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Malarz%20francuski%20XVII%20w.%20-%20Portrait%20of%20Nicolas%20de%20Neufville%20-%20M.Ob.1285%20-%20National%20Museum%20in%20Warsaw.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3340958
+  catholic_hierarchy: bneuviln
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:32+00:00'
+  completeness: 0.25

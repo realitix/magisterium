@@ -1,0 +1,49 @@
+slug: william-quarter
+nom: William Quarter
+nom_complet: William J. Quarter
+naissance: '1806-01-21'
+deces: '1848-04-10'
+naissance_lieu: Killurine, Diocese of Killaloe, Ireland
+deces_lieu: Chicago, Diocese of Chicago, Illinois
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1844-03-10'
+  lieu: St. Patrick, Cathedral, New York, Diocese of New York, New York
+  consecrateur_principal: john-hughes
+  co_consecrateurs:
+  - benedict-joseph-fenwick
+  - richard-vincent-whelan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquarter.html
+  - https://fr.wikipedia.org/wiki/William_Quarter
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chicago, Illinois, USA
+  du: '1843-11-28'
+  au: '1848-04-10'
+- titre: évêque diocésain
+  du: '1843-11-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20William%20Quarter.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1240948
+  catholic_hierarchy: bquarter
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:54:41+00:00'
+  completeness: 1.0

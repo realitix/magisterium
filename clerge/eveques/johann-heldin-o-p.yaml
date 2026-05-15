@@ -1,0 +1,44 @@
+slug: johann-heldin-o-p
+nom: Johann Heldin, O.P.
+nom_complet: Johann Heldin
+naissance: null
+deces: '1466'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bheldin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bamberg, Germany
+  du: 1460&sup1;
+  au: 1466&sup2;
+- titre: Titular Bishop of Scopien
+  du: 1460&sup1;
+  au: null
+- titre: évêque auxiliaire
+  du: '1460-01-01'
+  au: null
+- titre: évêque titulaire
+  du: null
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q68904599
+  catholic_hierarchy: bheldin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:10+00:00'
+  completeness: 0.25

@@ -1,0 +1,44 @@
+slug: jean-de-bonneguise
+nom: Jean de Bonneguise
+nom_complet: null
+naissance: '1707-02-01'
+deces: '1769-02-28'
+naissance_lieu: Badefols d&rsquo;Ans
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1752-10-22'
+  consecrateur_principal: christophe-de-beaumont
+  co_consecrateurs:
+  - hardouin-de-chalon-de-maisonnoble
+  - pierre-augustin-bernardin-de-rosset-de-rocozel-de-fleury
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonneg.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Bonneguise
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: null
+  au: '1769-02-28'
+- titre: évêque d'Arras
+  du: '1752-04-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21511531
+  catholic_hierarchy: bbonneg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:38:34+00:00'
+  completeness: 1.0

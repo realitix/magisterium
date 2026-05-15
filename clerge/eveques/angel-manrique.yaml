@@ -1,0 +1,42 @@
+slug: angel-manrique
+nom: Ángel Manrique
+nom_complet: Angel Manrique, O. Cist.
+naissance: '1577-02-28'
+deces: '1649-02-28'
+naissance_lieu: Cubel
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmnrqa.html
+  - https://fr.wikipedia.org/wiki/%C3%81ngel_Manrique
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Badajoz, Spain
+  du: null
+  au: '1649-02-28'
+- titre: évêque de Badajoz
+  du: '1645-01-23'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q251761
+  catholic_hierarchy: bmnrqa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:01:41+00:00'
+  completeness: 0.5

@@ -1,0 +1,44 @@
+slug: carmine-cioffi
+nom: Carmine Cioffi
+nom_complet: null
+naissance: '1692-07-18'
+deces: '1783'
+naissance_lieu: Torre Orsaia, Diocese of Policastro, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1737-05-12'
+  lieu: Santa Maria Donnaregina, Church, Napoli, Archdiocese of Napoli {Naples}, Italy
+  consecrateur_principal: casimiro-rossi
+  co_consecrateurs:
+  - domenico-invitti
+  - octavio-da-pozzo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcioffic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Antaeopolis
+  du: '1737-02-11'
+  au: 1783&sup2;
+- titre: évêque titulaire
+  du: '1737-02-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751297
+  catholic_hierarchy: bcioffic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:51:27+00:00'
+  completeness: 0.88

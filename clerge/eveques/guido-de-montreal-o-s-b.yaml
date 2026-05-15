@@ -1,0 +1,45 @@
+slug: guido-de-montreal-o-s-b
+nom: Guido de Montreal, O.S.B.
+nom_complet: Guido de Montreal
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1526-05-07'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontreal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Konstanz {Constance}, Germany
+  du: '1526-04-27'
+  au: null
+- titre: Titular Bishop of Maioren
+  du: '1526-04-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1526-05-07'
+  au: null
+- titre: évêque titulaire
+  du: '1526-05-07'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q68908665
+  catholic_hierarchy: bmontreal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:09:31+00:00'
+  completeness: 0.25

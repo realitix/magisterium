@@ -1,0 +1,44 @@
+slug: pierre-alexandre-coupperie
+nom: Pierre-Alexandre Coupperie
+nom_complet: Pierre-Alexandre Coupperie, S.M.M.
+naissance: '1770-04-02'
+deces: '1831-04-26'
+naissance_lieu: La Chapelle-Palluau, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1820-09-10'
+  consecrateur_principal: hyacinthe-louis-de-quelen
+  co_consecrateurs:
+  - jean-charles-de-coucy
+  - jean-baptist-marie-anne-antoine-cardinal-de-latil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoupp.html
+  - https://fr.wikipedia.org/wiki/Pierre-Alexandre_Coupperie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Baghdad, Iraq
+  du: '1820-05-02'
+  au: '1831-04-26'
+- titre: évêque de Bagdad
+  du: '1820-05-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3382775
+  catholic_hierarchy: bcoupp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:11:50+00:00'
+  completeness: 1.0

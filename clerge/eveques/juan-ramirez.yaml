@@ -1,0 +1,44 @@
+slug: juan-ramirez
+nom: Juan Ramírez
+nom_complet: Juan Ramírez de Arellano, O.P.
+naissance: '1529'
+deces: '1609-03-24'
+naissance_lieu: Murillo, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1600-07-25'
+  lieu: San Francisco el Grande, Convent, Madrid, Archdiocese of Toledo, Spain
+  consecrateur_principal: domenico-ginnasi
+  co_consecrateurs:
+  - juan-gonzalez-de-mendoza
+  - martin-vasquez-de-arce-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/braarj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Guatemala
+  du: '1600-05-12'
+  au: '1609-03-24'
+- titre: évêque de Santiago de Guatemala
+  du: '1600-05-12'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q25208775
+  catholic_hierarchy: braarj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:56:53+00:00'
+  completeness: 0.88

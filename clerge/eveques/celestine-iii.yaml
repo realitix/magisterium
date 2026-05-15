@@ -1,0 +1,37 @@
+slug: celestine-iii
+nom: Celestine III
+nom_complet: null
+naissance: null
+deces: '1198-01-08'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1191-04-14'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: non-indexe-9d5eadee
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbobone.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Santa Maria in Cosmedin
+  du: 1144&sup2;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1198-01-08'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bbobone
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:32:15+00:00'
+  completeness: 0.75

@@ -1,0 +1,57 @@
+slug: ronald-macdonald
+nom: Ronald MacDonald
+nom_complet: null
+naissance: '1835-06-02'
+deces: '1912-09-17'
+naissance_lieu: Malignant Brook
+deces_lieu: Montréal, Archdiocese of Montréal, Québec
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1881-08-21'
+  lieu: Picton
+  consecrateur_principal: john-cameron-1827
+  co_consecrateurs:
+  - john-sweeny
+  - james-rogers
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmacdro.html
+  - https://fr.wikipedia.org/wiki/Ronald_MacDonald_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Harbour Grace, Newfoundland, Canada
+  du: '1881-05-24'
+  au: '1906-09-03'
+- titre: Titular Archbishop of Gortyna
+  du: '1906-09-03'
+  au: null
+- titre: Bishop Emeritus of Harbour Grace, Newfoundland, Canada
+  du: null
+  au: '1912-09-17'
+- titre: archevêque catholique
+  du: null
+  au: null
+- titre: archevêque titulaire
+  du: '1906-09-03'
+  au: null
+- titre: évêque diocésain
+  du: '1881-05-24'
+  au: '1906-09-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7365081
+  catholic_hierarchy: bmacdro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:09:06+00:00'
+  completeness: 1.0

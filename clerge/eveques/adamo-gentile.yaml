@@ -1,0 +1,43 @@
+slug: adamo-gentile
+nom: Adamo Gentile
+nom_complet: null
+naissance: '1615'
+deces: '1662-11-01'
+naissance_lieu: Caserta
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1660-11-21'
+  consecrateur_principal: antoine-barberini-cardinal-archeveque-de-reims-grand-aumonier-de-france
+  co_consecrateurs:
+  - marco-antonio-bottoni
+  - carlo-fabrizio-giustiniani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgentilea.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lipari, Italy
+  du: '1660-11-15'
+  au: Nov 1662&sup3;
+- titre: évêque de Lipari
+  du: '1660-11-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25999440
+  catholic_hierarchy: bgentilea
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:17:27+00:00'
+  completeness: 0.75

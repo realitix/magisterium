@@ -1,0 +1,40 @@
+slug: pierre-de-reims-o-p
+nom: Pierre de Reims, O.P.
+nom_complet: null
+naissance: null
+deces: '1247-01-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1245-11-30'
+  consecrateur_principal: non-indexe-669f9354
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breims.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: 1245&sup2;
+  au: '1247-01-29'
+- titre: évêque diocésain
+  du: '1245-01-01'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64760987
+  catholic_hierarchy: breims
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:46+00:00'
+  completeness: 0.62

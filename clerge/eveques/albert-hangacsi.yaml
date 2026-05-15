@@ -1,0 +1,38 @@
+slug: albert-hangacsi
+nom: Albert Hangácsi
+nom_complet: Albert
+naissance: null
+deces: '1466'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkaplony.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: '1458-03-21'
+  au: 1466&sup1;
+- titre: évêque de Csanád
+  du: '1458-06-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q78761652
+  catholic_hierarchy: bkaplony
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:07:54+00:00'
+  completeness: 0.25

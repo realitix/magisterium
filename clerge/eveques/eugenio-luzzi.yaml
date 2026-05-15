@@ -1,0 +1,44 @@
+slug: eugenio-luzzi
+nom: Eugenio Luzzi
+nom_complet: null
+naissance: '1824-01-23'
+deces: '1888-02-19'
+naissance_lieu: Spoleto, Archdiocese of Spoleto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-04-02'
+  lieu: Tor dei Specchi, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - giulio-lenti
+  - placido-maria-schiaffino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluzzi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Todi, Italy
+  du: '1882-03-27'
+  au: '1888-02-19'
+- titre: évêque diocésain
+  du: '1882-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763661
+  catholic_hierarchy: bluzzi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:06:40+00:00'
+  completeness: 1.0

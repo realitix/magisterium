@@ -1,0 +1,48 @@
+slug: hector-wegmann
+nom: Hector Wegmann
+nom_complet: null
+naissance: null
+deces: '1589-01-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1576-01-22'
+  consecrateur_principal: johann-jakob-von-kuen-belasy
+  co_consecrateurs:
+  - sebastian-haidlauf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwegmann.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Passau, Germany
+  du: '1575-07-04'
+  au: '1589-01-31'
+- titre: Titular Bishop of Symbalia (Cembalo, Balaclawa)
+  du: '1575-07-04'
+  au: null
+- titre: évêque titulaire
+  du: '1575-07-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1575-07-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26222343
+  catholic_hierarchy: bwegmann
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:35+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: dominikus-de-gentis
+nom: Dominikus de Gentis
+nom_complet: Dominique (Wilhelm Philipp) Gentis, O.P.
+naissance: '1696-03-10'
+deces: '1758-07-03'
+naissance_lieu: Erkelanz
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1749-05-11'
+  consecrateur_principal: carlo-alberto-guidoboni-cavalchini
+  co_consecrateurs:
+  - giuseppe-maria-feroni
+  - ferdinando-maria-de-rossi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgentisd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antwerpen {Antwerp, Anvers}, Belgium
+  du: null
+  au: '1758-07-03'
+- titre: évêque diocésain
+  du: '1748-03-18'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dominikus%20de%20Gentis.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1238062
+  catholic_hierarchy: bgentisd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:17:36+00:00'
+  completeness: 1.0

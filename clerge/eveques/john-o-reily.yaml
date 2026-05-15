@@ -1,0 +1,54 @@
+slug: john-o-reily
+nom: John O'Reily
+nom_complet: John O&rsquo;Reilly
+naissance: '1846-11-09'
+deces: '1915-07-06'
+naissance_lieu: St. John's, Ireland
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1888-05-01'
+  lieu: Ste Marie, Cathedral, Syndey, Archdiocese of Sydney
+  consecrateur_principal: francis-patrick-moran
+  co_consecrateurs:
+  - james-murray
+  - jeremiah-joseph-doyle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breillyj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Port Augusta, Australia
+  du: '1887-05-13'
+  au: null
+- titre: Archbishop of Adelaide, Australia
+  du: '1895-01-05'
+  au: '1915-07-06'
+- titre: archevêque catholique
+  du: '1895-01-05'
+  au: null
+- titre: évêque diocésain
+  du: '1887-05-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20O%27Reily%20c%201900.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6251013
+  catholic_hierarchy: breillyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:42+00:00'
+  completeness: 1.0

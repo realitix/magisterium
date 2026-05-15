@@ -1,0 +1,43 @@
+slug: volkard-von-neuburg
+nom: Volkard von Neuburg
+nom_complet: null
+naissance: '1200'
+deces: '1251-10-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1238-03-28'
+  consecrateur_principal: siegfried-von-eppenstein-ced23f
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneuburg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: 1237&sup2;
+  au: '1251-10-16'
+- titre: évêque diocésain
+  du: '1237-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2530824
+  catholic_hierarchy: bneuburg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:07+00:00'
+  completeness: 0.75

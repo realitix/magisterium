@@ -1,0 +1,63 @@
+slug: clement-xiii
+nom: Clément XIII
+nom_complet: Clement XIII
+naissance: '1693-03-07'
+deces: '1769-02-02'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1743-03-19'
+  lieu: XII Apôtres, Basilica, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - giuseppe-accoramboni
+  - antonio-saverio-gentili
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brezzc.html
+  - https://fr.wikipedia.org/wiki/Cl%C3%A9ment_XIII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of San Nicola in Carcere
+  du: '1738-01-27'
+  au: null
+- titre: Bishop of Padova {Padua}, Italy
+  du: '1743-03-11'
+  au: null
+- titre: Cardinal-Priest of Santa Maria in Ara Coeli
+  du: '1747-05-15'
+  au: null
+- titre: Cardinal-Priest of San Marco
+  du: '1755-02-17'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1769-02-02'
+- titre: évêque de Padoue
+  du: '1743-03-11'
+  au: null
+- titre: pape
+  du: '1758-07-06'
+  au: '1769-02-02'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Raphael%20Mengs%20%281728-1779%29%20-%20Portret%20van%20paus%20Clemens%20XIII%20%281758%29%20-%20Bologna%20Pinacoteca%20Nazionale%20-%2026-04-2012%209-53-03.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q133121
+  catholic_hierarchy: brezzc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:10:42+00:00'
+  completeness: 0.88

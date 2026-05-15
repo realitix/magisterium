@@ -1,0 +1,50 @@
+slug: guillaume-de-saint-calais
+nom: Guillaume de Saint-Calais
+nom_complet: William of Saint Calais (Carileph)
+naissance: '1030'
+deces: '1096'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1081-01-03'
+  consecrateur_principal: thomas-of-bayeux
+  co_consecrateurs:
+  - non-indexe-9c86a922
+  - osbern-fitz-osbern
+  - non-indexe-3f2bbc61
+  - robert-losinga
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscaril.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Saint-Calais
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Durham, England, Great Britain
+  du: 1080&sup1;
+  au: '1096-01-01'
+- titre: évêque catholique de Durham
+  du: '1080-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/DurhamCathedralLibBII13Fol102rInitialI%20a.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q367374
+  catholic_hierarchy: bscaril
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:59:01+00:00'
+  completeness: 0.88

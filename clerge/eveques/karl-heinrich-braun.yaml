@@ -1,0 +1,55 @@
+slug: karl-heinrich-braun
+nom: Karl Heinrich Braun
+nom_complet: Karl Braun
+naissance: '1930-12-13'
+deces: null
+naissance_lieu: Kempten
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1984-06-16'
+  lieu: Cathedral, Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: alois-brems
+  co_consecrateurs:
+  - elmar-maria-kredel
+  - josef-stimpfle
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbraun.html
+  - https://fr.wikipedia.org/wiki/Karl_Braun_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: '1984-04-17'
+  au: null
+- titre: Archbishop of Bamberg, Germany
+  du: '1995-03-25'
+  au: '2001-07-02'
+- titre: archevêque de Bamberg
+  du: '1995-03-25'
+  au: '2001-07-02'
+- titre: évêque d'Eichstätt
+  du: '1984-04-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Erzbischof%20Karl%20Braun.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q45492
+  catholic_hierarchy: bbraun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:24+00:00'
+  completeness: 0.88

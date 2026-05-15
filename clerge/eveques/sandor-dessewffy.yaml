@@ -1,0 +1,48 @@
+slug: sandor-dessewffy
+nom: Sándor Dessewffy
+nom_complet: Alexander Dessewffy
+naissance: '1834-06-03'
+deces: '1907-12-05'
+naissance_lieu: Pocsoný, Slovakia
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1890-08-31'
+  lieu: Ko&#353;ice, Diocese of Ko&#353;ice, Slovakia
+  consecrateur_principal: zsigmond-bubics
+  co_consecrateurs:
+  - gyorgy-csaszka
+  - janos-valyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdesse.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: null
+  au: '1907-12-05'
+- titre: évêque de Csanád
+  du: '1890-01-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dessewffy-Sandor%20bishop.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q904401
+  catholic_hierarchy: bdesse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:45+00:00'
+  completeness: 1.0

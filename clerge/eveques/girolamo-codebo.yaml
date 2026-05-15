@@ -1,0 +1,49 @@
+slug: girolamo-codebo
+nom: Girolamo Codebò
+nom_complet: null
+naissance: null
+deces: '1661-10-03'
+naissance_lieu: Modene
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1645-03-26'
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - alfonso-sacrati
+  - ranuccio-scotti-douglas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcodebo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montalto (delle Marche), Italy
+  du: '1645-02-06'
+  au: null
+- titre: Bishop of Reggio Emilia, Italy
+  du: '1661-01-24'
+  au: '1661-10-03'
+- titre: Roman Catholic Bishop of Reggio Emilia
+  du: '1661-01-24'
+  au: null
+- titre: Roman Catholic Bishop of Montalto (delle Marche)
+  du: '1645-02-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60378941
+  catholic_hierarchy: bcodebo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:56:27+00:00'
+  completeness: 0.88

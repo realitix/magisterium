@@ -1,0 +1,46 @@
+slug: william-glyn
+nom: William Glyn
+nom_complet: null
+naissance: '1504'
+deces: '1558-05-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1555-09-08'
+  consecrateur_principal: edmund-bonner
+  co_consecrateurs:
+  - thomas-thirlby
+  - maurice-griffith
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bglyn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bangor, Wales, Great Britain
+  du: '1555-06-21'
+  au: '1558-05-21'
+- titre: vice-chancelier
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Bangor
+  du: '1555-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q14480438
+  catholic_hierarchy: bglyn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:28:36+00:00'
+  completeness: 0.88

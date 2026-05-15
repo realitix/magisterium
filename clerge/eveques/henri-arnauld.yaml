@@ -1,0 +1,48 @@
+slug: henri-arnauld
+nom: Henri Arnauld
+nom_complet: null
+naissance: '1597-10-30'
+deces: '1692-06-08'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1650-06-29'
+  consecrateur_principal: victor-le-bouthilier
+  co_consecrateurs:
+  - gaspard-de-daillon
+  - ferdinand-de-neufville-de-villeroy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barnauld.html
+  - https://fr.wikipedia.org/wiki/Henri_Arnauld_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: '1650-04-04'
+  au: '1692-06-08'
+- titre: évêque d'Angers
+  du: '1650-04-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Arnauld%2C%20jansenist%20bishop%20of%20Angers.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3130579
+  catholic_hierarchy: barnauld
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 1.0

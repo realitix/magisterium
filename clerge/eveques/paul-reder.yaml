@@ -1,0 +1,50 @@
+slug: paul-reder
+nom: Paul Reder
+nom_complet: null
+naissance: '1971-08-20'
+deces: null
+naissance_lieu: Würzburg, Diocese of Würzburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2024-05-09'
+  lieu: Sankt Kilian, Cathedral, Würzburg, Diocese of Würzburg
+  consecrateur_principal: franz-jung
+  co_consecrateurs:
+  - herwig-gossl
+  - friedhelm-hofmann
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breder.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Würzburg, Germany
+  du: '2024-03-25'
+  au: null
+- titre: Titular Bishop of Petina
+  du: '2024-03-25'
+  au: null
+- titre: évêque auxiliaire
+  du: '2024-03-25'
+  au: null
+- titre: évêque titulaire de Petina
+  du: '2024-03-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q125133920
+  catholic_hierarchy: breder
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:07+00:00'
+  completeness: 0.88

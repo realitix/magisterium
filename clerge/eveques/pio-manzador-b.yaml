@@ -1,0 +1,47 @@
+slug: pio-manzador-b
+nom: Pio Manzador, B.
+nom_complet: Pio Manzador
+naissance: '1706-03-10'
+deces: '1774-08-28'
+naissance_lieu: Wien, Diocese of Wien, Austria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1765-02-03'
+  lieu: St. Michel, Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: jozsef-batthyany
+  co_consecrateurs:
+  - ignaz-koller
+  - karol-salbeck
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanzp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Transilvania, Erdély, Siebenbürgen, Romania
+  du: null
+  au: '1774-08-28'
+- titre: Roman Catholic Bishop of Transilvania, Erdély, Siebenbürgen
+  du: '1772-10-03'
+  au: null
+- titre: évêque diocésain
+  du: '1764-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735282
+  catholic_hierarchy: bmanzp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:23:09+00:00'
+  completeness: 1.0

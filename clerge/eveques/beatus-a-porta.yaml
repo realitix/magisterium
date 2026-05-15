@@ -1,0 +1,53 @@
+slug: beatus-a-porta
+nom: Beatus a Porta
+nom_complet: Beatus di Porta
+naissance: '1530'
+deces: '1590'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_incertus
+sacre:
+  date: '1565-11-11'
+  consecrateur_principal: francesco-pisani-4dd9e0
+  co_consecrateurs:
+  - andrea-matteo-acquaviva-d-aragona
+  - ascanio-albertini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiporta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: '1565-08-24'
+  au: 1581&sup1;
+- titre: Bishop Emeritus of Chur, Switzerland
+  du: null
+  au: 1590&sup2;
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1565-09-03'
+  au: '1581-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BeataPorta.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q14679117
+  catholic_hierarchy: bdiporta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:52:58+00:00'
+  completeness: 0.75

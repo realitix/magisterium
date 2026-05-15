@@ -1,0 +1,43 @@
+slug: gunther-von-wettin
+nom: Günther von Wettin
+nom_complet: Günther I. von Wettin
+naissance: '1100'
+deces: '1089'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1079'
+  consecrateur_principal: hartwig-von-ortenberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwetting.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: 1079&sup2;
+  au: '1089-04-01'
+- titre: évêque diocésain
+  du: '1079-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1561543
+  catholic_hierarchy: bwetting
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:34+00:00'
+  completeness: 0.75

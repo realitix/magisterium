@@ -1,0 +1,45 @@
+slug: antoine-de-rotenhan
+nom: Antoine de Rotenhan
+nom_complet: Anton von Rotenhan
+naissance: '1390'
+deces: '1459-05-05'
+naissance_lieu: Rentweinsdorf
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1432-08-24'
+  consecrateur_principal: krzysztof-von-rotenhan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brotenh.html
+  - https://fr.wikipedia.org/wiki/Anton_von_Rotenhan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1459-05-05'
+- titre: évêque de Bamberg
+  du: '1431-09-01'
+  au: '1459-05-14'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bamberg%20Dom%20Grab%20Anton%20von%20Rotenhan.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q102415
+  catholic_hierarchy: brotenh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:30:43+00:00'
+  completeness: 0.75

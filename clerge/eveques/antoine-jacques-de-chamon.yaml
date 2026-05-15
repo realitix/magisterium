@@ -1,0 +1,48 @@
+slug: antoine-jacques-de-chamon
+nom: Antoine Jacques de Chamon
+nom_complet: Antoine-Jacques de Chamon
+naissance: '1767-07-25'
+deces: '1851-05-28'
+naissance_lieu: Bulgnéville
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1823-07-13'
+  consecrateur_principal: anne-antoine-jules-de-clermont-tonnerre
+  co_consecrateurs:
+  - alexandre-devie
+  - andre-molin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchamon.html
+  - https://fr.wikipedia.org/wiki/Antoine_Jacques_de_Chamon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Claude, France
+  du: null
+  au: '1851-05-28'
+- titre: évêque de Saint-Claude
+  du: '1823-02-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Jacques%20de%20Chamon.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15967944
+  catholic_hierarchy: bchamon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:49+00:00'
+  completeness: 1.0

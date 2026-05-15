@@ -1,0 +1,43 @@
+slug: paul-milliet
+nom: Paul Milliet
+nom_complet: Paul Milliet de Challes
+naissance: '1599-12-07'
+deces: '1656-10-31'
+naissance_lieu: Turino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-08-31'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmillidc.html
+  - https://fr.wikipedia.org/wiki/Paul_Milliet_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Jean-de-Maurienne, France
+  du: '1641-11-27'
+  au: '1656-10-31'
+- titre: évêque de Maurienne
+  du: '1641-01-01'
+  au: '1656-01-01'
+- titre: Chancelier de l'ordre suprême de la Très Sainte Annonciade
+  du: '1641-01-01'
+  au: '1656-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3371841
+  catholic_hierarchy: bmillidc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:58:09+00:00'
+  completeness: 0.62

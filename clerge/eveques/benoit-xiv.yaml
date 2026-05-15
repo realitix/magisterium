@@ -1,0 +1,72 @@
+slug: benoit-xiv
+nom: Benoît XIV
+nom_complet: Benedict XIV
+naissance: '1675-03-31'
+deces: '1758-05-03'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1724-07-16'
+  lieu: Pauline du Quirinal, Chapel, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - giovanni-francesco-nicolai-o-f-m
+  - nicolo-maria-lercari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blambp.html
+  - https://fr.wikipedia.org/wiki/Beno%C3%AEt_XIV
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Teodosia
+  du: '1724-06-12'
+  au: null
+- titre: Archbishop (Personal Title) of Ancona e Numana, Italy
+  du: '1727-01-20'
+  au: null
+- titre: Archbishop of Bologna, Italy
+  du: '1731-04-30'
+  au: '1754-01-14'
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1758-05-03'
+- titre: pape
+  du: '1740-08-17'
+  au: '1758-05-03'
+- titre: cardinal
+  du: '1728-04-30'
+  au: null
+- titre: In pectore
+  du: '1726-12-09'
+  au: null
+- titre: archevêque de Bologne
+  du: '1724-07-16'
+  au: '1754-01-14'
+- titre: archevêque titulaire
+  du: '1724-06-12'
+  au: null
+- titre: Roman Catholic Bishop of Ancona and Numana
+  du: '1727-01-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Subleyras%20Portrait%20of%20Benedict%20XIV%201746.%20Metropolitan%20Museum%20of%20Art.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q126711
+  catholic_hierarchy: blambp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:45+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: francisco-de-toral
+nom: Francisco de Toral
+nom_complet: Francisco del Toral, O.F.M.
+naissance: '1502'
+deces: '1571-04-20'
+naissance_lieu: Ubeda, Diocese of Jaén, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1562-05-24'
+  lieu: El Puerto de Santa María
+  consecrateur_principal: sancho-diaz-de-trujillo
+  co_consecrateurs:
+  - fernando-de-villagomez
+  - juan-de-vaca-baca-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btoral.html
+  - https://fr.wikipedia.org/wiki/Francisco_de_Toral
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Yucatán (Mérida), México
+  du: '1561-11-19'
+  au: '1571-04-20'
+- titre: évêque du Yucatán
+  du: '1561-11-29'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Francisco%20de%20Toral.%20Bishop%20of%20Yucatan%2C%20Mexico%20%281562-1571%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4460943
+  catholic_hierarchy: btoral
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:04:50+00:00'
+  completeness: 0.88

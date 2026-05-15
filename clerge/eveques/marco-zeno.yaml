@@ -1,0 +1,41 @@
+slug: marco-zeno
+nom: Marco Zeno
+nom_complet: null
+naissance: '1585-09-01'
+deces: '1641-02-06'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: Venezia, Patriarchate of Venezia {Venice}
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1626-07-25'
+  lieu: San Marco, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: pietro-cardinal-valier-valerio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzenm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Torcello (Turris), Italy
+  du: '1626-07-20'
+  au: '1641-02-06'
+- titre: évêque de Torcello
+  du: '1626-07-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64742660
+  catholic_hierarchy: bzenm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:08:11+00:00'
+  completeness: 0.75

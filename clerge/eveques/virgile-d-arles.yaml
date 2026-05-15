@@ -1,0 +1,43 @@
+slug: virgile-d-arles
+nom: Virgile d'Arles
+nom_complet: Vergilius of Arles
+naissance: '600'
+deces: '0610-10-04'
+naissance_lieu: Aquitaine
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: st-augustine-of-canterbury-o-s-b
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barles.html
+  - https://fr.wikipedia.org/wiki/Virgile_d%27Arles
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Arles, France
+  du: null
+  au: 610&sup1;
+- titre: archevêque catholique
+  du: null
+  au: null
+- titre: archevêque d'Arles
+  du: '0588-01-01'
+  au: '0610-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2463401
+  catholic_hierarchy: barles
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.38

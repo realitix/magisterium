@@ -1,0 +1,54 @@
+slug: alfons-nossol
+nom: Alfons Nossol
+nom_complet: null
+naissance: '1932-08-08'
+deces: null
+naissance_lieu: Brozec
+deces_lieu: null
+rang: archeveque
+nationalite: Q36
+tampon: ordo_dubius
+sacre:
+  date: '1977-08-17'
+  lieu: Holy Cross, Cathedral, Opole, Diocese of Opole
+  consecrateur_principal: stefan-wyszynski
+  co_consecrateurs:
+  - henryk-roman-gulbinowicz
+  - antoni-adamiuk
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnossol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Opole, Poland
+  du: '1977-06-25'
+  au: null
+- titre: Archbishop (Personal Title) of Opole, Poland
+  du: '1999-11-12'
+  au: null
+- titre: évêque d'Opole
+  du: '1977-06-25'
+  au: '2009-08-14'
+- titre: archevêque catholique
+  du: '1999-11-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Nossol%20by%20Adam%20Walanus%20%2810%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q319422
+  catholic_hierarchy: bnossol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:00+00:00'
+  completeness: 0.88

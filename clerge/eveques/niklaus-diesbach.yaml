@@ -1,0 +1,41 @@
+slug: niklaus-diesbach
+nom: Niklaus Diesbach
+nom_complet: null
+naissance: '1478'
+deces: '1550'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiesb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Basel, Switzerland
+  du: '1519-08-08'
+  au: 1527&sup1;
+- titre: Coadjutor Bishop Emeritus of Basel, Switzerland
+  du: null
+  au: 1550&sup1;
+- titre: évêque coadjuteur de Bâle
+  du: '1519-08-18'
+  au: '1527-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68868044
+  catholic_hierarchy: bdiesb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:37+00:00'
+  completeness: 0.25

@@ -1,0 +1,36 @@
+slug: gauzelin
+nom: Gauzelin
+nom_complet: Gauzelin of Toul
+naissance: '1000'
+deces: '962'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-d0b50c29
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Gauzelin_de_Toul
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Toul
+  du: '0922-01-01'
+  au: '0962-09-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cathedrale%2001879%20Gauzelin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1342715
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67

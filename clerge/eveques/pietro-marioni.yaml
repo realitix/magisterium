@@ -1,0 +1,44 @@
+slug: pietro-marioni
+nom: Pietro Marioni
+nom_complet: null
+naissance: '1588'
+deces: '1662-08-11'
+naissance_lieu: Gubbio, Diocese of Gubbio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1644-05-03'
+  lieu: Gesù, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ulderico-carpegna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarioni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Telese o Cerreto Sannita, Italy
+  du: '1644-04-18'
+  au: 1659&sup1;
+- titre: Bishop Emeritus of Telese o Cerreto Sannita, Italy
+  du: null
+  au: '1662-08-11'
+- titre: évêque diocésain
+  du: '1644-04-18'
+  au: '1659-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778417
+  catholic_hierarchy: bmarioni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:28:19+00:00'
+  completeness: 0.75

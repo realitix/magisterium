@@ -1,0 +1,45 @@
+slug: richard-de-chichester
+nom: Richard de Chichester
+nom_complet: Richard Wych
+naissance: '1198'
+deces: '1253-04-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1245-03-05'
+  consecrateur_principal: non-indexe-669f9354
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwych.html
+  - https://fr.wikipedia.org/wiki/Richard_de_Chichester
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chichester, England, Great Britain
+  du: 1245&sup1;
+  au: '1253-04-03'
+- titre: Roman Catholic Bishop of Chichester
+  du: '1245-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Richardofchichester.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1394981
+  catholic_hierarchy: bwych
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:00:05+00:00'
+  completeness: 0.62

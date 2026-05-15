@@ -1,0 +1,44 @@
+slug: denis-conway
+nom: Denis Conway
+nom_complet: null
+naissance: '1722'
+deces: '1796-06-19'
+naissance_lieu: Newcastle West, Co. Limerick
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1779-06-20'
+  lieu: Thurles
+  consecrateur_principal: james-butler-2nd
+  co_consecrateurs:
+  - john-butler
+  - mathew-mckenna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limerick, Ireland
+  du: '1779-02-25'
+  au: '1796-06-19'
+- titre: évêque diocésain
+  du: '1779-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61984318
+  catholic_hierarchy: bconw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:04+00:00'
+  completeness: 0.88

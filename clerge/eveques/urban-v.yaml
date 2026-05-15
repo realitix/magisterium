@@ -1,0 +1,34 @@
+slug: urban-v
+nom: Urban V
+nom_complet: null
+naissance: null
+deces: '1370-12-19'
+naissance_lieu: Grizac
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1362-11-06'
+  lieu: Avignon, Diocese of Avignon, France
+  consecrateur_principal: andouin-aubert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrimoard.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1370-12-19'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bgrimoard
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:43:55+00:00'
+  completeness: 0.75

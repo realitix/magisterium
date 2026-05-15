@@ -1,0 +1,51 @@
+slug: louis-rossat
+nom: Louis Rossat
+nom_complet: null
+naissance: '1789-12-08'
+deces: '1866-12-24'
+naissance_lieu: Lyon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1841-02-14'
+  consecrateur_principal: louis-jacques-maurice-de-bonald
+  co_consecrateurs:
+  - alexandre-devie
+  - pierre-chatrousse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brossat.html
+  - https://fr.wikipedia.org/wiki/Louis_Rossat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: null
+  au: '1866-12-24'
+- titre: évêque diocésain
+  du: '1840-07-06'
+  au: null
+- titre: évêque de Verdun
+  du: '1844-06-17'
+  au: '1866-12-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20de%20Louis%20Rossat%20%281789%E2%80%931866%29%201.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q22582626
+  catholic_hierarchy: brossat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:28:52+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: manuel-lopez-aguirre
+nom: Manuel López Aguirre
+nom_complet: null
+naissance: '1690-01-05'
+deces: '1754-02-07'
+naissance_lieu: Toledo, Archdiocese of Toledo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1750-09-13'
+  lieu: S. Genes, Church, Madrid, Archdiocese of Toledo
+  consecrateur_principal: francisco-diaz-santos-bullon
+  co_consecrateurs:
+  - andres-nunez-monteagudo
+  - juan-francisco-manrique-lara
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blopezag.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barcelona, Spain
+  du: '1750-07-22'
+  au: '1754-02-07'
+- titre: évêque de Barcelone
+  du: '1750-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64748019
+  catholic_hierarchy: blopezag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:58:28+00:00'
+  completeness: 1.0

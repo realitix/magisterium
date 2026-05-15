@@ -1,0 +1,40 @@
+slug: serlon-d-rsquo-orgeres
+nom: Serlon d&rsquo;Orgères
+nom_complet: Serlon d’Orgères
+naissance: null
+deces: '1123-10-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1091-06-22'
+  consecrateur_principal: guilielm-bonne-ame
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borgeres.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: 1091&sup1;
+  au: '1123-10-27'
+- titre: évêque diocésain
+  du: '1091-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96588141
+  catholic_hierarchy: borgeres
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:54:41+00:00'
+  completeness: 0.75

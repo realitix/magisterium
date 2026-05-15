@@ -1,0 +1,48 @@
+slug: gregorio-parcero
+nom: Gregorio Parcero
+nom_complet: Gregorio Parcero de Castro, O.S.B.
+naissance: '1566-03-12'
+deces: '1663-12-17'
+naissance_lieu: Tuy
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1631'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperce.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerona, Spain
+  du: '1633-12-19'
+  au: null
+- titre: Bishop of Tortosa, Spain
+  du: '1655-11-29'
+  au: '1663-12-17'
+- titre: évêque de Tortosa
+  du: '1655-11-29'
+  au: null
+- titre: évêque de Perpignan-Elne
+  du: '1630-04-11'
+  au: null
+- titre: évêque de Gérone
+  du: '1633-12-19'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q19291063
+  catholic_hierarchy: bperce
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:20:06+00:00'
+  completeness: 0.62

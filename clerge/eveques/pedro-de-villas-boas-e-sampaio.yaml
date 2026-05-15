@@ -1,0 +1,44 @@
+slug: pedro-de-villas-boas-e-sampaio
+nom: Pedro de Villas Boas e Sampaio
+nom_complet: null
+naissance: '1691-05-07'
+deces: '1743-06-14'
+naissance_lieu: Porto, Diocese of Porto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1743-01-13'
+  lieu: Lisboa, Patriarchate of Lisboa {Lisbon}
+  consecrateur_principal: tomas-de-almeida
+  co_consecrateurs:
+  - jose-ribeiro-da-fonseca
+  - julio-francisco-de-oliveira-c-o
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvbes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elvas, Portugal
+  du: null
+  au: '1743-06-14'
+- titre: Roman Catholic Bishop of Elvas
+  du: '1742-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752546
+  catholic_hierarchy: bvbes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:27:50+00:00'
+  completeness: 1.0

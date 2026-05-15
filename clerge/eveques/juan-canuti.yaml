@@ -1,0 +1,44 @@
+slug: juan-canuti
+nom: Juan Canuti
+nom_complet: null
+naissance: '1500'
+deces: '1545'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanuti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carinola (Calina), Italy
+  du: '1530-10-21'
+  au: null
+- titre: Bishop of Cariati e Cerenzia, Italy
+  du: '1535-01-15'
+  au: 1545&sup1;
+- titre: Roman Catholic Bishop of Cariati
+  du: '1535-01-25'
+  au: null
+- titre: Roman Catholic Bishop of Carinola
+  du: '1530-10-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27062929
+  catholic_hierarchy: bcanuti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:56+00:00'
+  completeness: 0.25

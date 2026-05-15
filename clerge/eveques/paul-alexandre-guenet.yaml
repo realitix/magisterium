@@ -1,0 +1,41 @@
+slug: paul-alexandre-guenet
+nom: Paul-Alexandre Guenet
+nom_complet: Paul-Alexandre de Guénet
+naissance: '1688'
+deces: '1769-09-03'
+naissance_lieu: Rouen, Archdiocese of Rouen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1728-03-07'
+  consecrateur_principal: charles-francois-des-monstiers-de-merinville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguenet.html
+  - https://fr.wikipedia.org/wiki/Paul-Alexandre_Guenet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pons-de-Thomières, France
+  du: null
+  au: '1769-09-03'
+- titre: évêque de Saint-Pons-de-Thomières
+  du: '1727-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3370223
+  catholic_hierarchy: bguenet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:08+00:00'
+  completeness: 0.75

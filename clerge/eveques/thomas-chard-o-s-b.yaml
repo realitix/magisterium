@@ -1,0 +1,45 @@
+slug: thomas-chard-o-s-b
+nom: Thomas Chard, O.S.B.
+nom_complet: Thomas Chard
+naissance: null
+deces: '1543-10-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1508-05-22'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchard.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Exeter, England, Great Britain
+  du: '1508-05-12'
+  au: '1543-10-20'
+- titre: Titular Bishop of Selymbria
+  du: '1508-05-12'
+  au: null
+- titre: évêque titulaire
+  du: '1508-05-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '1508-05-22'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q68865802
+  catholic_hierarchy: bchard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:50+00:00'
+  completeness: 0.38

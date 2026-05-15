@@ -1,0 +1,40 @@
+slug: pal-rosos
+nom: Pál Rosos
+nom_complet: null
+naissance: '1751-01-15'
+deces: '1809-07-17'
+naissance_lieu: Sümeg
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1808-08-28'
+  consecrateur_principal: charles-ambroise-d-autriche-este
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veszprém, Hungary
+  du: null
+  au: '1809-07-17'
+- titre: évêque de Veszprém
+  du: '1808-04-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25460300
+  catholic_hierarchy: brosos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:28:42+00:00'
+  completeness: 0.88

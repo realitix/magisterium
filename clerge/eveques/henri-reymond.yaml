@@ -1,0 +1,52 @@
+slug: henri-reymond
+nom: Henri Reymond
+nom_complet: null
+naissance: '1737-11-16'
+deces: '1820-02-20'
+naissance_lieu: Vienne
+deces_lieu: Dijon, Diocese of Dijon
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1793-01-13'
+  lieu: Grenoble
+  consecrateur_principal: charles-de-la-font-de-savine
+  co_consecrateurs:
+  - constitutional-bishop-andre-francois-chaussy
+  - constitutional-bishop-joseph-perbost
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breym.html
+  - https://fr.wikipedia.org/wiki/Henri_Reymond
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Isère (Constitutional), France]
+  du: Nov 1792&sup3;
+  au: 1801&sup2;
+- titre: Bishop of Dijon, France
+  du: null
+  au: '1820-02-20'
+- titre: évêque de Dijon
+  du: '1792-11-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Reymond%20%281737-1820%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3131903
+  catholic_hierarchy: breym
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:10:23+00:00'
+  completeness: 1.0

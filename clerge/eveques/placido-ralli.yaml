@@ -1,0 +1,47 @@
+slug: placido-ralli
+nom: Placido Ralli
+nom_complet: Placidus Ralli
+naissance: '1804-11-26'
+deces: '1884-12-11'
+naissance_lieu: Roma, Diocese of Roma {Rome}, Italy
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: patriarche
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-07-23'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: camillo-di-pietro
+  co_consecrateurs:
+  - vincenzo-leone-sallua-o-p
+  - alessandro-grossi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bralli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Secretary of the Congregation of (Sacred) Rites
+  du: 1875-04
+  au: null
+- titre: Titular Patriarch of Antiochia {Antioch}
+  du: '1882-07-03'
+  au: '1884-12-11'
+- titre: patriarche
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27882884
+  catholic_hierarchy: bralli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:00:34+00:00'
+  completeness: 1.0

@@ -1,0 +1,49 @@
+slug: henning-von-haus
+nom: Henning von Haus
+nom_complet: Henning of Haus
+naissance: '1500'
+deces: '1488'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1472-06-14'
+  consecrateur_principal: berthold-von-landsberg
+  co_consecrateurs:
+  - arnold-de-roten-o-p
+  - berthold-von-oberg-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaush.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: null
+  au: Nov 1480&sup3;
+- titre: Bishop Emeritus of Hildesheim, Germany
+  du: null
+  au: '1488-04-10'
+- titre: évêque diocésain
+  du: '1471-10-08'
+  au: '1480-11-01'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1605604
+  catholic_hierarchy: bhaush
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:36:11+00:00'
+  completeness: 0.88

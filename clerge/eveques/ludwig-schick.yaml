@@ -1,0 +1,61 @@
+slug: ludwig-schick
+nom: Ludwig Schick
+nom_complet: Ludovicus Schick
+naissance: '1949-09-22'
+deces: null
+naissance_lieu: Marburg, Diocese of Fulda
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1998-07-12'
+  lieu: Christ the King, Cathedral, Fulda, Diocese of Fulda
+  consecrateur_principal: johannes-dyba
+  co_consecrateurs:
+  - johannes-kapp
+  - alvaro-ramazzini
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschick.html
+  - https://fr.wikipedia.org/wiki/Ludwig_Schick
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Fulda, Germany
+  du: '1998-05-20'
+  au: null
+- titre: Titular Bishop of Auzia
+  du: '1998-05-20'
+  au: null
+- titre: Archbishop of Bamberg, Germany
+  du: '2002-06-28'
+  au: '2022-11-01'
+- titre: archevêque de Bamberg
+  du: '2002-06-28'
+  au: '2022-11-01'
+- titre: évêque auxiliaire
+  du: '1998-05-20'
+  au: '2002-06-28'
+- titre: évêque titulaire
+  du: '1998-05-20'
+  au: '2002-06-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Erzbischof%20Schick.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q45468
+  catholic_hierarchy: bschick
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:01:17+00:00'
+  completeness: 0.88

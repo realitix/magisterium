@@ -1,0 +1,40 @@
+slug: gunther-von-bamberg
+nom: Gunther von Bamberg
+nom_complet: Günther von Bamberg
+naissance: '1050'
+deces: '1065-07-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1057-03-30'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbambg.html
+  - https://fr.wikipedia.org/wiki/Gunther_de_Bamberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: 1057&sup2;
+  au: '1065-07-23'
+- titre: évêque de Bamberg
+  du: '1057-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1555002
+  catholic_hierarchy: bbambg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:59:21+00:00'
+  completeness: 0.5

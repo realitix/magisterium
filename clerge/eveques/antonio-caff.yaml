@@ -1,0 +1,50 @@
+slug: antonio-caff
+nom: Antonio Caff
+nom_complet: null
+naissance: '1833-07-09'
+deces: '1895-10-12'
+naissance_lieu: Catania, Archdiocese of Catania
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-08-15'
+  lieu: Cathedral, Catania, Archdiocese of Catania
+  consecrateur_principal: giuseppe-benedetto-dusmet
+  co_consecrateurs:
+  - giovanni-battista-guttadauro-di-reburdone
+  - giovanni-blandini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaff.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Catania, Italy
+  du: '1882-07-03'
+  au: '1895-10-12'
+- titre: Titular Bishop of Diocaesarea in Palaestina
+  du: '1882-07-03'
+  au: null
+- titre: évêque titulaire
+  du: '1882-07-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '1882-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752602
+  catholic_hierarchy: bcaff
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:06:03+00:00'
+  completeness: 1.0

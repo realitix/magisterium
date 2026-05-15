@@ -1,0 +1,38 @@
+slug: gerard-le-marescal
+nom: Gerard le Marescal
+nom_complet: null
+naissance: null
+deces: '1301-02-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarescal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limerick, Ireland
+  du: 1272&sup2;
+  au: '1301-02-10'
+- titre: évêque diocésain
+  du: '1272-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108450519
+  catholic_hierarchy: bmarescal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:26:18+00:00'
+  completeness: 0.38

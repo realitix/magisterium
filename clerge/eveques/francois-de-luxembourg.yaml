@@ -1,0 +1,50 @@
+slug: francois-de-luxembourg
+nom: François de Luxembourg
+nom_complet: null
+naissance: null
+deces: '1509-09-09'
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1507-04-18'
+  lieu: Cordeliers, Church, Le Mans, Diocese of Le Mans
+  consecrateur_principal: philippe-cardinal-de-luxembourg
+  co_consecrateurs:
+  - gilles-de-luxembourg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdluxf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Luxembourg_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pons-de-Thomières, France
+  du: '1502-11-16'
+  au: null
+- titre: Bishop of Le Mans, France
+  du: '1507-01-27'
+  au: '1509-09-09'
+- titre: évêque de Saint-Pons-de-Thomières
+  du: '1502-11-26'
+  au: '1507-02-06'
+- titre: évêque du Mans
+  du: '1507-02-06'
+  au: '1509-09-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22248804
+  catholic_hierarchy: bdluxf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:55:58+00:00'
+  completeness: 0.88

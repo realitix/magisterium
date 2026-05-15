@@ -1,0 +1,43 @@
+slug: ignazio-savastano
+nom: Ignazio Savastano
+nom_complet: null
+naissance: '1711-10-15'
+deces: '1769-09-06'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1759-06-04'
+  consecrateur_principal: henri-benoit-stuart
+  co_consecrateurs:
+  - giovanni-battista-giampe
+  - leonardo-cecconi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gallipoli, Italy
+  du: null
+  au: '1769-09-06'
+- titre: évêque diocésain
+  du: '1759-04-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760384
+  catholic_hierarchy: bsavas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:23+00:00'
+  completeness: 1.0

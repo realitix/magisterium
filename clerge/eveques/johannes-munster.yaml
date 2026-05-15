@@ -1,0 +1,48 @@
+slug: johannes-munster
+nom: Johannes Münster
+nom_complet: null
+naissance: null
+deces: '1544-06-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1511-07-09'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmunste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mainz, Germany
+  du: '1511-07-09'
+  au: '1537-11-03'
+- titre: Titular Bishop of Venecompensis
+  du: '1511-07-09'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Mainz, Germany
+  du: null
+  au: '1544-06-25'
+- titre: évêque auxiliaire
+  du: '1511-07-19'
+  au: '1537-11-13'
+- titre: évêque titulaire
+  du: '1511-07-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26222358
+  catholic_hierarchy: bmunste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:18+00:00'
+  completeness: 0.38

@@ -1,0 +1,49 @@
+slug: jean-de-savoie
+nom: Jean de Savoie
+nom_complet: null
+naissance: '1450'
+deces: '1522-06-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavoieg.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Savoie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1513-07-15'
+  au: '1522-06-08'
+- titre: évêque de Genève
+  du: '1513-07-25'
+  au: '1522-01-01'
+- titre: abbé commendataire
+  du: '1515-01-01'
+  au: '1522-01-01'
+- titre: vicaire général
+  du: '1507-01-01'
+  au: '1508-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20Savoie%20%28bishop%29%20-%20seal%2C%201513-1521.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3165970
+  catholic_hierarchy: bsavoieg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:03+00:00'
+  completeness: 0.38

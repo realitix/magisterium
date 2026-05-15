@@ -1,0 +1,52 @@
+slug: matthieu-dupont
+nom: Matthieu Dupont
+nom_complet: Matthieu Henri Fabien Dupont
+naissance: '1973-12-11'
+deces: null
+naissance_lieu: Versailles, Diocese of Versailles
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2024-03-09'
+  lieu: "Notre-Dame d\x92Espérance, Basilica, Pontmain, Diocese of Laval"
+  consecrateur_principal: pierre-d-ornellas
+  co_consecrateurs:
+  - thierry-scherrer
+  - luc-crepy
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupontm.html
+  - https://fr.wikipedia.org/wiki/Matthieu_Dupont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laval, France
+  du: '2024-01-09'
+  au: null
+- titre: recteur
+  du: '2014-01-01'
+  au: '2023-01-01'
+- titre: évêque de Laval
+  du: '2024-01-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Dupont%20-%20%C3%89v%C3%AAque%20de%20Laval%20-%202024%20%28centr%C3%A9%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q101140083
+  catholic_hierarchy: bdupontm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:08+00:00'
+  completeness: 0.88

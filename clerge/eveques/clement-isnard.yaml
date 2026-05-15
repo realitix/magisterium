@@ -1,0 +1,48 @@
+slug: clement-isnard
+nom: Clément Isnard
+nom_complet: null
+naissance: '1600'
+deces: '1612-05-11'
+naissance_lieu: Nice, Diocese of Nice
+deces_lieu: Nice, Diocese of Nice
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1593-12-19'
+  lieu: Cathedral, Nice, Diocese of Nice
+  consecrateur_principal: jean-louis-pallavicini
+  co_consecrateurs:
+  - guillaume-le-blanc-1561
+  - francesco-galbiati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bisnardc.html
+  - https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Isnard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: '1593-08-18'
+  au: 1605&sup1;
+- titre: Bishop Emeritus of Glandèves, France
+  du: null
+  au: '1612-05-11'
+- titre: évêque de Glandèves
+  du: '1593-08-18'
+  au: '1605-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2980621
+  catholic_hierarchy: bisnardc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:24+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: andrea-brancaccio-c-r
+nom: Andrea Brancaccio, C.R.
+nom_complet: Andrea Brancaccio
+naissance: '1644'
+deces: '1725-06-04'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1681-01-26'
+  consecrateur_principal: alessandro-crescenzi
+  co_consecrateurs:
+  - pier-antonio-capobianco
+  - antonio-savo-de-panicoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrancaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Conversano, Italy
+  du: '1681-01-13'
+  au: null
+- titre: Archbishop of Cosenza, Italy
+  du: '1701-04-18'
+  au: '1725-06-04'
+- titre: Évêque de Conversano
+  du: '1681-01-13'
+  au: null
+- titre: archevêque catholique
+  du: '1701-04-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26702964
+  catholic_hierarchy: bbrancaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:47:57+00:00'
+  completeness: 0.88

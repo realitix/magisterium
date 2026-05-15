@@ -1,0 +1,44 @@
+slug: francois-de-prez
+nom: François de Prez
+nom_complet: François Desprez
+naissance: null
+deces: '1511-05-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1464-07-22'
+  consecrateur_principal: jean-de-compey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdprez.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Prez
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aosta, Italy
+  du: '1464-04-04'
+  au: '1511-05-22'
+- titre: évêque diocésain
+  du: '1464-07-31'
+  au: null
+- titre: évêque d'Aoste
+  du: '1464-07-22'
+  au: '1511-05-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3752285
+  catholic_hierarchy: bdprez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:28+00:00'
+  completeness: 0.62

@@ -1,0 +1,44 @@
+slug: juan-de-zuazola
+nom: Juan de Zuazola
+nom_complet: null
+naissance: null
+deces: '1590-11-01'
+naissance_lieu: Alcántara, Diocese of Coria
+deces_lieu: Santa Martha de Riva de Texa
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1589-06-04'
+  lieu: Santa Maria Magdalena, Convent, Madrid, Archdiocese of Toledo
+  consecrateur_principal: gaspar-de-quiroga-y-vela
+  co_consecrateurs:
+  - sebastian-perez
+  - diego-de-la-calzada
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzua.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Astorga, Spain
+  du: '1589-04-17'
+  au: '1590-11-01'
+- titre: évêque d'Astorga
+  du: '1589-04-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761662
+  catholic_hierarchy: bzua
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:11:53+00:00'
+  completeness: 0.88

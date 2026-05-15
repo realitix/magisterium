@@ -1,0 +1,40 @@
+slug: guillaume-de-blaye
+nom: Guillaume de Blaye
+nom_complet: null
+naissance: null
+deces: '1307-09-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1274-01-15'
+  consecrateur_principal: arnaud-de-got
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblaye.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: 1273&sup2;
+  au: '1307-09-22'
+- titre: évêque d'Angoulême
+  du: '1273-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762487
+  catholic_hierarchy: bblaye
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:30:57+00:00'
+  completeness: 0.75

@@ -1,0 +1,50 @@
+slug: wilhelm-cramer
+nom: Wilhelm Cramer
+nom_complet: Franz Wilhelm Cramer
+naissance: '1815-03-03'
+deces: '1903-03-15'
+naissance_lieu: Ölde, Diocese of Münster
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1884-12-21'
+  lieu: Cathedral, Münster, Diocese of Münster
+  consecrateur_principal: johann-bernhard-brinkmann
+  co_consecrateurs:
+  - wilhelm-sommerwerck
+  - bernhard-hoting
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcramer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Münster, Germany
+  du: '1884-11-13'
+  au: '1903-03-15'
+- titre: Titular Bishop of Lycopolis
+  du: '1884-11-13'
+  au: null
+- titre: évêque titulaire
+  du: '1884-11-13'
+  au: null
+- titre: évêque auxiliaire
+  du: '1884-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1267615
+  catholic_hierarchy: bcramer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:08+00:00'
+  completeness: 1.0

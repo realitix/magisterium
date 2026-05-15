@@ -1,0 +1,51 @@
+slug: pierre-de-nantes
+nom: Pierre de Nantes
+nom_complet: Pierre Benoît ou de Guémené
+naissance: '1350'
+deces: '1363'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbenoit.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Nantes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: '1328-05-18'
+  au: null
+- titre: Bishop of Saint-Malo, France
+  du: '1349-07-14'
+  au: null
+- titre: Bishop of Rennes, France
+  du: '1359-01-14'
+  au: 1362&sup1;
+- titre: évêque de Rennes
+  du: '1359-02-01'
+  au: null
+- titre: évêque de Léon
+  du: '1328-05-26'
+  au: null
+- titre: évêque de Saint-Malo
+  du: '1349-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3387643
+  catholic_hierarchy: bbenoit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:17:45+00:00'
+  completeness: 0.25

@@ -1,0 +1,49 @@
+slug: felix-beguinot
+nom: Félix Béguinot
+nom_complet: Félix-Auguste Béguinot
+naissance: '1836-07-10'
+deces: '1921-02-03'
+naissance_lieu: Bannay
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1896-08-24'
+  lieu: Cathedral, Bourges, Archdiocese of Bourges
+  consecrateur_principal: jean-pierre-boyer
+  co_consecrateurs:
+  - stanislas-arthur-xavier-touchet
+  - claude-bardel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeguin.html
+  - https://fr.wikipedia.org/wiki/F%C3%A9lix_B%C3%A9guinot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes (-Uzès e Alès), France
+  du: null
+  au: '1921-02-03'
+- titre: évêque de Nîmes
+  du: '1896-05-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20B%C3%A9guinot%20par%20Louis%20Emile%20Pinel%20de%20Grandchamp%2Cvers1900.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3092325
+  catholic_hierarchy: bbeguin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:12:49+00:00'
+  completeness: 1.0

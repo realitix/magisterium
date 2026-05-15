@@ -1,0 +1,48 @@
+slug: claude-de-granier
+nom: Claude de Granier
+nom_complet: Claude de Granier, O.S.B.
+naissance: '1548'
+deces: '1602-09-17'
+naissance_lieu: Yenne, Savoie
+deces_lieu: Polinge, Savoie
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1579-04-26'
+  lieu: Dominican, Church, Annecy
+  consecrateur_principal: gallois-de-regard
+  co_consecrateurs:
+  - pierre-de-lambert-o-s-a
+  - jean-godefroi-ginod
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgranier.html
+  - https://fr.wikipedia.org/wiki/Claude_de_Granier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1578-12-15'
+  au: '1602-09-17'
+- titre: prieur commendataire
+  du: '1563-11-17'
+  au: '1578-01-01'
+- titre: évêque de Genève
+  du: '1578-12-25'
+  au: '1602-09-17'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q2978337
+  catholic_hierarchy: bgranier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:46+00:00'
+  completeness: 0.88

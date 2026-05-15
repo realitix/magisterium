@@ -1,0 +1,49 @@
+slug: karl-griming
+nom: Karl Griming
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1593-05-16'
+  consecrateur_principal: christoph-andreas-von-spaur
+  co_consecrateurs:
+  - sebastiano-cattaneo
+  - georgius-stobaeus
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgriming.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Gurk, Austria
+  du: '1592-10-23'
+  au: 1614&sup1;
+- titre: Titular Bishop of Germanicia
+  du: '1592-10-23'
+  au: null
+- titre: évêque titulaire
+  du: '1592-10-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1592-10-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779882
+  catholic_hierarchy: bgriming
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:43:44+00:00'
+  completeness: 0.75

@@ -1,0 +1,38 @@
+slug: jean-de-saint-just
+nom: Jean de Saint-Just
+nom_complet: null
+naissance: null
+deces: '1369-05-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsjust.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1361-06-18'
+  au: '1369-05-27'
+- titre: évêque de Chalon-sur-Saône
+  du: '1361-06-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108452932
+  catholic_hierarchy: bsjust
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:21:58+00:00'
+  completeness: 0.38

@@ -1,0 +1,48 @@
+slug: jean-baptiste-bouvier
+nom: Jean-Baptiste Bouvier
+nom_complet: null
+naissance: '1783-01-16'
+deces: '1854-12-29'
+naissance_lieu: Saint-Charles-la-Fôret
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1834-03-21'
+  consecrateur_principal: augustin-louis-de-montblanc
+  co_consecrateurs:
+  - charles-montault-desilles
+  - claude-louis-de-lesquen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbouvi.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Bouvier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Mans, France
+  du: null
+  au: '1854-12-29'
+- titre: évêque du Mans
+  du: '1833-12-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Bouvier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q679878
+  catholic_hierarchy: bbouvi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:40+00:00'
+  completeness: 1.0

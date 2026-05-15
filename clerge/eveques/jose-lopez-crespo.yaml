@@ -1,0 +1,44 @@
+slug: jose-lopez-crespo
+nom: José López Crespo
+nom_complet: José López y Crespo
+naissance: '1797-08-30'
+deces: '1875-03-21'
+naissance_lieu: San Pedro de Cornaedo, Archdiocese of Santiago de Compostela
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1860'
+  lieu: Cathedral, Compostela, Archdiocese of Santiago de Compostela
+  consecrateur_principal: miguel-garcia-cuesta
+  co_consecrateurs:
+  - jose-avila-lamas
+  - telmo-maceira
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blopezcr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santander, Spain
+  du: null
+  au: '1875-03-21'
+- titre: évêque de Santander
+  du: '1859-06-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5941864
+  catholic_hierarchy: blopezcr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:58:35+00:00'
+  completeness: 1.0

@@ -1,0 +1,46 @@
+slug: miguel-cercito
+nom: Miguel Cercito
+nom_complet: Miguel Cercito Bereterra
+naissance: null
+deces: '1595-08-15'
+naissance_lieu: Ejea de los Caballeros, Archdiocese of Zaragoza
+deces_lieu: Graus, Diocese of Huesca
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1586-03-02'
+  lieu: Huesca, Diocese of Huesca
+  consecrateur_principal: jaime-jimeno-de-lobera
+  co_consecrateurs:
+  - martin-cleriguech-caucer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcebe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barbastro, Spain
+  du: '1585-11-04'
+  au: '1595-08-15'
+- titre: chanoine
+  du: null
+  au: null
+- titre: Évêque de Barbastro
+  du: '1585-11-04'
+  au: '1595-08-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17374336
+  catholic_hierarchy: bcebe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:35:34+00:00'
+  completeness: 0.88

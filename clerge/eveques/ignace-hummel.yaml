@@ -1,0 +1,61 @@
+slug: ignace-hummel
+nom: Ignace Hummel
+nom_complet: Ignace Hummel, S.M.A.
+naissance: '1870-02-14'
+deces: '1924-03-13'
+naissance_lieu: Soufflenheim, Diocese of Strasbourg, France
+deces_lieu: Cape-Coast, Vicariate Apostolic of Costa d&rsquo;Oro {Gold Coast}
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-07-29'
+  lieu: Fourvière, Basilica, Lyon, Archdiocese of Lyon (-Vienne), France
+  consecrateur_principal: pierre-hector-coullie
+  co_consecrateurs:
+  - paul-pellet
+  - louis-dechelette
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhumm.html
+  - https://fr.wikipedia.org/wiki/Ignace_Hummel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Costa d&rsquo;Oro {Gold Coast}, Ghana
+  du: '1906-03-20'
+  au: '1924-03-13'
+- titre: Titular Bishop of Trapezopolis
+  du: '1906-03-20'
+  au: null
+- titre: Apostolic Administrator of Togo
+  du: '1918-01-11'
+  au: '1921'
+- titre: évêque titulaire
+  du: '1906-03-20'
+  au: null
+- titre: administrateur apostolique
+  du: '1918-01-11'
+  au: '1921-01-01'
+- titre: vicaire apostolique
+  du: '1906-03-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Fran%C3%A7ois%20Ignace%20Hummel%20SMA.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23825847
+  catholic_hierarchy: bhumm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:49:58+00:00'
+  completeness: 1.0

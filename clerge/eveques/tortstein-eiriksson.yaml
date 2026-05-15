@@ -1,0 +1,39 @@
+slug: tortstein-eiriksson
+nom: Tortstein Eiriksson
+nom_complet: null
+naissance: null
+deces: '1349'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1343'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beiriks.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bjørgvin (Bergen), Norway
+  du: 1343&sup2;
+  au: 1349&sup2;
+- titre: évêque diocésain
+  du: '1343-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68903380
+  catholic_hierarchy: beiriks
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:20:11+00:00'
+  completeness: 0.38

@@ -1,0 +1,42 @@
+slug: santo-de-ferrara-o-p
+nom: Santo de Ferrara, O.P.
+nom_complet: Santo de Ferrara
+naissance: null
+deces: '1442'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1430-06-12'
+  consecrateur_principal: tommaso-perenduli
+  co_consecrateurs:
+  - pietro-boiardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferraria.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ploaghe, Italy
+  du: '1430-02-10'
+  au: 1442&sup2;
+- titre: évêque diocésain
+  du: '1430-02-19'
+  au: null
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q100269510
+  catholic_hierarchy: bferraria
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:39:33+00:00'
+  completeness: 0.75

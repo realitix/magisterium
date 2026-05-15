@@ -1,0 +1,47 @@
+slug: leopold-precan
+nom: Leopold Prečan
+nom_complet: Leopold Pre&#269;an
+naissance: '1866-03-08'
+deces: '1947-03-02'
+naissance_lieu: Tynec
+deces_lieu: null
+rang: archeveque
+nationalite: Q28513
+tampon: ordo_validus
+sacre:
+  date: '1923-12-30'
+  consecrateur_principal: frantisek-kordac
+  co_consecrateurs:
+  - norbert-klein
+  - karel-wisnar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprec.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Olomouc, Czechia
+  du: '1923-11-10'
+  au: '1947-03-02'
+- titre: archevêque d'Olomouc
+  du: '1923-12-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Leopold%20Pre%C4%8Dan%20%281866-1947%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1819795
+  catholic_hierarchy: bprec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:23+00:00'
+  completeness: 1.0

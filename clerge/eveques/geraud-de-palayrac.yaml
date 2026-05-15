@@ -1,0 +1,44 @@
+slug: geraud-de-palayrac
+nom: Géraud de Palayrac
+nom_complet: null
+naissance: null
+deces: '1397-02-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpalayrac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Spoleto, Italy
+  du: '1372-11-24'
+  au: 1379&sup1;
+- titre: Bishop of Sarlat, France
+  du: '1396-02-28'
+  au: '1397-02-21'
+- titre: évêque diocésain
+  du: '1372-12-02'
+  au: '1379-01-01'
+- titre: évêque diocésain
+  du: '1396-03-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108450356
+  catholic_hierarchy: bpalayrac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:04:03+00:00'
+  completeness: 0.38

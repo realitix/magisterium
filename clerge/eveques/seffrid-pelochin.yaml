@@ -1,0 +1,53 @@
+slug: seffrid-pelochin
+nom: Seffrid Pelochin
+nom_complet: Seffrid I
+naissance: null
+deces: '1151'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1125-04-12'
+  consecrateur_principal: william-of-corbeuil-c-r-s-a
+  co_consecrateurs:
+  - thurstan-de-bayeux
+  - richard-de-capella
+  - non-indexe-b6a97d80
+  - non-indexe-b8a56619
+  - david-l-ecossais
+  - everard-of-calne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpeloch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chichester, England, Great Britain
+  du: 1125&sup2;
+  au: 1145&sup2;
+- titre: Bishop Emeritus of Chichester, England, Great Britain
+  du: null
+  au: 1151&sup2;
+- titre: abbé
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Chichester
+  du: '1125-01-01'
+  au: '1145-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7446028
+  catholic_hierarchy: bpeloch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:25+00:00'
+  completeness: 0.75

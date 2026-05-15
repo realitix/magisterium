@@ -1,0 +1,47 @@
+slug: georg-golser
+nom: Georg Golser
+nom_complet: null
+naissance: '1500'
+deces: '1489'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '1472-03-08'
+  consecrateur_principal: bernhard-von-rohr
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgolserg.html
+  - https://fr.wikipedia.org/wiki/Georg_Golser
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: '1471-12-16'
+  au: Apr 1488&sup3;
+- titre: Bishop Emeritus of Brixen {Bressanone}, Italy
+  du: null
+  au: '1489-06-20'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Brixen
+  du: '1471-12-25'
+  au: '1488-04-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q732666
+  catholic_hierarchy: bgolserg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:31:01+00:00'
+  completeness: 0.75

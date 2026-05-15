@@ -1,0 +1,44 @@
+slug: hermann-von-breitenlandenberg
+nom: Hermann von Breitenlandenberg
+nom_complet: Hermann von Breitenladenburg
+naissance: '1412'
+deces: '1474-09-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1466-11-09'
+  consecrateur_principal: johannes-venningen
+  co_consecrateurs:
+  - nikolaus-frier-o-e-s-a
+  - thomas-weldner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbreit.html
+  - https://fr.wikipedia.org/wiki/Hermann_von_Breitenlandenberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: null
+  au: '1474-09-20'
+- titre: évêque diocésain
+  du: '1466-05-03'
+  au: '1474-09-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1611603
+  catholic_hierarchy: bbreit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:50:20+00:00'
+  completeness: 0.88

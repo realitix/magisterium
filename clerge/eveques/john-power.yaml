@@ -1,0 +1,47 @@
+slug: john-power
+nom: John Power
+nom_complet: null
+naissance: null
+deces: '1816-01-27'
+naissance_lieu: Waterford, Diocese of Waterford and Lismore
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1804-04-25'
+  lieu: Holy Trinity, Cathedral, Waterford, Diocese of Waterford and Lismore
+  consecrateur_principal: thomas-bray
+  co_consecrateurs:
+  - william-coppinger
+  - francis-moylan
+  - john-young-1746
+  - charles-sughrue
+  - florence-maccarthy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpowj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Waterford and Lismore, Ireland
+  du: '1804-01-27'
+  au: '1816-01-27'
+- titre: évêque diocésain
+  du: '1804-01-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64825522
+  catholic_hierarchy: bpowj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:47:00+00:00'
+  completeness: 0.88

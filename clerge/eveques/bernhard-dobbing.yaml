@@ -1,0 +1,44 @@
+slug: bernhard-dobbing
+nom: Bernhard Döbbing
+nom_complet: Bernardo Giuseppe Doebbing, O.F.M.
+naissance: '1855-07-08'
+deces: '1916-03-14'
+naissance_lieu: Münster, Diocese of Münster, Germany
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1900-04-22'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: francesco-satolli
+  co_consecrateurs:
+  - casimiro-gennari
+  - amilcare-tonietti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoebb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nepi e Sutri, Italy
+  du: '1900-04-02'
+  au: '1916-03-14'
+- titre: évêque de Nepi et Sutri
+  du: '1900-04-02'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q55847475
+  catholic_hierarchy: bdoebb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:58:29+00:00'
+  completeness: 1.0

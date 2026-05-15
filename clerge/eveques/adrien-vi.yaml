@@ -1,0 +1,62 @@
+slug: adrien-vi
+nom: Adrien VI
+nom_complet: Hadrian VI
+naissance: '1459-03-02'
+deces: '1523-09-14'
+naissance_lieu: Utrecht, Diocese of Utrecht, Netherlands
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: diego-ribera-de-toledo
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflo.html
+  - https://fr.wikipedia.org/wiki/Adrien_VI
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tortosa, Spain
+  du: '1516-08-18'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1523-09-14'
+- titre: évêque de Tortosa
+  du: '1516-08-28'
+  au: '1522-01-19'
+- titre: régent
+  du: null
+  au: null
+- titre: pape
+  du: '1522-01-29'
+  au: '1523-09-24'
+- titre: inquisiteur général de Castille
+  du: '1518-03-24'
+  au: '1522-08-14'
+- titre: cardinal-prêtre
+  du: '1517-07-11'
+  au: '1522-08-14'
+- titre: Inquisiteur général d'Aragon
+  du: '1516-11-24'
+  au: '1518-03-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Adrian%20VI%20%28after%20Jan%20van%20Scorel%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q57087
+  catholic_hierarchy: bflo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:48:24+00:00'
+  completeness: 0.75

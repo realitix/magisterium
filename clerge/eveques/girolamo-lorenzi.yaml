@@ -1,0 +1,43 @@
+slug: girolamo-lorenzi
+nom: Girolamo Lorenzi
+nom_complet: Girolamo Lorenzi (de Laurentiis)
+naissance: '1701-06-04'
+deces: '1785'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1743-07-21'
+  consecrateur_principal: giovanni-andrea-tria
+  co_consecrateurs:
+  - fortunato-bisleti
+  - luigi-antonio-valdina-cremona
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorenzi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerno, Italy
+  du: '1743-07-15'
+  au: 1785&sup1;
+- titre: Roman Catholic Bishop of Acerno
+  du: '1743-07-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777916
+  catholic_hierarchy: blorenzi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:59:59+00:00'
+  completeness: 0.88

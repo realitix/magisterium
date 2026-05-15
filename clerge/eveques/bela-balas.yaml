@@ -1,0 +1,56 @@
+slug: bela-balas
+nom: Béla Balás
+nom_complet: null
+naissance: '1941-03-25'
+deces: null
+naissance_lieu: Budapest, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1992-10-17'
+  lieu: Cathedral Basilica, Esztergom, Archdiocese of Esztergom
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - jozsef-szendi
+  - endre-gyulay
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Veszprém, Hungary
+  du: '1992-08-10'
+  au: null
+- titre: Titular Bishop of Feradi Maius
+  du: '1992-08-10'
+  au: null
+- titre: Bishop of Kaposvár, Hungary
+  du: '1993-05-31'
+  au: null
+- titre: évêque auxiliaire
+  du: '1992-08-10'
+  au: '1993-05-31'
+- titre: évêque diocésain
+  du: '1993-05-31'
+  au: '2017-03-25'
+- titre: évêque titulaire
+  du: '1992-08-10'
+  au: '1993-05-31'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q789807
+  catholic_hierarchy: bbalas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:57:11+00:00'
+  completeness: 0.88

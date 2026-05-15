@@ -1,0 +1,35 @@
+slug: saint-suliac
+nom: Saint Suliac
+nom_complet: Tysilio
+naissance: '550'
+deces: '640'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q25
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Suliac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Suliac%20Eglise.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1293017
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67

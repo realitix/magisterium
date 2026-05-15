@@ -1,0 +1,58 @@
+slug: esprit-flechier
+nom: Esprit Fléchier
+nom_complet: Esprit-Valentin Fléchier
+naissance: '1632-06-10'
+deces: '1710-02-16'
+naissance_lieu: Pernes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1692-08-24'
+  lieu: Val-de-Grâce, Paris, Archdiocese of Paris
+  consecrateur_principal: pierre-de-bonzi
+  co_consecrateurs:
+  - charles-antoine-de-la-garde-de-chambonas
+  - michel-ii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflech.html
+  - https://fr.wikipedia.org/wiki/Esprit_Fl%C3%A9chier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes, France
+  du: null
+  au: '1710-02-16'
+- titre: fauteuil 10 de l'Académie française
+  du: '1672-12-05'
+  au: '1710-02-16'
+- titre: évêque diocésain
+  du: null
+  au: null
+- titre: évêque de Lavaur
+  du: '1685-11-12'
+  au: '1689-12-01'
+- titre: évêque de Nîmes
+  du: '1689-12-24'
+  au: '1710-02-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Esprit%20Fl%C3%A9chier%20-%20Versailles%20MV%202925.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1368429
+  catholic_hierarchy: bflech
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:47:48+00:00'
+  completeness: 1.0

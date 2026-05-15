@@ -1,0 +1,38 @@
+slug: niels-skawe
+nom: Niels Skawe
+nom_complet: null
+naissance: null
+deces: '1500-11-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bskawe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roskilde (Roeskilde), Denmark
+  du: '1485-11-04'
+  au: '1500-11-12'
+- titre: évêque de Roskilde
+  du: '1485-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27964916
+  catholic_hierarchy: bskawe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:22:10+00:00'
+  completeness: 0.38

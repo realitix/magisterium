@@ -1,0 +1,40 @@
+slug: francesco-sperelli
+nom: Francesco Sperelli
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1524-04-10'
+  consecrateur_principal: gianvincenzo-cardinal-carafa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsperef.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Leone, Italy
+  du: '1524-01-19'
+  au: '1526-01-19'
+- titre: évêque de San Leone
+  du: '1524-01-29'
+  au: '1526-01-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64786999
+  catholic_hierarchy: bsperef
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:32:18+00:00'
+  completeness: 0.62

@@ -1,0 +1,49 @@
+slug: matthias-ehrenfried
+nom: Matthias Ehrenfried
+nom_complet: null
+naissance: '1871-08-03'
+deces: '1948-05-29'
+naissance_lieu: Absberg, Diocese of Eichstätt
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1924-12-01'
+  lieu: Cathedral, Würzburg, Diocese of Würzburg
+  consecrateur_principal: jakobus-von-hauck
+  co_consecrateurs:
+  - leo-von-mergel
+  - ludwig-sebastian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/behre.html
+  - https://fr.wikipedia.org/wiki/Matthias_Ehrenfried
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '1924-09-30'
+  au: '1948-05-29'
+- titre: évêque de Wurtzbourg
+  du: '1924-09-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Matthias%20Ehrenfried%20%281871-1948%29%20Bishop%20of%20W%C3%BCrzburg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q111832
+  catholic_hierarchy: behre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:19:45+00:00'
+  completeness: 1.0

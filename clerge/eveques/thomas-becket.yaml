@@ -1,0 +1,63 @@
+slug: thomas-becket
+nom: Thomas Becket
+nom_complet: St. Thomas Becket
+naissance: '1118-12-21'
+deces: '1170-12-29'
+naissance_lieu: London
+deces_lieu: null
+rang: archeveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1162-06-03'
+  lieu: Canterbury, Archdiocese of Canterbury, England
+  consecrateur_principal: henri-de-blois
+  co_consecrateurs:
+  - non-indexe-eb14e836
+  - non-indexe-49713cf6
+  - jocelin-de-bohon
+  - william-de-turbeville
+  - non-indexe-b42390b0
+  - richard-peche
+  - bartholomew-of-exeter
+  - robert-de-chesney
+  - non-indexe-8466731c
+  - nicolas-ap-gurgant
+  - david-fitzgerald
+  - non-indexe-2c45754c
+  - gilbert-foliot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbecket.html
+  - https://fr.wikipedia.org/wiki/Thomas_Becket
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Canterbury, England, Great Britain
+  du: null
+  au: '1170-12-29'
+- titre: archevêque de Cantorbéry
+  du: '1162-06-10'
+  au: '1171-01-05'
+- titre: lord chancelier
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BecketHenryII%20%28Thomas%20Becket%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q192236
+  catholic_hierarchy: bbecket
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:12:00+00:00'
+  completeness: 1.0

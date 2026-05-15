@@ -1,0 +1,43 @@
+slug: nicolo-d-arcano
+nom: Nicolò d'Arcano
+nom_complet: Nicolò d&rsquo;Arcano
+naissance: '1637'
+deces: '1714'
+naissance_lieu: Cesene
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1671-01-04'
+  consecrateur_principal: marcello-santacroce
+  co_consecrateurs:
+  - pier-antonio-capobianco
+  - andrea-tamantini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barcani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Comacchio, Italy
+  du: '1670-12-22'
+  au: '1714-01-01'
+- titre: évêque de Comacchio
+  du: '1670-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26246995
+  catholic_hierarchy: barcani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:45:13+00:00'
+  completeness: 0.88

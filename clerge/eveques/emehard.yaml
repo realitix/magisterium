@@ -1,0 +1,46 @@
+slug: emehard
+nom: Emehard
+nom_complet: Emehard (Eginardo) di Rothenburg
+naissance: '1100'
+deces: '1104-02-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brothbei.html
+  - https://fr.wikipedia.org/wiki/Emehard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '1088-07-25'
+  au: '1104-02-28'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1088-07-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Eginhartusbw.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1335275
+  catholic_hierarchy: brothbei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:30:49+00:00'
+  completeness: 0.38

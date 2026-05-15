@@ -1,0 +1,47 @@
+slug: luigi-marrucci
+nom: Luigi Marrucci
+nom_complet: null
+naissance: '1945-03-24'
+deces: '2023-06-04'
+naissance_lieu: Montescudaio, Diocese of Volterra
+deces_lieu: Santuario della Santissima Concezione, Civitavecchia, Diocese of Civitavecchia-Tarquinia
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2011-01-29'
+  lieu: San Giovanni in Laterano, Cathedral Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-moretti
+  co_consecrateurs:
+  - alberto-silvani
+  - gino-reali
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarru.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Civitavecchia-Tarquinia, Italy
+  du: '2010-11-25'
+  au: null
+- titre: Bishop Emeritus of Civitavecchia-Tarquinia, Italy
+  du: null
+  au: '2023-06-04'
+- titre: évêque diocésain
+  du: '2010-11-25'
+  au: '2020-06-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1389893
+  catholic_hierarchy: bmarru
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:16+00:00'
+  completeness: 1.0

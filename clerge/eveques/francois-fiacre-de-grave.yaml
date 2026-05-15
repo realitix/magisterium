@@ -1,0 +1,45 @@
+slug: francois-fiacre-de-grave
+nom: François-Fiacre de Grave
+nom_complet: null
+naissance: '1724-01-06'
+deces: '1787-07-01'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1772-04-26'
+  consecrateur_principal: christophe-de-beaumont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdgrave.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Fiacre_de_Grave
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence, France
+  du: null
+  au: '1787-07-01'
+- titre: évêque de Valence
+  du: '1771-12-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1690784-main-696d4c6a2442e.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q22211292
+  catholic_hierarchy: bdgrave
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:48:15+00:00'
+  completeness: 0.88

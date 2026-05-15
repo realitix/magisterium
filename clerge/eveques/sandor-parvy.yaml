@@ -1,0 +1,62 @@
+slug: sandor-parvy
+nom: Sándor Párvy
+nom_complet: Sandor Párvy
+naissance: '1848-09-30'
+deces: '1919-03-24'
+naissance_lieu: Gyöngyös, Hungary
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1903-04-19'
+  consecrateur_principal: jozsef-samassa
+  co_consecrateurs:
+  - janos-ivankovits
+  - farkas-radnai
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bparvy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eger, Hungary
+  du: '1903-03-27'
+  au: null
+- titre: Titular Bishop of Carpasia
+  du: '1903-03-27'
+  au: null
+- titre: Bishop of Spi&#353;, Slovakia
+  du: '1904-06-25'
+  au: '1919-03-24'
+- titre: Roman Catholic Bishop of Spiš
+  du: '1904-06-25'
+  au: '1919-03-24'
+- titre: évêque auxiliaire
+  du: '1903-03-27'
+  au: null
+- titre: directeur ou directrice
+  du: '1901-01-01'
+  au: '1903-01-01'
+- titre: évêque titulaire
+  du: '1903-03-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20P%C3%A1rvy.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q25454292
+  catholic_hierarchy: bparvy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:11:11+00:00'
+  completeness: 1.0

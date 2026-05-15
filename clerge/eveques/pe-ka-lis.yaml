@@ -1,0 +1,44 @@
+slug: pe-ka-lis
+nom: Pełka Lis
+nom_complet: Pe&#322;ka Lis
+naissance: null
+deces: '1258-04-04'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: wis-322-aw-z-ko-347-cielca-zambra
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blispe.html
+  - https://fr.wikipedia.org/wiki/Pe%C5%82ka_Lis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Gniezno, Poland
+  du: '1235-06-26'
+  au: '1258-04-04'
+- titre: archevêque de Gniezno
+  du: '1235-07-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pe%C5%82ka.PNG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4110261
+  catholic_hierarchy: blispe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:52:42+00:00'
+  completeness: 0.5

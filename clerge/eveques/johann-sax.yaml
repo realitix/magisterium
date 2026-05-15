@@ -1,0 +1,44 @@
+slug: johann-sax
+nom: Johann Sax
+nom_complet: Johann Sax von Saxenau
+naissance: '1300'
+deces: '1306-04-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsax.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: 1303&sup2;
+  au: '1306-04-26'
+- titre: évêque de Brixen
+  du: '1303-01-01'
+  au: null
+- titre: prévôt
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1677455
+  catholic_hierarchy: bsax
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:25+00:00'
+  completeness: 0.38

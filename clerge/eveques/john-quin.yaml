@@ -1,0 +1,43 @@
+slug: john-quin
+nom: John Quin
+nom_complet: John Sean Quinn (Coyn), O.P.
+naissance: null
+deces: '1554'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q844250
+tampon: ordo_validus
+sacre:
+  date: '1524-11-11'
+  consecrateur_principal: paride-grassi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoyn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limerick, Ireland
+  du: '1524-10-21'
+  au: '1551-04-09'
+- titre: Bishop Emeritus of Limerick, Ireland
+  du: null
+  au: 1554&sup1;
+- titre: évêque de Limerick
+  du: '1524-10-31'
+  au: '1551-04-19'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q93481659
+  catholic_hierarchy: bcoyn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:51+00:00'
+  completeness: 0.62

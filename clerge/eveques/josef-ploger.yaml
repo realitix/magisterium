@@ -1,0 +1,55 @@
+slug: josef-ploger
+nom: Josef Plöger
+nom_complet: null
+naissance: '1923-07-06'
+deces: '2005-04-22'
+naissance_lieu: Hünningen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1975-05-19'
+  lieu: St. Peter, Cathedral, Köln, Archdiocese of Köln {Cologne}
+  consecrateur_principal: joseph-hoffner
+  co_consecrateurs:
+  - josef-cardinal-frings
+  - wilhelm-cleven
+  - augustinus-frotz
+  - hubert-luthe
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bploger.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Köln {Cologne}, Germany
+  du: '1975-05-09'
+  au: '1991-04-15'
+- titre: Titular Bishop of Aguntum
+  du: '1975-05-09'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Köln {Cologne}, Germany
+  du: null
+  au: '2005-04-22'
+- titre: évêque titulaire d'Aguntum
+  du: '1975-05-09'
+  au: '2004-04-22'
+- titre: évêque auxiliaire
+  du: '1975-05-19'
+  au: '1991-04-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1529408
+  catholic_hierarchy: bploger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:39:00+00:00'
+  completeness: 1.0

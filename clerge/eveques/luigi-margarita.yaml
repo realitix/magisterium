@@ -1,0 +1,40 @@
+slug: luigi-margarita
+nom: Luigi Margarita
+nom_complet: Luigi Margarita, C.M.
+naissance: '1800-02-01'
+deces: '1888-04-15'
+naissance_lieu: Francavilla Fontana
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1851-03-30'
+  lieu: Napoli, Archdiocese of Napoli {Naples}
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmargl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oria, Italy
+  du: null
+  au: '1888-04-15'
+- titre: évêque diocésain
+  du: '1850-11-16'
+  au: null
+fraternite: lazaristes
+photo: null
+qids:
+  wikidata: Q68907678
+  catholic_hierarchy: bmargl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:26:51+00:00'
+  completeness: 0.62

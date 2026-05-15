@@ -1,0 +1,46 @@
+slug: francois-hoenen
+nom: François Hoenen
+nom_complet: François Hoenen, S.V.D.
+naissance: '1919-11-01'
+deces: '1997-12-21'
+naissance_lieu: Rocherath, Diocese of Liège, Eupen et Malmédy, Belgium
+deces_lieu: Sieburg, Germany
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1963-10-20'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - pietro-sigismondi
+  - sergio-pignedoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhoenen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kenge, Congo (Dem. Rep.)
+  du: '1963-07-06'
+  au: '1974-04-25'
+- titre: Bishop Emeritus of Kenge, Congo (Dem. Rep.)
+  du: null
+  au: '1997-12-21'
+- titre: évêque diocésain
+  du: '1963-07-06'
+  au: '1974-04-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15810231
+  catholic_hierarchy: bhoenen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:44:41+00:00'
+  completeness: 0.88

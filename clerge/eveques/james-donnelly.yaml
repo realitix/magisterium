@@ -1,0 +1,44 @@
+slug: james-donnelly
+nom: James Donnelly
+nom_complet: null
+naissance: '1823-01-12'
+deces: '1893-12-29'
+naissance_lieu: Scotstown
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1865-02-26'
+  lieu: Monaghan, Diocese of Clogher
+  consecrateur_principal: joseph-dixon
+  co_consecrateurs:
+  - francis-kelly
+  - thomas-nulty
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdonn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clogher, Ireland
+  du: '1865-01-10'
+  au: '1893-12-29'
+- titre: évêque diocésain
+  du: '1865-01-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6132722
+  catholic_hierarchy: bdonn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:01:00+00:00'
+  completeness: 1.0

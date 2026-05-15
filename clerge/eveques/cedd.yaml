@@ -1,0 +1,39 @@
+slug: cedd
+nom: Cedd
+nom_complet: null
+naissance: '620'
+deces: '0664-10-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q107299
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: finan
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Cedd_(saint)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Londres
+  du: '0654-01-01'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/St%20Alban%20and%20St%20Cedd.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1052577
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.78

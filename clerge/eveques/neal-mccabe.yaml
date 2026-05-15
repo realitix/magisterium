@@ -1,0 +1,44 @@
+slug: neal-mccabe
+nom: Neal McCabe
+nom_complet: Nial MacCabe, C.M.
+naissance: '1816-06-23'
+deces: '1870-07-24'
+naissance_lieu: Crosdrum, Diocese of Meath
+deces_lieu: Marseilles, Diocese of Marseille, France
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1868-02-02'
+  lieu: Irish, Seminary, Paris, Archdiocese of Paris, France
+  consecrateur_principal: flavio-chigi-1810
+  co_consecrateurs:
+  - henri-amanton
+  - john-brady-1800
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcabe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ardagh (and Clonmacnois), Ireland
+  du: '1867-12-17'
+  au: '1870-07-24'
+- titre: évêque d'Ardagh et Clonmacnois
+  du: '1867-12-17'
+  au: null
+fraternite: lazaristes
+photo: null
+qids:
+  wikidata: Q64733406
+  catholic_hierarchy: bmcabe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:42:22+00:00'
+  completeness: 1.0

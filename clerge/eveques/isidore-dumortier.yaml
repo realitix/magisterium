@@ -1,0 +1,50 @@
+slug: isidore-dumortier
+nom: Isidore Dumortier
+nom_complet: Isidore-Marie-Joseph Dumortier, M.E.P.
+naissance: '1869-04-06'
+deces: '1940-02-16'
+naissance_lieu: Halluin, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1926-03-25'
+  consecrateur_principal: costantino-aiuti
+  co_consecrateurs:
+  - damien-grangeon-m-e-p
+  - jean-claude-bouchut
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdumo.html
+  - https://fr.wikipedia.org/wiki/Isidore_Dumortier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Saigon, Viet Nam
+  du: '1925-12-17'
+  au: '1940-02-16'
+- titre: Titular Bishop of Lipara
+  du: '1925-12-17'
+  au: null
+- titre: évêque titulaire
+  du: '1925-12-17'
+  au: null
+- titre: vicaire apostolique
+  du: '1925-12-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027351
+  catholic_hierarchy: bdumo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:12:58+00:00'
+  completeness: 1.0

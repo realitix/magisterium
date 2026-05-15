@@ -1,0 +1,51 @@
+slug: antoine-martinet
+nom: Antoine Martinet
+nom_complet: null
+naissance: '1766-04-22'
+deces: '1839-05-06'
+naissance_lieu: Queige
+deces_lieu: null
+rang: archeveque
+nationalite: Q2577303
+tampon: ordo_validus
+sacre:
+  date: '1826-03-19'
+  consecrateur_principal: francois-marie-bigex
+  co_consecrateurs:
+  - claude-francois-de-thiollaz
+  - pierre-joseph-rey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarta.html
+  - https://fr.wikipedia.org/wiki/Antoine_Martinet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Chambéry, France
+  du: null
+  au: '1839-05-06'
+- titre: évêque de Tarentaise
+  du: '1825-11-20'
+  au: null
+- titre: archevêque de Chambéry
+  du: '1827-12-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Chabord%20-%20Portrait%20de%20Mgr%20Martinet%2C%20Archev%C3%AAque%20de%20Chamb%C3%A9ry.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2854208
+  catholic_hierarchy: bmarta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:43+00:00'
+  completeness: 1.0

@@ -1,0 +1,39 @@
+slug: hugh-lacy
+nom: Hugh Lacy
+nom_complet: null
+naissance: null
+deces: '1580'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1556-04-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blacyh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limerick, Ireland
+  du: '1556-03-09'
+  au: 1580&sup1;
+- titre: évêque diocésain
+  du: '1556-03-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18204269
+  catholic_hierarchy: blacyh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:26:54+00:00'
+  completeness: 0.38

@@ -1,0 +1,41 @@
+slug: heinrich-franz-schenk
+nom: Heinrich Franz Schenk
+nom_complet: Heinrich Schenk, O.T.
+naissance: '1300'
+deces: '1301'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschenkh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chelmno (Culma, Kulm), Poland
+  du: '1292-10-03'
+  au: 1301&sup1;
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Chelmno
+  du: '1292-10-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1598731
+  catholic_hierarchy: bschenkh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:00:49+00:00'
+  completeness: 0.25

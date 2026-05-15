@@ -1,0 +1,47 @@
+slug: bonaventure-bauyn
+nom: Bonaventure Baüyn
+nom_complet: Bonaventure Bauyn
+naissance: '1699-11-25'
+deces: '1779-10-16'
+naissance_lieu: Dijon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1737-03-24'
+  consecrateur_principal: charles-gaspard-guillaume-de-vintimille-du-luc
+  co_consecrateurs:
+  - francois-de-lastic-de-saint-jal
+  - claude-antoine-de-choiseul-beaupre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbauyn.html
+  - https://fr.wikipedia.org/wiki/Bonaventure_Ba%C3%BCyn
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Uzés, France
+  du: null
+  au: '1779-10-16'
+- titre: évêque
+  du: '1737-01-01'
+  au: '1779-01-01'
+- titre: évêque d'Uzès
+  du: '1736-09-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2909923
+  catholic_hierarchy: bbauyn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:09:11+00:00'
+  completeness: 1.0

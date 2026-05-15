@@ -1,0 +1,48 @@
+slug: regimbald
+nom: Regimbald
+nom_complet: Reginbald von Dillingen
+naissance: '1000'
+deces: '1039-10-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdilling.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: 1033&sup1;
+  au: '1039-10-13'
+- titre: évêque de Spire
+  du: '1033-01-01'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Reginbald%20von%20Speyer%202%2C%201615JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q89766
+  catholic_hierarchy: bdilling
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:51:30+00:00'
+  completeness: 0.38

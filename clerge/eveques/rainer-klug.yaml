@@ -1,0 +1,55 @@
+slug: rainer-klug
+nom: Rainer Klug
+nom_complet: null
+naissance: '1938-12-13'
+deces: null
+naissance_lieu: Konstanz, Archdiocese of Freiburg im Breisgau
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2000-06-29'
+  lieu: Cathedral, Freiburg im Breisgau, Archdiocese of Freiburg im Breisgau
+  consecrateur_principal: oskar-saier
+  co_consecrateurs:
+  - joseph-dore
+  - paul-wehrle
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bklug.html
+  - https://fr.wikipedia.org/wiki/Rainer_Klug
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Freiburg im Breisgau, Germany
+  du: '2000-05-23'
+  au: null
+- titre: Titular Bishop of Ala Miliaria
+  du: '2000-05-23'
+  au: null
+- titre: évêque titulaire
+  du: '2000-05-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '2000-05-23'
+  au: '2013-11-21'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Klug.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q91790
+  catholic_hierarchy: bklug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:16:00+00:00'
+  completeness: 0.88

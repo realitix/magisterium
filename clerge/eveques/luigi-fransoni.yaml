@@ -1,0 +1,51 @@
+slug: luigi-fransoni
+nom: Luigi Fransoni
+nom_complet: null
+naissance: '1789-03-29'
+deces: '1862-03-26'
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1821-08-19'
+  consecrateur_principal: pierfrancesco-galleffi
+  co_consecrateurs:
+  - francesco-cardinal-bertazzoli
+  - giovanni-francesco-falzacappa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranl.html
+  - https://fr.wikipedia.org/wiki/Luigi_Fransoni
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Torino {Turin}, Italy
+  du: null
+  au: '1862-03-26'
+- titre: archevêque de Turin
+  du: '1832-02-07'
+  au: null
+- titre: évêque diocésain
+  du: '1820-06-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fransoni%20Luigi%20ritratto.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q922198
+  catholic_hierarchy: bfranl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:56:34+00:00'
+  completeness: 1.0

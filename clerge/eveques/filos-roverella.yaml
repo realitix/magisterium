@@ -1,0 +1,44 @@
+slug: filos-roverella
+nom: Filos Roverella
+nom_complet: null
+naissance: null
+deces: '1550'
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broverf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toulon, France
+  du: '1515-07-30'
+  au: null
+- titre: Bishop of Ascoli Piceno, Italy
+  du: '1518-09-03'
+  au: 1550&sup1;
+- titre: évêque de Toulon
+  du: '1515-08-09'
+  au: null
+- titre: Roman Catholic Bishop of Ascoli Piceno
+  du: '1518-09-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779921
+  catholic_hierarchy: broverf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:32:29+00:00'
+  completeness: 0.25

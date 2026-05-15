@@ -1,0 +1,50 @@
+slug: charles-gibier
+nom: Charles Gibier
+nom_complet: Charles-Henri-Célestin Gibier
+naissance: '1849-12-24'
+deces: '1931-04-03'
+naissance_lieu: Artenay
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-02-25'
+  co_consecrateurs:
+  - louis-joseph-lucon
+  - emile-christophe-enard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgibier.html
+  - https://fr.wikipedia.org/wiki/Charles_Gibier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Versailles, France
+  du: '1906-02-21'
+  au: '1931-04-03'
+- titre: évêque diocésain
+  du: '1906-02-21'
+  au: null
+- titre: évêque de Versailles
+  du: '1906-02-21'
+  au: '1931-04-03'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Charles-gibier-1913.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15970328
+  catholic_hierarchy: bgibier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:22:06+00:00'
+  completeness: 0.88

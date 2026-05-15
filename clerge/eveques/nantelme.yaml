@@ -1,0 +1,38 @@
+slug: nantelme
+nom: Nantelme
+nom_complet: Nantelmus
+naissance: '1150'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Nantelme_(%C3%A9v%C3%AAque_de_Gen%C3%A8ve)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Genève
+  du: '1185-01-01'
+  au: '1205-01-01'
+- titre: prieur
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nantelme%2C%20bishop%20of%20Geneva%20-%20seal%2C%201186.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q22961743
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56

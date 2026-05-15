@@ -1,0 +1,45 @@
+slug: jean-de-corbie
+nom: Jean de Corbie
+nom_complet: null
+naissance: '1350'
+deces: '1433-10-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorbie.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Corbie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: '1413-04-19'
+  au: null
+- titre: Bishop of Auxerre, France
+  du: '1426-12-11'
+  au: 1432&sup1;
+- titre: évêque d'Auxerre
+  du: '1426-12-20'
+  au: '1432-01-01'
+- titre: évêque diocésain
+  du: '1413-04-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175365
+  catholic_hierarchy: bcorbie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:05:20+00:00'
+  completeness: 0.25

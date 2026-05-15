@@ -1,0 +1,57 @@
+slug: joaquin-company-soler
+nom: Joaquín Company Soler
+nom_complet: Joaquín Company Soler, O.F.M. Obs.
+naissance: '1732-01-03'
+deces: '1813-02-13'
+naissance_lieu: Penáguila
+deces_lieu: Valencia, Archdiocese of Valencia
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1798-03-04'
+  lieu: S. Francois la Grande, Madrid, Archdiocese of Toledo
+  consecrateur_principal: juan-de-moya-de-la-torre-o-f-m-obs
+  co_consecrateurs:
+  - juan-garcia-benito
+  - francisco-de-cuerda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcompany.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Zaragoza, Spain
+  du: '1797-12-18'
+  au: null
+- titre: Archbishop of Valencia, Spain
+  du: '1800-08-11'
+  au: '1813-02-13'
+- titre: archevêque de Saragosse
+  du: '1797-12-18'
+  au: '1800-08-11'
+- titre: archevêque catholique
+  du: '1798-03-04'
+  au: null
+- titre: archevêque de Valence
+  du: '1800-08-11'
+  au: '1813-02-13'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/An%C3%B3nimo%20%28Copia%20Goya%29%20-%20Joaqu%C3%ADn%20Company%2C%20arzobispo%20de%20Zaragoza%20y%20Valencia%2C%20Hacia%201800%2C%20P002995.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11928080
+  catholic_hierarchy: bcompany
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:55+00:00'
+  completeness: 1.0

@@ -1,0 +1,35 @@
+slug: pierre-de-sonnaz
+nom: Pierre de Sonnaz
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1400-01-25'
+  consecrateur_principal: giacomo-cavalli
+  co_consecrateurs:
+  - boniface-della-torre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsonnaz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aosta, Italy
+  du: '1399-10-31'
+  au: 1410&sup1;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bsonnaz
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:28:02+00:00'
+  completeness: 0.75

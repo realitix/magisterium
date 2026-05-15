@@ -1,0 +1,44 @@
+slug: giambattista-febei
+nom: Giambattista Febei
+nom_complet: null
+naissance: '1623'
+deces: '1688-04-14'
+naissance_lieu: Orvieto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1683-07-25'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: galeazzo-marescotti
+  co_consecrateurs:
+  - francesco-casati
+  - prospero-bottini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfebeig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acquapendente, Italy
+  du: '1683-07-12'
+  au: '1688-04-14'
+- titre: Roman Catholic Bishop of Acquapendente
+  du: '1683-07-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28940989
+  catholic_hierarchy: bfebeig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:34:26+00:00'
+  completeness: 0.88

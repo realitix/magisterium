@@ -1,0 +1,44 @@
+slug: simon-de-wauton
+nom: Simon de Wauton
+nom_complet: null
+naissance: null
+deces: '1266-01-02'
+naissance_lieu: Wauton (Walton D'eyville), Warwickshire
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1258-03-10'
+  lieu: Canterbury, Archdiocese of Canterbury, England
+  consecrateur_principal: boniface-of-savoy
+  co_consecrateurs:
+  - giles-of-bridport
+  - william-of-bitton-i
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwauton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: null
+  au: '1266-01-02'
+- titre: évêque de Norwich
+  du: '1257-06-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761648
+  catholic_hierarchy: bwauton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:51:55+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: francisco-de-godoy
+nom: Francisco de Godoy
+nom_complet: null
+naissance: '1600'
+deces: '1659'
+naissance_lieu: Valdivia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1652-01-21'
+  lieu: Lima, Archdiocese of Lima
+  consecrateur_principal: pedro-de-villagomez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdegodoy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ayacucho o Huamanga (Guamanga), Peru
+  du: '1650-05-02'
+  au: null
+- titre: Bishop of Trujillo, Peru
+  du: '1659-09-01'
+  au: Dec 1659&sup2;
+- titre: évêque de Trujillo
+  du: '1659-09-01'
+  au: '1659-12-01'
+- titre: bishop of Huamanga
+  du: '1650-05-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5867947
+  catholic_hierarchy: bdegodoy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:37:47+00:00'
+  completeness: 0.62

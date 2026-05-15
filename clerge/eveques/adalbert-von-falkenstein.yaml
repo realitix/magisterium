@@ -1,0 +1,48 @@
+slug: adalbert-von-falkenstein
+nom: Adalbert von Falkenstein
+nom_complet: Adalbertus von Falkenstein, O.S.B.
+naissance: '1671-01-17'
+deces: '1739-09-27'
+naissance_lieu: Freiburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1731-11-25'
+  lieu: Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: sigismund-von-kollonitsch
+  co_consecrateurs:
+  - franz-alois-von-lamberg
+  - joseph-braitenbucher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfalken.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: null
+  au: '1739-09-27'
+- titre: évêque de Csanád
+  du: '1730-10-23'
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Adalbert%20von%20Falkenstein.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q347835
+  catholic_hierarchy: bfalken
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:30:36+00:00'
+  completeness: 0.88

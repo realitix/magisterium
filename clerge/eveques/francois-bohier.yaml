@@ -1,0 +1,43 @@
+slug: francois-bohier
+nom: François Bohier
+nom_complet: null
+naissance: '1500'
+deces: '1569-08-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: matthieu-gauthier
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbohier.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bohier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Saint-Malo, France
+  du: '1534-08-06'
+  au: null
+- titre: Bishop of Saint-Malo, France
+  du: null
+  au: '1569-08-29'
+- titre: évêque diocésain
+  du: '1535-12-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027330
+  catholic_hierarchy: bbohier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:34:09+00:00'
+  completeness: 0.5

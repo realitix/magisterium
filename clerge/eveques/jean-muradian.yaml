@@ -1,0 +1,43 @@
+slug: jean-muradian
+nom: Jean Muradian
+nom_complet: null
+naissance: '1842-01-02'
+deces: '1911-07-11'
+naissance_lieu: Diarbekir
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1901-11-21'
+  consecrateur_principal: boghos-bedros-paul-peter-xi-emmanuelian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmuradi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cisamus
+  du: '1905-08-07'
+  au: '1911-07-11'
+- titre: évêque diocésain
+  du: '1901-08-28'
+  au: null
+- titre: évêque diocésain
+  du: '1905-08-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763659
+  catholic_hierarchy: bmuradi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:37+00:00'
+  completeness: 0.88

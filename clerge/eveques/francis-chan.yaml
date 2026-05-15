@@ -1,0 +1,44 @@
+slug: francis-chan
+nom: Francis Chan
+nom_complet: null
+naissance: '1913-07-25'
+deces: '1967-10-20'
+naissance_lieu: Singapore, Diocese of Malacca, Singapore
+deces_lieu: Residence, Macalister Road, Penang, Diocese of Penang
+rang: eveque
+nationalite: Q833
+tampon: ordo_validus
+sacre:
+  date: '1955-08-28'
+  lieu: Good Shepherd, Cathedral, Singapore, Archdiocese of Malacca-Singapore
+  consecrateur_principal: martin-lucas
+  co_consecrateurs:
+  - victor-bazin
+  - louis-august-chorin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Penang, Malaysia
+  du: '1955-02-25'
+  au: '1967-10-20'
+- titre: évêque diocésain
+  du: '1955-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11859884
+  catholic_hierarchy: bchan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:04+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: julian-garces
+nom: Julián Garcés
+nom_complet: Julián Garcés, O.P.
+naissance: '1452'
+deces: '1542-12-07'
+naissance_lieu: Munébraga, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q199442
+tampon: ordo_validus
+sacre:
+  date: '1526-12-01'
+  lieu: Granada
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarces.html
+  - https://fr.wikipedia.org/wiki/Juli%C3%A1n_Garc%C3%A9s
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carolense (Yucatán), México
+  du: '1519-01-24'
+  au: null
+- titre: Bishop of Tlaxcala (Puebla de los Angeles), México
+  du: '1525-10-13'
+  au: '1542-12-07'
+- titre: évêque de Yucatán
+  du: '1519-02-03'
+  au: '1525-10-23'
+- titre: évêque de Tlaxcala
+  du: '1525-10-23'
+  au: '1541-12-17'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Juli%C3%A1n%20Garc%C3%A9s.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5956060
+  catholic_hierarchy: bgarces
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:09:14+00:00'
+  completeness: 0.5

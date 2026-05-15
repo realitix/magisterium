@@ -1,0 +1,44 @@
+slug: simone-spilotros-o-carm
+nom: Simone Spilotros, O. Carm.
+nom_complet: Simone Spilotros
+naissance: '1806-12-22'
+deces: '1877-10-31'
+naissance_lieu: Putignano, Diocese of Conversano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1859-10-02'
+  lieu: Ste Marie in Transpontine, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-d-andrea
+  co_consecrateurs:
+  - melchiade-ferlisi
+  - luigi-maria-cardelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspilo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tricarico, Italy
+  du: null
+  au: '1877-10-31'
+- titre: évêque diocésain
+  du: '1859-08-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745717
+  catholic_hierarchy: bspilo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:32:41+00:00'
+  completeness: 1.0

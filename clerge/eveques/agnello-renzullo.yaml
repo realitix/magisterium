@@ -1,0 +1,59 @@
+slug: agnello-renzullo
+nom: Agnello Renzullo
+nom_complet: null
+naissance: '1836-04-02'
+deces: '1925-10-20'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1880-03-07'
+  lieu: "San Alfonso all\x92Esquilino, Church, Roma, Diocese of Roma {Rome}"
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - gesualdo-nicola-loschirico
+  - girolamo-volpe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brenzu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Isernia e Venafro, Italy
+  du: '1880-02-27'
+  au: null
+- titre: Bishop of Nola, Italy
+  du: '1890-06-23'
+  au: '1924-04-11'
+- titre: Titular Bishop of Philadelphia in Lydia
+  du: '1924-04-11'
+  au: null
+- titre: Bishop Emeritus of Nola, Italy
+  du: null
+  au: '1925-10-20'
+- titre: évêque de Nole
+  du: '1890-06-23'
+  au: '1924-04-11'
+- titre: Roman Catholic Bishop of Isernia-Venafro
+  du: '1880-02-27'
+  au: null
+- titre: évêque titulaire
+  du: '1924-04-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736665
+  catholic_hierarchy: brenzu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:09:02+00:00'
+  completeness: 1.0

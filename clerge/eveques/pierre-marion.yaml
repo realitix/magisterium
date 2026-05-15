@@ -1,0 +1,44 @@
+slug: pierre-marion
+nom: Pierre Marion
+nom_complet: null
+naissance: '1611'
+deces: '1675-08-25'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1662-10-08'
+  consecrateur_principal: hardouin-de-perefixe-de-beaumont
+  co_consecrateurs:
+  - jean-de-maupeou
+  - jean-jacques-seguier-de-la-verriere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarion.html
+  - https://fr.wikipedia.org/wiki/Pierre_Marion_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap, France
+  du: '1662-06-26'
+  au: '1675-08-25'
+- titre: évêque diocésain
+  du: '1662-06-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25301469
+  catholic_hierarchy: bmarion
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:28:18+00:00'
+  completeness: 0.88

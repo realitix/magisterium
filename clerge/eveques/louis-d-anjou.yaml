@@ -1,0 +1,45 @@
+slug: louis-d-anjou
+nom: Louis d’Anjou
+nom_complet: Louis d&rsquo;Anjou, O.F.M.
+naissance: '1274-02-16'
+deces: '1297-08-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1296-12-30'
+  consecrateur_principal: non-indexe-fab259ea
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/banjou.html
+  - https://fr.wikipedia.org/wiki/Louis_d%27Anjou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toulouse, France
+  du: null
+  au: '1297-08-19'
+- titre: évêque de Toulouse
+  du: '1296-01-01'
+  au: '1297-01-01'
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Vivarini%201450%20Saint%20Louis%20de%20Toulouse.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q196157
+  catholic_hierarchy: banjou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:40:19+00:00'
+  completeness: 0.62

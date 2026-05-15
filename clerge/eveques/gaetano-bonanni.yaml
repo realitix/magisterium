@@ -1,0 +1,43 @@
+slug: gaetano-bonanni
+nom: Gaetano Bonanni
+nom_complet: null
+naissance: '1766-06-16'
+deces: '1848-08-17'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1821-07-08'
+  consecrateur_principal: pierfrancesco-galleffi
+  co_consecrateurs:
+  - giovanni-francesco-falzacappa
+  - mario-ancaiani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonanni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norcia, Italy
+  du: '1821-06-27'
+  au: '1848-08-17'
+- titre: évêque diocésain
+  du: '1821-06-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734058
+  catholic_hierarchy: bbonanni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:36:27+00:00'
+  completeness: 1.0

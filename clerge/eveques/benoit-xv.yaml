@@ -1,0 +1,63 @@
+slug: benoit-xv
+nom: Benoît XV
+nom_complet: Benedict XV
+naissance: '1854-11-21'
+deces: '1922-01-22'
+naissance_lieu: Pegli, Archdiocese of Genova
+deces_lieu: Vatican City, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1907-12-22'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - pietro-balestra
+  - teodoro-valfre-di-bonzo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelchi.html
+  - https://fr.wikipedia.org/wiki/Beno%C3%AEt_XV
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Substitute (Sostituto) of the Secretariat of State
+  du: '1901-04-23'
+  au: null
+- titre: Archbishop of Bologna, Italy
+  du: '1907-12-18'
+  au: null
+- titre: Cardinal-Priest of Santi Quattro Coronati
+  du: '1914-05-28'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1922-01-22'
+- titre: pape
+  du: '1914-09-03'
+  au: '1922-01-22'
+- titre: cardinal
+  du: '1914-05-25'
+  au: null
+- titre: archevêque de Bologne
+  du: '1907-12-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Benedictus%20XV%2C%20by%20Nicola%20Perscheid%2C%201915%20%28retouched%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4448
+  catholic_hierarchy: bdelchi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:39:15+00:00'
+  completeness: 0.88

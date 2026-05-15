@@ -1,0 +1,40 @@
+slug: jose-luis-serrano
+nom: José Luis Serrano
+nom_complet: null
+naissance: '1777-08-25'
+deces: '1852-05-12'
+naissance_lieu: Mompós
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1836-07-31'
+  consecrateur_principal: juan-fernandez-de-sotomayor-y-picon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserrlg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santa Marta, Colombia
+  du: '1836-02-01'
+  au: '1852-05-12'
+- titre: évêque de Santa Marta
+  du: '1836-02-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745392
+  catholic_hierarchy: bserrlg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:11+00:00'
+  completeness: 0.88

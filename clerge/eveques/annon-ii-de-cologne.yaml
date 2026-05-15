@@ -1,0 +1,49 @@
+slug: annon-ii-de-cologne
+nom: Annon II de Cologne
+nom_complet: St. Anno von Köln
+naissance: '1010'
+deces: '1075-12-04'
+naissance_lieu: Altsteußlingen
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1056-03-03'
+  lieu: Cathedral, Köln, Archdiocese of Köln {Cologne}
+  consecrateur_principal: non-indexe-ce13dd2a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkolna.html
+  - https://fr.wikipedia.org/wiki/Annon_II_de_Cologne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Köln {Cologne}, Germany
+  du: 1056&sup1;
+  au: '1075-12-04'
+- titre: archevêque de Cologne
+  du: '1056-03-09'
+  au: '1075-12-10'
+- titre: archevêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Anno%20II.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q180797
+  catholic_hierarchy: bkolna
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:17:36+00:00'
+  completeness: 0.62

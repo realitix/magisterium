@@ -1,0 +1,48 @@
+slug: nicolas-de-malezieu
+nom: Nicolas de Malézieu
+nom_complet: Nicolas de Malezieu
+naissance: '1674'
+deces: '1748-03-14'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1713-10-22'
+  consecrateur_principal: fabio-brulart-de-sillery
+  co_consecrateurs:
+  - pierre-de-baglion-de-la-salle
+  - charles-francois-de-chateauneuf-de-rochebonne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalez.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Mal%C3%A9zieu_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavaur, France
+  du: null
+  au: '1748-03-14'
+- titre: évêque diocésain
+  du: '1713-04-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20de%20Mal%C3%A9zieux%20par%20Fran%C3%A7ois%20de%20Troy.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q22248830
+  catholic_hierarchy: bmalez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:17:25+00:00'
+  completeness: 0.88

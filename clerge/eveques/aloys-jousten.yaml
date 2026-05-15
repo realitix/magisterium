@@ -1,0 +1,54 @@
+slug: aloys-jousten
+nom: Aloys Jousten
+nom_complet: Aloysius Jousten
+naissance: '1937-11-02'
+deces: '2021-09-20'
+naissance_lieu: Saint-Vith
+deces_lieu: Köln, Archdiocese of Köln {Cologne}, Germany
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '2001-06-03'
+  lieu: Saint Paul, Cathedral, Liège, Diocese of Liège (Luik, Lüttich)
+  consecrateur_principal: godfried-danneels
+  co_consecrateurs:
+  - pier-luigi-celata
+  - albert-houssiau
+  - guillaume-marie-van-zuylen
+  - paul-schruers
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjousten.html
+  - https://fr.wikipedia.org/wiki/Aloys_Jousten
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège (Luik, Lüttich), Belgium
+  du: '2001-05-09'
+  au: null
+- titre: Bishop Emeritus of Liège (Luik, Lüttich), Belgium
+  du: null
+  au: '2021-09-20'
+- titre: évêque de Liège
+  du: '2001-05-09'
+  au: '2013-05-31'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Aloys%20Jousten%20w.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q547080
+  catholic_hierarchy: bjousten
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:03:52+00:00'
+  completeness: 1.0

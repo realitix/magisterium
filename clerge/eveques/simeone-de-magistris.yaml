@@ -1,0 +1,44 @@
+slug: simeone-de-magistris
+nom: Simeone De Magistris
+nom_complet: Simone de Magistris, C.O.
+naissance: '1728-02-28'
+deces: '1802-10-06'
+naissance_lieu: Sezze
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1792-03-04'
+  consecrateur_principal: francesco-saverio-de-zelada
+  co_consecrateurs:
+  - antonio-felice-zondadari
+  - nicola-buschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagis.html
+  - https://fr.wikipedia.org/wiki/Simeone_De_Magistris
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Cyrene
+  du: '1792-02-27'
+  au: '1802-10-06'
+- titre: évêque titulaire
+  du: '1792-02-27'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64752630
+  catholic_hierarchy: bmagis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:07+00:00'
+  completeness: 1.0

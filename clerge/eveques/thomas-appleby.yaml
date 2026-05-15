@@ -1,0 +1,46 @@
+slug: thomas-appleby
+nom: Thomas Appleby
+nom_complet: null
+naissance: null
+deces: '1395-12-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_incertus
+sacre:
+  date: '1363-06-18'
+  consecrateur_principal: pierre-de-saint-martial
+  co_consecrateurs:
+  - non-indexe-1d838730
+  - thomas-la-reve
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bapplet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1363-06-12'
+  au: '1395-12-05'
+- titre: évêque diocésain
+  du: '1363-06-20'
+  au: null
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1363-01-01'
+  au: '1395-12-13'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7787104
+  catholic_hierarchy: bapplet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:02+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: fabio-capelleto
+nom: Fabio Capelleto
+nom_complet: null
+naissance: '1500'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1555-02-24'
+  consecrateur_principal: giovanni-michele-saraceni
+  co_consecrateurs:
+  - ascanio-ferrari
+  - fabio-mirto-frangipani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcappelp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lacedonia, Italy
+  du: '1551-07-24'
+  au: 1565&sup1;
+- titre: Roman Catholic Bishop of Lacedonia
+  du: '1551-08-03'
+  au: '1565-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15839480
+  catholic_hierarchy: bcappelp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:16:42+00:00'
+  completeness: 0.75

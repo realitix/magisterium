@@ -1,0 +1,41 @@
+slug: pedro-manero
+nom: Pedro Manero
+nom_complet: Pedro Manero, O.F.M. Obs.
+naissance: '1599'
+deces: '1659-12-05'
+naissance_lieu: Cariñena
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanero.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Minister General of Order of Observant Friars Minor
+  du: 1651&sup2;
+  au: null
+- titre: Bishop of Tarazona, Spain
+  du: null
+  au: '1659-12-05'
+- titre: évêque de Tarazona
+  du: '1655-08-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6069415
+  catholic_hierarchy: bmanero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:20:24+00:00'
+  completeness: 0.38

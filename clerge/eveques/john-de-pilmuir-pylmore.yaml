@@ -1,0 +1,40 @@
+slug: john-de-pilmuir-pylmore
+nom: John de Pilmuir (Pylmore)
+nom_complet: John de Pilmuir
+naissance: null
+deces: '1362-09-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1326-03-30'
+  consecrateur_principal: pierre-des-pres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpilmuir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moray, Scotland, Great Britain
+  du: 1326&sup1;
+  au: '1362-09-28'
+- titre: évêque diocésain
+  du: '1326-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108480062
+  catholic_hierarchy: bpilmuir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:33:25+00:00'
+  completeness: 0.75

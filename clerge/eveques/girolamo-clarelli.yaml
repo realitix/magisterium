@@ -1,0 +1,43 @@
+slug: girolamo-clarelli
+nom: Girolamo Clarelli
+nom_complet: null
+naissance: '1705-11-15'
+deces: '1764-06-18'
+naissance_lieu: Rieti
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1761-04-26'
+  consecrateur_principal: girolamo-spinola
+  co_consecrateurs:
+  - giovanni-lercari
+  - giovanni-battista-giampe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclarelli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rieti, Italy
+  du: '1761-04-06'
+  au: '1764-06-18'
+- titre: évêque diocésain
+  du: '1761-04-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751708
+  catholic_hierarchy: bclarelli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:08+00:00'
+  completeness: 1.0

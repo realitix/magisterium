@@ -1,0 +1,44 @@
+slug: fernando-de-villagomez
+nom: Fernando de Villagómez
+nom_complet: null
+naissance: null
+deces: '1571-02-10'
+naissance_lieu: Castroverde, Diocese of Lugo, Spain
+deces_lieu: Puebla, Diocese of Tlaxcala (Puebla de los Angeles)
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1562-03-01'
+  lieu: de la Trinidad, Monastery, Sevilla, Archdiocese of Sevilla {Seville}, Spain
+  consecrateur_principal: juan-gonzalez-de-munebrega
+  co_consecrateurs:
+  - alfonso-de-sanabria
+  - sancho-diaz-de-trujillo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvilf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tlaxcala (Puebla de los Angeles), México
+  du: '1561-06-27'
+  au: '1571-02-10'
+- titre: évêque de Puebla-Tlaxcala
+  du: '1561-07-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762420
+  catholic_hierarchy: bvilf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:38:38+00:00'
+  completeness: 0.88

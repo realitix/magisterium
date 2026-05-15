@@ -1,0 +1,44 @@
+slug: jean-baptiste-frerot
+nom: Jean-Baptiste Frérot
+nom_complet: null
+naissance: '1830-07-13'
+deces: '1899-09-06'
+naissance_lieu: Buncey-Sur-Seine
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1892-08-24'
+  lieu: S. Michel, Dijon, Diocese of Dijon
+  consecrateur_principal: federic-henri-oury
+  co_consecrateurs:
+  - cesar-joseph-marpot
+  - marie-alphonse-sonnois
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: null
+  au: '1899-09-06'
+- titre: évêque d'Angoulême
+  du: '1892-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18708591
+  catholic_hierarchy: bfrer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:58:11+00:00'
+  completeness: 1.0

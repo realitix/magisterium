@@ -1,0 +1,44 @@
+slug: simon-garnier
+nom: Simon Garnier
+nom_complet: null
+naissance: '1765-07-29'
+deces: '1827-05-08'
+naissance_lieu: Saint-Vallier-Sur-Marne
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1826-11-12'
+  consecrateur_principal: jean-francois-marie-le-pappe-de-trevern
+  co_consecrateurs:
+  - guillaume-valentin-dubourg
+  - louis-sylvestre-de-la-chatre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarnie.html
+  - https://fr.wikipedia.org/wiki/Simon_Garnier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vannes, France
+  du: null
+  au: '1827-05-08'
+- titre: évêque diocésain
+  du: '1826-08-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28059174
+  catholic_hierarchy: bgarnie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:11:42+00:00'
+  completeness: 1.0

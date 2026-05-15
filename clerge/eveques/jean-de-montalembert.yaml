@@ -1,0 +1,39 @@
+slug: jean-de-montalembert
+nom: Jean de Montalembert
+nom_complet: Jean de Montalembert, O.S.B.
+naissance: null
+deces: '1483-12-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontalem.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Montalembert
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montauban, France
+  du: '1471-07-05'
+  au: '1483-12-29'
+- titre: évêque diocésain
+  du: '1471-07-14'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3175581
+  catholic_hierarchy: bmontalem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:06:41+00:00'
+  completeness: 0.38

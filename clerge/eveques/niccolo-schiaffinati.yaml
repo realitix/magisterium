@@ -1,0 +1,43 @@
+slug: niccolo-schiaffinati
+nom: Niccolò Schiaffinati
+nom_complet: Nicola Antonio Schiaffinati, O.E.S.A.
+naissance: '1672-03-23'
+deces: '1743-02-15'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1739-06-07'
+  consecrateur_principal: giuseppe-firrao-1670
+  co_consecrateurs:
+  - cristobal-almeida
+  - giovanni-andrea-tria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschiaf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ischia, Italy
+  du: '1739-05-04'
+  au: '1743-02-15'
+- titre: évêque diocésain
+  du: '1739-05-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55907464
+  catholic_hierarchy: bschiaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:01:14+00:00'
+  completeness: 1.0

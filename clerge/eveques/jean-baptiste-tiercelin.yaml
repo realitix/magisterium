@@ -1,0 +1,41 @@
+slug: jean-baptiste-tiercelin
+nom: Jean-Baptiste Tiercelin
+nom_complet: Jean-Baptiste de Champflour
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1563'
+  consecrateur_principal: antoine-fournier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btierc.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Tiercelin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: '1562-12-16'
+  au: '1578-11-06'
+- titre: évêque diocésain
+  du: '1562-12-16'
+  au: '1578-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027396
+  catholic_hierarchy: btierc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:59:57+00:00'
+  completeness: 0.5

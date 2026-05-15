@@ -1,0 +1,48 @@
+slug: jean-baptiste-pelt
+nom: Jean-Baptiste Pelt
+nom_complet: null
+naissance: '1863-04-06'
+deces: '1937-09-10'
+naissance_lieu: Blettange
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1919-09-29'
+  consecrateur_principal: leon-adolphe-amette
+  co_consecrateurs:
+  - henry-victor-altmayer
+  - charles-joseph-eugene-ruch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpelt.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Pelt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: null
+  au: '1937-09-10'
+- titre: évêque de Metz
+  du: '1919-04-24'
+  au: '1937-09-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-baptiste-pelt.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3164343
+  catholic_hierarchy: bpelt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:29+00:00'
+  completeness: 1.0

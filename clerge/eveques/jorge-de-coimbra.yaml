@@ -1,0 +1,38 @@
+slug: jorge-de-coimbra
+nom: Jorge de Coimbra
+nom_complet: null
+naissance: null
+deces: '1569-03-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoimj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ceuta, Spain
+  du: '1545-10-09'
+  au: '1569-03-12'
+- titre: évêque de Ceuta
+  du: '1545-10-19'
+  au: '1569-03-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68866366
+  catholic_hierarchy: bcoimj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:25+00:00'
+  completeness: 0.38

@@ -1,0 +1,49 @@
+slug: everhard-illigens
+nom: Everhard Illigens
+nom_complet: null
+naissance: '1851-01-12'
+deces: '1914-01-02'
+naissance_lieu: Münster
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1909-03-28'
+  consecrateur_principal: hermann-dingelstad
+  co_consecrateurs:
+  - hubertus-voss
+  - joseph-muller
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/billig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Münster, Germany
+  du: '1909-02-28'
+  au: '1914-01-02'
+- titre: Titular Bishop of Germanicia
+  du: '1909-02-28'
+  au: null
+- titre: évêque auxiliaire
+  du: '1909-02-28'
+  au: null
+- titre: évêque titulaire
+  du: '1909-02-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1382060
+  catholic_hierarchy: billig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:52:38+00:00'
+  completeness: 1.0

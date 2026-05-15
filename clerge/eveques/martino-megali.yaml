@@ -1,0 +1,43 @@
+slug: martino-megali
+nom: Martino Megali
+nom_complet: null
+naissance: null
+deces: '1656'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1646-09-23'
+  consecrateur_principal: pier-luigi-cardinal-carafa-sr
+  co_consecrateurs:
+  - alfonso-sacrati
+  - ranuccio-scotti-douglas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmegali.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bova, Italy
+  du: '1646-09-10'
+  au: Jul 1656&sup3;
+- titre: Roman Catholic Bishop of Bova
+  du: '1646-09-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60620837
+  catholic_hierarchy: bmegali
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:47:26+00:00'
+  completeness: 0.75

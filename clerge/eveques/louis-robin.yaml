@@ -1,0 +1,52 @@
+slug: louis-robin
+nom: Louis Robin
+nom_complet: Louis-Sylvain Robin
+naissance: '1897-03-22'
+deces: '1963-12-02'
+naissance_lieu: Amboise
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1946-01-18'
+  consecrateur_principal: louis-joseph-gaillard
+  co_consecrateurs:
+  - joseph-charles-lefebvre
+  - maurice-rousseau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brobin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Blois, France
+  du: '1945-11-03'
+  au: '1961-11-28'
+- titre: Titular Bishop of Arneae
+  du: '1961-11-28'
+  au: null
+- titre: Bishop Emeritus of Blois, France
+  du: null
+  au: '1963-12-02'
+- titre: évêque diocésain
+  du: '1945-11-03'
+  au: '1961-11-28'
+- titre: évêque titulaire
+  du: '1961-11-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747067
+  catholic_hierarchy: brobin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:18:56+00:00'
+  completeness: 1.0

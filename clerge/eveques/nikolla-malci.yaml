@@ -1,0 +1,39 @@
+slug: nikolla-malci
+nom: Nikolla Malçi
+nom_complet: null
+naissance: '1746'
+deces: '1825-10-12'
+naissance_lieu: Chsella
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: paul-galata
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalci.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lezhë {Lesh, Alessio}, Albania
+  du: '1797-07-24'
+  au: '1825-10-12'
+- titre: évêque diocésain
+  du: '1797-07-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751960
+  catholic_hierarchy: bmalci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:16:55+00:00'
+  completeness: 0.5

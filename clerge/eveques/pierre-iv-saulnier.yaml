@@ -1,0 +1,45 @@
+slug: pierre-iv-saulnier
+nom: Pierre IV Saulnier
+nom_complet: Pierre Le Saulnier, O.S.B.
+naissance: '1548'
+deces: '1612-12-24'
+naissance_lieu: Charolles, Saone et Loire
+deces_lieu: Autun, Diocese of Autun
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1588-07-17'
+  lieu: Trinite des Monts, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francois-cardinal-de-joyeuse
+  co_consecrateurs:
+  - marco-antonio-marsilio
+  - agostino-quinzio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaunier.html
+  - https://fr.wikipedia.org/wiki/Pierre_Saulnier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Autun, France
+  du: '1588-07-04'
+  au: '1612-12-24'
+- titre: évêque diocésain
+  du: '1588-07-04'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q15967052
+  catholic_hierarchy: bsaunier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:02+00:00'
+  completeness: 0.88

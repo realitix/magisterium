@@ -1,0 +1,44 @@
+slug: pierre-chrysologue
+nom: Pierre Chrysologue
+nom_complet: St. Peter Chrysologus
+naissance: '380'
+deces: '450'
+naissance_lieu: Imola, Diocese of Imola
+deces_lieu: null
+rang: archeveque
+nationalite: Q1747689
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-06dabdb8
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchryso.html
+  - https://fr.wikipedia.org/wiki/Pierre_Chrysologue
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Ravenna, Italy
+  du: '433'
+  au: 31 Jul 450
+- titre: évêque de Ravenne
+  du: '0433-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20crisologo01.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q328742
+  catholic_hierarchy: bchryso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:48:33+00:00'
+  completeness: 0.5

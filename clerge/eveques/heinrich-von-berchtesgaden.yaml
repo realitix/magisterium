@@ -1,0 +1,39 @@
+slug: heinrich-von-berchtesgaden
+nom: Heinrich von Berchtesgaden
+nom_complet: null
+naissance: null
+deces: '1196-07-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1178-08-19'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberchtes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: 1178&sup1;
+  au: '1196-07-19'
+- titre: évêque de Brixen
+  du: '1178-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448061
+  catholic_hierarchy: bberchtes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:18:59+00:00'
+  completeness: 0.5

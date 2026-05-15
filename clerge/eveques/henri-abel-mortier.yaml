@@ -1,0 +1,45 @@
+slug: henri-abel-mortier
+nom: Henri-Abel Mortier
+nom_complet: null
+naissance: '1825-08-05'
+deces: '1889-01-27'
+naissance_lieu: Bavay
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1887-07-24'
+  lieu: Cathedral, Cambrai, Archdiocese of Cambrai
+  consecrateur_principal: edouard-hasley
+  co_consecrateurs:
+  - henri-monnier
+  - desire-joseph-dennel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmortier.html
+  - https://fr.wikipedia.org/wiki/Henri-Abel_Mortier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: null
+  au: '1889-01-27'
+- titre: évêque de Digne
+  du: '1887-05-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735168
+  catholic_hierarchy: bmortier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:23+00:00'
+  completeness: 1.0

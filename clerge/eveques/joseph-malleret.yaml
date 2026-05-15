@@ -1,0 +1,44 @@
+slug: joseph-malleret
+nom: Joseph Malleret
+nom_complet: Joseph Félix François Malleret, C.S.Sp.
+naissance: '1865-07-07'
+deces: '1914-06-25'
+naissance_lieu: Servant, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1912-03-19'
+  consecrateur_principal: rafael-merry-del-val
+  co_consecrateurs:
+  - olivier-de-durfort-de-civrac
+  - prosper-philippe-augouard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalleret.html
+  - https://fr.wikipedia.org/wiki/Joseph_Malleret
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Martinique (Fort-de-France e Saint Pierre), Antilles
+  du: '1912-02-02'
+  au: '1914-06-25'
+- titre: évêque diocésain
+  du: '1912-02-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16563622
+  catholic_hierarchy: bmalleret
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:17:46+00:00'
+  completeness: 1.0

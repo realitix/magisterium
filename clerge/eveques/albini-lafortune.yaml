@@ -1,0 +1,45 @@
+slug: albini-lafortune
+nom: Albini Lafortune
+nom_complet: null
+naissance: '1893-05-05'
+deces: '1950-11-08'
+naissance_lieu: Saint-Paul-l'Ermite, Archdiocese of Montréal, Québec
+deces_lieu: Montréal, Archdiocese of Montréal, Québec
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1938-07-25'
+  lieu: Saint Jean Baptiste, Cathedral, Nicolet, Diocese of Nicolet, Québec
+  consecrateur_principal: jean-marie-rodrigue-villeneuve
+  co_consecrateurs:
+  - joseph-arthur-papineau
+  - joseph-louis-aldee-desmarais
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blafor.html
+  - https://fr.wikipedia.org/wiki/Albini_Lafortune
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicolet, Québec, Canada
+  du: '1938-05-14'
+  au: '1950-11-08'
+- titre: évêque diocésain
+  du: '1938-05-14'
+  au: '1950-11-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2831902
+  catholic_hierarchy: blafor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:27:34+00:00'
+  completeness: 1.0

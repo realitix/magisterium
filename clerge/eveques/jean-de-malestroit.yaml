@@ -1,0 +1,49 @@
+slug: jean-de-malestroit
+nom: Jean de Malestroit
+nom_complet: Jean de Malestroit (Châteaugiron)
+naissance: '1375'
+deces: '1443-09-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalestj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Malestroit_(cardinal)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc, France
+  du: '1404-05-02'
+  au: null
+- titre: Bishop of Nantes, France
+  du: '1419-07-17'
+  au: '1443'
+- titre: évêque diocésain
+  du: '1404-05-11'
+  au: null
+- titre: évêque de Nantes
+  du: '1419-07-26'
+  au: '1443-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-de-Malestroit.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3175560
+  catholic_hierarchy: bmalestj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:17:20+00:00'
+  completeness: 0.25

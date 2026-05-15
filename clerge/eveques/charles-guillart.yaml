@@ -1,0 +1,48 @@
+slug: charles-guillart
+nom: Charles Guillart
+nom_complet: null
+naissance: '1529'
+deces: '1573-03-04'
+naissance_lieu: null
+deces_lieu: Paris, Diocese of Paris
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1557-07-25'
+  lieu: église du Temple, Paris, Diocese of Paris
+  consecrateur_principal: louis-guillart
+  co_consecrateurs:
+  - guillaume-pellicier
+  - antoine-olivier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguillc.html
+  - https://fr.wikipedia.org/wiki/Charles_Guillart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: '1553-10-02'
+  au: '1566-12-11'
+- titre: Bishop Emeritus of Chartres, France
+  du: null
+  au: Mar 1573&sup3;
+- titre: évêque diocésain
+  du: '1557-08-04'
+  au: '1566-12-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2959271
+  catholic_hierarchy: bguillc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:50:38+00:00'
+  completeness: 0.75

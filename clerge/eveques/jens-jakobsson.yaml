@@ -1,0 +1,41 @@
+slug: jens-jakobsson
+nom: Jens Jakobsson
+nom_complet: Jens Jakobssøn Blik
+naissance: '1400'
+deces: '1452'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q62623
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjakobbl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oslo, Norway
+  du: '1420-07-08'
+  au: 1452&sup1;
+- titre: Chancellor of Norway
+  du: null
+  au: null
+- titre: évêque catholique romain d'Oslo
+  du: '1420-07-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1687225
+  catholic_hierarchy: bjakobbl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:50+00:00'
+  completeness: 0.25

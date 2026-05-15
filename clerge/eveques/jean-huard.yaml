@@ -1,0 +1,49 @@
+slug: jean-huard
+nom: Jean Huard
+nom_complet: null
+naissance: '1928-03-23'
+deces: '2002-10-04'
+naissance_lieu: Boussu
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '1977-09-25'
+  lieu: Cathedral, Tournai, Diocese of Tournai {Doornik}
+  consecrateur_principal: leon-joseph-suenens
+  co_consecrateurs:
+  - charles-marie-himmer
+  - emile-joseph-de-smedt
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhuard.html
+  - https://fr.wikipedia.org/wiki/Jean_Huard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1977-07-02'
+  au: '2002-10-04'
+- titre: évêque de Tournai
+  du: '1977-07-02'
+  au: '2002-10-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Huard%20-%20%C3%A9v%C3%AAque%20de%20Tournai%20-%201983-12-02%20-%2001.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q664199
+  catholic_hierarchy: bhuard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:48:54+00:00'
+  completeness: 1.0

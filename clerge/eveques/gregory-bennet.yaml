@@ -1,0 +1,44 @@
+slug: gregory-bennet
+nom: Gregory Bennet
+nom_complet: Gregory Charles Bennet
+naissance: '1963-04-07'
+deces: null
+naissance_lieu: Melbourne, Archdiocese of Melbourne
+deces_lieu: null
+rang: eveque
+nationalite: Q408
+tampon: ordo_dubius
+sacre:
+  date: '2020-12-08'
+  lieu: St. Mary's, Cathedral, Sale, Diocese of Sale
+  consecrateur_principal: peter-comensoli
+  co_consecrateurs:
+  - denis-hart
+  - patrick-o-regan
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbennetg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sale, Australia
+  du: '2020-06-27'
+  au: null
+- titre: évêque diocésain
+  du: '2020-06-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96678623
+  catholic_hierarchy: bbennetg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:17:38+00:00'
+  completeness: 0.88

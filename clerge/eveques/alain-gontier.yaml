@@ -1,0 +1,46 @@
+slug: alain-gontier
+nom: Alain Gontier
+nom_complet: Alain Gonthier
+naissance: null
+deces: '1335'
+naissance_lieu: Quimper
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1317-06-01'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgont.html
+  - https://fr.wikipedia.org/wiki/Alain_Gontier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Malo, France
+  du: '1317-03-02'
+  au: null
+- titre: Bishop of Quimper, France
+  du: '1333-01-22'
+  au: 1335&sup1;
+- titre: évêque diocésain
+  du: '1317-03-10'
+  au: null
+- titre: évêque diocésain
+  du: '1333-01-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2421253
+  catholic_hierarchy: bgont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:34:19+00:00'
+  completeness: 0.38

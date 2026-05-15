@@ -1,0 +1,41 @@
+slug: alexandre-de-montecatini-o-cart
+nom: Alexandre de Montecatini, O. Cart.
+nom_complet: Alexandre de Montecatini
+naissance: '1632-08-25'
+deces: '1689-10-06'
+naissance_lieu: Roma, Diocese of Roma {Rome}, Italy
+deces_lieu: Avignon, Archdiocese of Avignon
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1686-05-26'
+  lieu: Santa Maria degli Angeli a Termini, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: alderano-cibo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontec.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Avignon, France
+  du: '1686-05-13'
+  au: '1689-10-06'
+- titre: archevêque d'Avignon
+  du: '1686-05-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735342
+  catholic_hierarchy: bmontec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:15+00:00'
+  completeness: 0.88

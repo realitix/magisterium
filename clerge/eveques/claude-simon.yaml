@@ -1,0 +1,44 @@
+slug: claude-simon
+nom: Claude Simon
+nom_complet: null
+naissance: '1744-11-15'
+deces: '1825-10-03'
+naissance_lieu: Semur-en-Auxois
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-08-08'
+  consecrateur_principal: charles-mannay
+  co_consecrateurs:
+  - jean-baptiste-duvoisin
+  - jean-eleonor-montanier-de-belmont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsimonc.html
+  - https://fr.wikipedia.org/wiki/Claude_Simon_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grenoble, France
+  du: null
+  au: '1825-10-03'
+- titre: évêque diocésain
+  du: '1802-07-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2978157
+  catholic_hierarchy: bsimonc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:19:33+00:00'
+  completeness: 1.0

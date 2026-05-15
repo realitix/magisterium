@@ -1,0 +1,45 @@
+slug: nicolas-psaume
+nom: Nicolas Psaume
+nom_complet: Nicolas Psaulme, O. Praem.
+naissance: '1518-12-11'
+deces: '1575-08-10'
+naissance_lieu: Chaumont-sur-Aire
+deces_lieu: Verdun, Diocese of Verdun
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1548-08-26'
+  consecrateur_principal: jacques-hanot-o-praem
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpseau.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Psaume
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1548-06-13'
+  au: '1575-08-10'
+- titre: évêque de Verdun
+  du: '1548-01-01'
+  au: '1575-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Psaume-Mus%C3%A9e%20barrois.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q373252
+  catholic_hierarchy: bpseau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:51:46+00:00'
+  completeness: 0.88

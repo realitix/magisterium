@@ -1,0 +1,51 @@
+slug: inigo-abbad-y-lasierra
+nom: Íñigo Abbad y Lasierra
+nom_complet: Agustín Iñigo Abad Lasierra, O.S.B.
+naissance: '1743-06-19'
+deces: '1813-10-24'
+naissance_lieu: Estadilla
+deces_lieu: null
+rang: eveque
+nationalite: Q3399982
+tampon: ordo_validus
+sacre:
+  date: '1790-08-08'
+  consecrateur_principal: francisco-antonio-de-lorenzana-y-butron
+  co_consecrateurs:
+  - manuel-abad-y-lasierra
+  - jose-martinez-palomino-y-lopez-de-lorena
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/babadla.html
+  - https://fr.wikipedia.org/wiki/Fray_%C3%8D%C3%B1igo_Abbad_y_Lasierra
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barbastro, Spain
+  du: '1790-06-21'
+  au: '1813-10-24'
+- titre: Évêque de Barbastro
+  du: '1790-06-21'
+  au: null
+- titre: confesseur
+  du: '1772-01-01'
+  au: '1783-01-01'
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Viage%20a%20la%20America.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q291860
+  catholic_hierarchy: babadla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:53+00:00'
+  completeness: 1.0

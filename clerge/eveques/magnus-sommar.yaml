@@ -1,0 +1,40 @@
+slug: magnus-sommar
+nom: Magnus Sommar
+nom_complet: null
+naissance: '1480'
+deces: '1543'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q34
+tampon: ordo_validus
+sacre:
+  date: '1528-01-05'
+  consecrateur_principal: peder-mansson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsommarm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strängnäs (Strengnäs), Sweden
+  du: '1528-01-05'
+  au: null
+- titre: évêque de Strängnäs
+  du: '1528-01-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6183567
+  catholic_hierarchy: bsommarm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:27:49+00:00'
+  completeness: 0.62

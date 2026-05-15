@@ -1,0 +1,50 @@
+slug: martinho-gil
+nom: Martinho Gil
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgilmar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Porto, Portugal
+  du: '1390-06-04'
+  au: null
+- titre: Bishop of Silves (Sylves), Portugal
+  du: '1391-02-15'
+  au: 1409&sup1;
+- titre: Bishop of Évora, Portugal
+  du: '1404-02-06'
+  au: null
+- titre: évêque diocésain
+  du: '1404-02-15'
+  au: null
+- titre: évêque diocésain
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1390-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108481218
+  catholic_hierarchy: bgilmar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:23:27+00:00'
+  completeness: 0.25

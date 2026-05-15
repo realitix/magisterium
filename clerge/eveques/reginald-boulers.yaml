@@ -1,0 +1,49 @@
+slug: reginald-boulers
+nom: Reginald Boulers
+nom_complet: null
+naissance: null
+deces: '1459-04-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1451-02-14'
+  consecrateur_principal: john-low
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboulers.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1450-08-14'
+  au: null
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1453-02-07'
+  au: 10 Apr 1459&sup3;
+- titre: évêque de Coventry et Lichfield
+  du: '1453-02-16'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Hereford
+  du: '1450-08-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7308614
+  catholic_hierarchy: bboulers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:10+00:00'
+  completeness: 0.75

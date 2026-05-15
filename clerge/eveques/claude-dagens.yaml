@@ -1,0 +1,73 @@
+slug: claude-dagens
+nom: Claude Dagens
+nom_complet: Claude Jean Pierre Dagens
+naissance: '1940-05-20'
+deces: null
+naissance_lieu: Caudéran
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1987-09-20'
+  lieu: Cathedral, Bordeaux, Archdiocese of Bordeaux (-Bazas)
+  consecrateur_principal: marius-maziers
+  co_consecrateurs:
+  - andre-charles-collini
+  - joseph-rozier
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdagens.html
+  - https://fr.wikipedia.org/wiki/Claude_Dagens
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Poitiers, France
+  du: '1987-07-03'
+  au: null
+- titre: Titular Bishop of Vulturaria
+  du: '1987-07-03'
+  au: null
+- titre: Coadjutor Bishop of Angoulême, France
+  du: '1993-06-15'
+  au: null
+- titre: Bishop of Angoulême, France
+  du: null
+  au: '1993-12-22'
+- titre: évêque titulaire
+  du: '1987-07-03'
+  au: '1993-06-15'
+- titre: évêque coadjuteur
+  du: '1993-06-15'
+  au: '1993-12-22'
+- titre: évêque auxiliaire de Poitiers
+  du: '1987-07-03'
+  au: '1993-06-15'
+- titre: évêque d'Angoulême
+  du: '1993-12-22'
+  au: '2015-11-09'
+- titre: membre de l'École française de Rome
+  du: '1965-01-01'
+  au: '1967-01-01'
+- titre: membre de l'Académie française
+  du: '2008-04-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Claude%20Dagens%202018.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q516442
+  catholic_hierarchy: bdagens
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:22:22+00:00'
+  completeness: 0.88

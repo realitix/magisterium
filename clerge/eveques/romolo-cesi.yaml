@@ -1,0 +1,46 @@
+slug: romolo-cesi
+nom: Romolo Cesi
+nom_complet: null
+naissance: '1533'
+deces: '1607'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1566-10-27'
+  consecrateur_principal: girolamo-maccabei-de-toscanella
+  co_consecrateurs:
+  - adriano-fuscone
+  - jerome-ferragata
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcesiro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Narni, Italy
+  du: '1566-07-12'
+  au: '1578-06-13'
+- titre: Bishop Emeritus of Narni, Italy
+  du: null
+  au: 1607&sup1;
+- titre: Roman Catholic Bishop of Narni
+  du: '1566-07-22'
+  au: '1578-06-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745592
+  catholic_hierarchy: bcesiro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:39:08+00:00'
+  completeness: 0.75

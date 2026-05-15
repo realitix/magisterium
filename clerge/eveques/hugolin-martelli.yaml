@@ -1,0 +1,43 @@
+slug: hugolin-martelli
+nom: Hugolin Martelli
+nom_complet: Ugolino Martelli
+naissance: '1519-10-01'
+deces: '1592-11-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartelug.html
+  - https://fr.wikipedia.org/wiki/Ugolino_Martelli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: '1568-07-05'
+  au: 1592&sup1;
+- titre: évêque de Glandèves
+  du: '1568-07-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Angelo%20Bronzino%20-%20portrait%20of%20Ugolino%20Martelli%20-%20WGA3264.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1283023
+  catholic_hierarchy: bmartelug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:06+00:00'
+  completeness: 0.25

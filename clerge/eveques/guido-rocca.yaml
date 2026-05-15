@@ -1,0 +1,41 @@
+slug: guido-rocca
+nom: Guido Rocca
+nom_complet: null
+naissance: '1817-06-10'
+deces: '1886-01-26'
+naissance_lieu: Reggio Emilia, Diocese of Reggio Emilia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1873-07-27'
+  lieu: St Charles au Corso, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: camillo-di-pietro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broccg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Reggio Emilia, Italy
+  du: '1873-07-25'
+  au: '1886-01-26'
+- titre: Roman Catholic Bishop of Reggio Emilia
+  du: '1873-07-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735461
+  catholic_hierarchy: broccg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:19:40+00:00'
+  completeness: 0.88

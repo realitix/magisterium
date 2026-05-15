@@ -1,0 +1,49 @@
+slug: claudio-cipolla
+nom: Claudio Cipolla
+nom_complet: Claudius Cipolla
+naissance: '1955-02-11'
+deces: null
+naissance_lieu: Goito, Diocese of Mantova
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2015-09-27'
+  lieu: "Sant\x92Andrea, Co-Cathedral, Mantova, Diocese of Mantova"
+  consecrateur_principal: roberto-busti
+  co_consecrateurs:
+  - francesco-moraglia
+  - egidio-caporello
+  - nunzio-galantino
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcipolla.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Padova {Padua}, Italy
+  du: '2015-07-18'
+  au: null
+- titre: évêque de Padoue
+  du: '2015-07-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vescovo%20Claudio%20Cipolla.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20679557
+  catholic_hierarchy: bcipolla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:51:44+00:00'
+  completeness: 0.88

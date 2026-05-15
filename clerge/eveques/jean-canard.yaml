@@ -1,0 +1,39 @@
+slug: jean-canard
+nom: Jean Canard
+nom_complet: null
+naissance: null
+deces: '1407-10-07'
+naissance_lieu: Poligny Jura
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1392-11-03'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanard.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: '1392-09-06'
+  au: '1407-10-07'
+- titre: évêque d'Arras
+  du: '1392-09-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68865090
+  catholic_hierarchy: bcanard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:12:47+00:00'
+  completeness: 0.5

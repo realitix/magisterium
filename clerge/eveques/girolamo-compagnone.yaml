@@ -1,0 +1,43 @@
+slug: girolamo-compagnone
+nom: Girolamo Compagnone
+nom_complet: null
+naissance: '1620-01-17'
+deces: '1687-11-01'
+naissance_lieu: Aversa
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1685-02-11'
+  consecrateur_principal: alessandro-crescenzi
+  co_consecrateurs:
+  - pier-antonio-capobianco
+  - giuseppe-felice-barlacci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcompaggi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Rossano, Italy
+  du: '1685-02-05'
+  au: '1687-11-01'
+- titre: Roman Catholic Archbishop of Rossano
+  du: '1685-02-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26247002
+  catholic_hierarchy: bcompaggi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:50+00:00'
+  completeness: 1.0

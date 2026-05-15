@@ -1,0 +1,45 @@
+slug: manuel-de-almada
+nom: Manuel de Almada
+nom_complet: null
+naissance: '1500'
+deces: '1580-10-12'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balmada.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angra, Portugal
+  du: '1562-03-18'
+  au: 1566&sup2;
+- titre: Bishop Emeritus of Angra, Portugal
+  du: null
+  au: '1580-10-12'
+- titre: évêque diocésain
+  du: '1562-03-28'
+  au: '1566-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20Manuel%20de%20Almada.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10324607
+  catholic_hierarchy: balmada
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:31:19+00:00'
+  completeness: 0.38

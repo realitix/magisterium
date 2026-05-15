@@ -1,0 +1,41 @@
+slug: georges-chihane
+nom: Georges Chihane
+nom_complet: null
+naissance: '1953-05-31'
+deces: null
+naissance_lieu: Haret Sakhr
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2012-07-28'
+  lieu: Bkerké
+  consecrateur_principal: bechara-boutros-rahi
+  co_consecrateurs:
+  - francois-eid
+  - paul-nabil-el-sayah
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchih.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque diocésain
+  du: '2012-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1508844
+  catholic_hierarchy: bchih
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:46:16+00:00'
+  completeness: 0.75

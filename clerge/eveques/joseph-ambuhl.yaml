@@ -1,0 +1,47 @@
+slug: joseph-ambuhl
+nom: Joseph Ambühl
+nom_complet: null
+naissance: '1873-01-03'
+deces: '1936-10-17'
+naissance_lieu: Luzern
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1925-09-27'
+  consecrateur_principal: luigi-maglione
+  co_consecrateurs:
+  - georg-schmid-von-gruneck
+  - robert-burkler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bambu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel e Lugano, Switzerland
+  du: null
+  au: '1936-10-17'
+- titre: évêque de Bâle
+  du: '1925-06-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/ZentralGut%20BibZug%20TD%2026%2000001.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1706461
+  catholic_hierarchy: bambu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:35:48+00:00'
+  completeness: 1.0

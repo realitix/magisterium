@@ -1,0 +1,39 @@
+slug: guillaume-de-la-foret-o-s-a
+nom: Guillaume de La Foret, O.S.A.
+nom_complet: Guillaume de La Foret
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1526-04-09'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaforet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Sebaste in Cilicia
+  du: '1526-04-09'
+  au: 1529&sup1;
+- titre: évêque titulaire
+  du: '1526-04-09'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68905699
+  catholic_hierarchy: blaforet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:27:35+00:00'
+  completeness: 0.25

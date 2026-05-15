@@ -1,0 +1,44 @@
+slug: juan-antonio-oruna
+nom: Juan Antonio Oruña
+nom_complet: null
+naissance: '1698-06-20'
+deces: '1748-03-04'
+naissance_lieu: Colindres
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1744-11-22'
+  lieu: Cathedral, Salamanca, Diocese of Salamanca
+  consecrateur_principal: jose-sancho-granado
+  co_consecrateurs:
+  - pedro-gonzalez-garcia
+  - onesimo-salamanca-zaldivar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boruna.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osma, Spain
+  du: '1744-09-28'
+  au: '1748-03-04'
+- titre: évêque d'Osma
+  du: '1744-09-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733789
+  catholic_hierarchy: boruna
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:57:52+00:00'
+  completeness: 1.0

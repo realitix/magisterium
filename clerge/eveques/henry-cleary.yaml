@@ -1,0 +1,47 @@
+slug: henry-cleary
+nom: Henry Cleary
+nom_complet: Henry William Cleary
+naissance: '1859-01-15'
+deces: '1929-12-09'
+naissance_lieu: Glenranny, Wexford, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q664
+tampon: ordo_validus
+sacre:
+  date: '1910-08-21'
+  consecrateur_principal: abraham-brownrigg
+  co_consecrateurs:
+  - james-browne-1842
+  - stephen-reville-o-e-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclearyh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auckland, New Zealand
+  du: '1910-06-23'
+  au: '1929-12-09'
+- titre: évêque diocésain
+  du: '1910-06-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20William%20Cleary%20%281859%E2%80%931929%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15438487
+  catholic_hierarchy: bclearyh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:39+00:00'
+  completeness: 1.0

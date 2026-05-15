@@ -1,0 +1,44 @@
+slug: augustin-gonon
+nom: Augustin Gonon
+nom_complet: Jean-Baptiste-Auguste Gonon
+naissance: '1869'
+deces: '1942-04-21'
+naissance_lieu: Tournus, Diocese of Autun (-Châlon-sur-Saône-Mâcon)
+deces_lieu: Moulins, Diocese of Moulins
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1926-10-18'
+  lieu: Saint Vincent, Cathedral, Chalon-sur-Saone, Diocese of Autun (-Châlon-sur-Saône-Mâcon)
+  consecrateur_principal: hyacinthe-jean-chassagnon
+  co_consecrateurs:
+  - adolphe-manier
+  - alexandre-caillot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgonon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moulins, France
+  du: '1926-08-31'
+  au: '1942-04-21'
+- titre: évêque diocésain
+  du: '1926-08-31'
+  au: '1942-04-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64691884
+  catholic_hierarchy: bgonon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:34:01+00:00'
+  completeness: 1.0

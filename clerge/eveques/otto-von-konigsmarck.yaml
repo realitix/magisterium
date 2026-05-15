@@ -1,0 +1,47 @@
+slug: otto-von-konigsmarck
+nom: Otto von Königsmarck
+nom_complet: null
+naissance: '1428'
+deces: '1501-08-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1494-09-29'
+  consecrateur_principal: dietrich-von-bulow
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkonio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Havelberg, Germany
+  du: null
+  au: '1501-08-20'
+- titre: évêque de Havelberg
+  du: '1494-01-01'
+  au: '1501-01-01'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Seidels%20Bilder-Sammlung%20S.%20031%20Abb.%20009%20Otto%20von%20K%C3%B6nigsmarck%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64778291
+  catholic_hierarchy: bkonio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:18:16+00:00'
+  completeness: 0.75

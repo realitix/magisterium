@@ -1,0 +1,55 @@
+slug: luc-ravel
+nom: Luc Ravel
+nom_complet: Luc Marie Daniel Ravel, C.R.S.V.
+naissance: '1957-05-21'
+deces: null
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2009-11-29'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: andre-vingt-trois
+  co_consecrateurs:
+  - patrick-le-gal
+  - henri-brincard
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bravel.html
+  - https://fr.wikipedia.org/wiki/Luc_Ravel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of France, Military
+  du: '2009-10-07'
+  au: null
+- titre: Archbishop of Strasbourg, France
+  du: '2017-02-18'
+  au: '2023-05-27'
+- titre: archevêque de Strasbourg
+  du: '2017-02-18'
+  au: '2023-04-20'
+- titre: évêque aux armées françaises
+  du: '2009-10-07'
+  au: '2017-02-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Luc%20Ravel%20par%20Claude%20Truong-Ngoc%20juillet%202018.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q768022
+  catholic_hierarchy: bravel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:20+00:00'
+  completeness: 0.88

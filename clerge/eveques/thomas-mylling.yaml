@@ -1,0 +1,46 @@
+slug: thomas-mylling
+nom: Thomas Mylling
+nom_complet: Thomas Milling, O.S.B.
+naissance: null
+deces: '1492-03-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1474-08-21'
+  consecrateur_principal: thomas-kempe
+  co_consecrateurs:
+  - richard-redman
+  - john-stack
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmilling.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1474-06-22'
+  au: 11 Mar 1492&sup3;
+- titre: évêque de Hereford
+  du: '1474-01-01'
+  au: '1492-01-01'
+- titre: évêque diocésain
+  du: '1474-07-01'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q7792653
+  catholic_hierarchy: bmilling
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:58:16+00:00'
+  completeness: 0.88

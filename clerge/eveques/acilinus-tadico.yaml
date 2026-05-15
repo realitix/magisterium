@@ -1,0 +1,40 @@
+slug: acilinus-tadico
+nom: Acilinus Tadico
+nom_complet: Acilinus
+naissance: '1050'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1061'
+  consecrateur_principal: adalbert-de-breme
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btadico.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skara, Sweden
+  du: 1061&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1061-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19976190
+  catholic_hierarchy: btadico
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:48:24+00:00'
+  completeness: 0.62

@@ -1,0 +1,49 @@
+slug: pepin-rosa
+nom: Pépin Rosa
+nom_complet: Pepin de Rosa, O.P.
+naissance: '1500'
+deces: '1569-08-07'
+naissance_lieu: Landen
+deces_lieu: Malines, Archdiocese of Mechelen
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1562-11-01'
+  lieu: S. Sacrement chapel, Sainte Gudule, Bruxelles
+  consecrateur_principal: antoine-perrenot-de-granvelle
+  co_consecrateurs:
+  - francois-richardot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mechelen, Belgium
+  du: '1562-03-18'
+  au: '1569-08-07'
+- titre: Titular Bishop of Selymbria
+  du: '1562-03-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1562-03-18'
+  au: null
+- titre: évêque titulaire
+  du: '1562-03-18'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64751482
+  catholic_hierarchy: brosap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:27:21+00:00'
+  completeness: 0.88

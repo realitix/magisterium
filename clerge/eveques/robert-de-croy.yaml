@@ -1,0 +1,44 @@
+slug: robert-de-croy
+nom: Robert de Croÿ
+nom_complet: Robert de Croy
+naissance: '1506'
+deces: '1556-08-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1529-06-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcroyr.html
+  - https://fr.wikipedia.org/wiki/Robert_de_Cro%C3%BF
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cambrai, France
+  du: '1519-08-17'
+  au: '1556-08-31'
+- titre: évêque diocésain
+  du: '1519-08-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20key%20portrait%20de%20robert%20de%20croy%20eveque%20de%20cambrai2024%20PAR%2023027%200117%20000%28094103%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2075715
+  catholic_hierarchy: bcroyr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:16:12+00:00'
+  completeness: 0.5

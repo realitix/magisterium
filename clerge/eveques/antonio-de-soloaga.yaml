@@ -1,0 +1,44 @@
+slug: antonio-de-soloaga
+nom: Antonio de Soloaga
+nom_complet: Antonio de Zuloaga
+naissance: '1659-01-23'
+deces: '1722-01-21'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1715-04-14'
+  consecrateur_principal: francisco-cisneros-y-mendoza
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdzul.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lima, Peru
+  du: '1713-12-11'
+  au: '1722-01-21'
+- titre: archevêque de Lima
+  du: '1713-12-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20de%20Soloaga.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8201863
+  catholic_hierarchy: bdzul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:18:07+00:00'
+  completeness: 0.75

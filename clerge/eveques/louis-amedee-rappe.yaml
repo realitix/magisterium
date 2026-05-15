@@ -1,0 +1,51 @@
+slug: louis-amedee-rappe
+nom: Louis Amédée Rappe
+nom_complet: Louis Amadeus Rappe
+naissance: '1801-02-02'
+deces: '1877-09-08'
+naissance_lieu: Audrehem, France
+deces_lieu: St. Albans, VT
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1847-10-10'
+  lieu: Cathedral, Cincinnati, Diocese of Cincinnati, Ohio
+  consecrateur_principal: john-baptist-purcell
+  co_consecrateurs:
+  - richard-vincent-whelan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brappe.html
+  - https://fr.wikipedia.org/wiki/Louis_Am%C3%A9d%C3%A9e_Rappe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cleveland, Ohio, USA
+  du: '1847-04-23'
+  au: '1870-07-14'
+- titre: Bishop Emeritus of Cleveland, Ohio, USA
+  du: null
+  au: '1877-09-08'
+- titre: évêque diocésain
+  du: '1847-04-23'
+  au: '1870-07-14'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monseigneur%20Rappe.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6686623
+  catholic_hierarchy: brappe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:03:07+00:00'
+  completeness: 1.0

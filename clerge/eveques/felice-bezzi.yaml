@@ -1,0 +1,43 @@
+slug: felice-bezzi
+nom: Felice Bezzi
+nom_complet: null
+naissance: '1749-12-05'
+deces: '1828-03-16'
+naissance_lieu: Tolentino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1824-06-24'
+  consecrateur_principal: pierfrancesco-galleffi
+  co_consecrateurs:
+  - filippo-filonardi
+  - cesare-nembrini-pironi-gonzaga
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbezzi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pesaro, Italy
+  du: '1824-05-24'
+  au: '1828-03-16'
+- titre: évêque de Pesaro
+  du: '1824-05-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q54441625
+  catholic_hierarchy: bbezzi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:58+00:00'
+  completeness: 1.0

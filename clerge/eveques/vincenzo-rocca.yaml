@@ -1,0 +1,43 @@
+slug: vincenzo-rocca
+nom: Vincenzo Rocca
+nom_complet: null
+naissance: '1765-01-21'
+deces: '1845-05-29'
+naissance_lieu: Cercemaggiore
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1829-05-26'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - luigi-amat-di-san-filippo-e-sorso
+  - peter-augustine-baines
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broccav.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Larino, Italy
+  du: null
+  au: '1845-05-29'
+- titre: évêque diocésain
+  du: '1829-01-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733246
+  catholic_hierarchy: broccav
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:19:39+00:00'
+  completeness: 1.0

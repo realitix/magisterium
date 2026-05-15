@@ -1,0 +1,45 @@
+slug: francisco-javier-junguito-s-j
+nom: Francisco Javier Junguito, S.J.
+nom_complet: Francisco Javier Junguito
+naissance: '1841-12-03'
+deces: '1911-10-21'
+naissance_lieu: Bogotá, Archdiocese of Santafé en Nueva Granada, Colombia
+deces_lieu: Panamá, Diocese of Panamá
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1901-07-14'
+  lieu: Cathedral, Cartagena, Diocese of Cartagena, Colombia
+  consecrateur_principal: pedro-adan-brioschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjunguito.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Panamá
+  du: '1901-04-15'
+  au: '1911-10-21'
+- titre: évêque diocésain
+  du: '1901-04-15'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Javier%20Junguito%20%281841%E2%80%931911%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64734435
+  catholic_hierarchy: bjunguito
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:05:09+00:00'
+  completeness: 0.88

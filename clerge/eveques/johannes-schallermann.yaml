@@ -1,0 +1,46 @@
+slug: johannes-schallermann
+nom: Johannes Schallermann
+nom_complet: Johann Schallerman
+naissance: '1373'
+deces: '1465-08-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '1435-05-22'
+  consecrateur_principal: fantino-vallaresso
+  co_consecrateurs:
+  - francesco-piccolpasso
+  - luis-cardinal-de-la-palud-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschalrm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: '1433-01-28'
+  au: 1453&sup1;
+- titre: Bishop Emeritus of Gurk, Austria
+  du: null
+  au: 1465&sup2;
+- titre: évêque de Gurk
+  du: '1433-02-06'
+  au: '1453-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1698310
+  catholic_hierarchy: bschalrm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:59:59+00:00'
+  completeness: 0.75

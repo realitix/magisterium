@@ -1,0 +1,44 @@
+slug: ranieri-ubertini
+nom: Ranieri Ubertini
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bubertini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Volterra, Italy
+  du: '1251-04-27'
+  au: 1300&sup1;
+- titre: Bishop-Elect of Volterra, Italy
+  du: null
+  au: 1260&sup2;
+- titre: évêque diocésain
+  du: '1273-06-04'
+  au: null
+- titre: évêque élu
+  du: '1251-05-04'
+  au: '1260-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446493
+  catholic_hierarchy: bubertini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:16:13+00:00'
+  completeness: 0.25

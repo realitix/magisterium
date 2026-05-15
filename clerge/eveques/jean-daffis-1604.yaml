@@ -1,0 +1,44 @@
+slug: jean-daffis-1604
+nom: Jean Daffis
+nom_complet: null
+naissance: '1604'
+deces: '1657-11-16'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1628-11-12'
+  consecrateur_principal: antoine-de-cous
+  co_consecrateurs:
+  - francois-de-la-beraudiere
+  - gilles-boutault
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaffisj.html
+  - https://fr.wikipedia.org/wiki/Jean_Daffis_(mort_en_1657)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lombez, France
+  du: null
+  au: '1657-11-16'
+- titre: évêque de Lombez
+  du: '1626-12-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25301434
+  catholic_hierarchy: bdaffisj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:22:07+00:00'
+  completeness: 0.88

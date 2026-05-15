@@ -1,0 +1,58 @@
+slug: hernando-de-talavera
+nom: Hernando de Talavera
+nom_complet: Hernando de Talavera, O.S.H.
+naissance: '1428'
+deces: '1507-05-14'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btalavh.html
+  - https://fr.wikipedia.org/wiki/Hernando_de_Talavera
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ávila, Spain
+  du: '1485-08-26'
+  au: null
+- titre: Archbishop of Granada, Spain
+  du: '1493-01-23'
+  au: '1507-05-14'
+- titre: évêque d'Ávila
+  du: '1485-09-04'
+  au: '1493-02-01'
+- titre: archevêque de Grenade
+  du: '1493-02-01'
+  au: '1507-05-24'
+- titre: conseiller royal
+  du: null
+  au: null
+- titre: confesseur du roi d'Espagne
+  du: null
+  au: null
+- titre: prieur
+  du: '1470-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20de%20Vald%C3%A9s%20Leal%20-%20Fray%20Hernando%20de%20Talavera.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q559368
+  catholic_hierarchy: btalavh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:49:15+00:00'
+  completeness: 0.38

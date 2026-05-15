@@ -1,0 +1,47 @@
+slug: james-fergus
+nom: James Fergus
+nom_complet: null
+naissance: '1895-12-23'
+deces: '1989-03-24'
+naissance_lieu: Louisburgh, Archdiocese of Tuam
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1947-05-04'
+  lieu: Annunciation and Saint Nathy, Cathedral, Ballaghadereen, Diocese of Achonry
+  consecrateur_principal: john-dignan
+  co_consecrateurs:
+  - michael-browne-1895
+  - edward-doorly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfergus.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Achonry, Ireland
+  du: '1947-02-15'
+  au: null
+- titre: Bishop Emeritus of Achonry, Ireland
+  du: null
+  au: '1989-03-24'
+- titre: évêque diocésain
+  du: '1947-02-15'
+  au: '1976-03-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11865832
+  catholic_hierarchy: bfergus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:37:01+00:00'
+  completeness: 1.0

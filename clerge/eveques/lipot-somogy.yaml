@@ -1,0 +1,45 @@
+slug: lipot-somogy
+nom: Lipót Somogy
+nom_complet: Lipót Perlaki Somogy
+naissance: '1748-11-10'
+deces: '1822-02-20'
+naissance_lieu: Szent-Márton
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1806-11-01'
+  lieu: Cathedral, Gy&#337;r, Diocese of Gy&#337;r (Raab)
+  consecrateur_principal: jozsef-ignac-vilt
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperls.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Szombathely, Hungary
+  du: null
+  au: '1822-02-20'
+- titre: évêque diocésain
+  du: '1806-06-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Somogy%20Lip%C3%B3t.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19979210
+  catholic_hierarchy: bperls
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:23:05+00:00'
+  completeness: 0.88

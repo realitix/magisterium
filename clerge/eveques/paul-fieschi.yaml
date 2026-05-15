@@ -1,0 +1,44 @@
+slug: paul-fieschi
+nom: Paul Fieschi
+nom_complet: null
+naissance: '1600'
+deces: '1645-03-01'
+naissance_lieu: Genova, Archdiocese of Genova, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1645-01-15'
+  consecrateur_principal: stefano-cardinal-durazzo
+  co_consecrateurs:
+  - francesco-durazzi
+  - felix-crocca-o-f-m-conv
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfieschip.html
+  - https://fr.wikipedia.org/wiki/Paul_Fieschi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toul, France
+  du: '1641-02-25'
+  au: Mar 1645&sup3;
+- titre: évêque de Toul
+  du: '1641-02-25'
+  au: '1645-03-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22807065
+  catholic_hierarchy: bfieschip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:43:01+00:00'
+  completeness: 0.75

@@ -1,0 +1,48 @@
+slug: etienne-guillet
+nom: Étienne Guillet
+nom_complet: Étienne Patrick Christian Marie Guillet
+naissance: '1976-10-28'
+deces: null
+naissance_lieu: Abbeville, Diocese of Amiens
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2025-02-16'
+  lieu: Saint-Denis, Cathedral Basilica, Saint-Denis, Diocese of Saint-Denis
+  consecrateur_principal: laurent-ulrich
+  co_consecrateurs:
+  - luc-crepy
+  - pascal-delannoy
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguillet.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_Guillet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Denis, France
+  du: '2024-11-15'
+  au: null
+- titre: curé
+  du: '2015-01-01'
+  au: '2024-01-01'
+- titre: évêque diocésain
+  du: '2024-11-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q112942239
+  catholic_hierarchy: bguillet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:50:42+00:00'
+  completeness: 0.88

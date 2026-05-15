@@ -1,0 +1,45 @@
+slug: christophore-cosandey
+nom: Christophore Cosandey
+nom_complet: null
+naissance: '1818-12-16'
+deces: '1882-10-01'
+naissance_lieu: Giffers
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1880-02-15'
+  lieu: S. Alphonse, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: edward-henry-howard
+  co_consecrateurs:
+  - eugene-lachat
+  - william-hugh-joseph-clifford
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcosac.html
+  - https://fr.wikipedia.org/wiki/Christophore_Cosandey
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne et Genève, Switzerland
+  du: '1879-12-19'
+  au: '1882-10-01'
+- titre: évêque de Lausanne, Genève et Fribourg
+  du: '1879-12-19'
+  au: '1882-10-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745282
+  catholic_hierarchy: bcosac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:09:14+00:00'
+  completeness: 1.0

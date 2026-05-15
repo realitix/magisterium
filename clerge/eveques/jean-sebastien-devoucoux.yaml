@@ -1,0 +1,52 @@
+slug: jean-sebastien-devoucoux
+nom: Jean-Sébastien Devoucoux
+nom_complet: Jean-Sébastien-Adolphe Devoucoux
+naissance: '1804-03-18'
+deces: '1870-05-02'
+naissance_lieu: Lyon, Archdiocese of Lyon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1858-05-16'
+  lieu: Cathedral, Autun, Diocese of Autun (-Châlon-sur-Saône-Mâcon)
+  consecrateur_principal: frederic-gabriel-marie-francois-de-marguerye
+  co_consecrateurs:
+  - charles-frederic-rousselet
+  - philippe-francois-zephyrin-guillemin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdevou.html
+  - https://fr.wikipedia.org/wiki/Jean-S%C3%A9bastien_Devoucoux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: null
+  au: '1870-05-02'
+- titre: évêque diocésain
+  du: '1858-02-25'
+  au: null
+- titre: président ou présidente
+  du: '1855-01-01'
+  au: '1858-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-S%C3%A9bastien%20Devoucoux.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3170020
+  catholic_hierarchy: bdevou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:14+00:00'
+  completeness: 1.0

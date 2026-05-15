@@ -1,0 +1,46 @@
+slug: jean-henry
+nom: Jean Henry
+nom_complet: Jean Henry, O.F.M. Conv.
+naissance: '1507'
+deces: '1574-01-05'
+naissance_lieu: Vuillefans, Doubs
+deces_lieu: Lyon, Archdiocese of Lyon
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1558-04-02'
+  consecrateur_principal: francois-cardinal-de-tournon-c-r-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenryj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon, France
+  du: '1558-03-23'
+  au: '1574-01-05'
+- titre: Titular Bishop of Damascus
+  du: '1558-03-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1558-04-02'
+  au: null
+- titre: évêque titulaire
+  du: '1558-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760943
+  catholic_hierarchy: bhenryj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:34+00:00'
+  completeness: 0.62

@@ -1,0 +1,48 @@
+slug: eugene-julien
+nom: Eugène Julien
+nom_complet: Eugène-Louis-Ernest Julien
+naissance: '1856-01-16'
+deces: '1930-03-14'
+naissance_lieu: Canville-les-Deux-Églises
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1917-05-08'
+  consecrateur_principal: louis-ernest-dubois
+  co_consecrateurs:
+  - paul-augustin-lec-ur
+  - thomas-paul-henri-lemonnier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjule.html
+  - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Julien
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras (-Boulogne-Saint-Omer), France
+  du: '1917-03-22'
+  au: '1930-03-14'
+- titre: évêque d'Arras
+  du: '1917-03-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Julien%20%28Agence%20Meurisse%2C%201920%29%20cropped.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3059948
+  catholic_hierarchy: bjule
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:04:46+00:00'
+  completeness: 1.0

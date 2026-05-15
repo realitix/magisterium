@@ -1,0 +1,52 @@
+slug: constant-prodhomme
+nom: Constant Prodhomme
+nom_complet: Constant-Jean-Baptiste Prodhomme, M.E.P.
+naissance: '1849-01-23'
+deces: '1920-08-20'
+naissance_lieu: Gorron, Diocese of Le Mans, France
+deces_lieu: Nongseng, Vicariate Apostolic of Laos
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1913-09-14'
+  lieu: Saigon, Vicariate Apostolic of Western Cochin {Cocincina Occidentale}, Viet
+    Nam
+  consecrateur_principal: victor-quinton
+  co_consecrateurs:
+  - jean-claude-bouchut
+  - rene-marie-joseph-perros-m-e-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprod.html
+  - https://fr.wikipedia.org/wiki/Constant_Prodhomme
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Laos
+  du: '1913-06-02'
+  au: '1920-08-20'
+- titre: Titular Bishop of Geras
+  du: '1913-06-02'
+  au: null
+- titre: évêque titulaire
+  du: '1913-06-02'
+  au: null
+- titre: vicaire apostolique
+  du: '1913-06-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2994886
+  catholic_hierarchy: bprod
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:50:21+00:00'
+  completeness: 1.0

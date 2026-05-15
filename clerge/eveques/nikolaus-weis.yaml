@@ -1,0 +1,48 @@
+slug: nikolaus-weis
+nom: Nikolaus Weis
+nom_complet: Nikolaus von Weis
+naissance: '1796-03-08'
+deces: '1869-12-13'
+naissance_lieu: Rimlingen
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1842-07-10'
+  lieu: Cathedral, München und Freising, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: lothar-anselm-von-gebsattel
+  co_consecrateurs:
+  - karl-august-von-reisach
+  - heinrich-hofstatter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: null
+  au: '1869-12-13'
+- titre: évêque de Spire
+  du: '1842-03-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Weis%20Litho.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1991831
+  catholic_hierarchy: bweis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:53:00+00:00'
+  completeness: 1.0

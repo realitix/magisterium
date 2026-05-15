@@ -1,0 +1,44 @@
+slug: giuseppe-sanguettola
+nom: Giuseppe Sanguettola
+nom_complet: Giuseppe Carlo Sanguettola
+naissance: '1788-03-30'
+deces: '1854-02-10'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Crema, Diocese of Crema
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1835-06-21'
+  lieu: Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: karl-kajetan-von-gaisruck
+  co_consecrateurs:
+  - luigi-tosi
+  - carlo-romano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsangg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Crema, Italy
+  du: '1835-04-06'
+  au: '1854-02-10'
+- titre: évêque diocésain
+  du: '1835-04-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3771395
+  catholic_hierarchy: bsangg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:49:03+00:00'
+  completeness: 1.0

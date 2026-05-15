@@ -1,0 +1,42 @@
+slug: martin-duniense
+nom: Martín Duniense
+nom_complet: null
+naissance: null
+deces: '1250-10-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: estevao-soares-da-silva
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdunien.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mondoñedo, Spain
+  du: '1219-01-05'
+  au: '1248-06-05'
+- titre: Bishop Emeritus of Mondoñedo, Spain
+  du: null
+  au: '1250-10-05'
+- titre: évêque de Mondoñedo
+  du: '1219-01-12'
+  au: '1248-06-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762528
+  catholic_hierarchy: bdunien
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:16+00:00'
+  completeness: 0.62

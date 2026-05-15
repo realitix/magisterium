@@ -1,0 +1,44 @@
+slug: giuseppe-teta
+nom: Giuseppe Teta
+nom_complet: null
+naissance: '1817-05-04'
+deces: '1875-02-11'
+naissance_lieu: Nusco, Diocese of Nusco
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1859-06-26'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: gabriele-ferretti
+  co_consecrateurs:
+  - antonio-ligi-bussi
+  - salvatore-nobili-vitelleschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bteta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oppido Mamertina, Italy
+  du: null
+  au: '1875-02-11'
+- titre: évêque diocésain
+  du: '1859-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21209092
+  catholic_hierarchy: bteta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:56:10+00:00'
+  completeness: 1.0

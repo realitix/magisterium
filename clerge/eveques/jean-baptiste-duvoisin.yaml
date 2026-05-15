@@ -1,0 +1,48 @@
+slug: jean-baptiste-duvoisin
+nom: Jean-Baptiste Duvoisin
+nom_complet: null
+naissance: '1744-10-19'
+deces: '1813-07-09'
+naissance_lieu: Langres
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-08-01'
+  consecrateur_principal: claude-andre
+  co_consecrateurs:
+  - jean-eleonor-montanier-de-belmont
+  - charles-mannay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduvo.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Duvoisin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nantes, France
+  du: null
+  au: '1813-07-09'
+- titre: évêque de Nantes
+  du: '1802-07-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Abb%C3%A9%20Duvoisin%2C%20%C3%A9v%C3%AAque%20de%20Nantes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3164062
+  catholic_hierarchy: bduvo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:39+00:00'
+  completeness: 1.0

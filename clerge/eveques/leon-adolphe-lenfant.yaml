@@ -1,0 +1,50 @@
+slug: leon-adolphe-lenfant
+nom: Léon-Adolphe Lenfant
+nom_complet: null
+naissance: '1858-01-08'
+deces: '1917-08-06'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Digne, Diocese of Digne (-Riez-Sisteron)
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1915-09-08'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: leon-adolphe-amette
+  co_consecrateurs:
+  - dominique-castellan
+  - emmanuel-marie-joseph-anthelme-martin-de-gibergues
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blenfant.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: '1915-06-01'
+  au: null
+- titre: Bishop of Digne (-Riez-Sisteron), France
+  du: null
+  au: '1917-08-06'
+- titre: évêque de Digne
+  du: '1915-06-01'
+  au: null
+- titre: évêque de Digne-les-Bains, Riez et Sisteron
+  du: '1916-01-01'
+  au: '1917-08-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64697684
+  catholic_hierarchy: blenfant
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:43:16+00:00'
+  completeness: 1.0

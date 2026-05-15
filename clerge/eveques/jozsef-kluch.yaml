@@ -1,0 +1,44 @@
+slug: jozsef-kluch
+nom: József Kluch
+nom_complet: Jozef Kluch
+naissance: '1748-03-30'
+deces: '1826-12-31'
+naissance_lieu: Znióváralja
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1808-08-28'
+  consecrateur_principal: charles-ambroise-d-autriche-este
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkluch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nitra, Slovakia
+  du: null
+  au: '1826-12-31'
+- titre: Évêque de Nitra
+  du: '1808-04-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Kluch%20J%C3%B3zsef%20p%C3%BCsp%C3%B6k.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20436581
+  catholic_hierarchy: bkluch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:15:59+00:00'
+  completeness: 0.88

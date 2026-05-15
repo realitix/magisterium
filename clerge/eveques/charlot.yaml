@@ -1,0 +1,31 @@
+slug: charlot
+nom: Charlot
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcharlot.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prefect of Iles Saint-Pierre et Miquelon
+  du: 1842&sup1;
+  au: 1853&sup1;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bcharlot
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:59+00:00'
+  completeness: 0.25

@@ -1,0 +1,51 @@
+slug: josef-stubi
+nom: Josef Stübi
+nom_complet: null
+naissance: '1961-03-26'
+deces: null
+naissance_lieu: Lucerne, Diocese of Basel {Bâle, Basilea}
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '2023-02-26'
+  lieu: Cathedral, Solothurn, Diocese of Basel {Bâle, Basilea}
+  consecrateur_principal: felix-gmur
+  co_consecrateurs:
+  - markus-buchel
+  - peter-birkhofer
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstubi.html
+  - https://fr.wikipedia.org/wiki/Josef_St%C3%BCbi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Basel {Bâle, Basilea}, Switzerland
+  du: '2022-12-20'
+  au: null
+- titre: Titular Bishop of Lemellefa
+  du: '2022-12-20'
+  au: null
+- titre: évêque auxiliaire de Bâle
+  du: '2022-12-20'
+  au: null
+- titre: évêque titulaire
+  du: '2022-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q115774323
+  catholic_hierarchy: bstubi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:41:43+00:00'
+  completeness: 0.88

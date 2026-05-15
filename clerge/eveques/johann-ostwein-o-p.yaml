@@ -1,0 +1,44 @@
+slug: johann-ostwein-o-p
+nom: Johann Ostwein, O.P.
+nom_complet: Johann Ostwein
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bostwein.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modon (Medone, Methone), Greece
+  du: '1472-03-12'
+  au: 1491&sup1;
+- titre: Auxiliary Bishop of Strasbourg, France
+  du: 1497&sup2;
+  au: 1514&sup2;
+- titre: évêque de Modon
+  du: '1472-03-21'
+  au: '1491-01-01'
+- titre: évêque auxiliaire de Strasbourg
+  du: '1497-01-01'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64779975
+  catholic_hierarchy: bostwein
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:59:18+00:00'
+  completeness: 0.25

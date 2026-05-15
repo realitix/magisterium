@@ -1,0 +1,42 @@
+slug: cellach-of-armagh
+nom: Cellach of Armagh
+nom_complet: St. Cellach di Armagh
+naissance: '1080'
+deces: '1129-04-01'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q27
+tampon: ordo_validus
+sacre:
+  date: '1106-09-23'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barmagh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Armagh, Ireland
+  du: 1106&sup1;
+  au: '1129-04-01'
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque d'Armargh
+  du: '1106-09-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1052985
+  catholic_hierarchy: barmagh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.5

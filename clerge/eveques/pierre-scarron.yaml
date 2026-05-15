@@ -1,0 +1,51 @@
+slug: pierre-scarron
+nom: Pierre Scarron
+nom_complet: null
+naissance: '1620'
+deces: '1668-02-06'
+naissance_lieu: Agen, Diocese of Agen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1621-04-12'
+  consecrateur_principal: bertrand-d-eschaud
+  co_consecrateurs:
+  - gilles-de-souvre
+  - raphael-de-bologne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscarr.html
+  - https://fr.wikipedia.org/wiki/Pierre_Scarron
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grenoble, France
+  du: '1620-12-14'
+  au: '1668-02-06'
+- titre: évêque de Grenoble
+  du: '1620-12-14'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Scarron.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3386941
+  catholic_hierarchy: bscarr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:59:13+00:00'
+  completeness: 0.88

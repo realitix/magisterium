@@ -1,0 +1,47 @@
+slug: wladyslaw-blin
+nom: Wladyslaw Blin
+nom_complet: W&#322;adis&#322;aw Blin
+naissance: '1954-05-31'
+deces: null
+naissance_lieu: Swidwin
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_dubius
+sacre:
+  date: '1999-11-20'
+  consecrateur_principal: casimir-swiatek
+  co_consecrateurs:
+  - dominik-hrusovsky
+  - aleksander-kaszkiewicz
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vitebsk, Belarus
+  du: '1999-10-13'
+  au: '2013-02-25'
+- titre: évêque diocésain
+  du: '1999-10-13'
+  au: '2013-02-25'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Uladzislaw%20Blin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q515597
+  catholic_hierarchy: bblin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:14+00:00'
+  completeness: 0.88

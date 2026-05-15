@@ -1,0 +1,43 @@
+slug: bartolomeo-olivazzi
+nom: Bartolomeo Olivazzi
+nom_complet: null
+naissance: '1704-08-24'
+deces: '1791-09-14'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1769-12-31'
+  consecrateur_principal: henri-benoit-stuart
+  co_consecrateurs:
+  - etienne-evode-assemani
+  - francesco-maria-piccolomini-1695
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bolivaz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pavia, Italy
+  du: '1769-09-11'
+  au: '1791-09-14'
+- titre: évêque diocésain
+  du: '1769-12-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777218
+  catholic_hierarchy: bolivaz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:50:26+00:00'
+  completeness: 1.0

@@ -1,0 +1,41 @@
+slug: placido-carafa-c-r
+nom: Placido Carafa, C.R.
+nom_complet: Placido Carafa
+naissance: '1615'
+deces: '1672-12-03'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1663-04-15'
+  lieu: Sant&rsquo;Andrea della Valle, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-cesare-sacchetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarafapl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerra, Italy
+  du: null
+  au: '1672-12-03'
+- titre: évêque diocésain
+  du: '1662-03-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30071376
+  catholic_hierarchy: bcarafapl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:19:26+00:00'
+  completeness: 0.75

@@ -1,0 +1,38 @@
+slug: pal-de-chomystra
+nom: Pál de Chomystra
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchomyp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bosnia (Bosna, Diacovar, Diakovar), Croatia
+  du: '1457-05-30'
+  au: 1463&sup1;
+- titre: Roman Catholic Bishop of Bosnia (Bosna, Diacovar, Diakovar)
+  du: '1457-06-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68866240
+  catholic_hierarchy: bchomyp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:47:48+00:00'
+  completeness: 0.25

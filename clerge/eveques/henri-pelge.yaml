@@ -1,0 +1,52 @@
+slug: henri-pelge
+nom: Henri Pelgé
+nom_complet: null
+naissance: '1837-05-09'
+deces: '1911-05-31'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1894-07-15'
+  lieu: Notre-Dame, Paris, Archdiocese of Paris
+  consecrateur_principal: francois-richard
+  co_consecrateurs:
+  - pierre-goux
+  - emmanuel-marie-ange-de-briey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpelge.html
+  - https://fr.wikipedia.org/wiki/Henri_Pelg%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: null
+  au: '1911-05-31'
+- titre: vicaire général de l’archidiocèse de Paris
+  du: '1882-01-01'
+  au: null
+- titre: évêque de Poitiers
+  du: '1894-01-01'
+  au: '1911-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Henri%20Pelg%C3%A9.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11862285
+  catholic_hierarchy: bpelge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:17:27+00:00'
+  completeness: 1.0

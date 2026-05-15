@@ -1,0 +1,44 @@
+slug: angel-falzon
+nom: Ángel Falzón
+nom_complet: Ángel Julino Falzón, O.F.M.
+naissance: '1957-10-15'
+deces: null
+naissance_lieu: Naxxar, Archdiocese of Malta
+deces_lieu: null
+rang: eveque
+nationalite: Q233
+tampon: ordo_dubius
+sacre:
+  date: '2024-06-29'
+  lieu: Inmaculada Concepción, Cathedral, Comayagua, Diocese of Comayagua
+  consecrateur_principal: jose-bonello
+  co_consecrateurs:
+  - gabor-pinter
+  - jose-vicente-nacher-tatay
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfalzon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Comayagua, Honduras
+  du: '2024-05-14'
+  au: null
+- titre: évêque diocésain
+  du: '2024-05-14'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q125930101
+  catholic_hierarchy: bfalzon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:31:02+00:00'
+  completeness: 0.88

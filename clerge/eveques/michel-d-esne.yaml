@@ -1,0 +1,48 @@
+slug: michel-d-esne
+nom: Michel d'Esne
+nom_complet: Louis Michel d&rsquo;Esne
+naissance: '1539-01-17'
+deces: '1614-10-01'
+naissance_lieu: Cambrai, Diocese of Cambrai, France
+deces_lieu: Tournai, Diocese of Tournai {Doornik}
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1597-12-07'
+  lieu: S. Martin, Abbey, Tournai, Diocese of Tournai {Doornik}
+  consecrateur_principal: ottavio-mirto-frangipani
+  co_consecrateurs:
+  - pieter-damant
+  - pierre-simons
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdesne.html
+  - https://fr.wikipedia.org/wiki/Michel_d%27Esne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1597-09-15'
+  au: '1614-10-01'
+- titre: évêque diocésain
+  du: '1597-09-15'
+  au: null
+- titre: évêque de Tournai
+  du: '1597-09-15'
+  au: '1614-10-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28859825
+  catholic_hierarchy: bdesne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:13+00:00'
+  completeness: 1.0

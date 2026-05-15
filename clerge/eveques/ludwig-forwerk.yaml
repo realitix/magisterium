@@ -1,0 +1,53 @@
+slug: ludwig-forwerk
+nom: Ludwig Forwerk
+nom_complet: null
+naissance: '1816-08-29'
+deces: '1875-01-08'
+naissance_lieu: Dresden
+deces_lieu: Dresden
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1854-09-24'
+  lieu: S. Guy, Cathedral, Praha, Archdiocese of Praha {Prague}, Czechia
+  consecrateur_principal: frederic-joseph-de-schwarzenberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforwerk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Saxonia (Saxony), Germany
+  du: '1854-07-11'
+  au: '1875-01-08'
+- titre: Titular Bishop of Leontopolis in Bithynia
+  du: '1854-07-11'
+  au: null
+- titre: Administrator of Meißen (Meissen) {Lusazia o Lausitz; Sassonia}, Germany
+  du: '1855-01-26'
+  au: null
+- titre: vicaire apostolique
+  du: '1854-07-11'
+  au: null
+- titre: administrateur apostolique
+  du: '1855-01-26'
+  au: null
+- titre: évêque titulaire
+  du: '1854-07-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1551365
+  catholic_hierarchy: bforwerk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:53:17+00:00'
+  completeness: 0.88

@@ -1,0 +1,51 @@
+slug: john-cani
+nom: John Cani
+nom_complet: null
+naissance: '1836-12-22'
+deces: '1898-03-03'
+naissance_lieu: Castel Bolognese, Diocese of Imola, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-05-21'
+  lieu: Sainte Marie, Cathedral, Sydney, Archdiocese of Sydney
+  consecrateur_principal: roger-william-bede-vaughan
+  co_consecrateurs:
+  - james-murray
+  - william-lanigan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Pro-Vicar Apostolic of Queensland, Australia
+  du: '1877'
+  au: null
+- titre: Bishop of Rockhampton, Australia
+  du: '1882-01-03'
+  au: '1898-03-03'
+- titre: évêque diocésain
+  du: '1882-01-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20John%20Cani%20Bishop%20of%20Rockhampton%20from%201882%20to%201898.tiff
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16059675
+  catholic_hierarchy: bcani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:13:34+00:00'
+  completeness: 1.0

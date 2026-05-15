@@ -1,0 +1,43 @@
+slug: georges-ier-de-bade
+nom: Georges Ier de Bade
+nom_complet: Georg von Baden
+naissance: '1436'
+deces: '1484-10-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jean-ii-de-bade
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbadeg.html
+  - https://fr.wikipedia.org/wiki/Georges_Ier_de_Bade
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Metz, France
+  du: '1457-01-11'
+  au: null
+- titre: Bishop of Metz, France
+  du: '1459-07-02'
+  au: '1484-10-11'
+- titre: évêque de Metz
+  du: '1459-07-11'
+  au: '1484-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q86386
+  catholic_hierarchy: bbadeg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:54:45+00:00'
+  completeness: 0.5

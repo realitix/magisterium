@@ -1,0 +1,43 @@
+slug: francisco-aguado
+nom: Francisco Aguado
+nom_complet: null
+naissance: null
+deces: '1688-02-14'
+naissance_lieu: Velilla
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1677-11-21'
+  consecrateur_principal: gabriel-de-la-calle-y-heredia
+  co_consecrateurs:
+  - juan-molino-navarrete-o-f-m
+  - antonio-fernandez-del-campo-angulo-y-velasco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baguadof.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Astorga, Spain
+  du: '1677-09-13'
+  au: '1688-02-14'
+- titre: évêque d'Astorga
+  du: '1677-09-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64626844
+  catholic_hierarchy: baguadof
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:23:21+00:00'
+  completeness: 0.88

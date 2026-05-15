@@ -1,0 +1,39 @@
+slug: guillaume-de-baron
+nom: Guillaume de Baron
+nom_complet: null
+naissance: null
+deces: '1313'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1309'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdbaron.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: 1309&sup1;
+  au: 1313&sup2;
+- titre: évêque diocésain
+  du: '1309-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448517
+  catholic_hierarchy: bdbaron
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:32:55+00:00'
+  completeness: 0.38

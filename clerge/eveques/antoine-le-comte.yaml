@@ -1,0 +1,44 @@
+slug: antoine-le-comte
+nom: Antoine Le Comte
+nom_complet: null
+naissance: '1629-12-29'
+deces: '1683-09-06'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1682-08-16'
+  consecrateur_principal: michel-phelypeaux-de-la-vrilliere
+  co_consecrateurs:
+  - louis-alphonse-de-valbelle
+  - jean-baptiste-d-etampes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleconte.html
+  - https://fr.wikipedia.org/wiki/Antoine_Le_Comte
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grasse, France
+  du: null
+  au: '1683-09-06'
+- titre: évêque diocésain
+  du: '1681-07-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22211944
+  catholic_hierarchy: bleconte
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:49+00:00'
+  completeness: 1.0

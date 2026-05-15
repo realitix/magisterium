@@ -1,0 +1,38 @@
+slug: raoul-de-machecoul
+nom: Raoul de Machecoul
+nom_complet: null
+naissance: '1281'
+deces: '1358-04-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmachec.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: '1356-03-02'
+  au: Apr 1358&sup3;
+- titre: évêque d'Angers
+  du: '1356-03-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905958
+  catholic_hierarchy: bmachec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:09:48+00:00'
+  completeness: 0.25

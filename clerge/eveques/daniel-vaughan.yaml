@@ -1,0 +1,43 @@
+slug: daniel-vaughan
+nom: Daniel Vaughan
+nom_complet: null
+naissance: '1791'
+deces: '1859-07-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '8'
+  consecrateur_principal: michael-slattery
+  co_consecrateurs:
+  - john-ryan
+  - william-delany
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaugd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killaloe, Ireland
+  du: '1851-04-11'
+  au: '1859-07-29'
+- titre: évêque diocésain
+  du: '1851-04-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761912
+  catholic_hierarchy: bvaugd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:27:06+00:00'
+  completeness: 0.88

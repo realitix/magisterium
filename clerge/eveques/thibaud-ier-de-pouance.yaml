@@ -1,0 +1,44 @@
+slug: thibaud-ier-de-pouance
+nom: Thibaud Ier de Pouancé
+nom_complet: Thibaud de Pouancé
+naissance: null
+deces: '1301-03-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1280-07-16'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpouance.html
+  - https://fr.wikipedia.org/wiki/Thibaud_de_Pouanc%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dol, France
+  du: 1280&sup2;
+  au: '1301-03-30'
+- titre: évêque de Dol
+  du: '1280-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dol-de-Bretagne%20%2835%29%20Cath%C3%A9drale%20Saint-Samson%20-%20Int%C3%A9rieur%20-%20Baie%20212.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19630670
+  catholic_hierarchy: bpouance
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:20+00:00'
+  completeness: 0.5

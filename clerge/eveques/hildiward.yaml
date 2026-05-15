@@ -1,0 +1,44 @@
+slug: hildiward
+nom: Hildiward
+nom_complet: Hildeward von Werl (Halberstadt)
+naissance: '923'
+deces: '0996-11-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '21'
+  consecrateur_principal: non-indexe-0eb52f78
+  co_consecrateurs:
+  - ulrich-d-augsbourg
+  - non-indexe-2376a695
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhalbh.html
+  - https://fr.wikipedia.org/wiki/Hildiward
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Halberstadt, Germany
+  du: 27 Feb 968
+  au: 25 Nov 996
+- titre: évêque d'Halberstadt
+  du: '0968-03-03'
+  au: '0996-11-30'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1618466
+  catholic_hierarchy: bhalbh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:11+00:00'
+  completeness: 0.88

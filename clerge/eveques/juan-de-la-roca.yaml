@@ -1,0 +1,40 @@
+slug: juan-de-la-roca
+nom: Juan de La Roca
+nom_complet: null
+naissance: null
+deces: '1605-09-07'
+naissance_lieu: Lima, Archdiocese of Lima, Peru
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1601'
+  consecrateur_principal: st-toribio-alfonso-de-mogrovejo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaroca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Popayán, Colombia
+  du: '1599-07-05'
+  au: '1605-09-07'
+- titre: évêque de Popayan
+  du: '1599-07-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762876
+  catholic_hierarchy: blaroca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:34:00+00:00'
+  completeness: 0.75

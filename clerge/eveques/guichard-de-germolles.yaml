@@ -1,0 +1,38 @@
+slug: guichard-de-germolles
+nom: Guichard de Germolles
+nom_complet: null
+naissance: null
+deces: '1276-10-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgermol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mâcon, France
+  du: Dec 1264&sup3;
+  au: '1276-10-17'
+- titre: évêque de Mâcon
+  du: '1264-12-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108515469
+  catholic_hierarchy: bgermol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:18:49+00:00'
+  completeness: 0.38

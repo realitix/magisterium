@@ -1,0 +1,46 @@
+slug: willibald
+nom: Willibald
+nom_complet: St. Willibald von Eichstätt, O.S.B.
+naissance: '0700-10-22'
+deces: '787'
+naissance_lieu: Wessex
+deces_lieu: Heidenheim
+rang: eveque
+nationalite: Q105313
+tampon: ordo_incertus
+sacre:
+  date: '22'
+  lieu: Sülzenbrücken
+  consecrateur_principal: non-indexe-a4a2ec59
+  co_consecrateurs:
+  - non-indexe-4f60a355
+  - non-indexe-63070967
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beichs.html
+  - https://fr.wikipedia.org/wiki/Willibald_d%27Eichst%C3%A4tt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: 741&sup2;
+  au: 7 Jul 787
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Willibald-Eichstaett.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q705878
+  catholic_hierarchy: beichs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:19:57+00:00'
+  completeness: 1.0

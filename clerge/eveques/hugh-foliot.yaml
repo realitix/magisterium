@@ -1,0 +1,40 @@
+slug: hugh-foliot
+nom: Hugh Foliot
+nom_complet: null
+naissance: '1150'
+deces: '1234-07-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1219-10-27'
+  consecrateur_principal: stephen-cardinal-langton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfoliot.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1219-07-01'
+  au: '1234-07-26'
+- titre: évêque de Hereford
+  du: '1219-07-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5930788
+  catholic_hierarchy: bfoliot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:50:22+00:00'
+  completeness: 0.75

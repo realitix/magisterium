@@ -1,0 +1,43 @@
+slug: tamas-szabo
+nom: Tamás Szabó
+nom_complet: Mister Tamás Szabó
+naissance: '1956-10-30'
+deces: null
+naissance_lieu: Zirc
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '2002-01-12'
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - istvan-seregely
+  - lajos-papai
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bszabo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hungary, Military
+  du: '2001-11-28'
+  au: '2007-03-15'
+- titre: évêque diocésain
+  du: '2001-11-28'
+  au: '2007-03-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q583874
+  catholic_hierarchy: bszabo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:46:12+00:00'
+  completeness: 0.88

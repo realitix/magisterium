@@ -1,0 +1,44 @@
+slug: pedro-granell
+nom: Pedro Granell
+nom_complet: null
+naissance: '1644'
+deces: '1717-06-07'
+naissance_lieu: Tortosa, Diocese of Tortosa
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1714-12-09'
+  lieu: La Seo, Cathedral, Zaragoza, Archdiocese of Zaragoza
+  consecrateur_principal: manuel-perez-araciel-y-rada
+  co_consecrateurs:
+  - pedro-gregorio-padilla-y-soler
+  - blas-serrate
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgranell.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barbastro, Spain
+  du: '1714-10-01'
+  au: '1717-06-07'
+- titre: Évêque de Barbastro
+  du: '1714-10-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64775844
+  catholic_hierarchy: bgranell
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:38+00:00'
+  completeness: 0.88

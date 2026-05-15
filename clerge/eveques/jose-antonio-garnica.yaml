@@ -1,0 +1,43 @@
+slug: jose-antonio-garnica
+nom: José Antonio Garnica
+nom_complet: null
+naissance: '1747-05-10'
+deces: '1810-01-10'
+naissance_lieu: Bárcena de Cicero
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1801-05-10'
+  consecrateur_principal: ramon-jose-de-arce
+  co_consecrateurs:
+  - atanasio-puyal-y-poveda
+  - francisco-de-cuerda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarnica.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osma, Spain
+  du: '1801-02-23'
+  au: '1810-01-10'
+- titre: évêque d'Osma
+  du: '1801-02-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64657713
+  catholic_hierarchy: bgarnica
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:11:41+00:00'
+  completeness: 1.0

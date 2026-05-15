@@ -1,0 +1,51 @@
+slug: roger-johan
+nom: Roger Johan
+nom_complet: Roger André Marcel Johan
+naissance: '1902-04-28'
+deces: '1993-04-13'
+naissance_lieu: Mortagne-au-Perche, Diocese of Sées {Séez}
+deces_lieu: Agen, Diocese of Agen
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1956-08-24'
+  lieu: Cathedral, Sées, Diocese of Sées {Séez}
+  consecrateur_principal: joseph-marie-martin
+  co_consecrateurs:
+  - marc-armand-lallier
+  - andre-pioger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjohan.html
+  - https://fr.wikipedia.org/wiki/Roger_Johan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: '1956-04-13'
+  au: null
+- titre: Bishop Emeritus of Agen, France
+  du: null
+  au: '1993-04-13'
+- titre: évêque diocésain
+  du: '1956-04-13'
+  au: '1976-03-13'
+- titre: évêque d'Agen
+  du: '1956-08-24'
+  au: '1976-03-13'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61351420
+  catholic_hierarchy: bjohan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:02:17+00:00'
+  completeness: 1.0

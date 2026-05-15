@@ -1,0 +1,44 @@
+slug: walter-durdent
+nom: Walter Durdent
+nom_complet: null
+naissance: '1100'
+deces: '1160-12-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1149-10-02'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - robert-de-sigello
+  - non-indexe-8466731c
+  - nicolas-ap-gurgant
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdurdent.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: 1149&sup1;
+  au: '1160-12-07'
+- titre: évêque de Coventry et Lichfield
+  du: '1149-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7964706
+  catholic_hierarchy: bdurdent
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:15:31+00:00'
+  completeness: 0.88

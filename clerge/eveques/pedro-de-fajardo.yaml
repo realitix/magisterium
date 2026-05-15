@@ -1,0 +1,43 @@
+slug: pedro-de-fajardo
+nom: Pedro de Fajardo
+nom_complet: Pedro de Fajardo (Guajardo), O.SS.T.
+naissance: '1664-08-21'
+deces: '1729-12-16'
+naissance_lieu: Córdoba, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1716-01-19'
+  consecrateur_principal: juan-otalora-bravo-de-lagunas
+  co_consecrateurs:
+  - antonio-monroy-y-meneses-o-de-m
+  - juan-jose-llamas-rivas-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdfaj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Buenos Aires, Argentina
+  du: '1713-05-22'
+  au: '1729-12-16'
+- titre: Bishop of the Port of Buenos Aires
+  du: '1713-05-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6070478
+  catholic_hierarchy: bdfaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:40+00:00'
+  completeness: 1.0

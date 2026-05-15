@@ -1,0 +1,53 @@
+slug: sarkis-davidian
+nom: Sarkis Davidian
+nom_complet: Sarkis Davidian, I.C.P.B.
+naissance: '1943-11-09'
+deces: null
+naissance_lieu: Aleppo, Syria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2015-11-21'
+  lieu: St-Grégoire et St-Élie, Cathedral, Beirut, Archeparchy of Beirut {Bairut}
+    (Armenian), Lebanon
+  consecrateur_principal: gregoire-ghabroyan
+  co_consecrateurs:
+  - kevork-khazoumian
+  - nechan-karakeheyan
+  - jean-teyrouz
+  - mikael-antoine-mouradian
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdavidian.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ispahan {Esfáan} (Armenian), Iran
+  du: '2015-10-01'
+  au: '2026-02-09'
+- titre: Apostolic Administrator of Ispahan {Esfáan} (Armenian), Iran
+  du: '2026-02-09'
+  au: null
+- titre: évêque diocésain
+  du: '2015-10-01'
+  au: '2026-02-09'
+- titre: administrateur apostolique
+  du: '2026-02-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23060069
+  catholic_hierarchy: bdavidian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:31:19+00:00'
+  completeness: 0.88

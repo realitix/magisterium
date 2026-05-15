@@ -1,0 +1,53 @@
+slug: john-conmy
+nom: John Conmy
+nom_complet: null
+naissance: '1843-02-10'
+deces: '1911-08-26'
+naissance_lieu: Corballa, Diocese of Killala
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1892-08-24'
+  lieu: St. Muredach, Cathedral, Ballina, Diocese of Killala
+  consecrateur_principal: john-macevilly
+  co_consecrateurs:
+  - john-healy
+  - francis-mccormack
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconmy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Killala, Ireland
+  du: '1892-06-25'
+  au: null
+- titre: Titular Bishop of Germanicopolis
+  du: '1892-06-25'
+  au: null
+- titre: Bishop of Killala, Ireland
+  du: null
+  au: '1911-08-26'
+- titre: évêque titulaire
+  du: '1892-06-25'
+  au: null
+- titre: évêque diocésain
+  du: '1893-04-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64708086
+  catholic_hierarchy: bconmy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:12+00:00'
+  completeness: 1.0

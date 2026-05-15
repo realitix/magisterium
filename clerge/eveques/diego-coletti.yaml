@@ -1,0 +1,54 @@
+slug: diego-coletti
+nom: Diego Coletti
+nom_complet: Didacus Coletti
+naissance: '1941-09-25'
+deces: null
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2001-01-13'
+  lieu: Duomo, Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: carlo-maria-martini
+  co_consecrateurs:
+  - bernardo-citterio
+  - alberto-ablondi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoletti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Livorno, Italy
+  du: '2000-12-09'
+  au: null
+- titre: Bishop of Como, Italy
+  du: '2006-12-02'
+  au: null
+- titre: évêque diocésain
+  du: '2000-12-09'
+  au: null
+- titre: évêque de Côme
+  du: '2006-12-02'
+  au: '2016-10-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Coletti.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q744915
+  catholic_hierarchy: bcoletti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:58:03+00:00'
+  completeness: 0.88

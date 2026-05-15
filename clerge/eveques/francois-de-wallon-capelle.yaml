@@ -1,0 +1,43 @@
+slug: francois-de-wallon-capelle
+nom: François de Wallon-Capelle
+nom_complet: François de Wallon-Capelle, O.F.M.
+naissance: null
+deces: '1592-02-17'
+naissance_lieu: Saint Omer
+deces_lieu: Namur, Diocese of Namur {Namen}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1580-04-10'
+  lieu: Franciscan, Church, Namur, Diocese of Namur {Namen}
+  consecrateur_principal: laurens-mets
+  co_consecrateurs:
+  - andre-streignart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwallon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '1580-01-11'
+  au: '1592-02-17'
+- titre: évêque de Namur
+  du: '1580-01-21'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q21547008
+  catholic_hierarchy: bwallon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:49:26+00:00'
+  completeness: 0.88

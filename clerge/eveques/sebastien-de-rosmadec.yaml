@@ -1,0 +1,44 @@
+slug: sebastien-de-rosmadec
+nom: Sébastien de Rosmadec
+nom_complet: Sebastien de Rosmadec
+naissance: '1585'
+deces: '1646-07-29'
+naissance_lieu: Theix
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-02-11'
+  consecrateur_principal: bertrand-d-eschaud
+  co_consecrateurs:
+  - charles-miron
+  - pierre-cornulier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosmas.html
+  - https://fr.wikipedia.org/wiki/S%C3%A9bastien_de_Rosmadec
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vannes, France
+  du: '1622-11-14'
+  au: '1646-07-29'
+- titre: évêque diocésain
+  du: '1622-11-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3510374
+  catholic_hierarchy: brosmas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:28:37+00:00'
+  completeness: 0.88

@@ -1,0 +1,50 @@
+slug: sebastian-haidlauf
+nom: Sebastian Haidlauf
+nom_complet: Sebastian Haydlauf
+naissance: '1539-04-05'
+deces: '1580'
+naissance_lieu: Meßkirch
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-05-07'
+  lieu: Salzburg, Archdiocese of Salzburg, Austria
+  consecrateur_principal: johann-jakob-von-kuen-belasy
+  co_consecrateurs:
+  - christoph-schlattl
+  - michael-dornvogel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaidl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Freising, Germany
+  du: '1569-06-06'
+  au: 1580&sup2;
+- titre: Titular Bishop of Dariensis
+  du: '1569-06-06'
+  au: null
+- titre: évêque auxiliaire
+  du: '1569-06-16'
+  au: null
+- titre: évêque titulaire
+  du: '1569-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55127594
+  catholic_hierarchy: bhaidl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:31:48+00:00'
+  completeness: 0.88

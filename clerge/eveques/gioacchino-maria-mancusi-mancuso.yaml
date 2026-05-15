@@ -1,0 +1,43 @@
+slug: gioacchino-maria-mancusi-mancuso
+nom: Gioacchino Maria Mancusi (Mancuso)
+nom_complet: Gioacchino Maria Mancusi
+naissance: '1747-05-22'
+deces: '1811'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1805-06-30'
+  consecrateur_principal: ferdinando-maria-saluzzo
+  co_consecrateurs:
+  - giovanni-coppola
+  - benedetto-fenaja
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmancu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Conza, Italy
+  du: '1805-06-26'
+  au: 1811&sup1;
+- titre: Roman Catholic Archbishop of Conza
+  du: '1805-06-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778413
+  catholic_hierarchy: bmancu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:19:52+00:00'
+  completeness: 0.88

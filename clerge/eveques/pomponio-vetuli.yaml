@@ -1,0 +1,40 @@
+slug: pomponio-vetuli
+nom: Pomponio Vetuli
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Cittaducale
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1632-11-30'
+  consecrateur_principal: marcello-lante
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvetuli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Città Ducale, Italy
+  du: '1632-11-24'
+  au: 1652&sup1;
+- titre: Roman Catholic Bishop of Città Ducale
+  du: '1632-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780889
+  catholic_hierarchy: bvetuli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:34:57+00:00'
+  completeness: 0.62

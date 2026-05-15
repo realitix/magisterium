@@ -1,0 +1,43 @@
+slug: bernardo-cangiani
+nom: Bernardo Cangiani
+nom_complet: null
+naissance: '1693-08-21'
+deces: null
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1746-05-08'
+  consecrateur_principal: joaquin-fernandez-portocarrero
+  co_consecrateurs:
+  - michele-di-palma
+  - paul-alpheran-de-bussan-o-s-io-hieros
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcangiani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boiano, Italy
+  du: '1746-05-02'
+  au: '1770-01-26'
+- titre: Roman Catholic Bishop of Boiano
+  du: '1746-05-02'
+  au: '1770-01-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777335
+  catholic_hierarchy: bcangiani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:13:33+00:00'
+  completeness: 0.88

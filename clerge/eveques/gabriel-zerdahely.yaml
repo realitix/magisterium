@@ -1,0 +1,56 @@
+slug: gabriel-zerdahely
+nom: Gabriel Zerdahely
+nom_complet: Gábor Zerdahelyi
+naissance: '1742-10-16'
+deces: '1813-10-05'
+naissance_lieu: Nyitraszerdahely
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1781-01-14'
+  lieu: Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: christoph-bartholomaus-anton-migazzi
+  co_consecrateurs:
+  - pal-laszlo-eszterhazy
+  - edmund-maria-josef-artz-von-und-zu-vasegg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzerdah.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Vác, Hungary
+  du: '1780-12-11'
+  au: null
+- titre: Titular Bishop of Titopolis
+  du: '1780-12-11'
+  au: null
+- titre: Bishop of Banská Bystrica, Slovakia
+  du: null
+  au: '1813-10-05'
+- titre: évêque auxiliaire
+  du: '1780-12-11'
+  au: null
+- titre: évêque de Banská Bystrica
+  du: '1800-08-16'
+  au: null
+- titre: évêque titulaire
+  du: '1780-12-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3259754
+  catholic_hierarchy: bzerdah
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:08:31+00:00'
+  completeness: 1.0

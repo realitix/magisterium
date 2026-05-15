@@ -1,0 +1,44 @@
+slug: jean-de-parenzo
+nom: Jean de Parenzo
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bparenz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arbe (Rab), Croatia
+  du: '1433-01-07'
+  au: null
+- titre: Bishop of Pore&#269; (Parenzo), Croatia
+  du: '1440-04-11'
+  au: 1456&sup1;
+- titre: évêque de Poreč
+  du: '1440-04-20'
+  au: null
+- titre: Bishop of Arbe
+  du: '1433-01-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779753
+  catholic_hierarchy: bparenz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:09:58+00:00'
+  completeness: 0.25

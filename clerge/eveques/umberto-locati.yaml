@@ -1,0 +1,44 @@
+slug: umberto-locati
+nom: Umberto Locati
+nom_complet: Umberto Locati, O.P.
+naissance: '1503-03-14'
+deces: '1587-10-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1568-04-25'
+  consecrateur_principal: scipione-rebiba
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blocat.html
+  - https://fr.wikipedia.org/wiki/Umberto_Locati
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bagnoregio (Bagnorea), Italy
+  du: '1568-04-05'
+  au: 1581&sup1;
+- titre: Bishop Emeritus of Bagnoregio (Bagnorea), Italy
+  du: null
+  au: '1587-10-17'
+- titre: évêque diocésain
+  du: '1568-04-15'
+  au: '1581-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q22280767
+  catholic_hierarchy: blocat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:55:25+00:00'
+  completeness: 0.75

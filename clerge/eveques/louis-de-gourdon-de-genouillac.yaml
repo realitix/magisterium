@@ -1,0 +1,44 @@
+slug: louis-de-gourdon-de-genouillac
+nom: Louis de Gourdon de Genouillac
+nom_complet: Jean Ricard de Gourdon de Genouillac de Vaillac
+naissance: '1574'
+deces: '1653-01-13'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1600-05-01'
+  consecrateur_principal: leger-de-plas
+  co_consecrateurs:
+  - nicolas-de-villars
+  - jean-martin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgourdon.html
+  - https://fr.wikipedia.org/wiki/Louis_de_Gourdon_de_Genouillac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: '1599-11-08'
+  au: '1653-01-13'
+- titre: évêque de Tulle
+  du: '1599-11-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24074236
+  catholic_hierarchy: bgourdon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:37:10+00:00'
+  completeness: 0.88

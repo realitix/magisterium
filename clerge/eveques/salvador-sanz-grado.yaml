@@ -1,0 +1,44 @@
+slug: salvador-sanz-grado
+nom: Salvador Sanz Grado
+nom_complet: null
+naissance: '1789-01-18'
+deces: '1851-01-21'
+naissance_lieu: Madriguera
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1850-04-28'
+  lieu: Madrid, Archdiocese of Toledo
+  consecrateur_principal: giovanni-brunelli
+  co_consecrateurs:
+  - juan-jose-bonel-y-orbe
+  - antonio-de-posada-rubin-de-celis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanzg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salamanca, Spain
+  du: null
+  au: '1851-01-21'
+- titre: évêque de Salamanque
+  du: '1849-08-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735090
+  catholic_hierarchy: bsanzg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:52:32+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: johannes-rudloff
+nom: Johannes Rudloff
+nom_complet: Johannes Albert von Rudloff
+naissance: '1897-01-24'
+deces: '1978-06-29'
+naissance_lieu: Wetzlar, Diocese of Limburg
+deces_lieu: Hamburg, Archdiocese of Hamburg
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1950-06-24'
+  lieu: Osnabruck, Diocese of Osnabrück
+  consecrateur_principal: wilhelm-berning
+  co_consecrateurs:
+  - michael-keller
+  - johannes-bydolek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brudl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Osnabrück, Germany
+  du: '1950-04-01'
+  au: '1978-06-29'
+- titre: Titular Bishop of Busiris
+  du: '1950-04-01'
+  au: null
+- titre: évêque titulaire
+  du: '1950-04-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1950-04-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1652005
+  catholic_hierarchy: brudl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:34:30+00:00'
+  completeness: 1.0

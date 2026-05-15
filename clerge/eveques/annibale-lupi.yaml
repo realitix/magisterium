@@ -1,0 +1,43 @@
+slug: annibale-lupi
+nom: Annibale Lupi
+nom_complet: null
+naissance: '1856-04-05'
+deces: '1908-05-14'
+naissance_lieu: Borgo San Giorgio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1906-09-23'
+  consecrateur_principal: giulio-boschi
+  co_consecrateurs:
+  - federico-foschi
+  - pasquale-morganti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blupiann.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Comacchio, Italy
+  du: '1906-07-14'
+  au: '1908-05-14'
+- titre: évêque de Comacchio
+  du: '1906-07-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735086
+  catholic_hierarchy: blupiann
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:05:34+00:00'
+  completeness: 1.0

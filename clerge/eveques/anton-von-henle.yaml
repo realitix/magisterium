@@ -1,0 +1,51 @@
+slug: anton-von-henle
+nom: Anton von Henle
+nom_complet: Franz Anton von Henle
+naissance: '1851-05-22'
+deces: '1927-10-11'
+naissance_lieu: Weißenhorn
+deces_lieu: null
+rang: eveque
+nationalite: Q154195
+tampon: ordo_validus
+sacre:
+  date: '1901-06-16'
+  consecrateur_principal: franz-joseph-von-stein
+  co_consecrateurs:
+  - petrus-hotzl
+  - ferdinand-von-schlor
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenle.html
+  - https://fr.wikipedia.org/wiki/Anton_von_Henle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: null
+  au: '1927-10-11'
+- titre: évêque de Ratisbonne
+  du: '1906-10-18'
+  au: '1927-01-01'
+- titre: évêque de Passau
+  du: '1901-04-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20von%20Henle.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q43892
+  catholic_hierarchy: bhenle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:56+00:00'
+  completeness: 1.0

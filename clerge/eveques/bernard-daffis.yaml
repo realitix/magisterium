@@ -1,0 +1,44 @@
+slug: bernard-daffis
+nom: Bernard Daffis
+nom_complet: null
+naissance: '1586-06-07'
+deces: '1627-12-20'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1614-06-01'
+  consecrateur_principal: francois-d-escoubleau-de-sourdis
+  co_consecrateurs:
+  - jean-jacques-du-sault
+  - jean-jaubert-de-barrault
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaffisb.html
+  - https://fr.wikipedia.org/wiki/Bernard_Daffis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lombez, France
+  du: '1614-03-17'
+  au: '1627-12-20'
+- titre: évêque de Lombez
+  du: '1614-03-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816841
+  catholic_hierarchy: bdaffisb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:22:06+00:00'
+  completeness: 1.0

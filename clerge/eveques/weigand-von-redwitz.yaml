@@ -1,0 +1,49 @@
+slug: weigand-von-redwitz
+nom: Weigand von Redwitz
+nom_complet: Weigand of Redwitz
+naissance: '1476'
+deces: '1556-05-20'
+naissance_lieu: Tüschnitz
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1523-08-30'
+  lieu: Bamberg, Diocese of Bamberg
+  consecrateur_principal: andreas-henlein-o-s-b
+  co_consecrateurs:
+  - fabian-weickmann
+  - johannes-pettendorfer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bredw.html
+  - https://fr.wikipedia.org/wiki/Weigand_von_Redwitz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1556-05-20'
+- titre: évêque diocésain
+  du: '1522-06-28'
+  au: '1556-05-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Weigand%20von%20Redwitz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q88754
+  catholic_hierarchy: bredw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:20+00:00'
+  completeness: 0.88

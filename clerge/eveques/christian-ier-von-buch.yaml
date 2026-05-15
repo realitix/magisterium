@@ -1,0 +1,45 @@
+slug: christian-ier-von-buch
+nom: Christian Ier von Buch
+nom_complet: Christian von Buch
+naissance: '1130'
+deces: '1183-08-23'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1167-05-05'
+  consecrateur_principal: non-indexe-36640221
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuchc.html
+  - https://fr.wikipedia.org/wiki/Christian_Ier_von_Buch
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Mainz, Germany
+  du: 1167&sup1;
+  au: '1183-08-23'
+- titre: archevêque de Mayence
+  du: '1167-01-01'
+  au: '1183-08-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20I%20of%20Buch%2C%20bishop%20of%20Mainz%20-%20seal%2C%201168.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q69057
+  catholic_hierarchy: bbuchc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:57:06+00:00'
+  completeness: 0.75

@@ -1,0 +1,58 @@
+slug: manegold-von-neuenburg
+nom: Manegold von Neuenburg
+nom_complet: null
+naissance: '1300'
+deces: '1303-07-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneuenb.html
+  - https://fr.wikipedia.org/wiki/Manegold_von_Neuenburg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: 1285&sup2;
+  au: null
+- titre: Bishop-Elect of Bamberg, Germany
+  du: null
+  au: 1286&sup2;
+- titre: Bishop of Würzburg, Germany
+  du: Nov 1287&sup3;
+  au: '1303-07-29'
+- titre: prince-évêque
+  du: null
+  au: null
+- titre: évêque de Wurtzbourg
+  du: '1287-11-01'
+  au: '1303-07-20'
+- titre: évêque de Bamberg
+  du: '1285-01-01'
+  au: '1286-01-01'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/ManegoldvonNeuenburg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1889130
+  catholic_hierarchy: bneuenb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:13+00:00'
+  completeness: 0.38

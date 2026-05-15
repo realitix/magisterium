@@ -1,0 +1,42 @@
+slug: alamand-de-saint-jeoire
+nom: Alamand de Saint-Jeoire
+nom_complet: Alemand di Saint-Jeoire
+naissance: '1300'
+deces: '1366-04-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsjeoire.html
+  - https://fr.wikipedia.org/wiki/Alamand_de_Saint-Jeoire
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1342-05-25'
+  au: '1366-04-01'
+- titre: chanoine
+  du: '1323-01-01'
+  au: null
+- titre: évêque de Genève
+  du: '1342-01-01'
+  au: '1366-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1701893
+  catholic_hierarchy: bsjeoire
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:21:53+00:00'
+  completeness: 0.38

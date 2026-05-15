@@ -1,0 +1,44 @@
+slug: jean-hazera
+nom: Jean Hazera
+nom_complet: null
+naissance: '1837'
+deces: '1905-06-17'
+naissance_lieu: Podensac
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1897-09-05'
+  lieu: Saint-Jerome, Cathedral, Digne, Diocese of Digne
+  consecrateur_principal: xavier-gouthe-soulard
+  co_consecrateurs:
+  - prosper-amable-berthet
+  - eudoxe-irenee-mignot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhazera.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: null
+  au: '1905-06-17'
+- titre: évêque de Digne
+  du: '1897-04-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745547
+  catholic_hierarchy: bhazera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:36:53+00:00'
+  completeness: 1.0

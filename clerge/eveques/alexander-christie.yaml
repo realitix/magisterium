@@ -1,0 +1,54 @@
+slug: alexander-christie
+nom: Alexander Christie
+nom_complet: null
+naissance: '1848-05-28'
+deces: '1925-04-06'
+naissance_lieu: Highgate, VT, Diocese of Burlington, Vermont
+deces_lieu: Oregon City, Archdiocese of Oregon City, Oregon
+rang: archeveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1898-06-29'
+  lieu: St. Paul, Cathedral, St. Paul, Archdiocese of Saint Paul, Minnesota
+  consecrateur_principal: john-ireland
+  co_consecrateurs:
+  - jean-baptiste-brondel
+  - john-shanley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchristie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vancouver Island, USA
+  du: '1898-03-26'
+  au: null
+- titre: Archbishop of Oregon City, Oregon, USA
+  du: '1899-03-04'
+  au: '1925-04-06'
+- titre: archevêque de Portland (Oregon)
+  du: '1899-03-04'
+  au: null
+- titre: évêque diocésain
+  du: '1898-03-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Christie%20%28bishop%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4718604
+  catholic_hierarchy: bchristie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:48:22+00:00'
+  completeness: 1.0

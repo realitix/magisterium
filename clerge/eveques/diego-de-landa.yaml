@@ -1,0 +1,49 @@
+slug: diego-de-landa
+nom: Diego de Landa
+nom_complet: Diego de Landa, O.F.M.
+naissance: '1524-11-12'
+deces: '1579-04-29'
+naissance_lieu: Cifuentes de Alcarria, Diocese of Sigüenza, Spain
+deces_lieu: Mexico
+rang: eveque
+nationalite: Q80702
+tampon: ordo_validus
+sacre:
+  date: '1573'
+  lieu: Sevilla, Archdiocese of Sevilla {Seville}, Spain
+  consecrateur_principal: cristobal-rojas-sandoval
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelanda.html
+  - https://fr.wikipedia.org/wiki/Diego_de_Landa
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Yucatán (Mérida), México
+  du: '1572-10-17'
+  au: '1579-04-29'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque du Yucatán
+  du: '1572-10-27'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20de%20Landa.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q379672
+  catholic_hierarchy: bdelanda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:38:36+00:00'
+  completeness: 0.88

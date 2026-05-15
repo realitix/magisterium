@@ -1,0 +1,50 @@
+slug: wilhelm-burger
+nom: Wilhelm Burger
+nom_complet: null
+naissance: '1880-04-06'
+deces: '1952-03-16'
+naissance_lieu: Stühlingen, Archdiocese of Freiburg im Breisgau
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1924-10-28'
+  lieu: Cathedral, Freiburg im Breisgau, Archdiocese of Freiburg im Breisgau
+  consecrateur_principal: carl-fritz
+  co_consecrateurs:
+  - ludwig-maria-hugo
+  - johannes-baptista-sproll
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bburg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Freiburg im Breisgau, Germany
+  du: '1924-09-01'
+  au: '1952-03-16'
+- titre: Titular Bishop of Thebae in Thebaide
+  du: '1924-09-01'
+  au: null
+- titre: évêque titulaire
+  du: '1924-09-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1924-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2572157
+  catholic_hierarchy: bburg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:00:05+00:00'
+  completeness: 1.0

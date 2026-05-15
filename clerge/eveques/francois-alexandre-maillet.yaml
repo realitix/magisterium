@@ -1,0 +1,45 @@
+slug: francois-alexandre-maillet
+nom: François-Alexandre Maillet
+nom_complet: null
+naissance: '1854-01-12'
+deces: '1925-11-01'
+naissance_lieu: Bourges, Archdiocese of Bourges
+deces_lieu: Saint-Claude, Diocese of Saint-Claude
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1898-06-29'
+  lieu: Cathedral, Dijon, Diocese of Dijon
+  consecrateur_principal: federic-henri-oury
+  co_consecrateurs:
+  - louis-joseph-lucon
+  - felix-beguinot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaillet.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Alexandre_Maillet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Claude, France
+  du: null
+  au: '1925-11-01'
+- titre: évêque de Saint-Claude
+  du: '1898-03-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027411
+  catholic_hierarchy: bmaillet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:15:06+00:00'
+  completeness: 1.0

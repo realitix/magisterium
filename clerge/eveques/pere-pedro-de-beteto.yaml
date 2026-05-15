@@ -1,0 +1,43 @@
+slug: pere-pedro-de-beteto
+nom: Pere (Pedro) de Beteto
+nom_complet: Pere de Beteto
+naissance: null
+deces: '1310-05-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1306-10-09'
+  consecrateur_principal: rodrigo-de-tello
+  co_consecrateurs:
+  - jimeno-de-luna
+  - ponce-ponc-de-gualba
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeteto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tortosa, Spain
+  du: 1306&sup2;
+  au: '1310-05-08'
+- titre: évêque de Tortosa
+  du: '1306-01-01'
+  au: '1310-05-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777536
+  catholic_hierarchy: bbeteto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:03+00:00'
+  completeness: 0.88

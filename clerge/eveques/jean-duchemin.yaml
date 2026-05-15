@@ -1,0 +1,42 @@
+slug: jean-duchemin
+nom: Jean Duchemin
+nom_complet: Jean du Chemin
+naissance: '1540'
+deces: '1616-07-31'
+naissance_lieu: Trignac, Correze
+deces_lieu: La Cassagne, Gers.
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdchemin.html
+  - https://fr.wikipedia.org/wiki/Jean_Duchemin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Condom, France
+  du: '1581-07-10'
+  au: null
+- titre: Bishop of Condom, France
+  du: null
+  au: 1616&sup2;
+- titre: évêque diocésain
+  du: '1581-08-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23906122
+  catholic_hierarchy: bdchemin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:34:32+00:00'
+  completeness: 0.25

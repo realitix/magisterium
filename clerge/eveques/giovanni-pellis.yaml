@@ -1,0 +1,43 @@
+slug: giovanni-pellis
+nom: Giovanni Pellis
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1475-09-10'
+  consecrateur_principal: giacomo-despuig-de-podio
+  co_consecrateurs:
+  - michele-canensi
+  - non-indexe-3a4630cc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpellis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Terralba, Italy
+  du: '1475-08-18'
+  au: 1484&sup2;
+- titre: Roman Catholic Bishop of Terralba
+  du: '1475-08-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780827
+  catholic_hierarchy: bpellis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:15+00:00'
+  completeness: 0.75

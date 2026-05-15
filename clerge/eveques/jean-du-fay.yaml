@@ -1,0 +1,42 @@
+slug: jean-du-fay
+nom: Jean du Fay
+nom_complet: Jean du Fay, O.S.B.
+naissance: null
+deces: '1578-11-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdufay.html
+  - https://fr.wikipedia.org/wiki/Jean_du_Fay_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: '1572-03-03'
+  au: 1577&sup1;
+- titre: Bishop Emeritus of Poitiers, France
+  du: null
+  au: '1578-11-05'
+- titre: évêque de Poitiers
+  du: '1572-03-13'
+  au: '1577-01-01'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q57774916
+  catholic_hierarchy: bdufay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:11:43+00:00'
+  completeness: 0.38

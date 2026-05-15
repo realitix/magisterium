@@ -1,0 +1,45 @@
+slug: pierre-de-mornay
+nom: Pierre de Mornay
+nom_complet: Petrus de Mornay
+naissance: '1150'
+deces: '1306-05-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmornayp.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Mornay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orléans, France
+  du: Dec 1288&sup3;
+  au: null
+- titre: Bishop of Auxerre, France
+  du: '1296-02-04'
+  au: '1306-05-29'
+- titre: évêque d'Auxerre
+  du: '1296-02-11'
+  au: null
+- titre: évêque diocésain
+  du: '1288-12-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2408997
+  catholic_hierarchy: bmornayp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:13:15+00:00'
+  completeness: 0.38

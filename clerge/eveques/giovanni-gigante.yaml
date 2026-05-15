@@ -1,0 +1,47 @@
+slug: giovanni-gigante
+nom: Giovanni Gigante
+nom_complet: null
+naissance: '1843-02-27'
+deces: '1908-10-15'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1898-02-20'
+  lieu: Sacra Famiglia, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgigante.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lecce, Italy
+  du: '1898-02-05'
+  au: '1908-10-15'
+- titre: Titular Bishop of Hemeria (Himeria)
+  du: '1898-02-05'
+  au: null
+- titre: évêque auxiliaire
+  du: '1898-02-05'
+  au: '1908-10-15'
+- titre: évêque titulaire
+  du: '1898-02-05'
+  au: '1908-10-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q39515904
+  catholic_hierarchy: bgigante
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:22:33+00:00'
+  completeness: 0.88

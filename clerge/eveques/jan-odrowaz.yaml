@@ -1,0 +1,41 @@
+slug: jan-odrowaz
+nom: Jan Odrowąż
+nom_complet: Jan Odrow&#261;&#380;
+naissance: '1500'
+deces: '1450'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q1649871
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bodrowaz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lviv, Ukraine
+  du: '1437-02-25'
+  au: 1450-09
+- titre: secrétaire du roi à la Cour de Pologne
+  du: null
+  au: null
+- titre: archevêque catholique
+  du: '1437-03-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11718555
+  catholic_hierarchy: bodrowaz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:45:42+00:00'
+  completeness: 0.25

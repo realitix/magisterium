@@ -1,0 +1,51 @@
+slug: julius-von-pflug
+nom: Julius von Pflug
+nom_complet: null
+naissance: '1499'
+deces: '1564-09-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1546'
+  consecrateur_principal: nikolaus-von-carlowitz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpflug.html
+  - https://fr.wikipedia.org/wiki/Julius_von_Pflug
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: '1542-11-06'
+  au: '1564-09-03'
+- titre: évêque
+  du: '1546-01-01'
+  au: '1564-01-01'
+- titre: Canon of the Cathedral Chapter Naumburg
+  du: '1522-01-01'
+  au: '1542-01-01'
+- titre: évêque diocésain
+  du: '1542-11-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Julius%20von%20Pflug%20%28detail%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q84963
+  catholic_hierarchy: bpflug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:28:14+00:00'
+  completeness: 0.5

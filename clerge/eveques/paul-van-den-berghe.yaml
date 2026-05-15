@@ -1,0 +1,45 @@
+slug: paul-van-den-berghe
+nom: Paul Van den Berghe
+nom_complet: null
+naissance: '1933-01-07'
+deces: null
+naissance_lieu: Geraardsbergen, Diocese of Gent {Ghent, Gand}
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '1980-09-07'
+  lieu: St. Jacques, Anvers, Diocese of Antwerpen {Antwerp}
+  consecrateur_principal: godfried-danneels
+  co_consecrateurs:
+  - leonce-albert-van-peteghem
+  - guillaume-marie-van-zuylen
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdb.html
+  - https://fr.wikipedia.org/wiki/Paul_Van_den_Berghe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antwerpen {Antwerp}, Belgium
+  du: '1980-07-03'
+  au: null
+- titre: évêque d'Anvers
+  du: '1980-07-03'
+  au: '2008-10-28'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q527079
+  catholic_hierarchy: bvdb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:28:20+00:00'
+  completeness: 0.88

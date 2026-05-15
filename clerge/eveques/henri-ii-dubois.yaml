@@ -1,0 +1,45 @@
+slug: henri-ii-dubois
+nom: Henri II Dubois
+nom_complet: Henri Dubois
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Dec 1340&sup2;
+  consecrateur_principal: pierre-fretault
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduboish.html
+  - https://fr.wikipedia.org/wiki/Henri_Dubois_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dol, France
+  du: '1340-10-25'
+  au: Mar 1348&sup3;
+- titre: évêque diocésain
+  du: '1340-11-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dol-de-Bretagne%20%2835%29%20Cath%C3%A9drale%20Saint-Samson%20-%20Int%C3%A9rieur%20-%20Baie%20212.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19629295
+  catholic_hierarchy: bduboish
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:10:50+00:00'
+  completeness: 0.62

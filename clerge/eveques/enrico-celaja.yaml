@@ -1,0 +1,43 @@
+slug: enrico-celaja
+nom: Enrico Celaja
+nom_complet: null
+naissance: '1711-08-16'
+deces: '1780-03-01'
+naissance_lieu: San Silvestri
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1772-04-05'
+  consecrateur_principal: scipione-borghese
+  co_consecrateurs:
+  - francesco-maria-piccolomini-1695
+  - carlo-gagliardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcelaja.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oria, Italy
+  du: null
+  au: Mar 1780&sup3;
+- titre: évêque diocésain
+  du: '1771-11-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745236
+  catholic_hierarchy: bcelaja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:36:18+00:00'
+  completeness: 0.88

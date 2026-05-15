@@ -1,0 +1,39 @@
+slug: jean-de-rieux
+nom: Jean de Rieux
+nom_complet: null
+naissance: '1507'
+deces: '1564-01-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brieuxj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Rieux_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc, France
+  du: '1525-09-06'
+  au: 1544&sup1;
+- titre: évêque diocésain
+  du: '1525-09-16'
+  au: '1544-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175666
+  catholic_hierarchy: brieuxj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:14:34+00:00'
+  completeness: 0.25

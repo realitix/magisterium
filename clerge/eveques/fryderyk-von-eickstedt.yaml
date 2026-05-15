@@ -1,0 +1,46 @@
+slug: fryderyk-von-eickstedt
+nom: Fryderyk von Eickstedt
+nom_complet: Friedrich von Eickstedt
+naissance: '1300'
+deces: '1343-12-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1330-09-30'
+  consecrateur_principal: bertrand-cardinal-de-la-tour-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beicks.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kammin (Camin), Germany
+  du: '1330-09-17'
+  au: 1343&sup1;
+- titre: Bishop Emeritus of Kammin (Camin), Germany
+  du: null
+  au: '1343-12-06'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1330-09-25'
+  au: '1343-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q103769
+  catholic_hierarchy: beicks
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:19:58+00:00'
+  completeness: 0.75

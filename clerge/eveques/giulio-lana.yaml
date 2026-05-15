@@ -1,0 +1,41 @@
+slug: giulio-lana
+nom: Giulio Lana
+nom_complet: Julius Lana
+naissance: '1561'
+deces: '1609'
+naissance_lieu: Brescia, Diocese of Brescia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-12-24'
+  lieu: Santa Marta, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ottavio-paravicini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blana.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vulturara e Montecorvino, Italy
+  du: '1606-12-18'
+  au: 1609&sup1;
+- titre: Roman Catholic Bishop of Vulturara e Montecorvino
+  du: '1606-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23770440
+  catholic_hierarchy: blana
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:30:22+00:00'
+  completeness: 0.62

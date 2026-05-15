@@ -1,0 +1,44 @@
+slug: peter-waldron
+nom: Peter Waldron
+nom_complet: null
+naissance: '1751'
+deces: '1834-05-20'
+naissance_lieu: Cave, Ballyhaunis, Co. Mayo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1815-02-24'
+  lieu: St. Andrew, Dublin, Archdiocese of Dublin
+  consecrateur_principal: john-troy
+  co_consecrateurs:
+  - daniel-murray
+  - patrick-ryan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwaldr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killala, Ireland
+  du: '1814-10-04'
+  au: '1834-05-20'
+- titre: évêque diocésain
+  du: '1814-10-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751213
+  catholic_hierarchy: bwaldr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:48:57+00:00'
+  completeness: 0.88

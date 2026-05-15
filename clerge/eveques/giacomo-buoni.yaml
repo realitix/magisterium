@@ -1,0 +1,50 @@
+slug: giacomo-buoni
+nom: Giacomo Buoni
+nom_complet: null
+naissance: '1611-03-11'
+deces: '1679'
+naissance_lieu: Abbatiac Thedaldorum
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1672-02-25'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: innocent-xi
+  co_consecrateurs:
+  - giacomo-de-angelis
+  - federico-baldeschi-colonna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuoni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montefeltro, Italy
+  du: '1672-02-08'
+  au: null
+- titre: Bishop of Nepi e Sutri, Italy
+  du: '1678-02-28'
+  au: 1679&sup2;
+- titre: évêque de Nepi et Sutri
+  du: '1678-02-28'
+  au: null
+- titre: évêque diocésain
+  du: '1672-02-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747999
+  catholic_hierarchy: bbuoni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:59:34+00:00'
+  completeness: 0.88

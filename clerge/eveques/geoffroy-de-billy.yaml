@@ -1,0 +1,44 @@
+slug: geoffroy-de-billy
+nom: Geoffroy de Billy
+nom_complet: null
+naissance: '1536'
+deces: '1612-03-28'
+naissance_lieu: Guise
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1601-05-06'
+  consecrateur_principal: henri-de-gondi
+  co_consecrateurs:
+  - rene-potier
+  - claude-dormy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbilly.html
+  - https://fr.wikipedia.org/wiki/Geoffroy_de_Billy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laon, France
+  du: '1601-02-19'
+  au: '1612-03-28'
+- titre: évêque diocésain
+  du: '1601-02-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3101163
+  catholic_hierarchy: bbilly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:27:33+00:00'
+  completeness: 0.88

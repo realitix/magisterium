@@ -1,0 +1,164 @@
+---
+import Clerc from '../../../layouts/Clerc.astro';
+import { getAllClerics, tamponOf, type ClericIndex, type Tampon as TamponType } from '../../../data/loadClerge';
+import Tampon from '../../../components/Tampon.astro';
+import { FRATERNITES, type FraterniteInfo } from '../../../data/fraternites';
+
+export function getStaticPaths() {
+  return FRATERNITES.map((f) => ({ params: { slug: f.slug }, props: { info: f } }));
+}
+
+const { info } = Astro.props as { info: FraterniteInfo };
+
+const clerics = getAllClerics().filter((c) =>
+  c.fraternite && info.matches.includes(c.fraternite),
+);
+
+interface Row extends ClericIndex {
+  tampon: TamponType;
+}
+
+const rows: Row[] = clerics
+  .map((c) => ({ ...c, tampon: tamponOf(c.slug) }))
+  .sort((a, b) => {
+    const tamponOrder: Record<TamponType, number> = { ordo_validus: 0, ordo_dubius: 1, ordo_incertus: 2 };
+    if (tamponOrder[a.tampon] !== tamponOrder[b.tampon])
+      return tamponOrder[a.tampon] - tamponOrder[b.tampon];
+    return (a.naissance_annee ?? 9999) - (b.naissance_annee ?? 9999);
+  });
+
+const total = rows.length;
+const byTampon: Record<TamponType, number> = {
+  ordo_validus: rows.filter((r) => r.tampon === 'ordo_validus').length,
+  ordo_dubius: rows.filter((r) => r.tampon === 'ordo_dubius').length,
+  ordo_incertus: rows.filter((r) => r.tampon === 'ordo_incertus').length,
+};
+---
+
+<Clerc title={`${info.label} — Clergé`} description={info.intro.slice(0, 160)}>
+  <header class="frat-header">
+    <h1>{info.label}</h1>
+    <p class="frat-fullname">{info.pleinNom}</p>
+    <p class="frat-intro">{info.intro}</p>
+    <dl class="frat-stats">
+      <div><dt>Total recensés</dt><dd>{total}</dd></div>
+      <div><dt>ordo_validus</dt><dd>{byTampon.ordo_validus}</dd></div>
+      <div><dt>ordo_dubius</dt><dd>{byTampon.ordo_dubius}</dd></div>
+      <div><dt>ordo_incertus</dt><dd>{byTampon.ordo_incertus}</dd></div>
+    </dl>
+  </header>
+
+  {rows.length === 0 ? (
+    <p class="frat-empty">
+      Aucun clerc recensé sous cette fraternité dans le corpus actuel. Cette section
+      s'enrichira au fil des compléments scrapés et des ajouts manuels.
+    </p>
+  ) : (
+    <ul class="frat-list">
+      {rows.map((r) => (
+        <li class="frat-item">
+          <a href={`/clerge/${r.slug}/`} class="frat-link">
+            <div class="frat-name">{r.nom}</div>
+            <div class="frat-meta">
+              {r.naissance_annee ?? '?'}
+              {r.deces_annee && ` — ${r.deces_annee}`}
+              {r.pays && ` · ${r.pays}`}
+              {r.rang && ` · ${r.rang}`}
+            </div>
+          </a>
+          <div class="frat-tampon-wrap"><Tampon variant={r.tampon} /></div>
+        </li>
+      ))}
+    </ul>
+  )}
+</Clerc>
+
+<style>
+  .frat-header {
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-l);
+    border-bottom: 1px solid var(--rule);
+  }
+  .frat-header h1 {
+    font-family: var(--font-display);
+    margin: 0 0 0.2em;
+  }
+  .frat-fullname {
+    font-style: italic;
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-m);
+  }
+  .frat-intro {
+    line-height: 1.65;
+    margin: 0 0 var(--space-l);
+  }
+  .frat-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-m);
+    margin: 0;
+  }
+  .frat-stats > div {
+    background: var(--paper-soft, #f5f1e8);
+    padding: 0.5em 0.9em;
+    border-radius: 3px;
+  }
+  .frat-stats dt {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+  }
+  .frat-stats dd {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  .frat-empty {
+    color: var(--ink-soft);
+    font-style: italic;
+    text-align: center;
+    padding: var(--space-xl);
+  }
+  .frat-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6em;
+  }
+  .frat-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-m);
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--paper);
+    transition: background 0.15s;
+  }
+  .frat-item:hover {
+    background: var(--paper-soft, #f5f1e8);
+  }
+  .frat-link {
+    text-decoration: none;
+    color: inherit;
+    flex: 1;
+  }
+  .frat-name {
+    font-family: var(--font-display);
+    font-weight: 600;
+  }
+  .frat-meta {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    margin-top: 0.15em;
+  }
+  .frat-tampon-wrap {
+    --tampon-scale: 0.55;
+    flex-shrink: 0;
+  }
+</style>

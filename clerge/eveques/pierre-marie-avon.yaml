@@ -1,0 +1,45 @@
+slug: pierre-marie-avon
+nom: Pierre-Marie Avon
+nom_complet: null
+naissance: '1847-04-24'
+deces: '1901-02-23'
+naissance_lieu: Pont-Saint-Esprit, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1899-11-05'
+  lieu: Cathedral, Beauvais, Diocese of Beauvais (-Noyon-Senlis), France
+  consecrateur_principal: frederic-fuzet
+  co_consecrateurs:
+  - leon-dizien
+  - jean-augustin-germain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bavon.html
+  - https://fr.wikipedia.org/wiki/Pierre-Marie_Avon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guadeloupe et Basse-Terre, Antilles
+  du: null
+  au: '1901-02-23'
+- titre: évêque diocésain
+  du: '1899-02-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15970312
+  catholic_hierarchy: bavon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:51:43+00:00'
+  completeness: 1.0

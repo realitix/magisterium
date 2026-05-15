@@ -1,0 +1,44 @@
+slug: camillo-de-mari
+nom: Camillo de Mari
+nom_complet: Camillo de Mari, C.R.
+naissance: '1673-01-26'
+deces: '1741'
+naissance_lieu: Savone
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1720-10-13'
+  consecrateur_principal: giorgio-spinola-1667
+  co_consecrateurs:
+  - sinibaldo-doria
+  - camillo-marazzani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarica.html
+  - https://fr.wikipedia.org/wiki/Camillo_de_Mari
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aleria, France
+  du: '1720-09-30'
+  au: Jan 1741&sup3;
+- titre: Évêque d'Aleria
+  du: '1720-09-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18398364
+  catholic_hierarchy: bmarica
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:18+00:00'
+  completeness: 0.88

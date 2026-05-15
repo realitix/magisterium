@@ -1,0 +1,39 @@
+slug: lancelot-de-carle
+nom: Lancelot de Carle
+nom_complet: Lancelot de Clare
+naissance: '1508'
+deces: '1568-07-01'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: Paris, Diocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclare.html
+  - https://fr.wikipedia.org/wiki/Lancelot_de_Carle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Riez, France
+  du: '1550-10-23'
+  au: Jul 1568&sup3;
+- titre: évêque de Riez
+  du: '1550-11-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3216958
+  catholic_hierarchy: bclare
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:06+00:00'
+  completeness: 0.25

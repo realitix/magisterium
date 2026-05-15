@@ -1,0 +1,70 @@
+slug: diego-de-covarrubias
+nom: Diego de Covarrubias
+nom_complet: Diego de Covarrubias y Leiva
+naissance: '1512-07-25'
+deces: '1577-09-27'
+naissance_lieu: Toledo, Archdiocese of Toledo
+deces_lieu: Madrid, Archdiocese of Toledo
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1560-04-28'
+  lieu: Collège des Doncellas, Madrid, Archdiocese of Toledo
+  consecrateur_principal: fernando-valdes
+  co_consecrateurs:
+  - martin-perez-de-ayala
+  - diego-de-los-cobos-y-molina
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoyle.html
+  - https://fr.wikipedia.org/wiki/Diego_de_Covarrubias
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Santo Domingo, Dominican Republic
+  du: '1556-04-24'
+  au: null
+- titre: Archbishop (Personal Title) of Ciudad Rodrigo, Spain
+  du: '1560-01-26'
+  au: null
+- titre: Archbishop (Personal Title) of Segovia, Spain
+  du: '1564-10-25'
+  au: null
+- titre: Archbishop (Personal Title) of Cuenca, Spain
+  du: '1577-09-06'
+  au: null
+- titre: Bishop of Cuenca, Spain
+  du: null
+  au: '1577-09-27'
+- titre: évêque de Cuenca
+  du: '1577-09-16'
+  au: '1577-10-07'
+- titre: archevêque de Saint-Domingue
+  du: '1556-05-04'
+  au: '1560-02-05'
+- titre: évêque de Ségovie
+  du: '1564-11-04'
+  au: '1577-09-16'
+- titre: évêque de Ciudad Rodrigo
+  du: '1560-02-05'
+  au: '1564-11-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20Diego%20de%20Covarrubias%20y%20Leiva%20-%20Google%20Art%20Project.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1220593
+  catholic_hierarchy: bcoyle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:48+00:00'
+  completeness: 1.0

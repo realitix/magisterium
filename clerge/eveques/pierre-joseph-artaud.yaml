@@ -1,0 +1,44 @@
+slug: pierre-joseph-artaud
+nom: Pierre-Joseph Artaud
+nom_complet: null
+naissance: '1707-03-05'
+deces: '1760-09-05'
+naissance_lieu: Bonnieux
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1757-04-03'
+  consecrateur_principal: giorgio-doria
+  co_consecrateurs:
+  - giambattista-bortoli
+  - leonardo-cecconi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bartaud.html
+  - https://fr.wikipedia.org/wiki/Pierre-Joseph_Artaud
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cavaillon, France
+  du: '1757-03-28'
+  au: '1760-09-05'
+- titre: évêque de Cavaillon
+  du: '1757-03-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24935590
+  catholic_hierarchy: bartaud
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 1.0

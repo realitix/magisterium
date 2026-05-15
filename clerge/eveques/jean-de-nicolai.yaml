@@ -1,0 +1,39 @@
+slug: jean-de-nicolai
+nom: Jean de Nicolaï
+nom_complet: Jean de Nicolai
+naissance: null
+deces: '1533-03-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnicolaij.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Nicola%C3%BF_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1515-06-13'
+  au: Mar 1533&sup3;
+- titre: évêque diocésain
+  du: '1515-06-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30731130
+  catholic_hierarchy: bnicolaij
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:33:01+00:00'
+  completeness: 0.25

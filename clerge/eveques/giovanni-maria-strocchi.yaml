@@ -1,0 +1,44 @@
+slug: giovanni-maria-strocchi
+nom: Giovanni Maria Strocchi
+nom_complet: null
+naissance: '1824-10-26'
+deces: '1887'
+naissance_lieu: Faenza, Diocese of Faenza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-04-02'
+  lieu: Santa Maria in Ara Coeli, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-maria-bilio
+  co_consecrateurs:
+  - gaspard-mermillod
+  - benedetto-mariani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstroc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cesena, Italy
+  du: '1882-03-27'
+  au: 1887&sup1;
+- titre: Roman Catholic Bishop of Cesena
+  du: '1882-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751944
+  catholic_hierarchy: bstroc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:41:12+00:00'
+  completeness: 0.88

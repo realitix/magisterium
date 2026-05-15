@@ -1,0 +1,43 @@
+slug: jozsef-petery
+nom: Jozsef Pétery
+nom_complet: József Pétery
+naissance: '1890-06-21'
+deces: '1967-11-15'
+naissance_lieu: Miskolc
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1942-11-08'
+  consecrateur_principal: jusztinian-seredi
+  co_consecrateurs:
+  - janos-scheffler
+  - endre-kriston
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpete.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: '1942-09-24'
+  au: '1967-11-15'
+- titre: évêque de Vác
+  du: '1942-09-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30180938
+  catholic_hierarchy: bpete
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:25:54+00:00'
+  completeness: 1.0

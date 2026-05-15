@@ -1,0 +1,44 @@
+slug: matteo-riboldi
+nom: Matteo Riboldi
+nom_complet: null
+naissance: null
+deces: '1348-05-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/briboldim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pavia, Italy
+  du: '1342-10-07'
+  au: null
+- titre: Bishop of Verona, Italy
+  du: '1343-06-27'
+  au: '1348-05-01'
+- titre: évêque de Vérone
+  du: '1343-07-05'
+  au: null
+- titre: évêque diocésain
+  du: '1342-10-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447291
+  catholic_hierarchy: briboldim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:11:48+00:00'
+  completeness: 0.38

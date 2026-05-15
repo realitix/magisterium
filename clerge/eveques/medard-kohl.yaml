@@ -1,0 +1,50 @@
+slug: medard-kohl
+nom: Medárd Kohl
+nom_complet: Jozsef Medard Kohl, O.S.B.
+naissance: '1859-11-05'
+deces: '1928-01-15'
+naissance_lieu: Rudersdorf
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1900-12-27'
+  lieu: San Martino al Monte, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: vincenzo-vannutelli
+  co_consecrateurs:
+  - otto-zardetti
+  - antonio-valbonesi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkohl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1900-12-17'
+  au: '1928-01-15'
+- titre: Titular Bishop of Samosata
+  du: '1900-12-17'
+  au: null
+- titre: évêque titulaire
+  du: '1900-12-17'
+  au: null
+- titre: évêque auxiliaire
+  du: '1900-12-17'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q44518850
+  catholic_hierarchy: bkohl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:17:05+00:00'
+  completeness: 1.0

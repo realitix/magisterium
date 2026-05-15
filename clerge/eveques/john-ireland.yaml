@@ -1,0 +1,73 @@
+slug: john-ireland
+nom: John Ireland
+nom_complet: null
+naissance: '1838-09-11'
+deces: '1918-09-25'
+naissance_lieu: Burnchurch, Diocese of Ossory, Ireland
+deces_lieu: null
+rang: archeveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1875-12-21'
+  lieu: St. Paul, Cathedral, St. Paul, Diocese of Saint Paul, Minnesota
+  consecrateur_principal: thomas-langdon-grace
+  co_consecrateurs:
+  - michael-heiss
+  - rupert-seidenbusch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bireland.html
+  - https://fr.wikipedia.org/wiki/John_Ireland_(archev%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Nebraska, USA
+  du: '1875-02-12'
+  au: null
+- titre: Titular Archbishop of Maronea
+  du: '1875-02-12'
+  au: null
+- titre: Coadjutor Bishop of Saint Paul, Minnesota, USA
+  du: '1875-07-28'
+  au: null
+- titre: Bishop of Saint Paul, Minnesota, USA
+  du: null
+  au: '1884-07-31'
+- titre: Archbishop of Saint Paul, Minnesota, USA
+  du: '1888-05-15'
+  au: '1918-09-25'
+- titre: archevêque titulaire
+  du: '1875-02-12'
+  au: '1884-07-31'
+- titre: archevêque catholique
+  du: '1888-05-15'
+  au: '1918-09-25'
+- titre: évêque diocésain
+  du: '1884-07-31'
+  au: '1888-05-15'
+- titre: évêque coadjuteur
+  du: '1875-07-28'
+  au: '1884-07-31'
+- titre: vicaire apostolique
+  du: '1875-02-12'
+  au: '1875-07-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Ireland%20%28archbishop%20of%20Saint%20Paul%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q774308
+  catholic_hierarchy: bireland
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:54:25+00:00'
+  completeness: 1.0

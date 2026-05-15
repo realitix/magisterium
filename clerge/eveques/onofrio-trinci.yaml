@@ -1,0 +1,38 @@
+slug: onofrio-trinci
+nom: Onofrio Trinci
+nom_complet: null
+naissance: null
+deces: '1403-04-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrincio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Foligno, Italy
+  du: '1397-09-03'
+  au: '1403-04-02'
+- titre: évêque de Foligno
+  du: '1397-09-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108450631
+  catholic_hierarchy: btrincio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:10:56+00:00'
+  completeness: 0.38

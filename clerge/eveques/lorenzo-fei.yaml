@@ -1,0 +1,41 @@
+slug: lorenzo-fei
+nom: Lorenzo Fei
+nom_complet: null
+naissance: null
+deces: '1631-07-29'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1627-12-21'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-roma
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfei.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cariati e Cerenzia, Italy
+  du: '1627-11-29'
+  au: '1631-07-29'
+- titre: Roman Catholic Bishop of Cariati
+  du: '1627-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763872
+  catholic_hierarchy: bfei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:18+00:00'
+  completeness: 0.75

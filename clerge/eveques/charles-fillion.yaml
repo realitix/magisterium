@@ -1,0 +1,52 @@
+slug: charles-fillion
+nom: Charles Fillion
+nom_complet: Charles-Jean Fillion
+naissance: '1817-05-01'
+deces: '1874-07-28'
+naissance_lieu: Saint-Denis d'Anjou
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1858-05-16'
+  lieu: Cathedral, Le Mans, Diocese of Le Mans
+  consecrateur_principal: jean-jacques-nanquette
+  co_consecrateurs:
+  - casimir-wicart
+  - jean-pierre-mabile
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfilli.html
+  - https://fr.wikipedia.org/wiki/Charles_Fillion
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Mans, France
+  du: null
+  au: '1874-07-28'
+- titre: évêque du Mans
+  du: '1862-01-25'
+  au: null
+- titre: évêque de Saint-Claude
+  du: '1858-01-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/La%20Fert%C3%A9-Bernard%20%2872%29%20%C3%89glise%20Notre-Dame-des-Marais%20Baie%2011-05.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2959063
+  catholic_hierarchy: bfilli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:44:34+00:00'
+  completeness: 1.0

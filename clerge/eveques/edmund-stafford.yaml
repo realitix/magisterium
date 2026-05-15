@@ -1,0 +1,47 @@
+slug: edmund-stafford
+nom: Edmund Stafford
+nom_complet: null
+naissance: '1344'
+deces: '1419-09-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1395-06-20'
+  consecrateur_principal: william-courtenay
+  co_consecrateurs:
+  - robert-braybrooke
+  - john-de-waltham
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstaffe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: '1395-01-23'
+  au: '1419-09-03'
+- titre: évêque d'Exeter
+  du: '1395-01-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Face%20EdmundStafford%20Died1419%20BishopOfExeter%20ExeterCathedral.xcf
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5339839
+  catholic_hierarchy: bstaffe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:35:37+00:00'
+  completeness: 0.88

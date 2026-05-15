@@ -1,0 +1,49 @@
+slug: anselmo-de-la-pena
+nom: Anselmo de la Peña
+nom_complet: Anselmo de la Peña, O.S.B.
+naissance: '1645-04-01'
+deces: '1729-08-04'
+naissance_lieu: Rivadavia, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1719-10-15'
+  consecrateur_principal: francesco-del-giudice
+  co_consecrateurs:
+  - vincenzo-petra
+  - nicola-maria-tedeschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpenaan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Crotone (Cotrone), Italy
+  du: '1719-10-02'
+  au: null
+- titre: Bishop of Agrigento (Girgenti), Italy
+  du: '1723-09-27'
+  au: '1729-08-04'
+- titre: évêque diocésain
+  du: '1719-10-02'
+  au: null
+- titre: évêque diocésain
+  du: '1723-09-27'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q16527132
+  catholic_hierarchy: bpenaan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:40+00:00'
+  completeness: 0.88

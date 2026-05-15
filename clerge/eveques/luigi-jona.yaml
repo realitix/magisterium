@@ -1,0 +1,44 @@
+slug: luigi-jona
+nom: Luigi Jona
+nom_complet: null
+naissance: '1811-01-15'
+deces: '1863-11-30'
+naissance_lieu: Trevi Abbadia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1854-07-09'
+  lieu: Cathedral, Palestrina, Suburbicarian See of Palestrina
+  consecrateur_principal: luigi-amat-di-san-filippo-e-sorso
+  co_consecrateurs:
+  - luigi-ricci
+  - gesualdo-vitali
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjona.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montefiascone, Italy
+  du: '1854-06-23'
+  au: '1863-11-30'
+- titre: Roman Catholic Bishop of Montefiascone
+  du: '1854-06-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744979
+  catholic_hierarchy: bjona
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:02:45+00:00'
+  completeness: 1.0

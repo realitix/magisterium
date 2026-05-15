@@ -1,0 +1,44 @@
+slug: giovanni-sanctatus-o-p
+nom: Giovanni Sanctatus, O.P.
+nom_complet: Giovanni Sanctatus
+naissance: '1577'
+deces: '1617'
+naissance_lieu: Rovigo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1616-01-31'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: agostino-cardinal-galamini-o-p
+  co_consecrateurs:
+  - attilio-amalteo
+  - bartolomeo-peretti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsancttj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rethymo (Calamona), Greece
+  du: '1616-01-27'
+  au: 1617&sup1;
+- titre: évêque diocésain
+  du: '1616-01-27'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64747525
+  catholic_hierarchy: bsancttj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:48:08+00:00'
+  completeness: 0.75

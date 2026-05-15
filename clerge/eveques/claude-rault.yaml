@@ -1,0 +1,49 @@
+slug: claude-rault
+nom: Claude Rault
+nom_complet: Claude Jean Narcisse Rault, M. Afr.
+naissance: '1940-11-28'
+deces: null
+naissance_lieu: Poilley, Diocese of Coutances (-Avranches), France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2004-12-16'
+  lieu: "Notre-Dame d\x92Afrique, Cathedral Basilica, Alger, Archdiocese of Alger"
+  consecrateur_principal: michael-louis-fitzgerald
+  co_consecrateurs:
+  - henri-teissier
+  - augustin-traore
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brault.html
+  - https://fr.wikipedia.org/wiki/Claude_Rault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laghouat, Algeria
+  du: '2004-10-26'
+  au: null
+- titre: évêque diocésain
+  du: '2004-10-26'
+  au: '2017-03-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Rault%20128.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q321156
+  catholic_hierarchy: brault
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:06+00:00'
+  completeness: 0.88

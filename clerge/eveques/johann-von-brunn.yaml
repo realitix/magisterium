@@ -1,0 +1,48 @@
+slug: johann-von-brunn
+nom: Johann von Brunn
+nom_complet: null
+naissance: '1400'
+deces: '1440-01-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1412-10-20'
+  consecrateur_principal: frederic-iii-d-aufse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvbrunn.html
+  - https://fr.wikipedia.org/wiki/Johann_von_Brunn
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1440-01-09'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Wurtzbourg
+  du: '1411-12-17'
+  au: '1440-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wuerzburg%20104b.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1256975
+  catholic_hierarchy: bvbrunn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:28:07+00:00'
+  completeness: 0.62

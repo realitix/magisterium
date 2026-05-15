@@ -1,0 +1,60 @@
+slug: marko-culej
+nom: Marko Culej
+nom_complet: null
+naissance: '1938-01-19'
+deces: '2006-08-19'
+naissance_lieu: Repno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1992-02-22'
+  lieu: Cathedral, Zagreb, Archdiocese of Zagreb
+  consecrateur_principal: franjo-kuharic
+  co_consecrateurs:
+  - uro-koksa
+  - juraj-jezerinac
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bculej.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Zagreb, Croatia
+  du: '1992-01-07'
+  au: null
+- titre: Titular Bishop of Limata
+  du: '1992-01-07'
+  au: null
+- titre: Bishop of Vara&#382;din, Croatia
+  du: '1997-07-05'
+  au: '2006-08-19'
+- titre: évêque titulaire
+  du: '1992-01-07'
+  au: '1997-07-05'
+- titre: évêque auxiliaire
+  du: '1992-01-07'
+  au: '1997-07-05'
+- titre: évêque diocésain
+  du: '1997-07-05'
+  au: '2006-08-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biskup%20Marko%20Culej.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15834050
+  catholic_hierarchy: bculej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:18:07+00:00'
+  completeness: 1.0

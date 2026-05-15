@@ -1,0 +1,44 @@
+slug: rene-fee
+nom: René Fée
+nom_complet: René-Michel-Marie Fée, M.E.P.
+naissance: '1856-02-05'
+deces: '1904-01-20'
+naissance_lieu: Ambrières-le-Grand, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1896-11-22'
+  lieu: Good Shepherd, Cathedral, Singapore, Diocese of Malacca
+  consecrateur_principal: joseph-adolphe-gandy
+  co_consecrateurs:
+  - alexandre-cardot
+  - jean-marie-depierre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfee.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Malacca, Singapore
+  du: '1896-07-21'
+  au: '1904-01-20'
+- titre: évêque diocésain
+  du: '1896-07-21'
+  au: '1904-01-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736043
+  catholic_hierarchy: bfee
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:07+00:00'
+  completeness: 1.0

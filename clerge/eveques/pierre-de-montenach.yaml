@@ -1,0 +1,44 @@
+slug: pierre-de-montenach
+nom: Pierre de Montenach
+nom_complet: Pierre de Montenbach
+naissance: '1633-02-27'
+deces: '1707-07-06'
+naissance_lieu: Fribourg
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1689-05-15'
+  lieu: S. Nicolas, Fribourg
+  consecrateur_principal: johann-kaspar-schnorf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1688-12-20'
+  au: 6 Jul 1707&sup3;
+- titre: évêque diocésain
+  du: '1688-12-20'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734301
+  catholic_hierarchy: bmontep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:55+00:00'
+  completeness: 0.88

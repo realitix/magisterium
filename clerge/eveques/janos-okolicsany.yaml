@@ -1,0 +1,44 @@
+slug: janos-okolicsany
+nom: János Okolicsány
+nom_complet: János Okolicsányi
+naissance: '1675-02-26'
+deces: '1736-11-20'
+naissance_lieu: Teple
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1735-04-24'
+  lieu: Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: sigismund-von-kollonitsch
+  co_consecrateurs:
+  - joseph-braitenbucher
+  - giovanni-paolo-maricone-c-r-s
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bokolic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oradea Mare {Gran Varadino, Nagyvárad}, Romania
+  du: null
+  au: '1736-11-20'
+- titre: évêque d'Oradea Mare
+  du: '1734-10-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q47097312
+  catholic_hierarchy: bokolic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:48:36+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: vicente-puchol-montis
+nom: Vicente Puchol Montis
+nom_complet: Vincente Puchol Montis
+naissance: '1915-01-16'
+deces: '1967-05-08'
+naissance_lieu: Valencia, Archdiocese of Valencia
+deces_lieu: Villalba, Archdiocese of Madrid
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1965-08-15'
+  lieu: N. Sra de la Asuncion, Cathedral, Santander, Diocese of Santander
+  consecrateur_principal: antonio-riberi
+  co_consecrateurs:
+  - maximino-romero-de-lema
+  - rafael-gonzalez-moralejo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpuch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santander, Spain
+  du: '1965-07-02'
+  au: '1967-05-08'
+- titre: évêque de Santander
+  du: '1965-07-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16646144
+  catholic_hierarchy: bpuch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:52:08+00:00'
+  completeness: 1.0

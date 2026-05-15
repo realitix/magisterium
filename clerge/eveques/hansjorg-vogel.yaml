@@ -1,0 +1,46 @@
+slug: hansjorg-vogel
+nom: Hansjörg Vogel
+nom_complet: Mister Hansjörg Vogel
+naissance: '1951-03-16'
+deces: null
+naissance_lieu: Bern
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1994-04-04'
+  lieu: Saints Urs and Viktor, Cathedral, Solothurn, Diocese of Basel {Bâle, Basilea},
+    Switzerland
+  consecrateur_principal: otto-wust
+  co_consecrateurs:
+  - pierre-mamie
+  - joseph-candolfi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvogh.html
+  - https://fr.wikipedia.org/wiki/Hansj%C3%B6rg_Vogel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel {Bâle, Basilea}, Switzerland
+  du: null
+  au: '1995-06-02'
+- titre: évêque de Bâle
+  du: '1994-01-14'
+  au: '1995-06-02'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q124771
+  catholic_hierarchy: bvogh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:45:07+00:00'
+  completeness: 0.88

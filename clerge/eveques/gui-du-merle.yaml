@@ -1,0 +1,41 @@
+slug: gui-du-merle
+nom: Gui du Merle
+nom_complet: Guy du Merle
+naissance: null
+deces: '1285-04-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1266-08-21'
+  consecrateur_principal: eudes-rigaud-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmerleg.html
+  - https://fr.wikipedia.org/wiki/Gui_du_Merle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lisieux, France
+  du: 1266&sup1;
+  au: '1285-04-25'
+- titre: évêque diocésain
+  du: '1266-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3119323
+  catholic_hierarchy: bmerleg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:52:56+00:00'
+  completeness: 0.75

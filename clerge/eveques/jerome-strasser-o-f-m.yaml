@@ -1,0 +1,50 @@
+slug: jerome-strasser-o-f-m
+nom: Jerome Strasser, O.F.M.
+nom_complet: Jerome Strasser
+naissance: '1574-09-27'
+deces: '1641-09-17'
+naissance_lieu: Passau
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1628-07-16'
+  lieu: Windesgratz
+  consecrateur_principal: tomaz-hren
+  co_consecrateurs:
+  - jakob-eberlein
+  - leonard-goetz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstrass.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Gurk, Austria
+  du: '1628-02-07'
+  au: '1641-09-17'
+- titre: Titular Bishop of Temnus
+  du: '1628-02-07'
+  au: null
+- titre: évêque titulaire
+  du: '1628-02-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '1628-02-07'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64752226
+  catholic_hierarchy: bstrass
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:40:24+00:00'
+  completeness: 1.0

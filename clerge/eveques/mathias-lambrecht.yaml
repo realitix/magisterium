@@ -1,0 +1,48 @@
+slug: mathias-lambrecht
+nom: Mathias Lambrecht
+nom_complet: null
+naissance: '1539'
+deces: '1602-06-01'
+naissance_lieu: Sint-Laureins
+deces_lieu: Bruges, Diocese of Brugge {Bruges}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1596-07-08'
+  lieu: S. Pierre, Church, Louvain
+  consecrateur_principal: matthias-van-den-hove-hovius
+  co_consecrateurs:
+  - pierre-simons
+  - francisco-de-ribera-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blambrm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: '1595-12-20'
+  au: '1602-06-01'
+- titre: évêque de Bruges
+  du: '1595-12-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mathias%20Lambrecht.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2348716
+  catholic_hierarchy: blambrm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:46+00:00'
+  completeness: 0.88

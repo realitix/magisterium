@@ -1,0 +1,49 @@
+slug: bernardino-de-carmona
+nom: Bernardino de Carmona
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1553-02-05'
+  consecrateur_principal: juan-suarez-carvajal
+  co_consecrateurs:
+  - vasco-de-quiroga
+  - tomas-de-san-martin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarmo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Santiago de Compostela, Spain
+  du: '1551-07-10'
+  au: null
+- titre: Titular Bishop of Soltania
+  du: '1551-07-10'
+  au: null
+- titre: évêque auxiliaire
+  du: '1551-07-20'
+  au: null
+- titre: évêque titulaire
+  du: '1551-07-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24962832
+  catholic_hierarchy: bcarmo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:23:13+00:00'
+  completeness: 0.75

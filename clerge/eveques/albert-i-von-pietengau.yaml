@@ -1,0 +1,39 @@
+slug: albert-i-von-pietengau
+nom: Albert I. von Pietengau
+nom_complet: Albert von Pietengau
+naissance: '1215'
+deces: '1262'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpieten.html
+  - https://fr.wikipedia.org/wiki/Albert_Ier_de_Pietengau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: 1247&sup1;
+  au: 1259&sup1;
+- titre: évêque diocésain
+  du: '1247-01-01'
+  au: '1259-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1798080
+  catholic_hierarchy: bpieten
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:32:06+00:00'
+  completeness: 0.25

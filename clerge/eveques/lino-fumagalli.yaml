@@ -1,0 +1,61 @@
+slug: lino-fumagalli
+nom: Lino Fumagalli
+nom_complet: null
+naissance: '1947-05-13'
+deces: null
+naissance_lieu: La Storta, Suburbicarian See of Porto e Santa Rufina
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2000-02-20'
+  lieu: Sacri Cuori di Gesù e Maria, Cathedral, La Storta, Suburbicarian See of Porto-Santa
+    Rufina
+  consecrateur_principal: lucas-moreira-neves
+  co_consecrateurs:
+  - antonio-buoncristiani
+  - salvatore-boccaccio
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfum.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sabina-Poggio Mirteto, Italy
+  du: '1999-12-31'
+  au: null
+- titre: Apostolic Administrator of Tivoli, Italy
+  du: '2008-04-07'
+  au: '2008-10-05'
+- titre: Bishop of Viterbo, Italy
+  du: '2010-12-11'
+  au: null
+- titre: évêque de Sabina-Poggio Mirteto
+  du: '1999-12-31'
+  au: '2010-12-11'
+- titre: évêque de Viterbe
+  du: '2010-12-11'
+  au: '2022-10-07'
+- titre: administrateur apostolique
+  du: '2008-04-07'
+  au: '2008-10-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lino%20Fumagalli%20vescovo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1826955
+  catholic_hierarchy: bfum
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:00:53+00:00'
+  completeness: 0.88

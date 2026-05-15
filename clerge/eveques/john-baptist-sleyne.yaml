@@ -1,0 +1,50 @@
+slug: john-baptist-sleyne
+nom: John Baptist Sleyne
+nom_complet: null
+naissance: '1638'
+deces: '1712-02-16'
+naissance_lieu: Midleton, Co. Cork
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1693-04-18'
+  lieu: St. Isidore's, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: toussaint-de-forbin-janson
+  co_consecrateurs:
+  - giuseppe-felice-barlacci
+  - philip-michael-ellis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsleyne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Ross, Ireland
+  du: '1693-12-05'
+  au: null
+- titre: Bishop of Cork and Cloyne, Ireland
+  du: null
+  au: '1712-01-22'
+- titre: Bishop Emeritus of Cork and Cloyne, Ireland
+  du: null
+  au: '1712-02-16'
+- titre: évêque de Cork et Cloyne
+  du: '1693-04-13'
+  au: '1712-01-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64753707
+  catholic_hierarchy: bsleyne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:23:06+00:00'
+  completeness: 0.88

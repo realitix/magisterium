@@ -1,0 +1,49 @@
+slug: ambrosi-de-magistris
+nom: Ambrosi de Magistris
+nom_complet: null
+naissance: '1757-07-02'
+deces: '1820'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1818-11-01'
+  consecrateur_principal: luigi-ruffo-scilla
+  co_consecrateurs:
+  - salvatore-maria-pignattaro-o-p
+  - domenico-ventapane
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagista.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Napoli {Naples}, Italy
+  du: '1818-10-02'
+  au: 1820&sup1;
+- titre: Titular Bishop of Chersonesus in Creta
+  du: '1818-10-02'
+  au: null
+- titre: évêque titulaire
+  du: '1818-10-02'
+  au: null
+- titre: évêque auxiliaire
+  du: '1818-10-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751404
+  catholic_hierarchy: bmagista
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:10+00:00'
+  completeness: 0.88

@@ -1,0 +1,39 @@
+slug: denys-le-grand
+nom: Denys le Grand
+nom_complet: Denys Le Grand
+naissance: null
+deces: '1351-03-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blegrandd.html
+  - https://fr.wikipedia.org/wiki/Denys_le_Grand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: '1349-12-23'
+  au: Mar 1352&sup3;
+- titre: évêque diocésain
+  du: '1349-12-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3023429
+  catholic_hierarchy: blegrandd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:41:12+00:00'
+  completeness: 0.25

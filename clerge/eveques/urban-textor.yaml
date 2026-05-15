@@ -1,0 +1,43 @@
+slug: urban-textor
+nom: Urban Textor
+nom_complet: Urbain Textorig
+naissance: '1491'
+deces: '1558-04-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: franz-abstemius-bornemissa
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btextor.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ljubljana (Laybach; Laibach), Slovenia
+  du: '1543-12-19'
+  au: 1558&sup2;
+- titre: Bishop of Laibach
+  du: '1543-12-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Urban%20Tekstor.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9366996
+  catholic_hierarchy: btextor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:56:25+00:00'
+  completeness: 0.38

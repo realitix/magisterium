@@ -1,0 +1,43 @@
+slug: bartolomeo-criscuolo
+nom: Bartolomeo Criscuolo
+nom_complet: null
+naissance: '1739-06-22'
+deces: '1793'
+naissance_lieu: Castellamare
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1792-03-04'
+  consecrateur_principal: andre-corsini-cardinal-eveque-de-la-sabine
+  co_consecrateurs:
+  - giovanni-francesco-guidi-di-bagno-talenti
+  - girolamo-volpi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcriscu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lettere (-Gragnano), Italy
+  du: null
+  au: 1793&sup1;
+- titre: évêque diocésain
+  du: '1791-12-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745736
+  catholic_hierarchy: bcriscu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:14:50+00:00'
+  completeness: 0.88

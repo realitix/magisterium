@@ -1,0 +1,56 @@
+slug: jean-legrez
+nom: Jean Legrez
+nom_complet: Jean Marie Henri Legrez, O.P.
+naissance: '1948-05-29'
+deces: null
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2005-10-23'
+  lieu: Saint-Pierre-Saint-Paul-et-Saint-André, Cathedral Basilica, Saint-Claude,
+    Diocese of Saint-Claude
+  consecrateur_principal: andre-lacrampe
+  co_consecrateurs:
+  - yves-patenotre
+  - jacques-sarr
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blegrez.html
+  - https://fr.wikipedia.org/wiki/Jean_Legrez
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Claude, France
+  du: '2005-08-22'
+  au: null
+- titre: Archbishop of Albi (-Castres-Lavaur), France
+  du: '2011-02-02'
+  au: null
+- titre: évêque de Saint-Claude
+  du: '2005-08-22'
+  au: '2011-02-02'
+- titre: archevêque d'Albi, Castres et Lavaur
+  du: '2011-02-02'
+  au: '2023-08-18'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Jean%20Legrez%2C%20archev%C3%AAque%20d%27Albi.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1685641
+  catholic_hierarchy: blegrez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:41:15+00:00'
+  completeness: 0.88

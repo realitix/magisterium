@@ -1,0 +1,52 @@
+slug: peter-richarz
+nom: Peter Richarz
+nom_complet: Johann Peter von Richarz
+naissance: '1783-05-23'
+deces: '1855-07-02'
+naissance_lieu: Würzburg, Diocese of Würzburg
+deces_lieu: null
+rang: eveque
+nationalite: Q154195
+tampon: ordo_validus
+sacre:
+  date: '1835-11-01'
+  lieu: Cathedral, Bamberg, Archdiocese of Bamberg
+  consecrateur_principal: joseph-maria-fraunberg
+  co_consecrateurs:
+  - adam-friedrich-gro-zu-trockau
+  - bonifaz-kaspar-von-urban
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bricharz.html
+  - https://fr.wikipedia.org/wiki/Peter_von_Richarz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1855-07-02'
+- titre: évêque de Spire
+  du: '1835-04-08'
+  au: null
+- titre: évêque d'Augsbourg
+  du: '1836-10-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20von%20Richarz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2079391
+  catholic_hierarchy: bricharz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:13:12+00:00'
+  completeness: 1.0

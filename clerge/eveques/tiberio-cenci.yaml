@@ -1,0 +1,43 @@
+slug: tiberio-cenci
+nom: Tiberio Cenci
+nom_complet: Tiberio Cardinal Cenci
+naissance: '1580'
+deces: '1653-02-26'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: cardinal
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: ascanio-de-gasparis
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcencit.html
+  - https://fr.wikipedia.org/wiki/Tiberio_Cenci
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jesi, Italy
+  du: '1621-11-24'
+  au: '1653-02-26'
+- titre: cardinal
+  du: '1645-03-06'
+  au: null
+- titre: évêque de Jesi
+  du: '1621-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3528073
+  catholic_hierarchy: bcencit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:36:46+00:00'
+  completeness: 0.5

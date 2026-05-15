@@ -1,0 +1,45 @@
+slug: alberto-giunti
+nom: Alberto Giunti
+nom_complet: null
+naissance: '1582'
+deces: '1648-10-19'
+naissance_lieu: Parma, Diocese of Parma
+deces_lieu: Castro, Diocese of Castro [del Lazio]
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1640-09-23'
+  lieu: S. Michele Arcangelo (della Santa Casa di Loreto) a Ripetta, Roma, Diocese
+    of Roma {Rome}
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - lelio-cardinal-falconieri
+  - clement-x
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiunti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castro [del Lazio], Italy
+  du: '1640-09-10'
+  au: '1648-10-19'
+- titre: évêque diocésain
+  du: '1640-09-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64732844
+  catholic_hierarchy: bgiunti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:26:32+00:00'
+  completeness: 0.88

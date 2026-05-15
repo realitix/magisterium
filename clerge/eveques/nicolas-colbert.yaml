@@ -1,0 +1,51 @@
+slug: nicolas-colbert
+nom: Nicolas Colbert
+nom_complet: Nicolas de Colbert
+naissance: '1628'
+deces: '1676-09-05'
+naissance_lieu: Reims
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1661-07-24'
+  consecrateur_principal: ferdinand-de-neufville-de-villeroy
+  co_consecrateurs:
+  - henri-marie-de-laval-de-boisdauphin
+  - gilbert-clerembault-de-palluau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolbn.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Colbert
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: null
+  au: '1676-09-05'
+- titre: évêque de Luçon
+  du: '1661-02-08'
+  au: null
+- titre: évêque d'Auxerre
+  du: '1671-07-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20colbert%20eveque%20bmr90.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3340210
+  catholic_hierarchy: bcolbn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:46+00:00'
+  completeness: 0.88

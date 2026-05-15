@@ -1,0 +1,43 @@
+slug: jean-castel
+nom: Jean Castel
+nom_complet: null
+naissance: '1868-05-24'
+deces: '1939-10-08'
+naissance_lieu: Foix
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1918-10-09'
+  consecrateur_principal: pierre-marceillac
+  co_consecrateurs:
+  - pierre-alexandre-marty
+  - hector-raphael-quilliet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: '1918-08-03'
+  au: '1939-10-08'
+- titre: évêque de Tulle
+  du: '1918-08-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745715
+  catholic_hierarchy: bcastel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:29:51+00:00'
+  completeness: 1.0

@@ -1,0 +1,41 @@
+slug: francesco-capezzuti
+nom: Francesco Capezzuti
+nom_complet: null
+naissance: '1789-09-11'
+deces: '1855-01-22'
+naissance_lieu: Leprano, Archdiocese of Capua
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1838-03-11'
+  lieu: San Severino, Church, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: filippo-giudice-caracciolo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcapezz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ariano, Italy
+  du: null
+  au: '1855-01-22'
+- titre: Roman Catholic Bishop of Ariano
+  du: '1837-12-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751215
+  catholic_hierarchy: bcapezz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:15:47+00:00'
+  completeness: 0.88

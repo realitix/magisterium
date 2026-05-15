@@ -1,0 +1,44 @@
+slug: simon-legras
+nom: Simon Legras
+nom_complet: Simon Le Gras
+naissance: '1589-06-01'
+deces: '1656-10-28'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1624-11-17'
+  consecrateur_principal: francois-de-harlay-de-champvallon
+  co_consecrateurs:
+  - gilles-de-souvre
+  - claude-de-rueil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blgrass.html
+  - https://fr.wikipedia.org/wiki/Simon_Legras
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Soissons, France
+  du: '1624-09-16'
+  au: '1656-10-28'
+- titre: évêque de Soissons
+  du: '1624-09-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15918292
+  catholic_hierarchy: blgrass
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:42+00:00'
+  completeness: 1.0

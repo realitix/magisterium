@@ -1,0 +1,33 @@
+slug: paul-aulagnier
+nom: Paul Aulagnier
+naissance: '1943-05-25'
+deces: '2021-05-06'
+tampon: ordo_validus
+fraternite: fsspx
+ordination:
+  date: null
+  rite: ancien
+  rite_source: inferred
+  ordinateur: Marcel Lefebvre
+  ordinateur_slug: marcel-lefebvre
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Paul_Aulagnier
+  - https://fr.wikipedia.org/wiki/Institut_du_Bon-Pasteur
+qids:
+  wikidata: Q3370531
+sources:
+- source: wikipedia-fr
+  fetched_at: '2026-05-13T15:00:40+00:00'
+  url: https://fr.wikipedia.org/wiki/Paul_Aulagnier
+- source: ibp-wikipedia-fr
+  fetched_at: '2026-05-13T16:10:46+00:00'
+  url: https://fr.wikipedia.org/wiki/Institut_du_Bon-Pasteur
+- source: wikidata-pretres
+  fetched_at: '2026-05-13T16:15:00+00:00'
+  source_id: Q3370531
+tampon_source: ordinateur
+photo:
+  fichier: null
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/M.%20l%27Abb%C3%A9%20Paul%20Aulagnier%202020.jpg
+  licence: unknown

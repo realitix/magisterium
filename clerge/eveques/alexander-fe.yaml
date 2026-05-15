@@ -1,0 +1,43 @@
+slug: alexander-fe
+nom: Alexander Fé
+nom_complet: null
+naissance: '1716-08-17'
+deces: '1791-03-14'
+naissance_lieu: Brescia, Diocese of Brescia, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1746-09-11'
+  consecrateur_principal: angelo-maria-querini
+  co_consecrateurs:
+  - ludovico-calini
+  - andrea-duranti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Methone
+  du: '1746-08-22'
+  au: '1791-03-14'
+- titre: titular bishop of Methone
+  du: '1746-08-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751151
+  catholic_hierarchy: bfe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:34:19+00:00'
+  completeness: 1.0

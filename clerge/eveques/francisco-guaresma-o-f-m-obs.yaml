@@ -1,0 +1,51 @@
+slug: francisco-guaresma-o-f-m-obs
+nom: Francisco Guaresma, O.F.M. Obs.
+nom_complet: Francisco Guaresma
+naissance: null
+deces: null
+naissance_lieu: Serpa, Archdiocese of Évora, Portugal
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1558-05-08'
+  lieu: Santa Maria de Jesus, Monastery, Lisboa, Patriarchate of Lisboa {Lisbon},
+    Portugal
+  consecrateur_principal: pedro-fernando
+  co_consecrateurs:
+  - goncalo-pinheiro
+  - joao-de-melo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguare.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tanger (Tangier), Morocco
+  du: '1557-12-15'
+  au: null
+- titre: Bishop of Ceuta and Tanger, Spain
+  du: '1570-06-09'
+  au: 1576&sup1;
+- titre: évêque de Ceuta
+  du: '1570-06-19'
+  au: '1576-01-01'
+- titre: évêque de Tanger
+  du: '1557-12-25'
+  au: '1570-06-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68904332
+  catholic_hierarchy: bguare
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:47:01+00:00'
+  completeness: 0.75

@@ -1,0 +1,45 @@
+slug: fidele-agbatchi
+nom: Fidèle Agbatchi
+nom_complet: null
+naissance: '1950-10-23'
+deces: null
+naissance_lieu: Savé
+deces_lieu: null
+rang: archeveque
+nationalite: Q962
+tampon: ordo_dubius
+sacre:
+  date: '2000-06-10'
+  lieu: Cathedral, Parakou, Archdiocese of Parakou
+  consecrateur_principal: bernardin-gantin
+  co_consecrateurs:
+  - nestor-assogba
+  - felix-alaba-job
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bagbatchi.html
+  - https://fr.wikipedia.org/wiki/Fid%C3%A8le_Agbatchi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Parakou, Benin
+  du: '2000-04-14'
+  au: '2010-11-03'
+- titre: archevêque catholique
+  du: '2000-06-10'
+  au: '2010-11-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1411427
+  catholic_hierarchy: bagbatchi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:22:12+00:00'
+  completeness: 0.88

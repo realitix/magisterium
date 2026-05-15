@@ -1,0 +1,59 @@
+slug: john-gray
+nom: John Gray
+nom_complet: null
+naissance: '1817-06-16'
+deces: '1872-01-14'
+naissance_lieu: Buckie, Banffshire
+deces_lieu: Rothesay
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1862-10-19'
+  lieu: S. Andrew, Glasgow, Vicariate Apostolic of Western District, Scotland
+  consecrateur_principal: david-moriarty
+  co_consecrateurs:
+  - james-kyle
+  - john-murdoch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrayj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Vicar Apostolic of Western District, Scotland, Great Britain
+  du: '1862-05-06'
+  au: null
+- titre: Titular Bishop of Hypsus
+  du: '1862-05-06'
+  au: null
+- titre: Vicar Apostolic of Western District, Scotland, Great Britain
+  du: null
+  au: '1869-04-16'
+- titre: Vicar Apostolic Emeritus of Western District, Scotland, Great Britain
+  du: null
+  au: '1872-01-14'
+- titre: évêque titulaire
+  du: '1862-05-06'
+  au: '1872-01-14'
+- titre: vicaire apostolique du district de l'ouest
+  du: '1865-12-15'
+  au: '1869-03-04'
+- titre: vicaire apostolique coadjuteur
+  du: '1862-05-06'
+  au: '1865-12-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16065533
+  catholic_hierarchy: bgrayj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:41:03+00:00'
+  completeness: 1.0

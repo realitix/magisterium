@@ -1,0 +1,43 @@
+slug: giuseppe-cei-c-o
+nom: Giuseppe Cei, C.O.
+nom_complet: Giuseppe Cei
+naissance: '1640'
+deces: '1704-03-06'
+naissance_lieu: Livorno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1695-11-30'
+  consecrateur_principal: bandino-panciatici
+  co_consecrateurs:
+  - michelangelo-mattei
+  - sperello-sperelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bciei.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cortona, Italy
+  du: '1695-11-28'
+  au: '1704-03-06'
+- titre: évêque diocésain
+  du: '1695-11-28'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q28382482
+  catholic_hierarchy: bciei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:50:17+00:00'
+  completeness: 0.88

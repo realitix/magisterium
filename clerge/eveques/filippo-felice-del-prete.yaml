@@ -1,0 +1,43 @@
+slug: filippo-felice-del-prete
+nom: Filippo Felice del Prete
+nom_complet: null
+naissance: '1688-01-29'
+deces: '1751-12-22'
+naissance_lieu: Casalnuovo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1744-04-26'
+  consecrateur_principal: giovanni-antonio-guadagni
+  co_consecrateurs:
+  - giovanni-andrea-tria
+  - luigi-antonio-valdina-cremona
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdprete.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Conversano, Italy
+  du: '1744-04-13'
+  au: '1751-12-22'
+- titre: Évêque de Conversano
+  du: '1744-04-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751652
+  catholic_hierarchy: bdprete
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:26+00:00'
+  completeness: 1.0

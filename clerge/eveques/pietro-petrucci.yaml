@@ -1,0 +1,38 @@
+slug: pietro-petrucci
+nom: Pietro Petrucci
+nom_complet: null
+naissance: '1499'
+deces: '1537'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpetrp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bertinoro, Italy
+  du: '1520-03-14'
+  au: 1537&sup2;
+- titre: évêque diocésain
+  du: '1520-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909385
+  catholic_hierarchy: bpetrp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:27:07+00:00'
+  completeness: 0.25

@@ -1,0 +1,55 @@
+slug: konrad-zdarsa
+nom: Konrad Zdarsa
+nom_complet: Conradus Zdarsa
+naissance: '1944-06-07'
+deces: null
+naissance_lieu: Hainichen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2007-06-23'
+  lieu: Sankt Jakobus, Cathedral, Görlitz, Diocese of Görlitz
+  consecrateur_principal: georg-sterzinsky
+  co_consecrateurs:
+  - joachim-reinelt
+  - rudolf-muller
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzdarsa.html
+  - https://fr.wikipedia.org/wiki/Konrad_Zdarsa
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Görlitz, Germany
+  du: '2007-04-24'
+  au: null
+- titre: Bishop of Augsburg, Germany
+  du: '2010-07-08'
+  au: null
+- titre: Roman Catholic Bishop of Görlitz
+  du: '2007-04-24'
+  au: null
+- titre: évêque d'Augsbourg
+  du: '2010-01-01'
+  au: '2019-07-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Zdarsa%20Alter%20Fritz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q45406
+  catholic_hierarchy: bzdarsa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:07:22+00:00'
+  completeness: 0.88

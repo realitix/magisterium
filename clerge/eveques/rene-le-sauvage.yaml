@@ -1,0 +1,44 @@
+slug: rene-le-sauvage
+nom: René Le Sauvage
+nom_complet: null
+naissance: '1628'
+deces: '1677-05-17'
+naissance_lieu: Granville
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1674-02-04'
+  consecrateur_principal: jean-de-montpezat-de-carbon
+  co_consecrateurs:
+  - francois-de-nesmond
+  - jean-louis-de-fromentieres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsauvgs.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Le_Sauvage
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavaur, France
+  du: '1673-12-18'
+  au: '1677-05-17'
+- titre: évêque diocésain
+  du: '1673-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816522
+  catholic_hierarchy: bsauvgs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:14+00:00'
+  completeness: 0.88

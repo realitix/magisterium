@@ -1,0 +1,54 @@
+slug: jean-jacques-bouhier-de-lantenay
+nom: Jean-Jacques Bouhier de Lantenay
+nom_complet: null
+naissance: '1666-03-14'
+deces: '1744-10-15'
+naissance_lieu: Dijon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1731-09-16'
+  consecrateur_principal: charles-gaspard-guillaume-de-vintimille-du-luc
+  co_consecrateurs:
+  - jean-charles-de-segur
+  - charles-antoine-de-la-roche-aymon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbouhier.html
+  - https://fr.wikipedia.org/wiki/Jean_Bouhier_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dijon, France
+  du: null
+  au: '1743-12-13'
+- titre: Bishop Emeritus of Dijon, France
+  du: null
+  au: '1744-10-15'
+- titre: évêque de Dijon
+  du: '1725-12-25'
+  au: '1743-12-13'
+- titre: évêque émérite de Dijon
+  du: '1743-12-13'
+  au: '1744-10-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bouhier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3170900
+  catholic_hierarchy: bbouhier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:43:59+00:00'
+  completeness: 1.0

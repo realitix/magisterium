@@ -1,0 +1,55 @@
+slug: xavier-de-merode
+nom: Xavier de Mérode
+nom_complet: Frédéric-François-Xavier Ghislain de Mérode
+naissance: '1820-03-26'
+deces: '1874-07-11'
+naissance_lieu: Mechlin, Archdiocese of Mechelen, Belgium
+deces_lieu: null
+rang: archeveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1866-07-01'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - giuseppe-berardi
+  - louis-edouard-pie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmero.html
+  - https://fr.wikipedia.org/wiki/Xavier_de_Merode
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Melitene
+  du: '1866-06-22'
+  au: '1874-07-11'
+- titre: archevêque titulaire
+  du: '1866-06-22'
+  au: '1874-07-12'
+- titre: ministre de la Guerre
+  du: '1859-01-01'
+  au: '1865-10-01'
+- titre: camérier
+  du: '1850-04-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Saverio%20de%20M%C3%A9rode.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q643364
+  catholic_hierarchy: bmero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:53:05+00:00'
+  completeness: 1.0

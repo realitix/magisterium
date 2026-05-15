@@ -1,0 +1,46 @@
+slug: thomas-watson
+nom: Thomas Watson
+nom_complet: null
+naissance: null
+deces: '1584-09-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1557-08-15'
+  consecrateur_principal: nicholas-heath
+  co_consecrateurs:
+  - thomas-thirlby
+  - william-glyn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwatsont.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1557-03-24'
+  au: '1559-06-25'
+- titre: Bishop Emeritus of Lincoln, England, Great Britain
+  du: null
+  au: '1584-09-27'
+- titre: évêque de Lincoln
+  du: '1557-04-03'
+  au: '1559-07-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778506
+  catholic_hierarchy: bwatsont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:51:47+00:00'
+  completeness: 0.88

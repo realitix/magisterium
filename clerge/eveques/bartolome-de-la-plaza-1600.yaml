@@ -1,0 +1,39 @@
+slug: bartolome-de-la-plaza-1600
+nom: Bartolomé de la Plaza
+nom_complet: Bartolomé de la Plaza, O.F.M.
+naissance: '1600'
+deces: '1602'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1598'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdlpl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Cuba
+  du: '1597-11-10'
+  au: 1602&sup2;
+- titre: évêque de Cuba
+  du: '1597-11-10'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q47510435
+  catholic_hierarchy: bdlpl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:55:03+00:00'
+  completeness: 0.38

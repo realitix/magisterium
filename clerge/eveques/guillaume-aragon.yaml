@@ -1,0 +1,38 @@
+slug: guillaume-aragon
+nom: Guillaume Aragon
+nom_complet: null
+naissance: null
+deces: '1432'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baragong.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orange, France
+  du: '1430-10-02'
+  au: 1432&sup1;
+- titre: évêque diocésain
+  du: '1430-10-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448201
+  catholic_hierarchy: baragong
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:53+00:00'
+  completeness: 0.25

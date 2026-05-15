@@ -1,0 +1,44 @@
+slug: antonio-beccari
+nom: Antonio Beccari
+nom_complet: Antonio Beccari (Becariis), O.P.
+naissance: '1480'
+deces: '1543'
+naissance_lieu: null
+deces_lieu: Ancona, Diocese of Ancona e Numana, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1524-10-16'
+  lieu: Chapel of the Consecrator, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: paride-grassi
+  co_consecrateurs:
+  - domenico-scribonio-dei-cerboni
+  - vincenzo-maffei
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeccaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Shkodr&euml; (Scutari), Albania
+  du: '1524-09-23'
+  au: 1543&sup1;
+- titre: évêque diocésain
+  du: '1524-10-03'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64779121
+  catholic_hierarchy: bbeccaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:11:28+00:00'
+  completeness: 0.75

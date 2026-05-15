@@ -1,0 +1,46 @@
+slug: alberon-ier-de-louvain
+nom: Albéron Ier de Louvain
+nom_complet: Albéron di Lovanio
+naissance: '1070'
+deces: '1128'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: bruno-von-bretten
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/badalbero.html
+  - https://fr.wikipedia.org/wiki/Alb%C3%A9ron_Ier_de_Louvain
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: 1090&sup1;
+  au: null
+- titre: Bishop of Liège, Belgium
+  du: 1121&sup2;
+  au: '1128-01-01'
+- titre: évêque de Liège
+  du: '1121-01-01'
+  au: null
+- titre: évêque de Metz
+  du: '1090-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q708191
+  catholic_hierarchy: badalbero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:20:18+00:00'
+  completeness: 0.5

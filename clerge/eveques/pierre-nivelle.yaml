@@ -1,0 +1,49 @@
+slug: pierre-nivelle
+nom: Pierre Nivelle
+nom_complet: Pierre Nivelle, O. Cist.
+naissance: '1593'
+deces: '1661-02-11'
+naissance_lieu: Troyes, Diocese of Troyes
+deces_lieu: Luçon, Diocese of Luçon
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1637-01-25'
+  lieu: Bernardines, Paris, Archdiocese of Paris
+  consecrateur_principal: octave-de-saint-lary-de-bellegarde
+  co_consecrateurs:
+  - gilles-boutault
+  - francois-mallier-du-houssay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnivel.html
+  - https://fr.wikipedia.org/wiki/Pierre_Nivelle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: null
+  au: '1661-02-11'
+- titre: évêque diocésain
+  du: '1635-11-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Nivelle%2C%20Bishop%20of%20Lu%C3%A7on%2C%20after%20Lasne%20MET%20DP813247.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q24940379
+  catholic_hierarchy: bnivel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:49+00:00'
+  completeness: 0.88

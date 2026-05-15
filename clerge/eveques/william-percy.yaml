@@ -1,0 +1,49 @@
+slug: william-percy
+nom: William Percy
+nom_complet: William Percy (Gray)
+naissance: '1428-04-16'
+deces: '1462-05-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1452-11-26'
+  consecrateur_principal: robert-neville
+  co_consecrateurs:
+  - thomas-knight-o-p
+  - john-chedworth
+  - john-green
+  - non-indexe-6918e032
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpercy.html
+  - https://fr.wikipedia.org/wiki/William_Percy_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1452-08-30'
+  au: 1462&sup2;
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1452-09-08'
+  au: '1462-05-05'
+- titre: évêque diocésain
+  du: '1452-09-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8016777
+  catholic_hierarchy: bpercy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:20:14+00:00'
+  completeness: 0.75

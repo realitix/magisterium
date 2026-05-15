@@ -1,0 +1,44 @@
+slug: john-longland
+nom: John Longland
+nom_complet: John Longlands
+naissance: '1473'
+deces: '1547-05-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1521-05-05'
+  consecrateur_principal: william-warham
+  co_consecrateurs:
+  - john-fisher
+  - nicholas-west
+  - john-vesey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blongl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1521-03-20'
+  au: '1547-05-07'
+- titre: évêque de Lincoln
+  du: '1521-03-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6245217
+  catholic_hierarchy: blongl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:57:32+00:00'
+  completeness: 0.88

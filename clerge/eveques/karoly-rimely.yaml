@@ -1,0 +1,51 @@
+slug: karoly-rimely
+nom: Károly Rimely
+nom_complet: null
+naissance: '1825-02-04'
+deces: '1904-01-13'
+naissance_lieu: Esztergom, Archdiocese of Esztergom, Hungary
+deces_lieu: Garamszentbenedek (Hronský Be&#328;adik)
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1893-08-27'
+  lieu: Sankt Martin, Church, Presbourg
+  consecrateur_principal: kolos-ferenc-vaszary
+  co_consecrateurs:
+  - jozsef-boltizar
+  - imre-bende
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brimely.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Banská Bystrica, Slovakia
+  du: null
+  au: '1904-01-13'
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Banská Bystrica
+  du: '1893-05-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Rimely%20Karoly%20%28Detail%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1249235
+  catholic_hierarchy: brimely
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:15:14+00:00'
+  completeness: 1.0

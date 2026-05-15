@@ -1,0 +1,46 @@
+slug: henry-wakefield
+nom: Henry Wakefield
+nom_complet: null
+naissance: null
+deces: '1395-03-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1375-10-28'
+  consecrateur_principal: thomas-arundel
+  co_consecrateurs:
+  - john-gilbert
+  - thomas-brinton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwakef.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1375-09-12'
+  au: '1395-03-11'
+- titre: évêque diocésain
+  du: '1375-09-20'
+  au: null
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1375-01-01'
+  au: '1395-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5729754
+  catholic_hierarchy: bwakef
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:48:28+00:00'
+  completeness: 0.88

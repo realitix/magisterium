@@ -1,0 +1,47 @@
+slug: henri-d-isny
+nom: Henri d'Isny
+nom_complet: Henri d&rsquo;Isny, O.F.M.
+naissance: '1222'
+deces: '1288-03-17'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1275-10-09'
+  consecrateur_principal: non-indexe-e80ee41a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bisny.html
+  - https://fr.wikipedia.org/wiki/Henri_d%27Isny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: 1275&sup1;
+  au: null
+- titre: Archbishop of Mainz, Germany
+  du: '1286-05-15'
+  au: '1288-03-17'
+- titre: évêque de Bâle
+  du: '1275-01-01'
+  au: null
+- titre: archevêque de Mayence
+  du: '1286-05-22'
+  au: '1288-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q110335
+  catholic_hierarchy: bisny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:29+00:00'
+  completeness: 0.62

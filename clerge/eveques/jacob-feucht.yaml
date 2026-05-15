@@ -1,0 +1,50 @@
+slug: jacob-feucht
+nom: Jacob Feucht
+nom_complet: Jakob Feucht
+naissance: '1540'
+deces: '1580-04-26'
+naissance_lieu: Pfullendorf
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1572-06-22'
+  lieu: Oratoire de la Trinite, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: otto-truchsess-von-waldburg
+  co_consecrateurs:
+  - cornelio-musso
+  - filippo-geri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfeucht.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bamberg, Germany
+  du: '1572-06-16'
+  au: '1580-04-26'
+- titre: Titular Bishop of Athyra
+  du: '1572-06-16'
+  au: null
+- titre: évêque titulaire
+  du: '1572-06-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1572-06-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55847503
+  catholic_hierarchy: bfeucht
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:42:02+00:00'
+  completeness: 0.88

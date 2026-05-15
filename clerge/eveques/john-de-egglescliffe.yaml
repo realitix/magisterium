@@ -1,0 +1,52 @@
+slug: john-de-egglescliffe
+nom: John de Egglescliffe
+nom_complet: John Eglescliffe (Wishart), O.P.
+naissance: '1201'
+deces: '1347-01-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '17'
+  consecrateur_principal: niccolo-alberti
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwishart.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glasgow, Scotland, Great Britain
+  du: '1318-07-17'
+  au: null
+- titre: Bishop of Connor, Ireland
+  du: 1322&sup2;
+  au: null
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: '1323-06-20'
+  au: '1347-01-02'
+- titre: évêque de Connor
+  du: '1322-01-01'
+  au: null
+- titre: évêque de Glasgow
+  du: '1318-07-25'
+  au: null
+- titre: évêque catholique de Llandaff
+  du: '1323-06-28'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q6265537
+  catholic_hierarchy: bwishart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:57:25+00:00'
+  completeness: 0.75

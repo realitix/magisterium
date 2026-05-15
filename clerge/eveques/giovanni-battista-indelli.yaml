@@ -1,0 +1,43 @@
+slug: giovanni-battista-indelli
+nom: Giovanni Battista Indelli
+nom_complet: null
+naissance: '1592'
+deces: '1629-10-28'
+naissance_lieu: Monopoli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-07-07'
+  consecrateur_principal: cosimo-de-torres
+  co_consecrateurs:
+  - ottavio-accoramboni
+  - fabrizio-suardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bindelli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Marco (Argentano), Italy
+  du: '1624-07-01'
+  au: '1629-10-28'
+- titre: Roman Catholic Bishop of San Marco (Argentano)
+  du: '1624-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763604
+  catholic_hierarchy: bindelli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:53:15+00:00'
+  completeness: 0.88

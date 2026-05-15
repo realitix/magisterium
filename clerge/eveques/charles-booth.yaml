@@ -1,0 +1,46 @@
+slug: charles-booth
+nom: Charles Booth
+nom_complet: null
+naissance: null
+deces: '1535-05-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1516-11-30'
+  consecrateur_principal: william-warham
+  co_consecrateurs:
+  - richard-fox
+  - richard-nykke
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboothc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1516-07-21'
+  au: '1535-05-05'
+- titre: évêque de Hereford
+  du: '1516-01-01'
+  au: '1535-01-01'
+- titre: évêque diocésain
+  du: '1516-07-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5075678
+  catholic_hierarchy: bboothc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:39:29+00:00'
+  completeness: 0.88

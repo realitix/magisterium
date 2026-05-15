@@ -1,0 +1,46 @@
+slug: james-bruce
+nom: James Bruce
+nom_complet: null
+naissance: null
+deces: '1447'
+naissance_lieu: null
+deces_lieu: Edinburgh
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1442-02-04'
+  lieu: Dunfermline
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrucej.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunkeld, Scotland, Great Britain
+  du: '1441-02-06'
+  au: null
+- titre: Bishop of Glasgow, Scotland, Great Britain
+  du: '1447-02-03'
+  au: null
+- titre: Roman Catholic Bishop of Dunkeld
+  du: '1441-02-15'
+  au: null
+- titre: évêque de Glasgow
+  du: '1447-02-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6130381
+  catholic_hierarchy: bbrucej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:54:42+00:00'
+  completeness: 0.38

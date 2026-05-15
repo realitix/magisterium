@@ -1,0 +1,40 @@
+slug: kalatay-ferenc
+nom: Kalatay Ferenc
+nom_complet: Franz Xaver Kalatay
+naissance: '1722-10-01'
+deces: '1795-03-27'
+naissance_lieu: Ofalu
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1788-04-27'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkalatay.html
+  - https://fr.wikipedia.org/wiki/Kalatay_Ferenc
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oradea Mare {Gran Varadino, Nagyvárad}, Romania
+  du: null
+  au: '1795-03-27'
+- titre: évêque d'Oradea Mare
+  du: '1787-08-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1103418
+  catholic_hierarchy: bkalatay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:06:36+00:00'
+  completeness: 0.62

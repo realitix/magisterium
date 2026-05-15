@@ -1,0 +1,38 @@
+slug: girolamo-de-francisco
+nom: Girolamo de Francisco
+nom_complet: null
+naissance: '1508'
+deces: '1530'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrancs.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mazara del Vallo, Italy
+  du: '1526-12-12'
+  au: 1530&sup1;
+- titre: évêque diocésain
+  du: '1526-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23612295
+  catholic_hierarchy: bfrancs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:56:07+00:00'
+  completeness: 0.25

@@ -1,0 +1,38 @@
+slug: marcello-planca
+nom: Marcello Planca
+nom_complet: null
+naissance: null
+deces: '1528'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplancam.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Giovinazzo, Italy
+  du: '1517-08-21'
+  au: 1528&sup2;
+- titre: Roman Catholic Bishop of Giovinazzo
+  du: '1517-08-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23620130
+  catholic_hierarchy: bplancam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:08+00:00'
+  completeness: 0.25

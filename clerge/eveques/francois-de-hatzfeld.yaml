@@ -1,0 +1,49 @@
+slug: francois-de-hatzfeld
+nom: François de Hatzfeld
+nom_complet: Franz von Hatzfeld
+naissance: '1596-09-13'
+deces: '1642-07-30'
+naissance_lieu: Crottorf
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1637-04-12'
+  lieu: Cathedral, Würzburg, Diocese of Würzburg
+  consecrateur_principal: zacharias-stumpf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhatz.html
+  - https://fr.wikipedia.org/wiki/Franz_von_Hatzfeld
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1642-07-30'
+- titre: évêque de Wurtzbourg
+  du: '1631-08-07'
+  au: null
+- titre: évêque de Bamberg
+  du: '1633-08-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20von%20Hatzfeld.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q104356
+  catholic_hierarchy: bhatz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:35:56+00:00'
+  completeness: 0.88

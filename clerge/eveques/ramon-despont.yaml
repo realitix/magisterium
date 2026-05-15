@@ -1,0 +1,38 @@
+slug: ramon-despont
+nom: Ramon Despont
+nom_complet: Ramón Despont, O.P.
+naissance: '1201'
+deces: '1312-11-13'
+naissance_lieu: Fraga
+deces_lieu: null
+rang: eveque
+nationalite: Q199442
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdespont.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valencia, Spain
+  du: '1289'
+  au: '1312-11-13'
+- titre: évêque de Valence
+  du: '1289-01-01'
+  au: '1312-11-21'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q9065993
+  catholic_hierarchy: bdespont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:35+00:00'
+  completeness: 0.38

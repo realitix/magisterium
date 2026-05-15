@@ -1,0 +1,47 @@
+slug: gregor-helfenstein
+nom: Gregor Helfenstein
+nom_complet: null
+naissance: '1559'
+deces: '1632-10-21'
+naissance_lieu: Oberemmel, Archdiocese of Trier
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1599-11-01'
+  lieu: Sant&rsquo;Apollinare, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: ottavio-paravicini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhelf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1599-10-29'
+  au: '1632-10-21'
+- titre: Titular Bishop of Azotus
+  du: '1599-10-29'
+  au: null
+- titre: évêque titulaire
+  du: '1599-10-29'
+  au: null
+- titre: évêque auxiliaire
+  du: '1599-10-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26763883
+  catholic_hierarchy: bhelf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:12+00:00'
+  completeness: 0.75

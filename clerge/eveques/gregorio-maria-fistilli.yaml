@@ -1,0 +1,47 @@
+slug: gregorio-maria-fistilli
+nom: Gregorio Maria Fistilli
+nom_complet: null
+naissance: '1798-02-20'
+deces: '1849'
+naissance_lieu: Rossano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1845-12-07'
+  lieu: S. Caterina da Siena, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lodovico-altieri
+  co_consecrateurs:
+  - giovanni-francesco-cometti-rossi
+  - stefano-scerra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfistil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Capaccio, Italy
+  du: null
+  au: '1848-09-26'
+- titre: Bishop Emeritus of Capaccio, Italy
+  du: null
+  au: 1849&sup1;
+- titre: Roman Catholic Bishop of Capaccio
+  du: '1845-09-06'
+  au: '1848-09-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763882
+  catholic_hierarchy: bfistil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:46:26+00:00'
+  completeness: 0.88

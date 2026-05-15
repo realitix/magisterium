@@ -1,0 +1,64 @@
+slug: alphonse-caraffa
+nom: Alphonse Caraffa
+nom_complet: Alfonso Cardinal Carafa
+naissance: '1540-07-16'
+deces: '1565-08-29'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Monteoliveto, Napoli, Archdiocese of Napoli {Naples}
+rang: cardinal
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-06-30'
+  lieu: Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: antonio-scarampi
+  co_consecrateurs:
+  - giulio-pavesi-o-p
+  - paolo-emilio-veralli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarafaaf.html
+  - https://fr.wikipedia.org/wiki/Alfonso_Carafa
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Napoli {Naples}, Italy
+  du: '1557-04-09'
+  au: '1565-08-29'
+- titre: Cardinal-Deacon of Santa Maria in Portico (Octaviae)
+  du: '1558-12-16'
+  au: null
+- titre: Librarian of the Vatican Library
+  du: 1559&sup2;
+  au: null
+- titre: Cardinal-Deacon of Santa Maria in Domnica
+  du: '1559-03-06'
+  au: null
+- titre: Cardinal-Priest of Santi Giovanni e Paolo
+  du: '1560-04-26'
+  au: null
+- titre: cardinal
+  du: '1557-03-25'
+  au: null
+- titre: archevêque de Naples
+  du: '1557-04-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alfonso%20Carafa%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1136457
+  catholic_hierarchy: bcarafaaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:18:59+00:00'
+  completeness: 1.0

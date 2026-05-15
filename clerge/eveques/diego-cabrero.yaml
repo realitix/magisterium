@@ -1,0 +1,33 @@
+slug: diego-cabrero
+nom: Diego Cabrero
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: gabriel-orti
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcabrerod.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780970
+  catholic_hierarchy: bcabrerod
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.11
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:04:25+00:00'
+  completeness: 0.25

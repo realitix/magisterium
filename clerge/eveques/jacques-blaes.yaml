@@ -1,0 +1,54 @@
+slug: jacques-blaes
+nom: Jacques Blaes
+nom_complet: Jacques Blaze (Blaes), O.F.M. Obs.
+naissance: '1540'
+deces: '1618-03-21'
+naissance_lieu: Bruges
+deces_lieu: Saint-Omer, Diocese of Saint-Omer
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1597-11-23'
+  lieu: Ste Elisabeth, Bruxelles
+  consecrateur_principal: ottavio-mirto-frangipani
+  co_consecrateurs:
+  - pieter-damant
+  - pierre-simons
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblaes.html
+  - https://fr.wikipedia.org/wiki/Jacques_Blaes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '1597-04-14'
+  au: null
+- titre: Bishop of Saint-Omer, France
+  du: '1601-03-14'
+  au: '1618-03-21'
+- titre: évêque
+  du: null
+  au: null
+- titre: Évêque de Saint-Omer
+  du: '1601-03-14'
+  au: null
+- titre: évêque de Namur
+  du: '1597-04-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26257806
+  catholic_hierarchy: bblaes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:41+00:00'
+  completeness: 0.88

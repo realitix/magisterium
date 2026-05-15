@@ -1,0 +1,43 @@
+slug: petrus-pitarca-o-f-m
+nom: Petrus Pitarca, O.F.M.
+nom_complet: Petrus Pitarca
+naissance: null
+deces: '1622'
+naissance_lieu: Taranto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1617-09-03'
+  consecrateur_principal: pietro-aldobrandini
+  co_consecrateurs:
+  - attilio-amalteo
+  - giulio-sansedoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpitarca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Termia (Thermae), Greece
+  du: '1617-06-26'
+  au: 1622&sup2;
+- titre: évêque diocésain
+  du: '1617-06-26'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q24205928
+  catholic_hierarchy: bpitarca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:37:20+00:00'
+  completeness: 0.75

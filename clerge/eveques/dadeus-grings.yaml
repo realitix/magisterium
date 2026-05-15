@@ -1,0 +1,57 @@
+slug: dadeus-grings
+nom: Dadeus Grings
+nom_complet: null
+naissance: '1936-09-07'
+deces: null
+naissance_lieu: Porto Alegre
+deces_lieu: null
+rang: archeveque
+nationalite: Q155
+tampon: ordo_dubius
+sacre:
+  date: '1991-03-15'
+  lieu: Cathedral, Porto Alegre, Archdiocese of Porto Alegre, Rio Grande do Sul
+  consecrateur_principal: tomas-vaquero
+  co_consecrateurs:
+  - alfredo-vicente-scherer
+  - aloisio-sinesio-bohn
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrings.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of São João da Boa Vista, Sao Paulo, Brazil
+  du: '1991-01-23'
+  au: null
+- titre: Coadjutor Archbishop of Porto Alegre, Rio Grande do Sul, Brazil
+  du: '2000-04-12'
+  au: null
+- titre: Archbishop of Porto Alegre, Rio Grande do Sul, Brazil
+  du: null
+  au: '2001-02-07'
+- titre: archevêque catholique
+  du: '2001-02-07'
+  au: '2013-09-18'
+- titre: évêque diocésain
+  du: '1991-01-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/MonsGrings.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q973030
+  catholic_hierarchy: bgrings
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:43:59+00:00'
+  completeness: 0.88

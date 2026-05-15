@@ -1,0 +1,44 @@
+slug: thomas-bele
+nom: Thomas Bele
+nom_complet: Thomas Bele, O.S.A.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbelet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of London, England, Great Britain
+  du: '1521-06-07'
+  au: 1524&sup1;
+- titre: Titular Bishop of Lydda
+  du: '1521-06-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '1521-06-17'
+  au: null
+- titre: évêque titulaire de Lydda
+  du: '1521-06-07'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68863343
+  catholic_hierarchy: bbelet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:22+00:00'
+  completeness: 0.25

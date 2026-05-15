@@ -1,0 +1,48 @@
+slug: alexandre-devie
+nom: Alexandre Devie
+nom_complet: Alexandre-Raymond Devie
+naissance: '1767-01-23'
+deces: '1852-07-25'
+naissance_lieu: Montélimar
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1823-06-15'
+  consecrateur_principal: denis-frayssinous
+  co_consecrateurs:
+  - rene-francois-soyer
+  - claude-joseph-judith-francois-xavier-de-sagey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdevie.html
+  - https://fr.wikipedia.org/wiki/Alexandre_Devie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: null
+  au: '1852-07-25'
+- titre: évêque diocésain
+  du: '1823-02-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/A.-R.%20Devie%2C%20Ev%C3%AAque%20de%20Belley.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2833602
+  catholic_hierarchy: bdevie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:03+00:00'
+  completeness: 1.0

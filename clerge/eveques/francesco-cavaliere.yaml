@@ -1,0 +1,43 @@
+slug: francesco-cavaliere
+nom: Francesco Cavaliere
+nom_complet: null
+naissance: '1589'
+deces: '1637'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1621-09-19'
+  consecrateur_principal: francesco-sacrati
+  co_consecrateurs:
+  - raffaele-inviziati
+  - alfonso-sacrati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcavf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valva e Sulmona, Italy
+  du: '1621-07-21'
+  au: 1637&sup1;
+- titre: évêque diocésain
+  du: '1621-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746482
+  catholic_hierarchy: bcavf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:34:33+00:00'
+  completeness: 0.75

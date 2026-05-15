@@ -1,0 +1,48 @@
+slug: antoine-de-narbonne
+nom: Antoine de Narbonne
+nom_complet: Antonio de Narbonne, O.S.B.
+naissance: '1450'
+deces: '1542-10-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnarbona.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Narbonne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sisteron, France
+  du: '1531-12-18'
+  au: null
+- titre: Bishop of Mâcon, France
+  du: '1541-09-28'
+  au: '1542-10-06'
+- titre: abbé
+  du: '1516-01-01'
+  au: null
+- titre: évêque de Mâcon
+  du: '1541-10-08'
+  au: null
+- titre: évêque de Sisteron
+  du: '1531-12-28'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q2856910
+  catholic_hierarchy: bnarbona
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:25:12+00:00'
+  completeness: 0.38

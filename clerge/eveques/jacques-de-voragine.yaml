@@ -1,0 +1,45 @@
+slug: jacques-de-voragine
+nom: Jacques de Voragine
+nom_complet: Jacopo (Jacques) di Viraggio (Voragine), O.P.
+naissance: '1228'
+deces: '1298-07-01'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1292-04-13'
+  consecrateur_principal: latino-malabranca-orsini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bviraggio.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Voragine
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Genova, Italy
+  du: 1292&sup1;
+  au: Jul 1298&sup3;
+- titre: archevêque de Gênes
+  du: '1292-01-01'
+  au: '1298-07-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20de%20Voragine%20pr%C3%AAchant%20-%20L%C3%A9gende%20dor%C3%A9e%20BNF%20Fr244%20f1.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q313460
+  catholic_hierarchy: bviraggio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:41:35+00:00'
+  completeness: 0.62

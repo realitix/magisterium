@@ -1,0 +1,39 @@
+slug: manuel-de-quadros
+nom: Manuel de Quadros
+nom_complet: null
+naissance: null
+deces: '1593'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1586'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquadros.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guarda, Portugal
+  du: '1585-12-11'
+  au: 1593&sup2;
+- titre: évêque diocésain
+  du: '1585-12-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909948
+  catholic_hierarchy: bquadros
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:54:28+00:00'
+  completeness: 0.38

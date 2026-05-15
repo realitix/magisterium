@@ -1,0 +1,43 @@
+slug: reinboto-von-meilenhart
+nom: Reinboto von Meilenhart
+nom_complet: null
+naissance: '1300'
+deces: '1297'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: rodolfo-de-hoheneck
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmeilen.html
+  - https://fr.wikipedia.org/wiki/Reinboto_von_Meilenhart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: '1279-09-03'
+  au: '1297-08-27'
+- titre: évêque diocésain
+  du: '1279-09-10'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2140325
+  catholic_hierarchy: bmeilen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:47:41+00:00'
+  completeness: 0.5

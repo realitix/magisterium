@@ -1,0 +1,43 @@
+slug: vencent-cavaselice
+nom: Vencent Cavaselice
+nom_complet: null
+naissance: '1590'
+deces: '1664'
+naissance_lieu: Salerno, Archdiocese of Salerno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1640-09-02'
+  consecrateur_principal: giulio-cesare-sacchetti
+  co_consecrateurs:
+  - pietro-antonio-spinelli
+  - gaetano-cossa-c-r
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcavasel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carinola (Calina), Italy
+  du: '1640-08-13'
+  au: 1664&sup1;
+- titre: évêque diocésain
+  du: '1640-08-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25999407
+  catholic_hierarchy: bcavasel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:34:25+00:00'
+  completeness: 0.75

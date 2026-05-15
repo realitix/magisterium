@@ -1,0 +1,47 @@
+slug: andres-licht-y-barrera
+nom: Andrés Licht y Barrera
+nom_complet: null
+naissance: '1699-04-19'
+deces: '1751-01-05'
+naissance_lieu: Sevilla, Archdiocese of Sevilla {Seville}
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1745-04-25'
+  lieu: S. Clement, Sevilla, Archdiocese of Sevilla {Seville}
+  consecrateur_principal: martin-barcia-carrascal
+  co_consecrateurs:
+  - manuel-tercero-de-rozas
+  - domingo-perez-rivera
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blicht.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guadix, Spain
+  du: '1745-01-25'
+  au: '1750-01-17'
+- titre: Bishop Emeritus of Guadix, Spain
+  du: null
+  au: '1751-01-05'
+- titre: évêque de Guadix
+  du: '1745-01-25'
+  au: '1750-01-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762466
+  catholic_hierarchy: blicht
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:49:25+00:00'
+  completeness: 1.0

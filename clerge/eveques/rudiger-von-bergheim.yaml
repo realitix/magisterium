@@ -1,0 +1,56 @@
+slug: rudiger-von-bergheim
+nom: Rüdiger von Bergheim
+nom_complet: Rüdiger von Bergheim (Radeck)
+naissance: '1175'
+deces: '1258-04-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1216'
+  consecrateur_principal: eberhard-von-regensburg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberghr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiemsee, Germany
+  du: 1216&sup1;
+  au: null
+- titre: Bishop of Passau, Germany
+  du: '1233-06-27'
+  au: '1250-03-20'
+- titre: Bishop Emeritus of Passau, Germany
+  du: null
+  au: '1258-04-14'
+- titre: Roman Catholic Bishop of Chiemsee
+  du: '1216-01-01'
+  au: null
+- titre: évêque de Passau
+  du: '1233-07-04'
+  au: '1250-03-27'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%BCdiger%20von%20Passau.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2203803
+  catholic_hierarchy: bberghr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:45+00:00'
+  completeness: 0.75

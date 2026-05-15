@@ -1,0 +1,50 @@
+slug: johann-walser-waltous
+nom: Johann Walser (Waltous)
+nom_complet: Johann Walser
+naissance: null
+deces: '1593-01-10'
+naissance_lieu: Innsbruck, Diocese of Brixen {Bressanone}
+deces_lieu: Brixen, Diocese of Brixen {Bressanone}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1592-12-13'
+  lieu: San Zaccaria, Cathedral, Venezia, Patriarchate of Venezia {Venice}
+  consecrateur_principal: francesco-barbaro
+  co_consecrateurs:
+  - giovanni-battista-valier
+  - antonio-grimani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwalser.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Brixen {Bressanone}, Italy
+  du: '1591-12-08'
+  au: '1593-01-10'
+- titre: Titular Bishop of Belline
+  du: '1591-12-08'
+  au: null
+- titre: évêque auxiliaire
+  du: '1591-12-08'
+  au: null
+- titre: évêque titulaire
+  du: '1591-12-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777002
+  catholic_hierarchy: bwalser
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:49:36+00:00'
+  completeness: 0.88

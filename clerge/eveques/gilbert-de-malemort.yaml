@@ -1,0 +1,40 @@
+slug: gilbert-de-malemort
+nom: Gilbert de Malemort
+nom_complet: null
+naissance: null
+deces: '1294'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1276-03-22'
+  consecrateur_principal: raymond-de-calomonte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalemort.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: '1275-12-16'
+  au: 1294&sup2;
+- titre: évêque diocésain
+  du: '1275-12-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781237
+  catholic_hierarchy: bmalemort
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:17:14+00:00'
+  completeness: 0.62

@@ -1,0 +1,40 @@
+slug: manasses-de-seignelay
+nom: Manasses de Seignelay
+nom_complet: null
+naissance: null
+deces: '1221'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1207'
+  consecrateur_principal: pierre-de-corbeil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseignel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orléans, France
+  du: 1207&sup1;
+  au: 1221&sup2;
+- titre: évêque diocésain
+  du: '1207-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779864
+  catholic_hierarchy: bseignel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:32+00:00'
+  completeness: 0.62

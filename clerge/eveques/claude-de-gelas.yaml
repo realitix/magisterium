@@ -1,0 +1,41 @@
+slug: claude-de-gelas
+nom: Claude de Gélas
+nom_complet: Claude de Gelas
+naissance: null
+deces: '1630-12-26'
+naissance_lieu: Lyon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1609-10-25'
+  consecrateur_principal: roberto-ubaldini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgelasc.html
+  - https://fr.wikipedia.org/wiki/Claude_de_G%C3%A9las
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: '1609-04-29'
+  au: '1630-12-26'
+- titre: évêque diocésain
+  du: '1609-04-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2978339
+  catholic_hierarchy: bgelasc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:15:55+00:00'
+  completeness: 0.75

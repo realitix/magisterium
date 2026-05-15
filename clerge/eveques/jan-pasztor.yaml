@@ -1,0 +1,44 @@
+slug: jan-pasztor
+nom: Ján Pásztor
+nom_complet: null
+naissance: '1912-01-27'
+deces: '1988-11-08'
+naissance_lieu: Prievidza, Diocese of Nitra
+deces_lieu: Nitra, Diocese of Nitra
+rang: eveque
+nationalite: Q33946
+tampon: ordo_dubius
+sacre:
+  date: '1973-03-03'
+  lieu: Nitra, Diocese of Nitra
+  consecrateur_principal: agostino-casaroli
+  co_consecrateurs:
+  - frantisek-tomasek
+  - stepan-trochta
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpasztor.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nitra, Slovakia
+  du: '1973-02-19'
+  au: '1988-11-08'
+- titre: Évêque de Nitra
+  du: '1973-02-19'
+  au: '1988-11-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12027458
+  catholic_hierarchy: bpasztor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:13:01+00:00'
+  completeness: 1.0

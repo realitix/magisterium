@@ -1,0 +1,48 @@
+slug: angelo-rocca
+nom: Angelo Rocca
+nom_complet: Angelo Rocca, O.S.A.
+naissance: '1545'
+deces: '1620-04-08'
+naissance_lieu: Rocca Contrada
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1605-02-06'
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - fabio-biondi
+  - tommaso-lapis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broccaa.html
+  - https://fr.wikipedia.org/wiki/Angelo_Rocca
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Thagaste
+  du: '1605-01-31'
+  au: '1620-04-08'
+- titre: évêque titulaire de Thagaste
+  du: '1605-01-31'
+  au: null
+fraternite: augustins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Angelus%20Rocca%2C%20PA08255.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3617199
+  catholic_hierarchy: broccaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:19:28+00:00'
+  completeness: 0.88

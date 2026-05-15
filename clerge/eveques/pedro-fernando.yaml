@@ -1,0 +1,40 @@
+slug: pedro-fernando
+nom: Pedro Fernando
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1542-01-09'
+  consecrateur_principal: francisco-guaresma-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfernap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Hippos
+  du: '1542-01-09'
+  au: null
+- titre: évêque titulaire
+  du: '1542-01-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779958
+  catholic_hierarchy: bfernap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:37:29+00:00'
+  completeness: 0.38

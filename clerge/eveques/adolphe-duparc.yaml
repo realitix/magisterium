@@ -1,0 +1,49 @@
+slug: adolphe-duparc
+nom: Adolphe Duparc
+nom_complet: Adolphe-Yves-Marie Duparc
+naissance: '1857-02-05'
+deces: '1946-05-08'
+naissance_lieu: Lorient, Diocese of Vannes
+deces_lieu: Quimper, Diocese of Quimper [Cornouailles](-Léon)
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1908-02-25'
+  lieu: Basilica, Sainte-Anne-d`Auray
+  consecrateur_principal: alcime-armand-pierre-marie-gouraud
+  co_consecrateurs:
+  - pierre-emile-rouard
+  - marie-prosper-de-bonfils
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupa.html
+  - https://fr.wikipedia.org/wiki/Adolphe_Duparc
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quimper [Cornouailles](-Léon), France
+  du: '1908-02-15'
+  au: '1946-05-08'
+- titre: évêque diocésain
+  du: '1908-02-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ouest-Eclair%20-%2028%20octobre%201908%20-%20Mgr%20Duparc.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2824812
+  catholic_hierarchy: bdupa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:43+00:00'
+  completeness: 1.0

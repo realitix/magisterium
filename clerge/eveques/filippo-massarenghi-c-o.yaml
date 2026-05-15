@@ -1,0 +1,43 @@
+slug: filippo-massarenghi-c-o
+nom: Filippo Massarenghi, C.O.
+nom_complet: Filippo Massarenghi
+naissance: '1640-02-08'
+deces: '1688-06-05'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1686-05-19'
+  consecrateur_principal: alessandro-crescenzi
+  co_consecrateurs:
+  - pier-antonio-capobianco
+  - francesco-onofrio-hodierna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmassaren.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bitonto, Italy
+  du: '1686-05-13'
+  au: '1688-06-05'
+- titre: évêque diocésain
+  du: '1686-05-13'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q26702316
+  catholic_hierarchy: bmassaren
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:35:54+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: miro-relota
+nom: Miro Relota
+nom_complet: Miro Relota, O.F.M.
+naissance: '1965-07-01'
+deces: null
+naissance_lieu: Gusti Grab (Busova&#269;a), Archdiocese of Vrhbosna {Sarajevo}
+deces_lieu: null
+rang: eveque
+nationalite: Q225
+tampon: ordo_dubius
+sacre:
+  date: '2026-02-14'
+  lieu: Sacred Heart of Jesus, Cathedral, Sarajevo, Archdiocese of Vrhbosna {Sarajevo}
+  consecrateur_principal: tomo-vuksic
+  co_consecrateurs:
+  - vinko-puljic
+  - drazen-kutlesa
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brelota.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bosnia and Herzegovina, Military
+  du: '2025-11-21'
+  au: null
+- titre: évêque diocésain
+  du: '2025-11-21'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q136894417
+  catholic_hierarchy: brelota
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:08:12+00:00'
+  completeness: 0.88

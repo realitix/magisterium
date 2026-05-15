@@ -1,0 +1,51 @@
+slug: henri-de-marcy
+nom: Henri de Marcy
+nom_complet: Henri Cardinal de Marsiac, O. Cist.
+naissance: '1136'
+deces: '1188-07-04'
+naissance_lieu: Château de Marcy, near Cluny
+deces_lieu: null
+rang: cardinal
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1179-03-14'
+  consecrateur_principal: non-indexe-cdd3fb69
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarsiac.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Marcy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Bishop of Albano
+  du: Mar 1179&sup3;
+  au: 4 Jul 1188&sup3;
+- titre: cardinal
+  du: '1179-03-01'
+  au: null
+- titre: cardinal-évêque
+  du: '1179-01-01'
+  au: '1188-01-01'
+- titre: abbé de Clairvaux
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Auguste%20messagers.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q540511
+  catholic_hierarchy: bmarsiac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:31+00:00'
+  completeness: 0.62

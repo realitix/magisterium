@@ -1,0 +1,50 @@
+slug: thomas-planta
+nom: Thomas Planta
+nom_complet: Thomas von Planta
+naissance: '1520-12-21'
+deces: '1565-04-28'
+naissance_lieu: Zuoz
+deces_lieu: Bad Fideris
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1551-10-10'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplanta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: null
+  au: '1565-04-28'
+- titre: évêque
+  du: null
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1549-12-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/ThomasPlanta.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q14644286
+  catholic_hierarchy: bplanta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:20+00:00'
+  completeness: 0.62

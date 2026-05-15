@@ -1,0 +1,54 @@
+slug: antoine-de-lastic
+nom: Antoine de Lastic
+nom_complet: null
+naissance: '1709'
+deces: '1763-12-23'
+naissance_lieu: Sieuzac
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1740-10-09'
+  consecrateur_principal: charles-antoine-de-la-roche-aymon
+  co_consecrateurs:
+  - etienne-rene-potier-de-gesvres
+  - armand-bazin-de-bezons-1701
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdlasti.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Lastic
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Bertrand de) Comminges, France
+  du: null
+  au: '1763-12-15'
+- titre: Bishop Emeritus of (Saint-Bertrand de) Comminges, France
+  du: null
+  au: '1763-12-23'
+- titre: évêque diocésain
+  du: '1763-11-16'
+  au: null
+- titre: évêque diocésain
+  du: '1739-10-14'
+  au: '1763-12-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20de%20Lastic-Sieujac%20-%20Parentignat.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2388132
+  catholic_hierarchy: bdlasti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:53:50+00:00'
+  completeness: 0.88

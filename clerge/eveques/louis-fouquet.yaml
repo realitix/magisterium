@@ -1,0 +1,48 @@
+slug: louis-fouquet
+nom: Louis Fouquet
+nom_complet: Louis Foucquet
+naissance: '1633-02-04'
+deces: '1702-02-04'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1659-03-02'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - gilles-boutault
+  - bonaventura-rousseau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfoucql.html
+  - https://fr.wikipedia.org/wiki/Louis_Fouquet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agde, France
+  du: null
+  au: '1702-02-04'
+- titre: évêque diocésain
+  du: '1656-10-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Fouquet%2C%20%C3%A9v%C3%AAque%20d%27Agde.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3261913
+  catholic_hierarchy: bfoucql
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:53:56+00:00'
+  completeness: 1.0

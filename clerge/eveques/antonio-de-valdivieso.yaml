@@ -1,0 +1,44 @@
+slug: antonio-de-valdivieso
+nom: Antonio de Valdivieso
+nom_complet: Antonio de Valdivieso, O.P.
+naissance: '1495'
+deces: '1549-02-26'
+naissance_lieu: Villa Hermosa, Diocese of Burgos, Spain
+deces_lieu: León, Diocese of Nicaragua
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1545-11-08'
+  lieu: Gracias a Dios, Diocese of Nicaragua
+  consecrateur_principal: francisco-marroquin
+  co_consecrateurs:
+  - bartolome-de-las-casas-casaus-o-p
+  - cristobal-de-pedraza
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvald.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicaragua
+  du: '1544-02-29'
+  au: '1549-02-26'
+- titre: évêque du Nicaragua
+  du: '1544-03-10'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q2883189
+  catholic_hierarchy: bvald
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:21:00+00:00'
+  completeness: 0.88

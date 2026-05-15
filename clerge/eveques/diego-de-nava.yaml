@@ -1,0 +1,38 @@
+slug: diego-de-nava
+nom: Diego de Nava
+nom_complet: null
+naissance: null
+deces: '1493'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnavad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ampurias, Italy
+  du: '1486-10-02'
+  au: 1493&sup1;
+- titre: Roman Catholic Bishop of Ampurias
+  du: '1486-10-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781145
+  catholic_hierarchy: bnavad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:26:53+00:00'
+  completeness: 0.25

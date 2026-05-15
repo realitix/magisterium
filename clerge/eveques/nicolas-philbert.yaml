@@ -1,0 +1,42 @@
+slug: nicolas-philbert
+nom: Nicolas Philbert
+nom_complet: '[Constitutional Bishop Nicolas Philbert], C.M.'
+naissance: '1724-10-31'
+deces: '1797-06-22'
+naissance_lieu: Sexey aux Forges
+deces_lieu: Villette, [Constitutional Diocese of Ardennes]
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-03-13'
+  lieu: Oratoire, Paris, Archdiocese of Paris
+  consecrateur_principal: jean-baptiste-pierre-saurine
+  co_consecrateurs:
+  - constitutional-bishop-robert-thomas-lindet
+  - francois-xavier-laurent
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bphilbert.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Philbert
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Ardennes (Constitutional), France]
+  du: null
+  au: '1797-06-22'
+fraternite: lazaristes
+photo: null
+qids:
+  wikidata: Q3340673
+  catholic_hierarchy: bphilbert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:28:33+00:00'
+  completeness: 1.0

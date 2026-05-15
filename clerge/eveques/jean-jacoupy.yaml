@@ -1,0 +1,44 @@
+slug: jean-jacoupy
+nom: Jean Jacoupy
+nom_complet: null
+naissance: '1761-04-28'
+deces: '1848-05-27'
+naissance_lieu: Saint-Martin-de-Ribérac
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-07-18'
+  consecrateur_principal: antoine-xavier-mayneaud-de-pancemont
+  co_consecrateurs:
+  - irenee-yves-dessolle
+  - jean-baptiste-colonna-d-istria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjacou.html
+  - https://fr.wikipedia.org/wiki/Jean_Jacoupy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Agen, France
+  du: null
+  au: '1848-05-27'
+- titre: évêque diocésain
+  du: '1802-07-12'
+  au: '1841-07-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18214969
+  catholic_hierarchy: bjacou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:09+00:00'
+  completeness: 1.0

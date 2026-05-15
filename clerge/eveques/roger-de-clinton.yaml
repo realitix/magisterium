@@ -1,0 +1,40 @@
+slug: roger-de-clinton
+nom: Roger de Clinton
+nom_complet: null
+naissance: '1100'
+deces: '1148-04-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1129-12-22'
+  consecrateur_principal: william-of-corbeuil-c-r-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclinton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: 1129&sup1;
+  au: '1148-04-16'
+- titre: évêque de Coventry et Lichfield
+  du: '1129-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7359193
+  catholic_hierarchy: bclinton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:40+00:00'
+  completeness: 0.75

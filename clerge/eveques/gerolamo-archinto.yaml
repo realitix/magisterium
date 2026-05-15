@@ -1,0 +1,41 @@
+slug: gerolamo-archinto
+nom: Gerolamo Archinto
+nom_complet: null
+naissance: '1651-10-06'
+deces: '1710-10-22'
+naissance_lieu: Cantù, Archdiocese of Milano {Milan}
+deces_lieu: Vigevano, Diocese of Vigevano
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1703-03-18'
+  lieu: San Carlo al Corso, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barchge.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vigevano, Italy
+  du: '1703-03-05'
+  au: '1710-10-22'
+- titre: évêque diocésain
+  du: '1703-03-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3761190
+  catholic_hierarchy: barchge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:45:35+00:00'
+  completeness: 0.88

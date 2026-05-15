@@ -1,0 +1,43 @@
+slug: juan-de-guevara
+nom: Juan de Guevara
+nom_complet: Juan de Guevara, C.R.M.
+naissance: '1550'
+deces: '1641-08-01'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1627-04-11'
+  consecrateur_principal: luigi-cardinal-caetani
+  co_consecrateurs:
+  - antonio-santacroce
+  - pietro-francesco-montorio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguevj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teano, Italy
+  du: '1627-03-22'
+  au: Aug 1641&sup3;
+- titre: Roman Catholic Bishop of Teano
+  du: '1627-03-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21547175
+  catholic_hierarchy: bguevj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:49:00+00:00'
+  completeness: 0.75

@@ -1,0 +1,47 @@
+slug: thomas-ii-zaremba
+nom: Thomas II Zaremba
+nom_complet: Tomasz Zaremba
+naissance: '1300'
+deces: '1292'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1270-09-05'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzaremba.html
+  - https://fr.wikipedia.org/wiki/Thomas_II_Zaremba
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wroc&#322;aw (Breslau), Poland
+  du: 1270&sup1;
+  au: '1292-03-15'
+- titre: évêque de Wrocław
+  du: '1270-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20II%20of%20Wroclaw%20-%20seal%20%28c.%201270%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q331544
+  catholic_hierarchy: bzaremba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:06:44+00:00'
+  completeness: 0.5

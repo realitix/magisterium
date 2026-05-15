@@ -1,0 +1,49 @@
+slug: jean-irenee-depery
+nom: Jean-Irénée Depéry
+nom_complet: null
+naissance: '1796-03-06'
+deces: '1861-12-09'
+naissance_lieu: Challex
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1844-09-01'
+  lieu: Cathedral, Belley, Diocese of Belley
+  consecrateur_principal: alexandre-devie
+  co_consecrateurs:
+  - francois-marie-vibert
+  - louis-rendu
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdepery.html
+  - https://fr.wikipedia.org/wiki/Jean-Ir%C3%A9n%C3%A9e_Dep%C3%A9ry
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap, France
+  du: null
+  au: '1861-12-09'
+- titre: évêque diocésain
+  du: '1844-04-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Irenee%20Depery%2C%20eveque%20de%20Gap.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3166147
+  catholic_hierarchy: bdepery
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:43:23+00:00'
+  completeness: 1.0

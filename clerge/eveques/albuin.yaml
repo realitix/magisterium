@@ -1,0 +1,36 @@
+slug: albuin
+nom: Albuin
+nom_complet: Albuinus
+naissance: '1000'
+deces: '1006-02-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Brixen
+  du: '0992-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ingenuin%20Albuin%20Brixen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q45474
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56

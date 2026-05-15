@@ -1,0 +1,43 @@
+slug: henri-viii-de-legnica
+nom: Henri VIII de Legnica
+nom_complet: Henryk Legnicki
+naissance: '1358'
+deces: '1398-12-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blegnic.html
+  - https://fr.wikipedia.org/wiki/Henri_VIII_de_Legnica
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of W&#322;oc&#322;awek (Kujawy, Kalisze), Poland
+  du: '1389-05-14'
+  au: '1398-12-12'
+- titre: évêque de Włocławek
+  du: '1389-05-22'
+  au: '1398-12-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20VIII.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q367640
+  catholic_hierarchy: blegnic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:41:06+00:00'
+  completeness: 0.38

@@ -1,0 +1,44 @@
+slug: theodore-legain
+nom: Théodore Legain
+nom_complet: null
+naissance: '1809-11-08'
+deces: '1881-04-21'
+naissance_lieu: Épeugney
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-07-25'
+  lieu: Cathedral, Montauban, Diocese of Montauban
+  consecrateur_principal: florian-desprez
+  co_consecrateurs:
+  - theodore-augustin-forcade
+  - pierre-lacarriere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blegain.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montauban, France
+  du: null
+  au: '1881-04-21'
+- titre: évêque de Montauban
+  du: '1871-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q63184315
+  catholic_hierarchy: blegain
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:40:42+00:00'
+  completeness: 1.0

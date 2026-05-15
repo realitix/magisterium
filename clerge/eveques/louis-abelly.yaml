@@ -1,0 +1,51 @@
+slug: louis-abelly
+nom: Louis Abelly
+nom_complet: null
+naissance: '1604-06-01'
+deces: '1691-10-04'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1664-08-24'
+  consecrateur_principal: hardouin-de-perefixe-de-beaumont
+  co_consecrateurs:
+  - gaspard-de-daillon
+  - charles-louis-de-lorraine-o-cist
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/babelly.html
+  - https://fr.wikipedia.org/wiki/Louis_Abelly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rodez, France
+  du: '1664-07-09'
+  au: 1666&sup2;
+- titre: Bishop Emeritus of Rodez, France
+  du: null
+  au: '1691-10-04'
+- titre: évêque de Rodez
+  du: '1664-07-09'
+  au: '1666-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Abelly%20dans%20Gallica.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2351798
+  catholic_hierarchy: babelly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:53+00:00'
+  completeness: 0.88

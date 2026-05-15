@@ -1,0 +1,44 @@
+slug: pierre-clement
+nom: Pierre Clément
+nom_complet: null
+naissance: '1646'
+deces: '1719-01-08'
+naissance_lieu: Ornans
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1702-10-29'
+  consecrateur_principal: jacques-nicolas-colbert
+  co_consecrateurs:
+  - louis-thomas-d-rsquo-acquin
+  - pierre-de-langle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclemp.html
+  - https://fr.wikipedia.org/wiki/Pierre_Cl%C3%A9ment_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: null
+  au: '1719-01-08'
+- titre: évêque diocésain
+  du: '1702-06-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22970617
+  catholic_hierarchy: bclemp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:56+00:00'
+  completeness: 0.88

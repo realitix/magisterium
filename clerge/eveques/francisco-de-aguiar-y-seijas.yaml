@@ -1,0 +1,53 @@
+slug: francisco-de-aguiar-y-seijas
+nom: Francisco de Aguiar y Seijas
+nom_complet: Francisco de Aguiar y Seijas y Ulloa
+naissance: '1632-02-11'
+deces: '1698-08-14'
+naissance_lieu: Santiago de Compostela, Archdiocese of Santiago de Compostela, Spain
+deces_lieu: Mexico, Archdiocese of México, Federal District
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1678-11-20'
+  lieu: Cathedral, Tlaxcala, Diocese of Tlaxcala (Puebla de los Angeles)
+  consecrateur_principal: manuel-fernandez-de-santa-cruz
+  co_consecrateurs:
+  - juan-antonio-garcia-de-palacios
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeaguir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Michoacán, México
+  du: '1677-08-30'
+  au: null
+- titre: Archbishop of México, Federal District
+  du: '1682-04-20'
+  au: '1698-08-14'
+- titre: évêque de Michoacán
+  du: '1677-08-30'
+  au: null
+- titre: archevêque métropolitain de Mexico
+  du: '1682-04-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Aguiar%20%28cropped%29.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8962589
+  catholic_hierarchy: bdeaguir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:35:32+00:00'
+  completeness: 0.88

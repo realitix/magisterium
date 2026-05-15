@@ -1,0 +1,56 @@
+slug: peter-korompay
+nom: Péter Korompay
+nom_complet: null
+naissance: '1633-06-24'
+deces: '1690-05-12'
+naissance_lieu: Nahács
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1681-09-21'
+  lieu: St. Michel, Sopron
+  consecrateur_principal: gyorgy-szelepcsenyi
+  co_consecrateurs:
+  - leopold-karl-von-kollonitsch
+  - jan-gubasoczy-guba-353-oci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkoromp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: '1681-04-28'
+  au: null
+- titre: Bishop of Eger, Hungary
+  du: '1682-04-20'
+  au: null
+- titre: Bishop of Nitra, Slovakia
+  du: '1687-11-24'
+  au: '1690-05-12'
+- titre: évêque d'Eger
+  du: '1682-04-20'
+  au: null
+- titre: Évêque de Nitra
+  du: '1687-11-24'
+  au: null
+- titre: évêque de Vác
+  du: '1681-04-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25460158
+  catholic_hierarchy: bkoromp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:18:55+00:00'
+  completeness: 1.0

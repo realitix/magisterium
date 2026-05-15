@@ -1,0 +1,48 @@
+slug: jean-de-maupeou
+nom: Jean de Maupeou
+nom_complet: Jean de Meaupéou
+naissance: '1623-09-01'
+deces: '1677-05-02'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1660-05-09'
+  consecrateur_principal: victor-le-bouthilier
+  co_consecrateurs:
+  - denis-de-la-barde
+  - claude-auvry
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaupj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Maupeou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1659-04-21'
+  au: '1677-05-02'
+- titre: évêque de Chalon-sur-Saône
+  du: '1659-04-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20Maupeou%20%281623-1677%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3175570
+  catholic_hierarchy: bmaupj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:25+00:00'
+  completeness: 0.88

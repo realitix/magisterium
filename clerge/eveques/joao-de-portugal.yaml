@@ -1,0 +1,39 @@
+slug: joao-de-portugal
+nom: João de Portugal
+nom_complet: null
+naissance: null
+deces: '1585'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1556-12-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bportujo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guarda, Portugal
+  du: '1556-03-23'
+  au: 1585&sup1;
+- titre: évêque diocésain
+  du: '1556-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909987
+  catholic_hierarchy: bportujo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:45:20+00:00'
+  completeness: 0.38

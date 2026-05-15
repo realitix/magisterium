@@ -1,0 +1,48 @@
+slug: tito-buss
+nom: Tito Buss
+nom_complet: null
+naissance: '1925-09-01'
+deces: '2013-04-30'
+naissance_lieu: São Ludgero
+deces_lieu: Regional, Hospital, Rio do Sul, Diocese of Rio do Sul, Santa Catarina
+rang: eveque
+nationalite: Q155
+tampon: ordo_dubius
+sacre:
+  date: '1969-08-03'
+  lieu: Sta. Catarina, Rio do Sul, Diocese of Rio do Sul, Santa Catarina
+  consecrateur_principal: alfonso-niehues
+  co_consecrateurs:
+  - gregorio-warmeling
+  - wilson-laus-schmidt
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuss.html
+  - https://fr.wikipedia.org/wiki/Tito_Buss
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rio do Sul, Santa Catarina, Brazil
+  du: '1969-03-12'
+  au: null
+- titre: Bishop Emeritus of Rio do Sul, Santa Catarina, Brazil
+  du: null
+  au: '2013-04-30'
+- titre: évêque diocésain
+  du: '1969-03-12'
+  au: '2000-08-30'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1418793
+  catholic_hierarchy: bbuss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:01:37+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: serge-poitras
+nom: Serge Poitras
+nom_complet: Serge Patrick Poitras
+naissance: '1949-05-27'
+deces: null
+naissance_lieu: Jonquière, Diocese of Chicoutimi, Québec
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2012-12-27'
+  lieu: Saint-Antoine-de-Padoue, Cathedral, Timmins, Diocese of Timmins, Ontario
+  consecrateur_principal: terrence-prendergast
+  co_consecrateurs:
+  - gerald-cyprien-lacroix
+  - andre-rivest
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoitras.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Timmins, Ontario, Canada
+  du: '2012-11-10'
+  au: null
+- titre: évêque diocésain
+  du: '2012-11-10'
+  au: '2026-05-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q32634
+  catholic_hierarchy: bpoitras
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:48+00:00'
+  completeness: 0.88

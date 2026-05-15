@@ -1,0 +1,62 @@
+slug: raul-martin
+nom: Raúl Martín
+nom_complet: null
+naissance: '1957-10-09'
+deces: null
+naissance_lieu: Buenos Aires, Archdiocese of Buenos Aires
+deces_lieu: null
+rang: archeveque
+nationalite: Q414
+tampon: ordo_dubius
+sacre:
+  date: '2006-05-20'
+  lieu: Cathedral, Buenos Aires, Archdiocese of Buenos Aires
+  consecrateur_principal: francis
+  co_consecrateurs:
+  - guillermo-rodriguez-melgarejo
+  - jorge-eduardo-lozano
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartra.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Buenos Aires, Argentina
+  du: '2006-03-01'
+  au: null
+- titre: Titular Bishop of Troyna
+  du: '2006-03-01'
+  au: null
+- titre: Bishop of Santa Rosa, Argentina
+  du: '2013-09-24'
+  au: null
+- titre: Archbishop of Paraná, Argentina
+  du: '2025-05-28'
+  au: null
+- titre: évêque titulaire
+  du: '2006-03-01'
+  au: '2013-09-24'
+- titre: évêque diocésain
+  du: '2013-09-24'
+  au: '2025-05-28'
+- titre: évêque auxiliaire
+  du: '2006-03-01'
+  au: '2013-09-24'
+- titre: archevêque métropolitain
+  du: '2025-05-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q373600
+  catholic_hierarchy: bmartra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:33:09+00:00'
+  completeness: 0.88

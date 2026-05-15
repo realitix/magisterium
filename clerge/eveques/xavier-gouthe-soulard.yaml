@@ -1,0 +1,49 @@
+slug: xavier-gouthe-soulard
+nom: Xavier Gouthe-Soulard
+nom_complet: François Xavier Gouthe-Soulard
+naissance: '1819-08-26'
+deces: '1900-09-09'
+naissance_lieu: Saint-Jean-la-Vêtre
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1886-07-25'
+  lieu: S. Jean, Cathedral, Lyon, Archdiocese of Lyon (-Vienne)
+  consecrateur_principal: odon-thibaudier
+  co_consecrateurs:
+  - adolphe-perraud
+  - jean-natalis-francois-gonindard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgoso.html
+  - https://fr.wikipedia.org/wiki/Xavier_Gouthe-Soulard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Aix (-Arles-Embrun), France
+  du: null
+  au: '1900-09-09'
+- titre: archevêque catholique
+  du: '1886-07-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20-%20Histoire%20des%20%C3%A9glises%20et%20chapelles%20de%20Lyon%2C%201908%2C%20tome%20II%200327.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q55672398
+  catholic_hierarchy: bgoso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:36:19+00:00'
+  completeness: 1.0

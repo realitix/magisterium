@@ -1,0 +1,46 @@
+slug: conrad-de-constance
+nom: Conrad de Constance
+nom_complet: St. Konrad von Altdorf
+naissance: '900'
+deces: '0975-11-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baltdor.html
+  - https://fr.wikipedia.org/wiki/Conrad_de_Constance
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: 935&sup1;
+  au: 26 Nov 975
+- titre: évêque diocésain
+  du: '0935-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/St.KonradPilger.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q705868
+  catholic_hierarchy: baltdor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:32:40+00:00'
+  completeness: 0.38

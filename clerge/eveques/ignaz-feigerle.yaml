@@ -1,0 +1,48 @@
+slug: ignaz-feigerle
+nom: Ignaz Feigerle
+nom_complet: Ignatius Feigerle
+naissance: '1795-04-07'
+deces: '1863-09-27'
+naissance_lieu: Biskupstwo (Mähren)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1852-04-25'
+  lieu: S. Augustin, Vienna, Archdiocese of Wien {Vienna}
+  consecrateur_principal: vincenz-eduard-milde
+  co_consecrateurs:
+  - johann-michael-leonhard
+  - franz-xaver-zenner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfeigerle.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sankt Pölten, Austria
+  du: null
+  au: '1863-09-27'
+- titre: évêque de Sankt Pölten
+  du: '1851-12-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Feigerle%20Litho.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q89730
+  catholic_hierarchy: bfeigerle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:21+00:00'
+  completeness: 1.0

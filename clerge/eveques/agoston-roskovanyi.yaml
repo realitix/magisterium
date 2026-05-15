@@ -1,0 +1,51 @@
+slug: agoston-roskovanyi
+nom: Ágoston Roskoványi
+nom_complet: null
+naissance: '1807-12-06'
+deces: '1892-02-24'
+naissance_lieu: Szenna
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1851-11-30'
+  lieu: Eger, Archdiocese of Eger, Hungary
+  consecrateur_principal: bela-bartakovics
+  co_consecrateurs:
+  - istvan-kollarcsik
+  - ladislav-zabojsky
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosko.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nitra, Slovakia
+  du: null
+  au: '1892-02-24'
+- titre: Évêque de Nitra
+  du: '1859-02-10'
+  au: null
+- titre: évêque de Vác
+  du: '1851-04-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Roskov%C3%A1nyi%20%C3%81goston%201892-10.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1251084
+  catholic_hierarchy: brosko
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:28:32+00:00'
+  completeness: 1.0

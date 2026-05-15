@@ -1,0 +1,47 @@
+slug: francesco-granata
+nom: Francesco Granata
+nom_complet: Francesco Antonio Granata
+naissance: '1701-02-05'
+deces: '1771-01-11'
+naissance_lieu: Capua
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1757-10-02'
+  consecrateur_principal: camillo-paolucci
+  co_consecrateurs:
+  - simone-gritti
+  - domenico-giordani-1700
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgranata.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sessa Aurunca, Italy
+  du: '1757-09-26'
+  au: '1771-01-11'
+- titre: évêque diocésain
+  du: '1757-09-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Granata.svg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3750075
+  catholic_hierarchy: bgranata
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:14+00:00'
+  completeness: 1.0

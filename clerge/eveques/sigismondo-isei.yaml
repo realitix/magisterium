@@ -1,0 +1,44 @@
+slug: sigismondo-isei
+nom: Sigismondo Isei
+nom_complet: null
+naissance: '1620-05-01'
+deces: '1670-09-01'
+naissance_lieu: Cesene
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1655-09-12'
+  lieu: Sant&rsquo;Agostino, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - patrizio-donati
+  - taddeo-altini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bisei.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Comacchio, Italy
+  du: '1655-08-30'
+  au: Sep 1670&sup3;
+- titre: évêque de Comacchio
+  du: '1655-08-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27661807
+  catholic_hierarchy: bisei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:54:57+00:00'
+  completeness: 0.88

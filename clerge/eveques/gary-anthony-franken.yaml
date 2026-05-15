@@ -1,0 +1,44 @@
+slug: gary-anthony-franken
+nom: Gary Anthony Franken
+nom_complet: null
+naissance: '1962-09-25'
+deces: null
+naissance_lieu: Vancouver, Archdiocese of Vancouver, British Columbia
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2022-12-12'
+  lieu: Saint Paul, Cathedral, Saint Paul, Diocese of Saint Paul in Alberta
+  consecrateur_principal: richard-william-smith
+  co_consecrateurs:
+  - john-michael-miller
+  - paul-terrio
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranken.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Paul in Alberta, Canada
+  du: '2022-09-15'
+  au: null
+- titre: évêque de Saint-Paul en Alberta
+  du: '2022-09-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q113989148
+  catholic_hierarchy: bfranken
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:56:31+00:00'
+  completeness: 0.88

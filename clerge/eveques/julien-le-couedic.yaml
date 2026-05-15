@@ -1,0 +1,54 @@
+slug: julien-le-couedic
+nom: Julien Le Couëdic
+nom_complet: Julien François Le Couëdic
+naissance: '1890-01-06'
+deces: '1975-02-09'
+naissance_lieu: Versailles, Diocese of Versailles
+deces_lieu: Versailles, Diocese of Versailles
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1944-01-18'
+  lieu: Saint-Louis, Cathedral, Versailles, Diocese of Versailles
+  consecrateur_principal: benjamin-octave-roland-gosselin
+  co_consecrateurs:
+  - marcel-fleury
+  - henri-audrain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blecou.html
+  - https://fr.wikipedia.org/wiki/Julien_Le_Cou%C3%ABdic
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troyes, France
+  du: '1943-11-04'
+  au: null
+- titre: Titular Bishop of Flenucleta
+  du: '1967-02-21'
+  au: '1970-12-10'
+- titre: Bishop Emeritus of Troyes, France
+  du: null
+  au: '1975-02-09'
+- titre: évêque titulaire
+  du: '1967-02-21'
+  au: '1970-12-10'
+- titre: évêque de Troyes
+  du: '1943-11-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27508124
+  catholic_hierarchy: blecou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:55+00:00'
+  completeness: 1.0

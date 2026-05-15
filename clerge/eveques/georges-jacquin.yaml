@@ -1,0 +1,47 @@
+slug: georges-jacquin
+nom: Georges Jacquin
+nom_complet: Georges-Clément-Joseph-Edouard Jacquin
+naissance: '1881-04-02'
+deces: '1956-04-25'
+naissance_lieu: Aignay-le-Duc
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1942-12-08'
+  consecrateur_principal: guillaume-sembel
+  co_consecrateurs:
+  - gabriel-brunhes
+  - lucien-sidroine-lebrun
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjacqu.html
+  - https://fr.wikipedia.org/wiki/Georges_Jacquin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moulins, France
+  du: '1942-10-07'
+  au: '1956-04-25'
+- titre: évêque de Moulins
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1942-10-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64658139
+  catholic_hierarchy: bjacqu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:17+00:00'
+  completeness: 1.0

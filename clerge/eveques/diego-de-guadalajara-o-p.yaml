@@ -1,0 +1,42 @@
+slug: diego-de-guadalajara-o-p
+nom: Diego de Guadalajara, O.P.
+nom_complet: Diego de Guadalajara
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguadalaj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Granada, Spain
+  du: '1447-01-09'
+  au: null
+- titre: évêque titulaire de Grenade
+  du: '1447-01-18'
+  au: '1450-01-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A1pida%20de%20Diego%20de%20san%20Miguel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q108450399
+  catholic_hierarchy: bguadalaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:46:19+00:00'
+  completeness: 0.25

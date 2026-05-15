@@ -1,0 +1,43 @@
+slug: gabriel-de-boisleve
+nom: Gabriel de Boislève
+nom_complet: null
+naissance: '1595-03-01'
+deces: '1667-12-03'
+naissance_lieu: Angers
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: robert-cupif
+  co_consecrateurs:
+  - claude-auvry
+  - jean-d-estrades
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboisl.html
+  - https://fr.wikipedia.org/wiki/Gabriel_de_Boisl%C3%A8ve
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avranches, France
+  du: null
+  au: '1667-12-03'
+- titre: évêque diocésain
+  du: '1651-01-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22970538
+  catholic_hierarchy: bboisl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:34:32+00:00'
+  completeness: 0.88

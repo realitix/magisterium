@@ -1,0 +1,43 @@
+slug: james-naughton
+nom: James Naughton
+nom_complet: null
+naissance: '1865-01-11'
+deces: '1950-02-16'
+naissance_lieu: Ballina, Diocese of Killala
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1912-01-07'
+  consecrateur_principal: john-healy
+  co_consecrateurs:
+  - thomas-gilmartin
+  - patrick-morrisroe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnaug.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killala, Ireland
+  du: '1911-11-27'
+  au: '1950-02-16'
+- titre: évêque diocésain
+  du: '1911-11-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762479
+  catholic_hierarchy: bnaug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:26:43+00:00'
+  completeness: 1.0

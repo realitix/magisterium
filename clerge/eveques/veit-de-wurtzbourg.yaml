@@ -1,0 +1,49 @@
+slug: veit-de-wurtzbourg
+nom: Veit de Wurtzbourg
+nom_complet: Veit von Würtzburg
+naissance: '1519-06-15'
+deces: '1577-07-08'
+naissance_lieu: Rothenkirchen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1566-04-28'
+  lieu: Saint Thomas, Chapel, Bamberg, Diocese of Bamberg
+  consecrateur_principal: friedrich-lichtenauer
+  co_consecrateurs:
+  - leonhard-haller
+  - wolfgang-westermeyer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwurtz.html
+  - https://fr.wikipedia.org/wiki/Veit_von_W%C3%BCrtzburg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1577-07-08'
+- titre: évêque diocésain
+  du: '1561-05-02'
+  au: '1577-07-18'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Veit%20von%20W%C3%BCrtzburg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7918715
+  catholic_hierarchy: bwurtz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:59:56+00:00'
+  completeness: 1.0

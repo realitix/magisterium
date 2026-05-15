@@ -1,0 +1,54 @@
+slug: jean-francois-bordini
+nom: Jean François Bordini
+nom_complet: Jean-François Bordini, C.O.
+naissance: '1536'
+deces: '1609'
+naissance_lieu: Roma, Diocese of Roma {Rome}, Italy
+deces_lieu: Avignon, Archdiocese of Avignon
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1592-02-25'
+  lieu: San Pietro in Vincoli, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: leon-xi
+  co_consecrateurs:
+  - domenico-grimaldi
+  - ludovico-de-torres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbordin.html
+  - https://fr.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Bordini
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cavaillon, France
+  du: '1592-02-27'
+  au: null
+- titre: Archbishop of Avignon, France
+  du: '1598-03-11'
+  au: Jan 1609&sup3;
+- titre: vice-légat pontifical
+  du: '1596-01-01'
+  au: '1599-01-01'
+- titre: évêque de Cavaillon
+  du: '1592-02-27'
+  au: null
+- titre: archevêque d'Avignon
+  du: '1598-03-11'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q27508130
+  catholic_hierarchy: bbordin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:39:50+00:00'
+  completeness: 0.75

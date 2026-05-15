@@ -1,0 +1,45 @@
+slug: viktor-bieler
+nom: Viktor Bieler
+nom_complet: null
+naissance: '1881-03-16'
+deces: '1952-03-19'
+naissance_lieu: Termen-Brig
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1919-07-27'
+  lieu: Cathedral, Sion, Diocese of Sion {Sitten}
+  consecrateur_principal: jakob-stammler
+  co_consecrateurs:
+  - georg-schmid-von-gruneck
+  - robert-burkler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbiel.html
+  - https://fr.wikipedia.org/wiki/Viktor_Bieler
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sion {Sitten}, Switzerland
+  du: '1919-07-03'
+  au: '1952-03-19'
+- titre: évêque de Sion
+  du: '1919-07-03'
+  au: '1952-03-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15621564
+  catholic_hierarchy: bbiel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:26:29+00:00'
+  completeness: 1.0

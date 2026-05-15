@@ -1,0 +1,47 @@
+slug: antonio-gava
+nom: Antonio Gava
+nom_complet: null
+naissance: '1795-06-26'
+deces: '1865-03-14'
+naissance_lieu: San Giacomo di Veglia
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1843-06-25'
+  lieu: St. Gregoire au Coelius, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: pietro-ostini
+  co_consecrateurs:
+  - lodovico-altieri
+  - fabio-maria-asquini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgava.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belluno e Feltre, Italy
+  du: null
+  au: '1852-11-03'
+- titre: Bishop Emeritus of Belluno e Feltre, Italy
+  du: null
+  au: '1865-03-14'
+- titre: évêque diocésain
+  du: '1842-09-10'
+  au: '1852-11-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3619637
+  catholic_hierarchy: bgava
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:25+00:00'
+  completeness: 1.0

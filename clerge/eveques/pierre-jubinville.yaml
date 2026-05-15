@@ -1,0 +1,45 @@
+slug: pierre-jubinville
+nom: Pierre Jubinville
+nom_complet: Pierre Laurent Jubinville, C.S.Sp.
+naissance: '1960-08-05'
+deces: null
+naissance_lieu: Ottawa, Archdiocese of Ottawa, Ontario, Canada
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2013-12-21'
+  lieu: Cathedral, San Pedro, Diocese of San Pedro
+  consecrateur_principal: adalberto-martinez-flores
+  co_consecrateurs:
+  - oscar-paez-garcete
+  - catalino-claudio-gimenez-medina
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjubin.html
+  - https://fr.wikipedia.org/wiki/Pierre_Jubinville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Pedro, Paraguay
+  du: '2013-11-06'
+  au: null
+- titre: évêque de San Pedro
+  du: '2013-11-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15222928
+  catholic_hierarchy: bjubin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:04:35+00:00'
+  completeness: 0.88

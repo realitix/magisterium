@@ -1,0 +1,45 @@
+slug: joseph-dixon
+nom: Joseph Dixon
+nom_complet: null
+naissance: '1806-02-01'
+deces: '1866-04-29'
+naissance_lieu: Coalisland
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1852-11-21'
+  lieu: St. Patrick, College, Maynooth, County Kildare, Archdiocese of Dublin
+  consecrateur_principal: paul-cullen
+  co_consecrateurs:
+  - james-browne
+  - george-errington
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdixon.html
+  - https://fr.wikipedia.org/wiki/Joseph_Dixon_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Armagh, Ireland
+  du: '1852-10-04'
+  au: '1866-04-29'
+- titre: archevêque d'Armargh
+  du: '1852-11-21'
+  au: '1866-04-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6282655
+  catholic_hierarchy: bdixon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:53:26+00:00'
+  completeness: 1.0

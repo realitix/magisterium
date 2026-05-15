@@ -1,0 +1,42 @@
+slug: john-chishull
+nom: John Chishull
+nom_complet: null
+naissance: '1250'
+deces: '1280-02-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1274-04-29'
+  consecrateur_principal: godfrey-giffard
+  co_consecrateurs:
+  - anian-schonaw-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchishu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: '1273-12-07'
+  au: '1280-02-08'
+- titre: évêque de Londres
+  du: '1273-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15979029
+  catholic_hierarchy: bchishu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:46:54+00:00'
+  completeness: 0.88

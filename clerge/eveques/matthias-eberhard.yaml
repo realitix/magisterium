@@ -1,0 +1,60 @@
+slug: matthias-eberhard
+nom: Matthias Eberhard
+nom_complet: null
+naissance: '1815-11-01'
+deces: '1876-05-30'
+naissance_lieu: Trier, Diocese of Trier
+deces_lieu: Trier, Diocese of Trier
+rang: eveque
+nationalite: Q43287
+tampon: ordo_validus
+sacre:
+  date: '1862-08-03'
+  lieu: Cathedral, Trier, Diocese of Trier
+  consecrateur_principal: wilhelm-arnoldi
+  co_consecrateurs:
+  - johann-georg-mueller
+  - johann-anton-friedrich-baudri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beberhard.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1862-04-07'
+  au: null
+- titre: Titular Bishop of Paneade
+  du: '1862-04-07'
+  au: null
+- titre: Bishop of Trier, Germany
+  du: null
+  au: '1876-05-30'
+- titre: évêque auxiliaire
+  du: '1862-04-07'
+  au: null
+- titre: évêque de Trèves
+  du: '1867-07-16'
+  au: null
+- titre: évêque titulaire
+  du: '1862-04-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Eberhard%20Trier%203%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q110866
+  catholic_hierarchy: beberhard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:18:17+00:00'
+  completeness: 1.0

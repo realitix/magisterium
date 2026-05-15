@@ -1,0 +1,43 @@
+slug: jose-weimann
+nom: José Weimann
+nom_complet: José Weimann, C.SS.R.
+naissance: '1892-04-06'
+deces: '1961-03-30'
+naissance_lieu: Hinojo
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_validus
+sacre:
+  date: '1940-09-08'
+  consecrateur_principal: giuseppe-fietta
+  co_consecrateurs:
+  - fortunato-javier-devoto
+  - miguel-paternain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweimann.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago del Estero, Argentina
+  du: '1940-08-01'
+  au: '1961-03-30'
+- titre: évêque de Santiago del Estero
+  du: '1940-08-01'
+  au: null
+fraternite: redemptoristes
+photo: null
+qids:
+  wikidata: Q13518424
+  catholic_hierarchy: bweimann
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:51+00:00'
+  completeness: 1.0

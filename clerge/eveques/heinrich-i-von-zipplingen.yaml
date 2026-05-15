@@ -1,0 +1,42 @@
+slug: heinrich-i-von-zipplingen
+nom: Heinrich I. von Zipplingen
+nom_complet: Heinrich von Zipplingen
+naissance: '1200'
+deces: '1229-01-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzippl.html
+  - https://fr.wikipedia.org/wiki/Heinrich_von_Zipplingen_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: '1225-07-02'
+  au: '1229-01-10'
+- titre: évêque diocésain
+  du: '1225-07-09'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597743
+  catholic_hierarchy: bzippl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:10:21+00:00'
+  completeness: 0.38

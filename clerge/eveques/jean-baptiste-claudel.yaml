@@ -1,0 +1,49 @@
+slug: jean-baptiste-claudel
+nom: Jean-Baptiste Claudel
+nom_complet: Jean-Baptiste Claudel, C.SS.R.
+naissance: '1876-01-26'
+deces: '1955-12-12'
+naissance_lieu: Colroy-La-Roche, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1943-09-12'
+  consecrateur_principal: egidio-lari
+  co_consecrateurs:
+  - abel-isidoro-antezana-y-rojas-c-m-f
+  - ricardo-chavez-alcazar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclaudel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Reyes, Bolivia
+  du: '1943-07-14'
+  au: '1955-12-12'
+- titre: Titular Bishop of Antandrus
+  du: '1943-07-14'
+  au: null
+- titre: vicaire apostolique
+  du: '1943-07-14'
+  au: null
+- titre: évêque titulaire d’Antandrus
+  du: '1943-07-14'
+  au: null
+fraternite: redemptoristes
+photo: null
+qids:
+  wikidata: Q19959202
+  catholic_hierarchy: bclaudel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:24+00:00'
+  completeness: 1.0

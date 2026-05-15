@@ -1,0 +1,40 @@
+slug: parsegh-ayvazian
+nom: Parsegh Ayvazian
+nom_complet: null
+naissance: null
+deces: '1860-01-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1838-02-04'
+  consecrateur_principal: gregoire-ii-pierre-vi-djeranian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bayvap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alep (Armenian), Syria
+  du: Jan 1838&sup3;
+  au: '1860-01-12'
+- titre: évêque diocésain
+  du: '1838-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68862937
+  catholic_hierarchy: bayvap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:32+00:00'
+  completeness: 0.75

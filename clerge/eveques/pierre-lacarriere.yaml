@@ -1,0 +1,52 @@
+slug: pierre-lacarriere
+nom: Pierre Lacarrière
+nom_complet: Pierre-Marie-Gervais Lacarrière
+naissance: '1808-06-19'
+deces: '1893-08-28'
+naissance_lieu: Aurillac, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1851-01-05'
+  lieu: Notre-Dâme des Neiges, Aurillac
+  consecrateur_principal: frederic-gabriel-marie-francois-de-marguerye
+  co_consecrateurs:
+  - jean-baptiste-pierre-leonard-berteaud
+  - jean-jacques-david-bardou
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaca.html
+  - https://fr.wikipedia.org/wiki/Pierre_Lacarri%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guadeloupe et Basse-Terre, Antilles
+  du: null
+  au: '1852-12-30'
+- titre: Bishop Emeritus of Guadeloupe et Basse-Terre, Antilles
+  du: null
+  au: '1893-08-28'
+- titre: évêque diocésain
+  du: '1850-07-24'
+  au: '1852-12-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Pierre%20Lacarri%C3%A8re.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15970329
+  catholic_hierarchy: blaca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:25:43+00:00'
+  completeness: 1.0

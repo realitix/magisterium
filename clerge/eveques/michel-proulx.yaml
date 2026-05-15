@@ -1,0 +1,45 @@
+slug: michel-proulx
+nom: Michel Proulx
+nom_complet: Michel Proulx, O. Praem.
+naissance: '1962-10-11'
+deces: null
+naissance_lieu: Saint-Lambert, Diocese of Saint-Jean-de-Québec, Québec
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2024-01-25'
+  lieu: Sacré-Coeur, Cathedral, Bathurst, Diocese of Bathurst in Canada, New Brunswick
+  consecrateur_principal: guy-desrochers
+  co_consecrateurs:
+  - valery-vienneau
+  - daniel-jodoin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bproulxm.html
+  - https://fr.wikipedia.org/wiki/Michel_Proulx
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bathurst in Canada, New Brunswick
+  du: '2023-10-28'
+  au: null
+- titre: évêque diocésain
+  du: '2023-10-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q123226425
+  catholic_hierarchy: bproulxm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:50:50+00:00'
+  completeness: 0.88

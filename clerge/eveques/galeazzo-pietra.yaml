@@ -1,0 +1,45 @@
+slug: galeazzo-pietra
+nom: Galeazzo Pietra
+nom_complet: null
+naissance: '1462'
+deces: '1552-10-27'
+naissance_lieu: Pavia, Diocese of Pavia
+deces_lieu: null
+rang: eveque
+nationalite: Q153529
+tampon: ordo_incertus
+sacre:
+  date: '1530-03-19'
+  lieu: Bologna, Diocese of Bologna
+  consecrateur_principal: gabriele-mascioli-foschi-o-e-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpietg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vigevano, Italy
+  du: '1530-03-14'
+  au: '1552-10-27'
+- titre: évêque diocésain
+  du: '1530-03-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20di%20Vigevano%2010.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3757559
+  catholic_hierarchy: bpietg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:32:08+00:00'
+  completeness: 0.75

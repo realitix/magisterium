@@ -1,0 +1,38 @@
+slug: luthold-von-rotheln
+nom: Lüthold von Rotheln
+nom_complet: Lüthold II. von Rötteln
+naissance: '1200'
+deces: '1249-01-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brotheln.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: '1238-08-22'
+  au: '1249-01-16'
+- titre: évêque de Bâle
+  du: '1238-08-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1880415
+  catholic_hierarchy: brotheln
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:30:52+00:00'
+  completeness: 0.38

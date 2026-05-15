@@ -1,0 +1,48 @@
+slug: francois-de-nesmond
+nom: François de Nesmond
+nom_complet: François II de Nesmond
+naissance: '1629-08-31'
+deces: '1715-05-16'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1662-03-19'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - claude-auvry
+  - francois-de-clermont-tonnerre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnesm.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Nesmond
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayeux, France
+  du: null
+  au: '1715-05-16'
+- titre: évêque diocésain
+  du: '1661-02-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20de%20Nesmond.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3086278
+  catholic_hierarchy: bnesm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:29:48+00:00'
+  completeness: 1.0

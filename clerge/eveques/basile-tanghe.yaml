@@ -1,0 +1,55 @@
+slug: basile-tanghe
+nom: Basile Tanghe
+nom_complet: Basile Octave Tanghe, O.F.M. Cap.
+naissance: '1879-03-20'
+deces: '1947-12-13'
+naissance_lieu: Bruges, Diocese of Brugge {Bruges}, Belgium
+deces_lieu: Bruges, Diocese of Brugge {Bruges}, Belgium
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1935-06-06'
+  lieu: Saint Sauveur et Saint Donatien, Cathedral, Bruges, Diocese of Brugge {Bruges},
+    Belgium
+  consecrateur_principal: henricus-lamiroy
+  co_consecrateurs:
+  - eugene-van-rechem
+  - etienne-joseph-carton-de-wiart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btanghe.html
+  - https://fr.wikipedia.org/wiki/Basile_Tanghe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prefect of Ubanghi Belga {Belgian Ubanghi}, Congo (Dem. Rep.)
+  du: '1931-10-16'
+  au: null
+- titre: Titular Bishop of Tigava
+  du: '1935-01-28'
+  au: null
+- titre: Vicar Apostolic of Ubanghi Belga {Belgian Ubanghi}, Congo (Dem. Rep.)
+  du: '1935-01-28'
+  au: '1947-12-13'
+- titre: vicaire apostolique
+  du: '1935-01-28'
+  au: null
+- titre: évêque titulaire
+  du: '1935-01-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027577
+  catholic_hierarchy: btanghe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:50:10+00:00'
+  completeness: 1.0

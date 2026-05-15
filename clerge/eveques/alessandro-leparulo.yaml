@@ -1,0 +1,49 @@
+slug: alessandro-leparulo
+nom: Alessandro Leparulo
+nom_complet: Alexander Liparuli
+naissance: '1501'
+deces: '1644'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-04-21'
+  consecrateur_principal: tiberio-muti-1574
+  co_consecrateurs:
+  - alessandro-di-sangro
+  - fabrizio-suardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blipara.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guardialfiera (Guardia), Italy
+  du: '1624-04-15'
+  au: null
+- titre: Bishop of Satriano e Campagna, Italy
+  du: '1637-12-14'
+  au: 1644&sup1;
+- titre: évêque diocésain
+  du: '1637-12-14'
+  au: null
+- titre: évêque de Guardialfiera
+  du: '1624-04-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3610082
+  catholic_hierarchy: blipara
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:51:41+00:00'
+  completeness: 0.75

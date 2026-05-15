@@ -1,0 +1,38 @@
+slug: john-dempsey
+nom: John Dempsey
+nom_complet: John Dempsy
+naissance: '1644'
+deces: '1707-06-16'
+naissance_lieu: Kildare, Diocese of Kildare
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdempsy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kildare and Leighlin, Ireland
+  du: '1694-02-08'
+  au: 16 Jun 1707&sup3;
+- titre: évêque diocésain
+  du: '1694-02-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68867944
+  catholic_hierarchy: bdempsy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:22+00:00'
+  completeness: 0.38

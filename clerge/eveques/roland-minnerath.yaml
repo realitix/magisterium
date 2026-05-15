@@ -1,0 +1,45 @@
+slug: roland-minnerath
+nom: Roland Minnerath
+nom_complet: null
+naissance: '1946-11-27'
+deces: null
+naissance_lieu: Sarreguemines
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2004-03-21'
+  lieu: Saint-Bénigne, Cathedral, Dijon, Archdiocese of Dijon
+  consecrateur_principal: michel-louis-coloni
+  co_consecrateurs:
+  - joseph-dore
+  - pierre-raffin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bminn.html
+  - https://fr.wikipedia.org/wiki/Roland_Minnerath
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Dijon, France
+  du: '2004-02-13'
+  au: null
+- titre: archevêque de Dijon
+  du: '2004-03-21'
+  au: '2022-02-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1200559
+  catholic_hierarchy: bminn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:59:06+00:00'
+  completeness: 0.88

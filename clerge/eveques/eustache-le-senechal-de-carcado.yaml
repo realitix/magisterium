@@ -1,0 +1,44 @@
+slug: eustache-le-senechal-de-carcado
+nom: Eustache Le Sénéchal de Carcado
+nom_complet: Eustache Le Séneschal de Carcado
+naissance: '1623-10-16'
+deces: '1694-05-15'
+naissance_lieu: Rennes, Diocese of Rennes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1692-09-07'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blsdc.html
+  - https://fr.wikipedia.org/wiki/Eustache_Le_S%C3%A9n%C3%A9chal_de_Carcado
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tréguier, France
+  du: null
+  au: '1694-05-15'
+- titre: Évêque de Tréguier
+  du: '1686-06-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Eustache%20le%20s%C3%A9n%C3%A9chal%20de%20Carcado.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3061056
+  catholic_hierarchy: blsdc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:25+00:00'
+  completeness: 0.62

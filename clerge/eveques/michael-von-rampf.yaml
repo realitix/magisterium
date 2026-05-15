@@ -1,0 +1,48 @@
+slug: michael-von-rampf
+nom: Michael von Rampf
+nom_complet: null
+naissance: '1825-10-04'
+deces: '1901-03-29'
+naissance_lieu: Munich, Archdiocese of München und Freising {Munich}
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1890-05-11'
+  lieu: Cathedral, Passau, Diocese of Passau
+  consecrateur_principal: antonius-von-thoma
+  co_consecrateurs:
+  - ignaz-von-senestrey
+  - pancrace-de-dinkel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brampf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: null
+  au: '1901-03-29'
+- titre: évêque de Passau
+  du: '1889-12-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Dr.%20Michael%20von%20Rampf%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1340190
+  catholic_hierarchy: brampf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:01:47+00:00'
+  completeness: 1.0

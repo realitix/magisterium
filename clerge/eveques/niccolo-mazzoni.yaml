@@ -1,0 +1,43 @@
+slug: niccolo-mazzoni
+nom: Niccolò Mazzoni
+nom_complet: null
+naissance: '1770-11-05'
+deces: '1842-11-11'
+naissance_lieu: Viterbo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1829-06-07'
+  consecrateur_principal: giovanni-francesco-falzacappa
+  co_consecrateurs:
+  - gaspare-bernardo-pianetti
+  - gregorio-muccioli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmazzn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Terni, Italy
+  du: '1829-05-21'
+  au: '1842-11-11'
+- titre: évêque diocésain
+  du: '1829-05-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751236
+  catholic_hierarchy: bmazzn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:41:49+00:00'
+  completeness: 1.0

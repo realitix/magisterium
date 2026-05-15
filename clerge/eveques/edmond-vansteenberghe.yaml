@@ -1,0 +1,44 @@
+slug: edmond-vansteenberghe
+nom: Edmond Vansteenberghe
+nom_complet: Edmund Vansteenberghe
+naissance: '1881-04-26'
+deces: '1943-12-10'
+naissance_lieu: Winnezeele
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1939-12-10'
+  consecrateur_principal: achille-lienart
+  co_consecrateurs:
+  - charles-joseph-eugene-ruch
+  - henri-edouard-dutoit
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvanse.html
+  - https://fr.wikipedia.org/wiki/Edmond_Vansteenberghe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayonne (-Lescar e Oloron), France
+  du: '1939-10-06'
+  au: '1943-12-10'
+- titre: évêque de Bayonne, Lescar et Oloron
+  du: '1939-10-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12256476
+  catholic_hierarchy: bvanse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:24:50+00:00'
+  completeness: 1.0

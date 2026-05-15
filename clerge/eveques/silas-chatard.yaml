@@ -1,0 +1,61 @@
+slug: silas-chatard
+nom: Silas Chatard
+nom_complet: Francis Silas Marean Chatard
+naissance: '1834-12-13'
+deces: '1918-09-07'
+naissance_lieu: Baltimore, MD, Archdiocese of Baltimore, Maryland
+deces_lieu: Indianapolis, Diocese of Indianapolis, Indiana
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1878-05-12'
+  lieu: North American, College, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: alessandro-franchi
+  co_consecrateurs:
+  - camillo-santori
+  - odoardo-agnelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchatard.html
+  - https://fr.wikipedia.org/wiki/Silas_Chatard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Rector of the Pontifical North American College
+  du: 1868&sup1;
+  au: null
+- titre: Bishop of Vincennes, Indiana, USA
+  du: '1878-03-26'
+  au: null
+- titre: Bishop of Indianapolis, Indiana, USA
+  du: '1898-03-28'
+  au: '1918-09-07'
+- titre: évêque diocésain
+  du: '1898-03-28'
+  au: '1918-09-07'
+- titre: recteur
+  du: '1868-01-01'
+  au: '1878-01-01'
+- titre: évêque diocésain
+  du: '1878-03-26'
+  au: '1898-03-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Silas%20Francis%20Marean%20Chatard.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7514128
+  catholic_hierarchy: bchatard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:34+00:00'
+  completeness: 1.0

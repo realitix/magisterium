@@ -1,0 +1,48 @@
+slug: gabriele-mana
+nom: Gabriele Mana
+nom_complet: Gabriel Mana
+naissance: '1943-03-04'
+deces: null
+naissance_lieu: Marene, Archdiocese of Torino {Turin}
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2001-09-01'
+  lieu: San Giovanni Battista, Cathedral, Torino, Archdiocese of Torino {Turin}
+  consecrateur_principal: severino-poletto
+  co_consecrateurs:
+  - massimo-giustetti
+  - enrico-masseroni
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmana.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Biella, Italy
+  du: '2001-07-13'
+  au: null
+- titre: Roman Catholic Bishop of Biella
+  du: '2001-07-13'
+  au: '2018-07-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gabriele%20Mana%20in%202023.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q731098
+  catholic_hierarchy: bmana
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:19:12+00:00'
+  completeness: 0.88

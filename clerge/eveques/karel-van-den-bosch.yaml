@@ -1,0 +1,50 @@
+slug: karel-van-den-bosch
+nom: Karel van den Bosch
+nom_complet: null
+naissance: '1597-05-22'
+deces: '1665-04-05'
+naissance_lieu: Bruxelles
+deces_lieu: null
+rang: eveque
+nationalite: Q170072
+tampon: ordo_validus
+sacre:
+  date: '1651-07-23'
+  consecrateur_principal: antoine-triest
+  co_consecrateurs:
+  - gaspard-dubois-van-den-bosch-nemius
+  - jacobus-de-la-torre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdboschk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: null
+  au: '1665-04-05'
+- titre: évêque de Bruges
+  du: '1650-01-07'
+  au: null
+- titre: Évêque de Gand
+  du: '1658-03-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PMa%20001051%20B%20Gent%20StB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2430255
+  catholic_hierarchy: bvdboschk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:28:29+00:00'
+  completeness: 1.0

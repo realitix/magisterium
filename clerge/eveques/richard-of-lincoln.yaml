@@ -1,0 +1,40 @@
+slug: richard-of-lincoln
+nom: Richard of Lincoln
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1187-03-15'
+  consecrateur_principal: non-indexe-76532ddf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brichardm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moray, Scotland, Great Britain
+  du: 1187&sup1;
+  au: 1203&sup2;
+- titre: évêque diocésain
+  du: '1187-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447309
+  catholic_hierarchy: brichardm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:13:10+00:00'
+  completeness: 0.62

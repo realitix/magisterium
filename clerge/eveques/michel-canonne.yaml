@@ -1,0 +1,48 @@
+slug: michel-canonne
+nom: Michel Canonne
+nom_complet: Michel-Henri Canonne, A.A.
+naissance: '1911-12-27'
+deces: '1991-04-30'
+naissance_lieu: Le Câteau-Cambrésis, Archdiocese of Cambrai, France
+deces_lieu: Montfermeil, Diocese of Saint-Denis, France
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1959-10-25'
+  lieu: Stadium, Tuléar, Diocese of Tuléar
+  consecrateur_principal: xavier-ferdinand-j-thoyer-s-j
+  co_consecrateurs:
+  - claude-rolland
+  - camille-antoine-chilouet-c-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanonne.html
+  - https://fr.wikipedia.org/wiki/Michel_Canonne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tuléar, Madagascar
+  du: '1959-04-25'
+  au: '1974-02-28'
+- titre: Bishop Emeritus of Tuléar, Madagascar
+  du: null
+  au: '1991-04-30'
+- titre: évêque diocésain
+  du: '1959-04-25'
+  au: '1974-02-28'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q62404415
+  catholic_hierarchy: bcanonne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:09+00:00'
+  completeness: 1.0

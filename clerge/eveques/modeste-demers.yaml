@@ -1,0 +1,46 @@
+slug: modeste-demers
+nom: Modeste Demers
+nom_complet: null
+naissance: '1809-10-11'
+deces: '1871-07-28'
+naissance_lieu: St.-Nicholas-de-Lévis, Diocese of Québec, Canada
+deces_lieu: Victoria, Diocese of Vancouver Island
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1847-11-30'
+  lieu: St. Paul, Willamette, OR, Archdiocese of Oregon City, Oregon
+  consecrateur_principal: francois-norbert-blanchet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdemers.html
+  - https://fr.wikipedia.org/wiki/Modeste_Demers
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vancouver Island, USA
+  du: '1846-07-28'
+  au: '1871-07-28'
+- titre: évêque diocésain
+  du: '1846-07-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Modeste%20Demers.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3317901
+  catholic_hierarchy: bdemers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:41:59+00:00'
+  completeness: 0.88

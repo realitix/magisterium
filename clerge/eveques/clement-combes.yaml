@@ -1,0 +1,57 @@
+slug: clement-combes
+nom: Clément Combes
+nom_complet: Barthélemy Clément Combes
+naissance: '1839-09-29'
+deces: '1922-02-20'
+naissance_lieu: Marseillette, France
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1881-10-09'
+  consecrateur_principal: charles-lavigerie
+  co_consecrateurs:
+  - prosper-auguste-dusserre
+  - pierre-marie-etienne-gustave-ardin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcombes.html
+  - https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Combes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Carthage, Tunisia
+  du: '1893-06-16'
+  au: '1922-02-20'
+- titre: Archbishop of Alger, Algeria
+  du: '1908-11-28'
+  au: '1917-01-02'
+- titre: archevêque d’Alger
+  du: '1908-11-28'
+  au: '1917-01-02'
+- titre: évêque de Constantine
+  du: '1881-02-17'
+  au: null
+- titre: archevêque de Carthage
+  du: '1893-06-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cl%C3%A9ment%20Combes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q30157523
+  catholic_hierarchy: bcombes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:15+00:00'
+  completeness: 1.0

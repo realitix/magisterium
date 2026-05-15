@@ -1,0 +1,52 @@
+slug: michel-saudreau
+nom: Michel Saudreau
+nom_complet: Michel Marie Paul Saudreau
+naissance: '1928-03-24'
+deces: '2007-06-01'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1974-09-22'
+  lieu: Notre-Dame, Cathedral, Le Havre, Diocese of Le Havre
+  consecrateur_principal: francois-marty
+  co_consecrateurs:
+  - andre-pailler
+  - jean-honore
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaudreau.html
+  - https://fr.wikipedia.org/wiki/Michel_Saudreau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Havre, France
+  du: '1974-07-06'
+  au: null
+- titre: Bishop Emeritus of Le Havre, France
+  du: null
+  au: '2007-06-01'
+- titre: évêque diocésain
+  du: '1974-07-06'
+  au: '2003-07-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1972%20Michel%20Saudreau.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1930912
+  catholic_hierarchy: bsaudreau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:55:44+00:00'
+  completeness: 1.0

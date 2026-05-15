@@ -1,0 +1,46 @@
+slug: nicola-coppola-c-o
+nom: Nicola Coppola, C.O.
+nom_complet: Nicola Coppola
+naissance: '1758-01-19'
+deces: '1828-04-14'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1818-05-31'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - giovanni-francesco-guerrieri
+  - francesco-serra-cassano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcopn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nola, Italy
+  du: null
+  au: '1828-04-14'
+- titre: Archevêque de Bari
+  du: '1818-05-31'
+  au: null
+- titre: évêque de Nole
+  du: '1823-06-20'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64735508
+  catholic_hierarchy: bcopn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:31+00:00'
+  completeness: 1.0

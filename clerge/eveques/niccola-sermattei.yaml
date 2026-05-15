@@ -1,0 +1,43 @@
+slug: niccola-sermattei
+nom: Niccola Sermattei
+nom_complet: null
+naissance: '1701-12-12'
+deces: '1780-03-11'
+naissance_lieu: Assisi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1755-03-19'
+  consecrateur_principal: joaquin-fernandez-portocarrero
+  co_consecrateurs:
+  - giovanni-andrea-tria
+  - giovanni-battista-giampe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Assisi, Italy
+  du: '1755-03-17'
+  au: '1780-03-11'
+- titre: Roman Catholic Bishop of Assisi
+  du: '1755-03-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744815
+  catholic_hierarchy: bserman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:11:26+00:00'
+  completeness: 1.0

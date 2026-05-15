@@ -1,0 +1,41 @@
+slug: juan-yanez
+nom: Juan Yañez
+nom_complet: null
+naissance: null
+deces: '1544-12-24'
+naissance_lieu: Casas de Millán, Diocese of Plasencia
+deces_lieu: Logroño
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1544-01-20'
+  lieu: Toledo, Archdiocese of Toledo
+  consecrateur_principal: pedro-del-campo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/byane.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Calahorra y La Calzada, Spain
+  du: '1543-09-24'
+  au: '1544-12-24'
+- titre: évêque diocésain
+  du: '1543-10-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763949
+  catholic_hierarchy: byane
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:01:16+00:00'
+  completeness: 0.75

@@ -1,0 +1,51 @@
+slug: georg-von-hohenlohe
+nom: Georg von Hohenlohe
+nom_complet: null
+naissance: '1350'
+deces: '1423-08-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1418'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvhohenl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Esztergom, Hungary
+  du: '1418'
+  au: null
+- titre: Bishop of Passau, Germany
+  du: null
+  au: '1423-08-03'
+- titre: chancelier
+  du: null
+  au: null
+- titre: évêque élu
+  du: '1387-01-01'
+  au: '1389-01-01'
+- titre: évêque de Passau
+  du: '1389-01-01'
+  au: '1423-01-01'
+- titre: administrateur apostolique
+  du: '1418-01-01'
+  au: '1423-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1506604
+  catholic_hierarchy: bvhohenl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:31+00:00'
+  completeness: 0.38

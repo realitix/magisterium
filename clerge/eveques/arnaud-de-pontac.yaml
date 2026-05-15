@@ -1,0 +1,45 @@
+slug: arnaud-de-pontac
+nom: Arnaud de Pontac
+nom_complet: Arnauld de Pontac
+naissance: '1530'
+deces: '1605-02-04'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: S. Pardoux de Conquers
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1572-11-23'
+  lieu: Saint Louis des Français, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: nicolas-cardinal-de-pelleve
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpontac.html
+  - https://fr.wikipedia.org/wiki/Arnaud_de_Pontac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bazas, France
+  du: '1572-11-19'
+  au: '1605-02-04'
+- titre: évêque diocésain
+  du: '1572-11-29'
+  au: null
+- titre: évêque de Bazas
+  du: '1572-11-29'
+  au: '1605-02-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2863250
+  catholic_hierarchy: bpontac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:53+00:00'
+  completeness: 0.75

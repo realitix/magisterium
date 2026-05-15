@@ -1,0 +1,44 @@
+slug: pierre-marie-lacointe
+nom: Pierre-Marie Lacointe
+nom_complet: Pierre-Marie Gustave Lacointe
+naissance: '1899-04-03'
+deces: '1965-04-23'
+naissance_lieu: Neuville-Ferrières, Archdiocese of Rouen
+deces_lieu: Lausanne, Diocese of Lausanne, Genève et Fribourg (Freiburg), Switzerland
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1955-05-07'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: maurice-feltin
+  co_consecrateurs:
+  - emile-blanchet
+  - georges-bejot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Beauvais (-Noyon-Senlis), France
+  du: '1955-03-23'
+  au: '1965-04-23'
+- titre: évêque diocésain
+  du: '1955-03-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734938
+  catholic_hierarchy: blac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:25:42+00:00'
+  completeness: 1.0

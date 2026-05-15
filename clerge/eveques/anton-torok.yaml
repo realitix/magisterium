@@ -1,0 +1,40 @@
+slug: anton-torok
+nom: Anton Török
+nom_complet: Antal Török
+naissance: '1761-05-30'
+deces: '1832-04-06'
+naissance_lieu: Földvar
+deces_lieu: null
+rang: eveque
+nationalite: Q131964
+tampon: ordo_validus
+sacre:
+  date: '1830-06-13'
+  consecrateur_principal: ferenc-franti-353-ek-lajcsak-laj-269-ak
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btorok.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: null
+  au: '1832-04-06'
+- titre: évêque de Csanád
+  du: '1829-08-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q594908
+  catholic_hierarchy: btorok
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:05:52+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: ferenc-keszthelyi
+nom: Ferenc Keszthelyi
+nom_complet: Ferenc Keszthelyi, O. Cist.
+naissance: '1928-03-16'
+deces: '2010-12-06'
+naissance_lieu: Eger, Archdiocese of Eger
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1992-03-21'
+  lieu: Cathedral, Vác, Diocese of Vác
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - istvan-seregely
+  - izidor-marosi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkesz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: '1992-02-11'
+  au: null
+- titre: Bishop Emeritus of Vác, Hungary
+  du: null
+  au: '2010-12-06'
+- titre: évêque de Vác
+  du: '1992-02-11'
+  au: '2003-03-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q288893
+  catholic_hierarchy: bkesz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:11:59+00:00'
+  completeness: 1.0

@@ -1,0 +1,52 @@
+slug: john-stock
+nom: John Stock
+nom_complet: null
+naissance: '1918-07-05'
+deces: '1972-06-29'
+naissance_lieu: St. Clair, PA, Apostolic Exarchate of United States of America (Ukrainian),
+  Pennsylvania
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '1971-05-25'
+  lieu: Immaculate Conception, Cathedral, Philadelphia, Archeparchy of Philadelphia
+    (Ukrainian), Pennsylvania
+  consecrateur_principal: ambrozij-senyshyn
+  co_consecrateurs:
+  - jaroslav-gabro
+  - michael-dudick
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstock.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Philadelphia (Ukrainian), Pennsylvania, USA
+  du: '1971-01-11'
+  au: '1972-06-29'
+- titre: Titular Bishop of Pergamum
+  du: '1971-01-11'
+  au: null
+- titre: évêque titulaire
+  du: '1971-01-11'
+  au: null
+- titre: évêque auxiliaire
+  du: '1971-01-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12073566
+  catholic_hierarchy: bstock
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:39:29+00:00'
+  completeness: 1.0

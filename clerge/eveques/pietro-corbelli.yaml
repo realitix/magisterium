@@ -1,0 +1,40 @@
+slug: pietro-corbelli
+nom: Pietro Corbelli
+nom_complet: null
+naissance: '1634-07-14'
+deces: '1708-06-24'
+naissance_lieu: Fano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1701-12-18'
+  consecrateur_principal: fabrizio-paolucci-1651
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorbep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segni, Italy
+  du: '1701-12-05'
+  au: '1708-06-24'
+- titre: Roman Catholic Bishop of Segni
+  du: '1701-12-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733045
+  catholic_hierarchy: bcorbep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:05:14+00:00'
+  completeness: 0.88

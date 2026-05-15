@@ -1,0 +1,44 @@
+slug: ulrich-von-castell
+nom: Ulrich von Castell
+nom_complet: null
+naissance: '1100'
+deces: '1140'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastlu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: 1127&sup2;
+  au: 1138&sup2;
+- titre: Bishop Emeritus of Konstanz {Constance}, Germany
+  du: null
+  au: 1140&sup2;
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1127-01-01'
+  au: '1138-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2476055
+  catholic_hierarchy: bcastlu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:31:23+00:00'
+  completeness: 0.25

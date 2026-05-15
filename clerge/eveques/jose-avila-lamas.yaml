@@ -1,0 +1,47 @@
+slug: jose-avila-lamas
+nom: José Ávila Lamas
+nom_complet: null
+naissance: '1803-11-13'
+deces: '1866-01-02'
+naissance_lieu: Tuy
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1853-01-02'
+  lieu: Cathedral, Santiago de Compostela, Archdiocese of Santiago de Compostela
+  consecrateur_principal: miguel-garcia-cuesta
+  co_consecrateurs:
+  - santiago-rodriguez-gil-o-p
+  - benito-forcelledo-tuero
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bavilal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orense, Spain
+  du: null
+  au: '1866-01-02'
+- titre: évêque de Plasencia
+  du: '1852-04-06'
+  au: null
+- titre: évêque d'Orense
+  du: '1857-08-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16164089
+  catholic_hierarchy: bavilal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:51:17+00:00'
+  completeness: 1.0

@@ -1,0 +1,48 @@
+slug: yves-de-chartres
+nom: Yves de Chartres
+nom_complet: Ivo Carnotensis
+naissance: '1040'
+deces: '1115-12-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1090-11-23'
+  consecrateur_principal: non-indexe-cea64d94
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchartry.html
+  - https://fr.wikipedia.org/wiki/Yves_de_Chartres
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: 1090&sup1;
+  au: '1115-12-23'
+- titre: évêque diocésain
+  du: '1090-01-01'
+  au: '1115-01-01'
+- titre: prévôt
+  du: '1078-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20de%20Chartres%20gravure%20d%27Andr%C3%A9%20Thevet%201584%20mus%C3%A9e%20des%20Beaux-Arts%20de%20Chartres%20Eure-et-Loir%20France.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q124775
+  catholic_hierarchy: bchartry
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:17+00:00'
+  completeness: 0.62

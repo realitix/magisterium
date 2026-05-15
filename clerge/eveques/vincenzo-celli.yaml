@@ -1,0 +1,49 @@
+slug: vincenzo-celli
+nom: Vincenzo Celli
+nom_complet: null
+naissance: '1870-02-23'
+deces: '1951-10-17'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1927-06-29'
+  consecrateur_principal: carlo-cremonesi
+  co_consecrateurs:
+  - vincenzo-migliorelli
+  - egisto-domenico-melchiori
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcell.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Beatissima Vergine Maria del SS.mo Rosario, Italy
+  du: '1927-05-06'
+  au: '1951-10-17'
+- titre: Titular Bishop of Thapsus
+  du: '1927-05-06'
+  au: null
+- titre: évêque titulaire
+  du: '1927-05-06'
+  au: null
+- titre: évêque auxiliaire
+  du: '1927-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752111
+  catholic_hierarchy: bcell
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:36:26+00:00'
+  completeness: 1.0

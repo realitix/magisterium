@@ -1,0 +1,39 @@
+slug: gilles-de-luxembourg
+nom: Gilles de Luxembourg
+nom_complet: Giles de Luxembourg
+naissance: null
+deces: '1535-02-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdluxg.html
+  - https://fr.wikipedia.org/wiki/Gilles_de_Luxembourg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Marne, France
+  du: '1503-11-29'
+  au: '1535-02-10'
+- titre: évêque diocésain
+  du: '1503-12-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28495941
+  catholic_hierarchy: bdluxg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:55:59+00:00'
+  completeness: 0.38

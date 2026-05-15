@@ -1,0 +1,45 @@
+slug: thomas-weldner
+nom: Thomas Weldner
+nom_complet: Thomas Weldner, O.F.M.
+naissance: null
+deces: '1470-09-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1461-03-11'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweldner.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Konstanz {Constance}, Germany
+  du: '1461-03-02'
+  au: '1470-09-29'
+- titre: Titular Bishop of Agathopolis
+  du: '1461-03-02'
+  au: null
+- titre: évêque titulaire
+  du: '1461-03-11'
+  au: null
+- titre: évêque auxiliaire
+  du: '1461-03-11'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64761445
+  catholic_hierarchy: bweldner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:53:15+00:00'
+  completeness: 0.38

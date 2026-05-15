@@ -1,0 +1,43 @@
+slug: porfirio-feliciani
+nom: Porfirio Feliciani
+nom_complet: null
+naissance: '1562'
+deces: '1634-10-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1612-05-01'
+  consecrateur_principal: scipion-caffarelli-borghese
+  co_consecrateurs:
+  - fabio-biondi
+  - volpiano-volpi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfelician.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Foligno, Italy
+  du: '1612-04-02'
+  au: '1634-10-02'
+- titre: évêque de Foligno
+  du: '1612-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21656612
+  catholic_hierarchy: bfelician
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:38+00:00'
+  completeness: 0.88

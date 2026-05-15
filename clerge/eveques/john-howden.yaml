@@ -1,0 +1,41 @@
+slug: john-howden
+nom: John Howden
+nom_complet: John Howden, O.P.
+naissance: '1499'
+deces: '1527'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhowden.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of The Isles (Sodor), Scotland, Great Britain
+  du: '1523-05-18'
+  au: 1529&sup1;
+- titre: évêque de Sodor et Man
+  du: '1523-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1523-05-28'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q6240101
+  catholic_hierarchy: bhowden
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:48:07+00:00'
+  completeness: 0.25

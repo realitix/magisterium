@@ -1,0 +1,38 @@
+slug: giovanni-longo
+nom: Giovanni Longo
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blongog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jesi, Italy
+  du: '1422-09-04'
+  au: 1451&sup1;
+- titre: évêque diocésain
+  du: '1422-09-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108485320
+  catholic_hierarchy: blongog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:57:42+00:00'
+  completeness: 0.25

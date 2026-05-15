@@ -1,0 +1,43 @@
+slug: robert-de-graystanes
+nom: Robert de Graystanes
+nom_complet: Robert Graystanes
+naissance: '1289'
+deces: '1334'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1333-11-14'
+  consecrateur_principal: william-melton
+  co_consecrateurs:
+  - john-kirkby-1250
+  - roland-de-jorse-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrayst.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Durham, England, Great Britain
+  du: 1333&sup1;
+  au: Dec 1333&sup2;
+- titre: évêque catholique de Durham
+  du: '1333-01-01'
+  au: '1333-12-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7351405
+  catholic_hierarchy: bgrayst
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:41:05+00:00'
+  completeness: 0.75

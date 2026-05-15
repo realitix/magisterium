@@ -1,0 +1,44 @@
+slug: jens-mikkelsen
+nom: Jens Mikkelsen
+nom_complet: null
+naissance: null
+deces: '1388-12-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmikkelse.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Börglum (Aalborg), Denmark
+  du: '1365-09-19'
+  au: null
+- titre: Bishop of Ribe, Denmark
+  du: '1369-11-07'
+  au: '1388-12-06'
+- titre: évêque diocésain
+  du: '1365-09-27'
+  au: null
+- titre: évêque diocésain
+  du: '1369-11-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108481136
+  catholic_hierarchy: bmikkelse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:09+00:00'
+  completeness: 0.38

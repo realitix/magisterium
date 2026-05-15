@@ -1,0 +1,49 @@
+slug: claude-fauchet
+nom: Claude Fauchet
+nom_complet: '[Constitutional Bishop Claude François Fauchet]'
+naissance: '1744-09-22'
+deces: '1793-10-31'
+naissance_lieu: Dornes
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-05-01'
+  lieu: Notre-Dame, Paris, Archdiocese of Paris
+  consecrateur_principal: jean-baptiste-gobel
+  co_consecrateurs:
+  - jean-baptiste-miroudot-du-bourg
+  - constitutional-bishop-jean-baptiste-dumouchel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfauchetc.html
+  - https://fr.wikipedia.org/wiki/Claude_Fauchet_(1744-1793)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Calvados (Constitutional), France]
+  du: null
+  au: '1793-10-31'
+- titre: député français
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Fauchet%20par%20Bonneville.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1096714
+  catholic_hierarchy: bfauchetc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:18+00:00'
+  completeness: 1.0

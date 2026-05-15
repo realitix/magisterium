@@ -1,0 +1,41 @@
+slug: etienne-geneves
+nom: Étienne Genevès
+nom_complet: null
+naissance: '1410'
+deces: '1470'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgeneves.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Paul-Trois-Châteaux, France
+  du: '1450-05-11'
+  au: 1470&sup1;
+- titre: évêque de Saint-Paul-Trois-Châteaux
+  du: '1450-01-01'
+  au: '1473-01-01'
+- titre: évêque diocésain
+  du: '1450-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68904720
+  catholic_hierarchy: bgeneves
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:16:45+00:00'
+  completeness: 0.25

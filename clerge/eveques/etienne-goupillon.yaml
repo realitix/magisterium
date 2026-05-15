@@ -1,0 +1,42 @@
+slug: etienne-goupillon
+nom: Étienne Goupillon
+nom_complet: null
+naissance: null
+deces: '1493-12-19'
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgoupil.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_Goupillon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1478-05-04'
+  au: '1493-12-19'
+- titre: évêque diocésain
+  du: '1478-05-13'
+  au: null
+- titre: évêque de Sées
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3592186
+  catholic_hierarchy: bgoupil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:37:05+00:00'
+  completeness: 0.38

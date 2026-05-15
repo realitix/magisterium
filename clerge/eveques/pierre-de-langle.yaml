@@ -1,0 +1,54 @@
+slug: pierre-de-langle
+nom: Pierre de Langle
+nom_complet: null
+naissance: '1644-03-06'
+deces: '1724-04-12'
+naissance_lieu: Évreux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1698-12-14'
+  consecrateur_principal: charles-maurice-le-tellier
+  co_consecrateurs:
+  - louis-annet-de-clermont-de-chaste-de-roussillon
+  - david-nicolas-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangle.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Langle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boulogne (-Sur-Mer), France
+  du: null
+  au: '1724-04-12'
+- titre: abbé
+  du: null
+  au: null
+- titre: vicaire général
+  du: null
+  au: null
+- titre: évêque de Boulogne-sur-Mer
+  du: '1698-04-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Pierre%20de%20LANGLE.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3387592
+  catholic_hierarchy: blangle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:32:03+00:00'
+  completeness: 1.0

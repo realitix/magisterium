@@ -1,0 +1,49 @@
+slug: filippo-bartolomei
+nom: Filippo Bartolomei
+nom_complet: null
+naissance: null
+deces: '1501'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1470-04-08'
+  consecrateur_principal: bartolomeo-uggeri
+  co_consecrateurs:
+  - non-indexe-6d844f5c
+  - antonio-cicco-da-pontecorvo-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbartolp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ario, Greece
+  du: '1469-04-23'
+  au: null
+- titre: Bishop of Hierapetra, Greece
+  du: '1480-04-14'
+  au: 1501&sup1;
+- titre: évêque diocésain
+  du: '1469-05-02'
+  au: null
+- titre: évêque diocésain
+  du: '1480-04-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779151
+  catholic_hierarchy: bbartolp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:06:09+00:00'
+  completeness: 0.75

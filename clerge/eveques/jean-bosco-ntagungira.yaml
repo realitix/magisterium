@@ -1,0 +1,45 @@
+slug: jean-bosco-ntagungira
+nom: Jean Bosco Ntagungira
+nom_complet: null
+naissance: '1964-04-03'
+deces: null
+naissance_lieu: Kigali, Archdiocese of Kabgayi
+deces_lieu: null
+rang: eveque
+nationalite: Q1037
+tampon: ordo_dubius
+sacre:
+  date: '2024-10-05'
+  lieu: Grounds of, Notre-Dame de la Sagesse, Cathedral, Butare, Diocese of Butare
+  consecrateur_principal: antoine-kambanda
+  co_consecrateurs:
+  - philippe-rukamba
+  - celestin-hazikimana
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bntagun.html
+  - https://fr.wikipedia.org/wiki/Jean_Bosco_Ntagungira
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Butare, Rwanda
+  du: '2024-08-12'
+  au: null
+- titre: évêque diocésain
+  du: '2024-08-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q128934024
+  catholic_hierarchy: bntagun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:39:32+00:00'
+  completeness: 0.88

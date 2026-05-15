@@ -1,0 +1,49 @@
+slug: josip-lang
+nom: Josip Lang
+nom_complet: null
+naissance: '1857-01-25'
+deces: '1924-11-01'
+naissance_lieu: Bregi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1915-04-18'
+  consecrateur_principal: anton-bauer
+  co_consecrateurs:
+  - ivan-krapac
+  - an-273-elko-vor-353-ak
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Zagreb, Croatia
+  du: '1915-02-26'
+  au: '1924-11-01'
+- titre: Titular Bishop of Alabanda
+  du: '1915-02-26'
+  au: null
+- titre: évêque titulaire
+  du: '1915-02-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1915-04-18'
+  au: '1924-11-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16111329
+  catholic_hierarchy: blangg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:59+00:00'
+  completeness: 1.0

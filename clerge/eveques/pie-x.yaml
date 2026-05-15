@@ -1,0 +1,79 @@
+slug: pie-x
+nom: Pie X
+nom_complet: Pius X
+naissance: '1835-06-02'
+deces: '1914-08-20'
+naissance_lieu: Riese, Diocese of Treviso
+deces_lieu: Vatican, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1884-11-16'
+  lieu: Sant&rsquo;Apollinare, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - pietro-rota-1805
+  - giovanni-maria-berengo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsartogm.html
+  - https://fr.wikipedia.org/wiki/Pie_X
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mantova, Italy
+  du: '1884-11-10'
+  au: null
+- titre: Patriarch of Venezia {Venice}, Italy
+  du: '1893-06-15'
+  au: '1904-03-13'
+- titre: Cardinal-Priest of San Bernardo alle Terme
+  du: '1893-06-15'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1914-08-20'
+- titre: évêque de Mantoue
+  du: '1884-11-10'
+  au: null
+- titre: cardinal
+  du: '1893-06-12'
+  au: null
+- titre: chanoine
+  du: '1875-01-01'
+  au: '1884-11-10'
+- titre: vicaire
+  du: '1858-09-18'
+  au: '1867-01-01'
+- titre: pape
+  du: '1903-08-04'
+  au: '1914-08-20'
+- titre: patriarche de Venise
+  du: '1893-06-15'
+  au: '1903-08-04'
+- titre: curé
+  du: '1867-01-01'
+  au: '1875-01-01'
+- titre: chancelier
+  du: '1875-01-01'
+  au: '1884-11-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pius%20X%2C%20by%20Ernest%20Walter%20Histed%20%28retouched%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q43739
+  catholic_hierarchy: bsartogm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:54:45+00:00'
+  completeness: 1.0

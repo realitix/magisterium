@@ -1,0 +1,48 @@
+slug: john-loughlin
+nom: John Loughlin
+nom_complet: null
+naissance: '1817-12-20'
+deces: '1891-12-29'
+naissance_lieu: Drumboniff, Diocese of Down and Connor, Ireland
+deces_lieu: Brooklyn, Diocese of Brooklyn, New York
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1853-10-30'
+  lieu: St. Patrick's (Mott St), Cathedral, New York, Diocese of New York, New York
+  consecrateur_principal: gaetano-bedini
+  co_consecrateurs:
+  - john-mccloskey
+  - louis-amedee-rappe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bloughlin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brooklyn, New York, USA
+  du: '1853-07-29'
+  au: '1891-12-29'
+- titre: évêque diocésain
+  du: '1853-07-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Loughlin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6245322
+  catholic_hierarchy: bloughlin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:07+00:00'
+  completeness: 1.0

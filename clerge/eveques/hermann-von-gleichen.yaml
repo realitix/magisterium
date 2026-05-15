@@ -1,0 +1,45 @@
+slug: hermann-von-gleichen
+nom: Hermann von Gleichen
+nom_complet: null
+naissance: '1300'
+deces: '1289'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgleichh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kammin (Camin), Germany
+  du: Dec 1251&#8310;
+  au: 1289&sup2;
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1251-12-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Koszalin%20coat%20of%20arms%20Benno%201.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1613214
+  catholic_hierarchy: bgleichh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:28:09+00:00'
+  completeness: 0.25

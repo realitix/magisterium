@@ -1,0 +1,41 @@
+slug: benoit-theocrene
+nom: Benoit Théocréne
+nom_complet: Benedetto Tagliacarne
+naissance: '1480'
+deces: '1536-10-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1534-05-17'
+  consecrateur_principal: jean-du-bellay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btaglb.html
+  - https://fr.wikipedia.org/wiki/Benoit_Th%C3%A9ocr%C3%A9ne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grasse, France
+  du: '1534-02-11'
+  au: '1536-10-18'
+- titre: évêque diocésain
+  du: '1534-02-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16745121
+  catholic_hierarchy: btaglb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:48:40+00:00'
+  completeness: 0.75

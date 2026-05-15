@@ -1,0 +1,44 @@
+slug: matias-escalzo-acedo
+nom: Matías Escalzo Acedo
+nom_complet: null
+naissance: '1690-06-10'
+deces: '1749-11-11'
+naissance_lieu: Sesma
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1748-05-19'
+  lieu: St. Norbert, Madrid, Archdiocese of Toledo
+  consecrateur_principal: francisco-perez-de-prado-y-cuesta
+  co_consecrateurs:
+  - juan-antonio-perez-arellano
+  - andres-nunez-monteagudo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bescalzo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Astorga, Spain
+  du: '1748-03-04'
+  au: '1749-11-11'
+- titre: évêque d'Astorga
+  du: '1748-03-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q57497383
+  catholic_hierarchy: bescalzo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:24:25+00:00'
+  completeness: 1.0

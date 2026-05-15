@@ -1,0 +1,44 @@
+slug: jean-du-ploich
+nom: Jean du Ploich
+nom_complet: null
+naissance: '1555'
+deces: '1602-07-01'
+naissance_lieu: Aire sur la Lyes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1602-01-06'
+  consecrateur_principal: jacques-blaes
+  co_consecrateurs:
+  - pierre-simons
+  - michel-d-esne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdploich.html
+  - https://fr.wikipedia.org/wiki/Jean_du_Ploich
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: '1601-09-10'
+  au: '1602-07-01'
+- titre: évêque d'Arras
+  du: '1601-09-10'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3175815
+  catholic_hierarchy: bdploich
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:03+00:00'
+  completeness: 0.88

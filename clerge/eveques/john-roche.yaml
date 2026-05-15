@@ -1,0 +1,38 @@
+slug: john-roche
+nom: John Roche
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brochejj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lismore, Ireland
+  du: null
+  au: 1279&sup2;
+- titre: évêque diocésain
+  du: '1270-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446980
+  catholic_hierarchy: brochejj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:20:24+00:00'
+  completeness: 0.25

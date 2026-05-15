@@ -1,0 +1,43 @@
+slug: jose-kallas
+nom: José Kallás
+nom_complet: Joseph Kallas
+naissance: '1877-03-17'
+deces: '1960-12-09'
+naissance_lieu: Fakihat
+deces_lieu: null
+rang: eveque
+nationalite: Q822
+tampon: ordo_validus
+sacre:
+  date: '1923-03-04'
+  consecrateur_principal: dimitri-ier-qadi
+  co_consecrateurs:
+  - nicolas-cadi
+  - basile-khoury-khouri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkallas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tripoli del Libano (Melkite Greek)
+  du: null
+  au: '1960-12-09'
+- titre: évêque diocésain
+  du: '1923-03-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q10309730
+  catholic_hierarchy: bkallas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:06:57+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: pavao-posilovic
+nom: Pavao Posilović
+nom_complet: Pavao Posilovi&#263;, O.F.M.
+naissance: '1597'
+deces: '1657'
+naissance_lieu: Glamoch
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-09-07'
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - alfonso-gonzaga
+  - patrizio-donati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bposil.html
+  - https://fr.wikipedia.org/wiki/Pavao_Posilovi%C4%87
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Scardona (Skradin), Croatia
+  du: '1642-06-16'
+  au: null
+- titre: Bishop of Duvno, Bosnia and Herzegovina
+  du: '1655-10-25'
+  au: 1657&sup1;
+- titre: évêque diocésain
+  du: '1655-10-25'
+  au: null
+- titre: Bishop of Skradin
+  du: '1642-06-16'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q15446651
+  catholic_hierarchy: bposil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:45:38+00:00'
+  completeness: 0.75

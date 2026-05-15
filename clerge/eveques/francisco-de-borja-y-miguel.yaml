@@ -1,0 +1,44 @@
+slug: francisco-de-borja-y-miguel
+nom: Francisco de Borja y Miguel
+nom_complet: Francisco de Borja
+naissance: '1629'
+deces: '1689-04-13'
+naissance_lieu: Bogotá
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1671'
+  lieu: Córdoba, Diocese of Córdoba (Tucumán), Argentina
+  consecrateur_principal: gabriel-de-guillestegui
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeborja.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trujillo, Peru
+  du: null
+  au: '1689-04-13'
+- titre: évêque de Tucumán
+  du: '1668-02-08'
+  au: null
+- titre: évêque de Trujillo
+  du: '1679-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23663013
+  catholic_hierarchy: bdeborja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:36:27+00:00'
+  completeness: 0.75

@@ -1,0 +1,54 @@
+slug: bartolome-de-rajoy
+nom: Bartolomé de Rajoy
+nom_complet: Bartolomé Rajoy Losada
+naissance: '1690-08-25'
+deces: '1772-07-17'
+naissance_lieu: Puentedeume
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1751-09-12'
+  lieu: Incarnation, Convent, Madrid, Archdiocese of Toledo
+  consecrateur_principal: manuel-quintano-bonifaz
+  co_consecrateurs:
+  - benito-marin
+  - juan-francisco-manrique-lara
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brajoy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Santiago de Compostela, Spain
+  du: '1751-07-19'
+  au: '1772-07-17'
+- titre: archevêque de Compostelle
+  du: '1751-09-12'
+  au: '1772-07-17'
+- titre: chief chaplain to the king (Crown of Castile)
+  du: null
+  au: null
+- titre: archevêque catholique
+  du: '1751-07-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A1zquez-Retrato%20de%20Bartolom%C3%A9%20Rejoi%20y%20Lossada.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8243153
+  catholic_hierarchy: brajoy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:00:17+00:00'
+  completeness: 1.0

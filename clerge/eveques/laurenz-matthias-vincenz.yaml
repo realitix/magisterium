@@ -1,0 +1,57 @@
+slug: laurenz-matthias-vincenz
+nom: Laurenz Matthias Vincenz
+nom_complet: null
+naissance: '1874-03-26'
+deces: '1941-07-29'
+naissance_lieu: Andest
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1932-05-22'
+  lieu: Cathedral, Chur, Diocese of Chur
+  consecrateur_principal: pietro-di-maria
+  co_consecrateurs:
+  - viktor-bieler
+  - alois-scheiwiler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvinc.html
+  - https://fr.wikipedia.org/wiki/Laurenz_Matthias_Vincenz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Chur, Switzerland
+  du: '1932-03-30'
+  au: null
+- titre: Titular Bishop of Paphus
+  du: '1932-03-30'
+  au: null
+- titre: Bishop of Chur, Switzerland
+  du: null
+  au: '1941-07-29'
+- titre: évêque diocésain
+  du: '1932-05-06'
+  au: '1941-07-29'
+- titre: évêque coadjuteur
+  du: '1932-03-30'
+  au: '1932-05-06'
+- titre: évêque titulaire
+  du: '1932-03-30'
+  au: '1932-05-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1710876
+  catholic_hierarchy: bvinc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:51+00:00'
+  completeness: 1.0

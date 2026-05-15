@@ -1,0 +1,43 @@
+slug: muzio-vitali
+nom: Muzio Vitali
+nom_complet: null
+naissance: null
+deces: '1615'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1613-11-17'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - giovanni-battista-del-tufo
+  - antonio-seneca
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvitalim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vieste, Italy
+  du: '1613-11-13'
+  au: 1615&sup1;
+- titre: Roman Catholic Bishop of Vieste
+  du: '1613-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27918515
+  catholic_hierarchy: bvitalim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:42:52+00:00'
+  completeness: 0.75

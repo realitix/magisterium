@@ -1,0 +1,38 @@
+slug: udo-ii-von-veldenz
+nom: Udo II. von Veldenz
+nom_complet: Udo von Veldenz
+naissance: '1200'
+deces: '1186'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bveldenzu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: 1161&sup2;
+  au: '1186-04-02'
+- titre: évêque diocésain
+  du: '1161-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2473205
+  catholic_hierarchy: bveldenzu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:30:30+00:00'
+  completeness: 0.38

@@ -1,0 +1,50 @@
+slug: pio-stella
+nom: Pio Stella
+nom_complet: Pio Gaetano Secondo Stella
+naissance: '1857-08-07'
+deces: '1927-09-21'
+naissance_lieu: Paso del Molino, Diocese of Montevideo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1894-11-24'
+  lieu: Cathedral, Montevideo, Diocese of Montevideo
+  consecrateur_principal: mariano-soler
+  co_consecrateurs:
+  - ricardo-isaza-y-goyechea
+  - luigi-giuseppe-lasagna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstell.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Montevideo, Uruguay
+  du: '1893-12-22'
+  au: '1927-09-21'
+- titre: Titular Bishop of Amyzon
+  du: '1893-12-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '1893-12-22'
+  au: null
+- titre: évêque titulaire
+  du: '1893-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733872
+  catholic_hierarchy: bstell
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:37:51+00:00'
+  completeness: 1.0

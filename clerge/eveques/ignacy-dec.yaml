@@ -1,0 +1,48 @@
+slug: ignacy-dec
+nom: Ignacy Dec
+nom_complet: null
+naissance: '1944-07-27'
+deces: null
+naissance_lieu: Hucisko
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_dubius
+sacre:
+  date: '2004-03-25'
+  lieu: Cathedral, &#346;widnica, Diocese of &#346;widnica
+  consecrateur_principal: henryk-roman-gulbinowicz
+  co_consecrateurs:
+  - tadeusz-rybak
+  - jozef-pazdur
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdec.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &#346;widnica, Poland
+  du: '2004-02-24'
+  au: null
+- titre: évêque diocésain
+  du: '2004-02-24'
+  au: '2020-03-31'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ignacy%20Dec.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q556306
+  catholic_hierarchy: bdec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:36:39+00:00'
+  completeness: 0.88

@@ -1,0 +1,45 @@
+slug: josef-von-lipp
+nom: Josef von Lipp
+nom_complet: Joseph Lipp
+naissance: '1795-03-24'
+deces: '1869-05-03'
+naissance_lieu: Holzhausen
+deces_lieu: null
+rang: eveque
+nationalite: Q159631
+tampon: ordo_validus
+sacre:
+  date: '1848-03-12'
+  lieu: Cathedral, Rottenburg, Diocese of Rottenburg
+  consecrateur_principal: hermann-von-vicari
+  co_consecrateurs:
+  - andre-raess
+  - nikolaus-weis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blipp.html
+  - https://fr.wikipedia.org/wiki/Josef_von_Lipp
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rottenburg, Germany
+  du: null
+  au: '1869-05-03'
+- titre: évêque de Rottenburg
+  du: '1847-06-14'
+  au: '1869-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1706156
+  catholic_hierarchy: blipp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:51:50+00:00'
+  completeness: 1.0

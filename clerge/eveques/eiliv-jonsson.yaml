@@ -1,0 +1,38 @@
+slug: eiliv-jonsson
+nom: Eiliv Jonsson
+nom_complet: null
+naissance: '1450'
+deces: '1512'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q20
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjonssone.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Stavanger, Norway
+  du: 1480&sup2;
+  au: 1512&sup2;
+- titre: Roman Catholic Bishop of Stavanger
+  du: '1480-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17131004
+  catholic_hierarchy: bjonssone
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:03:00+00:00'
+  completeness: 0.25

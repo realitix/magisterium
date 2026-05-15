@@ -1,0 +1,47 @@
+slug: georges-biard
+nom: Georges Biard
+nom_complet: Georges Biard, M. Afr.
+naissance: '1924-11-27'
+deces: '2003-10-31'
+naissance_lieu: Paris, Archdiocese of Paris, France
+deces_lieu: Tassy
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1965-02-02'
+  lieu: Saint-Pierre du Gros-Caillou, Church, Paris, Archdiocese of Paris, France
+  consecrateur_principal: luc-auguste-sangare
+  co_consecrateurs:
+  - jacques-le-cordier
+  - jean-baptiste-sauvage
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbiardge.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mopti, Mali
+  du: '1964-09-29'
+  au: '1988-04-12'
+- titre: Bishop Emeritus of Mopti, Mali
+  du: null
+  au: '2003-10-31'
+- titre: évêque diocésain
+  du: '1964-09-29'
+  au: '1988-04-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11860403
+  catholic_hierarchy: bbiardge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:25:54+00:00'
+  completeness: 1.0

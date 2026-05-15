@@ -1,0 +1,35 @@
+slug: ceran-de-paris
+nom: Céran de Paris
+nom_complet: Ceraunius
+naissance: '550'
+deces: '621'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/C%C3%A9ran_de_Paris
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Paris
+  du: '0606-01-01'
+  au: '0625-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9ran%20Landry.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5063875
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56

@@ -1,0 +1,319 @@
+---
+/**
+ * Recherche client-side du clergé (MiniSearch + facettes).
+ * Index téléchargé depuis /clerge/clerics-index.json puis indexé en mémoire.
+ */
+---
+
+<section class="clerge-search" data-clerge-search>
+  <form class="clerge-search__form" role="search" onsubmit="return false;">
+    <input
+      type="search"
+      class="clerge-search__input"
+      data-clerge-search-input
+      placeholder="Rechercher un évêque (nom, fraternité, nationalité)…"
+      aria-label="Rechercher un évêque"
+      autocomplete="off"
+      spellcheck="false"
+    />
+  </form>
+
+  <div class="clerge-search__facets" data-clerge-search-facets>
+    <div class="clerge-search__facet">
+      <span class="clerge-search__facet-label">Tampon</span>
+      <label><input type="checkbox" value="ordo_validus" data-clerge-facet="tampon" /> Validus</label>
+      <label><input type="checkbox" value="ordo_dubius" data-clerge-facet="tampon" /> Dubius</label>
+      <label><input type="checkbox" value="ordo_incertus" data-clerge-facet="tampon" /> Incertus</label>
+    </div>
+    <div class="clerge-search__facet">
+      <span class="clerge-search__facet-label">Photo</span>
+      <label><input type="checkbox" data-clerge-facet-photo /> Avec photographie</label>
+    </div>
+    <div class="clerge-search__facet">
+      <span class="clerge-search__facet-label">Siècle de naissance</span>
+      <select data-clerge-facet-siecle>
+        <option value="">tous</option>
+        <option value="16">XVIᵉ</option>
+        <option value="17">XVIIᵉ</option>
+        <option value="18">XVIIIᵉ</option>
+        <option value="19">XIXᵉ</option>
+        <option value="20">XXᵉ</option>
+        <option value="21">XXIᵉ</option>
+      </select>
+    </div>
+  </div>
+
+  <p class="clerge-search__status" data-clerge-search-status aria-live="polite">Chargement de l'index…</p>
+  <ol class="clerge-search__results" data-clerge-search-results role="list"></ol>
+</section>
+
+<script>
+  import MiniSearch from 'minisearch';
+
+  interface Item {
+    slug: string;
+    nom: string;
+    naissance: number | null;
+    deces: number | null;
+    siecle: number | null;
+    fraternite: string | null;
+    rang: string | null;
+    pays: string | null;
+    photo: boolean;
+    tampon: 'ordo_validus' | 'ordo_dubius' | 'ordo_incertus';
+  }
+
+  const escapeHtml = (s: string): string =>
+    s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c] ?? c));
+
+  const init = async (): Promise<void> => {
+    const root = document.querySelector<HTMLElement>('[data-clerge-search]');
+    if (root === null) return;
+    const input = root.querySelector<HTMLInputElement>('[data-clerge-search-input]');
+    const status = root.querySelector<HTMLElement>('[data-clerge-search-status]');
+    const results = root.querySelector<HTMLOListElement>('[data-clerge-search-results]');
+    const tamponBoxes = Array.from(root.querySelectorAll<HTMLInputElement>('input[data-clerge-facet="tampon"]'));
+    const photoBox = root.querySelector<HTMLInputElement>('[data-clerge-facet-photo]');
+    const siecleSel = root.querySelector<HTMLSelectElement>('[data-clerge-facet-siecle]');
+    if (input === null || status === null || results === null) return;
+
+    let items: Item[] = [];
+    let mini: MiniSearch<Item> | null = null;
+
+    try {
+      const resp = await fetch('/clerge/clerics-index.json');
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const data = (await resp.json()) as { items: Item[] };
+      items = data.items;
+      mini = new MiniSearch({
+        fields: ['nom', 'fraternite', 'pays'],
+        storeFields: ['slug', 'nom', 'naissance', 'deces', 'fraternite', 'pays', 'photo', 'tampon', 'rang'],
+        idField: 'slug',
+        searchOptions: { boost: { nom: 2 }, fuzzy: 0.2, prefix: true },
+      });
+      mini.addAll(items as Array<Item & { id?: string }>);
+      status.textContent = `Index chargé : ${items.length.toLocaleString('fr-FR')} évêques. Tapez un nom.`;
+    } catch (err) {
+      status.textContent = `Échec du chargement de l'index : ${(err as Error).message}`;
+      return;
+    }
+
+    const tamponLabel: Record<string, string> = {
+      ordo_validus: 'Validus',
+      ordo_dubius: 'Dubius',
+      ordo_incertus: 'Incertus',
+    };
+
+    const renderResult = (it: Item): string => {
+      const dates =
+        it.naissance !== null && it.deces !== null
+          ? `${it.naissance} – ${it.deces}`
+          : it.naissance !== null
+            ? `né en ${it.naissance}`
+            : it.deces !== null
+              ? `† ${it.deces}`
+              : '';
+      const frat = it.fraternite !== null && it.fraternite !== 'non-renseigne' ? it.fraternite : '';
+      const t = tamponLabel[it.tampon] ?? it.tampon;
+      return `
+        <li class="clerge-result">
+          <a class="clerge-result__link" href="/clerge/${escapeHtml(it.slug)}/">
+            <span class="clerge-result__avatar" aria-hidden="true">${it.photo ? '★' : '✠'}</span>
+            <span class="clerge-result__body">
+              <span class="clerge-result__name">${escapeHtml(it.nom)}</span>
+              <span class="clerge-result__meta">
+                ${escapeHtml(dates)}${frat !== '' ? ` · ${escapeHtml(frat)}` : ''}
+              </span>
+            </span>
+            <span class="clerge-result__tampon clerge-result__tampon--${it.tampon}">${escapeHtml(t)}</span>
+          </a>
+        </li>`;
+    };
+
+    const filter = (list: Item[]): Item[] => {
+      const tampons = tamponBoxes.filter((b) => b.checked).map((b) => b.value);
+      const photoOnly = photoBox?.checked === true;
+      const siecle = siecleSel?.value ?? '';
+      return list.filter((it) => {
+        if (tampons.length > 0 && !tampons.includes(it.tampon)) return false;
+        if (photoOnly && !it.photo) return false;
+        if (siecle !== '' && String(it.siecle) !== siecle) return false;
+        return true;
+      });
+    };
+
+    const runQuery = (): void => {
+      const q = input.value.trim();
+      let hits: Item[];
+      if (q.length === 0) {
+        hits = items;
+      } else if (mini !== null) {
+        const res = mini.search(q, { fuzzy: 0.2, prefix: true });
+        hits = res.slice(0, 200) as unknown as Item[];
+      } else {
+        hits = [];
+      }
+      const filtered = filter(hits).slice(0, 10);
+      if (q.length === 0 && !hasAnyFacet()) {
+        results.innerHTML = '';
+        status.textContent = `${items.length.toLocaleString('fr-FR')} évêques indexés. Tapez un nom ou activez un filtre.`;
+        return;
+      }
+      if (filtered.length === 0) {
+        results.innerHTML = '';
+        status.textContent = 'Aucun résultat.';
+        return;
+      }
+      results.innerHTML = filtered.map(renderResult).join('');
+      status.textContent = `${filtered.length} résultat${filtered.length > 1 ? 's' : ''} affiché${filtered.length > 1 ? 's' : ''}.`;
+    };
+
+    const hasAnyFacet = (): boolean => {
+      if (tamponBoxes.some((b) => b.checked)) return true;
+      if (photoBox?.checked === true) return true;
+      if (siecleSel !== null && siecleSel.value !== '') return true;
+      return false;
+    };
+
+    input.addEventListener('input', runQuery);
+    for (const b of tamponBoxes) b.addEventListener('change', runQuery);
+    photoBox?.addEventListener('change', runQuery);
+    siecleSel?.addEventListener('change', runQuery);
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => { void init(); });
+  } else {
+    void init();
+  }
+</script>
+
+<style>
+  .clerge-search {
+    margin: var(--space-l) 0;
+  }
+  .clerge-search__form {
+    display: flex;
+  }
+  .clerge-search__input {
+    width: 100%;
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    padding: 0.7rem 1rem;
+    background: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    transition: border-color 120ms ease, box-shadow 120ms ease;
+  }
+  .clerge-search__input:focus {
+    border-color: var(--rubric);
+    outline: none;
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--rubric) 15%, transparent);
+  }
+  .clerge-search__facets {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-m);
+    margin: var(--space-s) 0;
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    align-items: center;
+  }
+  .clerge-search__facet {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5em;
+  }
+  .clerge-search__facet-label {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-right: 0.3em;
+  }
+  .clerge-search__facet label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+  }
+  .clerge-search__facet select {
+    font-family: var(--font-serif);
+    padding: 0.2em 0.4em;
+    border: 1px solid var(--rule);
+    background: var(--paper);
+    color: var(--ink);
+    border-radius: 2px;
+  }
+  .clerge-search__status {
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    color: var(--muted);
+    margin: 0 0 var(--space-xs);
+  }
+  .clerge-search__results {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2xs);
+  }
+  .clerge-result__link {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: var(--space-m);
+    padding: var(--space-xs) var(--space-s);
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    color: inherit;
+    text-decoration: none;
+    transition: border-color 120ms ease, background-color 120ms ease, transform 120ms ease;
+  }
+  .clerge-result__link:hover,
+  .clerge-result__link:focus-visible {
+    border-color: var(--rubric);
+    background: color-mix(in srgb, var(--rubric) 4%, var(--paper));
+    transform: translateX(2px);
+    outline: none;
+  }
+  .clerge-result__avatar {
+    font-family: var(--font-display);
+    color: var(--gold);
+    font-size: 1.2rem;
+    width: 1.5em;
+    text-align: center;
+  }
+  .clerge-result__body {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .clerge-result__name {
+    font-family: var(--font-display);
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .clerge-result__meta {
+    font-family: var(--font-serif);
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .clerge-result__tampon {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.72rem;
+    padding: 0.15em 0.55em;
+    border-radius: 2px;
+    border: 1px solid currentColor;
+  }
+  .clerge-result__tampon--ordo_validus { color: #1b3a6b; }
+  .clerge-result__tampon--ordo_dubius { color: #8b1a1a; }
+  .clerge-result__tampon--ordo_incertus { color: #6b6158; }
+</style>

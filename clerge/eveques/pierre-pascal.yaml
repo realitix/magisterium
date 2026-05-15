@@ -1,0 +1,44 @@
+slug: pierre-pascal
+nom: Pierre Pascal
+nom_complet: St. Pedro Pascual, O. de M.
+naissance: '1227'
+deces: '1300-12-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q204920
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: matteo-d-acquasparta
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpascp.html
+  - https://fr.wikipedia.org/wiki/Pierre_Pascal_(bienheureux)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaén, Spain
+  du: '1296-02-27'
+  au: '1300-12-06'
+- titre: évêque de Jaén
+  du: '1296-03-05'
+  au: '1300-12-14'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jeroni%20Jacint%20Espinosa%2C%20Missa%20de%20Sant%20Pere%20Pasqual%2C%201660.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q744531
+  catholic_hierarchy: bpascp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:11:35+00:00'
+  completeness: 0.62

@@ -1,0 +1,45 @@
+slug: othon-de-bamberg
+nom: Othon de Bamberg
+nom_complet: Otto von Mistelbach
+naissance: '1060'
+deces: '1139-06-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1106-05-13'
+  consecrateur_principal: pascal-ii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmistelb.html
+  - https://fr.wikipedia.org/wiki/Othon_de_Bamberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: '1102-12-25'
+  au: '1139-06-30'
+- titre: évêque de Bamberg
+  du: '1103-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Dionysios%20Athens%20St.%20Otto%20of%20Bamberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q77259
+  catholic_hierarchy: bmistelb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:00:52+00:00'
+  completeness: 0.62

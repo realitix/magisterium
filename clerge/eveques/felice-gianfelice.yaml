@@ -1,0 +1,41 @@
+slug: felice-gianfelice
+nom: Felice Gianfelice
+nom_complet: null
+naissance: '1841-05-28'
+deces: '1916-06-10'
+naissance_lieu: Cittaducale, Diocese of L&rsquo;Aquila
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1897-04-25'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiaf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boiano, Italy
+  du: '1897-04-19'
+  au: '1916-06-10'
+- titre: Roman Catholic Bishop of Boiano
+  du: '1897-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746061
+  catholic_hierarchy: bgiaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:21:07+00:00'
+  completeness: 0.88

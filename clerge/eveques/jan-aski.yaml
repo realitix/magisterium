@@ -1,0 +1,64 @@
+slug: jan-aski
+nom: Jan Łaski
+nom_complet: Jan &#321;aski
+naissance: '1456'
+deces: '1531-05-19'
+naissance_lieu: '&#321;asku'
+deces_lieu: null
+rang: archeveque
+nationalite: Q1649871
+tampon: ordo_validus
+sacre:
+  date: '1510-05-26'
+  lieu: Cathedral, Kraków, Diocese of Kraków
+  consecrateur_principal: jan-konarski
+  co_consecrateurs:
+  - maciej-drzewicki
+  - jan-amicinus-przyjaciel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaski.html
+  - https://fr.wikipedia.org/wiki/Jan_%C5%81aski
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Archbishop of Gniezno, Poland
+  du: '1508-09-17'
+  au: null
+- titre: Archbishop of Gniezno, Poland
+  du: null
+  au: '1531-05-19'
+- titre: archevêque de Gniezno
+  du: '1510-05-26'
+  au: null
+- titre: grand chancelier de Pologne
+  du: '1503-11-30'
+  au: '1510-06-17'
+- titre: secrétaire du roi à la Cour de Pologne
+  du: null
+  au: null
+- titre: primat de Pologne
+  du: '1510-01-01'
+  au: '1531-01-01'
+- titre: Grand Secretary of the Crown
+  du: null
+  au: '1503-11-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20%C5%81aski%201456-1531.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q970796
+  catholic_hierarchy: blaski
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:34:58+00:00'
+  completeness: 0.88

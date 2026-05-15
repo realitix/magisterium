@@ -1,0 +1,52 @@
+slug: antoine-de-salinis
+nom: Antoine de Salinis
+nom_complet: Louis-Antoine de Salinis
+naissance: '1798-08-11'
+deces: '1861-01-30'
+naissance_lieu: Morlaas
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1849-07-29'
+  lieu: Cathedral, Bordeaux, Archdiocese of Bordeaux
+  consecrateur_principal: ferdinand-francois-auguste-donnet
+  co_consecrateurs:
+  - jean-marie-mioland
+  - antoine-adolphe-dupuch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalinis.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Salinis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Auch, France
+  du: null
+  au: '1861-01-30'
+- titre: archevêque d'Auch
+  du: '1856-02-27'
+  au: null
+- titre: évêque d'Amiens
+  du: '1849-02-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20de%20Salinis%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2856926
+  catholic_hierarchy: bsalinis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:44:25+00:00'
+  completeness: 1.0

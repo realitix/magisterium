@@ -1,0 +1,44 @@
+slug: matthias-ob
+nom: Matthias Ob
+nom_complet: Matthais Ob
+naissance: '1524'
+deces: '1572'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bob.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Speyer, Germany
+  du: '1566-06-10'
+  au: '1572'
+- titre: Titular Bishop of Daulia
+  du: '1566-06-10'
+  au: null
+- titre: évêque titulaire de Daulia
+  du: '1566-06-20'
+  au: null
+- titre: évêque auxiliaire de Spire
+  du: '1566-06-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19964701
+  catholic_hierarchy: bob
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:41:12+00:00'
+  completeness: 0.25

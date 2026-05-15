@@ -1,0 +1,43 @@
+slug: nicolau-monteiro-c-o
+nom: Nicolau Monteiro, C.O.
+nom_complet: Nicolau Monteiro
+naissance: '1581-12-06'
+deces: '1672-12-20'
+naissance_lieu: Porto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1671-05-31'
+  consecrateur_principal: francesco-ravizza
+  co_consecrateurs:
+  - manuel-de-norona-o-f-m
+  - estevao-dos-santos-carneiro-de-moraes-c-r-s-j-e
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonteni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Porto, Portugal
+  du: '1670-12-15'
+  au: '1672-12-20'
+- titre: évêque de Porto
+  du: '1670-12-15'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64750879
+  catholic_hierarchy: bmonteni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:51+00:00'
+  completeness: 1.0

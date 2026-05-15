@@ -1,0 +1,47 @@
+slug: nicole-oresme
+nom: Nicole Oresme
+nom_complet: Nicolas Oresme
+naissance: '1320'
+deces: '1382-07-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1378-01-26'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boresme.html
+  - https://fr.wikipedia.org/wiki/Nicole_Oresme
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lisieux, France
+  du: '1377-08-03'
+  au: '1382-07-11'
+- titre: doyen
+  du: '1364-03-26'
+  au: '1377-08-10'
+- titre: évêque diocésain
+  du: '1377-08-11'
+  au: '1382-07-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Oresme.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q310777
+  catholic_hierarchy: boresme
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:54:31+00:00'
+  completeness: 0.5

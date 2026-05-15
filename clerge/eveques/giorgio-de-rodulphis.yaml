@@ -1,0 +1,39 @@
+slug: giorgio-de-rodulphis
+nom: Giorgio de Rodulphis
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1518-02-26'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brodulfis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Spiga(z) (or Pegae)
+  du: '1518-02-26'
+  au: null
+- titre: évêque titulaire
+  du: '1518-02-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779989
+  catholic_hierarchy: brodulfis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:22:26+00:00'
+  completeness: 0.25

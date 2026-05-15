@@ -1,0 +1,40 @@
+slug: pedro-martir-coma-o-p
+nom: Pedro Mártir Coma, O.P.
+nom_complet: Pedro Mártir Coma
+naissance: null
+deces: '1578-03-05'
+naissance_lieu: Solsona
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1569-05-22'
+  lieu: Sancta Catarina, Monastery, Barcelona, Diocese of Barcelona, Spain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartirc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elne, France
+  du: '1569-01-14'
+  au: '1578-03-05'
+- titre: évêque d'Elne
+  du: '1569-01-24'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q20015146
+  catholic_hierarchy: bmartirc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:32:31+00:00'
+  completeness: 0.5

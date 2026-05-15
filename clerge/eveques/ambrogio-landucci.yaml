@@ -1,0 +1,44 @@
+slug: ambrogio-landucci
+nom: Ambrogio Landucci
+nom_complet: Ambrogio Landucci, O.S.A.
+naissance: '1599'
+deces: '1669-02-16'
+naissance_lieu: Siena, Archdiocese of Siena, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1655-09-12'
+  lieu: Sant&rsquo;Agostino, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - patrizio-donati
+  - taddeo-altini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blanduc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Porphyreon
+  du: '1655-08-30'
+  au: '1669-02-16'
+- titre: évêque titulaire
+  du: '1655-08-30'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q27655915
+  catholic_hierarchy: blanduc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:26+00:00'
+  completeness: 0.88

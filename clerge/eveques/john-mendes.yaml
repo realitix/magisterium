@@ -1,0 +1,51 @@
+slug: john-mendes
+nom: John Mendes
+nom_complet: null
+naissance: '1926-11-25'
+deces: '2005-06-24'
+naissance_lieu: Siparia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1989-01-06'
+  co_consecrateurs:
+  - edward-idris-cassidy
+  - jose-tomas-sanchez
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmendes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Port of Spain, Trinidad and Tobago, Antilles
+  du: '1988-10-25'
+  au: null
+- titre: Titular Bishop of Elephantaria in Proconsulari
+  du: '1988-10-25'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Port of Spain, Trinidad and Tobago, Antilles
+  du: null
+  au: '2005-06-24'
+- titre: évêque titulaire
+  du: '1988-10-25'
+  au: null
+- titre: évêque auxiliaire
+  du: '1988-10-25'
+  au: '2002-01-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55186898
+  catholic_hierarchy: bmendes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:50:16+00:00'
+  completeness: 0.88

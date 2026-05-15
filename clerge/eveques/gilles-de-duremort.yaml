@@ -1,0 +1,41 @@
+slug: gilles-de-duremort
+nom: Gilles de Duremort
+nom_complet: Gilles de Duremont, O. Cist.
+naissance: null
+deces: '1444-07-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1440-08-28'
+  consecrateur_principal: louis-de-luxembourg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduremont.html
+  - https://fr.wikipedia.org/wiki/Gilles_de_Duremort
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: '1439-10-09'
+  au: '1444-07-29'
+- titre: évêque diocésain
+  du: '1439-10-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3106569
+  catholic_hierarchy: bduremont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:15:34+00:00'
+  completeness: 0.75

@@ -1,0 +1,46 @@
+slug: jean-de-maguelone
+nom: Jean de Maguelone
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: patriarche
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1408-11-15'
+  consecrateur_principal: jean-flandrin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaguel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Patriarch of Antiochia {Antioch}
+  du: '1408-11-13'
+  au: null
+- titre: Administrator of Asti, Italy
+  du: '1408-11-13'
+  au: null
+- titre: administrateur apostolique
+  du: '1408-11-22'
+  au: null
+- titre: patriarche
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q65560299
+  catholic_hierarchy: bmaguel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:14:11+00:00'
+  completeness: 0.62

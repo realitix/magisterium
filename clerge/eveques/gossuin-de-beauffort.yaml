@@ -1,0 +1,39 @@
+slug: gossuin-de-beauffort
+nom: Gossuin de Beauffort
+nom_complet: Goswin de Beauffort
+naissance: '1150'
+deces: '1218-10-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1204'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeauffg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: 1204&sup1;
+  au: '1218-10-29'
+- titre: évêque diocésain
+  du: '1204-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9274817
+  catholic_hierarchy: bbeauffg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:10:42+00:00'
+  completeness: 0.5

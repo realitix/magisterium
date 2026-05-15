@@ -1,0 +1,39 @@
+slug: jean-gilles
+nom: Jean Gilles
+nom_complet: Jean Cardinal Gilles
+naissance: '1350'
+deces: '1408-07-01'
+naissance_lieu: Normandy
+deces_lieu: null
+rang: cardinal
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgilles.html
+  - https://fr.wikipedia.org/wiki/Jean_Gilles_(cardinal)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Santi Cosma e Damiano
+  du: '1405-06-12'
+  au: '1408-07-01'
+- titre: cardinal
+  du: '1405-06-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1772032
+  catholic_hierarchy: bgilles
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:23:11+00:00'
+  completeness: 0.38

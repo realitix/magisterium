@@ -1,0 +1,48 @@
+slug: henry-damian-juncker
+nom: Henry Damian Juncker
+nom_complet: null
+naissance: '1809-08-22'
+deces: '1868-10-02'
+naissance_lieu: Fénétrange, Diocese of Metz, France
+deces_lieu: Alton, Diocese of Alton, Illinois
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1857-04-26'
+  lieu: Cathedral, Cincinnati, Archdiocese of Cincinnati, Ohio
+  consecrateur_principal: john-baptist-purcell
+  co_consecrateurs:
+  - john-henni
+  - joshua-maria-moody-young
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjuncker.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alton, Illinois, USA
+  du: '1857-01-09'
+  au: '1868-10-02'
+- titre: évêque diocésain
+  du: '1857-01-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Henry%20Damian%20Juncker.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q107669
+  catholic_hierarchy: bjuncker
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:05:01+00:00'
+  completeness: 1.0

@@ -1,0 +1,48 @@
+slug: anton-hanggi
+nom: Anton Hänggi
+nom_complet: null
+naissance: '1917-01-15'
+deces: '1994-06-21'
+naissance_lieu: Nunningen
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1968-02-11'
+  lieu: Saint Urs, Cathedral, Soleure
+  consecrateur_principal: franziskus-von-streng
+  co_consecrateurs:
+  - johannes-vonderach
+  - francois-charriere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhanggi.html
+  - https://fr.wikipedia.org/wiki/Anton_H%C3%A4nggi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel {Bâle, Basilea}, Switzerland
+  du: null
+  au: '1982-06-21'
+- titre: Bishop Emeritus of Basel {Bâle, Basilea}, Switzerland
+  du: null
+  au: '1994-06-21'
+- titre: évêque de Bâle
+  du: '1967-12-04'
+  au: '1982-06-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q590421
+  catholic_hierarchy: bhanggi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:33:23+00:00'
+  completeness: 1.0

@@ -1,0 +1,48 @@
+slug: jean-de-hornes
+nom: Jean de Hornes
+nom_complet: Jean Hornet (Hoerne)
+naissance: '1450'
+deces: '1505-12-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1485-09-11'
+  consecrateur_principal: libert-van-broechem-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhoorn.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Hornes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1483-12-17'
+  au: '1505-12-19'
+- titre: évêque de Liège
+  du: '1483-12-26'
+  au: '1505-12-29'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20van%20Horne%20%28prins-bisschop%201484-1505%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2736132
+  catholic_hierarchy: bhoorn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:46:41+00:00'
+  completeness: 0.75

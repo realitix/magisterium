@@ -1,0 +1,52 @@
+slug: henri-de-gondi
+nom: Henri de Gondi
+nom_complet: Henri Cardinal de Gondi
+naissance: '1572'
+deces: '1622-08-14'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: Paris, Diocese of Paris
+rang: cardinal
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1598-03-01'
+  lieu: Notre Dame, Paris, Diocese of Paris
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - arnaud-sorbin-de-sainte-foi
+  - rene-potier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgondh.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Gondi_(cardinal)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: null
+  au: '1622-08-14'
+- titre: évêque de Paris
+  du: '1597-06-16'
+  au: '1622-08-14'
+- titre: cardinal
+  du: '1618-03-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20de%20Gondy%2C%20PA01949.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q968166
+  catholic_hierarchy: bgondh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:33:17+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: jaume-cacador
+nom: Jaume Caçador
+nom_complet: Jaime Casador
+naissance: '1484'
+deces: '1561-06-04'
+naissance_lieu: Vich, Diocese of Vic
+deces_lieu: null
+rang: eveque
+nationalite: Q204920
+tampon: ordo_validus
+sacre:
+  date: '1546-06-20'
+  lieu: Santo Tomás, Monastery, Riuperes, Diocese of Barcelona
+  consecrateur_principal: juan-tormo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barcelona, Spain
+  du: '1546-05-17'
+  au: '1561-06-04'
+- titre: Président de la Généralité de Catalogne
+  du: '1545-01-01'
+  au: '1548-01-01'
+- titre: évêque de Barcelone
+  du: '1546-06-30'
+  au: '1561-06-14'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1027399
+  catholic_hierarchy: bcasad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:26:06+00:00'
+  completeness: 0.75

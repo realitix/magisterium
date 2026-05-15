@@ -1,0 +1,44 @@
+slug: henri-kietlicz
+nom: Henri Kietlicz
+nom_complet: Henryk Kietlicz
+naissance: '1150'
+deces: '1219-03-22'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: vincent-kadlubeck
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkietl.html
+  - https://fr.wikipedia.org/wiki/Henri_Kietlicz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Gniezno, Poland
+  du: '1207-01-10'
+  au: '1219-03-22'
+- titre: archevêque de Gniezno
+  du: '1207-01-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henryk%20Kietlicz.PNG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3131380
+  catholic_hierarchy: bkietl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:13:29+00:00'
+  completeness: 0.5

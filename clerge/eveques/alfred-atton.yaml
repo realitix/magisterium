@@ -1,0 +1,66 @@
+slug: alfred-atton
+nom: Alfred Atton
+nom_complet: Alfred-Joseph Atton
+naissance: '1902-07-10'
+deces: '1987-07-13'
+naissance_lieu: Gien, Diocese of Orléans
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1957-10-09'
+  lieu: Sainte-Croix, Cathedral, Orléans, Diocese of Orléans
+  consecrateur_principal: robert-picard-de-la-vacquerie
+  co_consecrateurs:
+  - marc-armand-lallier
+  - jacques-menager
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/batton.html
+  - https://fr.wikipedia.org/wiki/Alfred_Atton
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Orléans, France
+  du: '1957-08-08'
+  au: null
+- titre: Titular Bishop of Theudalis
+  du: '1957-08-08'
+  au: null
+- titre: Coadjutor Bishop of Langres, France
+  du: '1961-02-03'
+  au: null
+- titre: Bishop of Langres, France
+  du: null
+  au: '1975-08-05'
+- titre: Bishop Emeritus of Langres, France
+  du: null
+  au: '1987-07-13'
+- titre: évêque auxiliaire
+  du: '1957-08-08'
+  au: '1961-02-03'
+- titre: évêque de Langres
+  du: '1964-01-15'
+  au: '1975-08-05'
+- titre: évêque titulaire
+  du: '1957-08-08'
+  au: null
+- titre: évêque coadjuteur
+  du: '1961-02-03'
+  au: '1964-01-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2834913
+  catholic_hierarchy: batton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:48:32+00:00'
+  completeness: 1.0

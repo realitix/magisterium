@@ -1,0 +1,44 @@
+slug: martino-orsino
+nom: Martino Orsino
+nom_complet: Martino Ursino (Orsino)
+naissance: '1783-04-26'
+deces: '1860-02-08'
+naissance_lieu: Catania
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1844-11-10'
+  lieu: Cathedral, Catania, Diocese of Catania
+  consecrateur_principal: felice-regano
+  co_consecrateurs:
+  - pietro-gravina-luzzena
+  - giovanni-maria-bisignani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borsino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Patti, Italy
+  du: null
+  au: '1860-02-08'
+- titre: évêque diocésain
+  du: '1844-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3850260
+  catholic_hierarchy: borsino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:56:55+00:00'
+  completeness: 1.0

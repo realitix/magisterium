@@ -1,0 +1,49 @@
+slug: martin-medek
+nom: Martin Medek
+nom_complet: Martin Medek z Mohelnice, O. Cruc.
+naissance: '1538'
+deces: '1590-02-02'
+naissance_lieu: Mohelnice
+deces_lieu: Prague, Archdiocese of Praha {Prague}
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1581-10-08'
+  lieu: S. Guy, Cathedral, Prague, Archdiocese of Praha {Prague}
+  consecrateur_principal: juraj-draskovic-von-trakoscan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmedek.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Praha {Prague}, Czechia
+  du: '1581-04-28'
+  au: '1590-02-02'
+- titre: archevêque de Prague
+  du: '1581-10-18'
+  au: null
+- titre: grand maître des Chanoines réguliers de la Très Sainte-Croix de l’Étoile
+    Rouge
+  du: '1580-01-01'
+  au: '1590-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Medek%20z%20Mohelnice%20%28J.%20L.%20Pom%C3%ADjel%2C%20cca%201940%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1413221
+  catholic_hierarchy: bmedek
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:46:32+00:00'
+  completeness: 0.75

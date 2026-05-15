@@ -1,0 +1,53 @@
+slug: heinrich-von-hewen-1400
+nom: Heinrich von Hewen
+nom_complet: null
+naissance: '1400'
+deces: '1462-09-01'
+naissance_lieu: Schwarzenbach
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1436-12-23'
+  consecrateur_principal: egidio-von-byderborch-o-carm
+  co_consecrateurs:
+  - antonio-munnoz-o-p-0f2820
+  - non-indexe-26e3df46
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhewen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Chur, Switzerland
+  du: '1441-03-08'
+  au: '1456-05-10'
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: null
+  au: '1462-09-01'
+- titre: évêque de Constance
+  du: '1436-08-13'
+  au: '1462-01-01'
+- titre: administrateur apostolique
+  du: '1441-03-17'
+  au: '1456-05-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hewen1.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1599549
+  catholic_hierarchy: bhewen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:19+00:00'
+  completeness: 0.88

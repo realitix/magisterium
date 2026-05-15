@@ -1,0 +1,47 @@
+slug: camillo-tiberio
+nom: Camillo Tiberio
+nom_complet: null
+naissance: '1850-10-24'
+deces: '1915-04-26'
+naissance_lieu: Casalbordino
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1906-11-25'
+  consecrateur_principal: pietro-respighi
+  co_consecrateurs:
+  - domenico-serafini
+  - mauro-bernardo-pietro-nardi-o-f-m-cap
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Diano-Teggiano, Italy
+  du: '1906-11-14'
+  au: '1915-04-26'
+- titre: évêque diocésain
+  du: '1906-11-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Camillo%20Tiberio.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q60922977
+  catholic_hierarchy: btib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:59:35+00:00'
+  completeness: 1.0

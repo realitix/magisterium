@@ -1,0 +1,46 @@
+slug: wolfgang-von-closen
+nom: Wolfgang von Closen
+nom_complet: null
+naissance: '1503'
+deces: '1561-08-07'
+naissance_lieu: Haidenburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1556-10-11'
+  lieu: Passau, Diocese of Passau
+  consecrateur_principal: michael-von-kuenburg
+  co_consecrateurs:
+  - urban-sagstetter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclosen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: null
+  au: '1561-08-07'
+- titre: évêque de Passau
+  du: '1555-12-30'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1660905
+  catholic_hierarchy: bclosen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:52+00:00'
+  completeness: 0.88

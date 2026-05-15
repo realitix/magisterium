@@ -1,0 +1,44 @@
+slug: marcos-de-lisboa
+nom: Marcos de Lisboa
+nom_complet: Marcos de Lisboa (Betania), O.F.M.
+naissance: '1511'
+deces: '1591-09-13'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}
+deces_lieu: null
+rang: eveque
+nationalite: Q45
+tampon: ordo_validus
+sacre:
+  date: '1582-01-21'
+  lieu: São Francisco, Chapel, Lisboa, Patriarchate of Lisboa {Lisbon}
+  consecrateur_principal: jorge-de-ataide
+  co_consecrateurs:
+  - amador-arrais
+  - antonio-teles-de-menezes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbetania.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Porto, Portugal
+  du: '1581-10-20'
+  au: '1591-09-13'
+- titre: évêque de Porto
+  du: '1581-10-30'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q6770515
+  catholic_hierarchy: bbetania
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:59+00:00'
+  completeness: 0.88

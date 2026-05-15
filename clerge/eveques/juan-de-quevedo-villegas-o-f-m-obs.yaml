@@ -1,0 +1,41 @@
+slug: juan-de-quevedo-villegas-o-f-m-obs
+nom: Juan de Quevedo Villegas, O.F.M. Obs.
+nom_complet: Juan de Quevedo Villegas
+naissance: '1450'
+deces: '1519-12-24'
+naissance_lieu: Véjoris, Diocese of Burgos, Spain
+deces_lieu: Barcelona, Diocese of Barcelona, Spain
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: '1514-01-29'
+  lieu: Seville, Archdiocese of Sevilla {Seville}, Spain
+  consecrateur_principal: diego-de-deza-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdqv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santa María de La Antigua del Darién, Panama
+  du: '1513-09-09'
+  au: '1519-12-24'
+- titre: évêque de Santa María de La Antigua del Darién
+  du: '1513-09-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6301310
+  catholic_hierarchy: bdqv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:38+00:00'
+  completeness: 0.75

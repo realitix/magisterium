@@ -1,0 +1,43 @@
+slug: marcello-pignatelli-c-r
+nom: Marcello Pignatelli, C.R.
+nom_complet: Marcello Pignatelli
+naissance: '1567'
+deces: '1621'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1617-11-26'
+  consecrateur_principal: ladislao-d-aquino
+  co_consecrateurs:
+  - antonio-d-rsquo-aquino
+  - innico-siscara
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpignm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jesi, Italy
+  du: '1617-11-13'
+  au: 1621&sup1;
+- titre: évêque de Jesi
+  du: '1617-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28860058
+  catholic_hierarchy: bpignm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:32:50+00:00'
+  completeness: 0.75

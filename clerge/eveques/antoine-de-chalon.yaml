@@ -1,0 +1,39 @@
+slug: antoine-de-chalon
+nom: Antoine de Chalon
+nom_complet: null
+naissance: null
+deces: '1500-05-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchalon.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Chalon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Autun, France
+  du: '1490-04-17'
+  au: 1500&sup2;
+- titre: évêque d'Autun
+  du: '1490-04-26'
+  au: '1500-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2856852
+  catholic_hierarchy: bchalon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:23+00:00'
+  completeness: 0.25

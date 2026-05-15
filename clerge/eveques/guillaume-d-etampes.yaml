@@ -1,0 +1,45 @@
+slug: guillaume-d-etampes
+nom: Guillaume d'Étampes
+nom_complet: Guilllaume d&rsquo;Estampes
+naissance: null
+deces: '1458'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdestag.html
+  - https://fr.wikipedia.org/wiki/Guillaume_d%27%C3%89tampes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montauban, France
+  du: '1452-01-03'
+  au: null
+- titre: Bishop of Condom, France
+  du: '1454-03-18'
+  au: 1458&sup1;
+- titre: évêque diocésain
+  du: '1452-01-12'
+  au: null
+- titre: évêque diocésain
+  du: '1454-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3120270
+  catholic_hierarchy: bdestag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:50+00:00'
+  completeness: 0.25

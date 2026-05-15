@@ -1,0 +1,47 @@
+slug: patrick-mcgettigan
+nom: Patrick McGettigan
+nom_complet: null
+naissance: '1785'
+deces: '1861-05-01'
+naissance_lieu: Kilmacrenan, Co. Donegal
+deces_lieu: Rathmullan
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1820-09-17'
+  lieu: Ballyshannon
+  consecrateur_principal: patrick-curtis
+  co_consecrateurs:
+  - peter-mclaughlin
+  - patrick-macnicholas
+  - edward-kernan
+  - patrick-burke
+  - patrick-maguire-o-f-m-rec
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcge.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Raphoe, Ireland
+  du: '1820-07-11'
+  au: '1861-05-01'
+- titre: évêque diocésain
+  du: '1820-07-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760547
+  catholic_hierarchy: bmcge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:44:03+00:00'
+  completeness: 0.88

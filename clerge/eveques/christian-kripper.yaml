@@ -1,0 +1,48 @@
+slug: christian-kripper
+nom: Christian Kripper
+nom_complet: Christian Krypper
+naissance: null
+deces: '1573-11-12'
+naissance_lieu: Loberg
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1571-08-19'
+  lieu: Passau, Diocese of Passau
+  co_consecrateurs:
+  - sebastian-haidlauf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkryp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Passau, Germany
+  du: '1570-11-08'
+  au: '1573-11-12'
+- titre: Titular Bishop of Symbalia (Cembalo, Balaclawa)
+  du: '1570-11-08'
+  au: null
+- titre: évêque titulaire
+  du: '1570-11-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1570-11-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26222342
+  catholic_hierarchy: bkryp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:22:08+00:00'
+  completeness: 0.62

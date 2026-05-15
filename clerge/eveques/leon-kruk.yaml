@@ -1,0 +1,44 @@
+slug: leon-kruk
+nom: León Kruk
+nom_complet: null
+naissance: '1926-11-30'
+deces: '1991-09-07'
+naissance_lieu: Apóstoles
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_dubius
+sacre:
+  date: '1973-03-17'
+  lieu: Nuestra Señora del Rosario, Cathedral, Corrientes, Archdiocese of Corrientes
+  consecrateur_principal: francisco-vicentin
+  co_consecrateurs:
+  - jorge-manuel-lopez
+  - jose-agustin-marozzi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkruk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Rafael, Argentina
+  du: '1973-01-20'
+  au: '1991-09-07'
+- titre: évêque diocésain
+  du: '1973-01-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q13553795
+  catholic_hierarchy: bkruk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:21:58+00:00'
+  completeness: 1.0

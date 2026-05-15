@@ -1,0 +1,42 @@
+slug: leonardo-marchesi
+nom: Leonardo Marchesi
+nom_complet: Leonardo Marchese
+naissance: '1445'
+deces: '1513-07-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q174306
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmrchsl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albenga, Italy
+  du: '1476-10-05'
+  au: '1513-07-31'
+- titre: évêque d'Albenga-Imperia
+  du: '1476-10-14'
+  au: '1513-08-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20di%20San%20Michele%20Arcangelo%2C%20Albenga%2027.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q26763899
+  catholic_hierarchy: bmrchsl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:16:59+00:00'
+  completeness: 0.38

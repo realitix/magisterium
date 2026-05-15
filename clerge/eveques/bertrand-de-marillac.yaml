@@ -1,0 +1,41 @@
+slug: bertrand-de-marillac
+nom: Bertrand de Marillac
+nom_complet: Bertrand de Marillac, O.F.M.
+naissance: '1450'
+deces: '1573-05-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1566-12-27'
+  consecrateur_principal: guillaume-viole
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmrllc.html
+  - https://fr.wikipedia.org/wiki/Bertrand_de_Marillac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rennes, France
+  du: '1565-10-26'
+  au: '1573-05-29'
+- titre: évêque de Rennes
+  du: '1565-11-05'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q2899746
+  catholic_hierarchy: bmrllc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:17:02+00:00'
+  completeness: 0.75

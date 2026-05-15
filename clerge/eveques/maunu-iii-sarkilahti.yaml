@@ -1,0 +1,40 @@
+slug: maunu-iii-sarkilahti
+nom: Maunu III Särkilahti
+nom_complet: Maunu Särkilahti (Stiernkors)
+naissance: '1435'
+deces: '1500-03-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1490-06-24'
+  consecrateur_principal: jakob-ulvsson-ulfsson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsirki.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &Aring;bo, Finland
+  du: '1489-07-06'
+  au: '1500-03-12'
+- titre: Roman Catholic Bishop of Åbo
+  du: '1489-07-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6190692
+  catholic_hierarchy: bsirki
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:21:13+00:00'
+  completeness: 0.75

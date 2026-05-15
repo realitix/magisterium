@@ -1,0 +1,49 @@
+slug: raoul-harscouet
+nom: Raoul Harscouët
+nom_complet: Raoul-Octave-Marie-Jean Harscouët
+naissance: '1874-06-14'
+deces: '1954-10-18'
+naissance_lieu: Saint-Brieuc, Diocese of Saint-Brieuc (-Tréguier)
+deces_lieu: Chartres, Diocese of Chartres
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1926-07-22'
+  lieu: Saint-Étienne, Cathedral, Saint-Brieuc, Diocese of Saint-Brieuc (-Tréguier)
+  consecrateur_principal: florent-du-bois-de-la-villerabel
+  co_consecrateurs:
+  - francois-jean-marie-serrand
+  - louis-termier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhars.html
+  - https://fr.wikipedia.org/wiki/Raoul_Harscou%C3%ABt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: '1926-06-21'
+  au: '1954-10-18'
+- titre: évêque de Chartres
+  du: '1926-06-21'
+  au: '1954-10-18'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Mgr%20Harscou%C3%ABt.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20966958
+  catholic_hierarchy: bhars
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:34:54+00:00'
+  completeness: 1.0

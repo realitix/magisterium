@@ -1,0 +1,44 @@
+slug: arcasio-ricci
+nom: Arcasio Ricci
+nom_complet: null
+naissance: '1590'
+deces: '1636-02-08'
+naissance_lieu: Pescia
+deces_lieu: Gravina, Diocese of Gravina (di Puglia)
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1630-11-24'
+  lieu: Quirinal, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-barberini
+  co_consecrateurs:
+  - giovanni-battista-scanaroli
+  - ulderico-carpegna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bricciar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gravina (di Puglia), Italy
+  du: '1630-11-13'
+  au: '1636-02-08'
+- titre: évêque diocésain
+  du: '1630-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745006
+  catholic_hierarchy: bricciar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:12:33+00:00'
+  completeness: 0.88

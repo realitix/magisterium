@@ -1,0 +1,40 @@
+slug: jean-happe
+nom: Jean Happe
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Nov 1340&sup3;
+  consecrateur_principal: jean-raymond-cardinal-de-comminges
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhappej.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Marne, France
+  du: '1340-10-13'
+  au: null
+- titre: évêque diocésain
+  du: '1340-10-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780761
+  catholic_hierarchy: bhappej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:34:07+00:00'
+  completeness: 0.62

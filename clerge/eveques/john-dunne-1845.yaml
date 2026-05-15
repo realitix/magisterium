@@ -1,0 +1,44 @@
+slug: john-dunne-1845
+nom: John Dunne
+nom_complet: John Mary Dunne
+naissance: '1845-06-08'
+deces: '1919-08-22'
+naissance_lieu: Kildorrery (Cloyne), Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_validus
+sacre:
+  date: '1901-09-08'
+  lieu: Bathurst, Diocese of Bathurst
+  consecrateur_principal: francis-patrick-moran
+  co_consecrateurs:
+  - jeremiah-joseph-doyle
+  - john-gallagher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdunnej.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bathurst, Australia
+  du: '1901-06-04'
+  au: '1919-08-22'
+- titre: évêque diocésain
+  du: '1901-06-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6230480
+  catholic_hierarchy: bdunnej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:26+00:00'
+  completeness: 1.0

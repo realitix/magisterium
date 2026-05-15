@@ -1,0 +1,49 @@
+slug: amico-panici
+nom: Amico Panici
+nom_complet: null
+naissance: '1599'
+deces: '1661-10-16'
+naissance_lieu: Maceratae
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1632-11-30'
+  consecrateur_principal: antonio-barberini
+  co_consecrateurs:
+  - benedetto-landi
+  - angelo-castellari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpanicia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarsina, Italy
+  du: '1632-11-24'
+  au: null
+- titre: Bishop of Recanati e Loreto, Italy
+  du: '1634-12-04'
+  au: '1661-10-16'
+- titre: évêque diocésain
+  du: '1634-12-04'
+  au: null
+- titre: évêque diocésain
+  du: '1632-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11851171
+  catholic_hierarchy: bpanicia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:07:35+00:00'
+  completeness: 0.88

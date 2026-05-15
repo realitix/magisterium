@@ -1,0 +1,51 @@
+slug: giovanni-ghirardi
+nom: Giovanni Ghirardi
+nom_complet: null
+naissance: '1658-05-26'
+deces: '1745-10-08'
+naissance_lieu: Cervinara
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1726-03-24'
+  co_consecrateurs:
+  - francesco-antonio-finy
+  - salvatore-di-aloisio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bghirardi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Montemarano, Italy
+  du: '1726-03-20'
+  au: null
+- titre: Titular Bishop of Corada
+  du: '1726-03-20'
+  au: null
+- titre: Bishop of Montemarano, Italy
+  du: null
+  au: '1745-10-08'
+- titre: évêque titulaire
+  du: '1726-03-20'
+  au: null
+- titre: évêque diocésain
+  du: '1726-07-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735544
+  catholic_hierarchy: bghirardi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:34+00:00'
+  completeness: 0.88

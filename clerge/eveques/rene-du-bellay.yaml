@@ -1,0 +1,57 @@
+slug: rene-du-bellay
+nom: René du Bellay
+nom_complet: René du Bellay de Langey
+naissance: '1500'
+deces: '1546'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1536-01-23'
+  consecrateur_principal: guillaume-parvy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbellayr.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_du_Bellay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grasse, France
+  du: '1532-07-19'
+  au: null
+- titre: Bishop-Elect of Grasse, France
+  du: null
+  au: 1533&sup1;
+- titre: Bishop of Le Mans, France
+  du: '1535-08-13'
+  au: 1 Nov 1542&sup1;
+- titre: Bishop Emeritus of Le Mans, France
+  du: null
+  au: Aug 1546&sup3;
+- titre: évêque du Mans
+  du: '1535-08-23'
+  au: '1542-11-11'
+- titre: évêque diocésain
+  du: '1532-07-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20tombale%20de%20Ren%C3%A9%20du%20Bellay%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3427095
+  catholic_hierarchy: bbellayr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:51+00:00'
+  completeness: 0.62

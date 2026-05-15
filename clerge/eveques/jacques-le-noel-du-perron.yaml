@@ -1,0 +1,51 @@
+slug: jacques-le-noel-du-perron
+nom: Jacques Le Noël du Perron
+nom_complet: null
+naissance: '1590'
+deces: '1649-02-14'
+naissance_lieu: Saint-Lô
+deces_lieu: Évreux, Diocese of Évreux
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1637-06-14'
+  lieu: Paris, Archdiocese of Paris
+  consecrateur_principal: charles-de-montchal
+  co_consecrateurs:
+  - gilles-boutault
+  - francois-mallier-du-houssay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blndp.html
+  - https://fr.wikipedia.org/wiki/Jacques_Le_No%C3%ABl_du_Perron
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: '1636-01-28'
+  au: null
+- titre: Bishop of Évreux, France
+  du: '1646-08-24'
+  au: '1649-02-14'
+- titre: évêque d'Angoulême
+  du: '1636-01-28'
+  au: null
+- titre: évêque d'Évreux
+  du: '1646-08-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22973202
+  catholic_hierarchy: blndp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:54:46+00:00'
+  completeness: 0.88

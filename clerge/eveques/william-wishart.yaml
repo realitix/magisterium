@@ -1,0 +1,46 @@
+slug: william-wishart
+nom: William Wishart
+nom_complet: null
+naissance: '1201'
+deces: '1279-05-28'
+naissance_lieu: null
+deces_lieu: Merbotill
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1273-10-15'
+  lieu: Scone
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwishartw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glasgow, Scotland, Great Britain
+  du: 1272&sup1;
+  au: null
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: '1273-05-15'
+  au: '1279-05-28'
+- titre: évêque diocésain
+  du: '1272-01-01'
+  au: null
+- titre: évêque de Saint Andrews
+  du: '1273-05-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8020490
+  catholic_hierarchy: bwishartw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:57:28+00:00'
+  completeness: 0.5

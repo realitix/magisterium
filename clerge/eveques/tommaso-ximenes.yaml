@@ -1,0 +1,43 @@
+slug: tommaso-ximenes
+nom: Tommaso Ximenes
+nom_complet: null
+naissance: '1550'
+deces: '1633-11-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1620-11-22'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - attilio-amalteo
+  - paolo-de-curtis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bximent.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1620-11-16'
+  au: '1633-11-03'
+- titre: évêque de Fiesole
+  du: '1620-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27916027
+  catholic_hierarchy: bximent
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:00:53+00:00'
+  completeness: 0.88

@@ -1,0 +1,55 @@
+slug: michel-santier
+nom: Michel Santier
+nom_complet: Michel Léon Émile Santier
+naissance: '1947-05-20'
+deces: null
+naissance_lieu: Granville, Diocese of Coutances (-Avranches)
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2001-09-23'
+  lieu: Parc des Expositions des Oudairies, La Roche-sur-Yon
+  consecrateur_principal: jacques-fihey
+  co_consecrateurs:
+  - francois-garnier
+  - clement-guillon
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsantier.html
+  - https://fr.wikipedia.org/wiki/Michel_Santier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: '2001-06-19'
+  au: null
+- titre: Bishop of Créteil, France
+  du: '2007-09-04'
+  au: '2021-01-09'
+- titre: évêque de Créteil
+  du: '2007-09-04'
+  au: '2021-01-09'
+- titre: évêque de Luçon
+  du: '2001-06-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Santier.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q556326
+  catholic_hierarchy: bsantier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:51:24+00:00'
+  completeness: 0.88

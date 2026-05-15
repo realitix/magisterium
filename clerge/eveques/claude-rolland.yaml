@@ -1,0 +1,44 @@
+slug: claude-rolland
+nom: Claude Rolland
+nom_complet: Claude Rolland, M.S.
+naissance: '1910-08-17'
+deces: '1973-10-15'
+naissance_lieu: Santec, Diocese of Quimper [Cornouailles](-Léon), France
+deces_lieu: Tananarive, Archdiocese of Tananarive
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1956-02-12'
+  lieu: Antisrabé, Diocese of Antsirabé
+  consecrateur_principal: victor-sartre
+  co_consecrateurs:
+  - ignace-ramarosandratana
+  - alain-le-breton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brolland.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antsirabé, Madagascar
+  du: '1955-12-19'
+  au: '1973-10-15'
+- titre: évêque diocésain
+  du: '1955-12-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q65925182
+  catholic_hierarchy: brolland
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:24:32+00:00'
+  completeness: 1.0

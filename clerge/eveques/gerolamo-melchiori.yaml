@@ -1,0 +1,52 @@
+slug: gerolamo-melchiori
+nom: Gerolamo Melchiori
+nom_complet: null
+naissance: null
+deces: '1583'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1554-12-16'
+  consecrateur_principal: giovanni-michele-saraceni
+  co_consecrateurs:
+  - ascanio-ferrari
+  - giovanni-andrea-croce
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmelchg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Macerata, Italy
+  du: '1553-03-06'
+  au: 1573&sup1;
+- titre: Bishop of Recanati, Italy
+  du: '1571-10-15'
+  au: 1573&sup1;
+- titre: Bishop Emeritus of Macerata, Italy
+  du: null
+  au: 1583&sup2;
+- titre: évêque diocésain
+  du: '1571-10-25'
+  au: '1573-01-01'
+- titre: évêque diocésain
+  du: '1553-03-16'
+  au: '1573-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61628233
+  catholic_hierarchy: bmelchg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:48:23+00:00'
+  completeness: 0.75

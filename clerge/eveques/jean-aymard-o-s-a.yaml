@@ -1,0 +1,48 @@
+slug: jean-aymard-o-s-a
+nom: Jean Aymard, O.S.A.
+nom_complet: Jean Aymard
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1536-09-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baymard.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Sens, France
+  du: '1536-09-06'
+  au: 1542&sup1;
+- titre: Auxiliary Bishop of Laon, France
+  du: '1536-09-06'
+  au: null
+- titre: Titular Bishop of Chalcedon
+  du: '1536-09-06'
+  au: null
+- titre: évêque auxiliaire
+  du: '1536-09-16'
+  au: null
+- titre: évêque titulaire
+  du: '1536-09-06'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68862930
+  catholic_hierarchy: baymard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:15+00:00'
+  completeness: 0.25

@@ -1,0 +1,47 @@
+slug: jacques-lallemant
+nom: Jacques Lallemant
+nom_complet: Jacques-Charles-Alexandre Lallemant
+naissance: '1691-02-08'
+deces: '1740-04-06'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1729-01-23'
+  consecrateur_principal: louis-de-la-vergne-montenard-de-tressan-1670
+  co_consecrateurs:
+  - michel-poncet-de-la-riviere-1671
+  - francois-cesar-le-blanc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blalle.html
+  - https://fr.wikipedia.org/wiki/Jacques_Lallemant
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: null
+  au: '1740-04-06'
+- titre: évêque de Sées
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1728-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3159246
+  catholic_hierarchy: blalle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:02+00:00'
+  completeness: 1.0

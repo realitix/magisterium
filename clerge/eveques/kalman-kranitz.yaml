@@ -1,0 +1,49 @@
+slug: kalman-kranitz
+nom: Kálmán Kránitz
+nom_complet: null
+naissance: '1841-07-01'
+deces: '1935-07-12'
+naissance_lieu: Zala-Apáti
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1907-05-12'
+  consecrateur_principal: karoly-hornig
+  co_consecrateurs:
+  - erno-kutrovatz
+  - medard-kohl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkran.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Veszprém, Hungary
+  du: '1907-04-18'
+  au: '1935-07-12'
+- titre: Titular Bishop of Cyme
+  du: '1907-04-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1907-04-18'
+  au: null
+- titre: évêque titulaire
+  du: '1907-04-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55412776
+  catholic_hierarchy: bkran
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:20:42+00:00'
+  completeness: 1.0

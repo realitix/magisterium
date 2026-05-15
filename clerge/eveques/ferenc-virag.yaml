@@ -1,0 +1,50 @@
+slug: ferenc-virag
+nom: Ferenc Virág
+nom_complet: null
+naissance: '1869-08-22'
+deces: '1958-03-02'
+naissance_lieu: Bonyhád
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1926-05-06'
+  consecrateur_principal: gyula-zichy
+  co_consecrateurs:
+  - kalman-kranitz
+  - gyozo-horvath
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvirag.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1926-03-27'
+  au: '1958-03-02'
+- titre: évêque de Pécs
+  du: '1926-03-27'
+  au: null
+- titre: représentant de la chambre haute
+  du: '1927-01-01'
+  au: '1944-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vir%C3%A1g%20Ferenc.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1460166
+  catholic_hierarchy: bvirag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:41:34+00:00'
+  completeness: 1.0

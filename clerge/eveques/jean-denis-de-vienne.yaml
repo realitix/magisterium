@@ -1,0 +1,49 @@
+slug: jean-denis-de-vienne
+nom: Jean-Denis de Vienne
+nom_complet: null
+naissance: '1739-01-16'
+deces: '1793'
+naissance_lieu: Saint-Germain-en-Laye
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1776-01-14'
+  consecrateur_principal: antoine-de-malvin-de-montazet
+  co_consecrateurs:
+  - etienne-francois-xavier-des-michels-de-champorcin
+  - jean-baptiste-du-plessis-d-argentre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvienne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon, France
+  du: '1775-12-18'
+  au: 1793&sup1;
+- titre: Titular Bishop of Sarepta
+  du: '1775-12-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1775-12-18'
+  au: null
+- titre: évêque titulaire
+  du: '1775-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745442
+  catholic_hierarchy: bvienne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:37:23+00:00'
+  completeness: 0.88

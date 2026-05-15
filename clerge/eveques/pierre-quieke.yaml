@@ -1,0 +1,44 @@
+slug: pierre-quieke
+nom: Pierre Quieke
+nom_complet: Pierre Kuick (Quick), O. Cist.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1498-03-25'
+  consecrateur_principal: henri-de-bergues
+  co_consecrateurs:
+  - raphael-de-bourgogne
+  - michele-francisci-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkuick.html
+  - https://fr.wikipedia.org/wiki/Pierre_Quieke
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1497-12-20'
+  au: 1506&sup1;
+- titre: évêque diocésain
+  du: '1497-12-29'
+  au: '1506-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q58012500
+  catholic_hierarchy: bkuick
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:22:52+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: lorenzo-da-ponte
+nom: Lorenzo da Ponte
+nom_complet: null
+naissance: '1695-09-03'
+deces: '1768-07-09'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1739-12-20'
+  consecrateur_principal: annibale-albani
+  co_consecrateurs:
+  - luigi-antonio-valdina-cremona
+  - matteo-trigona
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaponte.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ceneda, Italy
+  du: '1739-12-14'
+  au: '1768-07-09'
+- titre: évêque de Ceneda
+  du: '1739-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3837111
+  catholic_hierarchy: bdaponte
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:27:25+00:00'
+  completeness: 1.0

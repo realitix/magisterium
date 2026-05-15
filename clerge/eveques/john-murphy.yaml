@@ -1,0 +1,55 @@
+slug: john-murphy
+nom: John Murphy
+nom_complet: null
+naissance: '1772-05-23'
+deces: '1847-04-01'
+naissance_lieu: Shandon
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1815-04-23'
+  lieu: St. Mary's, Cathedral, Cork, Diocese of Cork
+  consecrateur_principal: william-coppinger
+  co_consecrateurs:
+  - daniel-murray
+  - charles-sughrue
+  - john-power
+  - kyran-marum
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmurj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Cork, Ireland
+  du: '1815-02-21'
+  au: null
+- titre: Bishop of Cork, Ireland
+  du: null
+  au: '1847-04-01'
+- titre: Titular Bishop of Ionopolis
+  du: 21 Feb 1815&#8312;
+  au: null
+- titre: évêque titulaire
+  du: '1815-02-21'
+  au: null
+- titre: évêque de Cork
+  du: '1815-02-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733933
+  catholic_hierarchy: bmurj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:58+00:00'
+  completeness: 1.0

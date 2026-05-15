@@ -1,0 +1,49 @@
+slug: ivo-furer
+nom: Ivo Fürer
+nom_complet: null
+naissance: '1930-04-20'
+deces: '2022-07-12'
+naissance_lieu: Gossau
+deces_lieu: Gossau
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1995-06-05'
+  lieu: Cathedral, Sankt Gallen, Diocese of Sankt Gallen
+  consecrateur_principal: otmar-mader
+  co_consecrateurs:
+  - henri-salina
+  - karl-lehmann
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfurer.html
+  - https://fr.wikipedia.org/wiki/Ivo_F%C3%BCrer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Sankt Gallen, Switzerland
+  du: null
+  au: '2022-07-12'
+- titre: évêque diocésain
+  du: '1995-03-28'
+  au: '2005-10-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/FuererIvo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q124745
+  catholic_hierarchy: bfurer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:01:12+00:00'
+  completeness: 1.0

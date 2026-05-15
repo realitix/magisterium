@@ -1,0 +1,50 @@
+slug: osvaldo-casali
+nom: Osvaldo Casali
+nom_complet: null
+naissance: '1824-08-21'
+deces: '1907'
+naissance_lieu: Camerino, Archdiocese of Camerino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1892-08-07'
+  lieu: Camerino, Archdiocese of Camerino
+  consecrateur_principal: elvezio-mariano-pagliari
+  co_consecrateurs:
+  - macario-sorini
+  - roberto-papiri-pageri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasao.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Camerino, Italy
+  du: '1892-07-11'
+  au: 1907&sup1;
+- titre: Titular Bishop of Miletus
+  du: '1892-07-11'
+  au: null
+- titre: évêque titulaire
+  du: '1892-07-11'
+  au: null
+- titre: évêque auxiliaire
+  du: '1892-07-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16168509
+  catholic_hierarchy: bcasao
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:26:43+00:00'
+  completeness: 0.88

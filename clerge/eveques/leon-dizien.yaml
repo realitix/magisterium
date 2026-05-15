@@ -1,0 +1,49 @@
+slug: leon-dizien
+nom: Léon Dizien
+nom_complet: Jean-Marie-Léon Dizien
+naissance: '1846-04-05'
+deces: '1915-03-27'
+naissance_lieu: Domecy-sur-Cure, Archdiocese of Sens (-Auxerre)
+deces_lieu: Amiens, Diocese of Amiens
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1896-09-08'
+  lieu: Cathedral, Sens, Archdiocese of Sens (-Auxerre)
+  consecrateur_principal: pierre-marie-etienne-gustave-ardin
+  co_consecrateurs:
+  - etienne-antoine-alfred-lelong
+  - prosper-amable-berthet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdizien.html
+  - https://fr.wikipedia.org/wiki/Jean-Marie-L%C3%A9on_Dizien
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: null
+  au: '1915-03-27'
+- titre: évêque d'Amiens
+  du: '1896-05-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Dizien%2C%20%C3%A9v%C3%AAque%20d%27Amiens%2001.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64692627
+  catholic_hierarchy: bdizien
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:53:27+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: edward-magennis
+nom: Edward Magennis
+nom_complet: Edward MacGennis
+naissance: '1847-04-03'
+deces: '1906-05-15'
+naissance_lieu: Kill
+deces_lieu: Cullies House, Cavan, Diocese of Kilmore
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1888-04-15'
+  lieu: Cathedral, Cavan, Diocese of Kilmore
+  consecrateur_principal: michael-logue
+  co_consecrateurs:
+  - thomas-nulty
+  - james-donnelly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmgen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kilmore, Ireland
+  du: '1888-02-21'
+  au: '1906-05-15'
+- titre: évêque de Kilmore
+  du: '1888-02-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16198741
+  catholic_hierarchy: bmgen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:54:45+00:00'
+  completeness: 1.0

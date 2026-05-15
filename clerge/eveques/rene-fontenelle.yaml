@@ -1,0 +1,48 @@
+slug: rene-fontenelle
+nom: René Fontenelle
+nom_complet: René Henri Joseph Fontenelle
+naissance: '1894-12-13'
+deces: '1957-03-27'
+naissance_lieu: Maubeuge, Archdiocese of Cambrai, France
+deces_lieu: Le Mans, Diocese of Le Mans, France
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1955-06-05'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: federico-tedeschini
+  co_consecrateurs:
+  - emile-guerry
+  - stanislas-courbe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfontr.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Fontenelle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Theudalis
+  du: '1955-03-25'
+  au: '1957-03-27'
+- titre: évêque titulaire
+  du: '1955-03-25'
+  au: '1957-03-27'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3426206
+  catholic_hierarchy: bfontr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:29+00:00'
+  completeness: 1.0

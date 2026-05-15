@@ -1,0 +1,44 @@
+slug: jean-ii-de-beauvau
+nom: Jean II de Beauvau
+nom_complet: Jean de Beauvau
+naissance: null
+deces: '1479-05-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  date: '1451-09-26'
+  consecrateur_principal: jean-bernard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeauvj.html
+  - https://fr.wikipedia.org/wiki/Jean_II_de_Beauvau_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: '1447-10-27'
+  au: 1467&sup1;
+- titre: Bishop Emeritus of Angers, France
+  du: null
+  au: 1479&sup1;
+- titre: évêque d'Angers
+  du: '1447-11-05'
+  au: '1467-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3172636
+  catholic_hierarchy: bbeauvj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:11:13+00:00'
+  completeness: 0.62

@@ -1,0 +1,44 @@
+slug: micha-karpowicz
+nom: Michał Karpowicz
+nom_complet: Michal Franciszek Karpowicz, C.M.
+naissance: '1744-10-04'
+deces: '1803-11-05'
+naissance_lieu: Kamieniec
+deces_lieu: null
+rang: eveque
+nationalite: Q172107
+tampon: ordo_validus
+sacre:
+  date: '1800-03-30'
+  consecrateur_principal: jan-chrzciciel-albertrandi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkarp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wigry, Poland
+  du: '1799-03-28'
+  au: '1803-11-05'
+- titre: évêque diocésain
+  du: '1799-03-28'
+  au: null
+fraternite: lazaristes
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20bp.%20Micha%C5%82a%20Franciszka%20Karpowicza.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11778868
+  catholic_hierarchy: bkarp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:08:27+00:00'
+  completeness: 0.88

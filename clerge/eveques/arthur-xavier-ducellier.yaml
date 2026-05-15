@@ -1,0 +1,52 @@
+slug: arthur-xavier-ducellier
+nom: Arthur Xavier Ducellier
+nom_complet: Arthur-Xavier Ducellier
+naissance: '1832-09-01'
+deces: '1893-06-29'
+naissance_lieu: Soliers
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1878-09-24'
+  lieu: Cathedral, Bayeux, Diocese of Bayeux (-Lisieux)
+  consecrateur_principal: flavien-hugonin
+  co_consecrateurs:
+  - jules-francois-le-coq
+  - abel-anastase-germain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduce.html
+  - https://fr.wikipedia.org/wiki/Arthur_Xavier_Ducellier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Besançon, France
+  du: null
+  au: '1893-06-29'
+- titre: archevêque de Besançon
+  du: '1887-05-02'
+  au: null
+- titre: évêque de Bayonne, Lescar et Oloron
+  du: '1878-06-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Ducellier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q708280
+  catholic_hierarchy: bduce
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:11:14+00:00'
+  completeness: 1.0

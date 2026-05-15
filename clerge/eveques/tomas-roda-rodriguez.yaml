@@ -1,0 +1,47 @@
+slug: tomas-roda-rodriguez
+nom: Tomás Roda Rodríguez
+nom_complet: Tomás Roda y Rodríguez
+naissance: '1779-09-18'
+deces: '1858-03-11'
+naissance_lieu: Murtas
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1852-12-21'
+  lieu: Madrid, Archdiocese of Toledo
+  consecrateur_principal: juan-jose-bonel-y-orbe
+  co_consecrateurs:
+  - tomas-iglesias-y-barcones
+  - nicolas-luis-lezo-y-garro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brodar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaén, Spain
+  du: null
+  au: '1858-03-11'
+- titre: évêque de Jaén
+  du: '1857-08-20'
+  au: null
+- titre: évêque de Minorque
+  du: '1852-02-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6148617
+  catholic_hierarchy: brodar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:20:45+00:00'
+  completeness: 1.0

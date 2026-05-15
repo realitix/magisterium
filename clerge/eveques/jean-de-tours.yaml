@@ -1,0 +1,41 @@
+slug: jean-de-tours
+nom: Jean de Tours
+nom_complet: John Villula (of Tours)
+naissance: '1050'
+deces: '1122-12-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Jul 1088&sup3;
+  consecrateur_principal: non-indexe-368e23b4
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btours.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Tours
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bath, England, Great Britain
+  du: 1088&sup1;
+  au: '1122-12-29'
+- titre: évêque de Bath et Wells
+  du: '1088-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6265843
+  catholic_hierarchy: btours
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:08:12+00:00'
+  completeness: 0.75

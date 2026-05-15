@@ -1,0 +1,49 @@
+slug: petrus-hotzl
+nom: Petrus Hötzl
+nom_complet: Petrus von Hötzl, O.F.M. Ref.
+naissance: '1836-08-06'
+deces: '1902-03-09'
+naissance_lieu: Rottach, Archdiocese of München und Freising {Munich}
+deces_lieu: null
+rang: eveque
+nationalite: Q154195
+tampon: ordo_validus
+sacre:
+  date: '1895-05-01'
+  lieu: Cathedral, Augsburg, Diocese of Augsburg
+  consecrateur_principal: antonius-von-thoma
+  co_consecrateurs:
+  - ignaz-von-senestrey
+  - michael-von-rampf
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhotzl.html
+  - https://fr.wikipedia.org/wiki/Petrus_von_H%C3%B6tzl
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1902-03-09'
+- titre: évêque d'Augsbourg
+  du: '1895-05-01'
+  au: '1902-03-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Petrus%20von%20hoetzl.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2081071
+  catholic_hierarchy: bhotzl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:47:38+00:00'
+  completeness: 1.0

@@ -1,0 +1,40 @@
+slug: adam-moleyns
+nom: Adam Moleyns
+nom_complet: null
+naissance: null
+deces: '1450-01-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1446-02-06'
+  consecrateur_principal: john-stafford-5062bb
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoley.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chichester, England, Great Britain
+  du: '1445-09-24'
+  au: '1450-01-08'
+- titre: Roman Catholic Bishop of Chichester
+  du: '1445-10-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4679508
+  catholic_hierarchy: bmoley
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:27+00:00'
+  completeness: 0.75

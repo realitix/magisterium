@@ -1,0 +1,44 @@
+slug: vicente-horcos-sanmartin
+nom: Vicente Horcos Sanmartín
+nom_complet: Vicente Horcos y San Martín, O.S.B.
+naissance: '1807-04-05'
+deces: '1861-01-13'
+naissance_lieu: Hornos de Moncalvillo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1853-01-30'
+  lieu: S. Marc, Church, Madrid, Archdiocese of Toledo
+  consecrateur_principal: giovanni-brunelli
+  co_consecrateurs:
+  - tomas-iglesias-y-barcones
+  - nicolas-luis-lezo-y-garro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhorcos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osma, Spain
+  du: null
+  au: '1861-01-13'
+- titre: évêque d'Osma
+  du: '1852-08-05'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64745555
+  catholic_hierarchy: bhorcos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:46:59+00:00'
+  completeness: 1.0

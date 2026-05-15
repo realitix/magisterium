@@ -1,0 +1,47 @@
+slug: wilhelm-von-welsperg
+nom: Wilhelm von Welsperg
+nom_complet: Wilhelm von Welsberg
+naissance: '1585'
+deces: '1641-03-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1629-10-28'
+  consecrateur_principal: anton-crosini-von-bonporto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwelsberg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: '1629-05-28'
+  au: '1641-03-27'
+- titre: prince-évêque
+  du: null
+  au: null
+- titre: évêque de Brixen
+  du: '1629-05-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20von%20Welsperg%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q48887473
+  catholic_hierarchy: bwelsberg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:53:30+00:00'
+  completeness: 0.75

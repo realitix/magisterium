@@ -1,0 +1,44 @@
+slug: jozsef-martonffy
+nom: József Mártonffy
+nom_complet: József Mártonfi
+naissance: '1746-01-15'
+deces: '1815-03-03'
+naissance_lieu: Székelyszentkirály
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1800-11-09'
+  consecrateur_principal: laszlo-kollonich
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Transilvania, Erdély, Siebenbürgen, Romania
+  du: null
+  au: '1815-03-03'
+- titre: Roman Catholic Bishop of Transilvania, Erdély, Siebenbürgen
+  du: '1799-03-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A1rtonffy%20J%C3%B3zsef.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1212451
+  catholic_hierarchy: bmartj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:32:35+00:00'
+  completeness: 0.88

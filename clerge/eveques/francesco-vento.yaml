@@ -1,0 +1,41 @@
+slug: francesco-vento
+nom: Francesco Vento
+nom_complet: null
+naissance: '1849-02-05'
+deces: '1910-09-29'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1897-04-25'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvento.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aversa, Italy
+  du: '1897-04-19'
+  au: '1910-09-29'
+- titre: évêque diocésain
+  du: '1897-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735695
+  catholic_hierarchy: bvento
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:06+00:00'
+  completeness: 0.88

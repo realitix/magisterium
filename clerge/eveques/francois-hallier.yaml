@@ -1,0 +1,40 @@
+slug: francois-hallier
+nom: François Hallier
+nom_complet: null
+naissance: '1596-02-01'
+deces: '1659-07-23'
+naissance_lieu: Chartres
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1657-03-18'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhallier.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hallier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cavaillon, France
+  du: '1657-03-12'
+  au: '1659-07-23'
+- titre: évêque de Cavaillon
+  du: '1657-03-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24936227
+  catholic_hierarchy: bhallier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:31+00:00'
+  completeness: 0.5

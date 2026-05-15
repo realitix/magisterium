@@ -1,0 +1,46 @@
+slug: jean-francois-van-de-velde
+nom: Jean-François Van de Velde
+nom_complet: Jan Frans (Jean-François) Van de Velde
+naissance: '1779-09-08'
+deces: '1838-08-07'
+naissance_lieu: Boom, Diocese of Antwerpen {Antwerp, Anvers}
+deces_lieu: Gand, Diocese of Gent {Ghent, Gand}
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1829-11-08'
+  lieu: Saint-Bavon, Cathedral, Gand, Diocese of Gent {Ghent, Gand}
+  consecrateur_principal: jean-joseph-delplancq
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdvj.html
+  - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Van_de_Velde_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1829-05-18'
+  au: '1838-08-07'
+- titre: Évêque de Gand
+  du: '1829-05-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20bishop%20Jan%20Frans%20Van%20de%20Velde.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2715321
+  catholic_hierarchy: bvdvj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:29:04+00:00'
+  completeness: 0.88

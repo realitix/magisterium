@@ -1,0 +1,46 @@
+slug: marquard-von-hattstein
+nom: Marquard von Hattstein
+nom_complet: null
+naissance: '1529-09-08'
+deces: '1581-12-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1561-09-08'
+  consecrateur_principal: jakob-eliner
+  co_consecrateurs:
+  - georg-schweicker
+  - johannes-delphius
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhatts.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: '1560-09-04'
+  au: '1581-12-07'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Spire
+  du: '1560-09-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1638405
+  catholic_hierarchy: bhatts
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:35:54+00:00'
+  completeness: 0.88

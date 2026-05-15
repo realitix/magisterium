@@ -1,0 +1,50 @@
+slug: louis-cazet
+nom: Louis Cazet
+nom_complet: Pierre-Louis Cazet de Vautorte
+naissance: '1617'
+deces: '1687-12-13'
+naissance_lieu: Laval
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1655-09-21'
+  consecrateur_principal: pierre-de-marca
+  co_consecrateurs:
+  - jean-vincent-de-tulles
+  - francois-du-bosquet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcazetdv.html
+  - https://fr.wikipedia.org/wiki/Louis_Cazet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lectoure, France
+  du: '1655-05-14'
+  au: null
+- titre: Bishop of Vannes, France
+  du: null
+  au: '1687-12-13'
+- titre: évêque diocésain
+  du: '1655-05-14'
+  au: null
+- titre: évêque diocésain
+  du: '1671-01-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3261449
+  catholic_hierarchy: bcazetdv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:35:13+00:00'
+  completeness: 0.88

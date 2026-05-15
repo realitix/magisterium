@@ -1,0 +1,39 @@
+slug: pierre-de-longueil
+nom: Pierre de Longueil
+nom_complet: null
+naissance: '1398'
+deces: '1474-02-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blongup.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Longueil
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: '1449-06-27'
+  au: '1474-02-16'
+- titre: évêque d'Auxerre
+  du: '1449-07-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3387606
+  catholic_hierarchy: blongup
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:57:47+00:00'
+  completeness: 0.38

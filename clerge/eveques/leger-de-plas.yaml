@@ -1,0 +1,42 @@
+slug: leger-de-plas
+nom: Léger de Plas
+nom_complet: Léger de Plas, O.S.B.
+naissance: '1549'
+deces: '1635-03-24'
+naissance_lieu: Curemonte, Correze
+deces_lieu: Curemonte
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1599-12-19'
+  lieu: S. Germain des Pres, Paris, Diocese of Paris
+  consecrateur_principal: francois-cardinal-de-joyeuse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplasl.html
+  - https://fr.wikipedia.org/wiki/L%C3%A9ger_de_Plas
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lectoure, France
+  du: '1599-07-19'
+  au: '1635-03-24'
+- titre: évêque diocésain
+  du: '1599-07-19'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3270182
+  catholic_hierarchy: bplasl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:26+00:00'
+  completeness: 0.75

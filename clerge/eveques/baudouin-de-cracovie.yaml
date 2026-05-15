@@ -1,0 +1,41 @@
+slug: baudouin-de-cracovie
+nom: Baudouin de Cracovie
+nom_complet: Baldwin Aichinger
+naissance: '1001'
+deces: '1109-09-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1103-03-25'
+  consecrateur_principal: pascal-ii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baichinge.html
+  - https://fr.wikipedia.org/wiki/Baudouin_de_Cracovie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kraków, Poland
+  du: '1103-03-25'
+  au: '1109-09-09'
+- titre: évêque de Cracovie
+  du: '1103-04-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9164580
+  catholic_hierarchy: baichinge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:24:29+00:00'
+  completeness: 0.62

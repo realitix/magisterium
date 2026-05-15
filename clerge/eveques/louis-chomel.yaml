@@ -1,0 +1,47 @@
+slug: louis-chomel
+nom: Louis Chomel
+nom_complet: Louis-Armand Chomel
+naissance: '1679'
+deces: '1780-05-25'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1721-07-25'
+  consecrateur_principal: francois-elie-de-voyer-de-paulmy-d-argenson
+  co_consecrateurs:
+  - isaac-jacques-de-verthamon-de-chalucet
+  - anne-francois-guillaume-du-cambout-de-becay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchomel.html
+  - https://fr.wikipedia.org/wiki/Louis_Chomel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orange, France
+  du: '1721-06-16'
+  au: '1731-11-18'
+- titre: Bishop Emeritus of Orange, France
+  du: null
+  au: '1780-05-25'
+- titre: évêque diocésain
+  du: '1721-06-16'
+  au: '1731-11-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3261526
+  catholic_hierarchy: bchomel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:47:45+00:00'
+  completeness: 0.88

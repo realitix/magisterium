@@ -1,0 +1,44 @@
+slug: jean-baptiste-joseph-de-fontanges
+nom: Jean-Baptiste-Joseph de Fontanges
+nom_complet: null
+naissance: '1718'
+deces: '1764-11-08'
+naissance_lieu: Saint-Flour
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1748-12-22'
+  consecrateur_principal: jean-joseph-languet-de-gergy
+  co_consecrateurs:
+  - joseph-meallet-de-fargues
+  - charles-jean-de-bertin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfontang.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste-Joseph_de_Fontanges
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavaur, France
+  du: null
+  au: '1764-11-08'
+- titre: évêque diocésain
+  du: '1748-04-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22271220
+  catholic_hierarchy: bfontang
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:10+00:00'
+  completeness: 0.88

@@ -1,0 +1,73 @@
+slug: ignace-bourget
+nom: Ignace Bourget
+nom_complet: null
+naissance: '1799-10-30'
+deces: '1885-06-07'
+naissance_lieu: Saint-Joseph-de-la-Pointe-de-Lévy, Diocese of Québec
+deces_lieu: St-Janvier residence, Sault-au-Récollet, Diocese of Montréal, Québec
+rang: archeveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1837-07-25'
+  lieu: Montréal, Diocese of Montréal, Québec
+  consecrateur_principal: jean-jacques-lartigue
+  co_consecrateurs:
+  - pierre-flavien-turgeon
+  - remi-gaulin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourget.html
+  - https://fr.wikipedia.org/wiki/Ignace_Bourget
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Montréal, Québec, Canada
+  du: '1837-03-10'
+  au: null
+- titre: Titular Bishop of Telmissus
+  du: '1837-03-10'
+  au: null
+- titre: Bishop of Montréal, Québec, Canada
+  du: null
+  au: '1840-04-19'
+- titre: Titular Archbishop of Marcianopolis
+  du: '1876-07-04'
+  au: null
+- titre: Bishop Emeritus of Montréal, Québec, Canada
+  du: null
+  au: '1885-06-07'
+- titre: archevêque titulaire
+  du: '1876-07-04'
+  au: '1885-06-07'
+- titre: archevêque catholique
+  du: '1876-07-04'
+  au: null
+- titre: évêque titulaire
+  du: '1837-03-10'
+  au: '1840-04-19'
+- titre: évêque diocésain
+  du: '1840-04-19'
+  au: '1876-05-11'
+- titre: archevêque de Montréal
+  du: '1840-04-19'
+  au: '1876-05-11'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ignace%20Bourget%20as%20Archbishop.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q305485
+  catholic_hierarchy: bbourget
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:48+00:00'
+  completeness: 1.0

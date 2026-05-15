@@ -1,0 +1,38 @@
+slug: francisco-ramirez
+nom: Francisco Ramírez
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bramfr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuzco, Peru
+  du: '1562-07-06'
+  au: 1564&sup2;
+- titre: évêque de Cuzco
+  du: '1562-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910111
+  catholic_hierarchy: bramfr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:01:08+00:00'
+  completeness: 0.25

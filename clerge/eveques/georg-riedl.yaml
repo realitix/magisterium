@@ -1,0 +1,45 @@
+slug: georg-riedl
+nom: Georg Riedl
+nom_complet: null
+naissance: null
+deces: '1566-06-21'
+naissance_lieu: Wolnzach
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1561-01-25'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/briedl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Regensburg, Germany
+  du: '1561-01-15'
+  au: '1566-06-21'
+- titre: Titular Bishop of Halmiros
+  du: '1561-01-15'
+  au: null
+- titre: évêque titulaire
+  du: '1561-01-25'
+  au: null
+- titre: évêque auxiliaire
+  du: '1561-01-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910412
+  catholic_hierarchy: briedl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:14:07+00:00'
+  completeness: 0.38

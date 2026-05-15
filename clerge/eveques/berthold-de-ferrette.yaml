@@ -1,0 +1,42 @@
+slug: berthold-de-ferrette
+nom: Berthold de Ferrette
+nom_complet: Berthold von Pfirt
+naissance: '1250'
+deces: '1262-12-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1250-07-01'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpfirt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: 1250&sup1;
+  au: '1262-12-08'
+- titre: évêque coadjuteur de Bâle
+  du: null
+  au: null
+- titre: évêque de Bâle
+  du: '1250-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q828141
+  catholic_hierarchy: bpfirt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:28:10+00:00'
+  completeness: 0.5

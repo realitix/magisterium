@@ -1,0 +1,43 @@
+slug: walter-maidstone
+nom: Walter Maidstone
+nom_complet: null
+naissance: '1250'
+deces: '1317-03-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1313-10-07'
+  consecrateur_principal: beranger-fredol-l-ancien
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaidst.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1313-10-01'
+  au: '1317-03-28'
+- titre: évêque diocésain
+  du: '1313-10-09'
+  au: null
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1313-01-01'
+  au: '1317-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7965537
+  catholic_hierarchy: bmaidst
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:14:49+00:00'
+  completeness: 0.75

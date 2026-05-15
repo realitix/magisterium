@@ -1,0 +1,52 @@
+slug: paul-cremona
+nom: Paul Cremona
+nom_complet: Paul Cremona, O.P.
+naissance: '1946-01-25'
+deces: '2025-03-18'
+naissance_lieu: Valletta, Archdiocese of Malta
+deces_lieu: Mater Dei, Hospital, Msida, Archdiocese of Malta
+rang: archeveque
+nationalite: Q233
+tampon: ordo_dubius
+sacre:
+  date: '2007-01-26'
+  lieu: Saint John, Co-Cathedral, Valletta, Archdiocese of Malta
+  consecrateur_principal: joseph-mercieca
+  co_consecrateurs:
+  - felix-del-blanco-prieto
+  - george-anthony-frendo
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcremona.html
+  - https://fr.wikipedia.org/wiki/Pawlu_Cremona
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Malta
+  du: '2006-12-02'
+  au: '2014-10-18'
+- titre: Archbishop Emeritus of Malta
+  du: null
+  au: '2025-03-18'
+- titre: archevêque de Malte
+  du: '2007-01-26'
+  au: '2014-10-18'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop.malta.paul.cremona.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q557980
+  catholic_hierarchy: bcremona
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:49+00:00'
+  completeness: 1.0

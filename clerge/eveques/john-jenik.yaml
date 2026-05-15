@@ -1,0 +1,50 @@
+slug: john-jenik
+nom: John Jenik
+nom_complet: John Joseph Jenik
+naissance: '1944-03-07'
+deces: null
+naissance_lieu: Manhattan
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '2014-08-04'
+  lieu: Saint Patrick, Cathedral, New York, Archdiocese of New York, New York
+  consecrateur_principal: timothy-dolan
+  co_consecrateurs:
+  - dominick-john-lagonegro
+  - gerald-thomas-walsh
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjenik.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of New York, New York, USA
+  du: '2014-06-14'
+  au: null
+- titre: Titular Bishop of Druas
+  du: '2014-06-14'
+  au: null
+- titre: évêque titulaire
+  du: '2014-06-14'
+  au: null
+- titre: évêque auxiliaire
+  du: '2014-06-14'
+  au: '2019-10-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17200670
+  catholic_hierarchy: bjenik
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:00:28+00:00'
+  completeness: 0.88

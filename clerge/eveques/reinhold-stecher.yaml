@@ -1,0 +1,52 @@
+slug: reinhold-stecher
+nom: Reinhold Stecher
+nom_complet: null
+naissance: '1921-12-22'
+deces: '2013-01-29'
+naissance_lieu: Innsbruck, Diocese of Innsbruck
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1981-01-25'
+  lieu: Innsbruck, Diocese of Innsbruck
+  consecrateur_principal: paulus-rusch
+  co_consecrateurs:
+  - joseph-gargitter
+  - bruno-wechner
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstecher.html
+  - https://fr.wikipedia.org/wiki/Reinhold_Stecher
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Innsbruck, Austria
+  du: '1980-12-15'
+  au: null
+- titre: Bishop Emeritus of Innsbruck, Austria
+  du: null
+  au: '2013-01-29'
+- titre: évêque d'Innsbruck
+  du: '1980-12-15'
+  au: '1997-10-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Reinhold-stecher.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q85183
+  catholic_hierarchy: bstecher
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:37:05+00:00'
+  completeness: 1.0

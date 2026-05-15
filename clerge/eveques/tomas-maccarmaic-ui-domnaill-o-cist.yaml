@@ -1,0 +1,38 @@
+slug: tomas-maccarmaic-ui-domnaill-o-cist
+nom: Tomas MacCarmaic ui Domnaill, O. Cist.
+nom_complet: Tomas MacCarmaic ui Domnaill
+naissance: null
+deces: '1337'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcarma.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Raphoe, Ireland
+  du: 1319&sup2;
+  au: 1337&sup2;
+- titre: évêque diocésain
+  du: '1319-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781261
+  catholic_hierarchy: bmcarma
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:42:28+00:00'
+  completeness: 0.25

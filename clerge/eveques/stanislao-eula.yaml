@@ -1,0 +1,44 @@
+slug: stanislao-eula
+nom: Stanislao Eula
+nom_complet: null
+naissance: '1818-06-10'
+deces: '1886-04-10'
+naissance_lieu: Mondovi, Diocese of Mondovi
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1876-04-17'
+  lieu: St Andre au Quirinal, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-oreglia-di-santo-stefano
+  co_consecrateurs:
+  - giacomo-cattani
+  - edward-henry-howard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beula.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Novara, Italy
+  du: '1876-01-28'
+  au: '1886-04-10'
+- titre: évêque diocésain
+  du: '1876-01-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3968183
+  catholic_hierarchy: beula
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:09+00:00'
+  completeness: 1.0

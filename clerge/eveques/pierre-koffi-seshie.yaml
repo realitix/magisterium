@@ -1,0 +1,44 @@
+slug: pierre-koffi-seshie
+nom: Pierre Koffi Séshie
+nom_complet: Pierre Koffi Seshie
+naissance: '1942-08-01'
+deces: '2000-04-25'
+naissance_lieu: Azahoun
+deces_lieu: null
+rang: eveque
+nationalite: Q945
+tampon: ordo_dubius
+sacre:
+  date: '1994-10-15'
+  consecrateur_principal: jozef-tomko
+  co_consecrateurs:
+  - andre-dupuy
+  - philippe-fanoko-kossi-kpodzro
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseshie.html
+  - https://fr.wikipedia.org/wiki/Pierre_Koffi_S%C3%A9shie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kpalimé, Togo
+  du: '1994-07-01'
+  au: '2000-04-25'
+- titre: évêque diocésain
+  du: '1994-07-01'
+  au: '2000-04-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744887
+  catholic_hierarchy: bseshie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:32+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: jacques-monestes
+nom: Jacques Monestès
+nom_complet: Jacques-Louis Monestès
+naissance: '1856-02-26'
+deces: '1915-03-31'
+naissance_lieu: Laplume
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1911-10-01'
+  consecrateur_principal: hector-irenee-sevin
+  co_consecrateurs:
+  - paul-pellet
+  - francois-alexandre-maillet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmones.html
+  - https://fr.wikipedia.org/wiki/Jacques_Monest%C3%A8s
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dijon, France
+  du: '1911-08-11'
+  au: '1915-03-31'
+- titre: évêque de Dijon
+  du: '1911-08-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15970334
+  catholic_hierarchy: bmones
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:05:23+00:00'
+  completeness: 1.0

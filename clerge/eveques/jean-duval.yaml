@@ -1,0 +1,50 @@
+slug: jean-duval
+nom: Jean Duval
+nom_complet: Jean Duval, O.C.D.
+naissance: '1597-04-22'
+deces: '1669-04-10'
+naissance_lieu: Clamecy
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1638-08-22'
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - antonio-severoli
+  - tommaso-carafa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduvalje.html
+  - https://fr.wikipedia.org/wiki/Jean_Duval
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Baghdad, Iraq
+  du: '1638-08-16'
+  au: '1669-04-10'
+- titre: Vicar Apostolic of Ispahan, Iran
+  du: '1638-09-25'
+  au: null
+- titre: vicaire apostolique
+  du: '1638-09-25'
+  au: null
+- titre: évêque de Bagdad
+  du: '1638-08-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27824226
+  catholic_hierarchy: bduvalje
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:33+00:00'
+  completeness: 1.0

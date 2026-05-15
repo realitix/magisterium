@@ -1,0 +1,48 @@
+slug: emmanuel-marbeau
+nom: Emmanuel Marbeau
+nom_complet: Emmanuel-Jules-Marie Marbeau
+naissance: '1844-11-12'
+deces: '1921-05-31'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1910-05-03'
+  consecrateur_principal: leon-adolphe-amette
+  co_consecrateurs:
+  - stanislas-arthur-xavier-touchet
+  - charles-de-ligonnes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarbeau.html
+  - https://fr.wikipedia.org/wiki/Emmanuel_Marbeau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1910-02-08'
+  au: '1921-05-31'
+- titre: évêque de Meaux
+  du: '1910-02-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Catastrophe%20de%20Melun%201913%20-%20Mgr%20Marbeau%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q52423852
+  catholic_hierarchy: bmarbeau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:07+00:00'
+  completeness: 1.0

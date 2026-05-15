@@ -1,0 +1,45 @@
+slug: jean-buxeti
+nom: Jean Buxeti
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1574-05-22'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuxeti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Toul, France
+  du: '1574-05-22'
+  au: null
+- titre: Titular Bishop of Christopolis
+  du: '1574-05-22'
+  au: null
+- titre: évêque titulaire
+  du: '1574-05-22'
+  au: null
+- titre: évêque auxiliaire de Toul
+  du: '1574-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68864801
+  catholic_hierarchy: bbuxeti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:02:39+00:00'
+  completeness: 0.25

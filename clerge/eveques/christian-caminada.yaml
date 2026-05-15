@@ -1,0 +1,44 @@
+slug: christian-caminada
+nom: Christian Caminada
+nom_complet: Christian Josef Caminada
+naissance: '1876-01-06'
+deces: '1962-01-18'
+naissance_lieu: Surrhin
+deces_lieu: Chur, Diocese of Chur
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1941-11-23'
+  consecrateur_principal: filippo-bernardini
+  co_consecrateurs:
+  - viktor-bieler
+  - joseph-meile
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcami.html
+  - https://fr.wikipedia.org/wiki/Christian_Caminada
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: null
+  au: '1962-01-18'
+- titre: évêque diocésain
+  du: '1941-10-17'
+  au: '1962-01-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q125377
+  catholic_hierarchy: bcami
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:10:30+00:00'
+  completeness: 1.0

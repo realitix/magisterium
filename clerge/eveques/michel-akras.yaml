@@ -1,0 +1,52 @@
+slug: michel-akras
+nom: Michel Akras
+nom_complet: null
+naissance: '1871-03-08'
+deces: '1947-02-05'
+naissance_lieu: Alep
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1913-03-08'
+  consecrateur_principal: elias-hoyek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bakras.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Alep [Beroea, Halab] (Maronite), Syria
+  du: '1913-02-24'
+  au: '1945-10-27'
+- titre: Titular Archbishop of Anazarbus
+  du: '1945-10-27'
+  au: null
+- titre: Archbishop Emeritus of Alep [Beroea, Halab] (Maronite), Syria
+  du: null
+  au: '1947-02-05'
+- titre: archevêque titulaire
+  du: '1945-10-27'
+  au: null
+- titre: archevêque catholique
+  du: '1913-03-08'
+  au: '1945-10-27'
+- titre: archevêque d'Alep des Maronites
+  du: '1913-03-08'
+  au: '1945-10-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733977
+  catholic_hierarchy: bakras
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:25:12+00:00'
+  completeness: 0.88

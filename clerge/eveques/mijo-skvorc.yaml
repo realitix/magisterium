@@ -1,0 +1,50 @@
+slug: mijo-skvorc
+nom: Mijo Škvorc
+nom_complet: Mijo &#352;kvorc, S.J.
+naissance: '1919-09-01'
+deces: '1989-02-15'
+naissance_lieu: "Ru\x9Aevac"
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1970-07-19'
+  lieu: Zagreb, Archdiocese of Zagreb
+  consecrateur_principal: mario-cagna
+  co_consecrateurs:
+  - josip-lach
+  - josip-arneri-263
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bskvorc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Zagreb, Croatia
+  du: '1970-06-16'
+  au: '1989-02-15'
+- titre: Titular Bishop of Hadrumetum
+  du: '1970-06-16'
+  au: null
+- titre: évêque titulaire
+  du: '1970-06-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1970-06-16'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q2779599
+  catholic_hierarchy: bskvorc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:22:40+00:00'
+  completeness: 1.0

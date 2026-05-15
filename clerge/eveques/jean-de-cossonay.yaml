@@ -1,0 +1,40 @@
+slug: jean-de-cossonay
+nom: Jean de Cossonay
+nom_complet: null
+naissance: '1250'
+deces: '1273-06-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-f4b495eb
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcossonay.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Cossonay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1242-08-01'
+  au: '1273-06-18'
+- titre: évêque de Lausanne
+  du: '1240-01-01'
+  au: '1273-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1685929
+  catholic_hierarchy: bcossonay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:10:04+00:00'
+  completeness: 0.62

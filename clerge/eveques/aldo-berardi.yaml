@@ -1,0 +1,45 @@
+slug: aldo-berardi
+nom: Aldo Berardi
+nom_complet: Aldo Berardi, O.SS.T.
+naissance: '1963-09-30'
+deces: null
+naissance_lieu: Longeville-les-Metz, Diocese of Metz, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2023-03-18'
+  lieu: Our Lady of Arabia, Cathedral, Awali, Vicariate Apostolic of Northern Arabia
+  consecrateur_principal: miguel-ayuso-guixot
+  co_consecrateurs:
+  - eugene-nugent
+  - paul-hinder
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberardi.html
+  - https://fr.wikipedia.org/wiki/Aldo_Berardi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Northern Arabia, Bahrain
+  du: '2023-01-28'
+  au: null
+- titre: vicaire apostolique
+  du: '2023-01-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q116458704
+  catholic_hierarchy: bberardi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:18:46+00:00'
+  completeness: 0.88

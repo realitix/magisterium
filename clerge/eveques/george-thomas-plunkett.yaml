@@ -1,0 +1,44 @@
+slug: george-thomas-plunkett
+nom: George Thomas Plunkett
+nom_complet: null
+naissance: '1765'
+deces: '1827-04-27'
+naissance_lieu: Bothar, Drumlion
+deces_lieu: Versailles, France
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1815-02-24'
+  lieu: S. Andrew, Dublin, Archdiocese of Dublin
+  consecrateur_principal: john-troy
+  co_consecrateurs:
+  - daniel-murray
+  - patrick-ryan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplun.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elphin, Ireland
+  du: '1814-10-04'
+  au: '1827-04-27'
+- titre: évêque diocésain
+  du: '1814-10-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5545161
+  catholic_hierarchy: bplun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:39:18+00:00'
+  completeness: 0.88

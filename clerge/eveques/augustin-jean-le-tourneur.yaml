@@ -1,0 +1,43 @@
+slug: augustin-jean-le-tourneur
+nom: Augustin-Jean Le Tourneur
+nom_complet: null
+naissance: '1775-12-05'
+deces: '1844-01-26'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1837-06-25'
+  consecrateur_principal: hyacinthe-louis-de-quelen
+  co_consecrateurs:
+  - charles-de-forbin-janson
+  - louis-blanquart-de-bailleul
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bletou.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: null
+  au: '1844-01-26'
+- titre: évêque de Verdun
+  du: '1837-05-19'
+  au: '1844-01-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22582623
+  catholic_hierarchy: bletou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:46:58+00:00'
+  completeness: 1.0

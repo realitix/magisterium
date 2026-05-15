@@ -1,0 +1,52 @@
+slug: rudolf-voderholzer
+nom: Rudolf Voderholzer
+nom_complet: Rodulphus Voderholzer
+naissance: '1959-10-09'
+deces: null
+naissance_lieu: München, Archdiocese of München und Freising {Munich}
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2013-01-26'
+  lieu: Sankt Peter, Cathedral, Regensburg, Diocese of Regensburg
+  consecrateur_principal: reinhard-cardinal-marx
+  co_consecrateurs:
+  - gerhard-ludwig-muller
+  - frantisek-radkovsky
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvoder.html
+  - https://fr.wikipedia.org/wiki/Rudolf_Voderholzer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: '2012-12-06'
+  au: null
+- titre: évêque diocésain
+  du: '2012-12-06'
+  au: null
+- titre: évêque de Ratisbonne
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Voderholzer%20Bischof%20Regensburg%20wiki.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q488501
+  catholic_hierarchy: bvoder
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:44:59+00:00'
+  completeness: 0.88

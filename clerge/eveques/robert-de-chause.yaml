@@ -1,0 +1,42 @@
+slug: robert-de-chause
+nom: Robert de Chause
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1258-04-14'
+  consecrateur_principal: william-of-bitton-i
+  co_consecrateurs:
+  - giles-of-bridport
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchause.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1257-02-12'
+  au: Sep 1278&sup3;
+- titre: évêque diocésain
+  du: '1257-02-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779957
+  catholic_hierarchy: bchause
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:43:20+00:00'
+  completeness: 0.75

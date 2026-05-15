@@ -1,0 +1,42 @@
+slug: hugues-de-coat-tredrez
+nom: Hugues de Coat-Trédrez
+nom_complet: Hugues de Coat-Trédez
+naissance: '1500'
+deces: '1468'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoatt.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Coat-Tr%C3%A9drez
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tréguier, France
+  du: 1464&sup2;
+  au: 1465&sup2;
+- titre: Bishop Emeritus of Tréguier, France
+  du: null
+  au: 1468&sup2;
+- titre: évêque diocésain
+  du: '1464-01-01'
+  au: '1465-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18811898
+  catholic_hierarchy: bcoatt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:55:39+00:00'
+  completeness: 0.25

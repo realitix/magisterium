@@ -1,0 +1,48 @@
+slug: pio-gallizia-b
+nom: Pio Gallizia, B.
+nom_complet: Pio Gallizia
+naissance: '1701'
+deces: '1745-03-23'
+naissance_lieu: Varello
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1741-01-29'
+  co_consecrateurs:
+  - giuseppe-antonio-davanzati
+  - felix-solazzo-castriotta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgalliz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Ava e Pegù, Myanmar
+  du: '1741-01-25'
+  au: '1745-03-23'
+- titre: Titular Bishop of Clysma
+  du: '1741-01-25'
+  au: null
+- titre: évêque titulaire
+  du: '1741-01-25'
+  au: null
+- titre: vicaire apostolique
+  du: '1741-01-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745645
+  catholic_hierarchy: bgalliz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:06:12+00:00'
+  completeness: 0.75

@@ -1,0 +1,39 @@
+slug: jean-de-cumba
+nom: Jean de Cumba
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: annibaldo-cardinal-di-ceccano
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcumba.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cloyne, Ireland
+  du: '1333-08-10'
+  au: 1356&sup1;
+- titre: évêque de Cloyne
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779333
+  catholic_hierarchy: bcumba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:18:17+00:00'
+  completeness: 0.5

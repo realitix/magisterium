@@ -1,0 +1,44 @@
+slug: scipion-jerome-begon
+nom: Scipion Jérome Bégon
+nom_complet: Scipion-Jérôme Bégon
+naissance: '1681-09-30'
+deces: '1753-12-28'
+naissance_lieu: Brest
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1723-04-25'
+  consecrateur_principal: henri-oswald-de-la-tour-d-auvergne
+  co_consecrateurs:
+  - francois-honore-de-beauvillier-de-saint-aignan
+  - francois-firmin-trudaine
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbegon.html
+  - https://fr.wikipedia.org/wiki/Scipion-J%C3%A9r%C3%B4me_B%C3%A9gon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toul, France
+  du: null
+  au: '1753-12-28'
+- titre: évêque de Toul
+  du: '1723-03-15'
+  au: '1753-12-28'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3475900
+  catholic_hierarchy: bbegon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:12:45+00:00'
+  completeness: 1.0

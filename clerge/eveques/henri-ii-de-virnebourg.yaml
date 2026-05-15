@@ -1,0 +1,45 @@
+slug: henri-ii-de-virnebourg
+nom: Henri II de Virnebourg
+nom_complet: Heinrich von Virneburg
+naissance: '1244'
+deces: '1332-01-06'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1305-12-18'
+  consecrateur_principal: clement-v
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvirnhe.html
+  - https://fr.wikipedia.org/wiki/Henri_II_de_Virnebourg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Köln {Cologne}, Germany
+  du: 1305&sup1;
+  au: '1332-01-06'
+- titre: archevêque de Cologne
+  du: '1306-01-01'
+  au: '1332-01-14'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Olpe-Geschichtsbrunnen4-Bubo.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q87060
+  catholic_hierarchy: bvirnhe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:41:46+00:00'
+  completeness: 0.62

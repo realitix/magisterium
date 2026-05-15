@@ -1,0 +1,50 @@
+slug: jacques-maistret-o-carm
+nom: Jacques Maistret, O. Carm.
+nom_complet: Jacques Maistret
+naissance: '1534'
+deces: '1615-06-06'
+naissance_lieu: Juilly, Cote d'Or
+deces_lieu: Aix les Bains, Savoie
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1574-12-27'
+  lieu: Avignon, Archdiocese of Avignon
+  consecrateur_principal: simon-vigor
+  co_consecrateurs:
+  - guillaume-ruze
+  - jacques-foure
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaist.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon, France
+  du: '1574-11-17'
+  au: '1615-06-06'
+- titre: Titular Bishop of Damascus
+  du: '1574-11-17'
+  au: null
+- titre: évêque titulaire
+  du: '1574-11-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1574-11-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746454
+  catholic_hierarchy: bmaist
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:15:27+00:00'
+  completeness: 0.88

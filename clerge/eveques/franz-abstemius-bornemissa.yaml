@@ -1,0 +1,45 @@
+slug: franz-abstemius-bornemissa
+nom: Franz Abstemius Bornemissa
+nom_complet: null
+naissance: null
+deces: '1558'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1555-11-10'
+  consecrateur_principal: urban-textor
+  co_consecrateurs:
+  - andras-koves
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/babste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wiener Neustadt, Austria
+  du: 1553&sup2;
+  au: 1558&sup1;
+- titre: évêque diocésain
+  du: '1553-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64626861
+  catholic_hierarchy: babste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.75

@@ -1,0 +1,47 @@
+slug: charles-de-joyeuse
+nom: Charles de Joyeuse
+nom_complet: null
+naissance: '1450'
+deces: '1502-08-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1484-04-04'
+  consecrateur_principal: toussaint-de-villeneuve-o-carm
+  co_consecrateurs:
+  - guillaume-adhemar-de-monteil
+  - agircola-de-panisse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjoyeusec.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Joyeuse
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Flour, France
+  du: '1483-09-10'
+  au: 1500&sup1;
+- titre: Bishop Emeritus of Saint-Flour, France
+  du: null
+  au: '1502-08-22'
+- titre: évêque diocésain
+  du: '1483-09-19'
+  au: '1500-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960594
+  catholic_hierarchy: bjoyeusec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:04:22+00:00'
+  completeness: 0.88

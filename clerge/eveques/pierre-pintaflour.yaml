@@ -1,0 +1,48 @@
+slug: pierre-pintaflour
+nom: Pierre Pintaflour
+nom_complet: null
+naissance: '1502'
+deces: '1580-04-10'
+naissance_lieu: Straezeele, Nord, France
+deces_lieu: Tournai, Diocese of Tournai {Doornik}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1575-07-31'
+  lieu: College N-D, Courtrai
+  consecrateur_principal: rythovius
+  co_consecrateurs:
+  - remi-drieux
+  - ghislain-de-vroede
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpintaf.html
+  - https://fr.wikipedia.org/wiki/Pierre_Pintaflour
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1575-05-04'
+  au: '1580-04-10'
+- titre: évêque de Tournai
+  du: '1575-05-14'
+  au: '1580-04-20'
+- titre: évêque diocésain
+  du: '1575-05-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q57584178
+  catholic_hierarchy: bpintaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:34:54+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: john-gervais
+nom: John Gervais
+nom_complet: John Gervais (Gernsay)
+naissance: '1200'
+deces: '1268-01-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1262-09-10'
+  consecrateur_principal: urbain-iv
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgervaisj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: 1262&sup1;
+  au: '1268-01-20'
+- titre: évêque diocésain
+  du: '1262-01-01'
+  au: null
+- titre: évêque de Winchester
+  du: '1262-01-01'
+  au: '1268-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16198931
+  catholic_hierarchy: bgervaisj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:19:13+00:00'
+  completeness: 0.62

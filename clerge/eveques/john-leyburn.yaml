@@ -1,0 +1,58 @@
+slug: john-leyburn
+nom: John Leyburn
+nom_complet: null
+naissance: '1620'
+deces: '1702-06-20'
+naissance_lieu: Cunswick Hall, Crook, Westmorland
+deces_lieu: London, Vicariate Apostolic of London District, England
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1685-09-09'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: federico-baldeschi-colonna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleyb.html
+  - https://fr.wikipedia.org/wiki/John_Leyburn
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of England (and Wales), Great Britain
+  du: '1685-08-24'
+  au: null
+- titre: Titular Bishop of Adramyttium
+  du: '1685-08-24'
+  au: null
+- titre: Vicar Apostolic of London District, England, Great Britain
+  du: '1688-01-30'
+  au: '1702-06-20'
+- titre: Vicar Apostolic of London District
+  du: '1688-01-30'
+  au: '1702-06-20'
+- titre: évêque titulaire
+  du: '1685-08-24'
+  au: null
+- titre: Vicar Apostolic of England (and Wales)
+  du: '1685-08-24'
+  au: '1688-01-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Leyborn%20%281620-1702%29%2C%20Vicar%20Apostolic%20of%20All%20England%2C%201685-8%20%28St.%20Edmund%27s%20College%2C%20Ware%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6244792
+  catholic_hierarchy: bleyb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:04+00:00'
+  completeness: 0.75

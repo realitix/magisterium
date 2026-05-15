@@ -1,0 +1,50 @@
+slug: pedro-castilla
+nom: Pedro Castilla
+nom_complet: Peter of Castile
+naissance: '1394'
+deces: '1461-04-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q217196
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastilp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osma, Spain
+  du: '1433-04-22'
+  au: null
+- titre: Bishop of Palencia, Spain
+  du: '1440-04-06'
+  au: '1461-04-27'
+- titre: évêque d'Osma
+  du: '1433-05-01'
+  au: null
+- titre: évêque diocésain
+  du: '1433-05-01'
+  au: null
+- titre: évêque de Palencia
+  du: '1440-04-15'
+  au: null
+- titre: conseiller de Castille
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9057724
+  catholic_hierarchy: bcastilp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:31:11+00:00'
+  completeness: 0.38

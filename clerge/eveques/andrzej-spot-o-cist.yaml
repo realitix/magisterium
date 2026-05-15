@@ -1,0 +1,48 @@
+slug: andrzej-spot-o-cist
+nom: Andrzej Spot, O. Cist.
+nom_complet: Andrzej Spot
+naissance: '1501'
+deces: '1560-03-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1547-04-02'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspots.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Kraków, Poland
+  du: '1547-03-23'
+  au: '1560-03-05'
+- titre: Titular Bishop of Laodicea in Phrygia
+  du: '1547-03-23'
+  au: null
+- titre: évêque titulaire
+  du: '1547-04-02'
+  au: null
+- titre: évêque auxiliaire
+  du: '1547-04-02'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11686087
+  catholic_hierarchy: bspots
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:34:20+00:00'
+  completeness: 0.38

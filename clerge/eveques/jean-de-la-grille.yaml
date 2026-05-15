@@ -1,0 +1,48 @@
+slug: jean-de-la-grille
+nom: Jean de la Grille
+nom_complet: St. Jean de Châtillon (de la Grille), O. Cist.
+naissance: '1098'
+deces: '1163-02-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1144'
+  consecrateur_principal: lucius-ii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchati.html
+  - https://fr.wikipedia.org/wiki/Jean_de_la_Grille
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aleth, France
+  du: 1144&sup1;
+  au: null
+- titre: Bishop of Saint-Malo, France
+  du: '1146'
+  au: '1163-02-01'
+- titre: évêque diocésain
+  du: '1146-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Procession%20des%20saints%20de%20Bretagne%20-%20dioc%C3%A8se%20de%20Rennes%2C%20cath%C3%A9drale%20saint%20Pierre%2C%20Rennes%2C%20France.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3175777
+  catholic_hierarchy: bchati
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:52+00:00'
+  completeness: 0.62

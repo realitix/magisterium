@@ -1,0 +1,48 @@
+slug: apolinar-serrano
+nom: Apolinar Serrano
+nom_complet: Apolinar Serrano Díez
+naissance: '1833-07-23'
+deces: '1876-06-15'
+naissance_lieu: Villarramiel de Campos, Diocese of Palencia, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1875-11-21'
+  lieu: Royal, Chapel, Madrid, Archdiocese of Toledo, Spain
+  consecrateur_principal: fernando-blanco-y-lorenzo-o-p
+  co_consecrateurs:
+  - mariano-brezmes-y-arredondo
+  - zeferino-gonzalez-y-diaz-tunon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserranoy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Cristobal de la Habana, Cuba
+  du: null
+  au: '1876-06-15'
+- titre: Bishop of La Habana
+  du: '1875-08-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/ApolinarSerrano.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4780225
+  catholic_hierarchy: bserranoy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:11:57+00:00'
+  completeness: 1.0

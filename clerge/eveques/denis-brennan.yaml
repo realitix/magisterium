@@ -1,0 +1,44 @@
+slug: denis-brennan
+nom: Denis Brennan
+nom_complet: null
+naissance: '1945-06-20'
+deces: null
+naissance_lieu: Springmount, Ratnure
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '2006-04-23'
+  lieu: Saint Aidan, Cathedral, Enniscorthy, Diocese of Ferns
+  consecrateur_principal: diarmuid-martin
+  co_consecrateurs:
+  - giuseppe-lazzarotto
+  - eamonn-oliver-walsh
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrend.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ferns, Ireland
+  du: '2006-03-01'
+  au: null
+- titre: évêque diocésain
+  du: '2006-03-01'
+  au: '2021-06-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q177925
+  catholic_hierarchy: bbrend
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:50:32+00:00'
+  completeness: 0.88

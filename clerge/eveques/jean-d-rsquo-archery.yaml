@@ -1,0 +1,38 @@
+slug: jean-d-rsquo-archery
+nom: Jean d&rsquo;Archery
+nom_complet: Jean d’Archery
+naissance: null
+deces: '1419-06-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdarchery.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senlis, France
+  du: null
+  au: '1419-06-12'
+- titre: évêque diocésain
+  du: '1415-05-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108524559
+  catholic_hierarchy: bdarchery
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:27:56+00:00'
+  completeness: 0.38

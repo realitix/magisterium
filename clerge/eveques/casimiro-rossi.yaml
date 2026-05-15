@@ -1,0 +1,46 @@
+slug: casimiro-rossi
+nom: Casimiro Rossi
+nom_complet: null
+naissance: '1685-03-11'
+deces: '1758-12-27'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1733-01-25'
+  consecrateur_principal: troiano-acquaviva-d-aragona
+  co_consecrateurs:
+  - giuseppe-spinelli-1694
+  - marcello-passari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brossicas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Salerno, Italy
+  du: '1738-05-05'
+  au: '1758-12-27'
+- titre: archevêque de Tarente
+  du: '1732-09-04'
+  au: null
+- titre: archevêque de Salerne
+  du: '1738-05-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707868
+  catholic_hierarchy: brossicas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:29:17+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: luigi-napolitano
+nom: Luigi Napolitano
+nom_complet: Aloysius Napolitano
+naissance: '1801-10-01'
+deces: '1857-11-26'
+naissance_lieu: Brusciano, Diocese of Nola
+deces_lieu: null
+rang: eveque
+nationalite: Q180393
+tampon: ordo_validus
+sacre:
+  date: '1845-03-09'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - fabio-maria-asquini
+  - antonio-fernando-jose-de-echanove-y-zaldivar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnapol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lacedonia, Italy
+  du: null
+  au: '1857-11-26'
+- titre: Roman Catholic Bishop of Lacedonia
+  du: '1844-11-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751016
+  catholic_hierarchy: bnapol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:24:49+00:00'
+  completeness: 1.0

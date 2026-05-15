@@ -1,0 +1,40 @@
+slug: bertrand-de-romans
+nom: Bertrand de Romans
+nom_complet: Bertrando de Romanis
+naissance: null
+deces: '1579-03-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1567-01-06'
+  consecrateur_principal: pierre-ragueneau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdromb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fréjus, France
+  du: '1566-02-15'
+  au: '1579-03-19'
+- titre: évêque diocésain
+  du: '1566-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q75762191
+  catholic_hierarchy: bdromb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:54+00:00'
+  completeness: 0.75

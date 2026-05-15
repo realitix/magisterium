@@ -1,0 +1,36 @@
+slug: pierre-turelure
+nom: Pierre Turelure
+nom_complet: Pierre Turelure, O.P.
+naissance: null
+deces: '1466-07-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bturelure.html
+  - https://fr.wikipedia.org/wiki/Pierre_Turelure
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: '1445-09-11'
+  au: '1466-07-22'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3387190
+  catholic_hierarchy: bturelure
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:30+00:00'
+  completeness: 0.38

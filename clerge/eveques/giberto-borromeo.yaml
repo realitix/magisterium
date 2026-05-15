@@ -1,0 +1,55 @@
+slug: giberto-borromeo
+nom: Giberto Borromeo
+nom_complet: Giberto Bartolomeo Cardinal Borromeo
+naissance: '1671-09-12'
+deces: '1740-01-22'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: patriarche
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1711-03-01'
+  lieu: Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: giuseppe-archinto
+  co_consecrateurs:
+  - girolamo-archinto
+  - giovanni-francesco-barbarigo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborrg.html
+  - https://fr.wikipedia.org/wiki/Giberto_Borromeo_(1671-1740)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Patriarch of Antiochia {Antioch}
+  du: '1711-01-26'
+  au: null
+- titre: Bishop of Novara, Italy
+  du: '1714-01-17'
+  au: '1740-01-22'
+- titre: cardinal
+  du: '1717-03-15'
+  au: null
+- titre: évêque diocésain
+  du: '1714-01-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Giberto%20Bartolomeo%20Borromeo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q363304
+  catholic_hierarchy: bborrg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:17+00:00'
+  completeness: 1.0

@@ -1,0 +1,49 @@
+slug: jean-joseph-delplancq
+nom: Jean-Joseph Delplancq
+nom_complet: Jean Joseph Delplancq
+naissance: '1767-01-31'
+deces: '1834-07-27'
+naissance_lieu: Thieu
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1829-10-25'
+  lieu: Saint-Aubain, Cathedral, Namur, Diocese of Namur {Namen}
+  consecrateur_principal: nicolas-alexis-ondernard
+  co_consecrateurs:
+  - frederic-auguste-francois-joseph-ghislain-de-cuvelier
+  - lambert-francois-joseph-de-hauregard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelpl.html
+  - https://fr.wikipedia.org/wiki/Jean-Joseph_Delplancq
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1829-05-18'
+  au: '1834-07-27'
+- titre: évêque de Tournai
+  du: '1829-10-25'
+  au: '1834-07-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20de%20Jean-Joseph%20Delplancq%2C%20L.%20van%20de%20Wildenberg%2C%201829%20-%20RP-P-OB-40.304%20-%20crop.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q60534046
+  catholic_hierarchy: bdelpl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:40:49+00:00'
+  completeness: 1.0

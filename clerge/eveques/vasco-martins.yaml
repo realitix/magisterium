@@ -1,0 +1,46 @@
+slug: vasco-martins
+nom: Vasco Martins
+nom_complet: null
+naissance: null
+deces: '1344-11-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1329-03-09'
+  consecrateur_principal: bertrand-cardinal-de-la-tour-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartinsv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Porto, Portugal
+  du: '1328-01-15'
+  au: null
+- titre: Bishop of Lisboa, Portugal
+  du: '1342-09-25'
+  au: '1344-11-18'
+- titre: évêque de Lisbonne
+  du: '1342-10-03'
+  au: null
+- titre: évêque de Porto
+  du: '1328-01-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760889
+  catholic_hierarchy: bmartinsv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:32:26+00:00'
+  completeness: 0.75

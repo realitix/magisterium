@@ -1,0 +1,59 @@
+slug: guillaume-giffard
+nom: Guillaume Giffard
+nom_complet: William Giffard
+naissance: '1100'
+deces: '1129-01-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1107-08-11'
+  consecrateur_principal: st-anselm-of-canterbury-o-s-b
+  co_consecrateurs:
+  - non-indexe-ac6eb8f5
+  - robert-bloett
+  - jean-de-tours
+  - herbert-de-losinga
+  - robert-de-limesey
+  - ralph-de-luffa
+  - rainulf-flambard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiffwi.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Giffard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: 1100&sup1;
+  au: '1129-01-25'
+- titre: lord chancelier
+  du: '1093-01-01'
+  au: '1101-01-01'
+- titre: évêque diocésain
+  du: '1100-01-01'
+  au: null
+- titre: évêque de Winchester
+  du: '1100-08-17'
+  au: '1129-01-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Williamgiffardwinchestergreathallwindows.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q723977
+  catholic_hierarchy: bgiffwi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:22:31+00:00'
+  completeness: 0.88

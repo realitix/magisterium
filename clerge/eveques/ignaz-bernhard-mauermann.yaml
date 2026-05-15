@@ -1,0 +1,54 @@
+slug: ignaz-bernhard-mauermann
+nom: Ignaz Bernhard Mauermann
+nom_complet: null
+naissance: '1786-02-02'
+deces: '1841-09-14'
+naissance_lieu: Neuzelle
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1819-07-11'
+  lieu: Dresde
+  consecrateur_principal: georg-franz-lock
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmauerm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Saxonia (Saxony), Germany
+  du: '1819-01-31'
+  au: '1841-09-14'
+- titre: Titular Bishop of Pella
+  du: '1819-05-14'
+  au: null
+- titre: Prefect of Meißen (Meissen) {Lusazia o Lausitz; Sassonia}, Germany
+  du: '1831'
+  au: null
+- titre: vicaire apostolique
+  du: '1819-01-31'
+  au: null
+- titre: évêque titulaire
+  du: '1819-05-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Ignaz%20Bernhard%20Mauermann.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1552686
+  catholic_hierarchy: bmauerm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:09+00:00'
+  completeness: 0.88

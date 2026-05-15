@@ -1,0 +1,36 @@
+slug: john-christopherson
+nom: John Christopherson
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1557-11-21'
+  consecrateur_principal: edmund-bonner
+  co_consecrateurs:
+  - thomas-thirlby
+  - maurice-griffith
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchrstph.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chichester, England, Great Britain
+  du: '1557-05-07'
+  au: Dec 1558&sup3;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bchrstph
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:48:30+00:00'
+  completeness: 0.75

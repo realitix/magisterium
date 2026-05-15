@@ -1,0 +1,49 @@
+slug: franz-jung
+nom: Franz Jung
+nom_complet: null
+naissance: '1966-06-04'
+deces: null
+naissance_lieu: Ludwigshafen, Diocese of Speyer
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2018-06-10'
+  lieu: Sankt Kilian, Cathedral, Würzburg, Diocese of Würzburg
+  consecrateur_principal: ludwig-schick
+  co_consecrateurs:
+  - karl-heinz-wiesemann
+  - friedhelm-hofmann
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjungf.html
+  - https://fr.wikipedia.org/wiki/Franz_Jung_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '2018-02-16'
+  au: null
+- titre: évêque de Wurtzbourg
+  du: '2018-06-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Franz%20Jung.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15444755
+  catholic_hierarchy: bjungf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:05:06+00:00'
+  completeness: 0.88

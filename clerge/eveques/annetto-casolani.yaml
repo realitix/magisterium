@@ -1,0 +1,57 @@
+slug: annetto-casolani
+nom: Annetto Casolani
+nom_complet: null
+naissance: '1815-08-10'
+deces: '1866-08-01'
+naissance_lieu: Malta, Malta
+deces_lieu: null
+rang: eveque
+nationalite: Q233
+tampon: ordo_validus
+sacre:
+  date: '1846-05-24'
+  lieu: San Carlo al Corso, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - giovanni-brunelli
+  - jean-felix-onesime-luquet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasolani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Central Africa {Africa Centrale}, Sudan
+  du: '1846-04-03'
+  au: '1847-05-02'
+- titre: Titular Bishop of Mauricastro
+  du: '1846-04-03'
+  au: null
+- titre: Vicar Apostolic Emeritus of Central Africa {Africa Centrale}, Sudan
+  du: null
+  au: '1866-08-01'
+- titre: vicaire apostolique
+  du: '1846-04-03'
+  au: null
+- titre: évêque titulaire
+  du: '1846-04-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Annetto%20Casolani.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16065808
+  catholic_hierarchy: bcasolani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:28:21+00:00'
+  completeness: 1.0

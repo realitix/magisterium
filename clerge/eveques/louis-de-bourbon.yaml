@@ -1,0 +1,51 @@
+slug: louis-de-bourbon
+nom: Louis de Bourbon
+nom_complet: Louis de Bourbon, Bishop of Liège
+naissance: '1438'
+deces: '1482-08-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1467-05-01'
+  consecrateur_principal: johan-merchteren-o-f-m
+  co_consecrateurs:
+  - godefroid-greveray-o-carm
+  - guillaume-vasseur-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborbonel.html
+  - https://fr.wikipedia.org/wiki/Louis_de_Bourbon_(Li%C3%A8ge)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1455-04-07'
+  au: '1482-08-30'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Liège
+  du: '1455-04-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20de%20Bourbon%28Couleurs%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1875296
+  catholic_hierarchy: bborbonel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:39:39+00:00'
+  completeness: 0.88

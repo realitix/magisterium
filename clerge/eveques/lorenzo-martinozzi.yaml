@@ -1,0 +1,44 @@
+slug: lorenzo-martinozzi
+nom: Lorenzo Martinozzi
+nom_complet: Lorenzo Martinozzi, O.S.B.
+naissance: '1609'
+deces: '1663-08-01'
+naissance_lieu: Sienne, Archdiocese of Siena
+deces_lieu: Montalcino, Diocese of Montalcino
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1656-11-05'
+  lieu: Sant&rsquo;Ambrogio della Massima, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcantonio-cardinal-franciotti
+  co_consecrateurs:
+  - marcantonio-oddi
+  - giacomo-vianol
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartinoz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montalcino, Italy
+  du: '1656-10-16'
+  au: Aug 1663&sup3;
+- titre: Roman Catholic Bishop of Montalcino
+  du: '1656-10-16'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64751625
+  catholic_hierarchy: bmartinoz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:32:09+00:00'
+  completeness: 0.75

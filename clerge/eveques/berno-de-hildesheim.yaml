@@ -1,0 +1,45 @@
+slug: berno-de-hildesheim
+nom: Berno de Hildesheim
+nom_complet: Berno von Hildesheim
+naissance: '1200'
+deces: '1194'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhildbe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: 1190&sup2;
+  au: '1194-10-28'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1190-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/25%20Berno.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q826679
+  catholic_hierarchy: bhildbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:55+00:00'
+  completeness: 0.38

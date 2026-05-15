@@ -1,0 +1,44 @@
+slug: bartholomew-of-exeter
+nom: Bartholomew of Exeter
+nom_complet: Bartholomew Iscanus
+naissance: '1110'
+deces: '1184-12-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1161'
+  consecrateur_principal: non-indexe-8466731c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bextr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: 1161&sup1;
+  au: '1184-12-15'
+- titre: évêque d'Exeter
+  du: '1161-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Devon%20and%20Cornwall%20notes%20and%20queries%20%281920%29%20%2814777158871%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4865261
+  catholic_hierarchy: bextr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:42+00:00'
+  completeness: 0.75

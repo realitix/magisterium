@@ -1,0 +1,44 @@
+slug: jacques-desclaux
+nom: Jacques Desclaux
+nom_complet: null
+naissance: '1593'
+deces: '1658-04-04'
+naissance_lieu: Mugron
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1639-06-02'
+  consecrateur_principal: richard-smith
+  co_consecrateurs:
+  - francois-fouquet
+  - charles-francois-abra-de-raconis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdesclj.html
+  - https://fr.wikipedia.org/wiki/Jacques_Desclaux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acqs (Dax), France
+  du: '1639-04-11'
+  au: '1658-04-04'
+- titre: évêque diocésain
+  du: '1639-04-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816683
+  catholic_hierarchy: bdesclj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:44:47+00:00'
+  completeness: 0.88

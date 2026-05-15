@@ -1,0 +1,44 @@
+slug: gianmarco-busca
+nom: Gianmarco Busca
+nom_complet: null
+naissance: '1965-11-30'
+deces: null
+naissance_lieu: Edolo, Diocese of Brescia
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2016-09-11'
+  lieu: Cathedral, Brescia, Diocese of Brescia
+  consecrateur_principal: luciano-monari
+  co_consecrateurs:
+  - bruno-foresti
+  - roberto-busti
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuscag.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mantova, Italy
+  du: '2016-06-03'
+  au: null
+- titre: évêque de Mantoue
+  du: '2016-06-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24287582
+  catholic_hierarchy: bbuscag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:01:12+00:00'
+  completeness: 0.88

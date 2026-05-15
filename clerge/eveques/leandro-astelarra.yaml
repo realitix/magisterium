@@ -1,0 +1,44 @@
+slug: leandro-astelarra
+nom: Leandro Astelarra
+nom_complet: Leandro Bautista Astelarra
+naissance: '1883-12-09'
+deces: '1943-08-24'
+naissance_lieu: Campana, Diocese of La Plata
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_validus
+sacre:
+  date: '1935-03-03'
+  lieu: Seminary, La Plata, Diocese of La Plata
+  consecrateur_principal: filippo-cortesi
+  co_consecrateurs:
+  - miguel-de-andrea
+  - cesar-antonio-caneva
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bahía Blanca, Argentina
+  du: '1934-09-13'
+  au: '1943-08-24'
+- titre: évêque diocésain
+  du: '1934-09-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20013227
+  catholic_hierarchy: baste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:47:26+00:00'
+  completeness: 1.0

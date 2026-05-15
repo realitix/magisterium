@@ -6,7 +6,9 @@
  */
 import Base from './Base.astro';
 import LangFlag from '../components/LangFlag.astro';
+import Tampon from '../components/Tampon.astro';
 import { getOuvrageParts } from '../data/loadDocuments.ts';
+import { getClericIndex, getClericOfDocument, tamponOf } from '../data/loadClerge.ts';
 import type { Document, DocumentMeta, Langue, TraductionKind } from '../data/types.ts';
 
 interface Props {
@@ -183,6 +185,18 @@ const pageDescription: string =
   meta.titre_original !== undefined && meta.titre_original !== null
     ? `${title} — ${meta.titre_original}`
     : title;
+
+// Pont prosopographique : auteur du document → fiche clerc, tampon de rite.
+const authorClericSlug = getClericOfDocument(doc.slug);
+const authorClericIndex = authorClericSlug !== null ? getClericIndex(authorClericSlug) : null;
+const authorTampon = authorClericSlug !== null ? tamponOf(authorClericSlug) : null;
+// On affiche le tampon de rite quand il éclaire la portée canonique : pour
+// les documents V2 / post-V2, le rite de consécration de l'auteur (1968+)
+// est précisément la question doctrinale en jeu.
+const showAuthorTampon =
+  authorClericSlug !== null &&
+  authorTampon !== null &&
+  (doc.periode === 'post-vatican-ii' || doc.periode === 'vatican-ii');
 ---
 
 <Base title={title} description={pageDescription} htmlLang={lang}>
@@ -305,6 +319,22 @@ const pageDescription: string =
     <aside class="doc__meta" aria-label="Métadonnées techniques du document">
       <h2 class="doc__meta-title">Métadonnées techniques</h2>
       <dl class="doc__meta-list">
+        {authorClericSlug !== null && authorClericIndex !== null && (
+          <Fragment>
+            <dt>Auteur</dt>
+            <dd class="doc__meta-author">
+              <a class="doc__meta-author-link" href={`/clerge/${authorClericSlug}/`}>
+                {authorClericIndex.nom}
+              </a>
+              {showAuthorTampon && (
+                <span class="doc__meta-author-tampon" aria-label={`Tampon canonique : ${authorTampon}`}>
+                  <Tampon variant={authorTampon!} />
+                </span>
+              )}
+            </dd>
+          </Fragment>
+        )}
+
         {primarySource?.url !== undefined && (
           <Fragment>
             <dt>Source</dt>
@@ -535,6 +565,29 @@ const pageDescription: string =
     margin: 0;
     color: var(--ink-soft);
     word-break: break-word;
+  }
+
+  .doc__meta-author {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-s);
+  }
+  .doc__meta-author-link {
+    color: var(--rubric);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .doc__meta-author-link:hover,
+  .doc__meta-author-link:focus-visible {
+    text-decoration: underline;
+  }
+  /* Réduit le tampon à une « pastille » discrète dans la sidebar. */
+  .doc__meta-author-tampon {
+    display: inline-block;
+    transform: scale(0.55);
+    transform-origin: left center;
+    margin: -0.8em -2.5em -0.8em 0;
   }
 
   .doc__lang-bar {

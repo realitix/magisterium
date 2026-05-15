@@ -1,0 +1,54 @@
+slug: nicolas-iii
+nom: Nicolas III
+nom_complet: Nicholas III
+naissance: '1215'
+deces: '1280-08-22'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: pape
+nationalite: Q170174
+tampon: ordo_incertus
+sacre:
+  date: Dec 1277&sup3;
+  consecrateur_principal: thrugot-thorstensen
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borsinigi.html
+  - https://fr.wikipedia.org/wiki/Nicolas_III
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of San Nicola in Carcere
+  du: '1244-05-28'
+  au: null
+- titre: Archpriest of the Basilica di San Pietro in Vaticano {Saint Peter Basilica}
+  du: '1276-10-18'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1280-08-22'
+- titre: archiprêtre de la basilique Saint-Pierre du Vatican
+  du: null
+  au: null
+- titre: pape
+  du: '1277-12-09'
+  au: '1280-08-22'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Scuola%20romana%2C%20affreschi%20del%20sancta%20sanctorum%2C%201280%20ca.%2C%20Niccol%C3%B2%20III%20dona%20la%20chiesa%20ai%20ss.%20pietro%20e%20paolo%2003%20%28cropped%29%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q170859
+  catholic_hierarchy: borsinigi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:56:26+00:00'
+  completeness: 0.62

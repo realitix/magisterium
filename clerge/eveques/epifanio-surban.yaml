@@ -1,0 +1,50 @@
+slug: epifanio-surban
+nom: Epifanio Surban
+nom_complet: Epifanio Surban Belmonte
+naissance: '1914-04-07'
+deces: '1990-05-25'
+naissance_lieu: Calolbon
+deces_lieu: null
+rang: eveque
+nationalite: Q928
+tampon: ordo_validus
+sacre:
+  date: '1955-10-24'
+  consecrateur_principal: julio-rosales
+  co_consecrateurs:
+  - manuel-porcia-yap
+  - flaviano-barrechea-ariola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsurban.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dumaguete, Philippines
+  du: '1955-07-29'
+  au: null
+- titre: Bishop Emeritus of Dumaguete, Philippines
+  du: null
+  au: '1990-05-25'
+- titre: évêque diocésain
+  du: '1955-07-29'
+  au: '1989-05-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Epifanio%20Surban.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64747974
+  catholic_hierarchy: bsurban
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:44:18+00:00'
+  completeness: 1.0

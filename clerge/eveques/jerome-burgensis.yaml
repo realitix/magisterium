@@ -1,0 +1,48 @@
+slug: jerome-burgensis
+nom: Jérôme Burgensis
+nom_complet: Jérôme Bourgois
+naissance: null
+deces: '1583'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1556-07-05'
+  consecrateur_principal: louis-guillart
+  co_consecrateurs:
+  - antoine-olivier
+  - robert-de-pelleve
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgoj.html
+  - https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Burgensis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Marne, France
+  du: '1556-04-13'
+  au: 1571&sup1;
+- titre: évêque diocésain
+  du: '1556-04-23'
+  au: '1571-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PM%20159895%20F%20Chalons%20en%20Champagne.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q18744786
+  catholic_hierarchy: bbourgoj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:58+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: pio-tommaso-milante
+nom: Pio Tommaso Milante
+nom_complet: Pio Tommaso Milante, O.P.
+naissance: '1689-08-12'
+deces: '1749-04-02'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1743-07-16'
+  consecrateur_principal: etienne-evode-assemani
+  co_consecrateurs:
+  - cherubino-tommaso-nobilione
+  - nicolas-francois-bonhomme
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmilante.html
+  - https://fr.wikipedia.org/wiki/Pio_Tommaso_Milante
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castellammare di Stabia, Italy
+  du: null
+  au: '1749-04-02'
+- titre: évêque diocésain
+  du: '1743-05-16'
+  au: '1749-04-02'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64746039
+  catholic_hierarchy: bmilante
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:29+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: pierre-de-beaupoil-de-saint-aulaire
+nom: Pierre de Beaupoil de Saint-Aulaire
+nom_complet: null
+naissance: '1700'
+deces: '1751-01-11'
+naissance_lieu: Perigueux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1741-03-05'
+  consecrateur_principal: jean-joseph-languet-de-gergy
+  co_consecrateurs:
+  - daniel-de-cosnac-1700
+  - jean-gaspard-gilbert-de-chabannas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbsap.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Beaupoil_de_Saint-Aulaire
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarbes, France
+  du: null
+  au: '1751-01-11'
+- titre: Évêque de Tarbes
+  du: '1740-09-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2093977
+  catholic_hierarchy: bbsap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:56:36+00:00'
+  completeness: 0.88

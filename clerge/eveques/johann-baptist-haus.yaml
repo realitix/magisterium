@@ -1,0 +1,53 @@
+slug: johann-baptist-haus
+nom: Johann Baptist Haus
+nom_complet: null
+naissance: '1672-07-31'
+deces: '1745-10-29'
+naissance_lieu: Stein-Säckingen
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1729-09-18'
+  lieu: Porrentruy
+  consecrateur_principal: johann-konrad-von-reinach-hirtzbach
+  co_consecrateurs:
+  - johann-baptist-von-reinach-hirzbach
+  - jean-claude-sommier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhausj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Basel, Switzerland
+  du: '1729-08-17'
+  au: '1745-10-29'
+- titre: Titular Bishop of Messalum
+  du: '1729-08-17'
+  au: null
+- titre: évêque auxiliaire de Bâle
+  du: '1729-08-17'
+  au: null
+- titre: vicaire général de Bâle
+  du: null
+  au: null
+- titre: évêque titulaire
+  du: '1729-08-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733725
+  catholic_hierarchy: bhausj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:36:13+00:00'
+  completeness: 1.0

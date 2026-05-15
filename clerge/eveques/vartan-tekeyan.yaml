@@ -1,0 +1,44 @@
+slug: vartan-tekeyan
+nom: Vartan Tekeyan
+nom_complet: Vartan Tekeyan, I.C.P.B.
+naissance: '1921-03-05'
+deces: '1999-04-12'
+naissance_lieu: Adana
+deces_lieu: null
+rang: eveque
+nationalite: Q43
+tampon: ordo_dubius
+sacre:
+  date: '1973-02-25'
+  lieu: Saint Elias and Saint Gregory the Illuminator, Cathedral, Beirut
+  consecrateur_principal: ignace-pierre-xvi-batanian
+  co_consecrateurs:
+  - georges-layek
+  - raphael-bayan
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btekeyan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ispahan {Esfáan} (Armenian), Iran
+  du: '1972-12-06'
+  au: '1999-04-12'
+- titre: évêque diocésain
+  du: '1972-12-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2510944
+  catholic_hierarchy: btekeyan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:53:47+00:00'
+  completeness: 1.0

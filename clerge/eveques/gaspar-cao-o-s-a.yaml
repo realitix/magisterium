@@ -1,0 +1,43 @@
+slug: gaspar-cao-o-s-a
+nom: Gaspar Cão, O.S.A.
+nom_complet: Gaspar Cão
+naissance: null
+deces: '1574-08-25'
+naissance_lieu: Vila Viçosa, Portugal
+deces_lieu: São Tomé, Diocese of São Tomé e Príncipe
+rang: eveque
+nationalite: Q45
+tampon: ordo_validus
+sacre:
+  date: '1554-09-14'
+  lieu: Ste Marie de la Grace, Church, Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+  consecrateur_principal: gaspar-do-casal-o-s-a
+  co_consecrateurs:
+  - francisco-da-cruz-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcao.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of São Tomé e Príncipe
+  du: '1554-07-06'
+  au: '1574-08-25'
+- titre: Roman Catholic Bishop of São Tomé e Príncipe
+  du: '1554-07-16'
+  au: '1574-09-04'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64762273
+  catholic_hierarchy: bcao
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:15:02+00:00'
+  completeness: 0.88

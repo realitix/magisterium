@@ -1,0 +1,51 @@
+slug: marko-jozinovic
+nom: Marko Jozinović
+nom_complet: Marko Jozinovi&#263;
+naissance: '1920-03-28'
+deces: '1994-08-11'
+naissance_lieu: Devetine
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1977-10-23'
+  lieu: Sacred Heart, Cathedral, Sarajevo, Archdiocese of Vrhbosna {Sarajevo}
+  consecrateur_principal: michele-cecchini
+  co_consecrateurs:
+  - franjo-kuharic
+  - petar-cule
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjozi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Vrhbosna {Sarajevo}, Bosnia and Herzegovina
+  du: '1977-06-27'
+  au: '1990-04-19'
+- titre: Archbishop Emeritus of Vrhbosna {Sarajevo}, Bosnia and Herzegovina
+  du: null
+  au: '1994-08-11'
+- titre: archevêque de Vrhbosna
+  du: '1977-10-23'
+  au: '1990-04-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Marko%20jozinovic.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12636336
+  catholic_hierarchy: bjozi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:04:23+00:00'
+  completeness: 1.0

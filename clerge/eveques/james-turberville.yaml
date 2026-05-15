@@ -1,0 +1,44 @@
+slug: james-turberville
+nom: James Turberville
+nom_complet: null
+naissance: '1494'
+deces: '1570'
+naissance_lieu: Bere Regis, Dorset
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1555-09-08'
+  lieu: London, Diocese of London, England
+  consecrateur_principal: edmund-bonner
+  co_consecrateurs:
+  - thomas-thirlby
+  - maurice-griffith
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bturbe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: '1555-06-21'
+  au: 1570&sup1;
+- titre: évêque d'Exeter
+  du: '1555-07-01'
+  au: '1559-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6144464
+  catholic_hierarchy: bturbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:16+00:00'
+  completeness: 0.75

@@ -1,0 +1,50 @@
+slug: karl-moser
+nom: Karl Moser
+nom_complet: null
+naissance: '1914-01-09'
+deces: '1991-09-27'
+naissance_lieu: Pörthof/Stein
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1969-10-12'
+  lieu: Sankt Stefan, Cathedral, Wien, Archdiocese of Wien {Vienna}
+  consecrateur_principal: franz-konig
+  co_consecrateurs:
+  - franz-jachym
+  - jakob-weinbacher
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoserk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Wien {Vienna}, Austria
+  du: '1969-07-09'
+  au: '1991-09-27'
+- titre: Titular Bishop of Absorus
+  du: '1969-07-09'
+  au: null
+- titre: évêque auxiliaire
+  du: '1969-07-09'
+  au: null
+- titre: évêque titulaire
+  du: '1969-07-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734609
+  catholic_hierarchy: bmoserk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:57+00:00'
+  completeness: 1.0

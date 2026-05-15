@@ -1,0 +1,40 @@
+slug: zaccaria-trevisan
+nom: Zaccaria Trevisan
+nom_complet: null
+naissance: null
+deces: '1537'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1525-01-15'
+  consecrateur_principal: paride-grassi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrevisz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hvar (Lesina), Croatia
+  du: '1524-09-02'
+  au: 1537&sup1;
+- titre: évêque diocésain
+  du: '1524-09-12'
+  au: '1537-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779629
+  catholic_hierarchy: btrevisz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:10:17+00:00'
+  completeness: 0.62

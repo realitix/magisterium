@@ -1,0 +1,57 @@
+slug: jean-baptiste-penon
+nom: Jean-Baptiste Penon
+nom_complet: Jean Baptiste Étienne Honoré Penon
+naissance: '1850-05-23'
+deces: '1929-09-07'
+naissance_lieu: Simiane
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1911-06-27'
+  consecrateur_principal: edwin-bonnefoy
+  co_consecrateurs:
+  - felix-guillibert
+  - emile-louis-cornil-lobbedey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpenon.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Penon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moulins, France
+  du: '1911-05-08'
+  au: null
+- titre: Titular Bishop of Cusae
+  du: '1926-06-21'
+  au: null
+- titre: Bishop Emeritus of Moulins, France
+  du: null
+  au: '1929-09-07'
+- titre: évêque titulaire
+  du: '1926-06-21'
+  au: null
+- titre: évêque diocésain
+  du: '1911-05-08'
+  au: '1926-06-21'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Penon%20%C3%A9v%C3%AAque%20Moulins.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q18414357
+  catholic_hierarchy: bpenon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:19:13+00:00'
+  completeness: 1.0

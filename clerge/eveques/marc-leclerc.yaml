@@ -1,0 +1,53 @@
+slug: marc-leclerc
+nom: Marc Leclerc
+nom_complet: null
+naissance: '1933-01-09'
+deces: '2005-01-03'
+naissance_lieu: Saint-Grégoire de Montmorency, Archdiocese of Québec
+deces_lieu: Québec, Archdiocese of Québec
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '1982-10-22'
+  lieu: Sainte-Anne-de-Beaupré, Basilica, Sainte-Anne-de-Beaupré, Archdiocese of Québec
+  consecrateur_principal: louis-albert-vachon
+  co_consecrateurs:
+  - lionel-audet
+  - jean-paul-labrie
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleclerc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Québec, Canada
+  du: '1982-07-17'
+  au: '1998-06-30'
+- titre: Titular Bishop of Eguga
+  du: '1982-07-17'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Québec, Canada
+  du: null
+  au: '2005-01-03'
+- titre: évêque auxiliaire
+  du: '1982-07-17'
+  au: '1998-06-30'
+- titre: évêque titulaire
+  du: '1982-07-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27918540
+  catholic_hierarchy: bleclerc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:39+00:00'
+  completeness: 1.0

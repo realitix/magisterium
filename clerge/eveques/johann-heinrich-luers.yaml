@@ -1,0 +1,48 @@
+slug: johann-heinrich-luers
+nom: Johann Heinrich Lüers
+nom_complet: John Henry Luers
+naissance: '1819-09-29'
+deces: '1871-06-29'
+naissance_lieu: Lutten, Diocese of Münster, Germany
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1858-01-10'
+  lieu: St. Peter in Chains, Cathedral, Cincinnati, Archdiocese of Cincinnati, Ohio
+  consecrateur_principal: john-baptist-purcell
+  co_consecrateurs:
+  - maurice-de-saint-palais
+  - george-aloysius-carrell
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluers.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fort Wayne, Indiana, USA
+  du: '1857-09-22'
+  au: '1871-06-29'
+- titre: évêque diocésain
+  du: '1857-09-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johnhenryluersindiana.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15490306
+  catholic_hierarchy: bluers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:04:24+00:00'
+  completeness: 1.0

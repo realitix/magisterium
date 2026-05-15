@@ -1,0 +1,43 @@
+slug: juan-cardona
+nom: Juan Cardona
+nom_complet: Joan de Cardona
+naissance: '1500'
+deces: '1546-02-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q204920
+tampon: ordo_validus
+sacre:
+  date: '1545-08-30'
+  consecrateur_principal: juan-tormo
+  co_consecrateurs:
+  - joan-margarit-i-de-requesens
+  - juan-jubi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarju.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barcelona, Spain
+  du: '1531-02-15'
+  au: '1546-02-01'
+- titre: évêque de Barcelone
+  du: '1531-02-25'
+  au: '1546-02-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20100778
+  catholic_hierarchy: bcarju
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:22:35+00:00'
+  completeness: 0.88

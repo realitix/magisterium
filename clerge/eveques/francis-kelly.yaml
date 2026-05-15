@@ -1,0 +1,52 @@
+slug: francis-kelly
+nom: Francis Kelly
+nom_complet: null
+naissance: '1812-08-06'
+deces: '1889-09-01'
+naissance_lieu: Drudgeon
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1849-10-21'
+  consecrateur_principal: john-machale
+  co_consecrateurs:
+  - john-cantwell-1792
+  - charles-mcnally
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkellf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Derry, Ireland
+  du: '1849-08-03'
+  au: null
+- titre: Titular Bishop of Titiopolis
+  du: '1849-08-03'
+  au: null
+- titre: Bishop of Derry, Ireland
+  du: null
+  au: '1889-09-01'
+- titre: évêque diocésain
+  du: '1864-06-18'
+  au: null
+- titre: évêque titulaire
+  du: '1849-08-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745368
+  catholic_hierarchy: bkellf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:10:26+00:00'
+  completeness: 1.0

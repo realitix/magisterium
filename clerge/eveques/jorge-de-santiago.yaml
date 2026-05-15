@@ -1,0 +1,42 @@
+slug: jorge-de-santiago
+nom: Jorge de Santiago
+nom_complet: Jorge de Santiago, O.P.
+naissance: null
+deces: '1561-10-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdsantj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angra, Portugal
+  du: '1552-08-24'
+  au: '1561-10-26'
+- titre: évêque diocésain
+  du: '1552-09-03'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20Frei%20Jorge%20de%20Santiago.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10308299
+  catholic_hierarchy: bdsantj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:08:11+00:00'
+  completeness: 0.38

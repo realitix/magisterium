@@ -1,0 +1,45 @@
+slug: matthieu-geant-o-f-m
+nom: Matthieu Geant, O.F.M.
+nom_complet: Matthieu Geant
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1477'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgeant.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Thérouanne, France
+  du: 1477&sup2;
+  au: 1490&sup2;
+- titre: Titular Bishop of Julinensis (Juliadensis)
+  du: 1477&sup2;
+  au: null
+- titre: évêque titulaire
+  du: '1477-01-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1477-01-01'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68904174
+  catholic_hierarchy: bgeant
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:15:20+00:00'
+  completeness: 0.25

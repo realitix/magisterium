@@ -1,0 +1,48 @@
+slug: nicolas-joseph-dehesselle
+nom: Nicolas-Joseph Dehesselle
+nom_complet: null
+naissance: '1789-07-04'
+deces: '1865-08-15'
+naissance_lieu: Charneux
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1836-03-13'
+  consecrateur_principal: engelbert-sterckx
+  co_consecrateurs:
+  - cornelis-richard-anton-van-bommel
+  - gaspar-joseph-labis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdehes.html
+  - https://fr.wikipedia.org/wiki/Nicolas-Joseph_Dehesselle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '1836-02-01'
+  au: '1865-08-15'
+- titre: évêque de Namur
+  du: '1836-02-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Joseph%20Dehesselle%20-%20Bisschop%20Namen%20-%20Belgi%C3%AB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2108405
+  catholic_hierarchy: bdehes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:37:58+00:00'
+  completeness: 1.0

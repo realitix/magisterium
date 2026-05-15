@@ -1,0 +1,44 @@
+slug: john-j-mcmahon
+nom: John J. McMahon
+nom_complet: John Joseph McMahon
+naissance: '1875-09-27'
+deces: '1932-12-31'
+naissance_lieu: Hinsdale, NY, Diocese of Buffalo, New York
+deces_lieu: Buffalo, Diocese of Buffalo, New York
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1928-04-26'
+  lieu: Saint Joseph, Church, Buffalo, Diocese of Buffalo, New York
+  consecrateur_principal: william-turner-1871
+  co_consecrateurs:
+  - thomas-walsh-1873
+  - edmund-gibbons
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcmahonj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trenton, New Jersey, USA
+  du: '1928-03-02'
+  au: '1932-12-31'
+- titre: évêque diocésain
+  du: '1928-03-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15464034
+  catholic_hierarchy: bmcmahonj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:45:04+00:00'
+  completeness: 1.0

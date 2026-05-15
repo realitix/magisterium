@@ -1,0 +1,57 @@
+slug: manuel-nin
+nom: Manuel Nin
+nom_complet: Manuel Nin Güell, O.S.B.
+naissance: '1956-08-20'
+deces: null
+naissance_lieu: El Vendrell, Archdiocese of Tarragona, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_dubius
+sacre:
+  date: '2016-04-15'
+  lieu: San Paolo fuori le Mura, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: dimitrios-salachas
+  co_consecrateurs:
+  - sevastianos-rossolatos
+  - donato-oliverio
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bninm.html
+  - https://fr.wikipedia.org/wiki/Manuel_Nin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Exarch of Greece (Greek)
+  du: '2016-02-02'
+  au: null
+- titre: Titular Bishop of Carcabia
+  du: '2016-02-02'
+  au: null
+- titre: Apostolic Exarch of Santa Maria di Grottaferrata (Italo-Albanese), Italy
+  du: '2026-01-31'
+  au: null
+- titre: exarque apostolique
+  du: '2016-02-02'
+  au: '2026-01-31'
+- titre: évêque titulaire
+  du: '2016-02-02'
+  au: null
+- titre: abbé territorial
+  du: '2026-01-31'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q22570476
+  catholic_hierarchy: bninm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:31+00:00'
+  completeness: 0.88

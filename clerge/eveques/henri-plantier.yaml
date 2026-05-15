@@ -1,0 +1,49 @@
+slug: henri-plantier
+nom: Henri Plantier
+nom_complet: Claude-Henri-Augustin Plantier
+naissance: '1813-03-02'
+deces: '1875-05-25'
+naissance_lieu: Ceyzérieux, Diocese of Belley
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1855-11-18'
+  lieu: Cathedral, Lyon, Archdiocese of Lyon (-Vienne)
+  consecrateur_principal: louis-jacques-maurice-de-bonald
+  co_consecrateurs:
+  - pierre-louis-c-ur
+  - jean-paul-francois-marie-felix-lyonnet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplanc.html
+  - https://fr.wikipedia.org/wiki/Henri_Plantier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes, France
+  du: null
+  au: '1875-05-25'
+- titre: évêque de Nîmes
+  du: '1855-09-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Claude-Henri%20PLANTIER%20par%20Melchior%20Doze%20vers1855.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2976728
+  catholic_hierarchy: bplanc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:05+00:00'
+  completeness: 1.0

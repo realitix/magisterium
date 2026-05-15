@@ -1,0 +1,53 @@
+slug: manuel-santander
+nom: Manuel Santander
+nom_complet: Manuel Santander y Frutos
+naissance: '1835-07-04'
+deces: '1907-02-14'
+naissance_lieu: Rueda, Archdiocese of Valladolid, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1887-10-30'
+  lieu: Assumption, Rueda, Archdiocese of Valladolid, Spain
+  consecrateur_principal: benito-sanz-y-fores
+  co_consecrateurs:
+  - jose-tomas-mazarrasa-y-rivas
+  - luis-felipe-ortiz-y-gutierrez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsantader.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Cristobal de la Habana, Cuba
+  du: '1887-03-17'
+  au: 24 Nov 1899&sup3;
+- titre: Titular Bishop of Sebastopolis in Armenia
+  du: '1900-02-24'
+  au: null
+- titre: Bishop Emeritus of San Cristobal de la Habana, Cuba
+  du: null
+  au: '1907-02-14'
+- titre: Bishop of La Habana
+  du: '1887-03-17'
+  au: '1899-11-24'
+- titre: évêque titulaire
+  du: '1900-02-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752005
+  catholic_hierarchy: bsantader
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:50:57+00:00'
+  completeness: 1.0

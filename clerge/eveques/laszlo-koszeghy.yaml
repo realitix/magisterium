@@ -1,0 +1,44 @@
+slug: laszlo-koszeghy
+nom: László Kőszeghy
+nom_complet: László Köszeghy von Romete
+naissance: '1748-06-27'
+deces: '1828-01-04'
+naissance_lieu: Szeged
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1801-05-10'
+  consecrateur_principal: nikolaus-konde-de-poka-telek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkovro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: null
+  au: '1828-01-04'
+- titre: évêque de Csanád
+  du: '1800-08-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/K%C5%91szeghy%20L%C3%A1szl%C3%B3.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1126740
+  catholic_hierarchy: bkovro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:20:02+00:00'
+  completeness: 0.88

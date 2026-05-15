@@ -1,0 +1,44 @@
+slug: heinrich-ii-von-saarbrucken
+nom: Heinrich II. von Saarbrücken
+nom_complet: Heinrich von Saarbrücken
+naissance: '1150'
+deces: '1234-09-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaarbh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: 24 Aug 1217&#8310;
+  au: '1234-09-12'
+- titre: évêque diocésain
+  du: '1217-08-31'
+  au: null
+- titre: évêque élu
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597784
+  catholic_hierarchy: bsaarbh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:38:55+00:00'
+  completeness: 0.38

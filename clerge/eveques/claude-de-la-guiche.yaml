@@ -1,0 +1,59 @@
+slug: claude-de-la-guiche
+nom: Claude de La Guiche
+nom_complet: null
+naissance: null
+deces: '1553-04-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1544-03-16'
+  consecrateur_principal: louis-guillart
+  co_consecrateurs:
+  - nicolas-dangu
+  - charles-boucher-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blguiche.html
+  - https://fr.wikipedia.org/wiki/Claude_de_La_Guiche
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agde, France
+  du: '1541-03-30'
+  au: null
+- titre: Bishop of Mirepoix, France
+  du: '1547-08-17'
+  au: 1553&sup1;
+- titre: Bishop Emeritus of Mirepoix, France
+  du: null
+  au: 1556&sup1;
+- titre: ambassadeur
+  du: null
+  au: null
+- titre: ambassadeur de France près le Saint-Siège
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1547-08-27'
+  au: '1553-01-01'
+- titre: évêque diocésain
+  du: '1541-04-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2978344
+  catholic_hierarchy: blguiche
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:45+00:00'
+  completeness: 0.75

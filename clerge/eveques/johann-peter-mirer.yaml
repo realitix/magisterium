@@ -1,0 +1,49 @@
+slug: johann-peter-mirer
+nom: Johann Peter Mirer
+nom_complet: null
+naissance: '1778-10-02'
+deces: '1862-08-30'
+naissance_lieu: Obersaxen
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1847-06-29'
+  consecrateur_principal: alessandro-macioti
+  co_consecrateurs:
+  - kaspar-de-carl-ab-hohenbalken
+  - georg-prunster
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmirer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Sankt Gallen, Switzerland
+  du: '1836-05-13'
+  au: null
+- titre: Bishop of Sankt Gallen, Switzerland
+  du: '1847-04-20'
+  au: '1862-08-30'
+- titre: vicaire apostolique
+  du: '1836-05-13'
+  au: null
+- titre: évêque diocésain
+  du: '1847-04-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3808889
+  catholic_hierarchy: bmirer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:00:02+00:00'
+  completeness: 1.0

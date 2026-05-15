@@ -1,0 +1,45 @@
+slug: nicolas-de-acerno
+nom: Nicolas de Acerno
+nom_complet: null
+naissance: null
+deces: '1340'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1319-04-22'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnicolab.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bisignano, Italy
+  du: '1319-04-02'
+  au: null
+- titre: Bishop of Nola, Italy
+  du: '1331-10-22'
+  au: 1340&sup2;
+- titre: évêque de Nole
+  du: '1331-10-30'
+  au: null
+- titre: Roman Catholic Bishop of Bisignano
+  du: '1319-04-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q98837573
+  catholic_hierarchy: bnicolab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:32:53+00:00'
+  completeness: 0.38

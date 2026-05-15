@@ -1,0 +1,43 @@
+slug: teofilo-testa-o-f-m-obs
+nom: Teofilo Testa, O.F.M. Obs.
+nom_complet: Teofilo Testa
+naissance: '1631-09-12'
+deces: '1695-10-21'
+naissance_lieu: S. Pauli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1692-06-30'
+  consecrateur_principal: ferdinando-d-adda
+  co_consecrateurs:
+  - tommaso-de-franchi
+  - francesco-antonio-triveri-o-f-m-conv
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btestat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tropea, Italy
+  du: '1692-06-25'
+  au: '1695-10-21'
+- titre: évêque de Tropea
+  du: '1692-06-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q45826884
+  catholic_hierarchy: btestat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:56:03+00:00'
+  completeness: 1.0

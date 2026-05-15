@@ -1,0 +1,38 @@
+slug: francisco-de-la-cueva
+nom: Francisco de la Cueva
+nom_complet: Francisco de la Cueva, O.S.A.
+naissance: '1501'
+deces: '1615-11-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcueva.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oviedo, Spain
+  du: '1612-09-17'
+  au: '1615-11-30'
+- titre: évêque d'Oviedo
+  du: '1612-09-17'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q5868211
+  catholic_hierarchy: bcueva
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:17:56+00:00'
+  completeness: 0.38

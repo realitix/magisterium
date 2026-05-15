@@ -1,0 +1,40 @@
+slug: pedro-de-agen-o-s-b
+nom: Pedro de Agen, O.S.B.
+nom_complet: Pedro de Agen
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1120-01-25'
+  consecrateur_principal: bernardo-de-sedirac-de-cluny-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bagenp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: 1119&sup2;
+  au: 1149&sup1;
+- titre: évêque de Ségovie
+  du: '1119-01-01'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64780010
+  catholic_hierarchy: bagenp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:22:22+00:00'
+  completeness: 0.62

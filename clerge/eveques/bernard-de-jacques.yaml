@@ -1,0 +1,38 @@
+slug: bernard-de-jacques
+nom: Bernard de Jacques
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjacquesb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: '1352-05-18'
+  au: 1365&sup2;
+- titre: évêque de Glandèves
+  du: '1352-05-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108478757
+  catholic_hierarchy: bjacquesb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:20+00:00'
+  completeness: 0.25

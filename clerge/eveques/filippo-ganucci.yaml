@@ -1,0 +1,49 @@
+slug: filippo-ganucci
+nom: Filippo Ganucci
+nom_complet: null
+naissance: '1741-01-25'
+deces: '1813-02-12'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1802-09-26'
+  consecrateur_principal: giovanni-filippo-gallarati-scotti
+  co_consecrateurs:
+  - carlo-oppizzoni
+  - agostino-albergotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bganu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cortona, Italy
+  du: '1802-09-20'
+  au: null
+- titre: Bishop of Livorno, Italy
+  du: '1806-10-06'
+  au: '1813-02-12'
+- titre: évêque diocésain
+  du: '1806-10-06'
+  au: null
+- titre: Roman Catholic Bishop of Cortona
+  du: '1802-09-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707896
+  catholic_hierarchy: bganu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:08:24+00:00'
+  completeness: 1.0

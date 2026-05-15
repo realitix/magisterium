@@ -1,0 +1,45 @@
+slug: nicolas-machinensis
+nom: Nicolas Machinensis
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1475-11-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmachine.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modru&#353;, Croatia
+  du: Oct 1461&sup3;
+  au: 1480&sup1;
+- titre: Apostolic Administrator of Scardona (Skradin), Croatia
+  du: '1475-11-03'
+  au: Apr 1479&sup3;
+- titre: évêque diocésain
+  du: '1461-10-01'
+  au: null
+- titre: administrateur apostolique
+  du: '1475-11-12'
+  au: '1479-04-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905961
+  catholic_hierarchy: bmachine
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:09:57+00:00'
+  completeness: 0.25

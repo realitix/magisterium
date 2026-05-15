@@ -1,0 +1,50 @@
+slug: terence-curtin
+nom: Terence Curtin
+nom_complet: Terence Robert Curtin
+naissance: '1945-07-20'
+deces: null
+naissance_lieu: Cremorne
+deces_lieu: null
+rang: eveque
+nationalite: Q408
+tampon: ordo_dubius
+sacre:
+  date: '2014-12-17'
+  lieu: Saint Patrick, Cathedral, Melbourne, Archdiocese of Melbourne
+  consecrateur_principal: denis-hart
+  co_consecrateurs:
+  - paul-gallagher
+  - mark-coleridge
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcurtin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Melbourne, Australia
+  du: '2014-11-07'
+  au: null
+- titre: Titular Bishop of Cabarsussi
+  du: '2014-11-07'
+  au: null
+- titre: évêque titulaire
+  du: '2014-11-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '2014-11-07'
+  au: '2025-01-31'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18511040
+  catholic_hierarchy: bcurtin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:19:24+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: henry-cosgrove
+nom: Henry Cosgrove
+nom_complet: null
+naissance: '1834-12-19'
+deces: '1906-12-22'
+naissance_lieu: Williamsport, PA, Diocese of Philadelphia, Pennsylvania
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1884-09-14'
+  lieu: St. Marguerite, Cathedral, Davenport, Diocese of Davenport, Iowa
+  consecrateur_principal: patrick-feehan
+  co_consecrateurs:
+  - john-hennessy
+  - james-o-connor
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcosgrove.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Davenport, Iowa, USA
+  du: '1884-07-11'
+  au: '1906-12-22'
+- titre: évêque diocésain
+  du: '1884-07-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Henry%20Cosgrove.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5719833
+  catholic_hierarchy: bcosgrove
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:09:32+00:00'
+  completeness: 1.0

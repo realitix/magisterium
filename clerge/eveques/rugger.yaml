@@ -1,0 +1,46 @@
+slug: rugger
+nom: Rugger
+nom_complet: Rugger von Vaihingen
+naissance: '1100'
+deces: '1125'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaih.html
+  - https://fr.wikipedia.org/wiki/Rugger_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: Jan 1122&sup3;
+  au: 1125&sup2;
+- titre: évêque diocésain
+  du: '1122-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/RugerusVaingenbw.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1261087
+  catholic_hierarchy: bvaih
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:20:26+00:00'
+  completeness: 0.25

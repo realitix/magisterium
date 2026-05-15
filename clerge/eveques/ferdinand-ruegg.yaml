@@ -1,0 +1,44 @@
+slug: ferdinand-ruegg
+nom: Ferdinand Rüegg
+nom_complet: null
+naissance: '1847-10-20'
+deces: '1913-10-14'
+naissance_lieu: Goldingen
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1906-06-10'
+  lieu: Cathedral, Sankt Gallen, Diocese of Sankt Gallen
+  consecrateur_principal: sebastian-gebhard-messmer
+  co_consecrateurs:
+  - johannes-fidelis-battaglia
+  - alfredo-peri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bruegg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sankt Gallen, Switzerland
+  du: null
+  au: '1913-10-14'
+- titre: évêque diocésain
+  du: '1906-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3742522
+  catholic_hierarchy: bruegg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:34:44+00:00'
+  completeness: 1.0

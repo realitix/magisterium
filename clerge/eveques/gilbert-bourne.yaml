@@ -1,0 +1,43 @@
+slug: gilbert-bourne
+nom: Gilbert Bourne
+nom_complet: null
+naissance: '1510'
+deces: '1569-09-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1554-04-01'
+  consecrateur_principal: edmund-bonner
+  co_consecrateurs:
+  - cuthbert-tunstall
+  - etienne-gardiner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourneg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bath and Wells, England, Great Britain
+  du: null
+  au: '1569-09-10'
+- titre: évêque de Bath et Wells
+  du: '1554-04-07'
+  au: '1569-09-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5560817
+  catholic_hierarchy: bbourneg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:11+00:00'
+  completeness: 0.88

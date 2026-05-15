@@ -1,0 +1,38 @@
+slug: berthold-von-buckelsburg
+nom: Berthold von Bückelsburg
+nom_complet: Bertold von Bückelsburg
+naissance: '1400'
+deces: '1427-09-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbuckelsb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: '1418-07-11'
+  au: '1427-09-12'
+- titre: évêque de Brixen
+  du: '1418-07-20'
+  au: '1427-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q828348
+  catholic_hierarchy: bbuckelsb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:57:20+00:00'
+  completeness: 0.38

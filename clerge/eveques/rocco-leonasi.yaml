@@ -1,0 +1,53 @@
+slug: rocco-leonasi
+nom: Rocco Leonasi
+nom_complet: null
+naissance: '1831-02-07'
+deces: '1893-04-30'
+naissance_lieu: Lauria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-04-30'
+  lieu: San Carlo al Corso, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - antonio-maria-grasselli
+  - gaspard-mermillod
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleonasi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Anglona-Tursi, Italy
+  du: '1882-03-30'
+  au: null
+- titre: Titular Bishop of Alabanda
+  du: '1882-03-30'
+  au: null
+- titre: Bishop of Anglona-Tursi, Italy
+  du: null
+  au: '1893-04-30'
+- titre: évêque titulaire
+  du: '1882-03-30'
+  au: null
+- titre: évêque diocésain
+  du: '1883-03-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752712
+  catholic_hierarchy: bleonasi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:44:12+00:00'
+  completeness: 1.0

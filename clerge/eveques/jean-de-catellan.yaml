@@ -1,0 +1,41 @@
+slug: jean-de-catellan
+nom: Jean de Catellan
+nom_complet: Jean de Catelan
+naissance: null
+deces: '1725-01-07'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1706-02-21'
+  consecrateur_principal: louis-antoine-de-noailles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcatelan.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Catellan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence, France
+  du: null
+  au: '1725-01-07'
+- titre: évêque de Valence
+  du: '1706-02-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175339
+  catholic_hierarchy: bcatelan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:32:47+00:00'
+  completeness: 0.75

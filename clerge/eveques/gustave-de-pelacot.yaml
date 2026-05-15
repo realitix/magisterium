@@ -1,0 +1,52 @@
+slug: gustave-de-pelacot
+nom: Gustave de Pélacot
+nom_complet: Gustave-Adolphe de Pélacot
+naissance: '1840-06-14'
+deces: '1907-08-05'
+naissance_lieu: Le Puy, Diocese of Le Puy-en-Velay
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1898-06-29'
+  lieu: Cathedral, Le Puy, Diocese of Le Puy-en-Velay
+  consecrateur_principal: constant-guillois
+  co_consecrateurs:
+  - pierre-paul-durieu
+  - jean-marie-francois-lamouroux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpelag.html
+  - https://fr.wikipedia.org/wiki/Gustave_de_P%C3%A9lacot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Chambéry, France
+  du: '1907-04-15'
+  au: '1907-08-05'
+- titre: évêque de Troyes
+  du: '1898-03-22'
+  au: null
+- titre: archevêque de Chambéry
+  du: '1907-04-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Adolphe%20de%20Pelacot%20par%20Gustave%20Lancelot.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64752400
+  catholic_hierarchy: bpelag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:17:10+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: robert-bezak
+nom: Róbert Bezák
+nom_complet: Róbert Bezák, C.SS.R.
+naissance: '1960-03-01'
+deces: null
+naissance_lieu: Prievidza
+deces_lieu: null
+rang: archeveque
+nationalite: Q33946
+tampon: ordo_dubius
+sacre:
+  date: '2009-06-06'
+  consecrateur_principal: jozef-tomko
+  co_consecrateurs:
+  - mario-giordana
+  - stanislav-zvolensky
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbezak.html
+  - https://fr.wikipedia.org/wiki/R%C3%B3bert_Bez%C3%A1k
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Trnava, Slovakia
+  du: '2009-04-18'
+  au: null
+- titre: archevêque de Trnava
+  du: '2009-04-18'
+  au: '2012-07-02'
+fraternite: redemptoristes
+photo: null
+qids:
+  wikidata: Q1342450
+  catholic_hierarchy: bbezak
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:47+00:00'
+  completeness: 0.88

@@ -1,0 +1,39 @@
+slug: jean-d-arsonval
+nom: Jean d'Arsonval
+nom_complet: Jean d&rsquo;Arconvalle
+naissance: null
+deces: '1416-08-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barconv.html
+  - https://fr.wikipedia.org/wiki/Jean_d%27Arsonval
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1413-04-14'
+  au: '1416-08-27'
+- titre: évêque de Chalon-sur-Saône
+  du: '1413-04-24'
+  au: '1416-09-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96587841
+  catholic_hierarchy: barconv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.38

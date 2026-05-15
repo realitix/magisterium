@@ -1,0 +1,47 @@
+slug: amedee-de-lausanne
+nom: Amédée de Lausanne
+nom_complet: St. Amedée de Clermont-Tonnerre, O. Cist.
+naissance: '1110'
+deces: '1159-09-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1145-01-21'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclertona.html
+  - https://fr.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_de_Lausanne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: 1145&sup1;
+  au: '1159-09-27'
+- titre: abbé
+  du: '1139-01-01'
+  au: '1145-01-01'
+- titre: évêque de Lausanne
+  du: '1145-01-01'
+  au: '1159-10-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Amadeus%20von%20lausanne.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q452014
+  catholic_hierarchy: bclertona
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:18+00:00'
+  completeness: 0.5

@@ -1,0 +1,54 @@
+slug: thomas-croke
+nom: Thomas Croke
+nom_complet: Thomas William Croke
+naissance: '1823-01-06'
+deces: '1902-07-22'
+naissance_lieu: Castlecor Demesne
+deces_lieu: null
+rang: archeveque
+nationalite: Q664
+tampon: ordo_validus
+sacre:
+  date: '1870-07-10'
+  lieu: Ste Agathe des Irlandais, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: paul-cullen
+  co_consecrateurs:
+  - daniel-murphy
+  - james-quinn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcroke.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auckland, New Zealand
+  du: '1870-06-23'
+  au: '1874-06-25'
+- titre: Archbishop of Cashel (-Emly), Ireland
+  du: '1875-06-25'
+  au: '1902-07-22'
+- titre: évêque diocésain
+  du: '1870-06-23'
+  au: '1874-06-25'
+- titre: archevêque catholique
+  du: '1875-06-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20William%20Croke%202.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2423107
+  catholic_hierarchy: bcroke
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:15:41+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: georg-prunster
+nom: Georg Prünster
+nom_complet: null
+naissance: '1774-03-12'
+deces: '1861-11-12'
+naissance_lieu: Obertilliach, Diocese of Brixen {Bressanone}
+deces_lieu: Feldkirch
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1836-03-06'
+  lieu: Brixen, Diocese of Brixen {Bressanone}
+  consecrateur_principal: bernhard-galura
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprug.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Brixen {Bressanone}, Italy
+  du: '1836-02-01'
+  au: '1861-11-12'
+- titre: Titular Bishop of Hypsus
+  du: '1836-02-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1836-02-01'
+  au: null
+- titre: évêque titulaire
+  du: '1836-02-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60820277
+  catholic_hierarchy: bprug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:51:18+00:00'
+  completeness: 0.88

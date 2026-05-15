@@ -1,0 +1,39 @@
+slug: jacques-de-comborn
+nom: Jacques de Comborn
+nom_complet: null
+naissance: null
+deces: '1475-02-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcomborn.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Comborn
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: '1445-05-10'
+  au: '1475-02-15'
+- titre: évêque de Clermont
+  du: '1445-05-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68866403
+  catholic_hierarchy: bcomborn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:17+00:00'
+  completeness: 0.38

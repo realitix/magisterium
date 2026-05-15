@@ -1,0 +1,48 @@
+slug: august-bludau
+nom: August Bludau
+nom_complet: Augustinus Bludau
+naissance: '1862-03-06'
+deces: '1930-02-09'
+naissance_lieu: Güttstadt
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1909-06-20'
+  lieu: Cathedral, Frauenberg
+  consecrateur_principal: aloys-schaefer
+  co_consecrateurs:
+  - augustinus-rosentreter
+  - eduard-herrmann
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbludau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Warmia (Ermland), Poland
+  du: null
+  au: '1930-02-09'
+- titre: évêque de Varmie
+  du: '1908-11-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Augustinus%20Bludau.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q768865
+  catholic_hierarchy: bbludau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:42+00:00'
+  completeness: 1.0

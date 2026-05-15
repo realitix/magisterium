@@ -1,0 +1,44 @@
+slug: giovanni-scali
+nom: Giovanni Scali
+nom_complet: Giovanni Sauli (Scali, Sacchi), O.P.
+naissance: '1549'
+deces: '1611'
+naissance_lieu: Genoa, Archdiocese of Genova, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1609-06-28'
+  consecrateur_principal: antonmaria-sauli
+  co_consecrateurs:
+  - domenico-cardinal-rivarola
+  - ottavio-belmosto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaulij.html
+  - https://fr.wikipedia.org/wiki/Giovanni_Scali
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aleria, France
+  du: '1609-06-15'
+  au: 1611&sup1;
+- titre: évêque diocésain
+  du: '1609-06-15'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q18398391
+  catholic_hierarchy: bsaulij
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:55:52+00:00'
+  completeness: 0.75

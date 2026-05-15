@@ -1,0 +1,51 @@
+slug: jean-de-poitiers
+nom: Jean de Poitiers
+nom_complet: Jean Gérard de Poitiers
+naissance: '1350'
+deces: '1452'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoitjg.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Poitiers_(archev%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence and Die, France
+  du: '1390-09-02'
+  au: null
+- titre: Archbishop of Vienne, France
+  du: '1447-06-26'
+  au: 1451&sup1;
+- titre: recteur du Comtat Venaissin
+  du: '1433-01-01'
+  au: '1433-01-01'
+- titre: évêque de Valence et de Die
+  du: '1390-09-10'
+  au: '1448-01-01'
+- titre: recteur du Comtat Venaissin
+  du: '1410-01-01'
+  au: '1422-01-01'
+- titre: archevêque de Vienne
+  du: '1447-07-05'
+  au: '1451-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3172470
+  catholic_hierarchy: bpoitjg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:46+00:00'
+  completeness: 0.25

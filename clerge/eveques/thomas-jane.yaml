@@ -1,0 +1,39 @@
+slug: thomas-jane
+nom: Thomas Jane
+nom_complet: null
+naissance: '1438'
+deces: '1500-09-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1499-10-20'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjane.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1499-06-14'
+  au: Sep 1500&sup3;
+- titre: évêque de Norwich
+  du: '1499-06-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7791225
+  catholic_hierarchy: bjane
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:58:15+00:00'
+  completeness: 0.38

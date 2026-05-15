@@ -1,0 +1,40 @@
+slug: jourdain-de-miramont-o-p
+nom: Jourdain de Miramont, O.P.
+nom_complet: Jourdain de Miramont
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1321-01-25'
+  consecrateur_principal: berenger-fredol-le-jeune
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmiramon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerno, Italy
+  du: '1319-05-25'
+  au: 1331&sup1;
+- titre: Roman Catholic Bishop of Acerno
+  du: '1319-06-02'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64780884
+  catholic_hierarchy: bmiramon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:59:46+00:00'
+  completeness: 0.62

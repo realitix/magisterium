@@ -1,0 +1,41 @@
+slug: hugues-de-macon
+nom: Hugues de Mâcon
+nom_complet: Bl. Hugues de Maçon
+naissance: '1082'
+deces: '1151-10-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  date: '1137-01-24'
+  consecrateur_principal: geoffroy-de-leves
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaconh.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_M%C3%A2con
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: 1137&sup1;
+  au: '1151-10-10'
+- titre: évêque d'Auxerre
+  du: '1137-01-01'
+  au: '1151-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1636000
+  catholic_hierarchy: bmaconh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:10:33+00:00'
+  completeness: 0.75

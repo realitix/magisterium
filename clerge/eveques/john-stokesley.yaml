@@ -1,0 +1,45 @@
+slug: john-stokesley
+nom: John Stokesley
+nom_complet: null
+naissance: '1475-09-08'
+deces: '1539-09-08'
+naissance_lieu: Collyweston
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1530-11-27'
+  lieu: Bishop's, Chapel, London, Diocese of London, England
+  consecrateur_principal: john-longland
+  co_consecrateurs:
+  - henry-standish-o-f-m-conv
+  - richard-rawlins
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstoke.html
+  - https://fr.wikipedia.org/wiki/John_Stokesley
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: '1530-03-28'
+  au: '1539-09-08'
+- titre: évêque de Londres
+  du: '1530-04-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6259279
+  catholic_hierarchy: bstoke
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:39:45+00:00'
+  completeness: 1.0

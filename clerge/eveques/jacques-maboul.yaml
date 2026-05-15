@@ -1,0 +1,48 @@
+slug: jacques-maboul
+nom: Jacques Maboul
+nom_complet: null
+naissance: '1650'
+deces: '1723-05-21'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1710-07-13'
+  consecrateur_principal: philibert-charles-de-pas-de-feuquieres
+  co_consecrateurs:
+  - louis-charles-des-alrics-du-rousset
+  - honore-de-quiqueran-de-beaujeu-eveque-de-castres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaboul.html
+  - https://fr.wikipedia.org/wiki/Jacques_Maboul
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alet, France
+  du: '1708-11-01'
+  au: '1723-05-21'
+- titre: évêque diocésain
+  du: '1708-11-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr-Jacques-Maboul.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q24934778
+  catholic_hierarchy: bmaboul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:07:47+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: flaminio-roverella
+nom: Flaminio Roverella
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Cesena, Diocese of Cesena
+deces_lieu: Gubrivoli, Diocese of Cesena
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1584-09-09'
+  lieu: San Cristoforo della Pace, Church, Venezia, Patriarchate of Venezia {Venice}
+  consecrateur_principal: giovanni-domenico-marcot-malquoto-dei-serafini-detto-foconio-o-p
+  co_consecrateurs:
+  - claude-sozomene
+  - ottavio-abbiosi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broverfl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satriano e Campagna, Italy
+  du: '1584-05-28'
+  au: 1589&sup1;
+- titre: évêque diocésain
+  du: '1584-05-28'
+  au: '1589-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910827
+  catholic_hierarchy: broverfl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:32:30+00:00'
+  completeness: 0.75

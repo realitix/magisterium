@@ -1,0 +1,48 @@
+slug: elmar-fischer
+nom: Elmar Fischer
+nom_complet: null
+naissance: '1936-10-06'
+deces: '2022-01-19'
+naissance_lieu: Feldkirch, Diocese of Feldkirch
+deces_lieu: State, Hospital, Feldkirch, Diocese of Feldkirch
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '2005-07-03'
+  lieu: Cathedral, Feldkirch, Diocese of Feldkirch
+  consecrateur_principal: klaus-kung
+  co_consecrateurs:
+  - alois-kothgasser
+  - alfredo-schaffler
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfisch.html
+  - https://fr.wikipedia.org/wiki/Elmar_Fischer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Feldkirch, Austria
+  du: '2005-05-24'
+  au: null
+- titre: Bishop Emeritus of Feldkirch, Austria
+  du: null
+  au: '2022-01-19'
+- titre: évêque diocésain
+  du: '2005-05-24'
+  au: '2011-11-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q45495
+  catholic_hierarchy: bfisch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:46:08+00:00'
+  completeness: 1.0

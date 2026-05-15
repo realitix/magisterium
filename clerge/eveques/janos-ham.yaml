@@ -1,0 +1,65 @@
+slug: janos-ham
+nom: János Hám
+nom_complet: null
+naissance: '1781-01-06'
+deces: '1857-12-30'
+naissance_lieu: Gyöngyös
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1828-03-16'
+  consecrateur_principal: janos-laszlo-pyrker
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhamg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satu Mare {Szatmár}, Romania
+  du: null
+  au: '1857-12-30'
+- titre: Membre de la chambre des Magnats
+  du: '1839-01-01'
+  au: '1840-01-01'
+- titre: évêque élu
+  du: '1848-08-31'
+  au: null
+- titre: Membre de la chambre des Magnats
+  du: '1847-01-01'
+  au: '1848-01-01'
+- titre: Membre de la chambre des Magnats
+  du: '1843-01-01'
+  au: '1844-01-01'
+- titre: évêque de Satu Mare
+  du: '1827-05-25'
+  au: null
+- titre: archevêque d'Esztergom
+  du: '1848-06-25'
+  au: '1849-07-14'
+- titre: Membre de la chambre des Magnats
+  du: '1848-07-01'
+  au: '1848-07-01'
+- titre: Membre de la chambre des Magnats
+  du: '1861-01-01'
+  au: '1861-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A1nos%20H%C3%A1m.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1056947
+  catholic_hierarchy: bhamg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:58+00:00'
+  completeness: 0.88

@@ -1,0 +1,40 @@
+slug: fernando-covarrubias-o-f-m
+nom: Fernando Covarrubias, O.F.M.
+nom_complet: Fernando Covarrubias
+naissance: null
+deces: '1299-11-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '22'
+  consecrateur_principal: nicolas-iii
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcovarr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Burgos, Spain
+  du: '1280-05-21'
+  au: '1299-11-12'
+- titre: évêque de Burgos
+  du: '1280-05-28'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64762035
+  catholic_hierarchy: bcovarr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:36+00:00'
+  completeness: 0.62

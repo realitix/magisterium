@@ -1,0 +1,45 @@
+slug: jean-dave
+nom: Jean Dave
+nom_complet: null
+naissance: '1531'
+deces: '1595-03-04'
+naissance_lieu: Namur, Diocese of Namur {Namen}
+deces_lieu: Namur, Diocese of Namur {Namen}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1594-09-18'
+  lieu: Anvers, Diocese of Antwerpen {Antwerp, Anvers}
+  consecrateur_principal: lievin-van-der-beken
+  co_consecrateurs:
+  - gilbert-maes
+  - francisco-de-ribera-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdavej.html
+  - https://fr.wikipedia.org/wiki/Jean_Dave
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '1593-12-20'
+  au: '1595-03-04'
+- titre: évêque de Namur
+  du: '1593-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3171582
+  catholic_hierarchy: bdavej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:31:00+00:00'
+  completeness: 0.88

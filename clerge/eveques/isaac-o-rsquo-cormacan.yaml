@@ -1,0 +1,39 @@
+slug: isaac-o-rsquo-cormacan
+nom: Isaac O&rsquo;Cormacan
+nom_complet: Isaac O’Cormacan
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '21'
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bocormac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killaloe, Ireland
+  du: '1253-06-21'
+  au: null
+- titre: évêque diocésain
+  du: '1253-06-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909054
+  catholic_hierarchy: bocormac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:44:01+00:00'
+  completeness: 0.38

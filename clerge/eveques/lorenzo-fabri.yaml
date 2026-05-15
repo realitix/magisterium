@@ -1,0 +1,43 @@
+slug: lorenzo-fabri
+nom: Lorenzo Fabri
+nom_complet: Lorenzo Fabri, O.F.M. Conv.
+naissance: '1618-10-15'
+deces: '1709-04-17'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1697-01-20'
+  consecrateur_principal: bandino-panciatici
+  co_consecrateurs:
+  - michele-de-bologna-c-r
+  - francois-marie-sacco-c-r
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfabri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fossombrone, Italy
+  du: '1697-01-14'
+  au: '1709-04-17'
+- titre: évêque diocésain
+  du: '1697-01-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752592
+  catholic_hierarchy: bfabri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:28:29+00:00'
+  completeness: 1.0

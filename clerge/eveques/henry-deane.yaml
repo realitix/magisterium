@@ -1,0 +1,47 @@
+slug: henry-deane
+nom: Henry Deane
+nom_complet: null
+naissance: '1440'
+deces: '1503-02-15'
+naissance_lieu: null
+deces_lieu: Lambeth
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1495-11-20'
+  consecrateur_principal: john-cardinal-morton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeaneh.html
+  - https://fr.wikipedia.org/wiki/Henry_Deane
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Canterbury, England, Great Britain
+  du: null
+  au: '1503-02-15'
+- titre: archevêque de Cantorbéry
+  du: '1501-05-06'
+  au: '1503-02-25'
+- titre: évêque de Salisbury
+  du: '1499-12-16'
+  au: null
+- titre: Roman Catholic Bishop of Bangor
+  du: '1494-04-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q325430
+  catholic_hierarchy: bdeaneh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:35:44+00:00'
+  completeness: 0.75

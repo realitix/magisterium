@@ -1,0 +1,64 @@
+slug: jean-de-jourens
+nom: Jean de Jourens
+nom_complet: Jean Jourens (Joffevry, Jouffroi)
+naissance: '1309'
+deces: '1361'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1349-03-22'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjourens.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Jourens
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Riez, France
+  du: '1348-08-14'
+  au: null
+- titre: Bishop of Valence and Die, France
+  du: '1352-03-02'
+  au: null
+- titre: Bishop of Luçon, France
+  du: '1354-05-05'
+  au: null
+- titre: Bishop of Elne, France
+  du: '1354-11-20'
+  au: null
+- titre: Bishop of Le Puy-en-Velay, France
+  du: '1357-02-27'
+  au: 1361&sup1;
+- titre: évêque du Puy
+  du: '1357-03-07'
+  au: '1361-01-01'
+- titre: évêque d'Elne
+  du: '1354-11-28'
+  au: '1357-05-06'
+- titre: évêque de Luçon
+  du: '1354-05-13'
+  au: '1354-11-01'
+- titre: évêque de Riez
+  du: '1348-08-22'
+  au: '1352-03-10'
+- titre: évêque de Valence et de Die
+  du: '1352-03-10'
+  au: '1354-05-13'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175457
+  catholic_hierarchy: bjourens
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:03:48+00:00'
+  completeness: 0.38

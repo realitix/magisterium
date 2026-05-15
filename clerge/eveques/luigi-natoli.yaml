@@ -1,0 +1,55 @@
+slug: luigi-natoli
+nom: Luigi Natoli
+nom_complet: Luigi Giuseppe Anselmo Natoli
+naissance: '1799-06-15'
+deces: '1875-02-24'
+naissance_lieu: Patti, Diocese of Patti
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1858-03-21'
+  lieu: San Paolo fuori le Mura, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-d-andrea
+  co_consecrateurs:
+  - mariano-falcinelli-antoniacci
+  - antonio-ligi-bussi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnatoli.html
+  - https://fr.wikipedia.org/wiki/Luigi_Natoli_(archev%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caltagirone, Italy
+  du: '1858-03-15'
+  au: null
+- titre: Archbishop of Messina, Italy
+  du: '1867-02-22'
+  au: '1875-02-24'
+- titre: archevêque de Messine
+  du: '1867-02-22'
+  au: null
+- titre: évêque de Caltagirone
+  du: '1858-03-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Archivescovo%20Luigi%20Natoli%2C%201869.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3839933
+  catholic_hierarchy: bnatoli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:26:36+00:00'
+  completeness: 1.0

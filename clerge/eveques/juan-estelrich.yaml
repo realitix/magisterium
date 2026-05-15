@@ -1,0 +1,59 @@
+slug: juan-estelrich
+nom: Juan Estelrich
+nom_complet: null
+naissance: null
+deces: '1626-05-10'
+naissance_lieu: Palma de Mallorca
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1610-12-21'
+  consecrateur_principal: juan-de-moncada
+  co_consecrateurs:
+  - francisco-arevalo-de-zuaco
+  - onuphre-reart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bestel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Tarragona, Spain
+  du: '1610-05-17'
+  au: null
+- titre: Titular Bishop of Dragobitia (Drago)
+  du: '1610-05-17'
+  au: null
+- titre: Bishop of Jaca, Spain
+  du: '1622-11-14'
+  au: '1626-05-10'
+- titre: évêque auxiliaire de l'archidiocèse de Tarragone
+  du: '1610-05-17'
+  au: '1622-11-14'
+- titre: évêque titulaire
+  du: '1610-05-17'
+  au: null
+- titre: évêque de Jaca
+  du: '1622-11-14'
+  au: '1626-05-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20estelrich.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64763997
+  catholic_hierarchy: bestel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:11+00:00'
+  completeness: 0.88

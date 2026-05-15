@@ -1,0 +1,47 @@
+slug: johann-von-egloffstein
+nom: Johann von Egloffstein
+nom_complet: Johann I. von Egloffstein
+naissance: '1400'
+deces: '1411-11-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1401-07-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bveglo.html
+  - https://fr.wikipedia.org/wiki/Johann_von_Egloffstein
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1411-11-22'
+- titre: évêque de Wurtzbourg
+  du: '1400-11-28'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wuerzburg%20019johannegloffstein.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1666235
+  catholic_hierarchy: bveglo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:29:56+00:00'
+  completeness: 0.5

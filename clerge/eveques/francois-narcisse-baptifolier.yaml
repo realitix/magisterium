@@ -1,0 +1,49 @@
+slug: francois-narcisse-baptifolier
+nom: François-Narcisse Baptifolier
+nom_complet: null
+naissance: '1819-12-19'
+deces: '1900-09-26'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1889-08-11'
+  lieu: St. Bernard de la Chapelle, Paris, Archdiocese of Paris
+  consecrateur_principal: pierre-hector-coullie
+  co_consecrateurs:
+  - pierre-goux
+  - francois-marie-duboin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbapt.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Narcisse_Baptifolier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: null
+  au: '1900-09-26'
+- titre: évêque diocésain
+  du: '1889-04-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-na-baptifolier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8321141
+  catholic_hierarchy: bbapt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:00:21+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: lelio-veterano
+nom: Lelio Veterano
+nom_complet: null
+naissance: '1580'
+deces: '1619'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1616-12-13'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - francesco-sacrati
+  - vincenzo-landinelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bveterano.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fondi (Fundi), Italy
+  du: '1616-12-05'
+  au: 1619&sup1;
+- titre: évêque diocésain
+  du: '1616-12-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27918090
+  catholic_hierarchy: bveterano
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:34:49+00:00'
+  completeness: 0.75

@@ -1,0 +1,40 @@
+slug: richard-carew
+nom: Richard Carew
+nom_complet: null
+naissance: null
+deces: '1280-04-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Mar 1256&sup3;
+  consecrateur_principal: alexandre-iv
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarewr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: 1256&sup1;
+  au: '1280-04-01'
+- titre: évêque diocésain
+  du: '1256-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778340
+  catholic_hierarchy: bcarewr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:21:55+00:00'
+  completeness: 0.62

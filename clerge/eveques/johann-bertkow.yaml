@@ -1,0 +1,42 @@
+slug: johann-bertkow
+nom: Johann Bertkow
+nom_complet: Johannes Bertkow
+naissance: '1450'
+deces: '1485'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1473-06-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dorpat (Tartu), Estonia
+  du: '1473-06-06'
+  au: 1485&sup1;
+- titre: Roman Catholic Bishop of Dorpat
+  du: '1473-06-15'
+  au: null
+- titre: évêque
+  du: '1473-01-01'
+  au: '1485-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12365293
+  catholic_hierarchy: bbertk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:22:52+00:00'
+  completeness: 0.38

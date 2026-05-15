@@ -1,0 +1,45 @@
+slug: henri-pinson
+nom: Henri Pinson
+nom_complet: Henri-Marie-Joseph Pinson
+naissance: '1885-11-24'
+deces: '1951-04-18'
+naissance_lieu: Bourges, Archdiocese of Bourges
+deces_lieu: Saint-Flour, Diocese of Saint-Flour
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1943-03-18'
+  lieu: Saint-Étienne, Cathedral, Bourges, Archdiocese of Bourges
+  consecrateur_principal: achille-lienart
+  co_consecrateurs:
+  - jean-joseph-leonce-villepelet
+  - louis-liagre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpins.html
+  - https://fr.wikipedia.org/wiki/Henri_Pinson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Flour, France
+  du: '1943-01-12'
+  au: '1951-04-18'
+- titre: évêque diocésain
+  du: '1943-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29734631
+  catholic_hierarchy: bpins
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:34:47+00:00'
+  completeness: 1.0

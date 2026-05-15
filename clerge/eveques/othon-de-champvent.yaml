@@ -1,0 +1,39 @@
+slug: othon-de-champvent
+nom: Othon de Champvent
+nom_complet: Othon di Champvent
+naissance: '1250'
+deces: '1312-04-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchampven.html
+  - https://fr.wikipedia.org/wiki/Othon_de_Champvent
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1309-07-30'
+  au: '1312-04-19'
+- titre: évêque de Lausanne
+  du: '1309-08-07'
+  au: '1312-04-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2037000
+  catholic_hierarchy: bchampven
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:02+00:00'
+  completeness: 0.38

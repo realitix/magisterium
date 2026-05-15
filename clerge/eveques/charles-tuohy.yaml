@@ -1,0 +1,46 @@
+slug: charles-tuohy
+nom: Charles Tuohy
+nom_complet: null
+naissance: '1754'
+deces: '1828-03-17'
+naissance_lieu: Limerick, Diocese of Limerick
+deces_lieu: His residence, Newtown Villa
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1815-04-23'
+  lieu: St. Mary's, Cathedral, Cork, Diocese of Cork
+  consecrateur_principal: william-coppinger
+  co_consecrateurs:
+  - daniel-murray
+  - charles-sughrue
+  - john-power
+  - kyran-marum
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btuohy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limerick, Ireland
+  du: '1814-10-04'
+  au: '1828-03-17'
+- titre: évêque diocésain
+  du: '1814-10-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61983386
+  catholic_hierarchy: btuohy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:07+00:00'
+  completeness: 0.88

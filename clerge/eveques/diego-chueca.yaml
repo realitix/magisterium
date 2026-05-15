@@ -1,0 +1,45 @@
+slug: diego-chueca
+nom: Diego Chueca
+nom_complet: null
+naissance: '1591'
+deces: '1672-06-18'
+naissance_lieu: Cálcena
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1644-03-14'
+  consecrateur_principal: esteban-de-esmir
+  co_consecrateurs:
+  - antonio-nusco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchueca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teruel, Spain
+  du: null
+  au: '1672-06-18'
+- titre: Évêque de Barbastro
+  du: '1642-04-23'
+  au: null
+- titre: évêque de Teruel
+  du: '1646-12-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751456
+  catholic_hierarchy: bchueca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:48:42+00:00'
+  completeness: 0.88

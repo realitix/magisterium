@@ -1,0 +1,36 @@
+slug: raoul-roussel
+nom: Raoul Roussel
+nom_complet: null
+naissance: null
+deces: '1452-12-31'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1444-07-26'
+  consecrateur_principal: zanon-de-castiglione
+  co_consecrateurs:
+  - martin-pindard
+  - pasquier-de-vaux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broussr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Rouen, France
+  du: '1444-01-31'
+  au: '1452-12-31'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: broussr
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:32:03+00:00'
+  completeness: 0.88

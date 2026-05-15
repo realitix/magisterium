@@ -1,0 +1,53 @@
+slug: francisco-de-ibarra
+nom: Francisco de Ibarra
+nom_complet: Francisco de Ibarra y Herrera
+naissance: '1726-09-19'
+deces: '1806-09-19'
+naissance_lieu: Guayana
+deces_lieu: null
+rang: archeveque
+nationalite: Q80702
+tampon: ordo_validus
+sacre:
+  date: '1792-05-27'
+  consecrateur_principal: francisco-de-cuerda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeibarra.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caracas, Santiago de Venezuela
+  du: '1798-12-14'
+  au: null
+- titre: Archbishop of Caracas, Santiago de Venezuela
+  du: '1803-11-27'
+  au: '1806-09-19'
+- titre: Bishop of the Roman Catholic Diocese of Santo Tomás de Guayana
+  du: '1791-08-17'
+  au: null
+- titre: évêque de Santiago de León de Caracas
+  du: '1798-12-14'
+  au: '1803-11-27'
+- titre: archevêque de Caracas
+  du: '1803-11-27'
+  au: '1806-09-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/MONSE%C3%91OR%20FRANCISCO%20IBARRA.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5867970
+  catholic_hierarchy: bdeibarra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:38:04+00:00'
+  completeness: 0.88

@@ -1,0 +1,38 @@
+slug: romano-de-urbe-o-p
+nom: Romano de Urbe, O.P.
+nom_complet: Romano de Urbe
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/burber.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alife, Italy
+  du: '1254-03-28'
+  au: null
+- titre: évêque diocésain
+  du: '1254-04-04'
+  au: null
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q108445833
+  catholic_hierarchy: burber
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:18:04+00:00'
+  completeness: 0.25

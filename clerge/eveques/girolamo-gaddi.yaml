@@ -1,0 +1,44 @@
+slug: girolamo-gaddi
+nom: Girolamo Gaddi
+nom_complet: null
+naissance: '1520'
+deces: '1572'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1563-07-25'
+  lieu: Santa Anna, Church, Pisa, Archdiocese of Pisa
+  consecrateur_principal: lodovico-beccatelli
+  co_consecrateurs:
+  - gerolamo-vecciani
+  - giacomo-galletto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaddig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cortona, Italy
+  du: '1562-12-16'
+  au: 1572&sup2;
+- titre: évêque diocésain
+  du: '1562-12-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744842
+  catholic_hierarchy: bgaddig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:02:44+00:00'
+  completeness: 0.75

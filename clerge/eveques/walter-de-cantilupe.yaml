@@ -1,0 +1,48 @@
+slug: walter-de-cantilupe
+nom: Walter de Cantilupe
+nom_complet: Walter Cantilupe
+naissance: '1195'
+deces: '1266-02-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1237-05-03'
+  consecrateur_principal: non-indexe-4d0cfa90
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcantilw.html
+  - https://fr.wikipedia.org/wiki/Walter_de_Cantilupe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: null
+  au: '1266-02-12'
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1236-01-01'
+  au: '1266-01-01'
+- titre: évêque diocésain
+  du: '1236-09-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/William%20III%20de%20Cantilupe%20%28d.1254%29%20MatthewParis%20Historia%20Anglorum.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7966500
+  catholic_hierarchy: bcantilw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:36+00:00'
+  completeness: 0.62

@@ -1,0 +1,44 @@
+slug: gaston-robichez
+nom: Gaston Robichez
+nom_complet: Gaston Robichez, S.J.
+naissance: '1866-11-21'
+deces: '1946-02-12'
+naissance_lieu: Aire-sur-la-Lys, Diocese of Arras (-Boulogne-Saint-Omer), France
+deces_lieu: Batticaloa, Diocese of Trincomalee
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1917-07-08'
+  lieu: Batticaloa, Diocese of Trincomalee
+  consecrateur_principal: antoine-coudert
+  co_consecrateurs:
+  - bede-beckmeyer-o-s-b
+  - ange-auguste-faisandier-s-j
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brobic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trincomalee, Sri Lanka
+  du: '1917-03-22'
+  au: '1946-02-12'
+- titre: évêque diocésain
+  du: '1917-03-22'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64734774
+  catholic_hierarchy: brobic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:18:53+00:00'
+  completeness: 1.0

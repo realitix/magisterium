@@ -1,0 +1,43 @@
+slug: henri-de-la-tour
+nom: Henri de La Tour
+nom_complet: null
+naissance: null
+deces: '1415-05-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bltourh.html
+  - https://fr.wikipedia.org/wiki/Henri_de_La_Tour_(%C3%A9v%C3%AAque_de_Clermont)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: '1376-01-02'
+  au: '1415-05-07'
+- titre: évêque de Clermont
+  du: '1376-01-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BOYER%201448%20-%20Henri%20de%20la%20Tour%20%2B%201415.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q85853422
+  catholic_hierarchy: bltourh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:43+00:00'
+  completeness: 0.38

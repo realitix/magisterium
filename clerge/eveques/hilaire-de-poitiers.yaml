@@ -1,0 +1,43 @@
+slug: hilaire-de-poitiers
+nom: Hilaire de Poitiers
+nom_complet: St. Hilary of Poitiers
+naissance: '315'
+deces: '367'
+naissance_lieu: Poitiers
+deces_lieu: null
+rang: eveque
+nationalite: Q1747689
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoit.html
+  - https://fr.wikipedia.org/wiki/Hilaire_de_Poitiers
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: '353'
+  au: '368'
+- titre: évêque de Poitiers
+  du: '0353-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hilaryofpoitiers.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q44344
+  catholic_hierarchy: bpoit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:39+00:00'
+  completeness: 0.25

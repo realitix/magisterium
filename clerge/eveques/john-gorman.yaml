@@ -1,0 +1,53 @@
+slug: john-gorman
+nom: John Gorman
+nom_complet: John Robert Gorman
+naissance: '1925-12-11'
+deces: '2025-06-02'
+naissance_lieu: Chicago, Archdiocese of Chicago, Illinois
+deces_lieu: Orland Park, Archdiocese of Chicago, Illinois
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '1988-04-11'
+  lieu: Holy Name of Jesus, Cathedral, Chicago, Archdiocese of Chicago, Illinois
+  consecrateur_principal: joseph-bernardin
+  co_consecrateurs:
+  - alfred-leo-abramowicz
+  - nevin-william-hayes
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgorman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chicago, Illinois, USA
+  du: '1988-02-16'
+  au: null
+- titre: Titular Bishop of Catula
+  du: '1988-02-16'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Chicago, Illinois, USA
+  du: null
+  au: '2025-06-02'
+- titre: évêque titulaire
+  du: '1988-02-16'
+  au: '2025-06-02'
+- titre: évêque auxiliaire
+  du: '1988-02-16'
+  au: '2003-01-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1700249
+  catholic_hierarchy: bgorman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:35:50+00:00'
+  completeness: 1.0

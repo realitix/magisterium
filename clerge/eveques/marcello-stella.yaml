@@ -1,0 +1,43 @@
+slug: marcello-stella
+nom: Marcello Stella
+nom_complet: null
+naissance: null
+deces: '1642'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1640-04-09'
+  consecrateur_principal: gil-cardinal-carrillo-de-albornoz
+  co_consecrateurs:
+  - vincenzo-napoli
+  - deodato-scaglia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstellam.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Isernia, Italy
+  du: '1640-03-26'
+  au: 1642&sup2;
+- titre: Roman Catholic Bishop of Isernia
+  du: '1640-03-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30193125
+  catholic_hierarchy: bstellam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:37:59+00:00'
+  completeness: 0.75

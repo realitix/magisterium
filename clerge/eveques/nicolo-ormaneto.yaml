@@ -1,0 +1,50 @@
+slug: nicolo-ormaneto
+nom: Nicolò Ormaneto
+nom_complet: Nicolò Ormanetto
+naissance: '1515'
+deces: '1577-06-18'
+naissance_lieu: Verona, Diocese of Verona
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1570-08-01'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: otto-truchsess-von-waldburg
+  co_consecrateurs:
+  - antonio-elio
+  - gallois-de-regard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Padova {Padua}, Italy
+  du: '1570-07-03'
+  au: '1577-06-18'
+- titre: Apostolic Nuncio to Spain
+  du: '1572-07-01'
+  au: null
+- titre: nonce apostolique en Espagne
+  du: '1572-07-11'
+  au: null
+- titre: évêque de Padoue
+  du: '1570-07-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3876577
+  catholic_hierarchy: borman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:55:13+00:00'
+  completeness: 0.88

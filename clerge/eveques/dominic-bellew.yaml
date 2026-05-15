@@ -1,0 +1,40 @@
+slug: dominic-bellew
+nom: Dominic Bellew
+nom_complet: null
+naissance: '1746-05-22'
+deces: '1813-06-16'
+naissance_lieu: Armagh, Archdiocese of Armagh
+deces_lieu: Mullingar
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1780-04-03'
+  lieu: Brussels
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbellew.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killala, Ireland
+  du: '1779-12-18'
+  au: '1813-06-16'
+- titre: évêque diocésain
+  du: '1779-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68863348
+  catholic_hierarchy: bbellew
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:14:10+00:00'
+  completeness: 0.62

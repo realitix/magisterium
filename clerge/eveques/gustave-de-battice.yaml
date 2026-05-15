@@ -1,0 +1,57 @@
+slug: gustave-de-battice
+nom: Gustave De Battice
+nom_complet: Gustavo Leonardo de Battice
+naissance: '1839-05-19'
+deces: '1889-08-13'
+naissance_lieu: Gand, Diocese of Gent {Ghent, Gand}
+deces_lieu: Grootenberge
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1878-01-20'
+  lieu: Grand Seminary, Chapel, Gand, Diocese of Gent {Ghent, Gand}
+  consecrateur_principal: henricus-bracq
+  co_consecrateurs:
+  - theodore-de-montpellier
+  - jean-joseph-faict
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbattice.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1877-12-28'
+  au: '1885-11-23'
+- titre: Titular Bishop of Pella
+  du: '1877-12-28'
+  au: null
+- titre: Coadjutor Bishop Emeritus of Gent {Ghent, Gand}, Belgium
+  du: null
+  au: '1889-08-13'
+- titre: évêque titulaire
+  du: '1877-12-28'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gent%20Bischop%20BATTICE.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2783871
+  catholic_hierarchy: bbattice
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:08:12+00:00'
+  completeness: 1.0

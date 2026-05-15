@@ -1,0 +1,54 @@
+slug: claude-de-rueil
+nom: Claude de Rueil
+nom_complet: null
+naissance: '1581'
+deces: '1649-01-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1622-01-02'
+  consecrateur_principal: francois-de-la-rochefoucauld-cardinal-eveque-de-senlis-grand-aumonier-de-france
+  co_consecrateurs:
+  - antoine-de-la-rochefoucauld
+  - jacques-camus-de-pontcarre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brueil.html
+  - https://fr.wikipedia.org/wiki/Claude_de_Rueil
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayonne, France
+  du: '1621-11-15'
+  au: null
+- titre: Bishop of Angers, France
+  du: '1628-03-20'
+  au: '1649-01-20'
+- titre: évêque de Bayonne
+  du: '1621-11-15'
+  au: null
+- titre: évêque d'Angers
+  du: '1628-03-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20de%20Ruel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q21657459
+  catholic_hierarchy: brueil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:34:45+00:00'
+  completeness: 0.88

@@ -1,0 +1,54 @@
+slug: george-riashi
+nom: George Riashi
+nom_complet: George Riashi, B.C.
+naissance: '1933-11-25'
+deces: '2012-10-28'
+naissance_lieu: Kaael-Rim
+deces_lieu: null
+rang: archeveque
+nationalite: Q822
+tampon: ordo_dubius
+sacre:
+  date: '1987-07-19'
+  lieu: St Jean de Choueir, Convent, Khonchara
+  consecrateur_principal: maxime-v-hakim
+  co_consecrateurs:
+  - joseph-tawil
+  - jean-mansour
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/briashi.html
+  - https://fr.wikipedia.org/wiki/George_Riashi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Michael&rsquo;s of Sydney (Melkite Greek), Australia
+  du: '1987-03-26'
+  au: null
+- titre: Archbishop of Tripoli del Libano {Tarabulus} (Melkite Greek)
+  du: '1995-07-28'
+  au: null
+- titre: Archbishop Emeritus of Tripoli del Libano {Tarabulus} (Melkite Greek)
+  du: null
+  au: '2012-10-28'
+- titre: évêque diocésain
+  du: '1987-03-26'
+  au: '1995-07-28'
+- titre: archevêque catholique
+  du: '1995-07-28'
+  au: '2010-03-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1508172
+  catholic_hierarchy: briashi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:11:15+00:00'
+  completeness: 1.0

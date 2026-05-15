@@ -1,0 +1,51 @@
+slug: robert-ceneau
+nom: Robert Ceneau
+nom_complet: Robert Cénalis
+naissance: '1483'
+deces: '1560-04-07'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcenalis.html
+  - https://fr.wikipedia.org/wiki/Robert_Ceneau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vence, France
+  du: '1522-12-22'
+  au: null
+- titre: Bishop of Riez, France
+  du: '1530-06-20'
+  au: null
+- titre: Bishop of Avranches, France
+  du: '1532-04-17'
+  au: '1560-04-07'
+- titre: évêque d’Avranches
+  du: '1532-04-27'
+  au: null
+- titre: évêque de Vence
+  du: '1523-01-01'
+  au: null
+- titre: évêque de Riez
+  du: '1530-06-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3434764
+  catholic_hierarchy: bcenalis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:36:38+00:00'
+  completeness: 0.38

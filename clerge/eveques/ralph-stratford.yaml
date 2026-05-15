@@ -1,0 +1,48 @@
+slug: ralph-stratford
+nom: Ralph Stratford
+nom_complet: null
+naissance: '1300'
+deces: '1354-04-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1340-03-12'
+  consecrateur_principal: john-stratford
+  co_consecrateurs:
+  - robert-de-stratford
+  - hamo-hethe
+  - robert-wyvil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstratfr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: null
+  au: '1354-04-07'
+- titre: évêque de Londres
+  du: '1340-02-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ralph%20Stratford%20-%20seal%2C%201340.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16208170
+  catholic_hierarchy: bstratfr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:40:29+00:00'
+  completeness: 0.88

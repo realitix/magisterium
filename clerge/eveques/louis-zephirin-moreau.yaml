@@ -1,0 +1,49 @@
+slug: louis-zephirin-moreau
+nom: Louis-Zéphirin Moreau
+nom_complet: Bl. Louis-Zéphirin Moreau
+naissance: '1824-04-01'
+deces: '1901-05-24'
+naissance_lieu: Bécancour, Archdiocese of Québec
+deces_lieu: Saint-Hyacinthe, Diocese of Saint-Hyacinthe, Québec
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1876-01-16'
+  lieu: Cathedral, Saint-Hyacinthe, Diocese of Saint-Hyacinthe, Québec
+  consecrateur_principal: elzear-alexandre-taschereau
+  co_consecrateurs:
+  - louis-francois-richer-lafleche
+  - edouard-charles-fabre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoreau.html
+  - https://fr.wikipedia.org/wiki/Louis-Z%C3%A9phirin_Moreau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Hyacinthe, Québec, Canada
+  du: '1875-11-19'
+  au: '1901-05-24'
+- titre: évêque diocésain
+  du: '1875-11-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis-Z%C3%A9phirin%20Moreau.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2496468
+  catholic_hierarchy: bmoreau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:11:18+00:00'
+  completeness: 1.0

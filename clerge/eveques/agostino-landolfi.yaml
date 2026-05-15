@@ -1,0 +1,42 @@
+slug: agostino-landolfi
+nom: Agostino Landolfi
+nom_complet: Agostino Landolfo, O.S.A.
+naissance: null
+deces: '1536'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1528-10-04'
+  consecrateur_principal: giambattista-boncianni
+  co_consecrateurs:
+  - francesco-cherigato
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blandul.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montepeloso, Italy
+  du: '1528-03-23'
+  au: 1532&sup1;
+- titre: évêque diocésain
+  du: '1528-04-02'
+  au: '1532-01-01'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q36166186
+  catholic_hierarchy: blandul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:27+00:00'
+  completeness: 0.75

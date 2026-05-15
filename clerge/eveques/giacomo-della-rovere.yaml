@@ -1,0 +1,44 @@
+slug: giacomo-della-rovere
+nom: Giacomo della Rovere
+nom_complet: null
+naissance: null
+deces: '1511'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdrovrgi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mileto, Italy
+  du: '1480-08-18'
+  au: null
+- titre: Bishop of Savona, Italy
+  du: '1504-03-06'
+  au: 1511&sup1;
+- titre: évêque de Mileto
+  du: '1480-08-27'
+  au: null
+- titre: évêque de Savone
+  du: '1504-03-16'
+  au: '1511-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779837
+  catholic_hierarchy: bdrovrgi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:07:30+00:00'
+  completeness: 0.25

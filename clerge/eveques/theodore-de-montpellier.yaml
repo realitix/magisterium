@@ -1,0 +1,49 @@
+slug: theodore-de-montpellier
+nom: Théodore de Montpellier
+nom_complet: Théodore Alexis Joseph de Montpellier
+naissance: '1807-05-24'
+deces: '1879-08-24'
+naissance_lieu: Vedrin, Diocese of Namur {Namen}
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1852-11-07'
+  lieu: St. Paul, Cathedral, Liège, Diocese of Liège
+  consecrateur_principal: engelbert-sterckx
+  co_consecrateurs:
+  - nicolas-joseph-dehesselle
+  - jean-baptist-malou
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontp.html
+  - https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Montpellier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1852-09-27'
+  au: '1879-08-24'
+- titre: évêque de Liège
+  du: '1852-09-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9odore%20de%20Montpellier.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2714348
+  catholic_hierarchy: bmontp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:09:24+00:00'
+  completeness: 1.0

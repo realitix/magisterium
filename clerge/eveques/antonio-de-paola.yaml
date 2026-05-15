@@ -1,0 +1,49 @@
+slug: antonio-de-paola
+nom: Antonio de Paola
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1518-05-24'
+  consecrateur_principal: andrea-cardinal-della-valle
+  co_consecrateurs:
+  - paride-grassi
+  - pietro-de-flisco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdpaolaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicastro, Italy
+  du: '1518-05-17'
+  au: null
+- titre: Bishop of Catanzaro, Italy
+  du: '1523-07-24'
+  au: 1529&sup1;
+- titre: Roman Catholic Bishop of Catanzaro
+  du: '1523-08-03'
+  au: '1529-01-01'
+- titre: évêque de Lamezia Terme
+  du: '1518-05-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q98924481
+  catholic_hierarchy: bdpaolaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:04:24+00:00'
+  completeness: 0.75

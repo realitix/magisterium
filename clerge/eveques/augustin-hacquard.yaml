@@ -1,0 +1,44 @@
+slug: augustin-hacquard
+nom: Augustin Hacquard
+nom_complet: null
+naissance: '1809-05-15'
+deces: '1884-05-31'
+naissance_lieu: Epinal
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1867-05-01'
+  lieu: La Madeleine, Paris, Archdiocese of Paris
+  consecrateur_principal: cesaire-mathieu
+  co_consecrateurs:
+  - jean-pierre-mabile
+  - charles-theodore-colet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: null
+  au: '1884-05-31'
+- titre: évêque de Verdun
+  du: '1867-03-27'
+  au: '1884-05-31'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22582628
+  catholic_hierarchy: bhac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:30:43+00:00'
+  completeness: 1.0

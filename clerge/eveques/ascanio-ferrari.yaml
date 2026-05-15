@@ -1,0 +1,38 @@
+slug: ascanio-ferrari
+nom: Ascanio Ferrari
+nom_complet: Ascanio Ferreri
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferraras.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montepeloso, Italy
+  du: '1548-02-24'
+  au: 1550&sup1;
+- titre: évêque diocésain
+  du: '1548-03-05'
+  au: '1550-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q36261593
+  catholic_hierarchy: bferraras
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:39:25+00:00'
+  completeness: 0.25

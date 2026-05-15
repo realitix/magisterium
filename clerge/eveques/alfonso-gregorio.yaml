@@ -1,0 +1,50 @@
+slug: alfonso-gregorio
+nom: Alfonso Gregorio
+nom_complet: null
+naissance: null
+deces: '1602-10-27'
+naissance_lieu: Diocese of León
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1591-03-24'
+  lieu: La Seo, Cathedral, Zaragoza, Archdiocese of Zaragoza
+  consecrateur_principal: andres-cabrera-bobadilla
+  co_consecrateurs:
+  - jaime-jimeno-de-lobera
+  - martin-cleriguech-caucer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrega.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albarracin, Spain
+  du: '1591-01-14'
+  au: null
+- titre: Archbishop of Zaragoza, Spain
+  du: '1593-03-10'
+  au: '1602-10-27'
+- titre: évêque d'Albarracín
+  du: '1591-01-14'
+  au: '1593-03-10'
+- titre: archevêque de Saragosse
+  du: '1593-03-10'
+  au: '1602-10-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761610
+  catholic_hierarchy: bgrega
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:41:51+00:00'
+  completeness: 0.88

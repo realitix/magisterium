@@ -1,0 +1,49 @@
+slug: andre-tixier
+nom: André Tixier
+nom_complet: André Tixier, O.F.M.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1551-05-18'
+  consecrateur_principal: pierre-de-bisqueres
+  co_consecrateurs:
+  - charles-antoine-de-vesc
+  - pierre-de-forli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btixi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Saint-Flour, France
+  du: '1551-03-04'
+  au: null
+- titre: Titular Bishop of Rhosus
+  du: '1551-03-04'
+  au: null
+- titre: évêque titulaire
+  du: '1551-03-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1551-03-14'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64780052
+  catholic_hierarchy: btixi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:01:21+00:00'
+  completeness: 0.75

@@ -1,0 +1,58 @@
+slug: gregoire-xiv
+nom: Grégoire XIV
+nom_complet: Gregory XIV
+naissance: '1535-02-11'
+deces: '1591-10-16'
+naissance_lieu: Somma, Archdiocese of Milano {Milan}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1560-05-19'
+  lieu: San Paolo Converso, Church, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: melchiorre-crivelli
+  co_consecrateurs:
+  - giulio-giovio
+  - antonio-scarampi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsfon.html
+  - https://fr.wikipedia.org/wiki/Gr%C3%A9goire_XIV
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cremona, Italy
+  du: '1560-03-13'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1591-10-16'
+- titre: évêque diocésain
+  du: '1560-03-23'
+  au: null
+- titre: cardinal
+  du: '1583-12-12'
+  au: null
+- titre: pape
+  du: '1590-12-05'
+  au: '1591-10-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20School%20%E2%80%93%20Portrait%20of%20Pope%20Gregory%20XIV%20%2816th%20Century%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q171622
+  catholic_hierarchy: bsfon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:13:30+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: antonio-paterno
+nom: Antonio Paternò
+nom_complet: null
+naissance: '1652-02-10'
+deces: '1730'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1719-02-12'
+  consecrateur_principal: le-pape-clement-xii-laurent-corsini
+  co_consecrateurs:
+  - giovanni-battista-braschi
+  - adriano-sermattei
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaterno.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lanciano, Italy
+  du: '1719-02-08'
+  au: 1730&sup1;
+- titre: archevêque catholique
+  du: '1719-02-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778094
+  catholic_hierarchy: bpaterno
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:13:20+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: elio-tinti
+nom: Elio Tinti
+nom_complet: null
+naissance: '1936-08-14'
+deces: '2024-09-24'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: Casa del Clero, Bologna, Archdiocese of Bologna
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2000-08-26'
+  lieu: San Pietro, Cathedral, Bologna, Archdiocese of Bologna
+  consecrateur_principal: giacomo-biffi
+  co_consecrateurs:
+  - benito-cocchi
+  - paolo-rabitti
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btinti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carpi, Italy
+  du: '2000-06-17'
+  au: null
+- titre: Bishop Emeritus of Carpi, Italy
+  du: null
+  au: '2024-09-24'
+- titre: Roman Catholic Bishop of Carpi
+  du: '2000-06-17'
+  au: '2011-11-14'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1329574
+  catholic_hierarchy: btinti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:00:38+00:00'
+  completeness: 1.0

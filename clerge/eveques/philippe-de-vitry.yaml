@@ -1,0 +1,43 @@
+slug: philippe-de-vitry
+nom: Philippe de Vitry
+nom_complet: null
+naissance: '1291-10-31'
+deces: '1361-06-09'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Meaux, Diocese of Meaux
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvitryp.html
+  - https://fr.wikipedia.org/wiki/Philippe_de_Vitry
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1351-01-03'
+  au: '1361-06-09'
+- titre: évêque de Meaux
+  du: '1351-01-11'
+  au: '1361-06-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20de%20Vitry%20-%20seal%2C%201349.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q311766
+  catholic_hierarchy: bvitryp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:43:25+00:00'
+  completeness: 0.5

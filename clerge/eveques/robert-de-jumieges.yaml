@@ -1,0 +1,53 @@
+slug: robert-de-jumieges
+nom: Robert de Jumièges
+nom_complet: Robert Champart
+naissance: '1100'
+deces: '1055'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1044'
+  consecrateur_principal: non-indexe-bc979269
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchampart.html
+  - https://fr.wikipedia.org/wiki/Robert_de_Jumi%C3%A8ges
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: 1044&sup1;
+  au: null
+- titre: Archbishop of Canterbury, England, Great Britain
+  du: 1051&sup2;
+  au: '1052-09-14'
+- titre: Archbishop Emeritus of Canterbury, England, Great Britain
+  du: null
+  au: 1070&sup2;
+- titre: abbé
+  du: null
+  au: null
+- titre: archevêque de Cantorbéry
+  du: '1051-01-01'
+  au: '1052-09-20'
+- titre: évêque de Londres
+  du: '1044-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q431066
+  catholic_hierarchy: bchampart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:52+00:00'
+  completeness: 0.5

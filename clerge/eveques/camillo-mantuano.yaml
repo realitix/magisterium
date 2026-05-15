@@ -1,0 +1,50 @@
+slug: camillo-mantuano
+nom: Camillo Mantuano
+nom_complet: Camillo Mentovato
+naissance: '1550'
+deces: '1560'
+naissance_lieu: Piacenza, Diocese of Piacenza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1547-10-30'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-maccabei-de-toscanella
+  co_consecrateurs:
+  - luigi-magnasco-di-santa-fiora
+  - filippo-angelo-seragli-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmentov.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satriano e Campagna, Italy
+  du: '1544-11-14'
+  au: 1560&sup2;
+- titre: Apostolic Nuncio to Poland
+  du: '1558-08-08'
+  au: null
+- titre: nonce apostolique en Pologne
+  du: '1558-08-18'
+  au: null
+- titre: évêque diocésain
+  du: '1544-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3651528
+  catholic_hierarchy: bmentov
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:51:51+00:00'
+  completeness: 0.75

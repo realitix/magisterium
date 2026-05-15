@@ -1,0 +1,38 @@
+slug: giuseppe-mancusi
+nom: Giuseppe Mancusi
+nom_complet: null
+naissance: '1754-12-02'
+deces: '1807'
+naissance_lieu: Giffoni
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmancug.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerno, Italy
+  du: null
+  au: 1807&sup1;
+- titre: Roman Catholic Bishop of Acerno
+  du: '1797-10-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68906841
+  catholic_hierarchy: bmancug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:19:53+00:00'
+  completeness: 0.38

@@ -1,0 +1,40 @@
+slug: miguel-aguiar
+nom: Miguel Aguiar
+nom_complet: null
+naissance: '1693-11-05'
+deces: '1743-02-14'
+naissance_lieu: Málaga
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1738-04-20'
+  consecrateur_principal: alvaro-eugenio-de-mendoza-caamano-sotomayor
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baguiarm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ceuta, Spain
+  du: '1738-01-27'
+  au: '1743-02-14'
+- titre: évêque de Ceuta
+  du: '1738-01-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752558
+  catholic_hierarchy: baguiarm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:23:43+00:00'
+  completeness: 0.88

@@ -1,0 +1,39 @@
+slug: bernardo-guillen
+nom: Bernardo Guillén
+nom_complet: Bernat Guillem
+naissance: null
+deces: '1092-07-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-f824b558
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguillenb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Urgell, Spain
+  du: '1076-01-15'
+  au: '1092-07-01'
+- titre: évêque d'Urgell
+  du: '1076-01-21'
+  au: '1092-07-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763586
+  catholic_hierarchy: bguillenb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:50:41+00:00'
+  completeness: 0.5

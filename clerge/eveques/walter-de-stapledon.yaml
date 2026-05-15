@@ -1,0 +1,45 @@
+slug: walter-de-stapledon
+nom: Walter de Stapledon
+nom_complet: null
+naissance: '1261-02-08'
+deces: '1326-10-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1308-10-13'
+  consecrateur_principal: robert-of-winchelsey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstaplw.html
+  - https://fr.wikipedia.org/wiki/Walter_de_Stapledon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: null
+  au: '1326-10-15'
+- titre: évêque d'Exeter
+  du: '1307-11-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BishopWalterStapledon%20ExeterCathedral.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4476147
+  catholic_hierarchy: bstaplw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:33+00:00'
+  completeness: 0.75

@@ -1,0 +1,38 @@
+slug: denis-medori
+nom: Denis Medori
+nom_complet: null
+naissance: '1555'
+deces: '1609-09-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmedorid.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mylopotamos, Greece
+  du: '1606-02-20'
+  au: '1609-09-21'
+- titre: évêque diocésain
+  du: '1606-02-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68907950
+  catholic_hierarchy: bmedorid
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:47:07+00:00'
+  completeness: 0.38

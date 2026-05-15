@@ -1,0 +1,38 @@
+slug: jean-pin
+nom: Jean Pin
+nom_complet: Jean Pin, M.E.P.
+naissance: '1643'
+deces: '1692-05-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpinje.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Administrator of Chekiang {Ce-Kiam}, China
+  du: '1687-02-05'
+  au: 1692&sup2;
+- titre: administrateur apostolique
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108463504
+  catholic_hierarchy: bpinje
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:34:31+00:00'
+  completeness: 0.25

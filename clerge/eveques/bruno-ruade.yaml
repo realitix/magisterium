@@ -1,0 +1,44 @@
+slug: bruno-ruade
+nom: Bruno Ruade
+nom_complet: null
+naissance: null
+deces: '1645-01-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-03-10'
+  consecrateur_principal: octave-de-saint-lary-de-bellegarde
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bruade.html
+  - https://fr.wikipedia.org/wiki/Bruno_Ruade
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Lizier de) Couserans (or Conserans), France
+  du: '1623-06-07'
+  au: '1645-01-02'
+- titre: évêque diocésain
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1623-06-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2926959
+  catholic_hierarchy: bruade
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:33:41+00:00'
+  completeness: 0.75

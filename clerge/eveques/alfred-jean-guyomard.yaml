@@ -1,0 +1,53 @@
+slug: alfred-jean-guyomard
+nom: Alfred-Jean Guyomard
+nom_complet: Alfred-Jean Guyomard, O.M.I.
+naissance: '1884-10-14'
+deces: '1956-02-27'
+naissance_lieu: Erquy, Diocese of Saint-Brieuc (-Tréguier), France
+deces_lieu: Hospital, Jaffna, Diocese of Jaffna
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1924-03-09'
+  lieu: Cathedral, Jaffna, Diocese of Jaffna
+  consecrateur_principal: antoine-coudert
+  co_consecrateurs:
+  - bede-beckmeyer-o-s-b
+  - gaston-robichez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguyo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaffna, Sri Lanka
+  du: '1924-01-16'
+  au: '1950-07-18'
+- titre: Titular Bishop of Assava
+  du: '1950-07-18'
+  au: null
+- titre: Bishop Emeritus of Jaffna, Sri Lanka
+  du: null
+  au: '1956-02-27'
+- titre: évêque titulaire
+  du: '1950-07-18'
+  au: '1956-02-27'
+- titre: évêque diocésain
+  du: '1924-01-16'
+  au: '1950-07-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64658385
+  catholic_hierarchy: bguyo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:29:34+00:00'
+  completeness: 1.0

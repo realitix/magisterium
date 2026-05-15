@@ -1,0 +1,50 @@
+slug: josef-hiltl
+nom: Josef Hiltl
+nom_complet: null
+naissance: '1889-08-30'
+deces: '1979-04-20'
+naissance_lieu: Schwandorf, Diocese of Regensburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1951-05-14'
+  lieu: Cathedral, Regensburg, Diocese of Regensburg
+  consecrateur_principal: michael-buchberger
+  co_consecrateurs:
+  - joseph-freundorfer
+  - johann-neuhausler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhiltl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Regensburg, Germany
+  du: '1951-04-28'
+  au: '1979-04-20'
+- titre: Titular Bishop of Constantina
+  du: '1951-04-28'
+  au: null
+- titre: évêque titulaire
+  du: '1951-04-28'
+  au: null
+- titre: évêque auxiliaire
+  du: '1951-04-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q113738
+  catholic_hierarchy: bhiltl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:43:14+00:00'
+  completeness: 1.0

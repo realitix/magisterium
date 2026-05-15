@@ -1,0 +1,52 @@
+slug: jacques-louis-daniel
+nom: Jacques-Louis Daniel
+nom_complet: null
+naissance: '1794-01-13'
+deces: '1862-07-04'
+naissance_lieu: Contrières, Diocese of Coutances
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1853-06-12'
+  lieu: Cathedral, Coutances, Diocese of Coutances
+  consecrateur_principal: louis-blanquart-de-bailleul
+  co_consecrateurs:
+  - louis-francois-robin
+  - charles-frederic-rousselet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdanj.html
+  - https://fr.wikipedia.org/wiki/Jacques-Louis_Daniel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances (-Avranches), France
+  du: null
+  au: '1862-07-04'
+- titre: évêque diocésain
+  du: '1853-01-07'
+  au: null
+- titre: recteur de l'académie de Caen
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89glise%20Sainte-Marguerite%20de%20Contri%C3%A8res%20-%20Plaque%20fun%C3%A9raire%20de%20Jacques-Louis%20Daniel.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16027341
+  catholic_hierarchy: bdanj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:26:41+00:00'
+  completeness: 1.0

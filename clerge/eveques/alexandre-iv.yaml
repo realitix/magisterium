@@ -1,0 +1,69 @@
+slug: alexandre-iv
+nom: Alexandre IV
+nom_complet: Alexander IV
+naissance: '1200'
+deces: '1261-05-25'
+naissance_lieu: Jenne
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Mar 1235&sup3;
+  consecrateur_principal: deodato-de-squillace-o-f-m
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcdsr.html
+  - https://fr.wikipedia.org/wiki/Alexandre_IV_(pape)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Sant&rsquo;Eustachio
+  du: '1227-09-18'
+  au: null
+- titre: Cardinal-Bishop of Ostia (e Velletri)
+  du: '1232-10-21'
+  au: null
+- titre: Administrator of Ostia (e Velletri)
+  du: '1254-12-12'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1261-05-25'
+- titre: cardinal-évêque d'Ostie
+  du: '1232-10-28'
+  au: '1254-12-26'
+- titre: camerlingue de la Chambre apostolique
+  du: '1227-01-01'
+  au: '1231-01-01'
+- titre: camerlingue du Sacré Collège
+  du: '1227-01-01'
+  au: null
+- titre: pape
+  du: '1254-12-26'
+  au: '1261-05-25'
+- titre: cardinal-diacre
+  du: '1227-09-25'
+  au: '1232-10-28'
+- titre: doyen du Collège des cardinaux
+  du: '1244-01-01'
+  au: '1254-12-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/B%20Alexander%20IV.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q169915
+  catholic_hierarchy: bcdsr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:35:30+00:00'
+  completeness: 0.62

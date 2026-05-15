@@ -1,0 +1,54 @@
+slug: karel-prucha
+nom: Karel Průcha
+nom_complet: Karol Franz (Karel Franti&#353;ek) Prucha (Pr&#367;cha)
+naissance: '1818-09-05'
+deces: '1883-10-23'
+naissance_lieu: Nové Hrady
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-04-16'
+  lieu: Saint Sauveur, Praha, Archdiocese of Praha {Prague}
+  consecrateur_principal: frederic-joseph-de-schwarzenberg
+  co_consecrateurs:
+  - jan-valerian-jirsik
+  - augustin-ii-pavel-vahala
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprucha.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Praha {Prague}, Czechia
+  du: '1871-03-06'
+  au: '1883-10-23'
+- titre: Titular Bishop of Ioppe
+  du: '1871-03-06'
+  au: null
+- titre: évêque auxiliaire
+  du: '1871-03-06'
+  au: null
+- titre: évêque titulaire de Joppe
+  du: '1871-03-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Pr%C5%AFcha%20%281818-1883%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12028484
+  catholic_hierarchy: bprucha
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:51:14+00:00'
+  completeness: 1.0

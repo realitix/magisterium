@@ -1,0 +1,42 @@
+slug: jacques-de-caulers
+nom: Jacques de Caulers
+nom_complet: null
+naissance: null
+deces: '1496'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaulers.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Caulers
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes, France
+  du: '1482-07-12'
+  au: 1496&sup2;
+- titre: évêque diocésain
+  du: '1482-07-21'
+  au: null
+- titre: évêque de Nîmes
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3160259
+  catholic_hierarchy: bcaulers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:33:34+00:00'
+  completeness: 0.25

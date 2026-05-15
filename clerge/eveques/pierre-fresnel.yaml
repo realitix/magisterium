@@ -1,0 +1,51 @@
+slug: pierre-fresnel
+nom: Pierre Fresnel
+nom_complet: null
+naissance: null
+deces: '1418-06-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfresnelp.html
+  - https://fr.wikipedia.org/wiki/Pierre_Fresnel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1390-10-17'
+  au: null
+- titre: Bishop of Noyon, France
+  du: '1409-08-20'
+  au: null
+- titre: Bishop of Lisieux, France
+  du: '1415-01-28'
+  au: '1418-06-12'
+- titre: évêque de Noyon
+  du: '1409-08-29'
+  au: null
+- titre: évêque diocésain
+  du: '1415-02-06'
+  au: null
+- titre: évêque de Meaux
+  du: '1390-10-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3385081
+  catholic_hierarchy: bfresnelp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:58:20+00:00'
+  completeness: 0.38

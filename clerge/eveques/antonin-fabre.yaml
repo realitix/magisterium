@@ -1,0 +1,44 @@
+slug: antonin-fabre
+nom: Antonin Fabre
+nom_complet: Jacques-Paul-Antonin Fabre
+naissance: '1837-10-16'
+deces: '1919-12-26'
+naissance_lieu: Nîmes, Diocese of Nîmes, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1893-04-25'
+  lieu: St. Sulpice, Paris, Archdiocese of Paris, France
+  consecrateur_principal: francois-richard
+  co_consecrateurs:
+  - paul-marie-de-forges
+  - frederic-fuzet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfabr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Denis-de-La Réunion
+  du: null
+  au: '1919-12-26'
+- titre: évêque de La Réunion
+  du: '1892-11-26'
+  au: '1919-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4480298
+  catholic_hierarchy: bfabr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:28:20+00:00'
+  completeness: 1.0

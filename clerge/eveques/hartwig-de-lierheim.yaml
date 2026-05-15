@@ -1,0 +1,41 @@
+slug: hartwig-de-lierheim
+nom: Hartwig de Lierheim
+nom_complet: Hartwig von Lierheim
+naissance: '1150'
+deces: '1184-01-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1168'
+  consecrateur_principal: christian-ier-von-buch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blierh.html
+  - https://fr.wikipedia.org/wiki/Hartwig_de_Lierheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: 1167&sup2;
+  au: '1184-01-24'
+- titre: évêque d'Augsbourg
+  du: '1168-01-01'
+  au: '1184-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23710240
+  catholic_hierarchy: blierh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:49:47+00:00'
+  completeness: 0.75

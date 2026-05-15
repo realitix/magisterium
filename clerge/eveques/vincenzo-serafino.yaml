@@ -1,0 +1,44 @@
+slug: vincenzo-serafino
+nom: Vincenzo Serafino
+nom_complet: null
+naissance: null
+deces: '1615'
+naissance_lieu: null
+deces_lieu: Ascoli Piceno, Diocese of Ascoli Piceno
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1588-12-07'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-cardinal-bernerio-o-p
+  co_consecrateurs:
+  - fabio-biondi
+  - giambattista-de-benedictis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserafinv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teano, Italy
+  du: '1588-10-03'
+  au: 1615&sup2;
+- titre: Roman Catholic Bishop of Teano
+  du: '1588-10-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23900868
+  catholic_hierarchy: bserafinv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:10:42+00:00'
+  completeness: 0.75

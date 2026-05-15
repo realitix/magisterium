@@ -1,0 +1,64 @@
+slug: martin-rutten
+nom: Martin Rutten
+nom_complet: Martin-Hubert Rutten
+naissance: '1841-12-18'
+deces: '1927-07-17'
+naissance_lieu: Geystingen
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1902-01-06'
+  lieu: Saint-Paul, Cathedral, Liège, Diocese of Liège
+  consecrateur_principal: pierre-lambert-goossens
+  co_consecrateurs:
+  - gustave-waffelaert
+  - charles-gustave-walravens
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brutt.html
+  - https://fr.wikipedia.org/wiki/Martin-Hubert_Rutten
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1901-12-16'
+  au: null
+- titre: Bishop of Liège (Luik, Lüttich), Belgium
+  du: null
+  au: '1927-07-17'
+- titre: évêque de Liège
+  du: '1901-12-16'
+  au: '1927-07-17'
+- titre: vicaire général
+  du: '1879-01-01'
+  au: '1901-01-01'
+- titre: président ou présidente
+  du: '1879-01-01'
+  au: '1883-01-01'
+- titre: chanoine
+  du: '1877-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1921-10-13'
+  au: '1925-04-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/De%20bisschop%20van%20Luik%2C%20monseigneur%20Rutten%2C%20begeeft%20zich%20onder%20een%20baldakijn%20van%20het%20bisschoppelijk%2C%20SFA002006456.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1756393
+  catholic_hierarchy: brutt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:37:35+00:00'
+  completeness: 1.0

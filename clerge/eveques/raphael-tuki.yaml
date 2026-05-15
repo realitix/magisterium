@@ -1,0 +1,45 @@
+slug: raphael-tuki
+nom: Raphael Tuki
+nom_complet: null
+naissance: '1701'
+deces: '1787'
+naissance_lieu: Egypt
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1761-04-15'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btuki.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Achantus
+  du: '1761-04-15'
+  au: null
+- titre: Titular Bishop of Arsinoë in Cypro
+  du: '1763-01-22'
+  au: 1787&sup2;
+- titre: évêque titulaire
+  du: '1761-04-15'
+  au: null
+- titre: évêque titulaire
+  du: '1763-01-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911771
+  catholic_hierarchy: btuki
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:13:41+00:00'
+  completeness: 0.25

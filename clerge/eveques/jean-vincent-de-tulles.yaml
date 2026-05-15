@@ -1,0 +1,63 @@
+slug: jean-vincent-de-tulles
+nom: Jean Vincent de Tulles
+nom_complet: Jean-Vincent de Tulles
+naissance: '1650'
+deces: '1668-12-03'
+naissance_lieu: null
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1637-04-13'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giovanni-battista-scanaroli
+  co_consecrateurs:
+  - joseph-marie-de-suares
+  - pietro-paolo-de-rustici
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btulles.html
+  - https://fr.wikipedia.org/wiki/Jean-Vincent_de_Tulles
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Orange, France
+  du: '1637-03-16'
+  au: null
+- titre: Titular Bishop of Dioclea
+  du: '1637-03-16'
+  au: null
+- titre: Bishop of Orange, France
+  du: null
+  au: '1640-10-03'
+- titre: Bishop of Lavaur, France
+  du: '1647-05-27'
+  au: '1668-12-03'
+- titre: évêque diocésain
+  du: '1647-05-27'
+  au: null
+- titre: évêque titulaire
+  du: '1637-03-16'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1640-10-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175059
+  catholic_hierarchy: btulles
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:13:45+00:00'
+  completeness: 0.88

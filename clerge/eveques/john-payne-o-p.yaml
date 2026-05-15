@@ -1,0 +1,39 @@
+slug: john-payne-o-p
+nom: John Payne, O.P.
+nom_complet: John Payne
+naissance: null
+deces: '1506-03-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '4'
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpayne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meath, Ireland
+  du: '1483-03-17'
+  au: '1506-03-03'
+- titre: évêque diocésain
+  du: '1483-03-26'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q68909121
+  catholic_hierarchy: bpayne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:15:02+00:00'
+  completeness: 0.5

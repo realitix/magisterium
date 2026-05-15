@@ -1,0 +1,43 @@
+slug: giovanni-ducco
+nom: Giovanni Ducco
+nom_complet: null
+naissance: null
+deces: '1496-01-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1479-09-05'
+  consecrateur_principal: 352-imun-vosi-263-vossich
+  co_consecrateurs:
+  - ardicino-cardinal-della-porta-jr
+  - giorgio-della-rovere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bducco.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coron (Coronea), Greece
+  du: '1479-06-07'
+  au: '1496-01-21'
+- titre: évêque diocésain
+  du: '1479-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26246984
+  catholic_hierarchy: bducco
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:11:13+00:00'
+  completeness: 0.88

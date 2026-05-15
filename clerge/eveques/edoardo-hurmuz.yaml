@@ -1,0 +1,44 @@
+slug: edoardo-hurmuz
+nom: Edoardo Hurmuz
+nom_complet: Edoardo Hurmuz, C.M.V.
+naissance: '1799-01-22'
+deces: '1876-10-26'
+naissance_lieu: Constaninople, Turkey
+deces_lieu: null
+rang: eveque
+nationalite: Q12560
+tampon: ordo_validus
+sacre:
+  date: '1847-09-19'
+  lieu: Santi Giovanni e Paolo al Celio, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - francesco-pichi
+  - orazio-bettacchini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhurmuz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Siraces
+  du: '1847-09-10'
+  au: '1876-10-26'
+- titre: évêque titulaire
+  du: '1847-09-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16380779
+  catholic_hierarchy: bhurmuz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:50:39+00:00'
+  completeness: 1.0

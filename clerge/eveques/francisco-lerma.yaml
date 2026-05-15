@@ -1,0 +1,41 @@
+slug: francisco-lerma
+nom: Francisco Lerma
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1528-10-11'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giambattista-boncianni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blerma.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valva e Sulmona, Italy
+  du: '1528-08-14'
+  au: null
+- titre: évêque diocésain
+  du: '1528-08-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779822
+  catholic_hierarchy: blerma
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:45:45+00:00'
+  completeness: 0.62

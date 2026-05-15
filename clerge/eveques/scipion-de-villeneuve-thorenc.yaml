@@ -1,0 +1,44 @@
+slug: scipion-de-villeneuve-thorenc
+nom: Scipion de Villeneuve-Thorenc
+nom_complet: null
+naissance: null
+deces: '1636-05-03'
+naissance_lieu: Saint-Paul-du-Var
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1633-05-08'
+  consecrateur_principal: louis-de-bretel
+  co_consecrateurs:
+  - louis-du-chaine
+  - modeste-de-villeneuve-arcs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvilthos.html
+  - https://fr.wikipedia.org/wiki/Scipion_de_Villeneuve-Thorenc
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grasse, France
+  du: '1632-12-20'
+  au: '1636-05-03'
+- titre: évêque diocésain
+  du: '1632-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17639183
+  catholic_hierarchy: bvilthos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:36+00:00'
+  completeness: 0.88

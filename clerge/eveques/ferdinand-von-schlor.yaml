@@ -1,0 +1,49 @@
+slug: ferdinand-von-schlor
+nom: Ferdinand von Schlör
+nom_complet: null
+naissance: '1839-03-02'
+deces: '1924-06-02'
+naissance_lieu: Richelbach, Diocese of Würzburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1898-05-22'
+  lieu: Würzburg, Diocese of Würzburg
+  consecrateur_principal: joseph-von-schork
+  co_consecrateurs:
+  - franz-leopold-von-leonrod
+  - joseph-georg-ehrler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschlor.html
+  - https://fr.wikipedia.org/wiki/Ferdinand_von_Schl%C3%B6r
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1924-06-02'
+- titre: évêque de Wurtzbourg
+  du: '1898-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20von%20Schloer%2C%20Bischof.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q126669
+  catholic_hierarchy: bschlor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:02:10+00:00'
+  completeness: 1.0

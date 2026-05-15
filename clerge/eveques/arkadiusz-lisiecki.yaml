@@ -1,0 +1,48 @@
+slug: arkadiusz-lisiecki
+nom: Arkadiusz Lisiecki
+nom_complet: null
+naissance: '1880-01-12'
+deces: '1930-05-13'
+naissance_lieu: Pozna&#324;, Archdiocese of Gniezno e Pozna&#324;
+deces_lieu: Cieszyn
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1926-10-24'
+  lieu: Cathedral, Gniezno, Archdiocese of Gniezno e Pozna&#324;
+  consecrateur_principal: august-hlond
+  co_consecrateurs:
+  - stanis-aw-wojciech-okoniewski
+  - antoni-laubitz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blisiecki.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Katowice, Poland
+  du: '1926-06-24'
+  au: '1930-05-13'
+- titre: évêque diocésain
+  du: '1926-06-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Arkadiusz%20Lisiecki%201926.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q672419
+  catholic_hierarchy: blisiecki
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:52:32+00:00'
+  completeness: 1.0

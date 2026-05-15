@@ -1,0 +1,47 @@
+slug: joannes-kraly
+nom: Joannes Kraly
+nom_complet: null
+naissance: '1792-05-12'
+deces: '1883'
+naissance_lieu: Varast, Archdiocese of Zagreb
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1855-05-06'
+  lieu: Cathedral, Zagreb, Archdiocese of Zagreb
+  consecrateur_principal: juraj-haulik-varalyai
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkraly.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Zagreb, Croatia
+  du: '1854-11-16'
+  au: 1883&sup1;
+- titre: Titular Bishop of Lycopolis
+  du: '1854-11-16'
+  au: null
+- titre: évêque titulaire
+  du: '1854-11-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1854-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64742875
+  catholic_hierarchy: bkraly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:20:38+00:00'
+  completeness: 0.75

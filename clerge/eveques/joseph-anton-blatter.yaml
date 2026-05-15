@@ -1,0 +1,48 @@
+slug: joseph-anton-blatter
+nom: Joseph Anton Blatter
+nom_complet: null
+naissance: '1745-03-08'
+deces: '1807-03-19'
+naissance_lieu: Viège
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1791-02-13'
+  lieu: Cathedral, Sion, Diocese of Sion {Sitten}
+  consecrateur_principal: giuseppe-vinci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sion {Sitten}, Switzerland
+  du: null
+  au: '1807-03-19'
+- titre: évêque de Sion
+  du: '1790-08-04'
+  au: '1807-03-19'
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Anton%20Blatter.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1706480
+  catholic_hierarchy: bblat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:30:50+00:00'
+  completeness: 0.88

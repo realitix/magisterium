@@ -1,0 +1,49 @@
+slug: geoffroy-de-pompadour
+nom: Geoffroy de Pompadour
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1409-06-09'
+  consecrateur_principal: pierre-saupin-o-f-m
+  co_consecrateurs:
+  - bertrand-de-maumont
+  - pierre-le-neveu
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpompgoe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pons-de-Thomières, France
+  du: '1410-02-17'
+  au: null
+- titre: Bishop of Carcassonne, France
+  du: '1420-10-17'
+  au: 1445&sup1;
+- titre: évêque diocésain
+  du: '1420-10-26'
+  au: null
+- titre: évêque de Saint-Pons-de-Thomières
+  du: '1409-06-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96587811
+  catholic_hierarchy: bpompgoe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:23+00:00'
+  completeness: 0.75

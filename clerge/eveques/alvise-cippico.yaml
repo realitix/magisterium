@@ -1,0 +1,44 @@
+slug: alvise-cippico
+nom: Alvise Cippico
+nom_complet: Aloisius Cippicus
+naissance: '1456-09-25'
+deces: '1504-03-12'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcippico.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Famagusta, Cyprus
+  du: '1488-10-22'
+  au: null
+- titre: Archbishop of Zadar (Zara), Croatia
+  du: '1503-12-11'
+  au: 1504&sup1;
+- titre: Roman Catholic Bishop of Famagusta
+  du: '1488-10-31'
+  au: null
+- titre: évêque de Zadar
+  du: '1503-12-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24962944
+  catholic_hierarchy: bcippico
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:51:47+00:00'
+  completeness: 0.25

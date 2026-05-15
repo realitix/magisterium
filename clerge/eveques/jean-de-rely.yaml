@@ -1,0 +1,46 @@
+slug: jean-de-rely
+nom: Jean de Rély
+nom_complet: Jean de Rely (Rezy)
+naissance: '1430'
+deces: '1499-04-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brely.html
+  - https://fr.wikipedia.org/wiki/Jean_de_R%C3%A9ly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: '1491-12-01'
+  au: 1499&sup1;
+- titre: évêque d'Angers
+  du: '1491-12-10'
+  au: null
+- titre: grand aumônier de France
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Angers%20%2849%29%20Cath%C3%A9drale%20Saint-Maurice%20-%20Int%C3%A9rieur%20-%20Baie%20111%20-%2004.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3175677
+  catholic_hierarchy: brely
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:08:14+00:00'
+  completeness: 0.25

@@ -1,0 +1,52 @@
+slug: antonio-bernardi
+nom: Antonio Bernardi
+nom_complet: Antonio Bernardi (of Mirandola)
+naissance: '1502-03-01'
+deces: '1565-06-19'
+naissance_lieu: Mirandola, Diocese of Reggio Emilia
+deces_lieu: Bologna, Archdiocese of Bologna
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1552-02-18'
+  lieu: Sacristy, Apostolic Palace, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-giacomo-barba-o-s-a
+  co_consecrateurs:
+  - berardo-bongiovanni
+  - bonaventura-fauni-pio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmirandab.html
+  - https://fr.wikipedia.org/wiki/Antonio_Bernardi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caserta, Italy
+  du: '1552-02-12'
+  au: 1554&sup1;
+- titre: Bishop Emeritus of Caserta, Italy
+  du: null
+  au: '1565-06-19'
+- titre: évêque diocésain
+  du: '1552-02-22'
+  au: '1554-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Antonio%20Bernardi%2C%20RP-P-1874-12-58-1%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3619255
+  catholic_hierarchy: bmirandab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:59:51+00:00'
+  completeness: 0.88

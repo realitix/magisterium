@@ -1,0 +1,35 @@
+slug: lambert-de-maastricht
+nom: Lambert de Maastricht
+nom_complet: Lambert of Maastricht
+naissance: '635'
+deces: '0705-09-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Lambert_de_Maastricht
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Maastricht
+  du: '0675-01-01'
+  au: '0705-09-25'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Lambertus%2C%20Statue%20in%20Mingolsheim.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q283447
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67

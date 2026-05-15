@@ -1,0 +1,62 @@
+slug: adamo-borghini
+nom: Adamo Borghini
+nom_complet: null
+naissance: '1859-12-12'
+deces: '1926-12-27'
+naissance_lieu: Gualdo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1909-02-02'
+  lieu: Ferrara, Archdiocese of Ferrara
+  consecrateur_principal: giulio-boschi
+  co_consecrateurs:
+  - ettore-fronzi
+  - tommaso-pio-boggiani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborga.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Ferrara, Italy
+  du: '1909-01-13'
+  au: null
+- titre: Titular Bishop of Carpasia
+  du: '1909-01-13'
+  au: null
+- titre: Bishop of San Severino (Marche), Italy
+  du: '1913-06-04'
+  au: null
+- titre: Apostolic Administrator of Treia, Italy
+  du: '1914-05-31'
+  au: null
+- titre: Bishop of San Severino (-Treia), Italy
+  du: '1920-02-20'
+  au: '1926-12-27'
+- titre: évêque auxiliaire
+  du: '1909-01-13'
+  au: null
+- titre: évêque de San Severino
+  du: '1913-06-04'
+  au: null
+- titre: évêque titulaire
+  du: '1909-01-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763486
+  catholic_hierarchy: bborga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:40:04+00:00'
+  completeness: 1.0

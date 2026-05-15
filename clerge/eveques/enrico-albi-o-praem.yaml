@@ -1,0 +1,42 @@
+slug: enrico-albi-o-praem
+nom: Enrico Albi, O. Praem.
+nom_complet: Enrico Albi
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1345-08-15'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balbie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Konstanz {Constance}, Germany
+  du: '1345-08-07'
+  au: null
+- titre: Titular Bishop of Anazarbus
+  du: '1345-08-07'
+  au: null
+- titre: évêque titulaire
+  du: '1345-08-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108437939
+  catholic_hierarchy: balbie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:27:22+00:00'
+  completeness: 0.25

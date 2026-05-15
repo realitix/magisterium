@@ -1,0 +1,59 @@
+slug: vital-masse
+nom: Vital Massé
+nom_complet: null
+naissance: '1936-12-16'
+deces: null
+naissance_lieu: Saint-Barthélémy
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '1993-12-08'
+  lieu: Saint-Jérôme, Cathedral, Saint-Jérôme, Diocese of Saint-Jérôme, Québec
+  consecrateur_principal: jean-claude-turcotte
+  co_consecrateurs:
+  - gilles-lussier
+  - rene-audet
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmasse.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Saint-Jérôme, Québec, Canada
+  du: '1993-10-20'
+  au: null
+- titre: Titular Bishop of Giru Marcelli
+  du: '1993-10-20'
+  au: null
+- titre: Bishop of Mont-Laurier, Québec, Canada
+  du: '2001-09-08'
+  au: null
+- titre: évêque émérite
+  du: '2012-02-02'
+  au: null
+- titre: évêque de Mont-Laurier
+  du: '2001-09-08'
+  au: '2012-02-02'
+- titre: évêque titulaire
+  du: '1993-10-20'
+  au: '2001-09-08'
+- titre: évêque auxiliaire
+  du: '1993-10-20'
+  au: '2001-09-08'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2528541
+  catholic_hierarchy: bmasse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:35:59+00:00'
+  completeness: 0.88

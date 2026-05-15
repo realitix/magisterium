@@ -1,0 +1,38 @@
+slug: luig-a-santa-croce-o-f-m
+nom: Luig a Santa Croce, O.F.M.
+nom_complet: Luig a Santa Croce
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsantacrl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bisarcio, Italy
+  du: '1466-07-07'
+  au: 1485&sup2;
+- titre: Roman Catholic bishop of Bisarcio
+  du: '1466-07-16'
+  au: '1485-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68910447
+  catholic_hierarchy: bsantacrl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:50:56+00:00'
+  completeness: 0.25

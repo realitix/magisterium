@@ -1,0 +1,39 @@
+slug: claude-dodieu
+nom: Claude Dodieu
+nom_complet: null
+naissance: '1450'
+deces: '1558-04-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdodieu.html
+  - https://fr.wikipedia.org/wiki/Claude_Dodieu
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rennes, France
+  du: '1539-07-23'
+  au: '1558-04-04'
+- titre: évêque de Rennes
+  du: '1539-08-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2977295
+  catholic_hierarchy: bdodieu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:58:24+00:00'
+  completeness: 0.38

@@ -1,0 +1,40 @@
+slug: lu-zhiyuan
+nom: Lu Zhiyuan
+nom_complet: null
+naissance: '1920'
+deces: '1996-10-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1994-04-11'
+  consecrateur_principal: michael-xiao-liren-siao-li-jen
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluzhiy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Shenyang [Mukden, Fengtien], China
+  du: null
+  au: '1996-10-11'
+- titre: évêque diocésain
+  du: '1994-04-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q89405285
+  catholic_hierarchy: bluzhiy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:06:33+00:00'
+  completeness: 0.75

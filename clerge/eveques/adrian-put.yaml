@@ -1,0 +1,54 @@
+slug: adrian-put
+nom: Adrian Put
+nom_complet: null
+naissance: '1978-11-04'
+deces: null
+naissance_lieu: Szczecin
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_dubius
+sacre:
+  date: '2022-08-13'
+  lieu: Co-Cathedral, Zielona Góra, Diocese of Zielona Góra-Gorzów
+  consecrateur_principal: salvatore-pennacchio
+  co_consecrateurs:
+  - tadeusz-litynski
+  - andrzej-dziega
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bput.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Zielona Góra-Gorzów, Poland
+  du: '2022-06-28'
+  au: null
+- titre: Titular Bishop of Furnos Minor
+  du: '2022-06-28'
+  au: null
+- titre: évêque titulaire
+  du: '2022-06-28'
+  au: null
+- titre: évêque auxiliaire
+  du: '2022-06-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BpAdrianPut2024.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q112764834
+  catholic_hierarchy: bput
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:53:48+00:00'
+  completeness: 0.88

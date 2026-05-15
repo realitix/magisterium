@@ -1,0 +1,43 @@
+slug: juan-manuel-cornel
+nom: Juan Manuel Cornel
+nom_complet: null
+naissance: '1725-03-17'
+deces: '1789-10-08'
+naissance_lieu: Cerler
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1773-07-18'
+  consecrateur_principal: jose-laplana-y-castellon
+  co_consecrateurs:
+  - juan-luengo-pinto
+  - juan-lorenzo-de-irigoyen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcornel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barbastro, Spain
+  du: '1773-04-19'
+  au: '1789-10-08'
+- titre: Évêque de Barbastro
+  du: '1773-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747089
+  catholic_hierarchy: bcornel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:06:34+00:00'
+  completeness: 1.0

@@ -1,0 +1,38 @@
+slug: agapito-de-gaeta
+nom: Agapito de Gaeta
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaetaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ascoli Satriano (Puglia), Italy
+  du: '1509-05-23'
+  au: 1512&sup2;
+- titre: évêque diocésain
+  du: '1509-06-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68903884
+  catholic_hierarchy: bgaetaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:03:07+00:00'
+  completeness: 0.25

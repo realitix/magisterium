@@ -1,0 +1,44 @@
+slug: jean-de-caulet
+nom: Jean de Caulet
+nom_complet: null
+naissance: '1693-04-06'
+deces: '1771-09-27'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: Grenoble, Diocese of Grenoble
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1726-04-14'
+  consecrateur_principal: louis-de-la-vergne-montenard-de-tressan-1670
+  co_consecrateurs:
+  - charles-de-beringhen
+  - alexandre-milon-de-mesme
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaulet.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Caulet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grenoble, France
+  du: null
+  au: '1771-09-27'
+- titre: évêque diocésain
+  du: '1725-12-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175343
+  catholic_hierarchy: bcaulet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:33:35+00:00'
+  completeness: 1.0

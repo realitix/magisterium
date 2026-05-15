@@ -1,0 +1,59 @@
+slug: antal-spanyi
+nom: Antal Spányi
+nom_complet: null
+naissance: '1950-11-13'
+deces: null
+naissance_lieu: Budapest
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1998-03-28'
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - csaba-ternyak
+  - vilmos-dekany
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspanyi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom-Budapest, Hungary
+  du: '1998-02-13'
+  au: null
+- titre: Titular Bishop of Tharros
+  du: '1998-02-13'
+  au: null
+- titre: Bishop of Székesfehérvár (Albareale), Hungary
+  du: '2003-04-04'
+  au: null
+- titre: évêque titulaire
+  du: '1998-02-13'
+  au: '2003-04-04'
+- titre: évêque auxiliaire
+  du: '1998-02-13'
+  au: '2003-04-04'
+- titre: évêque de Székesfehérvár
+  du: '2003-04-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/SpanyiAntalFotoThalerTamas.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q536047
+  catholic_hierarchy: bspanyi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:31:25+00:00'
+  completeness: 0.88

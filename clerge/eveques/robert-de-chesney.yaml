@@ -1,0 +1,49 @@
+slug: robert-de-chesney
+nom: Robert de Chesney
+nom_complet: null
+naissance: null
+deces: '1168-01-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1148-12-19'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - non-indexe-b42390b0
+  - non-indexe-8466731c
+  - gilbert-foliot
+  - non-indexe-46993c24
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchesney.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1148-12-13'
+  au: '1168-01-26'
+- titre: évêque de Lincoln
+  du: '1148-12-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20de%20Chesney%2C%20bishop%20of%20Lincoln%20-%20seal%2C%201152.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5400158
+  catholic_hierarchy: bchesney
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:45:02+00:00'
+  completeness: 0.88

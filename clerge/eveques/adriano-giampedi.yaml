@@ -1,0 +1,44 @@
+slug: adriano-giampedi
+nom: Adriano Giampedi
+nom_complet: null
+naissance: '1785-10-14'
+deces: '1850-10-11'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1842-01-30'
+  lieu: S. Maria in Trastevere, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - giuseppe-maria-vespignani
+  - giovanni-giuseppe-canali
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiampedi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alatri, Italy
+  du: '1842-01-24'
+  au: '1850-10-11'
+- titre: évêque diocésain
+  du: '1842-01-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734208
+  catholic_hierarchy: bgiampedi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:21:16+00:00'
+  completeness: 1.0

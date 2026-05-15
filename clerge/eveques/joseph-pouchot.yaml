@@ -1,0 +1,42 @@
+slug: joseph-pouchot
+nom: Joseph Pouchot
+nom_complet: '[Constitutional Bishop Joseph Pouchot]'
+naissance: '1720-11-09'
+deces: '1792-09-07'
+naissance_lieu: Grenoble
+deces_lieu: Grenoble
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-04-03'
+  lieu: Notre-Dame, Paris, Archdiocese of Paris
+  consecrateur_principal: constitutional-bishop-antoine-adrien-lamourette-c-m
+  co_consecrateurs:
+  - jean-francois-perier
+  - jacques-guillaume-rene-francois-prudhomme
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpouchot.html
+  - https://fr.wikipedia.org/wiki/Joseph_Pouchot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Isère (Constitutional), France]
+  du: null
+  au: '1792-09-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816517
+  catholic_hierarchy: bpouchot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:21+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: barthold-nihus
+nom: Barthold Nihus
+nom_complet: Berthold Nihus
+naissance: '1590-02-07'
+deces: '1657-03-10'
+naissance_lieu: Holtorf
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1655-06-06'
+  consecrateur_principal: jean-philippe-de-schonborn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnihus.html
+  - https://fr.wikipedia.org/wiki/Barthold_Nihus
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mainz, Germany
+  du: '1655-04-21'
+  au: '1657-03-10'
+- titre: Titular Bishop of Missene (Mysia)
+  du: '1655-04-21'
+  au: null
+- titre: évêque auxiliaire
+  du: '1655-04-21'
+  au: null
+- titre: évêque titulaire
+  du: '1655-04-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4865201
+  catholic_hierarchy: bnihus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:11+00:00'
+  completeness: 0.88

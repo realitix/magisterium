@@ -1,0 +1,35 @@
+slug: luis-de-vivaldi-o-p
+nom: Luis de Vivaldi, O.P.
+nom_complet: Luis de Vivaldi
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvivald.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albania
+  du: '1519-09-19'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64780048
+  catholic_hierarchy: bvivald
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:43:35+00:00'
+  completeness: 0.25

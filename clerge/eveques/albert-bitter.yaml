@@ -1,0 +1,84 @@
+slug: albert-bitter
+nom: Albert Bitter
+nom_complet: null
+naissance: '1848-08-15'
+deces: '1926-12-19'
+naissance_lieu: Melle, Diocese of Hildesheim, Germany
+deces_lieu: Melle, Diocese of Osnabrück, Germany
+rang: archeveque
+nationalite: SE
+tampon: ordo_validus
+sacre:
+  date: '1893-09-24'
+  lieu: Osnabrück, Diocese of Osnabrück, Germany
+  consecrateur_principal: bernhard-hoting
+  co_consecrateurs:
+  - hermann-dingelstad
+  - johannes-von-euch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbitter.html
+  - https://gcatholic.org/p/8646
+  - https://fr.wikipedia.org/wiki/Albert_Bitter
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Sweden
+  du: '1886-07-27'
+  au: null
+- titre: Titular Bishop of Doliche
+  du: '1893-05-23'
+  au: null
+- titre: Titular Archbishop of Soltania
+  du: '1922-10-09'
+  au: null
+- titre: Vicar Apostolic Emeritus of Sweden
+  du: null
+  au: '1926-12-19'
+- titre: Vicar Apostolic
+  siege: Sweden
+  du: '1886-07-27'
+  au: '1922-10-09'
+- titre: Titular Bishop
+  siege: Doliche
+  du: '1893-06-15'
+  au: '1922-10-09'
+- titre: Titular Archbishop
+  siege: Soltania
+  du: '1922-10-09'
+  au: '1926-12-19'
+- titre: archevêque catholique
+  du: '1922-10-09'
+  au: null
+- titre: Apostolic Vicar of Sweden
+  du: '1886-07-27'
+  au: '1922-10-09'
+- titre: évêque titulaire
+  du: '1893-05-23'
+  au: '1922-10-09'
+- titre: archevêque titulaire
+  du: '1922-10-09'
+  au: '1926-12-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bitter.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q78346
+  catholic_hierarchy: bbitter
+  gcatholic: '8646'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:10+00:00'
+  completeness: 1.0
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:42+00:00'
+  completeness: 0.88

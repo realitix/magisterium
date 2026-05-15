@@ -1,0 +1,48 @@
+slug: robert-bloett
+nom: Robert Bloett
+nom_complet: null
+naissance: null
+deces: '1123-01-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '12'
+  consecrateur_principal: st-anselm-of-canterbury-o-s-b
+  co_consecrateurs:
+  - non-indexe-4e3943a4
+  - ralph-de-luffa
+  - non-indexe-733f26cd
+  - jean-de-tours
+  - guillaume-de-saint-calais
+  - non-indexe-ba526742
+  - non-indexe-2b4d595c
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbloett.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: 1093&sup1;
+  au: '1123-01-10'
+- titre: évêque de Lincoln
+  du: '1093-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762757
+  catholic_hierarchy: bbloett
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:23+00:00'
+  completeness: 0.88

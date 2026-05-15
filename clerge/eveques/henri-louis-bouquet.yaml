@@ -1,0 +1,51 @@
+slug: henri-louis-bouquet
+nom: Henri-Louis Bouquet
+nom_complet: Henri-Louis-Alfred Bouquet
+naissance: '1839-12-31'
+deces: '1926-03-13'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1901-06-29'
+  consecrateur_principal: eudoxe-irenee-mignot
+  co_consecrateurs:
+  - edwin-bonnefoy
+  - felix-beguinot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbouqh.html
+  - https://fr.wikipedia.org/wiki/Henri-Louis_Bouquet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: '1906-02-21'
+  au: '1926-03-13'
+- titre: évêque diocésain
+  du: '1901-04-05'
+  au: '1906-02-21'
+- titre: évêque diocésain
+  du: '1906-02-21'
+  au: '1926-03-13'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henri-Louis%20Bouquet%20dans%20Le%20Matin%20du%2010%20d%C3%A9cembre%201906.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2384957
+  catholic_hierarchy: bbouqh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:23+00:00'
+  completeness: 1.0

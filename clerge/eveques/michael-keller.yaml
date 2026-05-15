@@ -1,0 +1,44 @@
+slug: michael-keller
+nom: Michael Keller
+nom_complet: null
+naissance: '1896-02-16'
+deces: '1961-11-07'
+naissance_lieu: Siegen, Diocese of Osnabrück
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1947-10-28'
+  lieu: Cathedral, Münster, Diocese of Münster
+  consecrateur_principal: josef-cardinal-frings
+  co_consecrateurs:
+  - wilhelm-berning
+  - heinrich-roleff
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkelle.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Münster, Germany
+  du: '1947-07-19'
+  au: '1961-11-07'
+- titre: évêque de Münster
+  du: '1947-07-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1928144
+  catholic_hierarchy: bkelle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:10:20+00:00'
+  completeness: 1.0

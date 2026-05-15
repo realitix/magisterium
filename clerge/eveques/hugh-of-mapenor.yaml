@@ -1,0 +1,45 @@
+slug: hugh-of-mapenor
+nom: Hugh of Mapenor
+nom_complet: Hugh de Mapenor
+naissance: '1150'
+deces: '1219-04-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1216-12-18'
+  consecrateur_principal: silvester-of-evesham-o-s-b
+  co_consecrateurs:
+  - simon-rochfort
+  - non-indexe-a4fa3e3b
+  - henry-of-abergavenny
+  - gervase-jorwerth
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmapenor.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: 1216&sup1;
+  au: '1219-04-13'
+- titre: évêque de Hereford
+  du: '1216-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5933198
+  catholic_hierarchy: bmapenor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:23:17+00:00'
+  completeness: 0.88

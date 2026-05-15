@@ -1,0 +1,44 @@
+slug: bernado-folcaut
+nom: Bernado Folcaut
+nom_complet: null
+naissance: '1315'
+deces: '1377-06-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q200262
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfolcaut.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Huesca, Spain
+  du: '1362-03-11'
+  au: null
+- titre: Bishop of Pamplona, Spain
+  du: '1364-01-24'
+  au: '1377-06-07'
+- titre: évêque de Huesca
+  du: '1362-03-19'
+  au: '1364-02-01'
+- titre: évêque de Pampelune
+  du: '1364-02-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108450174
+  catholic_hierarchy: bfolcaut
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:49:58+00:00'
+  completeness: 0.38

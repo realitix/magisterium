@@ -1,0 +1,50 @@
+slug: heinrich-i-1200-b5876b
+nom: Heinrich I.
+nom_complet: Heinrich von Mariasall
+naissance: '1200'
+deces: '1243-10-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1232-05-30'
+  consecrateur_principal: eberhard-von-regensburg
+  co_consecrateurs:
+  - rudiger-von-bergheim
+  - ulrich-von-haus
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarias.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Seckau, Austria
+  du: Aug 1231&sup3;
+  au: '1243-10-07'
+- titre: évêque
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Seckau
+  du: '1231-08-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Basilika%20Seckau%2C%20Bischofskapelle%2C%20Halbfigurenportrait%20Bischof%20Heinrich%20I.%20%28Seckau%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1597718
+  catholic_hierarchy: bmarias
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:14+00:00'
+  completeness: 0.88

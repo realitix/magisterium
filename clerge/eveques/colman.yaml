@@ -1,0 +1,38 @@
+slug: colman
+nom: Colman
+nom_complet: Columbanus Lindisfarniensis
+naissance: '605'
+deces: '0676-08-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Colman_de_Lindisfarne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Lindisfarne
+  du: '0661-01-01'
+  au: '0664-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lindisfarne%20Abbey%20and%20St%20Marys.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1110134
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67

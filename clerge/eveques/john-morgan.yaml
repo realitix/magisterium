@@ -1,0 +1,39 @@
+slug: john-morgan
+nom: John Morgan
+nom_complet: null
+naissance: null
+deces: '1504-05-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Nov 1496&sup3;
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorganj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: '1496-08-03'
+  au: '1504-05-15'
+- titre: Roman Catholic bishop of St Davids
+  du: '1496-08-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q13129337
+  catholic_hierarchy: bmorganj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:12:17+00:00'
+  completeness: 0.5

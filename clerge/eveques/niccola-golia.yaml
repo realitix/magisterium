@@ -1,0 +1,44 @@
+slug: niccola-golia
+nom: Niccola Golia
+nom_complet: null
+naissance: '1795-03-19'
+deces: '1873-04-27'
+naissance_lieu: Cosenza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1839-09-01'
+  lieu: S. Michel
+  consecrateur_principal: emmanuele-de-gregorio
+  co_consecrateurs:
+  - antonio-luigi-piatti
+  - ignazio-giovanni-cadolini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgolia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cariati, Italy
+  du: null
+  au: '1873-04-27'
+- titre: Roman Catholic Bishop of Cariati
+  du: '1839-05-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736054
+  catholic_hierarchy: bgolia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:30:55+00:00'
+  completeness: 1.0

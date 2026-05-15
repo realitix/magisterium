@@ -1,0 +1,39 @@
+slug: alphonse-vercelli
+nom: Alphonse Vercelli
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvercelli.html
+  - https://fr.wikipedia.org/wiki/Alphonse_Vercelli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodève, France
+  du: '1570-02-10'
+  au: 1573&sup2;
+- titre: évêque diocésain
+  du: '1570-02-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30727106
+  catholic_hierarchy: bvercelli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:43+00:00'
+  completeness: 0.25

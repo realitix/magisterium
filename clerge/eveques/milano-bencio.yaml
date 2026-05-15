@@ -1,0 +1,44 @@
+slug: milano-bencio
+nom: Milano Bencio
+nom_complet: null
+naissance: '1606'
+deces: '1657'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-06-01'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giulio-roma
+  co_consecrateurs:
+  - lelio-cardinal-falconieri
+  - bernardo-florio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbenzio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Canea (Cydonia, Egée), Greece
+  du: '1642-05-26'
+  au: 1657&sup1;
+- titre: évêque diocésain
+  du: '1642-05-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751940
+  catholic_hierarchy: bbenzio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:18:18+00:00'
+  completeness: 0.75

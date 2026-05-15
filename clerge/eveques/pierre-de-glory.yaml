@@ -1,0 +1,43 @@
+slug: pierre-de-glory
+nom: Pierre de Glory
+nom_complet: null
+naissance: '1778'
+deces: '1821-08-21'
+naissance_lieu: Saint-Amans-Valtoret, France
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1820-07-16'
+  consecrateur_principal: giulio-maria-della-somaglia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bglory.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic
+  du: '1820-07-14'
+  au: '1821-08-21'
+- titre: Titular Bishop of Macri
+  du: '1820-07-14'
+  au: null
+- titre: évêque titulaire
+  du: '1820-07-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746440
+  catholic_hierarchy: bglory
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:28:28+00:00'
+  completeness: 0.88

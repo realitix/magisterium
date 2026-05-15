@@ -1,0 +1,300 @@
+---
+import Clerc from '../../layouts/Clerc.astro';
+import { getAllClerics, tamponOf, getStats, siecleDe, type Tampon } from '../../data/loadClerge';
+
+const stats = getStats();
+const all = getAllClerics();
+
+// Recalcul des tampons (le stats.json ne stocke pas par_tampon par construction).
+const tampons: Record<Tampon, number> = { ordo_validus: 0, ordo_dubius: 0, ordo_incertus: 0 };
+const tamponBySiecle: Record<number, Record<Tampon, number>> = {};
+
+for (const c of all) {
+  const t = tamponOf(c.slug);
+  tampons[t]++;
+  const s = siecleDe(c.naissance_annee);
+  if (s !== null) {
+    tamponBySiecle[s] ??= { ordo_validus: 0, ordo_dubius: 0, ordo_incertus: 0 };
+    tamponBySiecle[s][t]++;
+  }
+}
+
+const siecles = Object.keys(tamponBySiecle).map(Number).sort((a, b) => a - b);
+const maxSiecleCount = Math.max(
+  1,
+  ...siecles.map((s) => tamponBySiecle[s].ordo_validus + tamponBySiecle[s].ordo_dubius + tamponBySiecle[s].ordo_incertus),
+);
+
+// Top fraternités (hors `rome` qui domine massivement)
+const fraternitesEntries = Object.entries(stats.par_fraternite ?? {})
+  .filter(([k]) => k && k !== 'rome' && k !== 'null')
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 20);
+
+const total = all.length;
+const pct = (n: number) => (total > 0 ? ((n / total) * 100).toFixed(1) : '0');
+
+const tamponLabels: Record<Tampon, string> = {
+  ordo_validus: 'Ordo validus',
+  ordo_dubius: 'Ordo dubius',
+  ordo_incertus: 'Ordo incertus',
+};
+const tamponColors: Record<Tampon, string> = {
+  ordo_validus: '#1b3a6b',
+  ordo_dubius: '#8b1a1a',
+  ordo_incertus: '#2a2420',
+};
+---
+
+<Clerc title="Statistiques du clergé — Magisterium" description={`Répartition des ${total.toLocaleString('fr-FR')} évêques recensés par siècle, fraternité et tampon.`}>
+  <header>
+    <h1>Statistiques du corpus prosopographique</h1>
+    <p class="intro">
+      Le corpus recense actuellement <strong>{total.toLocaleString('fr-FR')} évêques catholiques</strong>,
+      issus du croisement de Wikidata, catholic-hierarchy.org et gcatholic.org, enrichis
+      manuellement pour les lignées tradi/sédévacantistes absentes des sources publiques.
+      Le tampon est calculé mécaniquement à partir du rite documenté à chaque sacre dans
+      la chaîne ascendante — voir la fiche Q/R
+      <a href="/questions/validite-rite-episcopal-1968/">sur la validité du rite de 1968</a>
+      pour le fondement doctrinal.
+    </p>
+  </header>
+
+  <section class="stat-section">
+    <h2>Répartition par tampon</h2>
+    <div class="stat-grid">
+      {(Object.keys(tampons) as Tampon[]).map((t) => (
+        <div class="stat-card" style={`--card-color: ${tamponColors[t]}`}>
+          <div class="stat-label">{tamponLabels[t]}</div>
+          <div class="stat-value">{tampons[t].toLocaleString('fr-FR')}</div>
+          <div class="stat-pct">{pct(tampons[t])} %</div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="stat-section">
+    <h2>Répartition par siècle de naissance</h2>
+    <p class="explain">
+      Chaque barre montre la composition d'un siècle. La domination de l'<em>ordo incertus</em>
+      sur les siècles anciens reflète le manque de données sur les chaînes de consécration
+      médiévales. La bascule rouge à partir du <abbr title="vingtième">XX<sup>e</sup></abbr>
+      siècle est attendue (rite de 1968).
+    </p>
+    <div class="bar-chart">
+      {siecles.map((s) => {
+        const data = tamponBySiecle[s];
+        const sum = data.ordo_validus + data.ordo_dubius + data.ordo_incertus;
+        const pctWidth = (sum / maxSiecleCount) * 100;
+        return (
+          <div class="bar-row">
+            <div class="bar-label">{s}<sup>e</sup></div>
+            <div class="bar-track" style={`width: ${pctWidth}%`}>
+              {data.ordo_validus > 0 && (
+                <div class="bar bar-validus" style={`flex: ${data.ordo_validus}`}
+                  title={`Ordo validus : ${data.ordo_validus}`}></div>
+              )}
+              {data.ordo_dubius > 0 && (
+                <div class="bar bar-dubius" style={`flex: ${data.ordo_dubius}`}
+                  title={`Ordo dubius : ${data.ordo_dubius}`}></div>
+              )}
+              {data.ordo_incertus > 0 && (
+                <div class="bar bar-incertus" style={`flex: ${data.ordo_incertus}`}
+                  title={`Ordo incertus : ${data.ordo_incertus}`}></div>
+              )}
+            </div>
+            <div class="bar-count">{sum.toLocaleString('fr-FR')}</div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="stat-section">
+    <h2>Top fraternités, instituts et ordres religieux</h2>
+    <p class="explain">
+      Hors clergé séculier de communion romaine. Les chiffres incluent les ordres
+      réguliers (jésuites, dominicains, franciscains, bénédictins…) ainsi que les
+      fraternités traditionalistes et sédévacantistes.
+    </p>
+    <ul class="frat-rank">
+      {fraternitesEntries.map(([k, n]) => (
+        <li>
+          <a href={`/clerge/fraternite/${k}/`} class="frat-rank-link">
+            <span class="frat-rank-name">{k}</span>
+            <span class="frat-rank-bar" style={`--w: ${(n / fraternitesEntries[0][1]) * 100}%`}></span>
+            <span class="frat-rank-count">{n.toLocaleString('fr-FR')}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="stat-section">
+    <h2>Complétude des données</h2>
+    <div class="stat-grid">
+      <div class="stat-card">
+        <div class="stat-label">Avec photo</div>
+        <div class="stat-value">{(stats.avec_photo ?? 0).toLocaleString('fr-FR')}</div>
+        <div class="stat-pct">{pct(stats.avec_photo ?? 0)} %</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Consécrateur connu</div>
+        <div class="stat-value">{(stats.avec_consecrateur_connu ?? 0).toLocaleString('fr-FR')}</div>
+        <div class="stat-pct">{pct(stats.avec_consecrateur_connu ?? 0)} %</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Date de sacre connue</div>
+        <div class="stat-value">{(stats.avec_date_sacre ?? 0).toLocaleString('fr-FR')}</div>
+        <div class="stat-pct">{pct(stats.avec_date_sacre ?? 0)} %</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Cross-sourcés ≥ 2</div>
+        <div class="stat-value">{(stats.cross_source_matches ?? 0).toLocaleString('fr-FR')}</div>
+        <div class="stat-pct">{pct(stats.cross_source_matches ?? 0)} %</div>
+      </div>
+    </div>
+  </section>
+
+  <p class="footnote">
+    Les valeurs <em>ordo incertus</em> diminuent au fur et à mesure que le run complet
+    de catholic-hierarchy.org enrichit le corpus (chaînes de consécration complètes).
+  </p>
+</Clerc>
+
+<style>
+  h1 {
+    font-family: var(--font-display);
+    margin: 0 0 var(--space-l);
+  }
+  .intro {
+    line-height: 1.65;
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-xl);
+  }
+  .stat-section {
+    margin-bottom: var(--space-2xl);
+  }
+  .stat-section h2 {
+    font-family: var(--font-display);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.3em;
+    margin-bottom: var(--space-m);
+  }
+  .explain {
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+    line-height: 1.5;
+    margin: 0 0 var(--space-m);
+  }
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: var(--space-m);
+  }
+  .stat-card {
+    padding: var(--space-m);
+    background: var(--paper-soft, #f5f1e8);
+    border-left: 4px solid var(--card-color, var(--ink));
+    border-radius: 3px;
+  }
+  .stat-label {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-soft);
+  }
+  .stat-value {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0.3em 0 0.1em;
+  }
+  .stat-pct {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+  }
+  .bar-chart {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35em;
+  }
+  .bar-row {
+    display: grid;
+    grid-template-columns: 50px 1fr auto;
+    align-items: center;
+    gap: 0.6em;
+  }
+  .bar-label {
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    text-align: right;
+    color: var(--ink-soft);
+  }
+  .bar-track {
+    display: flex;
+    height: 18px;
+    min-width: 2px;
+    background: transparent;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .bar {
+    height: 100%;
+  }
+  .bar-validus { background: #1b3a6b; }
+  .bar-dubius { background: #8b1a1a; }
+  .bar-incertus { background: #6b5b4f; }
+  .bar-count {
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    font-variant-numeric: tabular-nums;
+  }
+  .frat-rank {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+  }
+  .frat-rank-link {
+    display: grid;
+    grid-template-columns: 220px 1fr 70px;
+    gap: 0.6em;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    padding: 0.4em 0.6em;
+    border-radius: 3px;
+    transition: background 0.15s;
+  }
+  .frat-rank-link:hover {
+    background: var(--paper-soft, #f5f1e8);
+  }
+  .frat-rank-name {
+    font-family: var(--font-display);
+    font-weight: 600;
+  }
+  .frat-rank-bar {
+    display: block;
+    height: 10px;
+    background: linear-gradient(to right, var(--ink) 0%, var(--ink) var(--w), transparent var(--w));
+    border-radius: 1px;
+    width: 100%;
+  }
+  .frat-rank-count {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+  }
+  .footnote {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--ink-soft);
+    text-align: center;
+    margin-top: var(--space-2xl);
+  }
+</style>

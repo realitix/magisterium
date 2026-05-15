@@ -1,0 +1,39 @@
+slug: pedro-dominguez
+nom: Pedro Domínguez
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Dec 1139&sup2;
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdomingp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Burgos, Spain
+  du: Nov 1139&sup2;
+  au: 1146&sup2;
+- titre: évêque de Burgos
+  du: '1139-11-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68868166
+  catholic_hierarchy: bdomingp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:59:42+00:00'
+  completeness: 0.38

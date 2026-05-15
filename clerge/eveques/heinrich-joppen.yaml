@@ -1,0 +1,58 @@
+slug: heinrich-joppen
+nom: Heinrich Jöppen
+nom_complet: Heinrich Joeppen
+naissance: '1853-03-09'
+deces: '1927-02-22'
+naissance_lieu: Hüls, Archdiocese of Köln {Cologne}
+deces_lieu: Hüls, Archdiocese of Köln {Cologne}
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1914-03-22'
+  lieu: Garrison, Church, Berlin
+  consecrateur_principal: felix-von-hartmann
+  co_consecrateurs:
+  - johannes-poggenburg
+  - karl-augustin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjoep.html
+  - https://fr.wikipedia.org/wiki/Heinrich_Joeppen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Germany, Military
+  du: '1913-10-01'
+  au: '1920-05-01'
+- titre: Titular Bishop of Cisamus
+  du: '1913-10-27'
+  au: null
+- titre: Bishop Emeritus of Germany, Military
+  du: null
+  au: '1927-02-22'
+- titre: Ordinaire militaire catholique d'Allemagne
+  du: '1913-01-01'
+  au: '1920-05-01'
+- titre: évêque titulaire
+  du: '1913-10-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Joeppen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1597881
+  catholic_hierarchy: bjoep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:02:12+00:00'
+  completeness: 1.0

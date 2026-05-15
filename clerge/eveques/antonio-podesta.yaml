@@ -1,0 +1,43 @@
+slug: antonio-podesta
+nom: Antonio Podestá
+nom_complet: null
+naissance: '1772-06-04'
+deces: '1836-02-17'
+naissance_lieu: Albaro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1828-03-02'
+  consecrateur_principal: giuseppe-spina
+  co_consecrateurs:
+  - pietro-caprano
+  - luigi-bottiglia-savoulx
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpodes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saluzzo, Italy
+  du: null
+  au: '1836-02-17'
+- titre: évêque diocésain
+  du: '1827-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760691
+  catholic_hierarchy: bpodes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:39:46+00:00'
+  completeness: 1.0

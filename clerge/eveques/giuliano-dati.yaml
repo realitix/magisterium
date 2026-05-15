@@ -1,0 +1,45 @@
+slug: giuliano-dati
+nom: Giuliano Dati
+nom_complet: null
+naissance: '1445'
+deces: '1539-12-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1518-03-28'
+  consecrateur_principal: lorenzo-pucci-1458
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdati.html
+  - https://fr.wikipedia.org/wiki/Giuliano_Dati
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Leone, Italy
+  du: '1518-02-26'
+  au: '1539-12-29'
+- titre: évêque de San Leone
+  du: '1518-03-08'
+  au: '1524-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Isole%20trovate%20nuovamente%20per%20el%20re%20di%20spagna.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1527917
+  catholic_hierarchy: bdati
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:29:51+00:00'
+  completeness: 0.75

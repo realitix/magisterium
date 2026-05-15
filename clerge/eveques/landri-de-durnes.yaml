@@ -1,0 +1,41 @@
+slug: landri-de-durnes
+nom: Landri de Durnes
+nom_complet: Landri Dornac
+naissance: '1100'
+deces: '1178-12-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Feb 1160&sup3;
+  consecrateur_principal: non-indexe-6f8370ef
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdornac.html
+  - https://fr.wikipedia.org/wiki/Landri_de_Durnes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: 1160&sup1;
+  au: '1178-12-07'
+- titre: évêque de Lausanne
+  du: '1160-01-01'
+  au: '1178-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q921804
+  catholic_hierarchy: bdornac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:02:21+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: ralph-of-maidstone-o-f-m
+nom: Ralph of Maidstone, O.F.M.
+nom_complet: Ralph de Maidstone
+naissance: '1200'
+deces: '1245-02-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1234-11-12'
+  consecrateur_principal: edmund-rich
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaidstr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1234-09-30'
+  au: '1239-12-17'
+- titre: Bishop Emeritus of Hereford, England, Great Britain
+  du: null
+  au: 1244&sup1;
+- titre: évêque de Hereford
+  du: '1234-10-07'
+  au: '1239-12-24'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q7288320
+  catholic_hierarchy: bmaidstr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:14:50+00:00'
+  completeness: 0.62

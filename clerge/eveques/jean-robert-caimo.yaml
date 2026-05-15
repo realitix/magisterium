@@ -1,0 +1,47 @@
+slug: jean-robert-caimo
+nom: Jean-Robert Caïmo
+nom_complet: Jan-Robert Caïmo
+naissance: '1711-04-21'
+deces: '1775-12-22'
+naissance_lieu: Bruselles
+deces_lieu: null
+rang: eveque
+nationalite: Q700283
+tampon: ordo_validus
+sacre:
+  date: '1754-06-16'
+  consecrateur_principal: thomas-philippe-d-henin-letard-d-alsace-boussut-de-chimay
+  co_consecrateurs:
+  - guillaume-delvaux
+  - maximilien-antoine-van-der-noot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaimo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: null
+  au: '1775-12-22'
+- titre: évêque de Bruges
+  du: '1753-12-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Joannes%20Robertus%20Gislenus%20Ca%C3%AFmo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q735610
+  catholic_hierarchy: bcaimo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:06:58+00:00'
+  completeness: 1.0

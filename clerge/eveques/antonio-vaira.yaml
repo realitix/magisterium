@@ -1,0 +1,50 @@
+slug: antonio-vaira
+nom: Antonio Vaira
+nom_complet: null
+naissance: '1649-01-28'
+deces: '1732-10-08'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1712-04-03'
+  lieu: S. Maria in Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  co_consecrateurs:
+  - pier-marcellino-corradini
+  - domenico-de-zaoli-zaulis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaira.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pore&#269; (Parenzo), Croatia
+  du: '1712-03-02'
+  au: null
+- titre: Bishop of Adria, Italy
+  du: '1717-07-12'
+  au: '1732-10-08'
+- titre: évêque d'Adria
+  du: '1717-07-12'
+  au: null
+- titre: évêque de Poreč
+  du: '1712-03-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3620287
+  catholic_hierarchy: bvaira
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:20:30+00:00'
+  completeness: 1.0

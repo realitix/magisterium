@@ -1,0 +1,47 @@
+slug: johann-schoner
+nom: Johann Schöner
+nom_complet: null
+naissance: null
+deces: '1651-09-24'
+naissance_lieu: Neustadt/Aisch
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1609-01-11'
+  lieu: St. Martin, Bamberg, Diocese of Bamberg
+  consecrateur_principal: eucharius-sang
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschoner.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bamberg, Germany
+  du: '1608-07-28'
+  au: '1651-09-24'
+- titre: Titular Bishop of Athyra
+  du: '1608-07-28'
+  au: null
+- titre: évêque auxiliaire
+  du: '1608-07-28'
+  au: null
+- titre: évêque titulaire
+  du: '1608-07-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751048
+  catholic_hierarchy: bschoner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:03:18+00:00'
+  completeness: 0.75

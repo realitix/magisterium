@@ -1,0 +1,34 @@
+slug: megingaud
+nom: Megingaud
+nom_complet: null
+naissance: '1000'
+deces: '1014'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/M%C3%A9gingaud_d%27Eichst%C3%A4tt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '0991-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1917165
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56

@@ -1,0 +1,51 @@
+slug: jozef-alojzy-pukalski
+nom: Józef Alojzy Pukalski
+nom_complet: null
+naissance: '1798-03-15'
+deces: '1885-01-06'
+naissance_lieu: Cieszyn
+deces_lieu: null
+rang: eveque
+nationalite: Q34266
+tampon: ordo_validus
+sacre:
+  date: '1852-05-23'
+  lieu: Vienna, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: michele-viale-prela
+  co_consecrateurs:
+  - johann-michael-leonhard
+  - franz-xaver-zenner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpuka.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarnów, Poland
+  du: null
+  au: '1885-01-06'
+- titre: membre de la diète de Galicie et Lodomérie
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1851-07-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Alojzy%20Pukalski.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q88992
+  catholic_hierarchy: bpuka
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:52:50+00:00'
+  completeness: 1.0

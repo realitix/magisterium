@@ -1,0 +1,55 @@
+slug: felix-fournier
+nom: Félix Fournier
+nom_complet: null
+naissance: '1803-05-02'
+deces: '1877-06-09'
+naissance_lieu: Nantes, Diocese of Nantes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1870-08-10'
+  lieu: St. Nicolas, Nantes, Diocese of Nantes
+  consecrateur_principal: godefroy-brossay-saint-marc
+  co_consecrateurs:
+  - charles-fillion
+  - armand-rene-maupoint
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfourf.html
+  - https://fr.wikipedia.org/wiki/F%C3%A9lix_Fournier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nantes, France
+  du: null
+  au: '1877-06-09'
+- titre: président ou présidente
+  du: '1857-01-01'
+  au: '1858-01-01'
+- titre: député de la Loire-Atlantique
+  du: '1848-04-23'
+  au: '1849-05-26'
+- titre: évêque de Nantes
+  du: '1870-01-01'
+  au: '1877-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20F%C3%A9lix%20Fournier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3092439
+  catholic_hierarchy: bfourf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:54:14+00:00'
+  completeness: 1.0

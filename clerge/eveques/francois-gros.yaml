@@ -1,0 +1,48 @@
+slug: francois-gros
+nom: François Gros
+nom_complet: null
+naissance: '1801-02-28'
+deces: '1883-12-08'
+naissance_lieu: Saint-Offenge-Dessous
+deces_lieu: null
+rang: eveque
+nationalite: Q2577303
+tampon: ordo_validus
+sacre:
+  date: '1867-05-01'
+  lieu: Cathedral, Chambéry, Archdiocese of Chambéry
+  consecrateur_principal: alexis-billiet
+  co_consecrateurs:
+  - francois-marie-vibert
+  - gaspard-mermillod
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrosf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Gros_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarentaise, France
+  du: null
+  au: '1873-03-03'
+- titre: Bishop Emeritus of Tarentaise, France
+  du: null
+  au: '1883-12-08'
+- titre: évêque de Tarentaise
+  du: '1866-09-20'
+  au: '1873-03-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3084777
+  catholic_hierarchy: bgrosf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:44:59+00:00'
+  completeness: 1.0

@@ -1,0 +1,54 @@
+slug: marc-antoine-de-noe
+nom: Marc-Antoine de Noé
+nom_complet: null
+naissance: '1724-04-01'
+deces: '1802-09-22'
+naissance_lieu: Sainte-Soulle
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1763-06-12'
+  consecrateur_principal: dominique-de-la-rochefoucauld
+  co_consecrateurs:
+  - antoine-de-lastic
+  - jean-baptiste-marie-champion-de-cice
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnoem.html
+  - https://fr.wikipedia.org/wiki/Marc-Antoine_de_No%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lescar, France
+  du: null
+  au: 7 Nov 1801&#8310;
+- titre: Bishop of Troyes, France
+  du: '1802-04-11'
+  au: '1802-09-22'
+- titre: évêque diocésain
+  du: '1802-04-11'
+  au: null
+- titre: évêque de Lescar
+  du: '1763-01-01'
+  au: '1801-11-07'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Mgr%20Marc-Antoine%20de%20No%C3%A9.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19958521
+  catholic_hierarchy: bnoem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:35:53+00:00'
+  completeness: 0.88

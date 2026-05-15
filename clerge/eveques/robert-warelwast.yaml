@@ -1,0 +1,45 @@
+slug: robert-warelwast
+nom: Robert Warelwast
+nom_complet: null
+naissance: null
+deces: '1160-03-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1155-06-05'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - non-indexe-eb14e836
+  - jocelin-de-bohon
+  - non-indexe-b42390b0
+  - non-indexe-8466731c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwarelr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: 1155&sup1;
+  au: '1160-03-22'
+- titre: évêque d'Exeter
+  du: '1155-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763703
+  catholic_hierarchy: bwarelr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:51:12+00:00'
+  completeness: 0.88

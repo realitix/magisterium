@@ -1,0 +1,43 @@
+slug: giacomo-guacci
+nom: Giacomo Guacci
+nom_complet: null
+naissance: '1696-03-26'
+deces: '1754-08-01'
+naissance_lieu: Canale
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1752-11-30'
+  consecrateur_principal: ferdinando-maria-de-rossi
+  co_consecrateurs:
+  - simone-gritti
+  - francesco-antonio-spadea
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguacci.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belcastro, Italy
+  du: '1752-11-27'
+  au: Aug 1754&sup3;
+- titre: évêque diocésain
+  du: '1752-11-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744814
+  catholic_hierarchy: bguacci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:46:17+00:00'
+  completeness: 0.88

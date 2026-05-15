@@ -1,0 +1,40 @@
+slug: matteo-de-balato
+nom: Matteo de Balato
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1253'
+  consecrateur_principal: non-indexe-669f9354
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalato.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teramo, Italy
+  du: '1252-12-31'
+  au: 1267&sup2;
+- titre: Roman Catholic Bishop of Teramo
+  du: '1253-01-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780728
+  catholic_hierarchy: bbalato
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:57:16+00:00'
+  completeness: 0.5

@@ -1,0 +1,52 @@
+slug: guillaume-brillet
+nom: Guillaume Brillet
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1447-06-04'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrillet.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Brillet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc, France
+  du: '1424-07-07'
+  au: null
+- titre: Bishop of Rennes, France
+  du: '1427-09-26'
+  au: '1447-05-26'
+- titre: Titular Archbishop of Caesarea in Cappadocia
+  du: '1447-05-26'
+  au: null
+- titre: évêque de Rennes
+  du: '1427-10-05'
+  au: '1447-06-04'
+- titre: évêque de Saint-Brieuc
+  du: '1424-07-16'
+  au: null
+- titre: archevêque titulaire
+  du: '1447-06-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3119718
+  catholic_hierarchy: bbrillet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:52:22+00:00'
+  completeness: 0.25

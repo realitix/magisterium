@@ -1,0 +1,40 @@
+slug: boetius-macegan
+nom: Boetius MacEgan
+nom_complet: Boetius Egan, O.F.M.
+naissance: null
+deces: '1650-05-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1648-04-05'
+  consecrateur_principal: giovanni-battista-rinuccini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beganboe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ross, Ireland
+  du: '1647-03-11'
+  au: '1650-05-21'
+- titre: évêque de Ross
+  du: '1647-03-11'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q4937248
+  catholic_hierarchy: beganboe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:19:13+00:00'
+  completeness: 0.75

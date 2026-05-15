@@ -1,0 +1,47 @@
+slug: nicolas-ii-1591
+nom: Nicolas II
+nom_complet: Nicolas de Grillier
+naissance: '1591'
+deces: '1660-02-12'
+naissance_lieu: Bray sur Marne
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  date: Jun 1631&sup3;
+  consecrateur_principal: claude-ruffier
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrille.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Grilli%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bazas, France
+  du: null
+  au: 1633&sup1;
+- titre: Bishop of Uzés, France
+  du: null
+  au: '1660-02-12'
+- titre: évêque diocésain
+  du: '1630-12-30'
+  au: '1633-01-01'
+- titre: évêque d'Uzès
+  du: '1633-04-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3340430
+  catholic_hierarchy: bgrille
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:43:09+00:00'
+  completeness: 0.62

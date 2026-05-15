@@ -1,0 +1,46 @@
+slug: domingo-de-santo-tomas
+nom: Domingo de Santo Tomás
+nom_complet: Domingo de Santo Tomás, O.P.
+naissance: '1499'
+deces: '1570-12-01'
+naissance_lieu: Sevilla, Archdiocese of Sevilla {Seville}, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1562-12-26'
+  lieu: Rosaire, Church, Lima, Archdiocese of Lima, Peru
+  consecrateur_principal: jeronimo-de-loayza
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsttom.html
+  - https://fr.wikipedia.org/wiki/Domingo_de_Santo_Tom%C3%A1s
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of La Plata o Charcas, Bolivia
+  du: '1562-07-06'
+  au: Dec 1570&sup3;
+- titre: évêque de de La Plata
+  du: '1562-07-16'
+  au: '1570-12-11'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Domingo%20de%20Santo%20Tom%C3%A1s.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q332023
+  catholic_hierarchy: bsttom
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:41:38+00:00'
+  completeness: 0.62

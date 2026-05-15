@@ -1,0 +1,52 @@
+slug: pierre-goux
+nom: Pierre Goux
+nom_complet: Pierre-Antoine-Paul Goux
+naissance: '1827-03-13'
+deces: '1904-04-29'
+naissance_lieu: Toulouse, Archdiocese of Toulouse (-Narbonne)
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1877-11-14'
+  lieu: S. Sernin, Toulouse, Archdiocese of Toulouse (-Narbonne)
+  consecrateur_principal: florian-desprez
+  co_consecrateurs:
+  - theodore-augustin-forcade
+  - joseph-christian-ernest-bourret
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgoux.html
+  - https://fr.wikipedia.org/wiki/Pierre_Goux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Versailles, France
+  du: null
+  au: '1904-04-29'
+- titre: évêque diocésain
+  du: '1877-07-25'
+  au: null
+- titre: évêque de Versailles
+  du: '1877-07-25'
+  au: '1904-04-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Pierre%20Paul%20Antoine%20Goux%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15970327
+  catholic_hierarchy: bgoux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:37:24+00:00'
+  completeness: 1.0

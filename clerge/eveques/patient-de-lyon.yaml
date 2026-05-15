@@ -1,0 +1,31 @@
+slug: patient-de-lyon
+nom: Patient de Lyon
+nom_complet: Patiens Lugdunensis
+naissance: '450'
+deces: '0490-09-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Patient_de_Lyon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Lyon
+  du: '0449-01-01'
+  au: '0490-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2528467
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.44

@@ -1,0 +1,56 @@
+slug: luigi-pirelli
+nom: Luigi Pirelli
+nom_complet: null
+naissance: '1895'
+deces: '1964-08-14'
+naissance_lieu: Varenna, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1952-04-27'
+  lieu: Nostra Signora della Grazia, Church, Benevento, Archdiocese of Benevento
+  consecrateur_principal: adeodato-giovanni-piazza
+  co_consecrateurs:
+  - diego-venini
+  - alberto-carinci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpire.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Andria, Italy
+  du: '1952-02-26'
+  au: '1957-01-08'
+- titre: Titular Bishop of Lysias
+  du: '1957-01-08'
+  au: null
+- titre: Bishop of Sovana e Pitigliano, Italy
+  du: '1963-08-14'
+  au: '1964-08-14'
+- titre: évêque titulaire
+  du: '1957-01-08'
+  au: null
+- titre: évêque diocésain
+  du: '1952-02-26'
+  au: '1957-01-08'
+- titre: évêque diocésain
+  du: '1963-08-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64720481
+  catholic_hierarchy: bpire
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:35:48+00:00'
+  completeness: 1.0

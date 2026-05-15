@@ -1,0 +1,49 @@
+slug: marino-ruffino
+nom: Marino Ruffino
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1545-03-21'
+  consecrateur_principal: girolamo-maccabei-de-toscanella
+  co_consecrateurs:
+  - luigi-magnasco-di-santa-fiora
+  - agostino-steuco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bruffno.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarno, Italy
+  du: '1544-10-27'
+  au: null
+- titre: Bishop of Melfi e Rapolla, Italy
+  du: '1547-02-07'
+  au: 1557&sup1;
+- titre: Roman Catholic Bishop of Melfi e Rapolla
+  du: '1547-02-17'
+  au: null
+- titre: Roman Catholic Bishop of Sarno
+  du: '1544-11-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779449
+  catholic_hierarchy: bruffno
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:34:56+00:00'
+  completeness: 0.75

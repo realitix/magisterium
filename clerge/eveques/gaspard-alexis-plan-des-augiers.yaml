@@ -1,0 +1,44 @@
+slug: gaspard-alexis-plan-des-augiers
+nom: Gaspard-Alexis Plan des Augiers
+nom_complet: Georges-Gaspard-Alexis de Plan des Augiers
+naissance: '1709-07-10'
+deces: '1794-01-16'
+naissance_lieu: Digne
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1742-02-24'
+  consecrateur_principal: pierre-guerin-de-tencin
+  co_consecrateurs:
+  - nicolas-navarre
+  - guillaume-d-hugues
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplan.html
+  - https://fr.wikipedia.org/wiki/Gaspard-Alexis_Plan_des_Augiers
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Die, France
+  du: null
+  au: '1794-01-16'
+- titre: évêque de Die
+  du: '1741-09-23'
+  au: '1794-01-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3098731
+  catholic_hierarchy: bplan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:02+00:00'
+  completeness: 1.0

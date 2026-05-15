@@ -1,0 +1,43 @@
+slug: gregory-xiii
+nom: Gregory XIII
+nom_complet: null
+naissance: '1502-01-07'
+deces: '1585-04-10'
+naissance_lieu: Bologna, Diocese of Bologna
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1558-08-06'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-maccabei-de-toscanella
+  co_consecrateurs:
+  - baldo-ferratini
+  - ludovico-cardinal-simonetta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vieste, Italy
+  du: '1558-07-20'
+  au: 20 Oct 1560&#8310;
+- titre: Cardinal-Priest of San Sisto
+  du: '1565-05-15'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1585-04-10'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bbonc
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:36:48+00:00'
+  completeness: 1.0

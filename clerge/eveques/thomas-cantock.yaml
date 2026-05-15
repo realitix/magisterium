@@ -1,0 +1,40 @@
+slug: thomas-cantock
+nom: Thomas Cantock
+nom_complet: Thomas Cantok
+naissance: null
+deces: '1308-02-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1306'
+  consecrateur_principal: richard-ferrings
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcantok.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Emly, Ireland
+  du: 1306&sup2;
+  au: '1308-02-03'
+- titre: évêque diocésain
+  du: '1306-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7788213
+  catholic_hierarchy: bcantok
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:42+00:00'
+  completeness: 0.75

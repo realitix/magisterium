@@ -1,0 +1,43 @@
+slug: bartolomeo-cartolario
+nom: Bartolomeo Cartolario
+nom_complet: null
+naissance: null
+deces: '1614-11-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1613-02-17'
+  consecrateur_principal: giovanni-cardinal-delfino
+  co_consecrateurs:
+  - ludovico-sarego
+  - coriolano-garzadori
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcartolar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chioggia, Italy
+  du: '1613-02-11'
+  au: Nov 1614&sup3;
+- titre: évêque diocésain
+  du: '1613-02-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24885105
+  catholic_hierarchy: bcartolar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:25:23+00:00'
+  completeness: 0.75

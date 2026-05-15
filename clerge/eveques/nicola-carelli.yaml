@@ -1,0 +1,43 @@
+slug: nicola-carelli
+nom: Nicola Carelli
+nom_complet: null
+naissance: '1748-03-11'
+deces: '1826-04-14'
+naissance_lieu: Conversano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1820-04-02'
+  consecrateur_principal: luigi-ruffo-scilla
+  co_consecrateurs:
+  - domenico-ventapane
+  - michelangelo-buono
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarellin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Conversano, Italy
+  du: null
+  au: '1826-04-14'
+- titre: Évêque de Conversano
+  du: '1820-02-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751696
+  catholic_hierarchy: bcarellin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:21:50+00:00'
+  completeness: 1.0

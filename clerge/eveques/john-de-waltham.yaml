@@ -1,0 +1,43 @@
+slug: john-de-waltham
+nom: John de Waltham
+nom_complet: null
+naissance: null
+deces: '1395-09-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1388-09-20'
+  consecrateur_principal: william-courtenay
+  co_consecrateurs:
+  - robert-braybrooke
+  - william-de-wykeham
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwaltham.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1388-07-13'
+  au: '1395-09-17'
+- titre: évêque diocésain
+  du: '1388-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763193
+  catholic_hierarchy: bwaltham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:50:11+00:00'
+  completeness: 0.88

@@ -1,0 +1,39 @@
+slug: fernando-martins
+nom: Fernando Martins
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1297-04-05'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartinsf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évora, Portugal
+  du: 1297&sup1;
+  au: 1313&sup1;
+- titre: Roman Catholic Bishop of Évora
+  du: '1297-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108463503
+  catholic_hierarchy: bmartinsf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:32:19+00:00'
+  completeness: 0.38

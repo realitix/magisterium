@@ -1,0 +1,40 @@
+slug: francois-de-simiane
+nom: François de Simiane
+nom_complet: François de Simiane, O. Cart.
+naissance: '1518-09-01'
+deces: '1587-05-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: georges-d-armagnac
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsimiaf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Simiane
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1571-05-18'
+  au: '1587-05-06'
+- titre: évêque diocésain
+  du: '1571-05-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28872659
+  catholic_hierarchy: bsimiaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:19:15+00:00'
+  completeness: 0.62

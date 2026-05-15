@@ -1,0 +1,63 @@
+slug: michael-helding
+nom: Michael Helding
+nom_complet: Michael Sidonius
+naissance: '1506'
+deces: '1561-09-30'
+naissance_lieu: Langenenslingen
+deces_lieu: Wien
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1538-04-21'
+  lieu: Aschaffenburg
+  consecrateur_principal: albert-de-brandebourg
+  co_consecrateurs:
+  - augustinus-marius
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bheld.html
+  - https://fr.wikipedia.org/wiki/Michael_Helding
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mainz, Germany
+  du: '1538-02-06'
+  au: null
+- titre: Titular Bishop of Sidon
+  du: '1538-02-06'
+  au: null
+- titre: Bishop of Merseburg, Germany
+  du: null
+  au: '1561-09-30'
+- titre: évêque diocésain
+  du: '1549-06-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '1538-02-16'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque titulaire
+  du: '1538-02-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Helding.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q109064
+  catholic_hierarchy: bheld
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:09+00:00'
+  completeness: 0.88

@@ -1,0 +1,61 @@
+slug: helmut-dieser
+nom: Helmut Dieser
+nom_complet: Helmut Karl Dieser
+naissance: '1962-05-15'
+deces: null
+naissance_lieu: Neuwied, Diocese of Trier
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2011-06-05'
+  lieu: Sankt Petrus, Cathedral, Trier, Diocese of Trier
+  consecrateur_principal: stephan-ackermann
+  co_consecrateurs:
+  - robert-brahm
+  - jorg-michael-peters
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdieser.html
+  - https://fr.wikipedia.org/wiki/Helmut_Dieser
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '2011-02-24'
+  au: null
+- titre: Titular Bishop of Narona
+  du: '2011-02-24'
+  au: null
+- titre: Bishop of Aachen, Germany
+  du: '2016-09-23'
+  au: null
+- titre: évêque titulaire
+  du: '2011-02-24'
+  au: '2016-09-23'
+- titre: évêque auxiliaire
+  du: '2011-06-05'
+  au: '2016-09-23'
+- titre: évêque d'Aix-la-Chapelle
+  du: '2016-09-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Dieser%2002.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q99814
+  catholic_hierarchy: bdieser
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:38+00:00'
+  completeness: 0.88

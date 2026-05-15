@@ -1,0 +1,40 @@
+slug: marco-vaccina
+nom: Marco Vaccina
+nom_complet: null
+naissance: '1620-04-25'
+deces: '1671-08-26'
+naissance_lieu: Afragola
+deces_lieu: null
+rang: eveque
+nationalite: Q173065
+tampon: ordo_validus
+sacre:
+  date: '1664-09-28'
+  consecrateur_principal: innocent-xi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaccina.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trevico, Italy
+  du: '1664-09-15'
+  au: '1671-08-26'
+- titre: évêque diocésain
+  du: '1664-09-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760541
+  catholic_hierarchy: bvaccina
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:19:53+00:00'
+  completeness: 0.88

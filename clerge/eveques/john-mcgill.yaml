@@ -1,0 +1,44 @@
+slug: john-mcgill
+nom: John McGill
+nom_complet: null
+naissance: '1809-11-04'
+deces: '1872-01-14'
+naissance_lieu: Philadelphia, PA, Diocese of Philadelphia, Pennsylvania
+deces_lieu: Richmond, Diocese of Richmond, Virginia
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1850-11-10'
+  lieu: St. Joseph, Cathedral, Bardstown, Diocese of Louisville, Kentucky
+  consecrateur_principal: peter-richard-kenrick
+  co_consecrateurs:
+  - richard-pius-miles
+  - martin-john-spalding
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcgill.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Richmond, Virginia, USA
+  du: '1850-07-23'
+  au: '1872-01-14'
+- titre: évêque diocésain
+  du: '1850-07-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6247772
+  catholic_hierarchy: bmcgill
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:44:08+00:00'
+  completeness: 1.0

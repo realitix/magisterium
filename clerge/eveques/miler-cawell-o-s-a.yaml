@@ -1,0 +1,39 @@
+slug: miler-cawell-o-s-a
+nom: Miler Cawell, O.S.A.
+nom_complet: Miler Cawell
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1591-05-15'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcawell.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Killala, Ireland
+  du: '1591-05-15'
+  au: null
+- titre: vicaire apostolique
+  du: '1591-05-15'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68865575
+  catholic_hierarchy: bcawell
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:34:50+00:00'
+  completeness: 0.25

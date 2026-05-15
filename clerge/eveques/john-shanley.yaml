@@ -1,0 +1,51 @@
+slug: john-shanley
+nom: John Shanley
+nom_complet: null
+naissance: '1852-01-04'
+deces: '1909-07-16'
+naissance_lieu: Albion, NY, Diocese of Buffalo, New York
+deces_lieu: Fargo, Diocese of Fargo, North Dakota
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1889-12-27'
+  lieu: St. Paul, Archdiocese of Saint Paul, Minnesota
+  consecrateur_principal: john-ireland
+  co_consecrateurs:
+  - thomas-langdon-grace
+  - martin-marty
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bshanley.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jamestown, North Dakota, USA
+  du: '1889-11-29'
+  au: null
+- titre: Bishop of Fargo, North Dakota, USA
+  du: null
+  au: '1909-07-16'
+- titre: évêque de Fargo
+  du: '1889-11-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Shanley%20%28bishop%29%20-%20Portrait.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6257409
+  catholic_hierarchy: bshanley
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:14:34+00:00'
+  completeness: 1.0

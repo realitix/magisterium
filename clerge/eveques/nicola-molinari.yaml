@@ -1,0 +1,49 @@
+slug: nicola-molinari
+nom: Nicola Molinari
+nom_complet: Nicola Molinari, O.F.M. Cap.
+naissance: '1707-03-10'
+deces: '1792-01-18'
+naissance_lieu: Lagonegro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1778-06-07'
+  consecrateur_principal: innocenzo-conti
+  co_consecrateurs:
+  - marcantonio-conti
+  - girolamo-volpi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmolinn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ravello e Scala, Italy
+  du: '1778-06-01'
+  au: null
+- titre: Bishop of Bovino, Italy
+  du: '1783-12-15'
+  au: '1792-01-18'
+- titre: Roman Catholic Bishop of Bovino
+  du: '1783-12-15'
+  au: null
+- titre: Roman Catholic Bishop of Ravello and Scala
+  du: '1778-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763480
+  catholic_hierarchy: bmolinn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:45+00:00'
+  completeness: 1.0

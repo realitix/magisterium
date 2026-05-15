@@ -1,0 +1,41 @@
+slug: baltasar-del-rio
+nom: Baltasar del Río
+nom_complet: null
+naissance: '1480'
+deces: '1540'
+naissance_lieu: Palencia, Diocese of Palencia, Spain
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1515-10-22'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: non-indexe-0afceb41
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelrio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Scala, Italy
+  du: '1515-10-22'
+  au: '1540-01-01'
+- titre: évêque diocésain
+  du: '1515-11-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747562
+  catholic_hierarchy: bdelrio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:40:57+00:00'
+  completeness: 0.62

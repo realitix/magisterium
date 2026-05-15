@@ -1,0 +1,52 @@
+slug: gyula-zichy
+nom: Gyula Zichy
+nom_complet: null
+naissance: '1871-11-07'
+deces: '1942-05-20'
+naissance_lieu: Nagyland
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1905-12-21'
+  co_consecrateurs:
+  - gyula-varosy
+  - gusztav-karoly-majlath
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzichy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1905-12-11'
+  au: null
+- titre: Archbishop of Kalocsa, Hungary
+  du: '1925-08-31'
+  au: '1942-05-20'
+- titre: évêque de Pécs
+  du: '1905-12-11'
+  au: null
+- titre: archevêque de Kalocsa-Kecskemét
+  du: '1925-08-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Zichy%20Gyula%20p%C3%A9csi%20p%C3%BCsp%C3%B6k%201905-45.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1467316
+  catholic_hierarchy: bzichy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:09:37+00:00'
+  completeness: 0.88

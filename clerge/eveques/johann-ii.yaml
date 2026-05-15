@@ -1,0 +1,45 @@
+slug: johann-ii
+nom: Johann II.
+nom_complet: Johann von Nassau
+naissance: '1300'
+deces: '1329'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnassauj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Nassau_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: '1328-04-26'
+  au: Apr 1329&sup3;
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque élu
+  du: '1328-05-04'
+  au: '1329-01-01'
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1694701
+  catholic_hierarchy: bnassauj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:26:17+00:00'
+  completeness: 0.25

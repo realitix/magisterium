@@ -1,0 +1,41 @@
+slug: louis-de-vigne
+nom: Louis de Vigne
+nom_complet: Louis de Vigne, O. Carm.
+naissance: '1558-10-30'
+deces: '1620-11-20'
+naissance_lieu: Avignon, Archdiocese of Avignon
+deces_lieu: Avignon, Archdiocese of Avignon
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1598-12-06'
+  lieu: Carmes, Avignon, Archdiocese of Avignon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvignel.html
+  - https://fr.wikipedia.org/wiki/Louis_de_Vigne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Uzés, France
+  du: '1598-09-18'
+  au: '1620-11-20'
+- titre: évêque d'Uzès
+  du: '1598-09-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3263573
+  catholic_hierarchy: bvignel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:38:03+00:00'
+  completeness: 0.62

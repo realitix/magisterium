@@ -1,0 +1,43 @@
+slug: bonaventura-bernardi
+nom: Bonaventura Bernardi
+nom_complet: null
+naissance: '1701-01-23'
+deces: '1781-02-21'
+naissance_lieu: Split
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1757-01-06'
+  consecrateur_principal: ludovico-calini
+  co_consecrateurs:
+  - nicolas-xavier-santamarie
+  - giambattista-bortoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbernardb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossero (Osor), Croatia
+  du: '1757-01-03'
+  au: '1781-02-21'
+- titre: évêque diocésain
+  du: '1757-01-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734384
+  catholic_hierarchy: bbernardb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:20:48+00:00'
+  completeness: 1.0

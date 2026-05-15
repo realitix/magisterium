@@ -1,0 +1,54 @@
+slug: gabor-antal-erdody
+nom: Gábor Antal Erdődy
+nom_complet: Gábor Antal Erd&#337;dy
+naissance: '1684-09-27'
+deces: '1744-09-26'
+naissance_lieu: Presbourg
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1715-01-13'
+  lieu: Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: agost-keresztely
+  co_consecrateurs:
+  - imre-esterhazy
+  - sigismund-von-kollonitsch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/berdodyg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Fesseë
+  du: '1714-11-19'
+  au: null
+- titre: Bishop of Eger, Hungary
+  du: null
+  au: '1744-09-26'
+- titre: évêque titulaire
+  du: '1714-11-19'
+  au: null
+- titre: évêque d'Eger
+  du: '1715-03-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Erd%C5%91dy%20G%C3%A1bor.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q990411
+  catholic_hierarchy: berdodyg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:23:25+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: pierre-tobie-yenni
+nom: Pierre Tobie Yenni
+nom_complet: Pierre-Tobie Yenni
+naissance: '1774-12-27'
+deces: '1845-12-08'
+naissance_lieu: Morlon
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1815-09-03'
+  consecrateur_principal: fabrizio-sceberras-testaferrata
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/byenni.html
+  - https://fr.wikipedia.org/wiki/Pierre_Tobie_Yenni
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1815-07-10'
+  au: null
+- titre: Bishop of Lausanne et Genève, Switzerland
+  du: null
+  au: '1845-12-08'
+- titre: évêque de Lausanne
+  du: '1815-07-10'
+  au: '1821-01-30'
+- titre: évêque de Lausanne, Genève et Fribourg
+  du: '1821-01-30'
+  au: '1845-12-08'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Tobie%20Yenni.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q63439067
+  catholic_hierarchy: byenni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:02:02+00:00'
+  completeness: 0.88

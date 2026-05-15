@@ -1,0 +1,40 @@
+slug: roger-niger
+nom: Roger Niger
+nom_complet: null
+naissance: '1173'
+deces: '1241-09-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1229-06-10'
+  consecrateur_principal: joceline-of-wells
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bniger.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: 1229&sup1;
+  au: '1241-09-29'
+- titre: évêque de Londres
+  du: '1229-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15979127
+  catholic_hierarchy: bniger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:03+00:00'
+  completeness: 0.75

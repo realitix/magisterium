@@ -1,0 +1,53 @@
+slug: patrick-ryan
+nom: Patrick Ryan
+nom_complet: null
+naissance: '1768'
+deces: '1819-03-09'
+naissance_lieu: Ballinakill, near Kilcock, Co. Kildare
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1805-02-02'
+  lieu: S. Nicolas, Dublin, Archdiocese of Dublin
+  consecrateur_principal: john-troy
+  co_consecrateurs:
+  - daniel-delany
+  - john-cruise
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bryap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Ferns, Ireland
+  du: '1804-10-02'
+  au: null
+- titre: Titular Bishop of Germanicia
+  du: '1804-10-02'
+  au: null
+- titre: Bishop of Ferns, Ireland
+  du: null
+  au: '1819-03-09'
+- titre: évêque diocésain
+  du: '1814-01-14'
+  au: null
+- titre: évêque titulaire
+  du: '1804-10-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762210
+  catholic_hierarchy: bryap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:38:18+00:00'
+  completeness: 0.88

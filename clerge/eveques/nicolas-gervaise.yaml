@@ -1,0 +1,43 @@
+slug: nicolas-gervaise
+nom: Nicolas Gervaise
+nom_complet: null
+naissance: '1663'
+deces: '1729-11-20'
+naissance_lieu: Paris, Archdiocese of Paris, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1726-06-11'
+  co_consecrateurs:
+  - nicolo-maria-lercari
+  - francesco-antonio-finy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgervaise.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Gervaise
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Horrea
+  du: '1726-06-03'
+  au: '1729-11-20'
+- titre: évêque titulaire
+  du: '1726-06-03'
+  au: '1729-11-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18736535
+  catholic_hierarchy: bgervaise
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:19:12+00:00'
+  completeness: 0.75

@@ -1,0 +1,50 @@
+slug: edward-story
+nom: Edward Story
+nom_complet: null
+naissance: '1401'
+deces: '1503-01-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1468-10-02'
+  consecrateur_principal: george-neville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstorey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1468-07-18'
+  au: null
+- titre: Bishop of Chichester, England, Great Britain
+  du: '1478-02-11'
+  au: '1503-01-29'
+- titre: évêque diocésain
+  du: '1468-07-27'
+  au: null
+- titre: Roman Catholic Bishop of Chichester
+  du: '1478-02-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Chichester%20Cathedral%2C%20July%202015%2010.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5345470
+  catholic_hierarchy: bstorey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:40:04+00:00'
+  completeness: 0.75

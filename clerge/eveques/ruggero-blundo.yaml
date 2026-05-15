@@ -1,0 +1,48 @@
+slug: ruggero-blundo
+nom: Ruggero Blundo
+nom_complet: Ruggero Blundo, O.S.B.
+naissance: '1801-06-18'
+deces: '1888-03-18'
+naissance_lieu: Palermo, Archdiocese of Palermo
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1858-03-21'
+  lieu: San Paolo fuori le Mura, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-d-andrea
+  co_consecrateurs:
+  - mariano-falcinelli-antoniacci
+  - antonio-ligi-bussi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblundo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cefalù, Italy
+  du: '1858-03-15'
+  au: '1888-03-18'
+- titre: Évêque de Cefalù
+  du: '1858-03-15'
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Blundo%20Ruggero.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16166096
+  catholic_hierarchy: bblundo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:49+00:00'
+  completeness: 1.0

@@ -1,0 +1,49 @@
+slug: clovis-catteau
+nom: Clovis Catteau
+nom_complet: Clovis-Nicolas-Joseph Catteau
+naissance: '1836-03-21'
+deces: '1915-11-28'
+naissance_lieu: Sains-les-Marquion
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1877-11-21'
+  lieu: Cathedral, Luçon, Diocese of Luçon
+  consecrateur_principal: jean-baptiste-joseph-lequette
+  co_consecrateurs:
+  - charles-emile-freppel
+  - amand-joseph-fava
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcatteau.html
+  - https://fr.wikipedia.org/wiki/Nicolas-Clovis-Joseph_Catteau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: null
+  au: '1915-11-28'
+- titre: évêque diocésain
+  du: '1877-08-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lu%C3%A7on%2C%20Cath%C3%A9drale%20Notre-Dame-de-l%27Assomption%2C%20Caveau%20des%20%C3%A9v%C3%AAques%204.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q43948021
+  catholic_hierarchy: bcatteau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:33:12+00:00'
+  completeness: 1.0

@@ -1,0 +1,82 @@
+slug: leon-xiii
+nom: Léon XIII
+nom_complet: Leo XIII
+naissance: '1810-03-02'
+deces: '1903-07-20'
+naissance_lieu: Carpineto, Diocese of Anagni
+deces_lieu: Apostolic Palace, Vatican, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1843-02-19'
+  lieu: San Lorenzo in Panisperna, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-lambruschini
+  co_consecrateurs:
+  - fabio-maria-asquini
+  - giuseppe-maria-castellani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpecci.html
+  - https://fr.wikipedia.org/wiki/L%C3%A9on_XIII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Tamiathis
+  du: '1843-01-27'
+  au: null
+- titre: Apostolic Nuncio to Belgium
+  du: '1843-01-28'
+  au: null
+- titre: Archbishop (Personal Title) of Perugia, Italy
+  du: '1846-01-19'
+  au: null
+- titre: Cardinal-Priest of San Crisogono
+  du: '1853-12-22'
+  au: null
+- titre: Chamberlain (Camerlengo) of the Apostolic Chamber
+  du: '1877-09-21'
+  au: null
+- titre: Bishop of Perugia, Italy
+  du: null
+  au: '1880-02-27'
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1903-07-20'
+- titre: archevêque titulaire
+  du: '1843-01-27'
+  au: null
+- titre: évêque de Pérouse
+  du: '1846-01-19'
+  au: '1880-02-27'
+- titre: camerlingue de la Chambre apostolique
+  du: '1877-09-21'
+  au: '1878-02-20'
+- titre: cardinal
+  du: '1853-12-19'
+  au: '1878-02-20'
+- titre: nonce apostolique en Belgique
+  du: '1843-02-19'
+  au: '1846-07-27'
+- titre: pape
+  du: '1878-02-20'
+  au: '1903-07-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Papa%20Leone%20XIII.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q43922
+  catholic_hierarchy: bpecci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:15:50+00:00'
+  completeness: 1.0

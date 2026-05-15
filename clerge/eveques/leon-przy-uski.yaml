@@ -1,0 +1,44 @@
+slug: leon-przy-uski
+nom: Leon Przyłuski
+nom_complet: Leon Micha&#322; von Przy&#322;uski
+naissance: '1789-10-05'
+deces: '1865-03-12'
+naissance_lieu: Strzeszynek
+deces_lieu: null
+rang: archeveque
+nationalite: Q172107
+tampon: ordo_validus
+sacre:
+  date: '1845-04-27'
+  consecrateur_principal: jan-kanty-dabrowski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprzyl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Gniezno e Pozna&#324;, Poland
+  du: null
+  au: '1865-03-12'
+- titre: Roman Catholic Archbishop of Gniezno and Poznań
+  du: '1845-04-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Przyluski%20%2899582509%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q967343
+  catholic_hierarchy: bprzyl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:51:43+00:00'
+  completeness: 0.88

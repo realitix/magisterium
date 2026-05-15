@@ -1,0 +1,43 @@
+slug: louis-de-cleves-o-s-a
+nom: Louis de Clèves, O.S.A.
+nom_complet: Louis de Clèves
+naissance: null
+deces: '1609-03-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-03-12'
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - henri-de-gondi
+  - charles-de-saint-sixte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcleves.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Bethleem
+  du: '1605-08-03'
+  au: '1609-03-22'
+- titre: évêque de Bethléem
+  du: '1605-08-03'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64763738
+  catholic_hierarchy: bcleves
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:23+00:00'
+  completeness: 0.88

@@ -1,0 +1,41 @@
+slug: tito-candiano
+nom: Tito Candiano
+nom_complet: null
+naissance: null
+deces: '1551-04-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcandit.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiron, Greece
+  du: null
+  au: 1549&sup1;
+- titre: Bishop Emeritus of Chiron, Greece
+  du: null
+  au: '1551-04-10'
+- titre: évêque diocésain
+  du: null
+  au: '1549-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762257
+  catholic_hierarchy: bcandit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:13:15+00:00'
+  completeness: 0.38

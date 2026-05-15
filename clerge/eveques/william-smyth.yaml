@@ -1,0 +1,52 @@
+slug: william-smyth
+nom: William Smyth
+nom_complet: William Smyth (Smith)
+naissance: '1460'
+deces: '1514-01-02'
+naissance_lieu: Farnworth
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1493-02-03'
+  lieu: S. Etienne, Westminster, Archdiocese of Canterbury, England
+  consecrateur_principal: john-cardinal-morton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsmythw.html
+  - https://fr.wikipedia.org/wiki/William_Smyth
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1492-10-01'
+  au: null
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1495-11-06'
+  au: '1514-01-02'
+- titre: évêque de Lincoln
+  du: '1495-11-15'
+  au: '1514-01-12'
+- titre: évêque de Coventry et Lichfield
+  du: '1492-10-10'
+  au: '1495-11-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20William%20Smyth.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3710010
+  catholic_hierarchy: bsmythw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:24:32+00:00'
+  completeness: 0.75

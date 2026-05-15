@@ -1,0 +1,48 @@
+slug: konrad-reither
+nom: Konrad Reither
+nom_complet: null
+naissance: '1814-04-26'
+deces: '1871-04-04'
+naissance_lieu: Göcklingen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1870-09-18'
+  lieu: Cathedral, München, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: gregor-von-scherr
+  co_consecrateurs:
+  - franz-leopold-von-leonrod
+  - ignaz-von-senestrey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breither.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: null
+  au: '1871-04-04'
+- titre: évêque de Spire
+  du: '1870-05-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Reither%20Speyer.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1782273
+  catholic_hierarchy: breither
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:08:07+00:00'
+  completeness: 1.0

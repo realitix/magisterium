@@ -1,0 +1,54 @@
+slug: jean-prigent
+nom: Jean Prigent
+nom_complet: null
+naissance: null
+deces: '1472'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprigent.html
+  - https://fr.wikipedia.org/wiki/Jean_Prigent
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: '1436-07-04'
+  au: null
+- titre: Bishop of Saint-Brieuc, France
+  du: '1439-02-27'
+  au: 1471&sup1;
+- titre: Bishop of Saint-Malo, France
+  du: '1450-04-25'
+  au: null
+- titre: évêque de Léon
+  du: '1436-07-13'
+  au: null
+- titre: évêque diocésain
+  du: '1450-05-04'
+  au: '1450-07-24'
+- titre: évêque diocésain
+  du: '1450-07-24'
+  au: null
+- titre: évêque diocésain
+  du: '1439-03-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027394
+  catholic_hierarchy: bprigent
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:49:27+00:00'
+  completeness: 0.25

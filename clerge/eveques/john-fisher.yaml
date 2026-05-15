@@ -1,0 +1,52 @@
+slug: john-fisher
+nom: John Fisher
+nom_complet: St. John Cardinal Fisher
+naissance: '1469-10-28'
+deces: '1535-06-22'
+naissance_lieu: Beverley, Yorkshire, England
+deces_lieu: London
+rang: cardinal
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1504-11-24'
+  lieu: Lambeth
+  consecrateur_principal: william-warham
+  co_consecrateurs:
+  - richard-nykke
+  - william-smyth
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfishe.html
+  - https://fr.wikipedia.org/wiki/John_Fisher
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1504-10-14'
+  au: '1535-06-22'
+- titre: évêque de Rochester
+  du: '1504-10-24'
+  au: '1535-06-22'
+- titre: cardinal
+  du: '1535-05-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Fisher%20%28painting%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q317149
+  catholic_hierarchy: bfishe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:46:15+00:00'
+  completeness: 0.88

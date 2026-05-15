@@ -1,0 +1,44 @@
+slug: augustin-misago
+nom: Augustin Misago
+nom_complet: null
+naissance: '1943'
+deces: '2012-03-12'
+naissance_lieu: Ruvune
+deces_lieu: null
+rang: eveque
+nationalite: Q1037
+tampon: ordo_dubius
+sacre:
+  date: '1992-06-28'
+  consecrateur_principal: jozef-tomko
+  co_consecrateurs:
+  - jean-baptiste-gahamanyi
+  - joseph-ruzindana
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmisago.html
+  - https://fr.wikipedia.org/wiki/Augustin_Misago
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gikongoro, Rwanda
+  du: '1992-03-30'
+  au: '2012-03-12'
+- titre: évêque diocésain
+  du: '1992-03-30'
+  au: '2012-03-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q767951
+  catholic_hierarchy: bmisago
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:00:31+00:00'
+  completeness: 0.88

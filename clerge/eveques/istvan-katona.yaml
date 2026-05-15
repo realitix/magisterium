@@ -1,0 +1,59 @@
+slug: istvan-katona
+nom: István Katona
+nom_complet: null
+naissance: '1928-10-03'
+deces: '2025-10-21'
+naissance_lieu: Nagykáta, Diocese of Vác
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1989-12-09'
+  lieu: Cathedral, Vác, Diocese of Vác
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - izidor-marosi
+  - endre-gyulay
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkatona.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Vác, Hungary
+  du: '1989-11-03'
+  au: null
+- titre: Titular Bishop of Brixellum
+  du: '1989-11-03'
+  au: null
+- titre: Auxiliary Bishop of Eger, Hungary
+  du: '1997-10-10'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Eger, Hungary
+  du: null
+  au: '2025-10-21'
+- titre: évêque titulaire
+  du: '1989-11-03'
+  au: '2025-10-21'
+- titre: évêque auxiliaire
+  du: '1997-10-10'
+  au: '2013-11-25'
+- titre: évêque auxiliaire
+  du: '1989-11-03'
+  au: '1997-10-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1674900
+  catholic_hierarchy: bkatona
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:09:03+00:00'
+  completeness: 1.0

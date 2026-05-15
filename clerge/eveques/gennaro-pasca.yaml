@@ -1,0 +1,49 @@
+slug: gennaro-pasca
+nom: Gennaro Pasca
+nom_complet: null
+naissance: '1778-01-23'
+deces: '1855-10-03'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1819-06-06'
+  consecrateur_principal: michele-di-pietro
+  co_consecrateurs:
+  - francesco-cardinal-bertazzoli
+  - pietro-caprano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpasca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nola, Italy
+  du: null
+  au: '1855-02-09'
+- titre: Bishop Emeritus of Nola, Italy
+  du: null
+  au: '1855-10-03'
+- titre: Roman Catholic Bishop of Boiano
+  du: '1819-04-07'
+  au: null
+- titre: évêque de Nole
+  du: '1828-05-04'
+  au: '1855-02-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11860365
+  catholic_hierarchy: bpasca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:11:17+00:00'
+  completeness: 1.0

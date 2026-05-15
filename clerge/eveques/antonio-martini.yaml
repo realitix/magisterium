@@ -1,0 +1,48 @@
+slug: antonio-martini
+nom: Antonio Martini
+nom_complet: Antonius Martini
+naissance: '1720-04-20'
+deces: '1809-12-31'
+naissance_lieu: Prato
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1781-07-01'
+  consecrateur_principal: andre-corsini-cardinal-eveque-de-la-sabine
+  co_consecrateurs:
+  - francesco-maria-piccolomini-1695
+  - giovanni-francesco-guidi-di-bagno-talenti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartan.html
+  - https://fr.wikipedia.org/wiki/Antonio_Martini
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Firenze {Florence}, Italy
+  du: '1781-06-25'
+  au: '1809-12-31'
+- titre: archevêque de Florence
+  du: '1781-07-01'
+  au: '1809-12-31'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20dell%27arcivescovo%20Antonio%20Martini%2C%20Prato%2C%20Palazzo%20Comunale%20%28cropped%29.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q780021
+  catholic_hierarchy: bmartan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:46+00:00'
+  completeness: 1.0

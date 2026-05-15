@@ -1,0 +1,59 @@
+slug: charles-iii-de-bourbon
+nom: Charles III de Bourbon
+nom_complet: Charles Bourbon de Vendôme
+naissance: '1554'
+deces: '1610-06-15'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1597-12-28'
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - geoffroy-de-la-marthonie
+  - francois-de-pericard-1505
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourn.html
+  - https://fr.wikipedia.org/wiki/Charles_III_de_Bourbon_(archev%C3%AAque_de_Rouen)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Bertrand de) Comminges, France
+  du: 1569&sup2;
+  au: null
+- titre: Bishop of Lectoure, France
+  du: 1569&sup2;
+  au: null
+- titre: Archbishop of Rouen, France
+  du: '1597-03-26'
+  au: '1604-12-01'
+- titre: Archbishop Emeritus of Rouen, France
+  du: null
+  au: '1610-06-15'
+- titre: archevêque de Rouen
+  du: '1597-12-28'
+  au: '1604-12-01'
+- titre: évêque de Lectoure
+  du: '1569-01-01'
+  au: '1594-01-01'
+- titre: évêque de Comminges
+  du: '1567-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2959399
+  catholic_hierarchy: bbourn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:08+00:00'
+  completeness: 0.88

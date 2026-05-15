@@ -1,0 +1,52 @@
+slug: rene-dupont
+nom: René Dupont
+nom_complet: René Marie Albert Dupont, M.E.P.
+naissance: '1929-09-02'
+deces: '2025-04-10'
+naissance_lieu: Saint-Jean-le-Blanc, France
+deces_lieu: Andong, Hospital, Andong, Diocese of Andong
+rang: eveque
+nationalite: Q884
+tampon: ordo_dubius
+sacre:
+  date: '1969-07-25'
+  lieu: Andong, Diocese of Andong
+  consecrateur_principal: stephen-kim-sou-hwan
+  co_consecrateurs:
+  - victorinus-youn-kong-hi
+  - john-baptist-sye-bong-kil
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupontr.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Dupont_(pr%C3%AAtre)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Andong, Korea (South)
+  du: '1969-05-29'
+  au: '1990-10-06'
+- titre: Bishop Emeritus of Andong, Korea (South)
+  du: null
+  au: '2025-04-10'
+- titre: évêque diocésain
+  du: '1969-05-29'
+  au: '1990-10-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Dupont%201.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q94818
+  catholic_hierarchy: bdupontr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:09+00:00'
+  completeness: 1.0

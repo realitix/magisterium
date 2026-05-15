@@ -1,0 +1,40 @@
+slug: elie-de-chatillon
+nom: Elie de Châtillon
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1149-07-31'
+  consecrateur_principal: geoffroy-du-louroux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchatile.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: 1149&sup1;
+  au: 1181&sup1;
+- titre: évêque diocésain
+  du: '1149-01-01'
+  au: '1181-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781011
+  catholic_hierarchy: bchatile
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:56+00:00'
+  completeness: 0.62

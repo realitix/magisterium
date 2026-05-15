@@ -1,0 +1,47 @@
+slug: jean-alardeau
+nom: Jean Alardeau
+nom_complet: Jean Allardeau
+naissance: null
+deces: '1506-05-05'
+naissance_lieu: Angers or Bourges
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Dec 1466&sup2;
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/ballarde.html
+  - https://fr.wikipedia.org/wiki/Jean_Alardeau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: null
+  au: '1496-11-16'
+- titre: Bishop Emeritus of Marseille, France
+  du: null
+  au: '1506-05-05'
+- titre: évêque diocésain
+  du: '1466-05-09'
+  au: '1496-11-25'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Paris-H%C3%B4tel%20de%20Ville64.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3170297
+  catholic_hierarchy: ballarde
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:30:50+00:00'
+  completeness: 0.5

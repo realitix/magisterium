@@ -1,0 +1,51 @@
+slug: everard-of-calne
+nom: Everard of Calne
+nom_complet: Everard Montgomery
+naissance: '1050'
+deces: '1150-10-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1121-06-12'
+  consecrateur_principal: ralph-d-rsquo-escures
+  co_consecrateurs:
+  - non-indexe-3e8b959a
+  - richard-de-capella
+  - robert-peche
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontge.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: 1121&sup1;
+  au: 1145&sup2;
+- titre: Bishop Emeritus of Norwich, England, Great Britain
+  du: null
+  au: '1150-10-15'
+- titre: évêque de Norwich
+  du: '1121-01-01'
+  au: '1145-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ebrard%20de%20Calne.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5416916
+  catholic_hierarchy: bmontge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:08:25+00:00'
+  completeness: 0.88

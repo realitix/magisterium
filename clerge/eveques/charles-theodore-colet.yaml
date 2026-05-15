@@ -1,0 +1,52 @@
+slug: charles-theodore-colet
+nom: Charles Théodore Colet
+nom_complet: Charles-Théodore Colet
+naissance: '1806-04-30'
+deces: '1883-11-30'
+naissance_lieu: Gérardmer
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1861-08-25'
+  lieu: S. Benigne, Cathedral, Dijon, Diocese of Dijon
+  consecrateur_principal: francois-victor-rivet
+  co_consecrateurs:
+  - louis-marie-caverot
+  - charles-fillion
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolet.html
+  - https://fr.wikipedia.org/wiki/Charles_Th%C3%A9odore_Colet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Tours, France
+  du: null
+  au: '1883-11-30'
+- titre: évêque de Luçon
+  du: '1861-06-08'
+  au: null
+- titre: archevêque de Tours
+  du: '1874-11-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Tours%20%2837%29%20Cath%C3%A9drale%20Saint-Gatien%20Monument%20comm%C3%A9moratif%20de%20Mgr%20Colet.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2960324
+  catholic_hierarchy: bcolet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:58:01+00:00'
+  completeness: 1.0

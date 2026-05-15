@@ -1,0 +1,42 @@
+slug: luthold-von-aarburg
+nom: Lüthold von Aarburg
+nom_complet: null
+naissance: '1150'
+deces: '1213-06-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baarburg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: '1192-04-14'
+  au: '1213-06-07'
+- titre: évêque de Bâle
+  du: '1192-04-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%BCtholdvonAarburg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1880417
+  catholic_hierarchy: baarburg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:53+00:00'
+  completeness: 0.38

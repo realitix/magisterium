@@ -1,0 +1,56 @@
+slug: peter-hla
+nom: Peter Hla
+nom_complet: null
+naissance: '1952-01-15'
+deces: null
+naissance_lieu: Hwary
+deces_lieu: null
+rang: eveque
+nationalite: Q836
+tampon: ordo_dubius
+sacre:
+  date: '2001-12-15'
+  lieu: Mobye
+  consecrateur_principal: adriano-bernardini
+  co_consecrateurs:
+  - matthias-u-shwe
+  - abraham-than
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhla.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Taunggyi, Myanmar
+  du: '2001-03-13'
+  au: null
+- titre: Titular Bishop of Castellum in Numidia
+  du: '2001-03-13'
+  au: null
+- titre: Bishop of Pekhon, Myanmar
+  du: '2005-12-15'
+  au: '2026-02-02'
+- titre: évêque diocésain
+  du: '2005-12-15'
+  au: '2026-02-02'
+- titre: évêque titulaire
+  du: '2001-03-13'
+  au: '2005-12-15'
+- titre: évêque auxiliaire
+  du: '2001-03-13'
+  au: '2005-12-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q995515
+  catholic_hierarchy: bhla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:44:06+00:00'
+  completeness: 0.88

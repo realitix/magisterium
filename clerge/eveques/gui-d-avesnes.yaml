@@ -1,0 +1,52 @@
+slug: gui-d-avesnes
+nom: Gui d'Avesnes
+nom_complet: Guido d&rsquo;Avesnes
+naissance: '1253'
+deces: '1317-05-29'
+naissance_lieu: Valenciennes, Flanders
+deces_lieu: Utrecht, Diocese of Utrecht
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bavesnes.html
+  - https://fr.wikipedia.org/wiki/Gui_d%27Avesnes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Utrecht, Netherlands
+  du: 1301&sup2;
+  au: '1317-05-29'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque élu
+  du: null
+  au: null
+- titre: seigneur souverain
+  du: '1301-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1301-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Guy%20B6.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q463181
+  catholic_hierarchy: bavesnes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:51:08+00:00'
+  completeness: 0.38

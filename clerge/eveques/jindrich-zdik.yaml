@@ -1,0 +1,45 @@
+slug: jindrich-zdik
+nom: Jindřich Zdík
+nom_complet: St. Henri Zdik
+naissance: '1083'
+deces: '1150-06-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1126-10-31'
+  consecrateur_principal: adalbert-i-de-saarbrucken
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzdik.html
+  - https://fr.wikipedia.org/wiki/Jind%C5%99ich_Zd%C3%ADk
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Olomouc (Olmütz), Czechia
+  du: '1126-03-22'
+  au: '1150-06-25'
+- titre: évêque d'Olmütz
+  du: '1126-01-01'
+  au: '1150-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Zdik-Olomouck%C3%A9%20horologium.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q327313
+  catholic_hierarchy: bzdik
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:07:23+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: gioacchino-antonelli
+nom: Gioacchino Antonelli
+nom_complet: Gioacchino Antonielli
+naissance: '1792-11-23'
+deces: '1859-09-27'
+naissance_lieu: Faella, Diocese of Fiesole
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1857-08-23'
+  lieu: Santa Maria del Fiore, Cathedral, Firenze, Archdiocese of Firenze {Florence}
+  co_consecrateurs:
+  - alessandro-franchi
+  - giulio-arrigoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bantoni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1857-08-03'
+  au: '1859-09-27'
+- titre: évêque diocésain
+  du: '1857-08-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22069304
+  catholic_hierarchy: bantoni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:41:44+00:00'
+  completeness: 0.88

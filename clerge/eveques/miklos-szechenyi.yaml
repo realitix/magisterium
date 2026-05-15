@@ -1,0 +1,50 @@
+slug: miklos-szechenyi
+nom: Miklós Széchényi
+nom_complet: Miklós Széchenyi de Salvar-Felsovidék
+naissance: '1868-01-06'
+deces: '1923-12-01'
+naissance_lieu: Sopron
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1902-02-02'
+  consecrateur_principal: karoly-hornig
+  co_consecrateurs:
+  - koloman-belopotocky
+  - erno-kutrovatz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bszec.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oradea Mare {Gran Varadino, Nagyvárad}, Romania
+  du: '1911-04-20'
+  au: '1923-12-01'
+- titre: évêque de Győr
+  du: '1901-11-01'
+  au: null
+- titre: évêque d'Oradea Mare
+  du: '1911-04-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sz%C3%A9chenyi%20Mikl%C3%B3s%201901-45.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16719200
+  catholic_hierarchy: bszec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:46:37+00:00'
+  completeness: 1.0

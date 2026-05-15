@@ -1,0 +1,42 @@
+slug: stefan-czmil
+nom: Stefan Czmil
+nom_complet: Stepan Chmil, S.D.B.
+naissance: '1914-10-10'
+deces: '1978-01-22'
+naissance_lieu: Sudova Vyshnya, Ukraine
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1977-04-02'
+  lieu: Studion, Monastery, Castelgandolfo, Italy
+  consecrateur_principal: josyf-slipyj
+  co_consecrateurs:
+  - ivan-prasko
+  - isidore-borecky
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchmil.html
+  - https://fr.wikipedia.org/wiki/Stefan_Czmil
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop
+  du: null
+  au: '1978-01-22'
+fraternite: salesiens
+photo: null
+qids:
+  wikidata: Q920310
+  catholic_hierarchy: bchmil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:47:20+00:00'
+  completeness: 1.0

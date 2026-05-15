@@ -1,0 +1,49 @@
+slug: albert-von-haller
+nom: Albert von Haller
+nom_complet: null
+naissance: '1808-07-18'
+deces: '1858-11-28'
+naissance_lieu: Bern, Diocese of Lausanne et Genève
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1858-06-29'
+  lieu: Abbey, Einsiedeln
+  consecrateur_principal: karl-arnold-obrist
+  co_consecrateurs:
+  - etienne-marilley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhallera.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chur, Switzerland
+  du: '1858-03-18'
+  au: '1858-11-28'
+- titre: Titular Bishop of Carrhae
+  du: '1858-03-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1858-03-18'
+  au: null
+- titre: évêque titulaire
+  du: '1858-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15782068
+  catholic_hierarchy: bhallera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:28+00:00'
+  completeness: 1.0

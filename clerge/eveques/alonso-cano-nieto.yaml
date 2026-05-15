@@ -1,0 +1,48 @@
+slug: alonso-cano-nieto
+nom: Alonso Cano Nieto
+nom_complet: Alonso Cano Nieto, O.SS.T.
+naissance: '1711-01-23'
+deces: '1780-04-07'
+naissance_lieu: Moto del Cuervo
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1770-10-21'
+  lieu: Madrid, Archdiocese of Toledo
+  consecrateur_principal: manuel-quintano-bonifaz
+  co_consecrateurs:
+  - juan-jose-garcia-alvaro
+  - juan-manuel-arguelles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segorbe, Spain
+  du: '1770-09-10'
+  au: '1780-04-07'
+- titre: évêque de Segorbe
+  du: '1770-09-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Alonso%20Cano%20y%20Nieto.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q17093069
+  catholic_hierarchy: bcanon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:07+00:00'
+  completeness: 1.0

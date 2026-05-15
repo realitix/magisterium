@@ -1,0 +1,54 @@
+slug: victor-damian-saez
+nom: Víctor Damián Sáez
+nom_complet: Víctor Damián Sáez y Sánchez Mayor
+naissance: '1776-04-12'
+deces: '1839-02-03'
+naissance_lieu: Budia
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1824-08-29'
+  lieu: Cathedral, Tarragona, Archdiocese of Tarragona
+  consecrateur_principal: jaime-creus-y-marti
+  co_consecrateurs:
+  - bernardo-frances-caballero
+  - simon-de-renteria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaez.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tortosa, Spain
+  du: null
+  au: '1839-02-03'
+- titre: évêque de Tortosa
+  du: '1824-03-17'
+  au: '1839-02-03'
+- titre: secrétaire d'État
+  du: '1823-08-07'
+  au: '1823-12-12'
+- titre: Canon of the Toledo Cathedral
+  du: '1823-01-01'
+  au: '1824-03-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Saez-Sanchez-Mayor-Victor-Damian.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5657913
+  catholic_hierarchy: bsaez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:41:07+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: vicente-valverde
+nom: Vicente Valverde
+nom_complet: Vicente Valverde Alvarez, O.P.
+naissance: '1498'
+deces: '1541-10-31'
+naissance_lieu: Oropesa, Archdiocese of Toledo, Spain
+deces_lieu: ile de Puna
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  lieu: San Esteban, Convent, Salamanca, Diocese of Salamanca, Spain
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalal.html
+  - https://fr.wikipedia.org/wiki/Vicente_Valverde
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuzco, Peru
+  du: '1537-01-08'
+  au: '1541-10-31'
+- titre: évêque de Cuzco
+  du: '1537-01-18'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/VicenteValverde.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2248170
+  catholic_hierarchy: bvalal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:20:38+00:00'
+  completeness: 0.38

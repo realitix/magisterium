@@ -1,0 +1,47 @@
+slug: laszlo-banass
+nom: László Bánáss
+nom_complet: null
+naissance: '1888-10-14'
+deces: '1949-04-20'
+naissance_lieu: Pozsony
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1946-11-30'
+  lieu: Debrecen
+  consecrateur_principal: jozsef-mindszenty
+  co_consecrateurs:
+  - lajos-shvoy
+  - miklos-dudas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbanass.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veszprém, Hungary
+  du: '1946-09-04'
+  au: '1949-04-20'
+- titre: évêque de Veszprém
+  du: '1946-09-04'
+  au: null
+- titre: membre de l’assemblée nationale provisoire
+  du: '1944-12-16'
+  au: '1945-09-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q853283
+  catholic_hierarchy: bbanass
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:59:27+00:00'
+  completeness: 1.0

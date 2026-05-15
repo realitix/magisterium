@@ -1,0 +1,50 @@
+slug: ferenc-fuchs
+nom: Ferenc Fuchs
+nom_complet: null
+naissance: '1744-08-24'
+deces: '1807-06-27'
+naissance_lieu: Pandorfen
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1788-04-13'
+  lieu: Presbourg
+  consecrateur_principal: jozsef-batthyany
+  co_consecrateurs:
+  - istvan-nagy
+  - ladislaus-luzenszky
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfuch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Eger, Hungary
+  du: null
+  au: '1807-06-27'
+- titre: lord-lieutenant of Heves and Külső-Szolnok County
+  du: '1804-08-20'
+  au: '1807-06-27'
+- titre: archevêque d'Eger
+  du: '1804-03-23'
+  au: null
+- titre: Évêque de Nitra
+  du: '1787-08-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1004196
+  catholic_hierarchy: bfuch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:00:12+00:00'
+  completeness: 1.0

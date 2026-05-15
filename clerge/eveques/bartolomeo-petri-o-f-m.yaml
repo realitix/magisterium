@@ -1,0 +1,39 @@
+slug: bartolomeo-petri-o-f-m
+nom: Bartolomeo Petri, O.F.M.
+nom_complet: Bartolomeo Petri
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: bartolomeo-raimondi
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpetrib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dragonara, Italy
+  du: 1382&sup1;
+  au: 1392&sup1;
+- titre: évêque diocésain
+  du: '1382-01-01'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64780012
+  catholic_hierarchy: bpetrib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:26:42+00:00'
+  completeness: 0.38

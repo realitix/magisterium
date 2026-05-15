@@ -1,0 +1,53 @@
+slug: alonso-canedo-vigil
+nom: Alonso Cañedo Vigil
+nom_complet: Ildefonso Cañedo y Vigil
+naissance: '1760-01-19'
+deces: '1829-09-21'
+naissance_lieu: Grullos de Cándamo
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1815-02-19'
+  consecrateur_principal: atanasio-puyal-y-poveda
+  co_consecrateurs:
+  - pedro-inguanzo-y-rivero
+  - jose-antonio-de-azpeytia-y-saenz-de-santa-maria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaned.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Burgos, Spain
+  du: null
+  au: '1829-09-21'
+- titre: archevêque catholique
+  du: '1825-03-01'
+  au: null
+- titre: évêque diocésain
+  du: '1814-09-05'
+  au: null
+- titre: Member of the Cortes of Cádiz
+  du: '1810-10-28'
+  au: '1813-09-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20Ca%C3%B1edo%20Vigil%20%28Cabildo%20de%20la%20catedral%20de%20M%C3%A1laga%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5670068
+  catholic_hierarchy: bcaned
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:13:20+00:00'
+  completeness: 1.0

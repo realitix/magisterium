@@ -1,0 +1,51 @@
+slug: geoffroy-de-monmouth
+nom: Geoffroy de Monmouth
+nom_complet: Geoffrey of Monmouth
+naissance: '1100'
+deces: '1155'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q2253783
+tampon: ordo_validus
+sacre:
+  date: '1152-02-24'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - william-de-turbeville
+  - non-indexe-8466731c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonmog.html
+  - https://fr.wikipedia.org/wiki/Geoffroy_de_Monmouth
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Asaph, Wales, Great Britain
+  du: 1151&sup1;
+  au: 1154&sup2;
+- titre: évêque diocésain
+  du: '1151-01-01'
+  au: null
+- titre: Roman Catholic Bishop of St Asaph
+  du: '1152-02-28'
+  au: '1155-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cotton%20Claudius%20B%20VII%20f.224%20Merlin%20Vortigern.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q188344
+  catholic_hierarchy: bmonmog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:05:59+00:00'
+  completeness: 0.75

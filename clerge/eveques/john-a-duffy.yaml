@@ -1,0 +1,51 @@
+slug: john-a-duffy
+nom: John A. Duffy
+nom_complet: John Aloysius Duffy
+naissance: '1884-10-29'
+deces: '1944-09-27'
+naissance_lieu: Jersey City, NJ, Diocese of Newark, New Jersey
+deces_lieu: Buffalo, Diocese of Buffalo, New York
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1933-06-29'
+  lieu: Sacred Heart, Cathedral, Newark, Diocese of Newark, New Jersey
+  consecrateur_principal: thomas-walsh-1873
+  co_consecrateurs:
+  - james-aloysius-griffin
+  - alphonse-john-smith
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduffyj.html
+  - https://fr.wikipedia.org/wiki/John_Aloysius_Duffy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Syracuse, New York, USA
+  du: '1933-04-21'
+  au: null
+- titre: Bishop of Buffalo, New York, USA
+  du: '1937-01-05'
+  au: '1944-09-27'
+- titre: Roman Catholic Bishop of Syracuse
+  du: '1933-04-21'
+  au: null
+- titre: évêque de Buffalo
+  du: '1937-01-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15427493
+  catholic_hierarchy: bduffyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:11:52+00:00'
+  completeness: 1.0

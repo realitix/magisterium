@@ -1,0 +1,54 @@
+slug: antal-bajtay
+nom: Antal Bajtay
+nom_complet: Josephus Antonius Bajtay, Sch. P.
+naissance: '1717-12-18'
+deces: '1773-01-15'
+naissance_lieu: Zsido
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1761-05-01'
+  lieu: Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: christoph-bartholomaus-anton-migazzi
+  co_consecrateurs:
+  - franjo-thauszy
+  - anton-marxer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbajtay.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Transilvania, Erdély, Siebenbürgen, Romania
+  du: '1761-04-06'
+  au: Oct 1772&sup3;
+- titre: Bishop Emeritus of Transilvania, Erdély, Siebenbürgen, Romania
+  du: null
+  au: '1773-01-15'
+- titre: Roman Catholic Bishop of Transilvania, Erdély, Siebenbürgen
+  du: '1761-04-06'
+  au: '1772-10-01'
+- titre: provincial of the Piarist Province of Hungary
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bajtay%20Antal.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q788844
+  catholic_hierarchy: bbajtay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:56:35+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: pierre-paul-de-faudoas
+nom: Pierre-Paul de Faudoas
+nom_complet: Jean-Paul Faudoas
+naissance: '1750-04-01'
+deces: '1824-04-03'
+naissance_lieu: Miramont-Latour
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1805-04-21'
+  consecrateur_principal: jean-baptiste-de-belloy
+  co_consecrateurs:
+  - jean-baptiste-de-chabot
+  - claude-andre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfaud.html
+  - https://fr.wikipedia.org/wiki/Pierre-Paul_de_Faudoas
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: null
+  au: '1819-09-26'
+- titre: Bishop Emeritus of Meaux, France
+  du: null
+  au: '1824-04-03'
+- titre: évêque de Meaux
+  du: '1805-01-30'
+  au: '1819-09-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760575
+  catholic_hierarchy: bfaud
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:22+00:00'
+  completeness: 1.0

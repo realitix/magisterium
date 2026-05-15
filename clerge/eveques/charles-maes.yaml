@@ -1,0 +1,54 @@
+slug: charles-maes
+nom: Charles Maes
+nom_complet: Karel Maes
+naissance: '1607'
+deces: '1612-05-21'
+naissance_lieu: Bruxelles
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1607-06-24'
+  consecrateur_principal: lucio-de-morra
+  co_consecrateurs:
+  - jacques-blaes
+  - francois-buisseret
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaez.html
+  - https://fr.wikipedia.org/wiki/Charles_Maes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1607-05-21'
+  au: null
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1610-08-18'
+  au: '1612-05-21'
+- titre: Évêque de Gand
+  du: '1610-08-18'
+  au: null
+- titre: évêque d'Ypres
+  du: '1607-05-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PMa%20001053%20B%20Gent%20StB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15873757
+  catholic_hierarchy: bmaez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:11:53+00:00'
+  completeness: 0.88

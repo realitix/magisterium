@@ -1,0 +1,50 @@
+slug: paul-de-chaulnes
+nom: Paul de Chaulnes
+nom_complet: null
+naissance: '1650-07-01'
+deces: '1725-10-20'
+naissance_lieu: Grenoble
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1702-03-26'
+  consecrateur_principal: armand-anne-tristan-de-la-baume-de-suze
+  co_consecrateurs:
+  - charles-antoine-de-la-garde-de-chambonas
+  - jean-baptiste-de-la-croix-de-chevrieres-de-saint-vallier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchaul.html
+  - https://fr.wikipedia.org/wiki/Paul_de_Chaulnes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarlat, France
+  du: null
+  au: '1721-06-13'
+- titre: Bishop of Grenoble, France
+  du: '1721-06-16'
+  au: '1725-10-20'
+- titre: évêque de Sarlat
+  du: '1701-11-01'
+  au: '1721-06-13'
+- titre: évêque de Grenoble
+  du: '1721-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3372466
+  catholic_hierarchy: bchaul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:43:13+00:00'
+  completeness: 0.88

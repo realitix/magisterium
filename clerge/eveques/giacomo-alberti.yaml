@@ -1,0 +1,47 @@
+slug: giacomo-alberti
+nom: Giacomo Alberti
+nom_complet: Giacomo Cardinal Alberti
+naissance: '1250'
+deces: '1335'
+naissance_lieu: Prato, Diocese of Pistoia
+deces_lieu: Münich
+rang: cardinal
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1319'
+  consecrateur_principal: niccolo-alberti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balbergi.html
+  - https://fr.wikipedia.org/wiki/Giacomo_Alberti
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castello, Italy
+  du: '1311-06-19'
+  au: null
+- titre: Cardinal-Bishop of Ostia (e Velletri)
+  du: '1328-05-15'
+  au: 1335&sup2;
+- titre: Roman Catholic Bishop of Castello
+  du: '1312-06-27'
+  au: '1327-01-01'
+- titre: cardinal
+  du: '1328-05-23'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q323386
+  catholic_hierarchy: balbergi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:26:47+00:00'
+  completeness: 0.62

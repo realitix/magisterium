@@ -1,0 +1,41 @@
+slug: otto-iii-von-schalksberg
+nom: Otto III. von Schalksberg
+nom_complet: Otto von Schalksberg
+naissance: '1400'
+deces: '1398'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschalko.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minden, Germany
+  du: '1384-02-17'
+  au: '1398-01-01'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1384-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2039346
+  catholic_hierarchy: bschalko
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:59:56+00:00'
+  completeness: 0.38

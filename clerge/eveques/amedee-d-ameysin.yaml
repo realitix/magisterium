@@ -1,0 +1,42 @@
+slug: amedee-d-ameysin
+nom: Amédée d'Ameysin
+nom_complet: Amédée d&rsquo;Amesin
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jean-de-chissey
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bamesin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: '1349-01-08'
+  au: 1355&sup1;
+- titre: évêque de Belley
+  du: '1345-01-01'
+  au: '1355-01-01'
+- titre: évêque diocésain
+  du: '1349-01-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781113
+  catholic_hierarchy: bamesin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:35:58+00:00'
+  completeness: 0.5

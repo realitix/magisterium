@@ -1,0 +1,45 @@
+slug: guillaume-besaucele
+nom: Guillaume Besaucèle
+nom_complet: '[Constitutional Bishop Guillaume Besaucèle]'
+naissance: '1712-09-03'
+deces: '1801-02-04'
+naissance_lieu: Saissac
+deces_lieu: Carcassonne
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-05-15'
+  lieu: Toulouse, Archdiocese of Toulouse
+  consecrateur_principal: constitutional-bishop-antoine-pascal-hyacinthe-sermet
+  co_consecrateurs:
+  - constitutional-bishop-pierre-pacareau
+  - constitutional-bishop-paul-benoit-barthe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbesaucel.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Besauc%C3%A8le
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Aude (Constitutional), France]
+  du: null
+  au: '1801-02-04'
+- titre: évêque constitutionnel
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24288408
+  catholic_hierarchy: bbesaucel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:33+00:00'
+  completeness: 1.0

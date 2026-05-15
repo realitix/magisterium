@@ -1,0 +1,43 @@
+slug: giovanni-d-amato
+nom: Giovanni D'Amato
+nom_complet: Giovanni D&rsquo;Amato
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-10-21'
+  consecrateur_principal: giovanni-antonio-serbelloni
+  co_consecrateurs:
+  - antonio-elio
+  - ascanio-albertini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bamatis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minori, Italy
+  du: '1565-10-12'
+  au: 1567&sup1;
+- titre: Roman Catholic Bishop of Minori
+  du: '1565-10-22'
+  au: '1567-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q31449209
+  catholic_hierarchy: bamatis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:35:21+00:00'
+  completeness: 0.75

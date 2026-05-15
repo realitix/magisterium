@@ -1,0 +1,45 @@
+slug: henri-louis-chapon
+nom: Henri-Louis Chapon
+nom_complet: null
+naissance: '1845-03-14'
+deces: '1925-12-14'
+naissance_lieu: Saint-Brieuc, Diocese of Saint-Brieuc
+deces_lieu: Nice, Diocese of Nice
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1896-09-29'
+  lieu: Ste Croix, Cathedral, Orléans, Diocese of Orléans
+  consecrateur_principal: stanislas-arthur-xavier-touchet
+  co_consecrateurs:
+  - charles-honore-laborde
+  - federic-henri-oury
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchapon.html
+  - https://fr.wikipedia.org/wiki/Henri-Louis_Chapon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nice, France
+  du: null
+  au: '1925-12-14'
+- titre: évêque diocésain
+  du: '1896-05-30'
+  au: '1925-12-14'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21293857
+  catholic_hierarchy: bchapon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:34+00:00'
+  completeness: 1.0

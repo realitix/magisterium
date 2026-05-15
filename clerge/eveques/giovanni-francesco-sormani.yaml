@@ -1,0 +1,44 @@
+slug: giovanni-francesco-sormani
+nom: Giovanni Francesco Sormani
+nom_complet: Gianfrancesco Sormani
+naissance: '1522'
+deces: '1601-12-20'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Rimini, Diocese of Rimini
+rang: eveque
+nationalite: Q153529
+tampon: ordo_validus
+sacre:
+  date: '1566-03-12'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: st-charles-cardinal-borromeo
+  co_consecrateurs:
+  - leonardo-marini
+  - bartolomeo-capranica
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsormanig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montefeltro, Italy
+  du: '1566-03-06'
+  au: 1601&sup2;
+- titre: évêque diocésain
+  du: '1566-03-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5558093
+  catholic_hierarchy: bsormanig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:28:52+00:00'
+  completeness: 0.75

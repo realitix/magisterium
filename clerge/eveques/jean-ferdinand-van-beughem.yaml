@@ -1,0 +1,47 @@
+slug: jean-ferdinand-van-beughem
+nom: Jean-Ferdinand Van Beughem
+nom_complet: null
+naissance: '1630-09-11'
+deces: '1699-05-19'
+naissance_lieu: Brussels
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1679-11-12'
+  consecrateur_principal: alphonse-de-berghes
+  co_consecrateurs:
+  - francois-de-baillencourt
+  - reginald-cools-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvbeug.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antwerpen {Antwerp, Anvers}, Belgium
+  du: '1679-09-25'
+  au: '1699-05-19'
+- titre: évêque diocésain
+  du: '1679-09-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Johan%20Ferdinand%20Beughem%2C%20RP-P-1912-757.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64746376
+  catholic_hierarchy: bvbeug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:27:52+00:00'
+  completeness: 1.0

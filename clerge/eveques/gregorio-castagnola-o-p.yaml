@@ -1,0 +1,43 @@
+slug: gregorio-castagnola-o-p
+nom: Gregorio Castagnola, O.P.
+nom_complet: Gregorio Castagnola
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1545-11-15'
+  consecrateur_principal: juan-alvarez-de-toledo
+  co_consecrateurs:
+  - bernardino-jean-de-soria-o-f-m
+  - baltasar-de-heredia-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastgng.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Milos (Melos), Greece
+  du: '1545-11-06'
+  au: 1550&sup1;
+- titre: évêque diocésain
+  du: '1545-11-16'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64779423
+  catholic_hierarchy: bcastgng
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:30:55+00:00'
+  completeness: 0.75

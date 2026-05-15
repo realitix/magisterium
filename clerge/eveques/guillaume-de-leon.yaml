@@ -1,0 +1,42 @@
+slug: guillaume-de-leon
+nom: Guillaume de Léon
+nom_complet: null
+naissance: null
+deces: '1306'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleong.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_L%C3%A9on
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: 1303&sup2;
+  au: 1306&sup2;
+- titre: évêque de Léon
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1303-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108480462
+  catholic_hierarchy: bleong
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:44:33+00:00'
+  completeness: 0.25

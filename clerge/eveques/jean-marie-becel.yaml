@@ -1,0 +1,49 @@
+slug: jean-marie-becel
+nom: Jean-Marie Bécel
+nom_complet: null
+naissance: '1825-08-01'
+deces: '1897-11-06'
+naissance_lieu: Beignon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1866-07-25'
+  lieu: N.D. des Victoires, Paris, Archdiocese of Paris
+  consecrateur_principal: louis-anne-dubreil
+  co_consecrateurs:
+  - henri-amanton
+  - louis-anne-nogret
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbecel.html
+  - https://fr.wikipedia.org/wiki/Jean-Marie_B%C3%A9cel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vannes, France
+  du: null
+  au: '1897-11-06'
+- titre: évêque diocésain
+  du: '1866-01-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Beignon%20%2856%29%20%C3%89glise%20Saint-Pierre%20Portrait%20de%20Mgr%20B%C3%A9cel%2002.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11866267
+  catholic_hierarchy: bbecel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:11:40+00:00'
+  completeness: 1.0

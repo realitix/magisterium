@@ -1,0 +1,61 @@
+slug: pierre-damien
+nom: Pierre Damien
+nom_complet: St. Pietro Cardinal Damiano, O.S.B.
+naissance: '1007'
+deces: '1072-02-21'
+naissance_lieu: Ravenna
+deces_lieu: Santa Maria foris portam, Monastery, Faenza, Diocese of Faenza, Italy
+rang: cardinal
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1058-03-22'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: non-indexe-a02e8a4d
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdamianp.html
+  - https://fr.wikipedia.org/wiki/Pierre_Damien
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Bishop of Ostia
+  du: '1058-03-14'
+  au: '1066'
+- titre: Administrator of Gubbio, Italy
+  du: '1060'
+  au: '1066'
+- titre: Bishop Emeritus of Ostia
+  du: null
+  au: '1072-02-21'
+- titre: abbé
+  du: null
+  au: null
+- titre: cardinal
+  du: '1058-03-20'
+  au: null
+- titre: cardinal-évêque d'Ostie
+  du: '1058-01-01'
+  au: '1066-01-01'
+- titre: administrateur apostolique
+  du: '1060-01-01'
+  au: '1066-01-01'
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierodamiani2.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q258369
+  catholic_hierarchy: bdamianp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:25:12+00:00'
+  completeness: 0.62

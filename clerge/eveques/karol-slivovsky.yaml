@@ -1,0 +1,43 @@
+slug: karol-slivovsky
+nom: Karol Slivovsky
+nom_complet: Karol Sliwowski
+naissance: '1845-06-29'
+deces: '1933-01-06'
+naissance_lieu: Vladivostok
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1923-10-28'
+  consecrateur_principal: celso-costantini
+  co_consecrateurs:
+  - auguste-gaspais
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsliw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vladivostok, Russian Federation
+  du: '1923-02-02'
+  au: '1933-01-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biskup%20Karol%20%C5%9Aliwowski%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1042528
+  catholic_hierarchy: bsliw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:23:10+00:00'
+  completeness: 1.0

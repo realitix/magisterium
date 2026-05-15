@@ -1,0 +1,48 @@
+slug: phocas-nikwigize
+nom: Phocas Nikwigize
+nom_complet: null
+naissance: '1919-08-23'
+deces: '1996-11-30'
+naissance_lieu: Muhango
+deces_lieu: null
+rang: eveque
+nationalite: Q1037
+tampon: ordo_dubius
+sacre:
+  date: '1968-11-30'
+  lieu: Cathedral, Ruhengeri, Diocese of Ruhengeri
+  consecrateur_principal: amelio-poggi
+  co_consecrateurs:
+  - andre-perraudin
+  - joseph-sibomana
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnikw.html
+  - https://fr.wikipedia.org/wiki/Phocas_Nikwigize
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ruhengeri, Rwanda
+  du: '1968-09-05'
+  au: null
+- titre: Bishop Emeritus of Ruhengeri, Rwanda
+  du: null
+  au: '1996-11-30'
+- titre: évêque diocésain
+  du: '1968-09-05'
+  au: '1996-01-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1679612
+  catholic_hierarchy: bnikw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:17+00:00'
+  completeness: 1.0

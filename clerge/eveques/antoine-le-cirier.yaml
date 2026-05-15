@@ -1,0 +1,41 @@
+slug: antoine-le-cirier
+nom: Antoine Le Cirier
+nom_complet: null
+naissance: null
+deces: '1575-01-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1561-06-15'
+  consecrateur_principal: charles-d-espinay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blciri.html
+  - https://fr.wikipedia.org/wiki/Antoine_Le_Cirier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avranches, France
+  du: '1561-06-02'
+  au: '1575-01-17'
+- titre: évêque diocésain
+  du: '1561-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28496358
+  catholic_hierarchy: blciri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:38:23+00:00'
+  completeness: 0.62

@@ -1,0 +1,44 @@
+slug: filippo-allegro
+nom: Filippo Allegro
+nom_complet: null
+naissance: '1829-06-29'
+deces: '1910-12-02'
+naissance_lieu: Costa Bacelega, Diocese of Albenga
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1879-05-22'
+  lieu: Immaculate Conception, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - giulio-lenti
+  - placido-maria-schiaffino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balleg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albenga, Italy
+  du: '1879-05-12'
+  au: '1910-12-02'
+- titre: évêque d'Albenga-Imperia
+  du: '1879-05-12'
+  au: '1910-12-02'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735014
+  catholic_hierarchy: balleg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:30:55+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: donato-stampa
+nom: Donato Stampa
+nom_complet: null
+naissance: null
+deces: '1575'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-01-08'
+  consecrateur_principal: scipione-rebiba
+  co_consecrateurs:
+  - gallois-de-regard
+  - umberto-locati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstampad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nepi e Sutri, Italy
+  du: '1569-12-14'
+  au: 1575&sup2;
+- titre: évêque de Nepi et Sutri
+  du: '1569-12-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23908721
+  catholic_hierarchy: bstampad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:02+00:00'
+  completeness: 0.75

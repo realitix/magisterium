@@ -1,0 +1,40 @@
+slug: robert-d-harcourt
+nom: Robert d'Harcourt
+nom_complet: Robert de Harcourt
+naissance: null
+deces: '1315-03-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: guy-de-harcourt
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bharcourt.html
+  - https://fr.wikipedia.org/wiki/Robert_d%27Harcourt_(%C3%A9v%C3%AAque_de_Coutances)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: 1291&sup2;
+  au: '1315-03-07'
+- titre: évêque diocésain
+  du: '1291-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3436608
+  catholic_hierarchy: bharcourt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:34:18+00:00'
+  completeness: 0.5

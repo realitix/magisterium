@@ -1,0 +1,41 @@
+slug: giacomo-fieschi
+nom: Giacomo Fieschi
+nom_complet: null
+naissance: '1500'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfiesj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Savona, Italy
+  du: '1537-10-22'
+  au: null
+- titre: Bishop-Elect of Savona, Italy
+  du: null
+  au: 1545&sup1;
+- titre: évêque de Savone
+  du: '1537-11-01'
+  au: '1545-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q69437990
+  catholic_hierarchy: bfiesj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:43:15+00:00'
+  completeness: 0.25

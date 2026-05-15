@@ -1,0 +1,43 @@
+slug: thomas-zarone
+nom: Thomas Zarone
+nom_complet: null
+naissance: '1710-01-11'
+deces: '1791-08-01'
+naissance_lieu: Casal Versano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1766-07-27'
+  consecrateur_principal: ferdinando-maria-de-rossi
+  co_consecrateurs:
+  - domenico-giordani-1700
+  - giovanni-lercari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzarone.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carinola (Calina), Italy
+  du: '1766-07-21'
+  au: Aug 1791&sup3;
+- titre: évêque diocésain
+  du: '1766-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747092
+  catholic_hierarchy: bzarone
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:06:49+00:00'
+  completeness: 0.88

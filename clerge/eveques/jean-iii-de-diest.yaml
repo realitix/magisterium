@@ -1,0 +1,39 @@
+slug: jean-iii-de-diest
+nom: Jean III de Diest
+nom_complet: Jan van Diest
+naissance: '1300'
+deces: '1341-06-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiestjan.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Diest
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Utrecht, Netherlands
+  du: '1322-11-08'
+  au: '1341-06-01'
+- titre: évêque diocésain
+  du: '1322-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1280581
+  catholic_hierarchy: bdiestjan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:50:42+00:00'
+  completeness: 0.38

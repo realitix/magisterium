@@ -1,0 +1,46 @@
+slug: sebastian-pollinger
+nom: Sebastian Pollinger
+nom_complet: null
+naissance: null
+deces: '1590-07-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1584-12-08'
+  consecrateur_principal: johann-ertlin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbolls.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Würzburg, Germany
+  du: '1584-07-16'
+  au: '1590-07-08'
+- titre: Titular Bishop of Salona
+  du: '1584-07-16'
+  au: null
+- titre: évêque titulaire
+  du: '1584-07-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1584-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q76881182
+  catholic_hierarchy: bbolls
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:35:16+00:00'
+  completeness: 0.75

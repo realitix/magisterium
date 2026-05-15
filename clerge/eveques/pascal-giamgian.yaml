@@ -1,0 +1,47 @@
+slug: pascal-giamgian
+nom: Pascal Giamgian
+nom_complet: null
+naissance: '1850-04-01'
+deces: '1916-01-19'
+naissance_lieu: Constantinople
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1884-10-19'
+  lieu: Armenian, Cathedral, Istanbul
+  consecrateur_principal: stephan-bedros-x-azarian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiamp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Musc (Mush) (Armenian), Armenia
+  du: '1884-09-16'
+  au: null
+- titre: Bishop of Prusa (Bostra, Brussa) (Armenian), Turkey
+  du: '1886-10-01'
+  au: '1916-01-19'
+- titre: évêque diocésain
+  du: '1884-09-16'
+  au: null
+- titre: évêque diocésain
+  du: '1886-10-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734779
+  catholic_hierarchy: bgiamp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:21:14+00:00'
+  completeness: 0.88

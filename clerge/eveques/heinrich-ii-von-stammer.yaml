@@ -1,0 +1,46 @@
+slug: heinrich-ii-von-stammer
+nom: Heinrich II. von Stammer
+nom_complet: Henrich von Stammer
+naissance: '1500'
+deces: '1480'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1466-11-16'
+  consecrateur_principal: dietrich-von-schonberg-1400
+  co_consecrateurs:
+  - nikolaus-langen-o-p
+  - johannes-sartoris-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstamme.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: '1466-06-02'
+  au: '1480-03-24'
+- titre: évêque diocésain
+  du: '1466-06-11'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597785
+  catholic_hierarchy: bstamme
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:35:58+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: bohuslas-von-zwole
+nom: Bohuslas von Zwole
+nom_complet: null
+naissance: '1400'
+deces: '1457-07-31'
+naissance_lieu: null
+deces_lieu: Wien
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1455-01-12'
+  lieu: Cathedral, Breslau, Diocese of Wroc&#322;aw (Breslau), Poland
+  consecrateur_principal: peter-nowag
+  co_consecrateurs:
+  - janos-vitez-zredna
+  - vilem-z-kolina-polonia-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzwole.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Olomouc (Olmütz), Czechia
+  du: '1454-08-16'
+  au: '1457-07-31'
+- titre: évêque d'Olmütz
+  du: '1454-08-25'
+  au: '1457-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bohuslav%20ze%20Zvole%20%28B.%20Paprocki%2C%201593%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q890956
+  catholic_hierarchy: bzwole
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:13:03+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: hector-de-monte
+nom: Hector de Monte
+nom_complet: null
+naissance: '1575'
+deces: '1626'
+naissance_lieu: Lanciano, Archdiocese of Lanciano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1626-03-25'
+  lieu: Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: alfonso-sacrati
+  co_consecrateurs:
+  - maurizio-centini
+  - giovanni-delfino-1589
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonteh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Termoli, Italy
+  du: '1626-03-16'
+  au: Jul 1626&sup3;
+- titre: évêque diocésain
+  du: '1626-03-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24578796
+  catholic_hierarchy: bmonteh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:38+00:00'
+  completeness: 0.75

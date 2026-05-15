@@ -1,0 +1,40 @@
+slug: jaques-de-cereto-o-cist
+nom: Jaques de Cereto, O. Cist.
+nom_complet: Jaques de Cereto
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1217-09-17'
+  consecrateur_principal: non-indexe-bad8609e
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcereto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodi, Italy
+  du: 1217&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1217-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781160
+  catholic_hierarchy: bcereto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:37:46+00:00'
+  completeness: 0.5

@@ -1,0 +1,49 @@
+slug: marcel-fleury
+nom: Marcel Fleury
+nom_complet: null
+naissance: '1884-12-30'
+deces: '1949-08-16'
+naissance_lieu: Le Val-Saint-Germain
+deces_lieu: Nancy, Diocese of Nancy (-Toul)
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1935-02-11'
+  lieu: Saint-Louis, Cathedral, Versailles, Diocese of Versailles
+  consecrateur_principal: benjamin-octave-roland-gosselin
+  co_consecrateurs:
+  - georges-auguste-louis
+  - paul-richaud
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfleu.html
+  - https://fr.wikipedia.org/wiki/Marcel_Fleury
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nancy (-Toul), France
+  du: '1934-12-24'
+  au: '1949-08-16'
+- titre: évêque de Nancy-Toul
+  du: '1934-12-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sacre%20de%20Monseigneur%20Fleury%20%C3%A0%20Versailles%20-%20btv1b9047164v.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3288944
+  catholic_hierarchy: bfleu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:48:12+00:00'
+  completeness: 1.0

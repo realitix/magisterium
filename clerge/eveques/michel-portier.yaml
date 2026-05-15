@@ -1,0 +1,58 @@
+slug: michel-portier
+nom: Michel Portier
+nom_complet: Michael Portier
+naissance: '1795-09-07'
+deces: '1859-05-14'
+naissance_lieu: Montbrison, Archdiocese of Lyon, France
+deces_lieu: Mobile, Diocese of Mobile, Alabama
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1826-11-05'
+  lieu: St. Louis, Cathedral, St. Louis, Diocese of Saint Louis, Missouri
+  consecrateur_principal: joseph-rosati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bportier.html
+  - https://fr.wikipedia.org/wiki/Michel_Portier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Alabama and the Floridas, USA
+  du: '1825-08-26'
+  au: null
+- titre: Titular Bishop of Olena
+  du: '1825-08-26'
+  au: null
+- titre: Bishop of Mobile, Alabama, USA
+  du: '1829-05-15'
+  au: '1859-05-14'
+- titre: vicaire apostolique
+  du: '1825-08-26'
+  au: '1829-05-15'
+- titre: évêque titulaire
+  du: '1825-08-26'
+  au: '1829-05-15'
+- titre: évêque diocésain
+  du: '1829-05-15'
+  au: '1859-05-14'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Michael%20Portier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1928930
+  catholic_hierarchy: bportier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:44:59+00:00'
+  completeness: 0.88

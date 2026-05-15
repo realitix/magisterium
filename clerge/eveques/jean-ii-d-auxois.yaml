@@ -1,0 +1,45 @@
+slug: jean-ii-d-auxois
+nom: Jean II d'Auxois
+nom_complet: Jean d&rsquo;Auxois
+naissance: null
+deces: '1359-01-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdauxois.html
+  - https://fr.wikipedia.org/wiki/Jean_II_d%27Auxois
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troyes, France
+  du: '1342-09-24'
+  au: null
+- titre: Bishop of Auxerre, France
+  du: '1353-01-30'
+  au: '1359-01-10'
+- titre: évêque d'Auxerre
+  du: '1353-02-07'
+  au: '1359-01-18'
+- titre: évêque de Troyes
+  du: '1342-10-02'
+  au: '1353-02-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24937947
+  catholic_hierarchy: bdauxois
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:30:47+00:00'
+  completeness: 0.38

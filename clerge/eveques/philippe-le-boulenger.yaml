@@ -1,0 +1,39 @@
+slug: philippe-le-boulenger
+nom: Philippe le Boulenger
+nom_complet: Philippe Le Boulanger
+naissance: '1250'
+deces: '1315-04-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleboulan.html
+  - https://fr.wikipedia.org/wiki/Philippe_le_Boulenger
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1295-10-21'
+  au: '1315-04-01'
+- titre: évêque diocésain
+  du: '1295-10-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3381028
+  catholic_hierarchy: bleboulan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:18+00:00'
+  completeness: 0.38

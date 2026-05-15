@@ -1,0 +1,47 @@
+slug: basilio-pignatelli
+nom: Basilio Pignatelli
+nom_complet: Basilio Pignatelli, C.R.
+naissance: null
+deces: '1629-07-30'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1593-09-05'
+  lieu: S.Silvestre au Quirinal, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: alfonso-cardinal-gesualdo-di-conza-gonza
+  co_consecrateurs:
+  - ludovico-de-torres
+  - owen-lewis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpignb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of L&rsquo;Aquila, Italy
+  du: '1593-08-18'
+  au: 1599&sup2;
+- titre: Bishop Emeritus of L&rsquo;Aquila, Italy
+  du: null
+  au: '1629-07-30'
+- titre: évêque de L'Aquila
+  du: '1593-08-18'
+  au: '1599-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763700
+  catholic_hierarchy: bpignb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:32:41+00:00'
+  completeness: 0.88

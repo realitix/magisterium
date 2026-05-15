@@ -1,0 +1,51 @@
+slug: william-airmyn
+nom: William Airmyn
+nom_complet: William Ayermin
+naissance: '1300'
+deces: '1336-03-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1325-09-15'
+  consecrateur_principal: guillaume-de-laudun-o-p
+  co_consecrateurs:
+  - guillaume-duranti-e15665
+  - hugo-aymeri
+  - jacques-corvo-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bayermin.html
+  - https://fr.wikipedia.org/wiki/William_Airmyn
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: 1325&sup1;
+  au: '1336-03-27'
+- titre: évêque de Norwich
+  du: '1325-07-27'
+  au: '1336-04-04'
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1325-01-01'
+  au: '1325-01-01'
+- titre: lord du Sceau privé
+  du: '1324-01-01'
+  au: '1325-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8004728
+  catholic_hierarchy: bayermin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:10+00:00'
+  completeness: 0.88

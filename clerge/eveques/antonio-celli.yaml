@@ -1,0 +1,43 @@
+slug: antonio-celli
+nom: Antonio Celli
+nom_complet: Antonio Celli, O.P.
+naissance: '1595-10-02'
+deces: '1645'
+naissance_lieu: Tulfa
+deces_lieu: null
+rang: eveque
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1641-10-06'
+  consecrateur_principal: alexandre-cesarini-le-jeune-cardinal-eveque-de-viterbe
+  co_consecrateurs:
+  - giambattista-altieri
+  - deodato-scaglia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcellia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Isola, Italy
+  du: '1641-09-16'
+  au: 1645&sup2;
+- titre: Roman Catholic Bishop of Isola
+  du: '1641-09-16'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q28474132
+  catholic_hierarchy: bcellia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:36:32+00:00'
+  completeness: 0.88

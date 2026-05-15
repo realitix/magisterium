@@ -1,0 +1,49 @@
+slug: pierre-de-brabandere
+nom: Pierre de Brabandere
+nom_complet: Petrus de Brabandere
+naissance: '1828-09-25'
+deces: '1895-03-31'
+naissance_lieu: Oyghem
+deces_lieu: Bruges, Diocese of Brugge {Bruges}
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1894-06-11'
+  lieu: St. Sauveur, Bruges, Diocese of Brugge {Bruges}
+  consecrateur_principal: pierre-lambert-goossens
+  co_consecrateurs:
+  - antoine-stillemans
+  - jean-baptiste-decroliere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbraba.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Braband%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: '1894-05-18'
+  au: '1895-03-31'
+- titre: évêque de Bruges
+  du: '1894-05-18'
+  au: '1895-03-31'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Petrus%20De%20Brabandere%20-%20bisschop%20van%20Brugge%20-%201894-1895%20-%20Belgi%C3%AB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q957501
+  catholic_hierarchy: bbraba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:46:39+00:00'
+  completeness: 1.0

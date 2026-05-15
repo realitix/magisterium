@@ -1,0 +1,50 @@
+slug: gilles-de-souvre
+nom: Gilles de Souvré
+nom_complet: Gilles de Souvre
+naissance: '1596'
+deces: '1631-09-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1617-03-12'
+  consecrateur_principal: domenico-cardinal-rivarola
+  co_consecrateurs:
+  - cesare-bartolelli
+  - rodolfo-paleotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsouvre.html
+  - https://fr.wikipedia.org/wiki/Gilles_de_Souvr%C3%A9_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Bertrand de) Comminges, France
+  du: '1617-02-17'
+  au: 1625&sup1;
+- titre: Bishop of Auxerre, France
+  du: '1626-02-09'
+  au: '1631-09-19'
+- titre: évêque de Comminges
+  du: '1617-02-17'
+  au: '1625-01-01'
+- titre: évêque d'Auxerre
+  du: '1626-02-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3106589
+  catholic_hierarchy: bsouvre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:30:28+00:00'
+  completeness: 0.88

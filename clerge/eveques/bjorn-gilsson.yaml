@@ -1,0 +1,38 @@
+slug: bjorn-gilsson
+nom: Björn Gilsson
+nom_complet: null
+naissance: '1100'
+deces: '1162-10-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgilsson.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hólar, Iceland
+  du: '1147-05-04'
+  au: '1162-10-20'
+- titre: évêque diocésain
+  du: '1147-05-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16421293
+  catholic_hierarchy: bgilsson
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:23:35+00:00'
+  completeness: 0.38

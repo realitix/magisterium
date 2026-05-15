@@ -1,0 +1,44 @@
+slug: pascual-de-ampudia
+nom: Pascual de Ampudia
+nom_complet: Pascual Rebenga de Ampudia, O.P.
+naissance: '1442'
+deces: '1512-07-19'
+naissance_lieu: Ampudia, Diocese of Palencia
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q217196
+tampon: ordo_validus
+sacre:
+  date: '1497-02-05'
+  lieu: Cathedral, Burgos, Diocese of Burgos
+  consecrateur_principal: francisco-jimenez-de-cisneros
+  co_consecrateurs:
+  - diego-de-deza-o-p
+  - juan-de-castilla
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bampudia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Burgos, Spain
+  du: '1496-01-27'
+  au: '1512-07-19'
+- titre: évêque de Burgos
+  du: '1496-02-05'
+  au: '1512-07-29'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q42909771
+  catholic_hierarchy: bampudia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:36:41+00:00'
+  completeness: 0.88

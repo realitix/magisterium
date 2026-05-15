@@ -1,0 +1,48 @@
+slug: turgot-de-durham
+nom: Turgot de Durham
+nom_complet: Turgot of Durham, O.S.B.
+naissance: '1050'
+deces: '1115-08-31'
+naissance_lieu: Lincolnshire
+deces_lieu: Durham
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1109-08-01'
+  lieu: York, Archdiocese of York, England
+  consecrateur_principal: non-indexe-040875c8
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bturgo.html
+  - https://fr.wikipedia.org/wiki/Turgot_de_Durham
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: '1107-06-20'
+  au: '1115-08-31'
+- titre: évêque de St Andrews
+  du: '1109-08-08'
+  au: '1115-09-07'
+- titre: prieur de Durham
+  du: '1087-04-18'
+  au: '1109-01-01'
+- titre: évêque de Saint Andrews
+  du: '1107-06-27'
+  au: '1115-09-07'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q16208408
+  catholic_hierarchy: bturgo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:14:32+00:00'
+  completeness: 0.75

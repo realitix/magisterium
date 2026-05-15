@@ -1,0 +1,41 @@
+slug: guillaume-de-montfort-1100
+nom: Guillaume de Montfort
+nom_complet: Guilliaume de Montfort
+naissance: '1100'
+deces: '1102-08-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1096-10-01'
+  consecrateur_principal: non-indexe-532f27c6
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontforg.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Montfort_(mort_en_1101)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: 1096&sup1;
+  au: '1102-08-27'
+- titre: évêque de Paris
+  du: '1096-01-01'
+  au: '1101-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2313994
+  catholic_hierarchy: bmontforg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:08:20+00:00'
+  completeness: 0.75

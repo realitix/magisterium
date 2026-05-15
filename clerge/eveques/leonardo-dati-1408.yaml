@@ -1,0 +1,39 @@
+slug: leonardo-dati-1408
+nom: Leonardo Dati
+nom_complet: Leonardo Dachi
+naissance: '1408'
+deces: '1472'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdachi.html
+  - https://fr.wikipedia.org/wiki/Leonardo_Dati_(1408-1472)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Massa Marittima, Italy
+  du: '1467-08-17'
+  au: 1472&sup2;
+- titre: évêque diocésain
+  du: '1467-08-26'
+  au: '1472-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3830353
+  catholic_hierarchy: bdachi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:21:15+00:00'
+  completeness: 0.25

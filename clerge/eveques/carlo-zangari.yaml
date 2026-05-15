@@ -1,0 +1,43 @@
+slug: carlo-zangari
+nom: Carlo Zangari
+nom_complet: null
+naissance: '1718-10-10'
+deces: '1796-03-31'
+naissance_lieu: Gatteo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1780-09-21'
+  consecrateur_principal: henri-benoit-stuart
+  co_consecrateurs:
+  - carlo-camucio
+  - pierluigi-galletti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzangheri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Assisi, Italy
+  du: '1780-09-18'
+  au: '1796-03-31'
+- titre: Roman Catholic Bishop of Assisi
+  du: '1780-09-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733516
+  catholic_hierarchy: bzangheri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:06:05+00:00'
+  completeness: 1.0

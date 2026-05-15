@@ -1,0 +1,40 @@
+slug: pedro-de-arce-ibanez
+nom: Pedro de Arce Ibáñez
+nom_complet: Pedro de Arce, O.S.A.
+naissance: '1545'
+deces: '1645-10-16'
+naissance_lieu: Catadiano, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q928
+tampon: ordo_validus
+sacre:
+  date: '1613'
+  consecrateur_principal: diego-vazquez-de-mercado
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barcep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cebu, Philippines
+  du: '1612-09-17'
+  au: '1645-10-16'
+- titre: bishop of Cebu
+  du: '1612-09-17'
+  au: '1645-10-16'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q23581055
+  catholic_hierarchy: barcep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:45:21+00:00'
+  completeness: 0.75

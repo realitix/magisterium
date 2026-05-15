@@ -1,0 +1,40 @@
+slug: carlo-rossi
+nom: Carlo Rossi
+nom_complet: null
+naissance: null
+deces: '1679-09-09'
+naissance_lieu: Catanzaro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1659-10-05'
+  consecrateur_principal: innocent-xi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brossicar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Isola, Italy
+  du: '1659-09-01'
+  au: '1679-09-09'
+- titre: Roman Catholic Bishop of Isola
+  du: '1659-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762446
+  catholic_hierarchy: brossicar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:29:16+00:00'
+  completeness: 0.75

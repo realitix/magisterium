@@ -1,0 +1,43 @@
+slug: francisco-marvez
+nom: Francisco Marvéz
+nom_complet: null
+naissance: '1839-11-10'
+deces: '1904-12-17'
+naissance_lieu: Valencia, Archdiocese of Caracas, Santiago de Venezuela
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1898-01-16'
+  lieu: Cathedral, Caracas, Archdiocese of Caracas, Santiago de Venezuela
+  consecrateur_principal: crispulo-uzcategui
+  co_consecrateurs:
+  - antonio-ramon-silva-garcia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarvez.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zulia, Venezuela
+  du: '1897-10-25'
+  au: '1904-12-17'
+- titre: Bishop of Zulia
+  du: '1897-10-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11859893
+  catholic_hierarchy: bmarvez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:33:48+00:00'
+  completeness: 1.0

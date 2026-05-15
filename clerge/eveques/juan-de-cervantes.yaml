@@ -1,0 +1,41 @@
+slug: juan-de-cervantes
+nom: Juan de Cervantes
+nom_complet: null
+naissance: '1553-06-24'
+deces: '1614-09-13'
+naissance_lieu: México
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1609-05-03'
+  consecrateur_principal: alonso-de-la-mota-y-escobar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcervj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antequera, Oaxaca, México
+  du: '1608-05-28'
+  au: '1614-09-13'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20de%20Cervantes%20%281553-1614%29%2C%205to.%20Obispo%20de%20Oaxaca%2C%20M%C3%A9xico.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q25208983
+  catholic_hierarchy: bcervj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:38:34+00:00'
+  completeness: 0.88

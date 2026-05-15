@@ -1,0 +1,48 @@
+slug: stefan-moyses
+nom: Štefan Moyses
+nom_complet: '&#352;tefan Moyses'
+naissance: '1797-10-24'
+deces: '1869-07-05'
+naissance_lieu: Veszele, Archdiocese of Esztergom, Hungary
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1851-05-25'
+  lieu: Esztergom, Archdiocese of Esztergom, Hungary
+  consecrateur_principal: jan-krstitel-scitovszky
+  co_consecrateurs:
+  - anton-karner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoyses.html
+  - https://fr.wikipedia.org/wiki/%C5%A0tefan_Moyses
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Banská Bystrica, Slovakia
+  du: null
+  au: '1869-07-05'
+- titre: évêque diocésain
+  du: '1850-09-05'
+  au: '1869-07-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Moyzes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q392368
+  catholic_hierarchy: bmoyses
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:16:36+00:00'
+  completeness: 1.0

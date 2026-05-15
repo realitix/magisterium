@@ -1,0 +1,39 @@
+slug: bertrand-de-boyrie
+nom: Bertrand de Boyrie
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertrd.html
+  - https://fr.wikipedia.org/wiki/Bertrand_de_Boyrie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acqs (Dax), France
+  du: '1466-05-12'
+  au: '1499-04-08'
+- titre: évêque diocésain
+  du: '1466-05-21'
+  au: '1499-04-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60834796
+  catholic_hierarchy: bbertrd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:15+00:00'
+  completeness: 0.25

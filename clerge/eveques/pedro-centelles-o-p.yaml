@@ -1,0 +1,40 @@
+slug: pedro-centelles-o-p
+nom: Pedro Centelles, O.P.
+nom_complet: Pere de Centelles
+naissance: '1200'
+deces: '1252-03-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1243-11-15'
+  consecrateur_principal: pedro-albalat-o-cist
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcentep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barcelona, Spain
+  du: '1243-07-04'
+  au: '1252-03-28'
+- titre: évêque de Barcelone
+  du: '1243-07-11'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q16188401
+  catholic_hierarchy: bcentep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:36:57+00:00'
+  completeness: 0.75

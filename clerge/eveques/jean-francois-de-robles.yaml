@@ -1,0 +1,44 @@
+slug: jean-francois-de-robles
+nom: Jean-François de Robles
+nom_complet: François de Robles
+naissance: '1595'
+deces: '1659-05-18'
+naissance_lieu: Lille
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1654-10-11'
+  consecrateur_principal: antoine-triest
+  co_consecrateurs:
+  - karel-van-den-bosch
+  - jacobus-de-la-torre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broblef.html
+  - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_Robles
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1654-07-06'
+  au: '1659-05-18'
+- titre: évêque d'Ypres
+  du: '1654-07-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29738274
+  catholic_hierarchy: broblef
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:19:01+00:00'
+  completeness: 0.88

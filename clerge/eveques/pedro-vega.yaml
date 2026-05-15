@@ -1,0 +1,39 @@
+slug: pedro-vega
+nom: Pedro Vega
+nom_complet: null
+naissance: '1560-11-03'
+deces: '1616-06-17'
+naissance_lieu: Bubierca, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvegp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cartagena, Colombia
+  du: '1614-10-06'
+  au: '1616-06-17'
+- titre: évêque de Carthagène des Indes
+  du: '1614-10-06'
+  au: '1616-06-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q33309387
+  catholic_hierarchy: bvegp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:30:00+00:00'
+  completeness: 0.62

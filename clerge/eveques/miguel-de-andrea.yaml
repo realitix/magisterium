@@ -1,0 +1,55 @@
+slug: miguel-de-andrea
+nom: Miguel de Andrea
+nom_complet: "Miguel d\x92Andrea"
+naissance: '1877-07-05'
+deces: '1960-06-23'
+naissance_lieu: Navarro
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_validus
+sacre:
+  date: '1920-06-13'
+  lieu: Buenos Aires, Archdiocese of Buenos Aires
+  consecrateur_principal: alberto-vassallo-di-torregrossa
+  co_consecrateurs:
+  - juan-nepomuceno-terrero
+  - francisco-alberti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeandrea.html
+  - https://fr.wikipedia.org/wiki/Miguel_de_Andrea
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Buenos Aires, Argentina
+  du: '1919-12-18'
+  au: '1960-06-23'
+- titre: Titular Bishop of Temnus
+  du: '1919-12-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1919-12-18'
+  au: null
+- titre: évêque titulaire
+  du: '1919-12-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20de%20Andrea.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6014225
+  catholic_hierarchy: bdeandrea
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:35:42+00:00'
+  completeness: 1.0

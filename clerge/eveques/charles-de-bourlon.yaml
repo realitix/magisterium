@@ -1,0 +1,50 @@
+slug: charles-de-bourlon
+nom: Charles de Bourlon
+nom_complet: Charles de Bourlon (Bourbon)
+naissance: '1611'
+deces: '1685-10-26'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1653-02-02'
+  consecrateur_principal: nicolas-sanguin
+  co_consecrateurs:
+  - felix-vialart-de-herse
+  - henri-cauchon-de-maupas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourlon.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Bourlon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Caesarea in Bithynia
+  du: '1652-12-16'
+  au: null
+- titre: Bishop of Soissons, France
+  du: null
+  au: '1685-10-26'
+- titre: évêque titulaire
+  du: '1652-12-16'
+  au: null
+- titre: évêque de Soissons
+  du: '1656-10-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22248157
+  catholic_hierarchy: bbourlon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:06+00:00'
+  completeness: 0.88

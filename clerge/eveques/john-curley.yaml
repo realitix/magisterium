@@ -1,0 +1,41 @@
+slug: john-curley
+nom: John Curley
+nom_complet: null
+naissance: null
+deces: '1433-06-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcurleyj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dromore, Ireland
+  du: '1410-07-18'
+  au: 1419&sup1;
+- titre: Bishop Emeritus of Dromore, Ireland
+  du: null
+  au: '1433-06-12'
+- titre: évêque diocésain
+  du: '1410-07-27'
+  au: '1419-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108528334
+  catholic_hierarchy: bcurleyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:19:09+00:00'
+  completeness: 0.38

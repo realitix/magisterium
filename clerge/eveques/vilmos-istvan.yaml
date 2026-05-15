@@ -1,0 +1,60 @@
+slug: vilmos-istvan
+nom: Vilmos István
+nom_complet: null
+naissance: '1849-06-22'
+deces: '1910-12-25'
+naissance_lieu: Zala-Egerszeg, Diocese of Szombathely
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1899-01-15'
+  lieu: Szombathely, Diocese of Szombathely
+  consecrateur_principal: kornel-hidasy
+  co_consecrateurs:
+  - fulop-steiner
+  - erno-kutrovatz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bistvan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Szombathely, Hungary
+  du: '1898-11-28'
+  au: null
+- titre: Titular Bishop of Dometiopolis
+  du: '1898-11-28'
+  au: null
+- titre: Bishop of Szombathely, Hungary
+  du: null
+  au: '1910-12-25'
+- titre: évêque diocésain
+  du: '1901-11-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1898-11-28'
+  au: null
+- titre: évêque titulaire
+  du: '1898-11-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Istv%C3%A1n%20Vilmos%201901-45.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16656554
+  catholic_hierarchy: bistvan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:45+00:00'
+  completeness: 1.0

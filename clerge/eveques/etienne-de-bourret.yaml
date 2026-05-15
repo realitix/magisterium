@@ -1,0 +1,44 @@
+slug: etienne-de-bourret
+nom: Étienne de Bourret
+nom_complet: Etienne Bourret
+naissance: null
+deces: '1325-11-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: guillaume-pierre-cardinal-godin-o-p
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourret.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_de_Bourret
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: '1320-07-20'
+  au: '1325-11-24'
+- titre: évêque de Paris
+  du: '1320-07-28'
+  au: '1325-11-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sceau%20d%27Etienne%20de%20Bourret%2C%20%C3%A9v%C3%AAque%20de%20Paris.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64762383
+  catholic_hierarchy: bbourret
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:13+00:00'
+  completeness: 0.62

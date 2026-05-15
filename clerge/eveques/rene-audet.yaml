@@ -1,0 +1,63 @@
+slug: rene-audet
+nom: René Audet
+nom_complet: null
+naissance: '1920-01-18'
+deces: '2011-06-12'
+naissance_lieu: Montréal, Archdiocese of Montréal, Québec
+deces_lieu: Montréal, Archdiocese of Montréal, Québec
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1963-07-31'
+  lieu: Notre-Dame, Basilica, Ottawa, Archdiocese of Ottawa, Ontario
+  consecrateur_principal: marie-joseph-lemieux
+  co_consecrateurs:
+  - william-joseph-smith
+  - maxime-tessier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baudet.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Audet_(%C3%A9v%C3%AAque_catholique)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Ottawa, Ontario, Canada
+  du: '1963-05-21'
+  au: null
+- titre: Titular Bishop of Chonochora
+  du: '1963-05-21'
+  au: null
+- titre: Bishop of Joliette, Québec, Canada
+  du: '1968-01-03'
+  au: '1990-10-31'
+- titre: Bishop Emeritus of Joliette, Québec, Canada
+  du: null
+  au: '2011-06-12'
+- titre: évêque auxiliaire
+  du: '1963-05-21'
+  au: '1968-01-03'
+- titre: évêque de Joliette
+  du: '1968-01-03'
+  au: '1990-10-31'
+- titre: évêque titulaire
+  du: '1963-05-21'
+  au: '1968-01-03'
+- titre: évêque émérite
+  du: '1990-10-31'
+  au: '2011-06-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q452855
+  catholic_hierarchy: baudet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:07+00:00'
+  completeness: 1.0

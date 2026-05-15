@@ -1,0 +1,41 @@
+slug: ponzio-excondevilla-o-p
+nom: Ponzio Excondevilla, O.P.
+nom_complet: Ponzio Excondevilla
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bexcond.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montemarano, Italy
+  du: '1343-06-09'
+  au: null
+- titre: Bishop of Trevico, Italy
+  du: '1346-11-17'
+  au: null
+- titre: évêque diocésain
+  du: '1343-06-17'
+  au: null
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q108450695
+  catholic_hierarchy: bexcond
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:37+00:00'
+  completeness: 0.25

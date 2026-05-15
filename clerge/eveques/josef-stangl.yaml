@@ -1,0 +1,52 @@
+slug: josef-stangl
+nom: Josef Stangl
+nom_complet: null
+naissance: '1907-08-12'
+deces: '1979-04-08'
+naissance_lieu: Kronach, Archdiocese of Bamberg
+deces_lieu: Schweinfurt
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1957-09-12'
+  lieu: Neumünster, Church, Würzburg, Diocese of Würzburg
+  consecrateur_principal: josef-schneider
+  co_consecrateurs:
+  - joseph-schroffer
+  - josef-zimmermann
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstangl.html
+  - https://fr.wikipedia.org/wiki/Josef_Stangl
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '1957-06-27'
+  au: '1979-01-08'
+- titre: Bishop Emeritus of Würzburg, Germany
+  du: null
+  au: '1979-04-08'
+- titre: évêque de Wurtzbourg
+  du: '1957-06-27'
+  au: '1979-01-08'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Stangl%201962.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q72340
+  catholic_hierarchy: bstangl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:13+00:00'
+  completeness: 1.0

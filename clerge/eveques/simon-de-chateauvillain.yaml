@@ -1,0 +1,39 @@
+slug: simon-de-chateauvillain
+nom: Simon de Châteauvillain
+nom_complet: null
+naissance: null
+deces: '1335-01-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchateuvs.html
+  - https://fr.wikipedia.org/wiki/Simon_de_Ch%C3%A2teauvillain
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Marne, France
+  du: '1328-04-06'
+  au: '1335-01-08'
+- titre: évêque diocésain
+  du: '1328-04-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q48752351
+  catholic_hierarchy: bchateuvs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:50+00:00'
+  completeness: 0.38

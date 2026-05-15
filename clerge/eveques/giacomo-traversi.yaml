@@ -1,0 +1,47 @@
+slug: giacomo-traversi
+nom: Giacomo Traversi
+nom_complet: null
+naissance: '1779-10-28'
+deces: '1853-01-07'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1841-08-01'
+  lieu: Sant'Apollinare, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giuseppe-della-porta-rodiani
+  co_consecrateurs:
+  - giuseppe-maria-vespignani
+  - nicolaus-ferrarelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btraversi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segni, Italy
+  du: '1841-07-12'
+  au: '1845-06-03'
+- titre: Bishop Emeritus of Segni, Italy
+  du: null
+  au: '1853-01-07'
+- titre: Roman Catholic Bishop of Segni
+  du: '1841-07-12'
+  au: '1845-06-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707751
+  catholic_hierarchy: btraversi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:09:11+00:00'
+  completeness: 1.0

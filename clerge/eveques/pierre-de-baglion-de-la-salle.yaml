@@ -1,0 +1,48 @@
+slug: pierre-de-baglion-de-la-salle
+nom: Pierre de Baglion de La Salle
+nom_complet: Pierre de Baglion de la Salle de Saillant
+naissance: '1661-08-01'
+deces: '1723-09-27'
+naissance_lieu: Lyon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1708-06-24'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - michel-ii
+  - claude-de-la-roche-aymon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaill.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Baglion_de_La_Salle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: null
+  au: '1723-09-27'
+- titre: évêque diocésain
+  du: '1707-12-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Baglion%20de%20La%20Salle.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3387435
+  catholic_hierarchy: bsaill
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:41:58+00:00'
+  completeness: 0.88

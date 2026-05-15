@@ -1,0 +1,48 @@
+slug: lino-pizzi
+nom: Lino Pizzi
+nom_complet: null
+naissance: '1942-09-25'
+deces: null
+naissance_lieu: Rivara, Archdiocese of Modena (e Nonantola)
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2006-01-22'
+  lieu: Basilica, Co-Cathedral, Nonantola, Archdiocese of Modena-Nonantola
+  consecrateur_principal: paolo-romeo
+  co_consecrateurs:
+  - benito-cocchi
+  - vincenzo-zarri
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpizz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Forli-Bertinoro, Italy
+  du: '2005-11-12'
+  au: null
+- titre: évêque de Forlì-Bertinoro
+  du: '2005-11-12'
+  au: '2018-01-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mons.%20Lino%20Pizzi%2C%20Vescovo%20di%20Forl%C3%AC-Bertinoro%20Linopizzi.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1826974
+  catholic_hierarchy: bpizz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:37:40+00:00'
+  completeness: 0.88

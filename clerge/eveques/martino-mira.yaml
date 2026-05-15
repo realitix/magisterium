@@ -1,0 +1,41 @@
+slug: martino-mira
+nom: Martino Mira
+nom_complet: null
+naissance: '1562'
+deces: '1619-08-15'
+naissance_lieu: Vicari
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1607-02-04'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: robert-bellarmine
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmiram.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cefalù, Italy
+  du: '1607-01-29'
+  au: '1619-08-15'
+- titre: Évêque de Cefalù
+  du: '1607-01-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q51338998
+  catholic_hierarchy: bmiram
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:59:45+00:00'
+  completeness: 0.75

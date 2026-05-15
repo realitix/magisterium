@@ -1,0 +1,42 @@
+slug: louis-de-hesse
+nom: Louis de Hesse
+nom_complet: Ludwig von Hessen
+naissance: '1283'
+deces: '1357-08-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhessenl.html
+  - https://fr.wikipedia.org/wiki/Louis_II_de_M%C3%BCnster
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Münster, Germany
+  du: '1310-03-18'
+  au: '1357-08-18'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1310-03-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1874601
+  catholic_hierarchy: bhessenl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:06+00:00'
+  completeness: 0.38

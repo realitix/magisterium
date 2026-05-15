@@ -1,0 +1,48 @@
+slug: luis-bruschetti
+nom: Luis Bruschetti
+nom_complet: Luigi Bruschetti
+naissance: '1826-02-07'
+deces: '1881-10-27'
+naissance_lieu: Strada, Diocese of Osimo e Cingoli, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1876-10-08'
+  lieu: Rio de Janeiro, Diocese of São Sebastião do Rio de Janeiro, Brazil
+  consecrateur_principal: cesare-roncetti
+  co_consecrateurs:
+  - pedro-maria-de-lacerda
+  - luis-antonio-dos-santos
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrusc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Abydus
+  du: '1876-06-26'
+  au: '1881-10-27'
+- titre: évêque titulaire
+  du: '1876-06-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Luigi%20Bruschetti.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64733471
+  catholic_hierarchy: bbrusc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:56:10+00:00'
+  completeness: 1.0

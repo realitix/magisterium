@@ -1,0 +1,38 @@
+slug: carlo-calvi
+nom: Carlo Calvi
+nom_complet: null
+naissance: null
+deces: '1362'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcalvic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bobbio, Italy
+  du: 1339&sup2;
+  au: 1362&sup1;
+- titre: Roman Catholic Bishop of Bobbio
+  du: '1339-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449147
+  catholic_hierarchy: bcalvic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:09:02+00:00'
+  completeness: 0.25

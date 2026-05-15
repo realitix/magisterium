@@ -1,0 +1,50 @@
+slug: karl-ebert
+nom: Karl Ebert
+nom_complet: Karl Christian Ebert
+naissance: '1916-10-15'
+deces: '1974-11-12'
+naissance_lieu: Würzburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1973-09-15'
+  lieu: Church, Meiningen, Apostolic Administration of Erfurt-Meiningen
+  consecrateur_principal: hugo-aufderbeck
+  co_consecrateurs:
+  - johannes-braun
+  - heinrich-theissing
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bebert.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Erfurt-Meiningen, Germany
+  du: '1973-07-20'
+  au: '1974-11-12'
+- titre: Titular Bishop of Druas
+  du: '1973-07-20'
+  au: null
+- titre: évêque auxiliaire
+  du: '1973-07-20'
+  au: null
+- titre: évêque titulaire
+  du: '1973-07-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1730800
+  catholic_hierarchy: bebert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:18:21+00:00'
+  completeness: 1.0

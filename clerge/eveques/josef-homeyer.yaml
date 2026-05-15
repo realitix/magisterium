@@ -1,0 +1,54 @@
+slug: josef-homeyer
+nom: Josef Homeyer
+nom_complet: null
+naissance: '1929-08-01'
+deces: '2010-03-30'
+naissance_lieu: Harsewinkel, Diocese of Münster
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1983-11-13'
+  lieu: Cathedral, Hildesheim, Diocese of Hildesheim
+  consecrateur_principal: joseph-hoffner
+  co_consecrateurs:
+  - heinrich-maria-janssen
+  - heinrich-machens
+  - johannes-joachim-degenhardt
+  - heinrich-pachowiak
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhomeyer.html
+  - https://fr.wikipedia.org/wiki/Josef_Homeyer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: '1983-08-25'
+  au: null
+- titre: Bishop Emeritus of Hildesheim, Germany
+  du: null
+  au: '2010-03-30'
+- titre: évêque de Hildesheim
+  du: '1983-08-25'
+  au: '2004-08-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Homeyer%2002.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q85615
+  catholic_hierarchy: bhomeyer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:46:22+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: jean-flandrin
+nom: Jean Flandrin
+nom_complet: Jean Cardinal Flandrin
+naissance: '1301'
+deces: '1415-07-08'
+naissance_lieu: Viviers, Diocese of Viviers (Aps)
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1379-12-18'
+  lieu: Avignon, Diocese of Avignon
+  consecrateur_principal: anglic-grimoard
+  co_consecrateurs:
+  - bernard-alamand
+  - jacques-arthaud
+  - robert-gervasi-o-p
+  - artaud-de-melan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflandr.html
+  - https://fr.wikipedia.org/wiki/Jean_Flandrin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Auch, France
+  du: '1379-05-20'
+  au: '1390-10-17'
+- titre: Archbishop Emeritus of Auch, France
+  du: null
+  au: '1415-07-08'
+- titre: archevêque catholique
+  du: '1379-05-28'
+  au: '1390-10-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3172023
+  catholic_hierarchy: bflandr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:47:34+00:00'
+  completeness: 0.88

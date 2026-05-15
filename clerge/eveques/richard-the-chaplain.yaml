@@ -1,0 +1,44 @@
+slug: richard-the-chaplain
+nom: Richard the Chaplain
+nom_complet: Richard
+naissance: '1101'
+deces: '1175-05-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1165-03-28'
+  consecrateur_principal: richard-de-praebenda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchaplain.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: 1163&sup2;
+  au: '1175-05-05'
+- titre: évêque de Saint Andrews
+  du: '1163-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20the%20Chaplain%20-%20seal%2C%20c.%201173.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7330247
+  catholic_hierarchy: bchaplain
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:32+00:00'
+  completeness: 0.62

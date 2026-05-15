@@ -1,0 +1,47 @@
+slug: antonio-guidi-di-bagno
+nom: Antonio Guidi di Bagno
+nom_complet: null
+naissance: '1683-08-22'
+deces: '1761-12-21'
+naissance_lieu: Mantova
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1719-05-01'
+  consecrateur_principal: lorenzo-casoni
+  co_consecrateurs:
+  - camillo-marazzani
+  - prospero-marefoschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdibagno.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mantova, Italy
+  du: '1719-04-26'
+  au: '1761-12-21'
+- titre: évêque diocésain
+  du: '1719-04-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20del%20Vescovo%20di%20Mantova%20Antonio%20Guidi%20Di%20Bagno.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3619701
+  catholic_hierarchy: bdibagno
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:49:46+00:00'
+  completeness: 1.0

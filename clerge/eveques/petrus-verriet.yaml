@@ -1,0 +1,54 @@
+slug: petrus-verriet
+nom: Petrus Verriet
+nom_complet: Petrus Innocentius Johannes Humbertus Verriet, O.P.
+naissance: '1880-11-04'
+deces: '1948-03-10'
+naissance_lieu: Venray, Diocese of Roermond, Netherlands
+deces_lieu: Aruba, Vicariate Apostolic of Curaçao, Netherlands Antilles
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1932-01-06'
+  lieu: Church, Venray, Diocese of Roermond, Netherlands
+  consecrateur_principal: johannes-henricus-gerardus-jansen
+  co_consecrateurs:
+  - petrus-hopmans
+  - arnold-diepen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bverriet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Curaçao, Netherlands Antilles, Antilles
+  du: '1931-11-13'
+  au: '1948-03-10'
+- titre: Titular Bishop of Eleutherna
+  du: '1931-11-13'
+  au: null
+- titre: évêque titulaire
+  du: '1931-11-13'
+  au: null
+- titre: vicaire apostolique
+  du: '1931-11-13'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Apostolisch%20Vicaris%20Verriet.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3895835
+  catholic_hierarchy: bverriet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:34:08+00:00'
+  completeness: 1.0

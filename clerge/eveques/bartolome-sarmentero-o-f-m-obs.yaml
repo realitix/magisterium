@@ -1,0 +1,44 @@
+slug: bartolome-sarmentero-o-f-m-obs
+nom: Bartolomé Sarmentero, O.F.M. Obs.
+nom_complet: Bartolomé Sarmentero
+naissance: '1696-09-09'
+deces: '1775-12-06'
+naissance_lieu: Vega de Aldetronco
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1752-10-08'
+  lieu: Valladolid, Diocese of Valladolid
+  consecrateur_principal: pedro-clemente-de-arostegui-aristegui
+  co_consecrateurs:
+  - martin-delgado-cenarro-y-lapiedra
+  - andres-de-bustamante-garcia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsarmen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vic, Spain
+  du: '1752-07-17'
+  au: '1775-12-06'
+- titre: évêque de Vic
+  du: '1752-07-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707865
+  catholic_hierarchy: bsarmen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:54:07+00:00'
+  completeness: 1.0

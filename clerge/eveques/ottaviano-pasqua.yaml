@@ -1,0 +1,41 @@
+slug: ottaviano-pasqua
+nom: Ottaviano Pasqua
+nom_complet: null
+naissance: '1541-10-29'
+deces: '1591-01-08'
+naissance_lieu: Genes
+deces_lieu: Gerace, Diocese of Gerace
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1574-09-29'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-antonio-serbelloni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpasquao.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerace, Italy
+  du: '1574-09-17'
+  au: '1591-01-08'
+- titre: évêque diocésain
+  du: '1574-09-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745641
+  catholic_hierarchy: bpasquao
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:12:13+00:00'
+  completeness: 0.88

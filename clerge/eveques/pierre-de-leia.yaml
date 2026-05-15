@@ -1,0 +1,44 @@
+slug: pierre-de-leia
+nom: Pierre de Leia
+nom_complet: Peter de Leia
+naissance: '1101'
+deces: '1198-07-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1176-11-07'
+  consecrateur_principal: gilbert-foliot
+  co_consecrateurs:
+  - non-indexe-8466731c
+  - roger-of-gloucester
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleia.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Leia
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: 1176&sup1;
+  au: '1198-07-16'
+- titre: évêque diocésain
+  du: '1176-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7177893
+  catholic_hierarchy: bleia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:41:31+00:00'
+  completeness: 0.88

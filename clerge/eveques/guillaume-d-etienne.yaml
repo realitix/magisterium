@@ -1,0 +1,41 @@
+slug: guillaume-d-etienne
+nom: Guillaume d'Étienne
+nom_complet: Guillaume d&rsquo;Étienne
+naissance: '1250'
+deces: '1328-08-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1318-03-13'
+  consecrateur_principal: niccolo-alberti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdestieng.html
+  - https://fr.wikipedia.org/wiki/Guillaume_d%27%C3%89tienne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap, France
+  du: 1318&sup1;
+  au: '1328-08-29'
+- titre: évêque diocésain
+  du: '1318-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3120271
+  catholic_hierarchy: bdestieng
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:46:09+00:00'
+  completeness: 0.75

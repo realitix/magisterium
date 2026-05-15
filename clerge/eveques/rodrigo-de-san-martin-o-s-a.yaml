@@ -1,0 +1,39 @@
+slug: rodrigo-de-san-martin-o-s-a
+nom: Rodrigo de San Martín, O.S.A.
+nom_complet: Rodrigo de San Martín
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1486-01-27'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsnmartr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Sebaste in Palaestina
+  du: '1486-01-27'
+  au: 1491&sup2;
+- titre: évêque titulaire
+  du: '1486-01-27'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68911090
+  catholic_hierarchy: bsnmartr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:24:52+00:00'
+  completeness: 0.25

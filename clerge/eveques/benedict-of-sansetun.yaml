@@ -1,0 +1,43 @@
+slug: benedict-of-sansetun
+nom: Benedict of Sansetun
+nom_complet: Benedict of Sausetun
+naissance: '1150'
+deces: '1226-12-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1215-02-22'
+  consecrateur_principal: stephen-cardinal-langton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanset.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1214-12-13'
+  au: '1226-12-18'
+- titre: évêque de Rochester
+  du: '1214-12-13'
+  au: null
+- titre: évêque diocésain
+  du: '1214-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4887328
+  catholic_hierarchy: bsanset
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:50:30+00:00'
+  completeness: 0.75

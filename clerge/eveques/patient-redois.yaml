@@ -1,0 +1,51 @@
+slug: patient-redois
+nom: Patient Redois
+nom_complet: Patient Honoré Pierre Yvon Redois, S.M.A.
+naissance: '1925-05-16'
+deces: '1993-06-08'
+naissance_lieu: La Marne, Diocese of Nantes, France
+deces_lieu: Salin-de-Giraud, Archdiocese of Aix (-Arles-Embrun), France
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1964-05-07'
+  lieu: Saints Pierre et Paul, Cathedral, Nantes, Diocese of Nantes, France
+  consecrateur_principal: jean-joseph-leonce-villepelet
+  co_consecrateurs:
+  - francois-xavier-arthur-florent-morilleau
+  - albert-malbois
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bredois.html
+  - https://fr.wikipedia.org/wiki/Patient_Redois
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Natitingou, Benin
+  du: '1964-02-10'
+  au: '1983-11-11'
+- titre: Apostolic Administrator of Parakou, Benin
+  du: '1975-09-29'
+  au: '1976-07-25'
+- titre: Bishop Emeritus of Natitingou, Benin
+  du: null
+  au: '1993-06-08'
+- titre: évêque diocésain
+  du: '1964-02-10'
+  au: '1983-11-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752713
+  catholic_hierarchy: bredois
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:16+00:00'
+  completeness: 1.0

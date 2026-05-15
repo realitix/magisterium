@@ -1,0 +1,45 @@
+slug: desinord-jean
+nom: Désinord Jean
+nom_complet: null
+naissance: '1967-09-26'
+deces: null
+naissance_lieu: Furcy
+deces_lieu: null
+rang: eveque
+nationalite: Q790
+tampon: ordo_dubius
+sacre:
+  date: '2016-07-02'
+  lieu: Immaculée Conception, Cathedral, Hinche, Diocese of Hinche
+  consecrateur_principal: chibly-langlois
+  co_consecrateurs:
+  - guire-poulard
+  - glandas-marie-erick-toussaint
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjeand.html
+  - https://fr.wikipedia.org/wiki/D%C3%A9sinord_Jean
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hinche, Haïti
+  du: '2016-04-04'
+  au: null
+- titre: évêque diocésain
+  du: '2016-04-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23874275
+  catholic_hierarchy: bjeand
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:00:00+00:00'
+  completeness: 0.88

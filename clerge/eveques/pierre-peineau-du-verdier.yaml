@@ -1,0 +1,40 @@
+slug: pierre-peineau-du-verdier
+nom: Pierre Peineau du Verdier
+nom_complet: Pierre Peineau du Verdier, C.O.
+naissance: '1729-04-01'
+deces: '1788-11-03'
+naissance_lieu: Tonneins
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1782-04-07'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpdv.html
+  - https://fr.wikipedia.org/wiki/Pierre_Peineau_du_Verdier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Accia and Mariana, France
+  du: null
+  au: '1788-11-03'
+- titre: évêque d'Accia et Mariana
+  du: '1781-11-11'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q28840850
+  catholic_hierarchy: bpdv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:15:33+00:00'
+  completeness: 0.5

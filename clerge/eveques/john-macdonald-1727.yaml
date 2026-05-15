@@ -1,0 +1,53 @@
+slug: john-macdonald-1727
+nom: John MacDonald
+nom_complet: null
+naissance: '1727'
+deces: '1779-05-09'
+naissance_lieu: Ardnamurchan, Argyllshire
+deces_lieu: Knoydart
+rang: eveque
+nationalite: Q161885
+tampon: ordo_validus
+sacre:
+  date: '1761-09-27'
+  lieu: Preshome
+  consecrateur_principal: hugh-macdonald
+  co_consecrateurs:
+  - alexander-smith-1684
+  - james-grant
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmacdj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Vicar Apostolic of Highland District, Scotland, Great Britain
+  du: '1761-02-25'
+  au: null
+- titre: Titular Bishop of Tiberiopolis
+  du: '1761-02-25'
+  au: null
+- titre: Vicar Apostolic of Highland District, Scotland, Great Britain
+  du: null
+  au: '1779-05-09'
+- titre: évêque titulaire
+  du: '1761-02-25'
+  au: null
+- titre: vicaire apostolique
+  du: '1773-03-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6246057
+  catholic_hierarchy: bmacdj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:08:53+00:00'
+  completeness: 0.88

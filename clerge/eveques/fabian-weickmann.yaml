@@ -1,0 +1,47 @@
+slug: fabian-weickmann
+nom: Fabian Weickmann
+nom_complet: null
+naissance: '1500'
+deces: '1526-11-29'
+naissance_lieu: Leipheim
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1514-02-12'
+  lieu: Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: gabriel-von-eyb
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eichstätt, Germany
+  du: 1512&sup1;
+  au: '1526-11-29'
+- titre: Titular Bishop of Philadelphia in Arabia
+  du: 1512&sup1;
+  au: null
+- titre: évêque auxiliaire
+  du: '1512-01-01'
+  au: null
+- titre: évêque titulaire
+  du: '1512-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61512015
+  catholic_hierarchy: bweic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:42+00:00'
+  completeness: 0.75

@@ -1,0 +1,58 @@
+slug: mathurin-picarda
+nom: Mathurin Picarda
+nom_complet: Mathurin Picarda, C.S.Sp.
+naissance: '1845-05-12'
+deces: '1889-01-22'
+naissance_lieu: Meslan, Diocese of Vannes, France
+deces_lieu: Dakar, Vicariate Apostolic of Senegambia
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1887-09-18'
+  lieu: "Holy Spirit\x92s Seminary, Chapel, Paris, Archdiocese of Paris, France"
+  consecrateur_principal: jean-marie-becel
+  co_consecrateurs:
+  - julien-francois-pierre-carmene
+  - francois-marie-duboin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpicar.html
+  - https://fr.wikipedia.org/wiki/Mathurin_Picarda
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prefect of Sénégal
+  du: '1887-07-14'
+  au: null
+- titre: Vicar Apostolic of Senegambia, Senegal
+  du: '1887-07-19'
+  au: '1889-01-22'
+- titre: Titular Bishop of Paphus
+  du: '1887-07-19'
+  au: null
+- titre: évêque titulaire
+  du: '1887-07-19'
+  au: null
+- titre: vicaire apostolique
+  du: '1887-07-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Mathurin%20Picarda%20%281845-1889%29%20Vicaire%20apostolique%20de%20S%C3%A9n%C3%A9gambie%20de%201887%20%C3%A0%201889.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3299034
+  catholic_hierarchy: bpicar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:29:47+00:00'
+  completeness: 1.0

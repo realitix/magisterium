@@ -1,0 +1,44 @@
+slug: stefano-martini
+nom: Stefano Martini
+nom_complet: null
+naissance: '1605'
+deces: '1687-02-01'
+naissance_lieu: Alassio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1646-03-11'
+  lieu: Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: orazio-giustiniani
+  co_consecrateurs:
+  - ascanio-cassiani
+  - pietro-paolo-bonsi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartinis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Noli, Italy
+  du: '1646-02-19'
+  au: Feb 1687&sup3;
+- titre: Roman Catholic Bishop of Noli
+  du: '1646-02-19'
+  au: '1687-02-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3972583
+  catholic_hierarchy: bmartinis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:52+00:00'
+  completeness: 0.75

@@ -1,0 +1,47 @@
+slug: john-harty
+nom: John Harty
+nom_complet: John Mary Harty
+naissance: '1867-08-11'
+deces: '1946-09-11'
+naissance_lieu: Murroe
+deces_lieu: null
+rang: archeveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1914-01-18'
+  consecrateur_principal: thomas-fennelly
+  co_consecrateurs:
+  - robert-browne
+  - richard-alphonsus-sheehan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhartyj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Cashel (-Emly), Ireland
+  du: '1913-12-04'
+  au: '1946-09-11'
+- titre: archevêque catholique
+  du: '1914-01-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Mary%20Harty%20%281867%E2%80%931946%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q18646107
+  catholic_hierarchy: bhartyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:35:19+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: antonio-sellent
+nom: Antonio Sellent
+nom_complet: null
+naissance: '1670-07-06'
+deces: '1737-07-01'
+naissance_lieu: Cagliari, Archdiocese of Cagliari
+deces_lieu: Cagliari, Archdiocese of Cagliari
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1713-07-30'
+  lieu: Santa Maria alla Sapienza, Church, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: antonio-maria-brancaccio-c-r
+  co_consecrateurs:
+  - luca-trapani
+  - nicolo-rocco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsellent.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Cagliari, Italy
+  du: '1712-03-02'
+  au: Jul 1737&sup3;
+- titre: Titular Bishop of Adraa
+  du: '1712-03-02'
+  au: null
+- titre: évêque auxiliaire
+  du: '1712-03-02'
+  au: null
+- titre: évêque titulaire
+  du: '1712-03-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747077
+  catholic_hierarchy: bsellent
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:59+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: nicolas-de-haudion
+nom: Nicolas de Haudion
+nom_complet: Nicolaas de Haudion
+naissance: '1596'
+deces: '1649-09-26'
+naissance_lieu: Bruxelles
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-01-26'
+  consecrateur_principal: jacques-boonen
+  co_consecrateurs:
+  - antoine-triest
+  - josse-bouckaert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaudion.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: null
+  au: '1649-09-26'
+- titre: évêque de Bruges
+  du: '1639-05-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus%20Haudion.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4369505
+  catholic_hierarchy: bhaudion
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:35:59+00:00'
+  completeness: 0.88

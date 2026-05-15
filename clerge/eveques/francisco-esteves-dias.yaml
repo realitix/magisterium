@@ -1,0 +1,47 @@
+slug: francisco-esteves-dias
+nom: Francisco Esteves Dias
+nom_complet: Francisco Esteves Dias, O.S.B.
+naissance: '1920-09-21'
+deces: '1977-12-02'
+naissance_lieu: Sâo Vicente da Châ, Diocese of Vila Real, Portugal
+deces_lieu: Firvidas-Montalegre, Portugal
+rang: eveque
+nationalite: Q45
+tampon: ordo_validus
+sacre:
+  date: '1963-09-08'
+  lieu: São Bento, Abbey, Singeverga, Portugal
+  consecrateur_principal: maximilien-de-furstenberg
+  co_consecrateurs:
+  - florentino-de-andrade-e-silva
+  - manuel-antonio-pires
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/besteves.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luso, Angola
+  du: '1963-07-01'
+  au: '1976-04-13'
+- titre: Bishop Emeritus of Luso, Angola
+  du: null
+  au: '1977-12-02'
+- titre: évêque diocésain
+  du: '1963-07-01'
+  au: '1976-04-13'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q2695992
+  catholic_hierarchy: besteves
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:21+00:00'
+  completeness: 1.0

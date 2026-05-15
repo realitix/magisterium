@@ -1,0 +1,51 @@
+slug: bernhard-christen
+nom: Bernhard Christen
+nom_complet: Bernhard Eduard Christen, O.F.M. Cap.
+naissance: '1837-07-24'
+deces: '1909-03-11'
+naissance_lieu: Andermatt, Switzerland
+deces_lieu: null
+rang: archeveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1908-06-14'
+  lieu: Santa Maria della Concezione dei Cappuccini, Church, Roma, Diocese of Roma
+    {Rome}, Italy
+  consecrateur_principal: antonio-agliardi
+  co_consecrateurs:
+  - paolo-marco-tei-o-f-m-cap
+  - mauro-bernardo-pietro-nardi-o-f-m-cap
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Minister General of Order of Friars Minor Capuchin
+  du: null
+  au: '1908-05-25'
+- titre: Titular Archbishop of Stauropolis
+  du: '1908-06-06'
+  au: '1909-03-11'
+- titre: archevêque titulaire
+  du: '1908-06-06'
+  au: null
+- titre: archevêque catholique
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55847443
+  catholic_hierarchy: bchri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:48:14+00:00'
+  completeness: 1.0

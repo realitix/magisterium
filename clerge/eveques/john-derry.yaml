@@ -1,0 +1,43 @@
+slug: john-derry
+nom: John Derry
+nom_complet: null
+naissance: '1811-06-19'
+deces: '1870-06-28'
+naissance_lieu: Hermitage, Moore
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1847-09-21'
+  consecrateur_principal: john-machale
+  co_consecrateurs:
+  - john-cantwell-1792
+  - george-joseph-plunkett-browne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bderryj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clonfert, Ireland
+  du: '1847-07-09'
+  au: '1870-06-28'
+- titre: évêque diocésain
+  du: '1847-07-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735631
+  catholic_hierarchy: bderryj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:44:20+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: carlo-pisani
+nom: Carlo Pisani
+nom_complet: Carlo Pesaro (Pisani)
+naissance: null
+deces: '1587'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1579-12-21'
+  consecrateur_principal: giovanni-trevisan
+  co_consecrateurs:
+  - agostino-cardinal-valier-valeri-valieri
+  - matteo-priuli-1528
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpisanic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Torcello (Turris), Italy
+  du: '1579-08-26'
+  au: 1587&sup2;
+- titre: évêque de Torcello
+  du: '1579-09-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q42362125
+  catholic_hierarchy: bpisanic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:36:38+00:00'
+  completeness: 0.75

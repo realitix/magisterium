@@ -1,0 +1,41 @@
+slug: wolfhard-von-roth
+nom: Wolfhard von Roth
+nom_complet: null
+naissance: '1300'
+deces: '1302-01-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '4'
+  consecrateur_principal: reinboto-von-meilenhart
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brothw.html
+  - https://fr.wikipedia.org/wiki/Wolfhard_de_Roth
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: 18 Aug 1288&#8310;
+  au: '1302-01-13'
+- titre: évêque d'Augsbourg
+  du: '1288-08-25'
+  au: '1302-01-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2591942
+  catholic_hierarchy: brothw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:31:00+00:00'
+  completeness: 0.75

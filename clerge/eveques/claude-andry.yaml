@@ -1,0 +1,49 @@
+slug: claude-andry
+nom: Claude Andry
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1542-07-02'
+  consecrateur_principal: louis-guillart
+  co_consecrateurs:
+  - philippe-de-cosse-brisac
+  - charles-boucher-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bandry.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chartres, France
+  du: '1542-05-05'
+  au: Mar 1556&sup3;
+- titre: Titular Bishop of Sebaste in Cilicia
+  du: '1542-05-05'
+  au: null
+- titre: évêque titulaire
+  du: '1542-05-05'
+  au: null
+- titre: évêque auxiliaire
+  du: '1542-05-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780943
+  catholic_hierarchy: bandry
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:38:38+00:00'
+  completeness: 0.75

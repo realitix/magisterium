@@ -1,0 +1,54 @@
+slug: peter-henrici
+nom: Peter Henrici
+nom_complet: Peter Henrici, S.J.
+naissance: '1928-03-31'
+deces: '2023-06-06'
+naissance_lieu: Zürich
+deces_lieu: Brig
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1993-05-31'
+  lieu: Abbey, Einsiedeln, Territorial Abbey of Maria Einsiedeln
+  consecrateur_principal: bernardin-gantin
+  co_consecrateurs:
+  - pierre-mamie
+  - wolfgang-haas
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenrici.html
+  - https://fr.wikipedia.org/wiki/Pierre_Henrici
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chur, Switzerland
+  du: '1993-03-04'
+  au: null
+- titre: Titular Bishop of Absorus
+  du: '1993-03-04'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Chur, Switzerland
+  du: null
+  au: '2023-06-06'
+- titre: évêque titulaire
+  du: '1993-03-04'
+  au: '2023-06-06'
+- titre: évêque auxiliaire
+  du: '1993-03-04'
+  au: '2007-02-05'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q117966
+  catholic_hierarchy: bhenrici
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:24+00:00'
+  completeness: 1.0

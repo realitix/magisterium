@@ -1,0 +1,48 @@
+slug: john-mcmullen
+nom: John McMullen
+nom_complet: null
+naissance: '1832-01-08'
+deces: '1883-07-04'
+naissance_lieu: Ballynahinch, County Down, Diocese of Dromore, Ireland
+deces_lieu: Davenport, Diocese of Davenport, Iowa
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1881-07-25'
+  lieu: Chicago, Archdiocese of Chicago, Illinois
+  consecrateur_principal: patrick-feehan
+  co_consecrateurs:
+  - john-hennessy
+  - john-lancaster-spalding
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcmullen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Davenport, Iowa, USA
+  du: '1881-06-14'
+  au: '1883-07-04'
+- titre: évêque diocésain
+  du: '1881-06-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20McMullen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6248168
+  catholic_hierarchy: bmcmullen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:45:15+00:00'
+  completeness: 1.0

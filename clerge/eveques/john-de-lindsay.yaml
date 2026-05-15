@@ -1,0 +1,44 @@
+slug: john-de-lindsay
+nom: John de Lindsay
+nom_complet: John de Lindesey
+naissance: '1201'
+deces: '1335'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1323-10-09'
+  consecrateur_principal: vital-cardinal-du-four
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blindesey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glasgow, Scotland, Great Britain
+  du: '1323-03-15'
+  au: 1335&sup2;
+- titre: évêque de Glasgow
+  du: '1323-03-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20de%20Lindsay%20-%20seal%2C%20c.%201325.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q13528951
+  catholic_hierarchy: blindesey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:51:04+00:00'
+  completeness: 0.62

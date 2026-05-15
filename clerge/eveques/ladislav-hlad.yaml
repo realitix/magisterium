@@ -1,0 +1,48 @@
+slug: ladislav-hlad
+nom: Ladislav Hlad
+nom_complet: null
+naissance: '1908-02-03'
+deces: '1979-12-16'
+naissance_lieu: Plze&#328;, Archdiocese of Praha {Prague}, Czechia
+deces_lieu: Clergy house, Moravec, Diocese of Brno, Czechia
+rang: eveque
+nationalite: Q33946
+tampon: ordo_validus
+sacre:
+  date: '1950-03-26'
+  lieu: Svat&yacute; Vav&#345;ince, Chapel, Litom&#283;&#345;ice, Diocese of Litom&#283;&#345;ice,
+    Czechia
+  consecrateur_principal: stepan-trochta
+  co_consecrateurs:
+  - kajetan-matousek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhlad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Cediae
+  du: '1950-02-09'
+  au: '1979-12-16'
+- titre: évêque titulaire
+  du: '1950-02-09'
+  au: '1979-12-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biskup%20Ladislav%20Hlad.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12032497
+  catholic_hierarchy: bhlad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:44:07+00:00'
+  completeness: 1.0

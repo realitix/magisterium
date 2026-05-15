@@ -1,0 +1,43 @@
+slug: guilherme-muller
+nom: Guilherme Müller
+nom_complet: null
+naissance: '1877-06-28'
+deces: '1935-12-11'
+naissance_lieu: Ricado do Serro Alegre
+deces_lieu: null
+rang: eveque
+nationalite: Q155
+tampon: ordo_validus
+sacre:
+  date: '1926-08-22'
+  consecrateur_principal: miguel-de-lima-valverde
+  co_consecrateurs:
+  - hermeto-jose-pinheiro
+  - joaquim-ferreira-de-melo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmuellerg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barra do Piraí, Brazil
+  du: '1925-12-14'
+  au: '1935-12-11'
+- titre: évêque diocésain
+  du: '1925-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q10292817
+  catholic_hierarchy: bmuellerg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:17:53+00:00'
+  completeness: 1.0

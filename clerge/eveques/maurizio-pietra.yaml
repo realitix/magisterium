@@ -1,0 +1,44 @@
+slug: maurizio-pietra
+nom: Maurizio Pietra
+nom_complet: null
+naissance: '1514-09-21'
+deces: '1576-05-20'
+naissance_lieu: Cremona, Diocese of Cremona
+deces_lieu: Vigevano, Diocese of Vigevano
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1552'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: filippo-archinto-1500
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpietm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Vigevano, Italy
+  du: '1541-06-19'
+  au: null
+- titre: Bishop of Vigevano, Italy
+  du: null
+  au: '1576-05-20'
+- titre: évêque diocésain
+  du: '1552-11-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3852684
+  catholic_hierarchy: bpietm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:32:10+00:00'
+  completeness: 0.88

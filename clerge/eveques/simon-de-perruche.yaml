@@ -1,0 +1,39 @@
+slug: simon-de-perruche
+nom: Simon de Perruche
+nom_complet: Simon de Perruchay
+naissance: null
+deces: '1297-10-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperruch.html
+  - https://fr.wikipedia.org/wiki/Simon_de_Perruche
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: '1280-04-08'
+  au: '1297-10-28'
+- titre: évêque diocésain
+  du: '1280-04-15'
+  au: '1297-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3484498
+  catholic_hierarchy: bperruch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:24:15+00:00'
+  completeness: 0.38

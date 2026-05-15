@@ -1,0 +1,38 @@
+slug: eucher-de-saint-vital
+nom: Eucher de Saint-Vital
+nom_complet: Eucherio Sanvitale
+naissance: '1505'
+deces: '1571-01-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanve.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viviers (Aps), France
+  du: '1564-09-06'
+  au: '1571-01-05'
+- titre: évêque diocésain
+  du: '1564-09-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3734132
+  catholic_hierarchy: bsanve
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:52:24+00:00'
+  completeness: 0.38

@@ -1,0 +1,50 @@
+slug: placido-della-marra
+nom: Placido della Marra
+nom_complet: null
+naissance: '1560'
+deces: '1620-12-02'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Melfi, Diocese of Melfi e Rapolla
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1595-04-02'
+  lieu: S. Barthelemy, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - flaminio-filonardi
+  - leonardo-abela
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarrap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Melfi e Rapolla, Italy
+  du: '1595-03-06'
+  au: '1620-12-02'
+- titre: Apostolic Nuncio to Emperor
+  du: '1612-07-21'
+  au: '1616-08-25'
+- titre: évêque diocésain
+  du: '1595-03-06'
+  au: null
+- titre: nonce apostolique auprès de l'Empereur
+  du: '1612-07-21'
+  au: '1616-08-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23770498
+  catholic_hierarchy: bmarrap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:09+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: emmanuel-delmas
+nom: Emmanuel Delmas
+nom_complet: Emmanuel Luc Jean-Marie Delmas
+naissance: '1954-12-28'
+deces: null
+naissance_lieu: Figeac
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2008-09-28'
+  consecrateur_principal: pierre-d-ornellas
+  co_consecrateurs:
+  - jean-louis-brugues
+  - norbert-turini
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelmas.html
+  - https://fr.wikipedia.org/wiki/Emmanuel_Delmas
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angers, France
+  du: '2008-06-17'
+  au: null
+- titre: évêque d'Angers
+  du: '2008-06-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Delmas%20septembre%202014%20%28cropped%29.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1338344
+  catholic_hierarchy: bdelmas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:40:30+00:00'
+  completeness: 0.88

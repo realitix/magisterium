@@ -1,0 +1,51 @@
+slug: luis-folgueras-y-sion
+nom: Luis Folgueras y Sión
+nom_complet: Luis Antonio Folgueras y Sión
+naissance: '1769-12-13'
+deces: '1850-10-28'
+naissance_lieu: Villavaler
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1825-01-30'
+  consecrateur_principal: antonio-allue-sese
+  co_consecrateurs:
+  - joaquin-lopez-y-sicilia
+  - manuel-bernardo-morete-bodelon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfolgue.html
+  - https://fr.wikipedia.org/wiki/Luis_Folgueras_y_Si%C3%B3n
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Granada, Spain
+  du: null
+  au: '1850-10-28'
+- titre: évêque de San Cristóbal de La Laguna
+  du: '1824-06-24'
+  au: '1848-01-17'
+- titre: archevêque de Grenade
+  du: '1848-01-17'
+  au: '1850-10-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Luis%20Antonio%20Folgueras%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q28060589
+  catholic_hierarchy: bfolgue
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:50:18+00:00'
+  completeness: 1.0

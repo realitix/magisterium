@@ -1,0 +1,44 @@
+slug: antonio-sena
+nom: Antonio Sena
+nom_complet: null
+naissance: '1814-03-29'
+deces: '1887-03-20'
+naissance_lieu: Montemarano, Diocese of Nusco
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1873'
+  lieu: San Agostino, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - alessandro-franchi
+  - francesco-marinelli-o-e-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsenaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ascoli Satriano e Cerignola, Italy
+  du: '1872-12-23'
+  au: '1887-03-20'
+- titre: évêque diocésain
+  du: '1872-12-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752514
+  catholic_hierarchy: bsenaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:09:39+00:00'
+  completeness: 1.0

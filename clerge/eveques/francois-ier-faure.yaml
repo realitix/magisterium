@@ -1,0 +1,51 @@
+slug: francois-ier-faure
+nom: François Ier Faure
+nom_complet: François Faure
+naissance: '1612-11-09'
+deces: '1687-05-11'
+naissance_lieu: Sainte-Quiterie de Chadurie
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1651-09-03'
+  consecrateur_principal: hardouin-de-perefixe-de-beaumont
+  co_consecrateurs:
+  - pierre-de-bedacier-o-s-b
+  - henri-marie-de-laval-de-boisdauphin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfauref.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ier_Faure
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: null
+  au: '1687-05-11'
+- titre: évêque de Glandèves
+  du: '1651-03-06'
+  au: null
+- titre: évêque d'Amiens
+  du: '1653-03-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Fran%C3%A7ois%20Faure%2C%20RP-P-1909-1157.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1451018
+  catholic_hierarchy: bfauref
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:29+00:00'
+  completeness: 1.0

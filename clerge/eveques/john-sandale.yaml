@@ -1,0 +1,52 @@
+slug: john-sandale
+nom: John Sandale
+nom_complet: John Sendale
+naissance: '1250'
+deces: '1319-11-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1316-10-31'
+  consecrateur_principal: walter-reynolds
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsendale.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: null
+  au: Oct 1319&sup3;
+- titre: doyen de la cathédrale Saint-Paul de Londres
+  du: '1314-01-01'
+  au: '1316-01-01'
+- titre: évêque diocésain
+  du: '1316-08-03'
+  au: null
+- titre: gardien de la Monnaie
+  du: '1298-01-01'
+  au: '1305-01-01'
+- titre: chancelier de l'Échiquier
+  du: '1307-08-28'
+  au: '1308-05-28'
+- titre: évêque de Winchester
+  du: '1316-01-01'
+  au: '1319-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6256605
+  catholic_hierarchy: bsendale
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:09:44+00:00'
+  completeness: 0.62

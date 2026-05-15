@@ -1,0 +1,40 @@
+slug: lorenzo-laureti
+nom: Lorenzo Laureti
+nom_complet: Lorenzo Laureti, O. Carm.
+naissance: '1534-09-27'
+deces: '1598-01-29'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: Venezia, Patriarchate of Venezia {Venice}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1591-02-24'
+  lieu: S.Maria in Transpontine, Roma, Diocese of Roma {Rome}
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blauretl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Adria, Italy
+  du: '1591-02-13'
+  au: '1598-01-29'
+- titre: évêque diocésain
+  du: '1591-02-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3836983
+  catholic_hierarchy: blauretl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:36:22+00:00'
+  completeness: 0.62

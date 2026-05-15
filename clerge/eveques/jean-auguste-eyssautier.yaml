@@ -1,0 +1,54 @@
+slug: jean-auguste-eyssautier
+nom: Jean-Auguste Eyssautier
+nom_complet: Jean-Auguste-François-Eutrope Eyssautier
+naissance: '1844-11-30'
+deces: '1923-03-07'
+naissance_lieu: Entrevaux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-11-30'
+  consecrateur_principal: victor-lecot
+  co_consecrateurs:
+  - pierre-marie-etienne-gustave-ardin
+  - edwin-bonnefoy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beyss.html
+  - https://fr.wikipedia.org/wiki/Jean-Auguste_Eyssautier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of La Rochelle (-Saintes), France
+  du: '1906-11-27'
+  au: '1923-03-07'
+- titre: vicaire général
+  du: '1893-01-01'
+  au: '1894-01-01'
+- titre: évêque de La Rochelle et Saintes
+  du: '1906-11-27'
+  au: '1923-03-07'
+- titre: directeur ou directrice
+  du: '1894-01-01'
+  au: '1906-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Mgr%20Eyssautier.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q60930757
+  catholic_hierarchy: beyss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:51+00:00'
+  completeness: 1.0

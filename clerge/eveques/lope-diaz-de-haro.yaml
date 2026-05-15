@@ -1,0 +1,38 @@
+slug: lope-diaz-de-haro
+nom: Lope Díaz de Haro
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiazdhar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sigüenza, Spain
+  du: 1269&sup2;
+  au: 1271&sup1;
+- titre: évêque de Sigüenza
+  du: '1269-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108479841
+  catholic_hierarchy: bdiazdhar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:49:26+00:00'
+  completeness: 0.25

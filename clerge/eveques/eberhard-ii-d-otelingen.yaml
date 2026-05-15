@@ -1,0 +1,41 @@
+slug: eberhard-ii-d-otelingen
+nom: Eberhard II d'Otelingen
+nom_complet: Eberhard von Otelingen
+naissance: '1100'
+deces: '1170-07-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1146-12-31'
+  consecrateur_principal: non-indexe-d6da50fe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boteli.html
+  - https://fr.wikipedia.org/wiki/Eberhard_von_Otelingen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: 1146&sup2;
+  au: '1170-07-15'
+- titre: évêque de Bamberg
+  du: '1146-01-01'
+  au: '1170-07-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1279101
+  catholic_hierarchy: boteli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:59:28+00:00'
+  completeness: 0.62

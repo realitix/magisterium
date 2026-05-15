@@ -1,0 +1,44 @@
+slug: manuel-do-rego-medeiros
+nom: Manuel do Rego Medeiros
+nom_complet: Manoel do Rego Medeiros
+naissance: '1829-09-21'
+deces: '1866-09-16'
+naissance_lieu: Aracati
+deces_lieu: null
+rang: eveque
+nationalite: Q155
+tampon: ordo_validus
+sacre:
+  date: '1865-11-12'
+  lieu: Ste Croix de Jeruslaem, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: niccola-clarelli-parracciani
+  co_consecrateurs:
+  - alessandro-franchi
+  - giuseppe-berardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bregm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Olinda, Brazil
+  du: '1865-09-25'
+  au: '1866-09-16'
+- titre: évêque diocésain
+  du: '1865-09-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q10324706
+  catholic_hierarchy: bregm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:01+00:00'
+  completeness: 1.0

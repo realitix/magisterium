@@ -1,0 +1,44 @@
+slug: miguel-de-torres-o-p
+nom: Miguel de Torres, O.P.
+nom_complet: Miguel de Torres
+naissance: '1593'
+deces: '1645'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1644-04-24'
+  lieu: Santa Maria sopra Minerva, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: gil-cardinal-carrillo-de-albornoz
+  co_consecrateurs:
+  - deodato-scaglia
+  - giuseppe-ciantes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btorresm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Potenza, Italy
+  du: null
+  au: 1645&sup1;
+- titre: évêque diocésain
+  du: '1644-01-03'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q23619765
+  catholic_hierarchy: btorresm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:06:25+00:00'
+  completeness: 0.75

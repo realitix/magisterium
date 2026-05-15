@@ -1,0 +1,38 @@
+slug: humbert-fallavel-o-p
+nom: Humbert Fallavel, O.P.
+nom_complet: Humbert Fallavel
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfallavel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sisteron, France
+  du: 1250&sup2;
+  au: 1256&sup2;
+- titre: évêque diocésain
+  du: '1250-01-01'
+  au: '1256-01-01'
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q108480365
+  catholic_hierarchy: bfallavel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:30:45+00:00'
+  completeness: 0.25

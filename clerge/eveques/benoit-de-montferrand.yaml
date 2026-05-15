@@ -1,0 +1,48 @@
+slug: benoit-de-montferrand
+nom: Benoît de Montferrand
+nom_complet: Benoit de Montferrand
+naissance: '1450'
+deces: '1491-05-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontfer.html
+  - https://fr.wikipedia.org/wiki/Beno%C3%AEt_de_Montferrand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: 1476&sup1;
+  au: null
+- titre: Bishop of Lausanne, Switzerland
+  du: '1476-07-15'
+  au: '1491-05-08'
+- titre: évêque de Coutances
+  du: '1476-01-01'
+  au: null
+- titre: évêque de Lausanne
+  du: '1476-07-24'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q818137
+  catholic_hierarchy: bmontfer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:08:14+00:00'
+  completeness: 0.38

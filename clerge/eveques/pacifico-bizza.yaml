@@ -1,0 +1,49 @@
+slug: pacifico-bizza
+nom: Pacifico Bizza
+nom_complet: null
+naissance: '1695-05-03'
+deces: '1756-05-13'
+naissance_lieu: Arbe
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1738-11-30'
+  consecrateur_principal: giuseppe-spinelli-1694
+  co_consecrateurs:
+  - giovanni-andrea-tria
+  - giovanni-macario-valenti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbizza.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arbe (Rab), Croatia
+  du: '1738-11-24'
+  au: null
+- titre: Archbishop of Split (Spalato), Croatia
+  du: '1746-01-17'
+  au: '1756-05-13'
+- titre: évêque diocésain
+  du: '1738-11-24'
+  au: null
+- titre: archevêque de Split
+  du: '1746-01-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12639175
+  catholic_hierarchy: bbizza
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:23+00:00'
+  completeness: 1.0

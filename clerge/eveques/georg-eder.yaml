@@ -1,0 +1,46 @@
+slug: georg-eder
+nom: Georg Eder
+nom_complet: Georgius Eder
+naissance: '1928-03-06'
+deces: '2015-09-19'
+naissance_lieu: Mattsee
+deces_lieu: null
+rang: archeveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1989-02-26'
+  consecrateur_principal: karl-berg
+  co_consecrateurs:
+  - johann-weber
+  - jakob-mayr
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bederg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Salzburg, Austria
+  du: null
+  au: '2002-11-23'
+- titre: Archbishop Emeritus of Salzburg, Austria
+  du: null
+  au: '2015-09-19'
+- titre: archevêque catholique
+  du: '1989-01-01'
+  au: '2002-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q45413
+  catholic_hierarchy: bederg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:18:57+00:00'
+  completeness: 1.0

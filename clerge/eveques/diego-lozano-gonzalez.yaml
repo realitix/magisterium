@@ -1,0 +1,44 @@
+slug: diego-lozano-gonzalez
+nom: Diego Lozano González
+nom_complet: Diego Lozano González, O. Carm.
+naissance: '1622-07-20'
+deces: '1681-09-10'
+naissance_lieu: Madrid, Archdiocese of Toledo, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1677-09-19'
+  lieu: Ste Maria in Transpontine, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: charles-pio-di-savoia-cardinal-eveque-de-la-sabine
+  co_consecrateurs:
+  - giovanni-antonio-melzi
+  - ludovico-ciogni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blozanod.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Potenza, Italy
+  du: null
+  au: '1681-09-10'
+- titre: évêque diocésain
+  du: '1677-03-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q45207100
+  catholic_hierarchy: blozanod
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:47+00:00'
+  completeness: 1.0

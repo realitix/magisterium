@@ -1,0 +1,47 @@
+slug: gerard-de-rougemont
+nom: Gérard de Rougemont
+nom_complet: null
+naissance: '1150'
+deces: '1225'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1221-03-28'
+  consecrateur_principal: non-indexe-a60d37fb
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brougege.html
+  - https://fr.wikipedia.org/wiki/G%C3%A9rard_de_Rougemont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1220-07-24'
+  au: null
+- titre: Archbishop of Besançon, France
+  du: '1221-03-26'
+  au: Mar 1225&sup3;
+- titre: évêque de Lausanne
+  du: '1220-07-31'
+  au: '1221-04-02'
+- titre: archevêque de Besançon
+  du: '1221-04-02'
+  au: '1225-03-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1535207
+  catholic_hierarchy: brougege
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:31:33+00:00'
+  completeness: 0.62

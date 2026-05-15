@@ -1,0 +1,48 @@
+slug: jean-joseph-marchal
+nom: Jean-Joseph Marchal
+nom_complet: null
+naissance: '1822-04-21'
+deces: '1892-05-26'
+naissance_lieu: Raon l'Étape
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1875-09-08'
+  lieu: Cathedral, Saint-Dié, Diocese of Saint-Dié
+  consecrateur_principal: louis-marie-caverot
+  co_consecrateurs:
+  - andre-raess
+  - gaspard-mermillod
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarchal.html
+  - https://fr.wikipedia.org/wiki/Jean-Joseph_Marchal
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Bourges, France
+  du: null
+  au: '1892-05-26'
+- titre: évêque diocésain
+  du: '1875-06-12'
+  au: null
+- titre: archevêque de Bourges
+  du: '1880-02-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17486088
+  catholic_hierarchy: bmarchal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:39+00:00'
+  completeness: 1.0

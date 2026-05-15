@@ -1,0 +1,44 @@
+slug: petruccio-de-migliolo
+nom: Petruccio de Migliolo
+nom_complet: null
+naissance: '1400'
+deces: '1481'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmigliolo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bisaccia, Italy
+  du: '1450-06-12'
+  au: null
+- titre: Bishop of Lacedonia, Italy
+  du: '1463-01-30'
+  au: 1481&sup1;
+- titre: évêque diocésain
+  du: '1450-06-21'
+  au: null
+- titre: Roman Catholic Bishop of Lacedonia
+  du: '1463-02-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15840230
+  catholic_hierarchy: bmigliolo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:56:35+00:00'
+  completeness: 0.25

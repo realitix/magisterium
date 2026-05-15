@@ -1,0 +1,44 @@
+slug: nicolas-esandi-s-d-b
+nom: Nicolás Esandi, S.D.B.
+nom_complet: Nicolás Esandi Nicolao
+naissance: '1876-12-06'
+deces: '1948-08-29'
+naissance_lieu: Bahia Blanca, Archdiocese of Buenos Aires
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1935-02-17'
+  lieu: Santissima Trinidad, Cathedral, Buenos Aires, Archdiocese of Buenos Aires
+  consecrateur_principal: filippo-cortesi
+  co_consecrateurs:
+  - santiago-luis-copello
+  - fermin-emilio-lafitte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/besandi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viedma, Argentina
+  du: '1934-09-13'
+  au: '1948-08-29'
+- titre: évêque diocésain
+  du: '1934-09-13'
+  au: null
+fraternite: salesiens
+photo: null
+qids:
+  wikidata: Q5491922
+  catholic_hierarchy: besandi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:24:17+00:00'
+  completeness: 1.0

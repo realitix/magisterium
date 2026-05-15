@@ -1,0 +1,43 @@
+slug: gisbrikt-erlendsson
+nom: Gisbrikt Erlendsson
+nom_complet: null
+naissance: null
+deces: '1369'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1349'
+  consecrateur_principal: salomon-toraldson
+  co_consecrateurs:
+  - ormur-aslaksson
+  - jon-skalli-eiriksson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgisebert.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bjørgvin (Bergen), Norway
+  du: 1349&sup2;
+  au: 1369&sup1;
+- titre: évêque diocésain
+  du: '1349-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781142
+  catholic_hierarchy: bgisebert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:25:58+00:00'
+  completeness: 0.75

@@ -1,0 +1,42 @@
+slug: juan-tormo
+nom: Juan Tormo
+nom_complet: Joan de Tormo
+naissance: '1490'
+deces: '1553'
+naissance_lieu: Albayda, Diocese of Valencia
+deces_lieu: Barcelona, Diocese of Barcelona
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: luis-cardona
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btorm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vic, Spain
+  du: '1510-12-09'
+  au: '1553-01-01'
+- titre: évêque de Vic
+  du: '1510-12-19'
+  au: null
+- titre: Président de la Généralité de Catalogne
+  du: '1552-01-01'
+  au: '1553-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19299839
+  catholic_hierarchy: btorm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:05:30+00:00'
+  completeness: 0.5

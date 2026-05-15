@@ -1,0 +1,44 @@
+slug: prosper-de-tournefort
+nom: Prosper de Tournefort
+nom_complet: null
+naissance: '1761-12-22'
+deces: '1844-03-07'
+naissance_lieu: Villes-sur-Auzon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1825-05-15'
+  consecrateur_principal: guillaume-aubin-de-villele
+  co_consecrateurs:
+  - claude-joseph-judith-francois-xavier-de-sagey
+  - augustin-de-mailhet-de-vacheres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btourn.html
+  - https://fr.wikipedia.org/wiki/Prosper_de_Tournefort
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: null
+  au: '1844-03-07'
+- titre: évêque diocésain
+  du: '1824-12-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55672179
+  catholic_hierarchy: btourn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:08:01+00:00'
+  completeness: 1.0

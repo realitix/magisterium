@@ -1,0 +1,48 @@
+slug: jean-othon-de-gemmingen
+nom: Jean-Othon de Gemmingen
+nom_complet: Johann Otto von Gemmingen
+naissance: '1545-10-23'
+deces: '1598-10-06'
+naissance_lieu: Mühlhausen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1591-08-25'
+  lieu: Dillingen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgemmi.html
+  - https://fr.wikipedia.org/wiki/Jean-Othon_de_Gemmingen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1598-10-06'
+- titre: évêque
+  du: '1591-01-01'
+  au: '1598-01-01'
+- titre: évêque d'Augsbourg
+  du: '1591-03-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Otto%20von%20Gemmingen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1695738
+  catholic_hierarchy: bgemmi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:16:28+00:00'
+  completeness: 0.62

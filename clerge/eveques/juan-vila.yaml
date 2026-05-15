@@ -1,0 +1,47 @@
+slug: juan-vila
+nom: Juan Vila
+nom_complet: Joan Vila
+naissance: '1515'
+deces: '1597-09-24'
+naissance_lieu: Cervera, Diocese of Vic
+deces_lieu: Cervera, Diocese of Vic
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1597-07-06'
+  lieu: Cathedral, Barcelona, Diocese of Barcelona
+  consecrateur_principal: juan-dimas-lloris
+  co_consecrateurs:
+  - francesc-robuster-i-sala
+  - luis-sans-y-codol
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvilaj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vic, Spain
+  du: '1597-02-27'
+  au: '1597-09-24'
+- titre: évêque de Vic
+  du: '1597-02-27'
+  au: null
+- titre: recteur de l'université de Barcelone
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20003571
+  catholic_hierarchy: bvilaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:38:17+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: john-lewis-adams
+nom: John Lewis Adams
+nom_complet: null
+naissance: '1963-11-18'
+deces: null
+naissance_lieu: Christchurch, Diocese of Christchurch
+deces_lieu: null
+rang: eveque
+nationalite: Q664
+tampon: ordo_dubius
+sacre:
+  date: '2023-09-30'
+  lieu: Holy Spirit, Cathedral, Palmerston North, Diocese of Palmerston North
+  consecrateur_principal: stephen-marmion-lowe
+  co_consecrateurs:
+  - michael-gielen
+  - michael-joseph-dooley
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/badams.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Palmerston North, New Zealand
+  du: '2023-06-22'
+  au: null
+- titre: évêque diocésain
+  du: '2023-06-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Adams%202024.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q119843560
+  catholic_hierarchy: badams
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:20:34+00:00'
+  completeness: 0.88

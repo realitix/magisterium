@@ -1,0 +1,44 @@
+slug: godefred-de-conflans
+nom: Godefred de Conflans
+nom_complet: Godefroid-Maurice de Conflans
+naissance: '1684'
+deces: '1725-03-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1721-07-20'
+  consecrateur_principal: armand-pierre-de-la-croix-de-castries
+  co_consecrateurs:
+  - martin-de-ratabon
+  - francois-lefebvre-de-caumartin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconflans.html
+  - https://fr.wikipedia.org/wiki/Godefred_de_Conflans
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Puy-en-Velay, France
+  du: null
+  au: '1725-03-14'
+- titre: évêque diocésain
+  du: '1721-01-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3109690
+  catholic_hierarchy: bconflans
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:01:53+00:00'
+  completeness: 0.88

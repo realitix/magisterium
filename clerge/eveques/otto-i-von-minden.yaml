@@ -1,0 +1,48 @@
+slug: otto-i-von-minden
+nom: Otto I. von Minden
+nom_complet: Otto aus Stendal, O.P.
+naissance: '1225'
+deces: '1275-11-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: henri-de-suse
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstendal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minden, Germany
+  du: '1267-08-18'
+  au: '1275-11-17'
+- titre: évêque diocésain
+  du: '1267-08-25'
+  au: null
+- titre: prince-évêque
+  du: null
+  au: null
+- titre: prieur
+  du: '1254-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q2039302
+  catholic_hierarchy: bstendal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:38:09+00:00'
+  completeness: 0.62

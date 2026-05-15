@@ -1,0 +1,41 @@
+slug: guillaume-de-menthonay
+nom: Guillaume de Menthonay
+nom_complet: Guillaume de Menthony
+naissance: '1400'
+deces: '1406-07-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1394-08-23'
+  consecrateur_principal: niccolo-brancaccio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmenth.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Menthonay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1394-08-07'
+  au: '1406-07-08'
+- titre: évêque de Lausanne
+  du: '1394-08-15'
+  au: '1406-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q692189
+  catholic_hierarchy: bmenth
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:51:49+00:00'
+  completeness: 0.75

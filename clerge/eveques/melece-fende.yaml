@@ -1,0 +1,52 @@
+slug: melece-fende
+nom: Mélèce Fendé
+nom_complet: null
+naissance: null
+deces: '1869'
+naissance_lieu: null
+deces_lieu: null
+rang: patriarche
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1838-02-02'
+  consecrateur_principal: maxime-iii-mazloum
+  co_consecrateurs:
+  - basile-kfoury
+  - macaire-samman
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfende.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Patriarchal Vicar of Jerusalem {Gerusalemme} (Melkite Greek), Palestine
+  du: 1838&sup2;
+  au: 1846&sup2;
+- titre: Bishop of Damas (Melkite Greek), Syria
+  du: 1849&sup2;
+  au: null
+- titre: Bishop of Baalbek (Melkite Greek), Lebanon
+  du: 1851&sup2;
+  au: 1869&sup2;
+- titre: évêque diocésain
+  du: '1849-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1851-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779543
+  catholic_hierarchy: bfende
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:58+00:00'
+  completeness: 0.75

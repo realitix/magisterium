@@ -1,0 +1,50 @@
+slug: ghislain-de-vroede
+nom: Ghislain de Vroede
+nom_complet: null
+naissance: '1521'
+deces: '1579-08-14'
+naissance_lieu: Dunkerque
+deces_lieu: Bruxelles
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-04-23'
+  lieu: Ste Gudule, Bruxelles
+  consecrateur_principal: maximilien-de-berghes
+  co_consecrateurs:
+  - francois-richardot
+  - francois-sonnius-van-de-velde
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvroede.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mechelen, Belgium
+  du: '1570-03-13'
+  au: '1579-08-14'
+- titre: Titular Bishop of Selymbria
+  du: '1570-03-13'
+  au: null
+- titre: évêque auxiliaire
+  du: '1570-03-13'
+  au: null
+- titre: évêque titulaire
+  du: '1570-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763948
+  catholic_hierarchy: bvroede
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:46:45+00:00'
+  completeness: 0.88

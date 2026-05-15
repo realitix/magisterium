@@ -1,0 +1,62 @@
+slug: john-shaw
+nom: John Shaw
+nom_complet: John William Shaw
+naissance: '1863-12-12'
+deces: '1934-11-02'
+naissance_lieu: Mobile
+deces_lieu: null
+rang: archeveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1910-04-14'
+  consecrateur_principal: james-blenk
+  co_consecrateurs:
+  - edward-patrick-allen
+  - cornelius-van-de-ven
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bshaw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of San Antonio, Texas, USA
+  du: '1910-02-07'
+  au: null
+- titre: Titular Bishop of Castabala
+  du: '1910-02-07'
+  au: null
+- titre: Bishop of San Antonio, Texas, USA
+  du: null
+  au: '1911-03-11'
+- titre: Archbishop of New Orleans, Louisiana, USA
+  du: '1918-01-25'
+  au: '1934-11-02'
+- titre: archevêque de la Nouvelle-Orléans
+  du: '1918-01-25'
+  au: '1934-11-02'
+- titre: Roman Catholic Bishop of San Antonio
+  du: '1911-03-11'
+  au: '1918-01-25'
+- titre: évêque titulaire
+  du: '1910-02-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20W%20Shaw%20painting%20by%20Marie%20Therese%20Bernard%20de%20Jaham.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6257473
+  catholic_hierarchy: bshaw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:14:44+00:00'
+  completeness: 1.0

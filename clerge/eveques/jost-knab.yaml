@@ -1,0 +1,51 @@
+slug: jost-knab
+nom: Jost Knab
+nom_complet: Jost (Jodok) Knab
+naissance: '1593-04-20'
+deces: '1658-10-04'
+naissance_lieu: Lucerne
+deces_lieu: Lucerne
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1654-02-15'
+  lieu: Lucerne
+  consecrateur_principal: carlo-carafa-della-spina
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bknab.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Internuncio to Switzerland
+  du: Sep 1652&sup3;
+  au: Apr 1653&sup3;
+- titre: Bishop of Lausanne, Switzerland
+  du: '1652-12-16'
+  au: '1658-10-04'
+- titre: évêque diocésain
+  du: '1652-12-16'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/ZHB%20SoSa%20Portrait%20054%20cropped.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64778485
+  catholic_hierarchy: bknab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:16:07+00:00'
+  completeness: 0.88

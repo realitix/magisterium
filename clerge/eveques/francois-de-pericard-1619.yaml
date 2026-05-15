@@ -1,0 +1,44 @@
+slug: francois-de-pericard-1619
+nom: François de Péricard
+nom_complet: null
+naissance: '1619'
+deces: '1689-09-29'
+naissance_lieu: Basse-Nermandie
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1647-08-25'
+  consecrateur_principal: jean-francois-paul-de-gondi
+  co_consecrateurs:
+  - rene-de-rieux
+  - alphonse-iii-d-elbene
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperica.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_P%C3%A9ricard_(%C3%A9v%C3%AAque_d%27Angoul%C3%AAme)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: '1647-02-18'
+  au: '1689-09-29'
+- titre: évêque d'Angoulême
+  du: '1647-02-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22973576
+  catholic_hierarchy: bperica
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:22:31+00:00'
+  completeness: 0.88

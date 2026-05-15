@@ -1,0 +1,44 @@
+slug: jean-bosco-baremes
+nom: Jean Bosco Baremes
+nom_complet: Jean (John) Bosco Baremes, S.M.
+naissance: '1960-08-30'
+deces: null
+naissance_lieu: Han, Isola Carteret, Papua New Guinea
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2010-02-14'
+  consecrateur_principal: michel-marie-calvet
+  co_consecrateurs:
+  - ghislain-de-rasilly
+  - soane-patita-paini-mafi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaremes.html
+  - https://fr.wikipedia.org/wiki/John_Bosco_Baremes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Port-Vila, Vanuatu, Pacific (Oceania)
+  du: '2009-11-18'
+  au: null
+- titre: évêque diocésain
+  du: '2009-11-18'
+  au: null
+fraternite: maristes
+photo: null
+qids:
+  wikidata: Q1685386
+  catholic_hierarchy: bbaremes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:02:53+00:00'
+  completeness: 0.88

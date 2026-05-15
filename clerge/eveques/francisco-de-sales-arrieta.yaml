@@ -1,0 +1,45 @@
+slug: francisco-de-sales-arrieta
+nom: Francisco de Sales Arrieta
+nom_complet: Francisco de Sales Arrieta Ortiz, O.F.M. Obs.
+naissance: '1768-01-29'
+deces: '1843-05-04'
+naissance_lieu: Lima, Archdiocese of Lima
+deces_lieu: null
+rang: archeveque
+nationalite: Q419
+tampon: ordo_validus
+sacre:
+  date: '1841-01-24'
+  lieu: Cathedral, Lima, Archdiocese of Lima
+  consecrateur_principal: francisco-xavier-de-luna-pizarro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lima, Peru
+  du: null
+  au: '1843-05-04'
+- titre: archevêque de Lima
+  du: '1841-01-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Sales%20Arrieta%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8962642
+  catholic_hierarchy: bsalar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:43:00+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: clement-graebbels-crabeels
+nom: Clément Graebbels (Crabeels)
+nom_complet: Clemens Crabbeels
+naissance: '1564-08-15'
+deces: '1592-10-22'
+naissance_lieu: Louvain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1585-01-13'
+  lieu: Notre Dame, Cathedral, Tournai, Diocese of Tournai {Doornik}, Belgium
+  consecrateur_principal: maximilien-morillon
+  co_consecrateurs:
+  - mathieu-moulart
+  - jean-six
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrabeels.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &rsquo;s-Hertogenbosch (Bois-le-Duc), Netherlands
+  du: '1584-09-10'
+  au: '1592-10-22'
+- titre: évêque diocésain
+  du: '1584-09-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Clemens%20Crabeels.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2466839
+  catholic_hierarchy: bcrabeels
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:00+00:00'
+  completeness: 0.88

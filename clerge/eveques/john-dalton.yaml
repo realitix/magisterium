@@ -1,0 +1,47 @@
+slug: john-dalton
+nom: John Dalton
+nom_complet: John Dalton, O.F.M. Ref.
+naissance: '1821'
+deces: '1869-05-05'
+naissance_lieu: Thurles, Ireland
+deces_lieu: Harbour Grace, Diocese of Harbour Grace, Newfoundland
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1856-05-25'
+  lieu: St. John the Baptist, Cathedral, Saint John's, Diocese of Saint John&rsquo;s,
+    Newfoundland
+  consecrateur_principal: john-t-mullock
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdalton.html
+  - https://fr.wikipedia.org/wiki/John_Dalton_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Harbour Grace, Newfoundland, Canada
+  du: '1856-02-29'
+  au: '1869-05-05'
+- titre: évêque diocésain
+  du: '1856-02-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Dalton%20d.1869.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6228455
+  catholic_hierarchy: bdalton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:24:22+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: vincenzo-manni
+nom: Vincenzo Manni
+nom_complet: null
+naissance: '1740-01-22'
+deces: '1815-04-15'
+naissance_lieu: Fabriano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1785-02-20'
+  consecrateur_principal: innocenzo-conti
+  co_consecrateurs:
+  - giuseppe-maria-contesini
+  - francesco-saverio-cristiani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tivoli, Italy
+  du: '1785-02-14'
+  au: '1815-04-15'
+- titre: Évêque de Tivoli
+  du: '1785-02-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18708708
+  catholic_hierarchy: bmanni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:21:28+00:00'
+  completeness: 1.0

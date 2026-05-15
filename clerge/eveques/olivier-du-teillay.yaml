@@ -1,0 +1,45 @@
+slug: olivier-du-teillay
+nom: Olivier du Teillay
+nom_complet: Olivier du Tillay
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdutilla.html
+  - https://fr.wikipedia.org/wiki/Olivier_du_Teillay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: '1432-10-29'
+  au: null
+- titre: Bishop of Saint-Brieuc, France
+  du: '1436-07-04'
+  au: 1439&sup1;
+- titre: évêque diocésain
+  du: '1436-07-13'
+  au: null
+- titre: évêque de Léon
+  du: '1432-11-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28495752
+  catholic_hierarchy: bdutilla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:23+00:00'
+  completeness: 0.25

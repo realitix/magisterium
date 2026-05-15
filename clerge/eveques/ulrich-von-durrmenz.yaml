@@ -1,0 +1,41 @@
+slug: ulrich-von-durrmenz
+nom: Ulrich von Dürrmenz
+nom_complet: null
+naissance: '1100'
+deces: '1163-12-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdurrm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: 1161&sup1;
+  au: '1163-12-26'
+- titre: évêque de Spire
+  du: '1161-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1234642
+  catholic_hierarchy: bdurrm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:07+00:00'
+  completeness: 0.38

@@ -1,0 +1,44 @@
+slug: giovanni-battista-ciofi
+nom: Giovanni Battista Ciofi
+nom_complet: null
+naissance: '1787-12-20'
+deces: '1870-03-25'
+naissance_lieu: Cesa, Diocese of Arezzo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1843-02-05'
+  lieu: Sant&rsquo;Apollinare, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - fabio-maria-asquini
+  - giovanni-giuseppe-canali
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bciofi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chiusi e Pienza, Italy
+  du: '1843-01-27'
+  au: '1870-03-25'
+- titre: Roman Catholic Bishop of Chiusi-Pienza
+  du: '1843-01-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746406
+  catholic_hierarchy: bciofi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:51:28+00:00'
+  completeness: 1.0

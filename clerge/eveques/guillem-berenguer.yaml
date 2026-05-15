@@ -1,0 +1,43 @@
+slug: guillem-berenguer
+nom: Guillém Berenguer
+nom_complet: Guillem Berenguer
+naissance: null
+deces: '1106'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Apr 1101&sup3;
+  consecrateur_principal: non-indexe-cea64d94
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberengug.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barcelona, Spain
+  du: 1101&sup1;
+  au: 1104&sup2;
+- titre: Bishop Emeritus of Barcelona, Spain
+  du: null
+  au: 1106&sup2;
+- titre: évêque de Barcelone
+  du: '1101-01-01'
+  au: '1104-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779447
+  catholic_hierarchy: bberengug
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:10+00:00'
+  completeness: 0.5

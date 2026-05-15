@@ -1,0 +1,43 @@
+slug: antonio-ranza
+nom: Antonio Ranza
+nom_complet: null
+naissance: '1801-01-15'
+deces: '1875-11-20'
+naissance_lieu: Piacenza
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1849-05-20'
+  consecrateur_principal: pier-grisologo-basetti-bassetti
+  co_consecrateurs:
+  - gaetano-benaglia
+  - michelangelo-orlandi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/branza.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Piacenza, Italy
+  du: '1849-04-02'
+  au: '1875-11-20'
+- titre: Roman Catholic Bishop of Piacenza
+  du: '1849-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3620078
+  catholic_hierarchy: branza
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:02:48+00:00'
+  completeness: 1.0

@@ -1,0 +1,48 @@
+slug: antoine-cleriade-de-choiseul-beaupre
+nom: Antoine-Clériade de Choiseul-Beaupré
+nom_complet: Antoine Clériade Cardinal de Choiseul-Beaupré
+naissance: '1707-09-28'
+deces: '1774-01-07'
+naissance_lieu: Castle of Daillecourt
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1755-05-25'
+  consecrateur_principal: gabriel-florent-de-choiseul-beaupre
+  co_consecrateurs:
+  - louis-francois-de-vivet-de-montclus
+  - claude-antoine-de-choiseul-beaupre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchobe.html
+  - https://fr.wikipedia.org/wiki/Antoine-Cl%C3%A9riade_de_Choiseul-Beaupr%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Besançon, France
+  du: null
+  au: '1774-01-07'
+- titre: archevêque de Besançon
+  du: '1755-05-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cardinal%20de%20Choiseul.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q367103
+  catholic_hierarchy: bchobe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:47:25+00:00'
+  completeness: 1.0

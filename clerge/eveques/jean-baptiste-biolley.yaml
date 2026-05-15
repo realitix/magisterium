@@ -1,0 +1,43 @@
+slug: jean-baptiste-biolley
+nom: Jean-Baptiste Biolley
+nom_complet: null
+naissance: '1846-09-16'
+deces: '1918-10-10'
+naissance_lieu: Hauteville-Gondon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1908-01-29'
+  consecrateur_principal: francois-virgile-dubillard
+  co_consecrateurs:
+  - pierre-lucien-campistron
+  - adrien-fodere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbiol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarentaise, France
+  du: '1907-12-16'
+  au: '1918-10-10'
+- titre: évêque de Tarentaise
+  du: '1907-12-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745139
+  catholic_hierarchy: bbiol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:28:05+00:00'
+  completeness: 1.0

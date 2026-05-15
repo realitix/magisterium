@@ -1,0 +1,47 @@
+slug: muzio-gallo
+nom: Muzio Gallo
+nom_complet: Muzio Cardinal Gallo
+naissance: '1721-04-15'
+deces: '1801-12-13'
+naissance_lieu: Osimo
+deces_lieu: null
+rang: cardinal
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1785-04-17'
+  consecrateur_principal: francesco-saverio-de-zelada
+  co_consecrateurs:
+  - martino-bianchi
+  - pierluigi-galletti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgallom.html
+  - https://fr.wikipedia.org/wiki/Muzio_Gallo
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viterbo e Tuscania, Italy
+  du: '1785-02-14'
+  au: '1801-12-13'
+- titre: cardinal
+  du: '1785-02-14'
+  au: null
+- titre: évêque diocésain
+  du: '1785-02-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q427427
+  catholic_hierarchy: bgallom
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:06:29+00:00'
+  completeness: 1.0

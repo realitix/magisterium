@@ -1,0 +1,49 @@
+slug: frans-wiertz
+nom: Frans Wiertz
+nom_complet: Franciscus Jozef Maria Wiertz
+naissance: '1942-12-02'
+deces: null
+naissance_lieu: Kerkrade
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_dubius
+sacre:
+  date: '1993-09-25'
+  lieu: St. Crhistophe, Cathedral, Roermond, Diocese of Roermond
+  consecrateur_principal: adrianus-johannes-simonis
+  co_consecrateurs:
+  - johannes-ter-schure
+  - alphonsus-castermans
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwiertz.html
+  - https://fr.wikipedia.org/wiki/Frans_Wiertz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roermond, Netherlands
+  du: '1993-07-10'
+  au: null
+- titre: Évêque de Ruremonde
+  du: '1993-07-10'
+  au: '2017-12-02'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Wiertz%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q379675
+  catholic_hierarchy: bwiertz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:55:38+00:00'
+  completeness: 0.88

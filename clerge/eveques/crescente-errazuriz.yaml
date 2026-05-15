@@ -1,0 +1,52 @@
+slug: crescente-errazuriz
+nom: Crescente Errázuriz
+nom_complet: Crescente Errázuriz Valdivieso
+naissance: '1839-11-28'
+deces: '1931-06-05'
+naissance_lieu: Santiago, Archdiocese of Santiago de Chile
+deces_lieu: null
+rang: archeveque
+nationalite: Q298
+tampon: ordo_validus
+sacre:
+  date: '1919-01-12'
+  lieu: Cathedral, Santiago, Archdiocese of Santiago de Chile
+  consecrateur_principal: miguel-claro-vasquez
+  co_consecrateurs:
+  - eduardo-gimpert-paut
+  - reinaldo-munoz-olave
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/berva.html
+  - https://fr.wikipedia.org/wiki/Crescente_Err%C3%A1zuriz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Santiago de Chile
+  du: '1918-12-30'
+  au: '1931-06-05'
+- titre: archevêque catholique
+  du: '1919-01-12'
+  au: null
+- titre: archevêque de Santiago
+  du: '1919-01-12'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Crescente%20Errazuriz%282%29-2011-22-08.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5184445
+  catholic_hierarchy: berva
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:24:13+00:00'
+  completeness: 1.0

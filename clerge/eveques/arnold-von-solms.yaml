@@ -1,0 +1,42 @@
+slug: arnold-von-solms
+nom: Arnold von Solms
+nom_complet: null
+naissance: '1300'
+deces: '1296'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsolms.html
+  - https://fr.wikipedia.org/wiki/Arnold_von_Solms
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: '1286-05-15'
+  au: '1296-07-19'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Bamberg
+  du: '1286-05-22'
+  au: '1296-07-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q99486
+  catholic_hierarchy: bsolms
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:27:27+00:00'
+  completeness: 0.38

@@ -1,0 +1,45 @@
+slug: sandor-csajaghy
+nom: Sándor Csajághy
+nom_complet: Alessandro Csajàghy
+naissance: '1810-04-06'
+deces: '1860-02-07'
+naissance_lieu: Bács, Archdiocese of Kalocsa
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1851-10-26'
+  lieu: Kalocsa, Archdiocese of Kalocsa
+  consecrateur_principal: gyorgy-girk
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcsaj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Csanád, Hungary
+  du: null
+  au: '1860-02-07'
+- titre: évêque de Csanád
+  du: '1851-04-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Csaj%C3%A1ghy%20S%C3%A1ndor.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12355564
+  catholic_hierarchy: bcsaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:16:50+00:00'
+  completeness: 0.88

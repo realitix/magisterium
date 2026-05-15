@@ -1,0 +1,44 @@
+slug: ralph-de-luffa
+nom: Ralph de Luffa
+nom_complet: null
+naissance: '1001'
+deces: '1123-12-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1091'
+  consecrateur_principal: thomas-of-bayeux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluffa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chichester, England, Great Britain
+  du: 1091&sup1;
+  au: '1123-12-24'
+- titre: Roman Catholic Bishop of Chichester
+  du: '1091-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Chichestercathedralralphdeluffasign.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7288319
+  catholic_hierarchy: bluffa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:04:27+00:00'
+  completeness: 0.75

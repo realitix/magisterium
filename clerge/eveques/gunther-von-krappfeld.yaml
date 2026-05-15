@@ -1,0 +1,46 @@
+slug: gunther-von-krappfeld
+nom: Günther von Krappfeld
+nom_complet: null
+naissance: null
+deces: '1090-06-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1072-05-06'
+  consecrateur_principal: non-indexe-12172109
+  co_consecrateurs:
+  - non-indexe-ce1d21c9
+  - non-indexe-6785fe56
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkrapp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: 1072&sup1;
+  au: '1090-06-16'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1072-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1561969
+  catholic_hierarchy: bkrapp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:20:49+00:00'
+  completeness: 0.88

@@ -1,0 +1,64 @@
+slug: john-timon
+nom: John Timon
+nom_complet: John Timon, C.M.
+naissance: '1797-02-12'
+deces: '1867-04-16'
+naissance_lieu: Conewago, Archdiocese of Baltimore, Maryland
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1847-10-17'
+  lieu: St. Patrick's, Cathedral, New York, Diocese of New York, New York
+  consecrateur_principal: john-hughes
+  co_consecrateurs:
+  - william-walsh-1804
+  - john-mccloskey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btimon.html
+  - https://fr.wikipedia.org/wiki/John_Timon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Saint Louis, Missouri, USA
+  du: 17 May 1839&#8312;
+  au: null
+- titre: Titular Bishop of Vera
+  du: 7 Jun 1839&#8312;
+  au: null
+- titre: Prefect of Texas, USA
+  du: '1840-04-12'
+  au: null
+- titre: Bishop of Buffalo, New York, USA
+  du: '1847-04-23'
+  au: '1867-04-16'
+- titre: évêque titulaire
+  du: '1839-06-07'
+  au: null
+- titre: évêque de Buffalo
+  du: '1847-04-23'
+  au: null
+- titre: préfet apostolique
+  du: null
+  au: null
+fraternite: lazaristes
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Timon.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6260878
+  catholic_hierarchy: btimon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:00:27+00:00'
+  completeness: 1.0

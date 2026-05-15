@@ -1,0 +1,44 @@
+slug: vincenzo-materozzi
+nom: Vincenzo Materozzi
+nom_complet: null
+naissance: '1811-01-21'
+deces: '1884-07-08'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1853-09-18'
+  lieu: San Carlo ai Catinari, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-maria-cagiano-de-azevedo
+  co_consecrateurs:
+  - antonio-ligi-bussi
+  - bonifacio-cajani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmatev.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ruvo e Bitonto, Italy
+  du: null
+  au: '1884-07-08'
+- titre: Roman Catholic Bishop of Ruvo and Bitonto
+  du: '1853-07-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735495
+  catholic_hierarchy: bmatev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:37:24+00:00'
+  completeness: 1.0

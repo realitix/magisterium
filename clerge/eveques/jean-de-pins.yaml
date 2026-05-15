@@ -1,0 +1,55 @@
+slug: jean-de-pins
+nom: Jean de Pins
+nom_complet: Jean Dupin (de Pins)
+naissance: '1470'
+deces: '1537-11-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupin.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Pins
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers, France
+  du: '1520-12-27'
+  au: null
+- titre: Bishop of Rieux, France
+  du: '1522-12-22'
+  au: '1537-11-01'
+- titre: sénateur ou sénatrice
+  du: '1515-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1521-01-06'
+  au: null
+- titre: ambassadeur
+  du: '1516-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1523-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Capitole%20Toulouse%20-%20Grand%20escalier%20-%20Buste%20de%20Jean%20de%20Pins.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3175642
+  catholic_hierarchy: bdupin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:51+00:00'
+  completeness: 0.38

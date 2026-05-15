@@ -1,0 +1,61 @@
+slug: charles-la-rocque
+nom: Charles La Rocque
+nom_complet: Charles LaRocque
+naissance: '1809-11-15'
+deces: '1875-07-15'
+naissance_lieu: Chambly, Archdiocese of Québec
+deces_lieu: Saint-Hyacinthe, Diocese of Saint-Hyacinthe, Québec
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1866-07-29'
+  lieu: "Saint-Jean-d\x92Iberville, Church, Iberville, Archdiocese of Québec"
+  consecrateur_principal: charles-francois-baillargeon
+  co_consecrateurs:
+  - ignace-bourget
+  - joseph-eugene-bruno-guigues
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blroc.html
+  - https://fr.wikipedia.org/wiki/Charles_La_Rocque
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Hyacinthe, Québec, Canada
+  du: '1866-03-20'
+  au: '1875-07-15'
+- titre: vicaire
+  du: '1832-01-01'
+  au: '1833-01-01'
+- titre: vicaire
+  du: '1833-01-01'
+  au: '1836-01-01'
+- titre: évêque diocésain
+  du: '1866-03-20'
+  au: '1875-07-15'
+- titre: curé
+  du: '1844-01-01'
+  au: '1866-01-01'
+- titre: curé
+  du: '1840-01-01'
+  au: '1844-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20La%20Rocque.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2959540
+  catholic_hierarchy: blroc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:12+00:00'
+  completeness: 1.0

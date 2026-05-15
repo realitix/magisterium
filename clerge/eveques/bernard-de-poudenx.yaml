@@ -1,0 +1,44 @@
+slug: bernard-de-poudenx
+nom: Bernard de Poudenx
+nom_complet: Bernard-François de Poudenx de Castillon
+naissance: '1661'
+deces: '1709-01-19'
+naissance_lieu: Poudenx
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1708-08-26'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - jacques-de-goyon-de-matignon
+  - louis-gaston-fleuriau-d-armenonville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpouden.html
+  - https://fr.wikipedia.org/wiki/Bernard_de_Poudenx
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: null
+  au: '1709-01-19'
+- titre: évêque de Marseille
+  du: '1708-02-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2898838
+  catholic_hierarchy: bpouden
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:22+00:00'
+  completeness: 0.88

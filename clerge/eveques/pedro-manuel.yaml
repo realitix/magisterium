@@ -1,0 +1,38 @@
+slug: pedro-manuel
+nom: Pedro Manuel
+nom_complet: null
+naissance: null
+deces: '1550'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: juan-gonzalez-de-munebrega
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of León, Spain
+  du: '1523-06-12'
+  au: null
+- titre: Bishop of Zamora, Spain
+  du: '1534-06-17'
+  au: null
+- titre: Archbishop of Santiago de Compostela, Spain
+  du: '1546-04-09'
+  au: '1550-01-01'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bmanp
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:21:48+00:00'
+  completeness: 0.5

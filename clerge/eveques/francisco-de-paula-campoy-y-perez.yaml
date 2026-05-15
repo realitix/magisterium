@@ -1,0 +1,43 @@
+slug: francisco-de-paula-campoy-y-perez
+nom: Francisco de Paula Campoy y Pérez
+nom_complet: Francisco de Paula Campo y Pérez
+naissance: '1794-12-01'
+deces: '1853'
+naissance_lieu: Cartagena, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1845-01-12'
+  lieu: Cathedral, Guatemala City, Archdiocese of Guatemala
+  consecrateur_principal: jose-jorge-viteri-y-ungo
+  co_consecrateurs:
+  - francisco-de-paula-garcia-y-pelaez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcampoy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Comayagua, Honduras
+  du: '1844-01-25'
+  au: 1853&sup2;
+- titre: bishop of Santa María de la Nueva Valladolid de Comayagua
+  du: '1844-01-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5868044
+  catholic_hierarchy: bcampoy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:12:09+00:00'
+  completeness: 0.88

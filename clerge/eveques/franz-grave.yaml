@@ -1,0 +1,53 @@
+slug: franz-grave
+nom: Franz Grave
+nom_complet: null
+naissance: '1932-11-25'
+deces: '2022-02-19'
+naissance_lieu: Essen, Diocese of Essen
+deces_lieu: Essen, Diocese of Essen
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1988-05-03'
+  lieu: Cathedral, Essen, Diocese of Essen
+  consecrateur_principal: franz-hengsbach
+  co_consecrateurs:
+  - julius-angerhausen
+  - wolfgang-gro-e
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrave.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Essen, Germany
+  du: '1988-03-31'
+  au: null
+- titre: Titular Bishop of Tingaria
+  du: '1988-03-31'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Essen, Germany
+  du: null
+  au: '2022-02-19'
+- titre: évêque auxiliaire
+  du: '1988-03-31'
+  au: '2008-06-27'
+- titre: évêque titulaire
+  du: '1988-03-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q87324
+  catholic_hierarchy: bgrave
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:40:48+00:00'
+  completeness: 1.0

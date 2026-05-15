@@ -1,0 +1,47 @@
+slug: david-zsolnay
+nom: Dávid Zsolnay
+nom_complet: null
+naissance: '1743-02-12'
+deces: '1814-11-04'
+naissance_lieu: Jánosháza
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1806-12-08'
+  lieu: Székesfehérvár, Diocese of Székesfehérvár (Albareale), Hungary
+  consecrateur_principal: miklos-milassin-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzsol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Veszprém, Hungary
+  du: '1806-10-06'
+  au: null
+- titre: Bishop of Knin (Tinin), Croatia
+  du: null
+  au: '1814-11-04'
+- titre: évêque auxiliaire
+  du: '1806-10-06'
+  au: null
+- titre: évêque diocésain
+  du: '1806-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733774
+  catholic_hierarchy: bzsol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:11:51+00:00'
+  completeness: 0.88

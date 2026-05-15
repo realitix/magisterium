@@ -1,0 +1,49 @@
+slug: lievin-van-der-beken
+nom: Liévin van der Beken
+nom_complet: Liévin (Hermann) Van der Beken (Torrentinus)
+naissance: '1525-03-08'
+deces: '1595-04-26'
+naissance_lieu: Gand
+deces_lieu: Bruxelles
+rang: eveque
+nationalite: Q1031430
+tampon: ordo_validus
+sacre:
+  date: '1587-09-20'
+  lieu: Notre Dame, Abbey, Vilvorde
+  consecrateur_principal: joannes-hauchin
+  co_consecrateurs:
+  - john-lesley
+  - andre-streignart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdbeck.html
+  - https://fr.wikipedia.org/wiki/Li%C3%A9vin_van_der_Beken
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antwerpen {Antwerp, Anvers}, Belgium
+  du: '1586-10-27'
+  au: '1595-04-26'
+- titre: évêque diocésain
+  du: '1586-10-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Laevinus%20Torrentius%20engraved%20by%20Cornelis%20Galle%20%28I%29%20after%20Gijsbert%20van%20Veen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1866863
+  catholic_hierarchy: bvdbeck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:28:22+00:00'
+  completeness: 1.0

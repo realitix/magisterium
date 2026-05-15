@@ -1,0 +1,42 @@
+slug: jean-martin
+nom: Jean Martin
+nom_complet: null
+naissance: '1550'
+deces: '1612-01-05'
+naissance_lieu: Limousin
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartinje.html
+  - https://fr.wikipedia.org/wiki/Jean_Martin_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: '1600-05-24'
+  au: '1612-01-05'
+- titre: évêque diocésain
+  du: '1600-05-24'
+  au: null
+- titre: évêque de Périgueux et Sarlat
+  du: '1600-05-15'
+  au: '1612-01-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816871
+  catholic_hierarchy: bmartinje
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:55+00:00'
+  completeness: 0.38

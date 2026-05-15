@@ -1,0 +1,49 @@
+slug: diego-merino
+nom: Diego Merino
+nom_complet: Diego Merino, O. Carm.
+naissance: '1570'
+deces: '1637'
+naissance_lieu: Baeza, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q217196
+tampon: ordo_validus
+sacre:
+  date: '1623-11-26'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - alessandro-bosco
+  - tommaso-ximenes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmerid.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montepeloso, Italy
+  du: '1623-11-20'
+  au: null
+- titre: Bishop of Isernia, Italy
+  du: '1626-08-24'
+  au: '1637-01-01'
+- titre: évêque diocésain
+  du: '1623-11-20'
+  au: null
+- titre: Roman Catholic Bishop of Isernia
+  du: '1626-08-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21546876
+  catholic_hierarchy: bmerid
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:52:41+00:00'
+  completeness: 0.88

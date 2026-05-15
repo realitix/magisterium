@@ -1,0 +1,39 @@
+slug: faustino-de-ricchetti
+nom: Faustino de Ricchetti
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1392-03-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brichetti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Megara
+  du: '1392-03-04'
+  au: null
+- titre: évêque titulaire
+  du: '1392-03-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108513240
+  catholic_hierarchy: brichetti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:13:19+00:00'
+  completeness: 0.25

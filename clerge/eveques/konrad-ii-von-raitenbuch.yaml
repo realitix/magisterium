@@ -1,0 +1,42 @@
+slug: konrad-ii-von-raitenbuch
+nom: Konrad II. von Raitenbuch
+nom_complet: Konrad von Raitenbuch
+naissance: '1200'
+deces: '1185'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/braitko.html
+  - https://fr.wikipedia.org/wiki/Conrad_II_de_Raitenbuch
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: '1167-10-17'
+  au: '1185-06-11'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1167-10-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1278900
+  catholic_hierarchy: braitko
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:00:09+00:00'
+  completeness: 0.38

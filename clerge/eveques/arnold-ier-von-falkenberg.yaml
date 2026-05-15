@@ -1,0 +1,44 @@
+slug: arnold-ier-von-falkenberg
+nom: Arnold Ier von Falkenberg
+nom_complet: Arnold von Falkenberg
+naissance: '1000'
+deces: '1056-03-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfalka.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: 1051&sup1;
+  au: '1056-03-17'
+- titre: évêque
+  du: null
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Spire
+  du: '1051-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q695406
+  catholic_hierarchy: bfalka
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:30:34+00:00'
+  completeness: 0.38

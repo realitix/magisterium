@@ -1,0 +1,44 @@
+slug: juste-guerin
+nom: Juste Guérin
+nom_complet: Giusto (Juste) Guérin, B.
+naissance: '1578'
+deces: '1645-11-03'
+naissance_lieu: Tramoyes
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1639-06-05'
+  consecrateur_principal: antonio-provana
+  co_consecrateurs:
+  - federico-sandri-trotti
+  - pietro-bellino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguerinj.html
+  - https://fr.wikipedia.org/wiki/Juste_Gu%C3%A9rin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1639-03-28'
+  au: '1645-11-03'
+- titre: évêque de Genève
+  du: '1639-03-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3190315
+  catholic_hierarchy: bguerinj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:23+00:00'
+  completeness: 0.88

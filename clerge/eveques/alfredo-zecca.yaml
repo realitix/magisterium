@@ -1,0 +1,52 @@
+slug: alfredo-zecca
+nom: Alfredo Zecca
+nom_complet: Alfredo Horacio Zecca
+naissance: '1949-09-27'
+deces: '2022-11-04'
+naissance_lieu: Buenos Aires, Archdiocese of Buenos Aires, Argentina
+deces_lieu: Sanatorio Otamendi, Buenos Aires, Archdiocese of Buenos Aires, Argentina
+rang: archeveque
+nationalite: Q414
+tampon: ordo_dubius
+sacre:
+  date: '2011-08-18'
+  lieu: Cathedral, Buenos Aires, Archdiocese of Buenos Aires, Argentina
+  consecrateur_principal: francis
+  co_consecrateurs:
+  - estanislao-esteban-karlic
+  - eduardo-miras
+  - luis-hector-villalba
+  - ariel-edgardo-torrado-mosconi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzecca.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Tucumán, Argentina
+  du: '2011-06-10'
+  au: '2017-06-09'
+- titre: Titular Archbishop of Volsinium
+  du: '2017-06-09'
+  au: '2022-11-04'
+- titre: archevêque de Tucumán
+  du: '2011-08-18'
+  au: '2017-06-09'
+- titre: archevêque titulaire
+  du: '2017-06-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1469970
+  catholic_hierarchy: bzecca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:07:28+00:00'
+  completeness: 1.0

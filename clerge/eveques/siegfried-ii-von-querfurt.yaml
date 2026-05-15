@@ -1,0 +1,41 @@
+slug: siegfried-ii-von-querfurt
+nom: Siegfried II. von Querfurt
+nom_complet: Siegfried von Querfurt
+naissance: '1201'
+deces: '1310-04-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquers.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: '1279-07-18'
+  au: '1310-04-27'
+- titre: évêque diocésain
+  du: '1279-07-25'
+  au: '1310-05-13'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2283432
+  catholic_hierarchy: bquers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:55:28+00:00'
+  completeness: 0.38

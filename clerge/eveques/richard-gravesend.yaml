@@ -1,0 +1,40 @@
+slug: richard-gravesend
+nom: Richard Gravesend
+nom_complet: null
+naissance: '1250'
+deces: '1303-12-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1280-08-11'
+  consecrateur_principal: john-peckham-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgravese.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: null
+  au: '1303-12-09'
+- titre: évêque de Londres
+  du: '1280-05-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7326032
+  catholic_hierarchy: bgravese
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:40:52+00:00'
+  completeness: 0.75

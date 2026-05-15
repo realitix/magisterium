@@ -1,0 +1,58 @@
+slug: rene-stourm
+nom: René Stourm
+nom_complet: René-Louis-Marie Stourm
+naissance: '1904-03-13'
+deces: '1990-11-03'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Sens, Archdiocese of Sens (-Auxerre)
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1951-04-02'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: maurice-feltin
+  co_consecrateurs:
+  - stanislas-courbe
+  - jean-julien-weber
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstourm.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9-Louis_Stourm
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: '1951-01-19'
+  au: null
+- titre: Archbishop of Sens (-Auxerre), France
+  du: '1962-10-27'
+  au: null
+- titre: Archbishop Emeritus of Sens (-Auxerre), France
+  du: null
+  au: '1990-11-03'
+- titre: archevêque de Sens et Auxerre
+  du: '1962-10-27'
+  au: '1977-06-28'
+- titre: évêque d'Amiens
+  du: '1951-01-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Stourm%2C%20%C3%A9v%C3%AAque%20d%27Amiens%2001.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19513644
+  catholic_hierarchy: bstourm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:40:08+00:00'
+  completeness: 1.0

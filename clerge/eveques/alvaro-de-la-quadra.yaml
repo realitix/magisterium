@@ -1,0 +1,47 @@
+slug: alvaro-de-la-quadra
+nom: Álvaro de la Quadra
+nom_complet: Alvaro della Quadra
+naissance: '1516'
+deces: '1563'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdquada.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Venosa, Italy
+  du: '1542-05-12'
+  au: 1551&sup1;
+- titre: Bishop of L&rsquo;Aquila, Italy
+  du: '1553-09-13'
+  au: 1561&sup1;
+- titre: Roman Catholic Bishop of Venosa
+  du: '1542-05-22'
+  au: '1551-01-01'
+- titre: ambassadeur d'Espagne auprès du royaume d'Angleterre
+  du: null
+  au: null
+- titre: évêque de L'Aquila
+  du: '1553-09-23'
+  au: '1561-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q966557
+  catholic_hierarchy: bdquada
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:33+00:00'
+  completeness: 0.25

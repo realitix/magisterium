@@ -1,0 +1,43 @@
+slug: hartmann-de-dillingen
+nom: Hartmann de Dillingen
+nom_complet: Hartmann von Dillingen
+naissance: '1201'
+deces: '1286-07-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdillingh.html
+  - https://fr.wikipedia.org/wiki/Hartmann_de_Dillingen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: '1250-03-13'
+  au: '1286-07-04'
+- titre: évêque d'Augsbourg
+  du: '1250-03-20'
+  au: '1286-07-11'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dillingen%20an%20der%20Donau%20Heilig%20Geist%20381.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1587321
+  catholic_hierarchy: bdillingh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:51:31+00:00'
+  completeness: 0.38

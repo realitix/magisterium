@@ -1,0 +1,43 @@
+slug: ascanio-gesualdo
+nom: Ascanio Gesualdo
+nom_complet: null
+naissance: null
+deces: '1638-01-27'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: patriarche
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1613-07-14'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: decio-cardinal-carafa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgesualdo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Bari (-Canosa), Italy
+  du: '1613-07-01'
+  au: '1638-01-27'
+- titre: Apostolic Nuncio to Flanders, Belgium
+  du: '1615-10-24'
+  au: null
+- titre: Apostolic Nuncio to Emperor
+  du: '1617-06-17'
+  au: '1621-04-17'
+- titre: Titular Patriarch of Constantinople
+  du: '1618-06-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bgesualdo
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:19:32+00:00'
+  completeness: 0.75

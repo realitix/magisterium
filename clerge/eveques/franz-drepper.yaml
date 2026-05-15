@@ -1,0 +1,45 @@
+slug: franz-drepper
+nom: Franz Drepper
+nom_complet: Johann Franz Drepper
+naissance: '1787-10-03'
+deces: '1855-11-05'
+naissance_lieu: Mellrich, Archdiocese of Köln {Cologne}
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1845-07-13'
+  lieu: Cathedral, Paderborn, Diocese of Paderborn
+  consecrateur_principal: anton-ferdinand-holtgreven
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdrepper.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paderborn, Germany
+  du: null
+  au: '1855-11-05'
+- titre: évêque de Paderborn
+  du: '1845-01-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Drepper%2C%20Franz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1446574
+  catholic_hierarchy: bdrepper
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:19+00:00'
+  completeness: 0.88

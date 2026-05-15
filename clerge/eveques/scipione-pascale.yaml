@@ -1,0 +1,43 @@
+slug: scipione-pascale
+nom: Scipione Pascale
+nom_complet: Scipione Pasquali
+naissance: null
+deces: '1624'
+naissance_lieu: Cosenza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-02-01'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - volpiano-volpi
+  - marco-cornaro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpasquali.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Casale Monferrato, Italy
+  du: '1615-01-12'
+  au: 1624&sup1;
+- titre: évêque diocésain
+  du: '1615-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27918516
+  catholic_hierarchy: bpasquali
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:12:11+00:00'
+  completeness: 0.75

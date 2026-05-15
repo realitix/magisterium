@@ -1,0 +1,51 @@
+slug: john-barres
+nom: John Barres
+nom_complet: John Oliver Barres
+naissance: '1960-09-20'
+deces: null
+naissance_lieu: Port Chester, Archdiocese of New York, New York
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '2009-07-30'
+  lieu: Saint Catharine of Siena, Cathedral, Allentown, Diocese of Allentown, Pennsylvania
+  consecrateur_principal: justin-francis-rigali
+  co_consecrateurs:
+  - william-francis-malooly
+  - michael-angelo-saltarelli
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarres.html
+  - https://fr.wikipedia.org/wiki/John_Barres
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Allentown, Pennsylvania, USA
+  du: '2009-05-27'
+  au: null
+- titre: Bishop of Rockville Centre, New York, USA
+  du: '2016-12-09'
+  au: null
+- titre: évêque diocésain
+  du: '2009-05-27'
+  au: '2016-12-09'
+- titre: évêque diocésain
+  du: '2016-12-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1701253
+  catholic_hierarchy: bbarres
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:04:50+00:00'
+  completeness: 0.88

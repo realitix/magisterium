@@ -1,0 +1,45 @@
+slug: jean-de-balaguier
+nom: Jean de Balaguier
+nom_complet: null
+naissance: '1505'
+deces: '1576-04-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalagu.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Balaguier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bazas, France
+  du: '1563-10-08'
+  au: null
+- titre: Bishop of Cahors, France
+  du: '1564-04-28'
+  au: '1576-04-10'
+- titre: évêque diocésain
+  du: '1563-10-18'
+  au: null
+- titre: évêque diocésain
+  du: '1564-05-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175247
+  catholic_hierarchy: bbalagu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:57:02+00:00'
+  completeness: 0.38

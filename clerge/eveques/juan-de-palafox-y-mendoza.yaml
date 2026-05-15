@@ -1,0 +1,61 @@
+slug: juan-de-palafox-y-mendoza
+nom: Juan de Palafox y Mendoza
+nom_complet: Bl. Juan de Palafox y Mendoza
+naissance: '1600-06-24'
+deces: '1659-10-01'
+naissance_lieu: Fitero
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1639-12-27'
+  lieu: Cistercian, Monastery, Madrid, Archdiocese of Toledo
+  consecrateur_principal: agustin-cardinal-spinola-basadone
+  co_consecrateurs:
+  - juan-alonso-y-ocon
+  - mauro-diego-marcos-de-tovar-y-valle-maldonado-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpalafox.html
+  - https://fr.wikipedia.org/wiki/Juan_de_Palafox_y_Mendoza
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tlaxcala (Puebla de los Angeles), México
+  du: '1639-10-03'
+  au: null
+- titre: Bishop of Osma, Spain
+  du: null
+  au: '1659-10-01'
+- titre: vice-roi de Nouvelle-Espagne
+  du: '1642-06-10'
+  au: '1642-11-23'
+- titre: évêque de Puebla-Tlaxcala
+  du: '1639-10-03'
+  au: '1653-11-24'
+- titre: évêque d'Osma
+  du: '1653-08-16'
+  au: '1659-10-01'
+- titre: Consejero de Consejo Supremo de la Corona de Aragón
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/JuandePalafoxyMendoza.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2448974
+  catholic_hierarchy: bpalafox
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:03:47+00:00'
+  completeness: 1.0

@@ -1,0 +1,70 @@
+slug: pie-ix
+nom: Pie IX
+nom_complet: Pius IX
+naissance: '1792-05-13'
+deces: '1878-02-07'
+naissance_lieu: Senigaglia, Diocese of Senigallia
+deces_lieu: Vatican, Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1827-06-03'
+  lieu: San Pietro in Vincoli, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: pie-viii
+  co_consecrateurs:
+  - giovanni-giacomo-sinibaldi
+  - antonio-luigi-piatti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmasfer.html
+  - https://fr.wikipedia.org/wiki/Pie_IX
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Spoleto, Italy
+  du: '1827-05-21'
+  au: null
+- titre: Archbishop (Personal Title) of Imola, Italy
+  du: '1832-12-17'
+  au: null
+- titre: Cardinal-Priest of Santi Marcellino e Pietro
+  du: '1840-12-17'
+  au: null
+- titre: Bishop of Imola, Italy
+  du: null
+  au: '1846-09-21'
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1878-02-07'
+- titre: cardinal-prêtre
+  du: '1840-12-14'
+  au: '1878-02-07'
+- titre: pape
+  du: '1846-06-16'
+  au: '1878-02-07'
+- titre: archevêque de Spolète
+  du: '1827-06-03'
+  au: null
+- titre: évêque d'Imola
+  du: '1832-12-17'
+  au: '1846-09-21'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pius%20IX%2C%20by%20Adolphe%20Braun%2C%201875.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q43720
+  catholic_hierarchy: bmasfer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:35:07+00:00'
+  completeness: 1.0

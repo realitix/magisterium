@@ -1,0 +1,44 @@
+slug: john-march
+nom: John March
+nom_complet: null
+naissance: '1863-07-14'
+deces: '1940-01-12'
+naissance_lieu: Northern Bay
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1906-11-04'
+  lieu: Harbour Grace, Diocese of Harbour Grace, Newfoundland
+  consecrateur_principal: michael-francis-howley
+  co_consecrateurs:
+  - ronald-macdonald
+  - neil-mcneil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Harbour Grace, Newfoundland, Canada
+  du: '1906-08-28'
+  au: '1940-01-12'
+- titre: évêque diocésain
+  du: '1906-08-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735612
+  catholic_hierarchy: bmarch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:37+00:00'
+  completeness: 1.0

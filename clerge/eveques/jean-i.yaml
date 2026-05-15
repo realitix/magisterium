@@ -1,0 +1,36 @@
+slug: jean-i
+nom: Jean I
+nom_complet: Ioannes
+naissance: '1050'
+deces: '1141-06-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-0bc44e01
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Jean_Ier_(%C3%A9v%C3%AAque_de_Lisieux)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Lisieux
+  du: '1107-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9tail%20gisant%20Jean%20%C3%A9v%C3%AAque%20Lisieux.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3172683
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67

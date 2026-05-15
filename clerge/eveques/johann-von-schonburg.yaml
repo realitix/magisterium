@@ -1,0 +1,52 @@
+slug: johann-von-schonburg
+nom: Johann von Schönburg
+nom_complet: Johann von Schönberg
+naissance: '1500'
+deces: '1555-01-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1552-03-27'
+  consecrateur_principal: wolfgang-von-salm
+  co_consecrateurs:
+  - heinrich-kurz-kurtino
+  - oswald-fischer-arnsperger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvschonjo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: 1551&sup1;
+  au: 1556&sup1;
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Gurk
+  du: '1551-01-01'
+  au: null
+- titre: Abbot of the Benedictine Abbey Melk
+  du: '1549-01-01'
+  au: '1551-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1696855
+  catholic_hierarchy: bvschonjo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:46:59+00:00'
+  completeness: 0.75

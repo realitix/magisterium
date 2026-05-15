@@ -1,0 +1,43 @@
+slug: pierre-de-galard
+nom: Pierre de Galard
+nom_complet: Pierre de Galard, O.S.B.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Dec 1340&sup2;
+  consecrateur_principal: pierre-de-luc
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgalardp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Condom, France
+  du: '1340-10-25'
+  au: null
+- titre: évêque de Condom
+  du: '1340-01-01'
+  au: '1369-01-01'
+- titre: évêque diocésain
+  du: '1340-11-02'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q34497687
+  catholic_hierarchy: bgalardp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:04:25+00:00'
+  completeness: 0.62

@@ -1,0 +1,73 @@
+slug: fulton-sheen
+nom: Fulton Sheen
+nom_complet: Fulton John Sheen
+naissance: '1895-05-08'
+deces: '1979-12-09'
+naissance_lieu: El Paso, IL, Diocese of Peoria, Illinois
+deces_lieu: New York, Archdiocese of New York, New York
+rang: archeveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1951-06-11'
+  lieu: Santi Giovanni e Paulo, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: adeodato-giovanni-piazza
+  co_consecrateurs:
+  - leone-giovanni-battista-nigris
+  - martin-john-o-connor
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsheen.html
+  - https://fr.wikipedia.org/wiki/Fulton_Sheen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of New York, New York, USA
+  du: '1951-05-28'
+  au: null
+- titre: Titular Bishop of Caesariana
+  du: '1951-05-28'
+  au: null
+- titre: Bishop of Rochester, New York, USA
+  du: '1966-10-21'
+  au: null
+- titre: Titular Archbishop of Neoportus
+  du: '1969-10-06'
+  au: null
+- titre: Bishop Emeritus of Rochester, New York, USA
+  du: null
+  au: '1979-12-09'
+- titre: évêque titulaire
+  du: '1951-05-28'
+  au: null
+- titre: archevêque catholique
+  du: '1969-10-06'
+  au: null
+- titre: évêque diocésain
+  du: '1966-10-21'
+  au: '1969-10-06'
+- titre: évêque auxiliaire
+  du: '1951-05-28'
+  au: null
+- titre: archevêque titulaire
+  du: '1969-10-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Fulton%20J.%20Sheen%201956.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q954398
+  catholic_hierarchy: bsheen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:14:54+00:00'
+  completeness: 1.0

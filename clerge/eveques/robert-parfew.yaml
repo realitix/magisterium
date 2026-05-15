@@ -1,0 +1,51 @@
+slug: robert-parfew
+nom: Robert Parfew
+nom_complet: Robert Warton (Parfew)
+naissance: null
+deces: '1557-09-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1536-07-02'
+  consecrateur_principal: thomas-cranmer
+  co_consecrateurs:
+  - john-capon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwarton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: null
+  au: '1557-09-22'
+- titre: évêque de Hereford
+  du: '1554-01-01'
+  au: '1557-01-01'
+- titre: évêque diocésain
+  du: '1536-06-18'
+  au: null
+- titre: évêque diocésain
+  du: '1554-01-01'
+  au: null
+- titre: évêque de St Asaph
+  du: '1536-01-01'
+  au: '1554-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7348272
+  catholic_hierarchy: bwarton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:51:32+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: karel-celik
+nom: Karel Celik
+nom_complet: Dragutin Čelik
+naissance: '1894-01-20'
+deces: '1958-08-11'
+naissance_lieu: Slimena
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1951-12-16'
+  lieu: Beograd, Archdiocese of Beograd (-Smederevo), Serbia
+  consecrateur_principal: josip-ujcic
+  co_consecrateurs:
+  - marko-alaupovic
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcelik.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Banjaluka, Bosnia and Herzegovina
+  du: '1951-12-15'
+  au: '1958-08-11'
+- titre: Titular Bishop of Dionysias
+  du: '1951-12-15'
+  au: null
+- titre: administrateur apostolique
+  du: '1951-12-15'
+  au: null
+- titre: évêque titulaire
+  du: '1951-12-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16112257
+  catholic_hierarchy: bcelik
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:36:24+00:00'
+  completeness: 1.0

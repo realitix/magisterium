@@ -1,0 +1,48 @@
+slug: pierre-sabatier
+nom: Pierre Sabatier
+nom_complet: Pierre de Sabatier
+naissance: '1654-11-14'
+deces: '1733-01-20'
+naissance_lieu: Vabres
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1707-05-15'
+  consecrateur_principal: charles-maurice-le-tellier
+  co_consecrateurs:
+  - jacques-de-goyon-de-matignon
+  - francois-de-poudenx
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsabap.html
+  - https://fr.wikipedia.org/wiki/Pierre_Sabatier_(pr%C3%A9lat)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: null
+  au: '1733-01-20'
+- titre: évêque d'Amiens
+  du: '1706-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9tail%20monument%20de%20Pierre%20Sabatier2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3386906
+  catholic_hierarchy: bsabap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:39:08+00:00'
+  completeness: 1.0

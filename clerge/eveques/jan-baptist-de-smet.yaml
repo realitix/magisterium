@@ -1,0 +1,54 @@
+slug: jan-baptist-de-smet
+nom: Jan Baptist de Smet
+nom_complet: Jan-Baptist de Smet
+naissance: '1674-02-01'
+deces: '1741-09-27'
+naissance_lieu: Lokeren
+deces_lieu: null
+rang: eveque
+nationalite: Q6581823
+tampon: ordo_validus
+sacre:
+  date: '1721-04-20'
+  consecrateur_principal: pierre-joseph-de-franken-sierstof
+  co_consecrateurs:
+  - henri-joseph-van-susteren
+  - louis-francois-de-rossius-de-liboy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdsmet.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_de_Smet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1721-02-03'
+  au: null
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: null
+  au: '1741-09-27'
+- titre: évêque d'Ypres
+  du: '1721-02-03'
+  au: null
+- titre: Évêque de Gand
+  du: '1730-08-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PMa%20001019%20B%20Gent%20StB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15876858
+  catholic_hierarchy: bdsmet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:09:06+00:00'
+  completeness: 0.88

@@ -1,0 +1,42 @@
+slug: armand-de-vernon
+nom: Armand de Vernon
+nom_complet: null
+naissance: null
+deces: '1324'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvernon.html
+  - https://fr.wikipedia.org/wiki/Armand_de_Vernon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: '1318-07-08'
+  au: null
+- titre: Bishop of Nîmes, France
+  du: '1324-01-25'
+  au: Apr 1324&sup2;
+- titre: évêque de Nîmes
+  du: '1318-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19629235
+  catholic_hierarchy: bvernon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:33:50+00:00'
+  completeness: 0.25

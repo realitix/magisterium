@@ -1,0 +1,125 @@
+---
+/**
+ * Petite carte récap des statistiques du corpus clergé.
+ */
+import { getStats, getAllClerics, tamponOf } from '../data/loadClerge.ts';
+
+const stats = getStats();
+const all = getAllClerics();
+
+// Compte par tampon — calculé une fois au build.
+let validus = 0;
+let dubius = 0;
+let incertus = 0;
+for (const c of all) {
+  const t = tamponOf(c.slug);
+  if (t === 'ordo_validus') validus += 1;
+  else if (t === 'ordo_dubius') dubius += 1;
+  else incertus += 1;
+}
+
+const totalFmt = stats.total_eveques.toLocaleString('fr-FR');
+const validusFmt = validus.toLocaleString('fr-FR');
+const dubiusFmt = dubius.toLocaleString('fr-FR');
+const incertusFmt = incertus.toLocaleString('fr-FR');
+const avecSacre = stats.avec_consecrateur_connu.toLocaleString('fr-FR');
+const avecPhoto = stats.avec_photo.toLocaleString('fr-FR');
+---
+
+<section class="clerge-stats" aria-label="Statistiques du corpus clergé">
+  <dl class="clerge-stats__grid">
+    <div class="clerge-stats__cell">
+      <dt>Évêques</dt>
+      <dd>{totalFmt}</dd>
+    </div>
+    <div class="clerge-stats__cell">
+      <dt>Avec consécrateur connu</dt>
+      <dd>{avecSacre}</dd>
+    </div>
+    <div class="clerge-stats__cell">
+      <dt>Avec photographie</dt>
+      <dd>{avecPhoto}</dd>
+    </div>
+  </dl>
+
+  <div class="clerge-stats__tampons">
+    <h3 class="clerge-stats__subtitle">Répartition par tampon (lignée)</h3>
+    <ul role="list" class="clerge-stats__tampon-list">
+      <li><span class="clerge-stats__dot clerge-stats__dot--validus" aria-hidden="true"></span> Ordo validus<span class="clerge-stats__num">{validusFmt}</span></li>
+      <li><span class="clerge-stats__dot clerge-stats__dot--dubius" aria-hidden="true"></span> Ordo dubius<span class="clerge-stats__num">{dubiusFmt}</span></li>
+      <li><span class="clerge-stats__dot clerge-stats__dot--incertus" aria-hidden="true"></span> Ordo incertus<span class="clerge-stats__num">{incertusFmt}</span></li>
+    </ul>
+  </div>
+</section>
+
+<style>
+  .clerge-stats {
+    border: 1px solid var(--rule);
+    background: var(--paper-dim);
+    padding: var(--space-m);
+    border-radius: 4px;
+    margin: var(--space-l) 0;
+  }
+  .clerge-stats__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: var(--space-m);
+    margin: 0 0 var(--space-m);
+    padding: 0;
+  }
+  .clerge-stats__cell dt {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin: 0;
+  }
+  .clerge-stats__cell dd {
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: var(--ink);
+    margin: 0.15em 0 0;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .clerge-stats__subtitle {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin: 0 0 var(--space-s);
+    font-weight: 500;
+  }
+  .clerge-stats__tampon-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-m);
+    font-family: var(--font-display);
+    color: var(--ink-soft);
+  }
+  .clerge-stats__tampon-list li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+  }
+  .clerge-stats__num {
+    margin-left: 0.5em;
+    font-weight: 600;
+    color: var(--ink);
+    font-variant-numeric: oldstyle-nums;
+  }
+  .clerge-stats__dot {
+    display: inline-block;
+    width: 0.85em;
+    height: 0.85em;
+    border-radius: 50%;
+  }
+  .clerge-stats__dot--validus { background: #1b3a6b; }
+  .clerge-stats__dot--dubius { background: #8b1a1a; }
+  .clerge-stats__dot--incertus { background: #6b6158; }
+</style>

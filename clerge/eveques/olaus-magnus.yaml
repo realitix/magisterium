@@ -1,0 +1,39 @@
+slug: olaus-magnus
+nom: Olaus Magnus
+nom_complet: Olaus Månsson
+naissance: '1490-10-01'
+deces: '1557-08-01'
+naissance_lieu: Skänninge
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: archeveque
+nationalite: Q34
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanssono.html
+  - https://fr.wikipedia.org/wiki/Olaus_Magnus
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Uppsala, Sweden
+  du: '1544-06-04'
+  au: '1557-08-01'
+- titre: archevêque catholique d'Uppsala
+  du: '1544-06-14'
+  au: '1557-08-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q315804
+  catholic_hierarchy: bmanssono
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:22:22+00:00'
+  completeness: 0.38

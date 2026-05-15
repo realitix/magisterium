@@ -1,0 +1,44 @@
+slug: charles-thomas-thibault
+nom: Charles-Thomas Thibault
+nom_complet: null
+naissance: '1796-02-24'
+deces: '1861-05-04'
+naissance_lieu: Beynes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1835-08-23'
+  consecrateur_principal: hyacinthe-louis-de-quelen
+  co_consecrateurs:
+  - charles-de-forbin-janson
+  - louis-blanquart-de-bailleul
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthibc.html
+  - https://fr.wikipedia.org/wiki/Charles-Thomas_Thibault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montpellier, France
+  du: null
+  au: '1861-05-04'
+- titre: évêque de Montpellier
+  du: '1835-05-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56817163
+  catholic_hierarchy: bthibc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:57:26+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: fortune-de-mazenod
+nom: Fortuné de Mazenod
+nom_complet: Fortuné-Charles de Mazenod
+naissance: '1749-04-27'
+deces: '1840-02-21'
+naissance_lieu: Aix-en-Provence
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1823-07-06'
+  consecrateur_principal: jean-baptist-marie-anne-antoine-cardinal-de-latil
+  co_consecrateurs:
+  - claude-joseph-judith-francois-xavier-de-sagey
+  - alexandre-devie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmazec.html
+  - https://fr.wikipedia.org/wiki/Fortun%C3%A9_de_Mazenod
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Marseille, France
+  du: null
+  au: '1840-02-21'
+- titre: évêque de Marseille
+  du: '1823-02-12'
+  au: '1837-04-29'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1064393
+  catholic_hierarchy: bmazec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:41:00+00:00'
+  completeness: 1.0

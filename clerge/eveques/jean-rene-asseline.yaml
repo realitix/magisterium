@@ -1,0 +1,44 @@
+slug: jean-rene-asseline
+nom: Jean-René Asseline
+nom_complet: null
+naissance: '1742-04-01'
+deces: '1813-04-10'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1790-01-03'
+  consecrateur_principal: antonio-dugnani
+  co_consecrateurs:
+  - jean-baptiste-de-beauvais
+  - charles-de-la-font-de-savine
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/basseline.html
+  - https://fr.wikipedia.org/wiki/Jean-Ren%C3%A9_Asseline
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boulogne (-Sur-Mer), France
+  du: null
+  au: '1813-04-10'
+- titre: évêque de Boulogne-sur-Mer
+  du: '1789-10-18'
+  au: '1813-04-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3169892
+  catholic_hierarchy: basseline
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:47:01+00:00'
+  completeness: 0.88

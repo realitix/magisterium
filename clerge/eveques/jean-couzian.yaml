@@ -1,0 +1,44 @@
+slug: jean-couzian
+nom: Jean Couzian
+nom_complet: Jean Couzian, I.C.P.B.
+naissance: '1874-03-14'
+deces: '1933-05-06'
+naissance_lieu: Mardin
+deces_lieu: null
+rang: eveque
+nationalite: Q43
+tampon: ordo_validus
+sacre:
+  date: '1911-10-22'
+  lieu: San Nicola da Tolentino, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: boghos-bedros-paul-peter-xiii-terzian
+  co_consecrateurs:
+  - avedis-bedros-xiv-arpiarian
+  - hussig-gulian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcouz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Iskanderiya {Alexandria} (Armenian), Egypt
+  du: '1911-10-01'
+  au: '1933-05-06'
+- titre: évêque diocésain
+  du: '1911-10-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1685453
+  catholic_hierarchy: bcouz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:34+00:00'
+  completeness: 1.0

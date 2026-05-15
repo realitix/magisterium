@@ -1,0 +1,44 @@
+slug: raffaele-bocci
+nom: Raffaele Bocci
+nom_complet: null
+naissance: '1798-07-27'
+deces: '1855-01-27'
+naissance_lieu: Città della Pieve, Diocese of Città della Pieve
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1851-02-24'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - domenico-lucciardi
+  - antonio-ligi-bussi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbocci.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alatri, Italy
+  du: '1851-02-17'
+  au: '1855-01-27'
+- titre: évêque diocésain
+  du: '1851-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745799
+  catholic_hierarchy: bbocci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:32:42+00:00'
+  completeness: 1.0

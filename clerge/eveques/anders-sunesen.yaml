@@ -1,0 +1,44 @@
+slug: anders-sunesen
+nom: Anders Sunesen
+nom_complet: Andreas Sunonis
+naissance: '1167'
+deces: '1228-07-01'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: peder-saxesen
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsunesena.html
+  - https://fr.wikipedia.org/wiki/Anders_Sunesen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lund, Sweden
+  du: 1201&sup2;
+  au: 1223&sup1;
+- titre: archevêque de Lund
+  du: '1201-01-01'
+  au: '1223-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Sunesen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2528310
+  catholic_hierarchy: bsunesena
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:44:00+00:00'
+  completeness: 0.38

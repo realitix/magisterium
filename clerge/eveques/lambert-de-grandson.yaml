@@ -1,0 +1,41 @@
+slug: lambert-de-grandson
+nom: Lambert de Grandson
+nom_complet: null
+naissance: '1050'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1090'
+  consecrateur_principal: guibert-of-ravenna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrandso.html
+  - https://fr.wikipedia.org/wiki/Lambert_de_Grandson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: null
+  au: 1097&sup1;
+- titre: évêque de Lausanne
+  du: '1090-01-01'
+  au: '1098-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1801408
+  catholic_hierarchy: bgrandso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:35+00:00'
+  completeness: 0.62

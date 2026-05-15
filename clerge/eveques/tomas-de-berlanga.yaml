@@ -1,0 +1,51 @@
+slug: tomas-de-berlanga
+nom: Tomas de Berlanga
+nom_complet: Tomás de Berlanga (Martínez Gómez), O.P.
+naissance: '1487'
+deces: '1551-08-08'
+naissance_lieu: Berlanga del Duero, Diocese of Osma, Spain
+deces_lieu: Berlanga del Duero, Diocese of Osma, Spain
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1534-05-17'
+  lieu: San Pedro Martir, Toledo, Archdiocese of Toledo, Spain
+  consecrateur_principal: francisco-mendoza-de-bobadilla
+  co_consecrateurs:
+  - francisco-mendoza-1401
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberlt.html
+  - https://fr.wikipedia.org/wiki/Tomas_de_Berlanga
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Panamá
+  du: '1534-02-11'
+  au: 1537&sup2;
+- titre: Bishop Emeritus of Panamá
+  du: null
+  au: '1551-08-08'
+- titre: évêque de Panama
+  du: '1534-02-21'
+  au: '1537-01-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Tomas%20de%20Belanga.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q115599
+  catholic_hierarchy: bberlt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:20:28+00:00'
+  completeness: 0.88

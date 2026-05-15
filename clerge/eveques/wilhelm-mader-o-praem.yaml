@@ -1,0 +1,52 @@
+slug: wilhelm-mader-o-praem
+nom: Wilhelm Mader, O. Praem.
+nom_complet: Wilhelm Mader
+naissance: null
+deces: '1450'
+naissance_lieu: Dillingen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1447-04-16'
+  consecrateur_principal: nicolas-cesari
+  co_consecrateurs:
+  - antonio-severini
+  - simeon-de-valle
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmade.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Augsburg, Germany
+  du: '1447-03-29'
+  au: 1450&sup1;
+- titre: Titular Bishop of Adramyttium
+  du: '1447-03-29'
+  au: null
+- titre: évêque auxiliaire
+  du: '1447-01-01'
+  au: '1450-01-01'
+- titre: évêque auxiliaire
+  du: '1447-04-07'
+  au: '1450-01-01'
+- titre: évêque titulaire
+  du: '1447-03-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26777021
+  catholic_hierarchy: bmade
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:11:16+00:00'
+  completeness: 0.75

@@ -1,0 +1,45 @@
+slug: hilger-de-burgis-o-carm
+nom: Hilger de Burgis, O. Carm.
+nom_complet: Hilger de Burgis
+naissance: '1400'
+deces: '1452-11-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1446'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bburgis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Köln {Cologne}, Germany
+  du: 1446&sup2;
+  au: '1452-11-01'
+- titre: Titular Bishop of Budua
+  du: 1446&sup2;
+  au: null
+- titre: évêque titulaire
+  du: '1446-01-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1446-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1618610
+  catholic_hierarchy: bburgis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:00:18+00:00'
+  completeness: 0.38

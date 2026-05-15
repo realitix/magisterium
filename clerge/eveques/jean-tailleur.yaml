@@ -1,0 +1,50 @@
+slug: jean-tailleur
+nom: Jean Tailleur
+nom_complet: null
+naissance: '1963-11-05'
+deces: null
+naissance_lieu: Québec, Archdiocese of Québec
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2025-02-21'
+  lieu: Notre-Dame de Québec, Cathedral Basilica, Québec, Archdiocese of Québec
+  consecrateur_principal: gerald-cyprien-lacroix
+  co_consecrateurs:
+  - marc-pelchat
+  - juan-carlos-londono
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btailleur.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Québec, Canada
+  du: '2024-12-12'
+  au: null
+- titre: Titular Bishop of Abora
+  du: '2024-12-12'
+  au: null
+- titre: évêque auxiliaire
+  du: '2024-12-12'
+  au: null
+- titre: évêque titulaire
+  du: '2024-12-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q131430145
+  catholic_hierarchy: btailleur
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:48:56+00:00'
+  completeness: 0.88

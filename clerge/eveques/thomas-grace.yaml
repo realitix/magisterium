@@ -1,0 +1,48 @@
+slug: thomas-grace
+nom: Thomas Grace
+nom_complet: null
+naissance: '1841-08-02'
+deces: '1921-12-27'
+naissance_lieu: Wexford, Diocese of Ferns, Ireland
+deces_lieu: Sacramento, Diocese of Sacramento, California
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1896-06-16'
+  lieu: Holy Sacrament, Cathedral, Sacramento, Diocese of Sacramento, California
+  consecrateur_principal: patrick-william-riordan
+  co_consecrateurs:
+  - lawrence-scanlan
+  - george-thomas-montgomery
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgracet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sacramento, California, USA
+  du: '1896-03-20'
+  au: '1921-12-27'
+- titre: Roman Catholic Bishop of Sacramento
+  du: '1896-03-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20thomas%20grace%20sacramento%20california.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7790128
+  catholic_hierarchy: bgracet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:38:11+00:00'
+  completeness: 1.0

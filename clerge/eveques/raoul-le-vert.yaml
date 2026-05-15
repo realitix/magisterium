@@ -1,0 +1,40 @@
+slug: raoul-le-vert
+nom: Raoul le Vert
+nom_complet: Raoul Le Verd
+naissance: '1050'
+deces: '1124-07-23'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: barthelemy-de-jura
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleverd.html
+  - https://fr.wikipedia.org/wiki/Raoul_le_Vert
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Reims, France
+  du: 1106&sup2;
+  au: '1124-07-23'
+- titre: archevêque catholique
+  du: '1106-01-01'
+  au: '1124-07-30'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17355487
+  catholic_hierarchy: bleverd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:47:26+00:00'
+  completeness: 0.5

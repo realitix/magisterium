@@ -1,0 +1,43 @@
+slug: carlo-taccetti
+nom: Carlo Taccetti
+nom_complet: null
+naissance: '1861-11-19'
+deces: '1920-04-06'
+naissance_lieu: San Miniatello
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1917-05-20'
+  consecrateur_principal: alfonso-maria-mistrangelo
+  co_consecrateurs:
+  - massimiliano-novelli
+  - andrea-cassulo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btacce.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gubbio, Italy
+  du: '1917-03-22'
+  au: '1920-04-06'
+- titre: évêque diocésain
+  du: '1917-03-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733469
+  catholic_hierarchy: btacce
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:48:08+00:00'
+  completeness: 1.0

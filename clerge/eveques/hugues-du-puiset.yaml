@@ -1,0 +1,41 @@
+slug: hugues-du-puiset
+nom: Hugues du Puiset
+nom_complet: Hugh de Puiset
+naissance: '1125'
+deces: '1195-03-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1153-12-20'
+  consecrateur_principal: non-indexe-acb056f4
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpuiset.html
+  - https://fr.wikipedia.org/wiki/Hugues_du_Puiset_(%C3%A9v%C3%AAque_de_Durham)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Durham, England, Great Britain
+  du: '1153-01-31'
+  au: '1195-03-03'
+- titre: évêque catholique de Durham
+  du: '1153-02-07'
+  au: '1195-03-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q965843
+  catholic_hierarchy: bpuiset
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:52:42+00:00'
+  completeness: 0.62

@@ -1,0 +1,52 @@
+slug: berthold-von-zollern
+nom: Berthold von Zollern
+nom_complet: null
+naissance: '1320'
+deces: '1365-09-16'
+naissance_lieu: Nürnberg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1351-06-12'
+  lieu: Avignon, Diocese of Avignon, France
+  consecrateur_principal: pierre-des-pres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzollern.html
+  - https://fr.wikipedia.org/wiki/Berthold_von_Zollern
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: '1351-05-20'
+  au: '1365-09-16'
+- titre: évêque diocésain
+  du: '1351-05-28'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Berthold%2C%20Burggraf%20von%20N%C3%BCrnberg%2C%20Bischof%20von%20Eichst%C3%A4tt.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q125347
+  catholic_hierarchy: bzollern
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:11:00+00:00'
+  completeness: 0.75

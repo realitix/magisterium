@@ -1,0 +1,45 @@
+slug: thomas-ii-de-bonsi
+nom: Thomas II de Bonsi
+nom_complet: Thomas Bonzi
+naissance: '1601'
+deces: '1628-08-07'
+naissance_lieu: null
+deces_lieu: Béziers, Diocese of Béziers
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1626-04-13'
+  lieu: Trinite des Monts, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: denis-simon-de-marquemont
+  co_consecrateurs:
+  - ferdinand-boschetti
+  - girolamo-tantucci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonzit.html
+  - https://fr.wikipedia.org/wiki/Thomas_II_de_Bonsi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Béziers, France
+  du: '1622-01-10'
+  au: '1628-08-07'
+- titre: évêque de Béziers
+  du: '1622-01-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3525224
+  catholic_hierarchy: bbonzit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:39:24+00:00'
+  completeness: 0.88

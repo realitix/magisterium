@@ -1,0 +1,44 @@
+slug: laurence-richardson-o-p
+nom: Laurence Richardson, O.P.
+nom_complet: Laurence Richardson
+naissance: '1701'
+deces: '1753-01-29'
+naissance_lieu: Dublin, Archdiocese of Dublin
+deces_lieu: Channel Row
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1747-05-01'
+  lieu: Dublin, Archdiocese of Dublin
+  consecrateur_principal: john-linegar
+  co_consecrateurs:
+  - stephen-macegan-o-p
+  - james-gallagher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brichards.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kilmore, Ireland
+  du: '1747-02-06'
+  au: '1753-01-29'
+- titre: évêque de Kilmore
+  du: '1747-02-06'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q16207780
+  catholic_hierarchy: brichards
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:13:11+00:00'
+  completeness: 0.88

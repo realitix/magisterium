@@ -1,0 +1,44 @@
+slug: francisco-velarde-de-la-cuenca
+nom: Francisco Velarde de la Cuenca
+nom_complet: null
+naissance: null
+deces: '1604-07-08'
+naissance_lieu: Burgos, Diocese of Burgos, Spain
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1599-02-14'
+  lieu: S.Andre du Quirinal, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ottavio-paravicini
+  co_consecrateurs:
+  - leonardo-abela
+  - giovanni-camerota
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvecu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Messina, Italy
+  du: '1599-02-01'
+  au: '1604-07-08'
+- titre: archevêque de Messine
+  du: '1599-02-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28363719
+  catholic_hierarchy: bvecu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:29:35+00:00'
+  completeness: 0.88

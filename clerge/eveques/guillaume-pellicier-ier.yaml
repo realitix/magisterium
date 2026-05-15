@@ -1,0 +1,42 @@
+slug: guillaume-pellicier-ier
+nom: Guillaume Pellicier Ier
+nom_complet: Pierre Pellicier
+naissance: null
+deces: '1529'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpellic.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Pellicier_Ier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Maguelonne, France
+  du: '1499-03-18'
+  au: 1526&sup1;
+- titre: Bishop Emeritus of Maguelonne, France
+  du: null
+  au: 1529&sup2;
+- titre: évêque de Maguelone
+  du: '1499-03-17'
+  au: '1526-08-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60834166
+  catholic_hierarchy: bpellic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:10+00:00'
+  completeness: 0.25

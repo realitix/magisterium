@@ -1,0 +1,39 @@
+slug: nicolaus-lenda
+nom: Nicolaus Lenda
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: antonio-pallavicini
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blenda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tinos and Mykonos, Greece
+  du: '1449-05-28'
+  au: null
+- titre: Roman Catholic Bishop of Tinos and Mykonos
+  du: '1449-06-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68906589
+  catholic_hierarchy: blenda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:43:12+00:00'
+  completeness: 0.38

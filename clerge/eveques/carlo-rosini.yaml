@@ -1,0 +1,48 @@
+slug: carlo-rosini
+nom: Carlo Rosini
+nom_complet: Carlo Maria Rosini
+naissance: '1748-04-07'
+deces: '1836-02-18'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1797-12-21'
+  consecrateur_principal: giuseppe-maria-doria-pamphilj
+  co_consecrateurs:
+  - nicola-buschi
+  - camillo-campanelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosini.html
+  - https://fr.wikipedia.org/wiki/Carlo_Rosini
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pozzuoli, Italy
+  du: null
+  au: '1836-02-18'
+- titre: évêque de Pouzzoles
+  du: '1797-10-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Carlo%20Rosini%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3659805
+  catholic_hierarchy: brosini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:28:25+00:00'
+  completeness: 1.0

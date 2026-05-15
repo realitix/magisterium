@@ -1,0 +1,54 @@
+slug: zygmunt-ozinski
+nom: Zygmunt Łoziński
+nom_complet: Zygmunt Konstanty Antoni &#321;ozi&#324;ski
+naissance: '1870-07-05'
+deces: '1932-03-26'
+naissance_lieu: Boracin
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1918-07-28'
+  lieu: Cathedral, Warszawa, Archdiocese of Warszawa {Warsaw}, Poland
+  consecrateur_principal: aleksander-kakowski
+  co_consecrateurs:
+  - stanis-aw-zdzitowiecki
+  - antoni-julian-nowowiejski
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blozi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minsk, Belarus
+  du: '1917-11-02'
+  au: null
+- titre: Bishop of Pinsk, Belarus
+  du: '1925-10-28'
+  au: '1932-03-26'
+- titre: Roman Catholic Bishop of Minsk
+  du: '1917-11-02'
+  au: '1925-10-28'
+- titre: évêque de Pinsk
+  du: '1925-10-28'
+  au: '1932-03-26'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Zygmunt%20%C5%81ozi%C5%84ski.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3920705
+  catholic_hierarchy: blozi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:52+00:00'
+  completeness: 1.0

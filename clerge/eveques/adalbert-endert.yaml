@@ -1,0 +1,48 @@
+slug: adalbert-endert
+nom: Adalbert Endert
+nom_complet: null
+naissance: '1850-12-22'
+deces: '1906-07-17'
+naissance_lieu: Setzelbach, Diocese of Fulda
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1898-10-28'
+  lieu: Fulda, Diocese of Fulda
+  consecrateur_principal: georg-von-kopp
+  co_consecrateurs:
+  - paul-leopold-haffner
+  - dominikus-willi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bendert.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fulda, Germany
+  du: null
+  au: '1906-07-17'
+- titre: évêque de Fulda
+  du: '1898-07-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Adalbert%20Endert2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q347319
+  catholic_hierarchy: bendert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:22:09+00:00'
+  completeness: 1.0

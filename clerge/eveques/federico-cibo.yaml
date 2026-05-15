@@ -1,0 +1,44 @@
+slug: federico-cibo
+nom: Federico Cibo
+nom_complet: null
+naissance: null
+deces: '1342'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcibof.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Savona, Italy
+  du: '1317-03-04'
+  au: 1342&sup2;
+- titre: Administrator of Albenga, Italy
+  du: '1328-11-28'
+  au: '1329-12-04'
+- titre: évêque de Savone
+  du: '1317-03-12'
+  au: '1342-01-01'
+- titre: évêque d'Albenga-Imperia
+  du: '1328-12-06'
+  au: '1329-12-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449763
+  catholic_hierarchy: bcibof
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:49:30+00:00'
+  completeness: 0.25

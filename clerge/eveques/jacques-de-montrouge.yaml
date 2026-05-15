@@ -1,0 +1,44 @@
+slug: jacques-de-montrouge
+nom: Jacques de Montrouge
+nom_complet: Jacques Montrouge
+naissance: '1650'
+deces: '1664-04-20'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1647-09-21'
+  consecrateur_principal: pierre-iii-de-bertier
+  co_consecrateurs:
+  - jacques-danes
+  - jean-de-lingendes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontr.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Montrouge
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Flour, France
+  du: null
+  au: '1664-04-20'
+- titre: évêque diocésain
+  du: '1646-10-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3160324
+  catholic_hierarchy: bmontr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:09:29+00:00'
+  completeness: 0.88

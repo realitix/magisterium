@@ -1,0 +1,52 @@
+slug: juan-del-campo
+nom: Juan del Campo
+nom_complet: null
+naissance: null
+deces: '1344-05-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1327-09-27'
+  consecrateur_principal: bertrand-cardinal-de-la-tour-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdcampoj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuenca, Spain
+  du: '1327-08-08'
+  au: null
+- titre: Bishop of Oviedo, Spain
+  du: '1328-05-07'
+  au: null
+- titre: Bishop of León, Spain
+  du: '1332-12-02'
+  au: '1344-05-24'
+- titre: évêque de Cuenca
+  du: '1327-08-16'
+  au: '1328-05-15'
+- titre: évêque de León
+  du: '1332-12-10'
+  au: '1344-06-01'
+- titre: évêque d'Oviedo
+  du: '1328-05-15'
+  au: '1332-12-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16585417
+  catholic_hierarchy: bdcampoj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:33:37+00:00'
+  completeness: 0.75

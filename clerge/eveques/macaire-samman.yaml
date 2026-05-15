@@ -1,0 +1,42 @@
+slug: macaire-samman
+nom: Macaire Samman
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1837-12-25'
+  consecrateur_principal: maxime-iii-mazloum
+  co_consecrateurs:
+  - basile-kfoury
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsamman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop
+  du: 1837&sup1;
+  au: 1846&sup2;
+- titre: Bishop Emeritus
+  du: null
+  au: 1870&#8311;
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779434
+  catholic_hierarchy: bsamman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:46:43+00:00'
+  completeness: 0.75

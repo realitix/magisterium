@@ -1,0 +1,44 @@
+slug: benedetto-andrea-doria
+nom: Benedetto Andrea Doria
+nom_complet: null
+naissance: '1722-11-20'
+deces: '1794-09-17'
+naissance_lieu: Rogliano
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1759-06-04'
+  consecrateur_principal: joaquin-fernandez-portocarrero
+  co_consecrateurs:
+  - diego-andrea-tomacelli
+  - gerardo-giannettasio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoriab.html
+  - https://fr.wikipedia.org/wiki/Benedetto_Andrea_Doria
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ajaccio, France
+  du: '1759-05-28'
+  au: '1794-09-17'
+- titre: évêque d'Ajaccio
+  du: '1759-05-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28872614
+  catholic_hierarchy: bdoriab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:01:56+00:00'
+  completeness: 1.0

@@ -1,0 +1,48 @@
+slug: mariano-manzana
+nom: Mariano Manzana
+nom_complet: null
+naissance: '1947-10-13'
+deces: null
+naissance_lieu: Mori, Archdiocese of Trento, Italy
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2004-09-05'
+  lieu: San Vigilio, Cathedral, Trento, Archdiocese of Trento, Italy
+  consecrateur_principal: luigi-bressan
+  co_consecrateurs:
+  - jose-freire-de-oliveira-neto
+  - wilhelm-egger
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanzana.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mossoró, Rio Grande do Norte, Brazil
+  du: '2004-06-15'
+  au: null
+- titre: évêque diocésain
+  du: '2004-06-15'
+  au: '2023-11-18'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bispo%20da%20Diocese%20de%20Mossor%C3%B3%20%28RN%29%2C%20Dom%20Mariano%20Manzana.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1896978
+  catholic_hierarchy: bmanzana
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:22:58+00:00'
+  completeness: 0.88

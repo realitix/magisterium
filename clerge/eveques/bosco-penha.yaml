@@ -1,0 +1,50 @@
+slug: bosco-penha
+nom: Bosco Penha
+nom_complet: null
+naissance: '1937-01-10'
+deces: null
+naissance_lieu: Mumbai
+deces_lieu: null
+rang: eveque
+nationalite: Q668
+tampon: ordo_dubius
+sacre:
+  date: '1987-08-08'
+  lieu: S. Michel, Church, Bombay, Archdiocese of Bombay
+  consecrateur_principal: simon-ignatius-pimenta
+  co_consecrateurs:
+  - longinus-gabriel-pereira
+  - ferdinand-joseph-fonseca
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpenhab.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bombay, India
+  du: '1987-05-15'
+  au: null
+- titre: Titular Bishop of Maxula Prates
+  du: '1987-05-15'
+  au: null
+- titre: évêque auxiliaire
+  du: '1987-05-15'
+  au: '2012-01-14'
+- titre: évêque titulaire
+  du: '1987-05-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q894401
+  catholic_hierarchy: bpenhab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:59+00:00'
+  completeness: 0.88

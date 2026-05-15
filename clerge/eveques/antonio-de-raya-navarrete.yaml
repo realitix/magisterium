@@ -1,0 +1,44 @@
+slug: antonio-de-raya-navarrete
+nom: Antonio de Raya Navarrete
+nom_complet: Antonio de la Raya Navarrete
+naissance: '1536'
+deces: '1606-07-28'
+naissance_lieu: Baeza, Diocese of Jaén, Spain
+deces_lieu: Cuzco, Diocese of Cuzco
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1594-11-27'
+  lieu: Granada, Archdiocese of Granada, Spain
+  consecrateur_principal: pedro-castro-quinones
+  co_consecrateurs:
+  - juan-fonseca
+  - michael-fitzwalter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brayan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuzco, Peru
+  du: '1594-06-06'
+  au: '1606-07-28'
+- titre: évêque de Cuzco
+  du: '1594-06-06'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q5700286
+  catholic_hierarchy: brayan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:42+00:00'
+  completeness: 0.88

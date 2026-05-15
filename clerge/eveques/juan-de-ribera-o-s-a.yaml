@@ -1,0 +1,39 @@
+slug: juan-de-ribera-o-s-a
+nom: Juan de Ribera, O.S.A.
+nom_complet: Juan de Ribera
+naissance: '1588'
+deces: '1666'
+naissance_lieu: Pisco, Peru
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1660'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brivier.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santa Cruz de la Sierra, Bolivia
+  du: '1659-11-17'
+  au: 1666&sup1;
+- titre: évêque de Santa Cruz de la Sierra
+  du: '1659-11-17'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q23620913
+  catholic_hierarchy: brivier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:17:36+00:00'
+  completeness: 0.38

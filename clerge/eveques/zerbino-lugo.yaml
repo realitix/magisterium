@@ -1,0 +1,47 @@
+slug: zerbino-lugo
+nom: Zerbino Lugo
+nom_complet: null
+naissance: '1571'
+deces: '1647-01-17'
+naissance_lieu: Bassano del Grappa, Diocese of Vicenza
+deces_lieu: Feltre, Diocese of Feltre
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1609-12-06'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-cardinal-delfino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blugo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mylopotamos, Greece
+  du: '1609-12-02'
+  au: 1628&sup1;
+- titre: Bishop of Feltre, Italy
+  du: '1640-01-09'
+  au: '1647-01-17'
+- titre: évêque diocésain
+  du: '1609-12-02'
+  au: '1628-01-01'
+- titre: évêque diocésain
+  du: '1640-01-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68906666
+  catholic_hierarchy: blugo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:04:33+00:00'
+  completeness: 0.75

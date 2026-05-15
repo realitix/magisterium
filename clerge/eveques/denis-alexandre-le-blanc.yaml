@@ -1,0 +1,44 @@
+slug: denis-alexandre-le-blanc
+nom: Denis-Alexandre Le Blanc
+nom_complet: Denis-Alexandre Le Blanc, C.R.S.A.
+naissance: '1674'
+deces: '1747-05-03'
+naissance_lieu: Vitry sur Seine
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1722-03-15'
+  consecrateur_principal: francois-cesar-le-blanc
+  co_consecrateurs:
+  - nicolas-de-saulx-tavannes
+  - leonor-de-goyon-de-matignon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleblda.html
+  - https://fr.wikipedia.org/wiki/Denis-Alexandre_Le_Blanc
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarlat, France
+  du: null
+  au: '1747-05-03'
+- titre: évêque de Sarlat
+  du: '1721-09-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3022476
+  catholic_hierarchy: bleblda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:07+00:00'
+  completeness: 0.88

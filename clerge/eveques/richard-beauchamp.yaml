@@ -1,0 +1,55 @@
+slug: richard-beauchamp
+nom: Richard Beauchamp
+nom_complet: null
+naissance: null
+deces: '1481-11-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1449-02-09'
+  consecrateur_principal: john-stafford-5062bb
+  co_consecrateurs:
+  - john-low
+  - thomas-beckington
+  - john-carpenter-1399
+  - reginald-pecock
+  - adam-moleyns
+  - walter-le-hert
+  - marmaduke-lumley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeauch.html
+  - https://fr.wikipedia.org/wiki/Richard_Beauchamp_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1448-12-04'
+  au: null
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1450-08-14'
+  au: '1481-11-04'
+- titre: évêque diocésain
+  du: '1448-12-13'
+  au: '1450-08-23'
+- titre: évêque diocésain
+  du: '1450-08-23'
+  au: '1481-11-13'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7324047
+  catholic_hierarchy: bbeauch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:10:37+00:00'
+  completeness: 0.88

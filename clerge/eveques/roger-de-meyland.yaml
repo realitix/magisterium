@@ -1,0 +1,48 @@
+slug: roger-de-meyland
+nom: Roger de Meyland
+nom_complet: Roger Longespee
+naissance: '1250'
+deces: '1295-12-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1258-03-10'
+  consecrateur_principal: boniface-of-savoy
+  co_consecrateurs:
+  - giles-of-bridport
+  - william-of-bitton-i
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blonges.html
+  - https://fr.wikipedia.org/wiki/Roger_de_Meyland
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: null
+  au: '1295-12-16'
+- titre: évêque de Coventry et Lichfield
+  du: '1257-02-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20de%20Meulan%2C%20bishop%20of%20Coventry%20-%20seal%2C%201288-1296.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7359200
+  catholic_hierarchy: blonges
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:57:22+00:00'
+  completeness: 0.88

@@ -1,0 +1,45 @@
+slug: jacques-foure
+nom: Jacques Fouré
+nom_complet: Jacques Fouré, O.P.
+naissance: '1515'
+deces: '1578-01-20'
+naissance_lieu: Mainvellers
+deces_lieu: Mâcon, Diocese of Mâcon
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1574-04-18'
+  lieu: Domicans, rue S. Jacques, Church, Paris, Diocese of Paris
+  consecrateur_principal: louis-de-breze
+  co_consecrateurs:
+  - guillaume-ruze
+  - jacques-amyot
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfoure.html
+  - https://fr.wikipedia.org/wiki/Jacques_Four%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1573-11-16'
+  au: '1578-01-20'
+- titre: évêque de Chalon-sur-Saône
+  du: '1573-11-26'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q28495975
+  catholic_hierarchy: bfoure
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:54:13+00:00'
+  completeness: 0.88

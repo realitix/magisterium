@@ -1,0 +1,44 @@
+slug: thomas-la-reve
+nom: Thomas La Reve
+nom_complet: null
+naissance: null
+deces: '1393'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blareve.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lismore, Ireland
+  du: '1358-05-14'
+  au: null
+- titre: Bishop of Waterford and Lismore, Ireland
+  du: '1363-06-16'
+  au: 1393&sup2;
+- titre: évêque de Waterford et Lismore
+  du: '1363-06-24'
+  au: null
+- titre: évêque diocésain
+  du: '1358-05-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108477550
+  catholic_hierarchy: blareve
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:33:43+00:00'
+  completeness: 0.25

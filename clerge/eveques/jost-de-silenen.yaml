@@ -1,0 +1,56 @@
+slug: jost-de-silenen
+nom: Jost de Silenen
+nom_complet: Josse de Sillenen
+naissance: '1435'
+deces: '1498-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1497-08-30'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsillenen.html
+  - https://fr.wikipedia.org/wiki/Jost_von_Silenen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grenoble, France
+  du: '1477-06-09'
+  au: null
+- titre: Bishop of Sion {Sitten}, Switzerland
+  du: '1482-08-02'
+  au: 1496&sup1;
+- titre: Titular Bishop of Hierapolis in Phrygia
+  du: '1497-08-30'
+  au: null
+- titre: évêque titulaire
+  du: '1497-08-30'
+  au: null
+- titre: évêque de Sion
+  du: '1482-08-11'
+  au: '1496-01-01'
+- titre: évêque de Grenoble
+  du: '1477-01-01'
+  au: '1482-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/ZHB%20SoSa%20Portrait%20008%20cropped.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q118569
+  catholic_hierarchy: bsillenen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:18:11+00:00'
+  completeness: 0.25

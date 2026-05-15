@@ -1,0 +1,44 @@
+slug: konrad-von-hirscheck
+nom: Konrad von Hirscheck
+nom_complet: null
+naissance: '1200'
+deces: '1167'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1152'
+  consecrateur_principal: non-indexe-d6da50fe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhirsch.html
+  - https://fr.wikipedia.org/wiki/Conrad_de_Hirscheck
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: 1152&sup2;
+  au: '1167-10-24'
+- titre: évêque d'Augsbourg
+  du: '1152-01-01'
+  au: null
+- titre: évêque
+  du: '1152-01-01'
+  au: '1167-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q989744
+  catholic_hierarchy: bhirsch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:43:55+00:00'
+  completeness: 0.62

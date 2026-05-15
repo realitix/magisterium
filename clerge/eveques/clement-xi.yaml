@@ -1,0 +1,57 @@
+slug: clement-xi
+nom: Clément XI
+nom_complet: Clement XI
+naissance: '1649-07-23'
+deces: '1721-03-19'
+naissance_lieu: Urbino
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1700-11-30'
+  consecrateur_principal: emmanuel-theodose-de-la-tour-d-auvergne
+  co_consecrateurs:
+  - nicolo-acciaioli
+  - gaspare-carpegna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balbani.html
+  - https://fr.wikipedia.org/wiki/Cl%C3%A9ment_XI
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Sant&rsquo;Adriano al Foro
+  du: '1690-05-22'
+  au: null
+- titre: Cardinal-Priest of San Silvestro in Capite
+  du: '1700-03-30'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1721-03-19'
+- titre: cardinal
+  du: '1690-02-13'
+  au: null
+- titre: pape
+  du: '1700-11-23'
+  au: '1721-03-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Clement%20XI%20%E2%80%93%20Pier%20Leone%20Ghezzi%20%28c.%201708%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q129967
+  catholic_hierarchy: balbani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:26:08+00:00'
+  completeness: 1.0

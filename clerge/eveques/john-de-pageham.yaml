@@ -1,0 +1,47 @@
+slug: john-de-pageham
+nom: John de Pageham
+nom_complet: John of Pagham
+naissance: null
+deces: '1158-03-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1151-03-04'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - non-indexe-b42390b0
+  - non-indexe-8466731c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpagham.html
+  - https://fr.wikipedia.org/wiki/John_de_Pageham
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: 1151&sup1;
+  au: '1158-03-31'
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1151-01-01'
+  au: '1157-01-01'
+- titre: évêque diocésain
+  du: '1151-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6265608
+  catholic_hierarchy: bpagham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:02:56+00:00'
+  completeness: 0.88

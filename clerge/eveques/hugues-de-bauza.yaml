@@ -1,0 +1,39 @@
+slug: hugues-de-bauza
+nom: Hugues de Bauza
+nom_complet: Hugo Bauzá
+naissance: null
+deces: '1505'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbauzah.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Bauza
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: '1503-01-11'
+  au: 1505&sup2;
+- titre: évêque d'Angoulême
+  du: '1503-01-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60834084
+  catholic_hierarchy: bbauzah
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:09:13+00:00'
+  completeness: 0.25

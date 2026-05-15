@@ -1,0 +1,49 @@
+slug: henri-de-gueldre
+nom: Henri de Gueldre
+nom_complet: Henri de Geldern
+naissance: '1215'
+deces: '1285-04-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgeldern.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Gueldre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1247-10-10'
+  au: '1274-07-03'
+- titre: prince-évêque
+  du: '1247-01-01'
+  au: '1274-01-01'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Liège
+  du: '1247-10-17'
+  au: '1274-07-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Zegel%20van%20Hendrik%20van%20Mofert.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q247432
+  catholic_hierarchy: bgeldern
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:15:59+00:00'
+  completeness: 0.25

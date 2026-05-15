@@ -1,0 +1,43 @@
+slug: alessandro-dolfi
+nom: Alessandro Dolfi
+nom_complet: null
+naissance: '1655-02-10'
+deces: '1733-08-14'
+naissance_lieu: Bologna, Archdiocese of Bologna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1721-07-27'
+  consecrateur_principal: giacomo-boncompagni
+  co_consecrateurs:
+  - giovanni-cristoforo-battelli
+  - tommaso-cervini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdolfi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fano, Italy
+  du: '1721-07-16'
+  au: '1733-08-14'
+- titre: Roman Catholic Bishop of Fano
+  du: '1721-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64750916
+  catholic_hierarchy: bdolfi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:58:55+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: altobello-carissimi
+nom: Altobello Carissimi
+nom_complet: null
+naissance: '1579'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1617-02-24'
+  consecrateur_principal: giambattista-leni
+  co_consecrateurs:
+  - innocenzo-massimo
+  - vincenzo-landinelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarissa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minervino Murge, Italy
+  du: '1617-01-30'
+  au: '1632'
+- titre: Roman Catholic Bishop of Minervino Murge
+  du: '1617-01-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752598
+  catholic_hierarchy: bcarissa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:22:26+00:00'
+  completeness: 0.75

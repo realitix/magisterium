@@ -1,0 +1,42 @@
+slug: raimundo-rubi
+nom: Raimundo Rubí
+nom_complet: Raimundo Rubí, O. Cart.
+naissance: '1665-10-18'
+deces: '1729-01-20'
+naissance_lieu: Barcelona, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q204920
+tampon: ordo_validus
+sacre:
+  date: '1727-12-08'
+  co_consecrateurs:
+  - francesco-antonio-finy
+  - vincenzo-maria-mazzoleni-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brubi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Catania, Italy
+  du: null
+  au: '1729-01-20'
+- titre: évêque de Catane
+  du: '1727-03-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q37541892
+  catholic_hierarchy: brubi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:33:58+00:00'
+  completeness: 0.88

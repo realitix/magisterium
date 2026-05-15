@@ -1,0 +1,38 @@
+slug: niels-glob
+nom: Niels Glob
+nom_complet: null
+naissance: null
+deces: '1498'
+naissance_lieu: null
+deces_lieu: Aalborg, Diocese of Börglum (Aalborg)
+rang: eveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bglob.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viborg, Denmark
+  du: '1478-11-20'
+  au: 1498&sup2;
+- titre: Roman Catholic Bishop of Viborg
+  du: '1478-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24885362
+  catholic_hierarchy: bglob
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:28:21+00:00'
+  completeness: 0.25

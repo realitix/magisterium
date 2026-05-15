@@ -1,0 +1,45 @@
+slug: pompeo-sarnelli
+nom: Pompeo Sarnelli
+nom_complet: null
+naissance: '1649-01-28'
+deces: '1724-07-07'
+naissance_lieu: Polignano
+deces_lieu: Bisceglie, Diocese of Bisceglie
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1692-05-04'
+  consecrateur_principal: benoit-xiii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsarn.html
+  - https://fr.wikipedia.org/wiki/Pompeo_Sarnelli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bisceglie, Italy
+  du: '1692-03-24'
+  au: '1724-07-07'
+- titre: évêque diocésain
+  du: '1692-03-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeo%20Sarnelli%201.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3907883
+  catholic_hierarchy: bsarn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:54:09+00:00'
+  completeness: 0.88

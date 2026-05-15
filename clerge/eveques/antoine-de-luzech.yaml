@@ -1,0 +1,39 @@
+slug: antoine-de-luzech
+nom: Antoine de Luzech
+nom_complet: null
+naissance: null
+deces: '1509-05-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluzech.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Luzech
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cahors, France
+  du: '1501-12-20'
+  au: '1509-05-30'
+- titre: évêque diocésain
+  du: '1501-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61638737
+  catholic_hierarchy: bluzech
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:06:29+00:00'
+  completeness: 0.38

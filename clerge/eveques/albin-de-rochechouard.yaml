@@ -1,0 +1,39 @@
+slug: albin-de-rochechouard
+nom: Albin de Rochechouard
+nom_complet: Albin de Rochechouart
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brocheca.html
+  - https://fr.wikipedia.org/wiki/Albin_de_Rochechouard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sisteron, France
+  du: '1542-02-15'
+  au: 1543&sup2;
+- titre: évêque de Sisteron
+  du: '1542-02-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2831895
+  catholic_hierarchy: brocheca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:20:04+00:00'
+  completeness: 0.25

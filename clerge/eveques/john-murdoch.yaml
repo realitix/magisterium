@@ -1,0 +1,65 @@
+slug: john-murdoch
+nom: John Murdoch
+nom_complet: null
+naissance: '1796-10-09'
+deces: '1865-12-15'
+naissance_lieu: Wellheads, Enzie, Banffshire
+deces_lieu: Glasgow
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1833-10-20'
+  lieu: Glasgow
+  consecrateur_principal: james-kyle
+  co_consecrateurs:
+  - andrew-scott
+  - andrew-carruthers
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmurdj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Kingston, Ontario, Canada
+  du: 8 Mar 1833&#8312;
+  au: null
+- titre: Titular Bishop of Thabraca
+  du: 8 Mar 1833&#8312;
+  au: null
+- titre: Coadjutor Vicar Apostolic of Western District, Scotland, Great Britain
+  du: '1833-06-04'
+  au: null
+- titre: Titular Bishop of Castabala
+  du: '1833-06-04'
+  au: null
+- titre: Vicar Apostolic of Western District, Scotland, Great Britain
+  du: null
+  au: '1865-12-15'
+- titre: évêque titulaire
+  du: '1833-06-04'
+  au: '1865-12-15'
+- titre: évêque titulaire
+  du: '1833-03-08'
+  au: null
+- titre: vicaire apostolique
+  du: '1846-12-04'
+  au: '1865-12-15'
+- titre: vicaire apostolique coadjuteur
+  du: '1833-06-04'
+  au: '1846-12-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6249857
+  catholic_hierarchy: bmurdj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:47+00:00'
+  completeness: 1.0

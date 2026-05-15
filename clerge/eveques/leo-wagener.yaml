@@ -1,0 +1,50 @@
+slug: leo-wagener
+nom: Leo Wagener
+nom_complet: Léon Wagener
+naissance: '1962-04-12'
+deces: null
+naissance_lieu: Ettelbruck
+deces_lieu: null
+rang: eveque
+nationalite: Q32
+tampon: ordo_dubius
+sacre:
+  date: '2019-09-29'
+  lieu: Notre-Dame de Luxembourg, Cathedral, Luxembourg, Archdiocese of Luxembourg
+  consecrateur_principal: jean-claude-hollerich
+  co_consecrateurs:
+  - fernand-franck
+  - georg-batzing
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwagener.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Luxembourg
+  du: '2019-07-24'
+  au: null
+- titre: Titular Bishop of Aquae Novae in Numidia
+  du: '2019-07-24'
+  au: null
+- titre: évêque titulaire
+  du: '2019-07-24'
+  au: null
+- titre: évêque auxiliaire
+  du: '2019-07-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q13103751
+  catholic_hierarchy: bwagener
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:48:13+00:00'
+  completeness: 0.88

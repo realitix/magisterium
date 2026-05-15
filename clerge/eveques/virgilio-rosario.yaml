@@ -1,0 +1,51 @@
+slug: virgilio-rosario
+nom: Virgilio Rosario
+nom_complet: Virgilio Cardinal Rosario
+naissance: '1499'
+deces: '1559-05-22'
+naissance_lieu: Spoleto, Diocese of Spoleto
+deces_lieu: Apostolic Palace, Roma, Diocese of Roma {Rome}
+rang: cardinal
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1555-02-24'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-michele-saraceni
+  co_consecrateurs:
+  - ascanio-ferrari
+  - fabio-mirto-frangipani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosariov.html
+  - https://fr.wikipedia.org/wiki/Virgilio_Rosario
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ischia, Italy
+  du: '1554-08-27'
+  au: '1559-05-22'
+- titre: évêque diocésain
+  du: '1554-09-06'
+  au: null
+- titre: cardinal-vicaire
+  du: null
+  au: null
+- titre: cardinal
+  du: '1557-03-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q323554
+  catholic_hierarchy: brosariov
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:27:32+00:00'
+  completeness: 0.88

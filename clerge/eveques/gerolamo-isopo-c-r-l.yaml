@@ -1,0 +1,42 @@
+slug: gerolamo-isopo-c-r-l
+nom: Gerolamo Isopo, C.R.L.
+nom_complet: Gerolamo Isopo
+naissance: null
+deces: '1551-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1528-10-04'
+  consecrateur_principal: giambattista-boncianni
+  co_consecrateurs:
+  - francesco-cherigato
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bisopog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montemarano, Italy
+  du: '1528-03-23'
+  au: '1551-12-01'
+- titre: évêque diocésain
+  du: '1528-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64776865
+  catholic_hierarchy: bisopog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:36+00:00'
+  completeness: 0.88

@@ -1,0 +1,41 @@
+slug: francisco-suarez-peredo
+nom: Francisco Súarez Peredo
+nom_complet: Francisco de Paula Suárez Peredo y Bezares
+naissance: '1823-09-13'
+deces: '1870-01-26'
+naissance_lieu: Puebla, Diocese of Tlaxcala (Puebla de los Angeles)
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q96
+tampon: ordo_validus
+sacre:
+  date: '1864-05-08'
+  lieu: Cathedral, Puebla, Diocese of Tlaxcala (Puebla de los Angeles)
+  consecrateur_principal: carlos-maria-colina-y-rubio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsuarezp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veracruz-Jalapa, México
+  du: '1863-03-19'
+  au: '1870-01-26'
+- titre: Bishop of the Roman Catholic Diocese of Veracruz-Jalapa
+  du: '1863-03-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q50326055
+  catholic_hierarchy: bsuarezp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:42:30+00:00'
+  completeness: 0.88

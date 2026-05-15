@@ -1,0 +1,40 @@
+slug: lucio-de-morra
+nom: Lucio de Morra
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Otranto, Archdiocese of Otranto
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-11-26'
+  lieu: Santa Marta, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ottavio-paravicini
+  co_consecrateurs:
+  - scipione-spina
+  - celso-mancini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorral.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Otranto, Italy
+  du: '1606-11-20'
+  au: 1623&sup2;
+- titre: Apostolic Nuncio to Flanders, Belgium
+  du: '1617-06-27'
+  au: '1619-01-26'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bmorral
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:13:59+00:00'
+  completeness: 0.75

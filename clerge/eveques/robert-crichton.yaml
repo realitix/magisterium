@@ -1,0 +1,38 @@
+slug: robert-crichton
+nom: Robert Crichton
+nom_complet: null
+naissance: '1500'
+deces: '1561'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrichtr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunkeld, Scotland, Great Britain
+  du: '1544-03-17'
+  au: 1561&sup2;
+- titre: Roman Catholic Bishop of Dunkeld
+  du: '1544-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7343194
+  catholic_hierarchy: bcrichtr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:14:35+00:00'
+  completeness: 0.25

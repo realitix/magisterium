@@ -1,0 +1,45 @@
+slug: jerome-de-langue
+nom: Jérôme de Langue
+nom_complet: Jérôme de Langue, O.F.M. Obs.
+naissance: '1505'
+deces: '1612-11-13'
+naissance_lieu: Mondovi, Diocese of Mondovi, Italy
+deces_lieu: S. Lizier, Ariege
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1593-02-14'
+  lieu: S. Marie in Ara Coeli, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: costanzo-da-sarnano
+  co_consecrateurs:
+  - agostino-gisolfi-o-p
+  - francesco-gonzaga-1546
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangue.html
+  - https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_de_Langue
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Lizier de) Couserans (or Conserans), France
+  du: '1593-01-29'
+  au: '1612-11-13'
+- titre: évêque diocésain
+  du: '1593-01-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3191100
+  catholic_hierarchy: blangue
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:32:21+00:00'
+  completeness: 0.88

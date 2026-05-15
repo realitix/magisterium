@@ -1,0 +1,43 @@
+slug: francesco-de-vico
+nom: Francesco de Vico
+nom_complet: Franciscus de Vico
+naissance: '1660-03-08'
+deces: '1735-01-15'
+naissance_lieu: Macerata
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1723-09-29'
+  consecrateur_principal: niccolo-spinola
+  co_consecrateurs:
+  - tommaso-cervini
+  - prospero-marefoschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvicof.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Elusa
+  du: '1723-03-30'
+  au: '1735-01-15'
+- titre: évêque titulaire
+  du: '1723-03-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735488
+  catholic_hierarchy: bvicof
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:36:31+00:00'
+  completeness: 1.0

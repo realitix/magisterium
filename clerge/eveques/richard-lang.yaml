@@ -1,0 +1,50 @@
+slug: richard-lang
+nom: Richard Lang
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kildare, Ireland
+  du: Aug 1464&sup3;
+  au: '1474-07-28'
+- titre: Auxiliary Bishop of Chichester, England, Great Britain
+  du: 1480&sup2;
+  au: null
+- titre: Auxiliary Bishop of Winchester, England, Great Britain
+  du: 1488&sup2;
+  au: null
+- titre: évêque diocésain
+  du: '1464-08-01'
+  au: '1474-08-06'
+- titre: évêque auxiliaire
+  du: '1480-01-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1488-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905812
+  catholic_hierarchy: blangr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:32:09+00:00'
+  completeness: 0.25

@@ -1,0 +1,49 @@
+slug: oscar-zanera
+nom: Oscar Zanera
+nom_complet: null
+naissance: '1915-02-14'
+deces: '1980-12-19'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1966-03-19'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - francesco-carpino
+  - ettore-cunial
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzanera.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Roma {Rome}, Italy
+  du: '1966-02-11'
+  au: '1980-12-19'
+- titre: Titular Bishop of Surista
+  du: '1966-02-11'
+  au: null
+- titre: évêque titulaire
+  du: '1966-02-11'
+  au: '1980-12-19'
+- titre: évêque auxiliaire de Rome
+  du: '1966-02-11'
+  au: '1980-12-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746398
+  catholic_hierarchy: bzanera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:05:59+00:00'
+  completeness: 0.88

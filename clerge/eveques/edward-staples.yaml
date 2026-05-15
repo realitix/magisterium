@@ -1,0 +1,42 @@
+slug: edward-staples
+nom: Edward Staples
+nom_complet: null
+naissance: '1490'
+deces: '1560'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: george-dowdall-o-s-c
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstaple.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meath, Ireland
+  du: '1529-09-03'
+  au: '1554-06-29'
+- titre: Bishop Emeritus of Meath, Ireland
+  du: null
+  au: 1560&sup1;
+- titre: évêque diocésain
+  du: '1529-09-13'
+  au: '1554-07-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5345421
+  catholic_hierarchy: bstaple
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:32+00:00'
+  completeness: 0.38

@@ -1,0 +1,45 @@
+slug: francois-blondel
+nom: François Blondel
+nom_complet: François Marie Joseph Pascal Louis Blondel
+naissance: '1940-03-24'
+deces: null
+naissance_lieu: Limoges, Diocese of Limoges
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2000-01-09'
+  lieu: Parc de l'Ancien Évêché, Viviers, Diocese of Viviers
+  consecrateur_principal: leon-soulier
+  co_consecrateurs:
+  - louis-marie-bille
+  - jean-bonfils
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblondel.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Blondel_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viviers, France
+  du: '1999-11-15'
+  au: null
+- titre: évêque diocésain
+  du: '1999-11-15'
+  au: '2015-05-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1450920
+  catholic_hierarchy: bblondel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:28+00:00'
+  completeness: 0.88

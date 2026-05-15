@@ -1,0 +1,41 @@
+slug: johann-ii-hut
+nom: Johann II. Hut
+nom_complet: Johann Hoet
+naissance: '1300'
+deces: '1366-08-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhoet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osnabrück, Germany
+  du: '1349-07-27'
+  au: '1366-08-17'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque d'Osnabrück
+  du: '1349-08-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1519468
+  catholic_hierarchy: bhoet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:44:45+00:00'
+  completeness: 0.38

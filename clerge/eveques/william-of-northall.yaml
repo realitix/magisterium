@@ -1,0 +1,43 @@
+slug: william-of-northall
+nom: William of Northall
+nom_complet: William de Northall
+naissance: '1150'
+deces: '1190-05-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1186-09-21'
+  consecrateur_principal: non-indexe-f8e3b0da
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnorthall.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1186-09-21'
+  au: '1190-05-03'
+- titre: évêque diocésain
+  du: '1186-09-28'
+  au: null
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1186-01-01'
+  au: '1190-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8020895
+  catholic_hierarchy: bnorthall
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:42+00:00'
+  completeness: 0.75

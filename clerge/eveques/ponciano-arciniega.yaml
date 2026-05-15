@@ -1,0 +1,44 @@
+slug: ponciano-arciniega
+nom: Ponciano Arciniega
+nom_complet: null
+naissance: '1805-11-19'
+deces: '1868-09-03'
+naissance_lieu: Herrán
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1858-01-03'
+  lieu: Nuestra Señora de Atocha, Madrid, Archdiocese of Toledo
+  consecrateur_principal: tomas-iglesias-y-barcones
+  co_consecrateurs:
+  - juan-de-la-cruz-ignacio-moreno-y-maisanove
+  - anastasio-rodrigo-yusto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barcini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mondoñedo, Spain
+  du: null
+  au: '1868-09-03'
+- titre: évêque de Mondoñedo
+  du: '1857-08-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745860
+  catholic_hierarchy: barcini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 1.0

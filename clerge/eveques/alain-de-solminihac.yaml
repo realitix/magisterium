@@ -1,0 +1,49 @@
+slug: alain-de-solminihac
+nom: Alain de Solminihac
+nom_complet: Bl. Alain de Solminihac, O.S.A.
+naissance: '1593-11-25'
+deces: '1659-12-31'
+naissance_lieu: Belet, Dordogne, Diocese of Périgueux (Vesuna)
+deces_lieu: Mercuès, Lot
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1637-09-27'
+  lieu: Ste. Genevieve, Paris, Archdiocese of Paris
+  consecrateur_principal: charles-de-montchal
+  co_consecrateurs:
+  - nicolas-sanguin
+  - dominique-seguier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsolmin.html
+  - https://fr.wikipedia.org/wiki/Alain_de_Solminihac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cahors, France
+  du: '1636-09-22'
+  au: '1659-12-31'
+- titre: évêque diocésain
+  du: '1636-09-22'
+  au: null
+fraternite: augustins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alain%20de%20Solminihac%20%281593-1659%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2084669
+  catholic_hierarchy: bsolmin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:27:25+00:00'
+  completeness: 1.0

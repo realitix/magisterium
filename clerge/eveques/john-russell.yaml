@@ -1,0 +1,45 @@
+slug: john-russell
+nom: John Russell
+nom_complet: null
+naissance: '1450'
+deces: '1494-12-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1476-09-22'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brusselj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1476-06-15'
+  au: null
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1480-07-07'
+  au: '1494-12-30'
+- titre: évêque de Rochester
+  du: '1476-06-24'
+  au: null
+- titre: évêque de Lincoln
+  du: '1480-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6255986
+  catholic_hierarchy: brusselj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:37:02+00:00'
+  completeness: 0.5

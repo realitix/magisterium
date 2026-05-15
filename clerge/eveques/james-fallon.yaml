@@ -1,0 +1,39 @@
+slug: james-fallon
+nom: James Fallon
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1631-01-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfallonj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Achonry, Ireland
+  du: '1631-01-13'
+  au: null
+- titre: vicaire apostolique
+  du: '1631-01-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68903547
+  catholic_hierarchy: bfallonj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:30:52+00:00'
+  completeness: 0.25

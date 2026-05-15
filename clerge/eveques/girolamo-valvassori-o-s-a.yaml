@@ -1,0 +1,44 @@
+slug: girolamo-valvassori-o-s-a
+nom: Girolamo Valvassori, O.S.A.
+nom_complet: Girolamo Valvassori
+naissance: '1611-09-18'
+deces: '1684-10-15'
+naissance_lieu: Trezzo sull'Adda, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1677-02-07'
+  lieu: S. Augustin, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: pietro-vidoni
+  co_consecrateurs:
+  - giacomo-de-angelis
+  - domenico-gianuzzi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalvg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pesaro, Italy
+  du: '1677-01-11'
+  au: '1684-10-15'
+- titre: évêque diocésain
+  du: '1677-01-11'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64752172
+  catholic_hierarchy: bvalvg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:23:35+00:00'
+  completeness: 1.0

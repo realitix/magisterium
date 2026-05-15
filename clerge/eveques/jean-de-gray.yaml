@@ -1,0 +1,51 @@
+slug: jean-de-gray
+nom: Jean de Gray
+nom_complet: John de Gray
+naissance: '1101'
+deces: '1214-10-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1200-06-24'
+  consecrateur_principal: hubert-walter
+  co_consecrateurs:
+  - guillaume-de-sainte-mere-eglise-1150
+  - gilbert-glanville
+  - non-indexe-a4fa3e3b
+  - henry-marshal
+  - henry-of-abergavenny
+  - herbert-le-poor
+  - robert-of-shrewsbury
+  - non-indexe-729bd693
+  - geoffrey-muschamp
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrayjo.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Gray
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: 1200&sup1;
+  au: '1214-10-18'
+- titre: évêque de Norwich
+  du: '1200-01-01'
+  au: '1214-10-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3809685
+  catholic_hierarchy: bgrayjo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:41:04+00:00'
+  completeness: 0.88

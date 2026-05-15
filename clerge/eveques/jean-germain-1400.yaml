@@ -1,0 +1,45 @@
+slug: jean-germain-1400
+nom: Jean Germain
+nom_complet: null
+naissance: '1400'
+deces: '1461-02-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgermj.html
+  - https://fr.wikipedia.org/wiki/Jean_Germain_(%C3%A9v%C3%AAque_de_Nevers_et_Chalon-sur-Sa%C3%B4ne)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nevers, France
+  du: '1430-12-15'
+  au: null
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1436-08-20'
+  au: '1461-02-02'
+- titre: évêque de Chalon-sur-Saône
+  du: '1436-08-29'
+  au: null
+- titre: évêque diocésain
+  du: '1430-12-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3172288
+  catholic_hierarchy: bgermj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:18:47+00:00'
+  completeness: 0.38

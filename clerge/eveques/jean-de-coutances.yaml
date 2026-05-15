@@ -1,0 +1,44 @@
+slug: jean-de-coutances
+nom: Jean de Coutances
+nom_complet: John of Coutances
+naissance: '1150'
+deces: '1198-09-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1196-10-20'
+  consecrateur_principal: hubert-walter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoutncs.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Coutances
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: 1196&sup1;
+  au: '1198-09-24'
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1196-01-01'
+  au: '1198-01-01'
+- titre: évêque diocésain
+  du: '1196-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175375
+  catholic_hierarchy: bcoutncs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:26+00:00'
+  completeness: 0.75

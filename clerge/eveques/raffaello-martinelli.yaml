@@ -1,0 +1,44 @@
+slug: raffaello-martinelli
+nom: Raffaello Martinelli
+nom_complet: null
+naissance: '1948-06-21'
+deces: null
+naissance_lieu: "Villa d\x92Almé, Diocese of Bergamo"
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_incertus
+sacre:
+  date: '2009-09-12'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - tarcisio-pietro-evasio-cardinal-bertone-s-d-b
+  - william-joseph-levada
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartiner.html
+  - https://fr.wikipedia.org/wiki/Raffaello_Martinelli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Frascati, Italy
+  du: '2009-07-02'
+  au: null
+- titre: évêque de Frascati
+  du: '2009-07-02'
+  au: '2023-09-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q452336
+  catholic_hierarchy: bmartiner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:38+00:00'
+  completeness: 0.75

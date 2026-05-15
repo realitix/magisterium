@@ -1,0 +1,43 @@
+slug: william-chisholm
+nom: William Chisholm
+nom_complet: null
+naissance: '1498'
+deces: '1564-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1527-04-14'
+  consecrateur_principal: gavin-dunbar
+  co_consecrateurs:
+  - george-crichton
+  - james-chisholm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchiswil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunblane, Scotland, Great Britain
+  du: '1526-06-06'
+  au: 1564&sup2;
+- titre: évêque diocésain
+  du: '1526-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8006780
+  catholic_hierarchy: bchiswil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:47:03+00:00'
+  completeness: 0.75

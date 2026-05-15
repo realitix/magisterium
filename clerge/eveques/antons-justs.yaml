@@ -1,0 +1,50 @@
+slug: antons-justs
+nom: Antons Justs
+nom_complet: null
+naissance: '1931-11-22'
+deces: '2019-02-17'
+naissance_lieu: Varaklani
+deces_lieu: Jelgava, Diocese of Jelgava
+rang: eveque
+nationalite: Q211
+tampon: ordo_incertus
+sacre:
+  date: '1996-01-06'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - giovanni-battista-re
+  - jorge-maria-mejia
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjusts.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jelgava, Latvia
+  du: '1995-12-07'
+  au: null
+- titre: Bishop Emeritus of Jelgava, Latvia
+  du: null
+  au: '2019-02-17'
+- titre: évêque diocésain
+  du: '1995-12-07'
+  au: '2011-07-22'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antons%20Justs.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q456722
+  catholic_hierarchy: bjusts
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:05:28+00:00'
+  completeness: 0.88

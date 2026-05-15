@@ -1,0 +1,49 @@
+slug: pierre-faget
+nom: Pierre Faget
+nom_complet: Pierre Faget, O.F.M.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1527-03-12'
+  consecrateur_principal: gabriele-mascioli-foschi-o-e-s-a
+  co_consecrateurs:
+  - giambattista-boncianni
+  - francesco-cherigato
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfaget.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Auch, France
+  du: '1527-02-18'
+  au: null
+- titre: Titular Bishop of Berytus
+  du: '1527-02-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1527-02-28'
+  au: null
+- titre: évêque titulaire
+  du: '1527-02-18'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64779962
+  catholic_hierarchy: bfaget
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:29:27+00:00'
+  completeness: 0.75

@@ -1,0 +1,40 @@
+slug: jean-rubei-o-carm
+nom: Jean Rubei, O. Carm.
+nom_complet: Jean Rubei
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1333-02-01'
+  consecrateur_principal: pierre-des-pres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brubei.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Terralba, Italy
+  du: '1332-04-06'
+  au: null
+- titre: Roman Catholic Bishop of Terralba
+  du: '1332-04-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780792
+  catholic_hierarchy: brubei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:33:51+00:00'
+  completeness: 0.62

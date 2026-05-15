@@ -1,0 +1,45 @@
+slug: bernard-finnegan
+nom: Bernard Finnegan
+nom_complet: Bernard Finegan
+naissance: '1837-08-15'
+deces: '1887-11-11'
+naissance_lieu: Corlurgon
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1886-06-13'
+  lieu: Cathedral, Cavan, Diocese of Kilmore
+  consecrateur_principal: james-donnelly
+  co_consecrateurs:
+  - thomas-nulty
+  - michael-logue
+  - bartholomew-woodlock
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfinnb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kilmore, Ireland
+  du: '1886-05-18'
+  au: '1887-11-11'
+- titre: évêque de Kilmore
+  du: '1886-05-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16062776
+  catholic_hierarchy: bfinnb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:45:13+00:00'
+  completeness: 1.0

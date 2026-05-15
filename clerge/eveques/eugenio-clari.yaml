@@ -1,0 +1,57 @@
+slug: eugenio-clari
+nom: Eugenio Clari
+nom_complet: null
+naissance: '1836-09-09'
+deces: '1899-03-09'
+naissance_lieu: Senigallia, Diocese of Senigallia
+deces_lieu: Paris, Archdiocese of Paris, France
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-10-01'
+  lieu: Tor dei Specchi, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-maria-bilio
+  co_consecrateurs:
+  - felix-marie-de-neckere
+  - camillo-santori
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclari.html
+  - https://fr.wikipedia.org/wiki/Eugenio_Clari
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amelia, Italy
+  du: '1882-09-25'
+  au: null
+- titre: Bishop of Viterbo e Tuscania, Italy
+  du: '1893-01-16'
+  au: '1899-03-09'
+- titre: Apostolic Nuncio to France
+  du: '1896-10-24'
+  au: null
+- titre: nonce apostolique en France
+  du: '1896-10-24'
+  au: null
+- titre: évêque de Viterbe
+  du: '1893-01-16'
+  au: null
+- titre: Roman Catholic Bishop of Amelia
+  du: '1882-09-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64737049
+  catholic_hierarchy: bclari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:12+00:00'
+  completeness: 1.0

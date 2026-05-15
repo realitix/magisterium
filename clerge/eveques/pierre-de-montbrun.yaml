@@ -1,0 +1,42 @@
+slug: pierre-de-montbrun
+nom: Pierre de Montbrun
+nom_complet: null
+naissance: null
+deces: '1456-02-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontbrup.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Montbrun
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: '1426-12-11'
+  au: '1456-02-10'
+- titre: évêque de Limoges
+  du: '1426-12-20'
+  au: '1457-02-28'
+- titre: évêque diocésain
+  du: '1426-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60649172
+  catholic_hierarchy: bmontbrup
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:01+00:00'
+  completeness: 0.38

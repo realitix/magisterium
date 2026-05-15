@@ -1,0 +1,43 @@
+slug: bernardino-marin
+nom: Bernardino Marin
+nom_complet: Bernardino Marin, C.R.L.
+naissance: '1739-04-09'
+deces: '1817-10-09'
+naissance_lieu: Luogo di Clissa
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1788-04-13'
+  consecrateur_principal: carlo-rezzonico
+  co_consecrateurs:
+  - francesco-saverio-passari
+  - gregorio-bandi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarinib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Treviso, Italy
+  du: '1788-04-07'
+  au: '1817-10-09'
+- titre: évêque diocésain
+  du: '1788-04-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3638720
+  catholic_hierarchy: bmarinib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:47+00:00'
+  completeness: 1.0

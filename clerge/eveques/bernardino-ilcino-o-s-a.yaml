@@ -1,0 +1,38 @@
+slug: bernardino-ilcino-o-s-a
+nom: Bernardino Ilcino, O.S.A.
+nom_complet: Bernardino Ilcino
+naissance: null
+deces: '1500'
+naissance_lieu: Montepulciano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bincino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bobbio, Italy
+  du: '1495-05-25'
+  au: 1500&sup2;
+- titre: Roman Catholic Bishop of Bobbio
+  du: '1495-06-03'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68904991
+  catholic_hierarchy: bincino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:53:07+00:00'
+  completeness: 0.25

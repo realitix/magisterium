@@ -1,0 +1,47 @@
+slug: gilles-de-laval
+nom: Gilles de Laval
+nom_complet: Gilles de Laval-Loué
+naissance: null
+deces: '1502-10-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1481-04-29'
+  consecrateur_principal: charles-de-neufchatel
+  co_consecrateurs:
+  - pierre-chappey
+  - antoine-raguier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blavlou.html
+  - https://fr.wikipedia.org/wiki/Gilles_de_Laval-Lou%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: 1478&sup2;
+  au: '1502-10-03'
+- titre: évêque de Sées
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1478-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3106575
+  catholic_hierarchy: blavlou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:37:13+00:00'
+  completeness: 0.88

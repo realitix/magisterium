@@ -1,0 +1,43 @@
+slug: antonio-savorin
+nom: Antonio Savorin
+nom_complet: null
+naissance: '1769-06-26'
+deces: '1840-12-25'
+naissance_lieu: Torreglia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1830-08-08'
+  consecrateur_principal: giacomo-monico
+  co_consecrateurs:
+  - carlo-fontanini-c-m
+  - sebastiano-soldati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavorin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chioggia, Italy
+  du: null
+  au: '1840-12-25'
+- titre: évêque diocésain
+  du: '1829-11-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735261
+  catholic_hierarchy: bsavorin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:13+00:00'
+  completeness: 1.0

@@ -1,0 +1,40 @@
+slug: jacques-du-chatelier-castellano
+nom: Jacques du Chatelier (Castellano)
+nom_complet: Jacques du Chatelier
+naissance: null
+deces: '1438-11-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1427-06-01'
+  consecrateur_principal: pierre-cauchon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchateli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: '1427-02-17'
+  au: '1438-11-02'
+- titre: évêque de Paris
+  du: '1427-02-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449625
+  catholic_hierarchy: bchateli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:46+00:00'
+  completeness: 0.75

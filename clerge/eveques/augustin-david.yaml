@@ -1,0 +1,49 @@
+slug: augustin-david
+nom: Augustin David
+nom_complet: null
+naissance: '1812-03-28'
+deces: '1882-07-27'
+naissance_lieu: Lyon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1862-07-02'
+  lieu: Cathedral, Valence, Diocese of Valence
+  consecrateur_principal: louis-jacques-maurice-de-bonald
+  co_consecrateurs:
+  - louis-antoine-augustin-pavy
+  - jean-paul-francois-marie-felix-lyonnet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdavida.html
+  - https://fr.wikipedia.org/wiki/Augustin_David
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Brieuc (-Tréguier), France
+  du: null
+  au: '1882-07-27'
+- titre: évêque de Saint-Brieuc et Tréguier
+  du: '1862-01-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cathedrale%20Saint-Brieuc%2056%20Archives%20nationales%20France.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16530633
+  catholic_hierarchy: bdavida
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:31:11+00:00'
+  completeness: 1.0

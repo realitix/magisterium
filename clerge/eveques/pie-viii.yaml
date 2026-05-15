@@ -1,0 +1,76 @@
+slug: pie-viii
+nom: Pie VIII
+nom_complet: Pius VIII
+naissance: '1761-11-20'
+deces: '1830-11-30'
+naissance_lieu: Cingoli, Diocese of Osimo e Cingoli
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1800-08-17'
+  lieu: Ss. Domenico and Sisto, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giuseppe-maria-doria-pamphilj
+  co_consecrateurs:
+  - nicola-buschi
+  - camillo-campanelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastig.html
+  - https://fr.wikipedia.org/wiki/Pie_VIII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montalto (delle Marche), Italy
+  du: '1800-08-11'
+  au: null
+- titre: Bishop of Cesena, Italy
+  du: '1816-03-08'
+  au: null
+- titre: Cardinal-Priest of Santa Maria in Traspontina
+  du: '1816-04-29'
+  au: null
+- titre: Major Penitentiary of the Apostolic Penitentiary
+  du: '1821-08-04'
+  au: null
+- titre: Cardinal-Bishop of Frascati
+  du: '1821-08-13'
+  au: null
+- titre: Prefect of the Congregation of the Index
+  du: '1821-11-14'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1830-11-30'
+- titre: Roman Catholic Bishop of Montalto (delle Marche)
+  du: '1800-08-11'
+  au: null
+- titre: Roman Catholic Bishop of Cesena
+  du: '1816-03-08'
+  au: null
+- titre: pape
+  du: '1829-03-31'
+  au: '1830-11-30'
+- titre: cardinal
+  du: '1816-03-08'
+  au: '1829-03-31'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20di%20Papa%20Pio%20VIII%2C%20by%20Clemente%20Alberi.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4443
+  catholic_hierarchy: bcastig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:30:56+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: jacques-de-lorraine
+nom: Jacques de Lorraine
+nom_complet: Jacob of Lorraine
+naissance: '1202'
+deces: '1260-10-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1239-03-13'
+  consecrateur_principal: theoderich-thierry-de-wied
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorrja.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Lorraine
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: Jan 1239&sup3;
+  au: '1260-10-24'
+- titre: évêque de Metz
+  du: '1239-01-01'
+  au: '1260-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jakob-von-Lothringen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1679467
+  catholic_hierarchy: blorrja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:25+00:00'
+  completeness: 0.75

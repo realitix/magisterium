@@ -1,0 +1,66 @@
+slug: paul-v
+nom: Paul V
+nom_complet: Paulus V
+naissance: '1552-09-17'
+deces: '1621-01-28'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: Quirinal Palace, Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1597-05-27'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - silvio-cardinal-savelli
+  - francesco-cornaro-iuniore
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborc.html
+  - https://fr.wikipedia.org/wiki/Paul_V
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jesi, Italy
+  du: '1597-04-14'
+  au: 2 Aug 1599&#8310;
+- titre: Cardinal-Priest of Santi Giovanni e Paolo
+  du: '1599-03-10'
+  au: null
+- titre: Secretary of the Congregation for Universal Inquisition
+  du: 1602&sup2;
+  au: 1605&sup2;
+- titre: Cardinal-Priest of San Crisogono
+  du: '1602-04-22'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1621-01-28'
+- titre: cardinal-vicaire
+  du: null
+  au: null
+- titre: évêque de Jesi
+  du: '1597-04-14'
+  au: '1599-08-02'
+- titre: pape
+  du: '1605-05-16'
+  au: '1621-01-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Paul%20V.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q132711
+  catholic_hierarchy: bborc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:39:41+00:00'
+  completeness: 0.88

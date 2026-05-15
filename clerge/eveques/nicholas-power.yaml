@@ -1,0 +1,43 @@
+slug: nicholas-power
+nom: Nicholas Power
+nom_complet: null
+naissance: '1804'
+deces: '1871-03-21'
+naissance_lieu: Old Grange, Diocese of Waterford and Lismore
+deces_lieu: Episcopal Palace, Killaloe, Diocese of Killaloe
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1865-06-25'
+  consecrateur_principal: patrick-leahy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpown.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Killaloe, Ireland
+  du: '1865-04-30'
+  au: '1871-03-21'
+- titre: Titular Bishop of Sarepta
+  du: '1865-04-30'
+  au: null
+- titre: évêque titulaire
+  du: '1865-04-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763670
+  catholic_hierarchy: bpown
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:47:00+00:00'
+  completeness: 0.75

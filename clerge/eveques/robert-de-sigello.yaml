@@ -1,0 +1,44 @@
+slug: robert-de-sigello
+nom: Robert de Sigello
+nom_complet: Robert de Sigillo
+naissance: '1100'
+deces: '1150-10-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1141'
+  consecrateur_principal: non-indexe-05d03efe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsigillo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: 1141&sup1;
+  au: 1151&sup2;
+- titre: évêque de Londres
+  du: '1141-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%2B1%2BEngland.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2159284
+  catholic_hierarchy: bsigillo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:17:19+00:00'
+  completeness: 0.62

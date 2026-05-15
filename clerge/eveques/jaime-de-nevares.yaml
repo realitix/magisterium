@@ -1,0 +1,47 @@
+slug: jaime-de-nevares
+nom: Jaime de Nevares
+nom_complet: Jaime Francisco de Nevares, S.D.B.
+naissance: '1915-01-29'
+deces: '1995-05-19'
+naissance_lieu: Buenos Aires, Archdiocese of Buenos Aires
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_validus
+sacre:
+  date: '1961-08-20'
+  lieu: San Carlos, Church, Buenos Aires, Archdiocese of Buenos Aires
+  consecrateur_principal: carlos-mariano-perez
+  co_consecrateurs:
+  - jose-borgatti
+  - miguel-raspanti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdnev.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Neuquén, Argentina
+  du: '1961-06-12'
+  au: null
+- titre: Bishop Emeritus of Neuquén, Argentina
+  du: null
+  au: '1995-05-19'
+- titre: évêque diocésain
+  du: '1961-06-12'
+  au: '1991-05-14'
+fraternite: salesiens
+photo: null
+qids:
+  wikidata: Q1254837
+  catholic_hierarchy: bdnev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:57:47+00:00'
+  completeness: 1.0

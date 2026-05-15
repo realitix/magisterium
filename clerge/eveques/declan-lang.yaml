@@ -1,0 +1,45 @@
+slug: declan-lang
+nom: Declan Lang
+nom_complet: Declan Ronan Lang
+naissance: '1950-04-15'
+deces: null
+naissance_lieu: Cowes, Isle of Wight, Diocese of Portsmouth, England
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_dubius
+sacre:
+  date: '2001-03-28'
+  lieu: SS. Peter and Paul, Cathedral, Clifton, Bristol, Diocese of Clifton, England
+  consecrateur_principal: mervyn-alexander
+  co_consecrateurs:
+  - vincent-nichols
+  - crispian-hollis
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blang.html
+  - https://fr.wikipedia.org/wiki/Declan_Lang
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clifton, England, Great Britain
+  du: '2001-02-27'
+  au: '2024-03-14'
+- titre: évêque de Clifton
+  du: '2001-02-27'
+  au: '2024-03-14'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q325812
+  catholic_hierarchy: blang
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:44+00:00'
+  completeness: 0.88

@@ -1,0 +1,40 @@
+slug: john-leynagh
+nom: John Leynagh
+nom_complet: null
+naissance: null
+deces: '1354-12-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1323-04-17'
+  consecrateur_principal: william-fitzjohn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleynagh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lismore, Ireland
+  du: '1323-03-10'
+  au: 25 Dec 1354&sup3;
+- titre: évêque diocésain
+  du: '1323-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762910
+  catholic_hierarchy: bleynagh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:10+00:00'
+  completeness: 0.75

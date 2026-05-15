@@ -1,0 +1,48 @@
+slug: emmanuel-canappe
+nom: Emmanuel Canappe
+nom_complet: Emmanuel-François Canappe
+naissance: '1849-07-25'
+deces: '1907-09-20'
+naissance_lieu: Wailly, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1901-07-25'
+  consecrateur_principal: frederic-fuzet
+  co_consecrateurs:
+  - alexandre-le-roy
+  - leon-dizien
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanappe.html
+  - https://fr.wikipedia.org/wiki/Emmanuel_Canappe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guadeloupe et Basse-Terre, Antilles
+  du: null
+  au: '1907-09-20'
+- titre: évêque diocésain
+  du: '1901-04-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20d%27Emmanuel%20Canappe%20%281849%E2%80%931907%29%203.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15970313
+  catholic_hierarchy: bcanappe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:12:46+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: emiliano-cagnoni
+nom: Emiliano Cagnoni
+nom_complet: null
+naissance: '1884-10-17'
+deces: '1969-09-28'
+naissance_lieu: Ancona
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1934-06-10'
+  consecrateur_principal: antonio-lega
+  co_consecrateurs:
+  - cesare-boccoleri
+  - carlo-agostini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcagn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cefalù, Italy
+  du: '1934-05-05'
+  au: '1969-09-28'
+- titre: Évêque de Cefalù
+  du: '1934-05-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cagnoni%20Emiliano.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q28880817
+  catholic_hierarchy: bcagn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:06:34+00:00'
+  completeness: 1.0

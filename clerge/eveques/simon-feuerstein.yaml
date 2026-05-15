@@ -1,0 +1,46 @@
+slug: simon-feuerstein
+nom: Simon Feuerstein
+nom_complet: null
+naissance: '1597'
+deces: '1623'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1598-09-06'
+  consecrateur_principal: cesare-speciano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfeuers.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Brixen {Bressanone}, Italy
+  du: '1598-05-18'
+  au: 1623&sup1;
+- titre: Titular Bishop of Belline
+  du: '1598-05-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1598-05-18'
+  au: null
+- titre: évêque titulaire
+  du: '1598-05-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780306
+  catholic_hierarchy: bfeuers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:42:04+00:00'
+  completeness: 0.62

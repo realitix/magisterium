@@ -1,0 +1,47 @@
+slug: pierre-carre
+nom: Pierre Carré
+nom_complet: Pierre Carré, O.P.
+naissance: '1500'
+deces: '1510-01-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1484-02-01'
+  consecrateur_principal: giovanni-battista-de-giudici-o-p
+  co_consecrateurs:
+  - giuliano-maffei-matteis-o-f-m
+  - cristoforo-de-ragusa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarrep.html
+  - https://fr.wikipedia.org/wiki/Pierre_Carr%C3%A9_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orange, France
+  du: '1484-01-19'
+  au: '1510-01-05'
+- titre: évêque d'Orange
+  du: '1484-01-28'
+  au: null
+- titre: ambassadeur
+  du: null
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3384303
+  catholic_hierarchy: bcarrep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:24:22+00:00'
+  completeness: 0.88

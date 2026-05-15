@@ -1,0 +1,44 @@
+slug: gregorio-solorzano-castillo
+nom: Gregorio Solórzano Castillo
+nom_complet: null
+naissance: '1640'
+deces: '1703-07-17'
+naissance_lieu: Madrid, Archdiocese of Toledo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1700-06-27'
+  lieu: Madrid, Archdiocese of Toledo
+  consecrateur_principal: pedro-portocarrero-y-guzman
+  co_consecrateurs:
+  - francisco-zapata-vera-y-morales
+  - fernando-de-carvajal-y-ribera-rivera-o-de-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsolc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ávila, Spain
+  du: '1700-05-10'
+  au: '1703-07-17'
+- titre: évêque d'Ávila
+  du: '1700-05-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751449
+  catholic_hierarchy: bsolc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:26:45+00:00'
+  completeness: 0.88

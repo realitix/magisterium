@@ -1,0 +1,44 @@
+slug: henry-woodlock
+nom: Henry Woodlock
+nom_complet: Henry Woodlock, O.S.B.
+naissance: '1250'
+deces: '1316-06-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1305-05-30'
+  consecrateur_principal: robert-of-winchelsey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwoodlh.html
+  - https://fr.wikipedia.org/wiki/Henry_Woodlock
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1305-01-29'
+  au: '1316-06-28'
+- titre: évêque diocésain
+  du: '1305-02-06'
+  au: null
+- titre: évêque de Winchester
+  du: '1305-01-01'
+  au: '1316-01-01'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q5730471
+  catholic_hierarchy: bwoodlh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:59:12+00:00'
+  completeness: 0.75

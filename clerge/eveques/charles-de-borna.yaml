@@ -1,0 +1,39 @@
+slug: charles-de-borna
+nom: Charles de Borna
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbornac.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Borna
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sisteron, France
+  du: '1442-12-19'
+  au: 1453&sup1;
+- titre: évêque de Sisteron
+  du: '1442-12-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960526
+  catholic_hierarchy: bbornac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:00+00:00'
+  completeness: 0.25

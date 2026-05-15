@@ -1,0 +1,45 @@
+slug: claude-de-louvain
+nom: Claude de Louvain
+nom_complet: null
+naissance: null
+deces: '1519'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blovanio.html
+  - https://fr.wikipedia.org/wiki/Claude_de_Louvain
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Soissons, France
+  du: '1503-04-24'
+  au: null
+- titre: Bishop of Sisteron, France
+  du: '1514-08-18'
+  au: 1520&sup2;
+- titre: évêque de Sisteron
+  du: '1514-08-28'
+  au: null
+- titre: évêque de Soissons
+  du: '1503-05-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2978348
+  catholic_hierarchy: blovanio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:23+00:00'
+  completeness: 0.25

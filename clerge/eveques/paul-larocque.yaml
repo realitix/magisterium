@@ -1,0 +1,49 @@
+slug: paul-larocque
+nom: Paul LaRocque
+nom_complet: Paul-Stanislas La Rocque
+naissance: '1846-10-26'
+deces: '1926-08-15'
+naissance_lieu: Ste-Marie-de-Monnoir, Diocese of Saint-Hyacinthe, Québec
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1893-11-30'
+  lieu: Sherbrooke, Diocese of Sherbrooke, Québec
+  consecrateur_principal: edouard-charles-fabre
+  co_consecrateurs:
+  - elphege-gravel
+  - maxime-decelles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blarp.html
+  - https://fr.wikipedia.org/wiki/Paul_LaRocque
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sherbrooke, Québec, Canada
+  du: '1893-10-06'
+  au: '1926-08-15'
+- titre: évêque diocésain
+  du: '1893-10-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20LaRocque%20%281846%E2%80%931926%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3371601
+  catholic_hierarchy: blarp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:34:16+00:00'
+  completeness: 1.0

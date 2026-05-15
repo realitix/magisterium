@@ -1,0 +1,43 @@
+slug: guillaume-duprat
+nom: Guillaume Duprat
+nom_complet: Guillaume Du Prat
+naissance: '1507'
+deces: '1560-10-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupratg.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Duprat
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: '1528-02-26'
+  au: '1560-10-22'
+- titre: évêque de Clermont
+  du: '1528-03-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Duprat.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3119821
+  catholic_hierarchy: bdupratg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:13+00:00'
+  completeness: 0.38

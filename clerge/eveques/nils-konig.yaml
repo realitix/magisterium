@@ -1,0 +1,39 @@
+slug: nils-konig
+nom: Nils König
+nom_complet: null
+naissance: null
+deces: '1458-04-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jons-bengtsson-oxenstierna
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkonign.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Linköping, Sweden
+  du: '1441-01-21'
+  au: '1458-04-23'
+- titre: évêque de Linköping
+  du: '1441-01-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5929068
+  catholic_hierarchy: bkonign
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:18:10+00:00'
+  completeness: 0.5

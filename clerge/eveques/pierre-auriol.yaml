@@ -1,0 +1,42 @@
+slug: pierre-auriol
+nom: Pierre Auriol
+nom_complet: Pierre-Bernard Auriol, O.F.M.
+naissance: '1280'
+deces: '1322-01-10'
+naissance_lieu: Gourdon, near Cahors, Diocese of Cahors
+deces_lieu: Avignon, Diocese of Avignon
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1321-06-14'
+  lieu: Avignon, Diocese of Avignon
+  consecrateur_principal: jean-xxii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bauriol.html
+  - https://fr.wikipedia.org/wiki/Pierre_Auriol
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Aix, France
+  du: '1321-02-27'
+  au: '1322-01-10'
+- titre: archevêque catholique
+  du: '1321-03-07'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q1383191
+  catholic_hierarchy: bauriol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:50:02+00:00'
+  completeness: 0.62

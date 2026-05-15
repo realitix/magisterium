@@ -1,0 +1,66 @@
+slug: onuphre-reart
+nom: Onuphre Réart
+nom_complet: Onofre Reart
+naissance: null
+deces: '1622-10-13'
+naissance_lieu: Perpignan, Diocese of Elne, France
+deces_lieu: Perpignan, Diocese of Perpignan-Elne, France
+rang: eveque
+nationalite: Q204920
+tampon: ordo_incertus
+sacre:
+  date: '1599-05-30'
+  lieu: Cathedral, Barcelona, Diocese of Barcelona
+  consecrateur_principal: juan-teres
+  co_consecrateurs:
+  - francesc-robuster-i-sala
+  - luis-sans-y-codol
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breart.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elne, France
+  du: '1599-02-01'
+  au: null
+- titre: Bishop of Vic, Spain
+  du: '1608-03-03'
+  au: null
+- titre: Bishop of Gerona, Spain
+  du: '1611-12-19'
+  au: '1621-02-17'
+- titre: Bishop Emeritus of Gerona, Spain
+  du: null
+  au: '1622-10-13'
+- titre: évêque de Vic
+  du: '1608-03-03'
+  au: null
+- titre: évêque de Gérone
+  du: '1611-12-19'
+  au: '1621-02-17'
+- titre: évêque de Perpignan-Elne
+  du: '1601-09-01'
+  au: '1608-03-03'
+- titre: évêque d'Elne
+  du: '1599-02-01'
+  au: '1601-09-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Onuphre%20R%C3%A9art%20-%20portrait.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19301360
+  catholic_hierarchy: breart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:05:29+00:00'
+  completeness: 0.88

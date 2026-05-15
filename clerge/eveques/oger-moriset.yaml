@@ -1,0 +1,45 @@
+slug: oger-moriset
+nom: Oger Moriset
+nom_complet: Ogerio Moriset
+naissance: '1350'
+deces: '1441-01-11'
+naissance_lieu: Conflans
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoriset.html
+  - https://fr.wikipedia.org/wiki/Oger_Moriset
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aosta, Italy
+  du: '1411-01-12'
+  au: null
+- titre: Bishop of Saint-Jean-de-Maurienne, France
+  du: '1433-02-11'
+  au: '1441-01-11'
+- titre: évêque d'Aoste
+  du: '1411-01-21'
+  au: '1433-02-20'
+- titre: évêque de Maurienne
+  du: '1433-02-20'
+  au: '1441-01-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027424
+  catholic_hierarchy: bmoriset
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:12:49+00:00'
+  completeness: 0.38

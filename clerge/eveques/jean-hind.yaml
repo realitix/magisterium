@@ -1,0 +1,40 @@
+slug: jean-hind
+nom: Jean Hind
+nom_complet: null
+naissance: null
+deces: '1330-03-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1322-04-18'
+  consecrateur_principal: regnaud-cardinal-de-la-porte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhindj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roskilde (Roeskilde), Denmark
+  du: '1322-03-19'
+  au: '1330-03-24'
+- titre: évêque de Roskilde
+  du: '1322-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761333
+  catholic_hierarchy: bhindj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:43:28+00:00'
+  completeness: 0.75

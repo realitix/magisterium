@@ -1,0 +1,45 @@
+slug: gyorgy-maychen
+nom: Gyorgy Maychen
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1549-04-10'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaychen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1549-04-10'
+  au: null
+- titre: Titular Bishop of Philippopolis in Arabia
+  du: '1549-04-10'
+  au: null
+- titre: évêque auxiliaire
+  du: '1549-04-20'
+  au: null
+- titre: évêque titulaire
+  du: '1549-04-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68907876
+  catholic_hierarchy: bmaychen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:40:08+00:00'
+  completeness: 0.25

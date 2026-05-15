@@ -1,0 +1,38 @@
+slug: martin-garcia
+nom: Martín García
+nom_complet: Martín García Puyazuelo
+naissance: '1445'
+deces: '1521-03-07'
+naissance_lieu: Caspe, Archdiocese of Zaragoza
+deces_lieu: Caspe, Archdiocese of Zaragoza
+rang: eveque
+nationalite: Q199442
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barcelona, Spain
+  du: '1511-08-27'
+  au: '1521-03-07'
+- titre: évêque de Barcelone
+  du: '1511-09-06'
+  au: '1521-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11935714
+  catholic_hierarchy: bgarm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:11:22+00:00'
+  completeness: 0.38

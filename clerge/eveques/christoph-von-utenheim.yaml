@@ -1,0 +1,48 @@
+slug: christoph-von-utenheim
+nom: Christoph von Utenheim
+nom_complet: null
+naissance: '1450'
+deces: '1527-03-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1504-05-28'
+  consecrateur_principal: anton-engelbrecht
+  co_consecrateurs:
+  - tilman-limperger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/butenh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: '1503-03-08'
+  au: '1527-03-16'
+- titre: prévôt du chapitre Saint-Thomas de Strasbourg
+  du: '1473-01-01'
+  au: '1494-01-01'
+- titre: évêque de Bâle
+  du: '1503-03-18'
+  au: null
+- titre: recteur de l'université de Bâle
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1086255
+  catholic_hierarchy: butenh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:19:16+00:00'
+  completeness: 0.75

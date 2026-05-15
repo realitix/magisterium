@@ -1,0 +1,50 @@
+slug: louis-bel
+nom: Louis Bel
+nom_complet: Louis Bel, C.M.
+naissance: '1823-09-27'
+deces: '1868-03-01'
+naissance_lieu: Castelfranc, France
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1865-10-22'
+  lieu: 95, rue de Sevres, Paris, Archdiocese of Paris, France
+  consecrateur_principal: alessandro-franchi
+  co_consecrateurs:
+  - guglielmo-massaia
+  - antoine-boutonnet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbellou.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Abyssinia, Ethiopia
+  du: '1865-07-11'
+  au: '1868-03-01'
+- titre: Titular Bishop of Agathopolis
+  du: '1865-07-11'
+  au: null
+- titre: évêque titulaire
+  du: '1865-07-11'
+  au: null
+- titre: vicaire apostolique
+  du: '1865-07-11'
+  au: null
+fraternite: lazaristes
+photo: null
+qids:
+  wikidata: Q64735588
+  catholic_hierarchy: bbellou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:14:58+00:00'
+  completeness: 1.0

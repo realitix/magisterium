@@ -1,0 +1,39 @@
+slug: jacques-de-saint-julien
+nom: Jacques de Saint-Julien
+nom_complet: Jean de Domo de Saint Julien
+naissance: null
+deces: '1560'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdomosj.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Saint-Julien
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aire, France
+  du: '1538-02-06'
+  au: 1560&sup1;
+- titre: évêque d'Aire
+  du: '1538-02-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61852334
+  catholic_hierarchy: bdomosj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:00:05+00:00'
+  completeness: 0.25

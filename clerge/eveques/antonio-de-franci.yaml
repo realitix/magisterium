@@ -1,0 +1,52 @@
+slug: antonio-de-franci
+nom: Antonio de Franci
+nom_complet: null
+naissance: '1772-01-18'
+deces: '1855'
+naissance_lieu: Filacciano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1837-10-15'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - giovanni-soglia-ceroni
+  - antonio-luigi-piatti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrancia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Ostia (-Velletri), Italy
+  du: '1837-10-02'
+  au: 1852&sup1;
+- titre: Titular Bishop of Canatha
+  du: '1837-10-02'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Ostia (-Velletri), Italy
+  du: null
+  au: 1855&sup2;
+- titre: évêque titulaire
+  du: '1837-10-02'
+  au: null
+- titre: évêque auxiliaire
+  du: '1837-10-02'
+  au: '1852-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760692
+  catholic_hierarchy: bfrancia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:55:32+00:00'
+  completeness: 0.88

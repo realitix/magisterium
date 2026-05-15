@@ -1,0 +1,42 @@
+slug: thierry-hake
+nom: Thierry Hake
+nom_complet: Dietrich Hake
+naissance: '1450'
+deces: '1498'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1485'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaket.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dorpat (Tartu), Estonia
+  du: '1485-07-18'
+  au: 1498&sup1;
+- titre: évêque
+  du: '1485-01-01'
+  au: '1498-01-01'
+- titre: Roman Catholic Bishop of Dorpat
+  du: '1485-07-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12360841
+  catholic_hierarchy: bhaket
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:01+00:00'
+  completeness: 0.25

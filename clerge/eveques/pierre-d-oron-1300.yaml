@@ -1,0 +1,39 @@
+slug: pierre-d-oron-1300
+nom: Pierre d'Oron
+nom_complet: Pierre d&rsquo;Oron
+naissance: '1300'
+deces: '1323-03-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boronpi.html
+  - https://fr.wikipedia.org/wiki/Pierre_d%27Oron_(%C3%A9v%C3%AAque_de_Lausanne)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1313-10-01'
+  au: '1323-03-27'
+- titre: évêque de Lausanne
+  du: '1313-10-09'
+  au: '1323-04-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1712083
+  catholic_hierarchy: boronpi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:55:25+00:00'
+  completeness: 0.38

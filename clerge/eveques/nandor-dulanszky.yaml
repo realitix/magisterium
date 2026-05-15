@@ -1,0 +1,51 @@
+slug: nandor-dulanszky
+nom: Nándor Dulánszky
+nom_complet: null
+naissance: '1829-10-15'
+deces: '1896-01-24'
+naissance_lieu: Esztergom, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1875-12-08'
+  lieu: Esztergom, Archdiocese of Esztergom
+  consecrateur_principal: janos-simor
+  co_consecrateurs:
+  - antonio-maria-grasselli
+  - gyorgy-csaszka
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdula.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: null
+  au: '1896-01-24'
+- titre: évêque de Székesfehérvár
+  du: '1875-06-11'
+  au: null
+- titre: évêque de Pécs
+  du: '1877-06-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A1ndor%20Dul%C3%A1nszky.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q25460312
+  catholic_hierarchy: bdula
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:12:31+00:00'
+  completeness: 1.0

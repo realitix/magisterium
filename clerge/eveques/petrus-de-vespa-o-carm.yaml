@@ -1,0 +1,39 @@
+slug: petrus-de-vespa-o-carm
+nom: Petrus de Vespa, O. Carm.
+nom_complet: Petrus de Vespa
+naissance: '1596-07-25'
+deces: '1653'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1629-07-16'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvespap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Paphus
+  du: '1629-07-16'
+  au: 1653&sup2;
+- titre: évêque titulaire
+  du: '1629-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911945
+  catholic_hierarchy: bvespap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:34:41+00:00'
+  completeness: 0.38

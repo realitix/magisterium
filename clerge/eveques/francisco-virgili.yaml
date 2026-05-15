@@ -1,0 +1,44 @@
+slug: francisco-virgili
+nom: Francisco Virgili
+nom_complet: null
+naissance: '1551'
+deces: '1620-10-16'
+naissance_lieu: Tarragona, Archdiocese of Tarragona
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1599-11-28'
+  lieu: Cathedral, Valencia, Archdiocese of Valencia
+  consecrateur_principal: st-juan-de-ribera
+  co_consecrateurs:
+  - alonso-d-rsquo-avalos
+  - miguel-espinosa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvirg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lérida, Spain
+  du: '1599-09-27'
+  au: '1620-10-16'
+- titre: évêque de Lérida
+  du: '1599-09-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744877
+  catholic_hierarchy: bvirg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:41:38+00:00'
+  completeness: 0.88

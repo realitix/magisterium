@@ -1,0 +1,47 @@
+slug: antoine-fagon
+nom: Antoine Fagon
+nom_complet: null
+naissance: '1665'
+deces: '1742-02-16'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1712-05-22'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - jacques-de-goyon-de-matignon
+  - francois-de-valbelle-tourves
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfagon.html
+  - https://fr.wikipedia.org/wiki/Antoine_Fagon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vannes, France
+  du: null
+  au: '1742-02-16'
+- titre: évêque de Lombez
+  du: '1711-04-05'
+  au: null
+- titre: évêque diocésain
+  du: '1719-08-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19945038
+  catholic_hierarchy: bfagon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:29:32+00:00'
+  completeness: 0.88

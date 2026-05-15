@@ -1,0 +1,44 @@
+slug: james-lanigan
+nom: James Lanigan
+nom_complet: null
+naissance: '1747'
+deces: '1812-02-11'
+naissance_lieu: Carrick
+deces_lieu: Home, Jame's Street, Kilkenny
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1789-09-21'
+  lieu: St. Mary, Chapel, Kilkenny
+  consecrateur_principal: john-troy
+  co_consecrateurs:
+  - james-caulfield
+  - daniel-delany
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaniganj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1789-07-10'
+  au: '1812-02-11'
+- titre: évêque du diocèse d'Ossory
+  du: '1789-07-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64750973
+  catholic_hierarchy: blaniganj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:32:30+00:00'
+  completeness: 0.88

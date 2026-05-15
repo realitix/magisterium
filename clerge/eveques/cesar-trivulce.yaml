@@ -1,0 +1,47 @@
+slug: cesar-trivulce
+nom: César Trivulce
+nom_complet: Cesare Trivulzio
+naissance: '1495'
+deces: '1548-09-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1523-05-18'
+  consecrateur_principal: niccolo-cardinal-fieschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrivuc.html
+  - https://fr.wikipedia.org/wiki/C%C3%A9sar_Trivulce
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Como, Italy
+  du: '1519-09-26'
+  au: 1548&sup2;
+- titre: Bishop of Apt, France
+  du: '1533-05-12'
+  au: 1540&sup1;
+- titre: évêque de Côme
+  du: '1519-10-06'
+  au: '1548-01-01'
+- titre: évêque diocésain
+  du: '1533-05-22'
+  au: '1540-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30727331
+  catholic_hierarchy: btrivuc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:11:20+00:00'
+  completeness: 0.62

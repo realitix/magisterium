@@ -1,0 +1,44 @@
+slug: pierre-de-gassion
+nom: Pierre de Gassion
+nom_complet: null
+naissance: '1616-04-04'
+deces: '1652-04-24'
+naissance_lieu: Pau
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1648-03-08'
+  consecrateur_principal: dominique-de-vic
+  co_consecrateurs:
+  - gilles-boutault
+  - pierre-iii-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgassion.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Gassion_(1616-1652)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oloron (Oloron-Sainte-Marie), France
+  du: null
+  au: '1652-04-24'
+- titre: évêque diocésain
+  du: '1647-07-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816595
+  catholic_hierarchy: bgassion
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:13:08+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: gerald-shaughnessy
+nom: Gerald Shaughnessy
+nom_complet: Gerald Shaughnessy, S.M.
+naissance: '1887-05-19'
+deces: '1950-05-18'
+naissance_lieu: Everett, MA, Archdiocese of Boston, Massachusetts
+deces_lieu: Seattle, Diocese of Seattle, Washington
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1933-09-19'
+  lieu: Immaculate Conception, Shrine, Washington, DC, Archdiocese of Baltimore, Maryland
+  consecrateur_principal: amleto-cicognani
+  co_consecrateurs:
+  - michael-joseph-keyes
+  - charles-daniel-white
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bshau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Seattle, Washington, USA
+  du: '1933-07-01'
+  au: '1950-05-18'
+- titre: évêque diocésain
+  du: '1933-07-01'
+  au: null
+fraternite: maristes
+photo: null
+qids:
+  wikidata: Q3557588
+  catholic_hierarchy: bshau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:14:43+00:00'
+  completeness: 1.0

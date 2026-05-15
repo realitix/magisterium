@@ -1,0 +1,52 @@
+slug: raoul-rousselet
+nom: Raoul Rousselet
+nom_complet: null
+naissance: null
+deces: '1323-10-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: geoffroy-de-la-haye
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brousr.html
+  - https://fr.wikipedia.org/wiki/Raoul_Rousselet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Malo, France
+  du: '1311-02-09'
+  au: null
+- titre: Bishop of Pamplona, Spain
+  du: '1317-03-02'
+  au: null
+- titre: Bishop of Laon, France
+  du: '1317-06-18'
+  au: '1323-10-16'
+- titre: évêque de Pampelune
+  du: '1317-03-10'
+  au: null
+- titre: évêque de Laon
+  du: '1317-06-26'
+  au: null
+- titre: évêque de Saint-Malo
+  du: '1311-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15966948
+  catholic_hierarchy: brousr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:31:55+00:00'
+  completeness: 0.62

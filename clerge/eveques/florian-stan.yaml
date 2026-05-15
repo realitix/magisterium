@@ -1,0 +1,46 @@
+slug: florian-stan
+nom: Florian Stan
+nom_complet: null
+naissance: '1857-03-17'
+deces: '1924-05-15'
+naissance_lieu: Jegariste
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1922-12-19'
+  consecrateur_principal: bl-valeriu-traian-frentiu
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Oradea Mare {Gran Varadino} (Romanian), Romania
+  du: '1922-10-03'
+  au: '1924-05-15'
+- titre: Titular Bishop of Axiopolis
+  du: '1922-10-03'
+  au: null
+- titre: évêque titulaire
+  du: '1922-10-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '1922-10-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735570
+  catholic_hierarchy: bstan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:06+00:00'
+  completeness: 0.88

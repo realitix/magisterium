@@ -1,0 +1,64 @@
+slug: urbain-vii
+nom: Urbain VII
+nom_complet: Urban VII
+naissance: '1521-08-04'
+deces: '1590-09-27'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1553-04-04'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-verallo
+  co_consecrateurs:
+  - girolamo-maccabei-de-toscanella
+  - pierre-de-affatatis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastag.html
+  - https://fr.wikipedia.org/wiki/Urbain_VII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Rossano, Italy
+  du: '1553-03-01'
+  au: 23 Jan 1573&#8310;
+- titre: Apostolic Nuncio to Spain
+  du: Nov 1565&sup3;
+  au: '1572-07-03'
+- titre: Apostolic Nuncio to Venice, Italy
+  du: '1573-06-15'
+  au: '1577-07-01'
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1590-09-27'
+- titre: Roman Catholic Archbishop of Rossano
+  du: '1553-04-14'
+  au: '1573-02-02'
+- titre: nonce apostolique en Espagne
+  du: '1565-11-01'
+  au: '1572-07-13'
+- titre: pape
+  du: '1590-09-15'
+  au: '1590-09-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Urban%20VII%20Castagna%20%28Jacopo%20del%20Conte%2C%20Vatican%20Museums%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q134337
+  catholic_hierarchy: bcastag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:29:22+00:00'
+  completeness: 1.0

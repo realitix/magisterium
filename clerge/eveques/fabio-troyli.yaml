@@ -1,0 +1,49 @@
+slug: fabio-troyli
+nom: Fabio Troyli
+nom_complet: null
+naissance: '1685-08-05'
+deces: '1762-08-01'
+naissance_lieu: Montalban
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1734-12-12'
+  consecrateur_principal: antonfelice-zondadari
+  co_consecrateurs:
+  - carlo-alberto-guidoboni-cavalchini
+  - joseph-dominique-d-inguimbert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btroyli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minervino Murge, Italy
+  du: '1734-12-01'
+  au: null
+- titre: Bishop of Catanzaro, Italy
+  du: '1751-02-01'
+  au: '1762-08-01'
+- titre: Roman Catholic Bishop of Catanzaro
+  du: '1751-02-01'
+  au: null
+- titre: Roman Catholic Bishop of Minervino Murge
+  du: '1734-12-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733341
+  catholic_hierarchy: btroyli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:12:07+00:00'
+  completeness: 1.0

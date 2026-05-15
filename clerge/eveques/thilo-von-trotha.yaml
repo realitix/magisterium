@@ -1,0 +1,47 @@
+slug: thilo-von-trotha
+nom: Thilo von Trotha
+nom_complet: Thilo de Trotha
+naissance: '1443-08-17'
+deces: '1514-03-05'
+naissance_lieu: null
+deces_lieu: Merseburg, Diocese of Merseburg
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1467-03-08'
+  consecrateur_principal: jean-de-baviere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrotha.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Merseburg, Germany
+  du: '1466-07-21'
+  au: '1514-03-05'
+- titre: évêque diocésain
+  du: '1466-07-30'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Thilo%20von%20Trotha.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q883009
+  catholic_hierarchy: btrotha
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:11:52+00:00'
+  completeness: 0.88

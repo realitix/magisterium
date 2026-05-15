@@ -1,0 +1,54 @@
+slug: antoine-triest
+nom: Antoine Triest
+nom_complet: Pierre Antoine Triest
+naissance: '1577'
+deces: '1657-05-28'
+naissance_lieu: Beveren-Waas
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1617-07-09'
+  consecrateur_principal: matthias-van-den-hove-hovius
+  co_consecrateurs:
+  - antoine-de-haynin
+  - jacques-boonen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btriest.html
+  - https://fr.wikipedia.org/wiki/Antoine_Triest
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: '1617-04-03'
+  au: null
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1621-10-25'
+  au: '1657-05-28'
+- titre: Évêque de Gand
+  du: '1621-10-25'
+  au: null
+- titre: évêque de Bruges
+  du: '1617-04-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gent%2C%20sint-Baafskathedraal%20TriestB%20STB%20593.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2149954
+  catholic_hierarchy: btriest
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:10:38+00:00'
+  completeness: 0.88

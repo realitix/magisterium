@@ -1,0 +1,48 @@
+slug: william-de-wykeham
+nom: William de Wykeham
+nom_complet: William Wykeham (Wickham)
+naissance: '1324'
+deces: '1404-09-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1367-10-10'
+  consecrateur_principal: simon-langham
+  co_consecrateurs:
+  - simon-sudbury
+  - robert-wyvil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwykeh.html
+  - https://fr.wikipedia.org/wiki/William_de_Wykeham
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1367-07-12'
+  au: '1404-09-27'
+- titre: évêque de Winchester
+  du: '1367-07-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/WilliamOfWykeham.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q723451
+  catholic_hierarchy: bwykeh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:00:13+00:00'
+  completeness: 0.88

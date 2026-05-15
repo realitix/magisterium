@@ -1,0 +1,59 @@
+slug: thomas-scrope
+nom: Thomas Scrope
+nom_complet: Thomas Scrope, O. Carm.
+naissance: '1400'
+deces: '1491-01-15'
+naissance_lieu: Bradley
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_incertus
+sacre:
+  date: '1450-02-01'
+  lieu: Santa Maria in Aquiro, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: angelo-cardinal-capranica
+  co_consecrateurs:
+  - alessio-de-cesari
+  - andrea-veroli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscrope.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Norwich, England, Great Britain
+  du: 1450&sup2;
+  au: 1477&sup2;
+- titre: Bishop of Dromore, Ireland
+  du: '1450-01-12'
+  au: 1455&sup1;
+- titre: Auxiliary Bishop of Canterbury, England, Great Britain
+  du: 1469&sup2;
+  au: null
+- titre: Bishop Emeritus of Dromore, Ireland
+  du: null
+  au: '1491-01-15'
+- titre: évêque auxiliaire
+  du: '1469-01-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1450-01-01'
+  au: '1477-01-01'
+- titre: évêque diocésain
+  du: '1450-01-21'
+  au: '1455-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18530871
+  catholic_hierarchy: bscrope
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:06:22+00:00'
+  completeness: 0.88

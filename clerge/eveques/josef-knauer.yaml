@@ -1,0 +1,45 @@
+slug: josef-knauer
+nom: Josef Knauer
+nom_complet: Joseph Knauer
+naissance: '1764-12-01'
+deces: '1844-05-16'
+naissance_lieu: Rothflössel, Archdiocese of Praha {Prague}, Czechia
+deces_lieu: null
+rang: eveque
+nationalite: Q172107
+tampon: ordo_validus
+sacre:
+  date: '1843-04-23'
+  lieu: Cathedral, Breslau, Diocese of Wroc&#322;aw (Breslau)
+  consecrateur_principal: daniel-latussek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bknauer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wroc&#322;aw (Breslau), Poland
+  du: null
+  au: '1844-05-16'
+- titre: évêque de Wrocław
+  du: '1841-08-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Knauer.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q99836
+  catholic_hierarchy: bknauer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:16:10+00:00'
+  completeness: 0.88

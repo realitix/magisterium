@@ -1,0 +1,53 @@
+slug: sasbout-vosmeer
+nom: Sasbout Vosmeer
+nom_complet: null
+naissance: '1548-03-13'
+deces: '1614-05-03'
+naissance_lieu: Delft
+deces_lieu: Köln, Archdiocese of Köln {Cologne}, Germany
+rang: eveque
+nationalite: Q170072
+tampon: ordo_validus
+sacre:
+  date: '1602-09-22'
+  consecrateur_principal: simeone-cardinal-tagliavia-d-rsquo-aragonia
+  co_consecrateurs:
+  - peter-lombard
+  - giovanni-paolo-marincola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvosmeer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Batavia (Holland Mission), Netherlands
+  du: '1602-09-09'
+  au: '1614-05-03'
+- titre: Titular Bishop of Philippi
+  du: '1602-09-09'
+  au: null
+- titre: évêque titulaire
+  du: '1602-09-09'
+  au: null
+- titre: vicaire apostolique
+  du: '1602-09-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sasbout%20Vosmeer.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2529358
+  catholic_hierarchy: bvosmeer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:46:12+00:00'
+  completeness: 1.0

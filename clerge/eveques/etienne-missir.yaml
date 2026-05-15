@@ -1,0 +1,44 @@
+slug: etienne-missir
+nom: Etienne Missir
+nom_complet: Etienne (Stefano) Missir
+naissance: '1806-05-23'
+deces: '1863-12-10'
+naissance_lieu: Izmir, Turkey
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1837-03-12'
+  lieu: St. Athanase, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - james-browne
+  - william-o-rsquo-higgins-o-rsquo-h-aodhagain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmissir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Irenopolis in Cilicia
+  du: '1837-02-28'
+  au: '1863-12-10'
+- titre: évêque titulaire
+  du: '1837-02-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777303
+  catholic_hierarchy: bmissir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:00:48+00:00'
+  completeness: 1.0

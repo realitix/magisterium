@@ -1,0 +1,44 @@
+slug: stephan-bodecker
+nom: Stephan Bodecker
+nom_complet: Stephan Bodecker, O. Praem.
+naissance: '1384'
+deces: '1459-02-15'
+naissance_lieu: Rathenow
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1422'
+  consecrateur_principal: peter-von-burgsdorff
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbodec.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brandenburg, Germany
+  du: '1421-09-01'
+  au: '1459-02-15'
+- titre: Roman Catholic Bishop of Brandenburg
+  du: '1421-09-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Stephan%20bodeker.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q75969
+  catholic_hierarchy: bbodec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:33:07+00:00'
+  completeness: 0.62

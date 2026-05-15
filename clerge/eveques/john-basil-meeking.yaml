@@ -1,0 +1,51 @@
+slug: john-basil-meeking
+nom: John Basil Meeking
+nom_complet: Basil Meeking
+naissance: '1929-11-19'
+deces: '2020-06-11'
+naissance_lieu: Ashburton
+deces_lieu: Christchurch, Hospital, Christchurch, Diocese of Error [Chri]
+rang: eveque
+nationalite: Q664
+tampon: ordo_dubius
+sacre:
+  date: '1987-06-03'
+  lieu: Holy Sacrament, Cathedral, Christchurch, Diocese of Christchurch
+  consecrateur_principal: thomas-stafford-williams
+  co_consecrateurs:
+  - antonio-magnoni
+  - brian-ashby
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmeeking.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Christchurch, New Zealand
+  du: '1987-03-30'
+  au: '1995-12-15'
+- titre: Bishop Emeritus of Christchurch, New Zealand
+  du: null
+  au: '2020-06-11'
+- titre: évêque diocésain
+  du: '1987-03-30'
+  au: '1995-12-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop-Meeking.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1229608
+  catholic_hierarchy: bmeeking
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:47:20+00:00'
+  completeness: 1.0

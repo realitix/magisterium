@@ -1,0 +1,41 @@
+slug: raoul-ii-de-cierrey
+nom: Raoul II de Cierrey
+nom_complet: Raoul de Cierrey
+naissance: null
+deces: '1243-01-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1236-09-21'
+  consecrateur_principal: thomas-de-freauville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcierrey.html
+  - https://fr.wikipedia.org/wiki/Raoul_II_de_Cierrey
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: '1236-06-02'
+  au: '1243-01-18'
+- titre: évêque diocésain
+  du: '1236-06-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3419197
+  catholic_hierarchy: bcierrey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:50:27+00:00'
+  completeness: 0.75

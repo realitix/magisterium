@@ -1,0 +1,41 @@
+slug: richard-de-saint-leger
+nom: Richard de Saint-Léger
+nom_complet: Richard de Bellevue (St. Léger)
+naissance: '1150'
+deces: '1236-04-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1223-08-27'
+  consecrateur_principal: theobald-d-rsquo-amiens
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbellevue.html
+  - https://fr.wikipedia.org/wiki/Richard_de_Saint-L%C3%A9ger
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: '1223-07-17'
+  au: '1236-04-04'
+- titre: évêque diocésain
+  du: '1223-07-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3431373
+  catholic_hierarchy: bbellevue
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:14:09+00:00'
+  completeness: 0.75

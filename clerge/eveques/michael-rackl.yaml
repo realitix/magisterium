@@ -1,0 +1,49 @@
+slug: michael-rackl
+nom: Michael Rackl
+nom_complet: null
+naissance: '1883-10-31'
+deces: '1948-05-05'
+naissance_lieu: Rittersdorf, Diocese of Eichstätt
+deces_lieu: Eichstätt, Diocese of Eichstätt
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1935-12-21'
+  lieu: Saint Willibald, Cathedral, Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: konrad-von-preysing
+  co_consecrateurs:
+  - matthias-ehrenfried
+  - ludwig-sebastian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brackl.html
+  - https://fr.wikipedia.org/wiki/Michael_Rackl
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: '1935-11-04'
+  au: '1948-05-05'
+- titre: évêque d'Eichstätt
+  du: '1935-11-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20RacklJS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q97506
+  catholic_hierarchy: brackl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:57:27+00:00'
+  completeness: 1.0

@@ -1,0 +1,27 @@
+slug: louis-coache
+nom: Louis Coache
+naissance: '1920-03-10'
+deces: '1994-08-21'
+tampon: ordo_validus
+fraternite: fsspx
+ordination:
+  date: '1943'
+  rite: ancien
+  rite_source: inferred
+  ordinateur: null
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Louis_Coache
+  - https://laportelatine.org/personne/abbe-louis-coache
+qids:
+  wikidata: Q3261549
+sources:
+- source: wikipedia-fr
+  fetched_at: '2026-05-13T15:00:40+00:00'
+  url: https://fr.wikipedia.org/wiki/Louis_Coache
+- source: fsspx-laportelatine
+  fetched_at: '2026-05-13T16:22:26+00:00'
+  url: https://laportelatine.org/personne/abbe-louis-coache
+- source: wikidata-pretres
+  fetched_at: '2026-05-13T16:14:33+00:00'
+  source_id: Q3261549
+tampon_source: fraternite

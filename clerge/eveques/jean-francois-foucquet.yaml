@@ -1,0 +1,43 @@
+slug: jean-francois-foucquet
+nom: Jean-François Foucquet
+nom_complet: Jean François Fouquet, S.J.
+naissance: '1663-03-12'
+deces: '1741-03-14'
+naissance_lieu: Aeduen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1725-03-25'
+  co_consecrateurs:
+  - giovanni-francesco-nicolai-o-f-m
+  - giacinto-gaetano-chiurlia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfouquet.html
+  - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Foucquet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Eleutheropolis in Macedonia
+  du: '1725-03-21'
+  au: '1741-03-14'
+- titre: évêque titulaire
+  du: '1725-03-21'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q6169250
+  catholic_hierarchy: bfouquet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:54:07+00:00'
+  completeness: 0.88

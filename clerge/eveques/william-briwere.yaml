@@ -1,0 +1,41 @@
+slug: william-briwere
+nom: William Briwere
+nom_complet: null
+naissance: '1200'
+deces: '1244-10-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1224-04-21'
+  consecrateur_principal: stephen-cardinal-langton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbriwere.html
+  - https://fr.wikipedia.org/wiki/William_Briwere_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: '1223-11-25'
+  au: '1244-10-24'
+- titre: évêque d'Exeter
+  du: '1223-12-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2578122
+  catholic_hierarchy: bbriwere
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:52:56+00:00'
+  completeness: 0.75

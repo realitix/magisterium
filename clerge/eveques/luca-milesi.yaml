@@ -1,0 +1,51 @@
+slug: luca-milesi
+nom: Luca Milesi
+nom_complet: Luca Milesi, O.F.M. Cap.
+naissance: '1924-04-21'
+deces: '2008-05-22'
+naissance_lieu: San Giovanni Bianco, Diocese of Bergamo, Italy
+deces_lieu: Barentu, Eparchy of Barentu (Eritrean)
+rang: eveque
+nationalite: Q172579
+tampon: ordo_dubius
+sacre:
+  date: '1996-02-04'
+  lieu: Kidane Mehret, Cathedral, Asmara, Eparchy of Asmara (Ethiopian)
+  consecrateur_principal: paulos-tzadua
+  co_consecrateurs:
+  - zekarias-yohannes
+  - kidane-mariam-teklehaimanot
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmilesi.html
+  - https://fr.wikipedia.org/wiki/Luca_Milesi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Asmara, Ethiopia
+  du: '1971-06-12'
+  au: null
+- titre: Bishop of Barentu (Eritrean), Eritrea
+  du: '1995-12-21'
+  au: null
+- titre: Bishop Emeritus of Barentu (Eritrean), Eritrea
+  du: null
+  au: '2008-05-22'
+- titre: évêque diocésain
+  du: '1995-12-21'
+  au: '2001-10-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1699182
+  catholic_hierarchy: bmilesi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:42+00:00'
+  completeness: 1.0

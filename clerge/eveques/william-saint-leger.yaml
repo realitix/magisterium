@@ -1,0 +1,40 @@
+slug: william-saint-leger
+nom: William Saint-Leger
+nom_complet: null
+naissance: null
+deces: '1352-08-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1350-05-02'
+  consecrateur_principal: john-de-thoresby
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsleger.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meath, Ireland
+  du: '1349-10-05'
+  au: '1352-08-24'
+- titre: évêque diocésain
+  du: '1349-10-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762447
+  catholic_hierarchy: bsleger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:23:01+00:00'
+  completeness: 0.75

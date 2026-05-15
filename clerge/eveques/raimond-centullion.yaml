@@ -1,0 +1,39 @@
+slug: raimond-centullion
+nom: Raimond Centullion
+nom_complet: Raymond Centullion
+naissance: null
+deces: '1275-07-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcentull.html
+  - https://fr.wikipedia.org/wiki/Raimond_Centullion
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: Jun 1272&sup3;
+  au: '1275-07-10'
+- titre: évêque d'Apt
+  du: '1272-06-01'
+  au: '1275-07-17'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449471
+  catholic_hierarchy: bcentull
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:37:11+00:00'
+  completeness: 0.38

@@ -1,0 +1,43 @@
+slug: luigi-lastaria
+nom: Luigi Lastaria
+nom_complet: null
+naissance: null
+deces: '1870-11-23'
+naissance_lieu: Capua, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1831-11-13'
+  consecrateur_principal: vincenzo-macchi
+  co_consecrateurs:
+  - giovanni-giacomo-sinibaldi
+  - costantino-patrizi-naro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blasta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cefalonia e Zante, Greece
+  du: '1831-11-04'
+  au: '1870-11-23'
+- titre: Roman Catholic Bishop of Cephalonia and Zakynthos
+  du: '1831-11-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760967
+  catholic_hierarchy: blasta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:35:12+00:00'
+  completeness: 0.88

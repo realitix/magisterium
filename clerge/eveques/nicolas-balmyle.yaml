@@ -1,0 +1,44 @@
+slug: nicolas-balmyle
+nom: Nicolas Balmyle
+nom_complet: Nicholas de Balmyle
+naissance: '1201'
+deces: '1319-02-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1301-11-12'
+  consecrateur_principal: teodorico-ranieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalmyle.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunblane, Scotland, Great Britain
+  du: 1301&sup1;
+  au: 1307&sup1;
+- titre: évêque diocésain
+  du: '1301-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Diocese%20of%20Dunblane.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16205223
+  catholic_hierarchy: bbalmyle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:58:53+00:00'
+  completeness: 0.62

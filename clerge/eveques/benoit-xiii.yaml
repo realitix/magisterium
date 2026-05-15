@@ -1,0 +1,82 @@
+slug: benoit-xiii
+nom: Benoît XIII
+nom_complet: Benedict XIII
+naissance: '1649-02-02'
+deces: '1730-02-21'
+naissance_lieu: Gravina di Puglia, Archdiocese of Bari (-Canosa)
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1675-02-03'
+  lieu: Ss. Domenico e Sisto, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: paluzzo-paluzzi-altieri-degli-albertoni
+  co_consecrateurs:
+  - stefano-brancaccio
+  - costanzo-zani-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borsini.html
+  - https://fr.wikipedia.org/wiki/Beno%C3%AEt_XIII_(pape)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prefect of the Congregation of the Council
+  du: '1673-01-04'
+  au: null
+- titre: Archbishop of Manfredonia, Italy
+  du: '1675-01-28'
+  au: null
+- titre: Archbishop (Personal Title) of Cesena, Italy
+  du: '1680-01-22'
+  au: null
+- titre: Archbishop of Benevento, Italy
+  du: '1686-03-18'
+  au: null
+- titre: Cardinal-Bishop of Frascati
+  du: '1701-01-03'
+  au: null
+- titre: Cardinal-Bishop of Porto e Santa Rufina
+  du: '1715-03-18'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1730-02-21'
+- titre: archevêque de Bénévent
+  du: '1686-03-18'
+  au: null
+- titre: Roman Catholic Bishop of Cesena
+  du: '1680-01-22'
+  au: null
+- titre: archevêque de Manfredonia
+  du: '1675-01-28'
+  au: null
+- titre: pape
+  du: '1724-05-29'
+  au: '1730-02-23'
+- titre: archevêque catholique
+  du: '1675-02-03'
+  au: null
+- titre: cardinal
+  du: '1672-02-22'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Benedetto%20XIII.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q155971
+  catholic_hierarchy: borsini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:56:10+00:00'
+  completeness: 1.0

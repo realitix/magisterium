@@ -1,0 +1,47 @@
+slug: hugh-of-northwold
+nom: Hugh of Northwold
+nom_complet: Hugh Norwold, O.S.B.
+naissance: '1150'
+deces: '1254-08-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1229-06-10'
+  consecrateur_principal: joceline-of-wells
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnorwold.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ely, England, Great Britain
+  du: '1229-02-03'
+  au: '1254-08-06'
+- titre: évêque d'Ely
+  du: '1229-02-10'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Memorial%20to%20Bishop%20Hugh%20de%20Northwold%20in%20Ely%20Cathedral.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15894641
+  catholic_hierarchy: bnorwold
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:54+00:00'
+  completeness: 0.75

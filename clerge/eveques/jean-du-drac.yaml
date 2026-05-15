@@ -1,0 +1,39 @@
+slug: jean-du-drac
+nom: Jean du Drac
+nom_complet: Jean Du Drac
+naissance: null
+deces: '1473-05-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdudrac.html
+  - https://fr.wikipedia.org/wiki/Jean_du_Drac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1459-05-02'
+  au: '1473-05-17'
+- titre: évêque de Meaux
+  du: '1459-05-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30108031
+  catholic_hierarchy: bdudrac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:11:33+00:00'
+  completeness: 0.38

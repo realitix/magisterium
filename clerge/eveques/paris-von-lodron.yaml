@@ -1,0 +1,51 @@
+slug: paris-von-lodron
+nom: Paris von Lodron
+nom_complet: Paris Comes de Lodron
+naissance: '1586-02-13'
+deces: '1653-12-15'
+naissance_lieu: Château, Castelnuovo di Noarna, Diocese of Trento, Italy
+deces_lieu: Salzburg, Archdiocese of Salzburg
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1619-05-23'
+  consecrateur_principal: albert-von-toerring-stein
+  co_consecrateurs:
+  - nikolaus-von-wolkenstein
+  - johann-paul-giovanni-paolo-ciurletti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blodro.html
+  - https://fr.wikipedia.org/wiki/Paris_von_Lodron
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Salzburg, Austria
+  du: null
+  au: '1653-12-15'
+- titre: archevêque catholique
+  du: '1619-05-23'
+  au: null
+- titre: archevêque de Salzbourg
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Lodron%20G%201062%20II.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q877419
+  catholic_hierarchy: blodro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:55:45+00:00'
+  completeness: 1.0

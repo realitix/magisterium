@@ -1,0 +1,55 @@
+slug: alexandre-sauli
+nom: Alexandre Sauli
+nom_complet: St. Alessandro Maria Sauli, B.
+naissance: '1534-02-15'
+deces: '1592-10-11'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Calosso, Diocese of Asti
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-03-12'
+  lieu: Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: st-charles-cardinal-borromeo
+  co_consecrateurs:
+  - federico-cornaro-seniore
+  - ippolito-de-rossi-1531
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaulia.html
+  - https://fr.wikipedia.org/wiki/Alexandre_Sauli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aleria, France
+  du: '1570-02-10'
+  au: null
+- titre: Bishop of Pavia, Italy
+  du: '1591-05-10'
+  au: '1592-10-11'
+- titre: évêque diocésain
+  du: '1570-02-20'
+  au: null
+- titre: évêque diocésain
+  du: '1591-05-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Sauli2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1341237
+  catholic_hierarchy: bsaulia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:55:48+00:00'
+  completeness: 1.0

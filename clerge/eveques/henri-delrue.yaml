@@ -1,0 +1,50 @@
+slug: henri-delrue
+nom: Henri Delrue
+nom_complet: Henri Désiré Delrue
+naissance: '1928-07-10'
+deces: '1982-05-22'
+naissance_lieu: Linselle
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1979-12-02'
+  lieu: Cathedral, Reims, Archdiocese of Reims
+  consecrateur_principal: adrien-gand
+  co_consecrateurs:
+  - jacques-menager
+  - jean-baptiste-sauvage
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelrue.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Reims, France
+  du: '1979-10-09'
+  au: '1982-05-22'
+- titre: Titular Bishop of Polymartium
+  du: '1979-10-09'
+  au: null
+- titre: évêque auxiliaire
+  du: '1979-10-09'
+  au: null
+- titre: évêque titulaire
+  du: '1979-10-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734775
+  catholic_hierarchy: bdelrue
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:41:02+00:00'
+  completeness: 1.0

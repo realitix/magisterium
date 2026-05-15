@@ -1,0 +1,38 @@
+slug: remi-de-somme-tourbe
+nom: Rémi de Somme-Tourbe
+nom_complet: null
+naissance: null
+deces: '1284-10-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsommeto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Marne, France
+  du: 1275&sup1;
+  au: '1284-10-10'
+- titre: évêque diocésain
+  du: '1275-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108481008
+  catholic_hierarchy: bsommeto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:27:52+00:00'
+  completeness: 0.38

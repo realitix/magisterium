@@ -1,0 +1,40 @@
+slug: giovanni-checconi
+nom: Giovanni Checconi
+nom_complet: null
+naissance: null
+deces: '1668-03-19'
+naissance_lieu: Sienne
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1665-11-22'
+  consecrateur_principal: scipione-pannocchieschi-d-elci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcheccon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pienza, Italy
+  du: '1665-11-11'
+  au: '1668-03-19'
+- titre: Roman Catholic Bishop of Pienza
+  du: '1665-11-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56064491
+  catholic_hierarchy: bcheccon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:44:00+00:00'
+  completeness: 0.75

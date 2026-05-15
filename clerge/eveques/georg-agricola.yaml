@@ -1,0 +1,59 @@
+slug: georg-agricola
+nom: Georg Agricola
+nom_complet: null
+naissance: '1550'
+deces: '1584-03-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1570-05-07'
+  consecrateur_principal: johann-jakob-von-kuen-belasy
+  co_consecrateurs:
+  - christoph-schlattl
+  - michael-dornvogel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bagricolg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavant, Slovenia
+  du: 1570&sup2;
+  au: '1584-03-16'
+- titre: Bishop of Seckau, Austria
+  du: 1572&sup2;
+  au: null
+- titre: évêque de Lavant
+  du: '1570-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Seckau
+  du: '1572-01-01'
+  au: null
+- titre: administrateur diocésain
+  du: '1572-01-01'
+  au: '1584-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Basilika%20Seckau%2C%20Bischofskapelle%2C%20Halbfigurenportrait%20Bischof%20Georg%20IV.%20Agricola.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1503502
+  catholic_hierarchy: bagricolg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:23:14+00:00'
+  completeness: 0.88

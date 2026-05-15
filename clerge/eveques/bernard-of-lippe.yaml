@@ -1,0 +1,42 @@
+slug: bernard-of-lippe
+nom: Bernard of Lippe
+nom_complet: Bernhard zur Lippe
+naissance: '1300'
+deces: '1247'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blippeb.html
+  - https://fr.wikipedia.org/wiki/Bernard_IV_de_Lippe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paderborn, Germany
+  du: 1228&sup1;
+  au: '1247-04-14'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1228-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q825345
+  catholic_hierarchy: blippeb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:51:54+00:00'
+  completeness: 0.38

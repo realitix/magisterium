@@ -1,0 +1,43 @@
+slug: herman-z-pragi
+nom: Herman z Pragi
+nom_complet: Hermann z Pragi
+naissance: '1280'
+deces: '1349-12-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1338-04-19'
+  consecrateur_principal: benoit-xii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhermnn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Warmia (Ermland), Poland
+  du: 4 Dec 1337&sup3;
+  au: '1349-12-31'
+- titre: évêque de Varmie
+  du: '1337-12-12'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q109329
+  catholic_hierarchy: bhermnn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:40:53+00:00'
+  completeness: 0.62

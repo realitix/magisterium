@@ -1,0 +1,39 @@
+slug: roger-de-wexford
+nom: Roger de Wexford
+nom_complet: null
+naissance: null
+deces: '1289-06-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1287-11-03'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwexford.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: 1287&sup1;
+  au: '1289-06-28'
+- titre: évêque diocésain
+  du: '1287-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68912526
+  catholic_hierarchy: bwexford
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:37+00:00'
+  completeness: 0.5

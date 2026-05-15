@@ -1,0 +1,47 @@
+slug: john-etheridge
+nom: John Etheridge
+nom_complet: John Etheridge, C.P.
+naissance: '1935-10-02'
+deces: '2002-08-14'
+naissance_lieu: Adelaide, Australia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1980-08-12'
+  lieu: Holy Cross, Cathedral, Vanimo, Diocese of Vanimo
+  consecrateur_principal: herman-to-paivu
+  co_consecrateurs:
+  - leo-clement-andrew-arkfeld-s-v-d
+  - sir-louis-vangeke
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bethe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vanimo, Papua New Guinea
+  du: '1980-04-24'
+  au: '1989-02-07'
+- titre: Bishop Emeritus of Vanimo, Papua New Guinea
+  du: null
+  au: '2002-08-14'
+- titre: évêque diocésain
+  du: '1980-04-24'
+  au: '1989-02-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18812832
+  catholic_hierarchy: bethe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:50+00:00'
+  completeness: 1.0

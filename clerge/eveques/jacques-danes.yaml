@@ -1,0 +1,51 @@
+slug: jacques-danes
+nom: Jacques Danes
+nom_complet: Jacques Danès de Marly
+naissance: '1601'
+deces: '1662-06-05'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1640-05-06'
+  consecrateur_principal: nicolas-sanguin
+  co_consecrateurs:
+  - richard-smith
+  - antoine-godeau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdanmar.html
+  - https://fr.wikipedia.org/wiki/Jacques_Danes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toulon, France
+  du: null
+  au: '1658-06-01'
+- titre: Bishop Emeritus of Toulon, France
+  du: null
+  au: '1662-06-05'
+- titre: évêque diocésain
+  du: '1638-10-30'
+  au: '1658-06-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BSG%20Estampe%2099%20RES%20P53.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3158627
+  catholic_hierarchy: bdanmar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:26:45+00:00'
+  completeness: 0.88

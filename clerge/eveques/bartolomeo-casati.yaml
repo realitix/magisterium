@@ -1,0 +1,44 @@
+slug: bartolomeo-casati
+nom: Bartolomeo Casati
+nom_complet: null
+naissance: '1791-04-09'
+deces: '1844-09-18'
+naissance_lieu: Gravedona
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1839-07-14'
+  lieu: San Carlo al Corso, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giacomo-luigi-brignole
+  co_consecrateurs:
+  - giuseppe-maria-vespignani
+  - stefano-scerra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcasatib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cremona, Italy
+  du: null
+  au: '1844-09-18'
+- titre: évêque diocésain
+  du: '1839-02-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763201
+  catholic_hierarchy: bcasatib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:26:54+00:00'
+  completeness: 1.0

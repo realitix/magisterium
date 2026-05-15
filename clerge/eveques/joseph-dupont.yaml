@@ -1,0 +1,55 @@
+slug: joseph-dupont
+nom: Joseph Dupont
+nom_complet: Joseph-Marie-Stanislas Dupont, M. Afr.
+naissance: '1850-07-23'
+deces: '1930-03-19'
+naissance_lieu: Gesté (Maine-et-Loire), Diocese of Angers, France
+deces_lieu: Thibar, Tunisia
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1897-08-15'
+  lieu: Kayambi
+  consecrateur_principal: adolphe-le-chaptois
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupj.html
+  - https://fr.wikipedia.org/wiki/Joseph_Dupont_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Nyassa, Malawi
+  du: '1897-02-16'
+  au: '1911-02-24'
+- titre: Titular Bishop of Thibaris
+  du: '1897-02-16'
+  au: null
+- titre: Vicar Apostolic Emeritus of Nyassa, Malawi
+  du: null
+  au: '1930-03-19'
+- titre: vicaire apostolique
+  du: '1897-02-16'
+  au: null
+- titre: évêque titulaire
+  du: '1897-02-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Joseph%20Dupont.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6282745
+  catholic_hierarchy: bdupj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:55+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: gebhard-de-constance
+nom: Gebhard de Constance
+nom_complet: St. Gebhard von Konstanz
+naissance: '949'
+deces: '995'
+naissance_lieu: Bregenz
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '979'
+  consecrateur_principal: non-indexe-cfc8ceb8
+  co_consecrateurs:
+  - non-indexe-2376a695
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkonstg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: 979&sup1;
+  au: 27 Aug 995
+- titre: évêque diocésain
+  du: '0979-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gebhard%20von%20Konstanz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q315693
+  catholic_hierarchy: bkonstg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:18:24+00:00'
+  completeness: 0.88

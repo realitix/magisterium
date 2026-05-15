@@ -1,0 +1,51 @@
+slug: edme-mongin
+nom: Edme Mongin
+nom_complet: null
+naissance: '1668-01-22'
+deces: '1746-05-05'
+naissance_lieu: Baroville
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1725-03-11'
+  consecrateur_principal: henri-de-nesmond
+  co_consecrateurs:
+  - dominique-barnabe-turgot-de-saint-clair
+  - nicolas-de-saulx-tavannes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmongin.html
+  - https://fr.wikipedia.org/wiki/Edme_Mongin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bazas, France
+  du: null
+  au: '1746-05-05'
+- titre: fauteuil 26 de l'Académie française
+  du: '1707-12-22'
+  au: '1746-05-05'
+- titre: évêque diocésain
+  du: '1724-09-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Edme%20mongin%20eveque%20de%20bazas%20bmr%20100%20038.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q971289
+  catholic_hierarchy: bmongin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:05:37+00:00'
+  completeness: 1.0

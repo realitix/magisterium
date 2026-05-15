@@ -1,0 +1,50 @@
+slug: jozsef-viber
+nom: József Viber
+nom_complet: null
+naissance: '1795-07-19'
+deces: '1866-01-15'
+naissance_lieu: Esztergom, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1856-09-14'
+  lieu: Esztergom, Archdiocese of Esztergom
+  consecrateur_principal: jan-krstitel-scitovszky
+  co_consecrateurs:
+  - istvan-kollarcsik
+  - stefan-moyses
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bviber.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1856-06-19'
+  au: '1866-01-15'
+- titre: Titular Bishop of Alia
+  du: '1856-06-19'
+  au: null
+- titre: évêque titulaire
+  du: '1856-06-19'
+  au: null
+- titre: évêque auxiliaire
+  du: '1856-06-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1425960
+  catholic_hierarchy: bviber
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:36:04+00:00'
+  completeness: 1.0

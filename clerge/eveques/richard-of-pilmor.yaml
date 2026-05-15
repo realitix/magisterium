@@ -1,0 +1,40 @@
+slug: richard-of-pilmor
+nom: Richard of Pilmor
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Sep 1344&sup3;
+  consecrateur_principal: pierre-des-pres
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpilmor.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunkeld, Scotland, Great Britain
+  du: '1344-07-05'
+  au: 1347&sup1;
+- titre: Roman Catholic Bishop of Dunkeld
+  du: '1344-07-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108511184
+  catholic_hierarchy: bpilmor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:33:24+00:00'
+  completeness: 0.62

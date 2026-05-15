@@ -1,0 +1,44 @@
+slug: matthieu-guimera
+nom: Matthieu Guimera
+nom_complet: Matteo da Gimara, O.F.M.
+naissance: '1376'
+deces: '1450'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1443-06-30'
+  consecrateur_principal: giovanni-rosa-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgimara.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agrigento (Girgenti), Italy
+  du: '1442-09-17'
+  au: 1445&sup1;
+- titre: évêque d'Agrigente
+  du: '1442-09-26'
+  au: '1445-01-01'
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BEATO%20MATTEO1.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11771482
+  catholic_hierarchy: bgimara
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:23:41+00:00'
+  completeness: 0.62

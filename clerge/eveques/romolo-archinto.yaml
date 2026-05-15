@@ -1,0 +1,44 @@
+slug: romolo-archinto
+nom: Romolo Archinto
+nom_complet: null
+naissance: '1533-01-20'
+deces: '1576-09-04'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Novara, Diocese of Novara
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1574-06-06'
+  lieu: Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: st-charles-cardinal-borromeo
+  co_consecrateurs:
+  - benedetto-erba-o-p
+  - giovanni-francesco-bonomi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barchi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Novara, Italy
+  du: '1574-04-26'
+  au: '1576-09-04'
+- titre: évêque diocésain
+  du: '1574-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3940873
+  catholic_hierarchy: barchi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:45:36+00:00'
+  completeness: 1.0

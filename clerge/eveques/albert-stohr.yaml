@@ -1,0 +1,49 @@
+slug: albert-stohr
+nom: Albert Stohr
+nom_complet: Albertus Stohr
+naissance: '1890-11-13'
+deces: '1961-06-03'
+naissance_lieu: Friedberg, Diocese of Mainz
+deces_lieu: Seligenstadt
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1935-08-24'
+  lieu: Cathedral, Mainz, Diocese of Mainz
+  consecrateur_principal: conrad-grober
+  co_consecrateurs:
+  - ludwig-sebastian
+  - johannes-baptista-sproll
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstohr.html
+  - https://fr.wikipedia.org/wiki/Albert_Stohr
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mainz, Germany
+  du: null
+  au: '1961-06-03'
+- titre: évêque de Mayence
+  du: '1935-06-10'
+  au: '1961-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Albert%20Stohr%20auf%20dem%20Bodensee%20-%20Foto%20Leonhard%20Veith%20August%201959.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q69039
+  catholic_hierarchy: bstohr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:39:39+00:00'
+  completeness: 1.0

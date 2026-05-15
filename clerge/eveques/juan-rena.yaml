@@ -1,0 +1,53 @@
+slug: juan-rena
+nom: Juan Rena
+nom_complet: Juan Reina
+naissance: '1480'
+deces: '1539-01-18'
+naissance_lieu: Venecia
+deces_lieu: null
+rang: eveque
+nationalite: Q179293
+tampon: ordo_validus
+sacre:
+  date: '1535-04-25'
+  lieu: Cistercian, Monastery, Barcelona, Diocese of Barcelona
+  consecrateur_principal: juan-tormo
+  co_consecrateurs:
+  - fray-antonio-de-guevara
+  - joan-margarit-i-de-requesens
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breina.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alghero, Italy
+  du: '1534-11-13'
+  au: null
+- titre: Bishop of Pamplona, Spain
+  du: '1538-06-05'
+  au: '1539-01-18'
+- titre: évêque de Pampelune
+  du: '1538-06-15'
+  au: null
+- titre: vicaire général
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Alghero
+  du: '1534-11-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752359
+  catholic_hierarchy: breina
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:49+00:00'
+  completeness: 0.88

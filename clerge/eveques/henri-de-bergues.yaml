@@ -1,0 +1,48 @@
+slug: henri-de-bergues
+nom: Henri de Bergues
+nom_complet: Henri de Berghes
+naissance: '1449'
+deces: '1502-10-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1480-10-01'
+  consecrateur_principal: ferry-cardinal-de-clugny
+  co_consecrateurs:
+  - libert-van-broechem-o-f-m
+  - godefroid-greveray-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberghh.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Bergues
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cambrai, France
+  du: '1480-06-17'
+  au: '1502-10-07'
+- titre: évêque diocésain
+  du: '1480-06-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20III.%20von%20Glymes%20und%20sein%20Bruder%20Henri%20de%20Berghes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3132218
+  catholic_hierarchy: bberghh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:43+00:00'
+  completeness: 0.88

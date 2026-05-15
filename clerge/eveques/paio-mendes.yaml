@@ -1,0 +1,37 @@
+slug: paio-mendes
+nom: Paio Mendes
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1115'
+  consecrateur_principal: bernardo-de-sedirac-de-cluny-o-s-b
+  co_consecrateurs:
+  - jerome-de-perigord
+  - raimundo-de-sauvetat-o-s-b
+  - non-indexe-e1ebb732
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmendesp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Braga, Portugal
+  du: 1115&sup1;
+  au: 1137&sup2;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bmendesp
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:50:18+00:00'
+  completeness: 0.75

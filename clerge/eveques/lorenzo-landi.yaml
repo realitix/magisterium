@@ -1,0 +1,43 @@
+slug: lorenzo-landi
+nom: Lorenzo Landi
+nom_complet: null
+naissance: '1567'
+deces: '1627-12-12'
+naissance_lieu: Velletri
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1612-07-29'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - ottavio-accoramboni
+  - paolo-de-curtis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blandil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fossombrone, Italy
+  du: '1612-07-04'
+  au: 12 Dec 1627&sup3;
+- titre: évêque diocésain
+  du: '1612-07-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27910826
+  catholic_hierarchy: blandil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:30:58+00:00'
+  completeness: 0.88

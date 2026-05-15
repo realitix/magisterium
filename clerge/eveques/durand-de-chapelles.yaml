@@ -1,0 +1,52 @@
+slug: durand-de-chapelles
+nom: Durand de Chapelles
+nom_complet: null
+naissance: null
+deces: '1361'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jean-cardinal-de-blauzac-blandiac
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchapeld.html
+  - https://fr.wikipedia.org/wiki/Durand_de_Chapelles
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Lizier de) Couserans (or Conserans), France
+  du: '1345-12-09'
+  au: null
+- titre: Bishop of Rieux, France
+  du: '1348-09-17'
+  au: null
+- titre: Bishop of Maguelonne, France
+  du: '1353-05-15'
+  au: Jan 1361&sup3;
+- titre: évêque de Couserans
+  du: '1345-12-17'
+  au: '1348-01-01'
+- titre: évêque de Rieux
+  du: '1348-09-25'
+  au: '1361-01-01'
+- titre: évêque de Maguelone
+  du: '1353-05-23'
+  au: '1361-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781168
+  catholic_hierarchy: bchapeld
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:29+00:00'
+  completeness: 0.5

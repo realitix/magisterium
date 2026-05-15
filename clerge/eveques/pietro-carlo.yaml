@@ -1,0 +1,43 @@
+slug: pietro-carlo
+nom: Pietro Carlo
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1470-09-16'
+  consecrateur_principal: maffeo-gherardi
+  co_consecrateurs:
+  - petrus-frigerio-o-p
+  - francesco-contarini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarlop.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caorle, Italy
+  du: '1470-07-10'
+  au: May 1513&sup3;
+- titre: évêque de Caorle
+  du: '1470-07-19'
+  au: '1513-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25344512
+  catholic_hierarchy: bcarlop
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:22:56+00:00'
+  completeness: 0.75

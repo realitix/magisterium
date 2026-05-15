@@ -1,0 +1,48 @@
+slug: fernand-franck
+nom: Fernand Franck
+nom_complet: null
+naissance: '1934-05-06'
+deces: null
+naissance_lieu: Esch-sur-Alzette
+deces_lieu: null
+rang: archeveque
+nationalite: Q32
+tampon: ordo_dubius
+sacre:
+  date: '1991-02-02'
+  consecrateur_principal: jean-hengen
+  co_consecrateurs:
+  - jose-tomas-sanchez
+  - hermann-josef-spital
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranck.html
+  - https://fr.wikipedia.org/wiki/Fernand_Franck
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Luxembourg
+  du: '1990-12-21'
+  au: null
+- titre: archevêque de Luxembourg
+  du: '1991-02-02'
+  au: '2011-07-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Archbishop%20Fernand%20Franck.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q328868
+  catholic_hierarchy: bfranck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:55:43+00:00'
+  completeness: 0.88

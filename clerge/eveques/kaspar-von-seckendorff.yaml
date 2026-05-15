@@ -1,0 +1,52 @@
+slug: kaspar-von-seckendorff
+nom: Kaspar von Seckendorff
+nom_complet: null
+naissance: '1542-07-14'
+deces: '1595-04-28'
+naissance_lieu: Simmelsdorf
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1593-01-10'
+  lieu: Cathedral, Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: lorenz-eiszepf
+  co_consecrateurs:
+  - bartholomaus-scholl
+  - sebastian-breuning
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseck.html
+  - https://fr.wikipedia.org/wiki/Kaspar_von_Seckendorff
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: null
+  au: '1595-04-28'
+- titre: évêque diocésain
+  du: '1590-08-13'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Grabplatte%20des%20Eichst%C3%A4tter%20F%C3%BCrstbischofs%20Kaspar%20von%20Seckendorf.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1735136
+  catholic_hierarchy: bseck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:07:22+00:00'
+  completeness: 1.0

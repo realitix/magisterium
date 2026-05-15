@@ -1,0 +1,45 @@
+slug: thomas-fowler
+nom: Thomas Fowler
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1505-06-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthmsl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Lachorens
+  du: '1505-06-06'
+  au: null
+- titre: Auxiliary Bishop of Hereford, England, Great Britain
+  du: '1517-01-10'
+  au: 1520&sup2;
+- titre: évêque titulaire
+  du: '1505-06-06'
+  au: null
+- titre: évêque auxiliaire
+  du: '1517-01-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911381
+  catholic_hierarchy: bthmsl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:57:49+00:00'
+  completeness: 0.25

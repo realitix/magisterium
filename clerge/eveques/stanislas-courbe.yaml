@@ -1,0 +1,58 @@
+slug: stanislas-courbe
+nom: Stanislas Courbe
+nom_complet: null
+naissance: '1886-09-08'
+deces: '1971-04-22'
+naissance_lieu: Fribourg, Diocese of Lausanne et Genève, Switzerland
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1943-08-17'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: emmanuel-suhard
+  co_consecrateurs:
+  - paul-richaud
+  - georges-debray
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcourbe.html
+  - https://fr.wikipedia.org/wiki/Stanislas_Courbe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paris, France
+  du: '1943-06-22'
+  au: null
+- titre: Titular Bishop of Castoria
+  du: '1943-06-22'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Paris, France
+  du: null
+  au: '1971-04-22'
+- titre: évêque titulaire
+  du: '1943-06-22'
+  au: '1971-04-22'
+- titre: évêque auxiliaire de Paris
+  du: '1943-06-22'
+  au: '1970-12-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Stanislas%20Courbe%20dans%20La%20Croix%20du%2010%20octobre%201931.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3496657
+  catholic_hierarchy: bcourbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:11:53+00:00'
+  completeness: 1.0

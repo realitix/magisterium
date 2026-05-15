@@ -1,0 +1,46 @@
+slug: giovanni-sodo
+nom: Giovanni Sodo
+nom_complet: null
+naissance: '1862-01-23'
+deces: '1930-07-24'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Portici
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1915-06-29'
+  consecrateur_principal: gennaro-granito-pignatelli-di-belmonte
+  co_consecrateurs:
+  - pietro-alfonso-jorio
+  - angelo-struffolini-d-c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsodo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ascoli Satriano e Cerignola, Italy
+  du: '1915-06-02'
+  au: '1930-07-24'
+- titre: Apostolic Administrator of Troia, Italy
+  du: '1918-12-09'
+  au: '1919-08-10'
+- titre: évêque diocésain
+  du: '1915-06-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733349
+  catholic_hierarchy: bsodo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:25:55+00:00'
+  completeness: 1.0

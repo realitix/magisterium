@@ -1,0 +1,50 @@
+slug: anton-durcovici
+nom: Anton Durcovici
+nom_complet: Bl. Anton Durcovici
+naissance: '1888-05-17'
+deces: '1951-12-10'
+naissance_lieu: Bad Deutsch-Altenburg, Austria
+deces_lieu: Prison, Sighet
+rang: eveque
+nationalite: Q218
+tampon: ordo_validus
+sacre:
+  date: '1948-04-05'
+  lieu: Sfântul Iosif, Cathedral, Bucarest {Bucure&#351;ti}, Archdiocese of Bucarest
+    {Bucure&#351;ti}
+  consecrateur_principal: gerald-patrick-o-hara
+  co_consecrateurs:
+  - alexandru-cisar
+  - marcu-glaser
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdurc.html
+  - https://fr.wikipedia.org/wiki/Anton_Durcovici
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ia&#351;i, Romania
+  du: '1947-10-30'
+  au: '1951-12-10'
+- titre: évêque de Iași
+  du: '1947-10-30'
+  au: '1951-12-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vescovo%20Anton%20Durcovici.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q589043
+  catholic_hierarchy: bdurc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:15:27+00:00'
+  completeness: 1.0

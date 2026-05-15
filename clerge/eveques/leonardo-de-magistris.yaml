@@ -1,0 +1,45 @@
+slug: leonardo-de-magistris
+nom: Leonardo de Magistris
+nom_complet: null
+naissance: null
+deces: '1554'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1540-04-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagisl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Capri, Italy
+  du: '1540-02-13'
+  au: null
+- titre: Bishop of Alessano, Italy
+  du: '1551-08-21'
+  au: 1554&sup1;
+- titre: évêque diocésain
+  du: '1540-02-23'
+  au: null
+- titre: évêque diocésain
+  du: '1551-08-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24963305
+  catholic_hierarchy: bmagisl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:08+00:00'
+  completeness: 0.38

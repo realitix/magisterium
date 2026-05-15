@@ -1,0 +1,48 @@
+slug: john-neumann
+nom: John Neumann
+nom_complet: St. John Nepomucene Neumann, C.Ss.R.
+naissance: '1811-03-28'
+deces: '1860-01-05'
+naissance_lieu: Prachatitz, Czechia
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1852-03-28'
+  lieu: St. Alphonse, Archdiocese of Baltimore, Maryland
+  consecrateur_principal: francis-patrick-kenrick
+  co_consecrateurs:
+  - bernard-o-rsquo-reilly-1803
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneumann.html
+  - https://fr.wikipedia.org/wiki/Jean_N%C3%A9pomuc%C3%A8ne_Neumann
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Philadelphia, Pennsylvania, USA
+  du: '1852-02-13'
+  au: '1860-01-05'
+- titre: Roman Catholic Bishop of Philadelphia
+  du: '1852-02-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Nepomuk%20Neumann.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q558256
+  catholic_hierarchy: bneumann
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:25+00:00'
+  completeness: 1.0

@@ -1,0 +1,38 @@
+slug: deodato-bocconi
+nom: Deodato Bocconi
+nom_complet: Deodato Bocconi (Boctoni), O.S.M.
+naissance: null
+deces: '1477'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboccond.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ajaccio, France
+  du: '1457-05-20'
+  au: 1477&sup1;
+- titre: évêque d'Ajaccio
+  du: '1457-05-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24886077
+  catholic_hierarchy: bboccond
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:32:47+00:00'
+  completeness: 0.25

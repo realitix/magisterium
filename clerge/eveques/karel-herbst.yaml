@@ -1,0 +1,53 @@
+slug: karel-herbst
+nom: Karel Herbst
+nom_complet: Karel Herbst, S.D.B.
+naissance: '1943-11-06'
+deces: null
+naissance_lieu: Prague
+deces_lieu: null
+rang: eveque
+nationalite: Q33946
+tampon: ordo_dubius
+sacre:
+  date: '2002-04-06'
+  consecrateur_principal: miloslav-vlk
+  co_consecrateurs:
+  - frantisek-radkovsky
+  - erwin-josef-ender
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bherbstk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Praha {Prague}, Czechia
+  du: '2002-02-19'
+  au: '2016-12-01'
+- titre: Titular Bishop of Siccesi
+  du: '2002-02-19'
+  au: null
+- titre: évêque auxiliaire
+  du: '2002-02-19'
+  au: '2016-12-01'
+- titre: évêque titulaire
+  du: '2002-02-19'
+  au: null
+fraternite: salesiens
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Peplum%20Karel%20Herbst%20cropped.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1725252
+  catholic_hierarchy: bherbstk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:40:07+00:00'
+  completeness: 0.88

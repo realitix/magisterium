@@ -1,0 +1,42 @@
+slug: reinhard-von-sayn
+nom: Reinhard von Sayn
+nom_complet: null
+naissance: '1350'
+deces: '1390-08-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1389-10-21'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsayn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chelmno (Culma, Kulm), Poland
+  du: 1385&sup2;
+  au: '1390-08-24'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Chelmno
+  du: '1385-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2141155
+  catholic_hierarchy: bsayn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:34+00:00'
+  completeness: 0.5

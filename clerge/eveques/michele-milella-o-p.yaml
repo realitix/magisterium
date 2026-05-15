@@ -1,0 +1,44 @@
+slug: michele-milella-o-p
+nom: Michele Milella, O.P.
+nom_complet: Michele Milella
+naissance: '1815-09-01'
+deces: '1888-04-02'
+naissance_lieu: Bari, Archdiocese of Bari (-Canosa)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1859-07-03'
+  lieu: La Minerve, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-d-andrea
+  co_consecrateurs:
+  - melchiade-ferlisi
+  - giuseppe-rotondo-rotundo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmilel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teramo, Italy
+  du: null
+  au: '1888-04-02'
+- titre: Roman Catholic Bishop of Teramo
+  du: '1859-04-18'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64745156
+  catholic_hierarchy: bmilel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:37+00:00'
+  completeness: 1.0

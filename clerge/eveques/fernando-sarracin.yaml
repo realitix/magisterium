@@ -1,0 +1,43 @@
+slug: fernando-sarracin
+nom: Fernando Sarracín
+nom_complet: null
+naissance: '1300'
+deces: '1318-10-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: '1301-04-17'
+  consecrateur_principal: benedict-xi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsarrac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: '1301-04-17'
+  au: '1318-10-17'
+- titre: évêque de Ségovie
+  du: '1301-04-25'
+  au: null
+- titre: Canon of the Segovia cathedral
+  du: null
+  au: '1301-04-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5860230
+  catholic_hierarchy: bsarrac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:54:24+00:00'
+  completeness: 0.75

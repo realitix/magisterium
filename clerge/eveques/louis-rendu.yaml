@@ -1,0 +1,52 @@
+slug: louis-rendu
+nom: Louis Rendu
+nom_complet: null
+naissance: '1789-12-09'
+deces: '1859-08-28'
+naissance_lieu: Meyrin près Genève, Diocese of Belley
+deces_lieu: null
+rang: eveque
+nationalite: Q2577303
+tampon: ordo_validus
+sacre:
+  date: '1843-04-09'
+  lieu: Cathedral, Diocese of Annecy
+  consecrateur_principal: alexis-billiet
+  co_consecrateurs:
+  - jean-francois-turinaz
+  - francois-marie-vibert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brendu.html
+  - https://fr.wikipedia.org/wiki/Louis_Rendu
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Annecy, France
+  du: null
+  au: '1859-08-28'
+- titre: secrétaire perpétuel
+  du: '1839-01-01'
+  au: '1842-01-01'
+- titre: évêque d'Annecy
+  du: '1843-01-27'
+  au: '1859-08-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20di%20Louis%20Rendu%2C%201843%20-%20Accademia%20delle%20Scienze%20di%20Torino%20-%20Ritratti%200123%20B.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3262997
+  catholic_hierarchy: brendu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:08:38+00:00'
+  completeness: 1.0

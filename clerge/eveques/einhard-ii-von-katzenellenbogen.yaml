@@ -1,0 +1,41 @@
+slug: einhard-ii-von-katzenellenbogen
+nom: Einhard II. von Katzenellenbogen
+nom_complet: Einhard von Katzenellenbogen
+naissance: null
+deces: '1067-02-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkatzen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: 1060&sup1;
+  au: '1067-02-23'
+- titre: évêque de Spire
+  du: '1060-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1307623
+  catholic_hierarchy: bkatzen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:09:13+00:00'
+  completeness: 0.38

@@ -1,0 +1,49 @@
+slug: filippo-roccabella
+nom: Filippo Roccabella
+nom_complet: null
+naissance: null
+deces: '1571'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1546-08-22'
+  consecrateur_principal: giovanni-giacomo-barba-o-s-a
+  co_consecrateurs:
+  - giovanni-andrea-mercurio
+  - jerome-buccaurati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/briccabf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Macerata, Italy
+  du: '1546-01-27'
+  au: null
+- titre: Bishop of Recanati, Italy
+  du: '1553-03-06'
+  au: 1571&sup2;
+- titre: évêque diocésain
+  du: '1553-03-16'
+  au: null
+- titre: évêque diocésain
+  du: '1546-02-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61627727
+  catholic_hierarchy: briccabf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:12:07+00:00'
+  completeness: 0.75

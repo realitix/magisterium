@@ -1,0 +1,43 @@
+slug: adriano-fuscone
+nom: Adriano Fuscone
+nom_complet: null
+naissance: null
+deces: '1578'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1554-12-16'
+  consecrateur_principal: giovanni-michele-saraceni
+  co_consecrateurs:
+  - ascanio-ferrari
+  - giovanni-andrea-croce
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfuscone.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aquino, Italy
+  du: '1552-10-22'
+  au: 1578&sup1;
+- titre: Roman Catholic Bishop of Aquino
+  du: '1552-11-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61710111
+  catholic_hierarchy: bfuscone
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:01:39+00:00'
+  completeness: 0.75

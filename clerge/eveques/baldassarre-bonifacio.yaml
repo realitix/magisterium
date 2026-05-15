@@ -1,0 +1,48 @@
+slug: baldassarre-bonifacio
+nom: Baldassarre Bonifacio
+nom_complet: Baldassarre Bonifazio
+naissance: '1585-01-05'
+deces: '1659-11-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1653-11-30'
+  consecrateur_principal: marcantonio-bragadin
+  co_consecrateurs:
+  - giovanni-battista-alfieri
+  - giorgio-giorgicci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonifaz.html
+  - https://fr.wikipedia.org/wiki/Baldassare_Bonifacio
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Capodistria (Capo d&rsquo;Istria)(Koper), Slovenia
+  du: '1653-11-23'
+  au: 1659&sup1;
+- titre: évêque de Capodistria
+  du: '1653-11-23'
+  au: '1659-11-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Legloriedegliinc00picc%200094.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3633250
+  catholic_hierarchy: bbonifaz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:38:04+00:00'
+  completeness: 0.75

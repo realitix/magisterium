@@ -1,0 +1,49 @@
+slug: vincent-gelat
+nom: Vincent Gelat
+nom_complet: null
+naissance: '1885-08-19'
+deces: '1968-01-19'
+naissance_lieu: Jaffa, Patriarchate of Jerusalem {Gerusalemme}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1948-06-27'
+  lieu: Cathedral, Gerusalem, Patriarchate of Jerusalem {Gerusalemme}
+  consecrateur_principal: gustavo-testa
+  co_consecrateurs:
+  - paul-salman
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgelat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Jerusalem {Gerusalemme}, Palestine
+  du: '1948-04-30'
+  au: '1968-01-19'
+- titre: Titular Bishop of Menois
+  du: '1948-04-30'
+  au: null
+- titre: évêque auxiliaire
+  du: '1948-04-30'
+  au: null
+- titre: évêque titulaire
+  du: '1948-04-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736303
+  catholic_hierarchy: bgelat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:15:58+00:00'
+  completeness: 1.0

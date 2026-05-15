@@ -1,0 +1,44 @@
+slug: salvatore-tolu
+nom: Salvatore Tolu
+nom_complet: null
+naissance: '1848-05-24'
+deces: '1914-01-30'
+naissance_lieu: Cargeghe, Archdiocese of Sassari
+deces_lieu: Sassari, Archdiocese of Sassari
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1899-12-21'
+  lieu: Montecitorio, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - giustino-adami
+  - enrico-grazioli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btolu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Oristano, Italy
+  du: '1899-06-19'
+  au: '1914-01-30'
+- titre: archevêque d'Oristano
+  du: '1899-12-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29958641
+  catholic_hierarchy: btolu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:02:56+00:00'
+  completeness: 1.0

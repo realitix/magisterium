@@ -1,0 +1,48 @@
+slug: jean-d-eppes
+nom: Jean d'Eppes
+nom_complet: Jean d&rsquo;Eppé de Rumigny
+naissance: '1188'
+deces: '1238-05-01'
+naissance_lieu: null
+deces_lieu: Château, Dinant
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1230-03-24'
+  lieu: S. Théodard, Church, Thuin
+  consecrateur_principal: non-indexe-9b1820b6
+  co_consecrateurs:
+  - godefroid-de-fontaines
+  - gauthier-de-marsivius-marvisius
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brumig.html
+  - https://fr.wikipedia.org/wiki/Jean_d%27Eppes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1229-04-17'
+  au: '1238-05-01'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Liège
+  du: '1229-04-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2075896
+  catholic_hierarchy: brumig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:36:16+00:00'
+  completeness: 0.88

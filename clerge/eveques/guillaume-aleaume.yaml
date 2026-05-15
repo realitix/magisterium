@@ -1,0 +1,50 @@
+slug: guillaume-aleaume
+nom: Guillaume Aleaume
+nom_complet: Guillaume Aléaume
+naissance: '1586'
+deces: '1634-08-29'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-11-15'
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - henri-de-gondi
+  - rene-breslay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baleaume.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Aleaume
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Riez, France
+  du: '1615-05-18'
+  au: 1622&sup2;
+- titre: Bishop of Lisieux, France
+  du: '1622-03-14'
+  au: '1634-08-29'
+- titre: évêque de Lisieux
+  du: '1622-03-14'
+  au: null
+- titre: évêque de Riez
+  du: '1615-05-18'
+  au: '1622-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3119630
+  catholic_hierarchy: baleaume
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:28:49+00:00'
+  completeness: 0.88

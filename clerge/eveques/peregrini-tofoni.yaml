@@ -1,0 +1,44 @@
+slug: peregrini-tofoni
+nom: Peregrini Tofoni
+nom_complet: null
+naissance: '1820-02-19'
+deces: '1883-01-31'
+naissance_lieu: Grottazzolina, Archdiocese of Fermo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1880-08-29'
+  lieu: S. Maria in ara coeli, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-maria-bilio
+  co_consecrateurs:
+  - placido-maria-schiaffino
+  - placido-petacci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btofoni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Assisi, Italy
+  du: '1880-08-20'
+  au: '1883-01-31'
+- titre: Roman Catholic Bishop of Assisi
+  du: '1880-08-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735155
+  catholic_hierarchy: btofoni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:02:10+00:00'
+  completeness: 1.0

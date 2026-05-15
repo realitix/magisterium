@@ -1,0 +1,52 @@
+slug: jean-pierre-mabile
+nom: Jean-Pierre Mabile
+nom_complet: null
+naissance: '1800-09-20'
+deces: '1877-05-08'
+naissance_lieu: Rurey
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1851-11-11'
+  lieu: Montauban, Diocese of Montauban
+  consecrateur_principal: jean-marie-doney
+  co_consecrateurs:
+  - jean-aime-de-levezou-de-vezins
+  - henri-de-bonnechose
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmabile.html
+  - https://fr.wikipedia.org/wiki/Jean-Pierre_Mabile
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Versailles, France
+  du: null
+  au: '1877-05-08'
+- titre: évêque de Saint-Claude
+  du: '1851-07-09'
+  au: null
+- titre: évêque de Versailles
+  du: '1858-01-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gravure%20de%20Mgr%20Jean-Pierre%20Mabile.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3169529
+  catholic_hierarchy: bmabile
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:07:43+00:00'
+  completeness: 1.0

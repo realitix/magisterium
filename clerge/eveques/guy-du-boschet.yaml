@@ -1,0 +1,39 @@
+slug: guy-du-boschet
+nom: Guy du Boschet
+nom_complet: Guy du Bouchet
+naissance: null
+deces: '1484-01-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbouchetg.html
+  - https://fr.wikipedia.org/wiki/Guy_du_Boschet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quimper, France
+  du: '1479-03-31'
+  au: '1484-01-10'
+- titre: évêque diocésain
+  du: '1479-04-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30726996
+  catholic_hierarchy: bbouchetg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:43:42+00:00'
+  completeness: 0.38

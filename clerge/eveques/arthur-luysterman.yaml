@@ -1,0 +1,53 @@
+slug: arthur-luysterman
+nom: Arthur Luysterman
+nom_complet: null
+naissance: '1932-03-18'
+deces: null
+naissance_lieu: Meerbeke
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '1990-10-21'
+  consecrateur_principal: leonce-albert-van-peteghem
+  co_consecrateurs:
+  - godfried-danneels
+  - robert-joseph-mathen
+  - jean-huard
+  - paul-van-den-berghe
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluy.html
+  - https://fr.wikipedia.org/wiki/Arthur_Luysterman
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1990-07-13'
+  au: null
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: null
+  au: '2003-12-19'
+- titre: évêque diocésain
+  du: '1991-12-27'
+  au: '2003-12-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PM%20NE%201220%2022.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q329062
+  catholic_hierarchy: bluy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:06:24+00:00'
+  completeness: 0.88

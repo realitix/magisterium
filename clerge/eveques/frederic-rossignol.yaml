@@ -1,0 +1,49 @@
+slug: frederic-rossignol
+nom: Frédéric Rossignol
+nom_complet: Frédéric Pierre Rossignol, C.S.Sp.
+naissance: '1974-01-05'
+deces: null
+naissance_lieu: Berchem-Sainte-Agathe
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_dubius
+sacre:
+  date: '2025-12-14'
+  lieu: Notre-Dame, Cathedral, Tournai, Diocese of Tournai {Doornik}
+  consecrateur_principal: luc-terlinden
+  co_consecrateurs:
+  - guy-harpigny
+  - oscar-ngoy-wa-mpanga
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brossign.html
+  - https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Rossignol
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '2025-10-06'
+  au: null
+- titre: évêque de Tournai
+  du: '2025-10-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Charleroi%20-%20%C3%A9glise%20Saint-Christophe%20-%20messe%20chrismale%20-%20Fr%C3%A9d%C3%A9ric%20Rossignol%20-%202026-03-31%20-%2001.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q136445507
+  catholic_hierarchy: brossign
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:29:40+00:00'
+  completeness: 0.88

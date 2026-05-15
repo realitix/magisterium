@@ -1,0 +1,46 @@
+slug: adam-betz-petz
+nom: Adam Betz (Petz)
+nom_complet: Adam Betz
+naissance: null
+deces: '1626-11-25'
+naissance_lieu: Luxembourg
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-02-05'
+  consecrateur_principal: antoine-fournier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpetz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Strasbourg, France
+  du: '1605-07-18'
+  au: '1626-11-25'
+- titre: Titular Bishop of Tripolis in Phoenicia
+  du: '1605-07-18'
+  au: null
+- titre: évêque titulaire de Tripoli
+  du: '1605-07-18'
+  au: null
+- titre: évêque auxiliaire de Strasbourg
+  du: '1605-07-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777677
+  catholic_hierarchy: bpetz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:27:36+00:00'
+  completeness: 0.75

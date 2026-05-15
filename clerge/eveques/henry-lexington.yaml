@@ -1,0 +1,45 @@
+slug: henry-lexington
+nom: Henry Lexington
+nom_complet: Henry of Lexington
+naissance: '1200'
+deces: '1258-08-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1254-05-17'
+  consecrateur_principal: boniface-of-savoy
+  co_consecrateurs:
+  - fulk-bassett
+  - walter-de-cantilupe
+  - walter-suffield
+  - william-of-bitton-i
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blexingt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1253-12-30'
+  au: '1258-08-08'
+- titre: évêque de Lincoln
+  du: '1254-01-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5730870
+  catholic_hierarchy: blexingt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:02+00:00'
+  completeness: 0.88

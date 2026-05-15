@@ -1,0 +1,53 @@
+slug: luigi-bruno
+nom: Luigi Bruno
+nom_complet: null
+naissance: '1824-03-01'
+deces: '1893-01-10'
+naissance_lieu: Battaglia, Diocese of Policastro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-04-02'
+  lieu: Tor dei Specchi, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - giulio-lenti
+  - placido-maria-schiaffino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrunl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Ruvo e Bitonto, Italy
+  du: '1882-03-27'
+  au: null
+- titre: Titular Bishop of Madaurus
+  du: '1882-03-27'
+  au: null
+- titre: Bishop of Ruvo e Bitonto, Italy
+  du: null
+  au: '1893-01-10'
+- titre: évêque titulaire
+  du: '1882-03-27'
+  au: null
+- titre: Roman Catholic Bishop of Ruvo and Bitonto
+  du: '1884-07-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707878
+  catholic_hierarchy: bbrunl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:55:41+00:00'
+  completeness: 1.0

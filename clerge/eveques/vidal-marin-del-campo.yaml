@@ -1,0 +1,46 @@
+slug: vidal-marin-del-campo
+nom: Vidal Marín del Campo
+nom_complet: Vidal Marín Fernández
+naissance: '1653-02-22'
+deces: '1709-03-10'
+naissance_lieu: Mora
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1694-12-19'
+  consecrateur_principal: jaime-de-palafox-y-cardona
+  co_consecrateurs:
+  - manuel-torquemada-o-de-m
+  - francisco-rodriguez-pizano-o-s
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmafev.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ceuta, Spain
+  du: '1694-09-13'
+  au: '1709-03-10'
+- titre: grand inquisiteur d'Espagne
+  du: null
+  au: null
+- titre: évêque de Ceuta
+  du: '1694-09-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q600280
+  catholic_hierarchy: bmafev
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:11:56+00:00'
+  completeness: 1.0

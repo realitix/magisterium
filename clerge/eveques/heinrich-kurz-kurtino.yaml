@@ -1,0 +1,46 @@
+slug: heinrich-kurz-kurtino
+nom: Heinrich Kurz (Kurtino)
+nom_complet: Heinrich Kurz
+naissance: '1500'
+deces: '1557-07-21'
+naissance_lieu: Regensburg
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1526-03-24'
+  consecrateur_principal: hieronymus-meitting
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brutil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Passau, Germany
+  du: '1526-03-14'
+  au: '1557-07-21'
+- titre: Titular Bishop of Christopolis
+  du: '1526-03-14'
+  au: null
+- titre: évêque titulaire
+  du: '1526-03-24'
+  au: null
+- titre: évêque auxiliaire
+  du: '1526-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27493930
+  catholic_hierarchy: brutil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:37:31+00:00'
+  completeness: 0.5

@@ -1,0 +1,41 @@
+slug: balduin-von-russel
+nom: Balduin von Rüssel
+nom_complet: null
+naissance: null
+deces: '1264-02-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brusse.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osnabrück, Germany
+  du: '1259-06-23'
+  au: '1264-02-13'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque d'Osnabrück
+  du: '1259-06-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910148
+  catholic_hierarchy: brusse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:37:00+00:00'
+  completeness: 0.38

@@ -1,0 +1,42 @@
+slug: simon-de-schoneck
+nom: Simon de Schöneck
+nom_complet: Simon von Schöneck
+naissance: '1200'
+deces: '1291-10-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschoneck.html
+  - https://fr.wikipedia.org/wiki/Simon_de_Sch%C3%B6neck
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: 1 Aug 1283&#8310;
+  au: '1291-10-22'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1283-08-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2287972
+  catholic_hierarchy: bschoneck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:03:14+00:00'
+  completeness: 0.38

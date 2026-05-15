@@ -1,0 +1,58 @@
+slug: marcel-herriot
+nom: Marcel Herriot
+nom_complet: Marcel Paul Herriot
+naissance: '1934-05-18'
+deces: '2017-09-14'
+naissance_lieu: Moussey
+deces_lieu: Saint-Dié, Diocese of Saint-Dié
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1987-06-28'
+  lieu: Cathedral, Verdun, Diocese of Verdun
+  consecrateur_principal: jean-vilnet
+  co_consecrateurs:
+  - pierre-boillon
+  - paul-marie-guillaume
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bherriot.html
+  - https://fr.wikipedia.org/wiki/Marcel_Herriot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1987-05-25'
+  au: null
+- titre: Bishop of Soissons (-Laon-Saint-Quentin), France
+  du: '1999-04-29'
+  au: '2008-02-22'
+- titre: Bishop Emeritus of Soissons (-Laon-Saint-Quentin), France
+  du: null
+  au: '2017-09-14'
+- titre: évêque diocésain
+  du: '1999-04-29'
+  au: '2008-02-22'
+- titre: évêque de Verdun
+  du: '1987-05-25'
+  au: '1999-04-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Image-Mgr%20Marcl%20Herriot.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1893044
+  catholic_hierarchy: bherriot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:41:32+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: giovanni-battista-visco
+nom: Giovanni Battista Visco
+nom_complet: Juan Bautista Verchi de Campania (Visco), O.F.M.
+naissance: '1601'
+deces: '1663'
+naissance_lieu: Campania
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1641-06-02'
+  lieu: Tortosa, Diocese of Tortosa, Spain
+  consecrateur_principal: bernardo-caballero-paredes
+  co_consecrateurs:
+  - diego-serrano-sotomayor-o-de-m
+  - jacinto-minuarte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bverchi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pozzuoli, Italy
+  du: null
+  au: 1663&sup1;
+- titre: évêque diocésain
+  du: '1651-03-05'
+  au: null
+- titre: évêque diocésain
+  du: '1639-10-28'
+  au: null
+- titre: évêque de Tortosa
+  du: null
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q3766779
+  catholic_hierarchy: bverchi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:45+00:00'
+  completeness: 0.75

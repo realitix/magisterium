@@ -1,0 +1,44 @@
+slug: santo-de-inzillo
+nom: Santo de Inzillo
+nom_complet: Santo d&rsquo;Inzillo
+naissance: '1694-11-01'
+deces: '1755'
+naissance_lieu: Soriano, Diocese of Mileto, Italy
+deces_lieu: null
+rang: eveque
+nationalite: Q173065
+tampon: ordo_validus
+sacre:
+  date: '1728-12-19'
+  lieu: San Domenico Soriano, Church, Napoli, Archdiocese of Napoli {Naples}, Italy
+  consecrateur_principal: ercole-michele-d-rsquo-aragona
+  co_consecrateurs:
+  - domenico-antonio-berretti
+  - michael-angelus-de-martino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/binz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Mylasa
+  du: '1728-11-15'
+  au: 1755&sup1;
+- titre: évêque titulaire
+  du: '1728-11-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3949532
+  catholic_hierarchy: binz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:54:03+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: cipriano-sanchez-varela
+nom: Cipriano Sánchez Varela
+nom_complet: null
+naissance: '1776-09-16'
+deces: '1848-03-13'
+naissance_lieu: San Lorenzo del Escorial, Archdiocese of Toledo
+deces_lieu: Cádiz, Diocese of Cádiz
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1826-10-22'
+  lieu: Santo Tomás, Convent, Madrid, Archdiocese of Toledo
+  consecrateur_principal: pedro-inguanzo-y-rivero
+  co_consecrateurs:
+  - antonio-sanchez-matas-o-f-m-obs
+  - joaquin-abarca
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanchezv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Plasencia, Spain
+  du: null
+  au: '1848-03-13'
+- titre: évêque de Plasencia
+  du: '1826-05-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910361
+  catholic_hierarchy: bsanchezv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:47:44+00:00'
+  completeness: 1.0

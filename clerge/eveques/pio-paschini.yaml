@@ -1,0 +1,58 @@
+slug: pio-paschini
+nom: Pio Paschini
+nom_complet: null
+naissance: '1878-03-02'
+deces: '1962-12-14'
+naissance_lieu: Tolmezzo, Archdiocese of Udine, Italy
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1962-10-07'
+  lieu: San Giovanni in Laterano, Cathedral Basilica, Roma, Diocese of Roma {Rome},
+    Italy
+  consecrateur_principal: benedetto-aloisi-masella
+  co_consecrateurs:
+  - edoardo-tonna
+  - giuseppe-burzio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaschi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Rector of the Pontifical Lateran University
+  du: 1932&sup2;
+  au: null
+- titre: President of the Pontifical Committee for Historical Sciences
+  du: 1954&sup2;
+  au: '1962-12-14'
+- titre: Titular Bishop of Eudoxias
+  du: '1962-08-20'
+  au: null
+- titre: évêque titulaire
+  du: '1962-08-20'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PaschiniPio.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3905386
+  catholic_hierarchy: bpaschi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:11:31+00:00'
+  completeness: 1.0

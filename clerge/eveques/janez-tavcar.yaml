@@ -1,0 +1,51 @@
+slug: janez-tavcar
+nom: Janez Tavčar
+nom_complet: Janez Tav&#269;ar (Tautscher)
+naissance: '1544'
+deces: '1597-08-24'
+naissance_lieu: "\x8Atanjel na Krasu, Patriarchate of Aquileia, Italy"
+deces_lieu: Gratz, Diocese of Seckau, Austria
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1580-08-15'
+  lieu: Church, Gorizia, Patriarchate of Aquileia, Italy
+  consecrateur_principal: paolo-bisanti
+  co_consecrateurs:
+  - giulio-superchio
+  - nicolo-coret
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btavcar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ljubljana (Laybach; Laibach), Slovenia
+  du: '1580-05-20'
+  au: '1597-08-24'
+- titre: Bishop of Laibach
+  du: '1580-05-30'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Janez%20Tav%C4%8Dar%20%28crop%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3807032
+  catholic_hierarchy: btavcar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:52:08+00:00'
+  completeness: 0.88

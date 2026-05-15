@@ -1,0 +1,51 @@
+slug: fredrik-hansen
+nom: Fredrik Hansen
+nom_complet: null
+naissance: '1979-06-13'
+deces: null
+naissance_lieu: Drammen, Diocese of Oslo
+deces_lieu: null
+rang: eveque
+nationalite: Q20
+tampon: ordo_dubius
+sacre:
+  date: '2025-01-18'
+  lieu: Sint Olav, Cathedral, Oslo, Diocese of Oslo
+  consecrateur_principal: pietro-parolin
+  co_consecrateurs:
+  - bernt-ivar-eidsvig
+  - erik-varden
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhansenf.html
+  - https://fr.wikipedia.org/wiki/Fredrik_Hansen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Oslo, Norway
+  du: '2024-11-01'
+  au: null
+- titre: Bishop of Oslo, Norway
+  du: null
+  au: '2025-07-16'
+- titre: évêque coadjuteur
+  du: '2024-11-01'
+  au: '2025-07-16'
+- titre: évêque catholique romain d'Oslo
+  du: '2025-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q130750877
+  catholic_hierarchy: bhansenf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:33:54+00:00'
+  completeness: 0.88

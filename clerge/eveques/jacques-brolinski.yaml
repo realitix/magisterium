@@ -1,0 +1,45 @@
+slug: jacques-brolinski
+nom: Jacques Brolinski
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1546-10-08'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrolj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of P&#322;ock, Poland
+  du: '1546-10-08'
+  au: null
+- titre: Titular Bishop of Lacedaemonia
+  du: '1546-10-08'
+  au: null
+- titre: évêque auxiliaire
+  du: '1546-10-18'
+  au: null
+- titre: évêque titulaire
+  du: '1546-10-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779464
+  catholic_hierarchy: bbrolj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:53:33+00:00'
+  completeness: 0.25

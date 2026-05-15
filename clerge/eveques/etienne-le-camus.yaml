@@ -1,0 +1,51 @@
+slug: etienne-le-camus
+nom: Étienne Le Camus
+nom_complet: Étienne Cardinal Le Camus
+naissance: '1632-09-24'
+deces: '1707-09-12'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: cardinal
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1671-08-24'
+  consecrateur_principal: pierre-du-cambout-de-coislin
+  co_consecrateurs:
+  - hugues-iv-de-bar
+  - jean-armand-de-rotondis-de-biscarras
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blecam.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_Le_Camus
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grenoble, France
+  du: null
+  au: '1707-09-12'
+- titre: cardinal
+  du: '1686-09-02'
+  au: null
+- titre: évêque diocésain
+  du: '1671-01-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bmr%2041%20%C3%A9tienne%20le%20camus.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3544298
+  catholic_hierarchy: blecam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:31+00:00'
+  completeness: 1.0

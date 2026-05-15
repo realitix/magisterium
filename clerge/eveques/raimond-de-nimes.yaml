@@ -1,0 +1,39 @@
+slug: raimond-de-nimes
+nom: Raimond de Nîmes
+nom_complet: null
+naissance: null
+deces: '1288-07-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnimes.html
+  - https://fr.wikipedia.org/wiki/Raimond_de_N%C3%AEmes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: '1267-12-23'
+  au: '1288-07-15'
+- titre: évêque de Marseille
+  du: '1267-12-30'
+  au: '1288-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3417735
+  catholic_hierarchy: bnimes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:23+00:00'
+  completeness: 0.38

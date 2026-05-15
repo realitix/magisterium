@@ -1,0 +1,69 @@
+slug: imre-losy
+nom: Imre Lósy
+nom_complet: null
+naissance: '1580'
+deces: '1642-02-09'
+naissance_lieu: Losy
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1631-06-22'
+  lieu: Nagyzombyti
+  consecrateur_principal: peter-pazmany
+  co_consecrateurs:
+  - janos-telegdy
+  - janos-pyber-de-gyerkeny
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blosy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oradea Mare {Gran Varadino, Nagyvárad}, Romania
+  du: '1630-04-22'
+  au: null
+- titre: Bishop of Eger, Hungary
+  du: 1634&sup1;
+  au: null
+- titre: Archbishop of Esztergom, Hungary
+  du: '1637-11-16'
+  au: '1642-02-09'
+- titre: archevêque d'Esztergom
+  du: '1637-11-16'
+  au: null
+- titre: évêque de Csanád
+  du: '1622-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1630-04-22'
+  au: null
+- titre: évêque d'Oradea Mare
+  du: '1630-04-22'
+  au: null
+- titre: évêque d'Eger
+  du: '1634-01-01'
+  au: null
+- titre: Comte suprême de Heves
+  du: '1633-10-24'
+  au: '1637-04-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B3sy%20Imre.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1160615
+  catholic_hierarchy: blosy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:53+00:00'
+  completeness: 0.88

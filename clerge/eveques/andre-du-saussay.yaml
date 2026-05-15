@@ -1,0 +1,44 @@
+slug: andre-du-saussay
+nom: André du Saussay
+nom_complet: Andre of Saussay
+naissance: '1589'
+deces: '1675-09-09'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1656-07-16'
+  consecrateur_principal: jacques-lescot-o-s-a
+  co_consecrateurs:
+  - charles-francois-d-anglure-de-bourlemont
+  - louis-hercule-de-levis-de-ventadour
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaus.html
+  - https://fr.wikipedia.org/wiki/Andr%C3%A9_du_Saussay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toul, France
+  du: null
+  au: '1675-09-09'
+- titre: évêque de Toul
+  du: '1655-10-11'
+  au: '1675-09-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2848895
+  catholic_hierarchy: bsaus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:07+00:00'
+  completeness: 0.88

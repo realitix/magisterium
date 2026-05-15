@@ -1,0 +1,42 @@
+slug: geoffroi-de-pompadour
+nom: Geoffroi de Pompadour
+nom_complet: null
+naissance: '1496'
+deces: '1552'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpompg.html
+  - https://fr.wikipedia.org/wiki/Geoffroi_IV_de_Pompadour
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: '1550-10-20'
+  au: 1552&sup2;
+- titre: évêque de Périgueux et Sarlat
+  du: '1550-10-30'
+  au: '1552-01-01'
+- titre: évêque diocésain
+  du: '1550-10-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3101114
+  catholic_hierarchy: bpompg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:19+00:00'
+  completeness: 0.25

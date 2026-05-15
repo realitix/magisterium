@@ -1,0 +1,42 @@
+slug: maximos-fakhouri
+nom: Maximos Fakhouri
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '23'
+  consecrateur_principal: euthyme-fadel-maalouly
+  co_consecrateurs:
+  - ignace-halabi
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfakhou.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Akka (Melkite Greek), Israel
+  du: 1763&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1763-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780735
+  catholic_hierarchy: bfakhou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:29:44+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: etienne-deodat
+nom: Étienne Deodat
+nom_complet: null
+naissance: null
+deces: '1588'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1573-11-30'
+  consecrateur_principal: cristoforo-scotti
+  co_consecrateurs:
+  - guillaume-le-blanc-1520
+  - jean-de-tulles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeodate.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grasse, France
+  du: '1570-03-13'
+  au: Aug 1588&sup3;
+- titre: évêque diocésain
+  du: '1570-03-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781106
+  catholic_hierarchy: bdeodate
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:59+00:00'
+  completeness: 0.75

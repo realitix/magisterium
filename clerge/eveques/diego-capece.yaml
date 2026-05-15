@@ -1,0 +1,40 @@
+slug: diego-capece
+nom: Diego Capece
+nom_complet: null
+naissance: '1774-05-18'
+deces: '1855-09-07'
+naissance_lieu: Tempio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1833-07-14'
+  consecrateur_principal: nicolo-navoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcepece.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ampurias e Tempio, Italy
+  du: null
+  au: '1855-09-07'
+- titre: Roman Catholic Bishop of Tempio-Ampurias
+  du: '1833-02-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733541
+  catholic_hierarchy: bcepece
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:37:18+00:00'
+  completeness: 0.88

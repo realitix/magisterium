@@ -1,0 +1,48 @@
+slug: mathias-loras
+nom: Mathias Loras
+nom_complet: Pierre-Jean-Mathias Loras
+naissance: '1792-08-30'
+deces: '1858-02-19'
+naissance_lieu: Lyon, Archdiocese of Lyon, France
+deces_lieu: Dubuque, Diocese of Dubuque, Iowa
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1837-12-10'
+  lieu: Immaculate Conception, Cathedral, Mobile, Diocese of Mobile, Alabama
+  consecrateur_principal: michel-portier
+  co_consecrateurs:
+  - antoine-blanc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bloras.html
+  - https://fr.wikipedia.org/wiki/Mathias_Loras
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dubuque, Iowa, USA
+  du: '1837-07-28'
+  au: '1858-02-19'
+- titre: Roman Catholic Bishop of Dubuque
+  du: '1837-07-28'
+  au: '1858-02-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mathias%20Loras%20portrait-1.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3298582
+  catholic_hierarchy: bloras
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:59:38+00:00'
+  completeness: 1.0

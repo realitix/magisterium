@@ -1,0 +1,44 @@
+slug: alessandro-pauli
+nom: Alessandro Pauli
+nom_complet: null
+naissance: '1582'
+deces: '1645-07-23'
+naissance_lieu: Anagni
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1643-03-22'
+  lieu: Gesù, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: bernardino-cardinal-spada
+  co_consecrateurs:
+  - lelio-cardinal-falconieri
+  - alfonso-sacrati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brauli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vico Equense, Italy
+  du: '1643-02-23'
+  au: '1645-07-23'
+- titre: Roman Catholic Bishop of Vico Equense
+  du: '1643-02-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25999359
+  catholic_hierarchy: brauli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:05+00:00'
+  completeness: 0.88

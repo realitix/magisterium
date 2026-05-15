@@ -1,0 +1,47 @@
+slug: william-crean
+nom: William Crean
+nom_complet: null
+naissance: '1951-12-16'
+deces: null
+naissance_lieu: Tralee
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '2013-01-27'
+  consecrateur_principal: charles-john-brown
+  co_consecrateurs:
+  - dermot-clifford
+  - william-murphy-1936
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrean.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cloyne, Ireland
+  du: '2012-11-24'
+  au: null
+- titre: évêque de Cloyne
+  du: '2013-01-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Crean%20%2849997791221%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q128879
+  catholic_hierarchy: bcrean
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:38+00:00'
+  completeness: 0.88

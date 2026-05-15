@@ -1,0 +1,44 @@
+slug: joao-dos-prazeres
+nom: João dos Prazeres
+nom_complet: João dos Prazeres, O.F.M.
+naissance: '1648'
+deces: '1685-02-01'
+naissance_lieu: Guarda, Diocese of Guarda
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1683-05-16'
+  lieu: La Mere de Dieu, Church, Lisboa, Patriarchate of Lisboa {Lisbon}
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpraze.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angra, Portugal
+  du: '1683-03-08'
+  au: '1685-02-01'
+- titre: évêque diocésain
+  du: '1683-03-08'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20Frei%20Jo%C3%A3o%20dos%20Prazeres.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10312565
+  catholic_hierarchy: bpraze
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:17+00:00'
+  completeness: 0.5

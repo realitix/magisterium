@@ -1,0 +1,44 @@
+slug: lodovico-leonardi
+nom: Lodovico Leonardi
+nom_complet: null
+naissance: '1819-12-08'
+deces: '1898-06-01'
+naissance_lieu: San Lorenzo in Campo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-07-09'
+  lieu: Tor dei Specchi, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-maria-bilio
+  co_consecrateurs:
+  - francesco-saverio-mangeruva
+  - benedetto-mariani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleonl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bertinoro, Italy
+  du: '1882-07-03'
+  au: Jun 1898&sup3;
+- titre: évêque de Bertinoro
+  du: '1882-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745453
+  catholic_hierarchy: bleonl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:44:50+00:00'
+  completeness: 0.88

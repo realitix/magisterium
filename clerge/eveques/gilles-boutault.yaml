@@ -1,0 +1,51 @@
+slug: gilles-boutault
+nom: Gilles Boutault
+nom_complet: null
+naissance: '1597'
+deces: '1661-03-11'
+naissance_lieu: Tours, Archdiocese of Tours
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1627-03-14'
+  consecrateur_principal: gilles-de-souvre
+  co_consecrateurs:
+  - claude-de-rueil
+  - etienne-de-puget
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbout.html
+  - https://fr.wikipedia.org/wiki/Gilles_Boutault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: null
+  au: '1661-03-11'
+- titre: évêque d'Évreux
+  du: '1649-04-17'
+  au: null
+- titre: évêque d'Aire
+  du: '1626-04-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20Boutault%20%281597-1661%29%2C%20%C3%A9v%C3%AAque.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15967181
+  catholic_hierarchy: bbout
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:25+00:00'
+  completeness: 0.88

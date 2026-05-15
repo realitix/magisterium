@@ -1,0 +1,43 @@
+slug: pedro-valero
+nom: Pedro Valero
+nom_complet: null
+naissance: '1758-07-05'
+deces: '1815-08-21'
+naissance_lieu: Pozondón
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1815-06-11'
+  consecrateur_principal: atanasio-puyal-y-poveda
+  co_consecrateurs:
+  - jeronimo-maria-torres
+  - juan-nepomuceno-de-lera-y-cano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalerop.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerona, Spain
+  du: '1815-03-15'
+  au: '1815-08-21'
+- titre: évêque de Gérone
+  du: '1815-03-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734999
+  catholic_hierarchy: bvalerop
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:22:04+00:00'
+  completeness: 1.0

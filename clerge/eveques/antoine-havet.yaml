@@ -1,0 +1,44 @@
+slug: antoine-havet
+nom: Antoine Havet
+nom_complet: Antoine Havet, O.P.
+naissance: '1513'
+deces: '1578-11-30'
+naissance_lieu: Simoncourt, Pas de Calais, France
+deces_lieu: Namur, Diocese of Namur {Namen}
+rang: eveque
+nationalite: Q622783
+tampon: ordo_validus
+sacre:
+  date: '1562-06-14'
+  lieu: Saint-Sauveur, Abbey, Anchin
+  consecrateur_principal: francois-richardot
+  co_consecrateurs:
+  - martin-cuyper-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhavet.html
+  - https://fr.wikipedia.org/wiki/Antoine_Havet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '1561-03-10'
+  au: '1578-11-30'
+- titre: évêque de Namur
+  du: '1561-03-20'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q2854050
+  catholic_hierarchy: bhavet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:36:23+00:00'
+  completeness: 0.88

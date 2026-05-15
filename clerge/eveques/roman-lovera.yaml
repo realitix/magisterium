@@ -1,0 +1,41 @@
+slug: roman-lovera
+nom: Román Lovera
+nom_complet: null
+naissance: '1839-08-09'
+deces: '1892'
+naissance_lieu: Guacara, Archdiocese of Caracas, Santiago de Venezuela
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1881-01-23'
+  lieu: SS. Anna y Santiago, Caracas, Archdiocese of Caracas, Santiago de Venezuela
+  consecrateur_principal: jose-antonio-ponte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blovera.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mérida, Venezuela
+  du: '1880-08-20'
+  au: 1892&sup1;
+- titre: Roman Catholic Bishop of Mérida
+  du: '1880-08-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18708617
+  catholic_hierarchy: blovera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:26+00:00'
+  completeness: 0.75

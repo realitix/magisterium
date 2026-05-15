@@ -1,0 +1,43 @@
+slug: rodolfo-paleotti
+nom: Rodolfo Paleotti
+nom_complet: null
+naissance: null
+deces: '1619-05-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1611-07-02'
+  consecrateur_principal: giovanni-garzia-millini
+  co_consecrateurs:
+  - marco-antonio-salomone
+  - alessandro-borghi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaleot.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Imola, Italy
+  du: '1611-06-27'
+  au: '1619-05-24'
+- titre: évêque diocésain
+  du: '1611-06-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27910847
+  catholic_hierarchy: bpaleot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:04:26+00:00'
+  completeness: 0.88

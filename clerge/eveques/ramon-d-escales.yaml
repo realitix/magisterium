@@ -1,0 +1,58 @@
+slug: ramon-d-escales
+nom: Ramon d'Escales
+nom_complet: Raimundo de Escalas, O.S.A.
+naissance: '1400'
+deces: '1398'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1378-03-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bescalas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elne, France
+  du: '1377-08-07'
+  au: null
+- titre: Bishop of Lérida, Spain
+  du: '1380-10-17'
+  au: null
+- titre: Bishop of Barcelona, Spain
+  du: '1386-03-30'
+  au: '1398-07-24'
+- titre: évêque de Lérida
+  du: '1380-10-25'
+  au: null
+- titre: évêque d'Elne
+  du: '1377-08-15'
+  au: null
+- titre: évêque de Barcelone
+  du: '1386-04-07'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: augustins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ram%C3%B3n%20d%27Escales%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9066315
+  catholic_hierarchy: bescalas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:24:24+00:00'
+  completeness: 0.5

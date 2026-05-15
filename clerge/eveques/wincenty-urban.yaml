@@ -1,0 +1,59 @@
+slug: wincenty-urban
+nom: Wincenty Urban
+nom_complet: null
+naissance: '1911-02-13'
+deces: '1983-12-13'
+naissance_lieu: Grodzisko Dolne
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1960-02-07'
+  consecrateur_principal: stefan-wyszynski
+  co_consecrateurs:
+  - eugeniusz-baziak
+  - boles-aw-kominek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/burban.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Gniezno, Poland
+  du: '1959-10-21'
+  au: null
+- titre: Titular Bishop of Abitinae
+  du: '1959-10-21'
+  au: null
+- titre: Auxiliary Bishop of Wroc&#322;aw {Breslavia}, Poland
+  du: '1972-06-28'
+  au: '1983-12-13'
+- titre: évêque auxiliaire
+  du: '1972-06-28'
+  au: null
+- titre: évêque auxiliaire
+  du: '1959-10-21'
+  au: null
+- titre: évêque titulaire
+  du: '1959-10-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Urban-tablica.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2034702
+  catholic_hierarchy: burban
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:17:57+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: francois-de-lomenie
+nom: François de Loménie
+nom_complet: François de Loménie, O.P.
+naissance: '1585'
+deces: '1639-02-27'
+naissance_lieu: Limoges, Diocese of Limoges
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-09-08'
+  consecrateur_principal: francois-de-harlay-de-champvallon
+  co_consecrateurs:
+  - claude-de-rueil
+  - bruno-ruade
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blomenf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Lom%C3%A9nie
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: '1624-05-13'
+  au: '1639-02-27'
+- titre: évêque diocésain
+  du: '1624-05-13'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3086239
+  catholic_hierarchy: blomenf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:57:05+00:00'
+  completeness: 0.88

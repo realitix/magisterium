@@ -1,0 +1,44 @@
+slug: gabriel-ortiz-de-orbe
+nom: Gabriel Ortiz de Orbé
+nom_complet: null
+naissance: '1600'
+deces: '1661'
+naissance_lieu: Castello Mendieta, Archdiocese of Burgos, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1651-11-05'
+  lieu: San Silvestro delle monache, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcantonio-cardinal-franciotti
+  co_consecrateurs:
+  - giambattista-spada
+  - girolamo-buonvisi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bortizdo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gaeta, Italy
+  du: '1651-10-28'
+  au: 1661&sup1;
+- titre: évêque de Gaète
+  du: '1651-10-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745728
+  catholic_hierarchy: bortizdo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:57:33+00:00'
+  completeness: 0.75

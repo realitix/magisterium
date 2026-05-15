@@ -1,0 +1,54 @@
+slug: zoltan-meszlenyi
+nom: Zoltán Meszlényi
+nom_complet: Bl. Zoltán Lajos Meszlényi
+naissance: '1892-01-02'
+deces: '1951-03-04'
+naissance_lieu: Hatvan
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1937-10-28'
+  consecrateur_principal: jusztinian-seredi
+  co_consecrateurs:
+  - istvan-breyer
+  - endre-kriston
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmesz.html
+  - https://fr.wikipedia.org/wiki/Zolt%C3%A1n_Meszl%C3%A9nyi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1937-09-22'
+  au: '1951-03-04'
+- titre: Titular Bishop of Sinope
+  du: '1937-09-22'
+  au: null
+- titre: évêque titulaire
+  du: '1937-09-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '1937-10-28'
+  au: '1951-03-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Meszlenyi3.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q545358
+  catholic_hierarchy: bmesz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:53:52+00:00'
+  completeness: 1.0

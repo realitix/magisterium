@@ -1,0 +1,48 @@
+slug: samuel-hetyey
+nom: Sámuel Hetyey
+nom_complet: Sámuel Hetyey de Eadem
+naissance: '1843-09-13'
+deces: '1903-09-01'
+naissance_lieu: Egyházas-Hetye
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1898-01-02'
+  lieu: Primate's, Church, Budapest
+  consecrateur_principal: kolos-ferenc-vaszary
+  co_consecrateurs:
+  - gyorgy-csaszka
+  - jozsef-boltizar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhetyey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1897-12-15'
+  au: '1903-09-01'
+- titre: évêque de Pécs
+  du: '1897-12-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/HetyeyS%C3%A1muel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1035979
+  catholic_hierarchy: bhetyey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:13+00:00'
+  completeness: 1.0

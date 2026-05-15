@@ -1,0 +1,47 @@
+slug: antonio-zattera
+nom: Antônio Zattera
+nom_complet: null
+naissance: '1899-07-25'
+deces: '1987-10-15'
+naissance_lieu: Garibaldi
+deces_lieu: Porto Alegre, Archdiocese of Porto Alegre, Rio Grande do Sul
+rang: eveque
+nationalite: Q155
+tampon: ordo_validus
+sacre:
+  date: '1942-05-31'
+  lieu: Santo Antônio, Church, Bento Gonçalves
+  consecrateur_principal: joao-batista-becker
+  co_consecrateurs:
+  - jose-barea
+  - candido-julio-bampi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzattera.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pelotas, Rio Grande do Sul, Brazil
+  du: '1942-01-31'
+  au: '1977-09-01'
+- titre: Bishop Emeritus of Pelotas, Rio Grande do Sul, Brazil
+  du: null
+  au: '1987-10-15'
+- titre: évêque diocésain
+  du: '1942-01-31'
+  au: '1977-09-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9623113
+  catholic_hierarchy: bzattera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:06:59+00:00'
+  completeness: 1.0

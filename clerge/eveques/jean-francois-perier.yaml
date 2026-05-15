@@ -1,0 +1,52 @@
+slug: jean-francois-perier
+nom: Jean-François Périer
+nom_complet: null
+naissance: '1740-06-16'
+deces: '1824-03-30'
+naissance_lieu: Grenoble
+deces_lieu: Avignon, Diocese of Avignon
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1791-03-27'
+  lieu: Notre-Dame, Paris, Archdiocese of Paris
+  consecrateur_principal: jean-baptiste-gobel
+  co_consecrateurs:
+  - jean-baptiste-miroudot-du-bourg
+  - jean-baptiste-pierre-saurine
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperij.html
+  - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_P%C3%A9rier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of [Puy-de-Dôme (Constitutional), France]
+  du: null
+  au: 11 Oct 1801&sup3;
+- titre: Bishop Emeritus of Avignon, France
+  du: null
+  au: '1824-03-30'
+- titre: évêque d'Avignon
+  du: '1802-04-09'
+  au: '1817-09-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Jean-Fran%C3%A7ois%20Perier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q22973682
+  catholic_hierarchy: bperij
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:22:44+00:00'
+  completeness: 1.0

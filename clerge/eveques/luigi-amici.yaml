@@ -1,0 +1,55 @@
+slug: luigi-amici
+nom: Luigi Amici
+nom_complet: null
+naissance: '1735-07-05'
+deces: '1795-07-05'
+naissance_lieu: Camerino
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1768-06-24'
+  consecrateur_principal: ferdinando-maria-de-rossi
+  co_consecrateurs:
+  - francesco-carafa-della-spina-di-traetto
+  - francesco-saverio-de-zelada
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bamicil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Camerino, Italy
+  du: '1768-06-20'
+  au: null
+- titre: Bishop of Fabriano, Italy
+  du: '1768-06-20'
+  au: '1785-07-08'
+- titre: Archbishop of Camerino, Italy
+  du: '1787-12-17'
+  au: '1795-07-05'
+- titre: évêque diocésain
+  du: '1768-06-20'
+  au: '1785-07-08'
+- titre: archevêque de Camerino
+  du: '1787-12-17'
+  au: null
+- titre: Roman Catholic Bishop of Camerino
+  du: '1768-06-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21547220
+  catholic_hierarchy: bamicil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:36:08+00:00'
+  completeness: 1.0

@@ -1,0 +1,57 @@
+slug: koloman-belopotocky
+nom: Koloman Belopotocký
+nom_complet: Kalman Belopotoczky
+naissance: '1845-02-06'
+deces: '1914-12-22'
+naissance_lieu: "Ru\x9Eomberok, Diocese of Spi&#353;, Slovakia"
+deces_lieu: null
+rang: eveque
+nationalite: Q28513
+tampon: ordo_validus
+sacre:
+  date: '1890-10-05'
+  lieu: Cathedral, Spi&#353;, Diocese of Spi&#353;, Slovakia
+  consecrateur_principal: gyorgy-csaszka
+  co_consecrateurs:
+  - zsigmond-bubics
+  - janos-valyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbelep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Austria, Military
+  du: '1890-06-16'
+  au: '1911-06-01'
+- titre: Titular Bishop of Tricca
+  du: '1890-07-22'
+  au: null
+- titre: Bishop Emeritus of Austria, Military
+  du: null
+  au: '1914-12-22'
+- titre: Apostolic Field Vicar
+  du: '1890-06-16'
+  au: '1911-06-01'
+- titre: évêque titulaire
+  du: '1890-07-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Coloman%20Belopotoczky%20JS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1110307
+  catholic_hierarchy: bbelep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:21+00:00'
+  completeness: 1.0

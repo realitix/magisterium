@@ -1,0 +1,48 @@
+slug: erminio-valenti
+nom: Erminio Valenti
+nom_complet: Erminio Cardinal Valenti
+naissance: '1565-01-03'
+deces: '1618-08-22'
+naissance_lieu: Trevi
+deces_lieu: null
+rang: cardinal
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1605-09-18'
+  lieu: Nuova Vallicella, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: pietro-aldobrandini
+  co_consecrateurs:
+  - ludovico-de-torres
+  - laudivio-cardinal-zacchia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalentie.html
+  - https://fr.wikipedia.org/wiki/Erminio_Valenti
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Faenza, Italy
+  du: '1605-08-03'
+  au: '1618-08-22'
+- titre: cardinal
+  du: '1604-06-09'
+  au: null
+- titre: évêque diocésain
+  du: '1605-08-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3056733
+  catholic_hierarchy: bvalentie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:21:34+00:00'
+  completeness: 0.88

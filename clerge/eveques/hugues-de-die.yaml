@@ -1,0 +1,51 @@
+slug: hugues-de-die
+nom: Hugues de Die
+nom_complet: Hugues de Die (Romans)
+naissance: '1040'
+deces: '1106-10-07'
+naissance_lieu: null
+deces_lieu: Susa
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '9'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: non-indexe-f824b558
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhuguesd.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Die
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Die, France
+  du: '1073-10-19'
+  au: null
+- titre: Archbishop of Lyon, France
+  du: 1083&sup1;
+  au: '1106-10-07'
+- titre: chanoine de Lyon
+  du: null
+  au: null
+- titre: évêque de Die
+  du: '1073-10-25'
+  au: '1083-01-01'
+- titre: archevêque de Lyon
+  du: '1083-01-01'
+  au: '1106-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1773290
+  catholic_hierarchy: bhuguesd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:49:36+00:00'
+  completeness: 0.62

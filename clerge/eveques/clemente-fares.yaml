@@ -1,0 +1,44 @@
+slug: clemente-fares
+nom: Clemente Fares
+nom_complet: null
+naissance: '1809-11-23'
+deces: '1896-03-01'
+naissance_lieu: Lapedona, Archdiocese of Fermo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1857-01-04'
+  lieu: College de la Propaganda, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - alberto-barbolani-di-montauto
+  - gaetano-bedini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfare.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pesaro, Italy
+  du: '1856-12-15'
+  au: '1896-03-01'
+- titre: évêque de Pesaro
+  du: '1856-12-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745884
+  catholic_hierarchy: bfare
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:31:56+00:00'
+  completeness: 1.0

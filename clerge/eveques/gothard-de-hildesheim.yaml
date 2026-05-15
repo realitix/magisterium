@@ -1,0 +1,52 @@
+slug: gothard-de-hildesheim
+nom: Gothard de Hildesheim
+nom_complet: St. Godehard von Hildesheim, O.S.B.
+naissance: '960'
+deces: '1038-05-05'
+naissance_lieu: Reichersdorf
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1022-12-02'
+  lieu: Groner Pfalzkapelle
+  consecrateur_principal: aribo-di-magonza
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhildg.html
+  - https://fr.wikipedia.org/wiki/Gothard_de_Hildesheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: '1022-11-30'
+  au: '1038-05-05'
+- titre: évêque de Hildesheim
+  du: '1022-12-08'
+  au: null
+- titre: abbé de Niederaltaich
+  du: null
+  au: null
+- titre: recteur
+  du: null
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Corenno%20Plinio%20-%20St.Gotthard.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q61914
+  catholic_hierarchy: bhildg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:57+00:00'
+  completeness: 0.75

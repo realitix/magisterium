@@ -1,0 +1,47 @@
+slug: leon-bacoue
+nom: Léon Bacoué
+nom_complet: Léon Bacoué, O.F.M.
+naissance: '1601'
+deces: '1694-02-13'
+naissance_lieu: Castel Galoux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1674-06-24'
+  consecrateur_principal: girolamo-jerome-cardinal-grimaldi-cavalleroni
+  co_consecrateurs:
+  - nicolas-de-valavoir-vallavoire
+  - louis-de-thomassin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbacoue.html
+  - https://fr.wikipedia.org/wiki/L%C3%A9on_Bacou%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: null
+  au: 1684&sup2;
+- titre: Bishop Emeritus of Glandèves, France
+  du: null
+  au: '1694-02-13'
+- titre: évêque de Glandèves
+  du: '1672-10-15'
+  au: '1684-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q1237710
+  catholic_hierarchy: bbacoue
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:54:34+00:00'
+  completeness: 0.88

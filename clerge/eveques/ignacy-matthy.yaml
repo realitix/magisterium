@@ -1,0 +1,56 @@
+slug: ignacy-matthy
+nom: Ignacy Matthy
+nom_complet: Ignacy Wincenty Stanislaw Mathy (Matthy)
+naissance: '1765-04-05'
+deces: '1832-05-20'
+naissance_lieu: Kobierzyn
+deces_lieu: Pelplin, Diocese of Chelmno (Culma, Kulm)
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1824-06-06'
+  lieu: Saint-Nicolas, Church, Frauenburg (Frombork)
+  consecrateur_principal: andreas-stanislaus-von-hattynski-hatten
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmatthy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Warmia (Ermland), Poland
+  du: '1803-08-15'
+  au: '1809-09-01'
+- titre: Bishop of Chelmno (Culma, Kulm), Poland
+  du: null
+  au: '1832-05-20'
+- titre: vicaire apostolique
+  du: '1803-08-15'
+  au: null
+- titre: vicaire capitulaire
+  du: '1803-01-01'
+  au: '1809-01-01'
+- titre: évêque de Chelmno
+  du: '1822-03-08'
+  au: null
+- titre: évêque
+  du: '1823-01-01'
+  au: '1832-01-01'
+- titre: vicaire général
+  du: '1796-01-01'
+  au: '1803-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11711266
+  catholic_hierarchy: bmatthy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:38:45+00:00'
+  completeness: 0.88

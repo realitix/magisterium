@@ -1,0 +1,44 @@
+slug: rene-du-louet
+nom: René du Louët
+nom_complet: René du Louët de Coetjunval
+naissance: '1584-10-21'
+deces: '1668-02-11'
+naissance_lieu: Castro de Kancoat
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1643-02-01'
+  consecrateur_principal: etienne-de-puget
+  co_consecrateurs:
+  - richard-smith
+  - alain-de-solminihac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blouet.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_du_Lou%C3%ABt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quimper, France
+  du: null
+  au: '1668-02-11'
+- titre: évêque diocésain
+  du: '1640-12-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3427096
+  catholic_hierarchy: blouet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:06+00:00'
+  completeness: 1.0

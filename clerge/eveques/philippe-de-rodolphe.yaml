@@ -1,0 +1,41 @@
+slug: philippe-de-rodolphe
+nom: Philippe de Rodolphe
+nom_complet: Philippe Rodolfi
+naissance: null
+deces: '1574-06-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1569-11-02'
+  consecrateur_principal: dominico-bigorrei
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brodop.html
+  - https://fr.wikipedia.org/wiki/Philippe_de_Rodolphe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albi, France
+  du: '1568-02-06'
+  au: '1574-06-30'
+- titre: évêque d'Albi
+  du: '1568-02-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3380994
+  catholic_hierarchy: brodop
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:21:53+00:00'
+  completeness: 0.75

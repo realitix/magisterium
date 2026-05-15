@@ -1,0 +1,41 @@
+slug: adelog-de-hildesheim
+nom: Adelog de Hildesheim
+nom_complet: Adelog von Hildesheim
+naissance: '1101'
+deces: '1190-09-20'
+naissance_lieu: null
+deces_lieu: Hildesheim, Diocese of Hildesheim
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhilda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: 1170&sup1;
+  au: '1190-09-20'
+- titre: évêque diocésain
+  du: '1170-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q97389
+  catholic_hierarchy: bhilda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:42:53+00:00'
+  completeness: 0.38

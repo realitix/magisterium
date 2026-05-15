@@ -1,0 +1,44 @@
+slug: francois-martinengo
+nom: François Martinengo
+nom_complet: François Martinengo, O.F.M.
+naissance: '1505'
+deces: '1620-08-22'
+naissance_lieu: Cercenasco
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1600-10-28'
+  consecrateur_principal: leon-xi
+  co_consecrateurs:
+  - francesco-gonzaga-1546
+  - lorenzo-mongio-galatino-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmrtnngf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Martinengo
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nice, France
+  du: '1600-10-23'
+  au: '1620-08-22'
+- titre: évêque diocésain
+  du: '1600-10-23'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q2392004
+  catholic_hierarchy: bmrtnngf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:17:14+00:00'
+  completeness: 0.88

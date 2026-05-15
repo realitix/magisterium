@@ -1,0 +1,49 @@
+slug: thomas-beckington
+nom: Thomas Beckington
+nom_complet: null
+naissance: '1390'
+deces: '1465-01-14'
+naissance_lieu: Beckington
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1443-10-13'
+  lieu: Old Chapel, Eton College
+  consecrateur_principal: william-alnwick
+  co_consecrateurs:
+  - william-ayscough
+  - nicolas-ashby-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbecking.html
+  - https://fr.wikipedia.org/wiki/Thomas_Beckington
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bath and Wells, England, Great Britain
+  du: '1443-07-24'
+  au: '1465-01-14'
+- titre: évêque de Bath et Wells
+  du: '1443-08-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wells%20Cathedral%20-%20Effigy%20-%20geograph.org.uk%20-%207154284.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7787517
+  catholic_hierarchy: bbecking
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:12:02+00:00'
+  completeness: 0.88

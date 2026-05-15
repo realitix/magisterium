@@ -1,0 +1,53 @@
+slug: antoine-allemand
+nom: Antoine Allemand
+nom_complet: Antonio Alamandi
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1466-07-20'
+  consecrateur_principal: guillaume-cardinal-d-rsquo-estouteville-o-s-b
+  co_consecrateurs:
+  - philippe-cardinal-de-levis
+  - gaucher-de-forcalquier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balamand.html
+  - https://fr.wikipedia.org/wiki/Antoine_Allemand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cahors, France
+  du: '1465-10-31'
+  au: 1493&sup1;
+- titre: Bishop of Clermont, France
+  du: '1475-03-08'
+  au: null
+- titre: évêque de Cahors
+  du: '1476-01-01'
+  au: '1493-01-01'
+- titre: évêque de Clermont
+  du: '1475-03-17'
+  au: null
+- titre: évêque de Cahors
+  du: '1465-01-01'
+  au: '1474-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64626870
+  catholic_hierarchy: balamand
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:25:33+00:00'
+  completeness: 0.75

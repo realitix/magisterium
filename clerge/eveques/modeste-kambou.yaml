@@ -1,0 +1,45 @@
+slug: modeste-kambou
+nom: Modeste Kambou
+nom_complet: Ollo Modeste Kambou
+naissance: '1963-12-04'
+deces: null
+naissance_lieu: Bouti
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2012-02-18'
+  lieu: Courtyard, Cathedral, Gaoua, Diocese of Gaoua
+  consecrateur_principal: vito-rallo
+  co_consecrateurs:
+  - paul-yemboaro-ouedraogo
+  - raphael-kusiele-dabire
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkambou.html
+  - https://fr.wikipedia.org/wiki/Modeste_Kambou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gaoua, Burkina Faso
+  du: '2011-11-30'
+  au: null
+- titre: évêque diocésain
+  du: '2011-11-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1942102
+  catholic_hierarchy: bkambou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:07:18+00:00'
+  completeness: 0.88

@@ -1,0 +1,51 @@
+slug: robert-gradwell
+nom: Robert Gradwell
+nom_complet: null
+naissance: '1777-01-26'
+deces: '1833-03-15'
+naissance_lieu: Clifton-in-the-Fylde, Preston, Lancashire
+deces_lieu: Golden Square, London, Vicariate Apostolic of London District, England
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1828-06-24'
+  lieu: English, College, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giacinto-placido-zurla
+  co_consecrateurs:
+  - pietro-caprano
+  - peter-augustine-baines
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgradw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Vicar Apostolic of London District, England, Great Britain
+  du: '1828-06-17'
+  au: '1833-03-15'
+- titre: Titular Bishop of Lydda
+  du: '1828-06-17'
+  au: null
+- titre: évêque titulaire de Lydda
+  du: '1828-06-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Gradwell.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7344888
+  catholic_hierarchy: bgradw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:38:30+00:00'
+  completeness: 1.0

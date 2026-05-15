@@ -1,0 +1,45 @@
+slug: arthur-doubleday
+nom: Arthur Doubleday
+nom_complet: Arthur Henry Doubleday
+naissance: '1865-10-16'
+deces: '1951-01-23'
+naissance_lieu: Pietermaritzburg, Natal, Vicariate Apostolic of Natal, South Africa
+deces_lieu: Bishop's House (Queens Road), Brentwood, Essex, Diocese of Brentwood,
+  England
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1920-06-23'
+  lieu: St. George, Cathedral, Southwark, London, Diocese of Southwark, England
+  consecrateur_principal: francis-bourne
+  co_consecrateurs:
+  - peter-amigo
+  - william-timothy-cotter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoub.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brentwood, England, Great Britain
+  du: '1920-05-07'
+  au: '1951-01-23'
+- titre: évêque diocésain
+  du: '1920-05-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4798491
+  catholic_hierarchy: bdoub
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:16+00:00'
+  completeness: 1.0

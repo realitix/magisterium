@@ -1,0 +1,40 @@
+slug: diego-guevara
+nom: Diego Guevara
+nom_complet: Diego Guevara, O.S.A.
+naissance: '1568'
+deces: '1621'
+naissance_lieu: Baeza, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  lieu: Sevilla, Archdiocese of Sevilla {Seville}, Spain
+  consecrateur_principal: pedro-castro-quinones
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguevd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nueva Caceres, Philippines
+  du: '1616-08-03'
+  au: 1621&sup1;
+- titre: évêque diocésain
+  du: '1616-01-01'
+  au: '1621-01-01'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q27062913
+  catholic_hierarchy: bguevd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:58+00:00'
+  completeness: 0.5

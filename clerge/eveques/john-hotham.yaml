@@ -1,0 +1,47 @@
+slug: john-hotham
+nom: John Hotham
+nom_complet: null
+naissance: '1250'
+deces: '1337-01-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1316-10-03'
+  consecrateur_principal: walter-reynolds
+  co_consecrateurs:
+  - thomas-wouldham
+  - john-droxford
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhotham.html
+  - https://fr.wikipedia.org/wiki/John_Hotham
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ely, England, Great Britain
+  du: null
+  au: '1337-01-15'
+- titre: lord trésorier
+  du: '1317-01-01'
+  au: '1318-01-01'
+- titre: évêque d'Ely
+  du: '1316-06-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6239960
+  catholic_hierarchy: bhotham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:47:33+00:00'
+  completeness: 0.88

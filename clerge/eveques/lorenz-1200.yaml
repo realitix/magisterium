@@ -1,0 +1,43 @@
+slug: lorenz-1200
+nom: Lorenz
+nom_complet: Laurent Dolivera
+naissance: '1200'
+deces: '1232-06-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1207-05-27'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdolivera.html
+  - https://fr.wikipedia.org/wiki/Lorenz_(%C3%A9v%C3%AAque_de_Wroc%C5%82aw)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wroc&#322;aw (Breslau), Poland
+  du: 1207&sup1;
+  au: '1232-06-07'
+- titre: évêque de Wrocław
+  du: '1207-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q91629
+  catholic_hierarchy: bdolivera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:59:09+00:00'
+  completeness: 0.5

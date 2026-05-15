@@ -1,0 +1,43 @@
+slug: giovanni-battista-del-tufo
+nom: Giovanni Battista del Tufo
+nom_complet: Giovanni Battista del Tufo, C.R.
+naissance: '1543'
+deces: '1622-06-13'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1587-12-13'
+  lieu: San Paolo, Church, Napoli, Archdiocese of Napoli {Naples}
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeltufo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerra, Italy
+  du: '1587-08-17'
+  au: '1603-06-23'
+- titre: Bishop Emeritus of Acerra, Italy
+  du: null
+  au: '1622-06-13'
+- titre: évêque diocésain
+  du: '1587-08-17'
+  au: '1603-06-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763501
+  catholic_hierarchy: bdeltufo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:41:12+00:00'
+  completeness: 0.5

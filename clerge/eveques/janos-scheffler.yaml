@@ -1,0 +1,55 @@
+slug: janos-scheffler
+nom: János Scheffler
+nom_complet: Bl. János Scheffler
+naissance: '1887-10-29'
+deces: '1952-12-06'
+naissance_lieu: Kálmánd
+deces_lieu: Aiud
+rang: eveque
+nationalite: Q218
+tampon: ordo_validus
+sacre:
+  date: '1942-05-17'
+  lieu: Satu Mare {Szatmár}, Diocese of Satu Mare {Szatmár}
+  consecrateur_principal: jusztinian-seredi
+  co_consecrateurs:
+  - gyula-glattfelder
+  - istvan-madarasz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsche.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satu Mare {Szatmár}, Romania
+  du: '1942-03-26'
+  au: null
+- titre: Bishop of Oradea Mare {Gran Varadino, Nagyvárad} and Satu Mare {Szatmár},
+    Romania
+  du: '1948-04-09'
+  au: '1952-12-06'
+- titre: évêque d'Oradea Mare
+  du: '1948-04-09'
+  au: '1952-12-06'
+- titre: évêque de Satu Mare
+  du: '1942-03-26'
+  au: '1948-04-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Scheffler%20janos%20MK.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q719040
+  catholic_hierarchy: bsche
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:00:28+00:00'
+  completeness: 1.0

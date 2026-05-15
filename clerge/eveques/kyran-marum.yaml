@@ -1,0 +1,44 @@
+slug: kyran-marum
+nom: Kyran Marum
+nom_complet: null
+naissance: '1773-03-28'
+deces: '1827-12-22'
+naissance_lieu: Galmoy, Co. Kilkenny
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1815-03-05'
+  lieu: St. Mary, Kilkenny
+  consecrateur_principal: john-troy
+  co_consecrateurs:
+  - daniel-murray
+  - patrick-ryan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarum.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1814-10-04'
+  au: '1827-12-22'
+- titre: évêque du diocèse d'Ossory
+  du: '1814-10-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762656
+  catholic_hierarchy: bmarum
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:33:40+00:00'
+  completeness: 1.0

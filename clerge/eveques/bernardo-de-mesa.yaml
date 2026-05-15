@@ -1,0 +1,57 @@
+slug: bernardo-de-mesa
+nom: Bernardo de Mesa
+nom_complet: Bernardo de Mesa, O.P.
+naissance: '1470'
+deces: '1524'
+naissance_lieu: Córdoba
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1508-06-17'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Forli, Italy
+  du: '1508-06-07'
+  au: null
+- titre: Titular Bishop of Trinopolis
+  du: '1508-06-07'
+  au: null
+- titre: Bishop of Elne, France
+  du: '1515-09-10'
+  au: 1524&sup2;
+- titre: Bishop of Badajoz, Spain
+  du: '1521-02-20'
+  au: null
+- titre: évêque de Badajoz
+  du: '1521-03-02'
+  au: null
+- titre: évêque auxiliaire
+  du: '1508-06-17'
+  au: null
+- titre: évêque d'Elne
+  du: '1515-09-20'
+  au: null
+- titre: évêque titulaire
+  du: '1508-06-17'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q823063
+  catholic_hierarchy: bmes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:53:14+00:00'
+  completeness: 0.25

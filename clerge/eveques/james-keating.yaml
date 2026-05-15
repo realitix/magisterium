@@ -1,0 +1,53 @@
+slug: james-keating
+nom: James Keating
+nom_complet: null
+naissance: '1783'
+deces: '1849-09-07'
+naissance_lieu: Coolnahorna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1819-03-21'
+  lieu: Wexford
+  consecrateur_principal: daniel-murray
+  co_consecrateurs:
+  - patrick-everard
+  - kyran-marum
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkeati.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Ferns, Ireland
+  du: '1819-01-12'
+  au: null
+- titre: Titular Bishop of Antinoë
+  du: '1819-01-12'
+  au: null
+- titre: Bishop of Ferns, Ireland
+  du: null
+  au: '1849-09-07'
+- titre: évêque diocésain
+  du: '1819-03-09'
+  au: null
+- titre: évêque titulaire
+  du: '1819-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747992
+  catholic_hierarchy: bkeati
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:09:51+00:00'
+  completeness: 0.88

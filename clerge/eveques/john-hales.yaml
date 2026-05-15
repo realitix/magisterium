@@ -1,0 +1,44 @@
+slug: john-hales
+nom: John Hales
+nom_complet: null
+naissance: null
+deces: '1490-12-30'
+naissance_lieu: Kenadon, Devonshire
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1459-11-25'
+  lieu: S. Clément, Chapel, Coventry, Diocese of Coventry and Lichfield, England
+  consecrateur_principal: thomas-cardinal-bourchier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhales.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1459-09-20'
+  au: '1490-12-30'
+- titre: évêque de Coventry et Lichfield
+  du: '1459-09-29'
+  au: null
+- titre: doyen d'Exeter
+  du: '1457-01-01'
+  au: '1459-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6237383
+  catholic_hierarchy: bhales
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:14+00:00'
+  completeness: 0.75

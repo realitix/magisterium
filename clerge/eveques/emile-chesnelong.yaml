@@ -1,0 +1,54 @@
+slug: emile-chesnelong
+nom: Émile Chesnelong
+nom_complet: Jean Victor Émile Chesnelong
+naissance: '1856-04-06'
+deces: '1931-11-29'
+naissance_lieu: Orthez, Diocese of Bayonne
+deces_lieu: Archbishop's Palace, rue Allix n. 72, Sens, Archdiocese of Sens (-Auxerre)
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-02-25'
+  lieu: Altar of the Chair, San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - louis-joseph-lucon
+  - emile-christophe-enard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bches.html
+  - https://fr.wikipedia.org/wiki/%C3%89mile_Chesnelong
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence, France
+  du: '1906-02-21'
+  au: null
+- titre: Archbishop of Sens (-Auxerre), France
+  du: '1912-01-12'
+  au: '1931-11-29'
+- titre: archevêque de Sens et Auxerre
+  du: '1912-01-12'
+  au: null
+- titre: évêque de Valence
+  du: '1906-02-21'
+  au: '1912-01-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20%C3%89mile%20Chesnelong%20%281856-1931%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16027336
+  catholic_hierarchy: bches
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:45:00+00:00'
+  completeness: 0.88

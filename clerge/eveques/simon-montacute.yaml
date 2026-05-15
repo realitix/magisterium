@@ -1,0 +1,53 @@
+slug: simon-montacute
+nom: Simon Montacute
+nom_complet: null
+naissance: '1350'
+deces: '1345'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1334-05-08'
+  consecrateur_principal: henry-burghersh
+  co_consecrateurs:
+  - ralph-of-shrewsbury
+  - robert-wyvil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1333-12-07'
+  au: null
+- titre: Bishop of Ely, England, Great Britain
+  du: '1337-03-14'
+  au: '1345-06-20'
+- titre: évêque d'Ely
+  du: '1337-03-22'
+  au: '1345-01-01'
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1333-12-15'
+  au: '1337-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20de%20Montacute%2C%20Bishop%20of%20Ely%20-%20couterseal%2C%201337-1345.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7519369
+  catholic_hierarchy: bmontac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:06:27+00:00'
+  completeness: 0.88

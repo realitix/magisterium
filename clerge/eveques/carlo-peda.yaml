@@ -1,0 +1,47 @@
+slug: carlo-peda
+nom: Carlo Peda
+nom_complet: Carlo Giuseppe Peda, B.
+naissance: '1767-08-18'
+deces: '1843-07-21'
+naissance_lieu: Camerino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1841-07-18'
+  lieu: San Carlo ai Catinari, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: luigi-lambruschini
+  co_consecrateurs:
+  - fabio-maria-asquini
+  - lodovico-altieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpeda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Assisi, Italy
+  du: '1841-07-12'
+  au: '1843-07-21'
+- titre: Roman Catholic Bishop of Assisi
+  du: '1841-07-12'
+  au: null
+- titre: supérieur général
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q63705313
+  catholic_hierarchy: bpeda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:16:12+00:00'
+  completeness: 1.0

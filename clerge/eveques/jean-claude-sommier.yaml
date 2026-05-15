@@ -1,0 +1,46 @@
+slug: jean-claude-sommier
+nom: Jean-Claude Sommier
+nom_complet: Jean Claude Sommier
+naissance: '1661-07-22'
+deces: '1737-10-05'
+naissance_lieu: Vauvillers
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1725-02-11'
+  co_consecrateurs:
+  - nicolo-maria-lercari
+  - niccolo-coscia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsommier.html
+  - https://fr.wikipedia.org/wiki/Jean-Claude_Sommier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Caesarea in Cappadocia
+  du: '1725-01-29'
+  au: '1737-10-05'
+- titre: archevêque titulaire
+  du: '1725-01-29'
+  au: null
+- titre: archevêque catholique
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3165237
+  catholic_hierarchy: bsommier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:27:53+00:00'
+  completeness: 0.88

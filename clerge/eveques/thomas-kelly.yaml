@@ -1,0 +1,53 @@
+slug: thomas-kelly
+nom: Thomas Kelly
+nom_complet: null
+naissance: '1781'
+deces: '1835-01-13'
+naissance_lieu: Donaghmore, Co. Tyrone
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1826-08-27'
+  lieu: Newry
+  consecrateur_principal: patrick-curtis
+  co_consecrateurs:
+  - peter-mclaughlin
+  - william-crolly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkellyt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dromore, Ireland
+  du: '1826-06-16'
+  au: null
+- titre: Coadjutor Archbishop of Armagh, Ireland
+  du: '1828-12-23'
+  au: null
+- titre: Archbishop of Armagh, Ireland
+  du: null
+  au: '1835-01-13'
+- titre: archevêque d'Armargh
+  du: '1832-07-24'
+  au: null
+- titre: évêque diocésain
+  du: '1826-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7791468
+  catholic_hierarchy: bkellyt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:10:43+00:00'
+  completeness: 0.88

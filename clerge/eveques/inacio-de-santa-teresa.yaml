@@ -1,0 +1,53 @@
+slug: inacio-de-santa-teresa
+nom: Inácio de Santa Teresa
+nom_complet: Inácio (de Santa Teresa) Torres de Souza, O.E.S.A.
+naissance: '1682-11-22'
+deces: '1751-04-15'
+naissance_lieu: Porto
+deces_lieu: null
+rang: archeveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1721-03-30'
+  consecrateur_principal: tomas-de-almeida
+  co_consecrateurs:
+  - manuel-alvares-da-costa
+  - bartolomeu-do-pilar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsnter.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Goa, India
+  du: '1721-02-03'
+  au: null
+- titre: Bishop of Faro {Algarve}, Portugal
+  du: null
+  au: '1751-04-15'
+- titre: archevêque de Goa
+  du: '1721-03-30'
+  au: '1739-02-22'
+- titre: évêque diocésain
+  du: '1739-02-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20In%C3%A1cio%20de%20Santa%20Teresa.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10303378
+  catholic_hierarchy: bsnter
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:25:03+00:00'
+  completeness: 1.0

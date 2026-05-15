@@ -1,0 +1,44 @@
+slug: bruno-d-isenberg
+nom: Bruno d'Isenberg
+nom_complet: Bruno von Isenberg
+naissance: '1200'
+deces: '1258-12-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/biseneb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osnabrück, Germany
+  du: 1250&sup1;
+  au: '1258-12-20'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque d'Osnabrück
+  du: '1250-01-01'
+  au: null
+- titre: évêque élu
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q993994
+  catholic_hierarchy: biseneb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:05+00:00'
+  completeness: 0.38

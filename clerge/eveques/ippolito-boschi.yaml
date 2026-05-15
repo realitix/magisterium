@@ -1,0 +1,49 @@
+slug: ippolito-boschi
+nom: Ippolito Boschi
+nom_complet: Ippolito Bosco
+naissance: null
+deces: '1582-01-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1572-09-14'
+  consecrateur_principal: benedetto-lomellini
+  co_consecrateurs:
+  - leonardo-truchi-trucco
+  - pietro-francesco-ferri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboscoi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Marco (Argentano), Italy
+  du: '1572-06-16'
+  au: null
+- titre: Bishop of Foligno, Italy
+  du: '1576-01-30'
+  au: '1582-01-27'
+- titre: Roman Catholic Bishop of San Marco (Argentano)
+  du: '1572-06-26'
+  au: null
+- titre: évêque de Foligno
+  du: '1576-02-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762552
+  catholic_hierarchy: bboscoi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:42:08+00:00'
+  completeness: 0.88

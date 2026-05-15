@@ -1,0 +1,48 @@
+slug: jose-carlos-de-aguirre
+nom: José Carlos de Aguirre
+nom_complet: null
+naissance: '1880-04-28'
+deces: '1973-01-08'
+naissance_lieu: Itaqueri da Serra, Diocese of São Paulo
+deces_lieu: Sorocaba, Diocese of Sorocaba
+rang: eveque
+nationalite: Q155
+tampon: ordo_validus
+sacre:
+  date: '1924-12-08'
+  lieu: Bragança Paulista, Archdiocese of São Paulo
+  consecrateur_principal: duarte-leopoldo-e-silva
+  co_consecrateurs:
+  - jose-marcondes-homem-de-melo
+  - francisco-de-campos-barreto
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdagu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sorocaba, Brazil
+  du: '1924-07-04'
+  au: '1973-01-08'
+- titre: évêque diocésain
+  du: '1924-07-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dom%20Aguirre.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10309137
+  catholic_hierarchy: bdagu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:22:26+00:00'
+  completeness: 1.0

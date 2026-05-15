@@ -1,0 +1,45 @@
+slug: jourdain-d-aure
+nom: Jourdain d'Aure
+nom_complet: Jourdain d&rsquo;Aure, O.S.A.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baurej.html
+  - https://fr.wikipedia.org/wiki/Jourdain_d%27Aure
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mirepoix, France
+  du: '1433-07-26'
+  au: null
+- titre: Bishop of (Saint-Lizier de) Couserans (or Conserans), France
+  du: '1440-04-18'
+  au: 1443&sup2;
+- titre: évêque de Mirepoix
+  du: '1433-08-04'
+  au: null
+- titre: évêque de Couserans
+  du: '1440-04-27'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q60648667
+  catholic_hierarchy: baurej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:57+00:00'
+  completeness: 0.25

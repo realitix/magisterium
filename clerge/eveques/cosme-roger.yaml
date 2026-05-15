@@ -1,0 +1,44 @@
+slug: cosme-roger
+nom: Cosme Roger
+nom_complet: Cosme Roger, O. Cist.
+naissance: '1615'
+deces: '1710-12-20'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1672-01-31'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - francois-ier-faure
+  - marc-mallier-du-houssay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broger.html
+  - https://fr.wikipedia.org/wiki/Cosme_Roger
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lombez, France
+  du: null
+  au: '1710-12-20'
+- titre: évêque de Lombez
+  du: '1671-01-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22978677
+  catholic_hierarchy: broger
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:22:49+00:00'
+  completeness: 0.88

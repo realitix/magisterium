@@ -1,0 +1,38 @@
+slug: juan-redin
+nom: Juan Redín
+nom_complet: Juan Redín Cruzat
+naissance: '1516'
+deces: '1584'
+naissance_lieu: Pamplona, Diocese of Pamplona
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bredin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: '1577-06-26'
+  au: 1584&sup2;
+- titre: évêque de Tarazona
+  du: '1577-07-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q47519841
+  catholic_hierarchy: bredin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:09+00:00'
+  completeness: 0.25

@@ -1,0 +1,43 @@
+slug: juan-baltasar-toledano
+nom: Juan Baltasar Toledano
+nom_complet: null
+naissance: '1766-01-17'
+deces: '1830-05-27'
+naissance_lieu: El Campillo
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1824-10-03'
+  consecrateur_principal: antonio-allue-sese
+  co_consecrateurs:
+  - manuel-jose-anguita-tellez
+  - hipolito-antonio-sanchez-rangel-de-fayas-y-quiros
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btoled.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valladolid, Spain
+  du: null
+  au: '1830-05-27'
+- titre: évêque de Valladolid
+  du: '1824-05-23'
+  au: '1830-05-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60330354
+  catholic_hierarchy: btoled
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:02:27+00:00'
+  completeness: 1.0

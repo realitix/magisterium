@@ -1,0 +1,48 @@
+slug: jean-sirac
+nom: Jean Sirac
+nom_complet: Jean de Sirac (Siret), O. Cart.
+naissance: null
+deces: '1482'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsirac.html
+  - https://fr.wikipedia.org/wiki/Jean_Sirac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Paul-Trois-Châteaux, France
+  du: '1480-12-11'
+  au: 1482&sup1;
+- titre: prieur
+  du: '1469-01-01'
+  au: '1479-01-01'
+- titre: prieur
+  du: null
+  au: '1467-01-01'
+- titre: évêque de Saint-Paul-Trois-Châteaux
+  du: '1480-12-20'
+  au: '1482-01-01'
+- titre: prieur
+  du: '1467-01-01'
+  au: '1469-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910988
+  catholic_hierarchy: bsirac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:21:00+00:00'
+  completeness: 0.25

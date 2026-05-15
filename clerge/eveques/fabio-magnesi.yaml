@@ -1,0 +1,49 @@
+slug: fabio-magnesi
+nom: Fabio Magnesi
+nom_complet: null
+naissance: null
+deces: '1659-08-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1638-04-25'
+  consecrateur_principal: faustus-cardinal-poli
+  co_consecrateurs:
+  - giambattista-altieri
+  - amico-panici
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagnesio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Trevico, Italy
+  du: '1638-04-19'
+  au: null
+- titre: Bishop of Ostuni, Italy
+  du: '1640-01-09'
+  au: Aug 1659&sup3;
+- titre: évêque diocésain
+  du: '1638-04-19'
+  au: null
+- titre: Roman Catholic Bishop of Ostuni
+  du: '1640-01-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779568
+  catholic_hierarchy: bmagnesio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:13:34+00:00'
+  completeness: 0.75

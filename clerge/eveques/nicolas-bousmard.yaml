@@ -1,0 +1,43 @@
+slug: nicolas-bousmard
+nom: Nicolas Bousmard
+nom_complet: null
+naissance: '1512'
+deces: '1584-04-10'
+naissance_lieu: Xivry-le-Franc, Archdiocese of Trier, Germany
+deces_lieu: Verdun, Diocese of Verdun
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1576-07-15'
+  lieu: S. Martin, Church, Sorcy, Meuse
+  co_consecrateurs:
+  - antoine-fournier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbousm.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Bousmard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1576-02-27'
+  au: '1584-04-10'
+- titre: évêque de Verdun
+  du: '1576-01-01'
+  au: '1584-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3340131
+  catholic_hierarchy: bbousm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:19+00:00'
+  completeness: 0.62

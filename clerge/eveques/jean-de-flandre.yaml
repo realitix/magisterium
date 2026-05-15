@@ -1,0 +1,45 @@
+slug: jean-de-flandre
+nom: Jean de Flandre
+nom_complet: Jean delle Fiandre
+naissance: '1250'
+deces: '1292-10-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelfian.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Flandre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: '1279-10-07'
+  au: null
+- titre: Bishop of Liège, Belgium
+  du: '1282-06-09'
+  au: '1292-10-14'
+- titre: évêque de Metz
+  du: '1279-10-14'
+  au: null
+- titre: évêque de Liège
+  du: '1282-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q463174
+  catholic_hierarchy: bdelfian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:39:41+00:00'
+  completeness: 0.38

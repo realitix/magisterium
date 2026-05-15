@@ -1,0 +1,49 @@
+slug: georges-iii-de-limpurg
+nom: Georges III de Limpurg
+nom_complet: Georg Schenk von Limpurg
+naissance: '1470'
+deces: '1522-05-31'
+naissance_lieu: Obersontheim
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1505-09-28'
+  lieu: Cathedral, Bamberg, Diocese of Bamberg
+  consecrateur_principal: kaspar-preiel
+  co_consecrateurs:
+  - kaspar-grunwald-o-p
+  - kaspar-tobritsch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsvl.html
+  - https://fr.wikipedia.org/wiki/Georg_Schenk_von_Limpurg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1522-05-31'
+- titre: évêque diocésain
+  du: '1505-02-23'
+  au: '1522-06-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Schenck%20von%20Limpurg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q109327
+  catholic_hierarchy: bsvl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:45:10+00:00'
+  completeness: 0.88

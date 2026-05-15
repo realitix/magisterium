@@ -1,0 +1,54 @@
+slug: hardouin-de-perefixe-de-beaumont
+nom: Hardouin de Péréfixe de Beaumont
+nom_complet: null
+naissance: '1606'
+deces: '1671'
+naissance_lieu: Beaumont
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1649-04-18'
+  consecrateur_principal: gilles-boutault
+  co_consecrateurs:
+  - anthyme-denis-cohon
+  - roger-d-aumont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpereh.html
+  - https://fr.wikipedia.org/wiki/Hardouin_de_P%C3%A9r%C3%A9fixe_de_Beaumont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Paris, France
+  du: null
+  au: '1671-01-01'
+- titre: évêque de Rodez
+  du: '1648-04-26'
+  au: '1664-03-24'
+- titre: fauteuil 28 de l'Académie française
+  du: '1654-01-01'
+  au: '1671-01-01'
+- titre: archevêque de Paris
+  du: '1664-01-01'
+  au: '1671-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hardoin%20de%20Perifaxe%20de%20Baumont.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1837192
+  catholic_hierarchy: bpereh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:20:45+00:00'
+  completeness: 0.88

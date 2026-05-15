@@ -1,0 +1,56 @@
+slug: imre-bjelik
+nom: Imre Bjelik
+nom_complet: null
+naissance: '1860-07-24'
+deces: '1927-05-09'
+naissance_lieu: Illava
+deces_lieu: null
+rang: eveque
+nationalite: Q28513
+tampon: ordo_validus
+sacre:
+  date: '1913-02-22'
+  consecrateur_principal: koloman-belopotocky
+  co_consecrateurs:
+  - augustin-fischer-colbrie
+  - josef-pfluger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbje.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Austria, Military
+  du: '1913-01-08'
+  au: '1918-11-11'
+- titre: Titular Bishop of Thasus
+  du: '1913-01-08'
+  au: null
+- titre: Bishop Emeritus of Austria, Military
+  du: null
+  au: '1927-05-09'
+- titre: Apostolic Field Vicar
+  du: '1913-01-08'
+  au: '1918-11-11'
+- titre: évêque titulaire
+  du: '1913-01-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Emmerich%20Bjelik%20in%201916.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2171149
+  catholic_hierarchy: bbje
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:29+00:00'
+  completeness: 1.0

@@ -1,0 +1,38 @@
+slug: fabio-polverone
+nom: Fabio Polverone
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpolver.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ischia, Italy
+  du: '1565-07-06'
+  au: 1589&sup1;
+- titre: évêque diocésain
+  du: '1565-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909845
+  catholic_hierarchy: bpolver
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:02+00:00'
+  completeness: 0.25

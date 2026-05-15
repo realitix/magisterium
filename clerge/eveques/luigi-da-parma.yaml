@@ -1,0 +1,53 @@
+slug: luigi-da-parma
+nom: Luigi da Parma
+nom_complet: Luigi Canali, O.F.M. Obs.
+naissance: '1836-02-08'
+deces: '1905-04-22'
+naissance_lieu: Parma, Diocese of Parma, Italy
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1901-08-18'
+  consecrateur_principal: francesco-di-paola-cassetta
+  co_consecrateurs:
+  - giacomo-ghezzi
+  - bernhard-dobbing
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanalil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Minister General of Order of Observant Friars Minor
+  du: 1889&sup2;
+  au: 1897&sup2;
+- titre: Titular Archbishop of Ptolemais in Thebaide
+  du: '1901-08-03'
+  au: '1905-04-22'
+- titre: archevêque catholique
+  du: '1901-01-01'
+  au: null
+- titre: archevêque titulaire de Ptolémaïs en Thébaïde
+  du: '1901-08-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Aloysius%20Canali%20von%20Parma.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64745900
+  catholic_hierarchy: bcanalil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:12:41+00:00'
+  completeness: 1.0

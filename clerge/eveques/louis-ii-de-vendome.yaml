@@ -1,0 +1,43 @@
+slug: louis-ii-de-vendome
+nom: Louis II de Vendôme
+nom_complet: Louis Cardinal de Vendôme
+naissance: '1612-10-01'
+deces: '1669-08-12'
+naissance_lieu: Paris, Diocese of Paris, France
+deces_lieu: null
+rang: cardinal
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvendome.html
+  - https://fr.wikipedia.org/wiki/Louis_II_de_Bourbon-Vend%C3%B4me
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Santa Maria in Portico (Campitelli)
+  du: null
+  au: '1669-08-12'
+- titre: cardinal
+  du: '1667-03-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20de%20Vend%C3%B4me%20duc%20de%20Mercoeur%20by%20Dumonstier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q938868
+  catholic_hierarchy: bvendome
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:31:13+00:00'
+  completeness: 0.38

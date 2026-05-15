@@ -1,0 +1,39 @@
+slug: lazzaro-scarampi
+nom: Lazzaro Scarampi
+nom_complet: null
+naissance: null
+deces: '1466'
+naissance_lieu: Asti, Diocese of Asti
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: ortlieb-von-brandis
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscaral.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Como, Italy
+  du: null
+  au: 1466&sup2;
+- titre: évêque de Côme
+  du: '1460-08-17'
+  au: '1466-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779120
+  catholic_hierarchy: bscaral
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:58:50+00:00'
+  completeness: 0.38

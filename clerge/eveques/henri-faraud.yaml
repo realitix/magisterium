@@ -1,0 +1,51 @@
+slug: henri-faraud
+nom: Henri Faraud
+nom_complet: Henri Joseph Faraud, O.M.I.
+naissance: '1823-03-17'
+deces: '1890-09-26'
+naissance_lieu: Gigondas, Archdiocese of Avignon, France
+deces_lieu: Saint-Boniface, Archdiocese of Saint-Boniface, Manitoba
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1863-11-30'
+  lieu: Saint-Martin, Cathedral Basilica, Tours, Archdiocese of Tours, France
+  consecrateur_principal: joseph-hippolyte-guibert
+  co_consecrateurs:
+  - guillaume-angebault
+  - jacques-marie-joseph-jeancard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfaraud.html
+  - https://fr.wikipedia.org/wiki/Henri_Faraud
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Athabaska Mackenzie, Alberta, Canada
+  du: '1863-05-16'
+  au: '1890-09-26'
+- titre: Titular Bishop of Anemurium
+  du: '1863-05-16'
+  au: null
+- titre: évêque titulaire
+  du: '1863-05-16'
+  au: null
+- titre: vicaire apostolique
+  du: '1863-05-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q378769
+  catholic_hierarchy: bfaraud
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:31:50+00:00'
+  completeness: 1.0

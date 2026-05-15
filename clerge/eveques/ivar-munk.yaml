@@ -1,0 +1,45 @@
+slug: ivar-munk
+nom: Ivar Munk
+nom_complet: Iver Munk
+naissance: '1450'
+deces: '1539-02-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmunki.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ribe, Denmark
+  du: '1499-04-17'
+  au: '1534-11-08'
+- titre: Bishop Emeritus of Ribe, Denmark
+  du: null
+  au: '1539-02-09'
+- titre: évêque diocésain
+  du: '1499-04-26'
+  au: '1534-11-18'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ribe%20domkirke%20-%20Epitaph%20Bischof%202a.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20732225
+  catholic_hierarchy: bmunki
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:19:51+00:00'
+  completeness: 0.38

@@ -1,0 +1,40 @@
+slug: elias-of-radnor
+nom: Elias of Radnor
+nom_complet: null
+naissance: null
+deces: '1240-05-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1230-12-01'
+  consecrateur_principal: richard-le-grant
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bradnore.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: '1230-08-30'
+  au: '1240-05-13'
+- titre: évêque diocésain
+  du: '1230-09-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762849
+  catholic_hierarchy: bradnore
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:58:14+00:00'
+  completeness: 0.75

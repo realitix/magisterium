@@ -1,0 +1,41 @@
+slug: guillaume-de-meschatin
+nom: Guillaume de Meschatin
+nom_complet: null
+naissance: '1637-09-01'
+deces: '1679-02-20'
+naissance_lieu: Theneville
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1677-08-08'
+  consecrateur_principal: francois-harlay-de-champvallon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmesch.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Meschatin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap, France
+  du: null
+  au: '1679-02-20'
+- titre: évêque diocésain
+  du: '1675-09-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24934977
+  catholic_hierarchy: bmesch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:53:20+00:00'
+  completeness: 0.75

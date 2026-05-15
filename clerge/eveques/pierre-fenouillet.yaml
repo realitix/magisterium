@@ -1,0 +1,42 @@
+slug: pierre-fenouillet
+nom: Pierre Fenouillet
+nom_complet: null
+naissance: '1572'
+deces: '1652-11-24'
+naissance_lieu: Annecy, Diocese of Grenoble
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1608-11-02'
+  lieu: Celestins, Paris, Diocese of Paris
+  consecrateur_principal: jean-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfenouil.html
+  - https://fr.wikipedia.org/wiki/Pierre_Fenouillet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montpellier, France
+  du: '1608-09-10'
+  au: '1652-11-24'
+- titre: évêque de Montpellier
+  du: '1608-09-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21634487
+  catholic_hierarchy: bfenouil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:36:13+00:00'
+  completeness: 0.75

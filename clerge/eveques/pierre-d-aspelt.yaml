@@ -1,0 +1,50 @@
+slug: pierre-d-aspelt
+nom: Pierre d'Aspelt
+nom_complet: Peter von Aspelt
+naissance: '1240'
+deces: '1320-06-05'
+naissance_lieu: Trier, Archdiocese of Trier
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: matteo-d-acquasparta
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baspelt.html
+  - https://fr.wikipedia.org/wiki/Pierre_d%27Aspelt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: '1297-03-31'
+  au: null
+- titre: Archbishop of Mainz, Germany
+  du: '1306-11-10'
+  au: '1320-06-05'
+- titre: évêque de Bâle
+  du: '1297-04-07'
+  au: '1306-11-18'
+- titre: archevêque de Mayence
+  du: '1306-11-18'
+  au: '1320-06-13'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Aspelt%20Peter.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q66386
+  catholic_hierarchy: baspelt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:46:42+00:00'
+  completeness: 0.62

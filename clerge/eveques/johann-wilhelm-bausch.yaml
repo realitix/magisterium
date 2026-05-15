@@ -1,0 +1,45 @@
+slug: johann-wilhelm-bausch
+nom: Johann Wilhelm Bausch
+nom_complet: null
+naissance: '1774-03-17'
+deces: '1840-04-09'
+naissance_lieu: Steinbach, Archdiocese of Trier
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1835-01-25'
+  lieu: St. Georges, Cathedral, Limburg, Diocese of Limburg
+  consecrateur_principal: wilhelm-arnold-gunther
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbausch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limburg, Germany
+  du: null
+  au: '1840-04-09'
+- titre: évêque de Limbourg
+  du: '1834-01-01'
+  au: '1840-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Bausch%201840.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1696557
+  catholic_hierarchy: bbausch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:09:08+00:00'
+  completeness: 0.88

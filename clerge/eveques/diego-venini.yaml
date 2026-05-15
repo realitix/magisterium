@@ -1,0 +1,57 @@
+slug: diego-venini
+nom: Diego Venini
+nom_complet: null
+naissance: '1889-10-04'
+deces: '1981-07-20'
+naissance_lieu: Fiumelatte di Varenna, Archdiocese of Milano {Milan}, Italy
+deces_lieu: Milano, Archdiocese of Milano {Milan}, Italy
+rang: archeveque
+nationalite: Q38
+tampon: ordo_validus
+sacre:
+  date: '1951-02-04'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: eugene-tisserant-1884
+  co_consecrateurs:
+  - carlo-confalonieri
+  - francesco-beretti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvenini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Secret Almoner of the Office of Papal Charities
+  du: '1951-01-12'
+  au: null
+- titre: Titular Archbishop of Adana
+  du: '1951-01-12'
+  au: null
+- titre: Secret Almoner Emeritus of the Office of Papal Charities
+  du: null
+  au: '1981-07-20'
+- titre: archevêque catholique
+  du: '1951-02-04'
+  au: null
+- titre: archevêque titulaire
+  du: '1951-01-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Venini%20in%201935.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15283199
+  catholic_hierarchy: bvenini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:31:48+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: jacinto-del-cerro-o-p
+nom: Jacinto del Cerro, O.P.
+nom_complet: Jacinto del Cerro
+naissance: '1583'
+deces: '1635-10-13'
+naissance_lieu: Toledo, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1634-04-18'
+  lieu: Santa Maria sopra Minerva, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: domingo-cardinal-pimentel-zuniga-o-p
+  co_consecrateurs:
+  - dezio-giustiniani
+  - gerolamo-maria-jacopo-zambeccari-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcerro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gaeta, Italy
+  du: null
+  au: '1635-10-13'
+- titre: évêque de Gaète
+  du: '1633-09-06'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64747991
+  catholic_hierarchy: bcerro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:38:12+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: george-de-athequa
+nom: George de Athequa
+nom_complet: George de Athequa, O.P.
+naissance: '1500'
+deces: '1537-02-01'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1517-03-08'
+  lieu: Blackfriars, London, Vicariate Apostolic of England (and Wales)
+  consecrateur_principal: charles-booth
+  co_consecrateurs:
+  - john-young-1463
+  - francis-sexello-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bathequa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: '1517-02-11'
+  au: Feb 1537&sup2;
+- titre: évêque catholique de Llandaff
+  du: '1517-02-21'
+  au: '1537-02-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q5546678
+  catholic_hierarchy: bathequa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:48:04+00:00'
+  completeness: 0.75

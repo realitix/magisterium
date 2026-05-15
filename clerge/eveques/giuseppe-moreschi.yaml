@@ -1,0 +1,47 @@
+slug: giuseppe-moreschi
+nom: Giuseppe Moreschi
+nom_complet: null
+naissance: '1816-05-21'
+deces: '1887-11-09'
+naissance_lieu: Santa Maria Nuova, Diocese of Jesi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-12-17'
+  lieu: Santa Maria Magdalena, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: camillo-di-pietro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoreg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Città di Castello, Italy
+  du: '1871-11-24'
+  au: '1887-11-09'
+- titre: Apostolic Administrator of Sansepolcro (Borgo San Sepolcro), Italy
+  du: '1871-11-24'
+  au: 1872&sup2;
+- titre: évêque de Città di Castello
+  du: '1871-11-24'
+  au: null
+- titre: administrateur apostolique
+  du: '1871-11-24'
+  au: '1872-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64764064
+  catholic_hierarchy: bmoreg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:11:23+00:00'
+  completeness: 0.88

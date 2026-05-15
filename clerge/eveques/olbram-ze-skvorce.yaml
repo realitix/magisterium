@@ -1,0 +1,39 @@
+slug: olbram-ze-skvorce
+nom: Olbram ze Škvorce
+nom_complet: Olbram ze &#352;kvorce
+naissance: '1400'
+deces: '1402-05-11'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bskvorce.html
+  - https://fr.wikipedia.org/wiki/Olbram_ze_%C5%A0kvorce
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Praha {Prague}, Czechia
+  du: '1396-01-31'
+  au: '1402-05-11'
+- titre: archevêque catholique
+  du: '1396-02-08'
+  au: '1402-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1498264
+  catholic_hierarchy: bskvorce
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:22:41+00:00'
+  completeness: 0.38

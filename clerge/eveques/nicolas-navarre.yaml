@@ -1,0 +1,46 @@
+slug: nicolas-navarre
+nom: Nicolas Navarre
+nom_complet: null
+naissance: '1683-11-29'
+deces: '1753-09-25'
+naissance_lieu: Lyon, Archdiocese of Lyon
+deces_lieu: Lyon, Archdiocese of Lyon
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1735-07-10'
+  consecrateur_principal: charles-francois-de-chateauneuf-de-rochebonne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnavarn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lyon, France
+  du: '1735-05-25'
+  au: '1753-09-25'
+- titre: Titular Bishop of Cydonia (Agia, Canea)
+  du: '1735-05-25'
+  au: null
+- titre: évêque titulaire
+  du: '1735-05-25'
+  au: null
+- titre: évêque auxiliaire
+  du: '1735-05-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751792
+  catholic_hierarchy: bnavarn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:27:03+00:00'
+  completeness: 0.88

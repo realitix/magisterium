@@ -1,0 +1,42 @@
+slug: thomas-brinton
+nom: Thomas Brinton
+nom_complet: Thomas de Brintone, O.S.B.
+naissance: '1350'
+deces: '1389'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1373-02-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrint.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1373-01-31'
+  au: 1389&sup2;
+- titre: évêque de Rochester
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1373-02-08'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q7787902
+  catholic_hierarchy: bbrint
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:52:33+00:00'
+  completeness: 0.38

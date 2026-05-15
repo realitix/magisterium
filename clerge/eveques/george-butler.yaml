@@ -1,0 +1,53 @@
+slug: george-butler
+nom: George Butler
+nom_complet: null
+naissance: '1815-02-13'
+deces: '1886-02-03'
+naissance_lieu: Limerick, Diocese of Limerick
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1863-07-25'
+  lieu: St. John, Cathedral, Limerick, Diocese of Limerick
+  consecrateur_principal: patrick-leahy
+  co_consecrateurs:
+  - william-keane
+  - michael-flannery
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbutlg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Limerick, Ireland
+  du: '1861-06-18'
+  au: null
+- titre: Titular Bishop of Cydonia (Agia, Canea)
+  du: '1861-06-18'
+  au: null
+- titre: Bishop of Limerick, Ireland
+  du: null
+  au: '1886-02-03'
+- titre: évêque diocésain
+  du: '1864-06-06'
+  au: null
+- titre: évêque titulaire
+  du: '1861-06-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747028
+  catholic_hierarchy: bbutlg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:02:21+00:00'
+  completeness: 1.0

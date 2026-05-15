@@ -1,0 +1,44 @@
+slug: beniamino-feuli
+nom: Beniamino Feuli
+nom_complet: null
+naissance: '1820-12-30'
+deces: '1884-01-19'
+naissance_lieu: Benevento, Archdiocese of Benevento
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1880-03-19'
+  lieu: St Louis des Francais, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: edoardo-borromeo
+  co_consecrateurs:
+  - francesco-marinelli-o-e-s-a
+  - herbert-vaughan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfeuli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Manfredonia (e Vieste), Italy
+  du: '1880-02-27'
+  au: '1884-01-19'
+- titre: Roman Catholic Archbishop of Manfredonia-Vieste-San Giovanni Rotondo
+  du: '1880-03-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24266750
+  catholic_hierarchy: bfeuli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:42:06+00:00'
+  completeness: 1.0

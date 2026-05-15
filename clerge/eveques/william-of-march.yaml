@@ -1,0 +1,43 @@
+slug: william-of-march
+nom: William of March
+nom_complet: null
+naissance: '1250'
+deces: '1302-06-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1293-05-17'
+  consecrateur_principal: richard-gravesend
+  co_consecrateurs:
+  - william-of-louth
+  - thomas-wouldham
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarchw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bath and Wells, England, Great Britain
+  du: '1293-01-30'
+  au: '1302-06-11'
+- titre: évêque de Bath et Wells
+  du: '1293-02-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16206868
+  catholic_hierarchy: bmarchw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:57+00:00'
+  completeness: 0.88

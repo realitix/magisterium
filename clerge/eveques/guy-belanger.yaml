@@ -1,0 +1,44 @@
+slug: guy-belanger
+nom: Guy Bélanger
+nom_complet: null
+naissance: '1928-01-24'
+deces: '1975-10-15'
+naissance_lieu: Ste-Cécile, Diocese of Valleyfield, Québec
+deces_lieu: Hospital, Cartierville, Diocese of Valleyfield, Québec
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '1969-11-23'
+  lieu: Sainte-Cécile, Cathedral, Valleyfield, Diocese of Valleyfield, Québec
+  consecrateur_principal: emanuele-clarizio
+  co_consecrateurs:
+  - paul-gregoire
+  - percival-caza
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbelag.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valleyfield, Québec, Canada
+  du: '1969-10-17'
+  au: '1975-10-15'
+- titre: évêque de Valleyfield
+  du: '1969-10-17'
+  au: '1975-10-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26945345
+  catholic_hierarchy: bbelag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:07+00:00'
+  completeness: 1.0

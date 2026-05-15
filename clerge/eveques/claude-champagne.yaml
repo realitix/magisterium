@@ -1,0 +1,66 @@
+slug: claude-champagne
+nom: Claude Champagne
+nom_complet: Claude Champagne, O.M.I.
+naissance: '1947-07-22'
+deces: null
+naissance_lieu: Lachine, Archdiocese of Québec
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2003-06-11'
+  lieu: "Ste-Marie, Church, Pointe-à-l\x92Eglise"
+  consecrateur_principal: terrence-prendergast
+  co_consecrateurs:
+  - austin-emile-burke
+  - gilles-cazabon
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcham.html
+  - https://fr.wikipedia.org/wiki/Claude_Champagne_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Halifax, Nova Scotia, Canada
+  du: '2003-03-25'
+  au: null
+- titre: Titular Bishop of Sufasar
+  du: '2003-03-25'
+  au: null
+- titre: Apostolic Administrator of Halifax, Nova Scotia, Canada
+  du: '2007-07-13'
+  au: '2007-11-29'
+- titre: Apostolic Administrator of Yarmouth, Nova Scotia, Canada
+  du: '2007-07-13'
+  au: '2007-10-18'
+- titre: Bishop of Edmundston, New Brunswick, Canada
+  du: '2009-01-05'
+  au: null
+- titre: évêque titulaire
+  du: '2003-03-25'
+  au: '2009-01-05'
+- titre: évêque auxiliaire
+  du: '2003-03-25'
+  au: '2009-01-05'
+- titre: évêque d'Edmundston
+  du: '2009-01-05'
+  au: null
+- titre: administrateur apostolique
+  du: '2007-07-13'
+  au: '2007-10-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1096572
+  catholic_hierarchy: bcham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:29+00:00'
+  completeness: 0.88

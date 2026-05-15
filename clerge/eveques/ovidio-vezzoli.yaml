@@ -1,0 +1,44 @@
+slug: ovidio-vezzoli
+nom: Ovidio Vezzoli
+nom_complet: null
+naissance: '1956-01-02'
+deces: null
+naissance_lieu: Adro, Diocese of Brescia
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2017-07-02'
+  lieu: Cathedral, Brescia, Diocese of Brescia
+  consecrateur_principal: luciano-monari
+  co_consecrateurs:
+  - bruno-foresti
+  - carlo-mazza
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvezz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fidenza, Italy
+  du: '2017-03-17'
+  au: null
+- titre: Roman Catholic Bishop of Fidenza
+  du: '2017-03-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28954408
+  catholic_hierarchy: bvezz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:09+00:00'
+  completeness: 0.88

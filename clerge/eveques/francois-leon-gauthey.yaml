@@ -1,0 +1,53 @@
+slug: francois-leon-gauthey
+nom: François-Léon Gauthey
+nom_complet: null
+naissance: '1848-03-01'
+deces: '1918-07-25'
+naissance_lieu: Châlon sur Saone
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-02-25'
+  co_consecrateurs:
+  - louis-joseph-lucon
+  - emile-christophe-enard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgauth.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois-L%C3%A9on_Gauthey
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nevers, France
+  du: '1906-02-21'
+  au: null
+- titre: Archbishop of Besançon, France
+  du: '1910-01-20'
+  au: '1918-07-25'
+- titre: évêque de Nevers
+  du: '1906-02-21'
+  au: '1910-01-20'
+- titre: archevêque de Besançon
+  du: '1910-01-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Gauthey-s%C3%A9minaire-Luxeuil.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3083520
+  catholic_hierarchy: bgauth
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:17+00:00'
+  completeness: 0.88

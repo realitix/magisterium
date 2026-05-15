@@ -1,0 +1,50 @@
+slug: robert-de-bingham
+nom: Robert de Bingham
+nom_complet: Robert Bingham
+naissance: '1180'
+deces: '1246-11-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1229-05-27'
+  consecrateur_principal: joceline-of-wells
+  co_consecrateurs:
+  - william-de-blois-1150-1066c0
+  - alexander-stavensby
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbingham.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1228-09-25'
+  au: '1246-11-03'
+- titre: évêque diocésain
+  du: '1228-10-02'
+  au: null
+- titre: évêque de Salisbury
+  du: '1228-01-01'
+  au: '1246-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Salisburycathedralrobertbinghamtomb.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7351385
+  catholic_hierarchy: bbingham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:27:54+00:00'
+  completeness: 0.88

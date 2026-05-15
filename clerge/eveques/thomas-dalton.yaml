@@ -1,0 +1,46 @@
+slug: thomas-dalton
+nom: Thomas Dalton
+nom_complet: null
+naissance: null
+deces: '1325'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1294-10-10'
+  consecrateur_principal: john-le-romain-romanus
+  co_consecrateurs:
+  - john-de-halton
+  - leoline-bromfield
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaltont.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Whithorn-Galloway, Scotland, Great Britain
+  du: 1294&sup1;
+  au: 1325&sup1;
+- titre: évêque diocésain
+  du: null
+  au: null
+- titre: bishop of Galloway, Scotland 1128-1558
+  du: '1294-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781139
+  catholic_hierarchy: bdaltont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:24:24+00:00'
+  completeness: 0.75

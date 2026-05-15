@@ -1,0 +1,49 @@
+slug: lorenzo-azzolini
+nom: Lorenzo Azzolini
+nom_complet: null
+naissance: '1583'
+deces: '1633-11-01'
+naissance_lieu: Fermo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1620-02-25'
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - orazio-mattei-1574
+  - sebastiano-poggi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bazzoll.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ripatransone, Italy
+  du: '1620-02-17'
+  au: null
+- titre: Bishop of Narni, Italy
+  du: '1632-08-02'
+  au: 1633-11
+- titre: Roman Catholic Bishop of Ripatransone
+  du: '1620-02-17'
+  au: null
+- titre: Roman Catholic Bishop of Narni
+  du: '1632-08-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15089524
+  catholic_hierarchy: bazzoll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:53:20+00:00'
+  completeness: 0.75

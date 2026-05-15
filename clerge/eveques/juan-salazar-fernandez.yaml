@@ -1,0 +1,40 @@
+slug: juan-salazar-fernandez
+nom: Juan Salazar Fernández
+nom_complet: null
+naissance: '1493'
+deces: '1555-09-12'
+naissance_lieu: Cascajares, Diocese of Burgos, Spain
+deces_lieu: London, Diocese of London, England, Great Britain
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: jakob-eliner
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalfe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lanciano, Italy
+  du: '1540-04-30'
+  au: '1555-09-12'
+- titre: évêque diocésain
+  du: '1540-05-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744807
+  catholic_hierarchy: bsalfe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:43:56+00:00'
+  completeness: 0.5

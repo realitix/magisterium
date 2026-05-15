@@ -1,0 +1,48 @@
+slug: giuseppe-marzorati
+nom: Giuseppe Marzorati
+nom_complet: null
+naissance: '1818-11-22'
+deces: '1865-03-25'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1858-07-04'
+  lieu: San Carlo al Corso, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - antonio-ligi-bussi
+  - carlo-caccia-dominioni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarzorat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Como, Italy
+  du: '1858-06-25'
+  au: '1865-03-25'
+- titre: évêque de Côme
+  du: '1858-06-25'
+  au: '1865-03-25'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vescovo%20di%20Como%20Giuseppe%20Marzorati%201858-1865.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3770951
+  catholic_hierarchy: bmarzorat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:34:14+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: paulus-abstemius
+nom: Paulus Abstemius
+nom_complet: Pál Bornemissza
+naissance: '1499-01-19'
+deces: '1579-12-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbornep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veszprém, Hungary
+  du: '1550-07-04'
+  au: null
+- titre: Bishop of Transilvania, Erdély, Siebenbürgen, Romania
+  du: '1554-08-03'
+  au: null
+- titre: Bishop of Nitra, Slovakia
+  du: '1560-07-17'
+  au: 1579&sup2;
+- titre: Roman Catholic Bishop of Transilvania, Erdély, Siebenbürgen
+  du: '1554-08-13'
+  au: null
+- titre: Évêque de Nitra
+  du: '1560-07-27'
+  au: null
+- titre: évêque de Veszprém
+  du: '1550-07-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q835059
+  catholic_hierarchy: bbornep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:03+00:00'
+  completeness: 0.25

@@ -1,0 +1,44 @@
+slug: jean-le-normand
+nom: Jean Le Normand
+nom_complet: null
+naissance: '1662'
+deces: '1733-05-07'
+naissance_lieu: Orléans, Diocese of Orléans
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1710-12-21'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - rene-francois-de-beauvau-du-rivau
+  - vincent-francois-desmarets
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blenorm.html
+  - https://fr.wikipedia.org/wiki/Jean_Le_Normand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: '1710-11-10'
+  au: '1733-05-07'
+- titre: évêque diocésain
+  du: '1710-11-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816515
+  catholic_hierarchy: blenorm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:43:39+00:00'
+  completeness: 0.88

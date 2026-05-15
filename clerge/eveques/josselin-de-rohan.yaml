@@ -1,0 +1,39 @@
+slug: josselin-de-rohan
+nom: Josselin de Rohan
+nom_complet: null
+naissance: null
+deces: '1389-03-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brohanj.html
+  - https://fr.wikipedia.org/wiki/Josselin_de_Rohan_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Malo, France
+  du: '1376-04-07'
+  au: '1389-03-21'
+- titre: évêque diocésain
+  du: '1375-07-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3186105
+  catholic_hierarchy: brohanj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:23:26+00:00'
+  completeness: 0.38

@@ -1,0 +1,48 @@
+slug: galeazzo-sanvitale
+nom: Galeazzo Sanvitale
+nom_complet: null
+naissance: '1566-12-06'
+deces: '1622-09-08'
+naissance_lieu: Parma, Diocese of Parma
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1604-04-04'
+  lieu: Apostolic Sacristy, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-cardinal-bernerio-o-p
+  co_consecrateurs:
+  - claudio-rangoni-1562
+  - giovanni-ambrogio-caccia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanv.html
+  - https://fr.wikipedia.org/wiki/Galeazzo_Sanvitale
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Bari (-Canosa), Italy
+  du: '1604-03-15'
+  au: 1606&sup2;
+- titre: Archbishop Emeritus of Bari (-Canosa), Italy
+  du: null
+  au: '1622-09-08'
+- titre: Archevêque de Bari
+  du: '1604-04-04'
+  au: '1606-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q785289
+  catholic_hierarchy: bsanv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:52:21+00:00'
+  completeness: 0.88

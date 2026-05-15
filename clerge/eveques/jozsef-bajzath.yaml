@@ -1,0 +1,44 @@
+slug: jozsef-bajzath
+nom: József Bajzáth
+nom_complet: null
+naissance: '1720-02-06'
+deces: '1802-02-24'
+naissance_lieu: Esztergom, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1777-06-22'
+  lieu: Chapel of the Consecrator, Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: jozsef-batthyany
+  co_consecrateurs:
+  - heinrich-johann-von-kerens
+  - giovanni-battista-caballini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbajzath.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veszprém, Hungary
+  du: null
+  au: '1802-02-24'
+- titre: évêque de Veszprém
+  du: '1777-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q788865
+  catholic_hierarchy: bbajzath
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:56:36+00:00'
+  completeness: 1.0

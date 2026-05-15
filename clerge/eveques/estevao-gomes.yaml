@@ -1,0 +1,34 @@
+slug: estevao-gomes
+nom: Estevão Gomes
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgomese.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lisboa, Portugal
+  du: 1234&sup2;
+  au: null
+- titre: Bishop-Elect of Lisboa, Portugal
+  du: null
+  au: '1237-07-29'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bgomese
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:31:39+00:00'
+  completeness: 0.25

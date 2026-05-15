@@ -1,0 +1,43 @@
+slug: blas-serrate
+nom: Blas Serrate
+nom_complet: null
+naissance: '1651'
+deces: '1718-07-13'
+naissance_lieu: La Almolda
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1702-02-19'
+  consecrateur_principal: antonio-ibanez-de-la-riva-herrera
+  co_consecrateurs:
+  - lamberto-manuel-lopez
+  - luis-pueyo-y-abadia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserrate.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: '1701-11-21'
+  au: '1718-07-13'
+- titre: évêque de Tarazona
+  du: '1701-11-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744769
+  catholic_hierarchy: bserrate
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:02+00:00'
+  completeness: 0.88

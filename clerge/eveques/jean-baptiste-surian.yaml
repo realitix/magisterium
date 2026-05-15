@@ -1,0 +1,51 @@
+slug: jean-baptiste-surian
+nom: Jean-Baptiste Surian
+nom_complet: null
+naissance: '1670-05-20'
+deces: '1754-08-03'
+naissance_lieu: Saint-Chamans
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1728-06-13'
+  consecrateur_principal: francois-honore-de-grimaldi
+  co_consecrateurs:
+  - vincent-francois-desmarets
+  - louis-francois-de-vivet-de-montclus
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsurian.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Surian
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vence, France
+  du: null
+  au: '1754-08-03'
+- titre: évêque de Vence
+  du: '1727-12-29'
+  au: null
+- titre: fauteuil 25 de l'Académie française
+  du: '1733-01-26'
+  au: '1754-08-03'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20de%20Surian%2C%20%C3%A9v%C3%AAque%20de%20Vence%20%281727-1754%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q366972
+  catholic_hierarchy: bsurian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:44:25+00:00'
+  completeness: 1.0

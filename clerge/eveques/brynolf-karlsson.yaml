@@ -1,0 +1,38 @@
+slug: brynolf-karlsson
+nom: Brynolf Karlsson
+nom_complet: null
+naissance: '1351'
+deces: '1430'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q34
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkarlsso.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skara, Sweden
+  du: '1405-03-23'
+  au: 1424&sup1;
+- titre: évêque diocésain
+  du: '1405-04-01'
+  au: '1424-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16912304
+  catholic_hierarchy: bkarlsso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:08:19+00:00'
+  completeness: 0.25

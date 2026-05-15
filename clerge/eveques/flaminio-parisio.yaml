@@ -1,0 +1,38 @@
+slug: flaminio-parisio
+nom: Flaminio Parisio
+nom_complet: null
+naissance: '1563'
+deces: '1603'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bparisio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bitonto, Italy
+  du: '1593-09-17'
+  au: 1603&sup2;
+- titre: évêque diocésain
+  du: '1593-09-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55229092
+  catholic_hierarchy: bparisio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:10:19+00:00'
+  completeness: 0.25

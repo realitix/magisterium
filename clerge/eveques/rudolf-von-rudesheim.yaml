@@ -1,0 +1,48 @@
+slug: rudolf-von-rudesheim
+nom: Rudolf von Rüdesheim
+nom_complet: Rudolf of Rüdesheim
+naissance: '1402'
+deces: '1482-01-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brudes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavant, Slovenia
+  du: '1463-09-26'
+  au: null
+- titre: Bishop of Wroc&#322;aw (Breslau), Poland
+  du: null
+  au: '1482-01-17'
+- titre: évêque de Wrocław
+  du: '1468-01-29'
+  au: '1482-01-01'
+- titre: évêque de Lavant
+  du: '1463-10-05'
+  au: '1468-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf%20von%20Ruedesheim.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q329665
+  catholic_hierarchy: brudes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:34:26+00:00'
+  completeness: 0.38

@@ -1,0 +1,44 @@
+slug: carlo-impellizzeri
+nom: Carlo Impellizzeri
+nom_complet: Charles Impellizzeri
+naissance: null
+deces: '1656'
+naissance_lieu: Noto, Diocese of Siracusa
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1651-01-08'
+  lieu: San Silvestro in Monte Cavallo, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: francesco-cardinal-peretti-di-montalto
+  co_consecrateurs:
+  - ranuccio-scotti-douglas
+  - francesco-biglia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bimpellc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mazara del Vallo, Italy
+  du: '1650-12-19'
+  au: 1656&sup1;
+- titre: évêque diocésain
+  du: '1650-12-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23614185
+  catholic_hierarchy: bimpellc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:52:56+00:00'
+  completeness: 0.75

@@ -1,0 +1,52 @@
+slug: jacques-noyer
+nom: Jacques Noyer
+nom_complet: Jacques Moïse Eugène Noyer
+naissance: '1927-04-17'
+deces: '2020-06-02'
+naissance_lieu: Le Touquet-Paris-Plage, Diocese of Arras (-Boulogne-Saint-Omer)
+deces_lieu: Le Touquet, Diocese of Arras (-Boulogne-Saint-Omer)
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1987-12-13'
+  lieu: Notre Dame, Cathedral, Amiens, Diocese of Amiens
+  consecrateur_principal: henri-derouet
+  co_consecrateurs:
+  - jacques-menager
+  - gerard-maurice-eugene-huyghe
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnoyer.html
+  - https://fr.wikipedia.org/wiki/Jacques_Noyer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: '1987-10-31'
+  au: null
+- titre: Bishop Emeritus of Amiens, France
+  du: null
+  au: '2020-06-02'
+- titre: évêque d'Amiens
+  du: '1987-10-31'
+  au: '2003-03-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20-%20Mgr%20Jacques%20Noyer%20-%202.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1345354
+  catholic_hierarchy: bnoyer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:39:15+00:00'
+  completeness: 1.0

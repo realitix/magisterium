@@ -1,0 +1,44 @@
+slug: marco-cornaro
+nom: Marco Cornaro
+nom_complet: Marco Cornaro (Corner)
+naissance: '1557'
+deces: '1625-06-11'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1594-12-21'
+  lieu: S.Silvestre au Quirinal, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: agostino-cardinal-valier-valeri-valieri
+  co_consecrateurs:
+  - francesco-cornaro-iuniore
+  - antonio-grimani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcornerma.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Padova {Padua}, Italy
+  du: '1594-12-12'
+  au: '1625-06-11'
+- titre: évêque diocésain
+  du: '1594-12-12'
+  au: '1625-06-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25209456
+  catholic_hierarchy: bcornerma
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:06:44+00:00'
+  completeness: 0.88

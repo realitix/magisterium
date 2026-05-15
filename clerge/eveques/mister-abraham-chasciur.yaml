@@ -1,0 +1,43 @@
+slug: mister-abraham-chasciur
+nom: Mister Abraham Chasciùr
+nom_complet: Abraham Chasciùr
+naissance: '1802-03-19'
+deces: '1877'
+naissance_lieu: null
+deces_lieu: Spoleto
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1824-08-01'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - pietro-caprano
+  - filippo-filonardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchasci.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Memphis
+  du: '1824-07-27'
+  au: null
+- titre: archevêque titulaire
+  du: '1824-07-27'
+  au: '1826-02-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q69598432
+  catholic_hierarchy: bchasci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:23+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: tiberio-durante
+nom: Tiberio Durante
+nom_complet: null
+naissance: '1837-08-02'
+deces: '1899-10-31'
+naissance_lieu: Bovino, Diocese of Bovino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1882-10-01'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - giulio-lenti
+  - placido-maria-schiaffino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdurat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Potenza e Marsico Nuovo, Italy
+  du: '1882-09-25'
+  au: '1899-10-31'
+- titre: Roman Catholic Bishop of Potenza and Marsico Nuovo
+  du: '1882-09-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734406
+  catholic_hierarchy: bdurat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:15:13+00:00'
+  completeness: 1.0

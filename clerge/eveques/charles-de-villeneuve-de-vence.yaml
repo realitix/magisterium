@@ -1,0 +1,48 @@
+slug: charles-de-villeneuve-de-vence
+nom: Charles de Villeneuve de Vence
+nom_complet: null
+naissance: '1645'
+deces: '1702-04-12'
+naissance_lieu: Vence
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1694-04-18'
+  consecrateur_principal: daniel-de-cosnac
+  co_consecrateurs:
+  - armand-louis-bonnin-de-chalucet
+  - charles-gaspard-guillaume-de-vintimille-du-luc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillenv.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Villeneuve-Vence
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: null
+  au: '1702-04-12'
+- titre: évêque de Glandèves
+  du: '1686-04-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monseigneur%20Charles%20de%20Villeneuve-Vence.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1066609
+  catholic_hierarchy: bvillenv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:02+00:00'
+  completeness: 0.88

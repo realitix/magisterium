@@ -1,0 +1,45 @@
+slug: tomas-carbonell
+nom: Tomás Carbonell
+nom_complet: Baltasar Tomás Carbonell y Sánchez, O.P.
+naissance: '1621-01-06'
+deces: '1692-04-05'
+naissance_lieu: Madrid, Archdiocese of Toledo
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1677-09-26'
+  lieu: Santo Tomás, Church, Madrid, Archdiocese of Toledo
+  consecrateur_principal: savo-millini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarbont.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sigüenza, Spain
+  du: null
+  au: '1692-04-05'
+- titre: évêque de Sigüenza
+  du: '1677-03-18'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20tomas%20carbonel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6148449
+  catholic_hierarchy: bcarbont
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:20:17+00:00'
+  completeness: 0.88

@@ -1,0 +1,51 @@
+slug: leon-albert-terrier
+nom: Léon-Albert Terrier
+nom_complet: Léon Terrier
+naissance: '1893-07-06'
+deces: '1957-05-12'
+naissance_lieu: La Balme-de-Sillingy, Diocese of Annecy
+deces_lieu: Bayonne, Diocese of Bayonne (-Lescar e Oloron)
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1938-11-30'
+  lieu: Cathedral, Annecy, Diocese of Annecy
+  consecrateur_principal: florent-du-bois-de-la-villerabel
+  co_consecrateurs:
+  - joseph-marietan
+  - auguste-grumel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bterr.html
+  - https://fr.wikipedia.org/wiki/L%C3%A9on-Albert_Terrier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarentaise, France
+  du: '1938-09-14'
+  au: null
+- titre: Bishop of Bayonne (-Lescar e Oloron), France
+  du: '1944-07-24'
+  au: '1957-05-12'
+- titre: évêque de Bayonne, Lescar et Oloron
+  du: '1944-07-24'
+  au: '1957-05-12'
+- titre: évêque de Tarentaise
+  du: '1938-09-14'
+  au: '1944-07-24'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12262783
+  catholic_hierarchy: bterr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:55:15+00:00'
+  completeness: 1.0

@@ -1,0 +1,76 @@
+slug: jean-baptiste-lamy
+nom: Jean-Baptiste Lamy
+nom_complet: John Baptist Lamy
+naissance: '1814-10-11'
+deces: '1888-02-13'
+naissance_lieu: Lempdes, Diocese of Clermont, France
+deces_lieu: Santa Fe, Archdiocese of Santa Fe, New Mexico
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1850-11-24'
+  lieu: St. Peter in Chains, Cathedral, Cincinnati, Diocese of Cincinnati, Ohio
+  consecrateur_principal: martin-john-spalding
+  co_consecrateurs:
+  - maurice-de-saint-palais
+  - louis-amedee-rappe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blamy.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Lamy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of New Mexico, USA
+  du: '1850-07-19'
+  au: null
+- titre: Titular Bishop of Agathonice
+  du: '1850-07-19'
+  au: null
+- titre: Bishop of Santa Fe, New Mexico, USA
+  du: '1853-07-29'
+  au: null
+- titre: Archbishop of Santa Fe, New Mexico, USA
+  du: '1875-02-12'
+  au: 19 Jul 1885&sup3;
+- titre: Titular Archbishop of Cyzicus
+  du: '1885-08-18'
+  au: null
+- titre: Archbishop Emeritus of Santa Fe, New Mexico, USA
+  du: null
+  au: '1888-02-13'
+- titre: vicaire apostolique
+  du: '1850-07-19'
+  au: '1853-07-29'
+- titre: bishop of Santa Fe
+  du: '1853-07-29'
+  au: '1875-02-12'
+- titre: archevêque de Santa Fe
+  du: '1875-02-12'
+  au: '1885-07-19'
+- titre: évêque titulaire
+  du: '1850-07-19'
+  au: null
+- titre: archevêque titulaire
+  du: '1885-08-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lamy2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3164205
+  catholic_hierarchy: blamy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:30:14+00:00'
+  completeness: 1.0

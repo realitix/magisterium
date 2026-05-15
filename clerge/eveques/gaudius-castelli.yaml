@@ -1,0 +1,44 @@
+slug: gaudius-castelli
+nom: Gaudius Castelli
+nom_complet: null
+naissance: '1577'
+deces: '1638'
+naissance_lieu: Terni, Diocese of Terni
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1637-01-18'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - clement-x
+  - filippo-cansacchi-consacchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastllg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montepeloso, Italy
+  du: '1637-01-12'
+  au: 1638&sup1;
+- titre: évêque diocésain
+  du: '1637-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752203
+  catholic_hierarchy: bcastllg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:31:21+00:00'
+  completeness: 0.75

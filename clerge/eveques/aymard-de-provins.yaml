@@ -1,0 +1,38 @@
+slug: aymard-de-provins
+nom: Aymard de Provins
+nom_complet: null
+naissance: null
+deces: '1219-05-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprovins.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Soissons, France
+  du: Jul 1208&sup3;
+  au: '1219-05-20'
+- titre: évêque de Soissons
+  du: '1208-07-01'
+  au: '1219-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447589
+  catholic_hierarchy: bprovins
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:51:01+00:00'
+  completeness: 0.38

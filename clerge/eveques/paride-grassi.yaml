@@ -1,0 +1,54 @@
+slug: paride-grassi
+nom: Paride Grassi
+nom_complet: Paride de Grassis
+naissance: '1470'
+deces: '1528-06-10'
+naissance_lieu: Bologna, Diocese of Bologna
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1513-05-16'
+  lieu: S. Lorenzo in Lucina, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: achille-grassi-1456
+  co_consecrateurs:
+  - bernardo-de-rsquo-rossi
+  - gabriele-mascioli-foschi-o-e-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdegr.html
+  - https://fr.wikipedia.org/wiki/Paris_de_Grassis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Official of the Roman Curia - Other
+  du: '1504-05-18'
+  au: null
+- titre: Bishop of Pesaro, Italy
+  du: '1513-04-04'
+  au: '1528-06-10'
+- titre: maître de cérémonie pontificale
+  du: '1504-06-05'
+  au: '1506-05-26'
+- titre: évêque diocésain
+  du: '1513-04-14'
+  au: null
+- titre: premier maître de cérémonie pontificale
+  du: '1506-05-26'
+  au: '1528-06-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3895848
+  catholic_hierarchy: bdegr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:37:49+00:00'
+  completeness: 0.88

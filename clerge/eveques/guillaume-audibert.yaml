@@ -1,0 +1,46 @@
+slug: guillaume-audibert
+nom: Guillaume Audibert
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1337-03-02'
+  consecrateur_principal: annibaldo-cardinal-di-ceccano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baudibert.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1336-12-02'
+  au: null
+- titre: Bishop of Périgueux (Vesuna), France
+  du: '1341-10-01'
+  au: 1347&sup1;
+- titre: évêque diocésain
+  du: '1341-10-09'
+  au: null
+- titre: évêque diocésain
+  du: '1336-12-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780051
+  catholic_hierarchy: baudibert
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:10+00:00'
+  completeness: 0.62

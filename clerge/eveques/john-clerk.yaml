@@ -1,0 +1,39 @@
+slug: john-clerk
+nom: John Clerk
+nom_complet: null
+naissance: '1481'
+deces: '1541-01-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1523-12-06'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclerk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bath and Wells, England, Great Britain
+  du: '1523-03-26'
+  au: '1541-01-03'
+- titre: évêque de Bath et Wells
+  du: '1523-04-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4223411
+  catholic_hierarchy: bclerk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:07+00:00'
+  completeness: 0.5

@@ -1,0 +1,45 @@
+slug: jean-francois-augustin-galtier
+nom: Jean-François-Augustin Galtier
+nom_complet: null
+naissance: '1799-07-26'
+deces: '1858-06-29'
+naissance_lieu: Brousse-le-Château
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1856-08-10'
+  lieu: S. Etienne, Cathedral, Toulouse, Archdiocese of Toulouse (-Narbonne)
+  consecrateur_principal: jean-marie-mioland
+  co_consecrateurs:
+  - henri-de-bonnechose
+  - philippe-gerbet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgalti.html
+  - https://fr.wikipedia.org/wiki/Augustin_Galtier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers, France
+  du: null
+  au: '1858-06-29'
+- titre: évêque diocésain
+  du: '1856-05-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64691752
+  catholic_hierarchy: bgalti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:06:56+00:00'
+  completeness: 1.0

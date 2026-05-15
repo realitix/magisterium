@@ -1,0 +1,45 @@
+slug: beat-grogli
+nom: Beat Grögli
+nom_complet: null
+naissance: '1970-09-20'
+deces: null
+naissance_lieu: Wil
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '2025-07-05'
+  lieu: Cathedral, Sankt Gallen, Diocese of Sankt Gallen
+  consecrateur_principal: markus-buchel
+  co_consecrateurs:
+  - martin-krebs
+  - luis-manuel-ali-herrera
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrogli.html
+  - https://fr.wikipedia.org/wiki/Beat_Gr%C3%B6gli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sankt Gallen, Switzerland
+  du: '2025-05-22'
+  au: null
+- titre: évêque diocésain
+  du: '2025-06-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q113761646
+  catholic_hierarchy: bgrogli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:44:42+00:00'
+  completeness: 0.88

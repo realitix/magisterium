@@ -1,0 +1,43 @@
+slug: stjepan-blaskovic
+nom: Stjepan Blašković
+nom_complet: Stjepan Blaskovi&#263;, C.O.
+naissance: '1689-01-02'
+deces: '1776-11-17'
+naissance_lieu: Solta
+deces_lieu: null
+rang: eveque
+nationalite: Q224
+tampon: ordo_validus
+sacre:
+  date: '1732-02-10'
+  consecrateur_principal: marco-gradenigo-1663
+  co_consecrateurs:
+  - nikola-toma-353-i-263
+  - pietro-maria-suarez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblascos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Makarska, Croatia
+  du: '1731-09-24'
+  au: Nov 1776&sup3;
+- titre: évêque diocésain
+  du: '1731-09-24'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q16112780
+  catholic_hierarchy: bblascos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:30:43+00:00'
+  completeness: 0.88

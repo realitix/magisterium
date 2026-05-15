@@ -1,0 +1,42 @@
+slug: lazare-fasfous
+nom: Lazare Fasfous
+nom_complet: Lazare (Cyrille) Fasfous, B.S.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1836-09-29'
+  consecrateur_principal: maxime-iii-mazloum
+  co_consecrateurs:
+  - agapios-riachi-riecji
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfasfus.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bosra (Melkite Greek), Syria
+  du: 1836&sup1;
+  au: 1858&sup1;
+- titre: évêque diocésain
+  du: '1836-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779407
+  catholic_hierarchy: bfasfus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:32:59+00:00'
+  completeness: 0.75

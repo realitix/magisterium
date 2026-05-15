@@ -1,0 +1,49 @@
+slug: peter-gobl
+nom: Peter Göbl
+nom_complet: null
+naissance: '1851-05-24'
+deces: '1916-02-15'
+naissance_lieu: Winklhart
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1911-04-02'
+  consecrateur_principal: maximilian-von-lingg
+  co_consecrateurs:
+  - leo-von-mergel
+  - johann-baptist-von-neudecker
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgobl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Augsburg, Germany
+  du: '1911-02-28'
+  au: '1916-02-15'
+- titre: Titular Bishop of Sinope
+  du: '1911-02-28'
+  au: null
+- titre: évêque auxiliaire
+  du: '1911-02-28'
+  au: null
+- titre: évêque titulaire
+  du: '1911-02-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11887710
+  catholic_hierarchy: bgobl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:29:32+00:00'
+  completeness: 1.0

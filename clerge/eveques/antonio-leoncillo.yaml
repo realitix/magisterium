@@ -1,0 +1,41 @@
+slug: antonio-leoncillo
+nom: Antonio Leoncillo
+nom_complet: Antonius Leoncillus
+naissance: null
+deces: '1653'
+naissance_lieu: Spoleto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1651-07-09'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcantonio-cardinal-franciotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleoncel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Termoli, Italy
+  du: '1651-07-03'
+  au: 1653&sup1;
+- titre: évêque diocésain
+  du: '1651-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781014
+  catholic_hierarchy: bleoncel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:44:14+00:00'
+  completeness: 0.62

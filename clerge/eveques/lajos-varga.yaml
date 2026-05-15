@@ -1,0 +1,54 @@
+slug: lajos-varga
+nom: Lajos Varga
+nom_complet: null
+naissance: '1950-12-05'
+deces: null
+naissance_lieu: Budapest, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '2006-07-15'
+  lieu: Cathedral, Vác, Diocese of Vác
+  consecrateur_principal: peter-erdo
+  co_consecrateurs:
+  - miklos-beer
+  - juliusz-janusz
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvarga.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Vác, Hungary
+  du: '2006-05-27'
+  au: null
+- titre: Titular Bishop of Sicca Veneria
+  du: '2006-05-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '2006-05-27'
+  au: '2026-01-25'
+- titre: évêque titulaire
+  du: '2006-05-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/VargaLajosFotoThalerTamas.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q536069
+  catholic_hierarchy: bvarga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:25:36+00:00'
+  completeness: 0.88

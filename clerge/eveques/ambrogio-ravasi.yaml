@@ -1,0 +1,47 @@
+slug: ambrogio-ravasi
+nom: Ambrogio Ravasi
+nom_complet: Ambrogio Ravasi, I.M.C.
+naissance: '1929-02-07'
+deces: '2020-10-30'
+naissance_lieu: Bellusco, Archdiocese of Milano {Milan}, Italy
+deces_lieu: Hospital, Nairobi, Archdiocese of Nairobi
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '1981-10-18'
+  lieu: Bellusco, Archdiocese of Milano {Milan}, Italy
+  consecrateur_principal: maurice-michael-otunga
+  co_consecrateurs:
+  - caesar-gatimu
+  - ferdinando-maggioni
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bravasi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marsabit, Kenya
+  du: '1981-06-19'
+  au: null
+- titre: Bishop Emeritus of Marsabit, Kenya
+  du: null
+  au: '2020-10-30'
+- titre: Roman Catholic Bishop of Marsabit
+  du: '1981-06-19'
+  au: '2006-11-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q458800
+  catholic_hierarchy: bravasi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:04:18+00:00'
+  completeness: 1.0

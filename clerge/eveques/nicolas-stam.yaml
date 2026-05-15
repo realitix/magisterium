@@ -1,0 +1,37 @@
+slug: nicolas-stam
+nom: Nicolas Stam
+nom_complet: null
+naissance: '1876-12-29'
+deces: '1949-05-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_incertus
+sacre:
+  date: '1936-03-09'
+  consecrateur_principal: johannes-petrus-huibers
+  co_consecrateurs:
+  - petrus-hopmans
+  - tarcisius-henricus-josephus-van-valenberg
+  rite: inconnu
+  rite_source: inferred
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: vicaire apostolique
+  du: '1936-03-09'
+  au: '1948-04-09'
+- titre: évêque titulaire
+  du: '1936-03-09'
+  au: '1949-05-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64737291
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78

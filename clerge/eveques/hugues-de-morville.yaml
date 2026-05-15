@@ -1,0 +1,43 @@
+slug: hugues-de-morville
+nom: Hugues de Morville
+nom_complet: null
+naissance: '1160'
+deces: '1238-10-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorvilh.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Morville_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: 1208&sup1;
+  au: '1238-10-27'
+- titre: évêque diocésain
+  du: '1208-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hugues%20de%20Morville.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3142735
+  catholic_hierarchy: bmorvilh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:31+00:00'
+  completeness: 0.38

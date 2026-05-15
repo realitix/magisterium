@@ -1,0 +1,52 @@
+slug: olivier-de-berranger
+nom: Olivier de Berranger
+nom_complet: Olivier Jean-Marie Michel de Berranger, Ist. del Prado
+naissance: '1938-11-10'
+deces: '2017-05-23'
+naissance_lieu: Courbevoie
+deces_lieu: Versailles, Diocese of Versailles
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1996-10-19'
+  lieu: Saint-Denis, Cathedral Basilica, Saint-Denis, Diocese of Saint-Denis
+  consecrateur_principal: jean-marie-lustiger
+  co_consecrateurs:
+  - francois-favreau
+  - francois-fretelliere
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdebeo.html
+  - https://fr.wikipedia.org/wiki/Olivier_de_Berranger
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Denis, France
+  du: '1996-09-06'
+  au: '2009-01-15'
+- titre: Bishop Emeritus of Saint-Denis, France
+  du: null
+  au: '2017-05-23'
+- titre: évêque de Saint-Denis
+  du: '1996-10-19'
+  au: '2009-01-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Olivier%20de%20Berranger%20en%202014.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1244085
+  catholic_hierarchy: bdebeo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:36:19+00:00'
+  completeness: 1.0

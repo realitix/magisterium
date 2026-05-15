@@ -1,0 +1,48 @@
+slug: karl-franz-von-lodron
+nom: Karl Franz von Lodron
+nom_complet: Karl Franz Lodron
+naissance: '1748-11-18'
+deces: '1828-08-10'
+naissance_lieu: Innsbruck
+deces_lieu: Brixen, Diocese of Brixen {Bressanone}
+rang: eveque
+nationalite: Q131964
+tampon: ordo_validus
+sacre:
+  date: '1792-03-25'
+  lieu: Cathedral, Chur, Diocese of Chur, Switzerland
+  consecrateur_principal: dionysius-rost
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blodron.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: null
+  au: '1828-08-10'
+- titre: évêque de Brixen
+  du: '1791-08-16'
+  au: null
+- titre: prince-évêque
+  du: '1792-02-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Franz%20von%20Lodron%201797.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6371800
+  catholic_hierarchy: blodron
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:55:46+00:00'
+  completeness: 0.88

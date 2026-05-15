@@ -1,0 +1,49 @@
+slug: heinrich-i-1200-c012db
+nom: Heinrich I.
+nom_complet: Heinrich von Brüssel, O.S.B.
+naissance: '1200'
+deces: '1182'
+naissance_lieu: Bruxelles
+deces_lieu: Lübeck, Diocese of Lübeck
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1173-06-24'
+  consecrateur_principal: non-indexe-b73872a9
+  co_consecrateurs:
+  - non-indexe-7a5afb36
+  - non-indexe-8ee9523d
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrussh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lübeck, Germany
+  du: 1173&sup1;
+  au: '1182-11-29'
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: prince-évêque de Lübeck
+  du: '1172-01-01'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q1453184
+  catholic_hierarchy: bbrussh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:56:15+00:00'
+  completeness: 0.88

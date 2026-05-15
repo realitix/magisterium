@@ -1,0 +1,49 @@
+slug: heinrich-mussinghoff
+nom: Heinrich Mussinghoff
+nom_complet: Henricus Mussinghoff
+naissance: '1940-10-29'
+deces: null
+naissance_lieu: Osterwick, Diocese of Münster
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1995-02-11'
+  lieu: Cathedral, Aachen, Diocese of Aachen
+  consecrateur_principal: joachim-meisner
+  co_consecrateurs:
+  - reinhard-lettmann
+  - gerd-dicke
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmuss.html
+  - https://fr.wikipedia.org/wiki/Heinrich_Mussinghoff
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aachen, Germany
+  du: '1994-12-12'
+  au: null
+- titre: évêque d'Aix-la-Chapelle
+  du: '1995-02-11'
+  au: '2015-12-08'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Halverde%20Heinrich%20Mussinghoff%2002.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q66618
+  catholic_hierarchy: bmuss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:22:22+00:00'
+  completeness: 0.88

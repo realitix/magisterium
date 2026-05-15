@@ -1,0 +1,47 @@
+slug: antonio-novasconi
+nom: Antonio Novasconi
+nom_complet: null
+naissance: '1798-08-23'
+deces: '1867-12-12'
+naissance_lieu: Castiglione, Diocese of Lodi
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1850-06-30'
+  lieu: San Giovanni in Laterano, Cathedral Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - giovanni-francesco-cometti-rossi
+  - vincenzo-tizzani-c-r-l
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnovas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cremona, Italy
+  du: null
+  au: 1867&sup1;
+- titre: sénateur du royaume de Sardaigne
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1849-11-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3619961
+  catholic_hierarchy: bnovas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:32+00:00'
+  completeness: 0.88

@@ -1,0 +1,51 @@
+slug: pasquier-de-vaux
+nom: Pasquier de Vaux
+nom_complet: null
+naissance: null
+deces: '1447-07-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdvaux.html
+  - https://fr.wikipedia.org/wiki/Pasquier_de_Vaux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1435-09-23'
+  au: null
+- titre: Bishop of Évreux, France
+  du: '1439-10-25'
+  au: null
+- titre: Bishop of Lisieux, France
+  du: '1443-01-28'
+  au: '1447-07-10'
+- titre: évêque diocésain
+  du: '1443-02-06'
+  au: '1447-07-19'
+- titre: évêque diocésain
+  du: '1439-11-03'
+  au: null
+- titre: évêque de Meaux
+  du: '1435-10-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3367799
+  catholic_hierarchy: bdvaux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:46+00:00'
+  completeness: 0.38

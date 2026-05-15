@@ -1,0 +1,40 @@
+slug: john-the-chanter
+nom: John the Chanter
+nom_complet: John Fitzduke (the Chantor)
+naissance: '1150'
+deces: '1191-06-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1186-10-05'
+  consecrateur_principal: non-indexe-f8e3b0da
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchantr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: null
+  au: '1191-06-01'
+- titre: évêque d'Exeter
+  du: '1186-10-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6265875
+  catholic_hierarchy: bchantr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:26+00:00'
+  completeness: 0.75

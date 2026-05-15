@@ -1,0 +1,47 @@
+slug: luis-da-anunciacao-azevedo-o-p
+nom: Luis da Anunciação Azevedo, O.P.
+nom_complet: Luis da Anunciação Azevedo
+naissance: '1721-10-15'
+deces: '1789-04-19'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+deces_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1771-10-28'
+  lieu: Franciscan, Church, Cenáculo, Patriarchate of Lisboa {Lisbon}, Portugal
+  consecrateur_principal: manuel-do-cenaculo
+  co_consecrateurs:
+  - bartolomeu-manuel-mendes-dos-reis
+  - miguel-antonio-barreto-de-meneses
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bazeve.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angola e Congo
+  du: null
+  au: '1784-11-08'
+- titre: Bishop Emeritus of Angola e Congo
+  du: null
+  au: '1789-04-19'
+- titre: Bishop of Angola and Congo
+  du: '1771-03-21'
+  au: '1784-11-08'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64745062
+  catholic_hierarchy: bazeve
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:52+00:00'
+  completeness: 1.0

@@ -1,0 +1,46 @@
+slug: henry-gower
+nom: Henry Gower
+nom_complet: null
+naissance: '1278'
+deces: '1347-05-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q25
+tampon: ordo_validus
+sacre:
+  date: '1328-06-12'
+  consecrateur_principal: stephen-gravesend
+  co_consecrateurs:
+  - john-droxford
+  - hamo-hethe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgower.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: '1328-05-01'
+  au: 1347&sup2;
+- titre: évêque diocésain
+  du: '1328-05-09'
+  au: null
+- titre: Roman Catholic bishop of St Davids
+  du: '1328-01-01'
+  au: '1347-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5722112
+  catholic_hierarchy: bgower
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:37:39+00:00'
+  completeness: 0.75

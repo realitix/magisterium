@@ -1,0 +1,44 @@
+slug: adolphe-manier
+nom: Adolphe Manier
+nom_complet: Adolph Manier
+naissance: '1851-09-14'
+deces: '1929-07-30'
+naissance_lieu: Foug
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1910-06-11'
+  consecrateur_principal: henri-raymond-villard
+  co_consecrateurs:
+  - louis-dechelette
+  - hector-irenee-sevin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanier.html
+  - https://fr.wikipedia.org/wiki/Adolphe_Manier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: '1910-04-13'
+  au: '1929-07-30'
+- titre: évêque diocésain
+  du: '1910-04-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2824868
+  catholic_hierarchy: bmanier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:21:04+00:00'
+  completeness: 1.0

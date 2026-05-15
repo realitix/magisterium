@@ -1,0 +1,40 @@
+slug: arni-olafsson-c-r-s-a
+nom: Árni Ólafsson, C.R.S.A.
+nom_complet: Árni Ólafsson
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1414-10-10'
+  consecrateur_principal: johannes-hundebeke
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bolafss.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skálholt, Iceland
+  du: 1414&sup1;
+  au: 1426&sup1;
+- titre: évêque diocésain
+  du: '1414-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16419379
+  catholic_hierarchy: bolafss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:48:51+00:00'
+  completeness: 0.62

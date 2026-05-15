@@ -1,0 +1,48 @@
+slug: klaus-hemmerle
+nom: Klaus Hemmerle
+nom_complet: null
+naissance: '1929-04-03'
+deces: '1994-01-23'
+naissance_lieu: Freiburg im Breisgau, Archdiocese of Freiburg im Breisgau
+deces_lieu: Aachen, Diocese of Aachen
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1975-11-08'
+  lieu: Cathedral, Aachen, Diocese of Aachen
+  consecrateur_principal: johannes-pohlschneider
+  co_consecrateurs:
+  - hermann-josef-schaufele
+  - joseph-ludwig-buchkremer
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhemmerle.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aachen, Germany
+  du: '1975-09-09'
+  au: '1994-01-23'
+- titre: évêque d'Aix-la-Chapelle
+  du: '1975-11-08'
+  au: '1994-01-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Freiburg%20Collegium%20Borromaeum%2C%20Bischof%20Hemmerle%2C%20Aachen%2C%20Portrait%20-%20W134Nr.107819d%20-%20Willy%20Pragher%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q107131
+  catholic_hierarchy: bhemmerle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:31+00:00'
+  completeness: 1.0

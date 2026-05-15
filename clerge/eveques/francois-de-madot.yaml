@@ -1,0 +1,47 @@
+slug: francois-de-madot
+nom: François de Madot
+nom_complet: null
+naissance: '1671-07-13'
+deces: '1753-10-07'
+naissance_lieu: Guéret
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1705-10-18'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - jacques-de-goyon-de-matignon
+  - cesar-de-sabran
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmadot.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Madot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: null
+  au: '1753-10-07'
+- titre: évêque diocésain
+  du: '1705-04-11'
+  au: null
+- titre: évêque de Chalon-sur-Saône
+  du: '1711-12-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22973427
+  catholic_hierarchy: bmadot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:11:36+00:00'
+  completeness: 1.0

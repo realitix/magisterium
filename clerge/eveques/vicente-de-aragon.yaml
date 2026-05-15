@@ -1,0 +1,38 @@
+slug: vicente-de-aragon
+nom: Vicente de Aragón
+nom_complet: null
+naissance: null
+deces: '1244-02-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baragonv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zaragoza, Spain
+  du: 1239&sup2;
+  au: '1244-02-15'
+- titre: évêque diocésain
+  du: '1239-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448202
+  catholic_hierarchy: baragonv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:56+00:00'
+  completeness: 0.38

@@ -1,0 +1,40 @@
+slug: juan-villahoz
+nom: Juan Villahoz
+nom_complet: null
+naissance: null
+deces: '1269-08-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1268-09-03'
+  consecrateur_principal: clement-iv
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillahoz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Burgos, Spain
+  du: '1268-07-13'
+  au: '1269-08-28'
+- titre: évêque de Burgos
+  du: '1268-07-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29954302
+  catholic_hierarchy: bvillahoz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:39:02+00:00'
+  completeness: 0.62

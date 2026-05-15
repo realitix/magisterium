@@ -1,0 +1,34 @@
+slug: nebridius
+nom: Nebridius
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Nimfridius
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: abbé de Lagrasse
+  du: '0778-01-01'
+  au: '0813-01-01'
+- titre: archevêque de Narbonne
+  du: '0799-01-01'
+  au: '0824-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2273098
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33

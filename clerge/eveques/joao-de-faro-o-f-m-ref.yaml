@@ -1,0 +1,44 @@
+slug: joao-de-faro-o-f-m-ref
+nom: João de Faro, O.F.M. Ref.
+nom_complet: João de Faro
+naissance: '1676-01-20'
+deces: '1741-07-21'
+naissance_lieu: Faro, Portugal
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1738-10-05'
+  lieu: Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+  consecrateur_principal: tomas-de-almeida
+  co_consecrateurs:
+  - antonio-paes-godinho
+  - emmanuel-de-jesus-maria-joseph-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdfaro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Cabo Verde
+  du: null
+  au: '1741-07-21'
+- titre: évêque de Santiago du Cap-Vert
+  du: '1738-07-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733870
+  catholic_hierarchy: bdfaro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:43+00:00'
+  completeness: 1.0

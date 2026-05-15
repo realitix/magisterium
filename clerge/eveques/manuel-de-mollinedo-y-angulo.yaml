@@ -1,0 +1,44 @@
+slug: manuel-de-mollinedo-y-angulo
+nom: Manuel de Mollinedo y Angulo
+nom_complet: Manuel de Mollinedo Angulo
+naissance: '1626'
+deces: '1699-09-26'
+naissance_lieu: Madrid, Archdiocese of Toledo, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1673-01-22'
+  consecrateur_principal: juan-bravo-davila-y-cartagena
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmolan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuzco, Peru
+  du: '1670-12-15'
+  au: '1699-09-26'
+- titre: évêque de Cuzco
+  du: '1670-12-15'
+  au: '1699-09-26'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/ObispoMollinedo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5994728
+  catholic_hierarchy: bmolan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:18+00:00'
+  completeness: 0.62

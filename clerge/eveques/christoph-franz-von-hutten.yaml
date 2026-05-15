@@ -1,0 +1,45 @@
+slug: christoph-franz-von-hutten
+nom: Christoph Franz von Hutten
+nom_complet: null
+naissance: '1673-05-20'
+deces: '1729-03-25'
+naissance_lieu: Mainburg, Diocese of Würzburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1725-04-08'
+  consecrateur_principal: johann-bernhard-mayer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhutte.html
+  - https://fr.wikipedia.org/wiki/Christoph_Franz_von_Hutten
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1729-03-25'
+- titre: évêque de Wurtzbourg
+  du: '1724-01-01'
+  au: '1729-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wuerzburg%20030cfhutten.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q96499
+  catholic_hierarchy: bhutte
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:50:51+00:00'
+  completeness: 0.88

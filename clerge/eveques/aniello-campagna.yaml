@@ -1,0 +1,37 @@
+slug: aniello-campagna
+nom: Aniello Campagna
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1645-03-19'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ciriaco-cardinal-rocci
+  co_consecrateurs:
+  - alfonso-sacrati
+  - ranuccio-scotti-douglas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcampanie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nusco, Italy
+  du: '1645-03-06'
+  au: 1648-01
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bcampanie
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:11:22+00:00'
+  completeness: 0.75

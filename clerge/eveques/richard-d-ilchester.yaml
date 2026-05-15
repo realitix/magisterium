@@ -1,0 +1,50 @@
+slug: richard-d-ilchester
+nom: Richard d'Ilchester
+nom_complet: Richard of Ilchester
+naissance: '1150'
+deces: '1188-12-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1174-10-06'
+  consecrateur_principal: richard-of-dover
+  co_consecrateurs:
+  - reginald-fitz-jocelin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bilche.html
+  - https://fr.wikipedia.org/wiki/Richard_d%27Ilchester
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1173-05-01'
+  au: '1188-12-22'
+- titre: évêque diocésain
+  du: '1173-05-08'
+  au: null
+- titre: évêque de Winchester
+  du: '1173-01-01'
+  au: '1188-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sceau%20de%20Richard%2C%20%C3%A9v%C3%AAque%20de%20Winchester.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7330237
+  catholic_hierarchy: bilche
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:52:24+00:00'
+  completeness: 0.88

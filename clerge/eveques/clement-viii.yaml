@@ -1,0 +1,43 @@
+slug: clement-viii
+nom: Clement VIII
+nom_complet: null
+naissance: '1536-02-24'
+deces: '1605-03-03'
+naissance_lieu: Fano, Diocese of Fano
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1592-02-02'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: alfonso-cardinal-gesualdo-di-conza-gonza
+  co_consecrateurs:
+  - tolomeo-gallio
+  - gabriele-paleotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baldo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Priest of San Pancrazio
+  du: '1585-12-18'
+  au: null
+- titre: Major Penitentiary of the Apostolic Penitentiary
+  du: '1586-06-12'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1605-03-03'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: baldo
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:28:29+00:00'
+  completeness: 1.0

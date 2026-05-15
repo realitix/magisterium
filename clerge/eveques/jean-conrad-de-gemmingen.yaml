@@ -1,0 +1,58 @@
+slug: jean-conrad-de-gemmingen
+nom: Jean-Conrad de Gemmingen
+nom_complet: Johann Konrad von Gemmingen
+naissance: '1561-11-02'
+deces: '1612-11-07'
+naissance_lieu: Gemmingen
+deces_lieu: Eichstätt, Diocese of Eichstätt
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1595-07-02'
+  lieu: Cathedral, Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: lorenz-eiszepf
+  co_consecrateurs:
+  - bartholomaus-scholl
+  - sebastian-breuning
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgemm.html
+  - https://fr.wikipedia.org/wiki/Johann_Konrad_von_Gemmingen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Hierapolis in Isauria
+  du: '1594-02-28'
+  au: null
+- titre: Bishop of Eichstätt, Germany
+  du: null
+  au: '1612-11-07'
+- titre: évêque titulaire
+  du: '1594-02-28'
+  au: '1595-04-02'
+- titre: évêque diocésain
+  du: '1595-04-02'
+  au: '1612-11-07'
+- titre: évêque coadjuteur
+  du: '1594-02-28'
+  au: '1595-04-02'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hortus%20Eystettensis%2C%201640%20%28BHL%2045339%20004%29%20-%20dedication%203%20%28cropped%20-%20engraving%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q110347
+  catholic_hierarchy: bgemm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:16:26+00:00'
+  completeness: 0.88

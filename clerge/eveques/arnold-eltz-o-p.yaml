@@ -1,0 +1,43 @@
+slug: arnold-eltz-o-p
+nom: Arnold Eltz, O.P.
+nom_complet: Arnold von Eltz
+naissance: '1250'
+deces: '1330'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1325-07-13'
+  consecrateur_principal: guillaume-pierre-cardinal-godin-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beltza.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kammin (Camin), Germany
+  du: '1324-11-14'
+  au: 1330&sup1;
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1324-11-22'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q24031901
+  catholic_hierarchy: beltza
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:21:28+00:00'
+  completeness: 0.62

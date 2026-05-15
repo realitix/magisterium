@@ -1,0 +1,44 @@
+slug: dante-munerati
+nom: Dante Munerati
+nom_complet: Dante Carlo Munerati, S.D.B.
+naissance: '1869-10-12'
+deces: '1942-12-20'
+naissance_lieu: Bagnolo San Vito, Diocese of Mantova
+deces_lieu: Volterra, Diocese of Volterra
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1924-01-29'
+  lieu: Sacro Cuore al Castro Pretorio, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-cagliero
+  co_consecrateurs:
+  - raffaele-carlo-rossi
+  - giovanni-battista-rosa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmune.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Volterra, Italy
+  du: '1923-12-20'
+  au: '1942-12-20'
+- titre: évêque diocésain
+  du: '1923-12-20'
+  au: null
+fraternite: salesiens
+photo: null
+qids:
+  wikidata: Q1164965
+  catholic_hierarchy: bmune
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:19:36+00:00'
+  completeness: 1.0

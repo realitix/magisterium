@@ -1,0 +1,51 @@
+slug: claude-de-morenne
+nom: Claude de Morenne
+nom_complet: null
+naissance: http://www.wikidata.org/.well-known/genid/c15322726919362a61a2bd3af198fb14
+deces: '1606-03-02'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1601-07-29'
+  consecrateur_principal: francois-d-escoubleau-de-sourdis
+  co_consecrateurs:
+  - rene-potier
+  - charles-de-balsac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorenne.html
+  - https://fr.wikipedia.org/wiki/Claude_de_Morenne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1600-10-23'
+  au: '1606-03-02'
+- titre: évêque diocésain
+  du: '1600-10-23'
+  au: null
+- titre: évêque de Sées
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9es%2C%20Cath%C3%A9drale%20Notre-Dame%2C%20caveau%20des%20%C3%A9v%C3%AAques%201.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2978352
+  catholic_hierarchy: bmorenne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:11:46+00:00'
+  completeness: 0.88

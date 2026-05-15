@@ -1,0 +1,44 @@
+slug: jeronimo-barreto
+nom: Jerónimo Barreto
+nom_complet: null
+naissance: '1544'
+deces: '1589'
+naissance_lieu: Porto, Diocese of Porto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarrej.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Funchal, Portugal
+  du: '1573-04-27'
+  au: null
+- titre: Bishop of Faro {Algarve}, Portugal
+  du: '1585-06-03'
+  au: 1589&sup2;
+- titre: évêque de Faro
+  du: '1585-06-03'
+  au: null
+- titre: évêque de Funchal
+  du: '1573-05-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68863198
+  catholic_hierarchy: bbarrej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:04:45+00:00'
+  completeness: 0.25

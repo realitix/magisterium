@@ -1,0 +1,58 @@
+slug: gian-matteo-giberti
+nom: Gian Matteo Giberti
+nom_complet: Giovanni Matteo Giberti
+naissance: '1524'
+deces: '1543-12-30'
+naissance_lieu: Palermo, Archdiocese of Palermo
+deces_lieu: Verona, Diocese of Verona
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1524-12-21'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: paul-iv
+  co_consecrateurs:
+  - giacomo-bongalli
+  - giambattista-boncianni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiberti.html
+  - https://fr.wikipedia.org/wiki/Giovanni_Matteo_Giberti
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verona, Italy
+  du: '1524-08-08'
+  au: '1543-12-30'
+- titre: Bishop of Lodève, France
+  du: 1526&sup2;
+  au: 1528&sup2;
+- titre: Apostolic Nuncio to Venice, Italy
+  du: Nov 1534&sup3;
+  au: 1537&sup1;
+- titre: évêque diocésain
+  du: '1526-01-01'
+  au: '1528-01-01'
+- titre: évêque diocésain
+  du: '1524-08-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/GianMatteoGiberti.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1169428
+  catholic_hierarchy: bgiberti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:22:04+00:00'
+  completeness: 0.88

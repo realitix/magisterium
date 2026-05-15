@@ -1,0 +1,49 @@
+slug: joseph-cretin
+nom: Joseph Crétin
+nom_complet: null
+naissance: '1799-12-10'
+deces: '1857-02-22'
+naissance_lieu: Montluel, Archdiocese of Lyon, France
+deces_lieu: Saint Paul, Diocese of Saint Paul, Minnesota
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1851-01-26'
+  lieu: Bishop's Chapel, Belley, Diocese of Belley, France
+  consecrateur_principal: alexandre-devie
+  co_consecrateurs:
+  - etienne-marilley
+  - georges-chalandon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcretin.html
+  - https://fr.wikipedia.org/wiki/Joseph_Cr%C3%A9tin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Paul, Minnesota, USA
+  du: '1850-07-23'
+  au: '1857-02-22'
+- titre: évêque diocésain
+  du: '1850-07-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Cretin%20c1850.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3184800
+  catholic_hierarchy: bcretin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:14:18+00:00'
+  completeness: 1.0

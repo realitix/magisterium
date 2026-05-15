@@ -1,0 +1,47 @@
+slug: hugues-de-labatut
+nom: Hugues de Labatut
+nom_complet: null
+naissance: '1550'
+deces: '1644-02-10'
+naissance_lieu: Villelongue
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1641-01-27'
+  consecrateur_principal: dominique-de-vic
+  co_consecrateurs:
+  - salvat-ii-d-iharse
+  - arnaud-ii-de-maytie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blabatut.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Labatut
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Bertrand de) Comminges, France
+  du: '1640-12-03'
+  au: '1644-02-10'
+- titre: évêque diocésain
+  du: '1640-12-03'
+  au: null
+- titre: évêque de Comminges
+  du: '1640-12-03'
+  au: '1644-02-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816617
+  catholic_hierarchy: blabatut
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:25:10+00:00'
+  completeness: 0.88

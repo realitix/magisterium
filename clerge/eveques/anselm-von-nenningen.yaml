@@ -1,0 +1,49 @@
+slug: anselm-von-nenningen
+nom: Anselm von Nenningen
+nom_complet: null
+naissance: '1350'
+deces: '1428-01-10'
+naissance_lieu: Benningen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1419-12-06'
+  lieu: Lindau
+  consecrateur_principal: othon-iii-de-hachberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnennin.html
+  - https://fr.wikipedia.org/wiki/Anselme_de_Nenningen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1423-11-11'
+- titre: Bishop Emeritus of Augsburg, Germany
+  du: null
+  au: '1428-01-10'
+- titre: évêque d'Augsbourg
+  du: '1419-12-15'
+  au: '1423-11-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Blaubeuren%20Kapitelsaal%20Epitaph%20Anselm%20von%20Nenningen%20detail.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q569613
+  catholic_hierarchy: bnennin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:29:23+00:00'
+  completeness: 0.75

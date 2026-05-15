@@ -1,0 +1,57 @@
+slug: clement-v
+nom: Clément V
+nom_complet: Clement V
+naissance: '1264'
+deces: '1314-04-20'
+naissance_lieu: Villandraut, France
+deces_lieu: Roquemaure
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1305-11-14'
+  consecrateur_principal: henri-ii-de-virnebourg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgot.html
+  - https://fr.wikipedia.org/wiki/Cl%C3%A9ment_V
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Bertrand de) Comminges, France
+  du: '1295-03-28'
+  au: null
+- titre: Archbishop of Bordeaux, France
+  du: '1299-12-23'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1314-04-20'
+- titre: archevêque catholique
+  du: '1299-12-30'
+  au: null
+- titre: évêque diocésain
+  du: '1295-04-04'
+  au: null
+- titre: pape
+  du: '1305-06-21'
+  au: '1314-04-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Clemente%20V%20cappellone%20degli%20Spagnoli.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q131463
+  catholic_hierarchy: bgot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:36:27+00:00'
+  completeness: 0.62

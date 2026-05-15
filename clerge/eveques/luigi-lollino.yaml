@@ -1,0 +1,41 @@
+slug: luigi-lollino
+nom: Luigi Lollino
+nom_complet: Aloysius Lollinus
+naissance: '1552'
+deces: '1625-03-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1596-08-18'
+  consecrateur_principal: non-indexe-b7fea8d3
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blollino.html
+  - https://fr.wikipedia.org/wiki/Luigi_Lollino
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belluno, Italy
+  du: '1596-07-29'
+  au: '1625-03-28'
+- titre: évêque diocésain
+  du: '1596-07-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3839783
+  catholic_hierarchy: blollino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:56:28+00:00'
+  completeness: 0.62

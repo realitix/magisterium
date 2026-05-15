@@ -1,0 +1,52 @@
+slug: alfred-flocard
+nom: Alfred Flocard
+nom_complet: null
+naissance: '1866-04-11'
+deces: '1938-03-03'
+naissance_lieu: Jorquenay, Diocese of Langres
+deces_lieu: Limoges, Diocese of Limoges
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1921-01-25'
+  lieu: Saint Mammes, Cathedral, Langres, Diocese of Langres
+  consecrateur_principal: theophile-marie-louvard
+  co_consecrateurs:
+  - olivier-de-durfort-de-civrac
+  - hector-raphael-quilliet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflocard.html
+  - https://fr.wikipedia.org/wiki/Alfred_Flocard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: '1920-12-16'
+  au: '1938-03-03'
+- titre: évêque de Limoges
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1920-12-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Flocard.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q61217144
+  catholic_hierarchy: bflocard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:48:25+00:00'
+  completeness: 1.0

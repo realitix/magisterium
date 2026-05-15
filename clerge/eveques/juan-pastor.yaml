@@ -1,0 +1,38 @@
+slug: juan-pastor
+nom: Juan Pastor
+nom_complet: null
+naissance: null
+deces: '1492'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpastorj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Granada, Spain
+  du: '1479-07-23'
+  au: 1492&sup1;
+- titre: évêque titulaire de Grenade
+  du: '1479-08-01'
+  au: '1492-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909073
+  catholic_hierarchy: bpastorj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:12:56+00:00'
+  completeness: 0.25

@@ -1,0 +1,44 @@
+slug: eustache-le-clerc-de-lesseville
+nom: Eustache Le Clerc de Lesseville
+nom_complet: null
+naissance: '1614'
+deces: '1665-12-08'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1659-03-23'
+  consecrateur_principal: claude-auvry
+  co_consecrateurs:
+  - charles-de-bourlon
+  - bonaventura-rousseau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blclerdl.html
+  - https://fr.wikipedia.org/wiki/Eustache_Le_Clerc_de_Lesseville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: null
+  au: '1665-12-08'
+- titre: évêque diocésain
+  du: '1658-09-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22211936
+  catholic_hierarchy: blclerdl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:38:25+00:00'
+  completeness: 0.88

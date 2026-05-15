@@ -1,0 +1,50 @@
+slug: gyorgy-zemplen
+nom: György Zemplén
+nom_complet: György Zemplén, O. Cist.
+naissance: '1905-08-01'
+deces: '1973-03-29'
+naissance_lieu: Hannoversch Münden
+deces_lieu: Budapest, Archdiocese of Esztergom
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1969-02-12'
+  lieu: Saint-Etienne, Basilica, Budapest, Archdiocese of Esztergom
+  consecrateur_principal: jozsef-ijjas
+  co_consecrateurs:
+  - imre-szabo-1901
+  - jozsef-bank
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzemplen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1969-01-10'
+  au: '1973-03-29'
+- titre: Titular Bishop of Arena
+  du: '1969-01-10'
+  au: null
+- titre: évêque titulaire
+  du: '1969-01-10'
+  au: null
+- titre: évêque auxiliaire
+  du: '1969-01-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26252272
+  catholic_hierarchy: bzemplen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:08:01+00:00'
+  completeness: 1.0

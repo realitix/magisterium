@@ -1,0 +1,51 @@
+slug: luc-cyr
+nom: Luc Cyr
+nom_complet: null
+naissance: '1953-11-21'
+deces: null
+naissance_lieu: Saint-Jérôme, Diocese of Saint-Jérôme, Québec
+deces_lieu: null
+rang: archeveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2001-06-17'
+  lieu: Sainte-Cécile, Cathedral Basilica, Valleyfield, Diocese of Valleyfield, Québec
+  consecrateur_principal: jean-claude-turcotte
+  co_consecrateurs:
+  - robert-lebel
+  - gilles-cazabon
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcyr.html
+  - https://fr.wikipedia.org/wiki/Luc_Cyr
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valleyfield, Québec, Canada
+  du: '2001-05-10'
+  au: null
+- titre: Archbishop of Sherbrooke, Québec, Canada
+  du: '2011-07-26'
+  au: '2025-09-15'
+- titre: archevêque de Sherbrooke
+  du: '2011-07-26'
+  au: '2025-09-15'
+- titre: évêque de Valleyfield
+  du: '2001-05-10'
+  au: '2011-07-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q555932
+  catholic_hierarchy: bcyr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:20:10+00:00'
+  completeness: 0.88

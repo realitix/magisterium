@@ -1,0 +1,54 @@
+slug: antonius-monch
+nom: Antonius Mönch
+nom_complet: Anton Mönch
+naissance: '1870-06-13'
+deces: '1935-02-15'
+naissance_lieu: Niederholzweiler
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1915-09-21'
+  lieu: Trier, Diocese of Trier
+  consecrateur_principal: michael-felix-korum
+  co_consecrateurs:
+  - willibrord-benzler
+  - peter-joseph-lausberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonch.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1915-07-01'
+  au: '1935-02-15'
+- titre: Titular Bishop of Polystylus
+  du: '1915-07-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1915-07-01'
+  au: null
+- titre: évêque titulaire
+  du: '1915-07-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Weihbischof%20Anton%20M%C3%B6nch%2C%20Trier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q606701
+  catholic_hierarchy: bmonch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:04:57+00:00'
+  completeness: 1.0

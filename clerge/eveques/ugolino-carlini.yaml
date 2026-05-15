@@ -1,0 +1,43 @@
+slug: ugolino-carlini
+nom: Ugolino Carlini
+nom_complet: null
+naissance: '1773-04-25'
+deces: '1847-09-13'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1829-08-02'
+  consecrateur_principal: giovanni-francesco-falzacappa
+  co_consecrateurs:
+  - giuseppe-della-porta-rodiani
+  - lorenzo-girolamo-cardinal-mattei
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarlini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cortona, Italy
+  du: '1829-07-27'
+  au: '1847-09-13'
+- titre: Roman Catholic Bishop of Cortona
+  du: '1829-07-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736081
+  catholic_hierarchy: bcarlini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:22:52+00:00'
+  completeness: 1.0

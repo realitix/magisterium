@@ -1,0 +1,47 @@
+slug: pere-d-urtx
+nom: Pere d'Urtx
+nom_complet: Pedro de Urgio
+naissance: '1300'
+deces: '1293'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q1514510
+tampon: ordo_incertus
+sacre:
+  date: '1269-12-29'
+  consecrateur_principal: raimundo-de-anglesola
+  co_consecrateurs:
+  - arnau-de-gurb
+  - bernardo-olivella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/burgio.html
+  - https://fr.wikipedia.org/wiki/Pere_d%27Urtx
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Urgell, Spain
+  du: '1269-11-03'
+  au: '1293-01-12'
+- titre: co-prince épiscopal d'Andorre
+  du: '1278-01-01'
+  au: '1293-01-19'
+- titre: évêque d'Urgell
+  du: '1269-11-10'
+  au: '1293-01-19'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3375281
+  catholic_hierarchy: burgio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:18:12+00:00'
+  completeness: 0.88

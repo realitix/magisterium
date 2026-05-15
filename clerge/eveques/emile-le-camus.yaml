@@ -1,0 +1,51 @@
+slug: emile-le-camus
+nom: Émile Le Camus
+nom_complet: Emile-Paul-Angel-Constant Le Camus
+naissance: '1839-08-24'
+deces: '1906-09-29'
+naissance_lieu: Paraza
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1901-07-02'
+  consecrateur_principal: victor-lecot
+  co_consecrateurs:
+  - eudoxe-irenee-mignot
+  - pierre-eugene-rougerie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcamus.html
+  - https://fr.wikipedia.org/wiki/%C3%89mile_Le_Camus
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of La Rochelle (-Saintes), France
+  du: null
+  au: '1906-09-29'
+- titre: évêque de La Rochelle et Saintes
+  du: '1901-04-05'
+  au: null
+- titre: vicaire général honoraire
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mileLeCamus.gif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5371520
+  catholic_hierarchy: bcamus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:12:24+00:00'
+  completeness: 1.0

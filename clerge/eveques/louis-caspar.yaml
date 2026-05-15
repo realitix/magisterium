@@ -1,0 +1,55 @@
+slug: louis-caspar
+nom: Louis Caspar
+nom_complet: Louis-Marie-Antoine Caspar, M.E.P.
+naissance: '1841-07-23'
+deces: '1917-06-13'
+naissance_lieu: Obernai, Diocese of Strasbourg, France
+deces_lieu: Hospice, Obernai, Diocese of Strasbourg, France
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1880-08-24'
+  lieu: Cathedral, Saigon, Vicariate Apostolic of Western Cochin {Cocincina Occidentale}
+  consecrateur_principal: isidore-colombert
+  co_consecrateurs:
+  - edouard-gasnier
+  - louis-marie-galibert-m-e-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaspar.html
+  - https://fr.wikipedia.org/wiki/Louis_Caspar
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Northern Cochin {Cocincina Settentrionale}, Viet Nam
+  du: '1880-03-23'
+  au: '1907-07-18'
+- titre: Titular Bishop of Canatha
+  du: '1880-03-23'
+  au: null
+- titre: Vicar Apostolic Emeritus of Northern Cochin {Cocincina Settentrionale}, Viet
+    Nam
+  du: null
+  au: '1917-06-13'
+- titre: évêque titulaire
+  du: '1880-03-23'
+  au: '1917-06-13'
+- titre: vicaire apostolique
+  du: '1880-03-23'
+  au: '1907-07-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3261443
+  catholic_hierarchy: bcaspar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:28:33+00:00'
+  completeness: 1.0

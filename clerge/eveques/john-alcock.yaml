@@ -1,0 +1,57 @@
+slug: john-alcock
+nom: John Alcock
+nom_complet: null
+naissance: '1430'
+deces: '1500-10-01'
+naissance_lieu: Beverley, Yorkshire
+deces_lieu: null
+rang: eveque
+nationalite: Q21
+tampon: ordo_validus
+sacre:
+  date: '1472-03-15'
+  lieu: London, Diocese of London, England
+  consecrateur_principal: thomas-cardinal-bourchier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balcock.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1472-01-08'
+  au: null
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1476-07-15'
+  au: null
+- titre: Bishop of Ely, England, Great Britain
+  du: '1486-10-06'
+  au: '1500-10-01'
+- titre: évêque d'Ely
+  du: '1486-10-15'
+  au: '1500-01-01'
+- titre: évêque de Rochester
+  du: '1472-01-17'
+  au: null
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1476-07-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Alcock%2C%20bishop%20of%20Ely%20%28J.%20W.%20Cook%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1699108
+  catholic_hierarchy: balcock
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:28:14+00:00'
+  completeness: 0.75

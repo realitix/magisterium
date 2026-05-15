@@ -1,0 +1,53 @@
+slug: cosimo-agostino
+nom: Cosimo Agostino
+nom_complet: null
+naissance: '1860-04-16'
+deces: '1918-03-30'
+naissance_lieu: Mammola
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1913-09-21'
+  lieu: Gerace, Diocese of Gerace
+  consecrateur_principal: giorgio-francesco-delrio
+  co_consecrateurs:
+  - salvatore-scanu
+  - eugenio-tosi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bagosc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lacedonia, Italy
+  du: '1913-07-28'
+  au: null
+- titre: Bishop of Ariano, Italy
+  du: '1915-06-01'
+  au: '1918-03-30'
+- titre: Apostolic Administrator of Lacedonia, Italy
+  du: '1915-09-22'
+  au: '1916-10-08'
+- titre: Roman Catholic Bishop of Ariano
+  du: '1915-06-01'
+  au: null
+- titre: Roman Catholic Bishop of Lacedonia
+  du: '1913-07-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64727634
+  catholic_hierarchy: bagosc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:22:59+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: jean-rouchault-o-s-a
+nom: Jean Rouchault, O.S.A.
+nom_complet: Jean Rouchault
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1521-01-07'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brouchau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Angers, France
+  du: '1521-01-07'
+  au: null
+- titre: Titular Bishop of Raphanea
+  du: '1521-01-07'
+  au: null
+- titre: évêque titulaire
+  du: '1521-01-07'
+  au: null
+- titre: évêque auxiliaire d’Angers
+  du: '1521-01-17'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68910802
+  catholic_hierarchy: brouchau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:31:22+00:00'
+  completeness: 0.25

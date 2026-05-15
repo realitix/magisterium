@@ -1,0 +1,43 @@
+slug: tommaso-pacelli
+nom: Tommaso Pacelli
+nom_complet: null
+naissance: '1715-11-08'
+deces: '1780-10-04'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1752-11-30'
+  consecrateur_principal: ferdinando-maria-de-rossi
+  co_consecrateurs:
+  - simone-gritti
+  - francesco-antonio-spadea
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpacellit.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bovino, Italy
+  du: '1752-11-27'
+  au: '1780-10-04'
+- titre: évêque diocésain
+  du: '1752-11-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744781
+  catholic_hierarchy: bpacellit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:01:11+00:00'
+  completeness: 1.0

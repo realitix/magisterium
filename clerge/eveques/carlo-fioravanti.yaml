@@ -1,0 +1,44 @@
+slug: carlo-fioravanti
+nom: Carlo Fioravanti
+nom_complet: null
+naissance: '1755-10-28'
+deces: '1818-07-13'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1814-10-09'
+  lieu: Tor dei Specchi, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-gabrielli-le-jeune
+  co_consecrateurs:
+  - giuseppe-morozzo-della-rocca
+  - giovanni-francesco-guerrieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfiorc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rieti, Italy
+  du: '1814-09-26'
+  au: '1818-07-13'
+- titre: évêque diocésain
+  du: '1814-09-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761594
+  catholic_hierarchy: bfiorc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:45:32+00:00'
+  completeness: 1.0

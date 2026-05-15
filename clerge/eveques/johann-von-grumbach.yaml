@@ -1,0 +1,45 @@
+slug: johann-von-grumbach
+nom: Johann von Grumbach
+nom_complet: John III of Grumbach
+naissance: '1400'
+deces: '1466-04-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1456-06-27'
+  consecrateur_principal: antoine-de-rotenhan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrumb.html
+  - https://fr.wikipedia.org/wiki/Johann_von_Grumbach
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '1455-06-16'
+  au: '1466-04-11'
+- titre: évêque de Wurtzbourg
+  du: '1455-06-25'
+  au: '1466-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wuerzburg%20020b.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1694754
+  catholic_hierarchy: bgrumb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:45:42+00:00'
+  completeness: 0.75

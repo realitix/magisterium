@@ -1,0 +1,57 @@
+slug: lazar-mladenov
+nom: Lazar Mladenov
+nom_complet: Lazzaro Mladenoff, C.M.
+naissance: '1854-07-11'
+deces: '1918-03-04'
+naissance_lieu: Bansko
+deces_lieu: null
+rang: eveque
+nationalite: Q219
+tampon: ordo_validus
+sacre:
+  date: '1883-08-05'
+  lieu: S. Benoit, Constantinople
+  consecrateur_principal: nilo-isvoroff
+  co_consecrateurs:
+  - michael-petkov
+  - benjamin-dimitrios-eusevides
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmlad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Macedonia (Thessalonika) (Bulgarian)
+  du: '1883-06-12'
+  au: '1895-04-08'
+- titre: Titular Bishop of Satala in Armenia
+  du: '1883-06-12'
+  au: null
+- titre: Vicar Apostolic Emeritus of Macedonia (Thessalonika) (Bulgarian)
+  du: null
+  au: '1918-03-04'
+- titre: vicaire apostolique
+  du: '1883-06-12'
+  au: '1895-04-08'
+- titre: évêque titulaire
+  du: '1883-06-12'
+  au: null
+fraternite: lazaristes
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lazar%20Mladenov.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q504712
+  catholic_hierarchy: bmlad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:01:15+00:00'
+  completeness: 1.0

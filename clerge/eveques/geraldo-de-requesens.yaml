@@ -1,0 +1,40 @@
+slug: geraldo-de-requesens
+nom: Geraldo de Requeséns
+nom_complet: Geraldo de Requesens
+naissance: null
+deces: '1399-02-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1387-07-10'
+  consecrateur_principal: berenguer-cardinal-de-anglesola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brequeg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lérida, Spain
+  du: '1387-02-08'
+  au: '1399-02-13'
+- titre: évêque de Lérida
+  du: '1387-02-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762436
+  catholic_hierarchy: brequeg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:09:12+00:00'
+  completeness: 0.75

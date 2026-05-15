@@ -1,0 +1,58 @@
+slug: jose-cadena-eleta
+nom: José Cadena Eleta
+nom_complet: José Cadena y Eleta
+naissance: '1855-03-20'
+deces: '1918-06-04'
+naissance_lieu: Pitillas
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1901-07-07'
+  consecrateur_principal: jose-maria-cos-y-macho
+  co_consecrateurs:
+  - juan-munoz-y-herrera
+  - ramon-fernandez-pierola-y-lopez-de-luzuriaca
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcadena.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: '1901-04-18'
+  au: null
+- titre: Bishop of Vitoria, Spain
+  du: '1904-11-14'
+  au: null
+- titre: Archbishop of Burgos, Spain
+  du: '1913-07-18'
+  au: '1918-06-04'
+- titre: évêque de Vitoria
+  du: '1904-11-14'
+  au: '1913-07-18'
+- titre: évêque de Ségovie
+  du: '1901-04-18'
+  au: '1904-11-14'
+- titre: sénateur du Royaume
+  du: null
+  au: null
+- titre: archevêque de Burgos
+  du: '1913-07-18'
+  au: '1918-06-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3753413
+  catholic_hierarchy: bcadena
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:05:19+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: mercurio-maria-teresi
+nom: Mercurio Maria Teresi
+nom_complet: null
+naissance: '1742-10-10'
+deces: '1805-04-17'
+naissance_lieu: Montemaggiore Belsito
+deces_lieu: Monreale, Archdiocese of Monreale
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1802-06-13'
+  consecrateur_principal: francesco-vanni
+  co_consecrateurs:
+  - alfonso-airoldi
+  - gabriello-maria-gravina-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bteresi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Monreale, Italy
+  du: '1802-05-24'
+  au: '1805-04-17'
+- titre: archevêque de Monreale
+  du: '1802-06-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mercurio%20Maria%20Teresi.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q55088440
+  catholic_hierarchy: bteresi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:54:59+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: conlaede-de-kildare
+nom: Conlaède de Kildare
+nom_complet: St. Conleth
+naissance: '450'
+deces: '519'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_incertus
+sacre:
+  date: '490'
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconleth.html
+  - https://fr.wikipedia.org/wiki/Conla%C3%A8de_de_Kildare
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kildare, Ireland
+  du: null
+  au: 3 May 519
+- titre: évêque diocésain
+  du: '0490-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/St%20Conleth%20window%2C%20Doolin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5161236
+  catholic_hierarchy: bconleth
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:06+00:00'
+  completeness: 0.5

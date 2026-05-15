@@ -1,0 +1,51 @@
+slug: thomas-pobel
+nom: Thomas Pobel
+nom_complet: null
+naissance: '1547-12-03'
+deces: '1619-09-30'
+naissance_lieu: Chambéry
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpobel.html
+  - https://fr.wikipedia.org/wiki/Thomas_Pobel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Paul-Trois-Châteaux, France
+  du: '1579-09-07'
+  au: 1582&sup1;
+- titre: Bishop Emeritus of Saint-Paul-Trois-Châteaux, France
+  du: null
+  au: 1619&sup1;
+- titre: évêque de Saint-Paul-Trois-Châteaux
+  du: '1579-09-17'
+  au: '1582-01-01'
+- titre: prieur
+  du: null
+  au: null
+- titre: abbé commendataire
+  du: '1595-01-01'
+  au: '1605-01-01'
+- titre: évêque diocésain
+  du: '1579-09-17'
+  au: '1582-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752199
+  catholic_hierarchy: bpobel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:39:28+00:00'
+  completeness: 0.25

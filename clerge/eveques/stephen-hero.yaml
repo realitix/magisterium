@@ -1,0 +1,50 @@
+slug: stephen-hero
+nom: Stephen Hero
+nom_complet: Stephen Andrew Hero
+naissance: '1969-12-19'
+deces: null
+naissance_lieu: Lachine, Archdiocese of Montréal, Québec
+deces_lieu: null
+rang: archeveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2021-06-11'
+  lieu: Sacred Heart, Cathedral, Prince-Albert, Diocese of Prince-Albert, Saskatchewan
+  consecrateur_principal: donald-bolen
+  co_consecrateurs:
+  - richard-william-smith
+  - paul-terrio
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bheros.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Prince-Albert, Saskatchewan, Canada
+  du: '2021-03-25'
+  au: null
+- titre: Archbishop of Edmonton, Alberta, Canada
+  du: '2025-11-21'
+  au: null
+- titre: évêque de Prince Albert
+  du: '2021-03-25'
+  au: '2025-11-21'
+- titre: archevêque d'Edmonton
+  du: '2025-11-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q106188832
+  catholic_hierarchy: bheros
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:41:06+00:00'
+  completeness: 0.88

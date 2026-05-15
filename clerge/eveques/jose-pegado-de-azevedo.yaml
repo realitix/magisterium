@@ -1,0 +1,43 @@
+slug: jose-pegado-de-azevedo
+nom: José Pegado de Azevedo
+nom_complet: José Pegado de Azevedo, C.O.
+naissance: '1750-03-13'
+deces: '1812-06-19'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1801-11-15'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpega.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angra, Portugal
+  du: null
+  au: '1812-06-19'
+- titre: évêque d'Angra
+  du: '1800-12-20'
+  au: null
+fraternite: oratoriens
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20Jos%C3%A9%20Pegado%20de%20Azevedo.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10310295
+  catholic_hierarchy: bpega
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:16:46+00:00'
+  completeness: 0.62

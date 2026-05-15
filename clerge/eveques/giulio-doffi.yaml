@@ -1,0 +1,44 @@
+slug: giulio-doffi
+nom: Giulio Doffi
+nom_complet: Giulio Doffo, O.P.
+naissance: '1534'
+deces: '1596-08-27'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1595-04-02'
+  lieu: S. Barthelemy, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - flaminio-filonardi
+  - leonardo-abela
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdoffius.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alessano, Italy
+  du: '1595-03-06'
+  au: '1596-08-27'
+- titre: évêque diocésain
+  du: '1595-03-06'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q23585114
+  catholic_hierarchy: bdoffius
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:58:35+00:00'
+  completeness: 0.88

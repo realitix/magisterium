@@ -1,0 +1,50 @@
+slug: michael-router
+nom: Michael Router
+nom_complet: null
+naissance: '1965-04-15'
+deces: null
+naissance_lieu: Rahardrum, Virginia, Diocese of Kilmore
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2019-07-21'
+  lieu: St. Patrick, Cathedral, Armagh, Archdiocese of Armagh
+  consecrateur_principal: eamon-martin
+  co_consecrateurs:
+  - jude-thaddeus-okolo
+  - philip-leo-o-reilly
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brouter.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Armagh, Ireland
+  du: '2019-05-07'
+  au: null
+- titre: Titular Bishop of Lugmad
+  du: '2019-05-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '2019-05-07'
+  au: null
+- titre: évêque titulaire
+  du: '2019-05-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q63564383
+  catholic_hierarchy: brouter
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:32:04+00:00'
+  completeness: 0.88

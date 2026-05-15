@@ -1,0 +1,54 @@
+slug: pedro-de-la-pena-o-p
+nom: Pedro de la Peña, O.P.
+nom_complet: Pedro de la Peña
+naissance: null
+deces: '1583-03-07'
+naissance_lieu: Covarrubias, Diocese of Burgos, Spain
+deces_lieu: Lima, Archdiocese of Lima, Peru
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1565-10-18'
+  lieu: Atocha, Convent, Madrid, Archdiocese of Toledo, Spain
+  consecrateur_principal: gaspar-cardinal-zuniga-y-avellaneda
+  co_consecrateurs:
+  - diego-de-covarrubias
+  - melchor-alvarez-de-vozmediano-y-orozco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdlpe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verapaz, Guatemala
+  du: '1564-03-01'
+  au: null
+- titre: Bishop of Quito, Ecuador
+  du: '1565-05-15'
+  au: '1583-03-07'
+- titre: Roman Catholic Bishop of Verapaz
+  du: '1564-03-11'
+  au: '1565-05-25'
+- titre: Roman Catholic Bishop of Quito
+  du: '1565-05-25'
+  au: '1583-03-07'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20la%20Pe%C3%B1a.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q23619569
+  catholic_hierarchy: bdlpe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:55:00+00:00'
+  completeness: 0.88

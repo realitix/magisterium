@@ -1,0 +1,48 @@
+slug: cristiano-bodo
+nom: Cristiano Bodo
+nom_complet: null
+naissance: '1968-07-30'
+deces: null
+naissance_lieu: Vercelli, Archdiocese of Vercelli
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2017-03-25'
+  lieu: Cathedral, Vercelli, Archdiocese of Vercelli
+  consecrateur_principal: marco-arnolfo
+  co_consecrateurs:
+  - enrico-masseroni
+  - giuseppe-guerrini
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbodoc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saluzzo, Italy
+  du: '2016-12-17'
+  au: null
+- titre: évêque de Saluces
+  du: '2016-12-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cristianobodo.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q28026103
+  catholic_hierarchy: bbodoc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:33:16+00:00'
+  completeness: 0.88

@@ -1,0 +1,46 @@
+slug: gabriele-papa
+nom: Gabriele Papa
+nom_complet: null
+naissance: '1772'
+deces: '1837-04-26'
+naissance_lieu: Vietri
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1819-12-19'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - carlo-zen
+  - joseph-octave-plessis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpapag.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Sorrento, Italy
+  du: null
+  au: '1837-04-26'
+- titre: archevêque de Sorrento
+  du: '1824-12-11'
+  au: null
+- titre: évêque de Lamezia Terme
+  du: '1819-10-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763136
+  catholic_hierarchy: bpapag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:08:28+00:00'
+  completeness: 1.0

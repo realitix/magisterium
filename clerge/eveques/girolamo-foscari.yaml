@@ -1,0 +1,44 @@
+slug: girolamo-foscari
+nom: Girolamo Foscari
+nom_complet: null
+naissance: '1505'
+deces: '1563-01-02'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1542-05-01'
+  lieu: Venezia, Patriarchate of Venezia {Venice}
+  consecrateur_principal: antonio-beccari
+  co_consecrateurs:
+  - giorgio-andreasi
+  - livio-podocatharo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfoscg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Torcello (Turris), Italy
+  du: '1526-05-16'
+  au: '1563-01-02'
+- titre: évêque de Torcello
+  du: '1526-05-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17375387
+  catholic_hierarchy: bfoscg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:53:25+00:00'
+  completeness: 0.88

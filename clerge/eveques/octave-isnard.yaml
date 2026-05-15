@@ -1,0 +1,42 @@
+slug: octave-isnard
+nom: Octave Isnard
+nom_complet: null
+naissance: '1600'
+deces: '1625-11-11'
+naissance_lieu: Nice, Diocese of Nice
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1605-02-27'
+  lieu: San Luigi de' Francesi, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francois-cardinal-de-joyeuse
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bisnardo.html
+  - https://fr.wikipedia.org/wiki/Octave_Isnard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: '1605-01-12'
+  au: '1625-11-11'
+- titre: évêque de Glandèves
+  du: '1605-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q746461
+  catholic_hierarchy: bisnardo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:28+00:00'
+  completeness: 0.75

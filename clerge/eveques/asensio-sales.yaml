@@ -1,0 +1,51 @@
+slug: asensio-sales
+nom: Asensio Sales
+nom_complet: null
+naissance: '1699-05-27'
+deces: '1766-01-17'
+naissance_lieu: Valence
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1755-04-13'
+  lieu: Cathedral, Segorbe, Diocese of Segorbe
+  consecrateur_principal: pedro-fernandez-velarde
+  co_consecrateurs:
+  - juan-francisco-navarro-salvador-y-gilabert
+  - diego-martinez-y-garrido-o-s
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsales.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barcelona, Spain
+  du: '1754-12-16'
+  au: '1766-01-17'
+- titre: professeur titulaire
+  du: null
+  au: null
+- titre: évêque de Barcelone
+  du: '1754-12-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Gaalcer%C3%A1n-Retrato%20de%20Asensio%20Sales.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64734395
+  catholic_hierarchy: bsales
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:43:49+00:00'
+  completeness: 1.0

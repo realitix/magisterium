@@ -1,0 +1,38 @@
+slug: vincenzo-de-corbis
+nom: Vincenzo de Corbis
+nom_complet: null
+naissance: null
+deces: '1512'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorbis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerra, Italy
+  du: '1511-08-22'
+  au: 1512&sup2;
+- titre: évêque diocésain
+  du: '1511-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30070634
+  catholic_hierarchy: bcorbis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:05:21+00:00'
+  completeness: 0.25

@@ -1,0 +1,85 @@
+slug: leon-xii
+nom: Léon XII
+nom_complet: Leo XII
+naissance: '1760-08-02'
+deces: '1829-02-10'
+naissance_lieu: della Genga, Castle, Diocese of Fabriano
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1794-02-24'
+  lieu: Cathedral, Frascati, Suburbicarian See of Frascati
+  consecrateur_principal: henri-benoit-stuart
+  co_consecrateurs:
+  - antonio-felice-zondadari
+  - ottavio-boni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelgen.html
+  - https://fr.wikipedia.org/wiki/L%C3%A9on_XII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Tyrus
+  du: '1794-02-21'
+  au: null
+- titre: Apostolic Nuncio to Germany
+  du: '1794-04-23'
+  au: 1800&sup2;
+- titre: Archbishop (Personal Title) of Senigallia, Italy
+  du: '1816-03-08'
+  au: null
+- titre: Cardinal-Priest of Santa Maria in Trastevere
+  du: '1816-04-29'
+  au: null
+- titre: Bishop of Senigallia, Italy
+  du: null
+  au: '1816-09-10'
+- titre: Prefect of the Congregation of Ecclesiastical Immunity
+  du: '1820-05-09'
+  au: null
+- titre: Archpriest of the Basilica di Santa Maria Maggiore {Saint Mary Major Basilica}
+  du: '1821-02-10'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1829-02-10'
+- titre: archevêque titulaire
+  du: '1794-02-21'
+  au: null
+- titre: évêque diocésain
+  du: '1816-03-08'
+  au: '1816-09-10'
+- titre: cardinal
+  du: '1816-03-08'
+  au: null
+- titre: nonce apostolique en Allemagne
+  du: '1794-04-23'
+  au: '1800-01-01'
+- titre: archiprêtre de la basilique Sainte-Marie-Majeure
+  du: null
+  au: null
+- titre: pape
+  du: '1823-09-28'
+  au: '1829-02-10'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Picqu%C3%A9%20%E2%80%93%20Portrait%20de%20L%C3%A9on%20XII%20%281828%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q43727
+  catholic_hierarchy: bdelgen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:40:03+00:00'
+  completeness: 1.0

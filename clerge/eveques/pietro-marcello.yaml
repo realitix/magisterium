@@ -1,0 +1,45 @@
+slug: pietro-marcello
+nom: Pietro Marcello
+nom_complet: Pietro Marcelli
+naissance: '1376'
+deces: '1428'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: giovanni-degli-uberti
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarcelp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ceneda, Italy
+  du: '1399-04-24'
+  au: null
+- titre: Bishop of Padova {Padua}, Italy
+  du: '1409-11-16'
+  au: 1428&sup2;
+- titre: évêque de Padoue
+  du: '1409-11-25'
+  au: null
+- titre: évêque de Ceneda
+  du: '1399-05-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3904040
+  catholic_hierarchy: bmarcelp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:32+00:00'
+  completeness: 0.38

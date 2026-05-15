@@ -1,0 +1,48 @@
+slug: emery-marc-de-la-ferte
+nom: Émery Marc de La Ferté
+nom_complet: Emmeric-Marc de La Ferté
+naissance: '1607'
+deces: '1648-04-30'
+naissance_lieu: Rouen, Archdiocese of Rouen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1639-05-01'
+  consecrateur_principal: claude-de-rueil
+  co_consecrateurs:
+  - etienne-de-puget
+  - etienne-de-vilazel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaferte.html
+  - https://fr.wikipedia.org/wiki/%C3%89mery_Marc_de_La_Fert%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Mans, France
+  du: null
+  au: '1648-04-30'
+- titre: évêque du Mans
+  du: '1637-11-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Emery%20Marc%20de%20La%20Fert%C3%A9.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q22211833
+  catholic_hierarchy: blaferte
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:27:21+00:00'
+  completeness: 0.88

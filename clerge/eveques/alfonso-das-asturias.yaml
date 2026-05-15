@@ -1,0 +1,46 @@
+slug: alfonso-das-asturias
+nom: Alfonso das Asturias
+nom_complet: null
+naissance: null
+deces: '1309-01-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1302-05-06'
+  consecrateur_principal: matteo-d-acquasparta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/basturias.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lamego, Portugal
+  du: '1302-02-14'
+  au: null
+- titre: Bishop of Salamanca, Spain
+  du: '1306-11-03'
+  au: '1309-01-22'
+- titre: évêque diocésain
+  du: '1302-02-22'
+  au: null
+- titre: évêque diocésain
+  du: '1306-11-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762374
+  catholic_hierarchy: basturias
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:47:49+00:00'
+  completeness: 0.75

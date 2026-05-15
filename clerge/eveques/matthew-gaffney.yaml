@@ -1,0 +1,47 @@
+slug: matthew-gaffney
+nom: Matthew Gaffney
+nom_complet: null
+naissance: '1839-01-02'
+deces: '1909-12-15'
+naissance_lieu: Mountnugent, Diocese of Meath
+deces_lieu: Meath, Diocese of Meath
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1899-06-25'
+  lieu: Meath, Diocese of Meath
+  consecrateur_principal: michael-logue
+  co_consecrateurs:
+  - patrick-o-donnell
+  - john-keys-o-rsquo-doherty
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaffn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meath, Ireland
+  du: '1899-04-28'
+  au: 1906&sup1;
+- titre: Bishop Emeritus of Meath, Ireland
+  du: null
+  au: '1909-12-15'
+- titre: évêque diocésain
+  du: '1899-04-28'
+  au: '1906-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733160
+  catholic_hierarchy: bgaffn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:03:29+00:00'
+  completeness: 1.0

@@ -1,0 +1,38 @@
+slug: lodovico-cinci
+nom: Lodovico Cinci
+nom_complet: null
+naissance: '1583'
+deces: '1638-09-19'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcinci.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Todi, Italy
+  du: '1625-10-06'
+  au: '1638-09-19'
+- titre: évêque diocésain
+  du: '1625-10-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762609
+  catholic_hierarchy: bcinci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:51:04+00:00'
+  completeness: 0.38

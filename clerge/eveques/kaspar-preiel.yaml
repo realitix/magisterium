@@ -1,0 +1,47 @@
+slug: kaspar-preiel
+nom: Kaspar Preiel
+nom_complet: null
+naissance: null
+deces: '1517-07-16'
+naissance_lieu: Krumbach
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1505'
+  lieu: Ste Maria del Anima, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: georges-iii-de-limpurg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpreiel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bamberg, Germany
+  du: '1504-04-01'
+  au: '1517-07-16'
+- titre: Titular Bishop of Athyra
+  du: '1504-04-01'
+  au: null
+- titre: évêque auxiliaire
+  du: '1504-04-11'
+  au: null
+- titre: évêque titulaire
+  du: '1504-04-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761484
+  catholic_hierarchy: bpreiel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:36+00:00'
+  completeness: 0.62

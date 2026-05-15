@@ -1,0 +1,51 @@
+slug: moritz-ferber
+nom: Moritz Ferber
+nom_complet: Maurycy Ferber
+naissance: '1471'
+deces: '1537-07-01'
+naissance_lieu: Gda&#324;sku
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1523-12-06'
+  lieu: Piotrków Trybunalski
+  consecrateur_principal: jan-aski
+  co_consecrateurs:
+  - andreas-cricius
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferber.html
+  - https://fr.wikipedia.org/wiki/Moritz_Ferber
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Warmia (Ermland), Poland
+  du: null
+  au: '1537-07-01'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Varmie
+  du: '1523-04-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mauritius%20Ferber.PNG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q433635
+  catholic_hierarchy: bferber
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:36:32+00:00'
+  completeness: 0.88

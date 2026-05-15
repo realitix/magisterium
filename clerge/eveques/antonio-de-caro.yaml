@@ -1,0 +1,44 @@
+slug: antonio-de-caro
+nom: Antonio de Caro
+nom_complet: null
+naissance: null
+deces: '1517'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdcaroa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avellino e Frigento, Italy
+  du: 1505&sup1;
+  au: null
+- titre: Bishop of Nardò, Italy
+  du: '1507-10-27'
+  au: 1517&sup2;
+- titre: évêque d'Avellino
+  du: '1505-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1507-11-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23583561
+  catholic_hierarchy: bdcaroa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:33:43+00:00'
+  completeness: 0.25

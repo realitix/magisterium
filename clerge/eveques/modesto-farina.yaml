@@ -1,0 +1,43 @@
+slug: modesto-farina
+nom: Modesto Farina
+nom_complet: null
+naissance: '1771-03-18'
+deces: '1856-05-10'
+naissance_lieu: Lugano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1821-08-15'
+  consecrateur_principal: giulio-maria-della-somaglia
+  co_consecrateurs:
+  - michele-belli
+  - antonio-baldini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfarinam.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Padova {Padua}, Italy
+  du: null
+  au: '1856-05-10'
+- titre: évêque diocésain
+  du: '1820-11-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3859967
+  catholic_hierarchy: bfarinam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:32:17+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: pierre-gazin
+nom: Pierre Gazin
+nom_complet: Pietro Gazino, C.R.L.
+naissance: '1450'
+deces: '1557-05-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1529-07-02'
+  consecrateur_principal: gabriele-mascioli-foschi-o-e-s-a
+  co_consecrateurs:
+  - natale-della-torre
+  - giovanni-de-morellis-de-bitonto-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgazino.html
+  - https://fr.wikipedia.org/wiki/Pierre_Gazin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aosta, Italy
+  du: '1528-01-24'
+  au: 20 May 1557&sup3;
+- titre: évêque diocésain
+  du: '1528-02-03'
+  au: null
+- titre: évêque d'Aoste
+  du: '1528-01-01'
+  au: '1557-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027533
+  catholic_hierarchy: bgazino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:59+00:00'
+  completeness: 0.88

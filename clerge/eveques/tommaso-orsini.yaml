@@ -1,0 +1,50 @@
+slug: tommaso-orsini
+nom: Tommaso Orsini
+nom_complet: null
+naissance: null
+deces: '1576-01-25'
+naissance_lieu: Foligno, Diocese of Foligno
+deces_lieu: Foligno, Diocese of Foligno
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1566-08-28'
+  lieu: S. Pierre in Montorio, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: clemente-d-olera
+  co_consecrateurs:
+  - anton-maria-salviati
+  - giulio-antonio-santorio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borsinit.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strongoli, Italy
+  du: '1566-08-15'
+  au: null
+- titre: Bishop of Foligno, Italy
+  du: '1568-01-23'
+  au: '1576-01-25'
+- titre: Roman Catholic Bishop of Strongoli
+  du: '1566-08-25'
+  au: null
+- titre: évêque de Foligno
+  du: '1568-02-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23822709
+  catholic_hierarchy: borsinit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:56:48+00:00'
+  completeness: 0.88

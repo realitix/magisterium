@@ -1,0 +1,44 @@
+slug: ingerand-de-crequi
+nom: Ingerand de Créqui
+nom_complet: null
+naissance: null
+deces: '1330-09-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrequii.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cambrai, France
+  du: '1274-03-24'
+  au: 1286&sup1;
+- titre: Bishop of Thérouanne, France
+  du: 1301&sup2;
+  au: '1330-09-29'
+- titre: évêque de Thérouanne
+  du: '1301-01-01'
+  au: null
+- titre: évêque de Cambrai
+  du: '1274-03-31'
+  au: '1286-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108463478
+  catholic_hierarchy: bcrequii
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:56+00:00'
+  completeness: 0.38

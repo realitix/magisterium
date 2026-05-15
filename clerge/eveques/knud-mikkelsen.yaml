@@ -1,0 +1,47 @@
+slug: knud-mikkelsen
+nom: Knud Mikkelsen
+nom_complet: Canute (Knud) Mikkelsen (Cobson, Kobsøn)
+naissance: null
+deces: '1477'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q756617
+tampon: ordo_validus
+sacre:
+  date: '1452-03-05'
+  consecrateur_principal: non-indexe-3378c5df
+  co_consecrateurs:
+  - giovanni-castiglione-de-polena
+  - marco-marinoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcobson.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viborg, Denmark
+  du: '1451-04-14'
+  au: 1477&sup1;
+- titre: Roman Catholic Bishop of Viborg
+  du: '1451-04-23'
+  au: '1478-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Knud%20Mikkelsen%20-%20seal%2C%201465-1474.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12322334
+  catholic_hierarchy: bcobson
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:55:50+00:00'
+  completeness: 0.75

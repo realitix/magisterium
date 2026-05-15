@@ -1,0 +1,47 @@
+slug: otto-iv-von-sonnenberg
+nom: Otto IV. von Sonnenberg
+nom_complet: Otto von Sonnenberg
+naissance: '1452'
+deces: '1491-03-21'
+naissance_lieu: null
+deces_lieu: Konstanz, Diocese of Konstanz {Constance}
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1481-03-31'
+  consecrateur_principal: friedrich-von-zollern
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsonne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: null
+  au: '1491-03-21'
+- titre: évêque diocésain
+  du: '1474-10-09'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Konstanz%20Bistumsstreit%201474%20Otto%20von%20Sonnenberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1310623
+  catholic_hierarchy: bsonne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:28:03+00:00'
+  completeness: 0.62

@@ -1,0 +1,44 @@
+slug: domenico-ventapane
+nom: Domenico Ventapane
+nom_complet: null
+naissance: '1751-05-14'
+deces: '1830-07-01'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}, Italy
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1798-08-12'
+  lieu: Cathedral, Napoli, Archdiocese of Napoli {Naples}, Italy
+  consecrateur_principal: giuseppe-maria-capece-zurlo
+  co_consecrateurs:
+  - domenico-de-iorio-jorio
+  - gaetano-vitolo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bventapa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Tium
+  du: '1798-06-10'
+  au: Jul 1830&sup3;
+- titre: évêque titulaire
+  du: '1798-06-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745904
+  catholic_hierarchy: bventapa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:31:58+00:00'
+  completeness: 0.88

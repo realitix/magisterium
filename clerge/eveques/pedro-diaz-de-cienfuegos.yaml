@@ -1,0 +1,47 @@
+slug: pedro-diaz-de-cienfuegos
+nom: Pedro Díaz de Cienfuegos
+nom_complet: null
+naissance: '1652-01-15'
+deces: '1702-01-09'
+naissance_lieu: Tuña, Diocese of Oviedo, Spain
+deces_lieu: Catacaos
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1692-12-20'
+  lieu: Bogotá, Archdiocese of Santafé en Nueva Granada, Colombia
+  consecrateur_principal: ignacio-de-urbina
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiadcie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Popayán, Colombia
+  du: '1686-08-12'
+  au: null
+- titre: Bishop of Trujillo, Peru
+  du: '1696-02-20'
+  au: '1702-01-09'
+- titre: évêque de Trujillo
+  du: '1696-02-20'
+  au: null
+- titre: évêque de Popayan
+  du: '1686-08-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64741727
+  catholic_hierarchy: bdiadcie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:48:50+00:00'
+  completeness: 0.75

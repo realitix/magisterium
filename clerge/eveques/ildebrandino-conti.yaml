@@ -1,0 +1,43 @@
+slug: ildebrandino-conti
+nom: Ildebrandino Conti
+nom_complet: Hildebrand Conti
+naissance: null
+deces: '1352-11-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1321-06-28'
+  consecrateur_principal: regnaud-cardinal-de-la-porte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcontih.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Padova {Padua}, Italy
+  du: '1319-06-27'
+  au: '1352-11-02'
+- titre: évêque de Padoue
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1319-07-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3796344
+  catholic_hierarchy: bcontih
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:03:28+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: gualfardo-ridolfi
+nom: Gualfardo Ridolfi
+nom_complet: Gualphardus Ridolfi
+naissance: '1745-11-03'
+deces: '1818-09-09'
+naissance_lieu: Verona, Diocese of Verona
+deces_lieu: Rimini, Diocese of Rimini
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1807-12-27'
+  lieu: Cathedral, Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: antonio-codronchi
+  co_consecrateurs:
+  - paolo-lamberto-d-rsquo-allegre
+  - eugenio-giovanni-battista-giuseppe-cerina-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bridol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rimini, Italy
+  du: '1807-09-18'
+  au: '1818-09-09'
+- titre: évêque diocésain
+  du: '1807-09-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733389
+  catholic_hierarchy: bridol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:13:55+00:00'
+  completeness: 1.0

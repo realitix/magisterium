@@ -1,0 +1,40 @@
+slug: joao-rol-raol-raolis
+nom: João Rol (Raol, Raolis)
+nom_complet: João Rol
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '21'
+  consecrateur_principal: non-indexe-4d0cfa90
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brolj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lisboa, Portugal
+  du: null
+  au: Aug 1241&sup2;
+- titre: évêque de Lisbonne
+  du: '1238-06-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781092
+  catholic_hierarchy: brolj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:24:29+00:00'
+  completeness: 0.5

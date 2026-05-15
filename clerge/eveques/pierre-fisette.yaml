@@ -1,0 +1,44 @@
+slug: pierre-fisette
+nom: Pierre Fisette
+nom_complet: Pierre Fisette, P.M.E.
+naissance: '1943-02-02'
+deces: '1995-12-21'
+naissance_lieu: Steinbach, MB
+deces_lieu: (car accident), Kapuskasing
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '1994-03-18'
+  lieu: "Notre-Dame de l\x92Assomption, Cathedral, Hearst, Diocese of Hearst, Ontario"
+  consecrateur_principal: marcel-andre-j-gervais
+  co_consecrateurs:
+  - antoine-hacault
+  - generoso-camina
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfisette.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hearst, Ontario, Canada
+  du: '1993-12-27'
+  au: '1995-12-21'
+- titre: évêque diocésain
+  du: '1993-12-27'
+  au: '1995-12-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735284
+  catholic_hierarchy: bfisette
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:46:13+00:00'
+  completeness: 1.0

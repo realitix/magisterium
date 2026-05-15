@@ -1,0 +1,47 @@
+slug: theodorus-zwartkruis
+nom: Theodorus Zwartkruis
+nom_complet: Theodorus Henricus Johannes Zwartkruis
+naissance: '1909-11-22'
+deces: '1983-10-21'
+naissance_lieu: Amsterdam
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1966-10-15'
+  consecrateur_principal: bernard-jan-alfrink
+  co_consecrateurs:
+  - martinus-jansen
+  - james-scanlan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzwar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Haarlem, Netherlands
+  du: '1966-08-18'
+  au: '1983-10-21'
+- titre: évêque diocésain
+  du: '1966-08-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Deken%20Th.H.%20Zwartkruis%20%28kop%29%20benoemd%20tot%20Bisschop%20van%20Bisdom%20Haarlem%2C%20Bestanddeelnr%20919-4671.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2252531
+  catholic_hierarchy: bzwar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:12:58+00:00'
+  completeness: 1.0

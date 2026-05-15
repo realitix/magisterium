@@ -1,0 +1,63 @@
+slug: girolamo-binago
+nom: Girolamo Binago
+nom_complet: Girolamo Binago, C.O.
+naissance: '1578'
+deces: '1643-10-17'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Bologna, Archdiocese of Bologna
+rang: eveque
+nationalite: IT
+tampon: ordo_validus
+sacre:
+  date: '1637-02-24'
+  lieu: Cathedral, Bologna, Archdiocese of Bologna
+  consecrateur_principal: jerome-colonna-cardinal-eveque-de-frascati
+  co_consecrateurs:
+  - pompeo-cornazzano
+  - ferdinando-millini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbinago.html
+  - https://gcatholic.org/p/58233
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bologna, Italy
+  du: '1637-01-12'
+  au: '1643-10-17'
+- titre: Titular Bishop of Laodicea in Phrygia
+  du: '1637-01-12'
+  au: null
+- titre: Titular Bishop
+  siege: Laodicea
+  du: '1637-01-12'
+  au: '1643-10-17'
+- titre: Auxiliary Bishop
+  siege: Bologna
+  du: '1637-01-12'
+  au: '1643-10-17'
+- titre: évêque titulaire
+  du: '1637-01-12'
+  au: null
+- titre: évêque auxiliaire
+  du: '1637-01-12'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64745173
+  catholic_hierarchy: bbinago
+  gcatholic: '58233'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:27:45+00:00'
+  completeness: 0.88
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:42+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: kazimierz-bukraba
+nom: Kazimierz Bukraba
+nom_complet: null
+naissance: '1885-11-23'
+deces: '1946-05-06'
+naissance_lieu: Grodno
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1932-08-21'
+  consecrateur_principal: eduard-von-der-ropp
+  co_consecrateurs:
+  - kazimierz-mikolaj-michalkiewicz
+  - jazeps-rancans
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbukr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pinsk, Belarus
+  du: '1932-07-10'
+  au: '1946-05-06'
+- titre: évêque de Pinsk
+  du: '1932-07-10'
+  au: '1946-05-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz%20Bukraba.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11737749
+  catholic_hierarchy: bbukr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:58:44+00:00'
+  completeness: 1.0

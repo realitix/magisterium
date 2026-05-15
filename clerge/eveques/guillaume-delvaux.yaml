@@ -1,0 +1,44 @@
+slug: guillaume-delvaux
+nom: Guillaume Delvaux
+nom_complet: Wilhlemus Delvaux
+naissance: '1681-07-22'
+deces: '1761-10-12'
+naissance_lieu: Bléhen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1732-05-25'
+  consecrateur_principal: thomas-philippe-d-henin-letard-d-alsace-boussut-de-chimay
+  co_consecrateurs:
+  - jan-baptist-de-smet
+  - charles-d-espinoza
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelvaux.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Delvaux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: null
+  au: '1761-10-12'
+- titre: évêque d'Ypres
+  du: '1730-08-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16640504
+  catholic_hierarchy: bdelvaux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:41:27+00:00'
+  completeness: 1.0

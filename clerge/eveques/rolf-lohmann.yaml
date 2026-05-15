@@ -1,0 +1,50 @@
+slug: rolf-lohmann
+nom: Rolf Lohmann
+nom_complet: null
+naissance: '1963-02-21'
+deces: null
+naissance_lieu: Hamm, Archdiocese of Paderborn
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2017-07-08'
+  lieu: "St. Paul\x92s, Cathedral, Münster, Diocese of Münster"
+  consecrateur_principal: felix-genn
+  co_consecrateurs:
+  - ted-hoogenboom
+  - wilfried-theising
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blohmann.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Münster, Germany
+  du: '2017-04-25'
+  au: null
+- titre: Titular Bishop of Gor
+  du: '2017-04-25'
+  au: null
+- titre: évêque auxiliaire
+  du: '2017-04-25'
+  au: null
+- titre: évêque titulaire
+  du: '2017-04-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29569793
+  catholic_hierarchy: blohmann
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:56:13+00:00'
+  completeness: 0.88

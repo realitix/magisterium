@@ -1,0 +1,47 @@
+slug: john-james-rudin
+nom: John James Rudin
+nom_complet: John James Rudin, M.M.
+naissance: '1916-11-27'
+deces: '1995-06-14'
+naissance_lieu: Pittsfield, MA, Diocese of Springfield in Massachusetts, USA
+deces_lieu: North Tarrytown, NY
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1957-10-03'
+  lieu: Cathedral, Musoma, Diocese of Musoma
+  consecrateur_principal: joseph-blomjous
+  co_consecrateurs:
+  - edward-aloysius-mcgurkin
+  - maurice-michael-otunga
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brudin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Musoma, Tanzania
+  du: '1957-07-05'
+  au: '1979-01-12'
+- titre: Bishop Emeritus of Musoma, Tanzania
+  du: null
+  au: '1995-06-14'
+- titre: évêque diocésain
+  du: '1957-07-05'
+  au: '1979-01-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16013520
+  catholic_hierarchy: brudin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:34:29+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: francois-de-clugny
+nom: François de Clugny
+nom_complet: null
+naissance: '1728'
+deces: '1814'
+naissance_lieu: Autun
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1772-06-21'
+  consecrateur_principal: charles-antoine-de-la-roche-aymon
+  co_consecrateurs:
+  - jean-louis-de-la-marthonie-de-caussade
+  - armand-de-roquelaure
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclugny.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Clugny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Riez, France
+  du: null
+  au: 1814&sup1;
+- titre: évêque de Riez
+  du: '1772-04-12'
+  au: '1801-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3086160
+  catholic_hierarchy: bclugny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:55:01+00:00'
+  completeness: 0.75

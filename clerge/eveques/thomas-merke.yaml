@@ -1,0 +1,52 @@
+slug: thomas-merke
+nom: Thomas Merke
+nom_complet: Thomas Merkes
+naissance: null
+deces: '1409'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '23'
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmerkes.html
+  - https://fr.wikipedia.org/wiki/Thomas_Merke
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1397-01-04'
+  au: 1399&sup1;
+- titre: Titular Bishop of Salmasa
+  du: 1399&sup1;
+  au: null
+- titre: Bishop Emeritus of Carlisle, England, Great Britain
+  du: null
+  au: 1410&sup2;
+- titre: évêque titulaire
+  du: '1399-01-01'
+  au: null
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1397-01-01'
+  au: '1399-01-01'
+- titre: évêque diocésain
+  du: '1397-01-12'
+  au: '1399-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7792397
+  catholic_hierarchy: bmerkes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:52:50+00:00'
+  completeness: 0.38

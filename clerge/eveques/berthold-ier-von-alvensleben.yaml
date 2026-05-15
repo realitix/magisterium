@@ -1,0 +1,41 @@
+slug: berthold-ier-von-alvensleben
+nom: Berthold Ier von Alvensleben
+nom_complet: Berthold von Alvensleben
+naissance: '1100'
+deces: '1130-03-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balvenb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: '1119-10-31'
+  au: '1130-03-14'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1119-11-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q827928
+  catholic_hierarchy: balvenb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:34:03+00:00'
+  completeness: 0.38

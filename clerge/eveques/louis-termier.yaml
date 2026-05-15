@@ -1,0 +1,43 @@
+slug: louis-termier
+nom: Louis Termier
+nom_complet: null
+naissance: '1860-02-02'
+deces: '1938-04-05'
+naissance_lieu: Chambéry
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1919-05-01'
+  consecrateur_principal: dominique-castellan
+  co_consecrateurs:
+  - adrien-fodere
+  - charles-joseph-eugene-ruch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bterm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarentaise, France
+  du: '1918-11-29'
+  au: '1938-04-05'
+- titre: évêque de Tarentaise
+  du: '1918-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745566
+  catholic_hierarchy: bterm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:55:06+00:00'
+  completeness: 1.0

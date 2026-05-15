@@ -1,0 +1,46 @@
+slug: john-bottlesham
+nom: John Bottlesham
+nom_complet: John de Bottlesham
+naissance: null
+deces: '1404-04-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1400-07-04'
+  consecrateur_principal: thomas-arundel
+  co_consecrateurs:
+  - robert-braybrooke
+  - henri-le-despenser
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbottlj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1400-04-09'
+  au: '1404-04-17'
+- titre: évêque diocésain
+  du: '1400-04-18'
+  au: null
+- titre: évêque de Rochester
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6222546
+  catholic_hierarchy: bbottlj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:43:24+00:00'
+  completeness: 0.88

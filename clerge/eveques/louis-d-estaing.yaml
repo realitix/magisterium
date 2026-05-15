@@ -1,0 +1,48 @@
+slug: louis-d-estaing
+nom: Louis d'Estaing
+nom_complet: Louis d&rsquo;Estaing
+naissance: null
+deces: '1664-03-15'
+naissance_lieu: Estaing
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1651-08-25'
+  consecrateur_principal: pierre-de-broc
+  co_consecrateurs:
+  - henri-cauchon-de-maupas
+  - hardouin-de-perefixe-de-beaumont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdestl.html
+  - https://fr.wikipedia.org/wiki/Louis_d%27Estaing
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: '1651-06-09'
+  au: '1664-03-15'
+- titre: évêque de Clermont
+  du: '1651-06-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BOYER%201004%20-%20L.%20d%27Estaing%20-%20mort%20en%201664.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q17634402
+  catholic_hierarchy: bdestl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:46:12+00:00'
+  completeness: 0.88

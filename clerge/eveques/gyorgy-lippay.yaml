@@ -1,0 +1,61 @@
+slug: gyorgy-lippay
+nom: György Lippay
+nom_complet: György Lippay Zombori
+naissance: '1600-10-09'
+deces: '1666-01-03'
+naissance_lieu: Posson
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1633-12-21'
+  lieu: Nagyszombat
+  consecrateur_principal: peter-pazmany
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blippay.html
+  - https://fr.wikipedia.org/wiki/Gy%C3%B6rgy_Lippay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veszprém, Hungary
+  du: '1633-06-06'
+  au: null
+- titre: Bishop of Eger, Hungary
+  du: 1637&sup2;
+  au: null
+- titre: Archbishop of Esztergom, Hungary
+  du: '1645-12-04'
+  au: '1666-01-03'
+- titre: évêque de Veszprém
+  du: '1633-06-06'
+  au: null
+- titre: évêque d'Eger
+  du: '1637-01-01'
+  au: null
+- titre: primat de Hongrie
+  du: null
+  au: null
+- titre: archevêque d'Esztergom
+  du: '1645-12-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lippay%20Gy%C3%B6rgy.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q666005
+  catholic_hierarchy: blippay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:51:51+00:00'
+  completeness: 0.75

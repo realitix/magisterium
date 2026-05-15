@@ -1,0 +1,43 @@
+slug: thomas-charlton
+nom: Thomas Charlton
+nom_complet: null
+naissance: '1292'
+deces: '1344-01-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1327-10-18'
+  consecrateur_principal: pierre-des-pres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcharltnt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1327-09-25'
+  au: '1344-01-11'
+- titre: évêque de Hereford
+  du: '1327-10-03'
+  au: null
+- titre: lord du Sceau privé
+  du: '1316-01-01'
+  au: '1320-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7788359
+  catholic_hierarchy: bcharltnt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:02+00:00'
+  completeness: 0.75

@@ -1,0 +1,47 @@
+slug: humbert-ancelin
+nom: Humbert Ancelin
+nom_complet: null
+naissance: '1650'
+deces: '1720-06-26'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1681-05-18'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - francois-ier-faure
+  - charles-le-goux-de-la-berchere
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bancelin.html
+  - https://fr.wikipedia.org/wiki/Humbert_Ancelin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: null
+  au: 1702&sup2;
+- titre: Bishop Emeritus of Tulle, France
+  du: null
+  au: '1720-06-26'
+- titre: évêque de Tulle
+  du: '1680-10-04'
+  au: '1702-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22209387
+  catholic_hierarchy: bancelin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:37:15+00:00'
+  completeness: 0.88

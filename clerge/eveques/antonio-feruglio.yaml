@@ -1,0 +1,57 @@
+slug: antonio-feruglio
+nom: Antonio Feruglio
+nom_complet: null
+naissance: '1841-03-10'
+deces: '1911-02-08'
+naissance_lieu: Feletto-Umberto, Diocese of Udine
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1893-01-22'
+  lieu: S. Pantaleone, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - antonio-maria-grasselli
+  - luigi-maria-canestrari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vicenza, Italy
+  du: '1893-01-16'
+  au: '1911-01-04'
+- titre: Titular Bishop of Amisus
+  du: '1911-01-04'
+  au: null
+- titre: Bishop Emeritus of Vicenza, Italy
+  du: null
+  au: '1911-02-08'
+- titre: évêque titulaire
+  du: '1911-01-04'
+  au: null
+- titre: évêque de Vicence
+  du: '1893-01-16'
+  au: '1911-01-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Feruglio-Antonio.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q17614036
+  catholic_hierarchy: bferu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:41:47+00:00'
+  completeness: 1.0

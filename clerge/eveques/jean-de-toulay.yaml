@@ -1,0 +1,38 @@
+slug: jean-de-toulay
+nom: Jean de Toulay
+nom_complet: null
+naissance: null
+deces: '1291'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btoulay.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Mans, France
+  du: '1279-10-03'
+  au: 1291&sup1;
+- titre: évêque du Mans
+  du: '1279-10-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446434
+  catholic_hierarchy: btoulay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:07:54+00:00'
+  completeness: 0.25

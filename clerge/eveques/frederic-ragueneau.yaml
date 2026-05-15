@@ -1,0 +1,41 @@
+slug: frederic-ragueneau
+nom: Frédéric Ragueneau
+nom_complet: null
+naissance: '1540'
+deces: '1603-09-26'
+naissance_lieu: Tours, Archdiocese of Tours
+deces_lieu: Signes, Var
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1572-12-21'
+  lieu: Avignon, Archdiocese of Avignon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/braguf.html
+  - https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Ragueneau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: '1572-07-30'
+  au: '1603-09-26'
+- titre: évêque diocésain
+  du: '1572-08-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3090153
+  catholic_hierarchy: braguf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:59:13+00:00'
+  completeness: 0.5

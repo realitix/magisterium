@@ -1,0 +1,39 @@
+slug: thomas-dease
+nom: Thomas Dease
+nom_complet: null
+naissance: '1568'
+deces: '1652'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1622-05-22'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdease.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meath, Ireland
+  du: '1621-05-05'
+  au: 1652&sup1;
+- titre: évêque diocésain
+  du: '1621-05-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7788920
+  catholic_hierarchy: bdease
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:36:04+00:00'
+  completeness: 0.38

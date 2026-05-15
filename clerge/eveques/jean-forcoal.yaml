@@ -1,0 +1,44 @@
+slug: jean-forcoal
+nom: Jean Forcoal
+nom_complet: Jean de Forcoal
+naissance: '1650'
+deces: '1682-02-27'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1672-08-24'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - charles-francois-de-la-vieuville
+  - francois-de-nesmond
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforcoal.html
+  - https://fr.wikipedia.org/wiki/Jean_Forcoal
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: null
+  au: '1682-02-27'
+- titre: évêque diocésain
+  du: '1670-10-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3172058
+  catholic_hierarchy: bforcoal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:49+00:00'
+  completeness: 0.88

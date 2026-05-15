@@ -1,0 +1,50 @@
+slug: franz-weinhart
+nom: Franz Weinhart
+nom_complet: null
+naissance: '1618'
+deces: '1686-06-22'
+naissance_lieu: Innsbruck
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1663-04-08'
+  lieu: S. Emmeran, Regensburg, Diocese of Regensburg
+  consecrateur_principal: guidobald-von-thun
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweinh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Regensburg, Germany
+  du: '1663-02-26'
+  au: '1686-06-22'
+- titre: Titular Bishop of Lydda
+  du: '1663-02-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1663-02-26'
+  au: null
+- titre: évêque titulaire de Lydda
+  du: '1663-02-26'
+  au: null
+- titre: vicaire général
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747107
+  catholic_hierarchy: bweinh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:55+00:00'
+  completeness: 0.75

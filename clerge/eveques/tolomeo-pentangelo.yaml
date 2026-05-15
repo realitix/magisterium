@@ -1,0 +1,40 @@
+slug: tolomeo-pentangelo
+nom: Tolomeo Pentangelo
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1494-03-19'
+  consecrateur_principal: non-indexe-fedd653a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpentan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vico Equense, Italy
+  du: '1494-03-19'
+  au: 1520&sup2;
+- titre: Roman Catholic Bishop of Vico Equense
+  du: '1494-03-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780882
+  catholic_hierarchy: bpentan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:19:21+00:00'
+  completeness: 0.5

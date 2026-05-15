@@ -1,0 +1,38 @@
+slug: pal-balogh
+nom: Pál Balogh
+nom_complet: Paul Balog
+naissance: null
+deces: '1306'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaloghp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: 1284&sup1;
+  au: 1302&sup1;
+- titre: évêque diocésain
+  du: '1284-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q89796114
+  catholic_hierarchy: bbaloghp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:58:57+00:00'
+  completeness: 0.25

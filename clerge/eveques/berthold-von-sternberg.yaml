@@ -1,0 +1,46 @@
+slug: berthold-von-sternberg
+nom: Berthold von Sternberg
+nom_complet: null
+naissance: '1300'
+deces: '1287'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsternb.html
+  - https://fr.wikipedia.org/wiki/Berthold_II_de_Sternberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '1274-10-23'
+  au: '1287-11-13'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Wurtzbourg
+  du: '1274-10-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Berthold%20II.%20von%20Sternberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q827949
+  catholic_hierarchy: bsternb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:38:28+00:00'
+  completeness: 0.38

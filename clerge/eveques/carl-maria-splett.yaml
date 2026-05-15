@@ -1,0 +1,53 @@
+slug: carl-maria-splett
+nom: Carl Maria Splett
+nom_complet: Carl Maria Antonius Splett
+naissance: '1898-01-17'
+deces: '1964-03-05'
+naissance_lieu: Zoppot, Diocese of Chelmno (Culma, Kulm)
+deces_lieu: Düsseldorf, Archdiocese of Köln {Cologne}, Germany
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1938-08-24'
+  lieu: Cathedral, Dantzig Oliva, Diocese of Gda&#324;sk
+  consecrateur_principal: albert-stohr
+  co_consecrateurs:
+  - maximilian-kaller
+  - konstantyn-dominik
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsplett.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gda&#324;sk, Poland
+  du: '1938-06-13'
+  au: '1964-03-05'
+- titre: Apostolic Administrator of Chelmno (Culma, Kulm), Poland
+  du: '1940-12-05'
+  au: '1946-08-04'
+- titre: évêque
+  du: null
+  au: null
+- titre: administrateur apostolique
+  du: '1940-12-05'
+  au: '1946-08-04'
+- titre: Roman Catholic Bishop of Gdańsk
+  du: '1938-06-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q95502
+  catholic_hierarchy: bsplett
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:33:59+00:00'
+  completeness: 1.0

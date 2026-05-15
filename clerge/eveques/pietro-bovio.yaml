@@ -1,0 +1,38 @@
+slug: pietro-bovio
+nom: Pietro Bovio
+nom_complet: null
+naissance: null
+deces: '1557'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboviop.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ostuni, Italy
+  du: '1530-10-21'
+  au: 1557&sup1;
+- titre: évêque diocésain
+  du: '1530-10-31'
+  au: '1550-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68864507
+  catholic_hierarchy: bboviop
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:55+00:00'
+  completeness: 0.25

@@ -1,0 +1,38 @@
+slug: bengt-gustafsson
+nom: Bengt Gustafsson
+nom_complet: Bengt Gustavsson
+naissance: '1450'
+deces: '1460-10-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q34
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgustav.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skara, Sweden
+  du: '1449-12-05'
+  au: 1461&sup1;
+- titre: évêque diocésain
+  du: '1449-12-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5569972
+  catholic_hierarchy: bgustav
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:28:50+00:00'
+  completeness: 0.25

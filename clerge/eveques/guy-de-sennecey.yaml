@@ -1,0 +1,38 @@
+slug: guy-de-sennecey
+nom: Guy de Sennecey
+nom_complet: null
+naissance: null
+deces: '1269-10-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsennecey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: 1265&sup2;
+  au: '1269-10-12'
+- titre: évêque de Chalon-sur-Saône
+  du: '1265-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446348
+  catholic_hierarchy: bsennecey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:10:06+00:00'
+  completeness: 0.38

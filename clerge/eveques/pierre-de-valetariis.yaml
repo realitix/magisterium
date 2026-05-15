@@ -1,0 +1,39 @@
+slug: pierre-de-valetariis
+nom: Pierre de Valetariis
+nom_complet: null
+naissance: '1461'
+deces: '1517'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaletar.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Valetariis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carpentras, France
+  du: '1483-10-08'
+  au: 1517&sup2;
+- titre: évêque de Carpentras
+  du: '1483-10-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3387721
+  catholic_hierarchy: bvaletar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:22:07+00:00'
+  completeness: 0.25

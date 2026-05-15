@@ -1,0 +1,47 @@
+slug: alfonso-de-sanabria
+nom: Alfonso de Sanabria
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1541-05-15'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: alfonso-oliva
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanab.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Sevilla {Seville}, Spain
+  du: '1541-05-04'
+  au: null
+- titre: Titular Bishop of Drivastum
+  du: '1541-05-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1541-05-14'
+  au: null
+- titre: évêque diocésain
+  du: '1541-05-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779908
+  catholic_hierarchy: bsanab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:47:04+00:00'
+  completeness: 0.62

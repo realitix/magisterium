@@ -1,0 +1,50 @@
+slug: william-wells
+nom: William Wells
+nom_complet: null
+naissance: null
+deces: '1444-02-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1437-03-24'
+  consecrateur_principal: henry-chicheley
+  co_consecrateurs:
+  - thomas-brunce
+  - marmaduke-lumley
+  - richard-clerk
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwellsw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1436-09-19'
+  au: '1444-02-26'
+- titre: évêque de Rochester
+  du: '1437-01-01'
+  au: '1444-01-01'
+- titre: évêque diocésain
+  du: '1436-09-28'
+  au: null
+- titre: Abbot of St Mary's, York
+  du: '1423-01-01'
+  au: '1436-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8020171
+  catholic_hierarchy: bwellsw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:53:27+00:00'
+  completeness: 0.88

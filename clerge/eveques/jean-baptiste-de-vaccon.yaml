@@ -1,0 +1,44 @@
+slug: jean-baptiste-de-vaccon
+nom: Jean-Baptiste de Vaccon
+nom_complet: Jean-Baptiste-Antoine de Vaccon
+naissance: '1689-12-24'
+deces: '1751-12-07'
+naissance_lieu: Aix en Provence
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1724-10-01'
+  consecrateur_principal: flodoard-moret-de-bourchenu
+  co_consecrateurs:
+  - louis-joseph-de-chateauneuf-de-rochebonne
+  - louis-francois-joseph-boucaud
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaccon.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_de_Vaccon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1723-08-30'
+  au: '1751-12-07'
+- titre: évêque diocésain
+  du: '1723-08-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24935347
+  catholic_hierarchy: bvaccon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:19:55+00:00'
+  completeness: 1.0

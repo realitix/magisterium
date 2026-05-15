@@ -1,0 +1,51 @@
+slug: jules-mascaron
+nom: Jules Mascaron
+nom_complet: Jules Mascaron, C.O.I.
+naissance: '1634-03-14'
+deces: '1703-11-16'
+naissance_lieu: Marseille
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1672-05-08'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - toussaint-de-forbin-janson
+  - cosme-roger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmascar.html
+  - https://fr.wikipedia.org/wiki/Jules_Mascaron
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: '1680-01-08'
+  au: '1703-11-16'
+- titre: évêque de Tulle
+  du: '1671-01-01'
+  au: null
+- titre: évêque d'Agen
+  du: '1680-01-08'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Mascaron.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3188770
+  catholic_hierarchy: bmascar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:34:34+00:00'
+  completeness: 1.0

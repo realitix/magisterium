@@ -1,0 +1,49 @@
+slug: charles-de-balsac
+nom: Charles de Balsac
+nom_complet: Charles de Balzac (Balsac)
+naissance: '1505'
+deces: '1625-11-09'
+naissance_lieu: null
+deces_lieu: Chezy sur Marne, Aisne
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1598-02-08'
+  lieu: S.Germain des Près, Paris, Diocese of Paris
+  consecrateur_principal: philippe-du-bec
+  co_consecrateurs:
+  - henri-d-rsquo-escoubleau-de-sourdis
+  - francois-de-pericard-1505
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalz.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Balsac_(%C3%A9v%C3%AAque-comte_de_Noyon)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Noyon, France
+  du: '1597-09-15'
+  au: '1625-11-09'
+- titre: évêque de Noyon
+  du: '1597-09-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20de%20balsac%20%C3%A9v%C3%AAque%20noyon%20gaigni%C3%A8res.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2960517
+  catholic_hierarchy: bbalz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:59:13+00:00'
+  completeness: 0.88

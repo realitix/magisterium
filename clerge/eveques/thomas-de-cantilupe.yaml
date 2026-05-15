@@ -1,0 +1,48 @@
+slug: thomas-de-cantilupe
+nom: Thomas de Cantilupe
+nom_complet: Thomas Cantilupe
+naissance: '1218'
+deces: '1282-08-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1275-09-08'
+  consecrateur_principal: robert-kilwardby
+  co_consecrateurs:
+  - john-chishull
+  - walter-de-merton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcantil.html
+  - https://fr.wikipedia.org/wiki/Thomas_de_Cantilupe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1275-06-15'
+  au: '1282-08-25'
+- titre: évêque de Hereford
+  du: '1275-06-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hereford%20cathedral%20024.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7795462
+  catholic_hierarchy: bcantil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:35+00:00'
+  completeness: 0.88

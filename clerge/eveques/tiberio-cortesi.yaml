@@ -1,0 +1,38 @@
+slug: tiberio-cortesi
+nom: Tiberio Cortesi
+nom_complet: null
+naissance: null
+deces: '1602'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcortesit.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavello, Italy
+  du: '1578-07-09'
+  au: 1602&sup2;
+- titre: évêque diocésain
+  du: '1578-07-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23584271
+  catholic_hierarchy: bcortesit
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:08:41+00:00'
+  completeness: 0.25

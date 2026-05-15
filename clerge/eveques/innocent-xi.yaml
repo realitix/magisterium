@@ -1,0 +1,64 @@
+slug: innocent-xi
+nom: Innocent XI
+nom_complet: Innocentius XI
+naissance: '1611-05-19'
+deces: '1689-08-12'
+naissance_lieu: Como, Diocese of Como
+deces_lieu: null
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1651-01-29'
+  lieu: Ferrara, Diocese of Ferrara
+  consecrateur_principal: francesco-maria-macchiavelli
+  co_consecrateurs:
+  - maffeo-vitale-o-f-m
+  - giulio-cesare-borea
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bode.html
+  - https://fr.wikipedia.org/wiki/Innocent_XI
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prefect of the Apostolic Signatura
+  du: '1647-01-22'
+  au: null
+- titre: Bishop of Novara, Italy
+  du: '1650-04-04'
+  au: 6 Mar 1656&#8310;
+- titre: Cardinal-Priest of Sant&rsquo;Onofrio
+  du: '1659-04-21'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1689-08-12'
+- titre: camerlingue du Sacré Collège
+  du: '1660-01-01'
+  au: '1661-01-01'
+- titre: pape
+  du: '1676-09-21'
+  au: '1689-08-12'
+- titre: évêque diocésain
+  du: '1650-04-04'
+  au: '1656-03-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Ferdinand%20Voet%20-%20Portrait%20of%20Innocenzo%20XI%20Odescalchi%20%28cropped%29.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q101286
+  catholic_hierarchy: bode
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:44:33+00:00'
+  completeness: 1.0

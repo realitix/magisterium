@@ -1,0 +1,52 @@
+slug: james-colbert
+nom: James Colbert
+nom_complet: null
+naissance: '1898-04-19'
+deces: '1955-01-08'
+naissance_lieu: Cork, Diocese of Cork, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1939-10-29'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - celso-costantini
+  - henri-streicher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Port Elizabeth, South Africa
+  du: '1939-06-13'
+  au: Sep 1948&sup3;
+- titre: Titular Bishop of Olbia
+  du: '1939-06-13'
+  au: null
+- titre: Vicar Apostolic Emeritus of Port Elizabeth, South Africa
+  du: null
+  au: '1955-01-08'
+- titre: vicaire apostolique
+  du: '1939-06-13'
+  au: null
+- titre: évêque titulaire
+  du: '1939-06-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745704
+  catholic_hierarchy: bcolb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:43+00:00'
+  completeness: 0.88

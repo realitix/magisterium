@@ -1,0 +1,41 @@
+slug: francois-de-revol
+nom: François de Revol
+nom_complet: François de Révol
+naissance: '1716-02-02'
+deces: '1783-04-25'
+naissance_lieu: Terrebasse
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1742-08-05'
+  consecrateur_principal: jean-francois-de-montillet-de-grenaud
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brevolf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Revol
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oloron (Oloron-Sainte-Marie), France
+  du: null
+  au: '1783-04-25'
+- titre: évêque diocésain
+  du: '1742-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816887
+  catholic_hierarchy: brevolf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:10:03+00:00'
+  completeness: 0.88

@@ -1,0 +1,38 @@
+slug: mats-gregersson
+nom: Mats Gregersson
+nom_complet: Mattias Gregersson
+naissance: null
+deces: '1520-11-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgregma.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strängnäs (Strengnäs), Sweden
+  du: '1501-08-27'
+  au: '1520-11-08'
+- titre: évêque de Strängnäs
+  du: '1501-09-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761951
+  catholic_hierarchy: bgregma
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:42:00+00:00'
+  completeness: 0.38

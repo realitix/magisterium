@@ -1,0 +1,49 @@
+slug: gebhard-furst
+nom: Gebhard Fürst
+nom_complet: Gebhardus Fürst
+naissance: '1948-12-02'
+deces: null
+naissance_lieu: Bietigheim
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2000-09-17'
+  lieu: Saint Martin, Cathedral, Rottenburg, Diocese of Rottenburg-Stuttgart
+  consecrateur_principal: oskar-saier
+  co_consecrateurs:
+  - walter-kasper
+  - johannes-kreidler
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfurst.html
+  - https://fr.wikipedia.org/wiki/Gebhard_F%C3%BCrst
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rottenburg-Stuttgart, Germany
+  du: '2000-07-07'
+  au: null
+- titre: évêque de Rottenburg-Stuttgart
+  du: '2000-07-07'
+  au: '2023-12-04'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Fuerst%202008.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q69064
+  catholic_hierarchy: bfurst
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:01:27+00:00'
+  completeness: 0.88

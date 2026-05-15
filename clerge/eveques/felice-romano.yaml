@@ -1,0 +1,44 @@
+slug: felice-romano
+nom: Felice Romano
+nom_complet: null
+naissance: '1798-07-07'
+deces: '1872-08-03'
+naissance_lieu: Torre del Greco, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1854-07-30'
+  lieu: S. Andre della Valle, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - antonio-ligi-bussi
+  - giuseppe-cardoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bromanof.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ischia, Italy
+  du: null
+  au: '1872-08-03'
+- titre: Évêque d'Ischia
+  du: '1854-06-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745814
+  catholic_hierarchy: bromanof
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:25:07+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: gregorio-forbicini
+nom: Gregorio Forbicini
+nom_complet: null
+naissance: null
+deces: '1579'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1572-01-27'
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - thomas-goldwell
+  - giuseppe-pamphili
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforbic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strongoli, Italy
+  du: '1572-01-23'
+  au: 1579&sup2;
+- titre: évêque diocésain
+  du: '1572-02-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23770582
+  catholic_hierarchy: bforbic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:43+00:00'
+  completeness: 0.75

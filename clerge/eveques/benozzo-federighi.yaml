@@ -1,0 +1,42 @@
+slug: benozzo-federighi
+nom: Benozzo Federighi
+nom_complet: null
+naissance: null
+deces: '1450'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfederb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1421-11-17'
+  au: 1450&sup2;
+- titre: évêque diocésain
+  du: '1421-11-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20trinita%2C%20luca%20della%20robbia%2C%20monumento%20funebre%20a%20Benozzo%20Federighi%2003.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q42628222
+  catholic_hierarchy: bfederb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:34:49+00:00'
+  completeness: 0.25

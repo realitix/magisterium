@@ -1,0 +1,44 @@
+slug: lodovico-malaspina-o-carm
+nom: Lodovico Malaspina, O. Carm.
+nom_complet: Lodovico Malaspina
+naissance: '1626-06-14'
+deces: '1695-09-05'
+naissance_lieu: Ponte
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1672-02-25'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: innocent-xi
+  co_consecrateurs:
+  - giacomo-de-angelis
+  - federico-baldeschi-colonna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalaspl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sansepolcro (Borgo San Sepolcro), Italy
+  du: '1672-02-08'
+  au: '1695-09-05'
+- titre: Roman Catholic Bishop of Sansepolcro
+  du: '1672-02-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733333
+  catholic_hierarchy: bmalaspl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:16:28+00:00'
+  completeness: 1.0

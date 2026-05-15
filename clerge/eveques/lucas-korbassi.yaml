@@ -1,0 +1,40 @@
+slug: lucas-korbassi
+nom: Lucas Korbassi
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1671'
+  consecrateur_principal: etienne-douaihy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkorba.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cyprus (Maronite)
+  du: 1671&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1671-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779868
+  catholic_hierarchy: bkorba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:18:43+00:00'
+  completeness: 0.62

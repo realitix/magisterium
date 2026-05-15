@@ -1,0 +1,48 @@
+slug: james-mcgolrick
+nom: James McGolrick
+nom_complet: null
+naissance: '1841-05-01'
+deces: '1918-01-23'
+naissance_lieu: Borrisokane, Diocese of Killaloe, Ireland
+deces_lieu: Duluth, Diocese of Duluth, Minnesota
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1889-12-27'
+  lieu: St. Paul, Archdiocese of Saint Paul, Minnesota
+  consecrateur_principal: john-ireland
+  co_consecrateurs:
+  - thomas-langdon-grace
+  - martin-marty
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcgol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Duluth, Minnesota, USA
+  du: '1889-11-29'
+  au: '1918-01-23'
+- titre: évêque diocésain
+  du: '1889-11-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20James%20McGolrick.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6139337
+  catholic_hierarchy: bmcgol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:44:12+00:00'
+  completeness: 1.0

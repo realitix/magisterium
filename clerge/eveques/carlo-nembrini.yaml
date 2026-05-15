@@ -1,0 +1,43 @@
+slug: carlo-nembrini
+nom: Carlo Nembrini
+nom_complet: null
+naissance: '1611'
+deces: '1677-08-16'
+naissance_lieu: Ancona
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1652-07-07'
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - ranuccio-scotti-douglas
+  - patrizio-donati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnembr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Parma, Italy
+  du: '1651-07-01'
+  au: '1677-08-16'
+- titre: évêque de Parme
+  du: '1651-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27656052
+  catholic_hierarchy: bnembr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:29:14+00:00'
+  completeness: 0.88

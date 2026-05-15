@@ -1,0 +1,49 @@
+slug: giorgio-corner
+nom: Giorgio Corner
+nom_complet: Giorgio Cornaro
+naissance: '1524-02-26'
+deces: '1578'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: Venezia, Patriarchate of Venezia {Venice}
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1552'
+  consecrateur_principal: francesco-pisani-1494
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorngeo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Treviso, Italy
+  du: '1538-02-20'
+  au: '1577-11-29'
+- titre: Apostolic Nuncio to Florence (Tuscany), Italy
+  du: '1561-01-13'
+  au: '1565-02-08'
+- titre: Bishop Emeritus of Treviso, Italy
+  du: null
+  au: 1578&sup2;
+- titre: évêque de Trévise
+  du: '1538-03-02'
+  au: '1577-12-09'
+- titre: Nonce apostolique dans le grand-duché de Toscane
+  du: '1561-01-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3765382
+  catholic_hierarchy: bcorngeo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:06:51+00:00'
+  completeness: 0.75

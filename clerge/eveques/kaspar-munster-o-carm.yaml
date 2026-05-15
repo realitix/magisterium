@@ -1,0 +1,49 @@
+slug: kaspar-munster-o-carm
+nom: Kaspar Münster, O. Carm.
+nom_complet: Kaspar Münster
+naissance: null
+deces: '1654-02-04'
+naissance_lieu: Münstereifel
+deces_lieu: Köln, Archdiocese of Köln {Cologne}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1631-04-21'
+  lieu: Cathedral, Osnabrück, Diocese of Osnabrück
+  consecrateur_principal: johannes-pelcking
+  co_consecrateurs:
+  - johann-nikolaus-claessens
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmunster.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Osnabrück, Germany
+  du: '1631-02-13'
+  au: '1654-02-04'
+- titre: Titular Bishop of Aureliopolis in Asia
+  du: '1631-02-13'
+  au: null
+- titre: évêque titulaire
+  du: '1631-02-13'
+  au: null
+- titre: évêque auxiliaire
+  du: '1631-02-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762007
+  catholic_hierarchy: bmunster
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:19+00:00'
+  completeness: 0.88

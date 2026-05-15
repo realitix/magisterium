@@ -1,0 +1,45 @@
+slug: marquard-ii-vom-berg
+nom: Marquard II. vom Berg
+nom_complet: Marquard von Berg
+naissance: '1528'
+deces: '1591-01-28'
+naissance_lieu: Oepfingen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1576-01-15'
+  lieu: Dilingen
+  consecrateur_principal: michael-dornvogel
+  co_consecrateurs:
+  - jacob-feucht
+  - wolfgang-holl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvberg.html
+  - https://fr.wikipedia.org/wiki/Marquard_II_de_Berg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1591-01-28'
+- titre: évêque d'Augsbourg
+  du: '1575-08-05'
+  au: '1591-01-28'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1902420
+  catholic_hierarchy: bvberg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:27:44+00:00'
+  completeness: 0.88

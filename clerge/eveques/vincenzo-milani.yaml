@@ -1,0 +1,49 @@
+slug: vincenzo-milani
+nom: Vincenzo Milani
+nom_complet: null
+naissance: '1597'
+deces: '1666'
+naissance_lieu: Trevise
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1641-07-07'
+  consecrateur_principal: giulio-cesare-sacchetti
+  co_consecrateurs:
+  - clement-x
+  - bernardo-florio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmilaniv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caorle, Italy
+  du: '1641-07-01'
+  au: null
+- titre: Bishop of Hvar (Lesina), Croatia
+  du: '1644-12-19'
+  au: 1666&sup1;
+- titre: évêque diocésain
+  du: '1644-12-19'
+  au: null
+- titre: évêque de Caorle
+  du: '1641-07-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25999410
+  catholic_hierarchy: bmilaniv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:25+00:00'
+  completeness: 0.75

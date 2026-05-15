@@ -1,0 +1,43 @@
+slug: thomas-bray
+nom: Thomas Bray
+nom_complet: null
+naissance: '1749-03-15'
+deces: '1820-12-15'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1792-10-14'
+  consecrateur_principal: william-egan
+  co_consecrateurs:
+  - gerard-teahan
+  - william-coppinger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrayt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Cashel (-Emly), Ireland
+  du: '1792-07-20'
+  au: '1820-12-15'
+- titre: archevêque catholique
+  du: '1792-10-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7787851
+  catholic_hierarchy: bbrayt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:51+00:00'
+  completeness: 1.0

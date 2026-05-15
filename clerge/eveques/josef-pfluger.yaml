@@ -1,0 +1,59 @@
+slug: josef-pfluger
+nom: Josef Pfluger
+nom_complet: Joseph Pfluger
+naissance: '1857-02-17'
+deces: '1929-01-10'
+naissance_lieu: Raab
+deces_lieu: null
+rang: archeveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1911-12-17'
+  consecrateur_principal: franz-xavier-nagl
+  co_consecrateurs:
+  - rudolph-hittmair
+  - hermann-zschokke
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpflu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Wien {Vienna}, Austria
+  du: '1911-11-30'
+  au: '1929-01-10'
+- titre: Titular Bishop of Harpasa
+  du: '1911-11-30'
+  au: null
+- titre: Titular Archbishop of Macra
+  du: '1927-01-29'
+  au: null
+- titre: archevêque titulaire
+  du: '1927-01-29'
+  au: null
+- titre: évêque auxiliaire
+  du: '1911-11-30'
+  au: null
+- titre: évêque titulaire
+  du: '1911-11-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Pfluger.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1267236
+  catholic_hierarchy: bpflu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:28:13+00:00'
+  completeness: 1.0

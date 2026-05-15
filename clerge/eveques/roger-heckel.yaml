@@ -1,0 +1,52 @@
+slug: roger-heckel
+nom: Roger Heckel
+nom_complet: Roger Joseph Heckel, S.J.
+naissance: '1922-07-18'
+deces: '1982-09-26'
+naissance_lieu: La Walck
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1980-06-15'
+  lieu: Cathedral, Strasbourg, Diocese of Strasbourg
+  consecrateur_principal: leon-arthur-elchinger
+  co_consecrateurs:
+  - charles-amarin-brand
+  - emile-durrheimer
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bheckel.html
+  - https://fr.wikipedia.org/wiki/Roger_Heckel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Secretary of the Pontifical Commission for Justice and Peace
+  du: '1977-06-01'
+  au: null
+- titre: Coadjutor Bishop of Strasbourg, France
+  du: '1980-03-27'
+  au: '1982-09-26'
+- titre: évêque coadjuteur de Strasbourg
+  du: '1980-03-27'
+  au: '1982-09-26'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ordination%20%C3%A9piscopale%20de%20Mgr%20Roger%20Heckel%20par%20Mgr%20L%C3%A9on-Arthur%20Elchinger%20juin%201980.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3439065
+  catholic_hierarchy: bheckel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:37:25+00:00'
+  completeness: 1.0

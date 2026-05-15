@@ -1,0 +1,45 @@
+slug: emmanuel-louis-de-cugnac
+nom: Emmanuel-Louis de Cugnac
+nom_complet: Louis-Emmanuel de Cugnac
+naissance: '1729'
+deces: '1800-12-08'
+naissance_lieu: Cahors, Diocese of Cahors
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1772-09-27'
+  consecrateur_principal: christophe-de-beaumont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcugnac.html
+  - https://fr.wikipedia.org/wiki/Emmanuel-Louis_de_Cugnac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lectoure, France
+  du: null
+  au: '1800-12-08'
+- titre: évêque diocésain
+  du: '1772-07-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis-Emmanuel-de-Cugnac.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3052517
+  catholic_hierarchy: bcugnac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:18:02+00:00'
+  completeness: 0.75

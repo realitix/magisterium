@@ -1,0 +1,44 @@
+slug: jacques-de-fieux
+nom: Jacques de Fieux
+nom_complet: null
+naissance: '1621'
+deces: '1687-03-15'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1677-01-17'
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - francois-de-pericard-1619
+  - guillaume-le-boux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfieux.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Fieux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toul, France
+  du: null
+  au: '1687-03-15'
+- titre: évêque de Toul
+  du: '1675-09-09'
+  au: '1687-03-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22680949
+  catholic_hierarchy: bfieux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:43:25+00:00'
+  completeness: 0.88

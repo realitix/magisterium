@@ -1,0 +1,44 @@
+slug: bandino-accarigi
+nom: Bandino Accarigi
+nom_complet: null
+naissance: '1616-04-20'
+deces: '1670-08-01'
+naissance_lieu: Parma, Diocese of Parma
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1656-03-12'
+  lieu: Santa Caterina da Siena in via Giulia, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-cesare-sacchetti
+  co_consecrateurs:
+  - agostino-franciotti
+  - filippo-casoni-1599
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baccrgb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Massa Marittima, Italy
+  du: '1656-03-03'
+  au: Aug 1670&sup3;
+- titre: évêque diocésain
+  du: '1656-03-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21546834
+  catholic_hierarchy: baccrgb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.88

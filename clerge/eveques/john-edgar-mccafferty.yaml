@@ -1,0 +1,50 @@
+slug: john-edgar-mccafferty
+nom: John Edgar McCafferty
+nom_complet: null
+naissance: '1920-01-06'
+deces: '1980-04-30'
+naissance_lieu: New York, Archdiocese of New York, New York
+deces_lieu: Rochester, Diocese of Rochester, New York
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1968-06-14'
+  lieu: Sacred Heart, Cathedral, Rochester, Diocese of Rochester, New York
+  consecrateur_principal: luigi-raimondi
+  co_consecrateurs:
+  - fulton-sheen
+  - james-e-kearney
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmccaj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Rochester, New York, USA
+  du: '1968-01-05'
+  au: '1980-04-30'
+- titre: Titular Bishop of Tanudaia
+  du: '1968-01-05'
+  au: null
+- titre: évêque titulaire
+  du: '1968-01-05'
+  au: null
+- titre: évêque auxiliaire
+  du: '1968-01-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16009336
+  catholic_hierarchy: bmccaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:42:45+00:00'
+  completeness: 1.0

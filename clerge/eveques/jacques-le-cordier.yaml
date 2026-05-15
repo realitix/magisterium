@@ -1,0 +1,60 @@
+slug: jacques-le-cordier
+nom: Jacques Le Cordier
+nom_complet: null
+naissance: '1904-03-08'
+deces: '2003-02-17'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Saint-Denis, Diocese of Saint-Denis
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1956-06-23'
+  lieu: Cathedral, Saint-Denis, Diocese of Saint-Denis
+  consecrateur_principal: maurice-feltin
+  co_consecrateurs:
+  - marc-armand-lallier
+  - rene-stourm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blecor.html
+  - https://fr.wikipedia.org/wiki/Jacques_Le_Cordier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paris, France
+  du: '1956-05-15'
+  au: null
+- titre: Titular Bishop of Priene
+  du: '1956-05-15'
+  au: null
+- titre: Bishop of Saint-Denis, France
+  du: '1966-10-09'
+  au: null
+- titre: Bishop Emeritus of Saint-Denis, France
+  du: null
+  au: '2003-02-17'
+- titre: évêque de Saint-Denis
+  du: '1966-10-09'
+  au: '1976-04-02'
+- titre: évêque auxiliaire de Paris
+  du: '1956-05-15'
+  au: null
+- titre: évêque titulaire
+  du: '1956-05-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3159297
+  catholic_hierarchy: blecor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:52+00:00'
+  completeness: 1.0

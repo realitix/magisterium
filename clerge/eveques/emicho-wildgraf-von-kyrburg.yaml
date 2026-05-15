@@ -1,0 +1,50 @@
+slug: emicho-wildgraf-von-kyrburg
+nom: Emicho Wildgraf von Kyrburg
+nom_complet: Emicho von Wittelsbach
+naissance: '1300'
+deces: '1311-07-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1283'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwittelse.html
+  - https://fr.wikipedia.org/wiki/Emicho_Wildgraf_de_Kyrburg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Freising, Germany
+  du: '1283-01-24'
+  au: '1311-07-28'
+- titre: évêque
+  du: '1283-01-01'
+  au: '1311-01-01'
+- titre: évêque diocésain
+  du: '1283-01-31'
+  au: null
+- titre: évêque élu
+  du: '1279-01-01'
+  au: '1280-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%BCrstengang%20Bisch%C3%B6fe%2029%20-%20Wildgraf%20Emicho.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1335693
+  catholic_hierarchy: bwittelse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:57:40+00:00'
+  completeness: 0.38

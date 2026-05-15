@@ -1,0 +1,48 @@
+slug: pierre-duval
+nom: Pierre Duval
+nom_complet: null
+naissance: '1600'
+deces: '1564'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1545-08-09'
+  lieu: S. Pierre, Church, Caudebec en Caux
+  consecrateur_principal: jean-de-la-massonaye-o-s-a
+  co_consecrateurs:
+  - philippe-de-cosse-brisac
+  - guillaume-eder-cc3c0c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduvalp.html
+  - https://fr.wikipedia.org/wiki/Pierre_Duval_(%C3%A9v%C3%AAque_de_S%C3%A9ez)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1545-06-08'
+  au: 1564&sup1;
+- titre: Bishop Emeritus of Sées {Séez}, France
+  du: null
+  au: '1564-10-13'
+- titre: évêque diocésain
+  du: '1545-06-18'
+  au: '1564-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3384887
+  catholic_hierarchy: bduvalp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:16:36+00:00'
+  completeness: 0.88

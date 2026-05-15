@@ -1,0 +1,56 @@
+slug: antoine-blanc
+nom: Antoine Blanc
+nom_complet: Anthony Blanc
+naissance: '1792-10-11'
+deces: '1860-06-20'
+naissance_lieu: Sury-le-Comtal, Archdiocese of Lyon, France
+deces_lieu: New Orleans, Archdiocese of New Orleans, Louisiana
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1835-11-22'
+  lieu: Saint Louis, King of France, Cathedral, New Orleans, Diocese of New Orleans,
+    Louisiana
+  consecrateur_principal: joseph-rosati
+  co_consecrateurs:
+  - michel-portier
+  - john-baptist-purcell
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblanc.html
+  - https://fr.wikipedia.org/wiki/Antoine_Blanc_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of New Orleans, Louisiana, USA
+  du: '1835-06-19'
+  au: null
+- titre: Archbishop of New Orleans, Louisiana, USA
+  du: '1850-07-19'
+  au: '1860-06-20'
+- titre: archevêque de la Nouvelle-Orléans
+  du: '1850-07-19'
+  au: '1860-06-20'
+- titre: évêque de la Nouvelle-Orléans
+  du: '1835-06-19'
+  au: '1850-07-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/AntoineBlanc.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4775434
+  catholic_hierarchy: bblanc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:30:05+00:00'
+  completeness: 1.0

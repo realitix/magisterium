@@ -1,0 +1,51 @@
+slug: francis-bestion
+nom: Francis Bestion
+nom_complet: Francis Victor Bestion
+naissance: '1957-05-08'
+deces: null
+naissance_lieu: Fontans, Diocese of Mende
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2014-02-23'
+  lieu: Notre-Dame, Cathedral, Tulle, Diocese of Tulle
+  consecrateur_principal: pascal-wintzer
+  co_consecrateurs:
+  - bernard-louis-marie-charrier
+  - francois-jacolin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbestion.html
+  - https://fr.wikipedia.org/wiki/Francis_Bestion
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: '2013-12-12'
+  au: null
+- titre: Bishop of Blois, France
+  du: '2024-10-01'
+  au: null
+- titre: évêque de Blois
+  du: '2024-10-01'
+  au: null
+- titre: évêque de Tulle
+  du: '2013-12-12'
+  au: '2024-10-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15302530
+  catholic_hierarchy: bbestion
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:54+00:00'
+  completeness: 0.88

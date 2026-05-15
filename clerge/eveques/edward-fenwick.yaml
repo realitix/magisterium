@@ -1,0 +1,46 @@
+slug: edward-fenwick
+nom: Edward Fenwick
+nom_complet: Edward Dominic Fenwick, O.P.
+naissance: '1768-08-19'
+deces: '1832-09-26'
+naissance_lieu: St. Mary's County, MD
+deces_lieu: Wooster, OH
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1822-01-13'
+  lieu: Saint Rose, Church, Springfield, KY
+  consecrateur_principal: benoit-joseph-flaget
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfenwicke.html
+  - https://fr.wikipedia.org/wiki/Edward_Fenwick
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cincinnati, Ohio, USA
+  du: '1821-06-19'
+  au: '1832-09-26'
+- titre: évêque de Cincinnati
+  du: '1821-06-19'
+  au: '1832-09-26'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Fenwick.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q219441
+  catholic_hierarchy: bfenwicke
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:36:17+00:00'
+  completeness: 0.88

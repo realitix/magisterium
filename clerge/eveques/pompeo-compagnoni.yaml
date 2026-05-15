@@ -1,0 +1,44 @@
+slug: pompeo-compagnoni
+nom: Pompeo Compagnoni
+nom_complet: null
+naissance: '1693-03-11'
+deces: '1774-07-25'
+naissance_lieu: Macerata
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1740-10-02'
+  consecrateur_principal: antonio-saverio-gentili
+  co_consecrateurs:
+  - joaquin-fernandez-portocarrero
+  - ferdinando-maria-de-rossi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcompagp.html
+  - https://fr.wikipedia.org/wiki/Pompeo_Compagnoni
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osimo e Cingoli, Italy
+  du: '1740-09-16'
+  au: '1774-07-25'
+- titre: Roman Catholic Bishop of Osimo and Cingoli
+  du: '1740-09-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15628849
+  catholic_hierarchy: bcompagp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:53+00:00'
+  completeness: 1.0

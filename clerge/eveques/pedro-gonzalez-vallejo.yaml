@@ -1,0 +1,46 @@
+slug: pedro-gonzalez-vallejo
+nom: Pedro González Vallejo
+nom_complet: null
+naissance: '1770-12-20'
+deces: '1842-04-30'
+naissance_lieu: Soto de Cameros
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1819-12-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgova.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mallorca, Spain
+  du: null
+  au: '1825-06-25'
+- titre: Bishop Emeritus of Mallorca, Spain
+  du: null
+  au: '1842-04-30'
+- titre: évêque de Majorque
+  du: '1819-08-06'
+  au: '1825-06-25'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20del%20obispo%20Pedro%20Gonz%C3%A1lez%20Vallejo%20%28Vicente%20L%C3%B3pez%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q55836560
+  catholic_hierarchy: bgova
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:37:28+00:00'
+  completeness: 0.62

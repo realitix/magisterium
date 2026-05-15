@@ -1,0 +1,44 @@
+slug: robert-morton
+nom: Robert Morton
+nom_complet: null
+naissance: '1435'
+deces: '1497-05-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1487-01-28'
+  consecrateur_principal: john-cardinal-morton
+  co_consecrateurs:
+  - john-alcock
+  - edmund-audley
+  - thomas-langton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmortonr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1486-10-16'
+  au: May 1497&sup3;
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1486-10-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7347838
+  catholic_hierarchy: bmortonr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:26+00:00'
+  completeness: 0.75

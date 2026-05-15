@@ -1,0 +1,44 @@
+slug: antoine-de-haynin
+nom: Antoine de Haynin
+nom_complet: Antoine de Hennin
+naissance: '1555'
+deces: '1626-12-01'
+naissance_lieu: Valenciennes
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1614-04-13'
+  consecrateur_principal: matthias-van-den-hove-hovius
+  co_consecrateurs:
+  - karel-filips-de-rodoan
+  - francois-van-der-burch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhennin.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Haynin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1613-12-09'
+  au: '1626-12-01'
+- titre: évêque d'Ypres
+  du: '1613-12-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2856875
+  catholic_hierarchy: bhennin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:09+00:00'
+  completeness: 0.88

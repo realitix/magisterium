@@ -1,0 +1,49 @@
+slug: alphonse-gabriel-foucault
+nom: Alphonse-Gabriel Foucault
+nom_complet: Alphonse-Gabriel-Pierre Foucault
+naissance: '1843-03-24'
+deces: '1930-05-26'
+naissance_lieu: Senonches
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1893-03-20'
+  lieu: Cathedral, Chartres, Diocese of Chartres
+  consecrateur_principal: francois-lagrange
+  co_consecrateurs:
+  - federic-henri-oury
+  - francois-hautin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfouca.html
+  - https://fr.wikipedia.org/wiki/Alphonse-Gabriel_Foucault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Dié, France
+  du: null
+  au: '1930-05-26'
+- titre: évêque de Saint-Dié
+  du: '1893-01-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse-Gabriel%20Foucault.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2839662
+  catholic_hierarchy: bfouca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:53:52+00:00'
+  completeness: 1.0

@@ -1,0 +1,49 @@
+slug: pierre-samain
+nom: Pierre Samain
+nom_complet: null
+naissance: '1911-10-29'
+deces: '1984-02-28'
+naissance_lieu: Fleurus
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1967-07-25'
+  consecrateur_principal: charles-marie-himmer
+  co_consecrateurs:
+  - andre-marie-charue
+  - emile-joseph-de-smedt
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsamain.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Tournai {Doornik}, Belgium
+  du: '1967-05-31'
+  au: '1984-02-28'
+- titre: Titular Bishop of Tubulbaca
+  du: '1967-05-31'
+  au: null
+- titre: évêque auxiliaire
+  du: '1967-05-31'
+  au: null
+- titre: évêque titulaire
+  du: '1967-05-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2302809
+  catholic_hierarchy: bsamain
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:46:22+00:00'
+  completeness: 1.0

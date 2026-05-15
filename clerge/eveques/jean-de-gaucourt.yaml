@@ -1,0 +1,41 @@
+slug: jean-de-gaucourt
+nom: Jean de Gaucourt
+nom_complet: null
+naissance: null
+deces: '1468-06-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1460-11-29'
+  consecrateur_principal: jean-juvenal-des-ursins
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaucou.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Gaucourt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laon, France
+  du: '1460-07-30'
+  au: '1468-06-10'
+- titre: évêque diocésain
+  du: '1460-08-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175422
+  catholic_hierarchy: bgaucou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:13:45+00:00'
+  completeness: 0.75

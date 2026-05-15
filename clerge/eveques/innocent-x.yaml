@@ -1,0 +1,49 @@
+slug: innocent-x
+nom: Innocent X
+nom_complet: null
+naissance: '1574-05-06'
+deces: '1655-01-07'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1626-01-25'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: laudivio-cardinal-zacchia
+  co_consecrateurs:
+  - alfonso-manzanedo-de-quinones
+  - fabio-lagonissa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpamp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Nuncio to Naples, Italy
+  du: '1621-03-26'
+  au: Mar 1625&sup3;
+- titre: Titular Patriarch of Antiochia {Antioch}
+  du: '1626-01-19'
+  au: null
+- titre: Apostolic Nuncio to Spain
+  du: '1626-05-30'
+  au: '1630-03-01'
+- titre: Prefect of the Congregation of the Council
+  du: 1639&sup2;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1655-01-07'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bpamp
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:06:41+00:00'
+  completeness: 1.0

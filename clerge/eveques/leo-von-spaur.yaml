@@ -1,0 +1,48 @@
+slug: leo-von-spaur
+nom: Leo von Spaur
+nom_complet: Leo of Spaur
+naissance: '1440'
+deces: '1479-03-06'
+naissance_lieu: Burgstall
+deces_lieu: Perchtolsdorf
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Sep 1469&sup3;
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvspaurl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: '1469-08-09'
+  au: null
+- titre: Bishop of Wien, Austria
+  du: null
+  au: '1479-03-06'
+- titre: Roman Catholic Bishop of Vienna
+  du: '1472-01-01'
+  au: '1479-03-15'
+- titre: évêque élu
+  du: null
+  au: null
+- titre: évêque de Brixen
+  du: '1469-08-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q90114
+  catholic_hierarchy: bvspaurl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:47:04+00:00'
+  completeness: 0.5

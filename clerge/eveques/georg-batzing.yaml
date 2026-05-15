@@ -1,0 +1,52 @@
+slug: georg-batzing
+nom: Georg Bätzing
+nom_complet: null
+naissance: '1961-04-13'
+deces: null
+naissance_lieu: Kirchen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '2016-09-18'
+  lieu: Cathedral, Limburg, Diocese of Limburg
+  consecrateur_principal: rainer-woelki
+  co_consecrateurs:
+  - manfred-grothe
+  - stephan-ackermann
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbatzing.html
+  - https://fr.wikipedia.org/wiki/Georg_B%C3%A4tzing
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limburg, Germany
+  du: '2016-07-01'
+  au: null
+- titre: Président de la Conférence épiscopale allemande
+  du: '2020-03-03'
+  au: '2026-02-24'
+- titre: évêque de Limbourg
+  du: '2016-09-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A4tzing%2C%20Dr.%20Georg%202009-08-30.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1503851
+  catholic_hierarchy: bbatzing
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:08:29+00:00'
+  completeness: 0.88

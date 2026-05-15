@@ -1,0 +1,76 @@
+slug: urbain-viii
+nom: Urbain VIII
+nom_complet: Urban VIII
+naissance: '1568-04-05'
+deces: '1644-07-29'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1604-10-28'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabio-biondi
+  co_consecrateurs:
+  - leonardo-abela
+  - tommaso-lapis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarbm.html
+  - https://fr.wikipedia.org/wiki/Urbain_VIII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Nazareth
+  du: '1604-10-20'
+  au: null
+- titre: Apostolic Nuncio to France
+  du: '1604-12-04'
+  au: '1607-09-20'
+- titre: Bishop of Spoleto, Italy
+  du: '1608-10-27'
+  au: 17 Jul 1617&#8310;
+- titre: Prefect of the Apostolic Signatura
+  du: '1610-01-08'
+  au: '1623'
+- titre: Cardinal-Priest of Sant&rsquo;Onofrio
+  du: '1610-05-05'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1644-07-29'
+- titre: archevêque titulaire
+  du: '1604-10-20'
+  au: null
+- titre: pape
+  du: '1623-08-06'
+  au: '1644-07-29'
+- titre: camerlingue du Sacré Collège
+  du: '1623-01-01'
+  au: null
+- titre: nonce apostolique en France
+  du: '1604-12-04'
+  au: '1607-09-20'
+- titre: évêque diocésain
+  du: '1608-10-27'
+  au: '1617-07-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20da%20Cortona%20-%20Portrait%20of%20Urban%20VIII%20%28ca.%201624-1627%29%20-%20Google%20Art%20Project%20-%20edited.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q131579
+  catholic_hierarchy: bbarbm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:01:51+00:00'
+  completeness: 1.0

@@ -1,0 +1,48 @@
+slug: herbert-de-losinga
+nom: Herbert de Losinga
+nom_complet: Herbert Losinga
+naissance: '1001'
+deces: '1119-07-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1091'
+  consecrateur_principal: thomas-of-bayeux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blosinga.html
+  - https://fr.wikipedia.org/wiki/Herbert_de_Losinga
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: 1091&sup1;
+  au: '1119-07-22'
+- titre: abbé de Ramsey
+  du: '1087-01-01'
+  au: '1091-01-01'
+- titre: évêque de Norwich
+  du: '1091-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20de%20Losinga%2C%20Bauchon%20Window%2C%20Norwich%20Cathedral.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1960547
+  catholic_hierarchy: blosinga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:45+00:00'
+  completeness: 0.75

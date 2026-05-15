@@ -1,0 +1,45 @@
+slug: francois-rainier
+nom: François Rainier
+nom_complet: François Rainier, O.F.M.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1514-12-22'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brainier.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bordeaux, France
+  du: '1514-12-22'
+  au: null
+- titre: Titular Bishop of Citrus
+  du: '1514-12-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '1515-01-01'
+  au: null
+- titre: évêque titulaire
+  du: '1514-12-22'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68910094
+  catholic_hierarchy: brainier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:00:03+00:00'
+  completeness: 0.25

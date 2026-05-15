@@ -1,0 +1,44 @@
+slug: jerome-de-la-mothe
+nom: Jérôme de La Mothe
+nom_complet: Jérôme de La Mothe-Houdancourt
+naissance: '1617'
+deces: '1693-05-29'
+naissance_lieu: Bellovacen
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1664-08-17'
+  consecrateur_principal: henri-de-la-mothe-houdancourt
+  co_consecrateurs:
+  - denis-sanguin-de-livry
+  - charles-de-bourlon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdlmho.html
+  - https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_de_La_Mothe-Houdancourt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Flour, France
+  du: null
+  au: '1693-05-29'
+- titre: évêque diocésain
+  du: '1664-05-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1715010
+  catholic_hierarchy: bdlmho
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:54:52+00:00'
+  completeness: 0.88

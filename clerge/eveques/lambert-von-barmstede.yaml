@@ -1,0 +1,41 @@
+slug: lambert-von-barmstede
+nom: Lambert von Barmstede
+nom_complet: null
+naissance: '1150'
+deces: '1228-10-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarmst.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ratzeburg, Germany
+  du: 1228&sup2;
+  au: '1228-10-25'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1228-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15437784
+  catholic_hierarchy: bbarmst
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:03:45+00:00'
+  completeness: 0.38

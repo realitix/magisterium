@@ -1,0 +1,38 @@
+slug: namatius
+nom: Namatius
+nom_complet: null
+naissance: '485'
+deces: '559'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Namatius_de_Vienne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: recteur
+  du: http://www.wikidata.org/.well-known/genid/f8adfc454545501a308718a2155cd0a6
+  au: null
+- titre: évêque de Vienne
+  du: http://www.wikidata.org/.well-known/genid/96ec6ba750394c5fdc408bd57220167a
+  au: '0559-11-19'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Namacius%20Cl-Fd%20St-Eutrope.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3335424
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56

@@ -1,0 +1,44 @@
+slug: guillermo-valdenese
+nom: Guillermo Valdenese
+nom_complet: null
+naissance: null
+deces: '1530-05-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalden.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elne, France
+  du: '1524-11-14'
+  au: null
+- titre: Bishop of Coria, Spain
+  du: '1529-05-02'
+  au: '1530-05-23'
+- titre: évêque d'Elne
+  du: '1524-11-24'
+  au: null
+- titre: évêque de Coria
+  du: '1529-05-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68912059
+  catholic_hierarchy: bvalden
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:21:04+00:00'
+  completeness: 0.38

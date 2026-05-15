@@ -1,0 +1,47 @@
+slug: michel-tubeuf
+nom: Michel Tubeuf
+nom_complet: Michel Tuboeuf
+naissance: '1602'
+deces: '1682-04-16'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1654-04-12'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btuboe.html
+  - https://fr.wikipedia.org/wiki/Michel_Tubeuf
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castres, France
+  du: null
+  au: '1682-04-16'
+- titre: évêque diocésain
+  du: '1664-06-29'
+  au: null
+- titre: évêque de Saint-Pons-de-Thomières
+  du: '1653-06-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Tubeuf2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3311006
+  catholic_hierarchy: btuboe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:13:19+00:00'
+  completeness: 0.5

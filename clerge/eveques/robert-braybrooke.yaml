@@ -1,0 +1,43 @@
+slug: robert-braybrooke
+nom: Robert Braybrooke
+nom_complet: Robert de Braybrooke
+naissance: null
+deces: '1404-08-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1382-01-05'
+  consecrateur_principal: thomas-de-brantingham
+  co_consecrateurs:
+  - thomas-brinton
+  - john-swaffham-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrayb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: '1381-09-09'
+  au: '1404-08-28'
+- titre: évêque de Londres
+  du: '1381-09-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7342323
+  catholic_hierarchy: bbrayb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:48+00:00'
+  completeness: 0.88

@@ -1,0 +1,45 @@
+slug: henry-sandwich
+nom: Henry Sandwich
+nom_complet: Henry of Sandwich
+naissance: '1250'
+deces: '1273-09-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1263-05-27'
+  consecrateur_principal: john-gervais
+  co_consecrateurs:
+  - walter-de-cantilupe
+  - william-of-radnor
+  - richard-of-gravesend
+  - stephen-berksted
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsandwi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: null
+  au: '1273-09-12'
+- titre: évêque de Londres
+  du: '1262-11-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16206428
+  catholic_hierarchy: bsandwi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:48:40+00:00'
+  completeness: 0.88

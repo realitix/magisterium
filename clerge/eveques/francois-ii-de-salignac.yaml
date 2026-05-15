@@ -1,0 +1,44 @@
+slug: francois-ii-de-salignac
+nom: François II de Salignac
+nom_complet: François de Salignac de La Mothe-Fénelon
+naissance: '1529'
+deces: '1580'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1569'
+  consecrateur_principal: antoine-prevost-de-sansac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsadlmff.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Salignac_de_La_Mothe-F%C3%A9nelon_(mort_vers_1580)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarlat, France
+  du: '1568-10-23'
+  au: 1579&sup1;
+- titre: Bishop Emeritus of Sarlat, France
+  du: null
+  au: 1581&sup1;
+- titre: évêque de Sarlat
+  du: '1568-11-02'
+  au: '1579-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22978321
+  catholic_hierarchy: bsadlmff
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:40:46+00:00'
+  completeness: 0.62

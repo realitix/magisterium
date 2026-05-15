@@ -1,0 +1,45 @@
+slug: john-de-innes
+nom: John de Innes
+nom_complet: null
+naissance: '1370'
+deces: '1414-04-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1407-01-23'
+  consecrateur_principal: pedro-cardinal-martinez-de-luna-y-perez-de-gotor
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/binnesj.html
+  - https://fr.wikipedia.org/wiki/John_de_Innes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Moray, Scotland, Great Britain
+  du: '1407-01-12'
+  au: '1414-04-25'
+- titre: évêque de Moray
+  du: '1407-01-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Innes%20Kneeling.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6265559
+  catholic_hierarchy: binnesj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:53:50+00:00'
+  completeness: 0.75

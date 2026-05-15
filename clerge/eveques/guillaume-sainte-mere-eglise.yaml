@@ -1,0 +1,40 @@
+slug: guillaume-sainte-mere-eglise
+nom: Guillaume Sainte Mere Eglise
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1236'
+  consecrateur_principal: adam-de-chambly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsameeg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avranches, France
+  du: 1236&sup2;
+  au: null
+- titre: évêque diocésain
+  du: '1236-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780967
+  catholic_hierarchy: bsameeg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:46:37+00:00'
+  completeness: 0.62

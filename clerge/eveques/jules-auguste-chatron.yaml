@@ -1,0 +1,45 @@
+slug: jules-auguste-chatron
+nom: Jules Auguste Chatron
+nom_complet: Jules-Auguste Chatron, M.E.P.
+naissance: '1844-04-21'
+deces: '1917-05-07'
+naissance_lieu: Charix, France
+deces_lieu: Osaka, Diocese of Osaka
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1896-10-18'
+  lieu: Kobe
+  consecrateur_principal: pierre-marie-osouf
+  co_consecrateurs:
+  - jules-alphonse-cousin
+  - alexandre-berlioz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchatron.html
+  - https://fr.wikipedia.org/wiki/Jules_Auguste_Chatron
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osaka, Japan
+  du: '1896-07-22'
+  au: '1917-05-07'
+- titre: Évêque catholique d'Osaka
+  du: '1896-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2871118
+  catholic_hierarchy: bchatron
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:43:07+00:00'
+  completeness: 1.0

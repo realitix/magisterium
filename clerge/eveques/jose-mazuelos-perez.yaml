@@ -1,0 +1,54 @@
+slug: jose-mazuelos-perez
+nom: José Mazuelos Pérez
+nom_complet: null
+naissance: '1960-10-09'
+deces: null
+naissance_lieu: Osuna, Archdiocese of Sevilla {Seville}
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_dubius
+sacre:
+  date: '2009-06-06'
+  lieu: Cathedral, Jerez de la Frontera, Diocese of Jerez de la Frontera
+  consecrateur_principal: carlos-amigo-vallejo
+  co_consecrateurs:
+  - manuel-monteiro-de-castro
+  - juan-del-rio-martin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmazpe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jerez de la Frontera, Spain
+  du: '2009-03-19'
+  au: null
+- titre: Bishop of Islas Canarias {Canary Islands}, Spain
+  du: '2020-07-06'
+  au: null
+- titre: évêque d'Asidonia-Jerez
+  du: '2009-03-19'
+  au: '2020-07-06'
+- titre: évêque des Canaries
+  du: '2020-07-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mons.%20Mazuelos%20%2830279524324%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1565050
+  catholic_hierarchy: bmazpe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:41:15+00:00'
+  completeness: 0.88

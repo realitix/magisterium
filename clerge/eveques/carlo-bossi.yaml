@@ -1,0 +1,43 @@
+slug: carlo-bossi
+nom: Carlo Bossi
+nom_complet: null
+naissance: '1669-04-01'
+deces: '1753-10-07'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1731-06-24'
+  consecrateur_principal: antonfelice-zondadari
+  co_consecrateurs:
+  - giovanni-francesco-bossi-o-f-m-conv
+  - francesco-pertusati-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbossic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vigevano, Italy
+  du: null
+  au: '1753-10-07'
+- titre: évêque diocésain
+  du: '1731-01-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3659109
+  catholic_hierarchy: bbossic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:42:36+00:00'
+  completeness: 1.0

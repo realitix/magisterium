@@ -1,0 +1,41 @@
+slug: teseo-de-cupis
+nom: Teseo de Cupis
+nom_complet: null
+naissance: null
+deces: '1528'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcupist.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Macerata, Italy
+  du: '1507-10-20'
+  au: 1528&sup2;
+- titre: Bishop of Recanati, Italy
+  du: '1507-10-20'
+  au: 16 Jan 1516&sup1;
+- titre: évêque diocésain
+  du: '1507-10-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27493919
+  catholic_hierarchy: bcupist
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:18:53+00:00'
+  completeness: 0.25

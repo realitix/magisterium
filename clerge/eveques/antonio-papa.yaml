@@ -1,0 +1,38 @@
+slug: antonio-papa
+nom: Antonio Papa
+nom_complet: null
+naissance: '1627-02-28'
+deces: '1687-07-10'
+naissance_lieu: San Nicola Vallis Longe
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpapaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Marco (Argentano), Italy
+  du: '1685-03-26'
+  au: '1687-07-10'
+- titre: Roman Catholic Bishop of San Marco (Argentano)
+  du: '1685-03-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68909752
+  catholic_hierarchy: bpapaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:08:22+00:00'
+  completeness: 0.5

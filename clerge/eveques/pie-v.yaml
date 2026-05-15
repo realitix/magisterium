@@ -1,0 +1,70 @@
+slug: pie-v
+nom: Pie V
+nom_complet: Pius V
+naissance: '1504-01-17'
+deces: '1572-05-01'
+naissance_lieu: Bosco Marengo, Diocese of Alessandria (della Paglia)
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1556-09-14'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-michele-saraceni
+  co_consecrateurs:
+  - giovanni-beraldo
+  - nicola-majorano-maggiorani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bghis.html
+  - https://fr.wikipedia.org/wiki/Pie_V
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nepi e Sutri, Italy
+  du: '1556-09-04'
+  au: null
+- titre: Bishop of Mondovi, Italy
+  du: '1560-03-27'
+  au: null
+- titre: Cardinal-Priest of Santa Sabina
+  du: '1561-04-14'
+  au: null
+- titre: Cardinal-Priest of Santa Maria sopra Minerva
+  du: '1565-05-15'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1572-05-01'
+- titre: évêque de Nepi et Sutri
+  du: '1556-09-14'
+  au: null
+- titre: cardinal-prêtre
+  du: null
+  au: null
+- titre: pape
+  du: '1566-01-27'
+  au: '1572-05-11'
+- titre: évêque de Mondovi
+  du: '1560-04-06'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bartolomeo%20Passarotti%20-%20Pius%20V.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q131945
+  catholic_hierarchy: bghis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:39+00:00'
+  completeness: 1.0

@@ -1,0 +1,38 @@
+slug: walter-trail
+nom: Walter Trail
+nom_complet: null
+naissance: '1301'
+deces: '1401'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrail.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: '1385-11-29'
+  au: 1401&sup2;
+- titre: évêque de Saint Andrews
+  du: '1385-12-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7966296
+  catholic_hierarchy: btrail
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:08:31+00:00'
+  completeness: 0.25

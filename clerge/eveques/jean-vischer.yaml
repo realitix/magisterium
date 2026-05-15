@@ -1,0 +1,44 @@
+slug: jean-vischer
+nom: Jean Vischer
+nom_complet: null
+naissance: '1561'
+deces: '1613-05-26'
+naissance_lieu: Bergues
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1611-02-06'
+  consecrateur_principal: jacques-blaes
+  co_consecrateurs:
+  - charles-maes
+  - karel-filips-de-rodoan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwischer.html
+  - https://fr.wikipedia.org/wiki/Jean_Vischer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1610-10-25'
+  au: '1613-05-26'
+- titre: évêque d'Ypres
+  du: '1610-10-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29741655
+  catholic_hierarchy: bwischer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:57:23+00:00'
+  completeness: 0.88

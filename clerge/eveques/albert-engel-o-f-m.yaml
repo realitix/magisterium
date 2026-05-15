@@ -1,0 +1,49 @@
+slug: albert-engel-o-f-m
+nom: Albert Engel, O.F.M.
+nom_complet: Albert Engel
+naissance: null
+deces: '1500-11-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1493-05-01'
+  consecrateur_principal: tito-veltri-de-viterbo
+  co_consecrateurs:
+  - matteo-giudici
+  - raimundo-de-loaria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bengel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paderborn, Germany
+  du: '1493-04-18'
+  au: '1500-11-18'
+- titre: Titular Bishop of Tiflis
+  du: '1493-04-18'
+  au: null
+- titre: évêque titulaire
+  du: '1493-04-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1493-04-27'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q27841644
+  catholic_hierarchy: bengel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:22:16+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: tibor-berta
+nom: Tibor Berta
+nom_complet: null
+naissance: '1966-06-19'
+deces: null
+naissance_lieu: Kaposvár, Diocese of Veszprém
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '2021-04-10'
+  lieu: Szent Istavan, Basilica, Budapest, Archdiocese of Esztergom-Budapest
+  consecrateur_principal: peter-erdo
+  co_consecrateurs:
+  - michael-august-blume
+  - laszlo-varga
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hungary, Military
+  du: '2021-02-18'
+  au: null
+- titre: évêque diocésain
+  du: '2021-02-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BertaTiborFot%C3%B3ThalerTam%C3%A1s.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q105555946
+  catholic_hierarchy: bbertat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:22:10+00:00'
+  completeness: 0.88

@@ -1,0 +1,55 @@
+slug: munio-de-zamora
+nom: Munio de Zamora
+nom_complet: Munio Zamora, O.P.
+naissance: '1237'
+deces: '1300-04-19'
+naissance_lieu: Zamora
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: '1294-03-07'
+  lieu: Alcala de Henares
+  consecrateur_principal: juan-alvarez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzamoram.html
+  - https://fr.wikipedia.org/wiki/Mu%C3%B1o_de_Zamora
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Master General of Order of Friars Preachers
+  du: 1285&sup2;
+  au: '1291-04-12'
+- titre: Bishop of Palencia, Spain
+  du: '1294-02-05'
+  au: '1296-07-11'
+- titre: Bishop Emeritus of Palencia, Spain
+  du: null
+  au: '1300-04-19'
+- titre: maître de l'ordre des Prêcheurs
+  du: '1285-01-01'
+  au: '1291-04-19'
+- titre: évêque de Palencia
+  du: '1294-02-12'
+  au: '1296-07-18'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Munio%20de%20Zamora.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2356240
+  catholic_hierarchy: bzamoram
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:05:29+00:00'
+  completeness: 0.75

@@ -1,0 +1,50 @@
+slug: robert-seton
+nom: Robert Seton
+nom_complet: Robert John Seton
+naissance: '1839-08-28'
+deces: '1927-03-22'
+naissance_lieu: Livorno, Italy
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1903-07-05'
+  consecrateur_principal: sebastiano-martinelli
+  co_consecrateurs:
+  - edmund-stonor
+  - diomede-panici
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Archbishop of Heliopolis in Phoenicia
+  du: '1903-06-22'
+  au: '1927-03-22'
+- titre: archevêque titulaire
+  du: '1903-06-22'
+  au: null
+- titre: archevêque catholique
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Seton%20%281839%E2%80%931927%29.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7349693
+  catholic_hierarchy: bseton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:53+00:00'
+  completeness: 1.0

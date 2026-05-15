@@ -1,0 +1,39 @@
+slug: pierre-de-fleyres
+nom: Pierre de Fleyres
+nom_complet: Pierre-Jacques de Fleyres
+naissance: '1550'
+deces: '1633-06-25'
+naissance_lieu: Espalion, Aveyron
+deces_lieu: Paris, Diocese of Paris
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfley.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Fleyres
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pons-de-Thomières, France
+  du: '1587-06-15'
+  au: '1633-06-25'
+- titre: évêque de Saint-Pons-de-Thomières
+  du: '1587-06-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24036268
+  catholic_hierarchy: bfley
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:48:16+00:00'
+  completeness: 0.38

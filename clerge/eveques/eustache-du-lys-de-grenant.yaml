@@ -1,0 +1,44 @@
+slug: eustache-du-lys-de-grenant
+nom: Eustache du Lys de Grenant
+nom_complet: Eustache Du Lis
+naissance: '1561'
+deces: '1643-06-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1606-11-19'
+  consecrateur_principal: bertrand-d-eschaud
+  co_consecrateurs:
+  - claude-dormy
+  - jean-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdulis.html
+  - https://fr.wikipedia.org/wiki/Eustache_du_Lys_de_Grenant
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nevers, France
+  du: '1606-07-17'
+  au: '1643-06-17'
+- titre: évêque diocésain
+  du: '1606-07-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3061072
+  catholic_hierarchy: bdulis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:12:42+00:00'
+  completeness: 0.88

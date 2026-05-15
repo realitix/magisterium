@@ -1,0 +1,44 @@
+slug: jeronimo-albornoz-o-f-m
+nom: Jerónimo Albornoz, O.F.M.
+nom_complet: Jerónimo Albornoz
+naissance: '1530'
+deces: '1574-10-27'
+naissance_lieu: Spain
+deces_lieu: Lima, Archdiocese of Lima, Peru
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1571-07-22'
+  lieu: S. Yves, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francisco-pacheco-de-toledo
+  co_consecrateurs:
+  - balduino-de-balduinis
+  - antonio-de-pazos-y-figueroa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balboj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Córdoba (Tucumán), Argentina
+  du: null
+  au: '1574-10-27'
+- titre: évêque de Tucumán
+  du: '1570-09-06'
+  au: '1574-11-06'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q28935208
+  catholic_hierarchy: balboj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:27:40+00:00'
+  completeness: 0.88

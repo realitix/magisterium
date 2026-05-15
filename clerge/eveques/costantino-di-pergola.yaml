@@ -1,0 +1,39 @@
+slug: costantino-di-pergola
+nom: Costantino di Pergola
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: juan-ximenes-o-f-m
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpergola.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1412-12-19'
+  au: 1430&sup1;
+- titre: évêque diocésain
+  du: '1412-12-28'
+  au: '1430-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779400
+  catholic_hierarchy: bpergola
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:22:27+00:00'
+  completeness: 0.38

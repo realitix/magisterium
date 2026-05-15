@@ -1,0 +1,41 @@
+slug: bruno-ii-von-porstendorf
+nom: Bruno II. von Porstendorf
+nom_complet: Bruno von Porstendorf
+naissance: '1250'
+deces: '1228'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bporste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meißen (Meissen), Germany
+  du: 1209&sup2;
+  au: '1228-12-04'
+- titre: évêque
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Meissen
+  du: '1209-01-01'
+  au: '1228-12-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q993374
+  catholic_hierarchy: bporste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:44:32+00:00'
+  completeness: 0.25

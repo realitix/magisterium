@@ -1,0 +1,40 @@
+slug: jacques-suares
+nom: Jacques Suares
+nom_complet: Jacques Suarez de Sainte-Marie, O.F.M.
+naissance: '1552'
+deces: '1614-05-30'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+deces_lieu: null
+rang: eveque
+nationalite: Q45
+tampon: ordo_validus
+sacre:
+  date: '1612-03-04'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsuarja.html
+  - https://fr.wikipedia.org/wiki/Jacques_Suares
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1612-01-09'
+  au: '1614-05-30'
+- titre: évêque diocésain
+  du: '1612-01-09'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q3160042
+  catholic_hierarchy: bsuarja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:42:34+00:00'
+  completeness: 0.5

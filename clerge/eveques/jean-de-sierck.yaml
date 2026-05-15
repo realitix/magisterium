@@ -1,0 +1,49 @@
+slug: jean-de-sierck
+nom: Jean de Sierck
+nom_complet: John II van Sierck
+naissance: '1300'
+deces: '1305'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsierckj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Sierck
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Utrecht, Netherlands
+  du: '1291-01-10'
+  au: null
+- titre: Bishop of Toul, France
+  du: '1296-02-03'
+  au: 1305&sup2;
+- titre: évêque d'Utrecht
+  du: '1291-01-17'
+  au: '1296-01-01'
+- titre: évêque de Toul
+  du: '1296-01-01'
+  au: '1305-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Sierck%2C%20bishop%20of%20Utrecht%20-%20seal%2C%201292.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1696857
+  catholic_hierarchy: bsierckj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:16:59+00:00'
+  completeness: 0.25

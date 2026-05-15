@@ -1,0 +1,54 @@
+slug: angel-morta-figuls
+nom: Ángel Morta Figuls
+nom_complet: Angel Morta Figuls
+naissance: '1914-05-20'
+deces: '1972-06-21'
+naissance_lieu: Ametlla de Merola, Diocese of Solsona
+deces_lieu: Madrid, Archdiocese of Madrid
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1965-03-19'
+  lieu: Nuestra Senora del Pilar, Church, Zaragoza, Archdiocese of Zaragoza
+  consecrateur_principal: casimiro-morcillo-gonzalez
+  co_consecrateurs:
+  - pedro-cantero-cuadrado
+  - francisco-peralta-ballabriga
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Madrid, Spain
+  du: '1965-01-19'
+  au: '1972-06-21'
+- titre: Titular Bishop of Gubaliana
+  du: '1965-01-19'
+  au: null
+- titre: évêque titulaire
+  du: '1965-01-19'
+  au: '1972-06-20'
+- titre: évêque auxiliaire
+  du: '1965-01-19'
+  au: '1972-06-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bisbemorta.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64733387
+  catholic_hierarchy: bmorta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:19+00:00'
+  completeness: 1.0

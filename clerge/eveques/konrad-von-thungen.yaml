@@ -1,0 +1,51 @@
+slug: konrad-von-thungen
+nom: Konrad von Thüngen
+nom_complet: null
+naissance: '1466'
+deces: '1540-06-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1519-10-02'
+  consecrateur_principal: georges-iii-de-limpurg
+  co_consecrateurs:
+  - johannes-pettendorfer
+  - andreas-henlein-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthunk.html
+  - https://fr.wikipedia.org/wiki/Konrad_von_Th%C3%BCngen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1540-06-16'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Wurtzbourg
+  du: '1519-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20von%20Thuengen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q103601
+  catholic_hierarchy: bthunk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:59:07+00:00'
+  completeness: 0.88

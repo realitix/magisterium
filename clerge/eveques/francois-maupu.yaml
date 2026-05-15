@@ -1,0 +1,45 @@
+slug: francois-maupu
+nom: François Maupu
+nom_complet: François Paul Marie Maupu
+naissance: '1939-08-30'
+deces: null
+naissance_lieu: Neuville-aux-Bois, Diocese of Orléans
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2000-04-30'
+  lieu: Notre-Dame, Cathedral, Verdun, Diocese of Verdun
+  consecrateur_principal: marcel-herriot
+  co_consecrateurs:
+  - gerard-daucourt
+  - yves-patenotre
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaupu.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Maupu
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '2000-03-09'
+  au: null
+- titre: évêque de Verdun
+  du: '2000-03-09'
+  au: '2014-07-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1451128
+  catholic_hierarchy: bmaupu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:27+00:00'
+  completeness: 0.88

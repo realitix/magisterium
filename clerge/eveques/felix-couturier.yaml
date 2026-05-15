@@ -1,0 +1,53 @@
+slug: felix-couturier
+nom: Félix Couturier
+nom_complet: Félix Couturier, O.P.
+naissance: '1876-03-29'
+deces: '1941-07-27'
+naissance_lieu: La Forie, Diocese of Clermont, France
+deces_lieu: Alexandria, Diocese of Alexandria in Ontario
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1919-04-27'
+  lieu: Santa Maria sopra Minerva, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: willem-marinus-van-rossum
+  co_consecrateurs:
+  - vincenzo-sardi-di-rivisondoli
+  - bonaventura-cerretti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcout.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Myriophytos
+  du: '1919-04-09'
+  au: null
+- titre: Apostolic Visitor (Visitator) of Egypt (Egitto), Egypt
+  du: '1919-04-30'
+  au: null
+- titre: Bishop of Alexandria in Ontario, Canada
+  du: '1921-06-28'
+  au: '1941-07-27'
+- titre: évêque diocésain
+  du: '1921-06-28'
+  au: '1941-01-01'
+- titre: évêque titulaire
+  du: '1919-04-09'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64745359
+  catholic_hierarchy: bcout
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:12:20+00:00'
+  completeness: 1.0

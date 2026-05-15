@@ -1,0 +1,57 @@
+slug: francois-rene-boussen
+nom: François-René Boussen
+nom_complet: null
+naissance: '1774-12-02'
+deces: '1848-10-01'
+naissance_lieu: Furnes
+deces_lieu: null
+rang: archeveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1833-01-27'
+  consecrateur_principal: engelbert-sterckx
+  co_consecrateurs:
+  - jean-joseph-delplancq
+  - jean-francois-van-de-velde
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbouss.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_Boussen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1832-12-17'
+  au: null
+- titre: Titular Bishop of Ptolemais in Thebaide
+  du: '1832-12-17'
+  au: null
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: '1834-06-23'
+  au: '1848-10-01'
+- titre: évêque de Bruges
+  du: '1834-06-23'
+  au: '1848-10-01'
+- titre: archevêque titulaire de Ptolémaïs en Thébaïde
+  du: '1832-12-17'
+  au: '1834-06-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/18de%20eeuw%20bischopsportret.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2171089
+  catholic_hierarchy: bbouss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:21+00:00'
+  completeness: 1.0

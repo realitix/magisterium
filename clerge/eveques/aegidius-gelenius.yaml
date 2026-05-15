@@ -1,0 +1,58 @@
+slug: aegidius-gelenius
+nom: Aegidius Gelenius
+nom_complet: Ägidius Gelenius
+naissance: '1595-06-10'
+deces: '1656-08-24'
+naissance_lieu: Kempen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1656-03-25'
+  lieu: Osnabrück, Diocese of Osnabrück
+  consecrateur_principal: franz-wilhelm-von-wartenberg
+  co_consecrateurs:
+  - johann-sternenberg
+  - adam-adami
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgele.html
+  - https://fr.wikipedia.org/wiki/%C3%86gidius_Gelenius
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Osnabrück, Germany
+  du: '1655-04-29'
+  au: '1656-08-24'
+- titre: Titular Bishop of Aureliopolis in Asia
+  du: '1655-04-29'
+  au: null
+- titre: vicaire général
+  du: null
+  au: null
+- titre: évêque auxiliaire
+  du: '1655-04-29'
+  au: null
+- titre: évêque titulaire
+  du: '1655-04-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Aegidius%20Gelenius%201631.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q92012
+  catholic_hierarchy: bgele
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:16:01+00:00'
+  completeness: 1.0

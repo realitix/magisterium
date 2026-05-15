@@ -1,0 +1,51 @@
+slug: johann-flugi
+nom: Johann Flugi
+nom_complet: Johann Flugi d&rsquo;Apremont
+naissance: '1550'
+deces: '1627-08-30'
+naissance_lieu: Sankt Moritz
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1601-07-22'
+  lieu: Lucerne
+  consecrateur_principal: giovanni-giulio-della-torre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflugig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: '1601-04-09'
+  au: '1627-08-24'
+- titre: Bishop Emeritus of Chur, Switzerland
+  du: null
+  au: '1627-08-30'
+- titre: évêque diocésain
+  du: '1601-04-09'
+  au: '1627-08-24'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20V.%20Flugi.tiff
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1696444
+  catholic_hierarchy: bflugig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:49:06+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: roberto-nogara
+nom: Roberto Nogara
+nom_complet: null
+naissance: '1879-06-07'
+deces: '1940-04-24'
+naissance_lieu: Bellano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1934-10-28'
+  consecrateur_principal: giuseppe-nogara
+  co_consecrateurs:
+  - giuseppe-romeo
+  - demetrio-moscato
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnogara.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Cosenza, Italy
+  du: '1934-08-22'
+  au: '1940-04-24'
+- titre: Roman Catholic Archbishop of Cosenza
+  du: '1934-10-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64643184
+  catholic_hierarchy: bnogara
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:35:58+00:00'
+  completeness: 1.0

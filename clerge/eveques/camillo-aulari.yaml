@@ -1,0 +1,46 @@
+slug: camillo-aulari
+nom: Camillo Aulari
+nom_complet: Camillo Olario (Aulari, Ozario)
+naissance: null
+deces: '1607-01-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q426025
+tampon: ordo_validus
+sacre:
+  date: '1602-09-08'
+  consecrateur_principal: ottavio-paravicini
+  co_consecrateurs:
+  - paolo-alberi
+  - guglielmo-bastoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baulari.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bobbio, Italy
+  du: '1602-08-26'
+  au: '1607-01-11'
+- titre: Roman Catholic Bishop of Bobbio
+  du: '1602-08-26'
+  au: null
+- titre: archiprêtre de Saint-Jean le Baptiste
+  du: '1577-01-01'
+  au: '1592-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3651448
+  catholic_hierarchy: baulari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:41+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: albert-de-hornes
+nom: Albert de Hornes
+nom_complet: Albrecht van Horne
+naissance: '1642-02-25'
+deces: '1694-06-04'
+naissance_lieu: Braines la Chateau
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1681-06-01'
+  consecrateur_principal: alphonse-de-berghes
+  co_consecrateurs:
+  - francois-de-baillencourt
+  - jean-ferdinand-van-beughem
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvhornes.html
+  - https://fr.wikipedia.org/wiki/Albert_de_Hornes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1681-01-13'
+  au: '1694-06-04'
+- titre: Évêque de Gand
+  du: '1681-01-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/PMa%20001042%20B%20Gent%20StB.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15869693
+  catholic_hierarchy: bvhornes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:35+00:00'
+  completeness: 1.0

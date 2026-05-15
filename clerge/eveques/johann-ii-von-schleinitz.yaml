@@ -1,0 +1,52 @@
+slug: johann-ii-von-schleinitz
+nom: Johann II. von Schleinitz
+nom_complet: Johann von Schleinitz
+naissance: '1400'
+deces: '1434-11-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: johann-von-bose
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschlejo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: '1422-07-17'
+  au: 1434&sup2;
+- titre: Bishop Emeritus of Naumburg, Germany
+  du: null
+  au: '1434-11-30'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1422-07-26'
+  au: '1434-01-01'
+- titre: Canon of the Cathedral Chapter Naumburg
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biskup%20Schleinitz%20Maxmilian%20Rudolf.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1609792
+  catholic_hierarchy: bschlejo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:02:01+00:00'
+  completeness: 0.5

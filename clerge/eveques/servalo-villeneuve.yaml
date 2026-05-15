@@ -1,0 +1,33 @@
+slug: servalo-villeneuve
+nom: Servalo Villeneuve
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Sicily, Archdiocese of Palermo, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '260'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillens.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Malta
+  du: 260&sup1;
+  au: 317&sup2;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bvillens
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:39:59+00:00'
+  completeness: 0.38

@@ -1,0 +1,49 @@
+slug: richard-fitzralph
+nom: Richard FitzRalph
+nom_complet: Riccardus de Radulphis
+naissance: '1295'
+deces: '1360-11-14'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q27
+tampon: ordo_validus
+sacre:
+  date: '1347-07-08'
+  consecrateur_principal: john-grandisson
+  co_consecrateurs:
+  - david-ap-blethyn
+  - ralph-of-shrewsbury
+  - robert-wyvil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfitzra.html
+  - https://fr.wikipedia.org/wiki/Richard_FitzRalph
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Armagh, Ireland
+  du: '1346-07-31'
+  au: '1360-11-14'
+- titre: archevêque d'Armargh
+  du: '1346-08-08'
+  au: '1360-11-22'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Fitzralph.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7325689
+  catholic_hierarchy: bfitzra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:47:12+00:00'
+  completeness: 0.88

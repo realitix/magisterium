@@ -1,0 +1,42 @@
+slug: guy-de-prangins
+nom: Guy de Prangins
+nom_complet: Guy di Prangins
+naissance: '1400'
+deces: '1394'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdprangg.html
+  - https://fr.wikipedia.org/wiki/Guy_de_Prangins
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lausanne, Switzerland
+  du: '1375-03-19'
+  au: '1394-06-11'
+- titre: évêque de Lausanne
+  du: '1375-03-27'
+  au: '1394-01-01'
+- titre: conseiller
+  du: '1373-01-01'
+  au: '1373-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1263784
+  catholic_hierarchy: bdprangg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:24+00:00'
+  completeness: 0.38

@@ -1,0 +1,60 @@
+slug: francois-de-mailly
+nom: François de Mailly
+nom_complet: François Cardinal de Mailly
+naissance: '1658-03-04'
+deces: '1721-09-13'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: cardinal
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1698-05-11'
+  consecrateur_principal: toussaint-de-forbin-janson
+  co_consecrateurs:
+  - gabriel-de-roquette
+  - francois-chevalier-de-saulx
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmailly.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Mailly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Reims, France
+  du: null
+  au: '1721-09-13'
+- titre: archevêque d'Arles
+  du: '1697-01-01'
+  au: '1710-01-01'
+- titre: cardinal
+  du: '1719-11-29'
+  au: null
+- titre: archevêque catholique
+  du: '1697-12-24'
+  au: null
+- titre: abbé de Saint-Étienne de Caen
+  du: '1720-01-01'
+  au: '1721-01-01'
+- titre: archevêque catholique
+  du: '1710-07-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mailly%2008493%20copie.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2255097
+  catholic_hierarchy: bmailly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:15:07+00:00'
+  completeness: 1.0

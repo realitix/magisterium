@@ -1,0 +1,55 @@
+slug: ignace-cotolendi
+nom: Ignace Cotolendi
+nom_complet: Ignace Cotolendi, M.E.P.
+naissance: '1630-03-23'
+deces: '1662-08-16'
+naissance_lieu: Brignoles, Archdiocese of Aix, France
+deces_lieu: Palacot, India
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1660-11-07'
+  lieu: Paris, Archdiocese of Paris, France
+  consecrateur_principal: francois-harlay-de-champvallon
+  co_consecrateurs:
+  - toussaint-de-forbin-janson
+  - francois-pallu
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcotoi.html
+  - https://fr.wikipedia.org/wiki/Ignace_Cotolendi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Nanking [Nanjing], China
+  du: '1660-09-20'
+  au: '1662-08-16'
+- titre: Titular Bishop of Metellopolis
+  du: '1660-09-20'
+  au: null
+- titre: vicaire apostolique
+  du: '1660-09-20'
+  au: null
+- titre: évêque titulaire
+  du: '1660-09-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Ignace%20Cotolendi.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3148163
+  catholic_hierarchy: bcotoi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:11:12+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: andre-dreuillet
+nom: André Dreuillet
+nom_complet: André Dreuilhet (Drouillet)
+naissance: '1664-12-01'
+deces: '1727-11-17'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1708-01-08'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - rene-francois-de-beauvau-du-rivau
+  - david-nicolas-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdreu.html
+  - https://fr.wikipedia.org/wiki/Andr%C3%A9_Dreuillet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayonne, France
+  du: null
+  au: '1727-11-17'
+- titre: évêque de Bayonne
+  du: '1707-04-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816469
+  catholic_hierarchy: bdreu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:20+00:00'
+  completeness: 1.0

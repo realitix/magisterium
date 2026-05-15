@@ -1,0 +1,43 @@
+slug: emile-thienard
+nom: Émile Thiénard
+nom_complet: Emile-Jean-François Thiénard
+naissance: '1873-04-14'
+deces: '1945-10-26'
+naissance_lieu: Ravel-Salmeranges, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1924-05-01'
+  consecrateur_principal: augustin-fernand-leynaud
+  co_consecrateurs:
+  - leon-durand
+  - victor-dreyer
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthien.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Constantine (-Hippone), Algeria
+  du: '1924-03-24'
+  au: '1945-10-26'
+- titre: évêque de Constantine
+  du: '1924-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763778
+  catholic_hierarchy: bthien
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:57:33+00:00'
+  completeness: 1.0

@@ -1,0 +1,49 @@
+slug: scipione-sersale
+nom: Scipione Sersale
+nom_complet: null
+naissance: '1691-01-18'
+deces: '1751-07-11'
+naissance_lieu: Cosenza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1735-07-03'
+  consecrateur_principal: annibale-albani
+  co_consecrateurs:
+  - giovanni-battista-ariberti-c-o
+  - giuseppe-maria-perrimezzi-o-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserss.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sora, Italy
+  du: '1735-06-27'
+  au: null
+- titre: Bishop of Lecce, Italy
+  du: '1744-02-03'
+  au: '1751-07-11'
+- titre: évêque de Lecce
+  du: '1744-02-13'
+  au: null
+- titre: Roman Catholic Bishop of Sora
+  du: '1735-06-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762310
+  catholic_hierarchy: bserss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:22+00:00'
+  completeness: 1.0

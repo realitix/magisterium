@@ -1,0 +1,52 @@
+slug: barthelemy-des-martyrs
+nom: Barthélemy des Martyrs
+nom_complet: St. Bartolomé Fernandes dos Mártires, O.P.
+naissance: '1514-05-03'
+deces: '1590-07-16'
+naissance_lieu: Verdela, Patriarchate of Lisboa {Lisbon}
+deces_lieu: Viana do Castelo
+rang: archeveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1559-09-03'
+  lieu: São Domingos, Convent, Lisboa, Patriarchate of Lisboa {Lisbon}
+  consecrateur_principal: joao-soares-o-s-a
+  co_consecrateurs:
+  - juliao-de-alva
+  - pedro-fernando
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferndm.html
+  - https://fr.wikipedia.org/wiki/Barth%C3%A9lemy_des_Martyrs
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Braga, Portugal
+  du: null
+  au: '1582-02-23'
+- titre: Archbishop Emeritus of Braga, Portugal
+  du: null
+  au: '1590-07-16'
+- titre: archevêque catholique
+  du: '1559-01-01'
+  au: '1582-03-05'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Aveiro%20March%202012-22a.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2294614
+  catholic_hierarchy: bferndm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:37:51+00:00'
+  completeness: 1.0

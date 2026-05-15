@@ -1,0 +1,62 @@
+slug: luigi-finoja
+nom: Luigi Finoja
+nom_complet: null
+naissance: '1843-02-23'
+deces: '1915-03-15'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1899-10-08'
+  lieu: St. Pierre aux Liens, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-battista-casali-del-drago
+  co_consecrateurs:
+  - luigi-lazzareschi
+  - carlo-caputo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfinoja.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Catanzaro, Italy
+  du: '1899-09-19'
+  au: null
+- titre: Titular Bishop of Ascalon
+  du: '1899-09-19'
+  au: null
+- titre: Bishop of Catanzaro, Italy
+  du: null
+  au: '1906-12-06'
+- titre: Titular Bishop of Flaviopolis
+  du: '1906-12-06'
+  au: null
+- titre: Bishop Emeritus of Catanzaro, Italy
+  du: null
+  au: '1915-03-15'
+- titre: évêque titulaire
+  du: '1899-09-19'
+  au: null
+- titre: évêque titulaire
+  du: '1906-12-06'
+  au: null
+- titre: Roman Catholic Bishop of Catanzaro
+  du: '1900-06-02'
+  au: '1906-12-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707849
+  catholic_hierarchy: bfinoja
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:45:18+00:00'
+  completeness: 1.0

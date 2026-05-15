@@ -1,0 +1,50 @@
+slug: alexandre-ii-1010
+nom: Alexandre II
+nom_complet: Alexander II
+naissance: '1010'
+deces: '1073-04-21'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: siegfried-d-rsquo-eppenstein
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaggioan.html
+  - https://fr.wikipedia.org/wiki/Alexandre_II_(pape)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lucca, Italy
+  du: 23 Mar 1057&sup3;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1073-04-21'
+- titre: pape
+  du: '1061-10-12'
+  au: '1073-04-21'
+- titre: Roman Catholic Bishop of Lucca
+  du: '1057-03-29'
+  au: '1061-10-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro-ii-color.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q171112
+  catholic_hierarchy: bbaggioan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:55:29+00:00'
+  completeness: 0.5

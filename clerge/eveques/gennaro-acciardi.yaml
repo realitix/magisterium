@@ -1,0 +1,44 @@
+slug: gennaro-acciardi
+nom: Gennaro Acciardi
+nom_complet: null
+naissance: '1809-09-30'
+deces: '1883-03-14'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1849-06-10'
+  lieu: Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: sisto-riario-sforza
+  co_consecrateurs:
+  - gennaro-pasca
+  - raffaele-serena
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baccia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Anglona-Tursi, Italy
+  du: '1849-04-20'
+  au: '1883-03-14'
+- titre: évêque diocésain
+  du: '1849-04-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21547026
+  catholic_hierarchy: baccia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 1.0

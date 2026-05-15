@@ -1,0 +1,44 @@
+slug: daniel-de-francheville
+nom: Daniel de Francheville
+nom_complet: null
+naissance: '1648-06-21'
+deces: '1702-05-26'
+naissance_lieu: Vannes, Diocese of Vannes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1694-01-17'
+  consecrateur_principal: charles-le-goux-de-la-berchere
+  co_consecrateurs:
+  - henri-de-briqueville-de-la-luzerne
+  - jacques-joseph-de-gourgue
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranche.html
+  - https://fr.wikipedia.org/wiki/Daniel_de_Francheville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: null
+  au: '1702-05-26'
+- titre: évêque diocésain
+  du: '1693-09-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22970819
+  catholic_hierarchy: bfranche
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:55:24+00:00'
+  completeness: 1.0

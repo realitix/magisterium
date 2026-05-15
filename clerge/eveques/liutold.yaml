@@ -1,0 +1,32 @@
+slug: liutold
+nom: Liutold
+nom_complet: null
+naissance: '1000'
+deces: '996'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-238a4af7
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Liutold_d%27Augsbourg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque d'Augsbourg
+  du: '0989-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1866162
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67

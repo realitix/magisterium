@@ -1,0 +1,43 @@
+slug: jan-blaha
+nom: Jan Blaha
+nom_complet: null
+naissance: '1938-03-12'
+deces: '2012-12-13'
+naissance_lieu: Brno, Diocese of Brno, Czechia
+deces_lieu: St. Al&#382;b&#283;eta Hospice, Brno, Diocese of Brno, Czechia
+rang: eveque
+nationalite: CZ
+tampon: ordo_validus
+sacre:
+  date: '1967-10-28'
+  lieu: Archbishop's Palace, Praha, Archdiocese of Praha {Prague}, Czechia
+  consecrateur_principal: peter-dubovsky
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblah.html
+  - https://gcatholic.org/p/51820
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop
+  du: null
+  au: '2012-12-13'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q982794
+  catholic_hierarchy: bblah
+  gcatholic: '51820'
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:43+00:00'
+  completeness: 0.88
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:42+00:00'
+  completeness: 0.62

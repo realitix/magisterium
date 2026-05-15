@@ -1,0 +1,50 @@
+slug: ivan-palos
+nom: Iván Pálos
+nom_complet: null
+naissance: '1913-09-02'
+deces: '1987-03-28'
+naissance_lieu: Komarom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1975-02-06'
+  lieu: St. Etienne, Budapest, Archdiocese of Esztergom
+  consecrateur_principal: jozsef-ijjas
+  co_consecrateurs:
+  - jozsef-bank
+  - laszlo-lekai
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpalos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1975-01-07'
+  au: '1987-03-28'
+- titre: Titular Bishop of Isola
+  du: '1975-01-07'
+  au: null
+- titre: évêque auxiliaire
+  du: '1975-01-07'
+  au: null
+- titre: évêque titulaire
+  du: '1975-01-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26252233
+  catholic_hierarchy: bpalos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:06:10+00:00'
+  completeness: 1.0

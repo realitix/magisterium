@@ -1,0 +1,44 @@
+slug: angelo-soracco
+nom: Angelo Soracco
+nom_complet: null
+naissance: '1890-04-10'
+deces: '1943-03-11'
+naissance_lieu: Canevele di Certenoli, Diocese of Chiavari
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1935-03-19'
+  lieu: Nostra Signora dell`Orto, Cathedral, Chiavari, Diocese of Chiavari
+  consecrateur_principal: amedeo-casabona
+  co_consecrateurs:
+  - cesare-boccoleri
+  - giovanni-costantini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsorac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fossano, Italy
+  du: '1934-12-12'
+  au: '1943-03-11'
+- titre: évêque de Fossano
+  du: '1934-12-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745478
+  catholic_hierarchy: bsorac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:28:16+00:00'
+  completeness: 1.0

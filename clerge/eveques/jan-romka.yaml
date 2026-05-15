@@ -1,0 +1,46 @@
+slug: jan-romka
+nom: Jan Romka
+nom_complet: Johann III Romka
+naissance: '1300'
+deces: '1301-11-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jakub-swinka
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bromka.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wroc&#322;aw (Breslau), Poland
+  du: '1292-04-24'
+  au: '1301-11-19'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1292-05-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20III%20Romka%20-%20seal%20%28between%201295%20and%201301%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1694747
+  catholic_hierarchy: bromka
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:25:53+00:00'
+  completeness: 0.62

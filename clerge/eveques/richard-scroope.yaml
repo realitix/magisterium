@@ -1,0 +1,43 @@
+slug: richard-scroope
+nom: Richard Scroope
+nom_complet: null
+naissance: null
+deces: '1468-05-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1464-06-24'
+  consecrateur_principal: george-neville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1464-04-11'
+  au: '1468-05-10'
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1464-02-10'
+  au: '1468-05-19'
+- titre: évêque diocésain
+  du: '1464-04-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7328942
+  catholic_hierarchy: bscro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:06:20+00:00'
+  completeness: 0.75

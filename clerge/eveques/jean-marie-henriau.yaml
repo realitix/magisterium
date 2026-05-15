@@ -1,0 +1,44 @@
+slug: jean-marie-henriau
+nom: Jean-Marie Henriau
+nom_complet: null
+naissance: '1661'
+deces: '1738-01-25'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1724-10-28'
+  consecrateur_principal: andre-hercule-de-fleury
+  co_consecrateurs:
+  - jules-cesar-rousseau-de-la-parisiere
+  - louis-joseph-de-chateauneuf-de-rochebonne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenriau.html
+  - https://fr.wikipedia.org/wiki/Jean-Marie_Henriau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boulogne (-Sur-Mer), France
+  du: null
+  au: '1738-01-25'
+- titre: évêque de Boulogne-sur-Mer
+  du: '1724-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3167692
+  catholic_hierarchy: bhenriau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:22+00:00'
+  completeness: 0.88

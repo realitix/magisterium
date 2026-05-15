@@ -1,0 +1,40 @@
+slug: george-coates
+nom: George Coates
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1554-04-01'
+  consecrateur_principal: edmund-bonner
+  co_consecrateurs:
+  - cuthbert-tunstall
+  - etienne-gardiner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoates.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chester, England, Great Britain
+  du: null
+  au: 1555&sup1;
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780043
+  catholic_hierarchy: bcoates
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:55:38+00:00'
+  completeness: 0.75

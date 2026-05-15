@@ -1,0 +1,44 @@
+slug: richard-ledred
+nom: Richard Ledred
+nom_complet: Richard Ledred (Ledrede), O.F.M.
+naissance: '1275'
+deces: '1360'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1317-04-24'
+  consecrateur_principal: jean-xxii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bledred.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '1317-04-24'
+  au: 1360&sup1;
+- titre: évêque du diocèse d'Ossory
+  du: '1317-05-02'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Effigy%20of%20Bishop%20Ledrede%20head.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q18526791
+  catholic_hierarchy: bledred
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:40:06+00:00'
+  completeness: 0.5

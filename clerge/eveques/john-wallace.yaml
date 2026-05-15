@@ -1,0 +1,47 @@
+slug: john-wallace
+nom: John Wallace
+nom_complet: null
+naissance: '1654-04-08'
+deces: '1733-06-30'
+naissance_lieu: Arbroath, Forfarshire
+deces_lieu: Edinburgh, Vicariate Apostolic of Lowland District, Scotland
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1720-09-21'
+  lieu: (in secret), Edinburgh, Vicariate Apostolic of Scotland
+  consecrateur_principal: james-gordon-1665-5b4961
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwalj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Vicar Apostolic of Scotland, Great Britain
+  du: '1720-04-30'
+  au: null
+- titre: Titular Bishop of Cyrrhus
+  du: '1720-04-30'
+  au: null
+- titre: Coadjutor Vicar Apostolic of Lowland District, Scotland, Great Britain
+  du: '1727-07-23'
+  au: '1733-06-30'
+- titre: évêque titulaire
+  du: '1720-04-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27824244
+  catholic_hierarchy: bwalj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:49:08+00:00'
+  completeness: 0.88

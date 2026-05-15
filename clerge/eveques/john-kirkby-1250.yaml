@@ -1,0 +1,46 @@
+slug: john-kirkby-1250
+nom: John Kirkby
+nom_complet: null
+naissance: '1250'
+deces: '1352-12-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1332-07-19'
+  consecrateur_principal: william-melton
+  co_consecrateurs:
+  - louis-de-beaumont
+  - roland-de-jorse-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkirkby.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1332-05-18'
+  au: 1352&sup1;
+- titre: évêque diocésain
+  du: '1332-05-26'
+  au: null
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1332-05-16'
+  au: '1352-12-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6243209
+  catholic_hierarchy: bkirkby
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:14:40+00:00'
+  completeness: 0.75

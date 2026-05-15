@@ -1,0 +1,46 @@
+slug: hans-teiste
+nom: Hans Teiste
+nom_complet: null
+naissance: '1440'
+deces: '1505'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q20
+tampon: ordo_validus
+sacre:
+  date: '1474-12-18'
+  consecrateur_principal: non-indexe-6d844f5c
+  co_consecrateurs:
+  - gabriele-maccafani
+  - francesco-de-sanctis-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bteiste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bjørgvin (Bergen), Norway
+  du: '1474-12-02'
+  au: 1505&sup2;
+- titre: Roman Catholic Bishop of Bergen
+  du: '1474-12-11'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19339854
+  catholic_hierarchy: bteiste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:53:39+00:00'
+  completeness: 0.75

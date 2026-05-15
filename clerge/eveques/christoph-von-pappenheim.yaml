@@ -1,0 +1,48 @@
+slug: christoph-von-pappenheim
+nom: Christoph von Pappenheim
+nom_complet: Christoph Marschalk zu Pappenheim
+naissance: '1492'
+deces: '1539-06-19'
+naissance_lieu: Pappenheim
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1536-04-23'
+  consecrateur_principal: christoph-von-stadion
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpappe.html
+  - https://fr.wikipedia.org/wiki/Christoph_von_Pappenheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: '1535-01-28'
+  au: '1539-06-19'
+- titre: évêque diocésain
+  du: '1535-02-07'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Marschall%20von%20Pappenheim%20Bischof%20von%20Eichst%C3%A4tt%201535-1539%2C%20Epitaph%20im%20Eichst%C3%A4tter%20Dom.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1086225
+  catholic_hierarchy: bpappe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:08:55+00:00'
+  completeness: 0.75

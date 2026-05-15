@@ -1,0 +1,45 @@
+slug: antonio-de-alcala
+nom: Antonio de Alcala
+nom_complet: null
+naissance: null
+deces: '1474'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: fernando-de-castilla-o-s-b
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balcala.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ampurias, Italy
+  du: '1457-05-16'
+  au: null
+- titre: Bishop of Ottana, Italy
+  du: '1472-08-25'
+  au: 1474&sup1;
+- titre: Roman Catholic Bishop of Ampurias
+  du: '1457-05-25'
+  au: null
+- titre: Roman Catholic Bishop of Ottana
+  du: '1472-09-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779496
+  catholic_hierarchy: balcala
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:28:01+00:00'
+  completeness: 0.38

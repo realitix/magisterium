@@ -1,0 +1,41 @@
+slug: benito-perez
+nom: Benito Pérez
+nom_complet: null
+naissance: '1300'
+deces: '1319-10-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q217196
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperezbn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: 1319&sup1;
+  au: '1319-10-27'
+- titre: évêque de Ségovie
+  du: '1318-01-01'
+  au: '1319-11-04'
+- titre: Canon of the Segovia cathedral
+  du: null
+  au: '1318-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5725913
+  catholic_hierarchy: bperezbn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:21:23+00:00'
+  completeness: 0.38

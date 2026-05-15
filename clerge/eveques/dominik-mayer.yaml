@@ -1,0 +1,50 @@
+slug: dominik-mayer
+nom: Dominik Mayer
+nom_complet: null
+naissance: '1809-08-01'
+deces: '1875-05-04'
+naissance_lieu: Röschitz, Archdiocese of Wien {Vienna}
+deces_lieu: null
+rang: eveque
+nationalite: Q131964
+tampon: ordo_validus
+sacre:
+  date: '1863-12-13'
+  lieu: Sankt Stefan, Cathedral, Wien, Archdiocese of Wien {Vienna}
+  consecrateur_principal: joseph-othmar-von-rauscher
+  co_consecrateurs:
+  - juraj-dobrila
+  - johann-baptist-rudolph-kutschker
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmayerd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Austria, Military
+  du: '1863-10-01'
+  au: '1875-05-04'
+- titre: Titular Bishop of Cisamus
+  du: '1863-10-01'
+  au: null
+- titre: évêque titulaire
+  du: '1863-10-01'
+  au: null
+- titre: Apostolic Field Vicar
+  du: '1863-10-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20029759
+  catholic_hierarchy: bmayerd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:40:19+00:00'
+  completeness: 1.0

@@ -1,0 +1,53 @@
+slug: emile-sauvant
+nom: Émile Sauvant
+nom_complet: Emile-Fernand Sauvant, M. Afr.
+naissance: '1869-09-15'
+deces: '1939-12-19'
+naissance_lieu: Les Vans, Diocese of Viviers, France
+deces_lieu: Angelès Gazost
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1921-08-10'
+  lieu: Maison Carrée, Alger
+  consecrateur_principal: leon-livinhac
+  co_consecrateurs:
+  - joseph-dupont
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsauv.html
+  - https://fr.wikipedia.org/wiki/%C3%89mile_Sauvant
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Bamako, Mali
+  du: '1921-07-08'
+  au: '1928-04-06'
+- titre: Titular Bishop of Utica
+  du: '1921-07-08'
+  au: null
+- titre: Vicar Apostolic Emeritus of Bamako, Mali
+  du: null
+  au: '1939-12-19'
+- titre: vicaire apostolique
+  du: '1921-07-08'
+  au: null
+- titre: évêque titulaire d’Utique
+  du: '1921-07-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752035
+  catholic_hierarchy: bsauv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:11+00:00'
+  completeness: 1.0

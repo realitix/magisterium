@@ -1,0 +1,51 @@
+slug: valentin-narnia
+nom: Valentin Narnia
+nom_complet: null
+naissance: null
+deces: '1447'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: marco-cobello
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnarnia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orte, Italy
+  du: '1432-03-19'
+  au: null
+- titre: Bishop of Civita Castellana e Orte, Italy
+  du: '1437-10-05'
+  au: null
+- titre: Bishop of Ascoli Piceno, Italy
+  du: '1442-01-28'
+  au: 1447&sup1;
+- titre: évêque de Civita Castellana
+  du: '1437-10-14'
+  au: null
+- titre: évêque d'Orte
+  du: '1432-03-28'
+  au: null
+- titre: Roman Catholic Bishop of Ascoli Piceno
+  du: '1442-02-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781227
+  catholic_hierarchy: bnarnia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:25:40+00:00'
+  completeness: 0.38

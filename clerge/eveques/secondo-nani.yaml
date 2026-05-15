@@ -1,0 +1,44 @@
+slug: secondo-nani
+nom: Secondo Nani
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnanise.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Argos, Greece
+  du: '1418-04-18'
+  au: null
+- titre: Bishop of Kotor (Cattaro), Montenegro
+  du: '1425-05-14'
+  au: 1428&sup1;
+- titre: Roman Catholic Bishop of Argos
+  du: '1418-04-27'
+  au: null
+- titre: évêque de Kotor
+  du: '1425-05-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108463221
+  catholic_hierarchy: bnanise
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:24:31+00:00'
+  completeness: 0.25

@@ -1,0 +1,40 @@
+slug: jean-scriba
+nom: Jean Scriba
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '26'
+  consecrateur_principal: non-indexe-64f7b3e7
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscribaj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Napoli, Italy
+  du: 842&sup1;
+  au: 850&sup1;
+- titre: évêque de Naples
+  du: '0842-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446320
+  catholic_hierarchy: bscribaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:06:15+00:00'
+  completeness: 0.5

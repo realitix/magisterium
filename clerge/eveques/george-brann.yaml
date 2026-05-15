@@ -1,0 +1,67 @@
+slug: george-brann
+nom: George Brann
+nom_complet: null
+naissance: null
+deces: '1529'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1483-05-04'
+  consecrateur_principal: pierre-fridaricus
+  co_consecrateurs:
+  - orlando-rolando-rovescala-o-f-m
+  - john-bulcomp
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrann.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dromore, Ireland
+  du: '1483-04-18'
+  au: null
+- titre: Auxiliary Bishop of Saint Andrews, Scotland, Great Britain
+  du: 1484&sup2;
+  au: 1485&sup2;
+- titre: Auxiliary Bishop of London, England, Great Britain
+  du: 1497&sup2;
+  au: null
+- titre: Auxiliary Bishop of Worcester, England, Great Britain
+  du: 1497&sup2;
+  au: null
+- titre: Bishop of Elphin, Ireland
+  du: '1499-04-16'
+  au: 1504&sup1;
+- titre: Bishop Emeritus of Elphin, Ireland
+  du: null
+  au: Oct 1529&sup2;
+- titre: évêque auxiliaire
+  du: '1484-01-01'
+  au: '1485-01-01'
+- titre: évêque auxiliaire
+  du: '1497-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1499-04-25'
+  au: '1504-01-01'
+- titre: évêque diocésain
+  du: '1483-04-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780475
+  catholic_hierarchy: bbrann
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:00+00:00'
+  completeness: 0.75

@@ -1,0 +1,40 @@
+slug: john-ketton
+nom: John Ketton
+nom_complet: John Keeton, O.S.B.
+naissance: null
+deces: '1316-05-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1310-09-06'
+  consecrateur_principal: robert-of-winchelsey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkeeton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ely, England, Great Britain
+  du: null
+  au: '1316-05-14'
+- titre: évêque d'Ely
+  du: '1310-03-10'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q16200429
+  catholic_hierarchy: bkeeton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:10:05+00:00'
+  completeness: 0.75

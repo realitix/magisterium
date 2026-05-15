@@ -1,0 +1,54 @@
+slug: petar-cule
+nom: Petar Čule
+nom_complet: Petar &#268;ule
+naissance: '1898-02-18'
+deces: '1985-07-29'
+naissance_lieu: "Kru\x9Aevo"
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1942-10-04'
+  consecrateur_principal: ivan-saric
+  co_consecrateurs:
+  - alojzije-stepinac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcule.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mostar-Duvno (-Trebinje e Mrkan), Bosnia and Herzegovina
+  du: '1942-04-15'
+  au: null
+- titre: Titular Archbishop of Giufi
+  du: '1980-09-14'
+  au: null
+- titre: Bishop Emeritus of Mostar-Duvno (-Trebinje e Mrkan), Bosnia and Herzegovina
+  du: null
+  au: '1985-07-29'
+- titre: évêque de Mostar-Duvno (-Trebinje e Mrkan)
+  du: '1942-04-15'
+  au: '1980-09-14'
+- titre: archevêque titulaire
+  du: '1980-09-14'
+  au: null
+- titre: archevêque catholique
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1773419
+  catholic_hierarchy: bcule
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:18:06+00:00'
+  completeness: 1.0

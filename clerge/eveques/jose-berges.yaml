@@ -1,0 +1,38 @@
+slug: jose-berges
+nom: José Bergés
+nom_complet: null
+naissance: '1612-03-06'
+deces: '1678-06-21'
+naissance_lieu: Valencia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberges.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orihuela, Spain
+  du: '1666-02-01'
+  au: '1678-06-21'
+- titre: évêque d'Orihuela
+  du: '1666-02-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68864010
+  catholic_hierarchy: bberges
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:33+00:00'
+  completeness: 0.5

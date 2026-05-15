@@ -1,0 +1,49 @@
+slug: jules-cleret
+nom: Jules Cléret
+nom_complet: null
+naissance: '1835-12-29'
+deces: '1895-01-23'
+naissance_lieu: Carentan, Diocese of Coutances (-Avranches)
+deces_lieu: Laval, Diocese of Laval
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1890-02-16'
+  lieu: Notre-Dame, Church, Saint-Lô, Diocese of Coutances (-Avranches)
+  consecrateur_principal: abel-anastase-germain
+  co_consecrateurs:
+  - flavien-hugonin
+  - francois-marie-tregaro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcleret.html
+  - https://fr.wikipedia.org/wiki/Jules_Cl%C3%A9ret
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laval, France
+  du: null
+  au: '1895-01-23'
+- titre: évêque diocésain
+  du: '1889-08-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Jules%20Cl%C3%A9ret.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3188488
+  catholic_hierarchy: bcleret
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:02+00:00'
+  completeness: 1.0

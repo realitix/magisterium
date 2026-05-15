@@ -1,0 +1,49 @@
+slug: friedrich-fiala
+nom: Friedrich Fiala
+nom_complet: Friedrich Xaver Odo Fiala
+naissance: '1817-07-21'
+deces: '1888-05-24'
+naissance_lieu: Nidau, Diocese of Basel
+deces_lieu: Solothurn
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1885-05-17'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: angelo-bianchi
+  co_consecrateurs:
+  - domenico-ferrata
+  - martin-marty
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfiala.html
+  - https://fr.wikipedia.org/wiki/Friedrich_Fiala
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: '1885-05-15'
+  au: '1888-05-24'
+- titre: évêque de Bâle
+  du: '1885-05-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fiala%20crop.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1459088
+  catholic_hierarchy: bfiala
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:42:19+00:00'
+  completeness: 1.0

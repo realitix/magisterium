@@ -1,0 +1,44 @@
+slug: felipe-marimon-salvador
+nom: Felipe Marimón Salvador
+nom_complet: Felipe Marimón
+naissance: '1558'
+deces: '1613-01-17'
+naissance_lieu: Cervera del Maestre
+deces_lieu: Perfugas, Diocese of Gerona, Spain
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1608-09-21'
+  lieu: Cathedral, Valencia, Archdiocese of Valencia, Spain
+  consecrateur_principal: st-juan-de-ribera
+  co_consecrateurs:
+  - lorenzo-mongio-galatino-o-f-m-obs
+  - tomas-espinosa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ampurias e Civita, Italy
+  du: '1608-06-02'
+  au: '1613-01-17'
+- titre: Roman Catholic Bishop of Tempio-Ampurias
+  du: '1608-06-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747524
+  catholic_hierarchy: bmarim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:36+00:00'
+  completeness: 0.88

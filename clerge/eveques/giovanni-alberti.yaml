@@ -1,0 +1,41 @@
+slug: giovanni-alberti
+nom: Giovanni Alberti
+nom_complet: null
+naissance: '1540-07-17'
+deces: '1596-10-02'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: Cortona, Diocese of Cortona
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1585-08-04'
+  lieu: San Giacomo degli Spagnoli, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: urbain-vii
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balbertig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cortona, Italy
+  du: '1585-07-15'
+  au: '1596-10-02'
+- titre: évêque diocésain
+  du: '1585-07-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64626905
+  catholic_hierarchy: balbertig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:27:09+00:00'
+  completeness: 0.88

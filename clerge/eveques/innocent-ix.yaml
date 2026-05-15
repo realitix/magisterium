@@ -1,0 +1,65 @@
+slug: innocent-ix
+nom: Innocent IX
+nom_complet: Innocentius IX
+naissance: '1519-07-20'
+deces: '1591-12-30'
+naissance_lieu: Bologna, Diocese of Bologna
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: gerolamo-vitale-bovio-de-rsquo-buoi
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfacc.html
+  - https://fr.wikipedia.org/wiki/Innocent_IX
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicastro, Italy
+  du: '1560-01-26'
+  au: 23 Sep 1575&#8310;
+- titre: Apostolic Nuncio to Venice, Italy
+  du: '1566-05-06'
+  au: '1572-06-15'
+- titre: Titular Patriarch of Jerusalem {Gerusalemme}, Palestine
+  du: '1576-11-12'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1591-12-30'
+- titre: pape
+  du: '1591-10-29'
+  au: '1591-12-30'
+- titre: ambassadeur
+  du: null
+  au: null
+- titre: évêque de Lamezia Terme
+  du: '1560-02-05'
+  au: '1575-10-03'
+- titre: archevêque
+  du: null
+  au: null
+- titre: patriarche latin de Jérusalem
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Innocent%20IX%20%28Fidenza%20Cathedral%20Museum%20-%20Museo%20del%20Duomo%20di%20Fidenza%2C%20Fidenza%29%20%E2%80%93%20edited.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q167959
+  catholic_hierarchy: bfacc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:28:59+00:00'
+  completeness: 0.62

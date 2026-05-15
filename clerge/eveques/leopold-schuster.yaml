@@ -1,0 +1,53 @@
+slug: leopold-schuster
+nom: Leopold Schuster
+nom_complet: null
+naissance: '1842-10-24'
+deces: '1927-03-18'
+naissance_lieu: St. Anna am Aigen
+deces_lieu: null
+rang: eveque
+nationalite: Q533534
+tampon: ordo_validus
+sacre:
+  date: '1893-12-31'
+  lieu: Salzburg, Archdiocese of Salzburg
+  consecrateur_principal: johann-evangelist-haller
+  co_consecrateurs:
+  - josef-kahn
+  - mihael-napotnik
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschul.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Seckau, Austria
+  du: '1893-10-20'
+  au: '1927-03-18'
+- titre: membre de la chambre des seigneurs d'Autriche
+  du: '1894-01-01'
+  au: '1918-01-01'
+- titre: député
+  du: '1893-01-01'
+  au: '1918-01-01'
+- titre: Roman Catholic Bishop of Seckau
+  du: '1893-10-20'
+  au: null
+- titre: député
+  du: '1888-01-01'
+  au: '1889-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1474321
+  catholic_hierarchy: bschul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:04:11+00:00'
+  completeness: 1.0

@@ -1,0 +1,39 @@
+slug: filippo-meda
+nom: Filippo Meda
+nom_complet: null
+naissance: '1665-10-14'
+deces: '1733-07-18'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1702-01-29'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmeda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Conversano, Italy
+  du: '1702-01-23'
+  au: '1733-07-18'
+- titre: Évêque de Conversano
+  du: '1702-01-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68907940
+  catholic_hierarchy: bmeda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:46:21+00:00'
+  completeness: 0.62

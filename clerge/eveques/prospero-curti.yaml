@@ -1,0 +1,44 @@
+slug: prospero-curti
+nom: Prospero Curti
+nom_complet: null
+naissance: '1825-10-22'
+deces: '1890-03-21'
+naissance_lieu: San Polo d'Enza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1884-11-16'
+  lieu: Sant&rsquo;Apollinare, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - pietro-rota-1805
+  - giovanni-maria-berengo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcurti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guastalla, Italy
+  du: '1884-11-10'
+  au: '1890-03-21'
+- titre: Roman Catholic Bishop of Guastalla
+  du: '1884-11-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64739882
+  catholic_hierarchy: bcurti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:19:22+00:00'
+  completeness: 1.0

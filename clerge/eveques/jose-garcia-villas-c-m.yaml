@@ -1,0 +1,43 @@
+slug: jose-garcia-villas-c-m
+nom: José García Villas, C.M.
+nom_complet: José García Villas
+naissance: '1910-01-30'
+deces: '1965-08-10'
+naissance_lieu: Santa Lecina, Diocese of Lérida, Spain
+deces_lieu: (Accident), San Pedro Sula, Diocese of San Pedro Sula
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1963-10-20'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - pietro-sigismondi
+  - sergio-pignedoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgavi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Pedro Sula, Honduras
+  du: '1963-07-06'
+  au: '1965-08-10'
+- titre: Roman Catholic Bishop of San Pedro Sula
+  du: '1963-07-06'
+  au: null
+fraternite: lazaristes
+photo: null
+qids:
+  wikidata: Q64751440
+  catholic_hierarchy: bgavi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:31+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: john-grandisson
+nom: John Grandisson
+nom_complet: John Grandison
+naissance: '1292'
+deces: '1369-07-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1327-10-18'
+  consecrateur_principal: pierre-des-pres
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrandsn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: '1327-08-28'
+  au: '1369-07-16'
+- titre: évêque d'Exeter
+  du: '1327-09-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20JohnDeGrandisson%20BishopOfExeter%20Died1369.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6236001
+  catholic_hierarchy: bgrandsn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:33+00:00'
+  completeness: 0.75

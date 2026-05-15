@@ -1,0 +1,47 @@
+slug: constant-dubail
+nom: Constant Dubail
+nom_complet: Constant Dubail, M.E.P.
+naissance: '1838-02-11'
+deces: '1887-12-07'
+naissance_lieu: Dorans, Archdiocese of Besançon, France
+deces_lieu: Ingtse
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1879-11-09'
+  lieu: Chaling
+  consecrateur_principal: felix-clair-ridel-m-e-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdubail.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Liaotung and Manchuria, China
+  du: '1879-05-23'
+  au: '1887-12-07'
+- titre: Titular Bishop of Bolina
+  du: '1879-05-23'
+  au: null
+- titre: vicaire apostolique
+  du: '1879-05-23'
+  au: null
+- titre: évêque titulaire
+  du: '1879-05-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56271268
+  catholic_hierarchy: bdubail
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:10:29+00:00'
+  completeness: 0.88

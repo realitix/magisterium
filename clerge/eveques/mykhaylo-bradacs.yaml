@@ -1,0 +1,47 @@
+slug: mykhaylo-bradacs
+nom: Mykhaylo Bradács
+nom_complet: Mykhaylo Bradach
+naissance: '1748-04-02'
+deces: '1815-12-20'
+naissance_lieu: Kamionka
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1809-01-08'
+  lieu: Oradea Mare, Diocese of Oradea Mare {Gran Varadino} (Romanian), Romania
+  consecrateur_principal: samuel-vulcan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mukachevo (Munkács) (Ruthenian), Ukraine
+  du: '1808-09-30'
+  au: '1815-12-20'
+- titre: Titular Bishop of Dorylaëum
+  du: '1808-09-30'
+  au: null
+- titre: évêque titulaire
+  du: '1808-09-30'
+  au: null
+- titre: évêque auxiliaire
+  du: '1808-09-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12084533
+  catholic_hierarchy: bbrad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:46:52+00:00'
+  completeness: 0.88

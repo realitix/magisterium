@@ -1,0 +1,44 @@
+slug: virgilio-de-pauli
+nom: Virgílio de Pauli
+nom_complet: null
+naissance: '1923-05-28'
+deces: '1999-02-21'
+naissance_lieu: Araraquara
+deces_lieu: null
+rang: eveque
+nationalite: Q155
+tampon: ordo_dubius
+sacre:
+  date: '1981-06-29'
+  lieu: São Carlos, Diocese of São Carlos, Sao Paulo
+  consecrateur_principal: carmine-rocco
+  co_consecrateurs:
+  - rui-serra
+  - constantino-amstalden
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdepauli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Campo Mourão, Parana, Brazil
+  du: '1981-05-08'
+  au: '1999-02-21'
+- titre: évêque diocésain
+  du: '1981-05-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q10391743
+  catholic_hierarchy: bdepauli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:43:18+00:00'
+  completeness: 1.0

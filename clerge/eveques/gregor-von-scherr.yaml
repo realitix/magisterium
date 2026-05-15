@@ -1,0 +1,49 @@
+slug: gregor-von-scherr
+nom: Gregor von Scherr
+nom_complet: Gregor (Leonhard Andreas) von Scherr, O.S.B.
+naissance: '1804-06-22'
+deces: '1877-10-24'
+naissance_lieu: Neunburg vorm Wald, Diocese of Regensburg
+deces_lieu: München, Archdiocese of München und Freising {Munich}
+rang: archeveque
+nationalite: Q154195
+tampon: ordo_validus
+sacre:
+  date: '1856-08-03'
+  lieu: Cathedral, München, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: antonio-saverio-de-luca
+  co_consecrateurs:
+  - heinrich-hofstatter
+  - valentin-riedel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscherr.html
+  - https://fr.wikipedia.org/wiki/Gregor_von_Scherr
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of München und Freising {Munich}, Germany
+  du: null
+  au: '1877-10-24'
+- titre: archevêque de Munich et Freising
+  du: '1856-08-03'
+  au: '1877-10-24'
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gregor%20von%20Scherr.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q74224
+  catholic_hierarchy: bscherr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:00:59+00:00'
+  completeness: 1.0

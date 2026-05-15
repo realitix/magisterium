@@ -1,0 +1,44 @@
+slug: ferenc-xavier-splenyi
+nom: Ferenc Xavier Splényi
+nom_complet: null
+naissance: '1731-11-22'
+deces: '1795-12-22'
+naissance_lieu: Ternyn
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1788-04-13'
+  lieu: Presbourg
+  consecrateur_principal: jozsef-batthyany
+  co_consecrateurs:
+  - istvan-nagy
+  - ladislaus-luzenszky
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspleny.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: null
+  au: '1795-12-22'
+- titre: évêque de Vác
+  du: '1787-08-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q47513924
+  catholic_hierarchy: bspleny
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:33:58+00:00'
+  completeness: 1.0

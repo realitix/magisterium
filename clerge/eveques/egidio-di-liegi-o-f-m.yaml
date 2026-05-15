@@ -1,0 +1,39 @@
+slug: egidio-di-liegi-o-f-m
+nom: Egidio di Liegi, O.F.M.
+nom_complet: Egidio di Liegi
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1279-02-25'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bliegie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valva e Sulmona, Italy
+  du: 1279&sup1;
+  au: 1290&sup1;
+- titre: évêque diocésain
+  du: '1279-01-01'
+  au: '1290-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q108515452
+  catholic_hierarchy: bliegie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:49:45+00:00'
+  completeness: 0.38

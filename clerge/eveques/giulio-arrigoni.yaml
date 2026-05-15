@@ -1,0 +1,45 @@
+slug: giulio-arrigoni
+nom: Giulio Arrigoni
+nom_complet: Giulio Arrigoni, O.F.M. Ref.
+naissance: '1806-09-21'
+deces: '1875-01-10'
+naissance_lieu: Bergamo, Diocese of Bergamo
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1849-12-30'
+  lieu: Cathedral, Firenze, Archdiocese of Firenze {Florence}
+  consecrateur_principal: ferdinando-minucci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barrig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lucca, Italy
+  du: '1849-11-05'
+  au: '1875-01-10'
+- titre: Roman Catholic Archbishop of Lucca
+  du: '1849-12-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lucca%2C%20chiesa%20di%20San%20Giovanni%20%28054%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3769485
+  catholic_hierarchy: barrig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.88

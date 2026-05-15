@@ -1,0 +1,40 @@
+slug: boutros-ehdeni
+nom: Boutros Ehdeni
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1680'
+  consecrateur_principal: etienne-douaihy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/behdeni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saïd&#257; (Sidone) (Maronite), Lebanon
+  du: 1680&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1680-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780459
+  catholic_hierarchy: behdeni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:19:43+00:00'
+  completeness: 0.62

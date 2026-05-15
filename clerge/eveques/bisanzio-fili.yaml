@@ -1,0 +1,49 @@
+slug: bisanzio-fili
+nom: Bisanzio Fili
+nom_complet: null
+naissance: '1656-05-03'
+deces: '1720-04-01'
+naissance_lieu: Altamura
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1698-02-02'
+  consecrateur_principal: bandino-panciatici
+  co_consecrateurs:
+  - antonio-fonseca-1643
+  - carlo-giuseppe-morozzo-o-cist
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfilib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oppido Mamertina, Italy
+  du: '1698-01-27'
+  au: null
+- titre: Bishop of Ostuni, Italy
+  du: '1707-04-11'
+  au: Apr 1720&sup3;
+- titre: évêque diocésain
+  du: '1698-01-27'
+  au: null
+- titre: Roman Catholic Bishop of Ostuni
+  du: '1707-04-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747407
+  catholic_hierarchy: bfilib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:44:12+00:00'
+  completeness: 0.88

@@ -1,0 +1,51 @@
+slug: ignac-szepessy
+nom: Ignác Szepessy
+nom_complet: Ignác Szepesy de Négyes
+naissance: '1780-08-13'
+deces: '1838-07-16'
+naissance_lieu: Eger, Diocese of Eger
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1820-04-09'
+  lieu: Eger, Archdiocese of Eger
+  consecrateur_principal: istvan-fischer-de-nagy
+  co_consecrateurs:
+  - jozsef-vurum
+  - anton-makay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bszdn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: null
+  au: '1838-07-16'
+- titre: Roman Catholic Bishop of Transilvania, Erdély, Siebenbürgen
+  du: '1819-09-20'
+  au: null
+- titre: évêque diocésain
+  du: '1827-05-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ignac%20Szepessy%20%28Hazank%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1297348
+  catholic_hierarchy: bszdn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:46:36+00:00'
+  completeness: 1.0

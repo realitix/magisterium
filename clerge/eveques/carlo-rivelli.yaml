@@ -1,0 +1,44 @@
+slug: carlo-rivelli
+nom: Carlo Rivelli
+nom_complet: null
+naissance: '1795-11-22'
+deces: '1858-09-18'
+naissance_lieu: Corfù
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1855-11-01'
+  lieu: Propaganda, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - fidele-sutter
+  - lorenzo-signani-o-f-m-cap
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brivelli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Corfù, Greece
+  du: 1 Nov 1855&sup3;
+  au: '1858-09-18'
+- titre: archevêque de Corfou
+  du: '1855-11-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734800
+  catholic_hierarchy: brivelli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:16:51+00:00'
+  completeness: 1.0

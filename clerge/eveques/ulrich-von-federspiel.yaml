@@ -1,0 +1,47 @@
+slug: ulrich-von-federspiel
+nom: Ulrich von Federspiel
+nom_complet: null
+naissance: '1657-05-07'
+deces: '1728-10-11'
+naissance_lieu: Domat
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1693-03-01'
+  consecrateur_principal: marcello-d-aste
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfedu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: null
+  au: '1728-10-11'
+- titre: évêque diocésain
+  du: '1692-04-28'
+  au: null
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/UlrichvFederspiel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15435829
+  catholic_hierarchy: bfedu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:05+00:00'
+  completeness: 0.88

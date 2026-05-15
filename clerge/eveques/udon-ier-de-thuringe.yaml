@@ -1,0 +1,47 @@
+slug: udon-ier-de-thuringe
+nom: Udon Ier de Thuringe
+nom_complet: Udo von Thüringen
+naissance: '1090'
+deces: '1148'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1125'
+  consecrateur_principal: rudgar-von-veltheim
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthuriu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: 1125&sup1;
+  au: 1148&sup2;
+- titre: évêque diocésain
+  du: '1125-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bad%20Schussenried%20Kloster%20Schussenried%20105.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1273490
+  catholic_hierarchy: bthuriu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:59:20+00:00'
+  completeness: 0.62

@@ -1,0 +1,53 @@
+slug: alvise-corner
+nom: Alvise Corner
+nom_complet: Alvise Cornaro
+naissance: '1558-01-29'
+deces: '1594-10-20'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: Padova, Diocese of Padova {Padua}
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1589-03-05'
+  lieu: San Giorgio Maggiore, Cathedral, Venezia, Patriarchate of Venezia {Venice}
+  consecrateur_principal: francesco-cornaro-iuniore
+  co_consecrateurs:
+  - francesco-barbaro
+  - giovanni-battista-valier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcornaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Paphus
+  du: '1589-01-30'
+  au: null
+- titre: Coadjutor Bishop of Padova {Padua}, Italy
+  du: '1589-02-20'
+  au: null
+- titre: Bishop of Padova {Padua}, Italy
+  du: null
+  au: '1594-10-20'
+- titre: évêque titulaire
+  du: '1589-01-30'
+  au: null
+- titre: évêque diocésain
+  du: '1590-10-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762286
+  catholic_hierarchy: bcornaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:06:18+00:00'
+  completeness: 1.0

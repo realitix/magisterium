@@ -1,0 +1,48 @@
+slug: john-janssen
+nom: John Janssen
+nom_complet: null
+naissance: '1835-03-03'
+deces: '1913-07-02'
+naissance_lieu: Keppeln, Diocese of Münster, Germany
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1888-04-25'
+  lieu: St. Peter, Cathedral, Belleville, Diocese of Belleville, Illinois
+  consecrateur_principal: patrick-feehan
+  co_consecrateurs:
+  - john-joseph-hogan
+  - louis-mary-fink
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjanssen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belleville, Illinois, USA
+  du: '1888-02-28'
+  au: '1913-07-02'
+- titre: évêque de Belleville
+  du: '1888-02-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Janssen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q216178
+  catholic_hierarchy: bjanssen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:58:42+00:00'
+  completeness: 1.0

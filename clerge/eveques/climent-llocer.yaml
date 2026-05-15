@@ -1,0 +1,44 @@
+slug: climent-llocer
+nom: Climent Llocer
+nom_complet: Clemente Llócer
+naissance: '1742-07-25'
+deces: '1804-08-24'
+naissance_lieu: Ribes de Freser, Diocese of Urgell
+deces_lieu: Sentfores
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1795-08-30'
+  lieu: Barcelona, Diocese of Barcelona
+  consecrateur_principal: tomas-de-lorenzana
+  co_consecrateurs:
+  - eustaquio-de-azara-y-pereda
+  - francisco-veyan-y-mola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bllocer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ibiza, Spain
+  du: '1795-06-01'
+  au: '1804-08-24'
+- titre: évêque diocésain
+  du: '1795-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751666
+  catholic_hierarchy: bllocer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:54:11+00:00'
+  completeness: 1.0

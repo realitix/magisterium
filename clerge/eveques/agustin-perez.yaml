@@ -1,0 +1,43 @@
+slug: agustin-perez
+nom: Agustin Pérez
+nom_complet: null
+naissance: null
+deces: '1286-04-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1262-03-02'
+  consecrateur_principal: ramon-losaza-o-p
+  co_consecrateurs:
+  - non-indexe-6a6c2866
+  - martin-alvarez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baugstn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Osma, Spain
+  du: '1261-10-18'
+  au: '1286-04-12'
+- titre: évêque d'Osma
+  du: '1261-10-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q37934675
+  catholic_hierarchy: baugstn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:30+00:00'
+  completeness: 0.88

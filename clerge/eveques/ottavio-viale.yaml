@@ -1,0 +1,44 @@
+slug: ottavio-viale
+nom: Ottavio Viale
+nom_complet: null
+naissance: '1558'
+deces: '1624-12-07'
+naissance_lieu: Archdiocese of Torino {Turin}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1608-09-14'
+  lieu: Santa Maria in Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - fabio-tempestivi
+  - barzellino-de-rsquo-barzellini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvialeo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saluzzo, Italy
+  du: '1608-09-10'
+  au: '1624-12-07'
+- titre: évêque diocésain
+  du: '1608-09-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762950
+  catholic_hierarchy: bvialeo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:48+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: jose-de-moura-coutinho
+nom: José de Moura Coutinho
+nom_complet: null
+naissance: '1779-02-08'
+deces: '1861-10-03'
+naissance_lieu: Basto
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1844-03-10'
+  lieu: St Vicente de Fora, Lisboa, Patriarchate of Lisboa {Lisbon}
+  consecrateur_principal: francisco-de-sao-luis-saraiva
+  co_consecrateurs:
+  - jeronimo-do-barco-o-f-m-ref
+  - guilherme-henriques-de-carvalho
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmouco.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lamego, Portugal
+  du: null
+  au: '1861-10-03'
+- titre: évêque diocésain
+  du: '1843-09-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752051
+  catholic_hierarchy: bmouco
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:15:43+00:00'
+  completeness: 1.0

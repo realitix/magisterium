@@ -1,0 +1,50 @@
+slug: pierre-cauchon
+nom: Pierre Cauchon
+nom_complet: Pierre Cauchon de Somièvre
+naissance: '1371'
+deces: '1442-12-18'
+naissance_lieu: Reims, Archdiocese of Reims
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: jacques-du-chatelier-castellano
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaucds.html
+  - https://fr.wikipedia.org/wiki/Pierre_Cauchon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Beauvais, France
+  du: '1420-08-21'
+  au: null
+- titre: Bishop of Lisieux, France
+  du: '1432-01-29'
+  au: '1442-12-18'
+- titre: évêque diocésain
+  du: '1420-01-01'
+  au: '1432-02-07'
+- titre: évêque diocésain
+  du: '1432-02-07'
+  au: '1442-12-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Tombeau%20de%20Pierre%20Cauchon%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q464287
+  catholic_hierarchy: bcaucds
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:33:30+00:00'
+  completeness: 0.5

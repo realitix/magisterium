@@ -1,0 +1,46 @@
+slug: antonio-bonfiglioli
+nom: Antonio Bonfiglioli
+nom_complet: null
+naissance: null
+deces: '1624-11-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1622-09-25'
+  consecrateur_principal: agostino-morosini
+  co_consecrateurs:
+  - attilio-amalteo
+  - andrea-caputo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonifiga.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carinola (Calina), Italy
+  du: '1622-09-19'
+  au: 1624&sup1;
+- titre: Bishop Emeritus of Carinola (Calina), Italy
+  du: null
+  au: '1624-11-01'
+- titre: évêque diocésain
+  du: '1622-09-19'
+  au: '1624-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763909
+  catholic_hierarchy: bbonifiga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:38:07+00:00'
+  completeness: 0.88

@@ -1,0 +1,61 @@
+slug: benoit-xii
+nom: Benoît XII
+nom_complet: Benedict XII
+naissance: '1280'
+deces: '1342-04-25'
+naissance_lieu: Canté, Diocese of Pamiers, France
+deces_lieu: Avignon, Diocese of Avignon, France
+rang: pape
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1317-03-19'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: niccolo-alberti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfourj.html
+  - https://fr.wikipedia.org/wiki/Beno%C3%AEt_XII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers, France
+  du: '1317-03-19'
+  au: null
+- titre: Bishop of Mirepoix, France
+  du: '1326-03-02'
+  au: null
+- titre: Cardinal-Priest of Santa Prisca
+  du: '1327-12-18'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1342-04-25'
+- titre: évêque diocésain
+  du: '1317-03-27'
+  au: null
+- titre: évêque de Mirepoix
+  du: '1326-03-10'
+  au: null
+- titre: pape
+  du: '1335-01-05'
+  au: '1342-05-03'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Beno%C3%AEt%20XII%20Paolo%20de%20Siena%201341%20crypte%20de%20St%20Pierre%20de%20Rome.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q170389
+  catholic_hierarchy: bfourj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:54:15+00:00'
+  completeness: 0.75

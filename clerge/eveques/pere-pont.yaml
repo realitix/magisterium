@@ -1,0 +1,44 @@
+slug: pere-pont
+nom: Pere Pont
+nom_complet: Pedro de Ponte, O.SS.T.
+naissance: '1485'
+deces: '1545-05-03'
+naissance_lieu: null
+deces_lieu: Remedio, Convent, Valencia, Archdiocese of Valencia
+rang: eveque
+nationalite: Q204920
+tampon: ordo_validus
+sacre:
+  date: '1512-02-08'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: francisco-estana-stania
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bponp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mallorca, Spain
+  du: '1512-01-01'
+  au: null
+- titre: Auxiliary Bishop of Valencia, Spain
+  du: 1535&sup1;
+  au: '1545-05-03'
+- titre: évêque auxiliaire
+  du: '1535-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11941035
+  catholic_hierarchy: bponp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:47+00:00'
+  completeness: 0.62

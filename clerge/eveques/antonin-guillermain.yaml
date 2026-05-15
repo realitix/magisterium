@@ -1,0 +1,53 @@
+slug: antonin-guillermain
+nom: Antonin Guillermain
+nom_complet: Antonin Guillermain, M. Afr.
+naissance: '1861'
+deces: '1896-07-14'
+naissance_lieu: Lyon, Archdiocese of Lyon (-Vienne), France
+deces_lieu: Villa Marie
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1895-10-28'
+  lieu: Rubaga
+  consecrateur_principal: henry-hanlon-m-h-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguilla.html
+  - https://fr.wikipedia.org/wiki/Antonin_Guillermain
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Northern Victoria Nyanza {Victoria-Nyanza Settentrionale},
+    Uganda
+  du: '1895-01-12'
+  au: '1896-07-14'
+- titre: Titular Bishop of Thabraca
+  du: '1895-01-12'
+  au: null
+- titre: vicaire apostolique
+  du: '1895-01-12'
+  au: '1896-07-14'
+- titre: évêque titulaire
+  du: '1895-01-12'
+  au: '1896-07-14'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Caravane%201888%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11220201
+  catholic_hierarchy: bguilla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:50:33+00:00'
+  completeness: 0.88

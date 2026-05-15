@@ -1,0 +1,55 @@
+slug: john-henni
+nom: John Henni
+nom_complet: John Martin Henni
+naissance: '1805-06-15'
+deces: '1881-09-07'
+naissance_lieu: Misanenga, Diocese of Chur, Switzerland
+deces_lieu: Milwaukee, Archdiocese of Milwaukee, Wisconsin
+rang: archeveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1844-03-19'
+  lieu: St. Peter in Chains, Cathedral, Cincinnati, Diocese of Cincinnati, Ohio
+  consecrateur_principal: john-baptist-purcell
+  co_consecrateurs:
+  - michael-o-connor-1810
+  - richard-pius-miles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhenni.html
+  - https://fr.wikipedia.org/wiki/Johann_Martin_Henni
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Milwaukee, Wisconsin, USA
+  du: '1843-11-28'
+  au: null
+- titre: Archbishop of Milwaukee, Wisconsin, USA
+  du: '1875-02-12'
+  au: '1881-09-07'
+- titre: évêque diocésain
+  du: '1843-11-28'
+  au: '1875-02-12'
+- titre: archevêque de Milwaukee
+  du: '1875-02-12'
+  au: '1881-09-07'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Johann%20Martin%20Henni.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q119741
+  catholic_hierarchy: bhenni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:08+00:00'
+  completeness: 1.0

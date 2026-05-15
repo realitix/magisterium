@@ -1,0 +1,44 @@
+slug: carlo-savio
+nom: Carlo Savio
+nom_complet: null
+naissance: '1811-06-24'
+deces: '1881-07-01'
+naissance_lieu: Cuneo
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1867-05-26'
+  lieu: Torino, Archdiocese of Torino {Turin}
+  consecrateur_principal: giovanni-pietro-losana
+  co_consecrateurs:
+  - lorenzo-renaldi
+  - jacques-joseph-jans
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsavioc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Asti, Italy
+  du: '1867-03-27'
+  au: '1881-07-01'
+- titre: évêque diocésain
+  du: '1867-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3659840
+  catholic_hierarchy: bsavioc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:51+00:00'
+  completeness: 1.0

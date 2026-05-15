@@ -1,0 +1,47 @@
+slug: felicien-bocon-de-la-merliere
+nom: Félicien Bocon de La Merlière
+nom_complet: null
+naissance: '1715-04-05'
+deces: '1788-10-26'
+naissance_lieu: Merlière
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1752-06-04'
+  consecrateur_principal: christophe-de-beaumont
+  co_consecrateurs:
+  - mathias-poncet-de-la-riviere
+  - claude-bouhier-de-lantenay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmerli.html
+  - https://fr.wikipedia.org/wiki/F%C3%A9licien_Bocon_de_La_Merli%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: null
+  au: '1778-12-11'
+- titre: Bishop Emeritus of Apt, France
+  du: null
+  au: '1788-10-26'
+- titre: évêque d'Apt
+  du: '1752-01-06'
+  au: '1778-12-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3092283
+  catholic_hierarchy: bmerli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:52:58+00:00'
+  completeness: 1.0

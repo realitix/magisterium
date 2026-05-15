@@ -1,0 +1,44 @@
+slug: giovanni-paccosi
+nom: Giovanni Paccosi
+nom_complet: null
+naissance: '1960-06-02'
+deces: null
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2023-02-05'
+  lieu: Santa Maria del Fiore, Cathedral, Firenze, Archdiocese of Firenze {Florence}
+  consecrateur_principal: giuseppe-betori
+  co_consecrateurs:
+  - andrea-bellandi
+  - andrea-migliavacca
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaccosi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Miniato, Italy
+  du: '2022-12-24'
+  au: null
+- titre: évêque de San Miniato
+  du: '2022-12-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q115858637
+  catholic_hierarchy: bpaccosi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:01:01+00:00'
+  completeness: 0.88

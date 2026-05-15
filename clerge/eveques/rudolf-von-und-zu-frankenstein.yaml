@@ -1,0 +1,43 @@
+slug: rudolf-von-und-zu-frankenstein
+nom: Rudolf von und zu Frankenstein
+nom_complet: Rudolf von Frankenstein
+naissance: '1523'
+deces: '1560-06-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1553-11-26'
+  consecrateur_principal: balthasar-fannemann-waneman-o-p
+  co_consecrateurs:
+  - georg-schweicker
+  - jakob-eliner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvfra.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: null
+  au: '1560-06-21'
+- titre: évêque de Spire
+  du: '1552-10-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2174313
+  catholic_hierarchy: bvfra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:35:13+00:00'
+  completeness: 0.88

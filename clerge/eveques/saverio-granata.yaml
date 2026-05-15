@@ -1,0 +1,43 @@
+slug: saverio-granata
+nom: Saverio Granata
+nom_complet: Saverio Granata, C.R.
+naissance: '1741-05-11'
+deces: '1817-04-29'
+naissance_lieu: Messina
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1795-06-07'
+  consecrateur_principal: hyacinthe-sigismond-gerdil
+  co_consecrateurs:
+  - nicola-buschi
+  - michele-di-pietro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgranatas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agrigento (Girgenti), Italy
+  du: null
+  au: '1817-04-29'
+- titre: évêque diocésain
+  du: '1795-05-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16657978
+  catholic_hierarchy: bgranatas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:39:15+00:00'
+  completeness: 1.0

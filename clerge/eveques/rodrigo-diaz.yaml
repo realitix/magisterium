@@ -1,0 +1,39 @@
+slug: rodrigo-diaz
+nom: Rodrigo Díaz
+nom_complet: Rodrigo III
+naissance: null
+deces: '1249-08-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: juan-dominguez-de-medina
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdiazro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oviedo, Spain
+  du: '1243-09-17'
+  au: '1249-08-31'
+- titre: évêque d'Oviedo
+  du: '1243-09-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16625902
+  catholic_hierarchy: bdiazro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:49:37+00:00'
+  completeness: 0.62

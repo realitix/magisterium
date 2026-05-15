@@ -1,0 +1,48 @@
+slug: athanase-khouzan
+nom: Athanase Khouzan
+nom_complet: null
+naissance: null
+deces: '1864-02-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1855-12-23'
+  consecrateur_principal: perpetuo-guasco-o-f-m-obs
+  co_consecrateurs:
+  - basile-kfoury
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkhouzan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Alexandria {Alessandria} (Coptic), Egypt
+  du: '1855-10-02'
+  au: '1864-02-17'
+- titre: Titular Bishop of Maronea
+  du: '1855-10-02'
+  au: null
+- titre: évêque titulaire
+  du: '1855-10-02'
+  au: null
+- titre: vicaire apostolique
+  du: '1855-10-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761904
+  catholic_hierarchy: bkhouzan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:12:57+00:00'
+  completeness: 0.88

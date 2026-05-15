@@ -1,0 +1,51 @@
+slug: laurens-mets
+nom: Laurens Mets
+nom_complet: Laurent Metz
+naissance: '1502'
+deces: '1580-09-18'
+naissance_lieu: Grammont
+deces_lieu: Namur
+rang: eveque
+nationalite: Q1031430
+tampon: ordo_validus
+sacre:
+  date: '1570-04-23'
+  lieu: Ste Gudule, Bruxelles
+  consecrateur_principal: maximilien-de-berghes
+  co_consecrateurs:
+  - francois-richardot
+  - francois-sonnius-van-de-velde
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmetsius.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &rsquo;s-Hertogenbosch (Bois-le-Duc), Netherlands
+  du: '1570-03-13'
+  au: Sep 1578&sup3;
+- titre: Bishop Emeritus of &rsquo;s-Hertogenbosch (Bois-le-Duc), Netherlands
+  du: null
+  au: '1580-09-18'
+- titre: évêque diocésain
+  du: '1570-03-23'
+  au: '1578-09-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Laurentius%20Metsius.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q13748461
+  catholic_hierarchy: bmetsius
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:53:59+00:00'
+  completeness: 0.88

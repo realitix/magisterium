@@ -1,0 +1,45 @@
+slug: antoine-de-la-rochefoucauld
+nom: Antoine de La Rochefoucauld
+nom_complet: null
+naissance: '1574'
+deces: '1634-12-24'
+naissance_lieu: Paris, Diocese of Paris
+deces_lieu: Angoulême, Diocese of Angoulême
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1608-06-05'
+  lieu: S. Nicolas du Chardonnet, Paris, Diocese of Paris
+  consecrateur_principal: francois-de-la-rochefoucauld-cardinal-eveque-de-senlis-grand-aumonier-de-france
+  co_consecrateurs:
+  - francois-ii-de-la-valette-cormusson
+  - jean-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blrocha.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_La_Rochefoucauld_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angoulême, France
+  du: '1607-08-13'
+  au: '1634-12-24'
+- titre: évêque d'Angoulême
+  du: '1607-08-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22972666
+  catholic_hierarchy: blrocha
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:02:15+00:00'
+  completeness: 0.88

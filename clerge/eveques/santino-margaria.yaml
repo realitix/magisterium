@@ -1,0 +1,44 @@
+slug: santino-margaria
+nom: Santino Margaria
+nom_complet: null
+naissance: '1878-11-01'
+deces: '1947-12-20'
+naissance_lieu: Dronero, Diocese of Saluzzo
+deces_lieu: Civita Castellana, Diocese of Civita Castellana, Orte e Gallese
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1931-01-18'
+  lieu: Cathedral, Saluzzo, Diocese of Saluzzo
+  consecrateur_principal: giovanni-oberti
+  co_consecrateurs:
+  - goffredo-zaccherini
+  - luigi-maria-olivares
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmargs.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Civita Castellana, Orte e Gallese, Italy
+  du: '1930-10-09'
+  au: '1947-12-20'
+- titre: évêque diocésain
+  du: '1930-10-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734737
+  catholic_hierarchy: bmargs
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:26:58+00:00'
+  completeness: 1.0

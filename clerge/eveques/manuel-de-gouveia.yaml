@@ -1,0 +1,43 @@
+slug: manuel-de-gouveia
+nom: Manuel de Gouveia
+nom_complet: null
+naissance: null
+deces: '1596-11-04'
+naissance_lieu: Gouveia
+deces_lieu: null
+rang: eveque
+nationalite: Q45
+tampon: ordo_validus
+sacre:
+  date: '1585-09-29'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgouvm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Angra, Portugal
+  du: '1584-03-14'
+  au: '1596-11-04'
+- titre: évêque diocésain
+  du: '1584-03-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20Manuel%20de%20Gouveia.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10324644
+  catholic_hierarchy: bgouvm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:37:23+00:00'
+  completeness: 0.5

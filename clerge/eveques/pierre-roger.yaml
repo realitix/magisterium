@@ -1,0 +1,44 @@
+slug: pierre-roger
+nom: Pierre Roger
+nom_complet: Pierre Roger, O.S.B.
+naissance: '1250'
+deces: '1324'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: 6471f87cb12143dc5294cc08e917f04d
+tampon: ordo_validus
+sacre:
+  date: '1318-07-02'
+  consecrateur_principal: berenger-fredol-le-jeune
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brogerpi.html
+  - https://fr.wikipedia.org/wiki/Pierre_Roger_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pons-de-Thomières, France
+  du: '1318-04-19'
+  au: 1324&sup1;
+- titre: évêque de Saint-Pons-de-Thomières
+  du: '1318-04-27'
+  au: '1324-01-01'
+- titre: abbé de Saint-Pons-de-Thomières
+  du: null
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64780720
+  catholic_hierarchy: brogerpi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:23:02+00:00'
+  completeness: 0.62

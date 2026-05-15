@@ -1,0 +1,52 @@
+slug: noel-gaussail
+nom: Noël Gaussail
+nom_complet: Noël-Mathieu-Victor-Marie Gaussail
+naissance: '1825-12-24'
+deces: '1899-02-16'
+naissance_lieu: Beaupuy
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1884-05-01'
+  lieu: Philippeville, Archdiocese of Alger, Algeria
+  consecrateur_principal: charles-lavigerie
+  co_consecrateurs:
+  - louis-robert
+  - clement-combes
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgauss.html
+  - https://fr.wikipedia.org/wiki/No%C3%ABl_Gaussail
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Perpignan-Elne, France
+  du: null
+  au: '1899-02-16'
+- titre: évêque de Perpignan-Elne
+  du: '1886-03-02'
+  au: null
+- titre: évêque d'Oran
+  du: '1884-02-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Gaussail%20Ev%C3%AAque%20d%27Oran.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3345750
+  catholic_hierarchy: bgauss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:13+00:00'
+  completeness: 1.0

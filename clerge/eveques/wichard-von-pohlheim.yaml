@@ -1,0 +1,42 @@
+slug: wichard-von-pohlheim
+nom: Wichard von Pohlheim
+nom_complet: null
+naissance: '1237-03-04'
+deces: '1282-11-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1280-05-05'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpohlh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: '1280-08-21'
+  au: '1282-11-23'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Passau
+  du: '1280-08-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2567376
+  catholic_hierarchy: bpohlh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:26+00:00'
+  completeness: 0.5

@@ -1,0 +1,50 @@
+slug: niall-coll
+nom: Niall Coll
+nom_complet: null
+naissance: '1963-08-25'
+deces: null
+naissance_lieu: Letterkenny, Co. Donegal, Diocese of Raphoe
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '2023-01-22'
+  lieu: St. Mary, Cathedral, Kilkenny, Co. Kilkenny, Diocese of Ossory
+  consecrateur_principal: dermot-farrell
+  co_consecrateurs:
+  - denis-nulty
+  - alan-mcguckian
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolln.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ossory, Ireland
+  du: '2022-10-28'
+  au: null
+- titre: Bishop of Raphoe, Ireland
+  du: '2025-11-13'
+  au: null
+- titre: évêque diocésain
+  du: '2022-10-28'
+  au: '2025-11-13'
+- titre: évêque diocésain
+  du: '2025-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q113831793
+  catholic_hierarchy: bcolln
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:58:55+00:00'
+  completeness: 0.88

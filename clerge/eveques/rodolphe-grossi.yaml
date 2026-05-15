@@ -1,0 +1,45 @@
+slug: rodolphe-grossi
+nom: Rodolphe Grossi
+nom_complet: Rodolfo Grossi du Chastelar
+naissance: '1300'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrossidr.html
+  - https://fr.wikipedia.org/wiki/Rodolphe_Grossi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aosta, Italy
+  du: '1243-12-18'
+  au: null
+- titre: Archbishop of Tarentaise (Moûtiers-en-Tarentaise), France
+  du: '1246-03-02'
+  au: 1271&sup1;
+- titre: archevêque de Tarentaise
+  du: '1246-01-01'
+  au: '1271-01-01'
+- titre: administrateur ecclésiastique
+  du: '1243-12-25'
+  au: '1246-03-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3438317
+  catholic_hierarchy: bgrossidr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:45:10+00:00'
+  completeness: 0.25

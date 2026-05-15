@@ -1,0 +1,50 @@
+slug: marcantonio-oradino
+nom: Marcantonio Oradino
+nom_complet: null
+naissance: '1518'
+deces: '1566-10-06'
+naissance_lieu: Perugia, Diocese of Perugia
+deces_lieu: Mantova, Diocese of Mantova
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-12-16'
+  lieu: San Vitale, Church, Venezia, Patriarchate of Venezia {Venice}
+  consecrateur_principal: giovanni-francesco-rossi
+  co_consecrateurs:
+  - antonio-cauco-cocco
+  - giovanni-dolfin-1529
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boradino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Mantova, Italy
+  du: '1565-10-26'
+  au: '1566-10-06'
+- titre: Titular Bishop of Utica
+  du: '1565-10-26'
+  au: null
+- titre: évêque titulaire d’Utique
+  du: '1565-10-26'
+  au: null
+- titre: évêque auxiliaire
+  du: '1565-10-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744884
+  catholic_hierarchy: boradino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:53:25+00:00'
+  completeness: 0.88

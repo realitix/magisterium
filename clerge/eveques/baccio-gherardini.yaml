@@ -1,0 +1,43 @@
+slug: baccio-gherardini
+nom: Baccio Gherardini
+nom_complet: null
+naissance: '1567'
+deces: '1620-08-01'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-01-24'
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - attilio-amalteo
+  - leonardo-roselli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgherarb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1615-01-12'
+  au: '1620-08-01'
+- titre: évêque diocésain
+  du: '1615-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746489
+  catholic_hierarchy: bgherarb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:01+00:00'
+  completeness: 0.88

@@ -1,0 +1,45 @@
+slug: jean-de-bertrand
+nom: Jean de Bertrand
+nom_complet: Jean de Bertrandis
+naissance: '1432'
+deces: '1432-10-03'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertrgi.html
+  - https://fr.wikipedia.org/wiki/Jean_V_de_Bertrand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1408-12-14'
+  au: null
+- titre: Archbishop of Tarentaise (Moûtiers-en-Tarentaise), France
+  du: '1418-09-23'
+  au: 1432&sup2;
+- titre: archevêque de Tarentaise
+  du: '1418-10-02'
+  au: '1432-01-01'
+- titre: évêque de Genève
+  du: '1408-12-23'
+  au: '1418-10-02'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1282745
+  catholic_hierarchy: bbertrgi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:18+00:00'
+  completeness: 0.25

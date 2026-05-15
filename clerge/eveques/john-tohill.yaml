@@ -1,0 +1,44 @@
+slug: john-tohill
+nom: John Tohill
+nom_complet: null
+naissance: '1855-12-23'
+deces: '1914-07-04'
+naissance_lieu: Gortnacrane
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1908-09-20'
+  lieu: Belfast
+  consecrateur_principal: michael-logue
+  co_consecrateurs:
+  - joseph-hoare
+  - henry-o-rsquo-neill
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btohill.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Down and Connor, Ireland
+  du: '1908-06-09'
+  au: '1914-07-04'
+- titre: évêque de Down et Connor
+  du: '1908-06-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6260964
+  catholic_hierarchy: btohill
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:02:15+00:00'
+  completeness: 1.0

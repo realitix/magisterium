@@ -1,0 +1,47 @@
+slug: augustyn-osinski
+nom: Augustyn Łosiński
+nom_complet: Augustyn &#321;osi&#324;ski
+naissance: '1867-01-08'
+deces: '1937-03-30'
+naissance_lieu: Krzywiniszki
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1910-06-05'
+  consecrateur_principal: wincenty-kluczynski
+  co_consecrateurs:
+  - stefan-antoni-denisewicz
+  - jan-cieplak
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blosin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kielce, Poland
+  du: '1910-04-07'
+  au: '1937-03-30'
+- titre: évêque diocésain
+  du: '1910-04-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Augustyn%20%C5%81osi%C5%84ski.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9162204
+  catholic_hierarchy: blosin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:44+00:00'
+  completeness: 1.0

@@ -1,0 +1,48 @@
+slug: augustine-van-de-vyver
+nom: Augustine Van de Vyver
+nom_complet: null
+naissance: '1844-12-01'
+deces: '1911-10-16'
+naissance_lieu: Haasdonk, Diocese of Gent {Ghent, Gand}, Belgium
+deces_lieu: Richmond, Diocese of Richmond, Virginia
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1889-10-20'
+  lieu: St. Peter, Cathedral, Richmond, Diocese of Richmond, Virginia
+  consecrateur_principal: james-gibbons
+  co_consecrateurs:
+  - john-joseph-kain
+  - leo-michael-haid
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvdvy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Richmond, Virginia, USA
+  du: '1889-07-16'
+  au: '1911-10-16'
+- titre: évêque diocésain
+  du: '1889-07-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20VandeVyver%20large.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16043835
+  catholic_hierarchy: bvdvy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:29:05+00:00'
+  completeness: 1.0

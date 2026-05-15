@@ -1,0 +1,43 @@
+slug: pellegrino-consalvi
+nom: Pellegrino Consalvi
+nom_complet: null
+naissance: '1729'
+deces: '1787-02-02'
+naissance_lieu: Macerata
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1775-03-19'
+  consecrateur_principal: innocenzo-conti
+  co_consecrateurs:
+  - martino-bianchi
+  - joseph-de-vignoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconsp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fano, Italy
+  du: '1775-03-13'
+  au: '1787-02-02'
+- titre: Roman Catholic Bishop of Fano
+  du: '1775-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747177
+  catholic_hierarchy: bconsp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:47+00:00'
+  completeness: 1.0

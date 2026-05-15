@@ -1,0 +1,44 @@
+slug: damian-gordo-saez
+nom: Damián Gordo Sáez
+nom_complet: null
+naissance: '1796-01-19'
+deces: '1854-12-24'
+naissance_lieu: Cantalojas, Diocese of Sigüenza
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1848-10-22'
+  lieu: San Isidro, Madrid, Archdiocese of Toledo
+  consecrateur_principal: giovanni-brunelli
+  co_consecrateurs:
+  - jose-domingo-costa-y-borras
+  - gaspar-cos-y-soberon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgordo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tortosa, Spain
+  du: null
+  au: '1854-12-24'
+- titre: évêque de Tortosa
+  du: '1848-03-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745110
+  catholic_hierarchy: bgordo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:35:26+00:00'
+  completeness: 1.0

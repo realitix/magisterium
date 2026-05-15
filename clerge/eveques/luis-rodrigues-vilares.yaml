@@ -1,0 +1,43 @@
+slug: luis-rodrigues-vilares
+nom: Luis Rodrigues Vilares
+nom_complet: null
+naissance: '1745-09-17'
+deces: '1810'
+naissance_lieu: São Paulo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1797-12-31'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - manuel-joaquim-da-silva
+  - marcelino-jose-da-silva
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brovil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Funchal, Portugal
+  du: null
+  au: 1810&sup1;
+- titre: évêque diocésain
+  du: '1796-06-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745861
+  catholic_hierarchy: brovil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:32:43+00:00'
+  completeness: 0.88

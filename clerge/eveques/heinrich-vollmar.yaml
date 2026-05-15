@@ -1,0 +1,59 @@
+slug: heinrich-vollmar
+nom: Heinrich Vollmar
+nom_complet: null
+naissance: '1839-05-01'
+deces: '1915-07-08'
+naissance_lieu: Paderborn, Diocese of Paderborn
+deces_lieu: Köln, Archdiocese of Köln {Cologne}
+rang: eveque
+nationalite: Q27306
+tampon: ordo_validus
+sacre:
+  date: '1904-02-10'
+  lieu: Sankt Johann (Garrison), Church, Berlin, Diocese of Wroc&#322;aw (Breslau),
+    Poland
+  consecrateur_principal: georg-von-kopp
+  co_consecrateurs:
+  - augustinus-rosentreter
+  - wilhelm-schneider
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvoll.html
+  - https://fr.wikipedia.org/wiki/Heinrich_Vollmar
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Germany, Military
+  du: '1903-11-09'
+  au: '1913-08-09'
+- titre: Titular Bishop of Pergamum
+  du: '1903-11-09'
+  au: null
+- titre: Bishop Emeritus of Germany, Military
+  du: null
+  au: '1915-07-08'
+- titre: Ordinaire militaire catholique d'Allemagne
+  du: '1903-01-01'
+  au: '1913-01-01'
+- titre: évêque titulaire
+  du: '1903-11-09'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Vollmar2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1599138
+  catholic_hierarchy: bvoll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:45:29+00:00'
+  completeness: 1.0

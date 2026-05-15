@@ -1,0 +1,51 @@
+slug: peter-funder
+nom: Peter Funder
+nom_complet: null
+naissance: '1820-10-30'
+deces: '1886-10-02'
+naissance_lieu: Waisach
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1881-06-26'
+  lieu: Cathedral, Salzburg, Archdiocese of Salzburg
+  consecrateur_principal: franz-albert-eder
+  co_consecrateurs:
+  - jakob-ignaz-maximilian-stepi-353-nik-stepischnegg
+  - johann-evangelist-haller
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfunder.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: null
+  au: '1886-10-02'
+- titre: membre de la chambre des seigneurs d'Autriche
+  du: '1881-02-09'
+  au: null
+- titre: évêque de Gurk
+  du: '1881-03-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Peter%20Funder%201901%20Eine%20K%C3%A4rntner%20Ehrengalerie.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1625466
+  catholic_hierarchy: bfunder
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:01:02+00:00'
+  completeness: 1.0

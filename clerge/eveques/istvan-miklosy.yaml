@@ -1,0 +1,48 @@
+slug: istvan-miklosy
+nom: István Miklósy
+nom_complet: Istvan Miklósy
+naissance: '1857-08-22'
+deces: '1937-10-29'
+naissance_lieu: Rákóczi
+deces_lieu: Nyiregyházá
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1913-10-05'
+  lieu: Hajdúdorog, Eparchy of Hajdúdorog (Hungarian)
+  consecrateur_principal: julije-drohobeczky
+  co_consecrateurs:
+  - augustin-fischer-colbrie
+  - jozsef-lanyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmikl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hajdúdorog (Hungarian), Hungary
+  du: '1913-06-23'
+  au: '1937-10-29'
+- titre: évêque diocésain
+  du: '1913-06-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mikl%C3%B3sy%20Istv%C3%A1n.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1674907
+  catholic_hierarchy: bmikl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:57:10+00:00'
+  completeness: 1.0

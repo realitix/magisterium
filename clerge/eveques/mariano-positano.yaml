@@ -1,0 +1,41 @@
+slug: mariano-positano
+nom: Mariano Positano
+nom_complet: null
+naissance: '1816-12-03'
+deces: '1880-05-13'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1873-03-23'
+  lieu: Santa Maria in Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: carlo-sacconi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpositm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castellaneta, Italy
+  du: '1873-03-21'
+  au: '1880-05-13'
+- titre: évêque diocésain
+  du: '1873-03-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734505
+  catholic_hierarchy: bpositm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:45:41+00:00'
+  completeness: 0.88

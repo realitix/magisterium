@@ -1,0 +1,47 @@
+slug: antoine-fournier
+nom: Antoine Fournier
+nom_complet: Antoine Fournier, C.R.S.A.
+naissance: '1532'
+deces: '1610-11-25'
+naissance_lieu: Reims, Archdiocese of Reims
+deces_lieu: Metz, Diocese of Metz
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1576-05-13'
+  lieu: Infirmary, S. Victor, Abbey, Paris, Diocese of Paris
+  consecrateur_principal: jean-baptiste-tiercelin
+  co_consecrateurs:
+  - jean-iii-de-hangest-de-genlis
+  - henri-le-meignen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfoura.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Metz, France
+  du: '1574-08-02'
+  au: '1610-11-25'
+- titre: Titular Bishop of Basilitanus
+  du: '1574-08-02'
+  au: null
+- titre: évêque auxiliaire de Metz
+  du: '1574-08-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745070
+  catholic_hierarchy: bfoura
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:54:10+00:00'
+  completeness: 0.88

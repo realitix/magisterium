@@ -1,0 +1,52 @@
+slug: reginald-brian
+nom: Reginald Brian
+nom_complet: null
+naissance: null
+deces: '1361-12-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1350-09-26'
+  consecrateur_principal: john-de-thoresby
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrian.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: '1349-09-11'
+  au: null
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1352-10-22'
+  au: '1361-12-10'
+- titre: évêque diocésain
+  du: '1352-10-30'
+  au: null
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1352-01-01'
+  au: '1361-01-01'
+- titre: évêque diocésain
+  du: '1349-09-19'
+  au: null
+- titre: Roman Catholic bishop of St Davids
+  du: '1350-01-01'
+  au: '1352-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7308621
+  catholic_hierarchy: bbrian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:51:42+00:00'
+  completeness: 0.75

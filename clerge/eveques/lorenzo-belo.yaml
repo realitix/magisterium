@@ -1,0 +1,38 @@
+slug: lorenzo-belo
+nom: Lorenzo Belo
+nom_complet: null
+naissance: null
+deces: '1586'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbelol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Capaccio, Italy
+  du: '1584-05-22'
+  au: 1586&sup2;
+- titre: Roman Catholic Bishop of Capaccio
+  du: '1584-05-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55225451
+  catholic_hierarchy: bbelol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:15:21+00:00'
+  completeness: 0.25

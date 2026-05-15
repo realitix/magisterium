@@ -1,0 +1,49 @@
+slug: nicolas-notariis
+nom: Nicolas Notariis
+nom_complet: null
+naissance: '1727-07-05'
+deces: '1802-07-08'
+naissance_lieu: Santa Caterina
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1777-08-03'
+  consecrateur_principal: francesco-saverio-de-zelada
+  co_consecrateurs:
+  - giuseppe-maria-contesini
+  - girolamo-volpi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnotaris.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Umbriatico (Umbriaticum), Italy
+  du: '1777-07-28'
+  au: null
+- titre: Bishop of Squillace, Italy
+  du: '1778-07-20'
+  au: '1802-07-08'
+- titre: Roman Catholic Bishop of Umbriatico
+  du: '1777-07-28'
+  au: null
+- titre: Roman Catholic Bishop of Squillace
+  du: '1778-07-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760610
+  catholic_hierarchy: bnotaris
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:38:06+00:00'
+  completeness: 1.0

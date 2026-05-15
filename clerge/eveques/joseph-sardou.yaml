@@ -1,0 +1,48 @@
+slug: joseph-sardou
+nom: Joseph Sardou
+nom_complet: Joseph-Marie Sardou, S.C.J.
+naissance: '1922-10-25'
+deces: '2009-09-19'
+naissance_lieu: Marseille, France
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1985-09-30'
+  lieu: Notre-Dame-Immaculée, Cathedral, Monaco, Archdiocese of Monaco
+  consecrateur_principal: bernardin-gantin
+  co_consecrateurs:
+  - charles-amarin-brand
+  - louis-dufaux
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsardou.html
+  - https://fr.wikipedia.org/wiki/Joseph_Sardou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Monaco
+  du: '1985-05-31'
+  au: null
+- titre: Archbishop Emeritus of Monaco
+  du: null
+  au: '2009-09-19'
+- titre: archevêque de Monaco
+  du: '1985-09-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q947363
+  catholic_hierarchy: bsardou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:53:45+00:00'
+  completeness: 1.0

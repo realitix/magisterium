@@ -1,0 +1,47 @@
+slug: anton-braun
+nom: Anton Braun
+nom_complet: null
+naissance: '1500'
+deces: '1540-08-13'
+naissance_lieu: Hainsfarth
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1530-07-31'
+  lieu: Cathedral, Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: johann-laymann
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrauna.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eichstätt, Germany
+  du: '1530-05-04'
+  au: '1540-08-13'
+- titre: Titular Bishop of Philadelphia in Arabia
+  du: '1530-05-04'
+  au: null
+- titre: évêque auxiliaire
+  du: '1530-05-14'
+  au: null
+- titre: évêque titulaire
+  du: '1530-05-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61511058
+  catholic_hierarchy: bbrauna
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:25+00:00'
+  completeness: 0.75

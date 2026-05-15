@@ -1,0 +1,39 @@
+slug: guillaume-de-nemours
+nom: Guillaume de Nemours
+nom_complet: null
+naissance: null
+deces: '1221-08-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1214-07-27'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnemours.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: 1214&sup1;
+  au: '1221-08-19'
+- titre: évêque de Meaux
+  du: '1214-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68908936
+  catholic_hierarchy: bnemours
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:29:20+00:00'
+  completeness: 0.5

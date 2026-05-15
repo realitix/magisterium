@@ -1,0 +1,49 @@
+slug: philippe-meunier
+nom: Philippe Meunier
+nom_complet: null
+naissance: '1844-01-10'
+deces: '1913-01-11'
+naissance_lieu: Calvi
+deces_lieu: Evreux, Diocese of Évreux
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1898-06-29'
+  lieu: Cathedral, Evreux, Diocese of Évreux
+  consecrateur_principal: louis-francois-sueur
+  co_consecrateurs:
+  - clovis-catteau
+  - alfred-casimir-alexis-williez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmeun.html
+  - https://fr.wikipedia.org/wiki/Philippe_Meunier_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: null
+  au: '1913-01-11'
+- titre: évêque diocésain
+  du: '1898-03-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Meunier.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3380370
+  catholic_hierarchy: bmeun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:54:12+00:00'
+  completeness: 1.0

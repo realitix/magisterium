@@ -1,0 +1,42 @@
+slug: vincenzo-duranti
+nom: Vincenzo Duranti
+nom_complet: Vincenzo Durante
+naissance: '1509'
+deces: '1570'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: domenico-bollani-1514
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduravi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Termoli, Italy
+  du: '1539-07-14'
+  au: 1565&sup1;
+- titre: Bishop Emeritus of Termoli, Italy
+  du: null
+  au: 1570&sup2;
+- titre: évêque diocésain
+  du: '1539-07-24'
+  au: '1565-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q69130895
+  catholic_hierarchy: bduravi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:15:15+00:00'
+  completeness: 0.38

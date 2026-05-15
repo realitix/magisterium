@@ -1,0 +1,44 @@
+slug: raffaele-ammirante
+nom: Raffaele Ammirante
+nom_complet: null
+naissance: '1820-10-27'
+deces: '1881-10-23'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-11-12'
+  lieu: S. Alphonse, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: camillo-di-pietro
+  co_consecrateurs:
+  - simone-spilotros-o-carm
+  - lorenzo-frescobaldi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bammi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nocera de&rsquo; Pagani, Italy
+  du: '1871-10-27'
+  au: '1881-10-23'
+- titre: Roman Catholic Bishop of Nocera dei Pagani
+  du: '1871-10-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734401
+  catholic_hierarchy: bammi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:36:28+00:00'
+  completeness: 1.0

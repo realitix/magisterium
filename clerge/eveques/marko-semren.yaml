@@ -1,0 +1,54 @@
+slug: marko-semren
+nom: Marko Semren
+nom_complet: Marko Semren, O.F.M.
+naissance: '1954-04-19'
+deces: null
+naissance_lieu: Bila
+deces_lieu: null
+rang: eveque
+nationalite: Q36704
+tampon: ordo_dubius
+sacre:
+  date: '2010-09-18'
+  lieu: Saint Bonaventure, Cathedral, Banja Luka, Diocese of Banja Luka
+  consecrateur_principal: franjo-komarica
+  co_consecrateurs:
+  - vinko-puljic
+  - alessandro-d-errico
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsemren.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Banja Luka, Bosnia and Herzegovina
+  du: '2010-07-15'
+  au: '2024-07-15'
+- titre: Titular Bishop of Abaradira
+  du: '2010-07-15'
+  au: null
+- titre: évêque titulaire d’Abaradira
+  du: '2010-07-15'
+  au: null
+- titre: évêque auxiliaire
+  du: '2010-07-15'
+  au: '2024-07-15'
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Marko%20Semren%2C%20Gorica%2CLivno%202012.86.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q553299
+  catholic_hierarchy: bsemren
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:09:37+00:00'
+  completeness: 0.88

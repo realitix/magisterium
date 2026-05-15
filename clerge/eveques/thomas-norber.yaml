@@ -1,0 +1,48 @@
+slug: thomas-norber
+nom: Thomas Nörber
+nom_complet: null
+naissance: '1846-12-19'
+deces: '1920-07-27'
+naissance_lieu: Waldstetten, Archdiocese of Freiburg im Breisgau
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1898-09-29'
+  lieu: Cathedral, Freiburg, Archdiocese of Freiburg im Breisgau
+  consecrateur_principal: paul-leopold-haffner
+  co_consecrateurs:
+  - friedrich-justus-knecht
+  - dominikus-willi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnorber.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Freiburg im Breisgau, Germany
+  du: null
+  au: '1920-07-27'
+- titre: archevêque de Fribourg-en-Brisgau
+  du: '1898-09-29'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Noerber%2002.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1274914
+  catholic_hierarchy: bnorber
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:14+00:00'
+  completeness: 1.0

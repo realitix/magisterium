@@ -1,0 +1,49 @@
+slug: ferdinando-apicello
+nom: Ferdinando Apicello
+nom_complet: null
+naissance: null
+deces: '1682-10-08'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1650-05-08'
+  consecrateur_principal: tiberio-cenci
+  co_consecrateurs:
+  - fabio-olivadisi
+  - bartolomeo-vannini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bapicello.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ruvo (Ruo)(di Puglia), Italy
+  du: '1650-05-02'
+  au: null
+- titre: Bishop of Larino, Italy
+  du: '1656-08-28'
+  au: '1682-10-08'
+- titre: Roman Catholic Bishop of Ruvo
+  du: '1650-05-02'
+  au: null
+- titre: Roman Catholic Bishop of Larino
+  du: '1656-08-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762624
+  catholic_hierarchy: bapicello
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:42:38+00:00'
+  completeness: 0.88

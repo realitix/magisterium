@@ -1,0 +1,43 @@
+slug: giacomo-beni
+nom: Giacomo Beni
+nom_complet: null
+naissance: '1677-04-02'
+deces: '1764-06-16'
+naissance_lieu: Gubbio, Diocese of Gubbio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1733-11-22'
+  consecrateur_principal: giovanni-antonio-guadagni
+  co_consecrateurs:
+  - tommaso-cervini
+  - apollonio-lupi-c-r-l
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fano, Italy
+  du: '1733-09-28'
+  au: '1764-06-16'
+- titre: Roman Catholic Bishop of Fano
+  du: '1733-09-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64748015
+  catholic_hierarchy: bbeni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:17:00+00:00'
+  completeness: 1.0

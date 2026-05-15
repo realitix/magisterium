@@ -1,0 +1,34 @@
+slug: john-xiv
+nom: John XIV
+nom_complet: null
+naissance: null
+deces: '984'
+naissance_lieu: Pavia, Diocese of Pavia
+deces_lieu: Castel Sant&rsquo;Angelo, Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanep.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pavia, Italy
+  du: 978&sup1;
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: 20 Aug 984
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bcanep
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:13:23+00:00'
+  completeness: 0.38

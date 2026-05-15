@@ -1,0 +1,52 @@
+slug: marie-julien-dunand
+nom: Marie-Julien Dunand
+nom_complet: Marie-Julien Dunand, M.E.P.
+naissance: '1841-01-23'
+deces: '1915-08-04'
+naissance_lieu: Saint-Jean-de-Belleville, Diocese of Tarentaise, France
+deces_lieu: Chengtu
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1893-11-26'
+  lieu: Suifu
+  consecrateur_principal: marc-chatagnon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdunand.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Northwestern Szechwan {Se-Ciuen Settentrionale-Occidentale},
+    China
+  du: '1893-08-21'
+  au: '1915-08-04'
+- titre: Titular Bishop of Caloe
+  du: '1893-08-21'
+  au: null
+- titre: évêque titulaire
+  du: '1893-08-21'
+  au: null
+- titre: vicaire apostolique
+  du: '1893-08-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Marie-Julien%20Dunand.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11099133
+  catholic_hierarchy: bdunand
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:05+00:00'
+  completeness: 0.88

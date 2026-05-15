@@ -1,0 +1,43 @@
+slug: herbert-of-selkirk
+nom: Herbert of Selkirk
+nom_complet: null
+naissance: '1101'
+deces: '1164'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1147-08-24'
+  consecrateur_principal: non-indexe-d6da50fe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bselkirk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glasgow, Scotland, Great Britain
+  du: 1147&sup2;
+  au: 1164&sup2;
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Glasgow
+  du: '1147-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5736015
+  catholic_hierarchy: bselkirk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:58+00:00'
+  completeness: 0.5

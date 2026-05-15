@@ -1,0 +1,41 @@
+slug: robert-de-melun
+nom: Robert de Melun
+nom_complet: Robert of Melun
+naissance: '1100'
+deces: '1167-02-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1163-12-22'
+  consecrateur_principal: thomas-becket
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmelunr.html
+  - https://fr.wikipedia.org/wiki/Robert_de_Melun_(mort_en_1167)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: 1163&sup1;
+  au: '1167-02-27'
+- titre: évêque de Hereford
+  du: '1163-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3436698
+  catholic_hierarchy: bmelunr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:49:40+00:00'
+  completeness: 0.75

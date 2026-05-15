@@ -1,0 +1,55 @@
+slug: remi-drieux
+nom: Remi Drieux
+nom_complet: Remigius (Remi) Driutius (Drieux)
+naissance: '1519'
+deces: '1594-05-12'
+naissance_lieu: Volkerinkhove/Merckeghem
+deces_lieu: Bruges, Diocese of Brugge {Bruges}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1569-11-13'
+  lieu: Ste Catherine, Malines
+  consecrateur_principal: maximilien-de-berghes
+  co_consecrateurs:
+  - francois-sonnius-van-de-velde
+  - cornelius-jansen-1510
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdriutius.html
+  - https://fr.wikipedia.org/wiki/Remi_Drieux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Leeuwarden, Netherlands
+  du: '1561-08-08'
+  au: null
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: '1569-09-16'
+  au: '1594-05-12'
+- titre: Roman Catholic Bishop of Leeuwarden
+  du: '1561-08-18'
+  au: '1569-09-26'
+- titre: évêque de Bruges
+  du: '1569-09-26'
+  au: '1594-05-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Remi%20Drieux%20de%20Volckerinckhove.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1709056
+  catholic_hierarchy: bdriutius
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:36+00:00'
+  completeness: 0.88

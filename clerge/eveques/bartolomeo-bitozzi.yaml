@@ -1,0 +1,44 @@
+slug: bartolomeo-bitozzi
+nom: Bartolomeo Bitozzi
+nom_complet: null
+naissance: '1716-04-27'
+deces: '1779-10-17'
+naissance_lieu: Preci
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1765-06-09'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcantonio-colonna
+  co_consecrateurs:
+  - domenico-giordani-1700
+  - giovanni-lercari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbitozzi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ripatransone, Italy
+  du: '1765-06-05'
+  au: '1779-10-17'
+- titre: Roman Catholic Bishop of Ripatransone
+  du: '1765-06-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64748048
+  catholic_hierarchy: bbitozzi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:07+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: vincent-francois-desmarets
+nom: Vincent-François Desmarets
+nom_complet: Vincent-François des Maretz
+naissance: '1657-06-11'
+deces: '1739-09-25'
+naissance_lieu: Soissons
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1702-09-17'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - jacques-desmarets
+  - david-nicolas-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdesma.html
+  - https://fr.wikipedia.org/wiki/Vincent-Fran%C3%A7ois_Desmarets
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Malo, France
+  du: null
+  au: '1739-09-25'
+- titre: évêque diocésain
+  du: '1702-04-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027346
+  catholic_hierarchy: bdesma
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:07+00:00'
+  completeness: 1.0

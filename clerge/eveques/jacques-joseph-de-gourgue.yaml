@@ -1,0 +1,44 @@
+slug: jacques-joseph-de-gourgue
+nom: Jacques-Joseph de Gourgue
+nom_complet: Jacques-Joseph de Gourgues
+naissance: '1650'
+deces: '1724-09-09'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1693-11-15'
+  consecrateur_principal: louis-de-baradat
+  co_consecrateurs:
+  - louis-marcel-de-coetlogon
+  - francois-de-poudenx
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgourgues.html
+  - https://fr.wikipedia.org/wiki/Jacques-Joseph_de_Gourgue
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bazas, France
+  du: null
+  au: '1724-09-09'
+- titre: évêque diocésain
+  du: '1684-05-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3157975
+  catholic_hierarchy: bgourgues
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:37:14+00:00'
+  completeness: 0.88

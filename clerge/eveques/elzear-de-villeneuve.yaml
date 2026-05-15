@@ -1,0 +1,41 @@
+slug: elzear-de-villeneuve
+nom: Elzéar de Villeneuve
+nom_complet: null
+naissance: null
+deces: '1341-10-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1328-04-17'
+  consecrateur_principal: guillaume-pierre-cardinal-godin-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillenu.html
+  - https://fr.wikipedia.org/wiki/Elz%C3%A9ar_de_Villeneuve
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Digne, France
+  du: '1327-11-17'
+  au: '1341-10-07'
+- titre: évêque diocésain
+  du: '1327-11-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3051917
+  catholic_hierarchy: bvillenu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:40:01+00:00'
+  completeness: 0.75

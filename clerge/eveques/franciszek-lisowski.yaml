@@ -1,0 +1,60 @@
+slug: franciszek-lisowski
+nom: Franciszek Lisowski
+nom_complet: null
+naissance: '1876-10-01'
+deces: '1939-06-04'
+naissance_lieu: Cieszanów
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1928-10-07'
+  lieu: Lviv, Archdiocese of Lviv, Ukraine
+  consecrateur_principal: boles-aw-twardowski
+  co_consecrateurs:
+  - leon-wa-ega
+  - edward-komar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lviv, Ukraine
+  du: '1928-07-20'
+  au: null
+- titre: Titular Bishop of Mariamme
+  du: '1928-07-20'
+  au: null
+- titre: Bishop of Tarnów, Poland
+  du: '1933-01-27'
+  au: '1939-06-04'
+- titre: évêque diocésain
+  du: '1933-01-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1928-07-20'
+  au: '1933-01-27'
+- titre: évêque titulaire
+  du: '1928-07-20'
+  au: '1933-01-27'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20Lisowski.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q939263
+  catholic_hierarchy: blis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:52:22+00:00'
+  completeness: 1.0

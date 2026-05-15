@@ -1,0 +1,51 @@
+slug: bernhard-von-galen
+nom: Bernhard von Galen
+nom_complet: Christoph Bernhard von Galen
+naissance: '1606-10-12'
+deces: '1678-09-19'
+naissance_lieu: Rinkerode
+deces_lieu: null
+rang: eveque
+nationalite: Q170072
+tampon: ordo_validus
+sacre:
+  date: '1651-09-17'
+  consecrateur_principal: franz-wilhelm-von-wartenberg
+  co_consecrateurs:
+  - bernhard-frick
+  - johann-sternenberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgalec.html
+  - https://fr.wikipedia.org/wiki/Christoph_Bernhard_von_Galen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Münster, Germany
+  du: null
+  au: '1678-09-19'
+- titre: prince-évêque
+  du: '1650-01-01'
+  au: '1678-01-01'
+- titre: évêque diocésain
+  du: '1650-11-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Heimbach-Brustbildnis%20des%20F%C3%BCrstbischofs%20Christoph%20Bernhard%20von%20Galen-WUS03294.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q76491
+  catholic_hierarchy: bgalec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:04:50+00:00'
+  completeness: 1.0

@@ -1,0 +1,53 @@
+slug: friedrich-von-zollern
+nom: Friedrich von Zollern
+nom_complet: Friedrich von Hohenzollern
+naissance: '1451'
+deces: '1505-03-08'
+naissance_lieu: Hohenzollern
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1486-09-17'
+  lieu: Church, Dillingen
+  consecrateur_principal: otto-iv-von-sonnenberg
+  co_consecrateurs:
+  - daniel-zehender-o-f-m
+  - ulrich-geislinger-o-f-m
+  - ulrich-pramberger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhohef.html
+  - https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_II_de_Zollern_(1451-1505)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1505-03-08'
+- titre: évêque
+  du: '1486-01-01'
+  au: '1505-01-01'
+- titre: évêque d'Augsbourg
+  du: '1486-03-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20von%20Zollern2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1459939
+  catholic_hierarchy: bhohef
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:09+00:00'
+  completeness: 0.88

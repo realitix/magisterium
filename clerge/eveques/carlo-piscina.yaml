@@ -1,0 +1,41 @@
+slug: carlo-piscina
+nom: Carlo Piscina
+nom_complet: null
+naissance: '1618'
+deces: '1668-01-09'
+naissance_lieu: Torino, Archdiocese of Torino {Turin}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1664-01-27'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: charles-pio-di-savoia-cardinal-eveque-de-la-sabine
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpiscina.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saluzzo, Italy
+  du: '1664-01-14'
+  au: '1668-01-09'
+- titre: évêque diocésain
+  du: '1664-01-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745550
+  catholic_hierarchy: bpiscina
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:37:03+00:00'
+  completeness: 0.75

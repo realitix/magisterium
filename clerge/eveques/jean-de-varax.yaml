@@ -1,0 +1,45 @@
+slug: jean-de-varax
+nom: Jean de Varax
+nom_complet: Jean de Varax, O.S.B.
+naissance: null
+deces: http://www.wikidata.org/.well-known/genid/fb8dfab30fcde7c7638b7bb6550382db
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaraxj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Varax
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: '1462-04-26'
+  au: 1507&sup1;
+- titre: évêque de Belley
+  du: '1462-05-05'
+  au: '1505-01-01'
+- titre: abbé commendataire
+  du: '1461-01-01'
+  au: '1503-01-01'
+- titre: prieur
+  du: null
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3175744
+  catholic_hierarchy: bvaraxj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:25:17+00:00'
+  completeness: 0.25

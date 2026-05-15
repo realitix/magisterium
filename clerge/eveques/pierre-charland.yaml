@@ -1,0 +1,48 @@
+slug: pierre-charland
+nom: Pierre Charland
+nom_complet: Pierre Charland, O.F.M.
+naissance: '1962-12-20'
+deces: null
+naissance_lieu: North Bay, Diocese of Sault Sainte Marie, Ontario
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2025-05-28'
+  lieu: Saint-Jean-Eudes, Cathedral, Baie-Comeau, Diocese of Baie-Comeau, Québec
+  consecrateur_principal: denis-grondin
+  co_consecrateurs:
+  - jean-pierre-blais
+  - martin-laliberte
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcharland.html
+  - https://fr.wikipedia.org/wiki/Pierre_Charland
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Baie-Comeau, Québec, Canada
+  du: '2025-02-18'
+  au: null
+- titre: évêque diocésain
+  du: '2025-02-18'
+  au: null
+- titre: curé
+  du: '2012-01-01'
+  au: '2017-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q132528898
+  catholic_hierarchy: bcharland
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:41:56+00:00'
+  completeness: 0.88

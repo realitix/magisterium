@@ -1,0 +1,52 @@
+slug: heinrich-fasching
+nom: Heinrich Fasching
+nom_complet: null
+naissance: '1929-05-24'
+deces: '2014-06-01'
+naissance_lieu: Höfnerberg
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1993-07-04'
+  consecrateur_principal: kurt-krenn
+  co_consecrateurs:
+  - franz-zak
+  - maximilian-aichern
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfasching.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Sankt Pölten, Austria
+  du: '1993-05-24'
+  au: null
+- titre: Titular Bishop of Acci
+  du: '1993-05-24'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Sankt Pölten, Austria
+  du: null
+  au: '2014-06-01'
+- titre: évêque titulaire d'Acci
+  du: '1993-05-24'
+  au: null
+- titre: évêque auxiliaire
+  du: '1993-05-24'
+  au: '2004-10-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q89160
+  catholic_hierarchy: bfasching
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:32:56+00:00'
+  completeness: 1.0

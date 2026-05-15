@@ -1,0 +1,55 @@
+slug: james-vincent-cleary
+nom: James Vincent Cleary
+nom_complet: null
+naissance: '1828-09-18'
+deces: '1898-02-24'
+naissance_lieu: Dungarvan, Diocese of Waterford and Lismore, Ireland
+deces_lieu: Kingston, Archdiocese of Kingston, Ontario
+rang: archeveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1880-11-21'
+  lieu: College de la Propaganda, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giovanni-simeoni
+  co_consecrateurs:
+  - thomas-croke
+  - george-butler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcleary.html
+  - https://fr.wikipedia.org/wiki/James_Vincent_Cleary
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kingston, Ontario, Canada
+  du: '1880-10-01'
+  au: null
+- titre: Archbishop of Kingston, Ontario, Canada
+  du: '1889-12-28'
+  au: '1898-02-24'
+- titre: évêque diocésain
+  du: '1880-10-01'
+  au: '1889-12-28'
+- titre: archevêque catholique
+  du: '1889-12-28'
+  au: '1898-02-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/James%20Vincent%20Cleary.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15456498
+  catholic_hierarchy: bcleary
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:53:38+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: david-camilli
+nom: David Camilli
+nom_complet: null
+naissance: '1847-01-15'
+deces: '1909-02-13'
+naissance_lieu: Ghivizzano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1889-02-17'
+  lieu: St. Apollinaire, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - domenico-maria-jacobini
+  - alessandro-grossi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcamd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pontremoli, Italy
+  du: '1889-02-11'
+  au: null
+- titre: Bishop of Fiesole, Italy
+  du: '1893-01-16'
+  au: '1909-02-13'
+- titre: évêque de Fiesole
+  du: '1893-01-16'
+  au: null
+- titre: évêque diocésain
+  du: '1889-02-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736780
+  catholic_hierarchy: bcamd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:10:07+00:00'
+  completeness: 1.0

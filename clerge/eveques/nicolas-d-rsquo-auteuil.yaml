@@ -1,0 +1,40 @@
+slug: nicolas-d-rsquo-auteuil
+nom: Nicolas d&rsquo;Auteuil
+nom_complet: Nicolas d’Auteuil
+naissance: null
+deces: '1298-05-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1281-10-26'
+  consecrateur_principal: guillaume-de-flavacourt
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bauteuil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: 1281&sup1;
+  au: '1298-05-17'
+- titre: évêque diocésain
+  du: '1281-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96587847
+  catholic_hierarchy: bauteuil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:50:16+00:00'
+  completeness: 0.75

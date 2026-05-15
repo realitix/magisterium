@@ -1,0 +1,47 @@
+slug: gerold-d-oldenbourg
+nom: Gerold d'Oldenbourg
+nom_complet: Gerold von Oldenburg
+naissance: '1100'
+deces: '1163-08-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1155-06-11'
+  consecrateur_principal: non-indexe-6240b9dc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/boldeng.html
+  - https://fr.wikipedia.org/wiki/Gerold_d%27Oldenbourg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Oldenburg, Germany
+  du: 1155&sup2;
+  au: null
+- titre: Bishop of Lübeck, Germany
+  du: null
+  au: '1163-08-13'
+- titre: prince-évêque de Lübeck
+  du: '1160-01-01'
+  au: '1163-08-20'
+- titre: Roman Catholic Bishop of Oldenburg
+  du: '1155-01-01'
+  au: '1160-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1272207
+  catholic_hierarchy: boldeng
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:49:18+00:00'
+  completeness: 0.62

@@ -1,0 +1,44 @@
+slug: james-danell
+nom: James Danell
+nom_complet: null
+naissance: '1821-07-14'
+deces: '1881-06-14'
+naissance_lieu: London, Middlesex, Vicariate Apostolic of London District, England
+deces_lieu: Cathedral House, Southwark, London, Diocese of Southwark, England
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1871-03-25'
+  lieu: St. George's, Cathedral, Southwark, London, Diocese of Southwark, England
+  consecrateur_principal: henry-edward-manning
+  co_consecrateurs:
+  - thomas-joseph-brown
+  - william-placid-morris
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Southwark, England, Great Britain
+  du: '1871-01-10'
+  au: '1881-06-14'
+- titre: évêque diocésain
+  du: '1871-01-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6132321
+  catholic_hierarchy: bdan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:25:27+00:00'
+  completeness: 1.0

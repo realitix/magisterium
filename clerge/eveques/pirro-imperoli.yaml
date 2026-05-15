@@ -1,0 +1,43 @@
+slug: pirro-imperoli
+nom: Pirro Imperoli
+nom_complet: null
+naissance: '1554'
+deces: '1617'
+naissance_lieu: Verulan
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1604-02-08'
+  consecrateur_principal: paul-v
+  co_consecrateurs:
+  - guglielmo-bastoni
+  - sebastiano-ghislieri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bimperoli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jesi, Italy
+  du: '1604-01-28'
+  au: 1617&sup1;
+- titre: évêque de Jesi
+  du: '1604-01-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q33411261
+  catholic_hierarchy: bimperoli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:53:02+00:00'
+  completeness: 0.75

@@ -1,0 +1,50 @@
+slug: pasquale-de-siena
+nom: Pasquale de Siena
+nom_complet: null
+naissance: '1840-03-25'
+deces: '1920-11-25'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1898-10-23'
+  lieu: Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: giuseppe-antonio-ermenegildo-prisco
+  co_consecrateurs:
+  - ernesto-angiulli
+  - gaetano-muller
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsiena.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Napoli {Naples}, Italy
+  du: '1898-09-24'
+  au: '1920-11-25'
+- titre: Titular Bishop of Callinicum
+  du: '1898-09-24'
+  au: null
+- titre: évêque auxiliaire
+  du: '1898-09-24'
+  au: null
+- titre: évêque titulaire
+  du: '1898-09-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64657854
+  catholic_hierarchy: bsiena
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:16:48+00:00'
+  completeness: 1.0

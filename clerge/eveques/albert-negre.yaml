@@ -1,0 +1,54 @@
+slug: albert-negre
+nom: Albert Nègre
+nom_complet: null
+naissance: '1853-02-13'
+deces: '1931-02-05'
+naissance_lieu: Saint-Bonnet-de-Chirac
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1908-08-23'
+  consecrateur_principal: charles-de-ligonnes
+  co_consecrateurs:
+  - jacques-jean-gely
+  - victor-omesime-quirin-laurans
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnegre.html
+  - https://fr.wikipedia.org/wiki/Albert_N%C3%A8gre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: '1908-07-14'
+  au: null
+- titre: Archbishop of Tours, France
+  du: '1913-08-05'
+  au: '1931-02-05'
+- titre: archevêque de Tours
+  du: '1913-08-05'
+  au: null
+- titre: évêque de Tulle
+  du: '1908-07-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20comm%C3%A9moratif%20de%20Mgr%20NEGRE.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2831432
+  catholic_hierarchy: bnegre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:28:30+00:00'
+  completeness: 1.0

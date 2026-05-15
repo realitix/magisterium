@@ -1,0 +1,43 @@
+slug: francisco-moya-o-f-m
+nom: Francisco Moya, O.F.M.
+nom_complet: Francisco Moya
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1436-10-27'
+  consecrateur_principal: andres-dias-de-escobar
+  co_consecrateurs:
+  - jean-de-pede
+  - marco-de-teramo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoyaf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rubicón, Spain
+  du: '1436-09-26'
+  au: null
+- titre: évêque de Rubicon
+  du: '1436-10-05'
+  au: '1436-11-05'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q27957780
+  catholic_hierarchy: bmoyaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:16:27+00:00'
+  completeness: 0.75

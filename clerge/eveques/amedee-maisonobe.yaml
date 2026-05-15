@@ -1,0 +1,45 @@
+slug: amedee-maisonobe
+nom: Amédée Maisonobe
+nom_complet: Amédée-Marie-Alexis Maisonobe
+naissance: '1882-12-26'
+deces: '1954-11-15'
+naissance_lieu: Crandelles, Diocese of Saint-Flour
+deces_lieu: Bourg-en-Bresse
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1935-08-06'
+  lieu: Cathedral, Saint-Flour, Diocese of Saint-Flour
+  consecrateur_principal: paul-augustin-lec-ur
+  co_consecrateurs:
+  - gabriel-brunhes
+  - georges-auguste-louis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmais.html
+  - https://fr.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Maisonobe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belley, France
+  du: '1935-05-29'
+  au: '1954-11-15'
+- titre: évêque diocésain
+  du: '1935-05-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2844683
+  catholic_hierarchy: bmais
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:15:26+00:00'
+  completeness: 1.0

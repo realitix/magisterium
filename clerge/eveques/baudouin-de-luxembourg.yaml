@@ -1,0 +1,57 @@
+slug: baudouin-de-luxembourg
+nom: Baudouin de Luxembourg
+nom_complet: Balduin von Luxembourg
+naissance: '1285'
+deces: '1354-01-21'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1308-03-11'
+  consecrateur_principal: clement-v
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bluxemb.html
+  - https://fr.wikipedia.org/wiki/Baudouin_de_Luxembourg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Trier, Germany
+  du: '1308-02-12'
+  au: '1354-01-21'
+- titre: prince-électeur
+  du: null
+  au: null
+- titre: archevêque de Trèves
+  du: '1308-02-20'
+  au: null
+- titre: administrateur diocésain
+  du: null
+  au: null
+- titre: archevêque de Trèves
+  du: '1307-01-01'
+  au: '1354-01-01'
+- titre: archevêque de Mayence
+  du: '1328-01-01'
+  au: '1337-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wittlich%2C%20Kurf%C3%BCrst-Balduin%20%28101%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q152347
+  catholic_hierarchy: bluxemb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:06:20+00:00'
+  completeness: 0.62

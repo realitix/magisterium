@@ -1,0 +1,41 @@
+slug: gentien-d-amboise
+nom: Gentien d'Amboise
+nom_complet: Gentien de Bussy d&rsquo;Amboise
+naissance: '1505'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1560'
+  consecrateur_principal: georges-d-armagnac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbusdamb.html
+  - https://fr.wikipedia.org/wiki/Gentien_d%27Amboise
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarbes, France
+  du: '1556-07-21'
+  au: 1575&sup1;
+- titre: Évêque de Tarbes
+  du: '1556-07-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28495451
+  catholic_hierarchy: bbusdamb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:01:20+00:00'
+  completeness: 0.62

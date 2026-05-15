@@ -1,0 +1,41 @@
+slug: juan-bautista-sacristan
+nom: Juan Bautista Sacristán
+nom_complet: Juan Bautista Sacristán y Galiano
+naissance: '1759-07-01'
+deces: '1817-02-01'
+naissance_lieu: Maranchón, Diocese of Sigüenza, Spain
+deces_lieu: Bogotá, Archdiocese of Santafé en Nueva Granada
+rang: archeveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: Jun 1810&sup3;
+  lieu: San Juan, Diocese of Puerto Rico (Porto Rico)
+  consecrateur_principal: juan-alejo-de-arizmendi
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaga.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Santafé en Nueva Granada, Colombia
+  du: '1804-08-20'
+  au: '1817-02-01'
+- titre: archevêque de Bogota
+  du: '1810-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5947825
+  catholic_hierarchy: bsaga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:41:17+00:00'
+  completeness: 0.88

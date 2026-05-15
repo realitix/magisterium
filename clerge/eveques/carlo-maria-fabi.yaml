@@ -1,0 +1,43 @@
+slug: carlo-maria-fabi
+nom: Carlo Maria Fabi
+nom_complet: Carlo Fabi
+naissance: '1744-11-24'
+deces: '1798-03-31'
+naissance_lieu: San Gemini
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1785-10-02'
+  consecrateur_principal: carlo-rezzonico
+  co_consecrateurs:
+  - nicola-buschi
+  - pierluigi-galletti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfabic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amelia, Italy
+  du: '1785-09-26'
+  au: '1798-03-31'
+- titre: évêque diocésain
+  du: '1785-09-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55227291
+  catholic_hierarchy: bfabic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:28:14+00:00'
+  completeness: 1.0

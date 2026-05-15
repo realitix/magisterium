@@ -1,0 +1,47 @@
+slug: aegidius-de-monte
+nom: Aegidius de Monte
+nom_complet: Aegidius (Gilles) Van den Bergh (de Monte), O.F.M. Obs.
+naissance: '1500'
+deces: '1577-05-26'
+naissance_lieu: Perus, Belgium
+deces_lieu: Zwolle
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1570-10-29'
+  lieu: Anvers, Diocese of Antwerpen {Antwerp, Anvers}, Belgium
+  consecrateur_principal: francois-sonnius-van-de-velde
+  co_consecrateurs:
+  - laurens-mets
+  - ghislain-de-vroede
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontee.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Deventer, Netherlands
+  du: '1570-08-11'
+  au: '1577-05-26'
+- titre: évêque diocésain
+  du: '1570-08-21'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16318317
+  catholic_hierarchy: bmontee
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:22+00:00'
+  completeness: 0.88

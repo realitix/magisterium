@@ -1,0 +1,44 @@
+slug: thomas-galberry
+nom: Thomas Galberry
+nom_complet: Thomas Galberry, O.E.S.A.
+naissance: '1833-05-28'
+deces: '1878-10-10'
+naissance_lieu: Naas, Diocese of Kildare and Leighlin, Ireland
+deces_lieu: New York, Archdiocese of New York, New York
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1876-03-19'
+  lieu: St. Peter's, Church, Hartford, Diocese of Hartford, Connecticut
+  consecrateur_principal: john-joseph-williams
+  co_consecrateurs:
+  - patrick-thomas-o-reilly
+  - edgar-philip-prindle-wadhams
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgalberry.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hartford, Connecticut, USA
+  du: '1875-02-12'
+  au: '1878-10-10'
+- titre: évêque diocésain
+  du: '1875-02-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7789899
+  catholic_hierarchy: bgalberry
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:04:38+00:00'
+  completeness: 1.0

@@ -1,0 +1,41 @@
+slug: christoph-von-schachner
+nom: Christoph von Schachner
+nom_complet: Christoph Schachner
+naissance: '1447'
+deces: '1500-01-03'
+naissance_lieu: Ried
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: null
+  au: '1500-01-03'
+- titre: évêque de Passau
+  du: '1490-03-20'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1086231
+  catholic_hierarchy: bschac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:59:44+00:00'
+  completeness: 0.38

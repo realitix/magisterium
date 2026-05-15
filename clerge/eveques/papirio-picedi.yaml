@@ -1,0 +1,49 @@
+slug: papirio-picedi
+nom: Papirio Picedi
+nom_complet: null
+naissance: '1528-10-07'
+deces: '1614-03-04'
+naissance_lieu: Arcola di Lunigiana
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1603-01-19'
+  consecrateur_principal: paolo-emilio-cardinal-zacchia
+  co_consecrateurs:
+  - claudio-rangoni-1562
+  - giovanni-stefano-ferrero
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpicedi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Borgo San Donnino, Italy
+  du: '1603-01-08'
+  au: null
+- titre: Bishop of Parma, Italy
+  du: '1606-08-30'
+  au: '1614-03-04'
+- titre: Roman Catholic Bishop of Fidenza
+  du: '1603-01-08'
+  au: null
+- titre: évêque de Parme
+  du: '1606-08-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3894863
+  catholic_hierarchy: bpicedi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:30:38+00:00'
+  completeness: 0.88

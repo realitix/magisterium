@@ -1,0 +1,45 @@
+slug: john-burghill
+nom: John Burghill
+nom_complet: John Bourghill, O.P.
+naissance: '1350'
+deces: '1414-05-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '10'
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbourgh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: '1396-04-12'
+  au: null
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1398-07-12'
+  au: 20 May 1414&sup3;
+- titre: évêque catholique de Llandaff
+  du: '1396-04-20'
+  au: null
+- titre: évêque de Coventry et Lichfield
+  du: '1398-07-20'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q6223909
+  catholic_hierarchy: bbourgh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:51+00:00'
+  completeness: 0.5

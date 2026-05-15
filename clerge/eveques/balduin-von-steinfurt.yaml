@@ -1,0 +1,45 @@
+slug: balduin-von-steinfurt
+nom: Balduin von Steinfurt
+nom_complet: null
+naissance: '1250'
+deces: '1361'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsteinfu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paderborn, Germany
+  du: 1341&sup1;
+  au: 1361&sup1;
+- titre: évêque diocésain
+  du: '1341-01-01'
+  au: '1361-01-01'
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Paderborner%20Dom%20Standbild%20Bischof%20Balduin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q804828
+  catholic_hierarchy: bsteinfu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:37:43+00:00'
+  completeness: 0.25

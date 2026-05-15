@@ -1,0 +1,50 @@
+slug: giulio-superchio
+nom: Giulio Superchio
+nom_complet: Giulio (Egidio) Soperchio (Superchio), O. Carm.
+naissance: '1600'
+deces: '1585'
+naissance_lieu: Mantova, Diocese of Mantova
+deces_lieu: Venezia, Patriarchate of Venezia {Venice}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1560-04-17'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-giacomo-barba-o-s-a
+  co_consecrateurs:
+  - antonio-bernardi
+  - pietro-contarini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsoperc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acci (Accia), France
+  du: '1560-02-14'
+  au: null
+- titre: Bishop of Caorle, Italy
+  du: '1563-01-30'
+  au: '1585-11-16'
+- titre: évêque de Caorle
+  du: '1563-02-09'
+  au: null
+- titre: Évêque d'Accia
+  du: '1560-02-24'
+  au: '1563-02-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1528072
+  catholic_hierarchy: bsoperc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:28:12+00:00'
+  completeness: 0.88

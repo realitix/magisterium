@@ -1,0 +1,51 @@
+slug: hugues-de-rouffignac
+nom: Hugues de Rouffignac
+nom_complet: Hugues de Roffignac
+naissance: '1388'
+deces: '1460'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broffign.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Rouffignac
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: '1418-03-16'
+  au: null
+- titre: Bishop of Rieux, France
+  du: '1426-12-11'
+  au: 1460&sup1;
+- titre: évêque de Limoges
+  du: '1418-01-01'
+  au: '1426-01-01'
+- titre: évêque de Rieux
+  du: '1426-01-01'
+  au: '1460-01-01'
+- titre: évêque diocésain
+  du: '1426-12-20'
+  au: '1460-01-01'
+- titre: évêque diocésain
+  du: '1418-03-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3142744
+  catholic_hierarchy: broffign
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:22:40+00:00'
+  completeness: 0.25

@@ -1,0 +1,56 @@
+slug: martin-griver-y-cuni
+nom: Martín Griver y Cuní
+nom_complet: Martin Griver
+naissance: '1814-11-11'
+deces: '1886-11-01'
+naissance_lieu: Granollers, Diocese of Barcelona, Spain
+deces_lieu: Perth, Diocese of Perth
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1870-06-12'
+  lieu: Ste Agathe des Irlandais, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: paul-cullen
+  co_consecrateurs:
+  - james-alipius-goold
+  - thomas-grimley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgriver.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Perth, Australia
+  du: 1862&sup2;
+  au: null
+- titre: Titular Bishop of Tlos
+  du: '1869-10-01'
+  au: null
+- titre: Bishop of Perth, Australia
+  du: '1873-07-22'
+  au: '1886-11-01'
+- titre: évêque diocésain
+  du: '1873-07-22'
+  au: '1886-11-01'
+- titre: administrateur apostolique
+  du: '1869-10-01'
+  au: '1873-07-22'
+- titre: évêque titulaire
+  du: '1869-10-01'
+  au: '1873-07-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6775569
+  catholic_hierarchy: bgriver
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:44:15+00:00'
+  completeness: 1.0

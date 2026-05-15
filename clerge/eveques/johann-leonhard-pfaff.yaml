@@ -1,0 +1,40 @@
+slug: johann-leonhard-pfaff
+nom: Johann Leonhard Pfaff
+nom_complet: Johann Leonard Pfaff
+naissance: '1775-08-18'
+deces: '1848-01-03'
+naissance_lieu: Hünfeld
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1832-09-02'
+  consecrateur_principal: adam-friedrich-gro-zu-trockau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpfaff.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fulda, Germany
+  du: null
+  au: '1848-01-03'
+- titre: évêque de Fulda
+  du: '1831-11-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q97264
+  catholic_hierarchy: bpfaff
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:28:03+00:00'
+  completeness: 0.88

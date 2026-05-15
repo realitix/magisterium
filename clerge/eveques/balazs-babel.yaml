@@ -1,0 +1,54 @@
+slug: balazs-babel
+nom: Balázs Bábel
+nom_complet: null
+naissance: '1950-10-18'
+deces: null
+naissance_lieu: Gyón, Diocese of Vác
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1999-04-10'
+  lieu: Open Air, Near, Assomption, Cathedral, Kalocsa, Archdiocese of Kalocsa-Kecskemét
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - laszlo-danko
+  - ferenc-keszthelyi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbabel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Archbishop of Kalocsa-Kecskemét, Hungary
+  du: '1999-02-24'
+  au: null
+- titre: Archbishop of Kalocsa-Kecskemét, Hungary
+  du: null
+  au: '1999-06-25'
+- titre: archevêque coadjuteur
+  du: '1999-02-24'
+  au: '1999-06-25'
+- titre: archevêque de Kalocsa-Kecskemét
+  du: '1999-06-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BabelBalazsFotoThalerTamas.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q668571
+  catholic_hierarchy: bbabel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:53:38+00:00'
+  completeness: 0.88

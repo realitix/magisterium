@@ -1,0 +1,44 @@
+slug: tobia-masacci
+nom: Tobia Masacci
+nom_complet: null
+naissance: '1803-11-30'
+deces: '1880-01-17'
+naissance_lieu: Cesena, Diocese of Cesena
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1872-03-03'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: camillo-di-pietro
+  co_consecrateurs:
+  - pietro-gianelli
+  - pietro-de-villanova-castellacci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmasacci.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarsina, Italy
+  du: '1872-02-23'
+  au: '1880-01-17'
+- titre: évêque diocésain
+  du: '1872-02-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68907779
+  catholic_hierarchy: bmasacci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:34:21+00:00'
+  completeness: 1.0

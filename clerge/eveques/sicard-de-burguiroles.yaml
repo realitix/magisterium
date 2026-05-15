@@ -1,0 +1,38 @@
+slug: sicard-de-burguiroles
+nom: Sicard de Burguiroles
+nom_complet: null
+naissance: null
+deces: '1412-07-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bburguir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Lizier de) Couserans (or Conserans), France
+  du: '1405-11-20'
+  au: '1412-07-19'
+- titre: évêque diocésain
+  du: '1405-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449079
+  catholic_hierarchy: bburguir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:00:31+00:00'
+  completeness: 0.38

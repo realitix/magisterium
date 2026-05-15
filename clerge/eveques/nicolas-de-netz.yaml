@@ -1,0 +1,44 @@
+slug: nicolas-de-netz
+nom: Nicolas de Netz
+nom_complet: null
+naissance: '1592-02-18'
+deces: '1646-01-20'
+naissance_lieu: Tours, Archdiocese of Tours
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1631-04-27'
+  consecrateur_principal: jean-francois-de-gondi
+  co_consecrateurs:
+  - leonor-d-rsquo-estampes-de-valancay-o-s-b
+  - etienne-de-puget
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnets.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Netz
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orléans, France
+  du: '1631-01-27'
+  au: '1646-01-20'
+- titre: évêque diocésain
+  du: '1631-01-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24940591
+  catholic_hierarchy: bnets
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:29:58+00:00'
+  completeness: 1.0

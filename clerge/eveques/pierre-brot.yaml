@@ -1,0 +1,53 @@
+slug: pierre-brot
+nom: Pierre Brot
+nom_complet: null
+naissance: '1892-11-10'
+deces: '1971-10-28'
+naissance_lieu: Montrouge, Archdiocese of Paris
+deces_lieu: Paris, Archdiocese of Paris
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1952-10-11'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: maurice-feltin
+  co_consecrateurs:
+  - stanislas-courbe
+  - andre-leclerc
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrot.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Paris, France
+  du: '1952-06-24'
+  au: null
+- titre: Titular Bishop of Marciana
+  du: '1952-06-24'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Paris, France
+  du: null
+  au: '1971-10-28'
+- titre: évêque titulaire
+  du: '1952-06-24'
+  au: null
+- titre: évêque auxiliaire de Paris
+  du: '1952-06-24'
+  au: '1966-12-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752137
+  catholic_hierarchy: bbrot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:53:58+00:00'
+  completeness: 1.0

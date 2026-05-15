@@ -1,0 +1,246 @@
+---
+/**
+ * LineageSvg — rend la lignée ascendante d'un évêque verticalement.
+ * Chaque nœud est cliquable (lien vers `/clerge/{slug}`).
+ * Couleur d'arête : vert (rite ancien), rouge (nouveau), gris (inconnu).
+ */
+import {
+  getClericIndex,
+  getConsecrationOf,
+  inferRite,
+  type Rite,
+} from '../data/loadClerge.ts';
+
+interface Props {
+  /** Slugs du clerc lui-même jusqu'à l'ancêtre le plus ancien (ordre top→bottom : ancêtre en haut). */
+  ancestors: string[];
+}
+
+const { ancestors } = Astro.props;
+// Chaîne ordonnée : on rend l'ancêtre le plus ancien en haut, le clerc en bas.
+const chain = [...ancestors].reverse();
+
+const NODE_HEIGHT = 64;
+const NODE_WIDTH = 280;
+const GAP = 26;
+const PADDING = 20;
+const totalHeight = chain.length * NODE_HEIGHT + (chain.length - 1) * GAP + PADDING * 2;
+const totalWidth = NODE_WIDTH + PADDING * 2;
+
+interface Node {
+  slug: string;
+  nom: string;
+  dates: string;
+  edgeRite: Rite | null; // rite du sacre du nœud d'EN DESSOUS (i.e. enfant)
+  unknown: boolean;
+  y: number;
+}
+
+const RITE_COLOR: Record<Rite, string> = {
+  ancien: '#2f7a3a',
+  nouveau: '#8b1a1a',
+  mixte: '#b08a3e',
+  inconnu: '#888070',
+};
+
+const nodes: Node[] = chain.map((slug, i) => {
+  const idx = getClericIndex(slug);
+  const isPlaceholder = slug.startsWith('non-indexe-') || idx === null;
+  const nom = idx?.nom ?? (isPlaceholder ? 'évêque non identifié' : slug);
+  const n = idx?.naissance_annee;
+  const d = idx?.deces_annee;
+  let dates = '';
+  if (n !== null && n !== undefined && d !== null && d !== undefined) dates = `${n} – ${d}`;
+  else if (n !== null && n !== undefined) dates = `né en ${n}`;
+  else if (d !== null && d !== undefined) dates = `† ${d}`;
+  // Couleur de l'arête sortant vers le bas : rite du sacre du clerc IMMÉDIATEMENT PLUS BAS,
+  // qui est `chain[i+1]` si présent (le sacre du « bas » lie le « haut » au « bas »).
+  let edgeRite: Rite | null = null;
+  const childSlug = chain[i + 1];
+  if (childSlug !== undefined) {
+    const cons = getConsecrationOf(childSlug);
+    edgeRite = inferRite(cons);
+  }
+  return {
+    slug,
+    nom,
+    dates,
+    edgeRite,
+    unknown: isPlaceholder,
+    y: PADDING + i * (NODE_HEIGHT + GAP),
+  };
+});
+---
+
+<div class="lineage-svg-wrap">
+  <svg
+    class="lineage-svg"
+    viewBox={`0 0 ${totalWidth} ${totalHeight}`}
+    width={totalWidth}
+    height={totalHeight}
+    role="img"
+    aria-label={`Lignée ascendante : ${chain.length} évêque${chain.length > 1 ? 's' : ''}`}
+  >
+    {/* Arêtes */}
+    {nodes.map((node, i) => {
+      if (node.edgeRite === null) return null;
+      const x = totalWidth / 2;
+      const y1 = node.y + NODE_HEIGHT;
+      const y2 = nodes[i + 1].y;
+      const stroke = RITE_COLOR[node.edgeRite];
+      return (
+        <line
+          x1={x}
+          y1={y1}
+          x2={x}
+          y2={y2}
+          stroke={stroke}
+          stroke-width={node.edgeRite === 'inconnu' ? '2' : '3'}
+          stroke-dasharray={node.edgeRite === 'inconnu' ? '4 4' : undefined}
+        />
+      );
+    })}
+
+    {/* Nœuds */}
+    {nodes.map((node) => {
+      const x = (totalWidth - NODE_WIDTH) / 2;
+      const isCleric = !node.unknown && getClericIndex(node.slug) !== null;
+      const href = isCleric ? `/clerge/${node.slug}/` : null;
+      return (
+        <g>
+          {href !== null ? (
+            <a href={href}>
+              <rect
+                x={x}
+                y={node.y}
+                width={NODE_WIDTH}
+                height={NODE_HEIGHT}
+                rx="4"
+                class="lineage-svg__node"
+              />
+              <text
+                x={x + NODE_WIDTH / 2}
+                y={node.y + NODE_HEIGHT / 2 - 6}
+                text-anchor="middle"
+                class="lineage-svg__name"
+              >
+                {node.nom}
+              </text>
+              <text
+                x={x + NODE_WIDTH / 2}
+                y={node.y + NODE_HEIGHT / 2 + 14}
+                text-anchor="middle"
+                class="lineage-svg__dates"
+              >
+                {node.dates}
+              </text>
+            </a>
+          ) : (
+            <g>
+              <rect
+                x={x}
+                y={node.y}
+                width={NODE_WIDTH}
+                height={NODE_HEIGHT}
+                rx="4"
+                class="lineage-svg__node lineage-svg__node--placeholder"
+              />
+              <text
+                x={x + NODE_WIDTH / 2}
+                y={node.y + NODE_HEIGHT / 2 + 4}
+                text-anchor="middle"
+                class="lineage-svg__name lineage-svg__name--placeholder"
+              >
+                {node.nom}
+              </text>
+            </g>
+          )}
+        </g>
+      );
+    })}
+  </svg>
+
+  <ul class="lineage-svg__legend" role="list">
+    <li><span class="lineage-svg__chip" style="background:#2f7a3a"></span>Rite ancien</li>
+    <li><span class="lineage-svg__chip" style="background:#8b1a1a"></span>Rite nouveau (1968+)</li>
+    <li><span class="lineage-svg__chip lineage-svg__chip--dashed"></span>Rite inconnu</li>
+  </ul>
+</div>
+
+<style>
+  .lineage-svg-wrap {
+    width: 100%;
+    overflow-x: auto;
+    padding: var(--space-s) 0;
+  }
+  .lineage-svg {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  .lineage-svg__node {
+    fill: var(--paper-dim);
+    stroke: var(--rule);
+    stroke-width: 1;
+    transition: fill 150ms ease, stroke 150ms ease;
+  }
+  a:hover .lineage-svg__node,
+  a:focus-visible .lineage-svg__node {
+    fill: color-mix(in srgb, var(--rubric) 8%, var(--paper));
+    stroke: var(--rubric);
+  }
+  .lineage-svg__node--placeholder {
+    fill: transparent;
+    stroke-dasharray: 4 3;
+    stroke: var(--muted);
+  }
+  .lineage-svg__name {
+    font-family: var(--font-display);
+    font-size: 14px;
+    font-weight: 600;
+    fill: var(--ink);
+  }
+  .lineage-svg__name--placeholder {
+    fill: var(--muted);
+    font-style: italic;
+    font-weight: 400;
+  }
+  .lineage-svg__dates {
+    font-family: var(--font-serif);
+    font-size: 12px;
+    fill: var(--muted);
+  }
+  .lineage-svg__legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-m);
+    list-style: none;
+    padding: var(--space-s) 0 0;
+    margin: 0;
+    justify-content: center;
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .lineage-svg__legend li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+  }
+  .lineage-svg__chip {
+    display: inline-block;
+    width: 1.5rem;
+    height: 4px;
+    border-radius: 2px;
+  }
+  .lineage-svg__chip--dashed {
+    background: repeating-linear-gradient(
+      90deg,
+      #888070 0,
+      #888070 3px,
+      transparent 3px,
+      transparent 6px
+    );
+  }
+</style>

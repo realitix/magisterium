@@ -1,0 +1,48 @@
+slug: francois-chaillet
+nom: François Chaillet
+nom_complet: François Chaillet, O.F.M.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1506'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchaillet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Verdun, France
+  du: 1506&sup1;
+  au: 1515&sup1;
+- titre: Titular Bishop of Chalcedon
+  du: 1506&sup1;
+  au: null
+- titre: évêque auxiliaire de Liège
+  du: '1506-01-01'
+  au: null
+- titre: évêque auxiliaire de Verdun
+  du: '1505-01-01'
+  au: null
+- titre: évêque titulaire
+  du: '1506-01-01'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64780082
+  catholic_hierarchy: bchaillet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:02+00:00'
+  completeness: 0.25

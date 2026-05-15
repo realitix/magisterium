@@ -1,0 +1,45 @@
+slug: guy-bernard
+nom: Guy Bernard
+nom_complet: Guido Bernard
+naissance: '1450'
+deces: '1481-04-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1454-06-16'
+  consecrateur_principal: jean-bernard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbernargu.html
+  - https://fr.wikipedia.org/wiki/Guy_Bernard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: 1454&sup1;
+  au: '1481-04-28'
+- titre: évêque de Langres
+  du: '1454-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Guy%20Bernard%20%C3%A9v%C3%AAque%20de%20Langres.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q29034860
+  catholic_hierarchy: bbernargu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:20:57+00:00'
+  completeness: 0.75

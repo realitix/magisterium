@@ -1,0 +1,40 @@
+slug: manuel-de-saldanha
+nom: Manuel de Saldanha
+nom_complet: null
+naissance: '1620'
+deces: '1671-12-26'
+naissance_lieu: Lisboa, Archdiocese of Lisboa
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1671-06-21'
+  consecrateur_principal: antonio-de-mendonca
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaldm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viseu, Portugal
+  du: '1670-12-22'
+  au: '1671-12-26'
+- titre: évêque diocésain
+  du: '1670-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745766
+  catholic_hierarchy: bsaldm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:43:35+00:00'
+  completeness: 0.75

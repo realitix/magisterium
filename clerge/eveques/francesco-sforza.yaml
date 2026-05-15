@@ -1,0 +1,64 @@
+slug: francesco-sforza
+nom: Francesco Sforza
+nom_complet: Francesco Cardinal Sforza
+naissance: '1562-11-06'
+deces: '1624-09-09'
+naissance_lieu: Parma, Diocese of Parma, Italy
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: cardinal
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1618-05-01'
+  lieu: Pauline Chapel, San Silvestro di Monte Cavallo, Roma, Diocese of Roma {Rome},
+    Italy
+  co_consecrateurs:
+  - scipion-caffarelli-borghese
+  - giulio-cardinal-savelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsforzafr.html
+  - https://fr.wikipedia.org/wiki/Francesco_Sforza_(cardinal)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of San Nicola in Carcere
+  du: '1585-07-29'
+  au: null
+- titre: Cardinal-Deacon of Santa Maria in Via Lata
+  du: '1588-12-05'
+  au: null
+- titre: Cardinal-Priest of San Matteo in Merulana
+  du: '1617-11-13'
+  au: null
+- titre: Cardinal-Bishop of Albano
+  du: '1618-03-05'
+  au: null
+- titre: Cardinal-Bishop of Frascati
+  du: '1620-04-06'
+  au: null
+- titre: Cardinal-Bishop of Porto e Santa Rufina
+  du: '1623-09-27'
+  au: '1624-09-09'
+- titre: cardinal-évêque
+  du: '1618-03-05'
+  au: '1620-04-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cardinal%20Francesco%20Sforza.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1627492
+  catholic_hierarchy: bsforzafr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:13:42+00:00'
+  completeness: 0.88

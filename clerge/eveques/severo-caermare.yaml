@@ -1,0 +1,54 @@
+slug: severo-caermare
+nom: Severo Caermare
+nom_complet: Severo Cagátan Caérmare
+naissance: '1969-10-22'
+deces: null
+naissance_lieu: Poblacion
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2014-10-30'
+  lieu: Our Lady of the Most Holy Rosary, Cathedral, Dipolog, Diocese of Dipolog
+  consecrateur_principal: giuseppe-pinto
+  co_consecrateurs:
+  - jose-ricare-manguiran
+  - jose-araneta-cabantan
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaermare.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dipolog, Philippines
+  du: '2014-07-25'
+  au: null
+- titre: Apostolic Administrator of Iligan, Philippines
+  du: '2017-12-06'
+  au: '2019-09-05'
+- titre: évêque diocésain
+  du: '2014-07-25'
+  au: null
+- titre: administrateur apostolique
+  du: '2017-12-06'
+  au: '2019-09-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Severo%20Caermare%20-%20cropped%20%284955Religious%20of%20the%20Virgin%20Mary%2006%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q17417874
+  catholic_hierarchy: bcaermare
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:05:40+00:00'
+  completeness: 0.88

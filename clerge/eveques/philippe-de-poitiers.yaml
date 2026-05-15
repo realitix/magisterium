@@ -1,0 +1,43 @@
+slug: philippe-de-poitiers
+nom: Philippe de Poitiers
+nom_complet: Philip of Poictou
+naissance: '1200'
+deces: '1208-04-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1197-04-20'
+  consecrateur_principal: non-indexe-903daa01
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoictou.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Durham, England, Great Britain
+  du: 1195&sup2;
+  au: '1208-04-22'
+- titre: évêque catholique de Durham
+  du: '1195-01-01'
+  au: null
+- titre: archidiacre de Cantorbéry
+  du: '1194-01-01'
+  au: '1195-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7184629
+  catholic_hierarchy: bpoictou
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:28+00:00'
+  completeness: 0.62

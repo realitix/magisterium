@@ -1,0 +1,38 @@
+slug: ludovico-certa
+nom: Ludovico Certa
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcertal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castellammare di Stabia, Italy
+  du: '1446'
+  au: '1447'
+- titre: Roman Catholic Bishop of Castellammare di Stabia
+  du: '1446-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68865760
+  catholic_hierarchy: bcertal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:38:17+00:00'
+  completeness: 0.25

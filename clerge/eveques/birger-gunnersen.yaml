@@ -1,0 +1,42 @@
+slug: birger-gunnersen
+nom: Birger Gunnersen
+nom_complet: null
+naissance: '1440'
+deces: '1519-11-23'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q756617
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgunners.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lund, Sweden
+  du: '1498-05-09'
+  au: '1519-11-23'
+- titre: archevêque de Lund
+  du: '1498-05-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Birger%20Gunnersen%20%28detalje%20gravminde%29.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5777000
+  catholic_hierarchy: bgunners
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:28:21+00:00'
+  completeness: 0.38

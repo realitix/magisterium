@@ -1,0 +1,45 @@
+slug: jean-pierre-castillon
+nom: Jean-Pierre Castillon
+nom_complet: Jean-Pierre-Bernard Castillon
+naissance: '1828-07-08'
+deces: '1885-11-09'
+naissance_lieu: Merville
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1885-07-25'
+  lieu: S. Etienne, Cathedral, Toulouse, Archdiocese of Toulouse (-Narbonne)
+  consecrateur_principal: florian-desprez
+  co_consecrateurs:
+  - pierre-goux
+  - felix-arsene-billard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastjp.html
+  - https://fr.wikipedia.org/wiki/Jean-Pierre_Castillon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dijon, France
+  du: null
+  au: '1885-11-09'
+- titre: évêque de Dijon
+  du: '1885-02-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15407252
+  catholic_hierarchy: bcastjp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:31:18+00:00'
+  completeness: 1.0

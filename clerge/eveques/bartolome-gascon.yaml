@@ -1,0 +1,42 @@
+slug: bartolome-gascon
+nom: Bartolome Gascon
+nom_complet: null
+naissance: '1666'
+deces: null
+naissance_lieu: Lécera
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1727-06-03'
+  co_consecrateurs:
+  - giuseppe-saporiti
+  - nicolas-xavier-santamarie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgascon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Iasus
+  du: '1727-03-17'
+  au: null
+- titre: évêque titulaire
+  du: '1727-03-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752294
+  catholic_hierarchy: bgascon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:12:39+00:00'
+  completeness: 0.62

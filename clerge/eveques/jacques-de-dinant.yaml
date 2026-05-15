@@ -1,0 +1,39 @@
+slug: jacques-de-dinant
+nom: Jacques de Dinant
+nom_complet: Iacobus de Dinanto
+naissance: '1280'
+deces: '1300'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-669f9354
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdinant.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: '1247-10-04'
+  au: '1259-04-17'
+- titre: évêque d'Arras
+  du: '1247-10-11'
+  au: '1259-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17388475
+  catholic_hierarchy: bdinant
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:51:58+00:00'
+  completeness: 0.38

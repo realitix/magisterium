@@ -1,0 +1,43 @@
+slug: auger-ii-de-montfaucon
+nom: Auger II de Montfaucon
+nom_complet: Auger de Montfaucon
+naissance: null
+deces: '1303-06-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmntfaha.html
+  - https://fr.wikipedia.org/wiki/Auger_II_de_Montfaucon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of (Saint-Lizier de) Couserans (or Conserans), France
+  du: 1279&sup2;
+  au: '1303-06-01'
+- titre: évêque diocésain
+  du: '1279-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Lizier%20-%20Auger%20de%20Montfaucon%20-%2020110308%20%281%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q60320772
+  catholic_hierarchy: bmntfaha
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:01:45+00:00'
+  completeness: 0.38

@@ -1,0 +1,46 @@
+slug: david-fitzgerald
+nom: David FitzGerald
+nom_complet: null
+naissance: '1103'
+deces: '1176-05-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1148-12-19'
+  consecrateur_principal: non-indexe-05d03efe
+  co_consecrateurs:
+  - non-indexe-b42390b0
+  - non-indexe-8466731c
+  - gilbert-foliot
+  - non-indexe-46993c24
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfitzgd.html
+  - https://fr.wikipedia.org/wiki/David_FitzGerald
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: 1147&sup1;
+  au: '1176-05-08'
+- titre: évêque diocésain
+  du: '1147-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5233665
+  catholic_hierarchy: bfitzgd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:46:45+00:00'
+  completeness: 0.88

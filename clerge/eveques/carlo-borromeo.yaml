@@ -1,0 +1,44 @@
+slug: carlo-borromeo
+nom: Carlo Borromeo
+nom_complet: null
+naissance: null
+deces: '1537-10-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborroc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ugento, Italy
+  du: '1530-03-09'
+  au: null
+- titre: Bishop of Pozzuoli, Italy
+  du: '1537-07-06'
+  au: 1540&sup2;
+- titre: évêque diocésain
+  du: '1530-03-19'
+  au: null
+- titre: évêque diocésain
+  du: '1537-07-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q43375753
+  catholic_hierarchy: bborroc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:20+00:00'
+  completeness: 0.25

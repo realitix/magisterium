@@ -1,0 +1,40 @@
+slug: bernard-lucii
+nom: Bernard Lucii
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1302-04-11'
+  consecrateur_principal: giovanni-boccamazza
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbernarpa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Penne e Atri, Italy
+  du: 1302&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1302-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108452559
+  catholic_hierarchy: bbernarpa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:21:01+00:00'
+  completeness: 0.62

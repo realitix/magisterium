@@ -1,0 +1,50 @@
+slug: giacinto-pippi
+nom: Giacinto Pippi
+nom_complet: null
+naissance: '1779-03-12'
+deces: '1839-12-30'
+naissance_lieu: Massa Marittima
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1815-04-03'
+  lieu: Cathedral, Siena, Archdiocese of Siena
+  consecrateur_principal: antonio-felice-zondadari
+  co_consecrateurs:
+  - pellegrino-maria-carletti
+  - pietro-fazzi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpippi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montalcino, Italy
+  du: '1815-03-15'
+  au: null
+- titre: Bishop of Chiusi e Pienza, Italy
+  du: '1824-07-12'
+  au: '1839-12-30'
+- titre: Roman Catholic Bishop of Chiusi-Pienza
+  du: '1824-07-12'
+  au: null
+- titre: Roman Catholic Bishop of Montalcino
+  du: '1815-03-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64732931
+  catholic_hierarchy: bpippi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:35:36+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: pietro-bianco
+nom: Pietro Bianco
+nom_complet: null
+naissance: '1753-06-27'
+deces: '1827-05-28'
+naissance_lieu: Sassari, Archdiocese of Sassari
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1805-12-22'
+  lieu: Sassari, Archdiocese of Sassari
+  consecrateur_principal: giovanni-battista-simon
+  co_consecrateurs:
+  - gavino-murro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbianp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alghero, Italy
+  du: null
+  au: '1827-05-28'
+- titre: évêque diocésain
+  du: '1802-09-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733779
+  catholic_hierarchy: bbianp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:25:49+00:00'
+  completeness: 1.0

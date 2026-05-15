@@ -1,0 +1,49 @@
+slug: teemu-sippo
+nom: Teemu Sippo
+nom_complet: Teemu Jyrki Juhani Sippo, S.C.I.
+naissance: '1947-05-20'
+deces: null
+naissance_lieu: Lahti
+deces_lieu: null
+rang: eveque
+nationalite: Q33
+tampon: ordo_dubius
+sacre:
+  date: '2009-09-05'
+  lieu: Lutheran, Cathedral, Turku
+  consecrateur_principal: karl-lehmann
+  co_consecrateurs:
+  - jozef-wrobel
+  - czeslaw-kozon
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsippo.html
+  - https://fr.wikipedia.org/wiki/Teemu_Sippo
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Helsinki, Finland
+  du: '2009-06-16'
+  au: '2019-05-20'
+- titre: Évêque catholique d'Helsinki
+  du: '2009-06-16'
+  au: '2019-05-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Teemu%20Sippo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q716804
+  catholic_hierarchy: bsippo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:20:55+00:00'
+  completeness: 0.88

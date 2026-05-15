@@ -1,0 +1,42 @@
+slug: pierre-ayme
+nom: Pierre Aymé
+nom_complet: null
+naissance: null
+deces: '1372-09-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baymep.html
+  - https://fr.wikipedia.org/wiki/Pierre_Aym%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: '1362-11-10'
+  au: '1372-09-02'
+- titre: évêque d'Auxerre
+  du: '1362-11-18'
+  au: null
+- titre: ambassadeur de France en Hongrie
+  du: '1364-01-01'
+  au: '1365-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3383821
+  catholic_hierarchy: baymep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:17+00:00'
+  completeness: 0.38

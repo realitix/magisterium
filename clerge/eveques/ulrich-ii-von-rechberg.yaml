@@ -1,0 +1,41 @@
+slug: ulrich-ii-von-rechberg
+nom: Ulrich II. von Rechberg
+nom_complet: Ulrich von Rechberg
+naissance: '1200'
+deces: '1187'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brechb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: '1178-10-31'
+  au: '1187-06-28'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Spire
+  du: '1178-11-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1639381
+  catholic_hierarchy: brechb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:05:51+00:00'
+  completeness: 0.38

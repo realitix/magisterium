@@ -1,0 +1,39 @@
+slug: william-reade
+nom: William Reade
+nom_complet: null
+naissance: '1283'
+deces: '1385-08-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1369-09-02'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breadew.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chichester, England, Great Britain
+  du: '1368-10-11'
+  au: '1385-08-18'
+- titre: Roman Catholic Bishop of Chichester
+  du: '1368-10-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q14945632
+  catholic_hierarchy: breadew
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:05:24+00:00'
+  completeness: 0.5

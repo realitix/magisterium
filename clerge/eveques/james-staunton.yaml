@@ -1,0 +1,43 @@
+slug: james-staunton
+nom: James Staunton
+nom_complet: null
+naissance: '1889-02-20'
+deces: '1963-06-27'
+naissance_lieu: Ballyouskill, Ballyragget
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1939-02-05'
+  consecrateur_principal: paschal-robinson
+  co_consecrateurs:
+  - patrick-collier
+  - thomas-keogh
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstau.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ferns, Ireland
+  du: '1938-12-10'
+  au: '1963-06-27'
+- titre: évêque diocésain
+  du: '1938-12-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733368
+  catholic_hierarchy: bstau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:36:48+00:00'
+  completeness: 1.0

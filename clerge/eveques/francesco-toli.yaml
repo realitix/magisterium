@@ -1,0 +1,49 @@
+slug: francesco-toli
+nom: Francesco Toli
+nom_complet: null
+naissance: '1761-03-04'
+deces: '1833-07-06'
+naissance_lieu: Livorno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1795-09-27'
+  consecrateur_principal: luigi-valenti-gonzaga
+  co_consecrateurs:
+  - ottavio-boni
+  - bonaventura-gazzola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btoli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Massa Marittima, Italy
+  du: '1795-09-22'
+  au: null
+- titre: Bishop of Pistoia e Prato, Italy
+  du: '1803-03-28'
+  au: '1833-07-06'
+- titre: évêque de Massa Marittima-Piombino
+  du: '1795-09-22'
+  au: null
+- titre: évêque de Pistoie et Prato
+  du: '1803-03-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747192
+  catholic_hierarchy: btoli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:02:35+00:00'
+  completeness: 1.0

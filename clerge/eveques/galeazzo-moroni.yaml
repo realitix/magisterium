@@ -1,0 +1,47 @@
+slug: galeazzo-moroni
+nom: Galeazzo Moroni
+nom_complet: null
+naissance: '1550'
+deces: '1613-09-01'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Macerata, Diocese of Macerata e Tolentino
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1573-06-28'
+  lieu: Milano, Archdiocese of Milano {Milan}
+  consecrateur_principal: st-charles-cardinal-borromeo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoronig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Macerata, Italy
+  du: '1573-06-10'
+  au: null
+- titre: Bishop of Recanati, Italy
+  du: '1573-06-10'
+  au: '1592-02-09'
+- titre: Bishop of Macerata e Tolentino, Italy
+  du: '1586-12-10'
+  au: '1613-09-01'
+- titre: évêque diocésain
+  du: '1573-06-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61740510
+  catholic_hierarchy: bmoronig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:13:28+00:00'
+  completeness: 0.75

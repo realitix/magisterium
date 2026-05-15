@@ -1,0 +1,64 @@
+slug: sixte-v
+nom: Sixte V
+nom_complet: Sixtus V
+naissance: '1521-12-13'
+deces: '1590-08-27'
+naissance_lieu: Grottamare
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1567-01-12'
+  lieu: S.Sacrament, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: antonio-lauro-1498
+  co_consecrateurs:
+  - giovanni-antonio-astorch-astorco
+  - giovanni-d-amato
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperf.html
+  - https://fr.wikipedia.org/wiki/Sixte_V
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Order of Friars Minor Conventual
+  du: 1566&sup2;
+  au: 1568&sup2;
+- titre: Bishop of Sant&rsquo;Agata de&rsquo; Goti, Italy
+  du: '1566-11-15'
+  au: null
+- titre: Bishop of Fermo, Italy
+  du: '1571-12-17'
+  au: 14 Aug 1577&#8310;
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1590-08-27'
+- titre: pape
+  du: '1585-04-24'
+  au: '1590-08-27'
+- titre: évêque de Sant'Agata de' Goti
+  du: '1566-11-25'
+  au: null
+- titre: évêque de Fermo
+  du: '1571-12-27'
+  au: '1577-08-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Cath%C3%A9drale%20Sainte-C%C3%A9cile%20-%20Tr%C3%A8sor%20-%20Portrait%20du%20pape%20Sixte%20V%20-%20PalissyIM81001477.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q133350
+  catholic_hierarchy: bperf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:22:16+00:00'
+  completeness: 1.0

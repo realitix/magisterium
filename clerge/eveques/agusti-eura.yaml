@@ -1,0 +1,48 @@
+slug: agusti-eura
+nom: Agustí Eura
+nom_complet: Ramón Francisco Agustín Eura, O.S.A.
+naissance: '1684-07-03'
+deces: '1763-12-11'
+naissance_lieu: Barcelona
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1738-04-27'
+  lieu: St. Augustin, Madrid, Archdiocese of Toledo
+  consecrateur_principal: gaspar-cardinal-de-molina-y-oviedo-o-e-s-a
+  co_consecrateurs:
+  - jose-francisco-magdaleno
+  - jose-platas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beura.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orense, Spain
+  du: '1738-01-27'
+  au: '1763-12-11'
+- titre: évêque d'Orense
+  du: '1738-01-27'
+  au: '1763-12-11'
+fraternite: augustins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Logotipo%20diocesis%20ourense.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q11904399
+  catholic_hierarchy: beura
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:11+00:00'
+  completeness: 1.0

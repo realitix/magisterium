@@ -1,0 +1,44 @@
+slug: pierre-paunet
+nom: Pierre Paunet
+nom_complet: Pierre Paunet, O.F.M. Obs.
+naissance: '1581-08-19'
+deces: '1631-03-31'
+naissance_lieu: Barbançon, Belgium
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1628-05-21'
+  consecrateur_principal: jacques-boonen
+  co_consecrateurs:
+  - jean-van-malderen
+  - michael-ophovius
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaunet.html
+  - https://fr.wikipedia.org/wiki/Pierre_Paunet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Omer, France
+  du: '1628-04-03'
+  au: '1631-03-31'
+- titre: évêque diocésain
+  du: '1628-04-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3386541
+  catholic_hierarchy: bpaunet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:14:16+00:00'
+  completeness: 1.0

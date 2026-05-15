@@ -1,0 +1,38 @@
+slug: donato-curiale
+nom: Donato Curiale
+nom_complet: null
+naissance: '1501'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcurid.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bova, Italy
+  du: '1524-04-13'
+  au: 1549&sup1;
+- titre: Roman Catholic Bishop of Bova
+  du: '1524-04-23'
+  au: '1549-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68866930
+  catholic_hierarchy: bcurid
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:19:05+00:00'
+  completeness: 0.25

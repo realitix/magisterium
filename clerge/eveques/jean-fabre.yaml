@@ -1,0 +1,47 @@
+slug: jean-fabre
+nom: Jean Fabre
+nom_complet: Jean Fabre, O.P.
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Vienne, Archdiocese of Vienne
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1594-03-09'
+  lieu: S. Pierre, Avignon, Archdiocese of Avignon
+  consecrateur_principal: antoine-de-bologne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfabrej.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Vienne, France
+  du: '1594-03-09'
+  au: null
+- titre: Titular Bishop of Tarsus
+  du: '1594-03-09'
+  au: null
+- titre: évêque titulaire
+  du: '1594-03-09'
+  au: null
+- titre: évêque auxiliaire
+  du: '1594-03-09'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q55956679
+  catholic_hierarchy: bfabrej
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:28:25+00:00'
+  completeness: 0.38

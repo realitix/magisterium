@@ -1,0 +1,44 @@
+slug: artus-de-lionne-1583
+nom: Artus de Lionne
+nom_complet: Arthus de Lionne
+naissance: '1583-09-01'
+deces: '1663-05-18'
+naissance_lieu: Grenoble
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1639-11-27'
+  consecrateur_principal: nicolas-sanguin
+  co_consecrateurs:
+  - richard-smith
+  - antoine-godeau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blionnea.html
+  - https://fr.wikipedia.org/wiki/Artus_de_Lionne_(1583-1663)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap, France
+  du: '1639-04-11'
+  au: '1663-05-18'
+- titre: évêque diocésain
+  du: '1639-04-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q25301461
+  catholic_hierarchy: blionnea
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:51:36+00:00'
+  completeness: 1.0

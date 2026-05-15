@@ -1,0 +1,57 @@
+slug: pascal-iii
+nom: Pascal III
+nom_complet: Guido Cardinal da Crema
+naissance: '1110'
+deces: '1168-09-20'
+naissance_lieu: Crema
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1164-04-26'
+  consecrateur_principal: henri-ii-de-leez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrema.html
+  - https://fr.wikipedia.org/wiki/Pascal_III
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Sant&rsquo;Eustachio
+  du: 1150&sup2;
+  au: null
+- titre: Cardinal-Priest of Santa Maria in Trastevere
+  du: 1151&sup1;
+  au: null
+- titre: Bishop
+  du: null
+  au: '1168-09-20'
+- titre: cardinal
+  du: '1150-01-01'
+  au: null
+- titre: ambassadeur
+  du: null
+  au: null
+- titre: antipape
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Spinello%20Election%20of%20Antipope%20Paschal.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q346582
+  catholic_hierarchy: bcrema
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:13:43+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: luigi-tesorieri
+nom: Luigi Tesorieri
+nom_complet: null
+naissance: '1825-03-22'
+deces: '1901-04-02'
+naissance_lieu: Forlì, Diocese of Forli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-11-30'
+  lieu: Cathedral, Imola, Diocese of Imola
+  consecrateur_principal: vincenzo-moretti
+  co_consecrateurs:
+  - antonio-canzi
+  - giovanni-maria-majoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bteso.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Imola, Italy
+  du: '1871-10-27'
+  au: '1901-04-02'
+- titre: évêque diocésain
+  du: '1871-10-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745207
+  catholic_hierarchy: bteso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:55:50+00:00'
+  completeness: 1.0

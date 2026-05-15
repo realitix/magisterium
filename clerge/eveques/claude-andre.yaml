@@ -1,0 +1,47 @@
+slug: claude-andre
+nom: Claude André
+nom_complet: null
+naissance: '1743-05-30'
+deces: '1818-08-25'
+naissance_lieu: Delphinatu
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-05-09'
+  consecrateur_principal: etienne-hubert-de-cambaceres
+  co_consecrateurs:
+  - louis-mathias-de-barral
+  - charles-antoine-henri-du-valk-de-dampierre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bandre.html
+  - https://fr.wikipedia.org/wiki/Claude_Andr%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quimper, France
+  du: null
+  au: Dec 1804&sup2;
+- titre: Bishop Emeritus of Quimper, France
+  du: null
+  au: '1818-08-25'
+- titre: évêque diocésain
+  du: '1802-04-21'
+  au: '1804-12-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2976881
+  catholic_hierarchy: bandre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:37:58+00:00'
+  completeness: 1.0

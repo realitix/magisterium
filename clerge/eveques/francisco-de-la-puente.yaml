@@ -1,0 +1,47 @@
+slug: francisco-de-la-puente
+nom: Francisco de La Puente
+nom_complet: Francisco de La Puente, O.P.
+naissance: '1779-04-02'
+deces: '1854-11-15'
+naissance_lieu: Saldaña
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1846-10-28'
+  lieu: Madrid, Archdiocese of Toledo
+  consecrateur_principal: juan-jose-bonel-y-orbe
+  co_consecrateurs:
+  - ramon-montero
+  - judas-jose-romo-y-gamboa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blapu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: null
+  au: '1854-11-15'
+- titre: évêque de Ségovie
+  du: '1848-02-14'
+  au: null
+- titre: évêque de Porto Rico
+  du: '1846-03-06'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q10885055
+  catholic_hierarchy: blapu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:33:29+00:00'
+  completeness: 1.0

@@ -1,0 +1,55 @@
+slug: francois-lagrange
+nom: François Lagrange
+nom_complet: null
+naissance: '1827-03-15'
+deces: '1895-06-23'
+naissance_lieu: Dun-le-Roi
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1890-03-19'
+  lieu: Cathedral, Chartres, Diocese of Chartres
+  consecrateur_principal: francois-richard
+  co_consecrateurs:
+  - pierre-hector-coullie
+  - auguste-marchal
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blagra.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Lagrange_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: null
+  au: '1895-06-23'
+- titre: évêque de Chartres
+  du: '1889-12-01'
+  au: '1895-06-23'
+- titre: vicaire général
+  du: '1860-01-01'
+  au: '1878-01-01'
+- titre: chanoine
+  du: '1880-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1%20a2%20-%201938a1011.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q28105270
+  catholic_hierarchy: blagra
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:28:12+00:00'
+  completeness: 1.0

@@ -1,0 +1,40 @@
+slug: eberhard-de-kirchberg
+nom: Eberhard de Kirchberg
+nom_complet: Eberhard von Kirchberg
+naissance: '1370'
+deces: '1413-08-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1406'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvkirch.html
+  - https://fr.wikipedia.org/wiki/Eberhard_de_Kirchberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: '1404-05-30'
+  au: '1413-08-12'
+- titre: évêque d'Augsbourg
+  du: '1404-06-08'
+  au: '1413-08-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q44191288
+  catholic_hierarchy: bvkirch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:44:11+00:00'
+  completeness: 0.5

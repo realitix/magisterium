@@ -1,0 +1,41 @@
+slug: albrecht-von-wernigerode
+nom: Albrecht von Wernigerode
+nom_complet: null
+naissance: '1346'
+deces: '1419-09-11'
+naissance_lieu: Wernigerode
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwernig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Halberstadt, Germany
+  du: '1411-03-28'
+  au: '1419-09-11'
+- titre: évêque diocésain
+  du: '1411-04-06'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q994519
+  catholic_hierarchy: bwernig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:01+00:00'
+  completeness: 0.38

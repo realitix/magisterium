@@ -1,0 +1,52 @@
+slug: john-grene-c-r-s-a
+nom: John Grene, C.R.S.A.
+nom_complet: John Drene
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1447-04-16'
+  consecrateur_principal: guglielmo-logoteta
+  co_consecrateurs:
+  - john-de-fossade
+  - odo-o-rsquo-higgins
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdrene.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Inis Cathaig, Ireland
+  du: '1447-03-30'
+  au: 1467&#8311;
+- titre: Auxiliary Bishop of York, England, Great Britain
+  du: 1452&sup2;
+  au: 1462&sup2;
+- titre: Auxiliary Bishop of Canterbury, England, Great Britain
+  du: 1465&sup2;
+  au: 1467&sup2;
+- titre: évêque diocésain
+  du: '1446-04-15'
+  au: null
+- titre: évêque auxiliaire
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779904
+  catholic_hierarchy: bdrene
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:15+00:00'
+  completeness: 0.75

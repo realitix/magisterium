@@ -1,0 +1,43 @@
+slug: antoine-de-castelnau
+nom: Antoine de Castelnau
+nom_complet: null
+naissance: null
+deces: '1539'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1534-12-20'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastelna.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Castelnau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarbes, France
+  du: '1534-09-02'
+  au: 1539&sup2;
+- titre: ambassadeur
+  du: null
+  au: null
+- titre: Évêque de Tarbes
+  du: '1534-09-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2856853
+  catholic_hierarchy: bcastelna
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:30:28+00:00'
+  completeness: 0.38

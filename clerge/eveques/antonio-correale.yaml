@@ -1,0 +1,43 @@
+slug: antonio-correale
+nom: Antonio Correale
+nom_complet: null
+naissance: '1700-11-15'
+deces: '1764-08-01'
+naissance_lieu: Sorrento
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1748-07-25'
+  consecrateur_principal: joaquin-fernandez-portocarrero
+  co_consecrateurs:
+  - giovanni-andrea-tria
+  - giustino-girolamo-bagnesi-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorreale.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sora, Italy
+  du: '1748-07-15'
+  au: Aug 1764&sup3;
+- titre: Roman Catholic Bishop of Sora
+  du: '1748-07-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763508
+  catholic_hierarchy: bcorreale
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:07:40+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: paul-ii
+nom: Paul II
+nom_complet: null
+naissance: '1417-02-23'
+deces: '1471-07-26'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: pape
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1464-09-14'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: niccolo-cardinal-fortiguerra
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarbo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of Santa Maria Nuova
+  du: '1440-07-01'
+  au: null
+- titre: Administrator of Cervia, Italy
+  du: '1440-07-01'
+  au: '1451-06-19'
+- titre: Cardinal-Priest of San Marco
+  du: '1451-06-16'
+  au: null
+- titre: Bishop of Vicenza, Italy
+  du: '1451-06-16'
+  au: null
+- titre: Bishop of Padova {Padua}, Italy
+  du: '1459-03-09'
+  au: 26 Mar 1460&#8310;
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1471-07-26'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bbarbo
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:01:54+00:00'
+  completeness: 0.88

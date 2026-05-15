@@ -1,0 +1,41 @@
+slug: persio-caracci
+nom: Persio Caracci
+nom_complet: null
+naissance: '1594-07-10'
+deces: '1675-08-27'
+naissance_lieu: Guastalla
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaraccip.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Larino, Italy
+  du: '1631-01-08'
+  au: 1656&sup2;
+- titre: Bishop Emeritus of Larino, Italy
+  du: null
+  au: '1675-08-27'
+- titre: évêque diocésain
+  du: '1631-01-08'
+  au: '1656-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734225
+  catholic_hierarchy: bcaraccip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:18:24+00:00'
+  completeness: 0.5

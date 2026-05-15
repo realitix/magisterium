@@ -1,0 +1,49 @@
+slug: thomas-basin
+nom: Thomas Basin
+nom_complet: null
+naissance: '1412'
+deces: '1491-12-03'
+naissance_lieu: Caudebec-en-Caux
+deces_lieu: Utrecht, Diocese of Utrecht, Netherlands
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbasin.html
+  - https://fr.wikipedia.org/wiki/Thomas_Basin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lisieux, France
+  du: '1447-10-11'
+  au: '1474'
+- titre: Bishop Emeritus of Lisieux, France
+  du: null
+  au: '1491-12-03'
+- titre: évêque diocésain
+  du: '1447-10-20'
+  au: '1474-01-01'
+- titre: évêque auxiliaire
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Basin.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3524892
+  catholic_hierarchy: bbasin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:06:54+00:00'
+  completeness: 0.38

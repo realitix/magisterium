@@ -1,0 +1,47 @@
+slug: johannes-miraeus
+nom: Johannes Miraeus
+nom_complet: Jean Le Mire (Miraeus)
+naissance: '1560-01-06'
+deces: '1611-01-12'
+naissance_lieu: Bruxelles
+deces_lieu: null
+rang: eveque
+nationalite: Q6581823
+tampon: ordo_validus
+sacre:
+  date: '1604-05-30'
+  consecrateur_principal: matthias-van-den-hove-hovius
+  co_consecrateurs:
+  - pieter-damant
+  - francois-buisseret
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmiraeus.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Antwerpen {Antwerp, Anvers}, Belgium
+  du: '1604-03-15'
+  au: '1611-01-12'
+- titre: évêque diocésain
+  du: '1604-03-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Miraeus%20by%20Otto%20van%20Veen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1925473
+  catholic_hierarchy: bmiraeus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:59:41+00:00'
+  completeness: 1.0

@@ -1,0 +1,55 @@
+slug: johannes-kreidler
+nom: Johannes Kreidler
+nom_complet: null
+naissance: '1946-05-31'
+deces: null
+naissance_lieu: Horb-Grünmettstetten
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1991-08-31'
+  lieu: Cathedral, Rottenburg, Diocese of Rottenburg-Stuttgart
+  consecrateur_principal: walter-kasper
+  co_consecrateurs:
+  - bernhard-rieger
+  - franz-josef-kuhnle
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkreidler.html
+  - https://fr.wikipedia.org/wiki/Johannes_Kreidler_(pr%C3%A9lat_catholique)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Rottenburg-Stuttgart, Germany
+  du: '1991-06-06'
+  au: '2017-03-02'
+- titre: Titular Bishop of Edistiana
+  du: '1991-06-06'
+  au: null
+- titre: évêque auxiliaire
+  du: '1991-06-06'
+  au: '2017-03-02'
+- titre: évêque titulaire
+  du: '1991-06-06'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Blutritt%202011%20Balkon%20Kreidler.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q100382
+  catholic_hierarchy: bkreidler
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:21:18+00:00'
+  completeness: 0.88

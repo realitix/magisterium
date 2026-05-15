@@ -1,0 +1,43 @@
+slug: joao-de-mendonca
+nom: João de Mendonça
+nom_complet: null
+naissance: '1673-06-12'
+deces: '1736-08-02'
+naissance_lieu: Estremoz
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1713-04-30'
+  consecrateur_principal: nuno-da-cunha-e-ataide
+  co_consecrateurs:
+  - jose-de-oliveira-o-e-s-a
+  - antonio-botado-de-foios-pereira-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmendj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Guarda, Portugal
+  du: null
+  au: '1736-08-02'
+- titre: évêque de Guarda
+  du: '1712-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734042
+  catholic_hierarchy: bmendj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:50:33+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: jean-deledicque
+nom: Jean Deledicque
+nom_complet: Jean-Georges Deledicque
+naissance: '1925-03-02'
+deces: '1997-08-25'
+naissance_lieu: Billy-Montigny
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1987-09-20'
+  lieu: Notre-Dame-de-la-Treille, Cathedral Basilica, Lille, Diocese of Lille
+  consecrateur_principal: jean-vilnet
+  co_consecrateurs:
+  - albert-decourtray
+  - jacques-delaporte
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdele.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lille, France
+  du: '1987-06-19'
+  au: '1997-08-25'
+- titre: Titular Bishop of Hierpiniana
+  du: '1987-06-19'
+  au: null
+- titre: évêque titulaire
+  du: '1987-06-19'
+  au: null
+- titre: évêque auxiliaire
+  du: '1987-06-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747381
+  catholic_hierarchy: bdele
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:39:28+00:00'
+  completeness: 1.0

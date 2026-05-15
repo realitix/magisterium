@@ -1,0 +1,54 @@
+slug: jean-arnold-barrett
+nom: Jean-Arnold Barrett
+nom_complet: Jean Arnold Barrett
+naissance: '1770-02-22'
+deces: '1835-07-31'
+naissance_lieu: Looz
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1833-06-16'
+  consecrateur_principal: engelbert-sterckx
+  co_consecrateurs:
+  - jean-joseph-delplancq
+  - cornelis-richard-anton-van-bommel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarret.html
+  - https://fr.wikipedia.org/wiki/Jean-Arnold_Barrett
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '1833-04-15'
+  au: '1835-07-31'
+- titre: vicaire général
+  du: null
+  au: null
+- titre: vicaire capitulaire
+  du: null
+  au: null
+- titre: évêque de Namur
+  du: '1833-04-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Arnold%20Barrett.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q777663
+  catholic_hierarchy: bbarret
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:04:52+00:00'
+  completeness: 1.0

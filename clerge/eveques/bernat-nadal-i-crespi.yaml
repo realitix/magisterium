@@ -1,0 +1,53 @@
+slug: bernat-nadal-i-crespi
+nom: Bernat Nadal i Crespí
+nom_complet: Bernardo Nadal Crespí
+naissance: '1746-04-05'
+deces: '1818-12-12'
+naissance_lieu: Soller
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1794-11-16'
+  consecrateur_principal: juan-de-moya-de-la-torre-o-f-m-obs
+  co_consecrateurs:
+  - felipe-perez-santa-maria
+  - atanasio-puyal-y-poveda
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnadal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mallorca, Spain
+  du: '1794-09-12'
+  au: '1818-12-12'
+- titre: évêque de Majorque
+  du: '1798-01-01'
+  au: '1818-12-12'
+- titre: évêque de Majorque et Minorque
+  du: '1794-09-12'
+  au: '1798-01-01'
+- titre: député
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Nadal%20y%20Cresp%C3%AD%2C%20obispo%20de%20Mallorca.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8246859
+  catholic_hierarchy: bnadal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:23:48+00:00'
+  completeness: 1.0

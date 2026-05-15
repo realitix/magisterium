@@ -1,0 +1,44 @@
+slug: john-barry-1799
+nom: John Barry
+nom_complet: null
+naissance: '1799-07-16'
+deces: '1859-11-19'
+naissance_lieu: Coolamain, Diocese of Ferns, Ireland
+deces_lieu: Paris, Archdiocese of Paris, France
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1857-08-02'
+  lieu: Assumption, Cathedral, Baltimore, Archdiocese of Baltimore, Maryland
+  consecrateur_principal: francis-patrick-kenrick
+  co_consecrateurs:
+  - michel-portier
+  - john-neumann
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarry.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Savannah, Georgia, USA
+  du: '1857-01-09'
+  au: '1859-11-19'
+- titre: évêque diocésain
+  du: '1857-01-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6220904
+  catholic_hierarchy: bbarry
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:05:26+00:00'
+  completeness: 1.0

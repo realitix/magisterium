@@ -1,0 +1,52 @@
+slug: vitus-huonder
+nom: Vitus Huonder
+nom_complet: null
+naissance: '1942-04-21'
+deces: '2024-04-03'
+naissance_lieu: Trun, Diocese of Chur
+deces_lieu: Sancta Maria Institute, Wangs, Diocese of Sankt Gallen
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '2007-09-08'
+  lieu: Abbey, Einsiedeln, Diocese of Chur
+  consecrateur_principal: amedee-grab
+  co_consecrateurs:
+  - francesco-canalini
+  - kurt-koch
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhuonder.html
+  - https://fr.wikipedia.org/wiki/Vitus_Huonder
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: '2007-07-08'
+  au: null
+- titre: Bishop Emeritus of Chur, Switzerland
+  du: null
+  au: '2024-04-03'
+- titre: évêque diocésain
+  du: '2007-07-08'
+  au: '2019-05-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vitus%20Huonder%20%28rogn%C3%A9%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q117608
+  catholic_hierarchy: bhuonder
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:50:13+00:00'
+  completeness: 1.0

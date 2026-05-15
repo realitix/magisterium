@@ -1,0 +1,43 @@
+slug: didaco-di-pace
+nom: Didaco Di Pace
+nom_complet: null
+naissance: '1661-04-23'
+deces: '1737-11-28'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1718-05-29'
+  consecrateur_principal: sebastiano-antonio-tanara
+  co_consecrateurs:
+  - alessandro-bonaventura-1643-ebdd45
+  - giovanni-cristoforo-battelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdipace.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarno, Italy
+  du: '1718-05-11'
+  au: '1737-11-28'
+- titre: Roman Catholic Bishop of Sarno
+  du: '1718-05-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763870
+  catholic_hierarchy: bdipace
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:52:47+00:00'
+  completeness: 1.0

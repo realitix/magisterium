@@ -1,0 +1,46 @@
+slug: gabriel-de-saluces
+nom: Gabriel de Saluces
+nom_complet: Gabriel de Saluti
+naissance: '1501-10-06'
+deces: '1548-08-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsaluti.html
+  - https://fr.wikipedia.org/wiki/Gabriel_de_Saluces
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aire, France
+  du: '1530-03-09'
+  au: 1537&sup1;
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque d'Aire
+  du: '1530-03-19'
+  au: '1537-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gabriele%20marchese%20di%20Saluzzo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3756712
+  catholic_hierarchy: bsaluti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:45:29+00:00'
+  completeness: 0.25

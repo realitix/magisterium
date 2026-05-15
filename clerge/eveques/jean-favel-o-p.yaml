@@ -1,0 +1,41 @@
+slug: jean-favel-o-p
+nom: Jean Favel, O.P.
+nom_complet: Jean Favel
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfavel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Besançon, France
+  du: '1502-08-19'
+  au: null
+- titre: Titular Bishop of Nazareth
+  du: '1502-08-19'
+  au: null
+- titre: évêque auxiliaire de Besançon
+  du: '1502-08-29'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q69133006
+  catholic_hierarchy: bfavel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:46+00:00'
+  completeness: 0.25

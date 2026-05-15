@@ -1,0 +1,42 @@
+slug: basile-de-cesaree
+nom: Basile de Césarée
+nom_complet: St. Basil of Caesarea (the Great)
+naissance: '329'
+deces: '379'
+naissance_lieu: Caesarea
+deces_lieu: null
+rang: archeveque
+nationalite: Q1747689
+tampon: ordo_incertus
+sacre:
+  date: '14'
+  consecrateur_principal: st-gregory-of-nyssa
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaes.html
+  - https://fr.wikipedia.org/wiki/Basile_de_C%C3%A9sar%C3%A9e
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Caesarea in Cappadocia, Turkey
+  du: '370'
+  au: 1 Jan 379&sup3;
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Basil%20of%20Caesarea.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q44258
+  catholic_hierarchy: bcaes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:05:41+00:00'
+  completeness: 0.62

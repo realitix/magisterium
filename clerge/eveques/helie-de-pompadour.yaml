@@ -1,0 +1,44 @@
+slug: helie-de-pompadour
+nom: Hélie de Pompadour
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpompadh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alet, France
+  du: '1448-01-24'
+  au: null
+- titre: Bishop of Viviers (Aps), France
+  du: '1454-11-29'
+  au: null
+- titre: évêque diocésain
+  du: '1448-02-02'
+  au: null
+- titre: évêque de Viviers
+  du: '1454-12-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108447656
+  catholic_hierarchy: bpompadh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:17+00:00'
+  completeness: 0.25

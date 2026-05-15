@@ -1,0 +1,44 @@
+slug: ludovico-ideo
+nom: Ludovico Ideo
+nom_complet: Ludovico Ideo, O.P.
+naissance: '1811-04-21'
+deces: '1880-12-04'
+naissance_lieu: Pietraperzia
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1858-07-04'
+  lieu: St. Athanase, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-d-andrea
+  co_consecrateurs:
+  - gaetano-bedini
+  - alessandro-asinari-di-san-marzano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bideo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lipari, Italy
+  du: '1858-06-25'
+  au: '1880-12-04'
+- titre: évêque de Lipari
+  du: '1858-06-25'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q47450741
+  catholic_hierarchy: bideo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:52:05+00:00'
+  completeness: 1.0

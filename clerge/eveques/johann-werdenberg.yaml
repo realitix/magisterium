@@ -1,0 +1,45 @@
+slug: johann-werdenberg
+nom: Johann Werdenberg
+nom_complet: Johann von Werdenberg
+naissance: '1430'
+deces: '1486-02-23'
+naissance_lieu: Trochtelfingen
+deces_lieu: null
+rang: cardinal
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1469-07-23'
+  lieu: Château, Dillingen
+  consecrateur_principal: wilhelm-von-reichenau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwerd.html
+  - https://fr.wikipedia.org/wiki/Jean_II_de_Werdenberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: '1469-05-15'
+  au: '1486-02-23'
+- titre: cardinal-prêtre
+  du: '1440-01-17'
+  au: '1469-04-21'
+- titre: évêque d'Augsbourg
+  du: '1469-08-01'
+  au: '1486-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1694736
+  catholic_hierarchy: bwerd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:53:49+00:00'
+  completeness: 0.75

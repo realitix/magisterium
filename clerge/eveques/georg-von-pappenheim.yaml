@@ -1,0 +1,50 @@
+slug: georg-von-pappenheim
+nom: Georg von Pappenheim
+nom_complet: Georg Marschalk von Pappenheim
+naissance: '1450'
+deces: '1563-12-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1549-01-06'
+  consecrateur_principal: balthasar-fannemann-waneman-o-p
+  co_consecrateurs:
+  - leonhard-haller
+  - johann-zolner
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpappg.html
+  - https://fr.wikipedia.org/wiki/Georges_de_Pappenheim
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: null
+  au: '1563-12-10'
+- titre: évêque de Ratisbonne
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1548-08-18'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1506658
+  catholic_hierarchy: bpappg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:08:56+00:00'
+  completeness: 0.88

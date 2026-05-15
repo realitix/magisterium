@@ -1,0 +1,55 @@
+slug: luigi-di-canossa
+nom: Luigi di Canossa
+nom_complet: Luigi Cardinal di Canossa
+naissance: '1809-04-20'
+deces: '1900-03-12'
+naissance_lieu: Verona, Diocese of Verona
+deces_lieu: Verona, Diocese of Verona
+rang: cardinal
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1862-01-23'
+  lieu: Cathedral, Verona, Diocese of Verona
+  consecrateur_principal: benedetto-riccabona-de-reinchenfels
+  co_consecrateurs:
+  - manfredo-giovanni-battista-bellati
+  - giovanni-corti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcanos.html
+  - https://fr.wikipedia.org/wiki/Luigi_di_Canossa
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Priest of San Marcello
+  du: '1877-03-20'
+  au: null
+- titre: Bishop of Verona, Italy
+  du: null
+  au: '1900-03-12'
+- titre: cardinal
+  du: '1877-03-12'
+  au: null
+- titre: évêque diocésain
+  du: '1861-08-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Cardinal%20Luigi%20di%20Canossa.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1876307
+  catholic_hierarchy: bcanos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:14:12+00:00'
+  completeness: 1.0

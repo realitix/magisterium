@@ -1,0 +1,53 @@
+slug: gerhard-von-schwarzburg
+nom: Gerhard von Schwarzburg
+nom_complet: null
+naissance: '1400'
+deces: '1400-11-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1366'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvschw.html
+  - https://fr.wikipedia.org/wiki/Gerhard_von_Schwarzburg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Naumburg, Germany
+  du: '1359-05-13'
+  au: null
+- titre: Bishop of Würzburg, Germany
+  du: null
+  au: '1400-11-09'
+- titre: évêque de Wurtzbourg
+  du: '1372-08-01'
+  au: '1400-01-01'
+- titre: évêque
+  du: '1359-01-01'
+  au: '1372-01-01'
+- titre: Bishop of Naumburg
+  du: '1359-05-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/File-Wuerzburg%20069gerhardschwarzburg2.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1512873
+  catholic_hierarchy: bvschw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:47:00+00:00'
+  completeness: 0.5

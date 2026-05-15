@@ -1,0 +1,44 @@
+slug: john-fleming
+nom: John Fleming
+nom_complet: null
+naissance: '1948-02-16'
+deces: null
+naissance_lieu: Ardpatrick
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2002-04-07'
+  lieu: Sainte Muredach, Cathedral, Ballina
+  consecrateur_principal: michael-neary
+  co_consecrateurs:
+  - sean-baptist-brady
+  - thomas-finnegan
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflemingj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Killala, Ireland
+  du: '2002-02-19'
+  au: null
+- titre: évêque diocésain
+  du: '2002-02-19'
+  au: '2024-04-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1700075
+  catholic_hierarchy: bflemingj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:47:59+00:00'
+  completeness: 0.88

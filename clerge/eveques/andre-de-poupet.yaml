@@ -1,0 +1,48 @@
+slug: andre-de-poupet
+nom: André de Poupet
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1503-12-11'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoupeta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Saône, France
+  du: '1480-07-14'
+  au: 1503&sup2;
+- titre: Titular Bishop of Salona
+  du: '1503-12-11'
+  au: null
+- titre: Bishop Emeritus of Chalons-sur-Saône, France
+  du: null
+  au: 1506&sup2;
+- titre: évêque titulaire
+  du: '1503-12-11'
+  au: null
+- titre: évêque de Chalon-sur-Saône
+  du: '1480-07-23'
+  au: '1503-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910040
+  catholic_hierarchy: bpoupeta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:35+00:00'
+  completeness: 0.25

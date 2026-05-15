@@ -1,0 +1,50 @@
+slug: john-cruise
+nom: John Cruise
+nom_complet: null
+naissance: '1750'
+deces: '1812-06-28'
+naissance_lieu: Longford, Diocese of Ardagh (and Clonmacnois)
+deces_lieu: Ballymahon, Diocese of Ardagh (and Clonmacnois)
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1788-08-17'
+  lieu: Drogheda
+  consecrateur_principal: richard-o-rsquo-reilly-cec930
+  co_consecrateurs:
+  - hugh-o-rsquo-reilly
+  - patrick-joseph-plunkett
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrui.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ardagh (and Clonmacnois), Ireland
+  du: '1788-06-10'
+  au: '1812-06-28'
+- titre: Administrator of Clonmacnoise, Ireland
+  du: '1788-06-10'
+  au: null
+- titre: évêque d'Ardagh et Clonmacnois
+  du: '1788-06-10'
+  au: null
+- titre: administrateur apostolique
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747607
+  catholic_hierarchy: bcrui
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:16:26+00:00'
+  completeness: 0.88

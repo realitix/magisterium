@@ -1,0 +1,42 @@
+slug: arvid-kurki
+nom: Arvid Kurki
+nom_complet: Arvid Kurck
+naissance: '1464'
+deces: '1522-07-22'
+naissance_lieu: Vesilahti
+deces_lieu: Öregrund
+rang: eveque
+nationalite: Q34
+tampon: ordo_incertus
+sacre:
+  date: '1511-10-05'
+  lieu: Streignas
+  consecrateur_principal: jakob-ulvsson-ulfsson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkurck.html
+  - https://fr.wikipedia.org/wiki/Arvid_Kurki
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &Aring;bo, Finland
+  du: '1511-03-17'
+  au: '1522-07-22'
+- titre: Roman Catholic Bishop of Åbo
+  du: '1511-03-27'
+  au: '1522-08-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q4802431
+  catholic_hierarchy: bkurck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:23:57+00:00'
+  completeness: 0.75

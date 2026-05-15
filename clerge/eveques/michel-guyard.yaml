@@ -1,0 +1,51 @@
+slug: michel-guyard
+nom: Michel Guyard
+nom_complet: Michel Jean Guyard
+naissance: '1936-06-19'
+deces: '2021-07-23'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Vannes, Diocese of Vannes
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2003-10-12'
+  lieu: Salle municipale "Dock Océane", Le Havre, Diocese of Le Havre
+  consecrateur_principal: jean-marie-lustiger
+  co_consecrateurs:
+  - joseph-duval
+  - michel-saudreau
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguya.html
+  - https://fr.wikipedia.org/wiki/Michel_Guyard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Havre, France
+  du: '2003-07-09'
+  au: null
+- titre: Bishop Emeritus of Le Havre, France
+  du: null
+  au: '2021-07-23'
+- titre: évêque diocésain
+  du: '2003-07-09'
+  au: '2011-06-24'
+- titre: recteur-archiprêtre de Notre-Dame de Paris
+  du: '1990-01-01'
+  au: '1995-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1742864
+  catholic_hierarchy: bguya
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:29:31+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: charles-de-saint-sixte
+nom: Charles de Saint-Sixte
+nom_complet: Charles de Saint Sixte
+naissance: '1557-03-25'
+deces: '1613-04-13'
+naissance_lieu: Avignon, Archdiocese of Avignon
+deces_lieu: Riez, Diocese of Riez
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1599-10-03'
+  lieu: Yvelines, Villepreux
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - henri-de-gondi
+  - claude-coquelet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bssixt.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Saint-Sixte
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Riez, France
+  du: '1599-03-29'
+  au: '1613-04-13'
+- titre: évêque de Riez
+  du: '1599-03-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960696
+  catholic_hierarchy: bssixt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:35:12+00:00'
+  completeness: 1.0

@@ -1,0 +1,54 @@
+slug: alfons-demming
+nom: Alfons Demming
+nom_complet: null
+naissance: '1928-02-29'
+deces: '2012-10-31'
+naissance_lieu: Südlohn
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_dubius
+sacre:
+  date: '1977-01-09'
+  lieu: Cathedral, Münster, Diocese of Münster
+  consecrateur_principal: heinrich-tenhumberg
+  co_consecrateurs:
+  - laurenz-boggering
+  - max-georg-von-twickel
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdemming.html
+  - https://fr.wikipedia.org/wiki/Alfons_Demming
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Münster, Germany
+  du: '1976-11-06'
+  au: '1998-04-30'
+- titre: Titular Bishop of Gordus
+  du: '1976-11-06'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Münster, Germany
+  du: null
+  au: '2012-10-31'
+- titre: évêque auxiliaire
+  du: '1976-11-06'
+  au: '1998-04-30'
+- titre: évêque titulaire
+  du: '1976-11-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q71531
+  catholic_hierarchy: bdemming
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:08+00:00'
+  completeness: 1.0

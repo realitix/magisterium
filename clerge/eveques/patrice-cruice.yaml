@@ -1,0 +1,52 @@
+slug: patrice-cruice
+nom: Patrice Cruice
+nom_complet: Patrice-François-Marie Cruice
+naissance: '1815-07-27'
+deces: '1866-10-12'
+naissance_lieu: Killaloë, Diocese of Killaloe, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1861-08-25'
+  lieu: Carmes-rue de Vaugirard, Paris, Archdiocese of Paris
+  consecrateur_principal: georges-chalandon
+  co_consecrateurs:
+  - frederic-gabriel-marie-francois-de-marguerye
+  - jean-paul-francois-marie-felix-lyonnet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcruice.html
+  - https://fr.wikipedia.org/wiki/Patrice_Cruice
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: null
+  au: '1865-09-01'
+- titre: Bishop Emeritus of Marseille, France
+  du: null
+  au: '1866-10-12'
+- titre: évêque de Marseille
+  du: '1861-06-20'
+  au: '1865-09-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/MgrPatriceCruice.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3368909
+  catholic_hierarchy: bcruice
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:16:28+00:00'
+  completeness: 1.0

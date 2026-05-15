@@ -1,0 +1,42 @@
+slug: jean-de-saint-chamond
+nom: Jean de Saint-Chamond
+nom_complet: Jean Saint-Romain de Saint-Chamond
+naissance: null
+deces: '1578-06-25'
+naissance_lieu: Archdiocese of Lyon
+deces_lieu: Aigues-Mortes
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschamj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Saint-Chamond
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Aix, France
+  du: '1551-01-19'
+  au: '1566-12-11'
+- titre: Archbishop Emeritus of Aix, France
+  du: null
+  au: '1578-06-25'
+- titre: archevêque catholique
+  du: '1551-01-29'
+  au: '1566-12-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22248163
+  catholic_hierarchy: bschamj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:00:01+00:00'
+  completeness: 0.38

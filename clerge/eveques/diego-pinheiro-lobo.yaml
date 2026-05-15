@@ -1,0 +1,41 @@
+slug: diego-pinheiro-lobo
+nom: Diego Pinheiro Lobo
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Barcellos
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1515-06-03'
+  lieu: Cathedral, Lisboa, Patriarchate of Lisboa {Lisbon}
+  consecrateur_principal: martinho-da-costa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpinlo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Funchal, Portugal
+  du: '1514-06-12'
+  au: 1526&sup1;
+- titre: évêque diocésain
+  du: '1514-06-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781073
+  catholic_hierarchy: bpinlo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:34:33+00:00'
+  completeness: 0.62

@@ -1,0 +1,43 @@
+slug: pedro-de-lepe
+nom: Pedro de Lepe
+nom_complet: Pedro de Lepe Orantes (Lope y Dorantes)
+naissance: '1641-06-29'
+deces: '1700-12-05'
+naissance_lieu: Sanlúcar de Barrameda
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1686-11-30'
+  consecrateur_principal: juan-marin-y-rodezno
+  co_consecrateurs:
+  - juan-de-porras-y-atienza
+  - valerio-de-sao-raimundo-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blopeyd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Calahorra y La Calzada, Spain
+  du: '1686-08-12'
+  au: '1700-12-05'
+- titre: évêque de Calahorra et La Calzada
+  du: '1686-08-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55835825
+  catholic_hierarchy: blopeyd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:58:25+00:00'
+  completeness: 1.0

@@ -1,0 +1,40 @@
+slug: seraphin-de-pajot
+nom: Séraphin de Pajot
+nom_complet: Séraphin de Pajot de Plouy
+naissance: '1641'
+deces: '1701-11-14'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1694-11-14'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpajot.html
+  - https://fr.wikipedia.org/wiki/S%C3%A9raphin_de_Pajot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Die, France
+  du: null
+  au: '1701-11-14'
+- titre: évêque de Die
+  du: '1694-04-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3511117
+  catholic_hierarchy: bpajot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:03:29+00:00'
+  completeness: 0.5

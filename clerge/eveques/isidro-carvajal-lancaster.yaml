@@ -1,0 +1,44 @@
+slug: isidro-carvajal-lancaster
+nom: Isidro Carvajal Lancaster
+nom_complet: null
+naissance: '1713-05-05'
+deces: '1771-01-15'
+naissance_lieu: Toledo, Archdiocese of Toledo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1760-08-24'
+  lieu: Cathedral, Cuenca, Diocese of Cuenca
+  consecrateur_principal: francisco-jose-rodriguez-chico
+  co_consecrateurs:
+  - andres-nunez-monteagudo
+  - andres-cano-y-junquera
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarvaj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cuenca, Spain
+  du: '1760-07-21'
+  au: '1771-01-15'
+- titre: évêque de Cuenca
+  du: '1760-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733362
+  catholic_hierarchy: bcarvaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:25:40+00:00'
+  completeness: 1.0

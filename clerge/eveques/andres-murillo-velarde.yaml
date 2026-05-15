@@ -1,0 +1,43 @@
+slug: andres-murillo-velarde
+nom: Andrés Murillo Velarde
+nom_complet: null
+naissance: '1679-12-13'
+deces: '1728-11-04'
+naissance_lieu: Granada
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1725-05-01'
+  consecrateur_principal: diego-de-astorga-y-cepedes
+  co_consecrateurs:
+  - benito-madueno-y-ramos
+  - dionisio-francisco-mellado-eguiluz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmurillo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamplona, Spain
+  du: '1725-03-21'
+  au: '1728-11-04'
+- titre: évêque de Pampelune
+  du: '1725-03-21'
+  au: '1728-11-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746104
+  catholic_hierarchy: bmurillo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:56+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: filippo-vespasiani
+nom: Filippo Vespasiani
+nom_complet: null
+naissance: '1812-07-08'
+deces: '1877-10-07'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1857-01-04'
+  lieu: College de la Propaganda, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - alberto-barbolani-di-montauto
+  - gaetano-bedini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvespa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fano, Italy
+  du: '1856-12-15'
+  au: '1877-10-07'
+- titre: Roman Catholic Bishop of Fano
+  du: '1856-12-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735610
+  catholic_hierarchy: bvespa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:34:40+00:00'
+  completeness: 1.0

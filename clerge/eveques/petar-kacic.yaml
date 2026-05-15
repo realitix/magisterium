@@ -1,0 +1,44 @@
+slug: petar-kacic
+nom: Petar Kačić
+nom_complet: Petar Ka&#269;i&#263;, O.F.M.
+naissance: null
+deces: '1663'
+naissance_lieu: "Koti\x9Aina, Diocese of Makarska"
+deces_lieu: Jelsa
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1646-09-16'
+  lieu: San Pietro, Cathedral, Venezia, Patriarchate of Venezia {Venice}, Italy
+  consecrateur_principal: gianfrancesco-morosini
+  co_consecrateurs:
+  - petrus-de-vespa-o-carm
+  - francesco-grassi-1605
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkacicp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Makarska, Croatia
+  du: '1646-06-25'
+  au: 1661&sup2;
+- titre: évêque diocésain
+  du: '1646-06-25'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68906922
+  catholic_hierarchy: bkacicp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:05:53+00:00'
+  completeness: 0.75

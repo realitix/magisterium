@@ -1,0 +1,47 @@
+slug: andre-fauchet
+nom: André Fauchet
+nom_complet: André Pierre Louis Marie Fauchet
+naissance: '1918-11-30'
+deces: '2000-01-08'
+naissance_lieu: Langourla
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1967-05-01'
+  consecrateur_principal: francois-kerveadou
+  co_consecrateurs:
+  - francois-marty
+  - jean-vilnet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfauchet.html
+  - https://fr.wikipedia.org/wiki/Andr%C3%A9_Fauchet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troyes, France
+  du: '1967-02-21'
+  au: null
+- titre: Bishop Emeritus of Troyes, France
+  du: null
+  au: '2000-01-08'
+- titre: évêque de Troyes
+  du: '1967-02-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2847741
+  catholic_hierarchy: bfauchet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:17+00:00'
+  completeness: 1.0

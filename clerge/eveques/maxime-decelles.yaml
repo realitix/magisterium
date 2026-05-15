@@ -1,0 +1,61 @@
+slug: maxime-decelles
+nom: Maxime Decelles
+nom_complet: null
+naissance: '1849-04-30'
+deces: '1905-07-08'
+naissance_lieu: Saint-Damase-sur-Yamaska, Diocese of Saint-Hyacinthe, Québec
+deces_lieu: Saint-Hyacinthe, Diocese of Saint-Hyacinthe, Québec
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1893-03-09'
+  lieu: Saint-Hyacinthe, Diocese of Saint-Hyacinthe, Québec
+  consecrateur_principal: edouard-charles-fabre
+  co_consecrateurs:
+  - antoine-racine
+  - elphege-gravel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdecelles.html
+  - https://fr.wikipedia.org/wiki/Maxime_Decelles
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Saint-Hyacinthe, Québec, Canada
+  du: '1893-01-14'
+  au: null
+- titre: Titular Bishop of Druzipara
+  du: '1893-01-14'
+  au: null
+- titre: Bishop of Saint-Hyacinthe, Québec, Canada
+  du: null
+  au: '1905-07-08'
+- titre: évêque diocésain
+  du: '1901-05-24'
+  au: '1905-07-08'
+- titre: évêque titulaire
+  du: '1893-01-14'
+  au: '1901-05-24'
+- titre: évêque coadjuteur
+  du: '1893-01-14'
+  au: '1901-05-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Maxime%20Decelles.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3302540
+  catholic_hierarchy: bdecelles
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:36:48+00:00'
+  completeness: 1.0

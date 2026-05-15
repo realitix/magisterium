@@ -1,0 +1,51 @@
+slug: henri-de-france
+nom: Henri de France
+nom_complet: Henry of France, Archbishop of Reims
+naissance: '1121'
+deces: '1175-11-13'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: '1150'
+  consecrateur_principal: samson-de-mauvoisin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranceh.html
+  - https://fr.wikipedia.org/wiki/Henri_de_France_(1121-1175)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Beauvais, France
+  du: 1149&sup2;
+  au: null
+- titre: Archbishop of Reims, France
+  du: '1162-01-14'
+  au: '1175-11-13'
+- titre: archevêque catholique
+  du: '1162-01-21'
+  au: null
+- titre: évêque diocésain
+  du: '1149-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biskup.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q966305
+  catholic_hierarchy: bfranceh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:55:11+00:00'
+  completeness: 0.75

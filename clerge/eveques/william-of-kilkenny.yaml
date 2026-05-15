@@ -1,0 +1,46 @@
+slug: william-of-kilkenny
+nom: William of Kilkenny
+nom_complet: William de Kilkenny
+naissance: '1200'
+deces: '1256-09-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1255-08-15'
+  consecrateur_principal: boniface-of-savoy
+  co_consecrateurs:
+  - jean-de-plaisance
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkilken.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ely, England, Great Britain
+  du: '1254-12-25'
+  au: '1256-09-22'
+- titre: évêque d'Ely
+  du: '1255-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Memorial%20to%20Bishop%20William%20de%20Kilkenny%20in%20Ely%20Cathedral.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1665338
+  catholic_hierarchy: bkilken
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:13:47+00:00'
+  completeness: 0.88

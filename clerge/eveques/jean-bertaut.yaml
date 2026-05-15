@@ -1,0 +1,51 @@
+slug: jean-bertaut
+nom: Jean Bertaut
+nom_complet: null
+naissance: '1552'
+deces: '1611-06-08'
+naissance_lieu: Donnay
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1607-11-11'
+  consecrateur_principal: paul-hurault-de-l-hospital
+  co_consecrateurs:
+  - claude-dormy
+  - jean-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertaut.html
+  - https://fr.wikipedia.org/wiki/Jean_Bertaut
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: '1607-03-05'
+  au: '1611-06-08'
+- titre: évêque diocésain
+  du: '1607-03-05'
+  au: null
+- titre: évêque de Sées
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bertaut.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q745503
+  catholic_hierarchy: bbertaut
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:22:11+00:00'
+  completeness: 0.88

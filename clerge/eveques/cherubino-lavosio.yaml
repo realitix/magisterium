@@ -1,0 +1,44 @@
+slug: cherubino-lavosio
+nom: Cherubino Lavosio
+nom_complet: Cherubino Lavosio, O.S.A.
+naissance: '1497'
+deces: '1577-04-23'
+naissance_lieu: Atri, Diocese of Penne e Atri
+deces_lieu: Cassia, Diocese of Norcia
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1566-09-08'
+  lieu: S. Tryphone, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: agostino-maria-salvago-o-p
+  co_consecrateurs:
+  - ventura-buffalini
+  - bartolomeo-cardinal-ferratini-jr
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blavosio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Telese o Cerreto Sannita, Italy
+  du: '1566-08-19'
+  au: '1577-04-23'
+- titre: évêque diocésain
+  du: '1566-08-29'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64745619
+  catholic_hierarchy: blavosio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:37:17+00:00'
+  completeness: 0.88

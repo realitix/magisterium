@@ -1,0 +1,43 @@
+slug: bertrand-de-rosmadec
+nom: Bertrand de Rosmadec
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosmadb.html
+  - https://fr.wikipedia.org/wiki/Bertrand_de_Rosmadec
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quimper, France
+  du: null
+  au: 1444&sup1;
+- titre: évêque diocésain
+  du: '1417-02-01'
+  au: '1444-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Bertrand%20de%20Rosmadec%20tombeau%20cath%C3%A9drale%20Quimper.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q30726993
+  catholic_hierarchy: brosmadb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:28:36+00:00'
+  completeness: 0.25

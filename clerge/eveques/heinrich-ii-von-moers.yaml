@@ -1,0 +1,49 @@
+slug: heinrich-ii-von-moers
+nom: Heinrich II. von Moers
+nom_complet: Heinrich von Moers
+naissance: '1391'
+deces: '1450-06-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1441-11-01'
+  consecrateur_principal: dietrich-von-moers
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoerh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Osnabrück, Germany
+  du: 1441-11
+  au: null
+- titre: Bishop of Münster, Germany
+  du: null
+  au: '1450-06-02'
+- titre: administrateur diocésain
+  du: '1442-01-01'
+  au: '1450-01-01'
+- titre: administrateur apostolique
+  du: '1441-11-01'
+  au: null
+- titre: Q113323208
+  du: '1424-11-09'
+  au: '1450-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1597776
+  catholic_hierarchy: bmoerh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:02:30+00:00'
+  completeness: 0.62

@@ -1,0 +1,51 @@
+slug: mariano-marti
+nom: Mariano Martí
+nom_complet: null
+naissance: '1720-12-14'
+deces: '1792-02-20'
+naissance_lieu: Brafim, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1762-01-17'
+  consecrateur_principal: diego-antonio-diez-madronero
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartim.html
+  - https://fr.wikipedia.org/wiki/Mariano_Mart%C3%AD
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Puerto Rico (Porto Rico)
+  du: '1761-05-25'
+  au: null
+- titre: Bishop of Caracas, Santiago de Venezuela
+  du: '1770-01-29'
+  au: '1792-02-20'
+- titre: évêque de Santiago de León de Caracas
+  du: '1770-01-29'
+  au: '1792-02-20'
+- titre: évêque de Porto Rico
+  du: '1761-05-25'
+  au: '1770-01-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/MARIANO%20MARTI%20OBISPO.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1896986
+  catholic_hierarchy: bmartim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:29+00:00'
+  completeness: 0.88

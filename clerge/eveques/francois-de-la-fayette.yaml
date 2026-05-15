@@ -1,0 +1,47 @@
+slug: francois-de-la-fayette
+nom: François de La Fayette
+nom_complet: François de Lafayette
+naissance: '1590'
+deces: '1676-05-03'
+naissance_lieu: Espinasse-Vozelle
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1628-03-19'
+  consecrateur_principal: andre-fremyot
+  co_consecrateurs:
+  - augustin-potier-de-blancmesnil
+  - etienne-de-puget
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blafaye.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Fayette
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limoges, France
+  du: '1627-11-29'
+  au: '1676-05-03'
+- titre: évêque diocésain
+  du: '1627-11-29'
+  au: null
+- titre: évêque de Limoges
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816858
+  catholic_hierarchy: blafaye
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:27:20+00:00'
+  completeness: 0.88

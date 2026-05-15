@@ -1,0 +1,48 @@
+slug: armand-de-montmorin
+nom: Armand de Montmorin
+nom_complet: Armand de Montmorin de Saint-Hérem
+naissance: '1643'
+deces: '1713-10-06'
+naissance_lieu: Montaret de Souvigny
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1692-09-07'
+  consecrateur_principal: francois-berger-de-malissoles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmdsh.html
+  - https://fr.wikipedia.org/wiki/Armand_de_Montmorin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Vienne, France
+  du: null
+  au: '1713-10-06'
+- titre: archevêque de Vienne
+  du: '1694-04-10'
+  au: null
+- titre: évêque de Die
+  du: '1691-10-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Tombeau2%20Cath%C3%A9drale%20Vienne.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2862017
+  catholic_hierarchy: bmdsh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:45:57+00:00'
+  completeness: 0.62

@@ -1,0 +1,40 @@
+slug: laszlo-kamanhazy
+nom: László Kámánházy
+nom_complet: null
+naissance: '1753-05-08'
+deces: '1817-02-04'
+naissance_lieu: Nitra
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1808-08-28'
+  consecrateur_principal: charles-ambroise-d-autriche-este
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkaman.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: null
+  au: '1817-02-04'
+- titre: évêque de Vác
+  du: '1808-04-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1123099
+  catholic_hierarchy: bkaman
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:07:15+00:00'
+  completeness: 0.88

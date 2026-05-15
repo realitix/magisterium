@@ -1,0 +1,52 @@
+slug: georges-audollent
+nom: Georges Audollent
+nom_complet: Georges-Marie-Eugène Audollent
+naissance: '1867-05-18'
+deces: '1944-11-09'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Blois, Diocese of Blois
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1925-07-16'
+  lieu: Notre-Dame, Cathedral, Paris, Archdiocese of Paris
+  consecrateur_principal: louis-ernest-dubois
+  co_consecrateurs:
+  - emile-chesnelong
+  - benjamin-octave-roland-gosselin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baudol.html
+  - https://fr.wikipedia.org/wiki/Georges_Audollent
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Blois, France
+  du: '1925-05-15'
+  au: '1944-11-09'
+- titre: évêque diocésain
+  du: '1925-05-15'
+  au: null
+- titre: supérieur
+  du: '1905-01-01'
+  au: '1908-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Audollent.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q18939375
+  catholic_hierarchy: baudol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:15+00:00'
+  completeness: 1.0

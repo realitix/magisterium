@@ -1,0 +1,49 @@
+slug: ralph-erghum
+nom: Ralph Erghum
+nom_complet: Ralph Ergham
+naissance: null
+deces: '1400-04-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1375-12-09'
+  consecrateur_principal: simon-sudbury
+  co_consecrateurs:
+  - guillaume-l-rsquo-estrange
+  - jean-de-la-grange
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/berghum.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1375-10-12'
+  au: null
+- titre: Bishop of Bath and Wells, England, Great Britain
+  du: '1388-07-13'
+  au: '1400-04-04'
+- titre: évêque de Salisbury
+  du: '1375-10-20'
+  au: null
+- titre: évêque de Bath et Wells
+  du: '1388-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7287463
+  catholic_hierarchy: berghum
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:23:34+00:00'
+  completeness: 0.88

@@ -1,0 +1,50 @@
+slug: fortunato-javier-devoto
+nom: Fortunato Javier Devoto
+nom_complet: Fortunato Devoto
+naissance: '1872-11-21'
+deces: '1941-06-29'
+naissance_lieu: Buenos Aires, Archdiocese of Buenos Aires
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1928-03-18'
+  lieu: Cathedral, Buenos Aires, Archdiocese of Buenos Aires
+  consecrateur_principal: jose-maria-bottaro
+  co_consecrateurs:
+  - miguel-de-andrea
+  - santiago-luis-copello
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdevot.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Buenos Aires, Argentina
+  du: '1927-09-02'
+  au: '1941-06-29'
+- titre: Titular Bishop of Attaea
+  du: '1927-09-02'
+  au: null
+- titre: évêque titulaire
+  du: '1927-09-02'
+  au: null
+- titre: évêque auxiliaire
+  du: '1927-09-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11859850
+  catholic_hierarchy: bdevot
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:10+00:00'
+  completeness: 1.0

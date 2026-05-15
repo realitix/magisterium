@@ -1,0 +1,54 @@
+slug: basilio-leto
+nom: Basilio Leto
+nom_complet: null
+naissance: '1819-09-29'
+deces: '1896-02-15'
+naissance_lieu: Massarano, Archdiocese of Vercelli
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1873-08-10'
+  lieu: Vercelli, Archdiocese of Vercelli
+  consecrateur_principal: celestino-matteo-fissore
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bletob.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Biella, Italy
+  du: '1873-07-25'
+  au: '1885-12-19'
+- titre: Titular Bishop of Sebaste in Palaestina
+  du: '1886-01-15'
+  au: null
+- titre: Bishop Emeritus of Biella, Italy
+  du: null
+  au: '1896-02-15'
+- titre: évêque diocésain
+  du: '1873-07-25'
+  au: '1885-12-19'
+- titre: évêque titulaire
+  du: '1886-01-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Basilio%20Leto.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q21542698
+  catholic_hierarchy: bletob
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:46:55+00:00'
+  completeness: 0.88

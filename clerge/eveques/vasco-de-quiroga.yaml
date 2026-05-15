@@ -1,0 +1,46 @@
+slug: vasco-de-quiroga
+nom: Vasco de Quiroga
+nom_complet: Vasconis de Cariocieca
+naissance: '1470'
+deces: '1565-03-14'
+naissance_lieu: Madrigal de las Altas Torres, Diocese of Ávila, Spain
+deces_lieu: Uruapan
+rang: eveque
+nationalite: Q80702
+tampon: ordo_validus
+sacre:
+  date: '1539-01-05'
+  lieu: Mexico, Diocese of México, Federal District
+  consecrateur_principal: juan-de-zumarraga
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdqui.html
+  - https://fr.wikipedia.org/wiki/Vasco_de_Quiroga
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Michoacán, México
+  du: '1536-08-18'
+  au: '1565-03-14'
+- titre: évêque de Michoacán
+  du: '1536-08-28'
+  au: '1565-03-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vasco%20de%20Quiroga.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2990920
+  catholic_hierarchy: bdqui
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:05:36+00:00'
+  completeness: 0.75

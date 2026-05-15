@@ -1,0 +1,47 @@
+slug: juan-de-necolalde
+nom: Juan de Necolalde
+nom_complet: null
+naissance: '1664'
+deces: '1724-05-14'
+naissance_lieu: La Plata
+deces_lieu: Arica
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1716'
+  lieu: Characas, Archdiocese of La Plata o Charcas
+  consecrateur_principal: diego-morcillo-rubio-de-aunon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneco.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Concepción, Chile
+  du: '1715-04-01'
+  au: null
+- titre: Archbishop of La Plata o Charcas, Bolivia
+  du: '1723-05-12'
+  au: '1724-05-14'
+- titre: archevêque de La Plate et Charcas
+  du: '1723-05-12'
+  au: null
+- titre: évêque diocésain
+  du: '1715-04-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760903
+  catholic_hierarchy: bneco
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:28:17+00:00'
+  completeness: 0.75

@@ -1,0 +1,44 @@
+slug: john-mccarthy-1815
+nom: John McCarthy
+nom_complet: null
+naissance: '1815-06-20'
+deces: '1893-12-09'
+naissance_lieu: Fermoy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1874-10-28'
+  lieu: St. Patrick, Pro-Cathedral, Fermoy
+  consecrateur_principal: william-delany
+  co_consecrateurs:
+  - george-butler
+  - michael-o-rsquo-hea
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcarj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cloyne, Ireland
+  du: '1874-09-01'
+  au: '1893-12-09'
+- titre: évêque de Cloyne
+  du: '1874-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64825577
+  catholic_hierarchy: bmcarj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:42:27+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: jean-pelletier
+nom: Jean Pelletier
+nom_complet: Jean Bernard Claude Pelletier
+naissance: '1963-03-09'
+deces: null
+naissance_lieu: Angers, Diocese of Angers
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2025-09-07'
+  lieu: Notre-Dame-et-Saint Privat, Cathedral Basilica, Mende, Diocese of Mende
+  consecrateur_principal: norbert-turini
+  co_consecrateurs:
+  - benoit-bertrand
+  - emmanuel-delmas
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpellj.html
+  - https://fr.wikipedia.org/wiki/Jean_Pelletier_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: '2025-05-20'
+  au: null
+- titre: évêque de Mende
+  du: '2025-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q134520176
+  catholic_hierarchy: bpellj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:18:20+00:00'
+  completeness: 0.88

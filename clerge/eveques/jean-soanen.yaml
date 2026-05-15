@@ -1,0 +1,54 @@
+slug: jean-soanen
+nom: Jean Soanen
+nom_complet: Jean Soanen, C.O.I.
+naissance: '1647-01-06'
+deces: '1740-12-25'
+naissance_lieu: Riom
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1696-07-01'
+  consecrateur_principal: louis-antoine-de-noailles
+  co_consecrateurs:
+  - jean-balthazar-de-cabanes-de-viens
+  - charles-de-villeneuve-de-vence
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsoanen.html
+  - https://fr.wikipedia.org/wiki/Jean_Soanen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senez, France
+  du: null
+  au: '1727-09-21'
+- titre: Bishop Emeritus of Senez, France
+  du: null
+  au: '1740-12-25'
+- titre: évêque diocésain
+  du: '1695-09-08'
+  au: '1727-09-21'
+- titre: évêque de Senez
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A9reau%20-%20Raoux%20-%20Jean%20Soanen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1685828
+  catholic_hierarchy: bsoanen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:25:13+00:00'
+  completeness: 1.0

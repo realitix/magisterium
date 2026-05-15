@@ -1,0 +1,46 @@
+slug: pierre-ragueneau
+nom: Pierre Ragueneau
+nom_complet: null
+naissance: null
+deces: '1577-05-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1558-01-16'
+  consecrateur_principal: pierre-de-bisqueres
+  co_consecrateurs:
+  - paolo-sadoleto
+  - jean-de-joly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brague.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marseille, France
+  du: '1556-03-09'
+  au: 1572&sup1;
+- titre: Bishop Emeritus of Marseille, France
+  du: null
+  au: '1577-05-04'
+- titre: évêque diocésain
+  du: '1556-03-19'
+  au: '1572-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64778381
+  catholic_hierarchy: brague
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:59:12+00:00'
+  completeness: 0.88

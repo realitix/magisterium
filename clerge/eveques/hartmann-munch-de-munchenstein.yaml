@@ -1,0 +1,40 @@
+slug: hartmann-munch-de-munchenstein
+nom: Hartmann Münch de Münchenstein
+nom_complet: Hartmann Munch
+naissance: '1386'
+deces: '1424-05-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-0f180d96
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmunchh.html
+  - https://fr.wikipedia.org/wiki/Hartmann_M%C3%BCnch_de_M%C3%BCnchenstein
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Basel, Switzerland
+  du: '1418-09-02'
+  au: '1424-05-12'
+- titre: évêque de Bâle
+  du: '1418-09-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1587299
+  catholic_hierarchy: bmunchh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:19:30+00:00'
+  completeness: 0.5

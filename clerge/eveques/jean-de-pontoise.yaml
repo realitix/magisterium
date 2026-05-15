@@ -1,0 +1,41 @@
+slug: jean-de-pontoise
+nom: Jean de Pontoise
+nom_complet: John of Pontoise
+naissance: '1250'
+deces: '1304-12-04'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1282-06-14'
+  consecrateur_principal: latino-malabranca-orsini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpontoi.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Pontoise
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1282-06-09'
+  au: '1304-12-04'
+- titre: évêque diocésain
+  du: '1282-06-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6265823
+  catholic_hierarchy: bpontoi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:43:20+00:00'
+  completeness: 0.75

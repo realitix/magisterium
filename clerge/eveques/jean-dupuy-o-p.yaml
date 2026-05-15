@@ -1,0 +1,38 @@
+slug: jean-dupuy-o-p
+nom: Jean Dupuy, O.P.
+nom_complet: Jean Dupuy
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupuyj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cahors, France
+  du: '1431-04-16'
+  au: 1438&sup1;
+- titre: évêque diocésain
+  du: '1431-04-25'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q68903297
+  catholic_hierarchy: bdupuyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:34+00:00'
+  completeness: 0.25

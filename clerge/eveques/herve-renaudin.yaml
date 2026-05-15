@@ -1,0 +1,49 @@
+slug: herve-renaudin
+nom: Hervé Renaudin
+nom_complet: Hervé Jean Luc Renaudin
+naissance: '1941-07-22'
+deces: '2003-01-18'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Pontoise, Diocese of Pontoise
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2001-01-07'
+  lieu: Hall Saint-Martin, Pontoise, Diocese of Pontoise
+  consecrateur_principal: jean-marie-lustiger
+  co_consecrateurs:
+  - thierry-jordan
+  - georges-soubrier
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brenaudin.html
+  - https://fr.wikipedia.org/wiki/Herv%C3%A9_Renaudin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pontoise, France
+  du: '2000-11-30'
+  au: '2003-01-18'
+- titre: évêque diocésain
+  du: '2000-11-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pontoise%2C%20Cath%C3%A9drale%20Saint-Maclou%2C%20caveau%20des%20%C3%A9v%C3%AAques%203.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3134632
+  catholic_hierarchy: brenaudin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:08:31+00:00'
+  completeness: 1.0

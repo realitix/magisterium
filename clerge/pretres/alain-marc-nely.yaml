@@ -1,0 +1,33 @@
+slug: alain-marc-nely
+nom: Alain-Marc Nély
+naissance: '1950-02-18'
+deces: null
+tampon: ordo_validus
+fraternite: fsspx
+ordination:
+  date: null
+  rite: ancien
+  rite_source: inferred
+  ordinateur: Marcel Lefebvre
+  ordinateur_slug: marcel-lefebvre
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Alain-Marc_Nély
+  - https://laportelatine.org/personne/abbe-alain-marc-nely
+qids:
+  wikidata: Q2636346
+sources:
+- source: wikipedia-fr
+  fetched_at: '2026-05-13T15:00:40+00:00'
+  url: https://fr.wikipedia.org/wiki/Alain-Marc_Nély
+- source: fsspx-laportelatine
+  fetched_at: '2026-05-13T16:22:26+00:00'
+  url: https://laportelatine.org/personne/abbe-alain-marc-nely
+- source: wikidata-pretres
+  fetched_at: '2026-05-13T16:15:00+00:00'
+  source_id: Q2636346
+tampon_source: ordinateur
+photo:
+  fichier: null
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alain-Marc%20N%C3%A9ly.jpg
+  licence: unknown

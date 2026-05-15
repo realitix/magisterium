@@ -1,0 +1,57 @@
+slug: john-grimes-1852
+nom: John Grimes
+nom_complet: null
+naissance: '1852-12-18'
+deces: '1922-07-26'
+naissance_lieu: Brooklawn, Diocese of Limerick, Ireland
+deces_lieu: Syracuse, Diocese of Syracuse, New York
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1909-05-16'
+  lieu: Immaculate Conception, Cathedral, Syracuse, Diocese of Syracuse, New York
+  consecrateur_principal: john-murphy-farley
+  co_consecrateurs:
+  - patrick-anthony-ludden
+  - thomas-martin-aloysius-burke
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrimes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Syracuse, New York, USA
+  du: '1909-02-01'
+  au: null
+- titre: Titular Bishop of Hemeria (Himeria)
+  du: '1909-02-01'
+  au: null
+- titre: Bishop of Syracuse, New York, USA
+  du: null
+  au: '1922-07-26'
+- titre: évêque titulaire
+  du: '1909-02-01'
+  au: '1912-08-06'
+- titre: Roman Catholic Bishop of Syracuse
+  du: '1912-08-06'
+  au: '1922-07-26'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Grimes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6236435
+  catholic_hierarchy: bgrimes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:43:36+00:00'
+  completeness: 1.0

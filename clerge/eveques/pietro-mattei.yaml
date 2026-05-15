@@ -1,0 +1,43 @@
+slug: pietro-mattei
+nom: Pietro Mattei
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Recanato
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1469-05-07'
+  lieu: S. Laurent in Damaso, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fortunato-pellicani
+  co_consecrateurs:
+  - antonio-beltrando-trombetta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmatteip.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sant&rsquo;Agata de&rsquo; Goti, Italy
+  du: '1469-04-17'
+  au: 1472&sup2;
+- titre: évêque diocésain
+  du: '1469-04-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780919
+  catholic_hierarchy: bmatteip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:38:33+00:00'
+  completeness: 0.75

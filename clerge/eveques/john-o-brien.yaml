@@ -1,0 +1,44 @@
+slug: john-o-brien
+nom: John O'Brien
+nom_complet: John O&rsquo;Brien
+naissance: '1832-02-19'
+deces: '1879-08-01'
+naissance_lieu: Loughborough, Diocese of Kingston, Ontario
+deces_lieu: Québec, Archdiocese of Québec
+rang: archeveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1875-04-18'
+  lieu: Kingston, Diocese of Kingston, Ontario
+  consecrateur_principal: john-joseph-lynch
+  co_consecrateurs:
+  - peter-francis-crinnon
+  - john-walsh
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bobrienj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kingston, Ontario, Canada
+  du: '1875-02-12'
+  au: '1879-08-01'
+- titre: archevêque de Kingston
+  du: '1875-02-12'
+  au: '1879-08-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746519
+  catholic_hierarchy: bobrienj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:42:09+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: john-kilduff
+nom: John Kilduff
+nom_complet: null
+naissance: '1820-11-11'
+deces: '1867-06-21'
+naissance_lieu: Bushfield, Athlone, Diocese of Ardagh (and Clonmacnois)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1853-06-29'
+  lieu: St. Peter, Church, Phibsboro, Archdiocese of Dublin
+  consecrateur_principal: paul-cullen
+  co_consecrateurs:
+  - joseph-dixon
+  - john-cantwell-1792
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkild.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ardagh (and Clonmacnois), Ireland
+  du: '1853-04-29'
+  au: '1867-06-21'
+- titre: évêque d'Ardagh et Clonmacnois
+  du: '1853-04-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752548
+  catholic_hierarchy: bkild
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:13:43+00:00'
+  completeness: 1.0

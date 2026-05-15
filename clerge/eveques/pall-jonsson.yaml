@@ -1,0 +1,39 @@
+slug: pall-jonsson
+nom: Páll Jónsson
+nom_complet: null
+naissance: '1155'
+deces: '1211-11-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q189
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: absalon-hvide
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjonssp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skálholt, Iceland
+  du: '1195-04-23'
+  au: '1211-11-29'
+- titre: évêque diocésain
+  du: '1195-04-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q471905
+  catholic_hierarchy: bjonssp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:03:02+00:00'
+  completeness: 0.62

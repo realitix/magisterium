@@ -1,0 +1,54 @@
+slug: christian-schreiber
+nom: Christian Schreiber
+nom_complet: null
+naissance: '1872-08-03'
+deces: '1933-09-01'
+naissance_lieu: Somborn
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1921-09-14'
+  consecrateur_principal: joseph-damian-schmitt
+  co_consecrateurs:
+  - august-kilian
+  - kaspar-klein
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschrec.html
+  - https://fr.wikipedia.org/wiki/Christian_Schreiber_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meißen (Meissen), Germany
+  du: '1921-08-12'
+  au: null
+- titre: Bishop of Berlin, Germany
+  du: '1930-08-13'
+  au: '1933-09-01'
+- titre: Roman Catholic Bishop of Berlin
+  du: '1930-08-13'
+  au: '1933-09-01'
+- titre: évêque de Dresde-Meissen
+  du: '1921-08-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Dr.%20Christian%20Schreiber%2002.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q113330
+  catholic_hierarchy: bschrec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:03:48+00:00'
+  completeness: 1.0

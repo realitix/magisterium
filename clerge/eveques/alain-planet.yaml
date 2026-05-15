@@ -1,0 +1,52 @@
+slug: alain-planet
+nom: Alain Planet
+nom_complet: Alain Émile Baptiste Planet
+naissance: '1948-11-18'
+deces: null
+naissance_lieu: Privas
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2004-09-19'
+  lieu: Théatre antique de la Cité médiévale, Carcassonne, Diocese of Carcassonne
+  consecrateur_principal: guy-thomazeau
+  co_consecrateurs:
+  - jacques-despierre
+  - jean-christophe-lagleize
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplanet.html
+  - https://fr.wikipedia.org/wiki/Alain_Planet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carcassonne, France
+  du: '2004-06-28'
+  au: null
+- titre: administrateur ou administratrice
+  du: '2023-12-01'
+  au: null
+- titre: évêque de Carcassonne et Narbonne
+  du: '2004-06-28'
+  au: '2023-03-31'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20A.%20Planet.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q597874
+  catholic_hierarchy: bplanet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:38:12+00:00'
+  completeness: 0.88

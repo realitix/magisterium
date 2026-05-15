@@ -1,0 +1,58 @@
+slug: georges-darboy
+nom: Georges Darboy
+nom_complet: Georgius Darboy
+naissance: '1813-01-16'
+deces: '1871-05-24'
+naissance_lieu: Fayl-Billot, Diocese of Langres
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1859-11-30'
+  lieu: Notre-Dame, Paris, Archdiocese of Paris
+  consecrateur_principal: francois-nicolas-madeleine-morlot
+  co_consecrateurs:
+  - vital-honore-tirmarche
+  - henri-amanton
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdarboy.html
+  - https://fr.wikipedia.org/wiki/Georges_Darboy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Paris, France
+  du: null
+  au: '1871-05-24'
+- titre: sénateur du Second Empire
+  du: null
+  au: null
+- titre: évêque de Nancy-Toul
+  du: '1859-08-29'
+  au: null
+- titre: archevêque de Paris
+  du: '1863-01-17'
+  au: null
+- titre: grand aumônier de France
+  du: '1863-01-01'
+  au: '1871-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Georges%20Darboy%20Photographie%20ca1860%20BNF%20Gallica.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q713774
+  catholic_hierarchy: bdarboy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:27:51+00:00'
+  completeness: 1.0

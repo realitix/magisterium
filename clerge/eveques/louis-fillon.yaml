@@ -1,0 +1,57 @@
+slug: louis-fillon
+nom: Louis Fillon
+nom_complet: Louis-Joseph Fillon
+naissance: '1877-08-01'
+deces: '1943-01-02'
+naissance_lieu: Vineuil
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1929-09-24'
+  consecrateur_principal: louis-joseph-maurin
+  co_consecrateurs:
+  - benjamin-octave-roland-gosselin
+  - georges-audollent
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfillon.html
+  - https://fr.wikipedia.org/wiki/Louis_Fillon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: '1929-06-21'
+  au: null
+- titre: Archbishop of Bourges, France
+  du: '1934-12-24'
+  au: '1943-01-02'
+- titre: évêque de Langres
+  du: '1929-06-21'
+  au: null
+- titre: curé
+  du: '1926-01-01'
+  au: '1929-01-01'
+- titre: archevêque de Bourges
+  du: '1934-12-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Louis%20Fillon%20-%201929.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q55672142
+  catholic_hierarchy: bfillon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:44:36+00:00'
+  completeness: 1.0

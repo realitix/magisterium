@@ -1,0 +1,43 @@
+slug: michelangelo-calandrelli
+nom: Michelangelo Calandrelli
+nom_complet: Michelangelo Calandrelli, O.E.S.A.
+naissance: '1731-02-10'
+deces: '1797-08-18'
+naissance_lieu: Cercemaggiore
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1792-04-09'
+  consecrateur_principal: francesco-saverio-de-zelada
+  co_consecrateurs:
+  - antonio-felice-zondadari
+  - nicola-buschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaland.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerno, Italy
+  du: null
+  au: '1797-08-18'
+- titre: Roman Catholic Bishop of Acerno
+  du: '1792-01-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761850
+  catholic_hierarchy: bcaland
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:07:22+00:00'
+  completeness: 1.0

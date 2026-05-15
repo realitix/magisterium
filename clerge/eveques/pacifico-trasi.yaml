@@ -1,0 +1,44 @@
+slug: pacifico-trasi
+nom: Pacifico Trasi
+nom_complet: Pacifico Trasi (Trani), O.F.M. Obs.
+naissance: '1600-03-10'
+deces: '1659-12-31'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1642-04-06'
+  lieu: Santa Maria in Aracoeli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-cesare-sacchetti
+  co_consecrateurs:
+  - giambattista-altieri
+  - clement-x
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cagli, Italy
+  du: '1642-03-24'
+  au: '1659-12-31'
+- titre: évêque diocésain
+  du: '1642-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777811
+  catholic_hierarchy: btrani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:08:45+00:00'
+  completeness: 1.0

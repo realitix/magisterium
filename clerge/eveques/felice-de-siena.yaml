@@ -1,0 +1,44 @@
+slug: felice-de-siena
+nom: Felice de Siena
+nom_complet: null
+naissance: '1846-03-25'
+deces: '1902-01-26'
+naissance_lieu: Maddaloni, Diocese of Caserta
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1898-03-25'
+  lieu: Sacro Cuore di Gesù a Castro Pretorio, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: francesco-satolli
+  co_consecrateurs:
+  - luigi-domenico-cenci-t-c
+  - pietro-podaliri
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsien.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caiazzo, Italy
+  du: '1898-03-24'
+  au: '1902-01-26'
+- titre: évêque diocésain
+  du: '1898-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752566
+  catholic_hierarchy: bsien
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:16:47+00:00'
+  completeness: 1.0

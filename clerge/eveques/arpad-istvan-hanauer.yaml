@@ -1,0 +1,44 @@
+slug: arpad-istvan-hanauer
+nom: Árpád István Hanauer
+nom_complet: null
+naissance: '1869-12-28'
+deces: '1942-01-15'
+naissance_lieu: Papa
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1919-10-05'
+  lieu: Cathedral, Veszprém, Diocese of Veszprém
+  consecrateur_principal: nandor-rott
+  co_consecrateurs:
+  - farkas-radnai
+  - kalman-kranitz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhana.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: '1919-09-09'
+  au: '1942-01-15'
+- titre: évêque de Vác
+  du: '1919-09-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1033471
+  catholic_hierarchy: bhana
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:33:12+00:00'
+  completeness: 1.0

@@ -1,0 +1,43 @@
+slug: gregorio-pomodoro
+nom: Gregorio Pomodoro
+nom_complet: null
+naissance: '1563'
+deces: '1626'
+naissance_lieu: Ruvo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1616-06-05'
+  consecrateur_principal: paolo-emilio-filonardi
+  co_consecrateurs:
+  - francesco-piccolomini
+  - giovanni-tommaso-eustachio-c-o
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpomodoro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Larino, Italy
+  du: '1616-05-30'
+  au: 1626&sup2;
+- titre: évêque diocésain
+  du: '1616-05-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763827
+  catholic_hierarchy: bpomodoro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:14+00:00'
+  completeness: 0.75

@@ -1,0 +1,47 @@
+slug: william-macneely
+nom: William MacNeely
+nom_complet: null
+naissance: '1888-12-28'
+deces: '1963-12-11'
+naissance_lieu: Donegal Town
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1923-07-22'
+  consecrateur_principal: patrick-o-donnell
+  co_consecrateurs:
+  - joseph-hoare
+  - charles-mchugh
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmacneely.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Raphoe, Ireland
+  du: '1923-04-21'
+  au: '1963-12-11'
+- titre: évêque diocésain
+  du: '1923-04-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/William%20MacNeely%2C%20Bishop%20of%20the%20Diocese%20of%20Raphoe%20October%2024%2C%201931.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8014971
+  catholic_hierarchy: bmacneely
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:10:29+00:00'
+  completeness: 1.0

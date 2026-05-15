@@ -1,0 +1,44 @@
+slug: alvaro-magellano
+nom: Alvaro Magellano
+nom_complet: Alvaro Magelanes
+naissance: '1500'
+deces: '1571-11-27'
+naissance_lieu: null
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-10-07'
+  lieu: Wien, Diocese of Wien, Austria
+  consecrateur_principal: miklos-olah
+  co_consecrateurs:
+  - paulus-abstemius
+  - urban-sagstetter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagelan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Leone, Italy
+  du: '1565-05-15'
+  au: '1571-11-27'
+- titre: évêque de San Leone
+  du: '1565-05-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24963242
+  catholic_hierarchy: bmagelan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:12:39+00:00'
+  completeness: 0.88

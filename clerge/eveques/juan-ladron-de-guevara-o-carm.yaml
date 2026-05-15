@@ -1,0 +1,44 @@
+slug: juan-ladron-de-guevara-o-carm
+nom: Juan Ladrón de Guevara, O. Carm.
+nom_complet: Juan Ladrón de Guevara
+naissance: '1695-01-27'
+deces: '1755-03-09'
+naissance_lieu: Pedraza de la Sierra
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1750-09-27'
+  lieu: Madrid, Archdiocese of Toledo
+  consecrateur_principal: manuel-quintano-bonifaz
+  co_consecrateurs:
+  - juan-francisco-manrique-lara
+  - manuel-lopez-aguirre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bladrond.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barbastro, Spain
+  du: '1750-07-22'
+  au: '1755-03-09'
+- titre: Évêque de Barbastro
+  du: '1750-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746126
+  catholic_hierarchy: bladrond
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:27:08+00:00'
+  completeness: 1.0

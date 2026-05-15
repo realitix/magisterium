@@ -1,0 +1,58 @@
+slug: vaclav-maly
+nom: Václav Malý
+nom_complet: Václav Mal&#253;
+naissance: '1950-09-21'
+deces: null
+naissance_lieu: Praha, Archdiocese of Praha {Prague}
+deces_lieu: null
+rang: eveque
+nationalite: Q213
+tampon: ordo_dubius
+sacre:
+  date: '1997-01-11'
+  lieu: Saint Vite, Cathedral, Praha, Archdiocese of Praha {Prague}
+  consecrateur_principal: miloslav-vlk
+  co_consecrateurs:
+  - giovanni-coppa
+  - jaroslav-skarvada
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaly.html
+  - https://fr.wikipedia.org/wiki/V%C3%A1clav_Mal%C3%BD
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Praha {Prague}, Czechia
+  du: '1996-12-03'
+  au: null
+- titre: Titular Bishop of Marcelliana
+  du: '1996-12-03'
+  au: null
+- titre: évêque auxiliaire
+  du: '1996-12-03'
+  au: '2025-09-21'
+- titre: porte-parole de la Charte 77
+  du: null
+  au: null
+- titre: évêque titulaire
+  du: '1996-12-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lev%C3%BD%20Hradec%2C%20imgp1790%20%282018-09%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2535818
+  catholic_hierarchy: bmaly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:18:47+00:00'
+  completeness: 0.88

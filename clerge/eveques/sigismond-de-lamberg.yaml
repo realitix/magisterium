@@ -1,0 +1,44 @@
+slug: sigismond-de-lamberg
+nom: Sigismond de Lamberg
+nom_complet: Sigismond von Lamberg
+naissance: '1500'
+deces: '1488'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1463-07-03'
+  consecrateur_principal: non-indexe-fe1aea3e
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blambsig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ljubljana (Laybach; Laibach), Slovenia
+  du: '1463-06-06'
+  au: '1488-06-08'
+- titre: Bishop of Laibach
+  du: '1463-06-15'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Umestitev%20prvega%20ljubljanskega%20%C5%A0kofa%20%C5%BDige%20Lamberga%20leta%201463%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q29235
+  catholic_hierarchy: blambsig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:49+00:00'
+  completeness: 0.62

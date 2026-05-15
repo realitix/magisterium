@@ -1,0 +1,56 @@
+slug: johannes-kerer
+nom: Johannes Kerer
+nom_complet: Johann Kerer
+naissance: '1430'
+deces: '1507-03-24'
+naissance_lieu: Wertheim
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1493-05-08'
+  lieu: Santa Maria del Anima, Roma, Diocese of Roma {Rome}, Italy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkerer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Augsburg, Germany
+  du: '1493-05-05'
+  au: Sep 1506&sup3;
+- titre: Titular Bishop of Adramyttium
+  du: '1493-05-05'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Augsburg, Germany
+  du: null
+  au: '1507-03-24'
+- titre: évêque auxiliaire
+  du: '1493-01-01'
+  au: '1506-01-01'
+- titre: évêque auxiliaire
+  du: '1493-05-14'
+  au: '1506-01-01'
+- titre: évêque titulaire
+  du: '1493-05-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jesuitenkirche%20%28Freiburg%29%2007.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1697829
+  catholic_hierarchy: bkerer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:11:28+00:00'
+  completeness: 0.5

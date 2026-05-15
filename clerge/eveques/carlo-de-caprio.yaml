@@ -1,0 +1,53 @@
+slug: carlo-de-caprio
+nom: Carlo de Caprio
+nom_complet: null
+naissance: '1812-11-17'
+deces: '1887-12-14'
+naissance_lieu: Casanova, Archdiocese of Capua
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1876-11-19'
+  lieu: Cathedral, Mileto, Diocese of Mileto
+  consecrateur_principal: filippo-mincione
+  co_consecrateurs:
+  - francesco-saverio-mangeruva
+  - luigi-vaccari-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcapri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Mileto, Italy
+  du: '1876-04-03'
+  au: null
+- titre: Titular Bishop of Canopus
+  du: '1876-04-03'
+  au: null
+- titre: Bishop of Sessa Aurunca, Italy
+  du: '1880-12-13'
+  au: '1887-12-14'
+- titre: évêque titulaire de Canope
+  du: '1876-04-03'
+  au: null
+- titre: évêque diocésain
+  du: '1880-12-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751948
+  catholic_hierarchy: bcapri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:17:11+00:00'
+  completeness: 1.0

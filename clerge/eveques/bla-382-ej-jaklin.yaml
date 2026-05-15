@@ -1,0 +1,47 @@
+slug: bla-382-ej-jaklin
+nom: Bla&#382;ej Jáklin
+nom_complet: Balázs Jaklin
+naissance: '1644-09-08'
+deces: '1695-10-17'
+naissance_lieu: Murská Sobota, Slovenia
+deces_lieu: null
+rang: eveque
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1689-03-13'
+  lieu: Sainte Anne, Wien, Diocese of Wien, Austria
+  consecrateur_principal: leopold-karl-von-kollonitsch
+  co_consecrateurs:
+  - peter-korompay
+  - anton-stefanov-stephani-o-f-m-obs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjaklin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nitra, Slovakia
+  du: '1691-11-26'
+  au: '1695-10-17'
+- titre: Évêque de Nitra
+  du: '1691-11-26'
+  au: null
+- titre: Roman Catholic Bishop of Knin
+  du: '1688-01-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1099398
+  catholic_hierarchy: bjaklin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:48+00:00'
+  completeness: 1.0

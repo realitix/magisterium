@@ -1,0 +1,50 @@
+slug: martino-caliendi
+nom: Martino Caliendi
+nom_complet: null
+naissance: '1787-03-17'
+deces: '1849-04-01'
+naissance_lieu: Scavolino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1842-04-17'
+  lieu: San Francesco di Sales al Quirinale, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - ignazio-giovanni-cadolini
+  - fabio-maria-asquini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcalie.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ripatransone, Italy
+  du: '1842-01-27'
+  au: null
+- titre: Bishop of Montefeltro, Italy
+  du: '1845-04-21'
+  au: Apr 1849&sup3;
+- titre: Roman Catholic Bishop of Ripatransone
+  du: '1842-01-27'
+  au: null
+- titre: évêque diocésain
+  du: '1845-04-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761240
+  catholic_hierarchy: bcalie
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:08:18+00:00'
+  completeness: 0.88

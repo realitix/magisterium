@@ -1,0 +1,46 @@
+slug: nicolas-le-ruistre
+nom: Nicolas Le Ruistre
+nom_complet: Nicolas Ruistre
+naissance: '1442'
+deces: '1509-11-05'
+naissance_lieu: Luxembourg
+deces_lieu: Malines
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1502-08-07'
+  lieu: St. Pierre, Church, Louvain
+  co_consecrateurs:
+  - jean-de-beersel-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bruistre.html
+  - https://fr.wikipedia.org/wiki/Nicolas_Le_Ruistre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: '1502-02-16'
+  au: '1509-11-05'
+- titre: clerk
+  du: null
+  au: null
+- titre: évêque d'Arras
+  du: '1502-02-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3340510
+  catholic_hierarchy: bruistre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:35:44+00:00'
+  completeness: 0.62

@@ -1,0 +1,54 @@
+slug: georges-choquet
+nom: Georges Choquet
+nom_complet: Georges-Eugène-Emile Choquet
+naissance: '1878-11-03'
+deces: '1946-04-20'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Lourdes, Diocese of Tarbes et Lourdes
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1935-07-25'
+  consecrateur_principal: jean-verdier
+  co_consecrateurs:
+  - louis-fillon
+  - pierre-petit-de-julleville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchoque.html
+  - https://fr.wikipedia.org/wiki/Georges_Choquet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Langres, France
+  du: '1935-05-29'
+  au: null
+- titre: Bishop of Tarbes et Lourdes, France
+  du: '1938-02-11'
+  au: '1946-04-20'
+- titre: évêque de Langres
+  du: '1935-05-29'
+  au: '1938-02-11'
+- titre: évêque de Tarbes et Lourdes
+  du: '1938-02-11'
+  au: '1946-04-20'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Choquet%20Ev%20de%20Tarbes%20et%20Lourdes.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1508754
+  catholic_hierarchy: bchoque
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:47:50+00:00'
+  completeness: 1.0

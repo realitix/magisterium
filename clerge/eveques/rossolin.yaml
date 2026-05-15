@@ -1,0 +1,41 @@
+slug: rossolin
+nom: Rossolin
+nom_complet: Roselinn des Baux, O.F.M.
+naissance: null
+deces: '1328'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1'
+  consecrateur_principal: beranger-fredol-l-ancien
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdbaux.html
+  - https://fr.wikipedia.org/wiki/Rossolin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Riez, France
+  du: 1319&sup1;
+  au: 1328&sup1;
+- titre: évêque de Riez
+  du: '1319-01-01'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q3442855
+  catholic_hierarchy: bdbaux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:33:00+00:00'
+  completeness: 0.62

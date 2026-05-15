@@ -1,0 +1,52 @@
+slug: martin-gouges
+nom: Martin Gouges
+nom_complet: Martin Gouge (Goyon)
+naissance: '1370'
+deces: '1444-11-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1408-06-10'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgouge.html
+  - https://fr.wikipedia.org/wiki/Martin_Gouges
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: '1407-12-14'
+  au: null
+- titre: Bishop of Chartres, France
+  du: '1408-03-10'
+  au: null
+- titre: Bishop of Clermont, France
+  du: '1415-05-15'
+  au: '1444-11-25'
+- titre: évêque diocésain
+  du: '1408-03-19'
+  au: '1415-01-01'
+- titre: évêque diocésain
+  du: '1407-12-23'
+  au: null
+- titre: évêque diocésain
+  du: '1415-05-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3295443
+  catholic_hierarchy: bgouge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:36:58+00:00'
+  completeness: 0.5

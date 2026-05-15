@@ -1,0 +1,41 @@
+slug: ottavio-poderico
+nom: Ottavio Poderico
+nom_complet: null
+naissance: '1601'
+deces: '1650'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1647-06-02'
+  lieu: "Sant\x92Andrea della Valle, Roma, Diocese of Roma {Rome}"
+  consecrateur_principal: jerome-colonna-cardinal-eveque-de-frascati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpodero.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Umbriatico (Umbriaticum), Italy
+  du: '1647-05-27'
+  au: 1650&sup1;
+- titre: Roman Catholic Bishop of Umbriatico
+  du: '1647-05-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751762
+  catholic_hierarchy: bpodero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:39:45+00:00'
+  completeness: 0.62

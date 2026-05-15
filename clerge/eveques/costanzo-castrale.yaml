@@ -1,0 +1,49 @@
+slug: costanzo-castrale
+nom: Costanzo Castrale
+nom_complet: null
+naissance: '1850-01-13'
+deces: '1936-11-26'
+naissance_lieu: Usseglio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1905-05-07'
+  consecrateur_principal: agostino-richelmy
+  co_consecrateurs:
+  - giovanni-battista-ressia
+  - luigi-spandre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcastrc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Torino {Turin}, Italy
+  du: '1905-03-27'
+  au: '1936-11-26'
+- titre: Titular Bishop of Gaza
+  du: '1905-03-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1905-03-27'
+  au: null
+- titre: évêque titulaire
+  du: '1905-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64692450
+  catholic_hierarchy: bcastrc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:31:37+00:00'
+  completeness: 1.0

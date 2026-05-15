@@ -1,0 +1,44 @@
+slug: carlos-bermudez
+nom: Carlos Bermúdez
+nom_complet: null
+naissance: '1827-11-04'
+deces: '1886-12-06'
+naissance_lieu: Moniquira, Archdiocese of Santafé en Nueva Granada
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1868-06-28'
+  lieu: Cathedral, Bogota, Archdiocese of Santafé en Nueva Granada
+  consecrateur_principal: vicente-arbelaez-gomez
+  co_consecrateurs:
+  - eduardo-vasquez-o-p
+  - bonifacio-antonio-toscano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbermc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Popayán, Colombia
+  du: '1868-03-13'
+  au: '1886-12-06'
+- titre: évêque de Popayan
+  du: '1868-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745778
+  catholic_hierarchy: bbermc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:20:30+00:00'
+  completeness: 1.0

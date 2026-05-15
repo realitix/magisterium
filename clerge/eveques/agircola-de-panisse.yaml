@@ -1,0 +1,38 @@
+slug: agircola-de-panisse
+nom: Agircola de Panisse
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpanisse.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1482-07-08'
+  au: Jan 1490&sup3;
+- titre: évêque diocésain
+  du: '1482-07-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779327
+  catholic_hierarchy: bpanisse
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:07:42+00:00'
+  completeness: 0.25

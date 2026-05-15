@@ -1,0 +1,39 @@
+slug: charles-de-luxembourg
+nom: Charles de Luxembourg
+nom_complet: Carlo di Lussemburgo
+naissance: '1447'
+deces: '1509-11-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blussem.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Luxembourg_(%C3%A9v%C3%AAque_de_Laon)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Laon, France
+  du: '1473-03-15'
+  au: '1509-11-24'
+- titre: évêque de Laon
+  du: '1473-01-01'
+  au: '1509-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960629
+  catholic_hierarchy: blussem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:06:06+00:00'
+  completeness: 0.38

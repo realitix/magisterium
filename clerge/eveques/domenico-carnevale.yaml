@@ -1,0 +1,44 @@
+slug: domenico-carnevale
+nom: Domenico Carnevale
+nom_complet: null
+naissance: '1610'
+deces: '1646-12-12'
+naissance_lieu: Stilio
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1646-03-11'
+  lieu: Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: orazio-giustiniani
+  co_consecrateurs:
+  - ascanio-cassiani
+  - pietro-paolo-bonsi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarned.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Isola, Italy
+  du: '1646-02-19'
+  au: '1646-12-12'
+- titre: Roman Catholic Bishop of Isola
+  du: '1646-02-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745946
+  catholic_hierarchy: bcarned
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:23:19+00:00'
+  completeness: 0.88

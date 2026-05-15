@@ -1,0 +1,44 @@
+slug: vasco-seirecov
+nom: Vasco Séirécov
+nom_complet: Vasko Seyrekov
+naissance: '1920-01-16'
+deces: '1977-01-04'
+naissance_lieu: Plovdiv
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1975-10-26'
+  lieu: Plovdiv
+  consecrateur_principal: mario-brini
+  co_consecrateurs:
+  - bogdan-stefanov-dobranov
+  - methodius-stratiev
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicopoli, Bulgaria
+  du: '1975-07-22'
+  au: '1977-01-04'
+- titre: évêque de Nicopolis
+  du: '1975-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9371434
+  catholic_hierarchy: bseir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:40+00:00'
+  completeness: 1.0

@@ -1,0 +1,76 @@
+slug: alexandre-vii
+nom: Alexandre VII
+nom_complet: Alexander VII
+naissance: '1599-02-13'
+deces: '1667-05-22'
+naissance_lieu: Siena, Archdiocese of Siena
+deces_lieu: null
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1635-07-01'
+  lieu: Jesuit College, Chapel, La Valletta, Diocese of Malta
+  consecrateur_principal: miguel-juan-balaguer-camarasa-o-s-io-hieros
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchigi.html
+  - https://fr.wikipedia.org/wiki/Alexandre_VII
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nardò, Italy
+  du: '1635-01-08'
+  au: Feb 1652&sup2;
+- titre: Apostolic Nuncio to Germany
+  du: '1639-06-13'
+  au: Oct 1651&sup3;
+- titre: Secretary of State
+  du: Dec 1651&sup3;
+  au: '1655-01-07'
+- titre: Archbishop (Personal Title) of Imola, Italy
+  du: '1653-05-13'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1667-05-22'
+- titre: pape
+  du: '1655-04-07'
+  au: '1667-05-22'
+- titre: cardinal
+  du: '1652-02-19'
+  au: null
+- titre: cardinal secrétaire d'État
+  du: null
+  au: null
+- titre: inquisiteur
+  du: null
+  au: null
+- titre: archevêque catholique
+  du: '1653-05-13'
+  au: null
+- titre: évêque diocésain
+  du: '1635-01-08'
+  au: '1652-02-01'
+- titre: nonce apostolique en Allemagne
+  du: '1639-06-13'
+  au: '1651-10-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Alexander%20VII%20Chigi%20%28by%20Giovanni%20Battista%20Gaulli%20-%20Baciccio%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q127254
+  catholic_hierarchy: bchigi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:46:10+00:00'
+  completeness: 0.88

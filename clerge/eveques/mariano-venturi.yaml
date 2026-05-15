@@ -1,0 +1,44 @@
+slug: mariano-venturi
+nom: Mariano Venturi
+nom_complet: null
+naissance: '1788-04-09'
+deces: '1854-07-14'
+naissance_lieu: Costacciaro
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1844-07-28'
+  lieu: St. Gregoire au Mont Coelius, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: castruccio-castracane-degli-antelminelli
+  co_consecrateurs:
+  - pierre-dominique-marcellin-bonamie-ss-cc
+  - giuseppe-maria-castellani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bventuri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veroli, Italy
+  du: '1844-07-22'
+  au: '1854-07-14'
+- titre: Roman Catholic Bishop of Veroli
+  du: '1844-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64708468
+  catholic_hierarchy: bventuri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:18+00:00'
+  completeness: 1.0

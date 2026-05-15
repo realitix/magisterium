@@ -1,0 +1,52 @@
+slug: aymon-de-quart
+nom: Aymon de Quart
+nom_complet: Aimone di Quart
+naissance: '1300'
+deces: '1311-10-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1304-10-05'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bquart.html
+  - https://fr.wikipedia.org/wiki/Aymon_de_Quart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: 1304&sup1;
+  au: '1311-10-13'
+- titre: prévôt
+  du: '1292-01-01'
+  au: '1304-01-01'
+- titre: évêque de Sion
+  du: '1287-01-01'
+  au: '1287-01-01'
+- titre: prévôt
+  du: '1286-01-01'
+  au: '1303-01-01'
+- titre: chanoine de Lyon
+  du: '1283-01-01'
+  au: '1286-01-01'
+- titre: évêque de Genève
+  du: '1304-01-01'
+  au: '1311-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q793151
+  catholic_hierarchy: bquart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:54:40+00:00'
+  completeness: 0.5

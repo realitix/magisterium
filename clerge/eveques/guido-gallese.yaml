@@ -1,0 +1,48 @@
+slug: guido-gallese
+nom: Guido Gallese
+nom_complet: null
+naissance: '1962-03-18'
+deces: null
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2012-11-11'
+  lieu: San Lorenzo, Cathedral, Genova, Archdiocese of Genova {Genoa}
+  consecrateur_principal: angelo-bagnasco
+  co_consecrateurs:
+  - giuseppe-versaldi
+  - luigi-ernesto-palletti
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgallese.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alessandria (della Paglia), Italy
+  du: '2012-10-20'
+  au: null
+- titre: évêque d'Alessandria
+  du: '2012-10-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Gallese%20Vescovo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q556415
+  catholic_hierarchy: bgallese
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:05:48+00:00'
+  completeness: 0.88

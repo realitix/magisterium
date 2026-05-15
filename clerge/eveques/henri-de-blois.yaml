@@ -1,0 +1,54 @@
+slug: henri-de-blois
+nom: Henri de Blois
+nom_complet: Henry of Blois
+naissance: '1096'
+deces: '1171-08-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1129-11-17'
+  consecrateur_principal: william-of-corbeuil-c-r-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbloish.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Blois
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Winchester, England, Great Britain
+  du: '1129-10-11'
+  au: '1171-08-09'
+- titre: évêque de Winchester
+  du: '1129-01-01'
+  au: '1171-08-08'
+- titre: légat pontifical
+  du: '1139-01-01'
+  au: null
+- titre: abbé de Glastonbury
+  du: '1126-01-01'
+  au: '1171-08-08'
+- titre: évêque diocésain
+  du: '1129-10-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/HenryBlois.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1363205
+  catholic_hierarchy: bbloish
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:25+00:00'
+  completeness: 0.75

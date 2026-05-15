@@ -1,0 +1,43 @@
+slug: camillo-beccio-o-s-a
+nom: Camillo Beccio, O.S.A.
+nom_complet: Camillo Beccio
+naissance: null
+deces: '1620'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1599-01-10'
+  consecrateur_principal: gian-francesco-biandrate-di-san-giorgio-aldobrandini
+  co_consecrateurs:
+  - giovanni-fontana-1537
+  - carlo-trotti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbeccio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acqui, Italy
+  du: '1598-11-25'
+  au: 1620&sup1;
+- titre: évêque diocésain
+  du: '1598-11-25'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q23582101
+  catholic_hierarchy: bbeccio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:11:35+00:00'
+  completeness: 0.75

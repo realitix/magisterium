@@ -1,0 +1,44 @@
+slug: giulio-monaco
+nom: Giulio Monaco
+nom_complet: null
+naissance: null
+deces: '1581'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1580-11-13'
+  lieu: S. Silvestre in Monte Cavallo, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - thomas-goldwell
+  - filippo-cardinal-spinola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmonacog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lucera, Italy
+  du: '1580-11-04'
+  au: 1581&sup1;
+- titre: évêque diocésain
+  du: '1580-11-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23908725
+  catholic_hierarchy: bmonacog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:04:22+00:00'
+  completeness: 0.75

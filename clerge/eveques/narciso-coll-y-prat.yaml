@@ -1,0 +1,50 @@
+slug: narciso-coll-y-prat
+nom: Narciso Coll y Prat
+nom_complet: null
+naissance: '1754-11-26'
+deces: '1822-12-30'
+naissance_lieu: Cornellá de Torri
+deces_lieu: null
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1810-06-11'
+  consecrateur_principal: manuel-verdugo-y-albiturria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcopr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Palencia, Spain
+  du: null
+  au: '1822-12-30'
+- titre: archevêque de Caracas
+  du: '1810-06-11'
+  au: '1822-02-25'
+- titre: évêque de Palencia
+  du: '1822-02-25'
+  au: '1822-12-30'
+- titre: archevêque catholique
+  du: '1810-06-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Arzobispo%20narciso%20coll.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q20014128
+  catholic_hierarchy: bcopr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:04:52+00:00'
+  completeness: 0.88

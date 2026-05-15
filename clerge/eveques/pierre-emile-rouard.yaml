@@ -1,0 +1,45 @@
+slug: pierre-emile-rouard
+nom: Pierre-Émile Rouard
+nom_complet: null
+naissance: '1839-11-24'
+deces: '1914-02-19'
+naissance_lieu: Montigny-sur-Aube
+deces_lieu: Cannes
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1896-08-20'
+  lieu: Cathedral, Dijon, Diocese of Dijon
+  consecrateur_principal: federic-henri-oury
+  co_consecrateurs:
+  - jean-baptiste-frerot
+  - abel-gilbert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brouard.html
+  - https://fr.wikipedia.org/wiki/Pierre-%C3%89mile_Rouard
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nantes, France
+  du: null
+  au: '1914-02-19'
+- titre: évêque de Nantes
+  du: '1896-05-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16855685
+  catholic_hierarchy: brouard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:31:19+00:00'
+  completeness: 1.0

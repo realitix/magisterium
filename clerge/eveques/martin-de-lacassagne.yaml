@@ -1,0 +1,41 @@
+slug: martin-de-lacassagne
+nom: Martin de Lacassagne
+nom_complet: Martin de La Cassagne
+naissance: '1651'
+deces: '1729-01-13'
+naissance_lieu: Lescar
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1719-03-26'
+  consecrateur_principal: jacques-desmarets
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blacass.html
+  - https://fr.wikipedia.org/wiki/Martin_de_Lacassagne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lescar, France
+  du: null
+  au: '1729-01-13'
+- titre: évêque de Lescar
+  du: '1716-03-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816554
+  catholic_hierarchy: blacass
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:25:45+00:00'
+  completeness: 0.75

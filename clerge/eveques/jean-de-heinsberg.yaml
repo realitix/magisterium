@@ -1,0 +1,54 @@
+slug: jean-de-heinsberg
+nom: Jean de Heinsberg
+nom_complet: John of Heinsberg
+naissance: '1396'
+deces: '1459-10-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1420-03-17'
+  consecrateur_principal: konrad-von-arnsberg
+  co_consecrateurs:
+  - henri-de-nussia-o-p
+  - mathias-de-alamannia-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bheinsb.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Heinsberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: '1419-09-20'
+  au: '1455-10-22'
+- titre: Bishop Emeritus of Liège, Belgium
+  du: null
+  au: '1459-10-18'
+- titre: évêque de Liège
+  du: '1419-09-29'
+  au: '1455-10-31'
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%BBl%C3%A9%20li%C3%A9geois%20de%20Jean%20de%20heinsberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q318070
+  catholic_hierarchy: bheinsb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:38:01+00:00'
+  completeness: 0.88

@@ -1,0 +1,39 @@
+slug: luis-mendez-o-s-b
+nom: Luis Méndez, O.S.B.
+nom_complet: Luis Méndez
+naissance: null
+deces: null
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1513-09-01'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmendl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Sidon
+  du: '1513-09-01'
+  au: 1529&sup2;
+- titre: évêque titulaire
+  du: '1513-09-01'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q68908319
+  catholic_hierarchy: bmendl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:50:37+00:00'
+  completeness: 0.25

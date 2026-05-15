@@ -1,0 +1,50 @@
+slug: istvan-nagy
+nom: István Nagy
+nom_complet: null
+naissance: '1725-11-28'
+deces: '1804-08-05'
+naissance_lieu: Komárom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1777-03-09'
+  lieu: Presbourg
+  consecrateur_principal: jozsef-batthyany
+  co_consecrateurs:
+  - szily-janos
+  - anton-zlatari-263
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnagys.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1776-12-16'
+  au: 5 Aug 1804&#8310;
+- titre: Titular Bishop of Themiscyra
+  du: '1776-12-16'
+  au: null
+- titre: évêque titulaire
+  du: '1776-12-16'
+  au: null
+- titre: évêque auxiliaire
+  du: '1776-12-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21007310
+  catholic_hierarchy: bnagys
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:24:03+00:00'
+  completeness: 1.0

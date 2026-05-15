@@ -1,0 +1,43 @@
+slug: fernando-lujan
+nom: Fernando Lujan
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1449-05-11'
+  consecrateur_principal: bernard-yvest-de-roserge
+  co_consecrateurs:
+  - pietro-dall-orto
+  - niccolo-ruggeri-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blujanf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sigüenza, Spain
+  du: '1449-03-17'
+  au: 1465&sup2;
+- titre: évêque de Sigüenza
+  du: '1449-03-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779977
+  catholic_hierarchy: blujanf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:04:41+00:00'
+  completeness: 0.75

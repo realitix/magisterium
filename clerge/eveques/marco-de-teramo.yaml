@@ -1,0 +1,51 @@
+slug: marco-de-teramo
+nom: Marco de Teramo
+nom_complet: null
+naissance: null
+deces: '1439'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: rodrigo-regina-o-f-m
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bteramo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Monopoli, Italy
+  du: '1400-03-24'
+  au: null
+- titre: Bishop of Bertinoro, Italy
+  du: '1404-12-15'
+  au: null
+- titre: Bishop of Sarno, Italy
+  du: '1418-12-29'
+  au: 1439&sup2;
+- titre: évêque de Monopoli
+  du: '1400-04-02'
+  au: null
+- titre: évêque de Bertinoro
+  du: '1404-12-24'
+  au: null
+- titre: Roman Catholic Bishop of Sarno
+  du: '1419-01-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q41905326
+  catholic_hierarchy: bteramo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:54:46+00:00'
+  completeness: 0.38

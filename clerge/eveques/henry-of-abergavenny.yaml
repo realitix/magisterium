@@ -1,0 +1,43 @@
+slug: henry-of-abergavenny
+nom: Henry of Abergavenny
+nom_complet: Henry de Abergavenny
+naissance: null
+deces: '1218-11-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1193-12-12'
+  consecrateur_principal: hubert-walter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baberga.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: 1193&sup1;
+  au: '1218-11-12'
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1193-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5730717
+  catholic_hierarchy: baberga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:53+00:00'
+  completeness: 0.75

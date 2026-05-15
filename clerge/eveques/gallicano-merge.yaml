@@ -1,0 +1,50 @@
+slug: gallicano-merge
+nom: Gallicano Mergè
+nom_complet: null
+naissance: '1843-01-05'
+deces: '1897-07-07'
+naissance_lieu: Gallicano, Suburbicarian See of Palestrina
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1894-05-27'
+  lieu: S, Felippo Neri, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: angelo-bianchi
+  co_consecrateurs:
+  - cesare-sambucetti
+  - luigi-maria-canestrari
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmerge.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Palestrina, Italy
+  du: '1894-05-18'
+  au: '1897-07-07'
+- titre: Titular Bishop of Arethusa
+  du: '1894-05-18'
+  au: null
+- titre: évêque titulaire
+  du: '1894-05-18'
+  au: null
+- titre: évêque auxiliaire
+  du: '1894-05-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734696
+  catholic_hierarchy: bmerge
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:52:36+00:00'
+  completeness: 1.0

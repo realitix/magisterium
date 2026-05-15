@@ -1,0 +1,43 @@
+slug: luis-jimenez
+nom: Luis Jiménez
+nom_complet: Luis Jiménez, O. de M.
+naissance: '1586'
+deces: '1636'
+naissance_lieu: Cuenca, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q766543
+tampon: ordo_validus
+sacre:
+  date: '1627-09-08'
+  consecrateur_principal: cosimo-de-torres
+  co_consecrateurs:
+  - giuseppe-acquaviva
+  - francesco-nappi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjiml.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ugento, Italy
+  du: null
+  au: 1636&sup2;
+- titre: évêque diocésain
+  du: '1627-06-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23614429
+  catholic_hierarchy: bjiml
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:01:36+00:00'
+  completeness: 0.75

@@ -1,0 +1,46 @@
+slug: michael-blake
+nom: Michael Blake
+nom_complet: null
+naissance: '1775-07-16'
+deces: '1860-03-06'
+naissance_lieu: Dublin, Archdiocese of Dublin
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1833-03-17'
+  consecrateur_principal: thomas-kelly
+  co_consecrateurs:
+  - edward-kernan
+  - james-browne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bblakem.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dromore, Ireland
+  du: '1833-01-22'
+  au: '1860-02-27'
+- titre: Bishop Emeritus of Dromore, Ireland
+  du: null
+  au: '1860-03-06'
+- titre: évêque diocésain
+  du: '1833-01-22'
+  au: '1860-02-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28154958
+  catholic_hierarchy: bblakem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:29:56+00:00'
+  completeness: 1.0

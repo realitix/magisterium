@@ -1,0 +1,44 @@
+slug: luigi-testore
+nom: Luigi Testore
+nom_complet: null
+naissance: '1952-04-30'
+deces: null
+naissance_lieu: "Costigliole d\x92Asti, Diocese of Asti"
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2018-02-24'
+  lieu: "Sant\x92Ambrogio, Basilica, Milano, Archdiocese of Milano {Milan}"
+  consecrateur_principal: mario-delpini
+  co_consecrateurs:
+  - carlo-roberto-maria-redaelli
+  - erminio-de-scalzi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btestore.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acqui, Italy
+  du: '2018-01-19'
+  au: null
+- titre: évêque diocésain
+  du: '2018-01-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q47461722
+  catholic_hierarchy: btestore
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:56:09+00:00'
+  completeness: 0.88

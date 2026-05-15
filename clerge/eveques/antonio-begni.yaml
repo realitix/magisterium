@@ -1,0 +1,43 @@
+slug: antonio-begni
+nom: Antonio Begni
+nom_complet: null
+naissance: '1760-06-12'
+deces: '1840-06-11'
+naissance_lieu: Monte Cerignone
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1804-06-03'
+  consecrateur_principal: giuseppe-maria-doria-pamphilj
+  co_consecrateurs:
+  - salvatore-spinelli-o-s-b
+  - benedetto-sinibaldi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbegni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montefeltro, Italy
+  du: '1804-05-28'
+  au: '1840-06-11'
+- titre: évêque diocésain
+  du: '1804-05-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747513
+  catholic_hierarchy: bbegni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:12:43+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: joao-nunes-barreto
+nom: João Nunes Barreto
+nom_complet: João Nunes Barreto, S.J.
+naissance: '1517'
+deces: '1562-12-22'
+naissance_lieu: Porto, Diocese of Porto, Portugal
+deces_lieu: Goa, Archdiocese of Goa, India
+rang: patriarche
+nationalite: Q45670
+tampon: ordo_incertus
+sacre:
+  date: '1555-05-05'
+  lieu: Trindade, Convent, Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+  consecrateur_principal: juliao-de-alva
+  co_consecrateurs:
+  - gaspar-cao-o-s-a
+  - pedro-fernando
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnunbar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Patriarch of Ethiopia
+  du: '1555-01-23'
+  au: '1562-12-22'
+- titre: Latin Patriarch of Ethiopia
+  du: '1555-02-02'
+  au: '1563-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3810724
+  catholic_hierarchy: bnunbar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:40:01+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: louis-ier-d-amboise
+nom: Louis Ier d'Amboise
+nom_complet: Louis d&rsquo;Amboise (I)
+naissance: '1433'
+deces: '1503-07-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdambli.html
+  - https://fr.wikipedia.org/wiki/Louis_Ier_d%27Amboise
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albi, France
+  du: '1474-01-24'
+  au: '1503-07-01'
+- titre: évêque d'Albi
+  du: '1474-02-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/MTCombefa%20LouisIAmboise.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1871738
+  catholic_hierarchy: bdambli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:24:55+00:00'
+  completeness: 0.38

@@ -1,0 +1,40 @@
+slug: gottskalk-keneksson
+nom: Gottskálk Keneksson
+nom_complet: null
+naissance: null
+deces: '1457-09-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1442'
+  consecrateur_principal: aslak-harniktsson-bolt
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkenek.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hólar, Iceland
+  du: 1442&sup1;
+  au: 8 Sep 1457&sup3;
+- titre: évêque diocésain
+  du: '1442-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762634
+  catholic_hierarchy: bkenek
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:10:58+00:00'
+  completeness: 0.75

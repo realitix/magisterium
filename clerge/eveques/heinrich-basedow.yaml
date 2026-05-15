@@ -1,0 +1,42 @@
+slug: heinrich-basedow
+nom: Heinrich Basedow
+nom_complet: Heinrich II. Basedow
+naissance: '1500'
+deces: '1523'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1501'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbasedow.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Curland, Latvia
+  du: '1501-02-12'
+  au: 1523&sup2;
+- titre: Roman Catholic Bishop of Curland
+  du: '1501-02-22'
+  au: null
+- titre: évêque
+  du: '1501-01-01'
+  au: '1523-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16404634
+  catholic_hierarchy: bbasedow
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:06:39+00:00'
+  completeness: 0.25

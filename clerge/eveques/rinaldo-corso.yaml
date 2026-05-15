@@ -1,0 +1,41 @@
+slug: rinaldo-corso
+nom: Rinaldo Corso
+nom_complet: null
+naissance: '1525-02-25'
+deces: '1582'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorsori.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strongoli, Italy
+  du: '1579-08-03'
+  au: 1582&sup2;
+- titre: Grand Inquisitor of Malta
+  du: '1577-01-01'
+  au: '1579-08-13'
+- titre: Roman Catholic Bishop of Strongoli
+  du: '1579-08-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3935917
+  catholic_hierarchy: bcorsori
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:08:26+00:00'
+  completeness: 0.25

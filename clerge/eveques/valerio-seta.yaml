@@ -1,0 +1,41 @@
+slug: valerio-seta
+nom: Valerio Seta
+nom_complet: Varlerius Seta, O.S.M.
+naissance: '1562'
+deces: '1625'
+naissance_lieu: Verone, Diocese of Verona
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1608-12-07'
+  lieu: St. Marcel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: bonifazio-bevilacqua-aldobrandini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsetav.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alife, Italy
+  du: '1608-11-24'
+  au: 1625&sup2;
+- titre: évêque diocésain
+  du: '1608-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751993
+  catholic_hierarchy: bsetav
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:47+00:00'
+  completeness: 0.62

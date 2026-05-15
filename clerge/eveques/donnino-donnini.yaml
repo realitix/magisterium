@@ -1,0 +1,50 @@
+slug: donnino-donnini
+nom: Donnino Donnini
+nom_complet: null
+naissance: '1832-12-04'
+deces: '1904-10-18'
+naissance_lieu: Barga
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1879-09-28'
+  lieu: S. Jean des Florentins, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - giulio-lenti
+  - placido-maria-schiaffino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdonni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montalcino, Italy
+  du: '1879-09-19'
+  au: null
+- titre: Bishop of Arezzo, Italy
+  du: '1891-12-14'
+  au: '1904-10-18'
+- titre: Roman Catholic Bishop of Arezzo
+  du: '1891-12-14'
+  au: null
+- titre: Roman Catholic Bishop of Montalcino
+  du: '1879-09-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734550
+  catholic_hierarchy: bdonni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:01:09+00:00'
+  completeness: 1.0

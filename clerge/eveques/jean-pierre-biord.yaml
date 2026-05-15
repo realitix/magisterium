@@ -1,0 +1,45 @@
+slug: jean-pierre-biord
+nom: Jean-Pierre Biord
+nom_complet: null
+naissance: '1719-10-16'
+deces: '1785-03-14'
+naissance_lieu: Samoens
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1764-08-12'
+  consecrateur_principal: giovanni-battista-rotario-da-pralormo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbiord.html
+  - https://fr.wikipedia.org/wiki/Jean-Pierre_Biord
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: null
+  au: '1785-03-14'
+- titre: évêque de Genève
+  du: '1764-05-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Biord%20jean%20pierre%20900.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3169011
+  catholic_hierarchy: bbiord
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:28:10+00:00'
+  completeness: 0.88

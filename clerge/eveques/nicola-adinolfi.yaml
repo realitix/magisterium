@@ -1,0 +1,41 @@
+slug: nicola-adinolfi
+nom: Nicola Adinolfi
+nom_complet: null
+naissance: '1647-07-21'
+deces: '1715-07-13'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: Andria, Diocese of Andria
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1707-01-16'
+  lieu: de Crociferi, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/badinoa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Andria, Italy
+  du: '1706-12-06'
+  au: '1715-07-13'
+- titre: évêque diocésain
+  du: '1706-12-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21546808
+  catholic_hierarchy: badinoa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:21:10+00:00'
+  completeness: 0.88

@@ -1,0 +1,38 @@
+slug: benoit-de-jean
+nom: Benoît de Jean
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjeanbe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cahors, France
+  du: '1494-01-08'
+  au: 1501&sup1;
+- titre: évêque diocésain
+  du: '1494-01-17'
+  au: '1501-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905132
+  catholic_hierarchy: bjeanbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:59:57+00:00'
+  completeness: 0.25

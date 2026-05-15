@@ -1,0 +1,47 @@
+slug: luigi-zannini
+nom: Luigi Zannini
+nom_complet: null
+naissance: '1809-05-02'
+deces: '1861'
+naissance_lieu: Jesi, Diocese of Jesi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1854-12-03'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: cosimo-corsi
+  co_consecrateurs:
+  - ferdinando-minucci
+  - giulio-arrigoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzannini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veroli, Italy
+  du: '1854-11-30'
+  au: '1857-12-09'
+- titre: Bishop Emeritus of Veroli, Italy
+  du: null
+  au: 1861&sup1;
+- titre: Roman Catholic Bishop of Veroli
+  du: '1854-11-30'
+  au: '1857-12-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761686
+  catholic_hierarchy: bzannini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:06:13+00:00'
+  completeness: 0.88

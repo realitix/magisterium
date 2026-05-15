@@ -1,0 +1,43 @@
+slug: leon-redner
+nom: Leon Redner
+nom_complet: Leo Redner
+naissance: '1828-09-13'
+deces: '1898-03-31'
+naissance_lieu: Neuenburg, Diocese of Chelmno (Culma, Kulm)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1887-01-09'
+  lieu: Assomption, Cathedral, Pelplin, Diocese of Chelmno (Culma, Kulm)
+  consecrateur_principal: julius-dinder
+  co_consecrateurs:
+  - andreas-thiel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bredner.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chelmno (Culma, Kulm), Poland
+  du: '1886-11-16'
+  au: 31 Mar 1898&sup3;
+- titre: évêque de Chelmno
+  du: '1886-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11754377
+  catholic_hierarchy: bredner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:06:13+00:00'
+  completeness: 1.0

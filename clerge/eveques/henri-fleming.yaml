@@ -1,0 +1,47 @@
+slug: henri-fleming
+nom: Henri Fleming
+nom_complet: Heinrich Fleming
+naissance: '1230'
+deces: '1300-07-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  date: '21'
+  consecrateur_principal: nicolas-iii
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bflemingh.html
+  - https://fr.wikipedia.org/wiki/Henri_Fleming
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Warmia (Ermland), Poland
+  du: '1279-03-21'
+  au: '1300-07-15'
+- titre: évêque auxiliaire
+  du: null
+  au: null
+- titre: évêque de Varmie
+  du: '1279-03-28'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3131088
+  catholic_hierarchy: bflemingh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:47:58+00:00'
+  completeness: 0.62

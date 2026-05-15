@@ -1,0 +1,43 @@
+slug: bartolomeo-bacher
+nom: Bartolomeo Bacher
+nom_complet: null
+naissance: '1726-03-13'
+deces: '1813-07-06'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1779-12-19'
+  consecrateur_principal: innocenzo-conti
+  co_consecrateurs:
+  - francesco-antonio-marcucci
+  - domenico-spinucci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbacher.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ripatransone, Italy
+  du: '1779-12-13'
+  au: '1813-07-06'
+- titre: Roman Catholic Bishop of Ripatransone
+  du: '1779-12-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745896
+  catholic_hierarchy: bbacher
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:54:19+00:00'
+  completeness: 1.0

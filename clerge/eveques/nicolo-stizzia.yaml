@@ -1,0 +1,44 @@
+slug: nicolo-stizzia
+nom: Nicolò Stizzìa
+nom_complet: Nicolò Stizzia
+naissance: '1542'
+deces: '1596-02-17'
+naissance_lieu: Catania, Diocese of Catania
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1594-05-30'
+  lieu: S. Barthelemy, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-antonio-santorio
+  co_consecrateurs:
+  - flaminio-filonardi
+  - leonardo-abela
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstizz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cefalù, Italy
+  du: '1594-05-23'
+  au: '1596-02-17'
+- titre: Évêque de Cefalù
+  du: '1594-05-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3876586
+  catholic_hierarchy: bstizz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:39:21+00:00'
+  completeness: 0.88

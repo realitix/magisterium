@@ -1,0 +1,50 @@
+slug: lucio-lemmo
+nom: Lucio Lemmo
+nom_complet: null
+naissance: '1946-05-23'
+deces: null
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2010-02-11'
+  lieu: Maria Santissima Assunta, Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: crescenzio-sepe
+  co_consecrateurs:
+  - giuseppe-bertello
+  - antonio-di-donna
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blemmo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Napoli {Naples}, Italy
+  du: '2010-01-09'
+  au: null
+- titre: Titular Bishop of Turres Ammeniae
+  du: '2010-01-09'
+  au: null
+- titre: évêque titulaire
+  du: '2010-01-09'
+  au: null
+- titre: évêque auxiliaire
+  du: '2010-01-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1249596
+  catholic_hierarchy: blemmo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:42:50+00:00'
+  completeness: 0.88

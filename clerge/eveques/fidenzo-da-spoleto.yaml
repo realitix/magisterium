@@ -1,0 +1,38 @@
+slug: fidenzo-da-spoleto
+nom: Fidenzo da Spoleto
+nom_complet: null
+naissance: null
+deces: '1276'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspoletfi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aversa, Italy
+  du: 1260&sup1;
+  au: 1276&sup1;
+- titre: évêque d'Aversa
+  du: '1260-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108446054
+  catholic_hierarchy: bspoletfi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:34:06+00:00'
+  completeness: 0.25

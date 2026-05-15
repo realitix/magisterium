@@ -1,0 +1,49 @@
+slug: charles-ier-de-martigny
+nom: Charles Ier de Martigny
+nom_complet: Charles de Martigny
+naissance: '1500'
+deces: '1512-07-18'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: antoine-pierre-de-narbonne
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmartigc.html
+  - https://fr.wikipedia.org/wiki/Charles_Ier_de_Martigny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elne, France
+  du: '1475-10-25'
+  au: null
+- titre: Bishop of Castres, France
+  du: '1495-01-20'
+  au: 1509&sup2;
+- titre: évêque d'Elne
+  du: '1475-11-03'
+  au: null
+- titre: abbé de Saint-Étienne de Caen
+  du: '1485-01-01'
+  au: '1506-01-01'
+- titre: évêque diocésain
+  du: '1495-01-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2959412
+  catholic_hierarchy: bmartigc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:31:22+00:00'
+  completeness: 0.38

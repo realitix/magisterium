@@ -1,0 +1,44 @@
+slug: denys-gaith
+nom: Denys Gaith
+nom_complet: Denys Gaith, B.C.
+naissance: '1910-03-19'
+deces: '1986-03-22'
+naissance_lieu: Yabroud
+deces_lieu: null
+rang: archeveque
+nationalite: Q858
+tampon: ordo_dubius
+sacre:
+  date: '1971-09-12'
+  lieu: Saint-Constantin et Sainte-Hélène, Church, Yabroud
+  consecrateur_principal: maxime-v-hakim
+  co_consecrateurs:
+  - athanase-ach-chaer-b-c
+  - nicolas-hajj
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgaith.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Homs (-Hama-Jabrud) (Melkite Greek), Syria
+  du: '1971-08-19'
+  au: '1986-03-22'
+- titre: archevêque catholique
+  du: '1971-09-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1190033
+  catholic_hierarchy: bgaith
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:04:13+00:00'
+  completeness: 1.0

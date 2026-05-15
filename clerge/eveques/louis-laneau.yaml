@@ -1,0 +1,53 @@
+slug: louis-laneau
+nom: Louis Laneau
+nom_complet: Louis Laneau, M.E.P.
+naissance: '1637-05-31'
+deces: '1696-03-16'
+naissance_lieu: Mondonbleau, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1674-03-25'
+  consecrateur_principal: pierre-lambert-de-la-motte
+  co_consecrateurs:
+  - francois-pallu
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaneau.html
+  - https://fr.wikipedia.org/wiki/Louis_Laneau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Siam, Thailand
+  du: '1669-07-04'
+  au: '1696-03-16'
+- titre: Titular Bishop of Metellopolis
+  du: '1669-07-04'
+  au: null
+- titre: évêque titulaire
+  du: '1669-07-04'
+  au: null
+- titre: vicaire apostolique
+  du: '1669-07-04'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Audience%20with%20Narai%2C%201685-10-18%20%28b%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3262434
+  catholic_hierarchy: blaneau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:29+00:00'
+  completeness: 1.0

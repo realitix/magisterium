@@ -1,0 +1,45 @@
+slug: jean-dubec-crespin
+nom: Jean Dubec-Crespin
+nom_complet: Jean du Bec (-Crespin)
+naissance: '1540'
+deces: '1610-01-10'
+naissance_lieu: Bec-Helluin, Eure
+deces_lieu: Saint-Malo-de-Beignon, Diocese of Saint-Malo
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1599-03-14'
+  lieu: Paris, Diocese of Paris
+  consecrateur_principal: pierre-de-gondi
+  co_consecrateurs:
+  - henri-de-gondi
+  - henri-d-rsquo-escoubleau-de-sourdis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdubec.html
+  - https://fr.wikipedia.org/wiki/Jean_du_Bec-Crespin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Malo, France
+  du: null
+  au: '1610-01-10'
+- titre: évêque diocésain
+  du: '1596-10-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3171824
+  catholic_hierarchy: bdubec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:10:33+00:00'
+  completeness: 0.88

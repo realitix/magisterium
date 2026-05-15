@@ -1,0 +1,42 @@
+slug: bernard-de-sully
+nom: Bernard de Sully
+nom_complet: null
+naissance: null
+deces: '1245-01-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: gauthier-cornut
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsullyb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: Apr 1234&sup3;
+  au: '1244-03-30'
+- titre: Bishop Emeritus of Auxerre, France
+  du: null
+  au: '1245-01-06'
+- titre: évêque d'Auxerre
+  du: '1234-04-01'
+  au: '1244-04-06'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780130
+  catholic_hierarchy: bsullyb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:43:32+00:00'
+  completeness: 0.62

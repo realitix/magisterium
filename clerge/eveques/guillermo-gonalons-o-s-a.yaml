@@ -1,0 +1,48 @@
+slug: guillermo-gonalons-o-s-a
+nom: Guillermo Goñalons, O.S.A.
+nom_complet: Guillermo Goñalons
+naissance: '1642-05-29'
+deces: '1708-08-12'
+naissance_lieu: Alayor
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1700-06-13'
+  lieu: S. Augustin, Barcalona, Diocese of Barcelona
+  consecrateur_principal: benito-cardinal-de-sala-y-de-caramany-o-s-b
+  co_consecrateurs:
+  - julian-cano-y-tevar-o-carm
+  - miguel-juan-de-taverner-y-rubi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgonalons.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Solsona, Spain
+  du: '1700-03-30'
+  au: '1708-08-12'
+- titre: évêque de Solsona
+  du: '1700-03-30'
+  au: null
+fraternite: augustins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bisbe%20Gonyalons.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64735334
+  catholic_hierarchy: bgonalons
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:32:50+00:00'
+  completeness: 1.0

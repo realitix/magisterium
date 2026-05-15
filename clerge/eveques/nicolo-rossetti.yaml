@@ -1,0 +1,43 @@
+slug: nicolo-rossetti
+nom: Nicolò Rossetti
+nom_complet: null
+naissance: '1734-11-28'
+deces: '1819-01-25'
+naissance_lieu: Arienzo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1774-07-03'
+  consecrateur_principal: lazzaro-opizio-pallavicino
+  co_consecrateurs:
+  - nicola-gagliardi
+  - joseph-de-vignoli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brossettn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boiano, Italy
+  du: '1774-06-27'
+  au: '1819-01-25'
+- titre: Roman Catholic Bishop of Boiano
+  du: '1774-06-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733302
+  catholic_hierarchy: brossettn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:29:01+00:00'
+  completeness: 1.0

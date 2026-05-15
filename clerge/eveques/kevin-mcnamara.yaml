@@ -1,0 +1,50 @@
+slug: kevin-mcnamara
+nom: Kevin McNamara
+nom_complet: null
+naissance: '1926-06-10'
+deces: '1987-04-08'
+naissance_lieu: Newmarket-in-Fergus
+deces_lieu: null
+rang: archeveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '1976-11-07'
+  lieu: Ste. Marie, Cathedral, Killarney
+  consecrateur_principal: william-conway
+  co_consecrateurs:
+  - thomas-morris
+  - eamon-casey
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcnak.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kerry, Ireland
+  du: '1976-08-22'
+  au: null
+- titre: Archbishop of Dublin, Ireland
+  du: '1984-11-15'
+  au: '1987-04-08'
+- titre: archevêque de Dublin
+  du: '1984-11-15'
+  au: '1987-04-08'
+- titre: évêque de Kerry
+  du: '1976-08-22'
+  au: '1984-11-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6396976
+  catholic_hierarchy: bmcnak
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:45:21+00:00'
+  completeness: 1.0

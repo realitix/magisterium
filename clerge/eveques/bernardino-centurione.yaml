@@ -1,0 +1,43 @@
+slug: bernardino-centurione
+nom: Bernardino Centurione
+nom_complet: null
+naissance: '1686-08-29'
+deces: '1758-11-11'
+naissance_lieu: Pavomia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1741-11-30'
+  consecrateur_principal: pompeio-aldrovandi
+  co_consecrateurs:
+  - tommaso-cervini
+  - carlo-alberto-guidoboni-cavalchini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcentur.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ajaccio, France
+  du: '1741-11-27'
+  au: '1758-11-11'
+- titre: évêque d'Ajaccio
+  du: '1741-11-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735647
+  catholic_hierarchy: bcentur
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:37:13+00:00'
+  completeness: 1.0

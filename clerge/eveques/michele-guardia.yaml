@@ -1,0 +1,43 @@
+slug: michele-guardia
+nom: Michele Guardia
+nom_complet: null
+naissance: '1666-06-20'
+deces: '1718-10-01'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1715-02-10'
+  consecrateur_principal: antonio-maria-brancaccio-c-r
+  co_consecrateurs:
+  - charles-maigrot
+  - giovanni-battista-braschi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguardia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Crotone (Cotrone), Italy
+  du: null
+  au: Oct 1718&sup3;
+- titre: évêque diocésain
+  du: '1713-12-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751880
+  catholic_hierarchy: bguardia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:46:58+00:00'
+  completeness: 0.88

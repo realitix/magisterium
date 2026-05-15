@@ -1,0 +1,85 @@
+slug: jean-paul-ii
+nom: Jean-Paul II
+nom_complet: John Paul II
+naissance: '1920-05-18'
+deces: '2005-04-02'
+naissance_lieu: Wadowice, Archdiocese of Kraków {Cracow}, Poland
+deces_lieu: Apostolic Palace, Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1958-09-28'
+  lieu: Cathedral, Kraków, Archdiocese of Kraków {Cracow}, Poland
+  consecrateur_principal: eugeniusz-baziak
+  co_consecrateurs:
+  - franciszek-jop
+  - boles-aw-kominek
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwojtyla.html
+  - https://fr.wikipedia.org/wiki/Jean-Paul_II
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Kraków {Cracow}, Poland
+  du: '1958-07-04'
+  au: null
+- titre: Titular Bishop of Antigonea
+  du: '1958-07-04'
+  au: null
+- titre: Titular Bishop of Ombi
+  du: 31 Aug 1958&#8311;
+  au: null
+- titre: Archbishop of Kraków {Cracow}, Poland
+  du: '1964-01-13'
+  au: null
+- titre: Cardinal-Priest of San Cesareo in Palatio
+  du: '1967-06-26'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '2005-04-02'
+- titre: évêque titulaire
+  du: '1958-07-04'
+  au: '1958-08-31'
+- titre: pape
+  du: '1978-10-16'
+  au: '2005-04-02'
+- titre: cardinal
+  du: '1967-06-26'
+  au: '2005-04-02'
+- titre: évêque titulaire
+  du: '1958-08-31'
+  au: '1964-01-13'
+- titre: archevêque de Cracovie
+  du: '1964-01-13'
+  au: '1978-10-16'
+- titre: évêque auxiliaire
+  du: '1958-07-04'
+  au: '1964-01-13'
+- titre: San Cesareo in Palatio
+  du: '1967-06-28'
+  au: '2005-04-02'
+- titre: vice-président de la Conférence épiscopale polonaise
+  du: '1969-01-01'
+  au: '1978-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20John%20Paul%20II%20smile.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q989
+  catholic_hierarchy: bwojtyla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:58:18+00:00'
+  completeness: 1.0

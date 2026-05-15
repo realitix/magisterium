@@ -1,0 +1,45 @@
+slug: germain-allart
+nom: Germain Allart
+nom_complet: Théodore-Germain Allart, O.F.M. Rec.
+naissance: '1610'
+deces: '1685-12-13'
+naissance_lieu: Sézanne
+deces_lieu: Vence, Diocese of Vence
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1682-07-12'
+  lieu: Récollets, Church, Paris, Archdiocese of Paris
+  consecrateur_principal: jacques-theodore-de-bryas
+  co_consecrateurs:
+  - charles-le-goux-de-la-berchere
+  - louis-marcel-de-coetlogon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/ballart.html
+  - https://fr.wikipedia.org/wiki/Th%C3%A9odore_Germain_Allart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vence, France
+  du: null
+  au: '1685-12-13'
+- titre: évêque diocésain
+  du: '1681-05-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3104084
+  catholic_hierarchy: ballart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:30:51+00:00'
+  completeness: 0.88

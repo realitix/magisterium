@@ -1,0 +1,42 @@
+slug: silvester-de-everdon
+nom: Silvester de Everdon
+nom_complet: Silvester Everdon
+naissance: '1200'
+deces: '1254-05-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1247-10-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beverdon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Carlisle, England, Great Britain
+  du: '1246-11-09'
+  au: '1254-05-13'
+- titre: Roman Catholic Bishop of Carlisle
+  du: '1246-01-01'
+  au: '1254-01-01'
+- titre: évêque diocésain
+  du: '1246-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1642782
+  catholic_hierarchy: beverdon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:28+00:00'
+  completeness: 0.5

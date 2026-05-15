@@ -1,0 +1,44 @@
+slug: luigi-ferrari
+nom: Luigi Ferrari
+nom_complet: null
+naissance: '1792-11-01'
+deces: '1851-04-19'
+naissance_lieu: Modena
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1848-09-17'
+  lieu: Cathedral, Modena, Diocese of Modena (e Nonantola)
+  consecrateur_principal: filippo-cattani
+  co_consecrateurs:
+  - pietro-raffaelli
+  - pietro-giovanni-zanardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferraril.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modena (e Nonantola), Italy
+  du: '1848-07-03'
+  au: '1851-04-19'
+- titre: évêque diocésain
+  du: '1848-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735620
+  catholic_hierarchy: bferraril
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:39:41+00:00'
+  completeness: 1.0

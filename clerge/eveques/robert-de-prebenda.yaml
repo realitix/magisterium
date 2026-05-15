@@ -1,0 +1,39 @@
+slug: robert-de-prebenda
+nom: Robert de Prebenda
+nom_complet: null
+naissance: null
+deces: '1284'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: robert-wishart
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bprebenda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dunblane, Scotland, Great Britain
+  du: 1258&sup2;
+  au: 1284&sup1;
+- titre: évêque diocésain
+  du: '1258-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7351419
+  catholic_hierarchy: bprebenda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:22+00:00'
+  completeness: 0.38

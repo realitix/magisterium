@@ -1,0 +1,54 @@
+slug: pierre-farine
+nom: Pierre Farine
+nom_complet: null
+naissance: '1940-05-31'
+deces: null
+naissance_lieu: Locarno
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1996-10-20'
+  consecrateur_principal: amedee-grab
+  co_consecrateurs:
+  - pierre-mamie
+  - henri-salina
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfarine.html
+  - https://fr.wikipedia.org/wiki/Pierre_Farine
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lausanne, Genève et Fribourg (Freiburg), Switzerland
+  du: '1996-08-12'
+  au: null
+- titre: Titular Bishop of Tragurium
+  du: '1996-08-12'
+  au: null
+- titre: évêque titulaire
+  du: '1996-08-12'
+  au: null
+- titre: évêque auxiliaire
+  du: '1996-08-12'
+  au: '2015-06-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20officielle%20Pierre%20Farine%20crop.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q122243
+  catholic_hierarchy: bfarine
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:32:20+00:00'
+  completeness: 0.88

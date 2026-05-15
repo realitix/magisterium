@@ -1,0 +1,44 @@
+slug: pie-de-langogne
+nom: Pie de Langogne
+nom_complet: Pie Armand Pierre Sabadel, O.F.M. Cap.
+naissance: '1850-11-14'
+deces: '1914-05-04'
+naissance_lieu: Langogne, Diocese of Mende, France
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1911-12-17'
+  lieu: Sistine, Church, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - augusto-silj
+  - agostino-zampini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsabad.html
+  - https://fr.wikipedia.org/wiki/Pie_de_Langogne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Corinthus
+  du: '1911-11-27'
+  au: '1914-05-04'
+- titre: évêque titulaire
+  du: '1911-11-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3382597
+  catholic_hierarchy: bsabad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:39:04+00:00'
+  completeness: 0.88

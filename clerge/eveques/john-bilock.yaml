@@ -1,0 +1,53 @@
+slug: john-bilock
+nom: John Bilock
+nom_complet: John Michael Bilock
+naissance: '1916-06-20'
+deces: '1994-09-08'
+naissance_lieu: McAdoo
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '1973-05-15'
+  lieu: Holy Spirit, Church, Oakland, PA, Archeparchy of Munhall (Ruthenian)
+  consecrateur_principal: stephen-john-kocisko
+  co_consecrateurs:
+  - michael-dudick
+  - emil-john-mihalik
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbilock.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Munhall (Ruthenian), USA
+  du: '1973-03-01'
+  au: null
+- titre: Titular Bishop of Pergamum
+  du: '1973-03-01'
+  au: null
+- titre: Auxiliary Bishop of Pittsburgh (Ruthenian), Pennsylvania, USA
+  du: null
+  au: '1994-09-08'
+- titre: évêque auxiliaire
+  du: '1973-03-01'
+  au: null
+- titre: évêque titulaire
+  du: '1973-03-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16013152
+  catholic_hierarchy: bbilock
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:27:34+00:00'
+  completeness: 1.0

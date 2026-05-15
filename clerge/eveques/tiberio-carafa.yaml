@@ -1,0 +1,49 @@
+slug: tiberio-carafa
+nom: Tiberio Carafa
+nom_complet: null
+naissance: null
+deces: '1588'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1566-05-26'
+  consecrateur_principal: scipione-rebiba
+  co_consecrateurs:
+  - giulio-antonio-santorio
+  - vincenzo-lauro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarafati.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Potenza, Italy
+  du: '1566-05-15'
+  au: null
+- titre: Bishop of Cassano all&rsquo;Jonio, Italy
+  du: '1579-02-06'
+  au: 1588&sup2;
+- titre: évêque diocésain
+  du: '1579-02-16'
+  au: null
+- titre: évêque diocésain
+  du: '1566-05-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23822708
+  catholic_hierarchy: bcarafati
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:19:28+00:00'
+  completeness: 0.75

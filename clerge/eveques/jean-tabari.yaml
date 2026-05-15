@@ -1,0 +1,40 @@
+slug: jean-tabari
+nom: Jean Tabari
+nom_complet: null
+naissance: null
+deces: '1403-02-15'
+naissance_lieu: Lesterps
+deces_lieu: Paris, Diocese of Paris
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1384-03-19'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btabari.html
+  - https://fr.wikipedia.org/wiki/Jean_Tabari
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Thérouanne, France
+  du: '1384-01-19'
+  au: '1403-02-15'
+- titre: évêque de Thérouanne
+  du: '1384-01-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3174733
+  catholic_hierarchy: btabari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:47:53+00:00'
+  completeness: 0.5

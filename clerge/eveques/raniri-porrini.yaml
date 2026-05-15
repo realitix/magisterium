@@ -1,0 +1,43 @@
+slug: raniri-porrini
+nom: Raniri Porrini
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1161'
+  consecrateur_principal: villano-cardinal-gaetani
+  co_consecrateurs:
+  - non-indexe-9aa90b0f
+  - galgano-inghirami
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bporrini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cremona, Italy
+  du: 1161&sup1;
+  au: null
+- titre: évêque diocésain
+  du: '1161-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781179
+  catholic_hierarchy: bporrini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:44:29+00:00'
+  completeness: 0.75

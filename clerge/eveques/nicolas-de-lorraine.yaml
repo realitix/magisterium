@@ -1,0 +1,52 @@
+slug: nicolas-de-lorraine
+nom: Nicolas de Lorraine
+nom_complet: Nicolas of Lorraine, Duke of Mercœur
+naissance: '1524-10-16'
+deces: '1577-01-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorrn.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Merc%C5%93ur
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verdun, France
+  du: '1544-06-04'
+  au: null
+- titre: Bishop-Elect of Verdun, France
+  du: null
+  au: 1548&sup1;
+- titre: Former Bishop-Elect of Verdun, France
+  du: null
+  au: '1577-01-23'
+- titre: évêque de Metz
+  du: '1543-01-01'
+  au: '1548-01-01'
+- titre: évêque de Verdun
+  du: '1544-01-01'
+  au: '1548-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20de%20Lorraine%2C%20duc%20de%20Mercoeur%2C%20comte%20de%20Vaudemont%2C%20n%C3%A9%201524%20%2B1577%20%28cropped%29.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1372471
+  catholic_hierarchy: blorrn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:27+00:00'
+  completeness: 0.5

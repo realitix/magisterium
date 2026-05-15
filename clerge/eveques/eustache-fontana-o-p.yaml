@@ -1,0 +1,43 @@
+slug: eustache-fontana-o-p
+nom: Eustache Fontana, O.P.
+nom_complet: Eustache Fontana
+naissance: null
+deces: '1611'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1602-08-18'
+  consecrateur_principal: girolamo-cardinal-bernerio-o-p
+  co_consecrateurs:
+  - aurelio-novarini-o-f-m-conv
+  - agostino-quinzio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfontne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Andros, Greece
+  du: '1602-08-12'
+  au: 1611&sup2;
+- titre: Roman Catholic Bishop of Andros
+  du: '1602-08-12'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q24205896
+  catholic_hierarchy: bfontne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:25+00:00'
+  completeness: 0.75

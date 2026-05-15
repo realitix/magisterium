@@ -1,0 +1,49 @@
+slug: guillaume-poulart
+nom: Guillaume Poulart
+nom_complet: Guillaume Poulart (or Gibon)
+naissance: '1329'
+deces: '1384-09-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1357'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoulart.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Poulart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rennes, France
+  du: '1357-06-05'
+  au: null
+- titre: Bishop of Saint-Malo, France
+  du: '1359-01-14'
+  au: '1374-11-17'
+- titre: Bishop Emeritus of Saint-Malo, France
+  du: null
+  au: '1384-09-17'
+- titre: évêque de Rennes
+  du: '1357-06-01'
+  au: null
+- titre: évêque de Saint-Malo
+  du: '1359-02-01'
+  au: '1374-11-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027323
+  catholic_hierarchy: bpoulart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:30+00:00'
+  completeness: 0.5

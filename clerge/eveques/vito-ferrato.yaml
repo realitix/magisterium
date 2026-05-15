@@ -1,0 +1,43 @@
+slug: vito-ferrato
+nom: Vito Ferrato
+nom_complet: null
+naissance: null
+deces: '1537'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1529-01-27'
+  consecrateur_principal: vincenzo-pimpinella
+  co_consecrateurs:
+  - giambattista-boncianni
+  - cristoforo-spiriti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bferrato.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mottola (Motula), Italy
+  du: '1528-08-07'
+  au: 1537&sup2;
+- titre: évêque diocésain
+  du: '1528-08-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779626
+  catholic_hierarchy: bferrato
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:40:05+00:00'
+  completeness: 0.75

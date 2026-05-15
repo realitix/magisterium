@@ -1,0 +1,44 @@
+slug: patrick-macalister
+nom: Patrick MacAlister
+nom_complet: null
+naissance: '1826'
+deces: '1895-03-26'
+naissance_lieu: Bonecastle
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1886-03-28'
+  lieu: St. Patrick, Belfast
+  consecrateur_principal: thomas-nulty
+  co_consecrateurs:
+  - bartholomew-woodlock
+  - james-donnelly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Down and Connor, Ireland
+  du: '1886-02-26'
+  au: '1895-03-26'
+- titre: évêque de Down et Connor
+  du: '1886-02-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15453583
+  catholic_hierarchy: bmalis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:17:42+00:00'
+  completeness: 0.88

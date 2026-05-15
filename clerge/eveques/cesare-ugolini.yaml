@@ -1,0 +1,44 @@
+slug: cesare-ugolini
+nom: Cesare Ugolini
+nom_complet: null
+naissance: '1628-10-05'
+deces: '1699-12-01'
+naissance_lieu: Ferrara, Diocese of Ferrara
+deces_lieu: Siena, Archdiocese of Siena
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1665-05-03'
+  lieu: Sant'Ignazio, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: scipione-pannocchieschi-d-elci
+  co_consecrateurs:
+  - giacomo-theodoli-teodolo
+  - giacinto-cordella
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bugolinic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grosseto, Italy
+  du: '1665-04-13'
+  au: Dec 1699&sup3;
+- titre: évêque de Grosseto
+  du: '1665-04-13'
+  au: '1699-12-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q48812903
+  catholic_hierarchy: bugolinic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:16:38+00:00'
+  completeness: 0.88

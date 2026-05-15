@@ -1,0 +1,54 @@
+slug: pierre-de-marca
+nom: Pierre de Marca
+nom_complet: Petrus de Marca
+naissance: '1594-01-24'
+deces: '1662-06-29'
+naissance_lieu: Gan
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1648-10-25'
+  consecrateur_principal: claude-de-rebe
+  co_consecrateurs:
+  - clement-de-bonsi
+  - nicolas-pavillon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarca.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Marca
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Paris, France
+  du: null
+  au: '1662-06-29'
+- titre: archevêque de Paris
+  du: '1662-02-26'
+  au: null
+- titre: évêque diocésain
+  du: '1642-12-28'
+  au: null
+- titre: archevêque de Toulouse
+  du: '1652-05-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-de-Marca.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2302035
+  catholic_hierarchy: bmarca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:24:12+00:00'
+  completeness: 1.0

@@ -1,0 +1,60 @@
+slug: bernhard-stein
+nom: Bernhard Stein
+nom_complet: null
+naissance: '1904-09-05'
+deces: '1993-02-20'
+naissance_lieu: Weiler
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1944-11-05'
+  lieu: Crypt, Cathedral, Trier, Diocese of Trier
+  consecrateur_principal: franz-rudolf-bornewasser
+  co_consecrateurs:
+  - josef-wendel
+  - heinrich-metzroth
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstein.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1944-09-02'
+  au: null
+- titre: Titular Bishop of Dagnum
+  du: '1944-09-02'
+  au: null
+- titre: Bishop Emeritus of Trier, Germany
+  du: null
+  au: '1993-02-20'
+- titre: évêque auxiliaire
+  du: '1944-09-02'
+  au: '1967-04-13'
+- titre: évêque de Trèves
+  du: '1967-04-13'
+  au: '1980-09-05'
+- titre: évêque titulaire
+  du: '1944-09-02'
+  au: '1967-04-13'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/1978%20Bischof%20Bernhard%20Stein%20in%20Koblenz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q825982
+  catholic_hierarchy: bstein
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:37:38+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: georges-six
+nom: Georges Six
+nom_complet: Hildon-Georges-Marie Six, C.I.C.M.
+naissance: '1887-10-20'
+deces: '1952-11-24'
+naissance_lieu: Vlamartingue, Diocese of Brugge {Bruges}, Belgium
+deces_lieu: Bruxelles
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1934-05-14'
+  lieu: Saint-Martin, Cathedral, Ypres
+  consecrateur_principal: henricus-lamiroy
+  co_consecrateurs:
+  - honore-joseph-coppieters
+  - jozef-vanderhoven
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsix.html
+  - https://fr.wikipedia.org/wiki/Georges_Six
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Léopoldville, Congo (Dem. Rep.)
+  du: '1934-02-26'
+  au: '1952-11-24'
+- titre: Titular Bishop of Baliana
+  du: '1934-02-26'
+  au: null
+- titre: vicaire apostolique
+  du: '1934-02-26'
+  au: null
+- titre: évêque titulaire
+  du: '1934-02-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2178013
+  catholic_hierarchy: bsix
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:21:48+00:00'
+  completeness: 1.0

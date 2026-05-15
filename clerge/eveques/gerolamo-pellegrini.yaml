@@ -1,0 +1,43 @@
+slug: gerolamo-pellegrini
+nom: Gerolamo Pellegrini
+nom_complet: null
+naissance: null
+deces: '1648-04-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1645-02-12'
+  consecrateur_principal: giulio-roma
+  co_consecrateurs:
+  - giovanni-battista-rinuccini
+  - onorato-onorati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpellegg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Melfi e Rapolla, Italy
+  du: '1645-01-16'
+  au: '1648-04-12'
+- titre: évêque diocésain
+  du: '1645-01-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64775745
+  catholic_hierarchy: bpellegg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:17:45+00:00'
+  completeness: 0.88

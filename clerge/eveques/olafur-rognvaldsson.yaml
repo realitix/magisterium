@@ -1,0 +1,40 @@
+slug: olafur-rognvaldsson
+nom: Olafur Rögnvaldsson
+nom_complet: null
+naissance: null
+deces: '1495-07-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1459'
+  consecrateur_principal: olav-trondsson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brogwald.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hólar, Iceland
+  du: 1459&sup1;
+  au: '1495-07-15'
+- titre: évêque diocésain
+  du: '1459-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761950
+  catholic_hierarchy: brogwald
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:23:17+00:00'
+  completeness: 0.75

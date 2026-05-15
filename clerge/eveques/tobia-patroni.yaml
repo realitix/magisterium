@@ -1,0 +1,44 @@
+slug: tobia-patroni
+nom: Tobia Patroni
+nom_complet: null
+naissance: '1818-12-26'
+deces: '1906-08-20'
+naissance_lieu: Bagnoli Irpino, Diocese of Nusco
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1871-12-27'
+  lieu: St. Alphonse, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: carlo-sacconi
+  co_consecrateurs:
+  - alessandro-franchi
+  - giuseppe-cardoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpatron.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valva e Sulmona, Italy
+  du: '1871-12-22'
+  au: '1906-08-20'
+- titre: évêque diocésain
+  du: '1871-12-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735640
+  catholic_hierarchy: bpatron
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:13:43+00:00'
+  completeness: 1.0

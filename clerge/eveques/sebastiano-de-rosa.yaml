@@ -1,0 +1,49 @@
+slug: sebastiano-de-rosa
+nom: Sebastiano de Rosa
+nom_complet: null
+naissance: '1729-01-25'
+deces: '1810-05-14'
+naissance_lieu: Arzano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1775-11-19'
+  consecrateur_principal: giovanni-francesco-albani
+  co_consecrateurs:
+  - giuseppe-maria-contesini
+  - jose-maria-sisto-y-britto-c-r
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdrosa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ischia, Italy
+  du: '1775-11-13'
+  au: null
+- titre: Bishop of Avellino e Frigento, Italy
+  du: null
+  au: '1810-05-14'
+- titre: évêque d'Avellino
+  du: '1791-12-16'
+  au: null
+- titre: Évêque d'Ischia
+  du: '1775-11-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3953809
+  catholic_hierarchy: bdrosa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:57+00:00'
+  completeness: 1.0

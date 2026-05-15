@@ -1,0 +1,61 @@
+slug: louis-petit
+nom: Louis Petit
+nom_complet: Louis Petit, A.A.
+naissance: '1868-02-21'
+deces: '1927-11-05'
+naissance_lieu: Viuz-la-Chiésaz, Diocese of Annecy, France
+deces_lieu: Menton
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1912-04-25'
+  lieu: Sant`Agostino, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: anatole-de-cabrieres
+  co_consecrateurs:
+  - pierre-lucien-campistron
+  - agostino-zampini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpetil.html
+  - https://fr.wikipedia.org/wiki/Louis_Petit_(archev%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Ath&#275;nai {Athens}, Greece
+  du: '1912-03-04'
+  au: '1926-06-24'
+- titre: Apostolic Delegate to Greece
+  du: '1912-03-04'
+  au: null
+- titre: Titular Archbishop of Corinthus
+  du: '1926-06-24'
+  au: null
+- titre: Archbishop Emeritus of Ath&#275;nai {Athens}, Greece
+  du: null
+  au: '1927-11-05'
+- titre: archevêque d'Athènes
+  du: '1912-04-25'
+  au: '1926-06-24'
+- titre: archevêque titulaire
+  du: '1926-06-24'
+  au: '1927-11-05'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr.%20Louis%20PETIT%20%281868-1927%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3262880
+  catholic_hierarchy: bpetil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:26:06+00:00'
+  completeness: 1.0

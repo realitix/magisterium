@@ -1,0 +1,48 @@
+slug: otmar-mader
+nom: Otmar Mäder
+nom_complet: null
+naissance: '1921-11-15'
+deces: '2003-04-25'
+naissance_lieu: Mörschwil
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_dubius
+sacre:
+  date: '1976-05-02'
+  consecrateur_principal: joseph-hasler
+  co_consecrateurs:
+  - francois-nestor-adam
+  - anton-hanggi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmader.html
+  - https://fr.wikipedia.org/wiki/Otmar_M%C3%A4der
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Sankt Gallen, Switzerland
+  du: null
+  au: '2003-04-25'
+- titre: évêque diocésain
+  du: '1976-03-23'
+  au: '1994-09-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/CH-KBAR%20-%20Bischof%20Otmar%20M%C3%A4der%20-%20KB-021908.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q124751
+  catholic_hierarchy: bmader
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:11:20+00:00'
+  completeness: 1.0

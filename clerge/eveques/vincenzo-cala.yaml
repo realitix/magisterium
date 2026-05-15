@@ -1,0 +1,43 @@
+slug: vincenzo-cala
+nom: Vincenzo Calà
+nom_complet: null
+naissance: '1741-07-16'
+deces: '1817-05-01'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1805-06-30'
+  consecrateur_principal: giulio-maria-della-somaglia
+  co_consecrateurs:
+  - ottavio-boni
+  - francois-de-pierre-de-bernis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcalavi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Sorrento, Italy
+  du: '1805-06-26'
+  au: '1817-05-01'
+- titre: archevêque de Sorrento
+  du: '1805-06-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64736107
+  catholic_hierarchy: bcalavi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:07:28+00:00'
+  completeness: 1.0

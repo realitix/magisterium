@@ -1,0 +1,52 @@
+slug: john-farrell
+nom: John Farrell
+nom_complet: null
+naissance: '1820-06-02'
+deces: '1873-09-26'
+naissance_lieu: Armagh, Archdiocese of Armagh, Ireland
+deces_lieu: Hamilton, Diocese of Hamilton, Ontario
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1856-05-11'
+  lieu: Kingston, Diocese of Kingston, Ontario
+  consecrateur_principal: patrick-phelan-1795
+  co_consecrateurs:
+  - armand-francois-marie-de-charbonnel
+  - joseph-eugene-bruno-guigues
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfarrell.html
+  - https://fr.wikipedia.org/wiki/John_Farrell_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hamilton, Ontario, Canada
+  du: '1856-02-29'
+  au: '1873-09-26'
+- titre: évêque diocésain
+  du: '1856-02-29'
+  au: null
+- titre: évêque de Hamilton en Ontario
+  du: '1856-01-01'
+  au: '1873-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BishopJohnFarrell.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3181474
+  catholic_hierarchy: bfarrell
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:32:43+00:00'
+  completeness: 1.0

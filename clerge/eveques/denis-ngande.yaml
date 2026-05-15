@@ -1,0 +1,45 @@
+slug: denis-ngande
+nom: Denis Ngandé
+nom_complet: Denis Ngande
+naissance: '1920'
+deces: '1978-02-28'
+naissance_lieu: Babouantou
+deces_lieu: null
+rang: eveque
+nationalite: Q1009
+tampon: ordo_dubius
+sacre:
+  date: '1970-04-05'
+  lieu: Bafoussam, Diocese of Bafoussam
+  consecrateur_principal: albert-ndongmo
+  co_consecrateurs:
+  - julius-joseph-willem-peeters
+  - thomas-mongo
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bngande.html
+  - https://fr.wikipedia.org/wiki/Denis_Ngand%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bafoussam, Cameroon
+  du: '1970-02-05'
+  au: '1978-02-28'
+- titre: évêque diocésain
+  du: '1970-02-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30252547
+  catholic_hierarchy: bngande
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:31:12+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: asser-de-lund
+nom: Asser de Lund
+nom_complet: Ascer Thorkilsson
+naissance: '1055'
+deces: '1137-05-05'
+naissance_lieu: null
+deces_lieu: Lund, Archdiocese of Lund
+rang: archeveque
+nationalite: Q756617
+tampon: ordo_validus
+sacre:
+  date: '1089-11-18'
+  consecrateur_principal: jon-ogmundsson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthorki.html
+  - https://fr.wikipedia.org/wiki/Asser_de_Lund
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lund, Sweden
+  du: 1089&sup1;
+  au: null
+- titre: Archbishop of Lund, Sweden
+  du: 1104&sup1;
+  au: '1137-05-05'
+- titre: archevêque de Lund
+  du: '1104-01-01'
+  au: '1137-05-12'
+- titre: Roman Catholic Bishop of Lund
+  du: '1089-01-01'
+  au: '1104-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q731354
+  catholic_hierarchy: bthorki
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:58:35+00:00'
+  completeness: 0.62

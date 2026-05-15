@@ -1,0 +1,51 @@
+slug: jean-d-estrades
+nom: Jean d'Estrades
+nom_complet: Jean d&rsquo;Estrade
+naissance: '1608'
+deces: '1685-06-12'
+naissance_lieu: Agen, Diocese of Agen
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1648-04-19'
+  consecrateur_principal: barthelemy-d-elbene
+  co_consecrateurs:
+  - alain-de-solminihac
+  - gilbert-de-choiseul-du-plessis-praslin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bestr.html
+  - https://fr.wikipedia.org/wiki/Jean_d%27Estrades
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Condom, France
+  du: null
+  au: 1659&sup1;
+- titre: Bishop Emeritus of Condom, France
+  du: null
+  au: '1685-06-12'
+- titre: évêque diocésain
+  du: '1647-12-07'
+  au: '1659-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Anonyme%20-%20Jean%20d%27Estrades.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3175205
+  catholic_hierarchy: bestr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:32+00:00'
+  completeness: 0.88

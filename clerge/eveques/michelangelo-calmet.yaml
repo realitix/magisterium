@@ -1,0 +1,46 @@
+slug: michelangelo-calmet
+nom: Michelangelo Calmet
+nom_complet: null
+naissance: '1764'
+deces: '1817-08-08'
+naissance_lieu: Canino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1816-08-04'
+  consecrateur_principal: lorenzo-litta
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcalmet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pult (Pulati), Albania
+  du: '1814-12-19'
+  au: null
+- titre: Bishop of Ripatransone, Italy
+  du: '1816-07-22'
+  au: '1817-08-08'
+- titre: Roman Catholic Bishop of Pult
+  du: '1814-12-19'
+  au: null
+- titre: Roman Catholic Bishop of Ripatransone
+  du: '1816-07-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746110
+  catholic_hierarchy: bcalmet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:08:40+00:00'
+  completeness: 0.75

@@ -1,0 +1,36 @@
+slug: meinwerk
+nom: Meinwerk
+nom_complet: Meinwercus
+naissance: '975'
+deces: '1036-06-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-238a4af7
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Meinwerk
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Paderborn
+  du: '1009-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/FBPB%2030%20Bischof%20Meinwerk%20auf%20Tragaltar%20Helmarshausen%201100.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q463997
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.67

@@ -1,0 +1,43 @@
+slug: antonio-de-martini
+nom: Antonio de Martini
+nom_complet: null
+naissance: '1625-02-01'
+deces: '1687-08-01'
+naissance_lieu: Pomperiana
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1678-03-13'
+  consecrateur_principal: mario-alberizzi
+  co_consecrateurs:
+  - domenico-gianuzzi
+  - giacomo-buoni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmrtnan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sagone (Sagona), France
+  du: '1678-02-28'
+  au: 1687-08
+- titre: évêque diocésain
+  du: '1678-02-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763138
+  catholic_hierarchy: bmrtnan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:17:08+00:00'
+  completeness: 0.88

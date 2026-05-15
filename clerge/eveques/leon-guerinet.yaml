@@ -1,0 +1,44 @@
+slug: leon-guerinet
+nom: Léon Guérinet
+nom_complet: Léon Guerinet
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguerinl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: 1457&sup2;
+  au: null
+- titre: Bishop of Fréjus, France
+  du: '1462-04-15'
+  au: 1472&sup1;
+- titre: évêque de Poitiers
+  du: '1457-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1462-04-24'
+  au: '1472-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68904378
+  catholic_hierarchy: bguerinl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:48:25+00:00'
+  completeness: 0.25

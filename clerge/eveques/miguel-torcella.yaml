@@ -1,0 +1,49 @@
+slug: miguel-torcella
+nom: Miguel Torcella
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Spain
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1533-04-27'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: willem-van-enckenvoirt
+  co_consecrateurs:
+  - bernardino-fumarelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btorc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alife, Italy
+  du: '1532-11-13'
+  au: null
+- titre: Bishop of Anagni, Italy
+  du: '1541-04-06'
+  au: 1572&sup1;
+- titre: évêque diocésain
+  du: '1541-04-16'
+  au: null
+- titre: évêque diocésain
+  du: '1532-11-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780694
+  catholic_hierarchy: btorc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:05:03+00:00'
+  completeness: 0.75

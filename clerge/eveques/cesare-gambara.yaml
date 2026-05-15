@@ -1,0 +1,43 @@
+slug: cesare-gambara
+nom: Cesare Gambara
+nom_complet: null
+naissance: '1516'
+deces: '1591-10-11'
+naissance_lieu: Pralboino, Diocese of Brescia
+deces_lieu: Pralboino, Diocese of Brescia
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1553-10-04'
+  lieu: Episcopal Palace, Brescia, Diocese of Brescia
+  consecrateur_principal: durante-duranti
+  co_consecrateurs:
+  - leonardo-lana
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgambarac.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tortona, Italy
+  du: '1548-03-22'
+  au: '1591-10-11'
+- titre: évêque diocésain
+  du: '1548-04-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68903992
+  catholic_hierarchy: bgambarac
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:07:27+00:00'
+  completeness: 0.88

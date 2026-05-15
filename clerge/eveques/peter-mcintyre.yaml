@@ -1,0 +1,49 @@
+slug: peter-mcintyre
+nom: Peter McIntyre
+nom_complet: null
+naissance: '1818-06-29'
+deces: '1891-05-01'
+naissance_lieu: Saint Peter
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1860-08-15'
+  lieu: Cathedral, Charlottetown, Diocese of Charlottetown, Prince Edward Island
+  consecrateur_principal: thomas-louis-connolly
+  co_consecrateurs:
+  - colin-francis-mackinnon
+  - john-sweeny
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcint.html
+  - https://fr.wikipedia.org/wiki/Peter_McIntyre_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Charlottetown, Prince Edward Island, Canada
+  du: '1860-05-08'
+  au: '1891-05-01'
+- titre: évêque de Charlottetown
+  du: '1860-05-08'
+  au: '1891-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20McIntyre.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3376751
+  catholic_hierarchy: bmcint
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:44:40+00:00'
+  completeness: 1.0

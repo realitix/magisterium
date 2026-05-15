@@ -1,0 +1,48 @@
+slug: max-regus
+nom: Max Regus
+nom_complet: Maksimus Regus
+naissance: '1973-09-23'
+deces: null
+naissance_lieu: Woang, Diocese of Ruteng
+deces_lieu: null
+rang: eveque
+nationalite: Q252
+tampon: ordo_dubius
+sacre:
+  date: '2024-11-01'
+  lieu: St. Peter, Church, Sernaru, Diocese of Labuan Bajo
+  consecrateur_principal: ignatius-suharyo-hardjoatmodjo
+  co_consecrateurs:
+  - siprianus-hormat
+  - paulus-budi-kleden
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bregus.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Labuan Bajo, Indonesia
+  du: '2024-06-21'
+  au: null
+- titre: évêque diocésain
+  du: '2024-06-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Maksimus%20Regus%2C%20Uskup%20Labuan%20Bajo%20%282024%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q113775230
+  catholic_hierarchy: bregus
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:13+00:00'
+  completeness: 0.88

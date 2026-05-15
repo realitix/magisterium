@@ -1,0 +1,45 @@
+slug: jean-de-lettes
+nom: Jean de Lettes
+nom_complet: null
+naissance: '1450'
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blettes.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Lettes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Béziers, France
+  du: '1537-06-13'
+  au: null
+- titre: Bishop of Montauban, France
+  du: '1537-11-20'
+  au: 1543&sup1;
+- titre: évêque diocésain
+  du: '1537-06-23'
+  au: null
+- titre: évêque diocésain
+  du: '1537-11-30'
+  au: '1543-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21091545
+  catholic_hierarchy: blettes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:47:00+00:00'
+  completeness: 0.25

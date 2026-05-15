@@ -1,0 +1,44 @@
+slug: carlos-laborda
+nom: Carlos Laborda
+nom_complet: Carlos Laborda Clau
+naissance: '1783-11-03'
+deces: '1853-02-11'
+naissance_lieu: Barbuñales
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1832-06-03'
+  lieu: S. Domingo, Convent, Zaragoza, Archdiocese of Zaragoza
+  consecrateur_principal: bernardo-frances-caballero
+  co_consecrateurs:
+  - ramon-maria-de-azpeitia-y-saenz-de-santamaria
+  - jose-asensio-de-ocon-y-toledo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blaborda.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Palencia, Spain
+  du: null
+  au: '1853-02-11'
+- titre: évêque de Palencia
+  du: '1831-11-26'
+  au: '1853-02-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18644297
+  catholic_hierarchy: blaborda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:25:29+00:00'
+  completeness: 1.0

@@ -1,0 +1,47 @@
+slug: james-wall-o-f-m
+nom: James Wall, O.F.M.
+nom_complet: James Wall
+naissance: null
+deces: '1494-04-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwalljam.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kildare, Ireland
+  du: '1475-04-05'
+  au: 1485&sup1;
+- titre: Auxiliary Bishop of London, England, Great Britain
+  du: 1485&sup2;
+  au: 1491&sup2;
+- titre: Bishop Emeritus of Kildare, Ireland
+  du: null
+  au: '1494-04-28'
+- titre: évêque diocésain
+  du: '1475-04-14'
+  au: '1485-01-01'
+- titre: évêque auxiliaire
+  du: '1485-01-01'
+  au: '1491-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68912391
+  catholic_hierarchy: bwalljam
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:49:24+00:00'
+  completeness: 0.38

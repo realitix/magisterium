@@ -1,0 +1,49 @@
+slug: bartolomeo-cresconi
+nom: Bartolomeo Cresconi
+nom_complet: null
+naissance: '1604'
+deces: '1660-04-16'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1639-04-10'
+  consecrateur_principal: marcello-lante
+  co_consecrateurs:
+  - alessandro-filonardi
+  - tommaso-carafa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcresconi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Umbriatico (Umbriaticum), Italy
+  du: '1639-03-28'
+  au: null
+- titre: Bishop of Caserta, Italy
+  du: '1647-05-06'
+  au: '1660-04-16'
+- titre: Roman Catholic Bishop of Umbriatico
+  du: '1639-03-28'
+  au: null
+- titre: évêque de Caserte
+  du: '1647-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752628
+  catholic_hierarchy: bcresconi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:14:03+00:00'
+  completeness: 0.88

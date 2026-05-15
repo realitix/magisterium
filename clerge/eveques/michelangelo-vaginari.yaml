@@ -1,0 +1,44 @@
+slug: michelangelo-vaginari
+nom: Michelangelo Vaginari
+nom_complet: Michelangelo Vaginari, O.F.M. Obs.
+naissance: '1619'
+deces: '1667'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1659-06-15'
+  lieu: Santa Maria in Aracoeli, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: francesco-maria-cardinal-brancaccio
+  co_consecrateurs:
+  - stefano-quaranta-c-r
+  - persio-caracci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvaginari.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Giovinazzo, Italy
+  du: null
+  au: 1667&sup1;
+- titre: Roman Catholic Bishop of Giovinazzo
+  du: '1658-10-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752454
+  catholic_hierarchy: bvaginari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:20:17+00:00'
+  completeness: 0.75

@@ -1,0 +1,50 @@
+slug: johann-lenhardt
+nom: Johann Lenhardt
+nom_complet: null
+naissance: '1899-01-28'
+deces: '1966-04-21'
+naissance_lieu: Cham, Diocese of Regensburg
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1959-07-25'
+  lieu: Bamberg, Archdiocese of Bamberg
+  consecrateur_principal: josef-schneider
+  co_consecrateurs:
+  - josef-hiltl
+  - josef-zimmermann
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blenh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Bamberg, Germany
+  du: '1959-06-06'
+  au: '1966-04-21'
+- titre: Titular Bishop of Carystus
+  du: '1959-06-06'
+  au: null
+- titre: évêque auxiliaire
+  du: '1959-06-06'
+  au: null
+- titre: évêque titulaire
+  du: '1959-06-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64441025
+  catholic_hierarchy: blenh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:43:19+00:00'
+  completeness: 1.0

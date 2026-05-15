@@ -1,0 +1,44 @@
+slug: thomas-hussey
+nom: Thomas Hussey
+nom_complet: null
+naissance: '1746'
+deces: '1803-07-11'
+naissance_lieu: Ballybogan, Harristown, Co. Meath
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1797-02-26'
+  lieu: St. Nicolas, Dublin, Archdiocese of Dublin
+  consecrateur_principal: john-troy
+  co_consecrateurs:
+  - gerard-teahan
+  - francis-moylan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhussey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Waterford and Lismore, Ireland
+  du: '1797-01-10'
+  au: '1803-07-11'
+- titre: évêque diocésain
+  du: '1797-01-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7790928
+  catholic_hierarchy: bhussey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:50:44+00:00'
+  completeness: 0.88

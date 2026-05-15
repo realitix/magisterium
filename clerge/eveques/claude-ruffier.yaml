@@ -1,0 +1,44 @@
+slug: claude-ruffier
+nom: Claude Ruffier
+nom_complet: null
+naissance: '1606'
+deces: '1674-03-16'
+naissance_lieu: Provins
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1659-01-12'
+  consecrateur_principal: nicolas-ii-1591
+  co_consecrateurs:
+  - joseph-marie-de-suares
+  - jacques-adhemar-de-monteil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bruffc.html
+  - https://fr.wikipedia.org/wiki/Claude_Ruffier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Paul-Trois-Châteaux, France
+  du: '1658-07-08'
+  au: '1674-03-16'
+- titre: évêque diocésain
+  du: '1658-07-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22978640
+  catholic_hierarchy: bruffc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:34:50+00:00'
+  completeness: 0.88

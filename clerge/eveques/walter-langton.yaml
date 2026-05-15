@@ -1,0 +1,44 @@
+slug: walter-langton
+nom: Walter Langton
+nom_complet: Gualterius Langton
+naissance: '1243-09-09'
+deces: '1321-11-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1296-12-23'
+  consecrateur_principal: berard-de-got
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangtonw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: '1296-02-20'
+  au: '1321-11-09'
+- titre: évêque de Coventry et Lichfield
+  du: '1296-02-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/WalterDeLangton%20Died1321%20BishopOfCoventry%26Lichfield%20AfterDugdale.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q741881
+  catholic_hierarchy: blangtonw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:32:18+00:00'
+  completeness: 0.75

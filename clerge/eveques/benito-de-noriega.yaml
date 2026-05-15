@@ -1,0 +1,43 @@
+slug: benito-de-noriega
+nom: Benito de Noriega
+nom_complet: Benito Noriega, O.F.M.
+naissance: '1650-01-18'
+deces: '1708-03-01'
+naissance_lieu: Oviedo, Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1700-05-31'
+  consecrateur_principal: niccolo-cardinal-radulovich
+  co_consecrateurs:
+  - giovanni-andrea-monreale-1653-8f4612
+  - emilio-giacomo-cavaliere-c-p-o
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnoriega.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Acerra, Italy
+  du: '1700-05-28'
+  au: Mar 1708&sup3;
+- titre: évêque diocésain
+  du: '1700-05-28'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64746385
+  catholic_hierarchy: bnoriega
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:37:24+00:00'
+  completeness: 0.88

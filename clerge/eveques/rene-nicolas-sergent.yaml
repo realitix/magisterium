@@ -1,0 +1,52 @@
+slug: rene-nicolas-sergent
+nom: René-Nicolas Sergent
+nom_complet: Nicolas-Marie Sergent
+naissance: '1802-05-12'
+deces: '1871-07-26'
+naissance_lieu: Corbigny
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1855-05-20'
+  lieu: Soeurs de Bon Secours, Paris, Archdiocese of Paris
+  consecrateur_principal: francois-nicolas-madeleine-morlot
+  co_consecrateurs:
+  - vital-honore-tirmarche
+  - leon-francois-sibour
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserg.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9-Nicolas_Sergent
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quimper [Cornouailles](-Léon), France
+  du: null
+  au: 26 Jul 1871&sup3;
+- titre: évêque diocésain
+  du: '1855-02-20'
+  au: null
+- titre: évêque de Cornouailles
+  du: '1855-01-01'
+  au: '1871-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Corbigny%20%2858%29%20%C3%89glise%20Saint-Seine%2004.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q28059169
+  catholic_hierarchy: bserg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:11:06+00:00'
+  completeness: 1.0

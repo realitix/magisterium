@@ -1,0 +1,39 @@
+slug: folignus-carboni
+nom: Folignus Carboni
+nom_complet: null
+naissance: null
+deces: '1349-06-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1337-03-30'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarbonfo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fiesole, Italy
+  du: '1337-03-14'
+  au: '1349-06-17'
+- titre: évêque de Fiesole
+  du: '1337-03-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68865282
+  catholic_hierarchy: bcarbonfo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:20:12+00:00'
+  completeness: 0.5

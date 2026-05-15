@@ -1,0 +1,44 @@
+slug: castor-sekwa
+nom: Castor Sekwa
+nom_complet: null
+naissance: '1927-03-28'
+deces: '1996-06-04'
+naissance_lieu: Sayusayu
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1975-05-18'
+  lieu: Shinyanga, Diocese of Shinyanga
+  consecrateur_principal: laurean-rugambwa
+  co_consecrateurs:
+  - marko-mihayo
+  - placidus-nkalanga
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsekwa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Shinyanga, Tanzania
+  du: '1975-01-30'
+  au: '1996-06-04'
+- titre: évêque diocésain
+  du: '1975-01-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11855092
+  catholic_hierarchy: bsekwa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:50+00:00'
+  completeness: 1.0

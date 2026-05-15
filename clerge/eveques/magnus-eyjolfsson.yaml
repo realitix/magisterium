@@ -1,0 +1,39 @@
+slug: magnus-eyjolfsson
+nom: Magnús Eyjólfsson
+nom_complet: null
+naissance: '1435'
+deces: '1490'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beyjo.html
+  - https://fr.wikipedia.org/wiki/Magn%C3%BAs_Eyj%C3%B3lfsson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Skálholt, Iceland
+  du: 1477&sup1;
+  au: 1490&sup1;
+- titre: évêque diocésain
+  du: '1477-01-01'
+  au: '1490-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16421622
+  catholic_hierarchy: beyjo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:27:48+00:00'
+  completeness: 0.25

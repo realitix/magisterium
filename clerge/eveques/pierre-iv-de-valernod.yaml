@@ -1,0 +1,48 @@
+slug: pierre-iv-de-valernod
+nom: Pierre IV de Valernod
+nom_complet: Pierre de Valernod
+naissance: '1551-05-26'
+deces: '1625-09-12'
+naissance_lieu: Saint-Vallier
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1598-02-24'
+  lieu: Avignon, Archdiocese of Avignon
+  consecrateur_principal: jean-francois-bordini
+  co_consecrateurs:
+  - jean-de-tulles
+  - horace-capponi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalern.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Valernod
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes, France
+  du: '1598-01-07'
+  au: '1625-09-12'
+- titre: évêque de Nîmes
+  du: '1598-01-07'
+  au: null
+- titre: évêque diocésain
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q18736576
+  catholic_hierarchy: bvalern
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:22:01+00:00'
+  completeness: 1.0

@@ -1,0 +1,39 @@
+slug: pedro-carlos-o-s
+nom: Pedro Carlos, O.S.
+nom_complet: Pere Carlos
+naissance: null
+deces: '1572-06-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: martin-martinez-de-villar
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarlos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerona, Spain
+  du: '1565-08-22'
+  au: '1572-06-01'
+- titre: évêque de Gérone
+  du: '1565-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q20101460
+  catholic_hierarchy: bcarlos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:22:57+00:00'
+  completeness: 0.5

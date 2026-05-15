@@ -1,0 +1,59 @@
+slug: alfred-kostelecky
+nom: Alfred Kostelecky
+nom_complet: null
+naissance: '1920-05-15'
+deces: '1994-02-22'
+naissance_lieu: Wien, Archdiocese of Wien {Vienna}
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1986-12-14'
+  lieu: St. Etienne, Wien, Archdiocese of Wien {Vienna}
+  consecrateur_principal: hans-hermann-groer
+  co_consecrateurs:
+  - karl-berg
+  - franz-zak
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkost.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Austria, Military
+  du: '1986-11-12'
+  au: '1994-02-22'
+- titre: Titular Bishop of Aggar
+  du: '1986-11-12'
+  au: null
+- titre: Titular Bishop of Wiener Neustadt
+  du: '1990-02-10'
+  au: null
+- titre: évêque titulaire
+  du: '1990-02-10'
+  au: '1994-02-22'
+- titre: évêque titulaire
+  du: '1986-11-12'
+  au: '1990-02-10'
+- titre: évêque auxiliaire
+  du: '1986-11-12'
+  au: '1990-02-10'
+- titre: évêque diocésain
+  du: '1990-02-10'
+  au: '1994-02-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2645316
+  catholic_hierarchy: bkost
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:19:23+00:00'
+  completeness: 1.0

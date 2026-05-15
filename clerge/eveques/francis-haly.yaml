@@ -1,0 +1,44 @@
+slug: francis-haly
+nom: Francis Haly
+nom_complet: null
+naissance: '1783'
+deces: '1855-08-19'
+naissance_lieu: Doonan Colliery
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1838-03-25'
+  lieu: Carlow, Diocese of Kildare and Leighlin
+  consecrateur_principal: daniel-murray
+  co_consecrateurs:
+  - william-kinsella
+  - james-keating
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaly.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kildare and Leighlin, Ireland
+  du: '1838-01-10'
+  au: '1855-08-19'
+- titre: évêque diocésain
+  du: '1838-01-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16066252
+  catholic_hierarchy: bhaly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:46+00:00'
+  completeness: 0.88

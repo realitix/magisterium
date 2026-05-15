@@ -1,0 +1,53 @@
+slug: luis-sans-y-codol
+nom: Luis Sans y Códol
+nom_complet: null
+naissance: '1547-12-20'
+deces: '1620-02-23'
+naissance_lieu: Puigcerdá, Diocese of Urgell
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1595-04-09'
+  lieu: Cathedral, Barcelona, Diocese of Barcelona
+  consecrateur_principal: juan-dimas-lloris
+  co_consecrateurs:
+  - pedro-jaime
+  - francesc-robuster-i-sala
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsansc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Solsona, Spain
+  du: '1594-10-03'
+  au: null
+- titre: Bishop of Barcelona, Spain
+  du: '1612-08-20'
+  au: '1620-02-23'
+- titre: évêque de Solsona
+  du: '1594-10-03'
+  au: '1612-08-20'
+- titre: Abbot of Santa Maria de Gerri
+  du: null
+  au: null
+- titre: évêque de Barcelone
+  du: '1612-08-20'
+  au: '1620-02-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19300837
+  catholic_hierarchy: bsansc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:50:26+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: jacques-desmarets
+nom: Jacques Desmarets
+nom_complet: Jacques des Maretz
+naissance: '1655'
+deces: '1725-11-25'
+naissance_lieu: Soissons
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1694-01-24'
+  consecrateur_principal: jacques-nicolas-colbert
+  co_consecrateurs:
+  - francois-de-poudenx
+  - guillaume-bochart-de-champigny
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdesmaj.html
+  - https://fr.wikipedia.org/wiki/Jacques_Desmarets
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Riez, France
+  du: null
+  au: '1713-09-20'
+- titre: Archbishop of Auch, France
+  du: null
+  au: '1725-11-25'
+- titre: évêque de Riez
+  du: '1685-08-15'
+  au: '1713-09-20'
+- titre: archevêque d'Auch
+  du: '1713-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3158719
+  catholic_hierarchy: bdesmaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:08+00:00'
+  completeness: 0.88

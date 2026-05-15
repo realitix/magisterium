@@ -1,0 +1,41 @@
+slug: francois-de-poudenx
+nom: François de Poudenx
+nom_complet: François-Clément de Poudenx
+naissance: '1642'
+deces: '1716-06-24'
+naissance_lieu: Poudenx, Landes
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1692-08-24'
+  consecrateur_principal: armand-anne-tristan-de-la-baume-de-suze
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoudenx.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Poudenx
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarbes, France
+  du: null
+  au: '1716-06-24'
+- titre: Évêque de Tarbes
+  du: '1678-01-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816705
+  catholic_hierarchy: bpoudenx
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:46:23+00:00'
+  completeness: 0.75

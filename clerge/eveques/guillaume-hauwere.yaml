@@ -1,0 +1,47 @@
+slug: guillaume-hauwere
+nom: Guillaume Hauwere
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: Bruges, Diocese of Brugge {Bruges}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1552-08-21'
+  lieu: S.Ghislain, Abbey, Cambrai, Diocese of Cambrai, France
+  consecrateur_principal: martin-cuyper-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhanwere.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Tournai {Doornik}, Belgium
+  du: '1552-04-27'
+  au: 1560&sup2;
+- titre: Titular Bishop of Sarepta
+  du: '1552-04-27'
+  au: null
+- titre: évêque auxiliaire
+  du: '1552-05-07'
+  au: null
+- titre: évêque titulaire
+  du: '1552-04-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780358
+  catholic_hierarchy: bhanwere
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:33:58+00:00'
+  completeness: 0.62

@@ -1,0 +1,41 @@
+slug: gyorgy-pongracz
+nom: György Pongrácz
+nom_complet: null
+naissance: '1632'
+deces: '1676-03-05'
+naissance_lieu: Owar
+deces_lieu: null
+rang: eveque
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1672-06-12'
+  lieu: Jesuit, Chapel, Nagyzombal
+  consecrateur_principal: gyorgy-szelepcsenyi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpongr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: null
+  au: '1676-03-05'
+- titre: évêque de Vác
+  du: '1670-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762706
+  catholic_hierarchy: bpongr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:42:38+00:00'
+  completeness: 0.75

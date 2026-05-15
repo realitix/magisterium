@@ -1,0 +1,43 @@
+slug: basilio-maupretis-o-f-m
+nom: Basilio Maupretis, O.F.M.
+nom_complet: Basilio Maupretis
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1439-12-13'
+  consecrateur_principal: gaspard-de-diano
+  co_consecrateurs:
+  - pierre-porcher-porquerii-o-f-m
+  - gonzalo-de-vallebuena-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaupret.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Tanis
+  du: '1439-11-11'
+  au: null
+- titre: évêque titulaire
+  du: '1439-11-11'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64780025
+  catholic_hierarchy: bmaupret
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:26+00:00'
+  completeness: 0.75

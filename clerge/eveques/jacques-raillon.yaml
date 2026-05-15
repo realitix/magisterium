@@ -1,0 +1,47 @@
+slug: jacques-raillon
+nom: Jacques Raillon
+nom_complet: null
+naissance: '1762-07-17'
+deces: '1835-02-13'
+naissance_lieu: Bourgoin
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1829-11-11'
+  consecrateur_principal: denis-frayssinous
+  co_consecrateurs:
+  - jean-francois-etienne-borderies
+  - louis-charles-jean-baptiste-michel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brail.html
+  - https://fr.wikipedia.org/wiki/Jacques_Raillon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Aix (-Arles-Embrun), France
+  du: null
+  au: '1835-02-13'
+- titre: évêque de Dijon
+  du: '1829-06-14'
+  au: null
+- titre: archevêque catholique
+  du: '1831-02-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3159835
+  catholic_hierarchy: brail
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:59:40+00:00'
+  completeness: 1.0

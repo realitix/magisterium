@@ -1,0 +1,51 @@
+slug: john-vertue
+nom: John Vertue
+nom_complet: John Vertue (Virtue)
+naissance: '1826-04-28'
+deces: '1900-05-23'
+naissance_lieu: Newman Street, Holborn, London, Vicariate Apostolic of London District,
+  England
+deces_lieu: Bishop's House, Edinburgh Road, Portsmouth, Hampshire, Diocese of Portsmouth,
+  England
+rang: eveque
+nationalite: Q145
+tampon: ordo_validus
+sacre:
+  date: '1882-07-25'
+  lieu: Our Lady of Victories, Pro-Cathedral, Kensington, London, Archdiocese of Westminster,
+    England
+  consecrateur_principal: henry-edward-manning
+  co_consecrateurs:
+  - herbert-vaughan
+  - william-weathers
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bver.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Portsmouth, England, Great Britain
+  du: '1882-06-13'
+  au: '1900-05-23'
+- titre: évêque diocésain
+  du: '1882-06-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20Virtue%20of%20Portsmouth%2C%20England.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2112738
+  catholic_hierarchy: bver
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:21+00:00'
+  completeness: 1.0

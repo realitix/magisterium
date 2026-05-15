@@ -1,0 +1,42 @@
+slug: brandur-jonsson
+nom: Brandur Jónsson
+nom_complet: null
+naissance: '1192'
+deces: '1264-05-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1263-03-04'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjonsso.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hólar, Iceland
+  du: 1263&sup1;
+  au: '1264-05-26'
+- titre: évêque diocésain
+  du: '1263-01-01'
+  au: null
+- titre: abbé
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5584687
+  catholic_hierarchy: bjonsso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:02:56+00:00'
+  completeness: 0.5

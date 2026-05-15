@@ -1,0 +1,51 @@
+slug: joseph-anton-gall
+nom: Joseph Anton Gall
+nom_complet: null
+naissance: '1748-03-27'
+deces: '1807-06-18'
+naissance_lieu: Weil der Stadt
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1789-02-08'
+  lieu: Wien, Archdiocese of Wien {Vienna}
+  consecrateur_principal: christoph-bartholomaus-anton-migazzi
+  co_consecrateurs:
+  - heinrich-johann-von-kerens
+  - edmund-maria-josef-artz-von-und-zu-vasegg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgall.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Linz, Austria
+  du: null
+  au: '1807-06-18'
+- titre: évêque de Linz
+  du: '1788-05-12'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Anton%20Gall.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q101864
+  catholic_hierarchy: bgall
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:05:27+00:00'
+  completeness: 1.0

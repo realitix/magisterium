@@ -1,0 +1,43 @@
+slug: choukri-aroutin
+nom: Choukri Aroutin
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1762'
+  consecrateur_principal: tobie-el-khazen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baroutin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alep [Beroea, Halab] (Maronite), Syria
+  du: 1762&sup1;
+  au: 1786&sup2;
+- titre: évêque diocésain
+  du: '1762-01-01'
+  au: null
+- titre: archevêque d'Alep des Maronites
+  du: '1762-01-01'
+  au: '1786-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781260
+  catholic_hierarchy: baroutin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.62

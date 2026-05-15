@@ -1,0 +1,48 @@
+slug: franz-konstantin-rampa
+nom: Franz Konstantin Rampa
+nom_complet: null
+naissance: '1837-09-13'
+deces: '1888-09-17'
+naissance_lieu: Poschiavo, Diocese of Chur
+deces_lieu: Chur, Diocese of Chur
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1879-11-09'
+  lieu: Cathedral, Chur, Diocese of Chur
+  consecrateur_principal: carl-johann-greith
+  co_consecrateurs:
+  - eugene-lachat
+  - johann-nepomuk-amberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brampa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: null
+  au: '1888-09-17'
+- titre: évêque diocésain
+  du: '1879-05-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Konstantin%20Rampa.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15428673
+  catholic_hierarchy: brampa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:01:44+00:00'
+  completeness: 1.0

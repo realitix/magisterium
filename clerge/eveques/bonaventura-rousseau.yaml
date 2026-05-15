@@ -1,0 +1,49 @@
+slug: bonaventura-rousseau
+nom: Bonaventura Rousseau
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Bazoches sur Vesle
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1658-08-25'
+  consecrateur_principal: denis-de-la-barde
+  co_consecrateurs:
+  - charles-de-bourlon
+  - roger-de-harlay-de-cezy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brousb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Verdun, France
+  du: '1658-05-06'
+  au: 1671&sup1;
+- titre: Titular Bishop of Caesarea in Bithynia
+  du: '1658-05-06'
+  au: null
+- titre: évêque titulaire
+  du: '1658-05-06'
+  au: null
+- titre: évêque auxiliaire de Verdun
+  du: '1658-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779966
+  catholic_hierarchy: brousb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:31:50+00:00'
+  completeness: 0.75

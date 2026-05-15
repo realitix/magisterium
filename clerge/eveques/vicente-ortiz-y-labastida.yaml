@@ -1,0 +1,43 @@
+slug: vicente-ortiz-y-labastida
+nom: Vicente Ortiz y Labastida
+nom_complet: Vicente Ortiz y Labastida, O.P.
+naissance: '1782-04-19'
+deces: '1852-07-23'
+naissance_lieu: Zaragoza, Archdiocese of Zaragoza
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1848-07-16'
+  consecrateur_principal: manuel-maria-gomez-de-las-rivas
+  co_consecrateurs:
+  - jaime-fort-y-puig
+  - antonio-lao-y-cuevas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bortizl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: null
+  au: '1852-07-23'
+- titre: évêque de Tarazona
+  du: '1848-01-02'
+  au: '1852-07-23'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q6161263
+  catholic_hierarchy: bortizl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:57:37+00:00'
+  completeness: 1.0

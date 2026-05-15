@@ -1,0 +1,44 @@
+slug: fernando-de-gerona
+nom: Fernando de Gerona
+nom_complet: Fernando de Gerona, O.S.A.
+naissance: null
+deces: '1542'
+naissance_lieu: Gerona, Diocese of Gerona, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q204920
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgero.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Asti, Italy
+  du: '1525-05-12'
+  au: null
+- titre: Bishop of Venosa, Italy
+  du: '1528-03-23'
+  au: 1542&sup1;
+- titre: Roman Catholic Bishop of Venosa
+  du: '1528-04-02'
+  au: '1542-01-01'
+- titre: évêque d'Asti
+  du: '1525-05-22'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q3742679
+  catholic_hierarchy: bgero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:18:53+00:00'
+  completeness: 0.25

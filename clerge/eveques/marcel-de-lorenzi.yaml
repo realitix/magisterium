@@ -1,0 +1,43 @@
+slug: marcel-de-lorenzi
+nom: Marcel de Lorenzi
+nom_complet: Marcello Lorenzi
+naissance: '1550'
+deces: '1601'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1600-02-13'
+  consecrateur_principal: antonmaria-sauli
+  co_consecrateurs:
+  - agostino-quinzio
+  - alessandro-filarete
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorenm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strongoli, Italy
+  du: '1600-01-31'
+  au: 1601&sup2;
+- titre: évêque diocésain
+  du: '1600-01-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60676184
+  catholic_hierarchy: blorenm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:59:54+00:00'
+  completeness: 0.75

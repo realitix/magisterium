@@ -1,0 +1,40 @@
+slug: nicolas-de-villars
+nom: Nicolas de Villars
+nom_complet: null
+naissance: '1505'
+deces: '1608-12-10'
+naissance_lieu: Lyon, Archdiocese of Lyon
+deces_lieu: Agen, Diocese of Agen
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1588'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdvilln.html
+  - https://fr.wikipedia.org/wiki/Nicolas_de_Villars
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agen, France
+  du: '1587-12-18'
+  au: '1608-12-10'
+- titre: évêque d'Agen
+  du: '1587-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3340977
+  catholic_hierarchy: bdvilln
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:17:12+00:00'
+  completeness: 0.5

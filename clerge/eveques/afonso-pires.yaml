@@ -1,0 +1,38 @@
+slug: afonso-pires
+nom: Afonso Pires
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpiresaf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Porto, Portugal
+  du: '1355-10-26'
+  au: 1372&sup2;
+- titre: évêque diocésain
+  du: '1355-11-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108463675
+  catholic_hierarchy: bpiresaf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:35:56+00:00'
+  completeness: 0.25

@@ -1,0 +1,48 @@
+slug: gustave-lazare-garnier
+nom: Gustave Lazare Garnier
+nom_complet: Gustave-Lazare Garnier
+naissance: '1857-04-01'
+deces: '1940-01-30'
+naissance_lieu: Châtillon-en-Bazois
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1916-07-25'
+  consecrateur_principal: pierre-chatelus
+  co_consecrateurs:
+  - laurent-monnier
+  - jean-baptiste-penon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarng.html
+  - https://fr.wikipedia.org/wiki/Gustave-Lazare_Garnier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: '1916-05-27'
+  au: '1940-01-30'
+- titre: évêque diocésain
+  du: '1916-05-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Lu%C3%A7on%2C%20Cath%C3%A9drale%20Notre-Dame-de-l%27Assomption%2C%20Caveau%20des%20%C3%A9v%C3%AAques%204.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q55672126
+  catholic_hierarchy: bgarng
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:11:39+00:00'
+  completeness: 1.0

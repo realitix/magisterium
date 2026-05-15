@@ -1,0 +1,47 @@
+slug: tomas-de-lorenzana
+nom: Tomàs de Lorenzana
+nom_complet: Tomás Lorenzana Butrón
+naissance: '1727-03-07'
+deces: '1796-01-21'
+naissance_lieu: León
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1775-05-07'
+  consecrateur_principal: francisco-antonio-de-lorenzana-y-butron
+  co_consecrateurs:
+  - felipe-perez-santa-maria
+  - jose-gonzalez-laso-santos-de-san-pedro
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blorenza.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gerona, Spain
+  du: '1775-03-13'
+  au: '1796-01-21'
+- titre: évêque de Gérone
+  du: '1775-03-13'
+  au: '1796-02-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A1s%20de%20Lorenzana.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4856242
+  catholic_hierarchy: blorenza
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:59:57+00:00'
+  completeness: 1.0

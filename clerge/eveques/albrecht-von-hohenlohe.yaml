@@ -1,0 +1,49 @@
+slug: albrecht-von-hohenlohe
+nom: Albrecht von Hohenlohe
+nom_complet: Albrecht II. von Hohenlohe
+naissance: '1345'
+deces: '1372-06-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhohenla.html
+  - https://fr.wikipedia.org/wiki/Albrecht_von_Hohenlohe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: '1350-02-08'
+  au: '1372-06-27'
+- titre: évêque de Wurtzbourg
+  du: '1350-02-16'
+  au: null
+- titre: évêque élu
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/AlbrechtIIvonHohenlohe.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2639836
+  catholic_hierarchy: bhohenla
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:45:20+00:00'
+  completeness: 0.38

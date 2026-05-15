@@ -1,0 +1,39 @@
+slug: nicolas-d-arcies
+nom: Nicolas d'Arcies
+nom_complet: Nicolas d&rsquo;Arcis
+naissance: null
+deces: '1376-09-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdarcis.html
+  - https://fr.wikipedia.org/wiki/Nicolas_d%27Arcies
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: '1372-11-17'
+  au: '1376-09-24'
+- titre: évêque d'Auxerre
+  du: '1372-11-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3340888
+  catholic_hierarchy: bdarcis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:27:58+00:00'
+  completeness: 0.38

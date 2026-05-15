@@ -1,0 +1,42 @@
+slug: robert-lancaster
+nom: Robert Lancaster
+nom_complet: null
+naissance: null
+deces: '1433-03-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1411-06-28'
+  consecrateur_principal: thomas-arundel
+  co_consecrateurs:
+  - philip-cardinal-repington-c-r-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blancr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Asaph, Wales, Great Britain
+  du: '1410-07-16'
+  au: Mar 1433&sup3;
+- titre: évêque diocésain
+  du: '1410-07-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781045
+  catholic_hierarchy: blancr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:30:41+00:00'
+  completeness: 0.75

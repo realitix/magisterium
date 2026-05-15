@@ -1,0 +1,54 @@
+slug: johann-weber
+nom: Johann Weber
+nom_complet: null
+naissance: '1927-04-26'
+deces: '2020-05-23'
+naissance_lieu: Graz, Diocese of Seckau
+deces_lieu: LKH University, Hospital, Graz, Diocese of Graz-Seckau
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1969-09-28'
+  lieu: Cathedral, Graz, Diocese of Graz-Seckau
+  consecrateur_principal: andreas-rohracher
+  co_consecrateurs:
+  - josef-schoiswohl
+  - joseph-kostner
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bweberjoh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Graz-Seckau, Austria
+  du: '1969-06-10'
+  au: null
+- titre: Bishop Emeritus of Graz-Seckau, Austria
+  du: null
+  au: '2020-05-23'
+- titre: évêque de Graz et Seckau
+  du: '1969-06-10'
+  au: '2001-03-14'
+- titre: president of the Austrian Bishops' Conference
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Weber%20Johann%20DSC%201890%20cut2.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q89156
+  catholic_hierarchy: bweberjoh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:52:19+00:00'
+  completeness: 1.0

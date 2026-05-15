@@ -1,0 +1,45 @@
+slug: louis-de-poitiers
+nom: Louis de Poitiers
+nom_complet: null
+naissance: null
+deces: '1468-04-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoitielo.html
+  - https://fr.wikipedia.org/wiki/Louis_de_Poitiers_(%C3%A9v%C3%AAque_de_Valence)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence and Die, France
+  du: '1447-07-26'
+  au: '1468-04-26'
+- titre: archidiacre
+  du: '1447-01-01'
+  au: '1468-01-01'
+- titre: évêque de Valence et de Die
+  du: '1447-01-01'
+  au: '1468-01-01'
+- titre: prieur
+  du: '1447-01-01'
+  au: '1468-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3263547
+  catholic_hierarchy: bpoitielo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:42+00:00'
+  completeness: 0.38

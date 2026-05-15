@@ -1,0 +1,39 @@
+slug: matteo-boniperti
+nom: Matteo Boniperti
+nom_complet: Matteo Boniperti, O.P.
+naissance: null
+deces: '1444-08-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: giovanni-tavelli
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonipe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mantova, Italy
+  du: '1428-05-21'
+  au: '1444-08-24'
+- titre: évêque de Mantoue
+  du: '1428-05-30'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q16577112
+  catholic_hierarchy: bbonipe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:38:15+00:00'
+  completeness: 0.5

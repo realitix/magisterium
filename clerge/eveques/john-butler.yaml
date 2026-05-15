@@ -1,0 +1,44 @@
+slug: john-butler
+nom: John Butler
+nom_complet: John Butler, 12th Baron Dunboyne
+naissance: '1731'
+deces: '1800-05-08'
+naissance_lieu: Grange, Co. Tipperary
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Jun 1763&sup3;
+  consecrateur_principal: james-butler-1st
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbutlj.html
+  - https://fr.wikipedia.org/wiki/John_Butler_(12e_baron_Dunboyne)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cork, Ireland
+  du: null
+  au: '1787-06-03'
+- titre: Bishop Emeritus of Cork, Ireland
+  du: null
+  au: '1800-05-08'
+- titre: évêque de Cork
+  du: '1763-04-11'
+  au: '1787-06-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6224105
+  catholic_hierarchy: bbutlj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:02:22+00:00'
+  completeness: 0.75

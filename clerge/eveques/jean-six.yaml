@@ -1,0 +1,41 @@
+slug: jean-six
+nom: Jean Six
+nom_complet: null
+naissance: '1533'
+deces: '1586-10-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1581-07-23'
+  consecrateur_principal: mathieu-moulart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsixj.html
+  - https://fr.wikipedia.org/wiki/Jean_Six
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Omer, France
+  du: '1581-02-13'
+  au: '1586-10-11'
+- titre: évêque diocésain
+  du: '1581-02-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3174652
+  catholic_hierarchy: bsixj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:21:49+00:00'
+  completeness: 0.75

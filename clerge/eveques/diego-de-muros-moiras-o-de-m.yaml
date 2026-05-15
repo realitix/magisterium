@@ -1,0 +1,50 @@
+slug: diego-de-muros-moiras-o-de-m
+nom: Diego de Muros (Moiras), O. de M.
+nom_complet: Diego de Muros
+naissance: '1405'
+deces: '1492'
+naissance_lieu: Muros, Archdiocese of Santiago de Compostela
+deces_lieu: Ciudad Rodrigo, Diocese of Ciudad Rodrigo
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1473-01-31'
+  lieu: Sacristy, La Minerve, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: 352-imun-vosi-263-vossich
+  co_consecrateurs:
+  - deodato-bocconi
+  - giovanni-andrea-bussi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoiras.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tuy, Spain
+  du: '1472-06-15'
+  au: null
+- titre: Bishop of Ciudad Rodrigo, Spain
+  du: '1487-06-01'
+  au: 1492&sup1;
+- titre: évêque de Ciudad Rodrigo
+  du: '1487-06-10'
+  au: null
+- titre: évêque de Tui
+  du: '1472-06-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8471018
+  catholic_hierarchy: bmoiras
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:00+00:00'
+  completeness: 0.75

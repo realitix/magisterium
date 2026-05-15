@@ -1,0 +1,48 @@
+slug: aimar
+nom: Aimar
+nom_complet: Aimar de Bernin (Arenis)
+naissance: null
+deces: '1245-05-23'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbernin.html
+  - https://fr.wikipedia.org/wiki/Aimar_(archev%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Jean-de-Maurienne, France
+  du: 1223&sup2;
+  au: null
+- titre: Archbishop of Embrun, France
+  du: 1236&sup2;
+  au: '1245-05-23'
+- titre: abbé
+  du: '1220-01-01'
+  au: null
+- titre: archevêque d'Embrun
+  du: '1235-01-01'
+  au: '1245-01-01'
+- titre: évêque de Maurienne
+  du: '1222-01-01'
+  au: '1235-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2827991
+  catholic_hierarchy: bbernin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:21:29+00:00'
+  completeness: 0.38

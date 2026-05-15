@@ -1,0 +1,45 @@
+slug: juan-de-serrano
+nom: Juan de Serrano
+nom_complet: Juan Serrano
+naissance: '1301'
+deces: '1402-02-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: pedro-diaz-de-tenorio
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bserrnj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: '1388-10-15'
+  au: null
+- titre: Bishop of Sigüenza, Spain
+  du: '1389-12-22'
+  au: '1402-02-24'
+- titre: évêque de Ségovie
+  du: '1388-10-23'
+  au: null
+- titre: évêque de Sigüenza
+  du: '1389-12-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9015988
+  catholic_hierarchy: bserrnj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:12:12+00:00'
+  completeness: 0.62

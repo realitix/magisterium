@@ -1,0 +1,48 @@
+slug: gerardus-de-vet
+nom: Gerardus de Vet
+nom_complet: Gerardus Henricus De Vet
+naissance: '1917-11-15'
+deces: '1967-03-27'
+naissance_lieu: Gilze, Diocese of Breda
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1962-05-13'
+  lieu: Sainte Barbara, Cathedral, Breda, Diocese of Breda
+  consecrateur_principal: joseph-baeten
+  co_consecrateurs:
+  - wilhelmus-marinus-bekkers
+  - martinus-jansen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdevet.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Breda, Netherlands
+  du: '1962-03-22'
+  au: '1967-03-27'
+- titre: évêque de Breda
+  du: '1962-03-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gerardus%20de%20Vet%20%281962%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2178281
+  catholic_hierarchy: bdevet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:02+00:00'
+  completeness: 1.0

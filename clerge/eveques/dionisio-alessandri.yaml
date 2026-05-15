@@ -1,0 +1,41 @@
+slug: dionisio-alessandri
+nom: Dionisio Alessandri
+nom_complet: null
+naissance: '1836-02-08'
+deces: '1904-08-22'
+naissance_lieu: Assisi, Diocese of Assisi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1896-07-05'
+  lieu: Sacro Cuore di Gesù a Castro Pretorio, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balesd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fossombrone, Italy
+  du: '1896-06-22'
+  au: '1904-08-22'
+- titre: Roman Catholic Bishop of Fossombrone
+  du: '1896-06-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64657717
+  catholic_hierarchy: balesd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:29:16+00:00'
+  completeness: 0.88

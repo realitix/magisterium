@@ -1,0 +1,50 @@
+slug: pedro-alfonso
+nom: Pedro Alfonso
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balfonsop.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Silves (Sylves), Portugal
+  du: '1331-07-31'
+  au: null
+- titre: Bishop of Astorga, Spain
+  du: '1333-06-09'
+  au: null
+- titre: Bishop of Porto, Portugal
+  du: '1342-09-25'
+  au: 1355&sup1;
+- titre: évêque diocésain
+  du: '1331-08-08'
+  au: null
+- titre: évêque diocésain
+  du: '1333-06-17'
+  au: null
+- titre: évêque diocésain
+  du: '1342-10-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108438479
+  catholic_hierarchy: balfonsop
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:30:06+00:00'
+  completeness: 0.25

@@ -1,0 +1,51 @@
+slug: pedro-carmelet-o-s-a
+nom: Pedro Carmelet, O.S.A.
+nom_complet: Pedro Carmelet
+naissance: null
+deces: null
+naissance_lieu: Zaragoza, Archdiocese of Zaragoza
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1517-06-21'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Zaragoza, Spain
+  du: '1517-06-03'
+  au: 1530&sup2;
+- titre: Titular Bishop of Utica
+  du: '1517-06-03'
+  au: null
+- titre: Titular Bishop of Belline
+  du: '1517-06-11'
+  au: null
+- titre: évêque titulaire d’Utique
+  du: '1517-06-13'
+  au: '1517-06-21'
+- titre: évêque titulaire
+  du: '1517-06-21'
+  au: '1530-01-01'
+- titre: évêque auxiliaire de l'archidiocèse de Saragosse
+  du: '1517-06-13'
+  au: '1530-01-01'
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q68865351
+  catholic_hierarchy: bcarm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:23:02+00:00'
+  completeness: 0.25

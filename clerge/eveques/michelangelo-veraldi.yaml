@@ -1,0 +1,43 @@
+slug: michelangelo-veraldi
+nom: Michelangelo Veraldi
+nom_complet: null
+naissance: '1650-09-29'
+deces: '1702-11-01'
+naissance_lieu: Taverna
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1693-03-15'
+  consecrateur_principal: gaspare-carpegna
+  co_consecrateurs:
+  - petrus-draghi-bartoli
+  - michelangelo-mattei
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bveraldi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Martirano (Martoranum), Italy
+  du: '1693-03-09'
+  au: Nov 1702&sup3;
+- titre: évêque diocésain
+  du: '1693-03-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3856464
+  catholic_hierarchy: bveraldi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:32:26+00:00'
+  completeness: 0.88

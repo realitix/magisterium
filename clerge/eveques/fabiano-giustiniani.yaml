@@ -1,0 +1,41 @@
+slug: fabiano-giustiniani
+nom: Fabiano Giustiniani
+nom_complet: Fabiano Giustiniano Giustiniani, C.O.
+naissance: '1578-09-20'
+deces: '1627-01-03'
+naissance_lieu: Terraferma, Archdiocese of Genova, Italy
+deces_lieu: Ajaccio, Diocese of Ajaccio
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1616-06-19'
+  lieu: Santa Maria in Vallicella, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: benedetto-cardinal-giustiniani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiustf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ajaccio, France
+  du: '1616-06-13'
+  au: 3 Jan 1627&sup3;
+- titre: évêque d'Ajaccio
+  du: '1616-06-13'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64760685
+  catholic_hierarchy: bgiustf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:26:57+00:00'
+  completeness: 0.88

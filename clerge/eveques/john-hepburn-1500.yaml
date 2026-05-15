@@ -1,0 +1,39 @@
+slug: john-hepburn-1500
+nom: John Hepburn
+nom_complet: null
+naissance: '1500'
+deces: '1557'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1522'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhepburnj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brechin, Scotland, Great Britain
+  du: 1517&sup2;
+  au: Aug 1558&sup3;
+- titre: évêque diocésain
+  du: '1517-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6239016
+  catholic_hierarchy: bhepburnj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:39:45+00:00'
+  completeness: 0.38

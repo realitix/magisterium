@@ -1,0 +1,44 @@
+slug: michele-barone
+nom: Michele Barone
+nom_complet: null
+naissance: '1773-09-01'
+deces: '1842-10-07'
+naissance_lieu: Sicignano, Archdiocese of Salerno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1835-04-20'
+  lieu: S. Maria degl Angeli, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: emmanuele-de-gregorio
+  co_consecrateurs:
+  - antonio-luigi-piatti
+  - pier-grisologo-basetti-bassetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaronem.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Capaccio, Italy
+  du: null
+  au: '1842-10-07'
+- titre: Roman Catholic Bishop of Capaccio
+  du: '1834-11-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751465
+  catholic_hierarchy: bbaronem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:04:06+00:00'
+  completeness: 1.0

@@ -1,0 +1,39 @@
+slug: reinier-saccoin
+nom: Reinier Saccoin
+nom_complet: Reinier Saccoin, O.P.
+naissance: null
+deces: '1249-01-13'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brainers.html
+  - https://fr.wikipedia.org/wiki/Reinier_Saccoin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Maguelonne, France
+  du: Jul 1247&sup3;
+  au: '1249-01-13'
+- titre: évêque de Maguelone
+  du: '1247-07-01'
+  au: '1249-01-01'
+fraternite: dominicains
+photo: null
+qids:
+  wikidata: Q96587818
+  catholic_hierarchy: brainers
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:00:01+00:00'
+  completeness: 0.38

@@ -1,0 +1,50 @@
+slug: diego-haedo
+nom: Diego Haëdo
+nom_complet: null
+naissance: '1527'
+deces: '1608-07-05'
+naissance_lieu: Spain
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1585-03-31'
+  lieu: Cathedral, Palermo, Archdiocese of Palermo
+  consecrateur_principal: cesare-marullo
+  co_consecrateurs:
+  - bernardo-gasco
+  - desiderio-mezzapica-da-s-martino-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhaedo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agrigento (Girgenti), Italy
+  du: '1585-01-23'
+  au: null
+- titre: Archbishop of Palermo, Italy
+  du: '1589-08-14'
+  au: '1608-07-05'
+- titre: évêque d'Agrigente
+  du: '1585-03-31'
+  au: '1589-08-14'
+- titre: archevêque de Palerme
+  du: '1589-08-14'
+  au: '1608-07-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23613275
+  catholic_hierarchy: bhaedo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:31:09+00:00'
+  completeness: 0.88

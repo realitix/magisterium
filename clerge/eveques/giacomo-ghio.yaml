@@ -1,0 +1,53 @@
+slug: giacomo-ghio
+nom: Giacomo Ghio
+nom_complet: null
+naissance: '1858-07-23'
+deces: '1935-11-04'
+naissance_lieu: Bosio
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1912-05-19'
+  lieu: Sori
+  consecrateur_principal: disma-marchese
+  co_consecrateurs:
+  - giovanni-carli
+  - ildefonso-vincenzo-pisani-c-r-l
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bghio.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Urbino, Italy
+  du: '1912-03-28'
+  au: '1931-10-20'
+- titre: Titular Archbishop of Synnada in Phrygia
+  du: '1931-10-20'
+  au: null
+- titre: Archbishop Emeritus of Urbino, Italy
+  du: null
+  au: '1935-11-04'
+- titre: archevêque titulaire
+  du: '1931-10-20'
+  au: null
+- titre: archevêque catholique
+  du: '1912-05-19'
+  au: '1931-10-20'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64744790
+  catholic_hierarchy: bghio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:20:32+00:00'
+  completeness: 1.0

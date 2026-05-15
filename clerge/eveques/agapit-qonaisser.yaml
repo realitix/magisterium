@@ -1,0 +1,37 @@
+slug: agapit-qonaisser
+nom: Agapit Qonaisser
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1775'
+  consecrateur_principal: theodose-v-athanase-dahan-b-c
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bqonai.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop
+  du: 1775&sup1;
+  au: 1810&sup2;
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779083
+  catholic_hierarchy: bqonai
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:54:24+00:00'
+  completeness: 0.62

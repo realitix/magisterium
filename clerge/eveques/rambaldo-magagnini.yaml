@@ -1,0 +1,41 @@
+slug: rambaldo-magagnini
+nom: Rambaldo Magagnini
+nom_complet: null
+naissance: '1807-03-12'
+deces: '1892-12-23'
+naissance_lieu: Jesi, Diocese of Jesi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1872-05-26'
+  lieu: Santa Francesca Romana, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: carlo-sacconi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmagr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jesi, Italy
+  du: '1872-05-06'
+  au: '1892-12-23'
+- titre: évêque de Jesi
+  du: '1872-05-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16737305
+  catholic_hierarchy: bmagr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:14:02+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: marco-landi
+nom: Marco Landi
+nom_complet: null
+naissance: null
+deces: '1593'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1567-09-14'
+  consecrateur_principal: scipione-rebiba
+  co_consecrateurs:
+  - giulio-antonio-santorio
+  - egidio-valenti-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blandim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ascoli Satriano (Puglia), Italy
+  du: '1567-08-22'
+  au: 1593&sup2;
+- titre: évêque diocésain
+  du: '1567-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23770589
+  catholic_hierarchy: blandim
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:31:00+00:00'
+  completeness: 0.75

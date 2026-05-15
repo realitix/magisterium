@@ -1,0 +1,50 @@
+slug: godehard-braun
+nom: Godehard Braun
+nom_complet: null
+naissance: '1798-12-30'
+deces: '1861-05-22'
+naissance_lieu: Vallendar
+deces_lieu: Trier, Diocese of Trier
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1849-10-07'
+  lieu: Trier, Diocese of Trier
+  consecrateur_principal: wilhelm-arnoldi
+  co_consecrateurs:
+  - johann-georg-mueller
+  - johannes-theodor-laurent
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbraung.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Trier, Germany
+  du: '1849-04-02'
+  au: '1861-05-22'
+- titre: Titular Bishop of Callinicum
+  du: '1849-04-02'
+  au: null
+- titre: évêque auxiliaire
+  du: '1849-04-02'
+  au: null
+- titre: évêque titulaire
+  du: '1849-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1533709
+  catholic_hierarchy: bbraung
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:27+00:00'
+  completeness: 1.0

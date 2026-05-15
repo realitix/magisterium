@@ -1,0 +1,38 @@
+slug: john-pick-o-p
+nom: John Pick, O.P.
+nom_complet: John Pick
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpick.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kerry (o Ardfert) e Aghadoe, Ireland
+  du: '1461-03-27'
+  au: Jun 1473&sup2;
+- titre: évêque diocésain
+  du: '1461-04-05'
+  au: '1473-06-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q68909490
+  catholic_hierarchy: bpick
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:30:55+00:00'
+  completeness: 0.25

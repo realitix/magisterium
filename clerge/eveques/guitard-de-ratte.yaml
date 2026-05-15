@@ -1,0 +1,49 @@
+slug: guitard-de-ratte
+nom: Guitard de Ratte
+nom_complet: null
+naissance: '1552'
+deces: '1602-08-07'
+naissance_lieu: Montpellier, Diocese of Montpellier
+deces_lieu: Toulouse, Archdiocese of Toulouse
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1597-06-29'
+  lieu: Celestins, Church, Paris, Diocese of Paris
+  consecrateur_principal: francesco-gonzaga-1546
+  co_consecrateurs:
+  - claude-d-angennes-de-rambouillet
+  - francois-de-pericard-1505
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bratte.html
+  - https://fr.wikipedia.org/wiki/Guitard_de_Ratte
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montpellier, France
+  du: '1597-03-26'
+  au: '1602-08-07'
+- titre: évêque de Montpellier
+  du: '1597-03-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cath%C3%A9drale%20de%20Maguelone-PM34001500%2BF.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q59209919
+  catholic_hierarchy: bratte
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:03:46+00:00'
+  completeness: 0.88

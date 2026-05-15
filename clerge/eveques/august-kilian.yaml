@@ -1,0 +1,47 @@
+slug: august-kilian
+nom: August Kilian
+nom_complet: Karl Augustinus Kilian
+naissance: '1856-11-01'
+deces: '1930-10-30'
+naissance_lieu: Eltville
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1913-09-08'
+  consecrateur_principal: thomas-norber
+  co_consecrateurs:
+  - georg-heinrich-maria-kirstein
+  - joseph-damian-schmitt
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkilian.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limburg, Germany
+  du: null
+  au: '1930-10-30'
+- titre: évêque de Limbourg
+  du: '1913-01-01'
+  au: '1930-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Kilian%201930.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q768885
+  catholic_hierarchy: bkilian
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:13:45+00:00'
+  completeness: 1.0

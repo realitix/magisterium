@@ -1,0 +1,44 @@
+slug: rocco-de-gregorio
+nom: Rocco de Gregorio
+nom_complet: null
+naissance: '1803-11-27'
+deces: '1858-07-08'
+naissance_lieu: Lacedonia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1843-06-24'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - lodovico-altieri
+  - fabio-maria-asquini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgregr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Severo, Italy
+  du: null
+  au: '1858-07-08'
+- titre: évêque diocésain
+  du: '1843-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64747343
+  catholic_hierarchy: bgregr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:42:08+00:00'
+  completeness: 1.0

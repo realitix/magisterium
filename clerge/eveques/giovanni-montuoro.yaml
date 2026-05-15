@@ -1,0 +1,44 @@
+slug: giovanni-montuoro
+nom: Giovanni Montuoro
+nom_complet: null
+naissance: '1810-06-22'
+deces: '1862-03-24'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1859-06-26'
+  lieu: S. Andre della Valle, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabio-maria-asquini
+  co_consecrateurs:
+  - giuseppe-andrea-bizzarri
+  - pietro-de-villanova-castellacci
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontuoro.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bovino, Italy
+  du: '1859-06-20'
+  au: '1862-03-24'
+- titre: évêque diocésain
+  du: '1859-06-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763186
+  catholic_hierarchy: bmontuoro
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:09:48+00:00'
+  completeness: 1.0

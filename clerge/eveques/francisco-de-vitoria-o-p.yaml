@@ -1,0 +1,41 @@
+slug: francisco-de-vitoria-o-p
+nom: Francisco de Vitoria, O.P.
+nom_complet: Francisco de Vitoria
+naissance: '1540'
+deces: '1592'
+naissance_lieu: Portugal
+deces_lieu: Atocha, Convent, Madrid, Archdiocese of Toledo, Spain
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1578-11-18'
+  lieu: Santa Maria de los Angeles, Monastery, Sevilla, Archdiocese of Sevilla {Seville},
+    Spain
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvito.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Córdoba (Tucumán), Argentina
+  du: null
+  au: 1592&sup2;
+- titre: évêque de Tucumán
+  du: '1577-02-02'
+  au: '1592-01-01'
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q21515165
+  catholic_hierarchy: bvito
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:43:21+00:00'
+  completeness: 0.38

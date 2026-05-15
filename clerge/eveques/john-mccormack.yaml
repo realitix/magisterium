@@ -1,0 +1,47 @@
+slug: john-mccormack
+nom: John McCormack
+nom_complet: null
+naissance: '1921-03-25'
+deces: '1996-09-21'
+naissance_lieu: Moyanalty
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1968-03-10'
+  lieu: Christ the King, Cathedral, Mullingar, Diocese of Meath
+  consecrateur_principal: william-conway
+  co_consecrateurs:
+  - joseph-francis-mcgeough
+  - michael-harty
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmccoj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meath, Ireland
+  du: '1968-01-29'
+  au: '1990-05-16'
+- titre: Bishop Emeritus of Meath, Ireland
+  du: null
+  au: '1996-09-21'
+- titre: évêque diocésain
+  du: '1968-01-29'
+  au: '1990-05-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734342
+  catholic_hierarchy: bmccoj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:43:16+00:00'
+  completeness: 1.0

@@ -1,0 +1,45 @@
+slug: friedrich-von-montfort
+nom: Friedrich von Montfort
+nom_complet: Frederick of Montfort
+naissance: '1300'
+deces: '1290'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1282'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontff.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chur, Switzerland
+  du: 1282&sup2;
+  au: '1290-06-03'
+- titre: évêque diocésain
+  du: '1282-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque élu
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1463894
+  catholic_hierarchy: bmontff
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:08:16+00:00'
+  completeness: 0.5

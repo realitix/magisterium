@@ -1,0 +1,47 @@
+slug: girolamo-gavi
+nom: Girolamo Gavi
+nom_complet: null
+naissance: '1775-10-23'
+deces: '1869-04-04'
+naissance_lieu: Livorno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1848-11-12'
+  lieu: Cathedral, Pisa, Archdiocese of Pisa
+  consecrateur_principal: giovanni-battista-parretti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgavig.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Livorno, Italy
+  du: '1848-07-03'
+  au: '1869-04-04'
+- titre: Titular Bishop of Meloë in Lycia
+  du: '1848-07-03'
+  au: null
+- titre: évêque titulaire
+  du: '1848-07-03'
+  au: null
+- titre: administrateur apostolique
+  du: '1848-07-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64708180
+  catholic_hierarchy: bgavig
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:14:32+00:00'
+  completeness: 0.88

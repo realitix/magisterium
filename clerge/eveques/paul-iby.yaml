@@ -1,0 +1,43 @@
+slug: paul-iby
+nom: Paul Iby
+nom_complet: null
+naissance: '1935-01-23'
+deces: null
+naissance_lieu: Raiding
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1993-01-24'
+  consecrateur_principal: stephan-laszlo
+  co_consecrateurs:
+  - helmut-kratzl
+  - vinko-puljic
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/biby.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eisenstadt, Austria
+  du: '1992-12-28'
+  au: null
+- titre: évêque diocésain
+  du: '1992-12-28'
+  au: '2010-07-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q87929
+  catholic_hierarchy: biby
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:51:58+00:00'
+  completeness: 0.88

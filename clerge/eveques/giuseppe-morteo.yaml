@@ -1,0 +1,44 @@
+slug: giuseppe-morteo
+nom: Giuseppe Morteo
+nom_complet: Giuseppe Morteo, O.F.M. Cap.
+naissance: '1831-04-26'
+deces: '1891-11-21'
+naissance_lieu: Livorno, Diocese of Livorno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1873'
+  lieu: Immaculate Conception, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: camillo-di-pietro
+  co_consecrateurs:
+  - luigi-puecher-passavalli
+  - gaetano-carli-o-f-m-cap
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorteo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Massa Marittima, Italy
+  du: '1872-12-23'
+  au: '1891-11-21'
+- titre: évêque diocésain
+  du: '1872-12-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56400774
+  catholic_hierarchy: bmorteo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:14:21+00:00'
+  completeness: 1.0

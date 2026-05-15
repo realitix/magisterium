@@ -1,0 +1,48 @@
+slug: manoel-da-ressurreicao-o-f-m-obs
+nom: Manoel da Ressurreição, O.F.M. Obs.
+nom_complet: Manuel da Ressurreição
+naissance: '1718-01-09'
+deces: '1789-10-21'
+naissance_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+deces_lieu: São Paulo, Diocese of São Paulo
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1771-10-28'
+  lieu: Franciscan, Church, Cenáculo, Patriarchate of Lisboa {Lisbon}, Portugal
+  consecrateur_principal: manuel-do-cenaculo
+  co_consecrateurs:
+  - bartolomeu-manuel-mendes-dos-reis
+  - miguel-antonio-barreto-de-meneses
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bress.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of São Paulo, Brazil
+  du: null
+  au: '1789-10-21'
+- titre: évêque diocésain
+  du: '1771-03-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/An%C3%B4nimo%20-%20Retrato%20de%20D.%20Frei%20Manoel%20da%20Ressurrei%C3%A7%C3%A3o.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10324588
+  catholic_hierarchy: bress
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:09:20+00:00'
+  completeness: 1.0

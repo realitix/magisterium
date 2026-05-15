@@ -1,0 +1,44 @@
+slug: michele-villa
+nom: Michele Villa
+nom_complet: null
+naissance: '1632-09-30'
+deces: '1700-06-03'
+naissance_lieu: Sassari, Archdiocese of Sassari
+deces_lieu: Sassari, Archdiocese of Sassari
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1689-11-20'
+  lieu: San Pietro in Vincoli, Church, Ittiri, Archdiocese of Sassari
+  consecrateur_principal: juan-morillo-velarde
+  co_consecrateurs:
+  - domenico-cugia
+  - jeronimo-velasco-y-mendoza-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillami.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ampurias e Civita, Italy
+  du: '1688-11-29'
+  au: '1700-06-03'
+- titre: Roman Catholic Bishop of Tempio-Ampurias
+  du: '1688-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752657
+  catholic_hierarchy: bvillami
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:39:11+00:00'
+  completeness: 1.0

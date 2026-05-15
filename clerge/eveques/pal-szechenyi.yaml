@@ -1,0 +1,70 @@
+slug: pal-szechenyi
+nom: Pál Széchenyi
+nom_complet: Pál Széchényi, O.S.P.P.E.
+naissance: '1645-06-28'
+deces: '1710-05-22'
+naissance_lieu: Gyongyos
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: gyorgy-szelepcsenyi
+  co_consecrateurs:
+  - tamas-palffy
+  - istvan-sennyey-1627
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bszechp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Veszprém, Hungary
+  du: '1687-11-24'
+  au: null
+- titre: Archbishop of Kalocsa, Hungary
+  du: null
+  au: '1710-05-22'
+- titre: évêque de Veszprém
+  du: '1687-11-24'
+  au: null
+- titre: chanoine
+  du: null
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque de Pécs
+  du: '1676-12-12'
+  au: null
+- titre: lord-lieutenant of Veszprém County
+  du: '1687-04-26'
+  au: '1710-05-22'
+- titre: archevêque de Kalocsa-Kecskemét
+  du: '1696-04-09'
+  au: null
+- titre: Governor of Bács County
+  du: '1698-01-01'
+  au: '1711-01-01'
+- titre: prévôt
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sz%C3%A9chenyi%20P%C3%A1l%20%28%C3%A9rsek%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1301898
+  catholic_hierarchy: bszechp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:46:40+00:00'
+  completeness: 0.88

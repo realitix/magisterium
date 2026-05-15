@@ -1,0 +1,44 @@
+slug: antonio-montecatini
+nom: Antonio Montecatini
+nom_complet: Antonius Montecatinus
+naissance: '1597'
+deces: '1668-01-07'
+naissance_lieu: Ferrare
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1643-03-22'
+  lieu: Gesù, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: bernardino-cardinal-spada
+  co_consecrateurs:
+  - lelio-cardinal-falconieri
+  - alfonso-sacrati
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontecat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Foligno, Italy
+  du: '1643-02-23'
+  au: '1668-01-07'
+- titre: évêque de Foligno
+  du: '1643-02-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64752358
+  catholic_hierarchy: bmontecat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:07:18+00:00'
+  completeness: 0.88

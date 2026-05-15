@@ -1,0 +1,43 @@
+slug: jean-lavantage
+nom: Jean Lavantage
+nom_complet: null
+naissance: null
+deces: '1456-11-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blavanta.html
+  - https://fr.wikipedia.org/wiki/Jean_Avantage
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: '1437-03-27'
+  au: '1456-11-26'
+- titre: évêque d'Amiens
+  du: '1437-04-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cath%C3%A9drale%20d%27Amiens%2C%20plaque%20%C3%A0%20la%20m%C3%A9moire%20de%20Jean%20Avantage%201.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64776852
+  catholic_hierarchy: blavanta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:36:55+00:00'
+  completeness: 0.38

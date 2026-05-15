@@ -1,0 +1,57 @@
+slug: claude-hamelin
+nom: Claude Hamelin
+nom_complet: null
+naissance: '1951-07-10'
+deces: null
+naissance_lieu: Sherrington
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2016-03-18'
+  lieu: "St-Jean l\x92Evangéliste, Cathedral, St-Jean-sur-Richelieu"
+  consecrateur_principal: lionel-gendron
+  co_consecrateurs:
+  - jacques-berthelet
+  - raymond-poisson
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhamelinc.html
+  - https://fr.wikipedia.org/wiki/Claude_Hamelin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Saint-Jean-Longueuil, Québec, Canada
+  du: '2015-12-22'
+  au: null
+- titre: Titular Bishop of Apollonia
+  du: '2015-12-22'
+  au: null
+- titre: Bishop of Saint-Jean-Longueuil, Québec, Canada
+  du: '2019-11-05'
+  au: null
+- titre: évêque auxiliaire
+  du: '2015-12-22'
+  au: '2019-11-05'
+- titre: évêque de Saint-Jean-Longueuil
+  du: '2019-11-05'
+  au: null
+- titre: évêque titulaire
+  du: '2015-12-22'
+  au: '2019-11-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23054972
+  catholic_hierarchy: bhamelinc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:32:53+00:00'
+  completeness: 0.88

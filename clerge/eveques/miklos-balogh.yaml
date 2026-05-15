@@ -1,0 +1,44 @@
+slug: miklos-balogh
+nom: Miklós Balogh
+nom_complet: null
+naissance: '1625'
+deces: '1689-10-06'
+naissance_lieu: Turoczii
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbalogh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: '1686-03-18'
+  au: '1689-10-06'
+- titre: évêque de Vác
+  du: '1686-03-18'
+  au: null
+- titre: Membre de la chambre des Magnats
+  du: '1687-01-01'
+  au: '1687-01-01'
+- titre: députés de la Diète de Hongrie
+  du: '1681-01-01'
+  au: '1681-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q789660
+  catholic_hierarchy: bbalogh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:58:56+00:00'
+  completeness: 0.38

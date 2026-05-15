@@ -1,0 +1,39 @@
+slug: pierre-de-barrault
+nom: Pierre de Barrault
+nom_complet: null
+naissance: null
+deces: '1569-01-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarrault.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Barrault
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodève, France
+  du: '1566-02-08'
+  au: '1569-01-17'
+- titre: évêque de Lodève
+  du: '1566-02-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60834370
+  catholic_hierarchy: bbarrault
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:04:35+00:00'
+  completeness: 0.38

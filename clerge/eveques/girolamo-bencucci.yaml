@@ -1,0 +1,50 @@
+slug: girolamo-bencucci
+nom: Girolamo Bencucci
+nom_complet: Girolamo Schio
+naissance: '1481'
+deces: '1533-01-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1523-12-07'
+  consecrateur_principal: giovanni-ruffo-de-theodoli
+  co_consecrateurs:
+  - vincenzo-de-andreis-o-p
+  - baltasar-del-rio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschiog.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vaison, France
+  du: '1523-02-06'
+  au: '1533-01-02'
+- titre: évêque de Vaison
+  du: '1523-02-16'
+  au: '1533-01-12'
+- titre: nonce apostolique en Espagne
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Medaglione%20di%20Girolamo%20Bencucci.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5186424
+  catholic_hierarchy: bschiog
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:01:37+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: bartolomeu-do-pilar
+nom: Bartolomeu do Pilar
+nom_complet: Bartolomeu do Pilar, O. Carm.
+naissance: '1667-09-21'
+deces: '1733-04-09'
+naissance_lieu: Vila das Vellas, Portugal
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1720-12-22'
+  consecrateur_principal: tomas-de-almeida
+  co_consecrateurs:
+  - joao-cardoso-castelo
+  - manuel-alvares-da-costa
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdopilar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belém do Pará, Brazil
+  du: '1720-03-04'
+  au: '1733-04-09'
+- titre: évêque diocésain
+  du: '1720-03-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q9649553
+  catholic_hierarchy: bdopilar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:01:38+00:00'
+  completeness: 1.0

@@ -1,0 +1,42 @@
+slug: bernard-du-puy
+nom: Bernard du Puy
+nom_complet: Bernard Dupuy, O.F.M.
+naissance: null
+deces: '1611'
+naissance_lieu: Beaucaire, Gard
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupuybe.html
+  - https://fr.wikipedia.org/wiki/Bernard_du_Puy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Agde, France
+  du: '1583-05-11'
+  au: 1611&sup2;
+- titre: évêque d'Agde
+  du: '1583-05-11'
+  au: '1611-01-01'
+- titre: évêque diocésain
+  du: '1583-05-21'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q57626399
+  catholic_hierarchy: bdupuybe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:24+00:00'
+  completeness: 0.25

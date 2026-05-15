@@ -1,0 +1,47 @@
+slug: georges-de-schomberg
+nom: Georges de Schomberg
+nom_complet: Georg von Schönenberg
+naissance: '1530'
+deces: '1595-08-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1583-04-12'
+  consecrateur_principal: stephan-weber
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschoneg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: '1581-01-16'
+  au: '1595-08-11'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1581-01-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20von%20Sch%C3%B6nenberg.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1506687
+  catholic_hierarchy: bschoneg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:03:15+00:00'
+  completeness: 0.75

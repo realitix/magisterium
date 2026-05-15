@@ -1,0 +1,41 @@
+slug: jose-luis-nino
+nom: José Luis Niño
+nom_complet: null
+naissance: '1812'
+deces: '1864-02-12'
+naissance_lieu: Santa Rosa de Viterbo, Archdiocese of Santafé en Nueva Granada
+deces_lieu: San Antonio del Táchira, Diocese of Mérida, Venezuela
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1856-10-05'
+  lieu: San Antonio del Táchira, Diocese of Mérida, Venezuela
+  consecrateur_principal: juan-hilario-bosset-boset
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bninoj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nueva Pamplona, Colombia
+  du: '1856-05-27'
+  au: '1864-02-12'
+- titre: bishop of Nueva Pamplona
+  du: '1856-05-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745836
+  catholic_hierarchy: bninoj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:33+00:00'
+  completeness: 0.75

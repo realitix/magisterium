@@ -1,0 +1,44 @@
+slug: domenico-cumino
+nom: Domenico Cumino
+nom_complet: null
+naissance: '1837-10-29'
+deces: '1901-06-29'
+naissance_lieu: Andezeno, Archdiocese of Torino {Turin}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1886-05-16'
+  lieu: Torino, Archdiocese of Torino {Turin}
+  consecrateur_principal: gaetano-alimonda
+  co_consecrateurs:
+  - celestino-matteo-fissore
+  - giovanni-battista-bertagna
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcumino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Biella, Italy
+  du: '1886-01-15'
+  au: '1901-06-29'
+- titre: évêque diocésain
+  du: '1886-01-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64683235
+  catholic_hierarchy: bcumino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:18:19+00:00'
+  completeness: 1.0

@@ -62,6 +62,15 @@ function isActive(prefix: string): boolean {
         </li>
         <li>
           <a
+            href="/clerge/"
+            class:list={["site-nav__link", isActive('/clerge') && "is-active"]}
+            aria-current={isActive('/clerge') ? 'page' : undefined}
+          >
+            Clergé
+          </a>
+        </li>
+        <li>
+          <a
             href="/a-propos/"
             class:list={["site-nav__link", isActive('/a-propos') && "is-active"]}
             aria-current={isActive('/a-propos') ? 'page' : undefined}

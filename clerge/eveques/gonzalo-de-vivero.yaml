@@ -1,0 +1,41 @@
+slug: gonzalo-de-vivero
+nom: Gonzalo de Vivero
+nom_complet: null
+naissance: '1418'
+deces: '1482'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvivero.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Salamanca, Spain
+  du: '1447-11-15'
+  au: 1482&sup2;
+- titre: recteur de l'université de Salamanque
+  du: null
+  au: null
+- titre: évêque de Salamanque
+  du: '1447-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5883400
+  catholic_hierarchy: bvivero
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:43:45+00:00'
+  completeness: 0.25

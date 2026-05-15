@@ -1,0 +1,46 @@
+slug: pascual-lopez-estaun-estac
+nom: Pascual López Estaún (Estac)
+nom_complet: Pascual López Estaún
+naissance: '1707-10-06'
+deces: '1789-10-10'
+naissance_lieu: Santa Olaria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1756-01-06'
+  consecrateur_principal: antonio-sanchez-sardinero
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blopezes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaca, Spain
+  du: '1755-11-17'
+  au: null
+- titre: Bishop of Huesca, Spain
+  du: '1776-04-15'
+  au: '1789-10-10'
+- titre: évêque de Jaca
+  du: '1755-11-17'
+  au: '1776-04-15'
+- titre: évêque de Huesca
+  du: '1776-04-15'
+  au: '1789-10-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64770395
+  catholic_hierarchy: blopezes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:58:50+00:00'
+  completeness: 0.88

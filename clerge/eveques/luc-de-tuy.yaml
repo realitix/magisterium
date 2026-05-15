@@ -1,0 +1,42 @@
+slug: luc-de-tuy
+nom: Luc de Tuy
+nom_complet: Lucas Tudense
+naissance: '1200'
+deces: '1249'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btudense.html
+  - https://fr.wikipedia.org/wiki/Luc_de_Tuy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tuy, Spain
+  du: Dec 1239&sup3;
+  au: 1249&sup1;
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque de Tui
+  du: '1239-12-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3065693
+  catholic_hierarchy: btudense
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:13:23+00:00'
+  completeness: 0.25

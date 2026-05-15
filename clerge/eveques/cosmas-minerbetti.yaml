@@ -1,0 +1,43 @@
+slug: cosmas-minerbetti
+nom: Cosmas Minerbetti
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Florentiae
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1622-12-26'
+  consecrateur_principal: roberto-ubaldini
+  co_consecrateurs:
+  - alessandro-del-caccia
+  - cosimo-de-rsquo-bardi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bminerb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cortona, Italy
+  du: '1622-12-19'
+  au: Jun 1628&sup2;
+- titre: évêque diocésain
+  du: '1622-12-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779419
+  catholic_hierarchy: bminerb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:58:48+00:00'
+  completeness: 0.75

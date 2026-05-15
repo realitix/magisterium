@@ -1,0 +1,43 @@
+slug: muzio-dandini
+nom: Muzio Dandini
+nom_complet: null
+naissance: '1634-11-08'
+deces: '1712-08-07'
+naissance_lieu: Cesene
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1686-04-15'
+  consecrateur_principal: alessandro-crescenzi
+  co_consecrateurs:
+  - francesco-casati
+  - marcantonio-barbarigo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdandini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Senigallia, Italy
+  du: '1686-04-01'
+  au: '1712-08-07'
+- titre: évêque diocésain
+  du: '1686-04-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26702335
+  catholic_hierarchy: bdandini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:25:43+00:00'
+  completeness: 1.0

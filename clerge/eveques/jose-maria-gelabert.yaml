@@ -1,0 +1,41 @@
+slug: jose-maria-gelabert
+nom: José María Gelabert
+nom_complet: José María Gelabert y Crespo
+naissance: '1820-03-19'
+deces: '1897-11-23'
+naissance_lieu: Santa Fe
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1865-09-21'
+  lieu: Buenos Aires, Diocese of Buenos Aires
+  consecrateur_principal: mariano-jose-de-escalada
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgelab.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paraná, Argentina
+  du: '1865-03-27'
+  au: '1897-11-23'
+- titre: évêque diocésain
+  du: '1865-03-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21059718
+  catholic_hierarchy: bgelab
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:15:52+00:00'
+  completeness: 0.88

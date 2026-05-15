@@ -1,0 +1,51 @@
+slug: jean-de-baviere
+nom: Jean de Bavière
+nom_complet: Johann von Bayern (Rhein) (Pfalz-Simmern)
+naissance: '1429'
+deces: '1475-12-13'
+naissance_lieu: Simmern
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1458-11-26'
+  lieu: Cathedral, Münster, Diocese of Münster
+  consecrateur_principal: johannes-wennecker
+  co_consecrateurs:
+  - johann-christiani-von-schleppegrell-o-s-a
+  - johannes-schulte-von-gultenhaus-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brheinj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Palatinat-Deux-Ponts
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Münster, Germany
+  du: '1457-04-11'
+  au: null
+- titre: Archbishop of Magdeburg, Germany
+  du: null
+  au: '1475-12-13'
+- titre: évêque de Münster
+  du: '1457-04-20'
+  au: null
+- titre: archevêque de Magdebourg
+  du: '1466-01-01'
+  au: '1475-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q86049
+  catholic_hierarchy: brheinj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:10:53+00:00'
+  completeness: 0.88

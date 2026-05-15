@@ -1,0 +1,43 @@
+slug: saverio-palica
+nom: Saverio Palica
+nom_complet: Saverio Palica, O.S.B.
+naissance: '1714-02-12'
+deces: '1791-04-08'
+naissance_lieu: Barletta
+deces_lieu: Andria, Diocese of Andria
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1773-03-14'
+  consecrateur_principal: lazzaro-opizio-pallavicino
+  co_consecrateurs:
+  - francesco-carafa-della-spina-di-traetto
+  - francesco-saverio-de-zelada
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpalicas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Andria, Italy
+  du: '1773-03-08'
+  au: '1791-04-08'
+- titre: évêque diocésain
+  du: '1773-03-08'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q64745593
+  catholic_hierarchy: bpalicas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:04:36+00:00'
+  completeness: 1.0

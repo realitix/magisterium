@@ -1,0 +1,43 @@
+slug: agnellus-broya
+nom: Agnellus Broya
+nom_complet: null
+naissance: '1712-04-08'
+deces: '1767-11-01'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1755-11-23'
+  consecrateur_principal: ferdinando-maria-de-rossi
+  co_consecrateurs:
+  - innocenzo-gorgoni-o-s-b
+  - domenico-giordani-1700
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbroya.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teano, Italy
+  du: '1755-11-17'
+  au: Nov 1767&sup3;
+- titre: Roman Catholic Bishop of Teano
+  du: '1755-11-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777466
+  catholic_hierarchy: bbroya
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:54:30+00:00'
+  completeness: 0.88

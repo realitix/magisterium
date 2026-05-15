@@ -1,0 +1,50 @@
+slug: jean-batiot
+nom: Jean Batiot
+nom_complet: Jean Batiot, C.S.Sp.
+naissance: '1898-10-03'
+deces: '1953-08-31'
+naissance_lieu: Chantonnay, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1947-05-25'
+  consecrateur_principal: louis-le-hunsec
+  co_consecrateurs:
+  - charles-masse
+  - pierre-bonneau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbati.html
+  - https://fr.wikipedia.org/wiki/Jean_Batiot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Majunga, Madagascar
+  du: '1947-02-13'
+  au: '1953-08-31'
+- titre: Titular Bishop of Attalea in Pamphylia
+  du: '1947-02-13'
+  au: null
+- titre: vicaire apostolique
+  du: '1947-02-13'
+  au: '1953-08-31'
+- titre: évêque titulaire d’Attalea en Pamphylia
+  du: '1947-02-13'
+  au: '1953-08-31'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64727606
+  catholic_hierarchy: bbati
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:07:52+00:00'
+  completeness: 1.0

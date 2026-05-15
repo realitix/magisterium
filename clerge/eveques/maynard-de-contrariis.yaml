@@ -1,0 +1,49 @@
+slug: maynard-de-contrariis
+nom: Maynard de Contrariis
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1436-09-23'
+  consecrateur_principal: andres-dias-de-escobar
+  co_consecrateurs:
+  - valentin-narnia
+  - bartolomeo-vincio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcontrar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cervia, Italy
+  du: '1414-04-02'
+  au: 1431&sup1;
+- titre: Bishop of Comacchio, Italy
+  du: '1431-11-21'
+  au: null
+- titre: évêque de Cervia
+  du: '1414-04-11'
+  au: '1431-01-01'
+- titre: évêque de Comacchio
+  du: '1431-11-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779334
+  catholic_hierarchy: bcontrar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:03:44+00:00'
+  completeness: 0.75

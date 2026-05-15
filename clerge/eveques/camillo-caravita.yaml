@@ -1,0 +1,40 @@
+slug: camillo-caravita
+nom: Camillo Caravita
+nom_complet: null
+naissance: '1650-09-04'
+deces: '1713-12-24'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1704-12-28'
+  consecrateur_principal: domenico-de-zaoli-zaulis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcrvtc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vieste, Italy
+  du: '1704-12-15'
+  au: 24 Dec 1713&sup1;
+- titre: Roman Catholic Bishop of Vieste
+  du: '1704-12-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745081
+  catholic_hierarchy: bcrvtc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:16:48+00:00'
+  completeness: 0.88

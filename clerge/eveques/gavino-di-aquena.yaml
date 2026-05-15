@@ -1,0 +1,44 @@
+slug: gavino-di-aquena
+nom: Gavino di Aquena
+nom_complet: null
+naissance: '1665-12-28'
+deces: '1723-08-20'
+naissance_lieu: Cagliari, Archdiocese of Cagliari
+deces_lieu: Bosa, Diocese of Bosa
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1704-05-11'
+  lieu: Santa Maria, Church, Bornova, Archdiocese of Sassari
+  consecrateur_principal: jose-sicardo-martinez-o-s-a
+  co_consecrateurs:
+  - tommaso-carnicer-carnizar-o-p
+  - diego-serafino-posulo-pozuli-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baquena.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bosa, Italy
+  du: '1703-12-17'
+  au: '1723-08-20'
+- titre: évêque diocésain
+  du: '1702-12-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68862461
+  catholic_hierarchy: baquena
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:43:21+00:00'
+  completeness: 1.0

@@ -1,0 +1,34 @@
+slug: aimon-de-chisse
+nom: Aimon de Chissé
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchisse.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Grenoble, France
+  du: '1388-01-20'
+  au: null
+- titre: Bishop of Nice, France
+  du: '1427-10-24'
+  au: 1428&sup1;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bchisse
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:46:56+00:00'
+  completeness: 0.25

@@ -1,0 +1,57 @@
+slug: john-j-conroy
+nom: John J. Conroy
+nom_complet: John Joseph Conroy
+naissance: '1819-07-25'
+deces: '1895-11-20'
+naissance_lieu: Clonaslee, Diocese of Kildare and Leighlin, Ireland
+deces_lieu: New York, Archdiocese of New York, New York
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1865-10-15'
+  lieu: Immaculate Conception, Cathedral, Albany, Diocese of Albany, New York
+  consecrateur_principal: john-mccloskey
+  co_consecrateurs:
+  - john-timon
+  - john-loughlin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bconroy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albany, New York, USA
+  du: '1865-07-07'
+  au: '1877-10-12'
+- titre: Titular Bishop of Curium
+  du: '1878-03-22'
+  au: null
+- titre: Bishop Emeritus of Albany, New York, USA
+  du: null
+  au: '1895-11-20'
+- titre: évêque diocésain
+  du: '1865-07-07'
+  au: '1877-10-12'
+- titre: évêque titulaire de Curium
+  du: '1878-03-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20J.%20Conroy.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6240994
+  catholic_hierarchy: bconroy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:02:30+00:00'
+  completeness: 1.0

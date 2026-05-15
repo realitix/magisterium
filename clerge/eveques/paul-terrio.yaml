@@ -1,0 +1,45 @@
+slug: paul-terrio
+nom: Paul Terrio
+nom_complet: null
+naissance: '1943-05-04'
+deces: null
+naissance_lieu: Montréal, Archdiocese of Montréal, Québec
+deces_lieu: null
+rang: eveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2012-12-12'
+  lieu: Saint Paul, Cathedral, Saint Paul, Diocese of Saint Paul in Alberta
+  consecrateur_principal: richard-william-smith
+  co_consecrateurs:
+  - luc-bouchard
+  - gregory-bittman
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bterrio.html
+  - https://fr.wikipedia.org/wiki/Paul_Terrio
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Paul in Alberta, Canada
+  du: '2012-10-18'
+  au: null
+- titre: évêque de Saint-Paul en Alberta
+  du: '2012-10-18'
+  au: '2022-09-15'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1694787
+  catholic_hierarchy: bterrio
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:55:28+00:00'
+  completeness: 0.88

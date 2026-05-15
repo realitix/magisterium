@@ -1,0 +1,48 @@
+slug: armand-rene-maupoint
+nom: Armand-René Maupoint
+nom_complet: null
+naissance: '1810-12-06'
+deces: '1871-07-10'
+naissance_lieu: Chênehutte-les-Tuffeaux, Diocese of Angers, France
+deces_lieu: Saint-Denis, Diocese of Saint-Denis-de-La Réunion
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1857-06-11'
+  lieu: Saint-Philippe du Roule, Church, Paris, Archdiocese of Paris, France
+  consecrateur_principal: godefroy-brossay-saint-marc
+  co_consecrateurs:
+  - celestine-guynemer-de-la-hailandiere
+  - vital-honore-tirmarche
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaup.html
+  - https://fr.wikipedia.org/wiki/Amand-Ren%C3%A9_Maupoint
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Denis-de-La Réunion
+  du: null
+  au: '1871-07-10'
+- titre: évêque de La Réunion
+  du: '1857-02-14'
+  au: '1871-07-10'
+- titre: évêque diocésain
+  du: '1857-02-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2861740
+  catholic_hierarchy: bmaup
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:39:21+00:00'
+  completeness: 1.0

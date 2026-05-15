@@ -1,0 +1,43 @@
+slug: lorenzo-villani
+nom: Lorenzo Villani
+nom_complet: null
+naissance: '1745-03-25'
+deces: '1823-03-10'
+naissance_lieu: Presicce
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1805-06-30'
+  consecrateur_principal: ferdinando-maria-saluzzo
+  co_consecrateurs:
+  - giovanni-coppola
+  - benedetto-fenaja
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillani.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Monopoli, Italy
+  du: null
+  au: '1823-03-10'
+- titre: évêque diocésain
+  du: '1805-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734043
+  catholic_hierarchy: bvillani
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:39:17+00:00'
+  completeness: 1.0

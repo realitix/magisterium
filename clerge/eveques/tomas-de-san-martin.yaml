@@ -1,0 +1,43 @@
+slug: tomas-de-san-martin
+nom: Tomás de San Martín
+nom_complet: Tomás de San Martín, O.P.
+naissance: '1482-03-07'
+deces: '1559'
+naissance_lieu: Córdoba, Spain
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: Dec 1552&sup2;
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanma.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of La Plata o Charcas, Bolivia
+  du: '1552-06-27'
+  au: 1559&sup2;
+- titre: évêque de de La Plata
+  du: '1552-07-07'
+  au: '1559-01-01'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Tom%C3%A1s%20de%20San%20Mart%C3%ADn.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5494036
+  catholic_hierarchy: bsanma
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:49:42+00:00'
+  completeness: 0.5

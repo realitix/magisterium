@@ -1,0 +1,39 @@
+slug: jean-esquenart
+nom: Jean Esquenart
+nom_complet: null
+naissance: null
+deces: '1492-06-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/besquen.html
+  - https://fr.wikipedia.org/wiki/Jean_Esquenart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sisteron, France
+  du: '1477-01-24'
+  au: 1492&sup2;
+- titre: évêque de Sisteron
+  du: '1477-02-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3171950
+  catholic_hierarchy: besquen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:25:45+00:00'
+  completeness: 0.25

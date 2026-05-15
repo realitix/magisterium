@@ -1,0 +1,44 @@
+slug: angel-molinos-o-p
+nom: Angel Molinos, O.P.
+nom_complet: Angel Molinos
+naissance: '1721-03-01'
+deces: '1786-08-08'
+naissance_lieu: Tórtoles de Esqueva
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1786-02-26'
+  lieu: S. Pablo, Church, Valladolid, Diocese of Valladolid
+  consecrateur_principal: manuel-joaquin-moron
+  co_consecrateurs:
+  - jose-luis-mollinedo
+  - juan-francisco-jimenez-del-rio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmolinos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zamora, Spain
+  du: '1785-12-19'
+  au: '1786-08-08'
+- titre: évêque de Zamora
+  du: '1785-12-19'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64697630
+  catholic_hierarchy: bmolinos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:48+00:00'
+  completeness: 1.0

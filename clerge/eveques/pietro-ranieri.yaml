@@ -1,0 +1,43 @@
+slug: pietro-ranieri
+nom: Pietro Ranieri
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1535-12-07'
+  consecrateur_principal: giovanni-de-rosa
+  co_consecrateurs:
+  - giacomo-ponzetti-poncetti
+  - alfonso-oliva
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/branierip.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Strongoli, Italy
+  du: '1535-11-15'
+  au: 1541&sup1;
+- titre: évêque diocésain
+  du: '1535-11-25'
+  au: '1541-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24962874
+  catholic_hierarchy: branierip
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:02:34+00:00'
+  completeness: 0.75

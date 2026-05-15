@@ -1,0 +1,44 @@
+slug: crispino-agostinucci
+nom: Crispino Agostinucci
+nom_complet: null
+naissance: '1797-10-25'
+deces: '1856-04-26'
+naissance_lieu: Urbino, Archdiocese of Urbino
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1850'
+  lieu: Urbino, Archdiocese of Urbino
+  consecrateur_principal: alessandro-angeloni
+  co_consecrateurs:
+  - bonifacio-cajani
+  - giovanni-carlo-gentili
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bagostc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montefeltro, Italy
+  du: '1849-11-05'
+  au: '1856-04-26'
+- titre: évêque diocésain
+  du: '1849-11-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5186057
+  catholic_hierarchy: bagostc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:23:02+00:00'
+  completeness: 1.0

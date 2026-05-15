@@ -1,0 +1,51 @@
+slug: hugues-de-combarel
+nom: Hugues de Combarel
+nom_complet: Hugues Combarel
+naissance: null
+deces: '1440'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcombarel.html
+  - https://fr.wikipedia.org/wiki/Hugues_de_Combarel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: '1419-11-29'
+  au: null
+- titre: Bishop of Béziers, France
+  du: '1422-01-12'
+  au: null
+- titre: Bishop of Poitiers, France
+  du: '1424-02-14'
+  au: null
+- titre: évêque de Poitiers
+  du: '1424-02-23'
+  au: '1440-01-01'
+- titre: évêque de Tulle
+  du: '1416-01-01'
+  au: '1422-01-21'
+- titre: évêque de Béziers
+  du: '1422-01-21'
+  au: '1424-02-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96781482
+  catholic_hierarchy: bcombarel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:00:12+00:00'
+  completeness: 0.25

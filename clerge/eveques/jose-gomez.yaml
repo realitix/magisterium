@@ -1,0 +1,44 @@
+slug: jose-gomez
+nom: José Gómez
+nom_complet: null
+naissance: '1697-03-26'
+deces: '1754-10-14'
+naissance_lieu: Rillo
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1754-04-21'
+  lieu: Zaragoza, Archdiocese of Zaragoza
+  consecrateur_principal: francisco-ignacio-anoa-y-busto
+  co_consecrateurs:
+  - antonio-sanchez-sardinero
+  - juan-ladron-de-guevara-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgomezjo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Zamora, Spain
+  du: '1753-12-10'
+  au: '1754-10-14'
+- titre: évêque de Zamora
+  du: '1753-12-10'
+  au: '1754-10-14'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735387
+  catholic_hierarchy: bgomezjo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:32:04+00:00'
+  completeness: 1.0

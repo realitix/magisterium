@@ -1,0 +1,40 @@
+slug: hugh-pateshull
+nom: Hugh Pateshull
+nom_complet: Hugh de Pateshull
+naissance: '1150'
+deces: '1241-12-08'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1240-07-01'
+  consecrateur_principal: edmund-rich
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpatesh.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: Dec 1239&sup3;
+  au: '1241-12-08'
+- titre: évêque de Coventry et Lichfield
+  du: '1239-12-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16202836
+  catholic_hierarchy: bpatesh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:13:23+00:00'
+  completeness: 0.75

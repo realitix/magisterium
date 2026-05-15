@@ -1,0 +1,47 @@
+slug: antonio-salomone
+nom: Antonio Salomone
+nom_complet: null
+naissance: '1803-04-15'
+deces: '1872-03-09'
+naissance_lieu: Avellino
+deces_lieu: null
+rang: archeveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1845-01-26'
+  lieu: Ss. Dominique et Sixte, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: costantino-patrizi-naro
+  co_consecrateurs:
+  - giovanni-giuseppe-canali
+  - giovanni-battista-rosani-sch-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalom.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Salerno (-Acerno), Italy
+  du: null
+  au: '1872-03-09'
+- titre: évêque diocésain
+  du: '1844-11-09'
+  au: null
+- titre: archevêque de Salerne
+  du: '1857-12-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55281078
+  catholic_hierarchy: bsalom
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:45:02+00:00'
+  completeness: 1.0

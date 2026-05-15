@@ -1,0 +1,42 @@
+slug: luis-osorio
+nom: Luis Osorio
+nom_complet: Luis de Acuña y Osorio
+naissance: '1435'
+deces: '1496-10-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q217196
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bosoriol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaén, Spain
+  du: '1483-01-15'
+  au: '1496-10-09'
+- titre: évêque de Jaén
+  du: '1483-01-24'
+  au: '1496-10-18'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Osorio%20%28sin%20leyenda%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2892614
+  catholic_hierarchy: bosoriol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:58:41+00:00'
+  completeness: 0.38

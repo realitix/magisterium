@@ -1,0 +1,50 @@
+slug: pankraz-von-sinzenhofen
+nom: Pankraz von Sinzenhofen
+nom_complet: null
+naissance: '1500'
+deces: '1548-07-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1539-04-25'
+  consecrateur_principal: hieronymus-meitting
+  co_consecrateurs:
+  - johann-kluspeck-o-cist
+  - peter-stoll-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsinz.html
+  - https://fr.wikipedia.org/wiki/Pancrace_de_Sinzenhofen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Regensburg, Germany
+  du: null
+  au: '1548-07-24'
+- titre: évêque diocésain
+  du: '1538-05-05'
+  au: null
+- titre: évêque de Ratisbonne
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1636058
+  catholic_hierarchy: bsinz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:20:43+00:00'
+  completeness: 0.88

@@ -1,0 +1,48 @@
+slug: lajos-shvoy
+nom: Lajos Shvoy
+nom_complet: null
+naissance: '1879-03-09'
+deces: '1968-01-21'
+naissance_lieu: Budapest, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1927-08-01'
+  lieu: Budapest, Archdiocese of Esztergom
+  consecrateur_principal: cesare-orsenigo
+  co_consecrateurs:
+  - nandor-rott
+  - medard-kohl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bshvoy.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Székesfehérvár (Albareale), Hungary
+  du: '1927-06-20'
+  au: '1968-01-21'
+- titre: évêque de Székesfehérvár
+  du: '1927-06-20'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Shvoy%20Lajos%20fiatalon.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1287666
+  catholic_hierarchy: bshvoy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:15:50+00:00'
+  completeness: 1.0

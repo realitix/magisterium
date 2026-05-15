@@ -1,0 +1,47 @@
+slug: jozsef-krautmann
+nom: József Krautmann
+nom_complet: null
+naissance: '1789-09-07'
+deces: '1855-07-01'
+naissance_lieu: Beczkó
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1852-05-30'
+  lieu: Esztergom, Archdiocese of Esztergom
+  consecrateur_principal: jan-krstitel-scitovszky
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkrautm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1852-03-15'
+  au: '1855-07-01'
+- titre: Titular Bishop of Knin (Tinin), Croatia
+  du: '1852-03-15'
+  au: null
+- titre: évêque titulaire
+  du: '1852-03-15'
+  au: null
+- titre: évêque auxiliaire
+  du: '1852-03-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735096
+  catholic_hierarchy: bkrautm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:21:11+00:00'
+  completeness: 0.88

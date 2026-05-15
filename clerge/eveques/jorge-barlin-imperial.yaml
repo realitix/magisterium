@@ -1,0 +1,48 @@
+slug: jorge-barlin-imperial
+nom: Jorge Barlin Imperial
+nom_complet: Jorge Barlin
+naissance: '1850-04-23'
+deces: '1909-09-04'
+naissance_lieu: Baáo
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1906-06-29'
+  lieu: Son Domingo, Church, Manila, Archdiocese of Manila
+  consecrateur_principal: dom-ambrose-agius
+  co_consecrateurs:
+  - jeremiah-james-harty
+  - frederick-zadok-rooker
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarlin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nueva Caceres, Philippines
+  du: '1905-12-14'
+  au: '1909-09-04'
+- titre: Bishop of New Caceres
+  du: '1905-12-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mnsgr%2C%20Jorge%20Barlin.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q10950296
+  catholic_hierarchy: bbarlin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:03:38+00:00'
+  completeness: 1.0

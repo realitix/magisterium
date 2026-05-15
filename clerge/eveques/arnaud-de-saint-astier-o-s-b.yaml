@@ -1,0 +1,44 @@
+slug: arnaud-de-saint-astier-o-s-b
+nom: Arnaud de Saint-Astier, O.S.B.
+nom_complet: Arnaud de Saint-Astier
+naissance: null
+deces: '1333-07-06'
+naissance_lieu: Island, Château, Perigord
+deces_lieu: Rocamadour
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1317-10-16'
+  lieu: Cathedral, Avignon, Diocese of Avignon
+  consecrateur_principal: beranger-fredol-l-ancien
+  co_consecrateurs:
+  - guillaume-fredol-o-s-b
+  - gerard-roger
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsastier.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tulle, France
+  du: '1317-08-18'
+  au: '1333-07-06'
+- titre: évêque de Tulle
+  du: '1317-08-26'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q96829240
+  catholic_hierarchy: bsastier
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:55:26+00:00'
+  completeness: 0.88

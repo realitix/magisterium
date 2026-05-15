@@ -1,0 +1,48 @@
+slug: laszlo-varga
+nom: László Varga
+nom_complet: null
+naissance: '1956-08-17'
+deces: null
+naissance_lieu: Tapolca, Archdiocese of Veszprém
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '2017-05-13'
+  lieu: Cathedral, Kaposvár, Diocese of Kaposvár
+  consecrateur_principal: peter-erdo
+  co_consecrateurs:
+  - alberto-bottari-de-castello
+  - bela-balas
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvargal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Kaposvár, Hungary
+  du: '2017-03-25'
+  au: null
+- titre: évêque diocésain
+  du: '2017-03-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/VargaLaszloFotoThalerTamas.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q29021545
+  catholic_hierarchy: bvargal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:25:37+00:00'
+  completeness: 0.88

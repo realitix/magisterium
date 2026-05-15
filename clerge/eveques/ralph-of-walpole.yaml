@@ -1,0 +1,43 @@
+slug: ralph-of-walpole
+nom: Ralph of Walpole
+nom_complet: Ralph Walpole
+naissance: null
+deces: '1302-03-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1289-03-20'
+  consecrateur_principal: john-peckham-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwalpole.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ely, England, Great Britain
+  du: '1299-07-15'
+  au: '1302-03-20'
+- titre: évêque d'Ely
+  du: '1299-07-22'
+  au: null
+- titre: évêque de Norwich
+  du: '1288-11-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7288232
+  catholic_hierarchy: bwalpole
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:49:32+00:00'
+  completeness: 0.75

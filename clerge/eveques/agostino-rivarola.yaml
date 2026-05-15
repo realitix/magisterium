@@ -1,0 +1,43 @@
+slug: agostino-rivarola
+nom: Agostino Rivarola
+nom_complet: null
+naissance: '1683-05-26'
+deces: '1745-12-31'
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: Q174306
+tampon: ordo_validus
+sacre:
+  date: '1730-12-21'
+  consecrateur_principal: nicolo-maria-lercari
+  co_consecrateurs:
+  - giuseppe-saporiti
+  - antonio-saverio-gentili
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brivarola.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Albenga, Italy
+  du: '1730-12-11'
+  au: '1745-12-31'
+- titre: évêque d'Albenga-Imperia
+  du: '1730-12-11'
+  au: '1745-12-31'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707883
+  catholic_hierarchy: brivarola
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:16:38+00:00'
+  completeness: 1.0

@@ -15,6 +15,20 @@ build/
 _raw_html/
 magisterium/_metadata/errors.log
 magisterium/_metadata/phase-state.json
+
+# Caches scraping clergé — re-générables, gros (>1.5 GB), inutiles sur remote
+clerge/_raw/_ch_cache/
+clerge/_raw/_gc_cache/
+clerge/_raw/_wikidata_cache/
+clerge/_raw/_wikidata_pretres_cache/
+clerge/_raw/_tradi_cache/
+# JSONL bruts du scraping clergé — régénérables via `just clerge-*`. Le corpus
+# canonique versionné est dans clerge/eveques/, clerge/pretres/, _metadata/.
+# (catholic_hierarchy.jsonl dépasse 100 MB et bloque le push GitHub.)
+clerge/_raw/*.jsonl
+# Logs et progress files temporaires
+clerge/_metadata/photo_errors.log
+clerge/_metadata/photo_progress.json
 # PDFs : versionnés depuis le pipeline OCR. Les scans bruts sont passés sous
 # tesseract via ocrmypdf (couche texte invisible ajoutée), les PDFs > 100 MB
 # remplacés par leurs équivalents texte natif (cf. missel romain 1962 — version

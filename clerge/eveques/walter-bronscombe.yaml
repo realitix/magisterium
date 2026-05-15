@@ -1,0 +1,43 @@
+slug: walter-bronscombe
+nom: Walter Bronscombe
+nom_complet: Walter Branscombe
+naissance: '1220'
+deces: '1280-07-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1258-03-10'
+  consecrateur_principal: boniface-of-savoy
+  co_consecrateurs:
+  - giles-of-bridport
+  - william-of-bitton-i
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbronsc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: null
+  au: '1280-07-22'
+- titre: évêque d'Exeter
+  du: '1258-03-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7964365
+  catholic_hierarchy: bbronsc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:53:46+00:00'
+  completeness: 0.88

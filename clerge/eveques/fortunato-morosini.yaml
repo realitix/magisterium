@@ -1,0 +1,47 @@
+slug: fortunato-morosini
+nom: Fortunato Morosini
+nom_complet: Fortunato Morosini, O.S.B.
+naissance: '1665-11-29'
+deces: '1727-06-25'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: Santa Giustina, Monastery, Padova, Diocese of Padova {Padua}
+rang: eveque
+nationalite: Q4948
+tampon: ordo_validus
+sacre:
+  date: '1710-04-27'
+  lieu: Gesù, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: fabrizio-paolucci-1651
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmorosf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Treviso, Italy
+  du: '1710-04-07'
+  au: null
+- titre: Bishop of Brescia, Italy
+  du: '1723-03-15'
+  au: '1727-06-25'
+- titre: évêque diocésain
+  du: '1723-03-15'
+  au: null
+- titre: évêque diocésain
+  du: '1710-04-07'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3748840
+  catholic_hierarchy: bmorosf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:13:31+00:00'
+  completeness: 0.88

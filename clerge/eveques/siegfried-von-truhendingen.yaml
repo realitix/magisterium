@@ -1,0 +1,51 @@
+slug: siegfried-von-truhendingen
+nom: Siegfried von Truhendingen
+nom_complet: null
+naissance: '1050'
+deces: '1150-08-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  date: '1147-06-25'
+  consecrateur_principal: heinrich-felix-von-harburg
+  co_consecrateurs:
+  - non-indexe-b1812254
+  - gebhard-ii-von-grogling
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btruhend.html
+  - https://fr.wikipedia.org/wiki/Siegfried_von_Truhendingen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Würzburg, Germany
+  du: Mar 1147&sup3;
+  au: 20 Aug 1150&#8311;
+- titre: évêque diocésain
+  du: '1147-03-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/SigfridusQuernfurtbw.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1402202
+  catholic_hierarchy: btruhend
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:12:29+00:00'
+  completeness: 0.88

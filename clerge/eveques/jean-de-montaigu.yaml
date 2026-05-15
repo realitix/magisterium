@@ -1,0 +1,45 @@
+slug: jean-de-montaigu
+nom: Jean de Montaigu
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmontaj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Montaigu_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Apt, France
+  du: '1494-08-08'
+  au: 1515&sup1;
+- titre: Bishop Emeritus of Apt, France
+  du: null
+  au: 1524&sup2;
+- titre: évêque d'Apt
+  du: '1494-08-17'
+  au: '1515-01-01'
+- titre: recteur du Comtat Venaissin
+  du: '1511-01-01'
+  au: '1513-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30731138
+  catholic_hierarchy: bmontaj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:06:37+00:00'
+  completeness: 0.25

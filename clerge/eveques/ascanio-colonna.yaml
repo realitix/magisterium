@@ -1,0 +1,70 @@
+slug: ascanio-colonna
+nom: Ascanio Colonna
+nom_complet: Ascanio Cardinal Colonna
+naissance: '1560-04-03'
+deces: '1608-05-17'
+naissance_lieu: null
+deces_lieu: Palace of the Bishops, Palestrina, Suburbicarian See of Palestrina, Italy
+rang: cardinal
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1606-06-11'
+  lieu: S. Maria degli Angeli, Roma, Diocese of Roma {Rome}, Italy
+  co_consecrateurs:
+  - ottavio-bandini
+  - carlo-conti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcolonnaa.html
+  - https://fr.wikipedia.org/wiki/Ascanio_Colonna
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Deacon of San Nicola in Carcere
+  du: '1588-12-05'
+  au: null
+- titre: Cardinal-Deacon of Santa Maria in Cosmedin
+  du: '1591-01-14'
+  au: null
+- titre: Archpriest of the Arcibasilica di San Giovanni in Laterano {Saint John Lateran
+    Basilica}
+  du: '1595'
+  au: null
+- titre: Cardinal-Priest of Santa Maria in Cosmedin
+  du: '1599-11-08'
+  au: null
+- titre: Cardinal-Priest of Santa Pudenziana
+  du: '1599-12-15'
+  au: null
+- titre: Cardinal-Priest of Santa Croce in Gerusalemme
+  du: '1606-01-30'
+  au: null
+- titre: Cardinal-Bishop of Palestrina
+  du: '1606-06-05'
+  au: '1608-05-17'
+- titre: cardinal-évêque
+  du: '1606-06-05'
+  au: '1608-05-17'
+- titre: cardinal
+  du: '1586-11-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ascanio%20Colonna%20%28cardinale%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2866348
+  catholic_hierarchy: bcolonnaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:59:42+00:00'
+  completeness: 0.88

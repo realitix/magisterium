@@ -1,0 +1,55 @@
+slug: wilhelm-von-reichenau
+nom: Wilhelm von Reichenau
+nom_complet: null
+naissance: '1426'
+deces: '1496-11-18'
+naissance_lieu: Burggriesbach
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1464-05-27'
+  lieu: Cathedral, Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: peter-von-schaumberg
+  co_consecrateurs:
+  - ulrich-aumayer-aumair-o-f-m
+  - johannes-frey-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breich.html
+  - https://fr.wikipedia.org/wiki/Wilhelm_von_Reichenau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eichstätt, Germany
+  du: null
+  au: '1496-11-18'
+- titre: doyen du chapitre
+  du: '1459-01-01'
+  au: null
+- titre: Q113323165
+  du: '1464-01-25'
+  au: '1496-01-01'
+- titre: chanoine
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20von%20Reichenau%20Bischof%20von%20Eichst%C3%A4tt%20im%20Gundekarianum.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2576015
+  catholic_hierarchy: breich
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:26+00:00'
+  completeness: 0.88

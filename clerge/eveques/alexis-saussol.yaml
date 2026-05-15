@@ -1,0 +1,44 @@
+slug: alexis-saussol
+nom: Alexis Saussol
+nom_complet: null
+naissance: '1759-02-06'
+deces: '1836-02-07'
+naissance_lieu: Dourgne
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1819-10-03'
+  consecrateur_principal: jean-charles-de-coucy
+  co_consecrateurs:
+  - jean-claude-leblanc-de-beaulieu
+  - charles-mannay
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsauss.html
+  - https://fr.wikipedia.org/wiki/Alexis_Saussol
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sées {Séez}, France
+  du: null
+  au: '1836-02-07'
+- titre: évêque diocésain
+  du: '1817-09-09'
+  au: '1836-02-07'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55979292
+  catholic_hierarchy: bsauss
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:56:09+00:00'
+  completeness: 1.0

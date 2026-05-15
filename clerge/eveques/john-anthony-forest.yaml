@@ -1,0 +1,48 @@
+slug: john-anthony-forest
+nom: John Anthony Forest
+nom_complet: null
+naissance: '1838-12-26'
+deces: '1911-03-11'
+naissance_lieu: Saint Martin la Sauveté, France
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1895-10-28'
+  lieu: S. Fernando, Cathedral, San Antonio, Diocese of San Antonio, Texas
+  consecrateur_principal: francois-janssens
+  co_consecrateurs:
+  - edward-fitzgerald
+  - nicolaus-aloysius-gallagher
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforest.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San Antonio, Texas, USA
+  du: '1895-08-27'
+  au: '1911-03-11'
+- titre: Roman Catholic Bishop of San Antonio
+  du: '1895-08-27'
+  au: '1911-03-11'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Anthony%20Forest.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15439173
+  catholic_hierarchy: bforest
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:59+00:00'
+  completeness: 1.0

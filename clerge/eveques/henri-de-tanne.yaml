@@ -1,0 +1,45 @@
+slug: henri-de-tanne
+nom: Henri de Tanne
+nom_complet: Heinrich von Tanne
+naissance: '1190'
+deces: '1248-08-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btanne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: 1233&sup2;
+  au: '1248-08-25'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1233-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Truchsessenchronik%20Cod%20Don%20590%20106.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1599690
+  catholic_hierarchy: btanne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:50:18+00:00'
+  completeness: 0.38

@@ -1,0 +1,54 @@
+slug: klaus-kung
+nom: Klaus Küng
+nom_complet: Nicolaus Küng
+naissance: '1940-09-17'
+deces: null
+naissance_lieu: Bregenz
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1989-03-05'
+  lieu: S. Nicolas, Cathedral, Feldkirch, Diocese of Feldkirch
+  consecrateur_principal: bruno-wechner
+  co_consecrateurs:
+  - georg-eder
+  - reinhold-stecher
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkung.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Feldkirch, Austria
+  du: '1989-01-21'
+  au: null
+- titre: Bishop of Sankt Pölten, Austria
+  du: '2004-10-07'
+  au: null
+- titre: évêque diocésain
+  du: '1989-01-21'
+  au: null
+- titre: évêque de Sankt Pölten
+  du: '2004-10-07'
+  au: '2018-05-17'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Klaus%20K%C3%BCng%202010.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q45489
+  catholic_hierarchy: bkung
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:23:32+00:00'
+  completeness: 0.88

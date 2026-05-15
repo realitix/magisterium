@@ -1,0 +1,52 @@
+slug: pierre-joatton
+nom: Pierre Joatton
+nom_complet: Pierre Jacques Joatton, Ist. del Prado
+naissance: '1930-07-20'
+deces: '2013-11-22'
+naissance_lieu: Lyon, Archdiocese of Lyon (-Vienne)
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1988-06-26'
+  lieu: Palais des Sports, Saint-Etienne, Diocese of Saint-Etienne
+  consecrateur_principal: albert-decourtray
+  co_consecrateurs:
+  - paul-marie-rousset
+  - didier-leon-marchand
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjoatton.html
+  - https://fr.wikipedia.org/wiki/Pierre_Joatton
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Etienne, France
+  du: '1988-04-20'
+  au: null
+- titre: Bishop Emeritus of Saint-Etienne, France
+  du: null
+  au: '2013-11-22'
+- titre: évêque diocésain
+  du: '1988-01-01'
+  au: '2006-06-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Pierre%20Joatton.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1427769
+  catholic_hierarchy: bjoatton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:02:05+00:00'
+  completeness: 1.0

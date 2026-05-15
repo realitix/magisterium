@@ -1,0 +1,43 @@
+slug: louis-de-la-haye
+nom: Louis de La Haye
+nom_complet: null
+naissance: null
+deces: '1588-01-26'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blhayel.html
+  - https://fr.wikipedia.org/wiki/Louis_de_La_Haye_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vannes, France
+  du: '1575-08-03'
+  au: '1588-01-26'
+- titre: évêque diocésain
+  du: '1575-08-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monseigneur%20Louis%20de%20la%20Haye%20%C3%A9v%C3%AAque%20de%20Vannes.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q28497107
+  catholic_hierarchy: blhayel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:49+00:00'
+  completeness: 0.38

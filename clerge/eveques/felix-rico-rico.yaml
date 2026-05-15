@@ -1,0 +1,43 @@
+slug: felix-rico-rico
+nom: Félix Rico Rico
+nom_complet: null
+naissance: '1733-11-20'
+deces: '1799-05-31'
+naissance_lieu: Castalla
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1795-09-13'
+  consecrateur_principal: antonio-despuig-y-dameto
+  co_consecrateurs:
+  - lorenzo-gomez-haedo
+  - manuel-maria-trujillo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brico.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Teruel, Spain
+  du: '1795-06-01'
+  au: '1799-05-31'
+- titre: évêque de Teruel
+  du: '1795-06-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751496
+  catholic_hierarchy: brico
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:13:33+00:00'
+  completeness: 1.0

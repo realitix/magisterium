@@ -1,0 +1,50 @@
+slug: jodok-wagenhauer
+nom: Jodok Wagenhauer
+nom_complet: null
+naissance: '1580'
+deces: '1635-01-19'
+naissance_lieu: Fladrengen
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1622-09-18'
+  lieu: Würzburg, Diocese of Würzburg
+  consecrateur_principal: johann-gottfried-von-aschhausen
+  co_consecrateurs:
+  - friedrich-forner
+  - georg-christoph-rosch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwagen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Würzburg, Germany
+  du: '1622-05-23'
+  au: '1635-01-19'
+- titre: Titular Bishop of Augustopolis in Phrygia
+  du: '1622-05-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1622-05-23'
+  au: null
+- titre: évêque titulaire
+  du: '1622-05-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763942
+  catholic_hierarchy: bwagen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:48:12+00:00'
+  completeness: 0.88

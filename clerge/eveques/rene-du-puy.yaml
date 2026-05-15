@@ -1,0 +1,39 @@
+slug: rene-du-puy
+nom: René du Puy
+nom_complet: null
+naissance: null
+deces: '1524-08-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupuyr.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_du_Puy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodève, France
+  du: '1520-12-05'
+  au: Aug 1524&sup3;
+- titre: évêque diocésain
+  du: '1520-12-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61763944
+  catholic_hierarchy: bdupuyr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:36+00:00'
+  completeness: 0.25

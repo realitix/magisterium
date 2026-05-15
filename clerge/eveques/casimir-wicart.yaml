@@ -1,0 +1,52 @@
+slug: casimir-wicart
+nom: Casimir Wicart
+nom_complet: Casimir-Alexis-Joseph Wicart
+naissance: '1799-03-04'
+deces: '1879-04-08'
+naissance_lieu: Méteren
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1845-06-11'
+  lieu: Cathedral, Cambrai, Archdiocese of Cambrai
+  consecrateur_principal: pierre-giraud-1791
+  co_consecrateurs:
+  - jean-marie-mioland
+  - joseph-armand-gignoux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwicart.html
+  - https://fr.wikipedia.org/wiki/Casimir_Wicart
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop Emeritus of Laval, France
+  du: null
+  au: '1879-04-08'
+- titre: évêque de Laval
+  du: '1855-09-12'
+  au: '1876-05-03'
+- titre: évêque de Fréjus
+  du: '1845-03-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Casimir%20Wicart.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2941064
+  catholic_hierarchy: bwicart
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:55:07+00:00'
+  completeness: 1.0

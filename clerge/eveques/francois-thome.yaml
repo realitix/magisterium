@@ -1,0 +1,44 @@
+slug: francois-thome
+nom: François Thomé
+nom_complet: null
+naissance: '1505'
+deces: '1591-02-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1574-02-28'
+  consecrateur_principal: pierre-de-gondi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bthome.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Thom%C3%A9
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Malo, France
+  du: '1573-11-16'
+  au: '1586'
+- titre: Bishop Emeritus of Saint-Malo, France
+  du: null
+  au: '1591-02-17'
+- titre: évêque diocésain
+  du: '1573-11-26'
+  au: '1586-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16027363
+  catholic_hierarchy: bthome
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:58:10+00:00'
+  completeness: 0.75

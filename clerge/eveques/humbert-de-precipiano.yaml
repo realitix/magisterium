@@ -1,0 +1,54 @@
+slug: humbert-de-precipiano
+nom: Humbert de Precipiano
+nom_complet: Humbertus Guilielmus de Precipiano
+naissance: '1627-09-12'
+deces: '1711-06-09'
+naissance_lieu: Rougemont, France
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1683-03-21'
+  consecrateur_principal: alphonse-de-berghes
+  co_consecrateurs:
+  - jean-ferdinand-van-beughem
+  - reginald-cools-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpreci.html
+  - https://fr.wikipedia.org/wiki/Humbert_de_Precipiano
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brugge {Bruges}, Belgium
+  du: '1682-12-07'
+  au: null
+- titre: Archbishop of Mechelen, Belgium
+  du: null
+  au: '1711-06-09'
+- titre: archevêque de Malines
+  du: '1689-07-12'
+  au: null
+- titre: évêque de Bruges
+  du: '1682-12-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Humbert-Guillaume%20de%20Precipiano%2C%20RP-P-1912-773.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1158735
+  catholic_hierarchy: bpreci
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:25+00:00'
+  completeness: 1.0

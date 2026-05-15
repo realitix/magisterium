@@ -1,0 +1,47 @@
+slug: gyorgy-jakusics
+nom: György Jakusics
+nom_complet: null
+naissance: '1609'
+deces: '1647-11-21'
+naissance_lieu: Pruszka, Diocese of Nitra, Slovakia
+deces_lieu: Eger, Diocese of Eger
+rang: eveque
+nationalite: Q171150
+tampon: ordo_validus
+sacre:
+  date: '1645-09-21'
+  lieu: Sant'Appolinare, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giovanni-battista-scanaroli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjakos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eger, Hungary
+  du: '1645-09-18'
+  au: '1647-11-21'
+- titre: évêque de Sirmium
+  du: '1635-01-01'
+  au: null
+- titre: évêque de Veszprém
+  du: '1638-01-01'
+  au: null
+- titre: évêque d'Eger
+  du: '1645-09-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1099443
+  catholic_hierarchy: bjakos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:57:52+00:00'
+  completeness: 0.75

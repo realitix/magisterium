@@ -1,0 +1,51 @@
+slug: mellon-jolly
+nom: Mellon Jolly
+nom_complet: null
+naissance: '1795-05-19'
+deces: '1872-04-22'
+naissance_lieu: Sézanne, [Constitutional Diocese of Marne]
+deces_lieu: Fontainebleu
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1836-08-21'
+  lieu: Cathedral, Meaux, Diocese of Meaux
+  consecrateur_principal: romain-frederic-gallard
+  co_consecrateurs:
+  - marie-joseph-francois-victor-monyer-de-prilly
+  - charles-de-forbin-janson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjolly.html
+  - https://fr.wikipedia.org/wiki/Mellon_Jolly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Sens (-Auxerre), France
+  du: null
+  au: '1867-03-18'
+- titre: Archbishop Emeritus of Sens (-Auxerre), France
+  du: null
+  au: '1872-04-22'
+- titre: évêque diocésain
+  du: '1836-06-01'
+  au: null
+- titre: archevêque de Sens et Auxerre
+  du: '1843-11-23'
+  au: '1867-03-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3305193
+  catholic_hierarchy: bjolly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:02:38+00:00'
+  completeness: 1.0

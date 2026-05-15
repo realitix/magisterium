@@ -1,0 +1,43 @@
+slug: hugues-des-hazards
+nom: Hugues des Hazards
+nom_complet: Hugo de Hazard
+naissance: '1454'
+deces: '1517-10-14'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhazard.html
+  - https://fr.wikipedia.org/wiki/Hugues_des_Hazards
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Toul, France
+  du: '1506-05-11'
+  au: '1517-10-14'
+- titre: évêque de Toul
+  du: '1506-08-18'
+  au: '1517-10-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20hugues%20des%20hazard.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3142760
+  catholic_hierarchy: bhazard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:36:52+00:00'
+  completeness: 0.38

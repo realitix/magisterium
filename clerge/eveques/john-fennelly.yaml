@@ -1,0 +1,49 @@
+slug: john-fennelly
+nom: John Fennelly
+nom_complet: null
+naissance: '1816'
+deces: '1868-01-23'
+naissance_lieu: Casteltown, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1841-06-27'
+  consecrateur_principal: daniel-murray
+  co_consecrateurs:
+  - michael-slattery
+  - john-murphy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfenel.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Madras, India
+  du: '1841-04-30'
+  au: '1868-01-23'
+- titre: Titular Bishop of Castoria
+  du: '1841-04-30'
+  au: null
+- titre: évêque titulaire
+  du: '1841-04-30'
+  au: null
+- titre: vicaire apostolique
+  du: '1841-04-30'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23913820
+  catholic_hierarchy: bfenel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:36:00+00:00'
+  completeness: 0.88

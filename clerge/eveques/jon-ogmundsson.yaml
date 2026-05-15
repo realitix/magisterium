@@ -1,0 +1,46 @@
+slug: jon-ogmundsson
+nom: Jón Ögmundsson
+nom_complet: St. Jón Ögmundarson (Ögmundsson)
+naissance: '1052'
+deces: '1121-04-23'
+naissance_lieu: Breidabólsstadur, Diocese of Skálholt
+deces_lieu: null
+rang: eveque
+nationalite: Q62389
+tampon: ordo_validus
+sacre:
+  date: '1106-04-29'
+  lieu: Lund, Archdiocese of Lund, Sweden
+  consecrateur_principal: asser-de-lund
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bogmu.html
+  - https://fr.wikipedia.org/wiki/J%C3%B3n_%C3%96gmundsson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hólar, Iceland
+  du: 1106&sup1;
+  au: '1121-04-23'
+- titre: évêque diocésain
+  du: '1106-01-01'
+  au: '1121-04-30'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Ogmundsson%20Icelandic%20bishop.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q522391
+  catholic_hierarchy: bogmu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:47:06+00:00'
+  completeness: 0.75

@@ -1,0 +1,47 @@
+slug: francis-murphy
+nom: Francis Murphy
+nom_complet: null
+naissance: '1795-05-20'
+deces: '1858-04-26'
+naissance_lieu: Navan, Diocese of Meath, Ireland
+deces_lieu: Diocese of Adelaide
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1844-09-08'
+  lieu: St. Mary's, Cathedral, Sydney, Archdiocese of Sydney
+  consecrateur_principal: john-polding
+  co_consecrateurs:
+  - robert-willson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmurphyf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Adelaide, Australia
+  du: '1842-04-22'
+  au: '1858-04-26'
+- titre: évêque diocésain
+  du: '1842-04-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Murphy.jpeg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q5481987
+  catholic_hierarchy: bmurphyf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:21:13+00:00'
+  completeness: 1.0

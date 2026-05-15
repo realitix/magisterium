@@ -1,0 +1,54 @@
+slug: austin-dowling
+nom: Austin Dowling
+nom_complet: null
+naissance: '1868-04-06'
+deces: '1930-11-29'
+naissance_lieu: New York, NY, Archdiocese of New York, New York
+deces_lieu: Saint Paul, Archdiocese of Saint Paul, Minnesota
+rang: archeveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1912-04-25'
+  lieu: Sts. Peter and Paul, Cathedral, Providence, Diocese of Providence, Rhode Island
+  consecrateur_principal: matthew-harkins
+  co_consecrateurs:
+  - james-joseph-davis
+  - louis-sebastian-walsh
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdowling.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Des Moines, Iowa, USA
+  du: '1912-01-31'
+  au: null
+- titre: Archbishop of Saint Paul, Minnesota, USA
+  du: '1919-03-10'
+  au: '1930-11-29'
+- titre: évêque diocésain
+  du: '1912-01-31'
+  au: null
+- titre: archevêque catholique
+  du: '1919-03-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/AustinDowling.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4823060
+  catholic_hierarchy: bdowling
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:59+00:00'
+  completeness: 1.0

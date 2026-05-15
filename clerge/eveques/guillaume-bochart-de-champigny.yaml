@@ -1,0 +1,44 @@
+slug: guillaume-bochart-de-champigny
+nom: Guillaume Bochart de Champigny
+nom_complet: null
+naissance: '1650'
+deces: '1705-07-04'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1693-11-30'
+  consecrateur_principal: jacques-nicolas-colbert
+  co_consecrateurs:
+  - louis-marcel-de-coetlogon
+  - armand-bazin-de-bezons-1654
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbodc.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Bochart_de_Champigny
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valence, France
+  du: null
+  au: '1705-07-04'
+- titre: évêque de Valence
+  du: '1693-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22970534
+  catholic_hierarchy: bbodc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:33:04+00:00'
+  completeness: 0.88

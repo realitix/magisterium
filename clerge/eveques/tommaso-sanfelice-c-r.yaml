@@ -1,0 +1,43 @@
+slug: tommaso-sanfelice-c-r
+nom: Tommaso Sanfelice, C.R.
+nom_complet: Tommaso Sanfelice
+naissance: '1581'
+deces: '1620-12-12'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-12-06'
+  consecrateur_principal: agostino-cardinal-galamini-o-p
+  co_consecrateurs:
+  - filippo-bigli-bili-c-r
+  - giovanni-tommaso-eustachio-c-o
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsnfelt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montepeloso, Italy
+  du: '1615-12-02'
+  au: '1620-12-12'
+- titre: évêque diocésain
+  du: '1615-12-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745755
+  catholic_hierarchy: bsnfelt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:24:42+00:00'
+  completeness: 0.88

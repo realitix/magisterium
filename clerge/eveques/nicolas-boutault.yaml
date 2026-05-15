@@ -1,0 +1,40 @@
+slug: nicolas-boutault
+nom: Nicolas Boutault
+nom_complet: Nicolas Boutaut
+naissance: null
+deces: '1490-12-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1461-09-06'
+  consecrateur_principal: guillaume-cardinal-d-rsquo-estouteville-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboutaut.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Luçon, France
+  du: '1461-09-09'
+  au: '1490-12-27'
+- titre: évêque diocésain
+  du: '1461-09-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779436
+  catholic_hierarchy: bboutaut
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:27+00:00'
+  completeness: 0.75

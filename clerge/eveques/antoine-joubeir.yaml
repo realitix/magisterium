@@ -1,0 +1,57 @@
+slug: antoine-joubeir
+nom: Antoine Joubeir
+nom_complet: null
+naissance: '1918-08-18'
+deces: '1994-06-04'
+naissance_lieu: Salvador
+deces_lieu: null
+rang: archeveque
+nationalite: Q822
+tampon: ordo_dubius
+sacre:
+  date: '1975-08-23'
+  lieu: Beterke
+  consecrateur_principal: antoine-khoraiche
+  co_consecrateurs:
+  - elie-farah
+  - joseph-merhi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjoubeir.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop (Personal Title), Auxiliary of Tripoli del Libano {Tarabulus}
+    (Maronite)
+  du: '1975-07-12'
+  au: null
+- titre: Titular Archbishop of Apamea in Syria dei Maroniti
+  du: '1975-07-12'
+  au: null
+- titre: Archbishop of Tripoli del Libano {Tarabulus} (Maronite)
+  du: '1977-08-04'
+  au: null
+- titre: Archbishop Emeritus of Tripoli del Libano {Tarabulus} (Maronite)
+  du: null
+  au: '1994-06-04'
+- titre: archevêque titulaire
+  du: '1975-07-12'
+  au: null
+- titre: archevêque catholique
+  du: '1977-08-04'
+  au: '1993-07-02'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q586508
+  catholic_hierarchy: bjoubeir
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:03:36+00:00'
+  completeness: 1.0

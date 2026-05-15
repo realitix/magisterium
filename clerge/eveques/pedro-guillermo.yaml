@@ -1,0 +1,40 @@
+slug: pedro-guillermo
+nom: Pedro Guillermo
+nom_complet: null
+naissance: null
+deces: '1134-07-19'
+naissance_lieu: null
+deces_lieu: Fraga, Diocese of Huesca
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1126'
+  consecrateur_principal: non-indexe-026a2e3a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguillrm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barbastro, Spain
+  du: 1126&sup1;
+  au: '1134-07-19'
+- titre: évêque de Roda et Barbastro
+  du: '1130-01-01'
+  au: '1134-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763184
+  catholic_hierarchy: bguillrm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:50:51+00:00'
+  completeness: 0.75

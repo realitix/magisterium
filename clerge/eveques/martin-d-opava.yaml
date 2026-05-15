@@ -1,0 +1,43 @@
+slug: martin-d-opava
+nom: Martin d'Opava
+nom_complet: Marcin z Opawy
+naissance: '1300'
+deces: '1279'
+naissance_lieu: Opawie
+deces_lieu: null
+rang: archeveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bopawy.html
+  - https://fr.wikipedia.org/wiki/Martin_d%27Opava
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Gniezno, Poland
+  du: '1278-06-22'
+  au: '1279-12-23'
+- titre: archevêque de Gniezno
+  du: '1278-06-29'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20von%20Troppau.PNG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q431054
+  catholic_hierarchy: bopawy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:53:08+00:00'
+  completeness: 0.38

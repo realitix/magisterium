@@ -1,0 +1,53 @@
+slug: vilmos-dekany
+nom: Vilmos Dékány
+nom_complet: Vilmos Dékány, Sch. P.
+naissance: '1925-03-24'
+deces: '2000-05-19'
+naissance_lieu: Kecskemét
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_dubius
+sacre:
+  date: '1989-02-11'
+  lieu: Basilica, Esztergom, Archdiocese of Esztergom
+  consecrateur_principal: laszlo-paskai
+  co_consecrateurs:
+  - laszlo-danko
+  - istvan-seregely
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdekany.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: '1988-12-23'
+  au: null
+- titre: Titular Bishop of Aquae Novae in Proconsulari
+  du: '1988-12-23'
+  au: null
+- titre: Auxiliary Bishop of Esztergom-Budapest, Hungary
+  du: null
+  au: '2000-05-19'
+- titre: évêque auxiliaire
+  du: '1988-12-23'
+  au: null
+- titre: évêque titulaire
+  du: '1988-12-23'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q26254078
+  catholic_hierarchy: bdekany
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:38:15+00:00'
+  completeness: 1.0

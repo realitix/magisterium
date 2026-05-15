@@ -1,0 +1,41 @@
+slug: lorenzo-massimi
+nom: Lorenzo Massimi
+nom_complet: null
+naissance: '1592'
+deces: '1647-10-28'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1633-01-02'
+  lieu: Sant'Egidio in Trastevere, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-barberini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmassinil.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Marsi, Italy
+  du: '1632-11-24'
+  au: '1647-10-28'
+- titre: évêque diocésain
+  du: '1632-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762442
+  catholic_hierarchy: bmassinil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:36:25+00:00'
+  completeness: 0.75

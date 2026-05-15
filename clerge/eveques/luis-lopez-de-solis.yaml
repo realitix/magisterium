@@ -1,0 +1,51 @@
+slug: luis-lopez-de-solis
+nom: Luis López de Solís
+nom_complet: Luis López de Solís, O.E.S.A.
+naissance: '1535'
+deces: '1606-07-05'
+naissance_lieu: Salamanca, Diocese of Salamanca, Spain
+deces_lieu: Lima, Archdiocese of Lima, Peru
+rang: archeveque
+nationalite: Q29
+tampon: ordo_incertus
+sacre:
+  date: '1594-04-03'
+  lieu: San Agustín, Church, Trujillo, Diocese of Trujillo, Peru
+  consecrateur_principal: st-toribio-alfonso-de-mogrovejo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bloso.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quito, Ecuador
+  du: '1592-09-07'
+  au: null
+- titre: Archbishop of La Plata o Charcas, Bolivia
+  du: '1605-07-18'
+  au: '1606-07-05'
+- titre: évêque de de La Plata
+  du: '1605-07-18'
+  au: '1606-07-05'
+- titre: Roman Catholic Bishop of Quito
+  du: '1592-09-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20L%C3%B3pez%20de%20Sol%C3%ADs.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16594480
+  catholic_hierarchy: bloso
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:48+00:00'
+  completeness: 0.75

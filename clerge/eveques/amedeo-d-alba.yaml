@@ -1,0 +1,41 @@
+slug: amedeo-d-alba
+nom: Amedeo d'Alba
+nom_complet: Amedeo d&rsquo;Alba, O.F.M.
+naissance: '1300'
+deces: '1366'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdalbaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lango, Hungary
+  du: '1342-07-17'
+  au: null
+- titre: Bishop of Noli, Italy
+  du: '1346-02-15'
+  au: 1360&sup1;
+- titre: Roman Catholic Bishop of Noli
+  du: '1346-02-23'
+  au: '1366-01-01'
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q3613930
+  catholic_hierarchy: bdalbaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:23:02+00:00'
+  completeness: 0.25

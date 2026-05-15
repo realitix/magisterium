@@ -1,0 +1,43 @@
+slug: nicolo-de-amato
+nom: Nicolò de Amato
+nom_complet: Nicolo de Amato
+naissance: '1701-12-31'
+deces: '1789-08-31'
+naissance_lieu: Barletta
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1749-07-25'
+  consecrateur_principal: ferdinando-maria-de-rossi
+  co_consecrateurs:
+  - luigi-antonio-valdina-cremona
+  - giovanni-battista-giampe
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bamaton.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lacedonia, Italy
+  du: '1749-07-21'
+  au: '1789-08-31'
+- titre: Roman Catholic Bishop of Lacedonia
+  du: '1749-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15836769
+  catholic_hierarchy: bamaton
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:35:26+00:00'
+  completeness: 1.0

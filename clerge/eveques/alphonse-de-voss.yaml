@@ -1,0 +1,48 @@
+slug: alphonse-de-voss
+nom: Alphonse de Voss
+nom_complet: Alphonse de Voss (Vos), C.I.C.M.
+naissance: '1840-04-21'
+deces: '1888-07-21'
+naissance_lieu: Mesen, Diocese of Brugge {Bruges}, Belgium
+deces_lieu: San-tao-ho
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1884-05-18'
+  lieu: Siwantze
+  consecrateur_principal: jacques-bax
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvossa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Southwestern Mongolia {Mongolia Occiduo-Meridionale},
+    China
+  du: '1883-12-11'
+  au: '1888-07-21'
+- titre: Titular Bishop of Abdera
+  du: '1883-12-11'
+  au: null
+- titre: vicaire apostolique
+  du: '1883-12-11'
+  au: null
+- titre: évêque titulaire
+  du: '1883-12-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11071766
+  catholic_hierarchy: bvossa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:46:14+00:00'
+  completeness: 0.88

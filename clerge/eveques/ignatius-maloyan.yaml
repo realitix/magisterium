@@ -1,0 +1,52 @@
+slug: ignatius-maloyan
+nom: Ignatius Maloyan
+nom_complet: St. Ignatius (Choukrallah) Maloyan, I.C.P.B.
+naissance: '1869-04-19'
+deces: '1915-06-11'
+naissance_lieu: Mardin, Archeparchy of Mardin (Armenian)
+deces_lieu: Mardin, Archeparchy of Mardin (Armenian)
+rang: archeveque
+nationalite: Q12560
+tampon: ordo_validus
+sacre:
+  date: '1911-10-22'
+  lieu: San Nicola da Tolentino, Church, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: boghos-bedros-paul-peter-xiii-terzian
+  co_consecrateurs:
+  - avedis-bedros-xiv-arpiarian
+  - hussig-gulian
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaloyan.html
+  - https://fr.wikipedia.org/wiki/Ignatius_Maloyan
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Mardin (Armenian), Turkey
+  du: '1911-10-01'
+  au: '1915-06-11'
+- titre: Armenian Catholic bishop
+  du: '1911-10-22'
+  au: null
+- titre: archevêque catholique
+  du: '1911-10-22'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Iknadios%20Maloian.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q328238
+  catholic_hierarchy: bmaloyan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:18:19+00:00'
+  completeness: 1.0

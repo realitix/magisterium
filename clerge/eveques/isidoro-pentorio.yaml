@@ -1,0 +1,43 @@
+slug: isidoro-pentorio
+nom: Isidoro Pentorio
+nom_complet: Isidoro Pentorio, B.
+naissance: '1568'
+deces: '1621'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1619-03-12'
+  consecrateur_principal: pietro-aldobrandini
+  co_consecrateurs:
+  - philibert-francois-filiberto-milliet-de-faverges
+  - tommaso-piolatto-biolato-c-r-l
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpento.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Asti, Italy
+  du: '1619-02-18'
+  au: 1622&sup1;
+- titre: évêque diocésain
+  du: '1619-02-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3802498
+  catholic_hierarchy: bpento
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:19:23+00:00'
+  completeness: 0.75

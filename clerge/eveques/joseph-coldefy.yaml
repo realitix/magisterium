@@ -1,0 +1,45 @@
+slug: joseph-coldefy
+nom: Joseph Coldefy
+nom_complet: null
+naissance: '1826-12-10'
+deces: '1887-01-18'
+naissance_lieu: Montfaucon-du-Lot, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1881-07-03'
+  lieu: Dordogne, Thiviers
+  consecrateur_principal: joseph-dabert
+  co_consecrateurs:
+  - pierre-alfred-grimardias
+  - victor-jean-francois-paulin-delannoy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoldefy.html
+  - https://fr.wikipedia.org/wiki/Joseph_Coldefy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Denis-de-La Réunion
+  du: null
+  au: '1887-01-18'
+- titre: évêque diocésain
+  du: '1881-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746034
+  catholic_hierarchy: bcoldefy
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:57:51+00:00'
+  completeness: 1.0

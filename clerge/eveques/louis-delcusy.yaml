@@ -1,0 +1,44 @@
+slug: louis-delcusy
+nom: Louis Delcusy
+nom_complet: null
+naissance: '1794-07-26'
+deces: '1876-05-17'
+naissance_lieu: Sainte-Anastasie
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1857-05-31'
+  lieu: S. Geraud, Aurillac
+  consecrateur_principal: jean-paul-francois-marie-felix-lyonnet
+  co_consecrateurs:
+  - jean-baptiste-pierre-leonard-berteaud
+  - jean-antoine-marie-foulquier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelcu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Viviers, France
+  du: null
+  au: '1876-05-17'
+- titre: évêque diocésain
+  du: '1857-02-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64737036
+  catholic_hierarchy: bdelcu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:39:25+00:00'
+  completeness: 1.0

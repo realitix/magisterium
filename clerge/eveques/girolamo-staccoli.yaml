@@ -1,0 +1,38 @@
+slug: girolamo-staccoli
+nom: Girolamo Staccoli
+nom_complet: null
+naissance: null
+deces: '1468'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstaccoli.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Urbino, Italy
+  du: '1463-05-26'
+  au: 1468&sup1;
+- titre: évêque diocésain
+  du: '1463-06-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68911418
+  catholic_hierarchy: bstaccoli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:35:21+00:00'
+  completeness: 0.25

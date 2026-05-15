@@ -1,0 +1,50 @@
+slug: ephrem-giesen
+nom: Ephrem Giesen
+nom_complet: Ephrem Giesen, O.F.M.
+naissance: '1868-10-16'
+deces: '1919-08-06'
+naissance_lieu: Amsterdam, Diocese of Haarlem, Netherlands
+deces_lieu: Tsingtao
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1902-11-16'
+  lieu: Peking
+  consecrateur_principal: johannes-anton-hoffmann-o-f-m-rec
+  co_consecrateurs:
+  - stanislas-jarlin
+  - alfonso-bermyn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiesen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Northern Shantung {Scian-Ton Settentrionale}, China
+  du: '1902-07-23'
+  au: '1919-08-06'
+- titre: Titular Bishop of Paltus
+  du: '1902-07-23'
+  au: null
+- titre: vicaire apostolique
+  du: '1902-07-23'
+  au: null
+- titre: évêque titulaire
+  du: '1902-07-23'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q5382378
+  catholic_hierarchy: bgiesen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:22:22+00:00'
+  completeness: 1.0

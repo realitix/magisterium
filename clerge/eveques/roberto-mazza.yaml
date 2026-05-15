@@ -1,0 +1,38 @@
+slug: roberto-mazza
+nom: Roberto Mazza
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmazzar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicastro, Italy
+  du: '1394-05-04'
+  au: null
+- titre: évêque de Lamezia Terme
+  du: '1394-05-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108485177
+  catholic_hierarchy: bmazzar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:41:32+00:00'
+  completeness: 0.25

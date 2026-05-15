@@ -1,0 +1,41 @@
+slug: henry-marshal
+nom: Henry Marshal
+nom_complet: Henry Marshall
+naissance: '1150'
+deces: '1206-11-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1194-03-27'
+  consecrateur_principal: hubert-walter
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarshll.html
+  - https://fr.wikipedia.org/wiki/Henry_Marshal_(%C3%A9v%C3%AAque_d%27Exeter)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Exeter, England, Great Britain
+  du: '1194-02-10'
+  au: '1206-11-01'
+- titre: évêque d'Exeter
+  du: '1194-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5725471
+  catholic_hierarchy: bmarshll
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:30:28+00:00'
+  completeness: 0.75

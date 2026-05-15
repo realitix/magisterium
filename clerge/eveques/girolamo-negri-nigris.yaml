@@ -1,0 +1,46 @@
+slug: girolamo-negri-nigris
+nom: Girolamo Negri (Nigris)
+nom_complet: Girolamo Negri
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1572-10-19'
+  consecrateur_principal: benedetto-lomellini
+  co_consecrateurs:
+  - ippolito-arrivabene
+  - leonardo-truchi-trucco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnegrigi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chioggia, Italy
+  du: '1572-10-10'
+  au: 1578&sup1;
+- titre: Bishop Emeritus of Chioggia, Italy
+  du: null
+  au: 1586&sup2;
+- titre: évêque diocésain
+  du: '1572-10-20'
+  au: '1578-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780951
+  catholic_hierarchy: bnegrigi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:28:41+00:00'
+  completeness: 0.75

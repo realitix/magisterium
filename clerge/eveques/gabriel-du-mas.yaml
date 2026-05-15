@@ -1,0 +1,47 @@
+slug: gabriel-du-mas
+nom: Gabriel du Mas
+nom_complet: null
+naissance: null
+deces: '1500'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1475-12-03'
+  consecrateur_principal: miles-d-illiers
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdumasg.html
+  - https://fr.wikipedia.org/wiki/Gabriel_du_Mas
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mirepoix, France
+  du: '1475-04-05'
+  au: null
+- titre: Bishop of Périgueux (Vesuna), France
+  du: '1486-03-15'
+  au: 1500&sup1;
+- titre: évêque diocésain
+  du: '1475-04-14'
+  au: null
+- titre: évêque diocésain
+  du: '1486-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3094036
+  catholic_hierarchy: bdumasg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:12:53+00:00'
+  completeness: 0.62

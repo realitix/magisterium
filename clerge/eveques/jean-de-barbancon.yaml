@@ -1,0 +1,37 @@
+slug: jean-de-barbancon
+nom: Jean de Barbançon
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbarbenc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers, France
+  du: '1544-04-08'
+  au: null
+- titre: Bishop-Elect of Pamiers, France
+  du: null
+  au: 1550&sup1;
+- titre: Former Bishop-Elect of Pamiers, France
+  du: null
+  au: 1568&sup2;
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bbarbenc
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:01:22+00:00'
+  completeness: 0.25

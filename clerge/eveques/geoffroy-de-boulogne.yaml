@@ -1,0 +1,43 @@
+slug: geoffroy-de-boulogne
+nom: Geoffroy de Boulogne
+nom_complet: Godefroy de Boulogne
+naissance: null
+deces: '1095-05-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: non-indexe-532f27c6
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboulogg.html
+  - https://fr.wikipedia.org/wiki/Geoffroy_de_Boulogne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Paris, France
+  du: 1061&sup2;
+  au: '1095-05-01'
+- titre: chancelier de France
+  du: null
+  au: null
+- titre: évêque de Paris
+  du: '1061-01-01'
+  au: '1095-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3101164
+  catholic_hierarchy: bboulogg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:44:19+00:00'
+  completeness: 0.5

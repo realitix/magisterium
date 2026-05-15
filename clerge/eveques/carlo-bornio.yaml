@@ -1,0 +1,52 @@
+slug: carlo-bornio
+nom: Carlo Bornio
+nom_complet: null
+naissance: '1569'
+deces: '1627'
+naissance_lieu: Fivizani
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1614-09-07'
+  consecrateur_principal: ottavio-bandini
+  co_consecrateurs:
+  - girolamo-giovannelli
+  - charles-de-noailles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbornioc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Castro di Puglia, Italy
+  du: '1614-08-27'
+  au: null
+- titre: Titular Bishop of Coronea
+  du: '1614-08-27'
+  au: null
+- titre: Bishop of Castro di Puglia, Italy
+  du: null
+  au: 1627&sup1;
+- titre: évêque titulaire
+  du: '1614-08-27'
+  au: null
+- titre: Roman Catholic Bishop of Castro di Puglia
+  du: '1614-11-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761991
+  catholic_hierarchy: bbornioc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:06+00:00'
+  completeness: 0.75

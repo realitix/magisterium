@@ -1,0 +1,47 @@
+slug: antonio-palenzuela
+nom: Antonio Palenzuela
+nom_complet: Antonio Palenzuela Velázquez
+naissance: '1919-01-17'
+deces: '2003-01-08'
+naissance_lieu: Valladolid, Archdiocese of Valladolid
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_dubius
+sacre:
+  date: '1970-02-22'
+  lieu: La Asunción de Nuestra Senora, Cathedral, Segovia, Diocese of Segovia
+  consecrateur_principal: luigi-dadaglio
+  co_consecrateurs:
+  - casimiro-morcillo-gonzalez
+  - marcelo-gonzalez-martin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpave.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: '1969-12-11'
+  au: null
+- titre: Bishop Emeritus of Segovia, Spain
+  du: null
+  au: '2003-01-08'
+- titre: évêque de Ségovie
+  du: '1969-12-11'
+  au: '1995-05-12'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q603978
+  catholic_hierarchy: bpave
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:14:24+00:00'
+  completeness: 1.0

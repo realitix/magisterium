@@ -1,0 +1,44 @@
+slug: pierre-cadouet
+nom: Pierre Cadoüet
+nom_complet: Pierre Cadoet
+naissance: null
+deces: '1492-08-31'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1482-10-27'
+  consecrateur_principal: helie-de-bourdeilles
+  co_consecrateurs:
+  - jean-bochart
+  - jean-alardeau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcadoet.html
+  - https://fr.wikipedia.org/wiki/Pierre_Cado%C3%BCet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Bourges, France
+  du: '1482-08-07'
+  au: '1492-08-31'
+- titre: archevêque de Bourges
+  du: '1482-08-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3384262
+  catholic_hierarchy: bcadoet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:05:30+00:00'
+  completeness: 0.88

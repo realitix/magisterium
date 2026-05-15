@@ -1,0 +1,46 @@
+slug: carl-johann-greith
+nom: Carl Johann Greith
+nom_complet: Karl Johann Greith
+naissance: '1807-05-25'
+deces: '1882-05-17'
+naissance_lieu: Rapperswil
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1863-05-03'
+  lieu: Feldkirch
+  consecrateur_principal: joseph-fessler
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrei.html
+  - https://fr.wikipedia.org/wiki/Carl_Johann_Greith
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sankt Gallen, Switzerland
+  du: null
+  au: '1882-05-17'
+- titre: évêque diocésain
+  du: '1862-09-11'
+  au: '1882-05-17'
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/.%20Carl%20Johann%20Greith%20%281807-1882%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1039052
+  catholic_hierarchy: bgrei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:42:09+00:00'
+  completeness: 0.88

@@ -1,0 +1,49 @@
+slug: gilbert-louis
+nom: Gilbert Louis
+nom_complet: Gilbert Marcel Henri Louis
+naissance: '1940-05-31'
+deces: null
+naissance_lieu: Champsecret, Diocese of Sées {Séez}
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1999-04-11'
+  lieu: Saint-Étienne, Cathedral, Châlons, Diocese of Châlons
+  consecrateur_principal: louis-marie-bille
+  co_consecrateurs:
+  - yves-maria-guy-dubigeon
+  - henri-derouet
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blouis.html
+  - https://fr.wikipedia.org/wiki/Gilbert_Louis
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Châlons, France
+  du: '1999-03-01'
+  au: null
+- titre: évêque diocésain
+  du: '1999-03-01'
+  au: '2015-12-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Gilbert%20Louis.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1524011
+  catholic_hierarchy: blouis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:01:09+00:00'
+  completeness: 0.88

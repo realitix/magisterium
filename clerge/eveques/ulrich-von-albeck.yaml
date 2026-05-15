@@ -1,0 +1,45 @@
+slug: ulrich-von-albeck
+nom: Ulrich von Albeck
+nom_complet: null
+naissance: '1400'
+deces: '1431-12-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: eberard-von-starhemberg
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvalbeck.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Verden, Germany
+  du: '1407-08-12'
+  au: 1409&sup1;
+- titre: Bishop of Seckau, Austria
+  du: '1417-12-15'
+  au: '1431-12-12'
+- titre: Roman Catholic Bishop of Seckau
+  du: '1417-12-24'
+  au: '1431-01-01'
+- titre: évêque de Verden
+  du: '1407-08-21'
+  au: '1409-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1772687
+  catholic_hierarchy: bvalbeck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:20:49+00:00'
+  completeness: 0.5

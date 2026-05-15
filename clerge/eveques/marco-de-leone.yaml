@@ -1,0 +1,43 @@
+slug: marco-de-leone
+nom: Marco de Leone
+nom_complet: null
+naissance: '1728-12-11'
+deces: '1793'
+naissance_lieu: Barletta
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1773-06-20'
+  consecrateur_principal: francesco-saverio-de-zelada
+  co_consecrateurs:
+  - giuseppe-maria-contesini
+  - etienne-evode-assemani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleonem.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Satriano e Campagna, Italy
+  du: '1773-06-14'
+  au: 1793&sup1;
+- titre: évêque diocésain
+  du: '1773-06-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64760902
+  catholic_hierarchy: bleonem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:44:26+00:00'
+  completeness: 0.88

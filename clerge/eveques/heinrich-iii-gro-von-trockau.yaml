@@ -1,0 +1,47 @@
+slug: heinrich-iii-gro-von-trockau
+nom: Heinrich III Groß von Trockau
+nom_complet: Heinrich Groß von Trockau
+naissance: '1451'
+deces: '1501-03-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1487-07-15'
+  consecrateur_principal: friedrich-von-zollern
+  co_consecrateurs:
+  - jakob-raschauer-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgvt.html
+  - https://fr.wikipedia.org/wiki/Heinrich_Gro%C3%9F_von_Trockau
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bamberg, Germany
+  du: null
+  au: '1501-03-27'
+- titre: évêque diocésain
+  du: '1487-02-10'
+  au: '1501-04-09'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sebald%20Heinrich%20Gro%C3%9F%20von%20Trockau.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q101821
+  catholic_hierarchy: bgvt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:29:59+00:00'
+  completeness: 0.88

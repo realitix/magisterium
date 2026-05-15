@@ -1,0 +1,50 @@
+slug: felice-trofino
+nom: Felice Trofino
+nom_complet: null
+naissance: null
+deces: '1527'
+naissance_lieu: Bologne, Diocese of Bologna
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1524-12-21'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: paul-iv
+  co_consecrateurs:
+  - giacomo-bongalli
+  - giambattista-boncianni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btrofino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chieti, Italy
+  du: '1524-08-24'
+  au: null
+- titre: Archbishop of Chieti, Italy
+  du: '1526-06-01'
+  au: 1527&sup2;
+- titre: Roman Catholic Archbishop of Chieti
+  du: '1526-06-11'
+  au: null
+- titre: Roman Catholic Bishop of Chieti
+  du: '1524-09-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3742228
+  catholic_hierarchy: btrofino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:11:37+00:00'
+  completeness: 0.75

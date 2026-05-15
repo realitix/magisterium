@@ -1,0 +1,55 @@
+slug: juan-de-zumarraga
+nom: Juan de Zumárraga
+nom_complet: Juan de Zumárraga, O.F.M.
+naissance: '1468'
+deces: '1548-06-03'
+naissance_lieu: Tabira de Durango, Diocese of Calahorra y La Calzada, Spain
+deces_lieu: Mexico, Archdiocese of México, Federal District
+rang: archeveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1533-04-27'
+  lieu: San Francisco, Convent, Valladolid, Diocese of Palencia, Spain
+  consecrateur_principal: diego-ribera-de-toledo
+  co_consecrateurs:
+  - francois-zamora
+  - francisco-solis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzum.html
+  - https://fr.wikipedia.org/wiki/Juan_de_Zum%C3%A1rraga
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of México, Federal District
+  du: '1530-08-20'
+  au: null
+- titre: Archbishop of México, Federal District
+  du: '1546-02-12'
+  au: '1548-06-03'
+- titre: archevêque métropolitain de Mexico
+  du: '1546-02-22'
+  au: '1548-06-03'
+- titre: Bishop of México
+  du: '1530-08-30'
+  au: '1546-02-22'
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Juan-de-Zumarraga.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q442901
+  catholic_hierarchy: bzum
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:12:22+00:00'
+  completeness: 0.88

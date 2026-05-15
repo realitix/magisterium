@@ -1,0 +1,49 @@
+slug: bruno-grua
+nom: Bruno Grua
+nom_complet: null
+naissance: '1946-06-18'
+deces: null
+naissance_lieu: Lyon, Archdiocese of Lyon (-Vienne)
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2006-06-18'
+  lieu: Saint-Pierre, Cathedral, Saint-Flour, Diocese of Saint-Flour
+  consecrateur_principal: bernard-panafieu
+  co_consecrateurs:
+  - rene-sejourne
+  - francois-xavier-loizeau
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrua.html
+  - https://fr.wikipedia.org/wiki/Bruno_Grua
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Flour, France
+  du: '2006-03-31'
+  au: null
+- titre: évêque diocésain
+  du: '2006-03-31'
+  au: '2021-06-11'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Bruno%20Grua%20.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q556349
+  catholic_hierarchy: bgrua
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:45:33+00:00'
+  completeness: 0.88

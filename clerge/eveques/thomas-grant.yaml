@@ -1,0 +1,50 @@
+slug: thomas-grant
+nom: Thomas Grant
+nom_complet: null
+naissance: '1816-11-25'
+deces: '1870-05-31'
+naissance_lieu: Ligny-lès-Aire, Pas de Calais, Diocese of Arras, France
+deces_lieu: Roma, Diocese of Roma {Rome}, Italy
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1851-07-06'
+  lieu: Venerable English, College, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: giacomo-filippo-fransoni
+  co_consecrateurs:
+  - francesco-brigante-colonna
+  - rosendo-salvado
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgrantt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Southwark, England, Great Britain
+  du: '1851-06-27'
+  au: '1870-05-31'
+- titre: diacre catholique romain
+  du: '1841-11-21'
+  au: null
+- titre: évêque diocésain
+  du: '1851-06-27'
+  au: null
+- titre: évêque
+  du: '1851-06-16'
+  au: '1870-06-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7790140
+  catholic_hierarchy: bgrantt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:40:01+00:00'
+  completeness: 1.0

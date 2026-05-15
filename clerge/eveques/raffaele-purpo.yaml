@@ -1,0 +1,44 @@
+slug: raffaele-purpo
+nom: Raffaele Purpo
+nom_complet: null
+naissance: '1789-12-24'
+deces: '1876-12-23'
+naissance_lieu: Sorrento
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1843-05-07'
+  lieu: Santi XII Apostoli, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: antonio-francesco-orioli
+  co_consecrateurs:
+  - fabio-maria-asquini
+  - francesco-paolo-mastropasqua
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpurpo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pozzuoli, Italy
+  du: null
+  au: '1876-12-23'
+- titre: évêque de Pouzzoles
+  du: '1843-03-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3929145
+  catholic_hierarchy: bpurpo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:53:28+00:00'
+  completeness: 1.0

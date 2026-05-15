@@ -1,0 +1,39 @@
+slug: richard-or-robert-fleming
+nom: Richard (or Robert) Fleming
+nom_complet: Richard Fleming
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1217'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfleminri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Leighlin, Ireland
+  du: 1217&sup1;
+  au: 1226&sup2;
+- titre: évêque diocésain
+  du: '1217-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108482961
+  catholic_hierarchy: bfleminri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:48:05+00:00'
+  completeness: 0.38

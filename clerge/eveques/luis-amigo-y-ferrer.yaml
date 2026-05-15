@@ -1,0 +1,61 @@
+slug: luis-amigo-y-ferrer
+nom: Luis Amigó y Ferrer
+nom_complet: Luis José María Amigó y Ferrer, O.F.M. Cap.
+naissance: '1854-10-17'
+deces: '1934-10-01'
+naissance_lieu: Masamagrell
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1907-06-09'
+  lieu: Palais de Vista Alegre, Chapel, Carabanchel
+  consecrateur_principal: aristide-rinaldini
+  co_consecrateurs:
+  - jose-maria-salvador-y-barrera
+  - juan-benlloch-y-vivo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bamfe.html
+  - https://fr.wikipedia.org/wiki/Louis_Amig%C3%B3_Ferrer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Solsona, Spain
+  du: '1907-04-18'
+  au: null
+- titre: Titular Bishop of Thagaste
+  du: '1907-04-18'
+  au: null
+- titre: Bishop of Segorbe, Spain
+  du: '1913-07-18'
+  au: '1934-10-01'
+- titre: évêque titulaire de Thagaste
+  du: '1907-04-18'
+  au: '1913-07-18'
+- titre: Apostolic Administrator of Solsona
+  du: '1907-04-18'
+  au: '1913-07-18'
+- titre: évêque de Segorbe
+  du: '1913-07-18'
+  au: '1934-10-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Massamagrell.%20Est%C3%A0tua%20de%20Llu%C3%ADs%20d%27Amig%C3%B3.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q543384
+  catholic_hierarchy: bamfe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:36:01+00:00'
+  completeness: 1.0

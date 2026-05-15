@@ -1,0 +1,47 @@
+slug: johannes-kridt
+nom: Johannes Kridt
+nom_complet: null
+naissance: '1600'
+deces: '1577'
+naissance_lieu: Nienborg
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1550-09-14'
+  lieu: Marienfeld
+  consecrateur_principal: johannes-sartoris-de-tremonia-velmecker-schneider-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkridt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Münster, Germany
+  du: '1550-03-19'
+  au: '1577-09-16'
+- titre: Titular Bishop of Acre (or Ptolomais)
+  du: '1550-03-19'
+  au: null
+- titre: évêque auxiliaire
+  du: '1550-03-29'
+  au: null
+- titre: évêque titulaire
+  du: '1550-03-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1575214
+  catholic_hierarchy: bkridt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:21:33+00:00'
+  completeness: 0.75

@@ -1,0 +1,38 @@
+slug: juan-garcia
+nom: Juan García
+nom_complet: null
+naissance: null
+deces: '1601-12-31'
+naissance_lieu: Rocal-Moro, Diocese of Segovia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarcij.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Almería, Spain
+  du: '1597-08-17'
+  au: '1601-12-31'
+- titre: évêque d'Almería
+  du: '1597-08-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68904905
+  catholic_hierarchy: bgarcij
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:10:10+00:00'
+  completeness: 0.38

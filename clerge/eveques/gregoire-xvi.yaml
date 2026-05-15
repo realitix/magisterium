@@ -1,0 +1,60 @@
+slug: gregoire-xvi
+nom: Grégoire XVI
+nom_complet: Gregory XVI
+naissance: '1765-09-18'
+deces: '1846-06-01'
+naissance_lieu: Belluno
+deces_lieu: null
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1831-02-06'
+  consecrateur_principal: bartolomeo-pacca
+  co_consecrateurs:
+  - pierfrancesco-galleffi
+  - tommasso-arezzo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcapb.html
+  - https://fr.wikipedia.org/wiki/Gr%C3%A9goire_XVI
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Cardinal-Priest of San Callisto
+  du: '1826-07-03'
+  au: null
+- titre: Prefect of the Congregation for Propagation of the Faith
+  du: '1826-10-01'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1846-06-01'
+- titre: abbé
+  du: null
+  au: null
+- titre: cardinal
+  du: '1825-03-21'
+  au: '1831-02-02'
+- titre: pape
+  du: '1831-02-02'
+  au: '1846-06-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gregory%20XVI.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q43734
+  catholic_hierarchy: bcapb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:15:19+00:00'
+  completeness: 1.0

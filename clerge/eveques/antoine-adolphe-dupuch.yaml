@@ -1,0 +1,51 @@
+slug: antoine-adolphe-dupuch
+nom: Antoine-Adolphe Dupuch
+nom_complet: Antoine-Louis-Adolphe Dupuch
+naissance: '1800-05-21'
+deces: '1856-07-11'
+naissance_lieu: Bordeaux, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1838-10-28'
+  consecrateur_principal: ferdinand-francois-auguste-donnet
+  co_consecrateurs:
+  - rene-francois-soyer
+  - francois-lacroix
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupuch.html
+  - https://fr.wikipedia.org/wiki/Antoine-Adolphe_Dupuch
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alger, Algeria
+  du: null
+  au: '1846-03-16'
+- titre: Bishop Emeritus of Alger, Algeria
+  du: null
+  au: '1856-07-11'
+- titre: évêque diocésain
+  du: '1838-08-22'
+  au: '1846-03-16'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine-Adolphe%20Dupuch.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q586063
+  catholic_hierarchy: bdupuch
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:18+00:00'
+  completeness: 1.0

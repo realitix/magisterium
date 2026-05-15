@@ -1,0 +1,44 @@
+slug: jose-azevedo-leal-o-f-m
+nom: José Azevedo Leal, O.F.M.
+nom_complet: José Azevedo Leal
+naissance: '1670-11-08'
+deces: '1736-06-07'
+naissance_lieu: Evora, Portugal
+deces_lieu: null
+rang: eveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1721-06-08'
+  lieu: Cathedral, Lisboa, Patriarchate of Lisboa {Lisbon}, Portugal
+  consecrateur_principal: tomas-de-almeida
+  co_consecrateurs:
+  - manuel-alvares-da-costa
+  - bartolomeu-do-pilar
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bazle.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santiago de Cabo Verde
+  du: '1721-02-12'
+  au: '1736-06-07'
+- titre: évêque de Santiago du Cap-Vert
+  du: '1721-02-12'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64744987
+  catholic_hierarchy: bazle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:56+00:00'
+  completeness: 1.0

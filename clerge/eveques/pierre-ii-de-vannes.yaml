@@ -1,0 +1,38 @@
+slug: pierre-ii-de-vannes
+nom: Pierre II de Vannes
+nom_complet: Pierre de Vannes
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1272-05-01'
+  consecrateur_principal: jean-de-montsoreau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvannes.html
+  - https://fr.wikipedia.org/wiki/Pierre_II_de_Vannes
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Saint-Brieuc
+  du: '1273-06-05'
+  au: '1290-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779583
+  catholic_hierarchy: bvannes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:24:26+00:00'
+  completeness: 0.5

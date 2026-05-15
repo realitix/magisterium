@@ -1,0 +1,44 @@
+slug: guillaume-de-sainte-barbe
+nom: Guillaume de Sainte-Barbe
+nom_complet: William of Saint Barbara
+naissance: '1080'
+deces: '1152-11-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1143-06-20'
+  consecrateur_principal: henri-de-blois
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsbarb.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Sainte-Barbe
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Durham, England, Great Britain
+  du: '1143-03-14'
+  au: '1152-11-24'
+- titre: évêque catholique de Durham
+  du: '1143-03-21'
+  au: null
+- titre: doyen d'York
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3120450
+  catholic_hierarchy: bsbarb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:57:40+00:00'
+  completeness: 0.75

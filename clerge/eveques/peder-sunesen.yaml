@@ -1,0 +1,40 @@
+slug: peder-sunesen
+nom: Peder Sunesen
+nom_complet: null
+naissance: null
+deces: '1214-10-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q756617
+tampon: ordo_validus
+sacre:
+  date: '1192'
+  consecrateur_principal: absalon-hvide
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsunesen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Roskilde (Roeskilde), Denmark
+  du: 1192&sup1;
+  au: '1214-10-29'
+- titre: évêque de Roskilde
+  du: '1192-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q12331202
+  catholic_hierarchy: bsunesen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:43:59+00:00'
+  completeness: 0.75

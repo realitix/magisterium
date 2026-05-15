@@ -1,0 +1,41 @@
+slug: johann-von-preen
+nom: Johann von Preen
+nom_complet: null
+naissance: '1500'
+deces: '1461'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpreen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ratzeburg, Germany
+  du: '1454-08-23'
+  au: '1461-10-09'
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1454-09-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1696840
+  catholic_hierarchy: bpreen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:30+00:00'
+  completeness: 0.38

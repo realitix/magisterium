@@ -1,0 +1,52 @@
+slug: gilbert-d-oignies
+nom: Gilbert d'Oignies
+nom_complet: Gilbert d&rsquo;Oignies
+naissance: '1520'
+deces: '1574-08-25'
+naissance_lieu: Lille
+deces_lieu: Courtrai
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1565-10-21'
+  lieu: S. Amand, Abbey
+  consecrateur_principal: maximilien-de-berghes
+  co_consecrateurs:
+  - martin-cuyper-o-carm
+  - lucas-jacobi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdongg.html
+  - https://fr.wikipedia.org/wiki/Gilbert_d%27Oignies
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tournai {Doornik}, Belgium
+  du: '1565-07-06'
+  au: '1574-08-25'
+- titre: évêque de Tournai
+  du: '1565-07-16'
+  au: '1574-09-04'
+- titre: évêque diocésain
+  du: '1565-07-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Oignies%2C%20Gilbert%20d%27%20%28Recueil%20d%27Arras%2C%20fol.%20266%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q57584063
+  catholic_hierarchy: bdongg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:00:50+00:00'
+  completeness: 0.88

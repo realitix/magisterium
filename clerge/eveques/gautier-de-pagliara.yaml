@@ -1,0 +1,40 @@
+slug: gautier-de-pagliara
+nom: Gautier de Pagliara
+nom_complet: Gauthier Pagliari
+naissance: '1200'
+deces: '1300'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1207-12-16'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpaglga.html
+  - https://fr.wikipedia.org/wiki/Gautier_de_Palear
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Catania, Italy
+  du: 1207&sup1;
+  au: null
+- titre: évêque de Catane
+  du: '1207-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2546986
+  catholic_hierarchy: bpaglga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:03:01+00:00'
+  completeness: 0.38

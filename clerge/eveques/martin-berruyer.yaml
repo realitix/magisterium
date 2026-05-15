@@ -1,0 +1,48 @@
+slug: martin-berruyer
+nom: Martin Berruyer
+nom_complet: null
+naissance: null
+deces: '1466-04-23'
+naissance_lieu: null
+deces_lieu: Touvoye, Château
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1452-04-02'
+  lieu: Noyon, Diocese of Noyon
+  consecrateur_principal: jean-de-mailly
+  co_consecrateurs:
+  - jean-lavantage
+  - jean-milet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberryer.html
+  - https://fr.wikipedia.org/wiki/Martin_Berruyer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Mans, France
+  du: '1449-04-07'
+  au: 1465&sup1;
+- titre: Bishop Emeritus of Le Mans, France
+  du: null
+  au: '1466-04-23'
+- titre: évêque du Mans
+  du: '1449-04-16'
+  au: '1465-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762655
+  catholic_hierarchy: bberryer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:21:58+00:00'
+  completeness: 0.88

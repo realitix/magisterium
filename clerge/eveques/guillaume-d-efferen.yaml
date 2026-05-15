@@ -1,0 +1,48 @@
+slug: guillaume-d-efferen
+nom: Guillaume d'Efferen
+nom_complet: Wilhelm von Essern (Effern)
+naissance: '1565'
+deces: '1616-07-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1612-08-15'
+  consecrateur_principal: stephan-weber
+  co_consecrateurs:
+  - gregor-helfenstein
+  - eucharius-sang
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bessrn.html
+  - https://fr.wikipedia.org/wiki/Guillaume_d%27Efferen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: '1605-09-12'
+  au: '1616-07-07'
+- titre: évêque diocésain
+  du: '1605-09-12'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Wilhelm%20von%20Efferen.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q8002358
+  catholic_hierarchy: bessrn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:01+00:00'
+  completeness: 0.88

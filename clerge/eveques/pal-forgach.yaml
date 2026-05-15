@@ -1,0 +1,47 @@
+slug: pal-forgach
+nom: Pál Forgách
+nom_complet: Pál &#352;tefan Forgách
+naissance: '1696-06-05'
+deces: '1759-09-01'
+naissance_lieu: Cseite
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1748-01-14'
+  lieu: Wien, Archdiocese of Wien {Vienna}, Austria
+  consecrateur_principal: sigismund-von-kollonitsch
+  co_consecrateurs:
+  - ferenc-zichy
+  - ferdinand-michael-cyriakus-von-hallweil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforgachp.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vác, Hungary
+  du: null
+  au: Sep 1759&sup3;
+- titre: évêque d'Oradea Mare
+  du: '1747-05-31'
+  au: null
+- titre: évêque de Vác
+  du: '1757-04-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q628111
+  catholic_hierarchy: bforgachp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:52:08+00:00'
+  completeness: 0.88

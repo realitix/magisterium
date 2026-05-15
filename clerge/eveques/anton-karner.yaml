@@ -1,0 +1,44 @@
+slug: anton-karner
+nom: Anton Karner
+nom_complet: null
+naissance: '1794-01-20'
+deces: '1856-09-30'
+naissance_lieu: Sopron
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1850-05-12'
+  lieu: Pécs, Diocese of Pécs
+  consecrateur_principal: jan-krstitel-scitovszky
+  co_consecrateurs:
+  - zsigmond-deaky
+  - gyorgy-girk
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkarner.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gy&#337;r (Raab), Hungary
+  du: null
+  au: '1856-09-30'
+- titre: évêque de Győr
+  du: '1849-10-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q56389640
+  catholic_hierarchy: bkarner
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:08:21+00:00'
+  completeness: 1.0

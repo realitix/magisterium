@@ -1,0 +1,74 @@
+slug: antal-papp
+nom: Antal Papp
+nom_complet: null
+naissance: '1867-11-17'
+deces: '1945-12-24'
+naissance_lieu: Nagykallo
+deces_lieu: null
+rang: archeveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1912-10-14'
+  consecrateur_principal: julije-drohobeczky
+  co_consecrateurs:
+  - jozsef-lanyi
+  - gyozo-horvath
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpap.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Mukachevo (Munkács) (Ruthenian), Ukraine
+  du: '1912-04-29'
+  au: null
+- titre: Titular Bishop of Lyrbe
+  du: '1912-04-29'
+  au: null
+- titre: Bishop of Mukachevo (Munkács) (Ruthenian), Ukraine
+  du: null
+  au: '1912-06-01'
+- titre: Apostolic Administrator of Hajdúdorog (Hungarian), Hungary
+  du: '1912-06-08'
+  au: '1913-06-23'
+- titre: Apostolic Exarch of Miskolc (Hungarian), Hungary
+  du: '1924-07-14'
+  au: '1945-12-24'
+- titre: Titular Archbishop of Cyzicus
+  du: '1924-07-14'
+  au: null
+- titre: administrateur apostolique
+  du: '1912-06-08'
+  au: '1913-06-23'
+- titre: évêque titulaire
+  du: '1912-04-29'
+  au: null
+- titre: archevêque titulaire
+  du: '1924-07-14'
+  au: null
+- titre: archevêque catholique
+  du: '1924-07-14'
+  au: null
+- titre: évêque diocésain
+  du: '1912-06-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Papp%20Antal.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4305975
+  catholic_hierarchy: bpap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:08:20+00:00'
+  completeness: 1.0

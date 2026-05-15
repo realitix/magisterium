@@ -1,0 +1,43 @@
+slug: john-bokyngham
+nom: John Bokyngham
+nom_complet: null
+naissance: '1301'
+deces: '1398-03-10'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1363-06-25'
+  consecrateur_principal: william-edington
+  co_consecrateurs:
+  - robert-wyvil
+  - john-de-tatenhalk-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboky.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1363-04-05'
+  au: '1398-03-10'
+- titre: évêque de Lincoln
+  du: '1363-04-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6222367
+  catholic_hierarchy: bboky
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:34:49+00:00'
+  completeness: 0.88

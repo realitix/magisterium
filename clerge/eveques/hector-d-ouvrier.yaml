@@ -1,0 +1,53 @@
+slug: hector-d-ouvrier
+nom: Hector d'Ouvrier
+nom_complet: Hector d&rsquo;Ouvrier
+naissance: '1586'
+deces: '1655-06-20'
+naissance_lieu: Toulouse, Archdiocese of Toulouse
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1630-08-02'
+  consecrateur_principal: jean-francois-de-gondi
+  co_consecrateurs:
+  - charles-jacques-de-gelas-de-leberon
+  - emery-de-bragelongne
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdouvr.html
+  - https://fr.wikipedia.org/wiki/Hector_d%27Ouvrier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dol, France
+  du: '1630-06-10'
+  au: null
+- titre: Bishop of Nîmes, France
+  du: null
+  au: '1655-06-20'
+- titre: évêque diocésain
+  du: '1644-02-19'
+  au: null
+- titre: évêque de Nîmes
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1630-06-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15967185
+  catholic_hierarchy: bdouvr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:03:45+00:00'
+  completeness: 0.88

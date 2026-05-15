@@ -1,0 +1,44 @@
+slug: giulio-metti-c-o
+nom: Giulio Metti, C.O.
+nom_complet: Giulio Metti
+naissance: '1816-07-09'
+deces: '1874-09-04'
+naissance_lieu: Firenze, Archdiocese of Firenze {Florence}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1872-08-11'
+  lieu: Ss. Vincent et Anastase, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: camillo-di-pietro
+  co_consecrateurs:
+  - alessandro-franchi
+  - edward-henry-howard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmetti.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Livorno, Italy
+  du: '1872-07-29'
+  au: '1874-09-04'
+- titre: évêque diocésain
+  du: '1872-07-29'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64734724
+  catholic_hierarchy: bmetti
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:54:00+00:00'
+  completeness: 1.0

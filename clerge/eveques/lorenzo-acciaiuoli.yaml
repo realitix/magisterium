@@ -1,0 +1,38 @@
+slug: lorenzo-acciaiuoli
+nom: Lorenzo Acciaiuoli
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baccial.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arezzo, Italy
+  du: '1461-01-15'
+  au: 1473&sup2;
+- titre: Roman Catholic Bishop of Arezzo
+  du: '1461-01-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68858452
+  catholic_hierarchy: baccial
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.25

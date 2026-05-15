@@ -1,0 +1,48 @@
+slug: martin-bonaccina
+nom: Martin Bonaccina
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1631-06-09'
+  consecrateur_principal: giovanni-battista-maria-pallotta
+  co_consecrateurs:
+  - joannes-mattaeus-caryophyllis
+  - sebastian-muller
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbonacm.html
+  - https://gcatholic.org/p/58995
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Praha {Prague}, Czechia
+  du: '1631-05-26'
+  au: null
+- titre: Titular Bishop of Utica
+  du: '1631-05-26'
+  au: null
+- titre: Titular Bishop
+  siege: Utica
+  du: '1631-05-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: bbonacm
+  gcatholic: '58995'
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:36:00+00:00'
+  completeness: 0.75
+- source: gcatholic.org
+  fetched_at: '2026-05-13T10:23:43+00:00'
+  completeness: 0.38

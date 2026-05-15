@@ -1,0 +1,48 @@
+slug: isidore-de-souza
+nom: Isidore de Souza
+nom_complet: null
+naissance: '1934-04-04'
+deces: '1999-03-13'
+naissance_lieu: Ouidah
+deces_lieu: null
+rang: archeveque
+nationalite: Q962
+tampon: ordo_dubius
+sacre:
+  date: '1981-12-08'
+  lieu: Ouidah
+  consecrateur_principal: bernardin-gantin
+  co_consecrateurs:
+  - bernard-yago
+  - christophe-adimou
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdesouzai.html
+  - https://fr.wikipedia.org/wiki/Isidore_de_Souza
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Archbishop of Cotonou, Benin
+  du: '1981-07-17'
+  au: null
+- titre: Archbishop of Cotonou, Benin
+  du: null
+  au: '1999-03-13'
+- titre: archevêque catholique
+  du: '1990-12-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q11865106
+  catholic_hierarchy: bdesouzai
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:21+00:00'
+  completeness: 1.0

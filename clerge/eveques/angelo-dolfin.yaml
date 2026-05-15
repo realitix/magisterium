@@ -1,0 +1,38 @@
+slug: angelo-dolfin
+nom: Angelo Dolfin
+nom_complet: null
+naissance: null
+deces: '1336-08-19'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q4948
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdolfina.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castello, Italy
+  du: '1328-05-27'
+  au: '1336-08-19'
+- titre: Roman Catholic Bishop of Castello
+  du: '1329-02-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16488081
+  catholic_hierarchy: bdolfina
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:58:57+00:00'
+  completeness: 0.38

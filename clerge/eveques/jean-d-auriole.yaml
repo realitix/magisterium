@@ -1,0 +1,40 @@
+slug: jean-d-auriole
+nom: Jean d'Auriole
+nom_complet: Jean d&rsquo;Auriole
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1492-04-13'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdauri.html
+  - https://fr.wikipedia.org/wiki/Jean_d%27Auriole
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montauban, France
+  du: '1491-12-02'
+  au: Jul 1516&sup3;
+- titre: évêque diocésain
+  du: '1491-12-11'
+  au: '1516-07-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60833631
+  catholic_hierarchy: bdauri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:30:27+00:00'
+  completeness: 0.38

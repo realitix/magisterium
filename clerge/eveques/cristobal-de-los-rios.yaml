@@ -1,0 +1,41 @@
+slug: cristobal-de-los-rios
+nom: Cristóbal de los Ríos
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1521-09-22'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: paride-grassi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Valva e Sulmona, Italy
+  du: '1521-06-18'
+  au: null
+- titre: évêque diocésain
+  du: '1521-06-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779852
+  catholic_hierarchy: bdelr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:40:54+00:00'
+  completeness: 0.62

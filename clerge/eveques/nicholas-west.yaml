@@ -1,0 +1,47 @@
+slug: nicholas-west
+nom: Nicholas West
+nom_complet: null
+naissance: '1461'
+deces: '1533-04-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q179876
+tampon: ordo_validus
+sacre:
+  date: '1515-10-07'
+  consecrateur_principal: william-warham
+  co_consecrateurs:
+  - john-fisher
+  - hugh-oldham
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwestn.html
+  - https://fr.wikipedia.org/wiki/Nicholas_West
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ely, England, Great Britain
+  du: '1515-07-27'
+  au: '1533-04-28'
+- titre: évêque d'Ely
+  du: '1515-01-01'
+  au: '1533-01-01'
+- titre: évêque diocésain
+  du: '1515-08-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7026405
+  catholic_hierarchy: bwestn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:25+00:00'
+  completeness: 0.88

@@ -1,0 +1,50 @@
+slug: benito-marin
+nom: Benito Marín
+nom_complet: Benito Marín, O.S.B.
+naissance: '1699-01-21'
+deces: '1769-08-10'
+naissance_lieu: Calahorra
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1748-03-24'
+  lieu: Montserat, Madrid, Archdiocese of Toledo
+  consecrateur_principal: gaspar-jose-vazquez-tablada
+  co_consecrateurs:
+  - juan-antonio-perez-arellano
+  - andres-nunez-monteagudo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmari.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Barbastro, Spain
+  du: '1748-01-29'
+  au: null
+- titre: Bishop of Jaén, Spain
+  du: '1750-04-27'
+  au: '1769-08-10'
+- titre: Évêque de Barbastro
+  du: '1748-01-29'
+  au: null
+- titre: évêque de Jaén
+  du: '1750-04-27'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q5725886
+  catholic_hierarchy: bmari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:27:02+00:00'
+  completeness: 1.0

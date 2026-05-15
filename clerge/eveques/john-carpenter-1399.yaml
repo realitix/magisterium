@@ -1,0 +1,49 @@
+slug: john-carpenter-1399
+nom: John Carpenter
+nom_complet: null
+naissance: '1399-05-04'
+deces: '1476'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1444-03-22'
+  consecrateur_principal: william-ayscough
+  co_consecrateurs:
+  - thomas-beckington
+  - john-low
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarpenj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: '1443-12-20'
+  au: 1476-07
+- titre: Bishop Emeritus of Worcester, England, Great Britain
+  du: null
+  au: 1476-12
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1443-01-01'
+  au: '1476-01-01'
+- titre: évêque diocésain
+  du: '1443-12-29'
+  au: '1476-07-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6225251
+  catholic_hierarchy: bcarpenj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:23:50+00:00'
+  completeness: 0.88

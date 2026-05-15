@@ -1,0 +1,44 @@
+slug: nicholas-farnham
+nom: Nicholas Farnham
+nom_complet: Nicolas Farnham
+naissance: null
+deces: '1257'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1241-06-09'
+  consecrateur_principal: walter-de-gray
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfarnham.html
+  - https://fr.wikipedia.org/wiki/Nicholas_Farnham
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Durham, England, Great Britain
+  du: '1241-01-02'
+  au: '1249-02-02'
+- titre: Bishop Emeritus of Durham, England, Great Britain
+  du: null
+  au: 1258&sup2;
+- titre: évêque catholique de Durham
+  du: '1241-01-09'
+  au: '1249-02-09'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7025371
+  catholic_hierarchy: bfarnham
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:32:38+00:00'
+  completeness: 0.62

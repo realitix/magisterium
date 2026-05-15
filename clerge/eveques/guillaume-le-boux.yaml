@@ -1,0 +1,51 @@
+slug: guillaume-le-boux
+nom: Guillaume Le Boux
+nom_complet: null
+naissance: '1621-06-30'
+deces: '1693-08-04'
+naissance_lieu: Souzay
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1660-04-04'
+  consecrateur_principal: dominique-de-vic
+  co_consecrateurs:
+  - louis-de-rechignevoisin-de-guron
+  - eustache-le-clerc-de-lesseville
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleboux.html
+  - https://fr.wikipedia.org/wiki/Guillaume_Le_Boux
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: null
+  au: '1693-08-04'
+- titre: évêque diocésain
+  du: '1666-05-01'
+  au: null
+- titre: évêque diocésain
+  du: '1658-10-31'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Guillaume%20Le%20Boux%2C%20RP-P-1909-1159.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q15967091
+  catholic_hierarchy: bleboux
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:20+00:00'
+  completeness: 1.0

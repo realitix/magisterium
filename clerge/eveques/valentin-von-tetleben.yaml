@@ -1,0 +1,51 @@
+slug: valentin-von-tetleben
+nom: Valentin von Tetleben
+nom_complet: Valentin von Teutleben
+naissance: '1488-02-14'
+deces: '1551-04-19'
+naissance_lieu: Laucha
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1538-02-22'
+  lieu: Sacristy of the Apostolic Palace, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: alfonso-oliva
+  co_consecrateurs:
+  - uberto-cardinal-gambara
+  - pietro-lamberti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btetl.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: null
+  au: '1551-04-19'
+- titre: évêque diocésain
+  du: '1537-10-10'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Valentin%20von%20Teutleben.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1636833
+  catholic_hierarchy: btetl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:56:13+00:00'
+  completeness: 1.0

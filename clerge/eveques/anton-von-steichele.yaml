@@ -1,0 +1,48 @@
+slug: anton-von-steichele
+nom: Anton von Steichele
+nom_complet: Antonius von Steichele
+naissance: '1816-01-22'
+deces: '1889-10-09'
+naissance_lieu: Mertingen, Diocese of Augsburg
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1878-10-13'
+  lieu: Cathedral, München, Archdiocese of München und Freising {Munich}
+  consecrateur_principal: pancrace-de-dinkel
+  co_consecrateurs:
+  - ignaz-von-senestrey
+  - joseph-franz-weckert
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsteic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of München und Freising {Munich}, Germany
+  du: null
+  au: '1889-10-09'
+- titre: archevêque de Munich et Freising
+  du: '1878-10-13'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnchen%20Frauenkirche%20Epitaph%20Steichele.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q85978
+  catholic_hierarchy: bsteic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:37:36+00:00'
+  completeness: 1.0

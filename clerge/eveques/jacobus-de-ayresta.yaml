@@ -1,0 +1,38 @@
+slug: jacobus-de-ayresta
+nom: Jacobus de Ayresta
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bayresta.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mondovi, Italy
+  du: '1425-05-11'
+  au: 1429&sup1;
+- titre: évêque diocésain
+  du: '1425-05-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68862935
+  catholic_hierarchy: bayresta
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:52:29+00:00'
+  completeness: 0.25

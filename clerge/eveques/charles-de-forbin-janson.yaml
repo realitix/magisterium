@@ -1,0 +1,49 @@
+slug: charles-de-forbin-janson
+nom: Charles de Forbin Janson
+nom_complet: Charles-Auguste-Marie-Joseph Forbin-Janson
+naissance: '1785-09-03'
+deces: '1844-07-11'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: Family, Château, near Marseilles, Diocese of Marseille
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1824-06-06'
+  lieu: Chapelle du Mont-Valérien, Paris, Archdiocese of Paris
+  consecrateur_principal: gustave-maximilien-juste-de-croy-solre
+  co_consecrateurs:
+  - jean-lefebvre-de-cheverus
+  - louis-sylvestre-de-la-chatre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforb.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Forbin-Janson_(1785-1844)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nancy (-Toul), France
+  du: null
+  au: '1844-07-11'
+- titre: évêque de Nancy-Toul
+  du: '1823-11-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Charles%20Forbin%20Janson.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2960575
+  catholic_hierarchy: bforb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:38+00:00'
+  completeness: 1.0

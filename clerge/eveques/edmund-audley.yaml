@@ -1,0 +1,52 @@
+slug: edmund-audley
+nom: Edmund Audley
+nom_complet: null
+naissance: '1439'
+deces: '1524-08-23'
+naissance_lieu: null
+deces_lieu: Ramsbury
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1480-10-01'
+  consecrateur_principal: thomas-cardinal-bourchier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baudley.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1480-07-07'
+  au: null
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1492-06-22'
+  au: null
+- titre: Bishop of Salisbury, England, Great Britain
+  du: '1502-01-10'
+  au: '1524-08-23'
+- titre: évêque de Rochester
+  du: '1480-07-16'
+  au: null
+- titre: évêque de Hereford
+  du: '1492-07-01'
+  au: null
+- titre: évêque de Salisbury
+  du: '1502-01-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5339255
+  catholic_hierarchy: baudley
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:49:12+00:00'
+  completeness: 0.75

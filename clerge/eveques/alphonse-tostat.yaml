@@ -1,0 +1,43 @@
+slug: alphonse-tostat
+nom: Alphonse Tostat
+nom_complet: Alfonso Tostado de Madrigal
+naissance: '1400'
+deces: '1455-09-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q217196
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btosdmad.html
+  - https://fr.wikipedia.org/wiki/Alonso_Tostado
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ávila, Spain
+  du: '1445-04-07'
+  au: '1455-09-03'
+- titre: évêque d'Ávila
+  du: '1445-04-16'
+  au: '1455-09-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20Tostado%20%28cropped%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q604156
+  catholic_hierarchy: btosdmad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:07:20+00:00'
+  completeness: 0.38

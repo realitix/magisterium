@@ -1,0 +1,47 @@
+slug: charles-de-ligonnes
+nom: Charles de Ligonnès
+nom_complet: Charles du Pont de Ligonnès
+naissance: '1845-10-03'
+deces: '1925-02-05'
+naissance_lieu: Mende, Diocese of Mende
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-02-25'
+  co_consecrateurs:
+  - louis-joseph-lucon
+  - emile-christophe-enard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdupli.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Ligonn%C3%A8s
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rodez (-Vabres), France
+  du: '1906-02-21'
+  au: '1925-02-05'
+- titre: évêque de Rodez et Vabres
+  du: '1906-02-21'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20du%20Pont%20de%20Ligonn%C3%A8s-1917.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2960740
+  catholic_hierarchy: bdupli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:13:59+00:00'
+  completeness: 0.88

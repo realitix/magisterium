@@ -1,0 +1,54 @@
+slug: henricus-den-dubbelden
+nom: Henricus den Dubbelden
+nom_complet: null
+naissance: '1769-12-14'
+deces: '1851-10-13'
+naissance_lieu: Asten
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1842-04-10'
+  lieu: Cathedral, Bois-le-Duc, Vicariate Apostolic of &rsquo;s-Hertogenbosch (Bois-le-Duc)
+  consecrateur_principal: cornelis-van-wijckerslooth
+  co_consecrateurs:
+  - joannes-paredis
+  - johannes-theodor-laurent
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdendu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of &rsquo;s-Hertogenbosch (Bois-le-Duc), Netherlands
+  du: '1831-06-05'
+  au: '1851-10-13'
+- titre: Titular Bishop of Emmaüs
+  du: '1842-01-14'
+  au: null
+- titre: évêque titulaire
+  du: '1842-01-14'
+  au: null
+- titre: vicaire apostolique
+  du: '1831-06-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20bisschop%20Henricus%20den%20Dubbelden%2C%20RP-P-1913-3409.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2912643
+  catholic_hierarchy: bdendu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:29+00:00'
+  completeness: 1.0

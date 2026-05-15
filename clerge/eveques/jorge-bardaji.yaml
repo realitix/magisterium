@@ -1,0 +1,51 @@
+slug: jorge-bardaji
+nom: Jorge Bardají
+nom_complet: Jorge de Bardají y Ram
+naissance: '1395'
+deces: '1464-09-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q199442
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbardaji.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tarazona, Spain
+  du: '1442-06-27'
+  au: '1464-09-09'
+- titre: conseiller royal
+  du: null
+  au: null
+- titre: évêque de Tarazona
+  du: '1442-07-06'
+  au: '1464-09-18'
+- titre: prieur
+  du: http://www.wikidata.org/.well-known/genid/223b43af1669385ec6683692ef20540b
+  au: null
+- titre: chancelier de la couronne d'Aragon
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20Chorche%20Bardax%C3%AD%20y%20Ram.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9012754
+  catholic_hierarchy: bbardaji
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:02:20+00:00'
+  completeness: 0.38

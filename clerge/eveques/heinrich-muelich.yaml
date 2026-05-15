@@ -1,0 +1,41 @@
+slug: heinrich-muelich
+nom: Heinrich Muelich
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmuelic.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Wiener Neustadt, Austria
+  du: '1549-08-21'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1549-08-31'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68908733
+  catholic_hierarchy: bmuelic
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:17:51+00:00'
+  completeness: 0.25

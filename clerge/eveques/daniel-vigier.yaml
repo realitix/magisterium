@@ -1,0 +1,40 @@
+slug: daniel-vigier
+nom: Daniel Vigier
+nom_complet: null
+naissance: null
+deces: '1337-02-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1305'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvigierd.html
+  - https://fr.wikipedia.org/wiki/Daniel_Vigier
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nantes, France
+  du: 1305&sup1;
+  au: '1337-02-12'
+- titre: évêque de Nantes
+  du: '1305-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15966947
+  catholic_hierarchy: bvigierd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:37:50+00:00'
+  completeness: 0.5

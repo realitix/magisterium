@@ -1,0 +1,43 @@
+slug: cesare-sperelli
+nom: Cesare Sperelli
+nom_complet: null
+naissance: '1639-08-15'
+deces: '1720-12-11'
+naissance_lieu: Assisi
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1698-12-28'
+  consecrateur_principal: fabrizio-paolucci-1651
+  co_consecrateurs:
+  - prospero-bottini
+  - sperello-sperelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsperc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Terni, Italy
+  du: '1698-12-19'
+  au: '1720-12-11'
+- titre: Roman Catholic Bishop of Terni
+  du: '1698-12-19'
+  au: '1720-12-11'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28945896
+  catholic_hierarchy: bsperc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:32:16+00:00'
+  completeness: 0.88

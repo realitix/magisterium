@@ -1,0 +1,47 @@
+slug: jose-de-haas
+nom: José de Haas
+nom_complet: José de Haas, O.F.M.
+naissance: '1877-01-04'
+deces: '1956-08-01'
+naissance_lieu: Eersel, Netherlands
+deces_lieu: null
+rang: eveque
+nationalite: Q29999
+tampon: ordo_validus
+sacre:
+  date: '1937-07-25'
+  consecrateur_principal: benedetto-aloisi-masella
+  co_consecrateurs:
+  - serafim-gomes-jardim-da-silva
+  - eduardo-jose-herberhold-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdehaas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Araçuaí (Arassuaí), Minas Gerais, Brazil
+  du: '1937-03-20'
+  au: '1956-08-01'
+- titre: évêque diocésain
+  du: '1937-03-20'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/JOS%C3%89%20DE%20HAAS.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16169901
+  catholic_hierarchy: bdehaas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:37:56+00:00'
+  completeness: 1.0

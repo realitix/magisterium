@@ -1,0 +1,53 @@
+slug: nicola-pace
+nom: Nicola Pace
+nom_complet: null
+naissance: '1810-01-03'
+deces: '1888-12-25'
+naissance_lieu: Tolentino, Diocese of Macerata e Tolentino
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1855-10-14'
+  lieu: S. Maria in Porticu, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lodovico-altieri
+  co_consecrateurs:
+  - giuseppe-cardoni
+  - niccola-crispigni-grispigni
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpacen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amelia, Italy
+  du: '1855-09-28'
+  au: '1881-05-06'
+- titre: Titular Bishop of Eumenia
+  du: '1881-05-12'
+  au: null
+- titre: Bishop Emeritus of Amelia, Italy
+  du: null
+  au: '1888-12-25'
+- titre: Roman Catholic Bishop of Amelia
+  du: '1855-09-28'
+  au: '1881-05-06'
+- titre: évêque titulaire
+  du: '1881-05-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745800
+  catholic_hierarchy: bpacen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:01:12+00:00'
+  completeness: 1.0

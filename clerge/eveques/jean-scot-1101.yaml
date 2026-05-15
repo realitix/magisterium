@@ -1,0 +1,47 @@
+slug: jean-scot-1101
+nom: Jean Scot
+nom_complet: John the Scot
+naissance: '1101'
+deces: '1203'
+naissance_lieu: null
+deces_lieu: Neubottle
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1180-06-15'
+  lieu: Holyrood, Abbey
+  consecrateur_principal: matthew-kinimund
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscotj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: null
+  au: 1183&sup2;
+- titre: Bishop of Dunkeld, Scotland, Great Britain
+  du: 1183&sup2;
+  au: 1203&sup2;
+- titre: Roman Catholic Bishop of Dunkeld
+  du: '1183-01-01'
+  au: null
+- titre: évêque de Saint Andrews
+  du: '1178-01-01'
+  au: '1183-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6257125
+  catholic_hierarchy: bscotj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:05:48+00:00'
+  completeness: 0.62

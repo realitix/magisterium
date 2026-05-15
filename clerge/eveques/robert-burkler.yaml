@@ -1,0 +1,48 @@
+slug: robert-burkler
+nom: Robert Bürkler
+nom_complet: null
+naissance: '1863-03-06'
+deces: '1930-05-28'
+naissance_lieu: Rorschach
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1914-02-01'
+  lieu: Cathedral, Sankt Gallen, Diocese of Sankt Gallen
+  consecrateur_principal: jakob-stammler
+  co_consecrateurs:
+  - georg-schmid-von-gruneck
+  - sigismund-waitz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bburk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sankt Gallen, Switzerland
+  du: null
+  au: '1930-05-28'
+- titre: évêque diocésain
+  du: '1913-10-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20B%C3%BCrkler.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3938225
+  catholic_hierarchy: bburk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:00:33+00:00'
+  completeness: 1.0

@@ -1,0 +1,46 @@
+slug: paulin-de-nole
+nom: Paulin de Nole
+nom_complet: St. Paulinus of Nola
+naissance: '354'
+deces: '431'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux, France
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnolap.html
+  - https://fr.wikipedia.org/wiki/Paulin_de_Nole
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nola, Italy
+  du: '410'
+  au: 22 Jun 431
+- titre: évêque de Nole
+  du: '0410-01-01'
+  au: '0431-06-23'
+- titre: consul
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Linz%20Dom%20Fenster%2009%20img03.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q132473
+  catholic_hierarchy: bnolap
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:36:17+00:00'
+  completeness: 0.38

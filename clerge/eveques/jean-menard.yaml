@@ -1,0 +1,57 @@
+slug: jean-menard
+nom: Jean Ménard
+nom_complet: Jean-Ernest Ménard
+naissance: '1910-11-10'
+deces: '1973-06-28'
+naissance_lieu: Dreux, Diocese of Chartres
+deces_lieu: Rodez, Diocese of Rodez (-Vabres)
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1953-06-11'
+  lieu: Cathedral, Chartres, Diocese of Chartres
+  consecrateur_principal: raoul-harscouet
+  co_consecrateurs:
+  - alphonse-gaudron
+  - armand-coupel
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmenard.html
+  - https://fr.wikipedia.org/wiki/Jean_M%C3%A9nard_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Chartres, France
+  du: '1953-04-14'
+  au: null
+- titre: Titular Bishop of Alia
+  du: '1953-04-14'
+  au: null
+- titre: Bishop of Rodez (-Vabres), France
+  du: '1955-01-23'
+  au: '1973-06-28'
+- titre: évêque de Rodez et Vabres
+  du: '1955-01-23'
+  au: '1973-06-26'
+- titre: évêque auxiliaire
+  du: '1953-04-14'
+  au: '1955-01-23'
+- titre: évêque titulaire
+  du: '1953-04-14'
+  au: '1955-01-23'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16562481
+  catholic_hierarchy: bmenard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:49:58+00:00'
+  completeness: 1.0

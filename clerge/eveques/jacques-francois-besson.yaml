@@ -1,0 +1,48 @@
+slug: jacques-francois-besson
+nom: Jacques-François Besson
+nom_complet: Jacques François Besson
+naissance: '1756-09-12'
+deces: '1842-07-23'
+naissance_lieu: Seyssel
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1824-02-23'
+  consecrateur_principal: jean-gaston-de-pins
+  co_consecrateurs:
+  - alexandre-devie
+  - antoine-jacques-de-chamon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbessf.html
+  - https://fr.wikipedia.org/wiki/Jacques-Fran%C3%A7ois_Besson
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Metz, France
+  du: null
+  au: '1842-07-23'
+- titre: évêque de Metz
+  du: '1823-10-14'
+  au: '1842-07-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Besson%2C%20cur%C3%A9%20de%20St-Nizier.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1677853
+  catholic_hierarchy: bbessf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:46+00:00'
+  completeness: 1.0

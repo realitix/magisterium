@@ -1,0 +1,51 @@
+slug: henri-cauchon-de-maupas
+nom: Henri Cauchon de Maupas
+nom_complet: Henri de Cauchon de Maupas
+naissance: '1604-11-15'
+deces: '1680-08-12'
+naissance_lieu: Sermiers
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1643-10-04'
+  consecrateur_principal: charles-de-montchal
+  co_consecrateurs:
+  - francois-fouquet
+  - antoine-godeau
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcauc.html
+  - https://fr.wikipedia.org/wiki/Henri_Cauchon_de_Maupas
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: '1664-03-31'
+  au: '1680-08-12'
+- titre: évêque diocésain
+  du: '1664-03-31'
+  au: null
+- titre: évêque diocésain
+  du: '1641-08-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Cauchon%20de%20Maupas%20du%20Tour.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3130803
+  catholic_hierarchy: bcauc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:33:28+00:00'
+  completeness: 1.0

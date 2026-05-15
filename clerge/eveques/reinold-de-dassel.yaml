@@ -1,0 +1,45 @@
+slug: reinold-de-dassel
+nom: Reinold de Dassel
+nom_complet: Rainald von Dassel
+naissance: '1114'
+deces: '1167-08-14'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q12548
+tampon: ordo_validus
+sacre:
+  date: '1165-10-02'
+  consecrateur_principal: alexandre-ii-1150
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdassel.html
+  - https://fr.wikipedia.org/wiki/Rainald_von_Dassel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Köln {Cologne}, Germany
+  du: Feb 1159&sup2;
+  au: '1167-08-14'
+- titre: archevêque de Cologne
+  du: '1165-10-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/RainaldvonDassel.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q55619
+  catholic_hierarchy: bdassel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:29:43+00:00'
+  completeness: 0.62

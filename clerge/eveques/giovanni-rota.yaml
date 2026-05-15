@@ -1,0 +1,46 @@
+slug: giovanni-rota
+nom: Giovanni Rota
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1540-04-10'
+  consecrateur_principal: bartolomeo-siringi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brotagv.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Padova {Padua}, Italy
+  du: '1540-04-10'
+  au: 1552&sup1;
+- titre: Titular Bishop of Argos
+  du: '1540-04-10'
+  au: null
+- titre: évêque titulaire
+  du: '1540-04-10'
+  au: null
+- titre: évêque auxiliaire
+  du: '1540-04-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779123
+  catholic_hierarchy: brotagv
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:30:32+00:00'
+  completeness: 0.38

@@ -1,0 +1,44 @@
+slug: engelbert-des-bois
+nom: Engelbert des Bois
+nom_complet: Engelbert Des Bois
+naissance: '1578-07-09'
+deces: '1651-08-15'
+naissance_lieu: Tornaci
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1630-07-07'
+  consecrateur_principal: francois-van-der-burch
+  co_consecrateurs:
+  - jacob-maximilien-villain
+  - antoine-triest
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdesbois.html
+  - https://fr.wikipedia.org/wiki/Engelbert_des_Bois
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: '1630-03-18'
+  au: '1651-08-15'
+- titre: évêque de Namur
+  du: '1630-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19288500
+  catholic_hierarchy: bdesbois
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:44:37+00:00'
+  completeness: 1.0

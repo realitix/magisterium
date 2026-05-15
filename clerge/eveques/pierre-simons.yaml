@@ -1,0 +1,49 @@
+slug: pierre-simons
+nom: Pierre Simons
+nom_complet: Petrus Simonis
+naissance: '1538'
+deces: '1605-10-05'
+naissance_lieu: Thielt
+deces_lieu: Ypres, Diocese of Ypres (Ieper)
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1585-01-13'
+  lieu: Notre-Dame, Cathedral, Tournai, Diocese of Tournai {Doornik}
+  consecrateur_principal: maximilien-morillon
+  co_consecrateurs:
+  - mathieu-moulart
+  - jean-six
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsimonsp.html
+  - https://fr.wikipedia.org/wiki/Pierre_Simons_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ypres (Ieper), Belgium
+  du: '1584-09-03'
+  au: '1605-10-05'
+- titre: évêque d'Ypres
+  du: '1584-09-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Petrus%20Simons%20Petrvs%20Simonis%20Episcopvs%20Iprensis%20%28titel%20op%20object%29%20Bekende%20schrijvers%20uit%20de%20Nederlanden%20%28serietitel%29%20Bibliotheca%20Belgica%20%28serietitel%29%2C%20RP-P-1912-739.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q41719366
+  catholic_hierarchy: bsimonsp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:20:00+00:00'
+  completeness: 0.88

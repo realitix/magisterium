@@ -1,0 +1,54 @@
+slug: richard-preston
+nom: Richard Preston
+nom_complet: null
+naissance: '1856-12-12'
+deces: '1905-02-09'
+naissance_lieu: St. Leonard's Gate, Lancaster, Lancashire, Diocese of Liverpool, England
+deces_lieu: Southfield, Lancaster, Lancashire, Diocese of Liverpool, England
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1900-07-25'
+  lieu: St. Cuthbert, Seminary, Ushaw, Durham, County Durham, Diocese of Hexham and
+    Newcastle, England
+  consecrateur_principal: thomas-william-wilkinson
+  co_consecrateurs:
+  - thomas-whiteside
+  - francis-mostyn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpres.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Hexham and Newcastle, England, Great Britain
+  du: '1900-03-31'
+  au: '1904-12-22'
+- titre: Titular Bishop of Phocaea
+  du: '1900-03-31'
+  au: null
+- titre: Auxiliary Bishop Emeritus of Hexham and Newcastle, England, Great Britain
+  du: null
+  au: '1905-02-09'
+- titre: évêque titulaire
+  du: '1900-03-31'
+  au: '1905-02-09'
+- titre: évêque auxiliaire
+  du: '1900-03-31'
+  au: '1904-12-22'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734215
+  catholic_hierarchy: bpres
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:48:53+00:00'
+  completeness: 1.0

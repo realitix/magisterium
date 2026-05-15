@@ -1,0 +1,39 @@
+slug: roland-de-neufville
+nom: Roland de Neufville
+nom_complet: Roland de Neuville
+naissance: '1530'
+deces: '1613-02-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bneuvil.html
+  - https://fr.wikipedia.org/wiki/Roland_de_Neufville
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: '1563-10-15'
+  au: '1613-02-05'
+- titre: évêque diocésain
+  du: '1563-10-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28495092
+  catholic_hierarchy: bneuvil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:30:30+00:00'
+  completeness: 0.38

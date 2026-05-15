@@ -1,0 +1,45 @@
+slug: bernardo-font-o-carm
+nom: Bernardo Font, O. Carm.
+nom_complet: Bernardo Font
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: betrand-cardinal-du-pouget
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfontb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Telde-Canarias, Spain
+  du: '1351-11-07'
+  au: null
+- titre: Bishop of Santa Giusta (Othoca), Italy
+  du: '1354-06-27'
+  au: 1355&sup1;
+- titre: évêque diocésain
+  du: '1351-11-15'
+  au: null
+- titre: évêque diocésain
+  du: '1354-07-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64779561
+  catholic_hierarchy: bfontb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:12+00:00'
+  completeness: 0.5

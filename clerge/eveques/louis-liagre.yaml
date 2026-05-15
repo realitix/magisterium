@@ -1,0 +1,49 @@
+slug: louis-liagre
+nom: Louis Liagre
+nom_complet: null
+naissance: '1883-09-05'
+deces: '1955-08-10'
+naissance_lieu: Tourcoing, Archdiocese of Cambrai
+deces_lieu: La Ropchelle, Diocese of La Rochelle (-Saintes)
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1938-05-04'
+  lieu: "Sacré C\x9Cur, Church, Tourcoing, Diocese of Lille"
+  consecrateur_principal: achille-lienart
+  co_consecrateurs:
+  - maurice-feltin
+  - henri-edouard-dutoit
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bliag.html
+  - https://fr.wikipedia.org/wiki/Louis_Liagre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of La Rochelle (-Saintes), France
+  du: '1938-03-07'
+  au: '1955-08-10'
+- titre: évêque de La Rochelle et Saintes
+  du: '1938-03-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Liagre.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64747030
+  catholic_hierarchy: bliag
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:57+00:00'
+  completeness: 1.0

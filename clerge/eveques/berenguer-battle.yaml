@@ -1,0 +1,46 @@
+slug: berenguer-battle
+nom: Berenguer Battle
+nom_complet: null
+naissance: null
+deces: '1349-11-01'
+naissance_lieu: Peralada
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Oct 1320&sup2;
+  consecrateur_principal: berenger-fredol-le-jeune
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbattle.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elne, France
+  du: '1320-09-03'
+  au: null
+- titre: Bishop of Mallorca, Spain
+  du: '1332-07-27'
+  au: '1349-11-01'
+- titre: évêque de Majorque et Minorque
+  du: '1332-08-04'
+  au: null
+- titre: évêque d'Elne
+  du: '1320-09-11'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761173
+  catholic_hierarchy: bbattle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:08:20+00:00'
+  completeness: 0.75

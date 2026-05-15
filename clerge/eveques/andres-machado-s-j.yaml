@@ -1,0 +1,47 @@
+slug: andres-machado-s-j
+nom: Andrés Machado, S.J.
+nom_complet: Andrés Machado
+naissance: '1850-08-10'
+deces: '1926-01-22'
+naissance_lieu: Cuenca, Diocese of Cuenca
+deces_lieu: Guayaquil, Diocese of Guayaquil
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1908-02-16'
+  lieu: Quito, Archdiocese of Quito
+  consecrateur_principal: federico-gonzalez-suarez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmachaa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bolivar, Ecuador
+  du: '1907-11-16'
+  au: null
+- titre: Bishop of Guayaquil, Ecuador
+  du: '1916-04-28'
+  au: '1926-01-22'
+- titre: évêque diocésain
+  du: '1907-11-16'
+  au: '1916-04-28'
+- titre: bishop of Guayaquil
+  du: '1916-04-28'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q64734373
+  catholic_hierarchy: bmachaa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:09:42+00:00'
+  completeness: 0.88

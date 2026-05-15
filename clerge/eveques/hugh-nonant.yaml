@@ -1,0 +1,47 @@
+slug: hugh-nonant
+nom: Hugh Nonant
+nom_complet: Hugh of Nonant
+naissance: '1150'
+deces: '1198-03-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1188-01-31'
+  consecrateur_principal: non-indexe-f8e3b0da
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnonant.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coventry and Lichfield, England, Great Britain
+  du: 1185&sup2;
+  au: '1198-03-27'
+- titre: haut-shérif du Leicestershire
+  du: '1191-01-01'
+  au: null
+- titre: évêque de Coventry et Lichfield
+  du: '1185-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Clo%C3%AEtre%20et%20tour%20Saint-Nicolas.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3785333
+  catholic_hierarchy: bnonant
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:36:30+00:00'
+  completeness: 0.75

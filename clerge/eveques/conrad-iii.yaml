@@ -1,0 +1,46 @@
+slug: conrad-iii
+nom: Conrad III
+nom_complet: Konrad der Sendlinger
+naissance: '1300'
+deces: '1322-04-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsendli.html
+  - https://fr.wikipedia.org/wiki/Conrad_III_de_Freising
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Freising, Germany
+  du: '1314-10-03'
+  au: '1322-04-12'
+- titre: évêque diocésain
+  du: '1314-10-11'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%BCrstengang%20Bisch%C3%B6fe%2031%20-%20Konrad%20III.%20der%20Sendlinger.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1412506
+  catholic_hierarchy: bsendli
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:09:45+00:00'
+  completeness: 0.38

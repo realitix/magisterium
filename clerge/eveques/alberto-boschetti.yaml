@@ -1,0 +1,38 @@
+slug: alberto-boschetti
+nom: Alberto Boschetti
+nom_complet: null
+naissance: null
+deces: '1264-02-29'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboschea.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Modena, Italy
+  du: '1234-04-03'
+  au: '1264-02-29'
+- titre: bishop of Modena
+  du: '1234-04-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108448876
+  catholic_hierarchy: bboschea
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:58+00:00'
+  completeness: 0.38

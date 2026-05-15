@@ -1,0 +1,44 @@
+slug: armand-de-bethune
+nom: Armand de Béthune
+nom_complet: null
+naissance: '1635-08-07'
+deces: '1703-12-10'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1665-07-12'
+  consecrateur_principal: henri-de-bethune
+  co_consecrateurs:
+  - jean-d-estrades
+  - cesar-cardinal-d-rsquo-estrees
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbethun.html
+  - https://fr.wikipedia.org/wiki/Armand_de_B%C3%A9thune
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Puy-en-Velay, France
+  du: null
+  au: '1703-12-10'
+- titre: évêque diocésain
+  du: '1661-08-19'
+  au: '1703-12-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2862004
+  catholic_hierarchy: bbethun
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:06+00:00'
+  completeness: 1.0

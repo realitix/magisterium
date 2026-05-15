@@ -1,0 +1,38 @@
+slug: paganus-lesueur-de-esquetot
+nom: Paganus Lesueur de Esquetot
+nom_complet: null
+naissance: null
+deces: '1551-12-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blesueu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Coutances, France
+  du: '1549-01-09'
+  au: '1551-12-24'
+- titre: évêque diocésain
+  du: '1549-01-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905153
+  catholic_hierarchy: blesueu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:46:36+00:00'
+  completeness: 0.38

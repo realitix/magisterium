@@ -1,0 +1,44 @@
+slug: jean-baptiste-de-sade
+nom: Jean-Baptiste de Sade
+nom_complet: null
+naissance: '1633-07-14'
+deces: '1707-12-19'
+naissance_lieu: Mazan
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1666-03-14'
+  consecrateur_principal: francesco-cardinal-barberini-sr
+  co_consecrateurs:
+  - ferdinando-apicello
+  - joseph-marie-de-suares
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsade.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_de_Sade_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cavaillon, France
+  du: null
+  au: '1707-12-19'
+- titre: évêque de Cavaillon
+  du: '1665-09-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1684693
+  catholic_hierarchy: bsade
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:40:41+00:00'
+  completeness: 0.88

@@ -1,0 +1,40 @@
+slug: edmund-tanner
+nom: Edmund Tanner
+nom_complet: null
+naissance: '1526'
+deces: '1579-06-04'
+naissance_lieu: Dublin, Archdiocese of Dublin
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1575-02-06'
+  lieu: San Pietro, Basilica, Roma, Diocese of Roma {Rome}, Italy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btannre.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cork and Cloyne, Ireland
+  du: '1574-11-05'
+  au: '1579-06-04'
+- titre: évêque de Cork et Cloyne
+  du: '1574-11-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5339853
+  catholic_hierarchy: btannre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:50:22+00:00'
+  completeness: 0.5

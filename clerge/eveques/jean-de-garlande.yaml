@@ -1,0 +1,39 @@
+slug: jean-de-garlande
+nom: Jean de Garlande
+nom_complet: null
+naissance: null
+deces: '1315-10-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgarlandj.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Garlande_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chartres, France
+  du: Jan 1298&sup3;
+  au: '1315-10-01'
+- titre: évêque diocésain
+  du: '1298-01-01'
+  au: '1315-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175420
+  catholic_hierarchy: bgarlandj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:11:18+00:00'
+  completeness: 0.38

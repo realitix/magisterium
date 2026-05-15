@@ -1,0 +1,43 @@
+slug: martino-alfieri
+nom: Martino Alfieri
+nom_complet: null
+naissance: '1590-11-10'
+deces: '1641-03-30'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1634-09-10'
+  lieu: Santa Maria Maggiore, Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-roma
+  co_consecrateurs:
+  - giambattista-altieri
+  - giovanni-battista-scanaroli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balfierim.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Isola, Italy
+  du: '1634-08-21'
+  au: null
+- titre: Apostolic Nuncio to Germany
+  du: '1634-09-20'
+  au: '1639-06-13'
+- titre: Archbishop of Cosenza, Italy
+  du: '1639-04-11'
+  au: '1641-03-30'
+fraternite: null
+photo: null
+qids:
+  catholic_hierarchy: balfierim
+sources:
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:29:55+00:00'
+  completeness: 1.0

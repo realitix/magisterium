@@ -1,0 +1,42 @@
+slug: francois-de-la-beraudiere
+nom: François de La Béraudière
+nom_complet: null
+naissance: '1597'
+deces: '1646-05-14'
+naissance_lieu: Poitiers
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1614-07-13'
+  co_consecrateurs:
+  - jean-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blberau.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_La_B%C3%A9raudi%C3%A8re
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Périgueux (Vesuna), France
+  du: '1614-02-17'
+  au: '1646-05-14'
+- titre: évêque diocésain
+  du: '1614-02-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816873
+  catholic_hierarchy: blberau
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:38:02+00:00'
+  completeness: 0.62

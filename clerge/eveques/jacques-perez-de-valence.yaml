@@ -1,0 +1,50 @@
+slug: jacques-perez-de-valence
+nom: Jacques Perez de Valence
+nom_complet: Jaime Perez de Valencia, O.S.A.
+naissance: '1408'
+deces: '1490-08-03'
+naissance_lieu: Ayora, Diocese of Valencia
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1469-02-12'
+  lieu: Cathedral, Valencia, Diocese of Valencia
+  consecrateur_principal: juan-aragon-de-navarra
+  co_consecrateurs:
+  - pedro-baldo
+  - juan-anadon-o-f-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperdval.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Valencia, Spain
+  du: '1468-10-01'
+  au: '1490-08-03'
+- titre: Titular Bishop of Christopolis
+  du: '1468-10-01'
+  au: null
+- titre: évêque titulaire
+  du: '1468-10-10'
+  au: null
+- titre: évêque auxiliaire
+  du: '1468-10-10'
+  au: null
+fraternite: augustins
+photo: null
+qids:
+  wikidata: Q64760900
+  catholic_hierarchy: bperdval
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:20:25+00:00'
+  completeness: 0.88

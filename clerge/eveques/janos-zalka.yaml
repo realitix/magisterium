@@ -1,0 +1,47 @@
+slug: janos-zalka
+nom: János Zalka
+nom_complet: null
+naissance: '1820-12-17'
+deces: '1901-01-16'
+naissance_lieu: Veszkény, Diocese of Gy&#337;r (Raab)
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1867-05-05'
+  lieu: Cathedral, Gy&#337;r, Diocese of Gy&#337;r (Raab)
+  consecrateur_principal: janos-simor
+  co_consecrateurs:
+  - jozsef-durguth
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzalka.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gy&#337;r (Raab), Hungary
+  du: null
+  au: '1901-01-16'
+- titre: évêque de Győr
+  du: '1867-02-14'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Zalka%20J%C3%A1nos%20Doby.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1466653
+  catholic_hierarchy: bzalka
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:04:41+00:00'
+  completeness: 1.0

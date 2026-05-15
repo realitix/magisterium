@@ -1,0 +1,220 @@
+---
+import Base from '../../layouts/Base.astro';
+import ClergeSearch from '../../components/ClergeSearch.astro';
+import ClerigeStats from '../../components/ClerigeStats.astro';
+import { getAllClerics, tamponOf } from '../../data/loadClerge.ts';
+
+// Top 50 évêques notables — heuristique simple : avec photo + slug court.
+const all = getAllClerics();
+const notable = all
+  .filter((c) => c.photo_disponible && c.naissance_annee !== null && c.naissance_annee >= 1500)
+  .sort((a, b) => (b.naissance_annee ?? 0) - (a.naissance_annee ?? 0))
+  .slice(0, 50);
+
+const tamponLabel: Record<string, string> = {
+  ordo_validus: 'Validus',
+  ordo_dubius: 'Dubius',
+  ordo_incertus: 'Incertus',
+};
+---
+
+<Base
+  title="Clergé"
+  description="Corpus prosopographique des évêques catholiques — sacre, lignée, obédience, tampon de validité."
+>
+  <main id="main" class="clerge-home" data-pagefind-ignore="all">
+    <header class="clerge-home__header">
+      <p class="clerge-home__eyebrow">Corpus prosopographique</p>
+      <h1 class="clerge-home__title">Clergé catholique</h1>
+      <p class="clerge-home__lede">
+        Une fiche par évêque catholique recensé — sacre, lignée
+        sacramentelle, obédience et tampon de validité du rite.
+        Aucun verdict ajouté : le rite réellement utilisé parle de lui-même.
+      </p>
+      <p class="clerge-home__lede">
+        L'enjeu doctrinal — la validité du rite de consécration épiscopale
+        promulgué en 1968 — est traité dans la fiche
+        <a href="/questions/validite-rite-episcopal-1968/">
+          « Validité du rite épiscopal de 1968 »</a>.
+      </p>
+    </header>
+
+    <ClerigeStats />
+
+    <nav class="clerge-home__nav" aria-label="Navigation clergé">
+      <a href="/clerge/fraternite/" class="clerge-home__nav-card">
+        <span class="clerge-home__nav-label">Fraternités</span>
+        <span class="clerge-home__nav-desc">FSSPX, FSSP, ICRSP, IBP, sédévacantistes, Palmar…</span>
+      </a>
+      <a href="/clerge/statistiques/" class="clerge-home__nav-card">
+        <span class="clerge-home__nav-label">Statistiques</span>
+        <span class="clerge-home__nav-desc">Répartition par siècle, par tampon, par fraternité</span>
+      </a>
+    </nav>
+
+    <section class="clerge-home__search-wrap" aria-label="Recherche d'évêques">
+      <h2 class="clerge-home__subtitle">Rechercher</h2>
+      <ClergeSearch />
+    </section>
+
+    <section class="clerge-home__notable" aria-label="Évêques notables">
+      <h2 class="clerge-home__subtitle">Quelques fiches notables</h2>
+      <ul class="clerge-home__list" role="list">
+        {notable.map((c) => {
+          const t = tamponOf(c.slug);
+          const dates =
+            c.naissance_annee !== null && c.deces_annee !== null
+              ? `${c.naissance_annee} – ${c.deces_annee}`
+              : c.naissance_annee !== null
+                ? `né en ${c.naissance_annee}`
+                : '';
+          return (
+            <li>
+              <a href={`/clerge/${c.slug}/`} class="clerge-home__card">
+                <span class="clerge-home__card-name">{c.nom}</span>
+                <span class="clerge-home__card-meta">{dates}</span>
+                <span class={`clerge-home__card-tampon clerge-home__card-tampon--${t}`}>
+                  {tamponLabel[t]}
+                </span>
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  </main>
+</Base>
+
+<style>
+  .clerge-home {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: var(--space-l) var(--space-m) var(--space-2xl);
+  }
+  .clerge-home__header {
+    margin-bottom: var(--space-l);
+    padding-bottom: var(--space-m);
+    border-bottom: 1px solid var(--rule);
+  }
+  .clerge-home__nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: var(--space-m);
+    margin: var(--space-l) 0;
+  }
+  .clerge-home__nav-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+    padding: var(--space-m);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--paper);
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.15s, transform 0.15s;
+  }
+  .clerge-home__nav-card:hover {
+    background: var(--paper-soft, #f5f1e8);
+    transform: translateY(-1px);
+  }
+  .clerge-home__nav-label {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
+  .clerge-home__nav-desc {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+  }
+  .clerge-home__eyebrow {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin: 0 0 var(--space-2xs);
+  }
+  .clerge-home__title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(2rem, 4vw, 3rem);
+    color: var(--ink);
+    margin: 0 0 var(--space-s);
+    letter-spacing: -0.015em;
+  }
+  .clerge-home__lede {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-s);
+  }
+  .clerge-home__lede a {
+    color: var(--rubric);
+  }
+  .clerge-home__subtitle {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--ink);
+    margin: 0 0 var(--space-s);
+  }
+  .clerge-home__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-xs);
+  }
+  .clerge-home__card {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto;
+    gap: 0.1em var(--space-s);
+    padding: var(--space-xs) var(--space-s);
+    background: var(--paper-dim);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 120ms ease, background-color 120ms ease;
+  }
+  .clerge-home__card:hover,
+  .clerge-home__card:focus-visible {
+    border-color: var(--rubric);
+    background: var(--paper);
+    outline: none;
+  }
+  .clerge-home__card-name {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--ink);
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .clerge-home__card-meta {
+    font-family: var(--font-serif);
+    font-size: 0.85rem;
+    color: var(--muted);
+    grid-column: 1;
+    grid-row: 2;
+  }
+  .clerge-home__card-tampon {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.68rem;
+    padding: 0.15em 0.5em;
+    border-radius: 2px;
+    border: 1px solid currentColor;
+    grid-column: 2;
+    grid-row: 1 / 3;
+    align-self: center;
+  }
+  .clerge-home__card-tampon--ordo_validus { color: #1b3a6b; }
+  .clerge-home__card-tampon--ordo_dubius { color: #8b1a1a; }
+  .clerge-home__card-tampon--ordo_incertus { color: #6b6158; }
+</style>

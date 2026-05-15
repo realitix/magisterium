@@ -1,0 +1,40 @@
+slug: robert-gilbert
+nom: Robert Gilbert
+nom_complet: null
+naissance: null
+deces: '1448-06-22'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1436-10-28'
+  consecrateur_principal: henry-cardinal-beaufort
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgilberr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of London, England, Great Britain
+  du: null
+  au: '1448-06-22'
+- titre: évêque de Londres
+  du: '1436-03-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7344762
+  catholic_hierarchy: bgilberr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:22:48+00:00'
+  completeness: 0.75

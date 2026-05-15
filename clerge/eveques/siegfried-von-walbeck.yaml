@@ -1,0 +1,44 @@
+slug: siegfried-von-walbeck
+nom: Siegfried von Walbeck
+nom_complet: Siegfried
+naissance: '1000'
+deces: '1032-11-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwalbeck.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Münster, Germany
+  du: 1022&sup1;
+  au: '1032-11-27'
+- titre: évêque
+  du: null
+  au: null
+- titre: abbé
+  du: null
+  au: null
+- titre: évêque diocésain
+  du: '1022-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1689660
+  catholic_hierarchy: bwalbeck
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:48:32+00:00'
+  completeness: 0.38

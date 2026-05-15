@@ -1,0 +1,44 @@
+slug: antoine-de-cros
+nom: Antoine de Cros
+nom_complet: null
+naissance: '1565'
+deces: '1630-02-24'
+naissance_lieu: Richerenche
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1600-04-30'
+  consecrateur_principal: jean-de-tulles
+  co_consecrateurs:
+  - jean-de-l-rsquo-hotel
+  - guillaume-iii-de-cheisolme
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdcros.html
+  - https://fr.wikipedia.org/wiki/Antoine_de_Cros
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Paul-Trois-Châteaux, France
+  du: '1599-07-19'
+  au: '1630-02-24'
+- titre: évêque diocésain
+  du: '1599-07-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q24939642
+  catholic_hierarchy: bdcros
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:34:57+00:00'
+  completeness: 0.88

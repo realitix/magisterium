@@ -1,0 +1,45 @@
+slug: alain-le-maout
+nom: Alain Le Maout
+nom_complet: null
+naissance: null
+deces: '1493-11-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blemaout.html
+  - https://fr.wikipedia.org/wiki/Alain_Le_Maout
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint-Pol-de-Léon, France
+  du: '1482-03-29'
+  au: null
+- titre: Bishop of Quimper, France
+  du: '1484-03-08'
+  au: '1493-11-02'
+- titre: évêque diocésain
+  du: '1484-03-17'
+  au: null
+- titre: évêque de Léon
+  du: '1482-04-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28495103
+  catholic_hierarchy: blemaout
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:42:25+00:00'
+  completeness: 0.38

@@ -1,0 +1,42 @@
+slug: angelo-franchi
+nom: Angelo Franchi
+nom_complet: Angelo Franchi, O.F.M.
+naissance: '1675-10-02'
+deces: '1751-09-22'
+naissance_lieu: Dubrovnik
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1728-02-01'
+  co_consecrateurs:
+  - placido-pezzancheri
+  - giovanni-bortone
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranchia.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Dubrovnik (Ragusa), Croatia
+  du: '1728-01-26'
+  au: '1751-09-22'
+- titre: archevêque de Dubrovnik
+  du: '1728-02-01'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64733635
+  catholic_hierarchy: bfranchia
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:55:25+00:00'
+  completeness: 0.88

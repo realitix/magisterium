@@ -1,0 +1,44 @@
+slug: jean-baptiste-dubois
+nom: Jean-Baptiste Dubois
+nom_complet: null
+naissance: '1754-08-25'
+deces: '1822-01-06'
+naissance_lieu: Argentolles
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1820-07-09'
+  consecrateur_principal: hyacinthe-louis-de-quelen
+  co_consecrateurs:
+  - jean-charles-de-coucy
+  - marc-marie-de-bombelles
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduboj.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Dubois_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dijon, France
+  du: null
+  au: '1822-01-06'
+- titre: évêque de Dijon
+  du: '1820-03-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15968089
+  catholic_hierarchy: bduboj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:10:54+00:00'
+  completeness: 1.0

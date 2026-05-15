@@ -1,0 +1,50 @@
+slug: jean-vivant
+nom: Jean Vivant
+nom_complet: null
+naissance: '1660-02-13'
+deces: '1739-02-16'
+naissance_lieu: Paris, Archdiocese of Paris
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1730-10-08'
+  consecrateur_principal: armand-gaston-maximilien-cardinal-de-rohan-de-soubise
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvivant.html
+  - https://fr.wikipedia.org/wiki/Jean_Vivant
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Strasbourg, France
+  du: '1729-11-28'
+  au: '1739-02-16'
+- titre: Titular Bishop of Paros
+  du: '1729-11-28'
+  au: null
+- titre: évêque titulaire
+  du: '1729-11-28'
+  au: '1739-02-16'
+- titre: vicaire général de Strasbourg
+  du: null
+  au: null
+- titre: évêque auxiliaire de Strasbourg
+  du: '1729-11-28'
+  au: '1739-02-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64735137
+  catholic_hierarchy: bvivant
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:43:38+00:00'
+  completeness: 0.88

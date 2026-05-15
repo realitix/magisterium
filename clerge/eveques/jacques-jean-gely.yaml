@@ -1,0 +1,47 @@
+slug: jacques-jean-gely
+nom: Jacques-Jean Gély
+nom_complet: Jacques-Jean Gely
+naissance: '1849-02-04'
+deces: '1929-05-29'
+naissance_lieu: Rigols
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1906-02-25'
+  co_consecrateurs:
+  - louis-joseph-lucon
+  - emile-christophe-enard
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgely.html
+  - https://fr.wikipedia.org/wiki/Jacques-Jean_G%C3%A9ly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mende, France
+  du: '1906-02-21'
+  au: '1929-05-29'
+- titre: évêque diocésain
+  du: '1906-02-25'
+  au: '1929-05-29'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Jean%20G%C3%A9ly%20dans%20La%20Croix%20du%2031%20mai%201929.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3157966
+  catholic_hierarchy: bgely
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:16:14+00:00'
+  completeness: 0.88

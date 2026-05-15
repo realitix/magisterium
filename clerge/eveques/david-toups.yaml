@@ -1,0 +1,44 @@
+slug: david-toups
+nom: David Toups
+nom_complet: David Leon Toups
+naissance: '1971-03-26'
+deces: null
+naissance_lieu: Seattle, Archdiocese of Seattle, Washington
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_dubius
+sacre:
+  date: '2020-08-21'
+  lieu: St. Anthony, Cathedral Basilica, Beaumont, Diocese of Beaumont, Texas
+  consecrateur_principal: daniel-dinardo
+  co_consecrateurs:
+  - curtis-john-guillory
+  - edward-james-burns
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btoups.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Beaumont, Texas, USA
+  du: '2020-06-09'
+  au: null
+- titre: évêque diocésain
+  du: '2020-06-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96178615
+  catholic_hierarchy: btoups
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:07:57+00:00'
+  completeness: 0.88

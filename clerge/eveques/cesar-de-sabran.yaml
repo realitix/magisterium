@@ -1,0 +1,44 @@
+slug: cesar-de-sabran
+nom: César de Sabran
+nom_complet: null
+naissance: '1642'
+deces: '1720-06-19'
+naissance_lieu: Aiguines
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1702-11-30'
+  consecrateur_principal: daniel-de-cosnac
+  co_consecrateurs:
+  - louis-de-thomassin
+  - gabriel-de-cosnac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsabranc.html
+  - https://fr.wikipedia.org/wiki/C%C3%A9sar_de_Sabran
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: null
+  au: '1720-06-19'
+- titre: évêque de Glandèves
+  du: '1702-06-03'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1150802
+  catholic_hierarchy: bsabranc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:39:41+00:00'
+  completeness: 0.88

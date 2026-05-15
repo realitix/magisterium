@@ -1,0 +1,52 @@
+slug: alfred-duquesnay
+nom: Alfred Duquesnay
+nom_complet: null
+naissance: '1814-09-23'
+deces: '1884-09-15'
+naissance_lieu: Rouen, Archdiocese of Rouen
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1872-02-10'
+  lieu: St. Sulpice, Paris, Archdiocese of Paris
+  consecrateur_principal: victor-felix-bernadou
+  co_consecrateurs:
+  - jacques-antoine-claude-marie-boudinet
+  - jules-emmanuel-ravinet
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bduqu.html
+  - https://fr.wikipedia.org/wiki/Alfred_Duquesnay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Cambrai, France
+  du: null
+  au: '1884-09-15'
+- titre: archevêque catholique
+  du: '1881-02-17'
+  au: null
+- titre: évêque diocésain
+  du: '1871-10-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Duquesnay%201865.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q2835093
+  catholic_hierarchy: bduqu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:14:43+00:00'
+  completeness: 1.0

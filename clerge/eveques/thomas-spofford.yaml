@@ -1,0 +1,58 @@
+slug: thomas-spofford
+nom: Thomas Spofford
+nom_complet: Thomas Spofford, O.S.B.
+naissance: null
+deces: '1448-12-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q21
+tampon: ordo_validus
+sacre:
+  date: '1422-05-24'
+  consecrateur_principal: henry-cardinal-beaufort
+  co_consecrateurs:
+  - thomas-langley
+  - philip-morgan
+  - john-wakering
+  - john-lewale
+  - john-curley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bspoff.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Rochester, England, Great Britain
+  du: '1421-04-07'
+  au: null
+- titre: Bishop of Hereford, England, Great Britain
+  du: '1421-11-17'
+  au: 1448&sup2;
+- titre: évêque de Hereford
+  du: '1421-01-01'
+  au: '1448-01-01'
+- titre: Abbot of St Mary's, York
+  du: '1405-01-01'
+  au: '1421-01-01'
+- titre: évêque diocésain
+  du: '1421-04-16'
+  au: null
+- titre: évêque diocésain
+  du: '1421-11-26'
+  au: '1448-01-01'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q7794125
+  catholic_hierarchy: bspoff
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:34:03+00:00'
+  completeness: 0.75

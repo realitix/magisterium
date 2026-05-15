@@ -1,0 +1,48 @@
+slug: john-england
+nom: John England
+nom_complet: null
+naissance: '1786-09-13'
+deces: '1842-04-11'
+naissance_lieu: Cork, Diocese of Cork, Ireland
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1820-09-21'
+  lieu: S. Finbar, Cathedral, Cork, Diocese of Cork, Ireland
+  consecrateur_principal: john-murphy
+  co_consecrateurs:
+  - kyran-marum
+  - patrick-kelly-1779
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bengland.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Charleston, South Carolina, USA
+  du: '1820-08-11'
+  au: '1842-04-11'
+- titre: évêque diocésain
+  du: '1820-08-11'
+  au: '1842-04-11'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20John%20England.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6231795
+  catholic_hierarchy: bengland
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:22:25+00:00'
+  completeness: 1.0

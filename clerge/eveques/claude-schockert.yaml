@@ -1,0 +1,45 @@
+slug: claude-schockert
+nom: Claude Schockert
+nom_complet: Claude Pierre Charles Schockert
+naissance: '1940-01-26'
+deces: null
+naissance_lieu: Foug
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '2000-05-14'
+  lieu: Saint-Joseph, Church, Belfort, Diocese of Belfort-Montbéliard
+  consecrateur_principal: eugene-lecrosnier
+  co_consecrateurs:
+  - yves-patenotre
+  - jean-louis-papin
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschc.html
+  - https://fr.wikipedia.org/wiki/Claude_Schockert
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Belfort-Montbéliard, France
+  du: '2000-03-01'
+  au: null
+- titre: évêque de Belfort-Montbéliard
+  du: '2000-03-01'
+  au: '2015-05-21'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1097139
+  catholic_hierarchy: bschc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:00:26+00:00'
+  completeness: 0.88

@@ -1,0 +1,44 @@
+slug: godefroid-de-rhenen
+nom: Godefroid de Rhenen
+nom_complet: Godefroid von Reinen
+naissance: '1200'
+deces: '1177'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: philippe-de-heinsberg
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/breinen.html
+  - https://fr.wikipedia.org/wiki/Godefroid_de_Rhenen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Utrecht, Netherlands
+  du: '1156-07-31'
+  au: '1177-05-27'
+- titre: évêque diocésain
+  du: '1156-08-07'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Godfried%20of%20Utrecht%20-%20seal%2C%201156.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1374784
+  catholic_hierarchy: breinen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:07:54+00:00'
+  completeness: 0.5

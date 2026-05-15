@@ -1,0 +1,51 @@
+slug: louis-delebecque
+nom: Louis Delebecque
+nom_complet: Lodewijk-Jozef Delebecque
+naissance: '1798-12-07'
+deces: '1864-10-02'
+naissance_lieu: Warnèton-sud
+deces_lieu: null
+rang: eveque
+nationalite: Q31
+tampon: ordo_validus
+sacre:
+  date: '1838-11-04'
+  consecrateur_principal: engelbert-sterckx
+  co_consecrateurs:
+  - cornelis-richard-anton-van-bommel
+  - francois-rene-boussen
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdeleb.html
+  - https://fr.wikipedia.org/wiki/Louis-Joseph_Delebecque
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gent {Ghent, Gand}, Belgium
+  du: '1838-09-13'
+  au: '1864-10-02'
+- titre: Évêque de Gand
+  du: '1838-09-13'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Gent%2C%20Sint-Baafskathedraal%20Delebecque%20B%20STB%20585.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1867745
+  catholic_hierarchy: bdeleb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:39:30+00:00'
+  completeness: 1.0

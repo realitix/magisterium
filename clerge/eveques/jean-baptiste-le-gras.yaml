@@ -1,0 +1,39 @@
+slug: jean-baptiste-le-gras
+nom: Jean-Baptiste Le Gras
+nom_complet: Jean Baptiste Le Gras
+naissance: null
+deces: '1583-02-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blegras.html
+  - https://fr.wikipedia.org/wiki/Jean-Baptiste_Le_Gras
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tréguier, France
+  du: '1572-07-04'
+  au: Feb 1583&sup3;
+- titre: évêque diocésain
+  du: '1572-07-14'
+  au: null
+fraternite: jesuites
+photo: null
+qids:
+  wikidata: Q3164211
+  catholic_hierarchy: blegras
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:41:14+00:00'
+  completeness: 0.25

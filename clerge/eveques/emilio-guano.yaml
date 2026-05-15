@@ -1,0 +1,44 @@
+slug: emilio-guano
+nom: Emilio Guano
+nom_complet: null
+naissance: '1900-08-16'
+deces: '1970-09-26'
+naissance_lieu: Genova, Archdiocese of Genova
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1962-05-31'
+  lieu: San Lorenzo, Cathedral, Genova, Archdiocese of Genova
+  consecrateur_principal: giuseppe-siri
+  co_consecrateurs:
+  - pietro-massa-p-i-m-e
+  - pietro-zuccarino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguano.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Livorno, Italy
+  du: '1962-04-27'
+  au: '1970-09-26'
+- titre: évêque diocésain
+  du: '1962-04-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3724426
+  catholic_hierarchy: bguano
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:46:49+00:00'
+  completeness: 1.0

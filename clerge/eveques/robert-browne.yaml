@@ -1,0 +1,44 @@
+slug: robert-browne
+nom: Robert Browne
+nom_complet: null
+naissance: '1844-11-06'
+deces: '1935-03-23'
+naissance_lieu: Charleville, Diocese of Cork
+deces_lieu: null
+rang: eveque
+nationalite: Q174193
+tampon: ordo_validus
+sacre:
+  date: '1894-08-19'
+  lieu: Queenstown
+  consecrateur_principal: thomas-croke
+  co_consecrateurs:
+  - thomas-alphonsus-o-callaghan
+  - william-fitzgerald
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrowr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cloyne, Ireland
+  du: '1894-06-26'
+  au: '1935-03-23'
+- titre: évêque de Cloyne
+  du: '1894-06-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17479013
+  catholic_hierarchy: bbrowr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:54:28+00:00'
+  completeness: 1.0

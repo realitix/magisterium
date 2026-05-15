@@ -1,0 +1,38 @@
+slug: antonio-massa
+nom: Antonio Massa
+nom_complet: null
+naissance: null
+deces: '1616-10-31'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmassaan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castro [del Lazio], Italy
+  du: '1614-11-24'
+  au: '1616-10-31'
+- titre: évêque diocésain
+  du: '1614-11-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64775521
+  catholic_hierarchy: bmassaan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:35:40+00:00'
+  completeness: 0.38

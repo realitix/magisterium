@@ -1,0 +1,41 @@
+slug: ivan-kulyk
+nom: Ivan Kulyk
+nom_complet: null
+naissance: '1979-03-16'
+deces: null
+naissance_lieu: Perevoloka, Archeparchy of Lviv (Ukrainian)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '2019-12-01'
+  lieu: Nativity of the Blessed Virgin Mary, Cathedral, Khmelnytskyi
+  consecrateur_principal: sviatoslav-shevchuk
+  co_consecrateurs:
+  - vassyl-semeniouk
+  - dionisio-lachovicz
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkulyk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque diocésain
+  du: '2019-09-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q67206542
+  catholic_hierarchy: bkulyk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:23:19+00:00'
+  completeness: 0.75

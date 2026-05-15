@@ -1,0 +1,56 @@
+slug: maximilian-kaller
+nom: Maximilian Kaller
+nom_complet: Maximilian Josef Johannes Kaller
+naissance: '1880-10-10'
+deces: '1947-07-07'
+naissance_lieu: Beuthen
+deces_lieu: null
+rang: eveque
+nationalite: Q1206012
+tampon: ordo_validus
+sacre:
+  date: '1930-10-28'
+  consecrateur_principal: cesare-orsenigo
+  co_consecrateurs:
+  - edward-o-rourke
+  - johannes-hillebrand
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkaller.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prelate of Warmia (Ermland), Poland
+  du: '1930-07-23'
+  au: null
+- titre: Apostolic Administrator of Klaipeda, Lithuania
+  du: '1939-06-10'
+  au: null
+- titre: Bishop of Warmia (Ermland), Poland
+  du: null
+  au: '1947-07-07'
+- titre: évêque de Varmie
+  du: '1930-09-02'
+  au: null
+- titre: administrateur apostolique
+  du: '1939-06-10'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Maximilian%20Kaller%20Frauenburger%20Dom.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1914001
+  catholic_hierarchy: bkaller
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:07:00+00:00'
+  completeness: 1.0

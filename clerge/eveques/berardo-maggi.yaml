@@ -1,0 +1,44 @@
+slug: berardo-maggi
+nom: Berardo Maggi
+nom_complet: null
+naissance: '1243-09-01'
+deces: '1308'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: Dec 1275&sup3;
+  consecrateur_principal: guiscardo-suardi
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaggib.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brescia, Italy
+  du: Sep 1275&sup3;
+  au: 1308&sup1;
+- titre: évêque diocésain
+  du: '1275-09-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Berardo%20Maggi0%20by%20Stefano%20Bolognini.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3638475
+  catholic_hierarchy: bmaggib
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:12:48+00:00'
+  completeness: 0.62

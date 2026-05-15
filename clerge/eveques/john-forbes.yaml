@@ -1,0 +1,50 @@
+slug: john-forbes
+nom: John Forbes
+nom_complet: Jean-Paul Forbes, M. Afr.
+naissance: '1864-01-10'
+deces: '1926-03-13'
+naissance_lieu: Île Perrot, Canada
+deces_lieu: Pau, France
+rang: eveque
+nationalite: Q16
+tampon: ordo_validus
+sacre:
+  date: '1918-05-19'
+  lieu: Rubaga
+  consecrateur_principal: henri-streicher
+  co_consecrateurs:
+  - joseph-sweens
+  - johannes-biermans-m-h-m
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bforbe.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Vicar Apostolic of Uganda
+  du: '1917-11-17'
+  au: '1926-03-13'
+- titre: Titular Bishop of Vaga
+  du: '1917-11-17'
+  au: null
+- titre: évêque coadjuteur
+  du: '1918-01-01'
+  au: null
+- titre: évêque titulaire
+  du: '1917-11-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q60890682
+  catholic_hierarchy: bforbe
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:51:40+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: john-donegan-o-s-b
+nom: John Donegan, O.S.B.
+nom_complet: John Donegan
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdonegan.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Derry, Ireland
+  du: '1391-07-04'
+  au: null
+- titre: Bishop of Down, Ireland
+  du: '1394-09-16'
+  au: 1412&sup2;
+- titre: évêque de Down
+  du: '1394-09-24'
+  au: null
+- titre: évêque diocésain
+  du: '1391-07-12'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q108481277
+  catholic_hierarchy: bdonegan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:00:47+00:00'
+  completeness: 0.25

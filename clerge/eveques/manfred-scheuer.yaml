@@ -1,0 +1,54 @@
+slug: manfred-scheuer
+nom: Manfred Scheuer
+nom_complet: null
+naissance: '1955-08-10'
+deces: null
+naissance_lieu: Haibach ob der Donau
+deces_lieu: null
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '2003-12-14'
+  consecrateur_principal: alois-kothgasser
+  co_consecrateurs:
+  - maximilian-aichern
+  - reinhold-stecher
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bscheu.html
+  - https://fr.wikipedia.org/wiki/Manfred_Scheuer
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Innsbruck, Austria
+  du: '2003-10-21'
+  au: null
+- titre: Bishop of Linz, Austria
+  du: '2015-11-18'
+  au: null
+- titre: évêque d'Innsbruck
+  du: '2003-10-21'
+  au: null
+- titre: évêque de Linz
+  du: '2015-11-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Manfred%20Scheuer.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q45518
+  catholic_hierarchy: bscheu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:01:05+00:00'
+  completeness: 0.88

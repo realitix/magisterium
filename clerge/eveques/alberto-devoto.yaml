@@ -1,0 +1,44 @@
+slug: alberto-devoto
+nom: Alberto Devoto
+nom_complet: Alberto Pascual Devoto
+naissance: '1918-05-17'
+deces: '1984-07-29'
+naissance_lieu: Buenos Aires, Archdiocese of Buenos Aires
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1961-09-17'
+  lieu: Cathedral, Goya, Diocese of Goya
+  consecrateur_principal: antonio-maria-aguirre
+  co_consecrateurs:
+  - manuel-tato
+  - manuel-menendez
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdevoto.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Goya, Argentina
+  du: '1961-06-12'
+  au: '1984-07-29'
+- titre: évêque diocésain
+  du: '1961-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q30098946
+  catholic_hierarchy: bdevoto
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:12+00:00'
+  completeness: 1.0

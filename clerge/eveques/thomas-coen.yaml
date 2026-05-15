@@ -1,0 +1,53 @@
+slug: thomas-coen
+nom: Thomas Coen
+nom_complet: null
+naissance: '1766'
+deces: '1847-04-25'
+naissance_lieu: Fohena, Co. Galway
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1816-05-05'
+  lieu: St. Brendan, Loughrea, Diocese of Clonfert
+  consecrateur_principal: oliver-o-rsquo-kelly
+  co_consecrateurs:
+  - thomas-costello
+  - peter-waldron
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcoen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Clonfert, Ireland
+  du: '1816-01-26'
+  au: null
+- titre: Titular Bishop of Milevum
+  du: '1816-01-26'
+  au: null
+- titre: Bishop of Clonfert, Ireland
+  du: null
+  au: '1847-04-25'
+- titre: évêque titulaire
+  du: '1816-01-26'
+  au: null
+- titre: évêque diocésain
+  du: '1831-10-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64777029
+  catholic_hierarchy: bcoen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:56:48+00:00'
+  completeness: 0.88

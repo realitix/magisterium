@@ -1,0 +1,50 @@
+slug: settimio-borsari
+nom: Settimio Borsari
+nom_complet: Settimio Borserio
+naissance: '1550'
+deces: '1594-04-29'
+naissance_lieu: Mantova, Diocese of Mantova
+deces_lieu: Casale Monferrato, Diocese of Casale Monferrato
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1591-11-30'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: girolamo-cardinal-bernerio-o-p
+  co_consecrateurs:
+  - galeazzo-moroni
+  - ottavio-abbiosi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bborsari.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Alessano, Italy
+  du: '1591-11-20'
+  au: null
+- titre: Bishop of Casale Monferrato, Italy
+  du: '1592-06-12'
+  au: '1594-04-29'
+- titre: évêque diocésain
+  du: '1592-06-12'
+  au: null
+- titre: évêque diocésain
+  du: '1591-11-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16657855
+  catholic_hierarchy: bborsari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:41:31+00:00'
+  completeness: 0.88

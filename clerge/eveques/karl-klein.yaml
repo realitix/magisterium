@@ -1,0 +1,44 @@
+slug: karl-klein
+nom: Karl Klein
+nom_complet: null
+naissance: '1819-01-11'
+deces: '1898-02-06'
+naissance_lieu: Frankfurt
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1886-11-04'
+  lieu: S. Maria del Anima, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: paul-melchers
+  co_consecrateurs:
+  - felix-marie-de-neckere
+  - giulio-lenti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkleink.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Limburg, Germany
+  du: '1886-10-15'
+  au: '1898-02-06'
+- titre: évêque de Limbourg
+  du: '1886-01-01'
+  au: '1898-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1287631
+  catholic_hierarchy: bkleink
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:15:35+00:00'
+  completeness: 1.0

@@ -1,0 +1,50 @@
+slug: elphege-gravel
+nom: Elphège Gravel
+nom_complet: null
+naissance: '1838-10-12'
+deces: '1904-01-28'
+naissance_lieu: St-Antoine sur le Richelieu, Archdiocese of Québec
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1885-08-02'
+  lieu: Ste-Agathe-des-Goths du Collège Irlandais, Church, Roma, Diocese of Roma {Rome},
+    Italy
+  consecrateur_principal: francis-patrick-moran
+  co_consecrateurs:
+  - james-donnelly
+  - tobias-kirby
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgravel.html
+  - https://fr.wikipedia.org/wiki/Elph%C3%A8ge_Gravel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nicolet, Québec, Canada
+  du: '1885-07-10'
+  au: '1904-01-28'
+- titre: évêque diocésain
+  du: '1885-07-10'
+  au: '1904-01-28'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Elph%C3%A8ge%20Gravel.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3051680
+  catholic_hierarchy: bgravel
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:40:49+00:00'
+  completeness: 1.0

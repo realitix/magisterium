@@ -1,0 +1,51 @@
+slug: claude-de-bexon
+nom: Claude de Bexon
+nom_complet: Claude Leopoldo de Bexon
+naissance: '1736-06-14'
+deces: '1807-08-10'
+naissance_lieu: Sarrable
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1802-05-30'
+  consecrateur_principal: armand-de-roquelaure
+  co_consecrateurs:
+  - etienne-andre-francois-de-paule-fallot-de-beaumont-de-beaupre
+  - johann-michael-josef-von-pidoll
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbexon.html
+  - https://fr.wikipedia.org/wiki/Claude_de_Bexon
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Namur {Namen}, Belgium
+  du: null
+  au: '1803-09-15'
+- titre: Bishop Emeritus of Namur {Namen}, Belgium
+  du: null
+  au: '1807-08-10'
+- titre: évêque de Namur
+  du: '1802-05-18'
+  au: '1803-09-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20L%C3%A9opold%20de%20Bexon.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1813276
+  catholic_hierarchy: bbexon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:24:37+00:00'
+  completeness: 1.0

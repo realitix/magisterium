@@ -1,0 +1,51 @@
+slug: sante-veronese
+nom: Sante Veronese
+nom_complet: Sante Cardinal Veronese
+naissance: '1684-07-12'
+deces: '1767-02-01'
+naissance_lieu: Venezia, Patriarchate of Venezia {Venice}
+deces_lieu: null
+rang: cardinal
+nationalite: Q4948
+tampon: ordo_incertus
+sacre:
+  date: '19'
+  consecrateur_principal: antonio-marino-priuli
+  co_consecrateurs:
+  - paolo-francesco-giustiniani
+  - nicolo-antonio-giustiniani
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bveronese.html
+  - https://fr.wikipedia.org/wiki/Sante_Veronese
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Padova {Padua}, Italy
+  du: '1758-09-11'
+  au: '1767-02-01'
+- titre: évêque diocésain
+  du: '1758-09-11'
+  au: null
+- titre: cardinal
+  du: '1759-09-24'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sante%20Veronese.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3472808
+  catholic_hierarchy: bveronese
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:33:59+00:00'
+  completeness: 1.0

@@ -1,0 +1,39 @@
+slug: imbert-isserand
+nom: Imbert Isserand
+nom_complet: Humbert Iserand, O.S.B.
+naissance: '1505'
+deces: '1547'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bisera.html
+  - https://fr.wikipedia.org/wiki/Imbert_Isserand
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: '1539-06-16'
+  au: 1548&sup2;
+- titre: évêque de Glandèves
+  du: '1539-06-26'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3148970
+  catholic_hierarchy: bisera
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:55:08+00:00'
+  completeness: 0.25

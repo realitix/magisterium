@@ -1,0 +1,62 @@
+slug: mihaly-endrey
+nom: Mihály Endrey
+nom_complet: Mihály Endrey-Eipel
+naissance: '1905-11-02'
+deces: '1977-07-04'
+naissance_lieu: Budapest, Archdiocese of Esztergom
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1951-04-01'
+  lieu: Franciscan, Church, Budapest, Archdiocese of Esztergom
+  consecrateur_principal: gyula-czapik
+  co_consecrateurs:
+  - endre-kriston
+  - vince-kovacs
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bendrey.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eger, Hungary
+  du: '1950-11-20'
+  au: null
+- titre: Titular Bishop of Barata
+  du: '1950-11-20'
+  au: null
+- titre: Auxiliary Bishop of Pécs, Hungary
+  du: '1972-02-08'
+  au: null
+- titre: Bishop of Vác, Hungary
+  du: '1975-01-07'
+  au: '1977-07-04'
+- titre: évêque de Vác
+  du: '1975-01-07'
+  au: '1977-07-04'
+- titre: évêque auxiliaire
+  du: '1972-02-08'
+  au: null
+- titre: évêque auxiliaire
+  du: '1950-11-20'
+  au: null
+- titre: évêque titulaire
+  du: '1950-11-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q28974217
+  catholic_hierarchy: bendrey
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:22:10+00:00'
+  completeness: 1.0

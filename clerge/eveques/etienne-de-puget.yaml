@@ -1,0 +1,56 @@
+slug: etienne-de-puget
+nom: Étienne de Puget
+nom_complet: null
+naissance: '1505'
+deces: '1668-01-11'
+naissance_lieu: Pommeuse
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1624-03-17'
+  consecrateur_principal: jean-francois-de-gondi
+  co_consecrateurs:
+  - alphonse-ii-d-elbene
+  - bruno-ruade
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpuget.html
+  - https://fr.wikipedia.org/wiki/%C3%89tienne_de_Puget
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Metz, France
+  du: '1623-11-17'
+  au: 1628&sup2;
+- titre: Bishop of Marseille, France
+  du: null
+  au: '1668-01-11'
+- titre: administrateur du diocèse de Metz
+  du: '1623-11-17'
+  au: '1628-01-01'
+- titre: évêque auxiliaire de Metz
+  du: null
+  au: null
+- titre: évêque de Marseille
+  du: '1643-01-01'
+  au: null
+- titre: évêque titulaire de Dardanie
+  du: '1623-11-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3592431
+  catholic_hierarchy: bpuget
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:52:28+00:00'
+  completeness: 0.88

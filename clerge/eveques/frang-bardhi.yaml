@@ -1,0 +1,48 @@
+slug: frang-bardhi
+nom: Frang Bardhi
+nom_complet: Francesco Bianchi
+naissance: '1606'
+deces: '1643-06-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q222
+tampon: ordo_validus
+sacre:
+  date: '1636-03-30'
+  consecrateur_principal: ciriaco-cardinal-rocci
+  co_consecrateurs:
+  - giambattista-altieri
+  - ottavio-broglia
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbnchif.html
+  - https://fr.wikipedia.org/wiki/Frang_Bardhi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sapë, Albania
+  du: '1635-12-17'
+  au: 1643&sup1;
+- titre: évêque de Sapë
+  du: '1635-12-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Frang%20Bardhi%201993%20Albania%20stamp.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q443861
+  catholic_hierarchy: bbnchif
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:31:55+00:00'
+  completeness: 0.75

@@ -1,0 +1,43 @@
+slug: basilio-gradi
+nom: Basilio Gradi
+nom_complet: Basilio Gradi, O.S.B.
+naissance: '1510'
+deces: '1585'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1584-05-06'
+  consecrateur_principal: thomas-goldwell
+  co_consecrateurs:
+  - giovanni-battista-santorio
+  - ignazio-danti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgradi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Stagno (Ston), Croatia
+  du: '1584-03-14'
+  au: 1585&sup2;
+- titre: Roman Catholic Bishop of Ston
+  du: '1584-03-14'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q23613036
+  catholic_hierarchy: bgradi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:38:28+00:00'
+  completeness: 0.75

@@ -1,0 +1,42 @@
+slug: guarino-favorino
+nom: Guarino Favorino
+nom_complet: Guarino Favorino, O.S.B.
+naissance: '1450'
+deces: '1537-05-01'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfavorino.html
+  - https://fr.wikipedia.org/wiki/Varinus_Phavorinus
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nocera Umbra, Italy
+  du: '1514-10-30'
+  au: 1537&sup1;
+- titre: Bishop Emeritus of Nocera Umbra, Italy
+  du: null
+  au: '1537-05-01'
+- titre: évêque diocésain
+  du: '1514-11-09'
+  au: '1537-01-01'
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q3554803
+  catholic_hierarchy: bfavorino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:33:50+00:00'
+  completeness: 0.38

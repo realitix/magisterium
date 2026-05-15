@@ -1,0 +1,49 @@
+slug: grzegorz-de-sanok
+nom: Grzegorz de Sanok
+nom_complet: Grzegorz z Sanoka
+naissance: '1406'
+deces: '1477-01-29'
+naissance_lieu: null
+deces_lieu: Rohatyn
+rang: archeveque
+nationalite: Q36
+tampon: ordo_validus
+sacre:
+  date: '1451-07-04'
+  lieu: Cathedral, Kraków, Diocese of Kraków, Poland
+  consecrateur_principal: zbigniew-olesnicki-1389
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsanoka.html
+  - https://fr.wikipedia.org/wiki/Grzegorz_de_Sanok
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Lviv, Ukraine
+  du: '1451-03-17'
+  au: '1477-01-29'
+- titre: archevêque de Lviv
+  du: '1451-03-26'
+  au: '1477-02-07'
+- titre: chapelain royal de Pologne
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20z%20Sanoka%201.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q530956
+  catholic_hierarchy: bsanoka
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:50:05+00:00'
+  completeness: 0.75

@@ -1,0 +1,41 @@
+slug: angelo-rendina
+nom: Angelo Rendina
+nom_complet: null
+naissance: '1660-09-02'
+deces: '1716-11-15'
+naissance_lieu: Benevento, Archdiocese of Benevento
+deces_lieu: Napoli, Archdiocese of Napoli {Naples}
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1708-05-20'
+  lieu: San Crisogono, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: philippe-antoine-gualterio
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brendina.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boiano, Italy
+  du: '1708-05-14'
+  au: '1716-11-15'
+- titre: Roman Catholic Bishop of Boiano
+  du: '1708-05-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68910249
+  catholic_hierarchy: brendina
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:08:37+00:00'
+  completeness: 0.88

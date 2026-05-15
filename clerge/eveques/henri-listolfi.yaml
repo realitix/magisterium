@@ -1,0 +1,44 @@
+slug: henri-listolfi
+nom: Henri Listolfi
+nom_complet: Henri Listolfi Maroni
+naissance: null
+deces: '1645-05-22'
+naissance_lieu: Gauville la Campagne
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1634-06-18'
+  consecrateur_principal: leonor-d-rsquo-estampes-de-valancay-o-s-b
+  co_consecrateurs:
+  - etienne-de-puget
+  - nicolas-de-netz
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blismar.html
+  - https://fr.wikipedia.org/wiki/Henri_Listolfi
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bazas, France
+  du: '1633-11-28'
+  au: '1645-05-22'
+- titre: évêque diocésain
+  du: '1633-11-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3131505
+  catholic_hierarchy: blismar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:52:37+00:00'
+  completeness: 0.88

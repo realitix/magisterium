@@ -1,0 +1,39 @@
+slug: gabriel-a76f1a
+nom: Gabriel
+nom_complet: Gabriel du Châtel
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdchate.html
+  - https://fr.wikipedia.org/wiki/Gabriel_du_Ch%C3%A2tel
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Uzés, France
+  du: '1449-12-03'
+  au: Sep 1463&sup3;
+- titre: évêque d'Uzès
+  du: '1449-12-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3093570
+  catholic_hierarchy: bdchate
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:34:27+00:00'
+  completeness: 0.25

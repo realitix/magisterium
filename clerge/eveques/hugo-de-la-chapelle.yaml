@@ -1,0 +1,45 @@
+slug: hugo-de-la-chapelle
+nom: Hugo de La Chapelle
+nom_complet: null
+naissance: null
+deces: '1538-07-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1535-03-24'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blachaph.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Cambrai, France
+  du: '1535-03-14'
+  au: '1538-07-24'
+- titre: Titular Bishop of Chalcedon
+  du: '1535-03-14'
+  au: null
+- titre: évêque auxiliaire
+  du: '1535-03-24'
+  au: null
+- titre: évêque titulaire
+  du: '1535-03-24'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68905685
+  catholic_hierarchy: blachaph
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:26:04+00:00'
+  completeness: 0.38

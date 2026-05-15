@@ -1,0 +1,54 @@
+slug: denys-affre
+nom: Denys Affre
+nom_complet: Denis-Auguste Affre
+naissance: '1793-09-28'
+deces: '1848-06-27'
+naissance_lieu: Saint-Rome-de-Tarn
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1840-08-06'
+  consecrateur_principal: hugues-de-la-tour-d-auvergne-lauraguais
+  co_consecrateurs:
+  - louis-blanquart-de-bailleul
+  - auguste-allou-alloux
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baffre.html
+  - https://fr.wikipedia.org/wiki/Denys_Affre
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Titular Bishop of Pompeiopolis in Cilicia
+  du: '1840-04-27'
+  au: null
+- titre: Archbishop of Paris, France
+  du: null
+  au: '1848-06-27'
+- titre: archevêque de Paris
+  du: '1840-08-06'
+  au: '1848-01-01'
+- titre: évêque titulaire
+  du: '1840-04-27'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Denys%20Affre.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q737359
+  catholic_hierarchy: baffre
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:21:50+00:00'
+  completeness: 1.0

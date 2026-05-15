@@ -1,0 +1,55 @@
+slug: manuel-del-villar
+nom: Manuel del Villar
+nom_complet: null
+naissance: '1776-02-11'
+deces: '1817-08-31'
+naissance_lieu: Pamplona
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1815-12-03'
+  consecrateur_principal: pablo-sitjar-ruata
+  co_consecrateurs:
+  - jeronimo-maria-torres
+  - juan-nepomuceno-de-lera-y-cano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvillar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Lérida, Spain
+  du: '1815-09-04'
+  au: null
+- titre: Titular Bishop of Titiopolis
+  du: '1815-09-04'
+  au: null
+- titre: Bishop of Lérida, Spain
+  du: '1816-09-23'
+  au: '1817-08-31'
+- titre: évêque diocésain
+  du: '1816-09-23'
+  au: null
+- titre: évêque auxiliaire
+  du: '1815-09-04'
+  au: null
+- titre: évêque titulaire
+  du: '1815-09-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64763951
+  catholic_hierarchy: bvillar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:39:22+00:00'
+  completeness: 1.0

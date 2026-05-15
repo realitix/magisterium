@@ -1,0 +1,52 @@
+slug: pierre-henri-lamazou
+nom: Pierre-Henri Lamazou
+nom_complet: Pierre Henri Lamazou
+naissance: '1828-05-08'
+deces: '1883-07-11'
+naissance_lieu: Accous
+deces_lieu: Nevers, Diocese of Nevers
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1881-06-29'
+  lieu: St Peter in Chains, Roma, Diocese of Roma {Rome}, Italy
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - giulio-lenti
+  - placido-maria-schiaffino
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blamaz.html
+  - https://fr.wikipedia.org/wiki/Pierre-Henri_Lamazou
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Amiens, France
+  du: '1883-07-03'
+  au: '1883-07-11'
+- titre: évêque diocésain
+  du: '1881-02-17'
+  au: null
+- titre: évêque d'Amiens
+  du: '1883-07-03'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20fun%C3%A9raire%20de%20Pierre-Henri%20Lamazou%20%281828%E2%80%931883%29%203.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3383106
+  catholic_hierarchy: blamaz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:29:16+00:00'
+  completeness: 1.0

@@ -1,0 +1,40 @@
+slug: guglielmo-bertrand
+nom: Guglielmo Bertrand
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1519-09-08'
+  consecrateur_principal: paride-grassi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbertrgu.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sarno, Italy
+  du: '1519-06-20'
+  au: 1525&sup2;
+- titre: évêque diocésain
+  du: '1519-06-30'
+  au: '1525-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64780986
+  catholic_hierarchy: bbertrgu
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:23:19+00:00'
+  completeness: 0.62

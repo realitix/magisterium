@@ -1,0 +1,47 @@
+slug: zenon-bustos-y-ferreyra
+nom: Zenón Bustos y Ferreyra
+nom_complet: Zenón Bustos y Ferreyra, O.F.M.
+naissance: '1850-12-28'
+deces: '1925-04-13'
+naissance_lieu: Córdoba
+deces_lieu: null
+rang: eveque
+nationalite: Q414
+tampon: ordo_validus
+sacre:
+  date: '1905-04-25'
+  consecrateur_principal: mariano-antonio-espinosa
+  co_consecrateurs:
+  - juan-nepomuceno-terrero
+  - filemon-cabanillas
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbusfer.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Córdoba (Tucumán), Argentina
+  du: '1905-03-03'
+  au: '1925-04-13'
+- titre: évêque de Tucumán
+  du: '1905-03-03'
+  au: null
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Zenon%20Bustos.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16651161
+  catholic_hierarchy: bbusfer
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:01:28+00:00'
+  completeness: 1.0

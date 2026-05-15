@@ -1,0 +1,33 @@
+slug: gil
+nom: Gil
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1355-10-26'
+  rite: ancien
+  rite_source: inferred
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque titulaire
+  du: '1355-10-26'
+  au: null
+- titre: évêque de Coria
+  du: '1368-03-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108450628
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33

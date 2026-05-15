@@ -1,0 +1,54 @@
+slug: franciscus-nipa
+nom: Franciscus Nipa
+nom_complet: Fransiskus Nipa
+naissance: '1964-01-29'
+deces: null
+naissance_lieu: Mareali, Archdiocese of Makassar
+deces_lieu: null
+rang: archeveque
+nationalite: Q252
+tampon: ordo_dubius
+sacre:
+  date: '2024-02-01'
+  lieu: Hotel Claro, salle Phinisi, Makassar, Archdiocese of Makassar
+  consecrateur_principal: piero-pioppo
+  co_consecrateurs:
+  - johannes-liku-ada
+  - rolly-untu
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnipa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Archbishop of Makassar, Indonesia
+  du: '2023-10-21'
+  au: null
+- titre: Archbishop of Makassar, Indonesia
+  du: null
+  au: '2024-10-17'
+- titre: archevêque coadjuteur
+  du: '2023-10-21'
+  au: '2024-10-17'
+- titre: archevêque métropolitain
+  du: '2024-10-17'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Fransiskus%20Nipa%20%282024%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q123159850
+  catholic_hierarchy: bnipa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:34:37+00:00'
+  completeness: 0.88

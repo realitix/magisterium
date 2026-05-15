@@ -1,0 +1,45 @@
+slug: sabri-anar
+nom: Sabri Anar
+nom_complet: null
+naissance: '1966'
+deces: null
+naissance_lieu: Uludere
+deces_lieu: null
+rang: archeveque
+nationalite: Q43
+tampon: ordo_dubius
+sacre:
+  date: '2023-07-16'
+  lieu: Saint-Esprit, Cathedral, Istanbul
+  consecrateur_principal: louis-raphael-ier-sako
+  co_consecrateurs:
+  - ramzi-garmou
+  - marek-solczynski
+  - stanislas-lalanne
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/banar.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: archevêque métropolitain
+  du: '2023-07-16'
+  au: null
+- titre: chorévêque
+  du: '2017-11-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q109673791
+  catholic_hierarchy: banar
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:02+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:37:02+00:00'
+  completeness: 0.75

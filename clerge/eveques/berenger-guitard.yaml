@@ -1,0 +1,40 @@
+slug: berenger-guitard
+nom: Bérenger Guitard
+nom_complet: Berenger Guitard
+naissance: null
+deces: '1290'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1285-03-04'
+  consecrateur_principal: pierre-de-montbrun-d21818
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguitard.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lodève, France
+  du: '1285-01-13'
+  au: 1290&sup2;
+- titre: évêque diocésain
+  du: '1285-01-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96588041
+  catholic_hierarchy: bguitard
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:51:33+00:00'
+  completeness: 0.62

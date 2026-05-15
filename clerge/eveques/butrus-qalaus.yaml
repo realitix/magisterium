@@ -1,0 +1,46 @@
+slug: butrus-qalaus
+nom: Butrus Qalaus
+nom_complet: Pierre Callaos
+naissance: '1922-06-30'
+deces: '1997-03-16'
+naissance_lieu: Alep
+deces_lieu: null
+rang: archeveque
+nationalite: null
+tampon: ordo_dubius
+sacre:
+  date: '1990-08-12'
+  consecrateur_principal: nasrallah-boutros-sfeir
+  co_consecrateurs:
+  - roland-aboujaoude
+  - bechara-boutros-rahi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcallaos.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Alep [Beroea, Halab] (Maronite), Syria
+  du: '1990-06-09'
+  au: '1997-03-16'
+- titre: archevêque catholique
+  du: '1990-08-12'
+  au: null
+- titre: archevêque d'Alep des Maronites
+  du: '1990-08-12'
+  au: '1997-03-16'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q29582320
+  catholic_hierarchy: bcallaos
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:08:26+00:00'
+  completeness: 1.0

@@ -1,0 +1,44 @@
+slug: hendrik-hubert-frehen
+nom: Hendrik Hubert Frehen
+nom_complet: Hendrik Hubert Frehen, S.M.M.
+naissance: '1917-01-24'
+deces: '1986-10-31'
+naissance_lieu: Waubach, Diocese of Roermond, Netherlands
+deces_lieu: Reykjavik, Diocese of Reykjavik
+rang: eveque
+nationalite: Q29999
+tampon: ordo_dubius
+sacre:
+  date: '1968-12-08'
+  lieu: Church, Waubach, Diocese of Roermond, Netherlands
+  consecrateur_principal: jan-theunissen
+  co_consecrateurs:
+  - petrus-moors
+  - johannes-gunnarsson
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfrehen.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Reykjavik, Iceland
+  du: '1968-10-18'
+  au: '1986-10-31'
+- titre: évêque de Reykjavík
+  du: '1968-10-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q381076
+  catholic_hierarchy: bfrehen
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:57:49+00:00'
+  completeness: 1.0

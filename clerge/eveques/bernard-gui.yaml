@@ -1,0 +1,50 @@
+slug: bernard-gui
+nom: Bernard Gui
+nom_complet: Bernardo de LaGuinonie (Guido), O.P.
+naissance: '1261'
+deces: '1331-12-30'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q70972
+tampon: ordo_validus
+sacre:
+  date: '1323-12-18'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguidob.html
+  - https://fr.wikipedia.org/wiki/Bernard_Gui
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Tuy, Spain
+  du: '1323-08-26'
+  au: null
+- titre: Bishop of Lodève, France
+  du: '1324-07-20'
+  au: '1331-12-30'
+- titre: évêque diocésain
+  du: '1324-07-28'
+  au: null
+- titre: évêque de Tui
+  du: '1323-09-03'
+  au: null
+fraternite: jesuites
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20XXII%20b%C3%A9nissant%20Bernard%20Gui.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q559219
+  catholic_hierarchy: bguidob
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:50:06+00:00'
+  completeness: 0.5

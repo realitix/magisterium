@@ -1,0 +1,36 @@
+slug: luis-guillermo-guillem-o-f-m
+nom: Luis Guillermo (Guillem), O.F.M.
+nom_complet: Luis Guillermo
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1514'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bguille.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque auxiliaire
+  du: '1514-01-01'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q68904443
+  catholic_hierarchy: bguille
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:50:39+00:00'
+  completeness: 0.25

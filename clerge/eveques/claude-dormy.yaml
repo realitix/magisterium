@@ -1,0 +1,44 @@
+slug: claude-dormy
+nom: Claude Dormy
+nom_complet: Claude d&rsquo;Ormy
+naissance: '1563'
+deces: '1626-11-30'
+naissance_lieu: Mâcon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1600-08-13'
+  consecrateur_principal: leonard-de-trappes
+  co_consecrateurs:
+  - rene-potier
+  - charles-de-balsac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdormyc.html
+  - https://fr.wikipedia.org/wiki/Claude_Dormy
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Boulogne (-Sur-Mer), France
+  du: '1600-06-26'
+  au: '1626-11-30'
+- titre: évêque de Boulogne-sur-Mer
+  du: '1600-06-26'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2977300
+  catholic_hierarchy: bdormyc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:02:18+00:00'
+  completeness: 0.88

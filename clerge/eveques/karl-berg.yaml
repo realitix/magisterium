@@ -1,0 +1,47 @@
+slug: karl-berg
+nom: Karl Berg
+nom_complet: Carolus Berg
+naissance: '1908-12-27'
+deces: '1997-09-01'
+naissance_lieu: Radstadt
+deces_lieu: null
+rang: archeveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1973-02-25'
+  lieu: Cathedral, Salzburg, Archdiocese of Salzburg
+  consecrateur_principal: andreas-rohracher
+  co_consecrateurs:
+  - paulus-rusch
+  - joseph-kostner
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bberg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop Emeritus of Salzburg, Austria
+  du: null
+  au: '1997-09-01'
+- titre: archevêque catholique
+  du: '1973-01-01'
+  au: '1988-01-01'
+- titre: president of the Austrian Bishops' Conference
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q45451
+  catholic_hierarchy: bberg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:19:18+00:00'
+  completeness: 1.0

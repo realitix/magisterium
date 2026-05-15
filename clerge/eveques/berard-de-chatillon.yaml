@@ -1,0 +1,40 @@
+slug: berard-de-chatillon
+nom: Bérard de Châtillon
+nom_complet: Berard de Châtillon
+naissance: null
+deces: '1121-07-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1097'
+  consecrateur_principal: hugues-de-die
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchatilb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mâcon, France
+  du: 1096&sup2;
+  au: '1121-07-20'
+- titre: évêque de Mâcon
+  du: '1096-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q98892469
+  catholic_hierarchy: bchatilb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:55+00:00'
+  completeness: 0.75

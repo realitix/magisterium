@@ -1,0 +1,44 @@
+slug: luis-baccino
+nom: Luis Baccino
+nom_complet: null
+naissance: '1905-04-30'
+deces: '1975-07-05'
+naissance_lieu: Montevideo, Archdiocese of Montevideo
+deces_lieu: null
+rang: eveque
+nationalite: Q77
+tampon: ordo_validus
+sacre:
+  date: '1956-03-11'
+  lieu: Nuestra Señora del Carmen, Basilica, Montevideo, Archdiocese of Montevideo
+  consecrateur_principal: alfredo-pacini
+  co_consecrateurs:
+  - antonio-maria-barbieri
+  - alfredo-viola
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbaccino.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of San José de Mayo, Uruguay
+  du: '1955-12-20'
+  au: '1975-07-05'
+- titre: évêque diocésain
+  du: '1955-12-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5982853
+  catholic_hierarchy: bbaccino
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:54:10+00:00'
+  completeness: 1.0

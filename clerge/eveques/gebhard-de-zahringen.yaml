@@ -1,0 +1,44 @@
+slug: gebhard-de-zahringen
+nom: Gebhard de Zähringen
+nom_complet: Gebhard von Zähringen
+naissance: '1050'
+deces: '1110-11-12'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1084-12-22'
+  consecrateur_principal: odon-de-chatillon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bzahri.html
+  - https://fr.wikipedia.org/wiki/Gebhard_de_Z%C3%A4hringen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Konstanz {Constance}, Germany
+  du: 1084&sup2;
+  au: '1110-11-12'
+- titre: évêque diocésain
+  du: '1084-12-28'
+  au: null
+- titre: antiévêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q319420
+  catholic_hierarchy: bzahri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T13:04:12+00:00'
+  completeness: 0.75

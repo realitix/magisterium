@@ -1,0 +1,50 @@
+slug: raymond-field
+nom: Raymond Field
+nom_complet: Raymond W. Field
+naissance: '1944-05-24'
+deces: null
+naissance_lieu: Dublin, Archdiocese of Dublin
+deces_lieu: null
+rang: eveque
+nationalite: Q27
+tampon: ordo_dubius
+sacre:
+  date: '1997-09-21'
+  lieu: St. Andrew, Church, Dublin, Archdiocese of Dublin
+  consecrateur_principal: desmond-connell
+  co_consecrateurs:
+  - luciano-storero
+  - laurence-forristal
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfieldr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Dublin, Ireland
+  du: '1997-05-28'
+  au: null
+- titre: Titular Bishop of Árd Mór
+  du: '1997-05-28'
+  au: null
+- titre: évêque auxiliaire
+  du: '1997-05-28'
+  au: '2019-06-27'
+- titre: évêque titulaire
+  du: '1997-05-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2134143
+  catholic_hierarchy: bfieldr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:52+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:42:37+00:00'
+  completeness: 0.88

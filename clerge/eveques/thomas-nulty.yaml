@@ -1,0 +1,57 @@
+slug: thomas-nulty
+nom: Thomas Nulty
+nom_complet: Thomas Nulty (McNulty)
+naissance: '1818-07-09'
+deces: '1898-12-24'
+naissance_lieu: Fennor, Oldcastle, Diocese of Meath
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1864-10-28'
+  lieu: Navan
+  consecrateur_principal: joseph-dixon
+  co_consecrateurs:
+  - daniel-mcgettigan
+  - francis-kelly
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmcul.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Coadjutor Bishop of Meath, Ireland
+  du: '1864-09-02'
+  au: null
+- titre: Titular Bishop of Centuria
+  du: '1864-09-02'
+  au: null
+- titre: Bishop of Meath, Ireland
+  du: null
+  au: '1898-12-24'
+- titre: évêque titulaire
+  du: '1864-09-02'
+  au: null
+- titre: évêque diocésain
+  du: '1866-12-11'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Most%20Reverend%20Dr.%20Thomas%20Nulty%2C%20Roman%20Catholic%20Bishop%20of%20Meath.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q16059715
+  catholic_hierarchy: bmcul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:45:41+00:00'
+  completeness: 1.0

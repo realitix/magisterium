@@ -1,0 +1,53 @@
+slug: robert-sherborne
+nom: Robert Sherborne
+nom_complet: null
+naissance: '1453'
+deces: '1536-08-21'
+naissance_lieu: Rolleston-on-Dove
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1505-05-11'
+  consecrateur_principal: william-warham
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsherb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: '1505-01-05'
+  au: null
+- titre: Bishop of Chichester, England, Great Britain
+  du: '1508-09-18'
+  au: '1536'
+- titre: Bishop Emeritus of Chichester, England, Great Britain
+  du: null
+  au: '1536-08-21'
+- titre: Roman Catholic bishop of St Davids
+  du: null
+  au: null
+- titre: Roman Catholic Bishop of Chichester
+  du: '1508-09-28'
+  au: '1536-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Chichester%20Cathedral%2005%20brighter.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q7349751
+  catholic_hierarchy: bsherb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:15:10+00:00'
+  completeness: 0.75

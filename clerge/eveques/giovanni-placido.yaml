@@ -1,0 +1,43 @@
+slug: giovanni-placido
+nom: Giovanni Placido
+nom_complet: null
+naissance: null
+deces: '1591-01-20'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1566-08-11'
+  consecrateur_principal: tommaso-giovanni-caselli
+  co_consecrateurs:
+  - antonio-ganguzia
+  - giovanni-ludovico-da-campania
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bplacido.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sessa Aurunca, Italy
+  du: '1566-06-27'
+  au: '1591-01-20'
+- titre: évêque diocésain
+  du: '1566-07-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762030
+  catholic_hierarchy: bplacido
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:37:56+00:00'
+  completeness: 0.88

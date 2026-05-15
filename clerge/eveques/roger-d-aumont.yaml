@@ -1,0 +1,47 @@
+slug: roger-d-aumont
+nom: Roger d'Aumont
+nom_complet: Roger d&rsquo;Aumont
+naissance: '1605'
+deces: '1653-03-25'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1645-05-14'
+  consecrateur_principal: nicolo-cardinal-guidi-di-bagno
+  co_consecrateurs:
+  - henri-de-bethune
+  - pierre-iii-de-bertier
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdaum.html
+  - https://fr.wikipedia.org/wiki/Roger_d%27Aumont
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avranches, France
+  du: '1645-03-20'
+  au: '1651-01-05'
+- titre: Bishop Emeritus of Avranches, France
+  du: null
+  au: '1653-03-25'
+- titre: évêque diocésain
+  du: '1645-03-20'
+  au: '1651-01-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22209474
+  catholic_hierarchy: bdaum
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:30:18+00:00'
+  completeness: 0.88

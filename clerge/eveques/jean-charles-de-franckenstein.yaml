@@ -1,0 +1,51 @@
+slug: jean-charles-de-franckenstein
+nom: Jean-Charles de Franckenstein
+nom_complet: Johannes Karl von Franckenstein
+naissance: '1610'
+deces: '1691-09-29'
+naissance_lieu: Franckenstein
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1688-09-05'
+  consecrateur_principal: matthias-starck
+  co_consecrateurs:
+  - stephan-weinberger
+  - johann-philipp-burkhard
+  - johannes-peter-verhorst
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranjk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worms, Germany
+  du: null
+  au: '1691-09-29'
+- titre: évêque diocésain
+  du: '1683-08-17'
+  au: null
+- titre: prince-évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Karl%20von%20und%20zu%20Franckenstein.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q89336
+  catholic_hierarchy: bfranjk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:56:27+00:00'
+  completeness: 0.88

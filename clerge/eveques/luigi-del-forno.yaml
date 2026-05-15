@@ -1,0 +1,44 @@
+slug: luigi-del-forno
+nom: Luigi del Forno
+nom_complet: null
+naissance: '1843-08-24'
+deces: '1913-01-04'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1885-08-01'
+  lieu: San Alfonso, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: raffaele-monaco-la-valletta
+  co_consecrateurs:
+  - elia-bianchi
+  - benedetto-mariani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdfor.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nocera de&rsquo; Pagani, Italy
+  du: '1885-07-27'
+  au: '1913-01-04'
+- titre: Roman Catholic Bishop of Nocera dei Pagani
+  du: '1885-07-27'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64733159
+  catholic_hierarchy: bdfor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:47:49+00:00'
+  completeness: 1.0

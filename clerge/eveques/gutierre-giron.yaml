@@ -1,0 +1,40 @@
+slug: gutierre-giron
+nom: Gutierre Girón
+nom_complet: null
+naissance: '1200'
+deces: '1195'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1195'
+  consecrateur_principal: martin-lopez-de-pisuerga
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgirong.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Segovia, Spain
+  du: 1195&sup1;
+  au: '1195-07-19'
+- titre: évêque de Ségovie
+  du: '1195-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5889972
+  catholic_hierarchy: bgirong
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:25:51+00:00'
+  completeness: 0.75

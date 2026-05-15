@@ -1,0 +1,50 @@
+slug: albert-legatt
+nom: Albert LeGatt
+nom_complet: null
+naissance: '1953-05-06'
+deces: null
+naissance_lieu: Melfort
+deces_lieu: null
+rang: archeveque
+nationalite: Q16
+tampon: ordo_dubius
+sacre:
+  date: '2001-10-05'
+  consecrateur_principal: blaise-ernest-morand
+  co_consecrateurs:
+  - james-martin-hayes
+  - peter-joseph-mallon
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blegatt.html
+  - https://fr.wikipedia.org/wiki/Albert_LeGatt
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saskatoon, Saskatchewan, Canada
+  du: '2001-07-26'
+  au: null
+- titre: Archbishop of Saint-Boniface, Manitoba, Canada
+  du: '2009-07-03'
+  au: null
+- titre: archevêque de Saint-Boniface
+  du: '2009-07-03'
+  au: null
+- titre: évêque de Saskatoon
+  du: '2001-07-26'
+  au: '2009-07-03'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q761808
+  catholic_hierarchy: blegatt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:40:52+00:00'
+  completeness: 0.88

@@ -1,0 +1,43 @@
+slug: jacques-de-croy
+nom: Jacques de Croÿ
+nom_complet: Jacques de Croy, O.S.B.
+naissance: '1436'
+deces: '1516-08-15'
+naissance_lieu: Netherlands
+deces_lieu: Ricltertre, Château, Brabant
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1506-05-17'
+  lieu: La Chartreuse, Louvain
+  co_consecrateurs:
+  - jean-briselot-o-carm
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcroyj.html
+  - https://fr.wikipedia.org/wiki/Jacques_de_Cro%C3%BF
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Cambrai, France
+  du: '1503-02-01'
+  au: '1516-08-15'
+- titre: évêque diocésain
+  du: '1503-02-11'
+  au: null
+fraternite: benedictins
+photo: null
+qids:
+  wikidata: Q659965
+  catholic_hierarchy: bcroyj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:16:11+00:00'
+  completeness: 0.62

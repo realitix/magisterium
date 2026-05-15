@@ -1,0 +1,48 @@
+slug: antoine-revol
+nom: Antoine Révol
+nom_complet: Antoine de Révol
+naissance: '1548'
+deces: '1629-08-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1604-01-04'
+  consecrateur_principal: paul-hurault-de-l-hospital
+  co_consecrateurs:
+  - gaspard-dinet
+  - claude-dormy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdrevola.html
+  - https://fr.wikipedia.org/wiki/Antoine_R%C3%A9vol
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Dol, France
+  du: '1603-11-05'
+  au: '1629-08-06'
+- titre: évêque diocésain
+  du: '1603-11-05'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Dol-de-Bretagne%20Cath%C3%A9drale%20Saint-Samson%20Vitrail%20685.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q22212709
+  catholic_hierarchy: bdrevola
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:06:24+00:00'
+  completeness: 0.88

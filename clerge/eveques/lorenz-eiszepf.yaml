@@ -1,0 +1,49 @@
+slug: lorenz-eiszepf
+nom: Lorenz Eiszepf
+nom_complet: Laurentius Eiszephius
+naissance: '1505'
+deces: '1601-03-17'
+naissance_lieu: Freising, Diocese of Freising
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1590-04-01'
+  lieu: Cathedral, Eichstätt, Diocese of Eichstätt
+  consecrateur_principal: martin-von-schaumberg
+  co_consecrateurs:
+  - johann-baptist-pichlmair
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beisz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Eichstätt, Germany
+  du: '1590-01-22'
+  au: '1601-03-17'
+- titre: Titular Bishop of Philadelphia in Arabia
+  du: '1590-01-22'
+  au: null
+- titre: évêque titulaire
+  du: '1590-01-22'
+  au: null
+- titre: évêque auxiliaire
+  du: '1590-01-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q61507734
+  catholic_hierarchy: beisz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:20:14+00:00'
+  completeness: 0.88

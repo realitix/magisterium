@@ -1,0 +1,54 @@
+slug: henri-vielle
+nom: Henri Vielle
+nom_complet: Henri Vielle, O.F.M.
+naissance: '1867-06-15'
+deces: '1946-05-07'
+naissance_lieu: Léguevin, France
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1927-07-25'
+  consecrateur_principal: jean-raynaud-1858
+  co_consecrateurs:
+  - pierre-marceillac
+  - charles-challiol
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvielle.html
+  - https://fr.wikipedia.org/wiki/Henri_Vielle
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Rabat, Morocco
+  du: '1927-06-08'
+  au: '1946-05-07'
+- titre: Titular Bishop of Halmiros
+  du: '1927-06-20'
+  au: null
+- titre: vicaire apostolique de Rabat
+  du: '1927-06-08'
+  au: '1946-05-07'
+- titre: évêque titulaire
+  du: '1927-06-20'
+  au: '1946-05-07'
+fraternite: franciscains
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Henri%2C%20Gustave%2C%20Fran%C3%A7ois%20VIELLE.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q19629843
+  catholic_hierarchy: bvielle
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 1.0
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:37:18+00:00'
+  completeness: 1.0

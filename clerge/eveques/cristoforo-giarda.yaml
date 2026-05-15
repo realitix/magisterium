@@ -1,0 +1,46 @@
+slug: cristoforo-giarda
+nom: Cristoforo Giarda
+nom_complet: Cristoforo Pietro Antonio Giarda, B.
+naissance: '1595-09-21'
+deces: '1649-03-18'
+naissance_lieu: Vespolate
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1648-06-01'
+  lieu: San Carlo ai Catinari, Church, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giulio-cesare-sacchetti
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgiarda.html
+  - https://fr.wikipedia.org/wiki/Cristoforo_Giarda
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Castro [del Lazio], Italy
+  du: '1648-05-18'
+  au: '1649-03-18'
+- titre: évêque diocésain
+  du: '1648-05-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Cristoforo%20Giarda.png
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3697697
+  catholic_hierarchy: bgiarda
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:21:53+00:00'
+  completeness: 0.88

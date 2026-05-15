@@ -1,0 +1,41 @@
+slug: michele-mautone
+nom: Michele Mautone
+nom_complet: null
+naissance: '1816-06-18'
+deces: '1888-02-17'
+naissance_lieu: Marigliano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1876-12-24'
+  lieu: St. Alphonse, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: bartolomeo-d-avanzo
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bricm.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nardò, Italy
+  du: '1876-12-18'
+  au: '1888-02-17'
+- titre: évêque diocésain
+  du: '1876-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21547259
+  catholic_hierarchy: bricm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:13:32+00:00'
+  completeness: 0.88

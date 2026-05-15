@@ -1,0 +1,45 @@
+slug: demetrius-nyas
+nom: Demetrius Nyas
+nom_complet: null
+naissance: '1590'
+deces: '1650'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: istvan-podmaniczky
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bnyas.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Santorini {Thira}, Greece
+  du: '1512-05-12'
+  au: 1516&sup1;
+- titre: Auxiliary Bishop of Esztergom, Hungary
+  du: 1518&sup2;
+  au: null
+- titre: évêque diocésain
+  du: '1512-05-22'
+  au: '1516-01-01'
+- titre: évêque auxiliaire
+  du: '1518-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64781110
+  catholic_hierarchy: bnyas
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:40:47+00:00'
+  completeness: 0.38

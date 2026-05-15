@@ -1,0 +1,49 @@
+slug: fulvio-passerini
+nom: Fulvio Passerini
+nom_complet: null
+naissance: '1550'
+deces: '1599-12-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1591-07-21'
+  consecrateur_principal: tolomeo-gallio
+  co_consecrateurs:
+  - giovanni-d-amato
+  - pietro-cedolini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpasserf.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Avellino e Frigento, Italy
+  du: '1591-06-21'
+  au: null
+- titre: Bishop of Pistoia, Italy
+  du: '1599-04-19'
+  au: '1599-12-11'
+- titre: évêque de Pistoie
+  du: '1599-04-19'
+  au: null
+- titre: évêque d'Avellino
+  du: '1591-06-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64765207
+  catholic_hierarchy: bpasserf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:12:32+00:00'
+  completeness: 0.88

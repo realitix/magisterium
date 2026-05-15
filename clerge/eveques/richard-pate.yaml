@@ -1,0 +1,47 @@
+slug: richard-pate
+nom: Richard Pate
+nom_complet: Richard Pates
+naissance: '1503'
+deces: '1565-10-05'
+naissance_lieu: null
+deces_lieu: Louvain, Archdiocese of Mechelen, Belgium
+rang: eveque
+nationalite: Q145
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpatesr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Worcester, England, Great Britain
+  du: null
+  au: 1559&sup1;
+- titre: Bishop Emeritus of Worcester, England, Great Britain
+  du: null
+  au: '1565-10-05'
+- titre: Roman Catholic bishop of Worcester (England)
+  du: '1555-01-01'
+  au: '1559-01-01'
+- titre: évêque diocésain
+  du: '1541-07-18'
+  au: '1559-01-01'
+- titre: ambassadeur du royaume d'Angleterre auprès du royaume d'Espagne
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q7328295
+  catholic_hierarchy: bpatesr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:13:24+00:00'
+  completeness: 0.38

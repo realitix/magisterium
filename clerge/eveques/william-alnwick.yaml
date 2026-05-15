@@ -1,0 +1,46 @@
+slug: william-alnwick
+nom: William Alnwick
+nom_complet: William Alnewick
+naissance: null
+deces: '1449-12-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1426-08-18'
+  consecrateur_principal: henry-chicheley
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/balnew.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Norwich, England, Great Britain
+  du: '1426-02-27'
+  au: null
+- titre: Bishop of Lincoln, England, Great Britain
+  du: '1436-09-19'
+  au: '1449-12-05'
+- titre: évêque de Lincoln
+  du: '1436-09-28'
+  au: null
+- titre: évêque de Norwich
+  du: '1426-03-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q8004388
+  catholic_hierarchy: balnew
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:32:05+00:00'
+  completeness: 0.75

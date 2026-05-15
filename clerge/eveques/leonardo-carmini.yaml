@@ -1,0 +1,45 @@
+slug: leonardo-carmini
+nom: Leonardo Carmini
+nom_complet: null
+naissance: null
+deces: '1502'
+naissance_lieu: Cerbaria
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: gaspard-de-toriglia
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcarmini.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Montepeloso, Italy
+  du: '1491-01-10'
+  au: null
+- titre: Bishop of Trivento, Italy
+  du: '1498-11-21'
+  au: 1502&sup1;
+- titre: évêque diocésain
+  du: '1498-11-30'
+  au: null
+- titre: évêque diocésain
+  du: '1491-01-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q27493920
+  catholic_hierarchy: bcarmini
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:23:12+00:00'
+  completeness: 0.38

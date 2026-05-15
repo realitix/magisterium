@@ -1,0 +1,38 @@
+slug: geoffroi-freslon
+nom: Geoffroi Freslon
+nom_complet: null
+naissance: null
+deces: '1269-11-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfreslon.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Le Mans, France
+  du: 1258&sup2;
+  au: '1269-11-15'
+- titre: évêque du Mans
+  du: '1258-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108477564
+  catholic_hierarchy: bfreslon
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:58:18+00:00'
+  completeness: 0.38

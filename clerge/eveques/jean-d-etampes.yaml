@@ -1,0 +1,41 @@
+slug: jean-d-etampes
+nom: Jean d'Étampes
+nom_complet: Jean d&rsquo;Estampes
+naissance: null
+deces: '1461-12-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1445-11-20'
+  consecrateur_principal: louis-de-melun-5a510b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdestampj.html
+  - https://fr.wikipedia.org/wiki/Jean_d%27%C3%89tampes_(%C3%A9v%C3%AAque_de_Nevers)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nevers, France
+  du: '1448-01-15'
+  au: '1461-12-24'
+- titre: évêque diocésain
+  du: '1445-11-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3175241
+  catholic_hierarchy: bdestampj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:45:53+00:00'
+  completeness: 0.75

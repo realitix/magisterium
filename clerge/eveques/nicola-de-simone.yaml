@@ -1,0 +1,44 @@
+slug: nicola-de-simone
+nom: Nicola de Simone
+nom_complet: null
+naissance: '1820-05-06'
+deces: '1895-07-08'
+naissance_lieu: Mesoraca, Archdiocese of Santa Severina
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1877-04-22'
+  lieu: La Minerve, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: filippo-maria-guidi
+  co_consecrateurs:
+  - egidio-mauri
+  - tommaso-michele-salzano
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsimn.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bova, Italy
+  du: '1877-03-20'
+  au: '1895-07-08'
+- titre: Roman Catholic Bishop of Bova
+  du: '1877-03-20'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q62076660
+  catholic_hierarchy: bsimn
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:19:21+00:00'
+  completeness: 1.0

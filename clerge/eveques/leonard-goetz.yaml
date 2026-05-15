@@ -1,0 +1,53 @@
+slug: leonard-goetz
+nom: Léonard Goetz
+nom_complet: Leonhard von Götz
+naissance: '1561'
+deces: '1640-11-28'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1620-07-12'
+  consecrateur_principal: jakob-eberlein
+  co_consecrateurs:
+  - tomaz-hren
+  - johann-jakob-von-lamberg
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgoetz.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavant, Slovenia
+  du: '1619-01-21'
+  au: '1640-11-28'
+- titre: évêque de Lavant
+  du: '1619-01-21'
+  au: null
+- titre: conseiller princier
+  du: null
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Leonhard%20von%20G%C3%B6tz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1421992
+  catholic_hierarchy: bgoetz
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:30:16+00:00'
+  completeness: 0.88

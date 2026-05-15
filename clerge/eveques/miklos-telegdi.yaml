@@ -1,0 +1,45 @@
+slug: miklos-telegdi
+nom: Miklós Telegdi
+nom_complet: Miklós Telegdy
+naissance: '1535'
+deces: '1586-04-22'
+naissance_lieu: Tileagd
+deces_lieu: null
+rang: eveque
+nationalite: Q28
+tampon: ordo_validus
+sacre:
+  date: '1580'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bteleg.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pécs, Hungary
+  du: '1579-05-15'
+  au: 22 Apr 1586&sup3;
+- titre: Apostolic Administrator of Esztergom, Hungary
+  du: '1580'
+  au: null
+- titre: évêque diocésain
+  du: '1579-05-25'
+  au: null
+- titre: administrateur apostolique
+  du: '1580-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q747773
+  catholic_hierarchy: bteleg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:53:51+00:00'
+  completeness: 0.38

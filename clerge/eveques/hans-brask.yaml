@@ -1,0 +1,51 @@
+slug: hans-brask
+nom: Hans Brask
+nom_complet: Johannes Petrus Brask
+naissance: '1464'
+deces: '1538-08-01'
+naissance_lieu: null
+deces_lieu: Poland
+rang: eveque
+nationalite: Q34
+tampon: ordo_validus
+sacre:
+  date: '1513-08-07'
+  consecrateur_principal: vincent-henningsson
+  co_consecrateurs:
+  - mats-gregersson
+  - otto-olaf-boynstruet-svinhufvud-olovsson
+  - ingemar-petersson
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrask.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Linköping, Sweden
+  du: '1513-04-06'
+  au: '1538-08-01'
+- titre: évêque diocésain
+  du: '1513-04-16'
+  au: null
+- titre: Q130298870
+  du: '1501-01-01'
+  au: '1512-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ok%C3%A4nd%20prelat%20fr%C3%A5n%201600-talet%2C%20kallad%20biskop%20Hans%20Brask%20-%20Nationalmuseum%20-%2039736.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4992645
+  catholic_hierarchy: bbrask
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:14+00:00'
+  completeness: 0.88

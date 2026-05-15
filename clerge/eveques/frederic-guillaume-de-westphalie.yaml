@@ -1,0 +1,63 @@
+slug: frederic-guillaume-de-westphalie
+nom: Frédéric-Guillaume de Westphalie
+nom_complet: Friedrich Wilhelm von Westphalen
+naissance: '1727-04-05'
+deces: '1789-01-06'
+naissance_lieu: Paderborn, Diocese of Paderborn
+deces_lieu: null
+rang: eveque
+nationalite: Q649192
+tampon: ordo_validus
+sacre:
+  date: '1763-10-23'
+  lieu: Cathedral, Hildesheim, Diocese of Hildesheim
+  consecrateur_principal: wilhelm-anton-von-der-asseburg
+  co_consecrateurs:
+  - ludwig-hatteisen-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwestp.html
+  - https://fr.wikipedia.org/wiki/Friedrich_Wilhelm_von_Westphalen
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Nordic Missions, Germany
+  du: '1775'
+  au: null
+- titre: Bishop of Paderborn, Germany
+  du: null
+  au: '1782-12-26'
+- titre: Bishop of Hildesheim, Germany
+  du: null
+  au: '1789-01-06'
+- titre: Apostolic Vicar of Nordic Missions
+  du: '1775-01-01'
+  au: '1789-01-06'
+- titre: prince-évêque
+  du: '1763-01-01'
+  au: '1789-01-01'
+- titre: évêque de Paderborn
+  du: '1782-12-26'
+  au: '1789-01-06'
+- titre: évêque de Hildesheim
+  du: '1763-10-23'
+  au: '1789-01-06'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Wilhelm%20von%20Westphalen.01.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q109613
+  catholic_hierarchy: bwestp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:54:27+00:00'
+  completeness: 1.0

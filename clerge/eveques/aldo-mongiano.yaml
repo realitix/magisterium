@@ -1,0 +1,56 @@
+slug: aldo-mongiano
+nom: Aldo Mongiano
+nom_complet: Aldo Mongiano, I.M.C.
+naissance: '1919-11-01'
+deces: '2020-04-15'
+naissance_lieu: Pontestura, Italy
+deces_lieu: Moncalvo, Italy
+rang: eveque
+nationalite: Q155
+tampon: ordo_dubius
+sacre:
+  date: '1975-10-05'
+  lieu: St. Philippe, Casale Monferrato, Diocese of Casale Monferrato, Italy
+  consecrateur_principal: carlo-cavalla
+  co_consecrateurs:
+  - giuseppe-angrisani
+  - luigi-bettazzi
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmongiano.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prelate of Roraima, Brazil
+  du: '1975-05-14'
+  au: null
+- titre: Titular Bishop of Nasai
+  du: '1975-05-14'
+  au: '1978-05-26'
+- titre: Bishop of Roraima, Brazil
+  du: '1979-12-04'
+  au: null
+- titre: Bishop Emeritus of Roraima, Brazil
+  du: null
+  au: '2020-04-15'
+- titre: évêque titulaire de Nasai
+  du: '1975-05-14'
+  au: '1978-05-26'
+- titre: évêque diocésain
+  du: '1979-12-04'
+  au: '1996-06-26'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2603257
+  catholic_hierarchy: bmongiano
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:22+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:05:36+00:00'
+  completeness: 1.0

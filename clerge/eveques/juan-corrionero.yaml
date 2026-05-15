@@ -1,0 +1,48 @@
+slug: juan-corrionero
+nom: Juan Corrionero
+nom_complet: null
+naissance: null
+deces: '1592-07-09'
+naissance_lieu: Spain
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1589-05-08'
+  lieu: Cathedral, Palermo, Archdiocese of Palermo
+  consecrateur_principal: ludovico-de-torres
+  co_consecrateurs:
+  - diego-haedo
+  - francesco-gonzaga-1546
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcorri.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Catania, Italy
+  du: '1589-03-02'
+  au: '1592-07-09'
+- titre: évêque de Catane
+  du: '1589-03-02'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/3055%20-%20Catania%20-%20Cattedrale%20-%20Tomba%20di%20Juan%20Corrioner%20%2B%201592%20-%20Foto%20Giovanni%20Dall%27Orto%2C%204-July%202008.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64761922
+  catholic_hierarchy: bcorri
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:07:48+00:00'
+  completeness: 0.88

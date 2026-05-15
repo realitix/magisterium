@@ -1,0 +1,47 @@
+slug: martin-du-bellay
+nom: Martin du Bellay
+nom_complet: null
+naissance: '1703-05-05'
+deces: '1775-12-19'
+naissance_lieu: Clereau
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1739-12-13'
+  consecrateur_principal: charles-gaspard-guillaume-de-vintimille-du-luc
+  co_consecrateurs:
+  - henri-constance-de-lort-de-serignan-de-valras
+  - pierre-jules-cesar-de-rochechouart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbellaym.html
+  - https://fr.wikipedia.org/wiki/Martin_du_Bellay_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fréjus, France
+  du: null
+  au: '1766-08-04'
+- titre: Bishop Emeritus of Fréjus, France
+  du: null
+  au: '1775-12-19'
+- titre: évêque de Fréjus
+  du: '1739-05-28'
+  au: '1766-08-04'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22209640
+  catholic_hierarchy: bbellaym
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:50+00:00'
+  completeness: 1.0

@@ -1,0 +1,51 @@
+slug: henri-dauphin
+nom: Henri Dauphin
+nom_complet: Henri de La Tour-du-Pin
+naissance: '1296'
+deces: '1328'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blatdp.html
+  - https://fr.wikipedia.org/wiki/Henri_Dauphin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Passau, Germany
+  du: '1317-06-03'
+  au: null
+- titre: Bishop of Metz, France
+  du: '1319-05-04'
+  au: null
+- titre: Bishop-Elect of Metz, France
+  du: null
+  au: '1324-11-24'
+- titre: Former Bishop-Elect of Metz, France
+  du: null
+  au: 1328&sup1;
+- titre: évêque de Passau
+  du: '1317-06-11'
+  au: null
+- titre: évêque de Metz
+  du: '1319-01-01'
+  au: '1325-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q257283
+  catholic_hierarchy: blatdp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:35:25+00:00'
+  completeness: 0.25

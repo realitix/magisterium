@@ -1,0 +1,41 @@
+slug: giovanni-murad
+nom: Giovanni Murad
+nom_complet: null
+naissance: '1854-02-01'
+deces: '1937-04-18'
+naissance_lieu: Dlebta
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1892-06-12'
+  lieu: Bkorki
+  consecrateur_principal: yuhanna-boutros-el-hajj
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmurad.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Baalbek (Maronite), Lebanon
+  du: '1892-06-12'
+  au: '1937-04-18'
+- titre: évêque diocésain
+  du: '1892-06-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64708520
+  catholic_hierarchy: bmurad
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:36+00:00'
+  completeness: 0.88

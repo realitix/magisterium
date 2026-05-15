@@ -1,0 +1,47 @@
+slug: ferdinando-taverna
+nom: Ferdinando Taverna
+nom_complet: Ferdinando Cardinal Taverna
+naissance: '1558'
+deces: '1619-08-29'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Novara, Diocese of Novara
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1615-12-07'
+  lieu: Sistine, Chapel, Roma, Diocese of Roma {Rome}
+  co_consecrateurs:
+  - giovanni-evangelista-cardinal-pallotta
+  - benedetto-cardinal-giustiniani
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btave.html
+  - https://fr.wikipedia.org/wiki/Ferdinando_Taverna
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Collector to Portugal
+  du: '1596-10-15'
+  au: '1598-03-17'
+- titre: Bishop of Novara, Italy
+  du: '1615-11-16'
+  au: '1619-08-29'
+- titre: évêque diocésain
+  du: '1615-11-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q655546
+  catholic_hierarchy: btave
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:52:09+00:00'
+  completeness: 0.75

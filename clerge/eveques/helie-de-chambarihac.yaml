@@ -1,0 +1,44 @@
+slug: helie-de-chambarihac
+nom: Hélie de Chambarihac
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchambari.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nemosia (Limasol), Cyprus
+  du: '1351-09-08'
+  au: null
+- titre: Bishop of Paphos, Cyprus
+  du: '1357-04-21'
+  au: null
+- titre: Évêque de Paphos
+  du: '1357-04-29'
+  au: null
+- titre: Roman Catholic bishop of Nemosia
+  du: '1351-09-16'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108449585
+  catholic_hierarchy: bchambari
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:31+00:00'
+  completeness: 0.25

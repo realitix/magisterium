@@ -1,0 +1,51 @@
+slug: marc-chatagnon
+nom: Marc Chatagnon
+nom_complet: Marc Chatagnon, M.E.P.
+naissance: '1839-02-14'
+deces: '1920-11-26'
+naissance_lieu: Cellieu, Archdiocese of Lyon, France
+deces_lieu: Suifu
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1887-04-24'
+  lieu: Suifu
+  consecrateur_principal: jean-joseph-fenouil
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchat.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Vicar Apostolic of Southern Szechwan {Se-Ciuen Meridionale}, China
+  du: '1887-01-25'
+  au: '1920-11-26'
+- titre: Titular Bishop of Chersonesus in Creta
+  du: '1887-01-25'
+  au: null
+- titre: vicaire apostolique
+  du: '1887-01-25'
+  au: null
+- titre: évêque titulaire
+  du: '1887-01-25'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Chatagnon.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q64658369
+  catholic_hierarchy: bchat
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:42:33+00:00'
+  completeness: 0.88

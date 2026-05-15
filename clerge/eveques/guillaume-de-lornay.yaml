@@ -1,0 +1,39 @@
+slug: guillaume-de-lornay
+nom: Guillaume de Lornay
+nom_complet: Guillaume di Lornay
+naissance: '1350'
+deces: '1408-10-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blornay.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Lornay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Genève {Geneva}, Switzerland
+  du: '1388-10-12'
+  au: '1408-10-31'
+- titre: évêque de Genève
+  du: '1388-10-20'
+  au: '1408-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1530396
+  catholic_hierarchy: blornay
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:00:11+00:00'
+  completeness: 0.38

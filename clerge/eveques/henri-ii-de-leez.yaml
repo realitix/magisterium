@@ -1,0 +1,47 @@
+slug: henri-ii-de-leez
+nom: Henri II de Leez
+nom_complet: Henri de Leez
+naissance: '1100'
+deces: '1164-09-04'
+naissance_lieu: null
+deces_lieu: Pavia
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1145-06-24'
+  consecrateur_principal: arnold-von-randerath
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleez.html
+  - https://fr.wikipedia.org/wiki/Henri_II_de_Leez
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Liège, Belgium
+  du: 1145&sup1;
+  au: '1164-09-04'
+- titre: évêque de Liège
+  du: '1145-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: prince-évêque
+  du: '1145-01-01'
+  au: '1164-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3030588
+  catholic_hierarchy: bleez
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:40:23+00:00'
+  completeness: 0.75

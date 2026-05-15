@@ -1,0 +1,54 @@
+slug: vincenzo-molo
+nom: Vincenzo Molo
+nom_complet: null
+naissance: '1833-05-31'
+deces: '1904-03-15'
+naissance_lieu: Bellinzona
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1887-10-02'
+  consecrateur_principal: gaspard-mermillod
+  co_consecrateurs:
+  - adrien-jardinier
+  - etienne-barthelemy-bagnoud
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmolo.html
+  - https://fr.wikipedia.org/wiki/Vincenzo_Molo
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Apostolic Administrator of Lugano, Switzerland
+  du: '1887-09-20'
+  au: '1904-03-15'
+- titre: Titular Bishop of Callipolis
+  du: '1887-09-20'
+  au: null
+- titre: évêque titulaire
+  du: '1887-09-20'
+  au: '1904-03-15'
+- titre: administrateur apostolique
+  du: '1887-09-20'
+  au: '1904-03-15'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vescovo-molo.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q4013411
+  catholic_hierarchy: bmolo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:04:03+00:00'
+  completeness: 1.0

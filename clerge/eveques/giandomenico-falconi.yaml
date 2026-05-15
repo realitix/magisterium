@@ -1,0 +1,53 @@
+slug: giandomenico-falconi
+nom: Giandomenico Falconi
+nom_complet: null
+naissance: '1810-08-04'
+deces: '1861-12-24'
+naissance_lieu: Capracotta, Diocese of Trivento
+deces_lieu: Capracotta, Diocese of Trivento
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1858-08-01'
+  lieu: Cathedral, Napoli, Archdiocese of Napoli {Naples}
+  consecrateur_principal: sisto-riario-sforza
+  co_consecrateurs:
+  - camillo-monteforte
+  - raffaele-carbonelli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfalcjd.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Prelate of Altamura, Italy
+  du: '1848-04-02'
+  au: null
+- titre: Prelate of Altamura ed Acquaviva delle Fonti, Italy
+  du: '1848-08-16'
+  au: 1860&sup2;
+- titre: Titular Bishop of Eumenia
+  du: '1858-06-25'
+  au: null
+- titre: Prelate Emeritus of Altamura ed Acquaviva delle Fonti, Italy
+  du: null
+  au: '1861-12-24'
+- titre: évêque titulaire
+  du: '1858-06-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751579
+  catholic_hierarchy: bfalcjd
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:29:56+00:00'
+  completeness: 1.0

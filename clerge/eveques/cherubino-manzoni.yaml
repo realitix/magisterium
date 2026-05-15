@@ -1,0 +1,49 @@
+slug: cherubino-manzoni
+nom: Cherubino Manzoni
+nom_complet: Cherubino Manzoni, O.F.M.
+naissance: '1595'
+deces: '1651'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1635-08-26'
+  consecrateur_principal: francesco-maria-cardinal-brancaccio
+  co_consecrateurs:
+  - fabrizio-suardi
+  - sigismondo-taddei
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmanzoni.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavello, Italy
+  du: '1635-07-09'
+  au: null
+- titre: Bishop of Termoli, Italy
+  du: '1644-07-13'
+  au: 1651&sup1;
+- titre: évêque diocésain
+  du: '1635-07-09'
+  au: null
+- titre: évêque diocésain
+  du: '1644-07-13'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q26702379
+  catholic_hierarchy: bmanzoni
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:23:08+00:00'
+  completeness: 0.75

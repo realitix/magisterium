@@ -1,0 +1,40 @@
+slug: anselm-le-gras-o-f-m
+nom: Anselm le Gras, O.F.M.
+nom_complet: Anselm le Gras
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1231-02-09'
+  consecrateur_principal: richard-le-grant
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blgras.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint David&rsquo;s, Wales, Great Britain
+  du: '1229-04-07'
+  au: 1247&sup2;
+- titre: évêque diocésain
+  du: '1229-04-14'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64780850
+  catholic_hierarchy: blgras
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:48:41+00:00'
+  completeness: 0.62

@@ -1,0 +1,47 @@
+slug: philippe-de-moulins
+nom: Philippe De Moulins
+nom_complet: Philippe de Moulins
+naissance: '1325'
+deces: '1409-07-31'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1384-01-10'
+  consecrateur_principal: jean-de-cardaillac
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmoulins.html
+  - https://fr.wikipedia.org/wiki/Philippe_de_Moulins
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Évreux, France
+  du: '1383-10-07'
+  au: null
+- titre: Bishop of Noyon, France
+  du: '1388-12-02'
+  au: '1409-07-31'
+- titre: évêque diocésain
+  du: '1383-10-15'
+  au: null
+- titre: évêque de Noyon
+  du: '1388-12-10'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3379688
+  catholic_hierarchy: bmoulins
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:15:50+00:00'
+  completeness: 0.75

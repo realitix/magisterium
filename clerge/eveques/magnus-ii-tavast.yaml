@@ -1,0 +1,49 @@
+slug: magnus-ii-tavast
+nom: Magnus II Tavast
+nom_complet: Magnus Olaf Tavast
+naissance: '1357-10-22'
+deces: '1452-03-09'
+naissance_lieu: Virmo
+deces_lieu: Nådendal
+rang: eveque
+nationalite: Q34
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/btavast.html
+  - https://fr.wikipedia.org/wiki/Magnus_II_Tavast
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of &Aring;bo, Finland
+  du: '1412-10-21'
+  au: Feb 1450&sup3;
+- titre: Bishop Emeritus of &Aring;bo, Finland
+  du: null
+  au: '1452-03-09'
+- titre: Roman Catholic Bishop of Åbo
+  du: '1412-01-01'
+  au: '1450-01-01'
+- titre: Roman Catholic Bishop of Åbo
+  du: '1412-10-30'
+  au: '1450-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Magnus-Tawast-1933.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6158429
+  catholic_hierarchy: btavast
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:52:07+00:00'
+  completeness: 0.38

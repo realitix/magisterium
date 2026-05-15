@@ -1,0 +1,43 @@
+slug: john-dalderby
+nom: John Dalderby
+nom_complet: null
+naissance: null
+deces: '1320-01-05'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1300-06-12'
+  consecrateur_principal: robert-of-winchelsey
+  co_consecrateurs:
+  - thomas-wouldham
+  - simon-of-ghent
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdalder.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lincoln, England, Great Britain
+  du: null
+  au: '1320-01-05'
+- titre: évêque de Lincoln
+  du: '1300-01-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6228399
+  catholic_hierarchy: bdalder
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:23:27+00:00'
+  completeness: 0.88

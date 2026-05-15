@@ -1,0 +1,97 @@
+slug: pie-iv
+nom: Pie IV
+nom_complet: Pius IV
+naissance: '1499-03-31'
+deces: '1565-12-09'
+naissance_lieu: Milano, Archdiocese of Milano {Milan}
+deces_lieu: Roma, Diocese of Roma {Rome}
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1546-04-20'
+  lieu: Chapel of the Consecrator, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: filippo-archinto-1500
+  co_consecrateurs:
+  - marco-cornaro-corner
+  - giovanni-campeggi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdemga.html
+  - https://fr.wikipedia.org/wiki/Pie_IV
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Dubrovnik (Ragusa), Croatia
+  du: '1545-12-14'
+  au: null
+- titre: Cardinal-Priest of Sant&rsquo;Anastasia
+  du: '1550-09-01'
+  au: null
+- titre: Cardinal-Priest of Santa Pudenziana
+  du: '1552-03-23'
+  au: null
+- titre: Archbishop (Personal Title) of Cassano all&rsquo;Jonio, Italy
+  du: '1553-03-01'
+  au: null
+- titre: Cardinal-Priest of Santo Stefano al Monte Celio
+  du: '1553-12-11'
+  au: null
+- titre: Prefect of the Apostolic Signatura
+  du: '1555-05-30'
+  au: Sep 1557&sup2;
+- titre: Archbishop (Personal Title) of Foligno, Italy
+  du: '1556-06-25'
+  au: null
+- titre: Bishop of Foligno, Italy
+  du: null
+  au: '1557-05-07'
+- titre: Cardinal-Priest of Santa Prisca
+  du: '1557-09-20'
+  au: null
+- titre: Archbishop of Milano {Milan}, Italy
+  du: '1558-07-20'
+  au: null
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1565-12-09'
+- titre: archevêque de Dubrovnik
+  du: '1545-12-24'
+  au: null
+- titre: archevêque de Milan
+  du: '1558-07-30'
+  au: '1560-01-04'
+- titre: pape
+  du: '1560-01-14'
+  au: '1565-12-09'
+- titre: évêque de Foligno
+  du: '1556-07-05'
+  au: '1557-05-17'
+- titre: archevêque catholique
+  du: '1546-04-30'
+  au: null
+- titre: camerlingue du Sacré Collège
+  du: '1557-01-01'
+  au: '1558-01-01'
+- titre: cardinal
+  du: '1549-04-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Pius%20IV%2C%20three-quarter-length%2C%20seated%20at%20a%20draped%20table%20%28Circle%20of%20Scipione%20Pulzone%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q161983
+  catholic_hierarchy: bdemga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:42:05+00:00'
+  completeness: 1.0

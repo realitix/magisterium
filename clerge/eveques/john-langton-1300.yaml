@@ -1,0 +1,40 @@
+slug: john-langton-1300
+nom: John Langton
+nom_complet: null
+naissance: '1300'
+deces: '1337-06-17'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1305-09-19'
+  consecrateur_principal: robert-of-winchelsey
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blangtoj.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chichester, England, Great Britain
+  du: null
+  au: '1337-06-17'
+- titre: Roman Catholic Bishop of Chichester
+  du: '1305-04-13'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q6244013
+  catholic_hierarchy: blangtoj
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:32:14+00:00'
+  completeness: 0.75

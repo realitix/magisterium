@@ -1,0 +1,45 @@
+slug: alexandre-de-malonne
+nom: Alexandre de Malonne
+nom_complet: Aleksander z Malonne
+naissance: '1100'
+deces: '1156-09-09'
+naissance_lieu: null
+deces_lieu: P&#322;ock, Diocese of P&#322;ock
+rang: eveque
+nationalite: Q36
+tampon: ordo_incertus
+sacre:
+  date: '1129'
+  consecrateur_principal: jakub-ze-znina
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmalonne.html
+  - https://fr.wikipedia.org/wiki/Alexandre_de_Malonne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of P&#322;ock, Poland
+  du: 1129&sup2;
+  au: '1156-09-09'
+- titre: évêque diocésain
+  du: '1129-01-01'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Katedra-P%C5%82ock14.JPG
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q673851
+  catholic_hierarchy: bmalonne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:18:12+00:00'
+  completeness: 0.75

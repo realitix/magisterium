@@ -1,0 +1,43 @@
+slug: william-abraham
+nom: William Abraham
+nom_complet: null
+naissance: '1792'
+deces: '1837-01-23'
+naissance_lieu: Knochanore
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1830-03-21'
+  consecrateur_principal: robert-laffan
+  co_consecrateurs:
+  - john-murphy
+  - john-ryan
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/babraw.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Waterford and Lismore, Ireland
+  du: '1830-01-12'
+  au: '1837-01-23'
+- titre: évêque diocésain
+  du: '1830-01-12'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16154967
+  catholic_hierarchy: babraw
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:53+00:00'
+  completeness: 0.88

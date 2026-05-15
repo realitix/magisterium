@@ -1,0 +1,44 @@
+slug: jose-jimenez-samaniego
+nom: José Jiménez Samaniego
+nom_complet: José Jiménez de Samaniego, O.F.M.
+naissance: '1622-10-01'
+deces: '1692-06-14'
+naissance_lieu: Nájera
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1683-08-15'
+  lieu: S. Domingo de la Calzada
+  consecrateur_principal: juan-de-isla
+  co_consecrateurs:
+  - gabriel-esparza
+  - juan-saenz-de-valatorre
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bjimdsa.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Plasencia, Spain
+  du: '1683-05-24'
+  au: '1692-06-14'
+- titre: évêque de Plasencia
+  du: '1683-05-24'
+  au: null
+fraternite: franciscains
+photo: null
+qids:
+  wikidata: Q64763190
+  catholic_hierarchy: bjimdsa
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:01:24+00:00'
+  completeness: 0.88

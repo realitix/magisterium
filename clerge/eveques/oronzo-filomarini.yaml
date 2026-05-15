@@ -1,0 +1,46 @@
+slug: oronzo-filomarini
+nom: Oronzo Filomarini
+nom_complet: Oronzio Filomarini, C.R.
+naissance: '1662-04-16'
+deces: '1744'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1700-05-31'
+  consecrateur_principal: niccolo-cardinal-radulovich
+  co_consecrateurs:
+  - giovanni-andrea-monreale-1653-8f4612
+  - emilio-giacomo-cavaliere-c-p-o
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfilomo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gallipoli, Italy
+  du: '1700-05-28'
+  au: '1741-03-05'
+- titre: Bishop Emeritus of Gallipoli, Italy
+  du: null
+  au: 1744&sup1;
+- titre: évêque diocésain
+  du: '1700-05-28'
+  au: '1741-03-05'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q17154398
+  catholic_hierarchy: bfilomo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:44:48+00:00'
+  completeness: 0.88

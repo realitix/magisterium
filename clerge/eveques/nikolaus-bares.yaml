@@ -1,0 +1,54 @@
+slug: nikolaus-bares
+nom: Nikolaus Bares
+nom_complet: Nicolaus Bares
+naissance: '1871-01-24'
+deces: '1935-03-01'
+naissance_lieu: Idenheim, Diocese of Trier
+deces_lieu: Berlin, Diocese of Berlin
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1929-02-24'
+  lieu: Trier, Diocese of Trier
+  consecrateur_principal: franz-rudolf-bornewasser
+  co_consecrateurs:
+  - ludwig-maria-hugo
+  - antonius-monch
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbares.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hildesheim, Germany
+  du: '1929-01-15'
+  au: null
+- titre: Bishop of Berlin, Germany
+  du: null
+  au: '1935-03-01'
+- titre: évêque de Hildesheim
+  du: '1929-02-24'
+  au: '1933-01-01'
+- titre: Roman Catholic Bishop of Berlin
+  du: '1933-10-27'
+  au: '1935-03-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus%20Bares.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q103536
+  catholic_hierarchy: bbares
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:02:55+00:00'
+  completeness: 1.0

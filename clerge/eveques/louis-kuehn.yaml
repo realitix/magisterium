@@ -1,0 +1,48 @@
+slug: louis-kuehn
+nom: Louis Kuehn
+nom_complet: null
+naissance: '1922-03-23'
+deces: '2008-06-25'
+naissance_lieu: Saint-Dié, Diocese of Saint-Dié
+deces_lieu: Lure, Archdiocese of Besançon
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1974-06-15'
+  lieu: Saint-Étienne, Cathedral, Meaux, Diocese of Meaux
+  consecrateur_principal: jean-vilnet
+  co_consecrateurs:
+  - jacques-menager
+  - andre-bontems
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkuehnl.html
+  - https://fr.wikipedia.org/wiki/Louis_Kuehn_(pr%C3%A9lat)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meaux, France
+  du: '1974-05-13'
+  au: '1986-08-27'
+- titre: Bishop Emeritus of Meaux, France
+  du: null
+  au: '2008-06-25'
+- titre: évêque de Meaux
+  du: '1974-05-13'
+  au: '1986-08-27'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1871805
+  catholic_hierarchy: bkuehnl
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:22:37+00:00'
+  completeness: 1.0

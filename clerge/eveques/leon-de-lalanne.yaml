@@ -1,0 +1,44 @@
+slug: leon-de-lalanne
+nom: Léon de Lalanne
+nom_complet: Léon de La Lane
+naissance: '1642'
+deces: '1700-08-06'
+naissance_lieu: Bordeaux, Archdiocese of Bordeaux
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1692-08-24'
+  consecrateur_principal: armand-anne-tristan-de-la-baume-de-suze
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blalane.html
+  - https://fr.wikipedia.org/wiki/L%C3%A9on_de_Lalanne
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Bayonne, France
+  du: null
+  au: '1700-08-06'
+- titre: évêque de Bayonne, Lescar et Oloron
+  du: '1688-11-01'
+  au: null
+- titre: Évêque de Dax
+  du: '1684-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816471
+  catholic_hierarchy: blalane
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:28:55+00:00'
+  completeness: 0.75

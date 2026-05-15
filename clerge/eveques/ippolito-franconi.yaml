@@ -1,0 +1,43 @@
+slug: ippolito-franconi
+nom: Ippolito Franconi
+nom_complet: null
+naissance: '1593'
+deces: '1653'
+naissance_lieu: Agnone
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1632-01-25'
+  consecrateur_principal: antonio-barberini
+  co_consecrateurs:
+  - antonio-provana
+  - giovanni-francesco-passionei
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfranconi.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nocera de&rsquo; Pagani, Italy
+  du: '1632-01-19'
+  au: 1653&sup1;
+- titre: Roman Catholic Bishop of Nocera dei Pagani
+  du: '1632-01-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q13455378
+  catholic_hierarchy: bfranconi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:55:58+00:00'
+  completeness: 0.75

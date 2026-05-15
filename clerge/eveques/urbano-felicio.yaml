@@ -1,0 +1,40 @@
+slug: urbano-felicio
+nom: Urbano Felicio
+nom_complet: null
+naissance: '1582-05-25'
+deces: '1635'
+naissance_lieu: Aquilae
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1629-04-17'
+  consecrateur_principal: antonio-barberini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfeliceo.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Policastro, Italy
+  du: '1629-03-14'
+  au: 1635&sup2;
+- titre: évêque diocésain
+  du: '1629-03-14'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23612036
+  catholic_hierarchy: bfeliceo
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:35:35+00:00'
+  completeness: 0.75

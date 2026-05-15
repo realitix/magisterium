@@ -1,0 +1,44 @@
+slug: pardam-von-dem-knesebeck
+nom: Pardam von dem Knesebeck
+nom_complet: null
+naissance: null
+deces: '1440-10-06'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkneseb.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ratzeburg, Germany
+  du: '1432-04-07'
+  au: '1440-10-06'
+- titre: évêque diocésain
+  du: '1432-04-16'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+- titre: évêque élu
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q68906366
+  catholic_hierarchy: bkneseb
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:16:15+00:00'
+  completeness: 0.38

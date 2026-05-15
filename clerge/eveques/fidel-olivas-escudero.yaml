@@ -1,0 +1,44 @@
+slug: fidel-olivas-escudero
+nom: Fidel Olivas Escudero
+nom_complet: null
+naissance: '1849-01-03'
+deces: '1935-04-12'
+naissance_lieu: Pomabamba, Archdiocese of Lima
+deces_lieu: Huamanga, Diocese of Ayacucho o Huamanga (Guamanga)
+rang: eveque
+nationalite: Q419
+tampon: ordo_validus
+sacre:
+  date: '1900-08-15'
+  lieu: Cathedral, Lima, Archdiocese of Lima
+  consecrateur_principal: manuel-tovar-y-chamorro
+  co_consecrateurs:
+  - julian-caceres-negron
+  - jose-maria-carpenter-aponte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bolies.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ayacucho o Huamanga (Guamanga), Peru
+  du: '1900-04-19'
+  au: '1935-04-12'
+- titre: évêque diocésain
+  du: '1900-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64708087
+  catholic_hierarchy: bolies
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:49:57+00:00'
+  completeness: 1.0

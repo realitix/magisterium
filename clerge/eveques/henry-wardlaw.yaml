@@ -1,0 +1,44 @@
+slug: henry-wardlaw
+nom: Henry Wardlaw
+nom_complet: null
+naissance: null
+deces: '1440-04-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1404'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwardlawh.html
+  - https://fr.wikipedia.org/wiki/Henry_Wardlaw
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Saint Andrews, Scotland, Great Britain
+  du: '1403-09-10'
+  au: '1440-04-09'
+- titre: évêque de Saint Andrews
+  du: '1403-09-19'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Wardlaw.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q12250157
+  catholic_hierarchy: bwardlawh
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:51:08+00:00'
+  completeness: 0.5

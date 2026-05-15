@@ -1,0 +1,41 @@
+slug: domenico-bianconi
+nom: Domenico Bianconi
+nom_complet: null
+naissance: '1852-05-08'
+deces: '1922-06-12'
+naissance_lieu: Piperno
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1897-04-25'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbianc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Ferentino, Italy
+  du: '1897-04-19'
+  au: '1922-06-12'
+- titre: Roman Catholic Bishop of Ferentino
+  du: '1897-04-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64707180
+  catholic_hierarchy: bbianc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:25:22+00:00'
+  completeness: 0.88

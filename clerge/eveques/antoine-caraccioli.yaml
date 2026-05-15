@@ -1,0 +1,48 @@
+slug: antoine-caraccioli
+nom: Antoine Caraccioli
+nom_complet: Antoine Caracciolo, C.R.S.A.
+naissance: '1515'
+deces: '1570-08-29'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}, Italy
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  date: '1551-11-15'
+  lieu: Infirmary, Saint-Victor, Abbey, Paris, Diocese of Paris
+  consecrateur_principal: gabriel-bouvery
+  co_consecrateurs:
+  - philibert-cardinal-babou-de-la-bourdaisiere
+  - charles-boucher-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bcaraccan.html
+  - https://fr.wikipedia.org/wiki/Antoine_Caraccioli
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Troyes, France
+  du: '1551-10-05'
+  au: '1563-03-31'
+- titre: Bishop Emeritus of Troyes, France
+  du: null
+  au: '1570-08-29'
+- titre: évêque diocésain
+  du: '1551-10-15'
+  au: '1563-04-10'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2853762
+  catholic_hierarchy: bcaraccan
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:18:12+00:00'
+  completeness: 0.88

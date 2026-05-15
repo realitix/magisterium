@@ -1,0 +1,45 @@
+slug: geoffrey-de-clive
+nom: Geoffrey de Clive
+nom_complet: null
+naissance: null
+deces: '1120-02-03'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1115-12-26'
+  consecrateur_principal: ralph-d-rsquo-escures
+  co_consecrateurs:
+  - guillaume-giffard
+  - ralph-de-luffa
+  - herbert-de-losinga
+  - non-indexe-b8a56619
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bclive.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Hereford, England, Great Britain
+  du: 1115&sup1;
+  au: '1120-02-03'
+- titre: évêque de Hereford
+  du: '1115-01-01'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q5534992
+  catholic_hierarchy: bclive
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:54:42+00:00'
+  completeness: 0.88

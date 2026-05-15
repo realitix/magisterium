@@ -1,0 +1,44 @@
+slug: cesareo-rodrigo
+nom: Cesáreo Rodrigo
+nom_complet: Cesáreo Rodrigo y Rodríguez
+naissance: '1819-02-25'
+deces: '1895-01-05'
+naissance_lieu: Coculina, Archdiocese of Burgos
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1876-02-06'
+  lieu: San Isidro, Madrid, Archdiocese of Toledo
+  consecrateur_principal: juan-de-la-cruz-ignacio-moreno-y-maisanove
+  co_consecrateurs:
+  - honorio-maria-de-onaindia-y-lopez
+  - pedro-jose-sanchez-carrascosa-y-carrion
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/broroc.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orense, Spain
+  du: null
+  au: 1895&sup1;
+- titre: évêque d'Orense
+  du: '1875-09-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q50414928
+  catholic_hierarchy: broroc
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:27:01+00:00'
+  completeness: 0.88

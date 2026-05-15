@@ -1,0 +1,51 @@
+slug: john-vertin
+nom: John Vertin
+nom_complet: null
+naissance: '1844-07-17'
+deces: '1899-02-26'
+naissance_lieu: Doblice Parice, Diocese of Ljubljana (Laybach; Laibach), Slovenia
+deces_lieu: null
+rang: eveque
+nationalite: Q30
+tampon: ordo_validus
+sacre:
+  date: '1879-09-14'
+  lieu: St. Paul, Church, Negaunee, Diocese of Sault Sainte Marie and Marquette, Michigan
+  consecrateur_principal: michael-heiss
+  co_consecrateurs:
+  - caspar-henry-borgess
+  - john-lancaster-spalding
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bvertin.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sault Sainte Marie and Marquette, Michigan, USA
+  du: '1879-05-16'
+  au: '1899-02-26'
+- titre: évêque de Marquette
+  du: '1879-09-14'
+  au: '1899-02-26'
+- titre: évêque diocésain
+  du: '1879-05-16'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Vertin%20kot%20novope%C4%8Deni%20%C5%A1kof.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q6261966
+  catholic_hierarchy: bvertin
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:34:19+00:00'
+  completeness: 1.0

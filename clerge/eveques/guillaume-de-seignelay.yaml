@@ -1,0 +1,46 @@
+slug: guillaume-de-seignelay
+nom: Guillaume de Seignelay
+nom_complet: null
+naissance: null
+deces: '1223-11-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: pierre-de-corbeil
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bseignelg.html
+  - https://fr.wikipedia.org/wiki/Guillaume_de_Seignelay
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Auxerre, France
+  du: '1207-02-09'
+  au: null
+- titre: Bishop of Paris, France
+  du: '1220-04-27'
+  au: '1223-11-23'
+- titre: évêque d'Auxerre
+  du: '1207-02-16'
+  au: '1220-01-01'
+- titre: évêque de Paris
+  du: '1220-05-04'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21427976
+  catholic_hierarchy: bseignelg
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:08:33+00:00'
+  completeness: 0.62

@@ -1,0 +1,60 @@
+slug: johannes-geisler
+nom: Johannes Geisler
+nom_complet: Johann Baptist Geisler
+naissance: '1882-04-23'
+deces: '1952-09-05'
+naissance_lieu: Mayrhofen, Archdiocese of Salzburg, Austria
+deces_lieu: Bressanone, Diocese of Brixen {Bressanone}
+rang: archeveque
+nationalite: Q40
+tampon: ordo_validus
+sacre:
+  date: '1930-05-25'
+  lieu: San Giovanni in Laterano, Cathedral Basilica, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: basilio-pompilj
+  co_consecrateurs:
+  - giuseppe-palica
+  - alfonso-maria-de-sanctis
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgeis.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Brixen {Bressanone}, Italy
+  du: '1930-04-02'
+  au: '1952-04-23'
+- titre: Titular Archbishop of Odessus
+  du: '1952-04-23'
+  au: null
+- titre: Bishop Emeritus of Brixen {Bressanone}, Italy
+  du: null
+  au: '1952-09-05'
+- titre: archevêque titulaire
+  du: '1952-04-23'
+  au: null
+- titre: archevêque catholique
+  du: null
+  au: null
+- titre: évêque de Brixen
+  du: '1930-04-02'
+  au: '1952-04-23'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/JB%20Geisler%20bischof.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1697549
+  catholic_hierarchy: bgeis
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:03+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:15:44+00:00'
+  completeness: 1.0

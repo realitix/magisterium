@@ -1,0 +1,45 @@
+slug: jean-de-bernin
+nom: Jean de Bernin
+nom_complet: Jean de Bournain (Bernin)
+naissance: null
+deces: '1266-04-17'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  date: Apr 1218&sup3;
+  consecrateur_principal: non-indexe-bad8609e
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbournain.html
+  - https://fr.wikipedia.org/wiki/Jean_de_Bernin
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Vienne, France
+  du: 1218&sup2;
+  au: '1266-04-17'
+- titre: archevêque de Vienne
+  du: '1218-04-01'
+  au: '1266-04-24'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Vienne.La.Batie.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3175269
+  catholic_hierarchy: bbournain
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:45:09+00:00'
+  completeness: 0.62

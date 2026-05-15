@@ -1,0 +1,47 @@
+slug: hermann-ottemberg
+nom: Hermann Ottemberg
+nom_complet: null
+naissance: null
+deces: '1626-05-23'
+naissance_lieu: Nimegue
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1611-01-30'
+  consecrateur_principal: scipion-caffarelli-borghese
+  co_consecrateurs:
+  - domenico-cardinal-rivarola
+  - giovanni-canauli
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bortem.html
+  - https://fr.wikipedia.org/wiki/Hermann_Ottemberg
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Arras, France
+  du: '1610-11-24'
+  au: '1626-05-23'
+- titre: évêque d'Arras
+  du: '1610-11-24'
+  au: null
+- titre: Auditeur de la Rote romaine
+  du: '1600-01-01'
+  au: '1611-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3134174
+  catholic_hierarchy: bortem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:57:18+00:00'
+  completeness: 0.88

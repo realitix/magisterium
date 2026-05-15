@@ -1,0 +1,38 @@
+slug: gentile-del-monte
+nom: Gentile Del Monte
+nom_complet: null
+naissance: null
+deces: null
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdelmong.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Molfetta, Italy
+  du: '1427-02-28'
+  au: 1432&sup2;
+- titre: évêque diocésain
+  du: '1427-03-09'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108450291
+  catholic_hierarchy: bdelmong
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.22
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:40:33+00:00'
+  completeness: 0.25

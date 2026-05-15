@@ -1,0 +1,54 @@
+slug: maximilian-aichern
+nom: Maximilian Aichern
+nom_complet: Maximilian Aichern, O.S.B.
+naissance: '1932-12-26'
+deces: '2026-01-31'
+naissance_lieu: Wien, Archdiocese of Wien {Vienna}
+deces_lieu: Chapter House of the Cathedral, Linz, Diocese of Linz
+rang: eveque
+nationalite: Q40
+tampon: ordo_dubius
+sacre:
+  date: '1982-01-17'
+  lieu: Cathedral, Linz, Diocese of Linz
+  consecrateur_principal: franz-konig
+  co_consecrateurs:
+  - franz-zauner
+  - alois-wagner
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/baichern.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Linz, Austria
+  du: '1981-12-15'
+  au: '2005-05-18'
+- titre: Bishop Emeritus of Linz, Austria
+  du: null
+  au: '2026-01-31'
+- titre: évêque de Linz
+  du: '1981-12-15'
+  au: '2005-05-18'
+- titre: abbé
+  du: null
+  au: null
+fraternite: benedictins
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Bischof%20Maximilian%20Aichern.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q89141
+  catholic_hierarchy: baichern
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:46+00:00'
+  completeness: 0.89
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T14:24:28+00:00'
+  completeness: 1.0

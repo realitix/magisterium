@@ -1,0 +1,50 @@
+slug: calogero-peri
+nom: Calogero Peri
+nom_complet: Calogero Peri, O.F.M. Cap.
+naissance: '1953-06-16'
+deces: null
+naissance_lieu: Salemi, Diocese of Mazara del Vallo
+deces_lieu: null
+rang: eveque
+nationalite: Q38
+tampon: ordo_dubius
+sacre:
+  date: '2010-03-20'
+  lieu: San Giuliano, Cathedral, Caltagirone, Diocese of Caltagirone
+  consecrateur_principal: paolo-romeo
+  co_consecrateurs:
+  - mariano-crociata
+  - vincenzo-manzella
+  - mario-russotto
+  - domenico-mogavero
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bperical.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Caltagirone, Italy
+  du: '2010-01-30'
+  au: null
+- titre: évêque de Caltagirone
+  du: '2010-01-30'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Calogero%20Peri%202014.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q135294
+  catholic_hierarchy: bperical
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:22:32+00:00'
+  completeness: 0.88

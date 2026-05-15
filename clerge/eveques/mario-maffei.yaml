@@ -1,0 +1,49 @@
+slug: mario-maffei
+nom: Mario Maffei
+nom_complet: null
+naissance: '1463'
+deces: '1537-06-24'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1518-05-24'
+  consecrateur_principal: andrea-cardinal-della-valle
+  co_consecrateurs:
+  - paride-grassi
+  - pietro-de-flisco
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmaffem.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Aquino, Italy
+  du: '1516-11-05'
+  au: null
+- titre: Bishop of Cavaillon, France
+  du: '1524-09-09'
+  au: '1537-06-24'
+- titre: Roman Catholic Bishop of Aquino
+  du: '1516-11-15'
+  au: null
+- titre: évêque de Cavaillon
+  du: '1524-09-19'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64761462
+  catholic_hierarchy: bmaffem
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:12:12+00:00'
+  completeness: 0.88

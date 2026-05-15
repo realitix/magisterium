@@ -1,0 +1,51 @@
+slug: jean-belles-mains
+nom: Jean Belles-mains
+nom_complet: Jean de Belleme (Bellesmains)
+naissance: '1120'
+deces: '1204'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1162-12-23'
+  consecrateur_principal: non-indexe-cdd3fb69
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbelleme.html
+  - https://fr.wikipedia.org/wiki/Jean_Belles-mains
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Poitiers, France
+  du: 1162&sup1;
+  au: null
+- titre: Archbishop of Lyon, France
+  du: 1181&sup2;
+  au: 1193&sup2;
+- titre: évêque de Poitiers
+  du: '1162-01-01'
+  au: null
+- titre: archevêque de Lyon
+  du: '1181-01-01'
+  au: '1193-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Sceau%20Jean%20Bellesmains.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3170682
+  catholic_hierarchy: bbelleme
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:58+00:00'
+  completeness: 0.5

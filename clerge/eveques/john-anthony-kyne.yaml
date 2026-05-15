@@ -1,0 +1,43 @@
+slug: john-anthony-kyne
+nom: John Anthony Kyne
+nom_complet: null
+naissance: '1904-11-04'
+deces: '1966-12-23'
+naissance_lieu: Longwood
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1947-06-29'
+  consecrateur_principal: raffaele-carlo-rossi
+  co_consecrateurs:
+  - edoardo-tonna
+  - ilario-alcini
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bkyne.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Meath, Ireland
+  du: '1947-05-17'
+  au: '1966-12-23'
+- titre: évêque diocésain
+  du: '1947-05-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64734544
+  catholic_hierarchy: bkyne
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:18+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:24:59+00:00'
+  completeness: 1.0

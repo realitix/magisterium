@@ -1,0 +1,41 @@
+slug: johannes-mul
+nom: Johannes Mul
+nom_complet: null
+naissance: '1291'
+deces: '1350-08-23'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmul.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lübeck, Germany
+  du: '1343-04-21'
+  au: '1350-08-23'
+- titre: évêque
+  du: null
+  au: null
+- titre: prince-évêque de Lübeck
+  du: '1343-04-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1698055
+  catholic_hierarchy: bmul
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:18:23+00:00'
+  completeness: 0.38

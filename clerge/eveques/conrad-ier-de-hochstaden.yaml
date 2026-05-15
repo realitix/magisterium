@@ -1,0 +1,48 @@
+slug: conrad-ier-de-hochstaden
+nom: Conrad Ier de Hochstaden
+nom_complet: Konrad von Hochstaden
+naissance: '1205'
+deces: '1261-09-28'
+naissance_lieu: null
+deces_lieu: null
+rang: archeveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1239-10-28'
+  consecrateur_principal: ludolf-von-holte
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bhochstk.html
+  - https://fr.wikipedia.org/wiki/Konrad_von_Hochstaden
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Archbishop of Köln {Cologne}, Germany
+  du: null
+  au: '1261-09-28'
+- titre: archevêque
+  du: null
+  au: null
+- titre: archevêque de Cologne
+  du: '1239-10-28'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Hasak%20-%20Der%20Dom%20zu%20K%C3%B6ln%20-%20027%20Konrad%20von%20Hochstaden.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q77882
+  catholic_hierarchy: bhochstk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:44:30+00:00'
+  completeness: 0.75

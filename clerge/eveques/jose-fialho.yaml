@@ -1,0 +1,52 @@
+slug: jose-fialho
+nom: José Fialho
+nom_complet: José de Fialho, O. Cist.
+naissance: '1673-12-13'
+deces: '1741-03-18'
+naissance_lieu: Vila Nova de Cerveira
+deces_lieu: Lisboa, Patriarchate of Lisboa {Lisbon}
+rang: archeveque
+nationalite: Q45670
+tampon: ordo_validus
+sacre:
+  date: '1725-05-13'
+  consecrateur_principal: tomas-de-almeida
+  co_consecrateurs:
+  - joao-cardoso-castelo
+  - joseph-a-jesu-maria-fonseca-o-p
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfialho.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Olinda, Brazil
+  du: '1725-02-21'
+  au: null
+- titre: Bishop of Guarda, Portugal
+  du: null
+  au: '1741-03-18'
+- titre: évêque de Guarda
+  du: '1739-02-22'
+  au: null
+- titre: évêque diocésain
+  du: '1725-02-21'
+  au: null
+- titre: archevêque de Salvador de Bahia
+  du: '1738-07-21'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q10309408
+  catholic_hierarchy: bfialho
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:42:20+00:00'
+  completeness: 1.0

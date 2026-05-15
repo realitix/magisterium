@@ -1,0 +1,44 @@
+slug: alexander-da-silva
+nom: Alexander da Silva
+nom_complet: null
+naissance: '1623'
+deces: '1681-02-03'
+naissance_lieu: Braga, Archdiocese of Braga
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1674-04-01'
+  lieu: St. Vincent, Lisboa, Patriarchate of Lisboa {Lisbon}
+  consecrateur_principal: luiz-de-sousa
+  co_consecrateurs:
+  - luis-da-silva-teles-o-ss-t
+  - cristovao-de-almeida-o-s-a
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdsilal.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Elvas, Portugal
+  du: '1673-12-18'
+  au: '1681-02-03'
+- titre: Roman Catholic Bishop of Elvas
+  du: '1673-12-18'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64751316
+  catholic_hierarchy: bdsilal
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:08:38+00:00'
+  completeness: 0.88

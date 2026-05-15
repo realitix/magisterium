@@ -1,0 +1,39 @@
+slug: john-ingleby
+nom: John Ingleby
+nom_complet: John Ingleby, O. Cart.
+naissance: '1434-07-16'
+deces: '1499'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1496-09-11'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bingleby.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: '1496-06-27'
+  au: Nov 1499&sup2;
+- titre: évêque catholique de Llandaff
+  du: '1496-07-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q16843307
+  catholic_hierarchy: bingleby
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T05:53:40+00:00'
+  completeness: 0.38

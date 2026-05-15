@@ -1,0 +1,43 @@
+slug: william-of-radnor
+nom: William of Radnor
+nom_complet: null
+naissance: null
+deces: '1266-01-09'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1257-01-07'
+  consecrateur_principal: boniface-of-savoy
+  co_consecrateurs:
+  - walter-de-cantilupe
+  - walter-suffield
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bradnor.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Llandaff, Wales, Great Britain
+  du: '1256-07-30'
+  au: '1266-01-09'
+- titre: évêque diocésain
+  du: '1256-08-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64762754
+  catholic_hierarchy: bradnor
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:58:13+00:00'
+  completeness: 0.88

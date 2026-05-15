@@ -1,0 +1,62 @@
+slug: paul-boudot
+nom: Paul Boudot
+nom_complet: null
+naissance: '1575'
+deces: '1635-11-11'
+naissance_lieu: Salins
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1619-05-12'
+  consecrateur_principal: francois-van-der-burch
+  co_consecrateurs:
+  - hermann-ottemberg
+  - antoine-de-haynin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bboudetp.html
+  - https://fr.wikipedia.org/wiki/Paul_Boudot
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Cambrai, France
+  du: '1613-04-22'
+  au: null
+- titre: Titular Bishop of Cardicium
+  du: '1613-04-22'
+  au: null
+- titre: Bishop of Saint-Omer, France
+  du: '1619-01-14'
+  au: null
+- titre: Bishop of Arras, France
+  du: null
+  au: '1635-11-11'
+- titre: évêque diocésain
+  du: '1619-01-14'
+  au: null
+- titre: évêque auxiliaire
+  du: '1613-04-22'
+  au: null
+- titre: évêque d'Arras
+  du: '1626-08-18'
+  au: null
+- titre: évêque titulaire
+  du: '1613-04-22'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q21511537
+  catholic_hierarchy: bboudetp
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:43:50+00:00'
+  completeness: 0.88

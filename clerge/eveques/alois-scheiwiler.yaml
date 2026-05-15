@@ -1,0 +1,47 @@
+slug: alois-scheiwiler
+nom: Alois Scheiwiler
+nom_complet: null
+naissance: '1872-04-04'
+deces: '1938-07-20'
+naissance_lieu: Gossau
+deces_lieu: null
+rang: eveque
+nationalite: Q39
+tampon: ordo_validus
+sacre:
+  date: '1930-10-05'
+  consecrateur_principal: pie-xii
+  co_consecrateurs:
+  - georg-schmid-von-gruneck
+  - joseph-ambuhl
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bschei.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Sankt Gallen, Switzerland
+  du: null
+  au: '1938-07-20'
+- titre: évêque diocésain
+  du: '1930-06-23'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Alois%20Scheiwiller%201907%201872-1938.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q3612869
+  catholic_hierarchy: bschei
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:44+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:00:38+00:00'
+  completeness: 1.0

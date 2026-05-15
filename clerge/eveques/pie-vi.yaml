@@ -1,0 +1,52 @@
+slug: pie-vi
+nom: Pie VI
+nom_complet: Pius VI
+naissance: '1717-12-25'
+deces: '1799-08-29'
+naissance_lieu: Cesena, Diocese of Cesena
+deces_lieu: Valence, Diocese of Valence, France
+rang: pape
+nationalite: Q170174
+tampon: ordo_validus
+sacre:
+  date: '1775-02-22'
+  lieu: Roma, Diocese of Roma {Rome}
+  consecrateur_principal: giovanni-francesco-albani
+  co_consecrateurs:
+  - henri-benoit-stuart
+  - carlo-rezzonico
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbrasga.html
+  - https://fr.wikipedia.org/wiki/Pie_VI
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Pope (Roma {Rome}, Italy)
+  du: null
+  au: '1799-08-29'
+- titre: pape
+  du: '1775-02-15'
+  au: '1799-08-29'
+- titre: cardinal
+  du: '1773-04-26'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeo%20Batoni%20-%20Ritratto%20di%20Papa%20Pio%20VI%20%28National%20Gallery%20of%20Ireland%29.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q128019
+  catholic_hierarchy: bbrasga
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:49:13+00:00'
+  completeness: 1.0

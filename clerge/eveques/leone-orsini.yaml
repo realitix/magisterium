@@ -1,0 +1,44 @@
+slug: leone-orsini
+nom: Leone Orsini
+nom_complet: null
+naissance: '1512'
+deces: '1564-05-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1545-05-10'
+  consecrateur_principal: rodolfo-cardinal-pio
+  co_consecrateurs:
+  - bernardino-jean-de-soria-o-f-m
+  - filippo-bon
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/borsinil.html
+  - https://fr.wikipedia.org/wiki/Leone_Orsini
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Fréjus, France
+  du: '1525-12-15'
+  au: '1564-05-11'
+- titre: évêque diocésain
+  du: '1525-12-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q22978668
+  catholic_hierarchy: borsinil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:56:30+00:00'
+  completeness: 0.88

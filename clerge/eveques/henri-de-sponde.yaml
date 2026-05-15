@@ -1,0 +1,51 @@
+slug: henri-de-sponde
+nom: Henri de Sponde
+nom_complet: Henricus Spondanus
+naissance: '1568-01-06'
+deces: '1643-05-18'
+naissance_lieu: Mauléon
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1626-08-16'
+  consecrateur_principal: denis-simon-de-marquemont
+  co_consecrateurs:
+  - attilio-amalteo
+  - antonio-provana
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsponde.html
+  - https://fr.wikipedia.org/wiki/Henri_de_Sponde
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers, France
+  du: '1626-07-20'
+  au: '1641-02-25'
+- titre: Bishop Emeritus of Pamiers, France
+  du: null
+  au: '1643-05-18'
+- titre: évêque diocésain
+  du: '1626-07-20'
+  au: '1641-02-25'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Sponde.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q493670
+  catholic_hierarchy: bsponde
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:34:12+00:00'
+  completeness: 1.0

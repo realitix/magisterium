@@ -1,0 +1,46 @@
+slug: andres-esteban-gomez
+nom: Andrés Esteban Gómez
+nom_complet: Andrés Esteban y Gómez
+naissance: '1766-11-09'
+deces: '1831-06-17'
+naissance_lieu: Alustante
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1815-02-19'
+  consecrateur_principal: atanasio-puyal-y-poveda
+  co_consecrateurs:
+  - pedro-inguanzo-y-rivero
+  - jose-antonio-de-azpeytia-y-saenz-de-santa-maria
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/beste.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Jaén, Spain
+  du: '1816-07-22'
+  au: '1831-06-17'
+- titre: évêque de Jaén
+  du: '1816-07-22'
+  au: null
+- titre: évêque de Ceuta
+  du: '1814-09-29'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15816748
+  catholic_hierarchy: beste
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:26:08+00:00'
+  completeness: 1.0

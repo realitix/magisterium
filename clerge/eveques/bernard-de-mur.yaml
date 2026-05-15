@@ -1,0 +1,38 @@
+slug: bernard-de-mur
+nom: Bernard de Mur
+nom_complet: Bernat de Mur
+naissance: null
+deces: '1264-11-11'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmur.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Vic, Spain
+  du: null
+  au: '1264-11-11'
+- titre: évêque diocésain
+  du: '1243-12-15'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q108528423
+  catholic_hierarchy: bmur
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:20:33+00:00'
+  completeness: 0.38

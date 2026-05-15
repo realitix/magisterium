@@ -1,0 +1,50 @@
+slug: jean-bosco-ntep
+nom: Jean-Bosco Ntep
+nom_complet: null
+naissance: '1951-04-03'
+deces: null
+naissance_lieu: Hikoamaen
+deces_lieu: null
+rang: eveque
+nationalite: Q1009
+tampon: ordo_dubius
+sacre:
+  date: '1993-07-04'
+  consecrateur_principal: christian-wiyghan-tumi
+  co_consecrateurs:
+  - santos-abril-y-castello
+  - andre-wouking
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bntep.html
+  - https://fr.wikipedia.org/wiki/Jean-Bosco_Ntep
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Eséka, Cameroon
+  du: '1993-03-22'
+  au: null
+- titre: Bishop of Edéa, Cameroon
+  du: '2004-10-15'
+  au: null
+- titre: évêque diocésain
+  du: '2004-01-01'
+  au: null
+- titre: évêque diocésain
+  du: '1993-01-01'
+  au: '2004-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1684706
+  catholic_hierarchy: bntep
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:57+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:39:40+00:00'
+  completeness: 0.88

@@ -1,0 +1,53 @@
+slug: carlo-mola-c-o
+nom: Carlo Mola, C.O.
+nom_complet: Carlo Mola
+naissance: '1832-08-30'
+deces: '1914-01-08'
+naissance_lieu: Napoli, Archdiocese of Napoli {Naples}
+deces_lieu: null
+rang: eveque
+nationalite: Q172579
+tampon: ordo_validus
+sacre:
+  date: '1893-06-18'
+  lieu: St. Apollinaire, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: lucido-maria-parocchi
+  co_consecrateurs:
+  - felix-marie-de-neckere
+  - augusto-berlucca
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmol.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Foggia, Italy
+  du: '1893-06-12'
+  au: '1909-04-29'
+- titre: Titular Bishop of Sasima
+  du: '1909-04-29'
+  au: null
+- titre: Bishop Emeritus of Foggia, Italy
+  du: null
+  au: '1914-01-08'
+- titre: évêque de Foggia
+  du: '1893-06-12'
+  au: '1909-04-29'
+- titre: évêque titulaire
+  du: '1909-04-29'
+  au: null
+fraternite: oratoriens
+photo: null
+qids:
+  wikidata: Q64708028
+  catholic_hierarchy: bmol
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T08:03:15+00:00'
+  completeness: 1.0

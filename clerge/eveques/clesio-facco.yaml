@@ -1,0 +1,44 @@
+slug: clesio-facco
+nom: Clésio Facco
+nom_complet: Clésio Facco, S.A.C.
+naissance: '1971-04-01'
+deces: null
+naissance_lieu: Nova Palma, Diocese of Santa Maria, Rio Grande do Sul
+deces_lieu: null
+rang: eveque
+nationalite: Q155
+tampon: ordo_dubius
+sacre:
+  date: '2025-08-17'
+  lieu: Sant'Anna, Cathedral, Uruguaiana, Diocese of Uruguaiana, Rio Grande do Sul
+  consecrateur_principal: leomar-antonio-brustolin
+  co_consecrateurs:
+  - jose-mario-scalon-angonese
+  - edgar-xavier-ertl
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bfacco.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Uruguaiana, Rio Grande do Sul, Brazil
+  du: '2025-05-28'
+  au: null
+- titre: évêque diocésain
+  du: '2025-05-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q134597402
+  catholic_hierarchy: bfacco
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:23:05+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T18:29:06+00:00'
+  completeness: 0.88

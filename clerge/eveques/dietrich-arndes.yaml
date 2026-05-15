@@ -1,0 +1,43 @@
+slug: dietrich-arndes
+nom: Dietrich Arndes
+nom_complet: Dietrich II. Arndes
+naissance: '1442'
+deces: '1506-08-16'
+naissance_lieu: Hamburg, Archdiocese of Bremen (and Hamburg)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1492-04-01'
+  lieu: Roma, Diocese of Roma {Rome}, Italy
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/barndes.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lübeck, Germany
+  du: '1492-02-27'
+  au: '1506-08-16'
+- titre: prince-évêque de Lübeck
+  du: '1492-03-07'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1223821
+  catholic_hierarchy: barndes
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T10:29:54+00:00'
+  completeness: 0.5

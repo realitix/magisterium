@@ -1,0 +1,41 @@
+slug: roman-von-leibnitz
+nom: Roman von Leibnitz
+nom_complet: null
+naissance: '1200'
+deces: '1179'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleibnt.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gurk, Austria
+  du: 1174&sup2;
+  au: '1179-08-17'
+- titre: évêque diocésain
+  du: '1174-01-01'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1497498
+  catholic_hierarchy: bleibnt
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:41:34+00:00'
+  completeness: 0.38

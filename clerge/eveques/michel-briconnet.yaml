@@ -1,0 +1,48 @@
+slug: michel-briconnet
+nom: Michel Briçonnet
+nom_complet: null
+naissance: '1477'
+deces: '1574'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbricm.html
+  - https://fr.wikipedia.org/wiki/Michel_Bri%C3%A7onnet
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Nîmes, France
+  du: '1515-01-07'
+  au: 1554&sup1;
+- titre: Bishop of Lodève, France
+  du: 1560&sup1;
+  au: 1561&sup2;
+- titre: Bishop Emeritus of Lodève, France
+  du: null
+  au: 1574&sup2;
+- titre: évêque de Nîmes
+  du: '1515-01-17'
+  au: '1554-01-01'
+- titre: évêque de Lodève
+  du: '1560-01-01'
+  au: '1561-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q19606866
+  catholic_hierarchy: bbricm
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:51:57+00:00'
+  completeness: 0.25

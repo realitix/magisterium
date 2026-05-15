@@ -1,0 +1,45 @@
+slug: christoph-von-stadion
+nom: Christoph von Stadion
+nom_complet: null
+naissance: '1478'
+deces: '1543-04-15'
+naissance_lieu: Schelklingen
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_validus
+sacre:
+  date: '1517-07-05'
+  lieu: Dillingen
+  consecrateur_principal: gabriel-von-eyb
+  co_consecrateurs:
+  - heinrich-negelin-nagele
+  - fabian-weickmann
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bstadi.html
+  - https://fr.wikipedia.org/wiki/Christophe_de_Stadion
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Augsburg, Germany
+  du: null
+  au: '1543-04-15'
+- titre: évêque d'Augsbourg
+  du: '1517-04-30'
+  au: '1543-04-25'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q104546
+  catholic_hierarchy: bstadi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T11:35:31+00:00'
+  completeness: 0.88

@@ -1,0 +1,55 @@
+slug: pedro-de-la-gasca
+nom: Pedro de la Gasca
+nom_complet: Pedro La Gasca
+naissance: '1494'
+deces: '1567-11-20'
+naissance_lieu: Navarregadilla, Diocese of Ávila
+deces_lieu: null
+rang: eveque
+nationalite: Q29
+tampon: ordo_validus
+sacre:
+  date: '1551-05-17'
+  lieu: Palais Royal, Barcelona, Diocese of Barcelona
+  consecrateur_principal: juan-tormo
+  co_consecrateurs:
+  - jaume-cacador
+  - juan-gonzalez-de-munebrega
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bgasca.html
+  - https://fr.wikipedia.org/wiki/Pedro_de_la_Gasca
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Palencia, Spain
+  du: '1551-04-06'
+  au: null
+- titre: Bishop of Sigüenza, Spain
+  du: '1561-06-02'
+  au: '1567-11-20'
+- titre: évêque de Sigüenza
+  du: '1561-06-12'
+  au: '1567-11-23'
+- titre: évêque de Palencia
+  du: '1551-04-16'
+  au: '1561-06-12'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20la%20Gasca.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q929681
+  catholic_hierarchy: bgasca
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T19:12:34+00:00'
+  completeness: 0.88

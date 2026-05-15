@@ -1,0 +1,41 @@
+slug: arnold-ii-von-leiningen
+nom: Arnold II von Leiningen
+nom_complet: Arnold von Leiningen
+naissance: '1100'
+deces: '1126-10-02'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q183
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleina.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Speyer, Germany
+  du: 30 May 1124&#8310;
+  au: '1126-10-02'
+- titre: évêque de Spire
+  du: '1124-06-06'
+  au: null
+- titre: évêque
+  du: null
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q695429
+  catholic_hierarchy: bleina
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:46+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:41:41+00:00'
+  completeness: 0.38

@@ -1,0 +1,44 @@
+slug: jean-antoine-auguste-belaval
+nom: Jean-Antoine-Auguste Bélaval
+nom_complet: null
+naissance: '1802-04-09'
+deces: '1881-02-04'
+naissance_lieu: Toulouse, Archdiocese of Toulouse (-Narbonne)
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1858-11-30'
+  lieu: Cathedral, Toulouse, Archdiocese of Toulouse (-Narbonne)
+  consecrateur_principal: jean-marie-mioland
+  co_consecrateurs:
+  - jean-marie-doney
+  - francois-alexandre-de-la-bouillerie
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bbelav.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Pamiers, France
+  du: null
+  au: '1881-02-04'
+- titre: évêque diocésain
+  du: '1858-07-28'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64745936
+  catholic_hierarchy: bbelav
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:33+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T15:13:12+00:00'
+  completeness: 1.0

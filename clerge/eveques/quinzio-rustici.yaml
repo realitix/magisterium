@@ -1,0 +1,40 @@
+slug: quinzio-rustici
+nom: Quinzio Rustici
+nom_complet: null
+naissance: null
+deces: '1566'
+naissance_lieu: Roma, Diocese of Roma {Rome}
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1535-03-19'
+  consecrateur_principal: girolamo-cardinal-grimaldi
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brusticq.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Mileto, Italy
+  du: '1523-11-26'
+  au: 1566&sup2;
+- titre: évêque de Mileto
+  du: '1523-12-06'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q55420278
+  catholic_hierarchy: brusticq
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:37:25+00:00'
+  completeness: 0.62

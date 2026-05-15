@@ -1,0 +1,44 @@
+slug: bartolomeo-rosa
+nom: Bartolomeo Rosa
+nom_complet: null
+naissance: '1648-07-14'
+deces: '1688-08-21'
+naissance_lieu: Muro Lucano
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1688-05-23'
+  lieu: Vallicella, Roma, Diocese of Roma {Rome}
+  consecrateur_principal: marcantonio-barbarigo
+  co_consecrateurs:
+  - pietro-de-torres
+  - costanzo-zani-o-s-b
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/brosaba.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lavello, Italy
+  du: '1688-05-17'
+  au: '1688-08-21'
+- titre: évêque diocésain
+  du: '1688-05-17'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q50874325
+  catholic_hierarchy: brosaba
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:13+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:27:05+00:00'
+  completeness: 1.0

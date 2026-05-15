@@ -1,0 +1,44 @@
+slug: rene-leclerc
+nom: René Leclerc
+nom_complet: René Leclerc, O.M.
+naissance: '1590'
+deces: '1651-02-09'
+naissance_lieu: Beauvais
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1627-02-14'
+  consecrateur_principal: guillaume-d-rsquo-hugues-o-f-m-conv
+  co_consecrateurs:
+  - claude-de-saint-bonnet-de-toiras
+  - nicolas-sanguin
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bleclercr.html
+  - https://fr.wikipedia.org/wiki/Ren%C3%A9_Le_Clerc
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Glandèves, France
+  du: '1626-09-07'
+  au: '1651-02-09'
+- titre: évêque de Glandèves
+  du: '1626-09-07'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1401368
+  catholic_hierarchy: bleclercr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:39:43+00:00'
+  completeness: 0.88

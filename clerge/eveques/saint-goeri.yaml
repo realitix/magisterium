@@ -1,0 +1,35 @@
+slug: saint-goeri
+nom: Saint Goëri
+nom_complet: Goericus
+naissance: '600'
+deces: '647'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://fr.wikipedia.org/wiki/Go%C3%ABri
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: évêque de Metz
+  du: '0629-01-01'
+  au: '0644-01-01'
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Go%C3%A9ry%20et%20ses%20filles.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q423084
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:31+00:00'
+  completeness: 0.56

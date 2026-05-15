@@ -1,0 +1,48 @@
+slug: adam-wojtkiewicz
+nom: Adam Wojtkiewicz
+nom_complet: null
+naissance: '1796-02-06'
+deces: '1870-01-04'
+naissance_lieu: Vilnius, Diocese of Vilnius, Lithuania
+deces_lieu: Vilnius, Diocese of Vilnius, Lithuania
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1853-01-23'
+  lieu: Sainte Catherine, St. Petersburg
+  consecrateur_principal: ignacy-ho-owinski
+  co_consecrateurs:
+  - wac-aw-zylinski
+  - ferdinand-kahn
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bwojtk.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Minsk, Belarus
+  du: '1852-03-18'
+  au: '1870-01-04'
+- titre: Roman Catholic Bishop of Minsk
+  du: '1852-03-18'
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/AWajtkiewicz.jpg
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q9140505
+  catholic_hierarchy: bwojtk
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:21:15+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T12:58:16+00:00'
+  completeness: 1.0

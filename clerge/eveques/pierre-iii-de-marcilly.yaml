@@ -1,0 +1,44 @@
+slug: pierre-iii-de-marcilly
+nom: Pierre III de Marcilly
+nom_complet: Pierre de Marcilly
+naissance: null
+deces: '1572-08-16'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1558-10-09'
+  consecrateur_principal: louis-guillart
+  co_consecrateurs:
+  - charles-boucher-o-s-b
+  - charles-guillart
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmarcil.html
+  - https://fr.wikipedia.org/wiki/Pierre_de_Marcilly
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Autun, France
+  du: '1558-03-23'
+  au: '1572-08-16'
+- titre: évêque diocésain
+  du: '1558-04-02'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q15967044
+  catholic_hierarchy: bmarcil
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.44
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:25:05+00:00'
+  completeness: 0.88

@@ -1,0 +1,47 @@
+slug: georges-lagrange
+nom: Georges Lagrange
+nom_complet: null
+naissance: '1929-11-23'
+deces: '2014-12-11'
+naissance_lieu: Châtillon-sur-Chalaronne
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_dubius
+sacre:
+  date: '1988-09-18'
+  consecrateur_principal: hyacinthe-thiandoum
+  co_consecrateurs:
+  - bernard-panafieu
+  - guy-bagnard
+  rite: nouveau
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/blagrange.html
+  - https://fr.wikipedia.org/wiki/Georges_Lagrange_(%C3%A9v%C3%AAque)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Gap, France
+  du: '1988-07-11'
+  au: '2003-11-18'
+- titre: Bishop Emeritus of Gap, France
+  du: null
+  au: '2014-12-11'
+- titre: évêque de Gap
+  du: '1988-07-11'
+  au: '2003-11-18'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q1508978
+  catholic_hierarchy: blagrange
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:22:26+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T06:28:13+00:00'
+  completeness: 1.0

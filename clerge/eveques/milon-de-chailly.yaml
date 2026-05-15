@@ -1,0 +1,39 @@
+slug: milon-de-chailly
+nom: Milon de Chailly
+nom_complet: null
+naissance: null
+deces: '1321-03-15'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_incertus
+sacre:
+  consecrateur_principal: pierre-bertrand-1280
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bchailly.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Orléans, France
+  du: '1312-01-17'
+  au: '1321-03-15'
+- titre: évêque diocésain
+  du: '1312-01-25'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q96588592
+  catholic_hierarchy: bchailly
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.33
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T16:40:03+00:00'
+  completeness: 0.5

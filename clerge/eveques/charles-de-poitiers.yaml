@@ -1,0 +1,50 @@
+slug: charles-de-poitiers
+nom: Charles de Poitiers
+nom_complet: null
+naissance: null
+deces: '1433-12-07'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1385-08-27'
+  consecrateur_principal: amedee-de-talaru
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bpoitiec.html
+  - https://fr.wikipedia.org/wiki/Charles_de_Poitiers
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Chalons-sur-Marne, France
+  du: '1390-01-29'
+  au: null
+- titre: Bishop of Langres, France
+  du: '1413-09-20'
+  au: '1433-12-07'
+- titre: évêque de Châlons-en-Champagne
+  du: '1390-02-06'
+  au: '1413-01-01'
+- titre: évêque de Langres
+  du: '1413-09-29'
+  au: null
+- titre: administrateur apostolique
+  du: '1385-08-27'
+  au: '1386-01-01'
+fraternite: null
+photo: null
+qids:
+  wikidata: Q2960672
+  catholic_hierarchy: bpoitiec
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T09:40:40+00:00'
+  completeness: 0.5

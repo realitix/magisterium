@@ -1,0 +1,53 @@
+slug: francois-de-la-tour
+nom: François de La Tour
+nom_complet: null
+naissance: null
+deces: '1593'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1573-12-20'
+  consecrateur_principal: nicolas-langelier-lancelier
+  co_consecrateurs:
+  - roland-de-neufville
+  - jean-baptiste-le-gras
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdltourf.html
+  - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Tour
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Quimper, France
+  du: '1573-08-26'
+  au: null
+- titre: Bishop of Tréguier, France
+  du: '1583-10-14'
+  au: 1587&sup2;
+- titre: Bishop Emeritus of Tréguier, France
+  du: null
+  au: 1593&sup2;
+- titre: évêque diocésain
+  du: '1583-10-24'
+  au: '1587-01-01'
+- titre: évêque diocésain
+  du: '1573-09-05'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q3086220
+  catholic_hierarchy: bdltourf
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:36:52+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:55:38+00:00'
+  completeness: 0.75

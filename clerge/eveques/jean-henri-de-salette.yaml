@@ -1,0 +1,41 @@
+slug: jean-henri-de-salette
+nom: Jean-Henri de Salette
+nom_complet: Jean Henri de Salette
+naissance: '1588'
+deces: '1658-06-21'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_validus
+sacre:
+  date: '1630-10-06'
+  consecrateur_principal: dominique-de-vic
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bsalet.html
+  - https://fr.wikipedia.org/wiki/Jean-Henri_de_Salette
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Lescar, France
+  du: null
+  au: '1658-06-21'
+- titre: évêque de Lescar
+  du: '1625-08-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q23816524
+  catholic_hierarchy: bsalet
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:20:00+00:00'
+  completeness: 0.67
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T10:43:52+00:00'
+  completeness: 0.75

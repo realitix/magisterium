@@ -1,0 +1,46 @@
+slug: jacques-d-amboise
+nom: Jacques d'Amboise
+nom_complet: Jacques d&rsquo;Amboise
+naissance: '1440'
+deces: '1516-12-27'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: Q142
+tampon: ordo_incertus
+sacre:
+  rite: inconnu
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bdamboi.html
+  - https://fr.wikipedia.org/wiki/Jacques_d%27Amboise_(religieux)
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Bishop of Clermont, France
+  du: '1505-05-23'
+  au: '1516-12-27'
+- titre: évêque de Clermont
+  du: '1505-06-02'
+  au: null
+- titre: abbé de Cluny
+  du: null
+  au: null
+fraternite: null
+photo:
+  source: wikimedia-commons
+  source_url: http://commons.wikimedia.org/wiki/Special:FilePath/BOYER%2045%20-%20Jacques%20d%27Amboise%20%2B%201516.tif
+  licence: unknown
+  fichier: null
+qids:
+  wikidata: Q1330883
+  catholic_hierarchy: bdamboi
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.78
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-13T17:24:57+00:00'
+  completeness: 0.38

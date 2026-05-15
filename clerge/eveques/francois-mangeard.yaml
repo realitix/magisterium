@@ -1,0 +1,45 @@
+slug: francois-mangeard
+nom: François Mangeard
+nom_complet: null
+naissance: '1500'
+deces: '1584'
+naissance_lieu: null
+deces_lieu: null
+rang: eveque
+nationalite: null
+tampon: ordo_validus
+sacre:
+  date: '1560-06-08'
+  rite: ancien
+  rite_source: inferred
+  source_urls:
+  - https://www.catholic-hierarchy.org/bishop/bmangfr.html
+obediences:
+- statut: rome
+  du: null
+  au: null
+fonctions:
+- titre: Auxiliary Bishop of Langres, France
+  du: '1560-05-29'
+  au: 1584&sup1;
+- titre: Titular Bishop of Negroponte
+  du: '1560-05-29'
+  au: null
+- titre: évêque titulaire
+  du: '1560-06-08'
+  au: null
+- titre: évêque auxiliaire de Langres
+  du: '1560-06-08'
+  au: null
+fraternite: null
+photo: null
+qids:
+  wikidata: Q64746449
+  catholic_hierarchy: bmangfr
+sources:
+- source: wikidata
+  fetched_at: '2026-05-13T10:19:50+00:00'
+  completeness: 0.56
+- source: catholic-hierarchy.org
+  fetched_at: '2026-05-14T07:20:48+00:00'
+  completeness: 0.25
